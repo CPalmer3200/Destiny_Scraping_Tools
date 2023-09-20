@@ -13,8 +13,10 @@ for package in packages_to_check:
 
 import time
 import argparse
-import tweepy
 from Bio import Entrez
+from email.message import EmailMessage
+import ssl
+import smtplib
 
 
 def get_args():
@@ -39,20 +41,6 @@ def get_args():
     topic = args.topic
 
     return doi_db_loc, topic
-
-
-def publish_twitter(tweet_string):
-    api_key = 'QWVm3trwlXYaZzC1zdy2w8nx6'
-    api_secret = 'sNWFUkhxURDrthUF3cLvaNejZFODi7rh3GxEibtl4INDdRqHi5'
-    bearer_token = 'AAAAAAAAAAAAAAAAAAAAAEuapgEAAAAA%2BW7Cq8SxcYZ49zO3h4%2Fy%2BWTIiw4%3DIPejMMNVrgff9oYnhkRdY7NFx4C01fBuM3vbAvDQBUNDZ47Xtd'
-    access_token = '1696227369508315136-dWK5NSFd5wjW4RFsD5YxtZgibFmkeM'
-    secret_access = 'j2xAH1STgFGnSrUvLDwxD6uIQl7ODsCSdFhBDQIN4ArkU'
-
-    client = tweepy.Client(bearer_token, api_key, api_secret, access_token, secret_access)
-    auth = tweepy.OAuth1UserHandler(api_key, api_secret, access_token, secret_access)
-    api = tweepy.API(auth)
-    tweet = client.create_tweet(text=tweet_string)
-    return tweet
 
 
 def pubmed_scrape(query, bot_email, max_scrapes):
@@ -92,24 +80,37 @@ def doi_checker(doi_to_check, doi_db_filename):
 
 def string_formatter(title, doi):
     url = 'http://dx.doi.org/' + str(doi)
-    prelim_tweet = f'{title} ({url})'
-    if len(prelim_tweet) > 260:
-        short_title = f'{title[:151]}...'
-        tweet = f'{short_title} ({url})'
-        if len(tweet) > 260 and len(url) > 110:
-            url_replace = 'URL too long to tweet'
-            tweet = f'{short_title} ({url_replace})'
-        else:
-            tweet = f'{short_title} ({url})'
-    else:
-        tweet = prelim_tweet
-    return tweet
+    paper = f'{title} ({url})'
+    return paper
+
+
+# Define email function where a message is sent to the recipient
+def send_email(email_text):
+
+    email_sender = 'automatedscrapingbot@gmail.com'
+    email_password = 'mygx cllt nzsd stor'
+    email_receiver = 'christopher.palmer32@gmail.com'
+
+    subject = 'Recently released high-priority papers'
+    body = email_text
+
+    em = EmailMessage()
+    em['From'] = email_sender
+    em['To'] = email_receiver
+    em['Subject'] = subject
+    em.set_content(body)
+
+    context = ssl.create_default_context()
+
+    with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
+        smtp.login(email_sender, email_password)
+        smtp.sendmail(email_sender, email_receiver, em.as_string())
 
 
 if __name__ == '__main__':
     doi_db, topic_list = get_args()
     t_list = []
-    new_tweets = 0
+    email_body = ""
 
     with open(topic_list, 'r') as topic_list:
         for line in topic_list:
@@ -119,20 +120,22 @@ if __name__ == '__main__':
 
     for t in t_list:
         print(f'Performing Pubmed search for "{t}"...')
-        bot_search = pubmed_scrape(t, 'pubmedbot4@gmail.com', 15)
+        bot_search = pubmed_scrape(t, 'pubmedbot4@gmail.com', 20)
 
         for doi, info in bot_search.items():
             status, doi = doi_checker(doi, doi_db)
 
             if not status:
-                print(f'{doi} not found in database - preparing to tweet')
+                print(f'{doi} not found in database - recognised as new paper')
                 title = info['Title']  # Access the title from the info dictionary
-                to_tweet = string_formatter(title, doi)
-                publish_twitter(to_tweet)
-                print('Published to Twitter')
-                new_tweets += 1
-                time.sleep(10)
+                paper = string_formatter(title, doi)
+
+                email_body += "\n"
+                email_body += paper
             else:
                 print(f'{doi} already in database')
-                time.sleep(0.5)
-    print(f'Query complete, {new_tweets} new tweets published - returning to sleep')
+
+    if email_body != "":
+        send_email(email_body)
+
+    print(f'Query complete - returning to sleep')
