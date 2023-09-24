@@ -87,9 +87,9 @@ def string_formatter(title, doi):
 # Define email function where a message is sent to the recipient
 def send_email(email_text):
 
-    email_sender = 'automatedscrapingbot@gmail.com'
-    email_password = 'mygx cllt nzsd stor'
-    email_receiver = 'christopher.palmer32@gmail.com'
+    email_sender = 'INSERT EMAIL HERE'
+    email_password = 'INSERT PASSWORD HERE'
+    email_receiver = 'INSERT EMAIL HERE'
 
     subject = 'Recently released high-priority papers'
     body = email_text
@@ -120,7 +120,7 @@ if __name__ == '__main__':
 
     for t in t_list:
         print(f'Performing Pubmed search for "{t}"...')
-        bot_search = pubmed_scrape(t, 'pubmedbot4@gmail.com', 20)
+        bot_search = pubmed_scrape(t, 'INSERT EMAIL HERE', 20)
 
         for doi, info in bot_search.items():
             status, doi = doi_checker(doi, doi_db)
