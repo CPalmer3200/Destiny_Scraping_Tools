@@ -1,7 +1,7 @@
 import importlib
 import subprocess
 
-packages_to_check = ['bio', 'tweepy', 'argparse', 'time']
+packages_to_check = ['bio', 'argparse', 'time']
 
 for package in packages_to_check:
     try:
@@ -23,7 +23,6 @@ from email.mime.image import MIMEImage
 from email.mime.base import MIMEBase
 from email import encoders
 import datetime
-import base64
 
 
 def get_args():
@@ -93,7 +92,7 @@ def string_formatter(title, doi):
 
 # Write to the correct database
 def write_to_rank(rank, text):
-    with open(f'rank{rank}.txt', 'a') as file:
+    with open(f'rank{rank}.txt', 'a', encoding='utf-8') as file:
         file.write(text + '\n')
 
 
@@ -218,6 +217,8 @@ if __name__ == '__main__':
     queries = []
     email_body = ""
     rank = 1
+    new_paper_count = 0
+    changes = {}
 
     # Extract search queries to a list
     with open('queries.txt', 'r') as search_queries:
@@ -235,6 +236,9 @@ if __name__ == '__main__':
             status, doi = doi_checker(doi, doi_db)
 
             if not status:
+                # Add 1 to new paper count
+                new_paper_count +=1
+
                 # Format paper string
                 print(f'{doi} not found in database - recognised as new paper')
                 title = info['Title']
@@ -253,6 +257,9 @@ if __name__ == '__main__':
             else:
                 print('Logic error please check bot configuration')
 
+        # Log the changes of new papers for this rank
+        changes[rank] = new_paper_count
+
         # Add 1 to the rank variable
         rank +=1
 
@@ -266,6 +273,25 @@ if __name__ == '__main__':
         # Send the email and print confirmation
         send_email(formatted_email)
         print('High priority papers found - push email sent')
+    else:
+        print('No new high priority papers identified')
+
+    # Format Rank and New paper values
+    formatted_string = f''
+    for key, value in changes.items():
+        temp_string = f'Rank {key}: {value}, '
+        formatted_string += temp_string
+    formatted_string = formatted_string[:-2]
+
+    # Format final log string
+    date = datetime.datetime.now()
+    date = date.strftime("%H:%M %d/%m/%Y")
+    changes_log = f'{date}, {formatted_string}'
+
+    # Write to file and print
+    with open('log.txt', 'a') as log:
+        log.write(changes_log + '\n')
+    print(changes_log)
 
     # Print closing message
     print('Query complete - returning to sleep')
