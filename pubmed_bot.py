@@ -180,12 +180,18 @@ def html_formatting(email_body):
 # Define email function where a message is sent to the recipient
 def send_email(email_text):
 
+<<<<<<< HEAD
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
 
     email_sender = 'automatedscrapingbot@gmail.com'
     email_password = ''
     email_receiver = 'christopher.palmer32@gmail.com'
+=======
+    email_sender = 'INSERT EMAIL HERE'
+    email_password = 'INSERT PASSWORD HERE'
+    email_receiver = 'INSERT EMAIL HERE'
+>>>>>>> c4831a4a14546b206f70725f9b9ce8c165f5cdad
 
     subject = f'New high priority literature (XF-73 Nasal {date})'
     body = email_text
@@ -224,10 +230,16 @@ if __name__ == '__main__':
             line = line.rstrip()
             queries.append(line)
 
+<<<<<<< HEAD
     # Iterate over search queries and perform scrape
     for query in queries:
         print(f'Performing Pubmed search for "rank {rank}" topics...')
         bot_search = pubmed_scrape(query, 'automatedscrapingbot@gmail.com', 20)
+=======
+    for t in t_list:
+        print(f'Performing Pubmed search for "{t}"...')
+        bot_search = pubmed_scrape(t, 'INSERT EMAIL HERE', 20)
+>>>>>>> c4831a4a14546b206f70725f9b9ce8c165f5cdad
 
         # Check DOI for duplicate or non-dupe
         for doi, info in bot_search.items():
@@ -252,6 +264,7 @@ if __name__ == '__main__':
             else:
                 print('Logic error please check bot configuration')
 
+<<<<<<< HEAD
         # Add 1 to the rank variable
         rank +=1
 
@@ -268,3 +281,6 @@ if __name__ == '__main__':
 
     # Print closing message
     print('Query complete - returning to sleep')
+=======
+    print(f'Query complete - returning to sleep')
+>>>>>>> c4831a4a14546b206f70725f9b9ce8c165f5cdad
