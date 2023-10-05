@@ -1,14 +1,14 @@
-Impact of antibiotic pharmacokinetics in urine on recurrent bacteriuria following treatment of complicated urinary tract infections. (https://dx.doi.org/10.1128/aac.00535-23)
-Primary Feline Tauopathy: Clinical, Morphological, Immunohistochemical, and Genetic Studies. (https://dx.doi.org/10.3390/ani13182985)
-Regional changes in intestinal permeability in cirrhosis are associated with mucosal bacteria. (https://dx.doi.org/10.1097/HC9.0000000000000221)
-Literature review on the potential of urban waste for the fertilization of urban agriculture: A closer look at the metropolitan area of Barcelona. (https://dx.doi.org/10.1016/j.scitotenv.2023.167193)
-In vitro activity of new combinations of β-lactam and β-lactamase inhibitors against the Mycobacterium tuberculosis complex. (https://dx.doi.org/10.1128/spectrum.01781-23)
-The In vitro activity of carbapenems alone and in combination with β-lactamase inhibitors against difficult-to-treat mycobacteria; Mycobacterium tuberculosis, Mycobacterium abscessus, and Mycobacterium avium complex: A systematic review. (https://dx.doi.org/10.4103/ijmy.ijmy_131_23)
-Transcriptional repression during spermatogenesis in C. elegans requires TOP-2, condensin II, and the MET-2 H3K9 methyltransferase. (https://dx.doi.org/10.17912/micropub.biology.000933)
-Two-year durability of REBYOTA™ (RBL), a live biotherapeutic for the prevention of recurrent Clostridioides difficile infections. (https://dx.doi.org/10.1093/ofid/ofad456)
-The in vitro effect of new combinations of carbapenem-β-lactamase inhibitors for Mycobacterium abscessus. (https://dx.doi.org/10.1128/aac.00528-23)
-Microplastics influence on herbicides removal and biosurfactants production by a Bacillus sp. strain active against Fusarium culmorum. (https://dx.doi.org/10.1038/s41598-023-41210-5)
-Impact of acquired broad-spectrum β-lactamases on susceptibility to oral penems/carbapenems (tebipenem, sulopenem, and faropenem) alone or in combination with avibactam and taniborbactam β-lactamase inhibitors in Escherichia coli. (https://dx.doi.org/10.1128/aac.00547-23)
-Efficacy of Bezlotoxumab Against Clostridioides difficile Infection: A Case-Series Study at a University Hospital in Japan and Literature Review. (https://dx.doi.org/10.7759/cureus.42779)
-Key patient demographics shape innate immune topography in noncritical hypoxic COVID-19 pneumonia. (https://dx.doi.org/10.1172/jci.insight.166110)
-Metformin and exercise effects on postprandial insulin sensitivity and glucose kinetics in pre-diabetic and diabetic adults. (https://dx.doi.org/10.1152/ajpendo.00118.2023)
+Impact of antibiotic pharmacokinetics in urine on recurrent bacteriuria following treatment of complicated urinary tract infections.|https://dx.doi.org/10.1128/aac.00535-23
+Primary Feline Tauopathy: Clinical, Morphological, Immunohistochemical, and Genetic Studies.|https://dx.doi.org/10.3390/ani13182985
+Regional changes in intestinal permeability in cirrhosis are associated with mucosal bacteria.|https://dx.doi.org/10.1097/HC9.0000000000000221
+Literature review on the potential of urban waste for the fertilization of urban agriculture: A closer look at the metropolitan area of Barcelona.|https://dx.doi.org/10.1016/j.scitotenv.2023.167193
+In vitro activity of new combinations of β-lactam and β-lactamase inhibitors against the Mycobacterium tuberculosis complex.|https://dx.doi.org/10.1128/spectrum.01781-23
+The In vitro activity of carbapenems alone and in combination with β-lactamase inhibitors against difficult-to-treat mycobacteria; Mycobacterium tuberculosis, Mycobacterium abscessus, and Mycobacterium avium complex: A systematic review.|https://dx.doi.org/10.4103/ijmy.ijmy_131_23
+Transcriptional repression during spermatogenesis in C. elegans requires TOP-2, condensin II, and the MET-2 H3K9 methyltransferase.|https://dx.doi.org/10.17912/micropub.biology.000933
+Two-year durability of REBYOTA™ (RBL), a live biotherapeutic for the prevention of recurrent Clostridioides difficile infections.|https://dx.doi.org/10.1093/ofid/ofad456
+The in vitro effect of new combinations of carbapenem-β-lactamase inhibitors for Mycobacterium abscessus.|https://dx.doi.org/10.1128/aac.00528-23
+Microplastics influence on herbicides removal and biosurfactants production by a Bacillus sp. strain active against Fusarium culmorum.|https://dx.doi.org/10.1038/s41598-023-41210-5
+Impact of acquired broad-spectrum β-lactamases on susceptibility to oral penems/carbapenems (tebipenem, sulopenem, and faropenem) alone or in combination with avibactam and taniborbactam β-lactamase inhibitors in Escherichia coli.|https://dx.doi.org/10.1128/aac.00547-23
+Efficacy of Bezlotoxumab Against Clostridioides difficile Infection: A Case-Series Study at a University Hospital in Japan and Literature Review.|https://dx.doi.org/10.7759/cureus.42779
+Key patient demographics shape innate immune topography in noncritical hypoxic COVID-19 pneumonia.|https://dx.doi.org/10.1172/jci.insight.166110
+Metformin and exercise effects on postprandial insulin sensitivity and glucose kinetics in pre-diabetic and diabetic adults.|https://dx.doi.org/10.1152/ajpendo.00118.2023

@@ -1,19 +1,17 @@
-Classification of Post-Pancreatectomy Readmissions and Opportunities for Targeted Mitigation Strategies. (https://dx.doi.org/10.1097/SLA.0000000000006112)
-Characteristics and management of patients undergoing emergency surgery for diabetic foot attack. (https://dx.doi.org/10.14744/tjtes.2023.06713)
-Determination of risk factors for conversion from laparoscopic to open appendectomy in patients with acute appendicitis. (https://dx.doi.org/10.14744/tjtes.2023.94955)
-Investigation of the effects of clinical parameters on mortality in patients with necrotizing fasciitis. (https://dx.doi.org/10.14744/tjtes.2023.31024)
-Surgical Technique for Varus Deformity Correction of Below-Knee Stump in a Paediatric Patient. (https://dx.doi.org/10.7759/cureus.44477)
-Revision Arthroplasty for Bilateral McKee-Farrar Hip Prostheses 48 Years Following Implantation. (https://dx.doi.org/10.7759/cureus.44465)
-Emergency laparotomy for peritonitis in the elderly: A Multicentre observational study of outcomes in Sub-Saharan Africa. (https://dx.doi.org/10.1016/j.afjem.2023.08.005)
-The obesity paradox in Japanese COVID-19 patients. (https://dx.doi.org/10.7150/ijms.86933)
-Analysis of Postoperative Distal Radius Fracture Outcomes in the Setting of Osteopenia and Osteoporosis for Patients with Comorbid Conditions. (https://dx.doi.org/10.1016/j.jhsg.2023.04.005)
-Spectrum of activity of Salmonella anti-biofilm compounds: Evaluation of activity against biofilm-forming ESKAPE pathogens. (https://dx.doi.org/10.1016/j.bioflm.2023.100158)
-Serotypes, virulence factors and multilocus sequence typing of Glaesserella parasuis from diseased pigs in Taiwan. (https://dx.doi.org/10.7717/peerj.15823)
-Human Paenibacillus Infections: A Systematic Review with Comparison of Adult and Infant Cases. (https://dx.doi.org/10.1101/2023.09.19.23295794)
-Supernumerary intranasal tooth: case report and review of the literature. (https://dx.doi.org/10.1093/jscr/rjad537)
-A meta-analysis of cases of Rosai Dorfman disease reported on the African continent and a description of two cases from a tertiary academic hospital in Johannesburg, South Africa. (https://dx.doi.org/10.11604/pamj.2023.45.130.40709)
-The examination of some virulence factors in S. aureus isolates obtained from the healthy human population, sheep mastitis, and cheese. (https://dx.doi.org/10.22099/IJVR.2023.43730.6410)
-Incarcerated Inguinal Hernia Containing a Gallstone Found Decades After a Laparoscopic Cholecystectomy. (https://dx.doi.org/10.7759/cureus.44518)
-Are Antibiotics the New Appendectomy? (https://dx.doi.org/10.7759/cureus.44506)
-Acquired Ventricular Septal Defect in Panton-Valentine Leukocidin-Positive Staphylococcus aureus Infective Endocarditis. (https://dx.doi.org/10.7759/cureus.44559)
-Utilizing Infantile Spasm Seizure Activity as a Baseline Vital in the Setting of Acute Pseudomonas aeruginosa Pneumonia. (https://dx.doi.org/10.7759/cureus.46269)
+The Clinical and Economic Burden of Antibiotic Use in Pediatric Patients with Varicella Infection: a Retrospective Cohort Analysis of Real-World Data in England.|https://dx.doi.org/10.1093/infdis/jiad420
+Bilateral gluteal reconstruction with deep inferior epigastric perforator flaps and saphenofemoral arteriovenous loops.|https://dx.doi.org/10.1002/micr.31120
+Outcome of hip resurfacing revision through the Hueter-anterior approach.|https://dx.doi.org/10.1177/11207000231200416
+Nondental Invasive Procedures and Risk of Infective Endocarditis: Time for a Revisit: A Science Advisory From the American Heart Association.|https://dx.doi.org/10.1161/CIR.0000000000001180
+Effect of operative time in outcomes following surgical fixation of hip fractures: a multivariable regression analysis of 35,710 patients.|https://dx.doi.org/10.1177/11207000231203527
+TLR7 promotes chronic airway disease in RSV-infected mice.|https://dx.doi.org/10.3389/fimmu.2023.1240552
+Self-Care Behaviour of Patients With Breast Cancer in the Management of Side Effects of Chemotherapy.|https://dx.doi.org/10.7759/cureus.44586
+Colonization of extended-spectrum β-lactamase-producing Enterobacteriaceae does not affect subsequent infection and liver transplant outcomes: a retrospective observational cohort study.|https://dx.doi.org/10.3389/fpubh.2023.1207889
+A Pilot Study of Mitochondrial Response to an In Vivo Prosthetic Joint Staphylococcus aureus Infection Model.|https://dx.doi.org/10.1002/jor.25696
+What we learned from steroid therapy in the COVID-19 pandemic.|https://dx.doi.org/10.4103/njcp.njcp_110_23
+Open prostatectomy for benign prostatic hyperplasia: A critical analysis of patient presentation and surgical outcomes in a contemporary series.|https://dx.doi.org/10.4103/njcp.njcp_55_23
+Quantification and comparison of salivary neutrophils in periodontal health and disease.|https://dx.doi.org/10.4103/njcp.njcp_3_23
+Outcomes of early fiberoptic bronchoscopic sputum aspiration and lavage after thoracoscopic and laparoscopic esophageal cancer surgery: a randomized clinical trial.|https://dx.doi.org/10.1186/s13019-023-02370-7
+Comparison of central venous catheter thoracic drainage and traditional closed thoracic drainage following minimally invasive surgery for esophageal carcinoma: a retrospective analysis.|https://dx.doi.org/10.1186/s13019-023-02373-4
+Comparison of two surgical interventions for lumbar brucella spondylitis in adults: a retrospective analysis.|https://dx.doi.org/10.1038/s41598-023-43812-5
+Radical debridement guided by advanced imaging and frequent monitoring is an effective approach for the treatment of odontogenic abscesses and jaw osteomyelitis in rabbits: a review of 200 cases (2018-2023).|https://dx.doi.org/10.2460/javma.23.06.0332
+Medieval (arrow) weapon injuries in contemporary surgical practice: Impaled posterior thoracic wall arrowhead leading to haemo-thorax: Management protocols. Case report.|https://dx.doi.org/10.1016/j.ijscr.2023.108866

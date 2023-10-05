@@ -1,20 +1,19 @@
-Effectiveness of piperonyl butoxide and pyrethroid-treated long-lasting insecticidal nets (LLINs) versus pyrethroid-only LLINs with and without indoor residual spray against malaria infection: third year results of a cluster, randomised controlled, two-by-two factorial design trial in Tanzania. (https://dx.doi.org/10.1186/s12936-023-04727-8)
-Outcomes of Early versus Standard Closure of Diverting Ileostomy after Proctectomy: Meta-analysis and Meta-regression Analysis of Randomized Controlled Trials. (https://dx.doi.org/10.1097/SLA.0000000000006109)
-Invasive pneumococcal disease and potential impact of pneumococcal conjugate vaccines among adults, including persons experiencing homelessness - Alaska, 2011-2020. (https://dx.doi.org/10.1093/cid/ciad597)
-Serologic Immunity to Tetanus in the United States, National Health and Nutrition Examination Survey, 2015-2016. (https://dx.doi.org/10.1093/cid/ciad598)
-Radiotherapy for Postoperative Vaginal Recurrences of Cervical Cancer Patients: Analysis of Recurrent Causes and Prognosis. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.1876)
-Delayed Nipple-Areola Complex Radiotherapy after Nipple Sparing Mastectomy and Immediate Reconstruction for Invasive Breast Cancer or DCIS: Long-Term Results of a Phase I Study. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.1087)
-Prospective Clinical Trial of Premastectomy Radiotherapy Followed by Immediate Breast Reconstruction for Operable Breast Cancer. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.1030)
-Management of soft tissues in patients with periprosthetic joint infection. (https://dx.doi.org/10.1186/s42836-023-00205-3)
-Comparison of bacterial culture with BioFire® FilmArray® multiplex PCR screening of archived cerebrospinal fluid specimens from children with suspected bacterial meningitis in Nigeria. (https://dx.doi.org/10.1186/s12879-023-08645-7)
-Cloxacillin plus fosfomycin versus cloxacillin alone for methicillin-susceptible Staphylococcus aureus bacteremia: a randomized trial. (https://dx.doi.org/10.1038/s41591-023-02569-0)
-Endoscopic treatment of primary obstructive megaureter with high pressure balloon dilation in infants. (https://dx.doi.org/10.1016/j.jpurol.2023.09.007)
-Improving fragility hip fracture care through data: a multicentre experience from a country with an emerging economy during the COVID-19 pandemic. (https://dx.doi.org/10.1136/bmjoq-2023-002299)
-Peripheral and Placental Prevalence of Sulfadoxine-Pyrimethamine Resistance Markers in Plasmodium falciparum among Pregnant Women in Southern Province, Rwanda. (https://dx.doi.org/10.4269/ajtmh.23-0225)
-Profile of Cutaneous Bacterial Flora in Pemphigus Patients. (https://dx.doi.org/10.1055/s-0043-1768635)
-Invasive Fusarium rhinosinusitis in COVID-19 patients: report of three cases with successful management. (https://dx.doi.org/10.3389/fcimb.2023.1247491)
-Tuberculous arthritis of native joints - a systematic review and European Bone and Joint Infection Society workgroup report. (https://dx.doi.org/10.5194/jbji-8-189-2023)
-The influence of a therapeutic drug monitoring service on vancomycin associated nephrotoxicity. (https://dx.doi.org/10.1002/jcph.2363)
-IWGDF/IDSA Guidelines on the Diagnosis and Treatment of Diabetes-related Foot Infections (IWGDF/IDSA 2023). (https://dx.doi.org/10.1093/cid/ciad527)
-IWGDF/IDSA guidelines on the diagnosis and treatment of diabetes-related foot infections (IWGDF/IDSA 2023). (https://dx.doi.org/10.1002/dmrr.3687)
-Use of Respiratory Syncytial Virus Vaccines in Older Adults: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023. (https://dx.doi.org/10.1016/j.ajt.2023.09.003)
+Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: A population-based, statewide cohort study.|https://dx.doi.org/10.1007/s11606-023-08419-6
+Optimal selection of daily satellite precipitation product based on structural similarity index at 1 km resolution for the Pra catchment, Ghana.|https://dx.doi.org/10.1038/s41598-023-43075-0
+The pharmacokinetics and pharmacodynamics of continuous infusion vancomycin in adult people with cystic fibrosis.|https://dx.doi.org/10.1002/ppul.26714
+Monkeypox scenario in India: a review study.|https://dx.doi.org/10.1515/mr-2023-0004
+Tetanus, Diphtheria, and Acellular Pertussis Vaccination Coverage Among Publicly Insured Pregnant Women, U.S., 2016-2019.|https://dx.doi.org/10.1016/j.focus.2022.100060
+Urinary tract infection in the context of mini-invasive procedures after kidney transplantation.|https://dx.doi.org/10.4149/BLL_2023_110
+Opioid prescription rates associated with surgery among adolescents in the United States from 2015 to 2020.|https://dx.doi.org/10.1111/pan.14753
+The elimination of hepatitis D as a public health problem: Needs and challenges.|https://dx.doi.org/10.1111/jvh.13891
+Congenital Retrosigmoid Cholesteatoma: Case Series and Literature Review.|https://dx.doi.org/10.5152/iao.2023.22798
+Effectiveness of piperonyl butoxide and pyrethroid-treated long-lasting insecticidal nets (LLINs) versus pyrethroid-only LLINs with and without indoor residual spray against malaria infection: third year results of a cluster, randomised controlled, two-by-two factorial design trial in Tanzania.|https://dx.doi.org/10.1186/s12936-023-04727-8
+Outcomes of Early versus Standard Closure of Diverting Ileostomy after Proctectomy: Meta-analysis and Meta-regression Analysis of Randomized Controlled Trials.|https://dx.doi.org/10.1097/SLA.0000000000006109
+Invasive pneumococcal disease and potential impact of pneumococcal conjugate vaccines among adults, including persons experiencing homelessness - Alaska, 2011-2020.|https://dx.doi.org/10.1093/cid/ciad597
+Serologic Immunity to Tetanus in the United States, National Health and Nutrition Examination Survey, 2015-2016.|https://dx.doi.org/10.1093/cid/ciad598
+Management of soft tissues in patients with periprosthetic joint infection.|https://dx.doi.org/10.1186/s42836-023-00205-3
+Comparison of bacterial culture with BioFire® FilmArray® multiplex PCR screening of archived cerebrospinal fluid specimens from children with suspected bacterial meningitis in Nigeria.|https://dx.doi.org/10.1186/s12879-023-08645-7
+Cloxacillin plus fosfomycin versus cloxacillin alone for methicillin-susceptible Staphylococcus aureus bacteremia: a randomized trial.|https://dx.doi.org/10.1038/s41591-023-02569-0
+Endoscopic treatment of primary obstructive megaureter with high pressure balloon dilation in infants.|https://dx.doi.org/10.1016/j.jpurol.2023.09.007
+Improving fragility hip fracture care through data: a multicentre experience from a country with an emerging economy during the COVID-19 pandemic.|https://dx.doi.org/10.1136/bmjoq-2023-002299
+Peripheral and Placental Prevalence of Sulfadoxine-Pyrimethamine Resistance Markers in Plasmodium falciparum among Pregnant Women in Southern Province, Rwanda.|https://dx.doi.org/10.4269/ajtmh.23-0225

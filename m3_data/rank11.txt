@@ -1,16 +1,16 @@
-Group B Streptococcus Screening and Treatment Adherence in Pregnancy: A Retrospective Cohort Study and Opportunities for Improvement. (https://dx.doi.org/10.1016/j.focus.2022.100028)
-Incidence of Central Line-Associated Bloodstream Infection in a Tertiary Care Hospital in Northern India: A Prospective Study. (https://dx.doi.org/10.7759/cureus.44501)
-Osmotic Demyelination Syndrome in a Normonatremic Patient Under Treatment With Proton Pump Inhibitors. (https://dx.doi.org/10.7759/cureus.44472)
-Partnering essential oils with antibiotics: proven therapies against bovine Staphylococcus aureus mastitis. (https://dx.doi.org/10.3389/fcimb.2023.1265027)
-Case report: Successful treatment of recurrent E. coli infection with bacteriophage therapy for patient suffering from chronic bacterial prostatitis. (https://dx.doi.org/10.3389/fphar.2023.1243824)
-Invasive Sinusitis With Arcanobacterium haemolyticum and Fusobacterium necrophorum Complicated by Subdural Empyema in an Immunocompetent Adolescent Patient. (https://dx.doi.org/10.7759/cureus.44517)
-Tigecycline Tango: A Case of Antibiotic-Induced Pancreatitis. (https://dx.doi.org/10.7759/cureus.44538)
-Community-associated methicillin-resistant Staphylococcus aureus infection of diabetic foot ulcers in an eastern diabetic foot center in a tertiary hospital in China: a retrospective study. (https://dx.doi.org/10.1186/s12879-023-08631-z)
-Bioequivalence Evaluation of Topical Metronidazole Products Using Dermal Microdialysis in New Zealand Rabbits. (https://dx.doi.org/10.1208/s12249-023-02660-2)
-Transient reactive phlebitis and intravenous ciprofloxacin: Is there an association? (https://dx.doi.org/10.1136/bcr-2022-254289)
-A blinded in vitro analysis of the intrinsic immunogenicity of hepatotoxic drugs: implications for pre-clinical risk assessment. (https://dx.doi.org/10.1093/toxsci/kfad101)
-Treatment of Dientamoeba fragilis: A retrospective Finnish analysis of faecal clearance and clinical cure comparing four antiprotozoal drugs. (https://dx.doi.org/10.1016/j.nmni.2023.101179)
-Perturbation of Gut Microbiota Modulated the Abscopal Effects of Immunoradiotherapy in Rectal Cancer. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.2440)
-Influence of Bacterial Metabolites on the Systemic Antitumor Immune Response after Radiation Therapy in Combination with Immune Checkpoint Inhibitors. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.1142)
-An integrated pipeline for prediction of Clostridioides difficile infection. (https://dx.doi.org/10.1038/s41598-023-41753-7)
-Two-stage reconstruction using a vancomycin-impregnated cement spacer for finger osteomyelitis with bone and joint destruction. (https://dx.doi.org/10.1016/j.hansur.2023.09.369)
+Evaluation of an Empiric Vancomycin Dosing Protocol on Goal Troughs and Acute Kidney Injury in a Neonatal Intensive Care Unit.|https://dx.doi.org/10.5863/1551-6776-28.4.335
+Bimetal-oxide (Fe/Co) modified bagasse-waste carbon coated on lead oxide-battery electrode for metronidazole removal.|https://dx.doi.org/10.1016/j.jenvman.2023.119104
+A protein-free vaccine stimulates innate immunity and protects against nosocomial pathogens.|https://dx.doi.org/10.1126/scitranslmed.adf9556
+O antigen biogenesis sensitises Escherichia coli K-12 to bile salts, providing a plausible explanation for its evolutionary loss.|https://dx.doi.org/10.1371/journal.pgen.1010996
+EFFICACY AND SAFETY OF GEMIFLOXACIN CONTAINING TREATMENT REGIMEN IN FIRST-LINE TREATMENT OF HELICOBACTER PYLORI.|https://dx.doi.org/10.1590/S0004-2803.230302-23-51
+The pharmacokinetics and pharmacodynamics of continuous infusion vancomycin in adult people with cystic fibrosis.|https://dx.doi.org/10.1002/ppul.26714
+Are enterococcal bloodstream infections an independent risk factor for a poorer 5-year survival or just a marker for severity of illness?-The Munich multicentric enterococci cohort.|https://dx.doi.org/10.1128/spectrum.02585-23
+Incidence of Central Line-Associated Bloodstream Infection in a Tertiary Care Hospital in Northern India: A Prospective Study.|https://dx.doi.org/10.7759/cureus.44501
+Osmotic Demyelination Syndrome in a Normonatremic Patient Under Treatment With Proton Pump Inhibitors.|https://dx.doi.org/10.7759/cureus.44472
+Partnering essential oils with antibiotics: proven therapies against bovine Staphylococcus aureus mastitis.|https://dx.doi.org/10.3389/fcimb.2023.1265027
+Case report: Successful treatment of recurrent E. coli infection with bacteriophage therapy for patient suffering from chronic bacterial prostatitis.|https://dx.doi.org/10.3389/fphar.2023.1243824
+Invasive Sinusitis With Arcanobacterium haemolyticum and Fusobacterium necrophorum Complicated by Subdural Empyema in an Immunocompetent Adolescent Patient.|https://dx.doi.org/10.7759/cureus.44517
+Tigecycline Tango: A Case of Antibiotic-Induced Pancreatitis.|https://dx.doi.org/10.7759/cureus.44538
+Community-associated methicillin-resistant Staphylococcus aureus infection of diabetic foot ulcers in an eastern diabetic foot center in a tertiary hospital in China: a retrospective study.|https://dx.doi.org/10.1186/s12879-023-08631-z
+Bioequivalence Evaluation of Topical Metronidazole Products Using Dermal Microdialysis in New Zealand Rabbits.|https://dx.doi.org/10.1208/s12249-023-02660-2
+Transient reactive phlebitis and intravenous ciprofloxacin: Is there an association?|https://dx.doi.org/10.1136/bcr-2022-254289

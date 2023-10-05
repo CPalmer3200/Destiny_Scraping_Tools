@@ -1,21 +1,20 @@
-Structure and Function of the α-Hydroxylation Bimodule of the Mupirocin Polyketide Synthase. (https://dx.doi.org/10.1002/anie.202312514)
-Prevalence and Characterization of Staphylococcus aureus Isolated from Retail Raw Milk Samples in Chennai, India. (https://dx.doi.org/10.1089/fpd.2023.0050)
-Genetic diversity of Staphylococcus aureus isolated from ear infections in Iran: Emergence of CC8/ST239-SCCmec III as major genotype. (https://dx.doi.org/10.1556/030.2023.02081)
-Topical antibiotics prophylaxis for infections of indwelling pleural/peritoneal catheters (TAP-IPC): A pilot study. (https://dx.doi.org/10.1111/resp.14595)
-Formulation and Characterization of Mupirocin Nanomicelles in Insulin-Based Gel for Dermatological Application. (https://dx.doi.org/10.4103/jpbs.jpbs_172_23)
-Antibiotic hyper-resistance in a class I aminoacyl-tRNA synthetase with altered active site signature motif. (https://dx.doi.org/10.1038/s41467-023-41244-3)
-Identification of Vancomycin Resistance in Methicillin-resistant Staphylococcus aureus in two macaque species and decolonization and long-term prevention of recolonization in Cynomolgus Macaques (Macaca fascicularis). (https://dx.doi.org/10.3389/fimmu.2023.1244637)
-Mupirocin loaded core-shell pluronic-pectin-keratin nanofibers improve human keratinocytes behavior, angiogenic activity and wound healing. (https://dx.doi.org/10.1016/j.ijbiomac.2023.126700)
-An antibacterial Multi-Layered scaffold fabricated by 3D printing and electrospinning methodologies for skin tissue regeneration. (https://dx.doi.org/10.1016/j.ijpharm.2023.123357)
-Prevention of ICU-acquired infection with decontamination regimen in immunocompromised patients: a pre/post observational study. (https://dx.doi.org/10.1007/s10096-023-04650-5)
-Comparison of Disk Diffusion and Agar Dilution Method for the Detection of Mupirocin Resistance in Staphylococcal Isolates from Skin and Soft Tissue Infections. (https://dx.doi.org/10.1055/s-0042-1760672)
-Induced Fit Describes Ligand Binding to Membrane-Associated Cytochrome P450 3A4. (https://dx.doi.org/10.1124/molpharm.123.000698)
-Impact of Bundled Intervention on Outcomes of Patients Undergoing Clean Orthopedic Surgeries With Hardware Implants: Small Prospective Randomized Controlled Trial. (https://dx.doi.org/10.1089/sur.2023.119)
-Efficacy of a Novel Antibacterial Agent Exeporfinium Chloride, (XF-73), Against Antibiotic-Resistant Bacteria in Mouse Superficial Skin Infection Models. (https://dx.doi.org/10.2147/IDR.S417231)
-Antibiotic susceptibility and clonal distribution of Staphylococcus aureus from pediatric skin and soft tissue infections: 10-year trends in multicenter investigation in China. (https://dx.doi.org/10.3389/fcimb.2023.1179509)
-Antimicrobial resistome of coagulase-negative staphylococci from nasotracheal cavities of nestlings of Ciconia ciconia in Southern Spain: Detection of mecC-SCCmec type-XI-carrying S. lentus. (https://dx.doi.org/10.1016/j.cimid.2023.102012)
-Associated Outcomes of Different Intravenous Antibiotics Combined with 2% Mupirocin Ointment in the Treatment of Pediatric Patients with Staphylococcal Scalded Skin Syndrome. (https://dx.doi.org/10.2147/CCID.S417764)
-Conservative Management of a Rare Entity-Aplasia Cutis Congenita: A Case Report. (https://dx.doi.org/10.1097/PSN.0000000000000511)
-Mupirocin enhances the biofilm formation of Staphylococcus epidermidis in an atlE-dependent manner. (https://dx.doi.org/10.1016/j.ijantimicag.2023.106904)
-Dressings for Wound Infection Prophylaxis in Colorectal Surgery: A Review. (https://dx.doi.org/10.52198/23.STI.42.GS1697)
-Lupus Erythematosus Profundus with Multiple Overlying Cutaneous Ulcerations: A Rare Case. (https://dx.doi.org/10.2147/CCID.S430068)
+Antiseptics and mupirocin resistance in clinical, environmental, and colonizing coagulase negative Staphylococcus isolates.|https://dx.doi.org/10.1186/s13756-023-01310-3
+Lupus Erythematosus Profundus with Multiple Overlying Cutaneous Ulcerations: A Rare Case.|https://dx.doi.org/10.2147/CCID.S430068
+Structure and Function of the α-Hydroxylation Bimodule of the Mupirocin Polyketide Synthase.|https://dx.doi.org/10.1002/anie.202312514
+Prevalence and Characterization of Staphylococcus aureus Isolated from Retail Raw Milk Samples in Chennai, India.|https://dx.doi.org/10.1089/fpd.2023.0050
+Genetic diversity of Staphylococcus aureus isolated from ear infections in Iran: Emergence of CC8/ST239-SCCmec III as major genotype.|https://dx.doi.org/10.1556/030.2023.02081
+Topical antibiotics prophylaxis for infections of indwelling pleural/peritoneal catheters (TAP-IPC): A pilot study.|https://dx.doi.org/10.1111/resp.14595
+Formulation and Characterization of Mupirocin Nanomicelles in Insulin-Based Gel for Dermatological Application.|https://dx.doi.org/10.4103/jpbs.jpbs_172_23
+Antibiotic hyper-resistance in a class I aminoacyl-tRNA synthetase with altered active site signature motif.|https://dx.doi.org/10.1038/s41467-023-41244-3
+Identification of Vancomycin Resistance in Methicillin-resistant Staphylococcus aureus in two macaque species and decolonization and long-term prevention of recolonization in Cynomolgus Macaques (Macaca fascicularis).|https://dx.doi.org/10.3389/fimmu.2023.1244637
+Mupirocin loaded core-shell pluronic-pectin-keratin nanofibers improve human keratinocytes behavior, angiogenic activity and wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.126700
+An antibacterial Multi-Layered scaffold fabricated by 3D printing and electrospinning methodologies for skin tissue regeneration.|https://dx.doi.org/10.1016/j.ijpharm.2023.123357
+Prevention of ICU-acquired infection with decontamination regimen in immunocompromised patients: a pre/post observational study.|https://dx.doi.org/10.1007/s10096-023-04650-5
+Comparison of Disk Diffusion and Agar Dilution Method for the Detection of Mupirocin Resistance in Staphylococcal Isolates from Skin and Soft Tissue Infections.|https://dx.doi.org/10.1055/s-0042-1760672
+Induced Fit Describes Ligand Binding to Membrane-Associated Cytochrome P450 3A4.|https://dx.doi.org/10.1124/molpharm.123.000698
+Impact of Bundled Intervention on Outcomes of Patients Undergoing Clean Orthopedic Surgeries With Hardware Implants: Small Prospective Randomized Controlled Trial.|https://dx.doi.org/10.1089/sur.2023.119
+Efficacy of a Novel Antibacterial Agent Exeporfinium Chloride, (XF-73), Against Antibiotic-Resistant Bacteria in Mouse Superficial Skin Infection Models.|https://dx.doi.org/10.2147/IDR.S417231
+Antibiotic susceptibility and clonal distribution of Staphylococcus aureus from pediatric skin and soft tissue infections: 10-year trends in multicenter investigation in China.|https://dx.doi.org/10.3389/fcimb.2023.1179509
+Antimicrobial resistome of coagulase-negative staphylococci from nasotracheal cavities of nestlings of Ciconia ciconia in Southern Spain: Detection of mecC-SCCmec type-XI-carrying S. lentus.|https://dx.doi.org/10.1016/j.cimid.2023.102012
+Associated Outcomes of Different Intravenous Antibiotics Combined with 2% Mupirocin Ointment in the Treatment of Pediatric Patients with Staphylococcal Scalded Skin Syndrome.|https://dx.doi.org/10.2147/CCID.S417764
+Conservative Management of a Rare Entity-Aplasia Cutis Congenita: A Case Report.|https://dx.doi.org/10.1097/PSN.0000000000000511

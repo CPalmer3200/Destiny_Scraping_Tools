@@ -1,16 +1,17 @@
-Non-Animal Stabilized Hyaluronic Acid (NASHA) Gel Marker vs. Surgical Clips for Tumor Bed Delineation in Breast Cancer Using MR-Simulation. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.1109)
-Early Results of the French Multicenter, Randomized SHARE Trial Comparing Whole Breast Irradiation vs. Accelerated Partial Breast Irradiation in Postmenopausal Women with Early-Stage Breast Cancer. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.324)
-Increased Complication Rates with Proton Therapy in Breast Cancer Patients with Immediate, Implant-Based Reconstruction: Single-Institution Comparative Effectiveness Analysis. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.322)
-Pattern and Complication of Reconstructed Breast Cancer Patients Who Received Postmastectomy Radiotherapy in the National Health Insurance Service Cohort. (https://dx.doi.org/10.1016/j.ijrobp.2023.06.647)
-Outcomes of Vacuum-Assisted Beast Biopsy for Management of Benign Breast Masses. (https://dx.doi.org/Unknown DOI)
-A prospective randomized clinical trial to assess antibiotic pocket irrigation on tissue expander breast reconstruction. (https://dx.doi.org/10.1128/spectrum.01430-23)
-Expander prosthesis and DIEP flaps in delayed breast reconstruction: Sensibility, patient-reported outcome, and complications in a five-year randomised follow-up study. (https://dx.doi.org/10.2340/jphs.v58.13477)
-Antiseptic Techniques in Breast Implant Surgery: Insights From Plastic Surgeons in Saudi Arabia. (https://dx.doi.org/10.1093/asjof/ojad077)
-Case report: Preliminary study on the diagnosis and treatment of respiratory distress in patients with giant nodular goiter complicated with severe COVID-19. (https://dx.doi.org/10.3389/fmed.2023.1204658)
-Inpatient versus Outpatient Immediate Alloplastic Breast Reconstruction: Recent Trends, Outcomes, and Safety. (https://dx.doi.org/10.1097/GOX.0000000000005135)
-Extended arc of rotation of Latissimus Dorsi Musculocutaneous Flap providing well-vascularized tissue for reconstruction of complete defects of the sternum: An anatomical study of flap pedicle modification. (https://dx.doi.org/10.3233/CH-238115)
-Treatment of Complications After Minimally Invasive Breast Augmentation with Aquafilling Gel. (https://dx.doi.org/10.1007/s00266-023-03648-w)
-Lasting Impacts of the COVID-19 Pandemic on Breast Cancer Diagnosis and Treatment in the United States. (https://dx.doi.org/10.1016/j.soc.2023.05.010)
-Implications of the COVID-19 Pandemic on Immediate Breast Reconstruction Access. (https://dx.doi.org/10.1097/SAP.0000000000003664)
-Comorbid Conditions and Complications in Body Contouring Surgery: A Retrospective Review. (https://dx.doi.org/10.1093/asjof/ojad080)
-Breast Reconstruction with Simultaneous Bilateral Lumbar Artery Perforator Flaps Improves Waistline Definition and Buttock Projection. (https://dx.doi.org/10.1093/asj/sjad305)
+A Rare Complication Following Breast Conserving Surgery: Pyoderma Gangrenosum.|https://dx.doi.org/10.4274/ejbh.galenos.2023.2023-6-1
+Outcomes of Vacuum-Assisted Beast Biopsy for Management of Benign Breast Masses.|https://dx.doi.org/Unknown DOI
+A prospective randomized clinical trial to assess antibiotic pocket irrigation on tissue expander breast reconstruction.|https://dx.doi.org/10.1128/spectrum.01430-23
+Expander prosthesis and DIEP flaps in delayed breast reconstruction: Sensibility, patient-reported outcome, and complications in a five-year randomised follow-up study.|https://dx.doi.org/10.2340/jphs.v58.13477
+Antiseptic Techniques in Breast Implant Surgery: Insights From Plastic Surgeons in Saudi Arabia.|https://dx.doi.org/10.1093/asjof/ojad077
+Case report: Preliminary study on the diagnosis and treatment of respiratory distress in patients with giant nodular goiter complicated with severe COVID-19.|https://dx.doi.org/10.3389/fmed.2023.1204658
+Inpatient versus Outpatient Immediate Alloplastic Breast Reconstruction: Recent Trends, Outcomes, and Safety.|https://dx.doi.org/10.1097/GOX.0000000000005135
+Extended arc of rotation of Latissimus Dorsi Musculocutaneous Flap providing well-vascularized tissue for reconstruction of complete defects of the sternum: An anatomical study of flap pedicle modification.|https://dx.doi.org/10.3233/CH-238115
+Treatment of Complications After Minimally Invasive Breast Augmentation with Aquafilling Gel.|https://dx.doi.org/10.1007/s00266-023-03648-w
+Lasting Impacts of the COVID-19 Pandemic on Breast Cancer Diagnosis and Treatment in the United States.|https://dx.doi.org/10.1016/j.soc.2023.05.010
+Implications of the COVID-19 Pandemic on Immediate Breast Reconstruction Access.|https://dx.doi.org/10.1097/SAP.0000000000003664
+Comorbid Conditions and Complications in Body Contouring Surgery: A Retrospective Review.|https://dx.doi.org/10.1093/asjof/ojad080
+Breast Reconstruction with Simultaneous Bilateral Lumbar Artery Perforator Flaps Improves Waistline Definition and Buttock Projection.|https://dx.doi.org/10.1093/asj/sjad305
+Smooth vs Textured Expanders: Patient Factors and Anatomic Plane are Greater Factors in Determining First-Stage Breast Reconstruction Outcomes.|https://dx.doi.org/10.1093/asj/sjad303
+Analysis of Complications in Patients With a History of Cannabis Use and Tobacco Use Undergoing Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1093/asj/sjad296
+Region-specific protection effect of preoperative oral antibiotics combined with mechanical bowel preparation before laparoscopic colorectal resection: a prospective randomized controlled trial.|https://dx.doi.org/10.1097/JS9.0000000000000569
+Nipple-Sparing Mastectomies in Patients over the Age of 60 Years: Factors Associated with Surgical Outcomes.|https://dx.doi.org/10.1245/s10434-023-14278-6

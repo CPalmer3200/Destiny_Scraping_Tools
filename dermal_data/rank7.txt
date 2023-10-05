@@ -1,20 +1,20 @@
-A biomimetic multi-layer scaffold with collagen and zinc doped bioglass as a skin-regeneration agent in full-thickness injuries and its effects in vitro and in vivo. (https://dx.doi.org/10.1016/j.ijbiomac.2023.127163)
-Chlorhexidine-Silver Nanoparticle Conjugation Leading to Antimicrobial Synergism but Enhanced Cytotoxicity. (https://dx.doi.org/10.3390/pharmaceutics15092298)
-A Sustainable, Green-Processed, Ag-Nanoparticle-Incorporated Eggshell-Derived Biomaterial for Wound-Healing Applications. (https://dx.doi.org/10.3390/jfb14090450)
-A prospective randomized clinical trial to assess antibiotic pocket irrigation on tissue expander breast reconstruction. (https://dx.doi.org/10.1128/spectrum.01430-23)
-Antioxidant activity of mycelia methanolic extracts of endophytic fungi BvFV and BvFIX isolated from leaves of Bauhinia variegata. (https://dx.doi.org/10.3389/ffunb.2022.1048734)
-Anti-inflammatory, antioxidant and photoprotective activity of standardised Gaultheria procumbens L. leaf, stem, and fruit extracts in UVA-irradiated human dermal fibroblasts. (https://dx.doi.org/10.1016/j.jep.2023.117219)
-The cancer-associated glycan polysialic acid is dysregulated in systemic sclerosis and is associated with fibrosis. (https://dx.doi.org/10.1016/j.jaut.2023.103110)
-Assessment of treatment outcomes of visceral leishmaniasis (VL) treated cases and impact of COVID-19 on VL management and control services in Bangladesh. (https://dx.doi.org/10.1016/j.jiph.2023.09.003)
-Formulation and optimization of lipid- and Poloxamer-tagged niosomes for dermal delivery of terbinafine: preparation, evaluation, and in vitro antifungal activity. (https://dx.doi.org/10.1080/10837450.2023.2255889)
-The Role of Box A of HMGB1 in Enhancing Stem Cell Properties of Human Mesenchymal Cells: A Novel Approach for the Pursuit of Anti-aging Therapy. (https://dx.doi.org/10.21873/invivo.13298)
-Mycelium-based biomaterials as smart devices for skin wound healing. (https://dx.doi.org/10.3389/fbioe.2023.1225722)
-Amicrobial pustulosis of the folds: A case report of a rare variant of neutrophilic dermatosis associated with systemic lupus erythematosus. (https://dx.doi.org/10.1111/cup.14508)
-Biosynthesis, characterization, and investigation of antimicrobial and cytotoxic activities of silver nanoparticles using Solanum tuberosum peel aqueous extract. (https://dx.doi.org/10.1016/j.heliyon.2023.e19061)
-Atypical fibroxanthoma and pleomorphic dermal sarcoma: Local recurrence and metastasis in a nationwide population-based cohort of 1118 patients. (https://dx.doi.org/10.1016/j.jaad.2023.08.050)
-From In Silico Simulation between TGF-β Receptors and Quercetin to Clinical Insight of a Medical Device Containing Allium cepa: Its Efficacy and Tolerability on Post-Surgical Scars. (https://dx.doi.org/10.3390/life13081781)
-Ceramide synthesis regulates biogenesis and packaging of exosomal MALAT1 from adipose derived stem cells, increases dermal fibroblast migration and mitochondrial function. (https://dx.doi.org/10.1186/s12964-022-00900-9)
-Cell culture media dependent in vitro dynamics and culture characteristics of adult caprine dermal fibroblast cells. (https://dx.doi.org/10.1038/s41598-023-38634-4)
-Anticandidal Cu(I) complexes with neocuproine and 1-(4-methoxyphenyl)piperazine based diphenylaminomethylphosphine: Is Cu-diimine moiety a pharmacophore? (https://dx.doi.org/10.1016/j.jinorgbio.2023.112355)
-Slit-skin smear in post kala-azar dermal leishmaniasis and leprosy: How a negative report for Leishman-Donovan bodies in Giemsa stain may indicate leprosy. (https://dx.doi.org/10.1016/j.jdin.2023.06.007)
-Therapeutic Applications of Essential Oils from Native and Cultivated Ecuadorian Plants: Cutaneous Candidiasis and Dermal Anti-Inflammatory Activity. (https://dx.doi.org/10.3390/molecules28155903)
+A biomimetic multi-layer scaffold with collagen and zinc doped bioglass as a skin-regeneration agent in full-thickness injuries and its effects in vitro and in vivo.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127163
+Chlorhexidine-Silver Nanoparticle Conjugation Leading to Antimicrobial Synergism but Enhanced Cytotoxicity.|https://dx.doi.org/10.3390/pharmaceutics15092298
+A Sustainable, Green-Processed, Ag-Nanoparticle-Incorporated Eggshell-Derived Biomaterial for Wound-Healing Applications.|https://dx.doi.org/10.3390/jfb14090450
+A prospective randomized clinical trial to assess antibiotic pocket irrigation on tissue expander breast reconstruction.|https://dx.doi.org/10.1128/spectrum.01430-23
+Antioxidant activity of mycelia methanolic extracts of endophytic fungi BvFV and BvFIX isolated from leaves of Bauhinia variegata.|https://dx.doi.org/10.3389/ffunb.2022.1048734
+Anti-inflammatory, antioxidant and photoprotective activity of standardised Gaultheria procumbens L. leaf, stem, and fruit extracts in UVA-irradiated human dermal fibroblasts.|https://dx.doi.org/10.1016/j.jep.2023.117219
+The cancer-associated glycan polysialic acid is dysregulated in systemic sclerosis and is associated with fibrosis.|https://dx.doi.org/10.1016/j.jaut.2023.103110
+Assessment of treatment outcomes of visceral leishmaniasis (VL) treated cases and impact of COVID-19 on VL management and control services in Bangladesh.|https://dx.doi.org/10.1016/j.jiph.2023.09.003
+Formulation and optimization of lipid- and Poloxamer-tagged niosomes for dermal delivery of terbinafine: preparation, evaluation, and in vitro antifungal activity.|https://dx.doi.org/10.1080/10837450.2023.2255889
+The Role of Box A of HMGB1 in Enhancing Stem Cell Properties of Human Mesenchymal Cells: A Novel Approach for the Pursuit of Anti-aging Therapy.|https://dx.doi.org/10.21873/invivo.13298
+Mycelium-based biomaterials as smart devices for skin wound healing.|https://dx.doi.org/10.3389/fbioe.2023.1225722
+Amicrobial pustulosis of the folds: A case report of a rare variant of neutrophilic dermatosis associated with systemic lupus erythematosus.|https://dx.doi.org/10.1111/cup.14508
+Biosynthesis, characterization, and investigation of antimicrobial and cytotoxic activities of silver nanoparticles using Solanum tuberosum peel aqueous extract.|https://dx.doi.org/10.1016/j.heliyon.2023.e19061
+Atypical fibroxanthoma and pleomorphic dermal sarcoma: Local recurrence and metastasis in a nationwide population-based cohort of 1118 patients.|https://dx.doi.org/10.1016/j.jaad.2023.08.050
+From In Silico Simulation between TGF-β Receptors and Quercetin to Clinical Insight of a Medical Device Containing Allium cepa: Its Efficacy and Tolerability on Post-Surgical Scars.|https://dx.doi.org/10.3390/life13081781
+Ceramide synthesis regulates biogenesis and packaging of exosomal MALAT1 from adipose derived stem cells, increases dermal fibroblast migration and mitochondrial function.|https://dx.doi.org/10.1186/s12964-022-00900-9
+Cell culture media dependent in vitro dynamics and culture characteristics of adult caprine dermal fibroblast cells.|https://dx.doi.org/10.1038/s41598-023-38634-4
+Anticandidal Cu(I) complexes with neocuproine and 1-(4-methoxyphenyl)piperazine based diphenylaminomethylphosphine: Is Cu-diimine moiety a pharmacophore?|https://dx.doi.org/10.1016/j.jinorgbio.2023.112355
+Slit-skin smear in post kala-azar dermal leishmaniasis and leprosy: How a negative report for Leishman-Donovan bodies in Giemsa stain may indicate leprosy.|https://dx.doi.org/10.1016/j.jdin.2023.06.007
+Therapeutic Applications of Essential Oils from Native and Cultivated Ecuadorian Plants: Cutaneous Candidiasis and Dermal Anti-Inflammatory Activity.|https://dx.doi.org/10.3390/molecules28155903

@@ -1,20 +1,20 @@
-Preventing atrial fibrillation in COVID-19: exploring the role of interleukin-6 receptor antagonists. (https://dx.doi.org/10.1080/14779072.2023.2264774)
-HIV Psychiatry - the Missing Link to HIV Prevention and Comprehensive Care. (https://dx.doi.org/10.1089/AID.2022.0184)
-Group Randomized Trial of Healthy Eating and Gardening Intervention in Navajo Elementary Schools (Yéego!). (https://dx.doi.org/10.1016/j.focus.2022.100033)
-Poor Sleep Quality May Independently Predict Suicidal Risk in Covid-19 Survivors: A 2-Year Longitudinal Study. (https://dx.doi.org/10.36131/cnfioritieditore20230406)
-Assessing Adherence to Vaccination, Social Distancing and Other Preventive Behaviors by Patients With Mental Disorders in the Context Of Covid-19 Pandemic: A Scoping Review Protocol. (https://dx.doi.org/10.36131/cnfioritieditore20230408)
-Comparing Resident and Program Director Perspectives on Wellness Curricula: A CERA Study. (https://dx.doi.org/10.22454/PRiMER.2023.300982)
-Epidemiology and Immunopathogenesis of Virus Associated Asthma Exacerbations. (https://dx.doi.org/10.2147/JAA.S277455)
-Parental Vaccine Hesitancy in a COVID-19 World: A Qualitative Study of Midwestern Parents' Decisions Regarding COVID-19 Vaccination for Their Children. (https://dx.doi.org/10.17161/kjm.vol16.20049)
-Trends in Recommended Screening and Monitoring Tests for Users of HIV Pre-Exposure Prophylaxis Before and During the COVID-19 Pandemic. (https://dx.doi.org/10.1016/j.focus.2023.100134)
-Colorectal Cancer Knowledge and Screening Change in African Americans: Implementation Phase Results of the EPICS Cluster RCT. (https://dx.doi.org/10.1016/j.focus.2023.100121)
-Sequence of COVID-19 Vaccination and COVID-19 Infection and Their Association With the Development of Active Tuberculosis: A Case-Control Study. (https://dx.doi.org/10.7759/cureus.46353)
-Factors influencing COVID-19 testing among Native Americans and Latinos in two rural agricultural communities: a qualitative study. (https://dx.doi.org/10.3389/fpubh.2023.1220052)
-The impacts of the COVID-19 pandemic on indirect costs of mental illness and behavioral disorders in Poland. (https://dx.doi.org/10.3389/fpubh.2023.1207389)
-Transmission dynamics of SARS-CoV-2 variants in the Brazilian state of Pará. (https://dx.doi.org/10.3389/fpubh.2023.1186463)
-E-Cigarette-Related Health Beliefs Expressed on Twitter Within the U.S. (https://dx.doi.org/10.1016/j.focus.2023.100067)
-Long-term effects of COVID-19 on the endocrine system - a pilot case-control study. (https://dx.doi.org/10.3389/fendo.2023.1192174)
-Vaccination prevents IL-1β-mediated cognitive deficits after COVID-19. (https://dx.doi.org/10.21203/rs.3.rs-3353171/v1)
-Physical activity and sleep changes among children with obesity during a period of school closures related to the COVID-19 pandemic. (https://dx.doi.org/10.21203/rs.3.rs-3293474/v1)
-Mucosal prime-boost immunization with live murine pneumonia virus-vectored SARS-CoV-2 vaccine is protective in macaques. (https://dx.doi.org/10.21203/rs.3.rs-3278289/v1)
-The impact of lockdown measures during the SARS-CoV-2 pandemic on the management of diabetes in a Northern Gauteng Region of South Africa. (https://dx.doi.org/10.11604/pamj.2023.45.129.39255)
+Neutralizing antibody levels as a correlate of protection against SARS-CoV-2 infection: a modeling analysis.|https://dx.doi.org/10.1002/cpt.3069
+What is the effect of intergenerational activities on the wellbeing and mental health of older people?: A systematic review.|https://dx.doi.org/10.1002/cl2.1355
+Secondary Infection Surveillance with Metagenomic Next-Generation Sequencing in COVID-19 Patients: A Cross-Sectional Study.|https://dx.doi.org/10.2147/IDR.S424061
+The impact of the COVID-19 pandemic on the global tuberculosis epidemic.|https://dx.doi.org/10.3389/fimmu.2023.1234785
+Assessing the safety and use of medicinal herbs during pregnancy: a cross-sectional study in São Paulo, Brazil.|https://dx.doi.org/10.3389/fphar.2023.1268185
+Emotions, COVID-19 related thoughts and satisfaction with life during the critical period from control to relaxation.|https://dx.doi.org/10.3389/fpsyg.2023.1211614
+Avoiding SARS-CoV-2 infection in healthcare workers: is behavioral change the answer?|https://dx.doi.org/10.3389/fpubh.2023.1204878
+Immediate and longer-term changes in mental health of children with parent-child separation experiences during the COVID-19 pandemic.|https://dx.doi.org/10.1186/s13034-023-00659-y
+Low-molecular-weight heparin for the prevention of clinical worsening in severe non-critically ill COVID-19 patients: a joint analysis of two randomized controlled trials.|https://dx.doi.org/10.1007/s11739-023-03439-w
+Photoimmunotechnology as a powerful biological tool for molecular-based elimination of target cells and microbes, including bacteria, fungi and viruses.|https://dx.doi.org/10.1038/s41596-023-00874-z
+Nature as a 'Lifeline': The Power of Photography when Exploring the Experiences of Older Adults living with Memory Loss and Memory Concerns.|https://dx.doi.org/10.1093/geront/gnad126
+Transmission of severe acute respiratory syndrome coronavirus 2 from humans to animals: is there a risk of novel reservoirs?|https://dx.doi.org/10.1016/j.coviro.2023.101365
+Emerging contaminants in the water environment: Disinfection-induced viable but non-culturable waterborne pathogens.|https://dx.doi.org/10.1016/j.jhazmat.2023.132666
+Inferring school district learning modalities during the COVID-19 pandemic with a hidden Markov model.|https://dx.doi.org/10.1371/journal.pone.0292354
+Changes in body mass index-z scores in 3-year-old children during the COVID-19 pandemic: a 2-year retrospective cohort study.|https://dx.doi.org/10.1590/1806-9282.20230336
+Determinants and outcomes of eHealth literacy in healthy adults: A systematic review.|https://dx.doi.org/10.1371/journal.pone.0291229
+THE IMPACT OF THE COVID-19 PANDEMIC ON ENDOSCOPIC ULTRASOUND PROCEDURES IN A HIGH-VOLUME ENDOSCOPY UNIT IN BRAZIL.|https://dx.doi.org/10.1590/S0004-2803.230302023-75
+Prescription of anti-influenza drugs in Japan, 2014-2020: A retrospective study using open data from the national claims database.|https://dx.doi.org/10.1371/journal.pone.0291673
+Development and Implementation of DIALOG+S in the School Setting as a Tool for Promoting Adolescent Mental Well-Being and Resilience in a Post-Armed Conflict Area in Colombia: Exploratory Cluster Randomized Controlled Trial.|https://dx.doi.org/10.2196/46757
+A Natural Language Processing Model for COVID-19 Detection Based on Dutch General Practice Electronic Health Records by Using Bidirectional Encoder Representations From Transformers: Development and Validation Study.|https://dx.doi.org/10.2196/49944

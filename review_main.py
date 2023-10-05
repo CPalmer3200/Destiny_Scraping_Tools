@@ -1,4 +1,4 @@
-from docxtpl import DocxTemplate
+from docxtpl import DocxTemplate, InlineImage, RichText
 import os
 import smtplib
 import ssl
@@ -9,6 +9,7 @@ from email.mime.image import MIMEImage
 from email.mime.application import MIMEApplication
 import docx.oxml
 import docx.oxml.ns as ns
+
 
 
 # Function to list all rank.txt files within the specified directory
@@ -68,8 +69,24 @@ def create_file(directory, template, data_dict):
     doc.render(context)
     doc.save(f'{directory}lit_review.docx')
 
+    new_dictionary = {}
     for key, data_list in data_dict.items():
-        context[key] = data_list
+        papers_list = []
+        for item in data_list:
+            split_string = item.split('|')
+            title = split_string[0]
+            url = split_string[1]
+
+            rt = RichText()
+            rt.add(title, url_id=doc.build_url_id(url))
+
+            papers_list.append(rt)
+        new_dictionary[key] = papers_list
+
+    print(new_dictionary)
+
+    for key, rt_list in new_dictionary.items():
+        context[key] = rt_list
     doc.render(context)
     update_table_of_contents(doc)
 
@@ -158,7 +175,7 @@ def review_log(project):
 if __name__ == '__main__':
 
     # State directories
-    directories = ['m3_data/', 'nasal_data/', 'dermal_data/']
+    directories = ['nasal_data/', 'm3_data/', 'dermal_data/']
 
     # Begin loop over directories list
     for directory in directories:
@@ -185,8 +202,8 @@ if __name__ == '__main__':
         print(f'Assembled {project} literature review')
 
         # Send email with literature review attached
-        # send_email(directory, project)
-        # print(f'{project} email delivered')
+        #send_email(directory, project)
+        #print(f'{project} email delivered')
 
         # Clear all the rank files
         #clear_ranks(directory, ranks)

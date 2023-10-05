@@ -1,19 +1,19 @@
-Evolution of the Chronic Venous Leg Ulcer Microenvironment and Its Impact on Medical Devices and Wound Care Therapies. (https://dx.doi.org/10.3390/jcm12175605)
-Implementing a new regimen to manage a difficult-to-heal lymphovenous leg ulcer. (https://dx.doi.org/10.12968/bjon.2023.32.15.S20)
-Venous and lymphovenous lower limb wound outcomes in specialist UK wound and lymphoedema clinics. (https://dx.doi.org/10.12968/bjon.2023.32.15.S12)
-Lower-Extremity Vascular Ulcers: Assessment and Approaches to Management. (https://dx.doi.org/10.1016/j.mcna.2023.05.003)
-Dressings and topical agents containing hyaluronic acid for chronic wound healing. (https://dx.doi.org/10.1002/14651858.CD012215.pub2)
-Nutritional Status of People with a Coexisting Chronic Wound and Extended Assessment Using Bioelectrical Impedance. (https://dx.doi.org/10.3390/nu15132869)
-Clinical correlates of pain in adults with hard-to-heal leg ulcers: a cross-sectional study. (https://dx.doi.org/10.12968/jowc.2023.32.Sup6.S27)
-Variations in land surface temperatures in small-scale urban areas in Vietnam during Covid-19 restrictions: Case studies from Da Nang, Hue and Vinh City. (https://dx.doi.org/10.1007/s10661-023-11332-4)
-Venous, Arterial, and Neuropathic Leg Ulcers With Emphasis on the Geriatric Population. (https://dx.doi.org/10.7759/cureus.38123)
-Ayurvedic management of venous ulcer - a case report. (https://dx.doi.org/10.1016/j.jaim.2023.100723)
-A randomised controlled trial of compression therapies for the treatment of venous leg ulcers (VenUS 6): study protocol for a pragmatic, multicentre, parallel-group, three-arm randomised controlled trial. (https://dx.doi.org/10.1186/s13063-023-07349-2)
-Comparison of Resting State Functional Connectivity in Persons With and Without HIV: A Cross-sectional Study. (https://dx.doi.org/10.1093/infdis/jiad180)
-Do Commonly Used Antimicrobial Topicals Facilitate Venous Leg Ulcer Healing? (https://dx.doi.org/10.1097/01.ASW.0000926636.51805.d5)
-Effect of melatonin and luzindole antagonist on fipronil toxicity, detoxification and antioxidant enzyme system in different tissues of Helicoverpa armigera (Lepidoptera: Noctuidae). (https://dx.doi.org/10.1016/j.envres.2023.116130)
-The Role of Physical Therapies in Wound Healing and Assisted Scarring. (https://dx.doi.org/10.3390/ijms24087487)
-Eradication of the nidus in arteriovenous malformations with a dominant outflow vein in the lower extremities using coils and absolute ethanol. (https://dx.doi.org/10.1016/j.jvsv.2022.10.019)
-Defensins of Lucilia sericata Larvae and Their Influence on Wound Repair Processes in Practical Assessment-A Study of Three Cases. (https://dx.doi.org/10.3390/ijerph20075357)
-International validation of a venous leg ulcer risk assessment tool. (https://dx.doi.org/10.12968/jowc.2023.32.4.229)
-Prognostic factors for delayed healing of complex wounds in adults: A scoping review. (https://dx.doi.org/10.1111/iwj.14128)
+Evolution of the Chronic Venous Leg Ulcer Microenvironment and Its Impact on Medical Devices and Wound Care Therapies.|https://dx.doi.org/10.3390/jcm12175605
+Implementing a new regimen to manage a difficult-to-heal lymphovenous leg ulcer.|https://dx.doi.org/10.12968/bjon.2023.32.15.S20
+Venous and lymphovenous lower limb wound outcomes in specialist UK wound and lymphoedema clinics.|https://dx.doi.org/10.12968/bjon.2023.32.15.S12
+Lower-Extremity Vascular Ulcers: Assessment and Approaches to Management.|https://dx.doi.org/10.1016/j.mcna.2023.05.003
+Dressings and topical agents containing hyaluronic acid for chronic wound healing.|https://dx.doi.org/10.1002/14651858.CD012215.pub2
+Nutritional Status of People with a Coexisting Chronic Wound and Extended Assessment Using Bioelectrical Impedance.|https://dx.doi.org/10.3390/nu15132869
+Clinical correlates of pain in adults with hard-to-heal leg ulcers: a cross-sectional study.|https://dx.doi.org/10.12968/jowc.2023.32.Sup6.S27
+Variations in land surface temperatures in small-scale urban areas in Vietnam during Covid-19 restrictions: Case studies from Da Nang, Hue and Vinh City.|https://dx.doi.org/10.1007/s10661-023-11332-4
+Venous, Arterial, and Neuropathic Leg Ulcers With Emphasis on the Geriatric Population.|https://dx.doi.org/10.7759/cureus.38123
+Ayurvedic management of venous ulcer - a case report.|https://dx.doi.org/10.1016/j.jaim.2023.100723
+A randomised controlled trial of compression therapies for the treatment of venous leg ulcers (VenUS 6): study protocol for a pragmatic, multicentre, parallel-group, three-arm randomised controlled trial.|https://dx.doi.org/10.1186/s13063-023-07349-2
+Comparison of Resting State Functional Connectivity in Persons With and Without HIV: A Cross-sectional Study.|https://dx.doi.org/10.1093/infdis/jiad180
+Do Commonly Used Antimicrobial Topicals Facilitate Venous Leg Ulcer Healing?|https://dx.doi.org/10.1097/01.ASW.0000926636.51805.d5
+Effect of melatonin and luzindole antagonist on fipronil toxicity, detoxification and antioxidant enzyme system in different tissues of Helicoverpa armigera (Lepidoptera: Noctuidae).|https://dx.doi.org/10.1016/j.envres.2023.116130
+The Role of Physical Therapies in Wound Healing and Assisted Scarring.|https://dx.doi.org/10.3390/ijms24087487
+Eradication of the nidus in arteriovenous malformations with a dominant outflow vein in the lower extremities using coils and absolute ethanol.|https://dx.doi.org/10.1016/j.jvsv.2022.10.019
+Defensins of Lucilia sericata Larvae and Their Influence on Wound Repair Processes in Practical Assessment-A Study of Three Cases.|https://dx.doi.org/10.3390/ijerph20075357
+International validation of a venous leg ulcer risk assessment tool.|https://dx.doi.org/10.12968/jowc.2023.32.4.229
+Prognostic factors for delayed healing of complex wounds in adults: A scoping review.|https://dx.doi.org/10.1111/iwj.14128

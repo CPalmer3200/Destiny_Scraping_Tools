@@ -1,17 +1,15 @@
-Deciphering the Catalytic Mechanism of Virginiamycin B Lyase with Multiscale Methods and Molecular Dynamics Simulations. (https://dx.doi.org/10.1021/acs.jcim.3c00962)
-A novel "on-off-on" near-infrared fluorescent probe for Cu(2+) and S(2-) continuous detection based on dicyanoisoflurone derivatives, and its application in bacterial imaging. (https://dx.doi.org/10.1039/d3ay01339a)
-Incidence of Central Line-Associated Bloodstream Infection in a Tertiary Care Hospital in Northern India: A Prospective Study. (https://dx.doi.org/10.7759/cureus.44501)
-Atypical Case Presentation of Toxic Shock Syndrome. (https://dx.doi.org/10.7759/cureus.44429)
-Bacterial lipoprotein plays an important role in the macrophage autophagy and apoptosis induced by Salmonella typhimurium and Staphylococcus aureus. (https://dx.doi.org/10.1515/biol-2022-0739)
-Partnering essential oils with antibiotics: proven therapies against bovine Staphylococcus aureus mastitis. (https://dx.doi.org/10.3389/fcimb.2023.1265027)
-Hierarchical machine learning model predicts antimicrobial peptide activity against Staphylococcus aureus. (https://dx.doi.org/10.3389/fmolb.2023.1238509)
-Inflammasome-mediated glucose limitation induces antibiotic tolerance in Staphylococcus aureus. (https://dx.doi.org/10.1016/j.isci.2023.107942)
-Bad to the bone. Not all bone tumors are cancer: Case of long bone osteomyelitis. (https://dx.doi.org/10.1016/j.idcr.2023.e01897)
-Tigecycline Tango: A Case of Antibiotic-Induced Pancreatitis. (https://dx.doi.org/10.7759/cureus.44538)
-Simultaneous Multifocal Intracranial Haemorrhages Associated with Staphylococcus Aureus Endocarditis: A Plausible Role for Diclofenac Administration. (https://dx.doi.org/10.12890/2023_004044)
-Factors Associated with Otitis Media Among Pediatrics in Two Government Hospitals in Arba Minch, Southern Ethiopia. (https://dx.doi.org/10.2147/IDR.S424927)
-Trends in congenital clubfoot prevalence and co-occurring anomalies during 1994-2021 in Denmark: a nationwide register-based study. (https://dx.doi.org/10.1186/s12891-023-06889-7)
-Community-associated methicillin-resistant Staphylococcus aureus infection of diabetic foot ulcers in an eastern diabetic foot center in a tertiary hospital in China: a retrospective study. (https://dx.doi.org/10.1186/s12879-023-08631-z)
-Bioactive metabolites identified from Aspergillus terreus derived from soil. (https://dx.doi.org/10.1186/s13568-023-01612-0)
-Improving antibacterial ability of Ti-Cu thin films with co-sputtering method. (https://dx.doi.org/10.1038/s41598-023-43875-4)
-Two new diketopiperazines from the Cordyceps fungus Samsoniella sp. XY4. (https://dx.doi.org/10.1038/s41429-023-00662-7)
+Whole genome sequence-based characterization of virulence and antimicrobial resistance gene profiles of Staphylococcus aureus isolated from food poisoning incidents in eastern China.|https://dx.doi.org/10.3389/fmicb.2023.1225472
+Enhancing the Ag-loading capacity on Ti(3)C(2)T(x) sheets as hybrid fillers to form composite coatings with excellent antibacterial properties.|https://dx.doi.org/10.1039/d3ra05188a
+Past-expiration-date liquid disinfectants to deactivate biological and chemical toxins on building material surfaces.|https://dx.doi.org/10.1039/d3ra04965e
+Genome-wide CRISPR screens and their applications in infectious disease.|https://dx.doi.org/10.3389/fgeed.2023.1243731
+Effect of antibiotic prophylaxis in the prognosis of Post-neurosurgical meningitis patients.|https://dx.doi.org/10.1186/s40001-023-01399-7
+Insight into the 4-nitrophenol reduction, supercapacitive behavior, and antimicrobial activity of ZnCo(2)O(4)-rGO nanocomposite fabricated by the simple reflux method.|https://dx.doi.org/10.1007/s11356-023-30078-7
+Mercuric-sulphide based metallopharmaceutical formulation as an alternative therapeutic to combat viral and multidrug-resistant (MDR) bacterial infections.|https://dx.doi.org/10.1038/s41598-023-43103-z
+Optimization and bio-fabrication of phyto-mediated silver nanoparticles (Ag-NPs) for antibacterial potential.|https://dx.doi.org/10.1080/07391102.2023.2242960
+Anti-lung Cancer, Anti-microbial, Anti-α-glucosidase, Anti-sorbitol Dehydrogenase, and in silico Studies of Wogonoside and Isoliquiritigenin as Natural Compounds.|https://dx.doi.org/10.5650/jos.ess23101
+A comparative analysis of quantitative detection methods for viable food-borne pathogens using RT-qPCR and PMA-qPCR.|https://dx.doi.org/10.1093/lambio/ovad120
+Antisense yycF and BMP-2 co-delivery gelatin methacryloyl and carboxymethyl chitosan hydrogel composite for infective bone defects regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127233
+TiO(2) loaded on glycidol functionalized poly(3-hydroxybutyrate-co-3-hydroxyhexanoate) nanobiocomposite film for photocatalytic and antibacterial activities.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127216
+Staphylococcus aureus adapts to the immunometabolite itaconic acid by inducing acid and oxidative stress responses including S-bacillithiolations and S-itaconations.|https://dx.doi.org/10.1016/j.freeradbiomed.2023.09.031
+Assessment and prediction of hexavalent chromium vulnerability in groundwater by Geochemical modelling, NOBLES Index and Random Forest Model.|https://dx.doi.org/10.1016/j.scitotenv.2023.167570
+Dual Surgical Setup Associated with Reduced Infection Recurrence for Hip and Knee Arthroplasty After Two-Stage Exchange.|https://dx.doi.org/10.5435/JAAOS-D-23-00317

@@ -1,19 +1,19 @@
-A Smart Stimulation-Deadhesion And Antimicrobial Hydrogel for Repairing Diabetic Wounds Infected with Methicillin-Resistant Staphylococcus Aureus. (https://dx.doi.org/10.1002/adhm.202303042)
-Near-Infrared-Induced NO-Releasing Photothermal Adhesive Hydrogel with Enhanced Antibacterial Properties. (https://dx.doi.org/10.1021/acsabm.3c00517)
-2D foam film coating of antimicrobial lysozyme amyloid fibrils onto cellulose nanopapers. (https://dx.doi.org/10.1039/d3na00370a)
-Antibacterial Activity and Biocompatibility of Ag-Montmorillonite/Chitosan Colloidal Dressing in a Skin Infection Rat Model: An In Vitro and In Vivo Study. (https://dx.doi.org/10.3390/jfb14090470)
-Bioinspired 3D-printed scaffold embedding DDAB-nano ZnO/nanofibrous microspheres for regenerative diabetic wound healing. (https://dx.doi.org/10.1088/1758-5090/acfd60)
-Biologically Derived Nanoarchitectonic Coatings for the Engineering of Hemostatic Needles. (https://dx.doi.org/10.1021/acs.biomac.3c00791)
-Chitosan/silk fibroin nanofibers-based hierarchical sponges accelerate infected diabetic wound healing via a HClO self-producing cascade catalytic reaction. (https://dx.doi.org/10.1016/j.carbpol.2023.121340)
-Superhydrophilic Poly(2-hydroxyethyl methacrylate) Hydrogel with Nanosilica Covalent Coating: A Promising Contact Lens Material for Resisting Tear Protein Deposition and Bacterial Adhesion. (https://dx.doi.org/10.1021/acsbiomaterials.3c00856)
-Tannin-Assisted Synthesis of Nanocomposites Loaded with Silver Nanoparticles and Their Multifunctional Applications. (https://dx.doi.org/10.1021/acs.biomac.3c00737)
-Development of gallic acid-loaded ethylcellulose fibers as a potential wound dressing material. (https://dx.doi.org/10.1016/j.ijbiomac.2023.126996)
-Lavandula stoechas extract incorporated polylactic acid nanofibrous mats as an antibacterial and cytocompatible wound dressing. (https://dx.doi.org/10.1016/j.ijbiomac.2023.126932)
-Cypate-loaded hollow mesoporous Prussian blue nanoparticle/hydrogel system for efficient photodynamic therapy/photothermal therapy dual-modal antibacterial therapy. (https://dx.doi.org/10.1002/jbm.a.37613)
-Fabrication and characterization of new levan@CBD biocomposite sponges as potential materials in natural, non-toxic wound dressing applications. (https://dx.doi.org/10.1016/j.ijbiomac.2023.126933)
-Biosynthesis of Zinc Oxide Nanoparticles on l-Carnosine Biofunctionalized Polyacrylonitrile Nanofibers; a Biomimetic Wound Healing Material. (https://dx.doi.org/10.1021/acsabm.3c00499)
-A novel multifunctional chitosan-gelatin/carboxymethyl cellulose-alginate bilayer hydrogel containing human placenta extract for accelerating full-thickness wound healing. (https://dx.doi.org/10.1016/j.ijbiomac.2023.126929)
-Janus polyurethane sponge as an antibiofouling, antibacterial, and exudate-managing dressing for accelerated wound healing. (https://dx.doi.org/10.1016/j.actbio.2023.09.015)
-In vitro prevention and inactivation of biofilms using controlled-release iodine foam dressings for wound healing. (https://dx.doi.org/10.1111/iwj.14365)
-Thermosensitive black phosphorus hydrogel loaded with silver sulfadiazine promotes skin wound healing. (https://dx.doi.org/10.1186/s12951-023-02054-3)
-Nanostructured N/S doped carbon dots/mesoporous silica nanoparticles and PVA composite hydrogel fabrication for anti-microbial and anti-biofilm application. (https://dx.doi.org/10.1016/j.ijpx.2023.100209)
+Antisense yycF and BMP-2 co-delivery gelatin methacryloyl and carboxymethyl chitosan hydrogel composite for infective bone defects regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127233
+Antibiofilm activity of promethazine, deferiprone and Manuka honey in an ex vivo wound model.|https://dx.doi.org/10.1093/lambio/ovad119
+A Smart Stimulation-Deadhesion And Antimicrobial Hydrogel for Repairing Diabetic Wounds Infected with Methicillin-Resistant Staphylococcus Aureus.|https://dx.doi.org/10.1002/adhm.202303042
+Near-Infrared-Induced NO-Releasing Photothermal Adhesive Hydrogel with Enhanced Antibacterial Properties.|https://dx.doi.org/10.1021/acsabm.3c00517
+2D foam film coating of antimicrobial lysozyme amyloid fibrils onto cellulose nanopapers.|https://dx.doi.org/10.1039/d3na00370a
+Antibacterial Activity and Biocompatibility of Ag-Montmorillonite/Chitosan Colloidal Dressing in a Skin Infection Rat Model: An In Vitro and In Vivo Study.|https://dx.doi.org/10.3390/jfb14090470
+Bioinspired 3D-printed scaffold embedding DDAB-nano ZnO/nanofibrous microspheres for regenerative diabetic wound healing.|https://dx.doi.org/10.1088/1758-5090/acfd60
+Biologically Derived Nanoarchitectonic Coatings for the Engineering of Hemostatic Needles.|https://dx.doi.org/10.1021/acs.biomac.3c00791
+Chitosan/silk fibroin nanofibers-based hierarchical sponges accelerate infected diabetic wound healing via a HClO self-producing cascade catalytic reaction.|https://dx.doi.org/10.1016/j.carbpol.2023.121340
+Superhydrophilic Poly(2-hydroxyethyl methacrylate) Hydrogel with Nanosilica Covalent Coating: A Promising Contact Lens Material for Resisting Tear Protein Deposition and Bacterial Adhesion.|https://dx.doi.org/10.1021/acsbiomaterials.3c00856
+Tannin-Assisted Synthesis of Nanocomposites Loaded with Silver Nanoparticles and Their Multifunctional Applications.|https://dx.doi.org/10.1021/acs.biomac.3c00737
+Development of gallic acid-loaded ethylcellulose fibers as a potential wound dressing material.|https://dx.doi.org/10.1016/j.ijbiomac.2023.126996
+Lavandula stoechas extract incorporated polylactic acid nanofibrous mats as an antibacterial and cytocompatible wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.126932
+Cypate-loaded hollow mesoporous Prussian blue nanoparticle/hydrogel system for efficient photodynamic therapy/photothermal therapy dual-modal antibacterial therapy.|https://dx.doi.org/10.1002/jbm.a.37613
+Fabrication and characterization of new levan@CBD biocomposite sponges as potential materials in natural, non-toxic wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2023.126933
+Biosynthesis of Zinc Oxide Nanoparticles on l-Carnosine Biofunctionalized Polyacrylonitrile Nanofibers; a Biomimetic Wound Healing Material.|https://dx.doi.org/10.1021/acsabm.3c00499
+A novel multifunctional chitosan-gelatin/carboxymethyl cellulose-alginate bilayer hydrogel containing human placenta extract for accelerating full-thickness wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.126929
+Janus polyurethane sponge as an antibiofouling, antibacterial, and exudate-managing dressing for accelerated wound healing.|https://dx.doi.org/10.1016/j.actbio.2023.09.015
+In vitro prevention and inactivation of biofilms using controlled-release iodine foam dressings for wound healing.|https://dx.doi.org/10.1111/iwj.14365

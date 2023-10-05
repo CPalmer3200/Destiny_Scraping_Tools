@@ -1,16 +1,16 @@
-The effect of circadian preference and sleep disturbances on depression in children 6 to 12 years of age. (https://dx.doi.org/10.1080/07420528.2023.2262577)
-Clostridioides Difficile in Latin America: An Epidemiological Overview. (https://dx.doi.org/10.1007/s00284-023-03475-x)
-Clostridioides (Clostridium) difficile: A silent nosocomial pathogen. (https://dx.doi.org/10.15537/smj.2023.44.9.20230216)
-Reducing antimicrobial overuse through targeted therapy for patients with community-acquired pneumonia: a study protocol for a cluster-randomized factorial controlled trial (CARE-CAP). (https://dx.doi.org/10.1186/s13063-023-07615-3)
-Budesonide, an anti-inflammatory drug, exacerbate clostridioides difficile colitis in mice. (https://dx.doi.org/10.1016/j.biopha.2023.115489)
-Syndromic Panel Testing Among Patients With Infectious Diarrhea: The Challenge of Interpreting Clostridioides difficile Positivity on a Multiplex Molecular Panel. (https://dx.doi.org/10.1093/ofid/ofad184)
-Absence of anti-rabphilin-3A antibodies in children and young adults with idiopathic central diabetes insipidus: a potential clue to elucidating a tumor etiology. (https://dx.doi.org/10.1007/s42000-023-00484-0)
-Fecal Microbiota Transplantation in Human Immunodeficiency Virus-Infected Patient Population: A Systematic Review and Meta-Analysis. (https://dx.doi.org/10.14740/gr1624)
-The Effect of Antibiotic Therapy for Clostridioides difficile Infection on Mortality and Other Patient-Relevant Outcomes: a Systematic Review and Meta-analysis. (https://dx.doi.org/10.1016/j.cmi.2023.09.002)
-Washed microbiota transplantation for Clostridioides difficile infection: a national multi-center real-world study. (https://dx.doi.org/10.1111/1751-2980.13227)
-Prevalence of Clostridioides difficile contamination in the healthcare environment and instruments: A systematic review and meta-analysis. (https://dx.doi.org/10.18683/germs.2022.1340)
-Inhibition of selenoprotein synthesis is not the mechanism by which auranofin inhibits growth of Clostridioides difficile. (https://dx.doi.org/10.1038/s41598-023-36796-9)
-Individualized antibiotic plans as a quality improvement initiative to reduce carbapenem use for hematopoietic cell transplant patients at a freestanding pediatric hospital. (https://dx.doi.org/10.1093/cid/ciad518)
-Clostridioides difficile resistance to antibiotics, including post-COVID-19 data. (https://dx.doi.org/10.1080/17512433.2023.2252331)
-Next Steps in Ambulatory Stewardship. (https://dx.doi.org/10.1016/j.idc.2023.07.004)
-A Digital Counselor-Delivered Intervention for Substance Use Among People With HIV: Development and Usability Study. (https://dx.doi.org/10.2196/40260)
+The effect of circadian preference and sleep disturbances on depression in children 6 to 12 years of age.|https://dx.doi.org/10.1080/07420528.2023.2262577
+Clostridioides Difficile in Latin America: An Epidemiological Overview.|https://dx.doi.org/10.1007/s00284-023-03475-x
+Clostridioides (Clostridium) difficile: A silent nosocomial pathogen.|https://dx.doi.org/10.15537/smj.2023.44.9.20230216
+Reducing antimicrobial overuse through targeted therapy for patients with community-acquired pneumonia: a study protocol for a cluster-randomized factorial controlled trial (CARE-CAP).|https://dx.doi.org/10.1186/s13063-023-07615-3
+Budesonide, an anti-inflammatory drug, exacerbate clostridioides difficile colitis in mice.|https://dx.doi.org/10.1016/j.biopha.2023.115489
+Syndromic Panel Testing Among Patients With Infectious Diarrhea: The Challenge of Interpreting Clostridioides difficile Positivity on a Multiplex Molecular Panel.|https://dx.doi.org/10.1093/ofid/ofad184
+Absence of anti-rabphilin-3A antibodies in children and young adults with idiopathic central diabetes insipidus: a potential clue to elucidating a tumor etiology.|https://dx.doi.org/10.1007/s42000-023-00484-0
+Fecal Microbiota Transplantation in Human Immunodeficiency Virus-Infected Patient Population: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.14740/gr1624
+The Effect of Antibiotic Therapy for Clostridioides difficile Infection on Mortality and Other Patient-Relevant Outcomes: a Systematic Review and Meta-analysis.|https://dx.doi.org/10.1016/j.cmi.2023.09.002
+Washed microbiota transplantation for Clostridioides difficile infection: a national multi-center real-world study.|https://dx.doi.org/10.1111/1751-2980.13227
+Prevalence of Clostridioides difficile contamination in the healthcare environment and instruments: A systematic review and meta-analysis.|https://dx.doi.org/10.18683/germs.2022.1340
+Inhibition of selenoprotein synthesis is not the mechanism by which auranofin inhibits growth of Clostridioides difficile.|https://dx.doi.org/10.1038/s41598-023-36796-9
+Individualized antibiotic plans as a quality improvement initiative to reduce carbapenem use for hematopoietic cell transplant patients at a freestanding pediatric hospital.|https://dx.doi.org/10.1093/cid/ciad518
+Clostridioides difficile resistance to antibiotics, including post-COVID-19 data.|https://dx.doi.org/10.1080/17512433.2023.2252331
+Next Steps in Ambulatory Stewardship.|https://dx.doi.org/10.1016/j.idc.2023.07.004
+A Digital Counselor-Delivered Intervention for Substance Use Among People With HIV: Development and Usability Study.|https://dx.doi.org/10.2196/40260

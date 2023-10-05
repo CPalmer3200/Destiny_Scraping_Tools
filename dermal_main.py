@@ -86,8 +86,9 @@ def doi_checker(doi_to_check, doi_db_filename):
 
 def string_formatter(title, doi):
     url = 'https://dx.doi.org/' + str(doi)
-    paper = f'{title} ({url})'
-    return paper
+    internal_str = f'{title}|{url}'
+    external_str = f'{title} ({url})'
+    return internal_str, external_str
 
 
 # Write to the correct database
@@ -240,14 +241,14 @@ if __name__ == '__main__':
                 # Format paper string
                 print(f'{doi} not found in database - recognised as new paper')
                 title = info['Title']
-                paper = string_formatter(title, doi)
+                int_string, ext_string = string_formatter(title, doi)
 
                 # Write to rank database
-                write_to_rank(rank, paper)
+                write_to_rank(rank, int_string)
 
                 if rank == 1:
                     # Append to email_body text if rank == 1
-                    email_body += paper
+                    email_body += ext_string
                     email_body += "\n"
             elif status:
                 print(f'{doi} already in database')

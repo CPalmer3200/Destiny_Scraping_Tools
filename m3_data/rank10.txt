@@ -1,19 +1,19 @@
-Manufacturing Processes of a Purified Microbiome Therapeutic Reduce Risk of Transmission of Potential Bacterial Pathogens in Donor Stool. (https://dx.doi.org/10.1093/infdis/jiad298)
-MRI Apparent Diffusion Coefficient (ADC) as a Biomarker of Tumour Response: Imaging-Pathology Correlation in Patients with Hepatic Metastases from Colorectal Cancer (EORTC 1423). (https://dx.doi.org/10.3390/cancers15143580)
-A microbial consortium alters intestinal Pseudomonadota and antimicrobial resistance genes in individuals with recurrent Clostridioides difficile infection. (https://dx.doi.org/10.1128/mbio.03482-22)
-[Fecal Microbiota Transfer (FMT) in Germany - Status and Perspective]. (https://dx.doi.org/10.1055/a-2075-2725)
-Unlocking Enhanced Capacitive Deionization of NaTi(2)(PO(4))(3)/Carbon Materials by the Yolk-Shell Design. (https://dx.doi.org/10.1021/jacs.3c01755)
-Novel Biomarkers, Including tcdB PCR Cycle Threshold, for Predicting Recurrent Clostridioides difficile Infection. (https://dx.doi.org/10.1128/iai.00092-23)
-Particle size optimization of metal-organic frameworks for superior capacitive deionization in oxygenated saline water. (https://dx.doi.org/10.1039/d2cc06460j)
-Structural Basis for Binding of Neutralizing Antibodies to Clostridioides difficile Binary Toxin. (https://dx.doi.org/10.1128/jb.00456-22)
-Effect of Mannan-rich fraction supplementation on commercial broiler intestinum tenue and cecum microbiota. (https://dx.doi.org/10.1186/s42523-022-00208-6)
-Effect of Selective Decontamination of the Digestive Tract on Hospital Mortality in Critically Ill Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial. (https://dx.doi.org/10.1001/jama.2022.17927)
-Manufacturing Process of SER-109, a Purified Investigational Microbiome Therapeutic, Reduces Risk of Coronavirus Transmission From Donor Stool. (https://dx.doi.org/10.1093/ofid/ofac448)
-SER-109: An Oral Investigational Microbiome Therapeutic for Patients with Recurrent Clostridioides difficile Infection (rCDI). (https://dx.doi.org/10.3390/antibiotics11091234)
-Effectiveness and Safety of Colonic and Capsule Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection. (https://dx.doi.org/10.1016/j.cgh.2022.09.008)
-[Fecal microbiota transplantation: indications, risks and opportunities]. (https://dx.doi.org/10.1007/s00108-022-01399-5)
-Development of a New Additive Based on Textile Fibers of End-of-Life Tires (ELT) for Sustainable Asphalt Mixtures with Improved Mechanical Properties. (https://dx.doi.org/10.3390/polym14163250)
-Design and manufacture of a lyophilised faecal microbiota capsule formulation to GMP standards. (https://dx.doi.org/10.1016/j.jconrel.2022.08.012)
-Validation of Clinical Risk Models for Clostridioides difficile-Attributable Outcomes. (https://dx.doi.org/10.1128/aac.00676-22)
-Comparative Evaluation of Three Immunoassays for the Simultaneous Detection of Clostridioides difficile Glutamate Dehydrogenase and Toxin A/B. (https://dx.doi.org/10.3390/microorganisms10050947)
-Occurrence of Rotavirus A Genotypes and Other Enteric Pathogens in Diarrheic Suckling Piglets from Spanish Swine Farms. (https://dx.doi.org/10.3390/ani12030251)
+Manufacturing Processes of a Purified Microbiome Therapeutic Reduce Risk of Transmission of Potential Bacterial Pathogens in Donor Stool.|https://dx.doi.org/10.1093/infdis/jiad298
+MRI Apparent Diffusion Coefficient (ADC) as a Biomarker of Tumour Response: Imaging-Pathology Correlation in Patients with Hepatic Metastases from Colorectal Cancer (EORTC 1423).|https://dx.doi.org/10.3390/cancers15143580
+A microbial consortium alters intestinal Pseudomonadota and antimicrobial resistance genes in individuals with recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1128/mbio.03482-22
+[Fecal Microbiota Transfer (FMT) in Germany - Status and Perspective].|https://dx.doi.org/10.1055/a-2075-2725
+Unlocking Enhanced Capacitive Deionization of NaTi(2)(PO(4))(3)/Carbon Materials by the Yolk-Shell Design.|https://dx.doi.org/10.1021/jacs.3c01755
+Novel Biomarkers, Including tcdB PCR Cycle Threshold, for Predicting Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1128/iai.00092-23
+Particle size optimization of metal-organic frameworks for superior capacitive deionization in oxygenated saline water.|https://dx.doi.org/10.1039/d2cc06460j
+Structural Basis for Binding of Neutralizing Antibodies to Clostridioides difficile Binary Toxin.|https://dx.doi.org/10.1128/jb.00456-22
+Effect of Mannan-rich fraction supplementation on commercial broiler intestinum tenue and cecum microbiota.|https://dx.doi.org/10.1186/s42523-022-00208-6
+Effect of Selective Decontamination of the Digestive Tract on Hospital Mortality in Critically Ill Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2022.17927
+Manufacturing Process of SER-109, a Purified Investigational Microbiome Therapeutic, Reduces Risk of Coronavirus Transmission From Donor Stool.|https://dx.doi.org/10.1093/ofid/ofac448
+SER-109: An Oral Investigational Microbiome Therapeutic for Patients with Recurrent Clostridioides difficile Infection (rCDI).|https://dx.doi.org/10.3390/antibiotics11091234
+Effectiveness and Safety of Colonic and Capsule Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.cgh.2022.09.008
+[Fecal microbiota transplantation: indications, risks and opportunities].|https://dx.doi.org/10.1007/s00108-022-01399-5
+Development of a New Additive Based on Textile Fibers of End-of-Life Tires (ELT) for Sustainable Asphalt Mixtures with Improved Mechanical Properties.|https://dx.doi.org/10.3390/polym14163250
+Design and manufacture of a lyophilised faecal microbiota capsule formulation to GMP standards.|https://dx.doi.org/10.1016/j.jconrel.2022.08.012
+Validation of Clinical Risk Models for Clostridioides difficile-Attributable Outcomes.|https://dx.doi.org/10.1128/aac.00676-22
+Comparative Evaluation of Three Immunoassays for the Simultaneous Detection of Clostridioides difficile Glutamate Dehydrogenase and Toxin A/B.|https://dx.doi.org/10.3390/microorganisms10050947
+Occurrence of Rotavirus A Genotypes and Other Enteric Pathogens in Diarrheic Suckling Piglets from Spanish Swine Farms.|https://dx.doi.org/10.3390/ani12030251

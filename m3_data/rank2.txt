@@ -1,19 +1,18 @@
-Novel ribotype/sequence type associations and diverse CRISPR-Cas systems in environmental Clostridioides difficile strains from Northern Iraq. (https://dx.doi.org/10.1093/femsle/fnad091)
-A local-scale One Health genomic surveillance of Clostridioides difficile demonstrates highly related strains from humans, canines, and the environment. (https://dx.doi.org/10.1099/mgen.0.001046)
-Clostridioides (Clostridium) difficile in adults with diarrhoea in Vietnam. (https://dx.doi.org/10.1016/j.anaerobe.2023.102741)
-[Study on the features of Clostridioides difficile infection among diarrhea patients in Kunming from 2018 to 2020]. (https://dx.doi.org/10.3760/cma.j.cn112338-20220712-00624)
-Membrane Vesicles of Toxigenic Clostridioides difficile Affect the Metabolism of Liver HepG2 Cells. (https://dx.doi.org/10.3390/antiox12040818)
-Draft Genome Sequences and Genome Characterization of Three Toxigenic and Two Nontoxigenic Clostridioides difficile Clinical Isolates from Florida, USA. (https://dx.doi.org/10.1128/mra.00151-23)
-VE303, a Defined Bacterial Consortium, for Prevention of Recurrent Clostridioides difficile Infection: A Randomized Clinical Trial. (https://dx.doi.org/10.1001/jama.2023.4314)
-Clostridioides difficile in food and food products of animal origin in Assam, India. (https://dx.doi.org/10.1016/j.anaerobe.2023.102723)
-Laboratory diagnosis of Clostridioides difficile infection in symptomatic patients: what can we do better? (https://dx.doi.org/10.1007/s42770-023-00956-w)
-Non-Toxigenic Clostridioides difficile Strain E4 (NTCD-E4) Prevents Establishment of Primary C. difficile Infection by Epidemic PCR Ribotype 027 in an In Vitro Human Gut Model. (https://dx.doi.org/10.3390/antibiotics12030435)
-Effective Colonization by Nontoxigenic Clostridioides difficile REA Strain M3 (NTCD-M3) Spores following Treatment with Either Fidaxomicin or Vancomycin. (https://dx.doi.org/10.1128/spectrum.00517-23)
-Clostridioides difficile aggravates dextran sulfate solution (DSS)-induced colitis by shaping the gut microbiota and promoting neutrophil recruitment. (https://dx.doi.org/10.1080/19490976.2023.2192478)
-A rapid multiplex real-time PCR detection of toxigenic Clostridioides difficile directly from fecal samples. (https://dx.doi.org/10.1007/s13205-022-03434-6)
-Molecular epidemiology of Clostridioides difficile in companion animals: Genetic overlap with human strains and public health concerns. (https://dx.doi.org/10.3389/fpubh.2022.1070258)
-Prevalence, Antimicrobial Resistance and Toxin-Encoding Genes of Clostridioides difficile from Environmental Sources Contaminated by Feces. (https://dx.doi.org/10.3390/antibiotics12010162)
-Comparative biofilm-forming ability between Clostridioides difficile strains isolated in Latin America and the epidemic NAP1/027 strain. (https://dx.doi.org/10.3389/fcimb.2022.1033698)
-Accuracy of diagnostic assays for the detection of Clostridioides difficile: A systematic review and meta-analysis. (https://dx.doi.org/10.1016/j.mimet.2022.106657)
-Frequency of Diarrhea, Stool Specimen Collection and Testing, and Detection of Clostridioides Difficile Infection Among Hospitalized Adults in the Muenster/Coesfeld Area, Germany. (https://dx.doi.org/10.1007/s00284-022-03143-6)
-Clostridioides difficile infection with isolates of cryptic clade C-II: a genomic analysis of polymerase chain reaction ribotype 151. (https://dx.doi.org/10.1016/j.cmi.2022.12.003)
+Novel ribotype/sequence type associations and diverse CRISPR-Cas systems in environmental Clostridioides difficile strains from Northern Iraq.|https://dx.doi.org/10.1093/femsle/fnad091
+A local-scale One Health genomic surveillance of Clostridioides difficile demonstrates highly related strains from humans, canines, and the environment.|https://dx.doi.org/10.1099/mgen.0.001046
+Clostridioides (Clostridium) difficile in adults with diarrhoea in Vietnam.|https://dx.doi.org/10.1016/j.anaerobe.2023.102741
+[Study on the features of Clostridioides difficile infection among diarrhea patients in Kunming from 2018 to 2020].|https://dx.doi.org/10.3760/cma.j.cn112338-20220712-00624
+Membrane Vesicles of Toxigenic Clostridioides difficile Affect the Metabolism of Liver HepG2 Cells.|https://dx.doi.org/10.3390/antiox12040818
+Draft Genome Sequences and Genome Characterization of Three Toxigenic and Two Nontoxigenic Clostridioides difficile Clinical Isolates from Florida, USA.|https://dx.doi.org/10.1128/mra.00151-23
+VE303, a Defined Bacterial Consortium, for Prevention of Recurrent Clostridioides difficile Infection: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2023.4314
+Clostridioides difficile in food and food products of animal origin in Assam, India.|https://dx.doi.org/10.1016/j.anaerobe.2023.102723
+Laboratory diagnosis of Clostridioides difficile infection in symptomatic patients: what can we do better?|https://dx.doi.org/10.1007/s42770-023-00956-w
+Non-Toxigenic Clostridioides difficile Strain E4 (NTCD-E4) Prevents Establishment of Primary C. difficile Infection by Epidemic PCR Ribotype 027 in an In Vitro Human Gut Model.|https://dx.doi.org/10.3390/antibiotics12030435
+Effective Colonization by Nontoxigenic Clostridioides difficile REA Strain M3 (NTCD-M3) Spores following Treatment with Either Fidaxomicin or Vancomycin.|https://dx.doi.org/10.1128/spectrum.00517-23
+Clostridioides difficile aggravates dextran sulfate solution (DSS)-induced colitis by shaping the gut microbiota and promoting neutrophil recruitment.|https://dx.doi.org/10.1080/19490976.2023.2192478
+A rapid multiplex real-time PCR detection of toxigenic Clostridioides difficile directly from fecal samples.|https://dx.doi.org/10.1007/s13205-022-03434-6
+Molecular epidemiology of Clostridioides difficile in companion animals: Genetic overlap with human strains and public health concerns.|https://dx.doi.org/10.3389/fpubh.2022.1070258
+Prevalence, Antimicrobial Resistance and Toxin-Encoding Genes of Clostridioides difficile from Environmental Sources Contaminated by Feces.|https://dx.doi.org/10.3390/antibiotics12010162
+Comparative biofilm-forming ability between Clostridioides difficile strains isolated in Latin America and the epidemic NAP1/027 strain.|https://dx.doi.org/10.3389/fcimb.2022.1033698
+Accuracy of diagnostic assays for the detection of Clostridioides difficile: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.mimet.2022.106657
+Frequency of Diarrhea, Stool Specimen Collection and Testing, and Detection of Clostridioides Difficile Infection Among Hospitalized Adults in the Muenster/Coesfeld Area, Germany.|https://dx.doi.org/10.1007/s00284-022-03143-6

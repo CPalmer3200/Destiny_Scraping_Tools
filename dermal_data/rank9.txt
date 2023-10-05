@@ -1,16 +1,17 @@
-The examination of some virulence factors in S. aureus isolates obtained from the healthy human population, sheep mastitis, and cheese. (https://dx.doi.org/10.22099/IJVR.2023.43730.6410)
-The chemorepellent, SLIT2, bolsters innate immunity against Staphylococcus aureus. (https://dx.doi.org/10.7554/eLife.87392)
-Liposome-loaded polymeric microneedles for enhanced skin deposition of rifampicin. (https://dx.doi.org/10.1016/j.ijpharm.2023.123446)
-Phages for treatment of Staphylococcus aureus infection. (https://dx.doi.org/10.1016/bs.pmbts.2023.03.027)
-Factors that influence safe water drinking practices among older persons in slums of Kampala: Analyzing disparities in boiling water. (https://dx.doi.org/10.1371/journal.pone.0291980)
-Designing a novel chimeric multi-epitope vaccine subunit against Staphylococcus argenteus through artificial intelligence approach integrating pan-genome analysis, in vitro identification, and immunogenicity profiling. (https://dx.doi.org/10.1080/07391102.2023.2256881)
-The clinical characteristics and molecular epidemiology of methicillin-resistant Staphylococcus aureus (MRSA) among very elderly people in Japan. (https://dx.doi.org/10.1111/ggi.14664)
-Ets1 and IL17RA cooperate to regulate autoimmune responses and skin immunity to Staphylococcus aureus. (https://dx.doi.org/10.3389/fimmu.2023.1208200)
-Machine learning to predict risk for community-onset Staphylococcus aureus infections in children living in southeastern United States. (https://dx.doi.org/10.1371/journal.pone.0290375)
-Maintenance of heme homeostasis in Staphylococcus aureus through post-translational regulation of glutamyl-tRNA reductase. (https://dx.doi.org/10.1128/jb.00171-23)
-Inhibition of α-hemolysin activity of Staphylococcus aureus by theaflavin 3,3'-digallate. (https://dx.doi.org/10.1371/journal.pone.0290904)
-Optimal drug therapy for Staphylococcus aureus bacteraemia in adults. (https://dx.doi.org/10.1097/MCC.0000000000001072)
-Anthraquinone Derivatives and Other Aromatic Compounds from Marine Fungus Asteromyces cruciatus KMM 4696 and Their Effects against Staphylococcus aureus. (https://dx.doi.org/10.3390/md21080431)
-Methicillin-resistant Staphylococcus aureus-induced staphylococcal scalded skin syndrome in a preterm infant, and subsequent toxigenic analysis. (https://dx.doi.org/10.1111/1346-8138.16929)
-Stevens-johnson Syndrome and Toxic Epidermal Necrolysis: An Overview of Diagnosis, Therapy Options and Prognosis of Patients. (https://dx.doi.org/10.2174/2772270817666230821102441)
-Fast, bedside diagnosis of toxic epidermal necrolysis using ex vivo confocal laser scanning microscopy: A retrospective study. (https://dx.doi.org/10.1111/jdv.19424)
+Characterisation of neonatal Staphylococcus capitis NRCS-A isolates compared with non NRCS-A Staphylococcus capitis from neonates and adults.|https://dx.doi.org/10.1099/mgen.0.001106
+The examination of some virulence factors in S. aureus isolates obtained from the healthy human population, sheep mastitis, and cheese.|https://dx.doi.org/10.22099/IJVR.2023.43730.6410
+The chemorepellent, SLIT2, bolsters innate immunity against Staphylococcus aureus.|https://dx.doi.org/10.7554/eLife.87392
+Liposome-loaded polymeric microneedles for enhanced skin deposition of rifampicin.|https://dx.doi.org/10.1016/j.ijpharm.2023.123446
+Phages for treatment of Staphylococcus aureus infection.|https://dx.doi.org/10.1016/bs.pmbts.2023.03.027
+Factors that influence safe water drinking practices among older persons in slums of Kampala: Analyzing disparities in boiling water.|https://dx.doi.org/10.1371/journal.pone.0291980
+Designing a novel chimeric multi-epitope vaccine subunit against Staphylococcus argenteus through artificial intelligence approach integrating pan-genome analysis, in vitro identification, and immunogenicity profiling.|https://dx.doi.org/10.1080/07391102.2023.2256881
+The clinical characteristics and molecular epidemiology of methicillin-resistant Staphylococcus aureus (MRSA) among very elderly people in Japan.|https://dx.doi.org/10.1111/ggi.14664
+Ets1 and IL17RA cooperate to regulate autoimmune responses and skin immunity to Staphylococcus aureus.|https://dx.doi.org/10.3389/fimmu.2023.1208200
+Machine learning to predict risk for community-onset Staphylococcus aureus infections in children living in southeastern United States.|https://dx.doi.org/10.1371/journal.pone.0290375
+Maintenance of heme homeostasis in Staphylococcus aureus through post-translational regulation of glutamyl-tRNA reductase.|https://dx.doi.org/10.1128/jb.00171-23
+Inhibition of α-hemolysin activity of Staphylococcus aureus by theaflavin 3,3'-digallate.|https://dx.doi.org/10.1371/journal.pone.0290904
+Fish collagen peptides' modulating effect on human skin microbiota against pathogenic Staphylococcus aureus.|https://dx.doi.org/10.2217/fmb-2022-0208
+Optimal drug therapy for Staphylococcus aureus bacteraemia in adults.|https://dx.doi.org/10.1097/MCC.0000000000001072
+Anthraquinone Derivatives and Other Aromatic Compounds from Marine Fungus Asteromyces cruciatus KMM 4696 and Their Effects against Staphylococcus aureus.|https://dx.doi.org/10.3390/md21080431
+Methicillin-resistant Staphylococcus aureus-induced staphylococcal scalded skin syndrome in a preterm infant, and subsequent toxigenic analysis.|https://dx.doi.org/10.1111/1346-8138.16929
+Stevens-johnson Syndrome and Toxic Epidermal Necrolysis: An Overview of Diagnosis, Therapy Options and Prognosis of Patients.|https://dx.doi.org/10.2174/2772270817666230821102441
