@@ -90,7 +90,9 @@ def update_table_of_contents(doc):
     settings_element.append(update_fields_element)
 
 
-def send_email(project, file_name):
+def send_email(directory, project):
+
+    location = f'{directory}lit_review.docx'
 
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
@@ -108,9 +110,9 @@ def send_email(project, file_name):
     em['Subject'] = subject
     em.attach(MIMEText(body))
 
-    with open(file_name, 'rb') as attachment_file:
+    with open(location, 'rb') as attachment_file:
         attachment = MIMEApplication(attachment_file.read(), _subtype="docx")
-        attachment.add_header('Content-Disposition', f'attachment; filename="{file_name}"')
+        attachment.add_header('Content-Disposition', f'attachment; filename="lit_review.docx"')
         em.attach(attachment)
 
     context = ssl.create_default_context()
@@ -130,7 +132,6 @@ def clear_ranks(directory, files_list):
         file_path = f'{directory}{file}'
         if os.path.exists(file_path):
             os.remove(file_path)
-            print(f"File '{file_path}' has been deleted.")
         else:
             print(f"File '{file_path}' does not exist.")
             temp+=1
@@ -142,10 +143,22 @@ def clear_ranks(directory, files_list):
         print('All rank files successfully cleared')
 
 
+def review_log(project):
+    # Create date and log string
+    date = datetime.datetime.now()
+    date = date.strftime("%H:%M %d/%m/%Y")
+    changes_log = f'{date}, {project} review sent'
+
+    # Write to file and print
+    with open('review_log.txt', 'a') as log:
+        log.write(changes_log + '\n')
+    print('Changes logged')
+
+
 if __name__ == '__main__':
 
     # State directories
-    directories = ['m3_data/']
+    directories = ['m3_data/', 'nasal_data/', 'dermal_data/']
 
     # Begin loop over directories list
     for directory in directories:
@@ -156,27 +169,33 @@ if __name__ == '__main__':
         # Loop over the listed ranks within each directory
         for rank in ranks:
             data_dict = extract_data(directory, rank, data_dict)
-        print(data_dict)
-        # Import the correct template
-        doc, project = import_template(directory)
-        print('Sourced template')
 
-
+        # Remove the '.txt' extension from the key (not recognised by jinja2)
         new_dict = {}
         for key, value in data_dict.items():
-            new_key = key.replace('.txt', '')  # Remove the '.txt' extension from the key
+            new_key = key.replace('.txt', '')
             new_dict[new_key] = value
-        print(new_dict)
 
+        # Import the correct template
+        doc, project = import_template(directory)
+        print(f'Sourced {project} template')
 
-        # Create the lit reviews
+        # Create the lit review
         final_doc = create_file(directory, doc, new_dict)
+        print(f'Assembled {project} literature review')
 
         # Send email with literature review attached
-        # send_email(project, final_doc)
+        # send_email(directory, project)
+        # print(f'{project} email delivered')
 
         # Clear all the rank files
-        # clear_ranks(directory, ranks)
+        #clear_ranks(directory, ranks)
+
+        # Log review sent
+        #review_log(project)
+
+    # Final print statement
+    print('Queries complete, returning to sleep')
 
 
 
