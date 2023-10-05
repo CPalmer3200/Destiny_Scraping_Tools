@@ -1,0 +1,9 @@
+(burn wound infection OR burn wound OR burns) AND (Staphylococcus aureus OR S. aureus OR Staph OR MSSA OR MRSA OR methicillin resistant staphylococcus aureus)
+(diabetic foot ulcer OR DFU) AND (infection OR antimicrobial)
+(venous leg ulcer OR VLU) AND (infection OR antimicrobial)
+(dressing OR hydrogel OR dressings) AND (bacterial OR antimicrobial OR antibacterial) AND (Staphylococcus aureus OR S. aureus OR Staph OR MSSA OR MRSA OR methicillin resistant staphylococcus aureus)
+(dermal OR skin) AND (biofilm OR microcolony)
+atopic dermatitis AND (Staphylococcus aureus OR S. aureus OR Staph OR MSSA OR MRSA OR methicillin resistant staphylococcus aureus)
+dermal AND (fungal OR candida)
+Mupirocin OR dermal mupirocin OR Retapamulin OR Altabax
+Staphylococcal skin infection OR scalded skin infection OR scalded skin syndrome

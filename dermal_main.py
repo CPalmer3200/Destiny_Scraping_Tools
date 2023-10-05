@@ -92,7 +92,7 @@ def string_formatter(title, doi):
 
 # Write to the correct database
 def write_to_rank(rank, text):
-    with open(f'rank{rank}.txt', 'a', encoding='utf-8') as file:
+    with open(f'dermal_data/rank{rank}.txt', 'a', encoding='utf-8') as file:
         file.write(text + '\n')
 
 
@@ -113,8 +113,8 @@ def html_formatting(email_body):
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
 
-    search_queries = 'This search was performed using the terms "nasal decolonisation/decolonization"' \
-                ' AND "Staphylococcus aureus/S. aureus/Staph/MSSA/MRSA/methicillin resistant staphylococcus aureus"'
+    search_queries = 'This search was performed using the terms "burn wound infection/burn wound/burns" and' \
+                     '"Staphylococcus aureus/S. aureus/Staph/MSSA/MRSA/methicillin resistant staphylococcus aureus"'
     destiny_url = 'https://www.destinypharma.com/'
 
     html = f"""
@@ -163,7 +163,7 @@ def html_formatting(email_body):
             <body>
                 <img src="cid:image">
                 <div class="container">
-                    <h1 style="text-align: center;">New high priority papers are available on PubMed (XF-73 Nasal {date})</h1>
+                    <h1 style="text-align: center;">New high priority papers are available on PubMed (XF-73 Dermal {date})</h1>
                 </div>
                 {email_body}
                 <hr> <!-- Black line -->
@@ -187,7 +187,7 @@ def send_email(email_text):
     email_password = 'mygx cllt nzsd stor'
     email_receiver = 'christopher.palmer32@gmail.com'
 
-    subject = f'New high priority literature (XF-73 Nasal {date})'
+    subject = f'New high priority literature (XF-73 Dermal {date})'
     body = email_text
 
     em = MIMEMultipart()
@@ -212,8 +212,6 @@ def send_email(email_text):
 
 if __name__ == '__main__':
 
-    # Parse args and create empty variables
-    doi_db, topic_list = get_args()
     queries = []
     email_body = ""
     rank = 1
@@ -221,7 +219,7 @@ if __name__ == '__main__':
     changes = {}
 
     # Extract search queries to a list
-    with open('queries.txt', 'r') as search_queries:
+    with open('dermal_data/dermal_queries.txt', 'r') as search_queries:
         for line in search_queries:
             line = line.rstrip()
             queries.append(line)
@@ -233,7 +231,7 @@ if __name__ == '__main__':
 
         # Check DOI for duplicate or non-dupe
         for doi, info in bot_search.items():
-            status, doi = doi_checker(doi, doi_db)
+            status, doi = doi_checker(doi, 'dermal_data/doi_db.txt')
 
             if not status:
                 # Add 1 to new paper count
@@ -260,8 +258,9 @@ if __name__ == '__main__':
         # Log the changes of new papers for this rank
         changes[rank] = new_paper_count
 
-        # Add 1 to the rank variable
-        rank +=1
+        # Add 1 to the rank variable and reset new paper count
+        rank += 1
+        new_paper_count = 0
 
     # Send email if any high priority papers are recorded
     if email_body != "":
@@ -289,7 +288,7 @@ if __name__ == '__main__':
     changes_log = f'{date}, {formatted_string}'
 
     # Write to file and print
-    with open('log.txt', 'a') as log:
+    with open('dermal_data/log.txt', 'a') as log:
         log.write(changes_log + '\n')
     print(changes_log)
 

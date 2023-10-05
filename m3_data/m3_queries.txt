@@ -1,0 +1,12 @@
+(Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND (recurrent OR recurrence OR Dale Gerding OR Mark Wilcox OR Sahil Khanna)
+Nontoxigenic C difficile OR Non-toxigenic C. difficile OR Non toxigenic Clostridioides difficile OR Non-toxigenic Clostridioides difficile OR Non-toxigenic Clostridium difficile OR Nontoxigenic Clostridioides difficile OR Non-toxigenic Clostridium difficile OR NTCD-M3/VP20621
+(guideline OR guidelines OR recommendations) AND (Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI)
+(Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND (FMT OR Fecal Microbiota Transplant OR Faecal Microbiota Transplant OR Washed microbiota transplantation)
+(Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND vancomycin
+(Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND vaccine
+PF-06425090 OR SER-109 OR VOWST OR cp-101 OR VE303 OR GSK2904545A OR MET-2 OR Ribaxamase OR SYN-004 OR SER-262 OR IMM-529 OR Ibezapolstat OR MGB-BP-3 OR RBX2660 OR Rebyota OR Rebiotix OR Ridinilazole OR Zinplava OR CRS3123 OR DNV3837 OR DNV3681 OR Tebipenem OR tebipenem pivoxil hydrobromide OR TP-271 OR TNP-2092 OR PolyCAb OR DAV132 OR bezlotuxumab OR Dificlir
+(Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND (MGB OR Microbiota-gut brain)
+CDAD OR Clostridium difficile associated disease OR C. difficile associated disease OR Clostridioides difficile associated disease OR Clostridium difficile-associated disease OR C. difficile-associated disease OR Clostridioides difficile-associated disease
+(Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND manufacture
+((Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile) AND CDI) OR (metronidazole OR vancomycin OR fidaxomicin)
+(Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI)
