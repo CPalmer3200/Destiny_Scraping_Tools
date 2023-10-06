@@ -13,3 +13,16 @@ TiO(2) loaded on glycidol functionalized poly(3-hydroxybutyrate-co-3-hydroxyhexa
 Staphylococcus aureus adapts to the immunometabolite itaconic acid by inducing acid and oxidative stress responses including S-bacillithiolations and S-itaconations.|https://dx.doi.org/10.1016/j.freeradbiomed.2023.09.031
 Assessment and prediction of hexavalent chromium vulnerability in groundwater by Geochemical modelling, NOBLES Index and Random Forest Model.|https://dx.doi.org/10.1016/j.scitotenv.2023.167570
 Dual Surgical Setup Associated with Reduced Infection Recurrence for Hip and Knee Arthroplasty After Two-Stage Exchange.|https://dx.doi.org/10.5435/JAAOS-D-23-00317
+The effect and mechanism of iodophors on the adhesion and virulence of Staphylococcus aureus biofilms attached to artificial joint materials.|https://dx.doi.org/10.1186/s13018-023-04246-x
+Bacterial contamination of healthcare workers' mobile phones in Africa: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s41182-023-00547-3
+Agarose fibers with glycerol and graphene oxide and functional properties for potential application in biomaterials.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127204
+Porphyrin-based covalent organic polymers with customizable photoresponses for photodynamic inactivation of bacteria.|https://dx.doi.org/10.1016/j.scitotenv.2023.167475
+An experimental setup and segmentation method for CFU counting on agar plate for the assessment of drinking water.|https://dx.doi.org/10.1016/j.mimet.2023.106829
+Targeting Dalbavancin Inoculum Effect: Adjunctive Single Dose of Daptomycin.|https://dx.doi.org/10.1007/s40121-023-00875-1
+Analysis of Antibacterial Efficacy and Cellular Alignment Regulation on Plasma Nanotextured Chitosan Surfaces.|https://dx.doi.org/10.1021/acs.langmuir.3c01808
+Preparation and Application of High-Efficiency, Antibacterial, and Antiviral PET-PTHP Fibers.|https://dx.doi.org/10.1021/acsami.3c10788
+Gold Nanoparticles Capped with a Novel Titanium(IV)-Containing Polyoxomolybdate Cluster: Selective and Enhanced Bactericidal Effect Against Escherichia coli.|https://dx.doi.org/10.1002/smll.202305169
+Echinacoside, a promising sortase A inhibitor, combined with vancomycin against murine models of MRSA-induced pneumonia.|https://dx.doi.org/10.1007/s00430-023-00782-9
+Clinical Staphylococcus aureus inhibits human T-cell activity through interaction with the PD-1 receptor.|https://dx.doi.org/10.1128/mbio.01349-23
+Executive Summary: Periprosthetic Joint Infection-Current Clinical Challenges.|https://dx.doi.org/10.1093/cid/ciad457
+Staphylococcus aureus delta toxin modulates both extracellular membrane vesicle biogenesis and amyloid formation.|https://dx.doi.org/10.1128/mbio.01748-23

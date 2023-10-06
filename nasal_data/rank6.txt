@@ -12,3 +12,4 @@ Guideline for allergological diagnosis of drug hypersensitivity reactions: S2k G
 Topical antibiotics prophylaxis for infections of indwelling pleural/peritoneal catheters (TAP-IPC): A pilot study.|https://dx.doi.org/10.1111/resp.14595
 Designing a novel chimeric multi-epitope vaccine subunit against Staphylococcus argenteus through artificial intelligence approach integrating pan-genome analysis, in vitro identification, and immunogenicity profiling.|https://dx.doi.org/10.1080/07391102.2023.2256881
 Formulation and Characterization of Mupirocin Nanomicelles in Insulin-Based Gel for Dermatological Application.|https://dx.doi.org/10.4103/jpbs.jpbs_172_23
+Incidence, associated burden of disease, and healthcare utilisation of prosthetic joint infections due to Staphylococcus aureus in European hospitals. The COMBACTE-NET ARTHR-IS multicentre study.|https://dx.doi.org/10.1016/j.jhin.2023.09.012

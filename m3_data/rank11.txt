@@ -14,3 +14,10 @@ Tigecycline Tango: A Case of Antibiotic-Induced Pancreatitis.|https://dx.doi.org
 Community-associated methicillin-resistant Staphylococcus aureus infection of diabetic foot ulcers in an eastern diabetic foot center in a tertiary hospital in China: a retrospective study.|https://dx.doi.org/10.1186/s12879-023-08631-z
 Bioequivalence Evaluation of Topical Metronidazole Products Using Dermal Microdialysis in New Zealand Rabbits.|https://dx.doi.org/10.1208/s12249-023-02660-2
 Transient reactive phlebitis and intravenous ciprofloxacin: Is there an association?|https://dx.doi.org/10.1136/bcr-2022-254289
+Incidence and risk factors of neonatal bacterial infections: a community-based cohort from Madagascar (2018-2021).|https://dx.doi.org/10.1186/s12879-023-08642-w
+Complications of hymenoplasty.|https://dx.doi.org/10.1136/bcr-2022-251008
+Safety and feasibility of faecal microbiota transplantation for patients with Parkinson's disease: a protocol for a self-controlled interventional donor-FMT pilot study.|https://dx.doi.org/10.1136/bmjopen-2023-071766
+Meta-analysis of Efficacy of Perioperative Oral Antibiotics in Intestinal Surgery with Surgical Site Infection.|https://dx.doi.org/10.1016/j.jgar.2023.09.017
+Targeting Dalbavancin Inoculum Effect: Adjunctive Single Dose of Daptomycin.|https://dx.doi.org/10.1007/s40121-023-00875-1
+Vancomycin Removal and Pharmacokinetics During Accelerated Venovenous Hemofiltration.|https://dx.doi.org/10.1002/phar.2885
+Echinacoside, a promising sortase A inhibitor, combined with vancomycin against murine models of MRSA-induced pneumonia.|https://dx.doi.org/10.1007/s00430-023-00782-9

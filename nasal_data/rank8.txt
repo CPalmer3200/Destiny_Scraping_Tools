@@ -15,3 +15,17 @@ Comparison of central venous catheter thoracic drainage and traditional closed t
 Comparison of two surgical interventions for lumbar brucella spondylitis in adults: a retrospective analysis.|https://dx.doi.org/10.1038/s41598-023-43812-5
 Radical debridement guided by advanced imaging and frequent monitoring is an effective approach for the treatment of odontogenic abscesses and jaw osteomyelitis in rabbits: a review of 200 cases (2018-2023).|https://dx.doi.org/10.2460/javma.23.06.0332
 Medieval (arrow) weapon injuries in contemporary surgical practice: Impaled posterior thoracic wall arrowhead leading to haemo-thorax: Management protocols. Case report.|https://dx.doi.org/10.1016/j.ijscr.2023.108866
+Minimally invasive tubular microdiscectomy for recurrent lumbar disc herniation: step-by-step technical description with safe scar dissection.|https://dx.doi.org/10.1186/s13018-023-04226-1
+The Impact of Helicobacter pylori on Laparoscopic Sleeve Gastrectomy Postoperative Complications: a Systematic Review and Meta-analysis.|https://dx.doi.org/10.1007/s11695-023-06858-y
+Minimally Invasive SI Joint Fusion Procedures for Chronic SI Joint Pain: Systematic Review and Meta-Analysis of Safety and Efficacy.|https://dx.doi.org/10.14444/8543
+The Association of Intraoperative and Early Postoperative Events with Risk of Pneumonia Following Cardiac Surgery.|https://dx.doi.org/10.1016/j.jtcvs.2023.09.056
+Differentiating Spinal Pathologies by Deep Learning Approach.|https://dx.doi.org/10.1016/j.spinee.2023.09.019
+Mollicutes-related infections in thoracic surgery including lung and heart transplantation: a systematic review.|https://dx.doi.org/10.1016/j.healun.2023.09.023
+Risk factors for postoperative infection after bilateral sagittal split ramus osteotomy: A retrospective analysis.|https://dx.doi.org/10.1016/j.jormas.2023.101613
+Meta-analysis of Efficacy of Perioperative Oral Antibiotics in Intestinal Surgery with Surgical Site Infection.|https://dx.doi.org/10.1016/j.jgar.2023.09.017
+Retrocaval ureter in a child presenting at a regional referral hospital in South-Western Uganda: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.108899
+Pull-Through for Hirschsprung's Disease: Insights for Limited-Resource Settings From Mbarara.|https://dx.doi.org/10.1016/j.jss.2023.09.014
+Validation of measures for perioperative urinary catheter use, urinary retention, and urinary catheter-related trauma in surgical patients.|https://dx.doi.org/10.1016/j.amjsurg.2023.09.027
+Outcomes of Surgically Treated Pilon Fractures: A Comparison of Patients with and without Diabetes.|https://dx.doi.org/10.1097/BOT.0000000000002701
+Use of Ozonized Water in the Prevention of Surgical Site Infection in Children Undergoing Cardiovascular Surgery.|https://dx.doi.org/10.21470/1678-9741-2023-0006
+Deep Infection After Anterior Cruciate Ligament Reconstruction Diagnosed by Intratunnel Suspensory Fixation Device Migration: A Case Report.|https://dx.doi.org/10.2106/JBJS.CC.23.00312

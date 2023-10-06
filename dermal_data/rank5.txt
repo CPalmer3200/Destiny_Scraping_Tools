@@ -16,3 +16,5 @@ Biofilm Models: Different Ways of Biofilm Characterization and Drug Discovery.|h
 Microbiota of long-term indwelling hemodialysis catheters during renal transplantation perioperative period: a cross-sectional metagenomic microbial community analysis.|https://dx.doi.org/10.1080/0886022X.2023.2256421
 Attenuation of NLRP3 Inflammasome by Cigarette Smoke is Correlated with Decreased Defense Response of Oral Epithelial Cells to Candida albicans.|https://dx.doi.org/10.2174/1566524023666230612143038
 Molecular docking analysis of juglone with parvulin-type PPiase PrsA from Staphylococcus aureus.|https://dx.doi.org/10.6026/97320630019048
+Echinacoside, a promising sortase A inhibitor, combined with vancomycin against murine models of MRSA-induced pneumonia.|https://dx.doi.org/10.1007/s00430-023-00782-9
+Alkaline phosphatase LapA regulates quorum sensing-mediated virulence and biofilm formation in Pseudomonas aeruginosa PAO1 under phosphate depletion stress.|https://dx.doi.org/10.1128/spectrum.02060-23

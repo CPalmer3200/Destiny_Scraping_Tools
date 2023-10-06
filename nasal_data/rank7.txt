@@ -18,3 +18,22 @@ THE IMPACT OF THE COVID-19 PANDEMIC ON ENDOSCOPIC ULTRASOUND PROCEDURES IN A HIG
 Prescription of anti-influenza drugs in Japan, 2014-2020: A retrospective study using open data from the national claims database.|https://dx.doi.org/10.1371/journal.pone.0291673
 Development and Implementation of DIALOG+S in the School Setting as a Tool for Promoting Adolescent Mental Well-Being and Resilience in a Post-Armed Conflict Area in Colombia: Exploratory Cluster Randomized Controlled Trial.|https://dx.doi.org/10.2196/46757
 A Natural Language Processing Model for COVID-19 Detection Based on Dutch General Practice Electronic Health Records by Using Bidirectional Encoder Representations From Transformers: Development and Validation Study.|https://dx.doi.org/10.2196/49944
+The status of active after-school clubs among primary school children in England (UK) after the COVD-19 lockdowns: implications for policy and practice.|https://dx.doi.org/10.1186/s12966-023-01499-x
+Efficacy and Safety of Reparixin in Patients with Severe COVID-19 Pneumonia: A Phase 3, Randomized, Double-Blind Placebo-Controlled Study.|https://dx.doi.org/10.1007/s40121-023-00871-5
+Viral kinetics of sequential SARS-CoV-2 infections.|https://dx.doi.org/10.1038/s41467-023-41941-z
+How to increase and maintain high immunization coverage: Vaccination Demand Resilience (VDR) framework.|https://dx.doi.org/10.1016/j.vaccine.2023.09.027
+The impact of COVID-19 on patients diagnosed with melanoma, breast, and colorectal cancer.|https://dx.doi.org/10.1016/j.amjsurg.2023.09.040
+A Dynamic Model for Estimating the Retention Duration of Neutralizing Antibody Titers after Vaccination in a COVID-19 Convalescent Population.|https://dx.doi.org/10.1093/infdis/jiad431
+Effectiveness of mRNA COVID-19 monovalent and bivalent vaccine booster doses against Omicron severe outcomes among adults aged ≥50 years in Ontario, Canada: a Canadian Immunization Research Network (CIRN) Study.|https://dx.doi.org/10.1093/infdis/jiad419
+Phellinus linteus mycelia extract in COVID-19 prevention and identification of its key metabolic compounds profiling using UPLC-QTOF-MS/MS spectrometry.|https://dx.doi.org/10.1016/j.fitote.2023.105695
+Recent developments in frailty identification, management, risk factors and prevention: A narrative review of leading journals in geriatrics and gerontology.|https://dx.doi.org/10.1016/j.arr.2023.102082
+Scoping review on the efficacy of filter and germicidal technologies for capture and inactivation of microorganisms and viruses.|https://dx.doi.org/10.1016/j.jhin.2023.08.026
+Negative changes in illicit drug supply during COVID-19: Associations with use of overdose prevention and health services among women sex workers who use drugs (2020-2021).|https://dx.doi.org/10.1016/j.drugpo.2023.104212
+COVID-19 vaccination and myasthenia gravis.|https://dx.doi.org/10.1111/ene.16087
+Ryan White participation increased the prevalence of COVID-19 vaccination among PLWH in Michigan.|https://dx.doi.org/10.1097/QAI.0000000000003315
+Probing the Nucleic Acid Flexibility to Disarm the Viral Counter-Defense Machinery: Design and Characterization of Potent p19 Inhibitors.|https://dx.doi.org/10.1021/acs.jpcb.3c04788
+Exploratory study of risk factors related to SARS-CoV-2 prevalence in nursing homes in Flanders (Belgium) during the first wave of the COVID-19 pandemic.|https://dx.doi.org/10.1371/journal.pone.0292596
+Performance evaluation of Biofire Film Array Respiratory Panel 2.1 for SARS-CoV-2 detection in a pediatric hospital setting.|https://dx.doi.org/10.1371/journal.pone.0292314
+Mapping SARS-CoV-2 antigenic relationships and serological responses.|https://dx.doi.org/10.1126/science.adj0070
+A next-generation intranasal trivalent MMS vaccine induces durable and broad protection against SARS-CoV-2 variants of concern.|https://dx.doi.org/10.1073/pnas.2220403120
+Existing workloads among managers and healthcare workers during the COVID-19 pandemic: Meanings in the Amazon context.|https://dx.doi.org/10.1371/journal.pone.0292541

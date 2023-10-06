@@ -48,11 +48,11 @@ def import_template(directory):
         project = 'XF-73 Nasal'
     elif directory == 'dermal_data/':
         doc = DocxTemplate("dermal_template.docx")
-        project = 'XF-73 Nasal'
+        project = 'XF-73 Dermal'
     return doc, project
 
 
-def create_file(directory, template, data_dict):
+def create_file(directory, template, data_dict, start_date):
 
     doc = template
 
@@ -61,7 +61,7 @@ def create_file(directory, template, data_dict):
 
     # Add context to the template
     context = {
-        "start_date": 'Start date',
+        "start_date": start_date,
         "end_date": end_date
     }
 
@@ -83,7 +83,6 @@ def create_file(directory, template, data_dict):
             papers_list.append(rt)
         new_dictionary[key] = papers_list
 
-    print(new_dictionary)
 
     for key, rt_list in new_dictionary.items():
         context[key] = rt_list
@@ -119,7 +118,7 @@ def send_email(directory, project):
     email_receiver = 'christopher.palmer32@gmail.com'
 
     subject = f'Literature review ({project} {date})'
-    body = 'Please find attached the latest literature review'
+    body = f'Please find attached the latest literature review for {project} ({date})'
 
     em = MIMEMultipart()
     em['From'] = email_sender
@@ -177,10 +176,13 @@ if __name__ == '__main__':
     # State directories
     directories = ['nasal_data/', 'm3_data/', 'dermal_data/']
 
+    # Fetch starting date of the literature reviews
+    with open('start_date.txt', 'r') as file:
+        start_date = file.readline().strip()
+
     # Begin loop over directories list
     for directory in directories:
         ranks = list_rank_files(directory)
-        print(ranks)
         data_dict = {}
 
         # Loop over the listed ranks within each directory
@@ -198,18 +200,24 @@ if __name__ == '__main__':
         print(f'Sourced {project} template')
 
         # Create the lit review
-        final_doc = create_file(directory, doc, new_dict)
+        final_doc = create_file(directory, doc, new_dict, start_date)
         print(f'Assembled {project} literature review')
 
         # Send email with literature review attached
-        #send_email(directory, project)
-        #print(f'{project} email delivered')
+        send_email(directory, project)
+        print(f'{project} email delivered')
 
         # Clear all the rank files
         #clear_ranks(directory, ranks)
 
         # Log review sent
         #review_log(project)
+
+    # Log start date for beginning new literature search
+    date = datetime.date.today()
+    date = date.strftime('%d/%m/%Y')
+    with open('start_date.txt', 'w') as start_date_file:
+        start_date_file.write(date)
 
     # Final print statement
     print('Queries complete, returning to sleep')

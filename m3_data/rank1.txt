@@ -18,3 +18,5 @@ Short-course empiric antibiotics in children undergoing allogeneic hematopoietic
 Long-term Safety Outcomes of Fecal Microbiota Transplantation: Real-World Data over Eight Years from the Hong Kong FMT Registry.|https://dx.doi.org/10.1016/j.cgh.2023.09.001
 A Potent and Narrow-Spectrum Antibacterial against Clostridioides difficile Infection.|https://dx.doi.org/10.1021/acs.jmedchem.3c01249
 Novel, non-colonizing, single-strain live biotherapeutic product ADS024 protects against Clostridioides difficile infection challenge in vivo.|https://dx.doi.org/10.4291/wjgp.v14.i4.71
+An open-label, randomized trial comparing fidaxomicin to oral vancomycin for the treatment of Clostridioides difficile infection in hospitalized patients receiving concomitant antibiotics for concurrent infections.|https://dx.doi.org/10.1093/cid/ciad606
+Identification of Micrococcin P2-Derivatives as Antibiotic Candidates against Two Gram-Positive Pathogens.|https://dx.doi.org/10.1021/acs.jmedchem.3c01309
