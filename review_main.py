@@ -5,17 +5,16 @@ import ssl
 import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from email.mime.image import MIMEImage
 from email.mime.application import MIMEApplication
 import docx.oxml
 import docx.oxml.ns as ns
-
 
 
 # Function to list all rank.txt files within the specified directory
 def list_rank_files(directory):
     rank_files = []
 
+    # Find all rank.txt files within the specified dictionary
     for root, _, files in os.walk(directory):
         for file in files:
             if file.endswith('.txt') and 'rank' in file:
@@ -39,6 +38,7 @@ def extract_data(directory, rank_file, data_dict):
     return data_dict
 
 
+# Simple function to fetch the correct template and project name
 def import_template(directory):
     if directory == 'm3_data/':
         doc = DocxTemplate("m3_template.docx")
@@ -56,6 +56,7 @@ def create_file(directory, template, data_dict, start_date):
 
     doc = template
 
+    # Fetch the current date
     end_date = datetime.date.today()
     end_date = end_date.strftime('%d/%m/%Y')
 
@@ -69,26 +70,34 @@ def create_file(directory, template, data_dict, start_date):
     doc.render(context)
     doc.save(f'{directory}lit_review.docx')
 
+    # Loop over the keys and corresponding variables in the dictionary
     new_dictionary = {}
     for key, data_list in data_dict.items():
         papers_list = []
+
+        # Split the string into title and url
         for item in data_list:
             split_string = item.split('|')
             title = split_string[0]
             url = split_string[1]
 
             rt = RichText()
-            rt.add(title, url_id=doc.build_url_id(url))
+            rt.add(title, url_id=doc.build_url_id(url))  # Define text as rich text object and hyperlink the url
 
+            # Append to a new list
             papers_list.append(rt)
+        # Append to the correct key in a new dictionary
         new_dictionary[key] = papers_list
 
-
+    # Loop over the new dictionary and input the data as context
     for key, rt_list in new_dictionary.items():
         context[key] = rt_list
+
+    # Render the document and update table of contents
     doc.render(context)
     update_table_of_contents(doc)
 
+    # Save the document in the given directory
     doc.save(f'{directory}lit_review.docx')
 
     return doc
@@ -108,8 +117,10 @@ def update_table_of_contents(doc):
 
 def send_email(directory, project):
 
+    # Build the path of the file
     location = f'{directory}lit_review.docx'
 
+    # Fetch the current date
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
 
@@ -126,6 +137,7 @@ def send_email(directory, project):
     em['Subject'] = subject
     em.attach(MIMEText(body))
 
+    # Attach the lit review file to the email
     with open(location, 'rb') as attachment_file:
         attachment = MIMEApplication(attachment_file.read(), _subtype="docx")
         attachment.add_header('Content-Disposition', f'attachment; filename="lit_review.docx"')
@@ -133,6 +145,7 @@ def send_email(directory, project):
 
     context = ssl.create_default_context()
 
+    # Send the email
     with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
         smtp.login(email_sender, email_password)
         smtp.sendmail(email_sender, email_receiver, em.as_string())

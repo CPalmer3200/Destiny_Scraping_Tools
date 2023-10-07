@@ -18,3 +18,4 @@ Main Pathogens Causing Infections And Antibiotic Resistance Profile In Major Bur
 Clinical characteristics and homology analysis of Staphylococcus aureus from would infection at a tertiary hospital in southern Zhejiang, China.|https://dx.doi.org/10.1186/s12866-023-02921-x
 Analysis of povidone iodine, chlorhexidine acetate and polyhexamethylene biguanide as wound disinfectants: in vitro cytotoxicity and antibacterial activity.|https://dx.doi.org/10.1136/bmjnph-2022-000431
 Baicalin, silver titanate, Bletilla striata polysaccharide and carboxymethyl chitosan in a porous sponge dressing for burn wound healing.|https://dx.doi.org/10.1016/j.joim.2023.07.002
+Molecular typing and characterization of Staphylococcus aureus isolates from burn wound infections in Fujian, China.|https://dx.doi.org/10.3389/fmicb.2023.1236497

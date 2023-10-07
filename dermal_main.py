@@ -3,6 +3,7 @@ import subprocess
 
 packages_to_check = ['bio', 'argparse', 'time']
 
+# Check required packages are imported
 for package in packages_to_check:
     try:
         importlib.import_module(package)
@@ -14,17 +15,15 @@ for package in packages_to_check:
 import time
 import argparse
 from Bio import Entrez
-from email.message import EmailMessage
 import ssl
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
-from email.mime.base import MIMEBase
-from email import encoders
 import datetime
 
 
+# Function for passing arguments to the bot - currently not used
 def get_args():
     parser = argparse.ArgumentParser(
         description='PubMed scraping bot',
@@ -49,33 +48,47 @@ def get_args():
     return doi_db_loc, topic
 
 
+# PubMed scraping function
 def pubmed_scrape(query, bot_email, max_scrapes):
+
+    # Create empty variables
     article_list = {}
     Entrez.email = bot_email
 
+    # Perform scrape with the parsed query term
     ncbi_scrape = Entrez.esearch(db='pubmed', term=query, retmax=max_scrapes)
+
+    # Save the scraped articles in a list
     scrape_list = Entrez.read(ncbi_scrape)
     list_format = scrape_list['IdList']
+
+    # Loop over scrapes, fetch DOI, title, and publication date
     for scrape in list_format:
         id_num = scrape
         summary = Entrez.esummary(db='pubmed', id=id_num)
         read_summary_list = Entrez.read(summary)
         read_summary = read_summary_list[0]  # Access the dictionary within the list
-        doi = read_summary.get('DOI', 'Unknown DOI')
-        title = read_summary.get('Title', 'Unknown Title')
+        doi = read_summary.get('DOI', 'Unknown DOI')  # Unknown DOI if unable to access
+        title = read_summary.get('Title', 'Unknown Title')  # Unknown title if unable to access
         pub_date = read_summary.get('PubDate', 'Unknown PubDate')
 
+        # Append article information to dictionary
         article_list[doi] = {'Title': title, 'PubDate': pub_date}
         time.sleep(3)
     return article_list
 
 
 def doi_checker(doi_to_check, doi_db_filename):
+
     temp_dois = []
+
+    # Open the doi database, import and strip the entries
     with open(doi_db_filename, 'r') as doi_database:
         for entry in doi_database:
             entry = entry.rstrip()
             temp_dois.append(entry)
+
+    # Check if the doi is already known and return boolean value
     if doi_to_check in temp_dois:
         return True, doi_to_check
     elif doi_to_check not in temp_dois:
@@ -86,18 +99,19 @@ def doi_checker(doi_to_check, doi_db_filename):
 
 def string_formatter(title, doi):
     url = 'https://dx.doi.org/' + str(doi)
-    internal_str = f'{title}|{url}'
-    external_str = f'{title} ({url})'
+    internal_str = f'{title}|{url}'  # Internal string used for splitting title and url in review_main.py
+    external_str = f'{title} ({url})'  # External string used for push emails
     return internal_str, external_str
 
 
-# Write to the correct database
 def write_to_rank(rank, text):
+    # Write the text to the correct rank file
     with open(f'dermal_data/rank{rank}.txt', 'a', encoding='utf-8') as file:
         file.write(text + '\n')
 
 
 def body_format(email_body):
+
     # Splits the email_body variable into a list
     email_body_list = email_body.split('\n')
 
@@ -111,13 +125,16 @@ def body_format(email_body):
 
 
 def html_formatting(email_body):
+    # Fetch the current date for email titling
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
 
+    # Explanation of the search queries used to perform this search
     search_queries = 'This search was performed using the terms "burn wound infection/burn wound/burns" and' \
                      '"Staphylococcus aureus/S. aureus/Staph/MSSA/MRSA/methicillin resistant staphylococcus aureus"'
     destiny_url = 'https://www.destinypharma.com/'
 
+    # html formatting of the push email
     html = f"""
             <!DOCTYPE html>
             <html>
@@ -188,15 +205,16 @@ def send_email(email_text):
     email_password = 'mygx cllt nzsd stor'
     email_receiver = 'christopher.palmer32@gmail.com'
 
-    subject = f'New high priority literature (XF-73 Dermal {date})'
+    subject = f'New high priority literature (XF-73 Dermal {date})'  # Title of the email
     body = email_text
 
     em = MIMEMultipart()
     em['From'] = email_sender
     em['To'] = email_receiver
     em['Subject'] = subject
-    em.attach(MIMEText(body, 'html'))
+    em.attach(MIMEText(body, 'html'))  # Instruct python to expect html content
 
+    # Open and attach the logo (image.jpg) to the file
     with open('image.JPG', 'rb') as image_file:
         image = MIMEImage(image_file.read())
         image.add_header('Content-ID', '<image>')
@@ -206,6 +224,7 @@ def send_email(email_text):
 
     context = ssl.create_default_context()
 
+    # Use SMTP to log in to the sender email and send the email
     with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
         smtp.login(email_sender, email_password)
         smtp.sendmail(email_sender, email_receiver, em.as_string())
@@ -213,6 +232,7 @@ def send_email(email_text):
 
 if __name__ == '__main__':
 
+    # Create blank variables
     queries = []
     email_body = ""
     rank = 1
