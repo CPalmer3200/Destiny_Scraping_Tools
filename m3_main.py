@@ -1,3 +1,4 @@
+import os
 import importlib
 import subprocess
 
@@ -206,7 +207,7 @@ def send_email(email_text):
     date = date.strftime('%d/%m/%Y')
 
     email_sender = 'automatedscrapingbot@gmail.com'
-    email_password = 'mygx cllt nzsd stor'
+    email_password = os.environ["SECRET_TOKEN"]
     email_receiver = 'christopher.palmer32@gmail.com'
 
     subject = f'New high priority literature (NTCD-M3 {date})'  # Title of the email
