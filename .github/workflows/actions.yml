@@ -2,7 +2,7 @@ name: run daily_scrape
 
 on:
   schedule:
-    - cron: '30 0 * * *' # At 00:30 every day
+    - cron: '30 12 * * *' # At 12:30 UTC every day
 
 jobs:
   build:
@@ -10,7 +10,7 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v3 # checkout the repository content to github runner
 
       - name: setup python
         uses: actions/setup-python@v4
@@ -30,7 +30,7 @@ jobs:
       - name: execute dermal script # run dermal_main.py
         env:
           SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
-        run: dermal_main.py
+        run: python dermal_main.py
           
       - name: commit files
         run: |
