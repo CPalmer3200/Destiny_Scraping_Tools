@@ -21,3 +21,21 @@ Low body mass index patients have worse outcomes after mechanical thrombectomy.|
 National variation in prophylactic antibiotic use for elective primary total joint replacement.|https://dx.doi.org/10.1302/2633-1462.410.BJO-2023-0055.R1
 Disease Severity of Respiratory Syncytial Virus Compared with COVID-19 and Influenza Among Hospitalized Adults Aged ≥60 Years - IVY Network, 20 U.S. States, February 2022-May 2023.|https://dx.doi.org/10.15585/mmwr.mm7240a2
 Characteristics and Outcomes Among Adults Aged ≥60 Years Hospitalized with Laboratory-Confirmed Respiratory Syncytial Virus - RSV-NET, 12 States, July 2022-June 2023.|https://dx.doi.org/10.15585/mmwr.mm7240a1
+β-Lactams plus doxycycline versus azithromycin for treatment of severe community-acquired pneumonia in critically ill patients.|https://dx.doi.org/10.1093/jac/dkad301
+Interventions in the management of diabetes-related foot infections: A systematic review.|https://dx.doi.org/10.1002/dmrr.3730
+Evaluating the efficacy of single-shot versus prolonged antibiotic prophylaxis in alveolar cleft osteoplasty - A retrospective cohort study.|https://dx.doi.org/10.1016/j.jcms.2023.09.002
+[Diagnostic and therapeutic work-up of infected tibial nonunion].|https://dx.doi.org/10.1007/s00113-023-01371-4
+Multidisciplinary strategies for managing acute watery diarrhea in children with congenital anorectal malformation and colostomy: A case study.|https://dx.doi.org/10.1002/ccr3.8012
+Pathogens and their resistance behavior in necrotizing fasciitis.|https://dx.doi.org/10.3233/CH-238119
+FIGO good practice recommendations: Bundle of care to reduce neonatal mortality and improve outcomes after preterm and term delivery.|https://dx.doi.org/10.1002/ijgo.15116
+Knowledge, sex, and region associated with primary care providers prescribing adolescents HIV pre-exposure prophylaxis.|https://dx.doi.org/10.1038/s41598-023-44165-9
+[Analysis of the risk factors of persistent inflammation-immunosuppression-catabolism syndrome in patients with extensive burns].|https://dx.doi.org/10.3760/cma.j.cn501225-20220214-00028
+Assessing sex differences in viral load suppression and reported deaths using routinely collected program data from PEPFAR-supported countries in sub-Saharan Africa.|https://dx.doi.org/10.1186/s12889-023-16453-6
+The management and outcomes of hepatocellular carcinoma in sub-Saharan Africa: a systematic review.|https://dx.doi.org/10.1016/j.hpb.2023.09.015
+Quality of breast surgery care at a comprehensive cancer center and its rural affiliate hospital.|https://dx.doi.org/10.1016/j.amjsurg.2023.09.029
+Maggot therapy, alginate dressing, and surgical sharp debridement: Unique path to save unresponsive diabetic foot ulcer.|https://dx.doi.org/10.1016/j.ijscr.2023.108907
+Effect of preoperative prophylactic antibiotic use on postoperative infection after percutaneous nephrolithotomy in patients with negative urine culture: a single-center randomized controlled trial.|https://dx.doi.org/10.1007/s00345-023-04623-5
+[Interpretation of new concepts and approaches in the ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies].|https://dx.doi.org/10.3760/cma.j.cn121430-20230804-00579
+Olfactory disorders in childhood: A comparative study of olfaction in children with adenoid hyperplasia versus a control group and the postoperative effects of adenoidectomy with respect to olfactory ability.|https://dx.doi.org/10.1016/j.ijporl.2023.111735
+Recurrent Infections After Percutaneous Pinning of a Proximal Radius and Ulna Fracture.|https://dx.doi.org/10.5435/JAAOSGlobal-D-23-00081
+Airborne bacteria in veterinary surgical theatres in South Africa.|https://dx.doi.org/10.36303/JSAVA.535

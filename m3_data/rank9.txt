@@ -9,3 +9,4 @@ Glycine fermentation by C. difficile promotes virulence and spore formation, and
 Exploring the inhibitory potential of the antiarrhythmic drug amiodarone against Clostridioides difficile toxins TcdA and TcdB.|https://dx.doi.org/10.1080/19490976.2023.2256695
 The TcdE holin drives toxin secretion and virulence in Clostridioides difficile.|https://dx.doi.org/10.1101/2023.09.16.558055
 Incidence and clinical relevance of postoperative diarrhea after minimally invasive gastrectomy for gastric cancer: a single institution retrospective study of 1476 patients.|https://dx.doi.org/10.1007/s00423-023-03097-8
+Clostridium innocuum, an emerging pathogen that induces lipid raft-mediated cytotoxicity.|https://dx.doi.org/10.1080/21505594.2023.2265048

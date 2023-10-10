@@ -29,3 +29,18 @@ Validation of measures for perioperative urinary catheter use, urinary retention
 Outcomes of Surgically Treated Pilon Fractures: A Comparison of Patients with and without Diabetes.|https://dx.doi.org/10.1097/BOT.0000000000002701
 Use of Ozonized Water in the Prevention of Surgical Site Infection in Children Undergoing Cardiovascular Surgery.|https://dx.doi.org/10.21470/1678-9741-2023-0006
 Deep Infection After Anterior Cruciate Ligament Reconstruction Diagnosed by Intratunnel Suspensory Fixation Device Migration: A Case Report.|https://dx.doi.org/10.2106/JBJS.CC.23.00312
+Nomenclature of allergic diseases and hypersensitivity reactions: Adapted to modern needs: An EAACI position paper.|https://dx.doi.org/10.1111/all.15889
+A Rare Case of Aggressive Infective Endocarditis Due to Corynebacterium striatum.|https://dx.doi.org/10.7759/cureus.44903
+Analysis of recurrence and risk factors in laparoscopic sandwich technique for parastomal hernia repair.|https://dx.doi.org/10.1007/s00464-023-10475-2
+Image-based robotic-arm assisted unicompartmental knee arthroplasty provides high survival and good-to-excellent clinical outcomes at minimum 10 years follow-up.|https://dx.doi.org/10.1007/s00167-023-07599-2
+Multiple Retroperitoneal Abscesses Caused by Citrobacter koseri are Associated with a Poor Prognosis: A Case Report.|https://dx.doi.org/10.2169/internalmedicine.1173-22
+Increased local bone turnover in patients with chronic periprosthetic joint infection.|https://dx.doi.org/10.1302/2046-3758.1210.BJR-2023-0071.R1
+Safety of curative-intent lung cancer surgery in older patients (octogenarians): A contemporary multicentre cohort study.|https://dx.doi.org/10.1016/j.jgo.2023.101635
+Necrotizing fasciitis following gastrostomy tube placement, detected by point-of-care ultrasound, case report.|https://dx.doi.org/10.1016/j.ijscr.2023.108889
+0.05% Chlorhexidine Gluconate Irrigation in Trauma/Emergency General Surgical Laparotomy Wounds Closure: A Pilot Study.|https://dx.doi.org/10.1016/j.jss.2023.09.016
+Postoperative infections associated with microvascular free flaps in head and neck reconstruction: Analysis of risk factors and results with a standardized prophylaxis protocol.|https://dx.doi.org/10.1016/j.bjps.2023.09.046
+New chemiluminescent enzyme immunoassay for quantitative measurement of Mac-2 binding protein glycosylation isomer in chronic liver disease.|https://dx.doi.org/10.1007/s00535-023-02043-1
+Longitudinal Intravital Imaging of the Bone Marrow (LIMB) for Analysis of the Race for the Surface in a Murine Osteomyelitis Model.|https://dx.doi.org/10.1002/jor.25716
+Infection of Primary Nasal Epithelial Cells Grown at an Air-Liquid Interface to Characterize Human Coronavirus-Host Interactions.|https://dx.doi.org/10.3791/64868
+Three decades of collaboration through the Pediatric Heart Transplant Society Registry: A journey through registry data with a highlight on children with single ventricle anatomy.|https://dx.doi.org/10.1111/petr.14615
+Outcomes of HUD Versus CIC in Patients With Urethral Strictures.|https://dx.doi.org/10.1177/15579883231202714

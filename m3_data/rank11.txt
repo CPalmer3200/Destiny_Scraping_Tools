@@ -21,3 +21,21 @@ Meta-analysis of Efficacy of Perioperative Oral Antibiotics in Intestinal Surger
 Targeting Dalbavancin Inoculum Effect: Adjunctive Single Dose of Daptomycin.|https://dx.doi.org/10.1007/s40121-023-00875-1
 Vancomycin Removal and Pharmacokinetics During Accelerated Venovenous Hemofiltration.|https://dx.doi.org/10.1002/phar.2885
 Echinacoside, a promising sortase A inhibitor, combined with vancomycin against murine models of MRSA-induced pneumonia.|https://dx.doi.org/10.1007/s00430-023-00782-9
+Interventions in the management of diabetes-related foot infections: A systematic review.|https://dx.doi.org/10.1002/dmrr.3730
+Infective Endocarditis Complicated by Iatrogenic Intracranial Hemorrhage Secondary to Cefazolin-Induced Coagulopathy.|https://dx.doi.org/10.7759/cureus.44875
+Development of dual-functional core-shell electrospun mats with controlled release of anti-inflammatory and anti-bacterial agents for the treatment of corneal alkali burn injuries.|https://dx.doi.org/10.1016/j.bioadv.2023.213648
+Assessment of potential drug-related problems (PDRP) and clinical outcomes in bacterial meningitis patients admitted to tertiary care hospitals.|https://dx.doi.org/10.1371/journal.pone.0285171
+A SERS Responsive DGT Sensing Device for On-Site Determination of Organic Contaminants Underwater.|https://dx.doi.org/10.1021/acssensors.3c01169
+Thrombosis of sigmoid sinus, transverse sinus, and internal jugular vein in chronic otitis media in 9-year-old girl: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001155
+Development of double crosslinked sodium alginate/chitosan based hydrogels for controlled release of metronidazole and its antibacterial activity.|https://dx.doi.org/10.1016/j.heliyon.2023.e20144
+Treatment of Helicobacter pylori infection 14-day concomitant quadruple therapy versus triple therapy: A parallel double-blind randomized controlled trial.|https://dx.doi.org/10.1002/hsr2.1593
+Prevalence, drug resistance, molecular typing and comparative genomics analysis of MRSA strains from a tertiary A hospital in Shanxi Province, China.|https://dx.doi.org/10.3389/fmicb.2023.1273397
+Describing the monthly variability of hospital-onset Clostridioides difficile during early coronavirus disease 2019 (COVID-19) using electronic health record data.|https://dx.doi.org/10.1017/ice.2023.171
+Pathogens and their resistance behavior in necrotizing fasciitis.|https://dx.doi.org/10.3233/CH-238119
+Limited reduction in Clostridioides difficile and Methicillin-Resistant Staphylococcus aureus with the use of an aerosolized hydrogen peroxide disinfection system in tertiary healthcare facilities in Alberta, Canada.|https://dx.doi.org/10.1016/j.ajic.2023.09.019
+Bacterial keratitis in a tertiary hospital in São Paulo: a 21-year review of the epidemiological, laboratory, and clinical data.|https://dx.doi.org/10.1016/j.bjid.2023.102809
+Marine resistome of a temperate zone: Distribution, diversity, and driving factors across the trophic gradient.|https://dx.doi.org/10.1016/j.watres.2023.120688
+Algerian post-caesarean surgical site infections: a cross-sectional investigation of the epidemiology, bacteriology, and antibioresistance profile.|https://dx.doi.org/10.1016/j.ajic.2023.09.022
+A systematic review on the excess health risk of antibiotic-resistant bloodstream infections for six key pathogens in Europe.|https://dx.doi.org/10.1016/j.cmi.2023.09.001
+Yunvjian decoction attenuates lipopolysaccharide-induced periodontitis by suppressing NFκB/NLRP3/IL-1β pathway.|https://dx.doi.org/10.1016/j.jep.2023.117279
+Characterization of Vancomycin Resistant Enterococci and Drug Ligand Interaction between vanA of E. faecalis with the Bio-Compounds from Aegles marmelos.|https://dx.doi.org/10.3831/KPI.2023.26.3.247

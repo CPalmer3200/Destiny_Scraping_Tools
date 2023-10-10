@@ -14,3 +14,5 @@ Individualized antibiotic plans as a quality improvement initiative to reduce ca
 Clostridioides difficile resistance to antibiotics, including post-COVID-19 data.|https://dx.doi.org/10.1080/17512433.2023.2252331
 Next Steps in Ambulatory Stewardship.|https://dx.doi.org/10.1016/j.idc.2023.07.004
 A Digital Counselor-Delivered Intervention for Substance Use Among People With HIV: Development and Usability Study.|https://dx.doi.org/10.2196/40260
+β-Lactams plus doxycycline versus azithromycin for treatment of severe community-acquired pneumonia in critically ill patients.|https://dx.doi.org/10.1093/jac/dkad301
+Barriers to Lung Cancer Screening Access from the Perspective of the Patient and Current Interventions.|https://dx.doi.org/10.1016/j.thorsurg.2023.04.003

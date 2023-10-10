@@ -18,3 +18,6 @@ Attenuation of NLRP3 Inflammasome by Cigarette Smoke is Correlated with Decrease
 Molecular docking analysis of juglone with parvulin-type PPiase PrsA from Staphylococcus aureus.|https://dx.doi.org/10.6026/97320630019048
 Echinacoside, a promising sortase A inhibitor, combined with vancomycin against murine models of MRSA-induced pneumonia.|https://dx.doi.org/10.1007/s00430-023-00782-9
 Alkaline phosphatase LapA regulates quorum sensing-mediated virulence and biofilm formation in Pseudomonas aeruginosa PAO1 under phosphate depletion stress.|https://dx.doi.org/10.1128/spectrum.02060-23
+Effects of modified elastin-collagen matrix on the thermal and mechanical properties of Poly (lactic acid).|https://dx.doi.org/10.1016/j.heliyon.2023.e19598
+An injectable and light curable hyaluronic acid composite gel with anti-biofilm, anti-inflammatory and pro-healing characteristics for accelerating infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127190
+Dual-action gallium-flavonoid compounds for combating Pseudomonas aeruginosa infection.|https://dx.doi.org/10.1039/d3cb00033h

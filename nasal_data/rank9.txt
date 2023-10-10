@@ -26,3 +26,20 @@ Echinacoside, a promising sortase A inhibitor, combined with vancomycin against 
 Clinical Staphylococcus aureus inhibits human T-cell activity through interaction with the PD-1 receptor.|https://dx.doi.org/10.1128/mbio.01349-23
 Executive Summary: Periprosthetic Joint Infection-Current Clinical Challenges.|https://dx.doi.org/10.1093/cid/ciad457
 Staphylococcus aureus delta toxin modulates both extracellular membrane vesicle biogenesis and amyloid formation.|https://dx.doi.org/10.1128/mbio.01748-23
+Synthesis of quercetin-iron (Fe) complex and its in silico and in vitro confirmation towards antibacterial activity.|https://dx.doi.org/10.4155/fmc-2023-0007
+Antimicrobial and anti-inflammatory activity of Terminalia arjuna.|https://dx.doi.org/10.6026/97320630019184
+Synovial fluid and plasma concentrations of tedizolid in patients with osteoarthritis infected with Staphylococcus aureus effectively determined with fluorescence detection.|https://dx.doi.org/10.1186/s40780-023-00303-z
+Diversity of endophytic fungi isolated from the bark of Ceiba pentandra (L.) Gaertn., (Bombacaceae) and antibacterial potential of secalonic acid A produced by Diaporthe searlei EC 321.|https://dx.doi.org/10.1002/cbdv.202301010
+Common pathogenic bacteria-induced reprogramming of the host proteinogenic amino acids metabolism.|https://dx.doi.org/10.1007/s00726-023-03334-w
+Biomaterial composed of chitosan, riboflavin, and hydroxyapatite for bone tissue regeneration.|https://dx.doi.org/10.1038/s41598-023-44225-0
+Whole genomic sequencing of Staphylococcus aureus strain RMI-014804 isolated from pulmonary patient sputum via next-generation sequencing technology.|https://dx.doi.org/10.5808/gi.23024
+Synthesis and Staphylococcus aureus biofilm inhibitory activity of indolenine-substituted pyrazole and pyrimido[1,2-b]indazole derivatives.|https://dx.doi.org/10.1016/j.bmc.2023.117485
+Enhanced Antimicrobial Screening Sensitivity Enabled the Identification of an Ultrashort Peptide KR-8 for Engineering of LL-37mini to Combat Drug-Resistant Pathogens.|https://dx.doi.org/10.1021/acsinfecdis.3c00293
+Regulatory T cells control Staphylococcus aureus and disease severity of cutaneous leishmaniasis.|https://dx.doi.org/10.1084/jem.20230558
+[Bacterial infections of the skin in the context of climate change and migration].|https://dx.doi.org/10.1007/s00105-023-05231-5
+Mechanical and antibacterial properties of hybrid polymers composite reinforcement for Biomedical Applications.|https://dx.doi.org/10.1080/09205063.2023.2268949
+Spectroscopic characterization, molecular docking and machine learning studies of sulphur containing hydrazide derivatives.|https://dx.doi.org/10.1039/d3cp01133j
+Amelioration of Subglottic Stenosis by Antimicrobial Peptide Eluting Endotracheal Tubes.|https://dx.doi.org/10.1007/s12195-023-00769-9
+Unveiling a novel terpolymer-metal complex: A detailed exploration of synthesis, characterization, and its potential as an antimicrobial and antioxidant agent.|https://dx.doi.org/10.1016/j.heliyon.2023.e20459
+Anti-methicillin-resistant Staphylococcus aureus and antibiofilm activity of new peptides produced by a Brevibacillus strain.|https://dx.doi.org/10.7717/peerj.16143
+Exploring Antibacterial Properties of Bioactive Compounds Isolated from Streptomyces sp. in Bamboo Rhizosphere Soil.|https://dx.doi.org/10.1021/acsomega.3c04954

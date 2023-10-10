@@ -18,3 +18,8 @@ Cell culture media dependent in vitro dynamics and culture characteristics of ad
 Anticandidal Cu(I) complexes with neocuproine and 1-(4-methoxyphenyl)piperazine based diphenylaminomethylphosphine: Is Cu-diimine moiety a pharmacophore?|https://dx.doi.org/10.1016/j.jinorgbio.2023.112355
 Slit-skin smear in post kala-azar dermal leishmaniasis and leprosy: How a negative report for Leishman-Donovan bodies in Giemsa stain may indicate leprosy.|https://dx.doi.org/10.1016/j.jdin.2023.06.007
 Therapeutic Applications of Essential Oils from Native and Cultivated Ecuadorian Plants: Cutaneous Candidiasis and Dermal Anti-Inflammatory Activity.|https://dx.doi.org/10.3390/molecules28155903
+Intravenous Bacille Calmette-Guérin vaccination protects simian immunodeficiency virus-infected macaques from tuberculosis.|https://dx.doi.org/10.1038/s41564-023-01503-x
+Native human and mouse skin infection models to study Candida auris-host interactions.|https://dx.doi.org/10.1016/j.micinf.2023.105234
+Inflammation-mediated fibroblast activation and immune dysregulation in collagen VII-deficient skin.|https://dx.doi.org/10.3389/fimmu.2023.1211505
+Widespread and dynamic expression of granzyme C by skin-resident antiviral T cells.|https://dx.doi.org/10.3389/fimmu.2023.1236595
+C-type lectin receptor expression is a hallmark of neutrophils infiltrating the skin in epidermolysis bullosa acquisita.|https://dx.doi.org/10.3389/fimmu.2023.1266359

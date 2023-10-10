@@ -17,3 +17,7 @@ Region-specific protection effect of preoperative oral antibiotics combined with
 Nipple-Sparing Mastectomies in Patients over the Age of 60 Years: Factors Associated with Surgical Outcomes.|https://dx.doi.org/10.1245/s10434-023-14278-6
 Infective Endocarditis: Controversies and Convictions in the Surgical Treatment.|https://dx.doi.org/10.21470/1678-9741-2023-0014
 Early experience of direct-to-implant breast reconstruction using acellular dermal matrix after robot-assisted nipple-sparing mastectomy.|https://dx.doi.org/10.1097/PRS.0000000000011105
+Indwelling Needle Puncture and Irrigation in the Conservative Treatment of Breast Abscess During Non-Lactation Period.|https://dx.doi.org/10.3791/64851
+Functionalization of breast implants by cyclodextrin in-situ polymerization: a local drug delivery system for augmentation mammaplasty.|https://dx.doi.org/10.3389/fbioe.2023.1254299
+Infective Costochondritis after Augmentation Mammoplasty: A Rare Case Report and Review of the Literature.|https://dx.doi.org/10.1055/a-2088-2829
+Early Seroma Treatment Protocol Based on US-Guided Aspiration in DTI Prepectoral Reconstruction: A Prospective Study.|https://dx.doi.org/10.1016/j.clbc.2023.09.003

@@ -37,3 +37,23 @@ Performance evaluation of Biofire Film Array Respiratory Panel 2.1 for SARS-CoV-
 Mapping SARS-CoV-2 antigenic relationships and serological responses.|https://dx.doi.org/10.1126/science.adj0070
 A next-generation intranasal trivalent MMS vaccine induces durable and broad protection against SARS-CoV-2 variants of concern.|https://dx.doi.org/10.1073/pnas.2220403120
 Existing workloads among managers and healthcare workers during the COVID-19 pandemic: Meanings in the Amazon context.|https://dx.doi.org/10.1371/journal.pone.0292541
+The impact of health literacy on COVID-19 immunization.|https://dx.doi.org/10.1080/21645515.2023.2254539
+The prevention and treatment of COVID-19 in patients treated with hemodialysis.|https://dx.doi.org/10.1186/s40001-023-01389-9
+Liver Iron Overload Drives COVID-19 Mortality: a Two-Sample Mendelian Randomization Study.|https://dx.doi.org/10.1007/s12011-023-03878-8
+Author Correction: Host susceptibility and structural and immunological insight of S proteins of two SARS-CoV-2 closely related bat coronaviruses.|https://dx.doi.org/10.1038/s41421-023-00597-1
+Alcohol Use and Mental Health Symptoms in Nurses during the Early Months of COVID-19.|https://dx.doi.org/10.1080/15504263.2023.2260346
+SARS-CoV-2 variants of concern in children and adolescents with COVID-19: a systematic review.|https://dx.doi.org/10.1136/bmjopen-2023-072280
+COVID-19 incidence and outcomes among patients with kidney replacement therapy.|https://dx.doi.org/10.23876/j.krcp.22.240
+Scaling up food pricing policies in the Pacific: a guide to action.|https://dx.doi.org/10.1136/bmjgh-2023-012041
+Nutrition could prevent or promote non-alcoholic fatty liver disease: an opportunity for intervention.|https://dx.doi.org/10.1136/bmj-2023-075179
+Effects of COVID-19 Hospitalization Rates on the Incidence of Hospital-Acquired Candida Central Line-Associated Blood Stream Infection.|https://dx.doi.org/10.1016/j.ajic.2023.10.002
+Tracing the new SARS-CoV-2 variant BA.2.86 in the community through wastewater surveillance in Bangkok, Thailand.|https://dx.doi.org/10.1016/S1473-3099(23)00620-5
+RBD-specific single-chain antibody protects against acute lung injury in mice.|https://dx.doi.org/10.1016/j.intimp.2023.111020
+COVID-19.|https://dx.doi.org/10.7326/AITC202310170
+The relationship between psychological capital, patient's contempt, and professional identity among general practitioners during COVID-19 in Chongqing, China.|https://dx.doi.org/10.1371/journal.pone.0287462
+Social and Economic Impacts of COVID-19 Among Health Professionals in Vietnam: Status and Associations with Quality of Life and Sleep Quality.|https://dx.doi.org/10.1007/s44197-023-00156-7
+European Network for ICU-Related Respiratory Infections (ENIRRIs): a multinational, prospective, cohort study of nosocomial LRTI.|https://dx.doi.org/10.1007/s00134-023-07210-9
+Social Value, Beneficial Information, and Obligations to Participants in a Trial of Novel COVID-19 Vaccines.|https://dx.doi.org/10.1080/15265161.2023.2250283
+Suicide and Self-Harm in Adolescents During the COVID-19 Pandemic: A U.S. Virtual Pediatric Systems, LLC, Database Study of PICU Admissions, 2016-2021.|https://dx.doi.org/10.1097/PCC.0000000000003381
+Inference and forecasting phase shift regime of COVID-19 sub-lineages with a Markov-switching model.|https://dx.doi.org/10.1128/spectrum.01669-23
+E-learning and research experience exchange in the online setting of student peer mentor network during COVID-19 pandemic and beyond: A laboratory case study.|https://dx.doi.org/10.1002/bmb.21792

@@ -15,3 +15,4 @@ Optimal drug therapy for Staphylococcus aureus bacteraemia in adults.|https://dx
 Anthraquinone Derivatives and Other Aromatic Compounds from Marine Fungus Asteromyces cruciatus KMM 4696 and Their Effects against Staphylococcus aureus.|https://dx.doi.org/10.3390/md21080431
 Methicillin-resistant Staphylococcus aureus-induced staphylococcal scalded skin syndrome in a preterm infant, and subsequent toxigenic analysis.|https://dx.doi.org/10.1111/1346-8138.16929
 Stevens-johnson Syndrome and Toxic Epidermal Necrolysis: An Overview of Diagnosis, Therapy Options and Prognosis of Patients.|https://dx.doi.org/10.2174/2772270817666230821102441
+Regulatory T cells control Staphylococcus aureus and disease severity of cutaneous leishmaniasis.|https://dx.doi.org/10.1084/jem.20230558
