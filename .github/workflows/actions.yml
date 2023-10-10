@@ -1,6 +1,7 @@
 name: run daily_scrape
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '30 12 * * *' # At 12:30 UTC every day
 

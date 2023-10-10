@@ -1,6 +1,7 @@
 name: run monthly_review
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '35 02 28 * *' # At 02:35 UTC on the 28th day every month
 
