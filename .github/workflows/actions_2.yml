@@ -1,0 +1,36 @@
+name: run monthly_review
+
+on:
+  schedule:
+    - cron: '35 02 28 * *' # At 02:35 UTC on the 28th day every month
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install python 3.10
+          
+      - name: execute review script # run review script
+        env:
+          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
+        run: python review_main.py
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 

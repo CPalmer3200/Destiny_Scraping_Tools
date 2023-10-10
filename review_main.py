@@ -125,7 +125,7 @@ def send_email(directory, project):
     date = date.strftime('%d/%m/%Y')
 
     email_sender = 'automatedscrapingbot@gmail.com'
-    email_password = 'mygx cllt nzsd stor'
+    email_password = os.environ["SECRET_TOKEN"]
     email_receiver = 'christopher.palmer32@gmail.com'
 
     subject = f'Literature review ({project} {date})'
