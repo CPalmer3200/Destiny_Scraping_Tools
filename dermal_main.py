@@ -75,7 +75,7 @@ def pubmed_scrape(query, bot_email, max_scrapes):
 
         # Append article information to dictionary
         article_list[doi] = {'Title': title, 'PubDate': pub_date}
-        time.sleep(3)
+        time.sleep(5)
     return article_list
 
 
@@ -283,6 +283,9 @@ if __name__ == '__main__':
         # Add 1 to the rank variable and reset new paper count
         rank += 1
         new_paper_count = 0
+
+        # Sleep to prevent spam
+        time.sleep(10)
 
     # Send email if any high priority papers are recorded
     if email_body != "":
