@@ -39,3 +39,15 @@ Effect of preoperative prophylactic antibiotic use on postoperative infection af
 Olfactory disorders in childhood: A comparative study of olfaction in children with adenoid hyperplasia versus a control group and the postoperative effects of adenoidectomy with respect to olfactory ability.|https://dx.doi.org/10.1016/j.ijporl.2023.111735
 Recurrent Infections After Percutaneous Pinning of a Proximal Radius and Ulna Fracture.|https://dx.doi.org/10.5435/JAAOSGlobal-D-23-00081
 Airborne bacteria in veterinary surgical theatres in South Africa.|https://dx.doi.org/10.36303/JSAVA.535
+Postoperative Aspergillus Endophthalmitis With Iris Granuloma: A Case Report.|https://dx.doi.org/10.7759/cureus.44945
+Causes and Recommendations for Fever in Sickle Cell Pediatric Patients in the Emergency Department: A Single-Center Study.|https://dx.doi.org/10.7759/cureus.44959
+PRESS survey: PREvention of surgical site infection-a global pan-specialty survey of practice protocol.|https://dx.doi.org/10.3389/fsurg.2023.1251444
+Preventing Occupational Hearing Loss: 50 Years of Research and Recommendations from the National Institute for Occupational Safety and Health.|https://dx.doi.org/10.1055/s-0043-1769499
+Antibiotic prophylaxis in flexible ureterorenoscopy with negative urine culture.|https://dx.doi.org/10.1002/bco2.242
+Influence of Closed-incision Negative Pressure Wound Therapy on Abdominal Site Complications in Autologous Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000005326
+Modeling the combined resistance to microwave treatments and salt conditions of Escherichia coli and Staphylococcus aureus.|https://dx.doi.org/10.1177/10820132231205622
+Perceived Effectiveness of COVID-19 Preventive Practices and Behavioral Intention: Survey of a Representative Adult Sample in the United States.|https://dx.doi.org/10.2196/39919
+[Surgical treatment of high-grade spondylolisthesis].|https://dx.doi.org/10.1007/s00064-023-00830-w
+Informed consent practices for acute stroke therapy: principles, challenges and emerging opportunities.|https://dx.doi.org/10.1007/s00415-023-12028-y
+A Surgical Management Algorithm for Type 4 Parry-Romberg Syndrome.|https://dx.doi.org/10.1097/SCS.0000000000009780
+[Effects of delayed ureteral stents removal during the COVID-19 pandemic on the quality of life and psychological status of postoperative patients with urinary calculi].|https://dx.doi.org/10.19723/j.issn.1671-167X.2023.05.013

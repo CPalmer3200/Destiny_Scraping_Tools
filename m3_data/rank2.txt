@@ -16,3 +16,4 @@ Prevalence, Antimicrobial Resistance and Toxin-Encoding Genes of Clostridioides 
 Comparative biofilm-forming ability between Clostridioides difficile strains isolated in Latin America and the epidemic NAP1/027 strain.|https://dx.doi.org/10.3389/fcimb.2022.1033698
 Accuracy of diagnostic assays for the detection of Clostridioides difficile: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.mimet.2022.106657
 Frequency of Diarrhea, Stool Specimen Collection and Testing, and Detection of Clostridioides Difficile Infection Among Hospitalized Adults in the Muenster/Coesfeld Area, Germany.|https://dx.doi.org/10.1007/s00284-022-03143-6
+A genomic survey of Clostridioides difficile isolates from hospitalized patients in Melbourne, Australia.|https://dx.doi.org/10.1128/spectrum.01352-23

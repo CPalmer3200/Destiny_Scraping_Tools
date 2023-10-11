@@ -24,3 +24,4 @@ Highly active nisin coated polycaprolactone electrospun fibers against both Stap
 On-demand release of enrofloxacin-loaded chitosan oligosaccharide-oxidized hyaluronic acid composite nanogels for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127248
 Portable Colorimetric Hydrogel Beads for Point-of-Care Antimicrobial Susceptibility Testing.|https://dx.doi.org/10.1021/acssensors.3c01155
 An antibacterial and healing-promoting collagen fibril constructed by the simultaneous strategy of fibril reconstitution and ε-polylysine anchoring for infected wound repair.|https://dx.doi.org/10.1039/d3bm01181j
+Conductive and antibacterial dual-network hydrogel for soft bioelectronics.|https://dx.doi.org/10.1039/d3mh00813d

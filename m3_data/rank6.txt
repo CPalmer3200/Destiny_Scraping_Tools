@@ -18,3 +18,6 @@ Optimizing the Production of gp145, an HIV-1 Envelope Glycoprotein Vaccine Candi
 Mucosal Vaccination Strategies against Clostridioides difficile Infection.|https://dx.doi.org/10.3390/vaccines11050887
 Critical Damage of Lung Parenchyma Complicated with Massive Pneumothorax in COVID-19 Pneumonia.|https://dx.doi.org/10.1177/11795476231175644
 Host Immunity and Immunization Strategies for Clostridioides difficile Infection.|https://dx.doi.org/10.1128/cmr.00157-22
+A low burden of severe illness: the COVID-19 Omicron outbreak in the remote Torres and Cape region of Far North Queensland.|https://dx.doi.org/10.33321/cdi.2023.47.41
+Summary of National Surveillance Data on Vaccine Preventable Diseases in Australia, 2016-2018 Final Report.|https://dx.doi.org/10.33321/cdi.2023.47.40
+Assembling the Bacillus subtilis Spore Coat Basement Layer on Spherical Supported Lipid Bilayers.|https://dx.doi.org/10.1007/978-1-0716-3491-2_17

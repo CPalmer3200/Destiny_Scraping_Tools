@@ -18,3 +18,4 @@ Antibiotic susceptibility and clonal distribution of Staphylococcus aureus from 
 Antimicrobial resistome of coagulase-negative staphylococci from nasotracheal cavities of nestlings of Ciconia ciconia in Southern Spain: Detection of mecC-SCCmec type-XI-carrying S. lentus.|https://dx.doi.org/10.1016/j.cimid.2023.102012
 Associated Outcomes of Different Intravenous Antibiotics Combined with 2% Mupirocin Ointment in the Treatment of Pediatric Patients with Staphylococcal Scalded Skin Syndrome.|https://dx.doi.org/10.2147/CCID.S417764
 Conservative Management of a Rare Entity-Aplasia Cutis Congenita: A Case Report.|https://dx.doi.org/10.1097/PSN.0000000000000511
+Nasal Iodophor Antiseptic vs Nasal Mupirocin Antibiotic in the Setting of Chlorhexidine Bathing to Prevent Infections in Adult ICUs: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2023.17219

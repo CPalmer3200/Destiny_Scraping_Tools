@@ -19,3 +19,4 @@ Presence and Resistance Profile of Staphylococcus spp. Isolated from Slaughtered
 Using Methicillin-Resistant Staphylococcus aureus Nasal Screens to Rule Out Methicillin-Resistant S aureus Pneumonia in Surgical Intensive Care Units.|https://dx.doi.org/10.1016/j.jss.2023.07.053
 [Analysis of nasal microbial characteristics in patients with allergic rhinitis and non-allergic rhinitis].|https://dx.doi.org/10.3760/cma.j.cn115330-20221012-00605
 Unraveling the mechanisms of Cefoxitin resistance in methicillin-resistant Staphylococcus aureus (MRSA): structural and molecular simulation-based insights.|https://dx.doi.org/10.1080/07391102.2023.2262591
+Decolonization in Nursing Homes to Prevent Infection and Hospitalization.|https://dx.doi.org/10.1056/NEJMoa2215254

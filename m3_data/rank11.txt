@@ -39,3 +39,10 @@ Algerian post-caesarean surgical site infections: a cross-sectional investigatio
 A systematic review on the excess health risk of antibiotic-resistant bloodstream infections for six key pathogens in Europe.|https://dx.doi.org/10.1016/j.cmi.2023.09.001
 Yunvjian decoction attenuates lipopolysaccharide-induced periodontitis by suppressing NFκB/NLRP3/IL-1β pathway.|https://dx.doi.org/10.1016/j.jep.2023.117279
 Characterization of Vancomycin Resistant Enterococci and Drug Ligand Interaction between vanA of E. faecalis with the Bio-Compounds from Aegles marmelos.|https://dx.doi.org/10.3831/KPI.2023.26.3.247
+Postoperative Aspergillus Endophthalmitis With Iris Granuloma: A Case Report.|https://dx.doi.org/10.7759/cureus.44945
+Different methods for resolving overlapping UV spectra of combination medicinal dose forms of ciprofloxacin and metronidazole.|https://dx.doi.org/10.1186/s13065-023-01007-z
+Antibiotic use at a tertiary hospital in Tanzania: findings from a point prevalence survey.|https://dx.doi.org/10.1186/s13756-023-01317-w
+Bloodstream infections in neutropenic and non-neutropenic patients with haematological malignancies: epidemiological trends and clinical outcomes in Queensland, Australia over the last 20 years.|https://dx.doi.org/10.1007/s10238-023-01206-x
+Probing Bacterial Cell Division and Cell Envelope Biogenesis with Live-Cell Fluorescence Microscopy.|https://dx.doi.org/10.1007/978-1-0716-3491-2_16
+A Systematic Review and Meta-analysis of Randomized Clinical Trials on the Prevention and Treatment of Pouchitis after Ileoanal Pouch Anastomosis.|https://dx.doi.org/10.1007/s11605-023-05841-3
+Phenylboronic Acid-Modified Gold Nanoclusters as a Nanoantibiotic to Treat Vancomycin-Resistant Enterococcus faecalis-Caused Infections.|https://dx.doi.org/10.1021/acsnano.3c02886

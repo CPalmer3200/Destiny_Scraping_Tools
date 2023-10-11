@@ -57,3 +57,23 @@ Social Value, Beneficial Information, and Obligations to Participants in a Trial
 Suicide and Self-Harm in Adolescents During the COVID-19 Pandemic: A U.S. Virtual Pediatric Systems, LLC, Database Study of PICU Admissions, 2016-2021.|https://dx.doi.org/10.1097/PCC.0000000000003381
 Inference and forecasting phase shift regime of COVID-19 sub-lineages with a Markov-switching model.|https://dx.doi.org/10.1128/spectrum.01669-23
 E-learning and research experience exchange in the online setting of student peer mentor network during COVID-19 pandemic and beyond: A laboratory case study.|https://dx.doi.org/10.1002/bmb.21792
+Impact of digital stress on negative emotions and physical complaints in the home office: a follow up study.|https://dx.doi.org/10.1080/21642850.2023.2263068
+Virulence traits and novel drug delivery strategies for mucormycosis post-COVID-19: a comprehensive review.|https://dx.doi.org/10.3389/fimmu.2023.1264502
+Effectiveness of orange almond potato cookie vs. orange potato cookie supplementation on nutritional wellbeing of the Indonesian stunted preschool-aged children during COVID-19 pandemic.|https://dx.doi.org/10.3389/fnut.2023.1235841
+Research on the collaborative evolution process of information in public health emergencies based on complex adaptive system theory and social network analysis: a case study of the COVID-19 pandemic.|https://dx.doi.org/10.3389/fpubh.2023.1210255
+Perception and willingness toward various immunization routes for COVID-19 vaccines: a cross-sectional survey in China.|https://dx.doi.org/10.3389/fpubh.2023.1192709
+Corrigendum: Analysis of a super-transmission of SARS-CoV-2 omicron variant BA.5.2 in the outdoor night market.|https://dx.doi.org/10.3389/fpubh.2023.1272251
+Cardiovascular Hospitalizations and Hospitalization Costs in Japan During the COVID-19 Pandemic.|https://dx.doi.org/10.1253/circrep.CR-23-0072
+Infection rate among close contacts of patients with coronavirus disease in Japan: a descriptive study and literature review.|https://dx.doi.org/10.2478/abm-2023-0051
+Science battles viral diseases: a roundtable discussion with leading experts on COVID-19, hepatitis and AIDS.|https://dx.doi.org/10.1093/nsr/nwac277
+Incompetent memory immune response in severe COVID-19 patients under treatment.|https://dx.doi.org/10.1016/j.heliyon.2023.e20590
+Assessment of Standard Operating Procedures (SOPs) Preparing Hygienic Condition in the Blood Donation Centers during the Outbreak of COVID-19.|https://dx.doi.org/10.18502/ijhoscr.v17i3.13306
+Latent Mastocytosis Triggered by COVID-19 Vaccination: A Case Report.|https://dx.doi.org/10.2174/0118715303241179230927105454
+GLOBAL RETROSPECTIVE REVIEW OF SEVERE ACUTE RESPIRATORY SYNDROME SARS COV-2 INFECTIONS IN NONDOMESTIC FELIDS: MARCH 2020-FEBRUARY 2021.|https://dx.doi.org/10.1638/2022-0141
+The Role of Tissue Factor In Signaling Pathways of Pathological Conditions and Angiogenesis.|https://dx.doi.org/10.2174/0115665240258746230919165935
+First documented gymnasium cluster of COVID-19 with whole genome sequencing in Australia.|https://dx.doi.org/10.33321/cdi.2023.47.55
+Choosing Wisely and Promoting High-Value Care and Staff Safety During the COVID-19 Pandemic in a Large Safety Net System.|https://dx.doi.org/10.1097/QMH.0000000000000431
+Depressive and anxiety symptoms in the course of the COVID-19 pandemic among physicians in hospitals: results of the longitudinal, multicenter VOICE-EgePan survey over two years.|https://dx.doi.org/10.1186/s40359-023-01354-5
+Gynaecologists' perceptions of outpatient gynaecologic and obstetric care in Germany during the COVID-19 pandemic.|https://dx.doi.org/10.1186/s12913-023-10045-1
+Anxiety, self-efficacy, and their determinants in school students during the COVID-19 pandemic: a survey in Southeastern Iran.|https://dx.doi.org/10.1186/s12888-023-05252-3
+Comprehensive Risk Assessment of Infection Induced by SARS-CoV-2.|https://dx.doi.org/10.1007/s12035-023-03682-4

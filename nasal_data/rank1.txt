@@ -18,3 +18,4 @@ Probiotic for pathogen-specific Staphylococcus aureus decolonisation in Thailand
 Effect of nasal mupirocin treatment on extranasal carriage of methicillin-resistant Staphylococcus aureus among pediatric patients admitted to the neonatal intensive care unit.|https://dx.doi.org/10.1017/ice.2022.311
 Dissemination of Methicillin-Resistant Staphylococcus aureus Sequence Type 764 Isolates with Mupirocin Resistance in China.|https://dx.doi.org/10.1128/spectrum.03794-22
 The efficacy of multifaceted versus single anesthesia work area infection control measures and the importance of surgical site infection follow-up duration.|https://dx.doi.org/10.1016/j.jclinane.2022.111043
+Nasal Iodophor Antiseptic vs Nasal Mupirocin Antibiotic in the Setting of Chlorhexidine Bathing to Prevent Infections in Adult ICUs: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2023.17219

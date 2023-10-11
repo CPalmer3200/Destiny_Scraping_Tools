@@ -43,3 +43,19 @@ Amelioration of Subglottic Stenosis by Antimicrobial Peptide Eluting Endotrachea
 Unveiling a novel terpolymer-metal complex: A detailed exploration of synthesis, characterization, and its potential as an antimicrobial and antioxidant agent.|https://dx.doi.org/10.1016/j.heliyon.2023.e20459
 Anti-methicillin-resistant Staphylococcus aureus and antibiofilm activity of new peptides produced by a Brevibacillus strain.|https://dx.doi.org/10.7717/peerj.16143
 Exploring Antibacterial Properties of Bioactive Compounds Isolated from Streptomyces sp. in Bamboo Rhizosphere Soil.|https://dx.doi.org/10.1021/acsomega.3c04954
+Tissierella praeacuta Bacteremia Associated With Acute on Chronic Osteomyelitis: A Case Report.|https://dx.doi.org/10.7759/cureus.44962
+Synthesis, in silico and in vitro antimicrobial efficacy of substituted arylidene-based quinazolin-4(3H)-one motifs.|https://dx.doi.org/10.3389/fchem.2023.1264824
+β-Glucosidase activity and antimicrobial properties of potentially probiotic autochthonous lactic cultures.|https://dx.doi.org/10.7717/peerj.16094
+Facile synthesis of CuONPs using Citrus limon juice for enhancing antibacterial activity against methicillin-resistant Staphylococcus aureus, beta-lactamase and tetracycline-resistant Escherichia coli.|https://dx.doi.org/10.1039/d3ra04985j
+Biofabrication of Silver Nanoparticles Using Nostoc muscorum Lukesova 2/91: Optimization, Characterization, and Biological Applications.|https://dx.doi.org/10.2147/IJN.S420312
+The burden of hospital acquired infections and antimicrobial resistance.|https://dx.doi.org/10.1016/j.heliyon.2023.e20561
+A Novel Brevinin2 HYba5 Peptide against Polymicrobial Biofilm of Staphylococcus aureus and Enterococcus faecalis.|https://dx.doi.org/10.2174/0109298665266332231001115508
+Conductive and antibacterial dual-network hydrogel for soft bioelectronics.|https://dx.doi.org/10.1039/d3mh00813d
+Chromone-isoxazole hybrids molecules: synthesis, spectroscopic, MEDT, ELF, antibacterial, ADME-Tox, molecular docking and MD simulation investigations.|https://dx.doi.org/10.1080/07391102.2023.2266022
+Staphylococcus aureus enhances osteoclast differentiation and bone resorption by stimulating the NLRP3 inflammasome pathway.|https://dx.doi.org/10.1007/s11033-023-08900-9
+Novel intrathoracic irrigation using ultrafine ozone bubbles in a rat empyema model.|https://dx.doi.org/10.1038/s41598-023-43787-3
+Date (Phoenix dactylifera L.) seed oil is an agro-industrial waste with biopreservative effects and antimicrobial activity.|https://dx.doi.org/10.1038/s41598-023-44251-y
+Deciphering the complexes of zinc ions and hen egg white lysozyme: Instrumental analysis, molecular docking, and antimicrobial assessment.|https://dx.doi.org/10.1016/j.saa.2023.123490
+Bloodstream infections in neutropenic and non-neutropenic patients with haematological malignancies: epidemiological trends and clinical outcomes in Queensland, Australia over the last 20 years.|https://dx.doi.org/10.1007/s10238-023-01206-x
+Probing Bacterial Cell Division and Cell Envelope Biogenesis with Live-Cell Fluorescence Microscopy.|https://dx.doi.org/10.1007/978-1-0716-3491-2_16
+Tracking Cell Wall-Anchored Proteins in Gram-Positive Bacteria.|https://dx.doi.org/10.1007/978-1-0716-3491-2_15

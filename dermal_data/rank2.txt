@@ -25,3 +25,6 @@ Diabetic Ketoacidosis in Northern Jordan: Seasonal Morbidity and Characteristics
 [Clinical effects of antibiotic bone cement combined with free anterolateral thigh flap in sequential treatment of diabetic foot ulcer].|https://dx.doi.org/10.3760/cma.j.cn501225-20220628-00267
 [A prospective randomized controlled study of antibiotic bone cement in the treatment of diabetic foot ulcer].|https://dx.doi.org/10.3760/cma.j.cn501225-20221111-00485
 Maggot therapy, alginate dressing, and surgical sharp debridement: Unique path to save unresponsive diabetic foot ulcer.|https://dx.doi.org/10.1016/j.ijscr.2023.108907
+Unveiling the challenges of diabetic foot infections: diagnosis, pathogenesis, treatment, and rehabilitation.|https://dx.doi.org/10.12701/jyms.2023.01011
+Combination of Shengji ointment and bromelain in the treatment of exposed tendons in diabetic foot ulcers: study protocol for a non-blind, randomized, positive control clinical trial.|https://dx.doi.org/10.1186/s12906-023-04128-z
+Identifying barriers to preventive care among First Nations people at risk of lower extremity amputation: a qualitative study.|https://dx.doi.org/10.9778/cmajo.20220150
