@@ -3,7 +3,7 @@ name: run daily_scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 12 * * *' # At 12:30 UTC every day
+    - cron: '15 07 * * *' # At 07:15 UTC every day
 
 jobs:
   build:
@@ -17,6 +17,9 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10' # install python 3.10
+
+      - name: install Python dependencies
+        run: pip install -r requirements.txt
           
       - name: execute nasal script # run nasal_main.py
         env:

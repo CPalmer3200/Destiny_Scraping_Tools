@@ -1,18 +1,4 @@
 import os
-import importlib
-import subprocess
-
-packages_to_check = ['bio', 'argparse', 'time']
-
-# Check required packages are imported
-for package in packages_to_check:
-    try:
-        importlib.import_module(package)
-        print(f"{package} is already installed.")
-    except ImportError:
-        print(f"{package} is not installed. Installing...")
-        subprocess.run(['pip', 'install', package])
-
 import time
 import argparse
 from Bio import Entrez

@@ -221,10 +221,10 @@ if __name__ == '__main__':
         print(f'{project} email delivered')
 
         # Clear all the rank files
-        #clear_ranks(directory, ranks)
+        clear_ranks(directory, ranks)
 
         # Log review sent
-        #review_log(project)
+        review_log(project)
 
     # Log start date for beginning new literature search
     date = datetime.date.today()
