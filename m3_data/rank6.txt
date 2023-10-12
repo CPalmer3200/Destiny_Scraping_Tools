@@ -21,3 +21,4 @@ Host Immunity and Immunization Strategies for Clostridioides difficile Infection
 A low burden of severe illness: the COVID-19 Omicron outbreak in the remote Torres and Cape region of Far North Queensland.|https://dx.doi.org/10.33321/cdi.2023.47.41
 Summary of National Surveillance Data on Vaccine Preventable Diseases in Australia, 2016-2018 Final Report.|https://dx.doi.org/10.33321/cdi.2023.47.40
 Assembling the Bacillus subtilis Spore Coat Basement Layer on Spherical Supported Lipid Bilayers.|https://dx.doi.org/10.1007/978-1-0716-3491-2_17
+Specimen sharing for epidemic preparedness: Building a virtual biorepository system from local governance to global partnerships.|https://dx.doi.org/10.1371/journal.pgph.0001568

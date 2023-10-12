@@ -59,3 +59,19 @@ Deciphering the complexes of zinc ions and hen egg white lysozyme: Instrumental 
 Bloodstream infections in neutropenic and non-neutropenic patients with haematological malignancies: epidemiological trends and clinical outcomes in Queensland, Australia over the last 20 years.|https://dx.doi.org/10.1007/s10238-023-01206-x
 Probing Bacterial Cell Division and Cell Envelope Biogenesis with Live-Cell Fluorescence Microscopy.|https://dx.doi.org/10.1007/978-1-0716-3491-2_16
 Tracking Cell Wall-Anchored Proteins in Gram-Positive Bacteria.|https://dx.doi.org/10.1007/978-1-0716-3491-2_15
+Risk factors for pre-transplantation bacteremia in adults with end-stage liver disease: Effects on outcomes of liver transplantation.|https://dx.doi.org/10.1111/ctr.15163
+Investigation of the antimicrobial, antioxidant, hemolytic, and thrombolytic activities of Camellia sinensis, Thymus vulgaris, and Zanthoxylum armatum ethanolic and methanolic extracts.|https://dx.doi.org/10.1002/fsn3.3569
+STITCH enabled molecular interaction of glycrhizzin with peri-implant microbiota.|https://dx.doi.org/10.6026/97320630019499
+STITCH enabled protein-protein interactions between Phyllanthus emblica and peri-implant microbiome.|https://dx.doi.org/10.6026/97320630019491
+Activation of multiple stress responses in Staphylococcus aureus substantially lowers the minimal inhibitory concentration when combining two novel antibiotic drug candidates.|https://dx.doi.org/10.3389/fmicb.2023.1260120
+An increase in erythromycin resistance in methicillin-susceptible Staphylococcus aureus from blood correlates with the use of macrolide/lincosamide/streptogramin antibiotics. EARS-Net Spain (2004-2020).|https://dx.doi.org/10.3389/fmicb.2023.1220286
+Exploring in vitro and in silico Biological Activities of Calligonum Comosum and Rumex Vesicarius: Implications on Anticancer and Antibacterial Therapeutics.|https://dx.doi.org/10.1016/j.jsps.2023.101794
+Reduction of the microbial load in meat maturation rooms with and without alkaline electrolyzed water fumigation.|https://dx.doi.org/10.4081/ijfs.2023.11109
+ETIOLOGIES OF INFECTIONS IN DIABETIC PATIENTS HOSPITALIZED AT BOUAKE UNIVERTY TEACHING HOSPITAL, CÔTE D'IVOIRE.|https://dx.doi.org/10.21010/Ajidv17i2S.1
+Ethnic endotypes in pediatric atopic dermatitis depend on immunotype, lipid composition, and microbiota of the skin.|https://dx.doi.org/10.1111/jdv.19565
+Chemical extraction, characterization, and inspection of the antimicrobial and antibiofilm activities of shrimp chitosan against foodborne fungi and bacteria.|https://dx.doi.org/10.1007/s11274-023-03798-8
+Chemical composition and antibacterial effects of Etlingera elatior (Jack) R.M. Smith against Staphylococcus aureus efflux pumps.|https://dx.doi.org/10.1016/j.cbi.2023.110751
+Local Delivery of Glabridin by Biomolecular Microneedle to Accelerate Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.202302470
+Avoiding misclassification of acute kidney injury: Timing is everything.|https://dx.doi.org/10.1111/nep.14246
+Chemical composition and antimicrobial activity of essential oil from Popowia pisocarpa (Bl.) Endl., Walp. Repert. (Annonaceae).|https://dx.doi.org/10.1080/14786419.2023.2265530
+The secreted tyrosine phosphatase PtpA promotes Staphylococcus aureus survival in RAW 264.7 macrophages through decrease of the SUMOylation host response.|https://dx.doi.org/10.1128/spectrum.02813-23

@@ -77,3 +77,23 @@ Depressive and anxiety symptoms in the course of the COVID-19 pandemic among phy
 Gynaecologists' perceptions of outpatient gynaecologic and obstetric care in Germany during the COVID-19 pandemic.|https://dx.doi.org/10.1186/s12913-023-10045-1
 Anxiety, self-efficacy, and their determinants in school students during the COVID-19 pandemic: a survey in Southeastern Iran.|https://dx.doi.org/10.1186/s12888-023-05252-3
 Comprehensive Risk Assessment of Infection Induced by SARS-CoV-2.|https://dx.doi.org/10.1007/s12035-023-03682-4
+Social distancing policy and mental health during COVID-19 pandemic: an 18-month longitudinal cohort study in South Korea.|https://dx.doi.org/10.3389/fpsyg.2023.1256240
+Factors associated with mask-induced dermatosis and its impact on patients' quality of life.|https://dx.doi.org/10.4081/dr.2023.9694
+Routine childhood vaccination among ethnocultural groups in Canada during the COVID-19 pandemic: A national cross-sectional study.|https://dx.doi.org/10.1016/j.pmedr.2023.102435
+Safety and immunogenicity of a booster dose of S-268019-b: Interim findings of a Phase 3, open-label clinical study in Japan.|https://dx.doi.org/10.1016/j.jvacx.2023.100390
+Reflections on the surge in malaria cases after unprecedented flooding in Pakistan-A commentary.|https://dx.doi.org/10.1002/hsr2.1620
+The Apolipoprotein E neutralizing antibody inhibits SARS-CoV-2 infection by blocking cellular entry of lipoviral particles.|https://dx.doi.org/10.1002/mco2.400
+Editorial: Exercise intervention for prevention, management of and rehabilitation from COVID-19.|https://dx.doi.org/10.3389/fphys.2023.1293229
+An interpretable time series machine learning method for varying forecast and nowcast lengths in wastewater-based epidemiology.|https://dx.doi.org/10.1016/j.mex.2023.102382
+Frontiers of monkeypox research: An analysis from the top 100 most influential articles in the field.|https://dx.doi.org/10.1016/j.heliyon.2023.e20566
+Reversing and modulating cellular senescence in beta cells, a new field of opportunities to treat diabetes.|https://dx.doi.org/10.3389/fendo.2023.1217729
+Role of SARS‑CoV‑2 nucleocapsid protein in affecting immune cells and insights on its molecular mechanisms.|https://dx.doi.org/10.3892/etm.2023.12203
+The Relationship Between Fear and Anxiety Among Chinese Uninfected Residents During the Pandemic: A Conditional Process Analysis.|https://dx.doi.org/10.2147/PRBM.S420047
+Association Between Pandemic Fatigue and Disease Knowledge, Attitudes, Concerns, and Vaccination Intention at Two Key Moments of the COVID-19 Pandemic.|https://dx.doi.org/10.3389/ijph.2023.1606049
+What Long COVID Prevention Strategies Suggest About Its Pathophysiology.|https://dx.doi.org/10.1093/ofid/ofad466
+BACKSLIDING ON CHILDHOOD IMMUNIZATIONS DUE TO ONGOING COVID-19 PANDEMIC: A RETROSPECTIVE STUDY IN BANADIR REGION, SOMALIA.|https://dx.doi.org/10.21010/Ajidv17i2S.2
+Glycosylated Delta-receptor-binding domain mucosal vaccine elicits broadly neutralizing antibodies with protection against SARS-CoV-2 challenge.|https://dx.doi.org/10.1016/j.isci.2023.108033
+Case report: Presentations and cytokine profiles of inflammatory non-pulmonary COVID-19 and related diseases in children.|https://dx.doi.org/10.3389/fped.2023.1209772
+User perceptions of COVID-19 telemedicine testing services, disease risk, and pandemic preparedness: findings from a private clinic in Hong Kong.|https://dx.doi.org/10.12809/hkmj219414
+Relationship between perceived social support and mental health among Chinese college football athletes: a moderated mediation model.|https://dx.doi.org/10.1186/s40359-023-01357-2
+Intrauterine transmission of SARS-CoV-2 to and prenatal ultrasound abnormal findings in the fetus of a pregnant woman with mild COVID-19.|https://dx.doi.org/10.1186/s12884-023-06053-y

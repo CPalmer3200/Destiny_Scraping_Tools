@@ -20,3 +20,5 @@ Using Methicillin-Resistant Staphylococcus aureus Nasal Screens to Rule Out Meth
 [Analysis of nasal microbial characteristics in patients with allergic rhinitis and non-allergic rhinitis].|https://dx.doi.org/10.3760/cma.j.cn115330-20221012-00605
 Unraveling the mechanisms of Cefoxitin resistance in methicillin-resistant Staphylococcus aureus (MRSA): structural and molecular simulation-based insights.|https://dx.doi.org/10.1080/07391102.2023.2262591
 Decolonization in Nursing Homes to Prevent Infection and Hospitalization.|https://dx.doi.org/10.1056/NEJMoa2215254
+Pediatric Utilization of Methicillin-resistant Staphylococcus aureus Nasal Swabs for Antimicrobial Stewardship.|https://dx.doi.org/10.1097/INF.0000000000004129
+Stability of magistral phage preparations before therapeutic application in patients with chronic rhinosinusitis, sepsis, pulmonary, and musculoskeletal infections.|https://dx.doi.org/10.1128/spectrum.02907-23

@@ -21,3 +21,7 @@ Australian Meningococcal Surveillance Programme Annual Report, 2022.|https://dx.
 ATAGI 2023 Annual Statement on Immunisation.|https://dx.doi.org/10.33321/cdi.2023.47.42
 C. difficile toxin strikes a nerve in the gut.|https://dx.doi.org/10.1038/s41575-023-00855-3
 Orbital blood vessels changes on color duplex imaging in diabetics with and without diabetic retinopathy.|https://dx.doi.org/10.1038/s41598-023-43838-9
+Occurrence, spatial distribution, and risk assessment of perchlorate in tea from typical regions in China.|https://dx.doi.org/10.1016/j.crfs.2023.100606
+Contribution of groundwater to dietary requirements of essential metals in Lagos and Ogun States, Nigeria.|https://dx.doi.org/10.1007/s10661-023-11893-4
+Efficient groundwater defluorination over a wide concentration gradient through capacitive deionization with a three-layer structured membrane coating electrode.|https://dx.doi.org/10.1016/j.jhazmat.2023.132703
+High rates of acquisition of toxigenic Clostridioides difficile colonization without subsequent infection during acute lymphoblastic leukemia treatment in children.|https://dx.doi.org/10.1093/cid/ciad628

@@ -57,3 +57,18 @@ Invasive Eumycotic mycetoma of the nasal septum in a post-dialysis patient: A ca
 Factors affecting progressive facial swelling immediately after orthognathic surgery: A retrospective cohort study.|https://dx.doi.org/10.1016/j.jcms.2023.09.016
 Living-donor lobar lung transplantation from a hepatitis B surface antigen-positive donor to a negative recipient.|https://dx.doi.org/10.1136/bcr-2023-255663
 Heterostructured piezocatalytic nanoparticles with enhanced ultrasound response for efficient repair of infectious bone defects.|https://dx.doi.org/10.1016/j.actbio.2023.10.006
+Aortic arch endovascular branch and fenestrated repair: Initial Canadian experience with novel technology.|https://dx.doi.org/10.1016/j.jvscit.2023.101274
+Definitive coverage of distal vein graft in a case of early skin necrosis following popliteal to dorsalis pedis bypass.|https://dx.doi.org/10.1016/j.jvscit.2023.101233
+Lateral access minimally invasive spine surgery in adult spinal deformity.|https://dx.doi.org/10.1016/j.jor.2023.09.007
+Apulian infectious diseases network: survey on the prevalence of delta infection among chronic HBV carriers in Apulia.|https://dx.doi.org/10.3389/fpubh.2023.1247454
+Dominantly inherited micro-satellite instable cancer - the four Lynch syndromes - an EHTG, PLSD position statement.|https://dx.doi.org/10.1186/s13053-023-00263-3
+A Prospective, Observational Cost Comparison of Laparoscopic and Open Appendicectomy in Three Tertiary Hospitals in Nigeria.|https://dx.doi.org/10.1007/s00268-023-07148-5
+Robotic-assisted repair of incisional hernia-early experiences of a university robotic hernia program and comparison with open and minimally invasive sublay technique (eMILOS).|https://dx.doi.org/10.1007/s00423-023-03129-3
+Expression of viral CD45 ligand E3/49K on porcine cells reduces human anti-pig immune responses.|https://dx.doi.org/10.1038/s41598-023-44316-y
+Comparison of the management of Helicobacter pylori infection between the older and younger European populations.|https://dx.doi.org/10.1038/s41598-023-43287-4
+Voriconazole-induced psychosis in rhino-orbital invasive aspergillosis.|https://dx.doi.org/10.1136/bcr-2023-254790
+Comparison of postoperative complications between laparoscopic myomectomy and total laparoscopic hysterectomy.|https://dx.doi.org/10.1016/j.jmig.2023.10.005
+Management of Implant Extrusion following Thyroplasty for Vocal Fold Paralysis: A Case Report.|https://dx.doi.org/10.1159/000533812
+Twenty-Five Year Multicentre Experience of Explantation of Infected Abdominal Aortic Endografts.|https://dx.doi.org/10.1177/00033197231206430
+Early Video Assisted Thoracoscopic Surgery (VATS) or Intrapleural Enzyme Therapy (IET) in Pleural Infection - A Feasibility Randomized Controlled Trial (The Third Multicenter Intrapleural Sepsis Trial - MIST-3).|https://dx.doi.org/10.1164/rccm.202305-0854OC
+Assessment of the Clinical Course of Human Rhinovirus/Enterovirus Infections in Pediatric Intensive Care.|https://dx.doi.org/10.1097/INF.0000000000004127

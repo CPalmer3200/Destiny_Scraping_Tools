@@ -46,3 +46,9 @@ Bloodstream infections in neutropenic and non-neutropenic patients with haematol
 Probing Bacterial Cell Division and Cell Envelope Biogenesis with Live-Cell Fluorescence Microscopy.|https://dx.doi.org/10.1007/978-1-0716-3491-2_16
 A Systematic Review and Meta-analysis of Randomized Clinical Trials on the Prevention and Treatment of Pouchitis after Ileoanal Pouch Anastomosis.|https://dx.doi.org/10.1007/s11605-023-05841-3
 Phenylboronic Acid-Modified Gold Nanoclusters as a Nanoantibiotic to Treat Vancomycin-Resistant Enterococcus faecalis-Caused Infections.|https://dx.doi.org/10.1021/acsnano.3c02886
+Facile one-pot multicomponent synthesis of peptoid based gelators as novel scaffolds for drug incorporation and pH-sensitive release.|https://dx.doi.org/10.1039/d3tb01527k
+Strengthening the role of hospital leadership in infection control (LEAD-IC) - a multimodal educational intervention in German acute care hospitals.|https://dx.doi.org/10.1186/s12909-023-04709-z
+Characterization of a Tigecycline-, Linezolid- and Vancomycin-Resistant Clinical Enteroccoccus faecium Isolate, Carrying vanA and vanB Genes.|https://dx.doi.org/10.1007/s40121-023-00881-3
+[A case of irreversible metronidazole encephalopathy during liver abscess treatment].|https://dx.doi.org/10.11405/nisshoshi.120.858
+Opioid exposure as a potential risk factor for vancomycin-resistant enterococci colonization in the absence of antimicrobial exposure.|https://dx.doi.org/10.1016/j.ajic.2023.10.001
+Risk Factors for Acute Kidney Injury after Hematopoietic Stem Cell Transplantation: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1159/000533945
