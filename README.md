@@ -28,6 +28,11 @@ The review script does not have it's own respective folder but requires _templat
 
 *The review script will automatically update the start_date and clear the rank.txt files once run
 
+### Automation
+This repo is designed to be automated using GitHub actions - please see the workflows folder and ensure the actions bot has permission to commit to the repo
+
+![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/fe8d34bf-6401-4e91-bbc8-8e296277e229)
+
 ## Adapting this repository
 Although this bot network has been tailored for Destiny Pharma's specific use, it can be adapted by any user using the following steps:
 
