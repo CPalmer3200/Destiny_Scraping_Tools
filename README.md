@@ -26,6 +26,8 @@ The review script does not have it's own respective folder but requires _templat
 2. start_date.txt: Accessed by the script to record the start date of the literature scraping
 3. review_log.txt: Simple log file that documents the searches run and their respective date
 
+The review script will automatically update the start_date and clear the rank.txt files once run
+
 ## Adapting this repository
 Although this bot network has been tailored for Destiny Pharma's specific use, it can be adapted by any user using the following steps:
 
