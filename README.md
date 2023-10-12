@@ -12,10 +12,19 @@ This repo is comprised of 4 scripts which provide 2 distinct functions.
 ## Usage
 
 ### Using the web scraping bots (dermal_main.py, m3_main.py, and nasal_main.py)
+The bots rely on their respective _data folders which contain doi_db.txt, log.txt, rank.txt and queries.txt files:
+1. doi_db.txt: Database containing all the DOIs the bot has identified - this prevent duplicates
+2. log.txt: Simple log file recording when the bot was run and a breakdown of the papers per rank found
+3. rank.txt: Files containing strings ready for inclusion in the monthly literature review
+4. queries.txt: PubMed queries syntax run in order line by line
 
+*The bot also uses the image.JPG in the main repo and attaches it to the email
 
 ### Using the monthly review script (review_main.py)
-
+The review script does not have it's own respective folder but requires _template.docx(s), start_date.txt, review_log.txt files
+1. _template.docx: Formatted .docx file which is the template for the respective literature review that is generated
+2. start_date.txt: Accessed by the script to record the start date of the literature scraping
+3. review_log.txt: Simple log file that documents the searches run and their respective date
 
 ## Adapting this repository
 Although this bot network has been tailored for Destiny Pharma's specific use, it can be adapted by any user using the following steps:
