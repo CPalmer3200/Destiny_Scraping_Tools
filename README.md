@@ -42,3 +42,4 @@ Please clear any log, database, rank files and then format your own _queries.txt
 
 7. Alter the directories list:
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/1a80c182-e183-485d-8d50-8927284ebeb3)
+
