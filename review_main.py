@@ -1,6 +1,7 @@
 from docxtpl import DocxTemplate, InlineImage, RichText
 import os
 import smtplib
+import time
 import ssl
 import datetime
 from email.mime.multipart import MIMEMultipart
@@ -225,6 +226,9 @@ if __name__ == '__main__':
 
         # Log review sent
         review_log(project)
+
+        # Wait 2 minutes to prevent email spam
+        time.sleep(120)
 
     # Log start date for beginning new literature search
     date = datetime.date.today()
