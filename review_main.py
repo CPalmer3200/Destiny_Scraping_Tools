@@ -126,7 +126,7 @@ def send_email(directory, project):
 
     email_sender = 'automatedscrapingbot@gmail.com'
     email_password = os.environ["SECRET_TOKEN"]
-    email_receiver = 'christopher.palmer32@gmail.com'
+    email_receiver = 'wl@destinypharma.com'
 
     subject = f'Literature review ({project} {date})'
     body = f'Please find attached the latest literature review for {project} ({date})'
