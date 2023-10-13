@@ -22,3 +22,4 @@ Effects of modified elastin-collagen matrix on the thermal and mechanical proper
 An injectable and light curable hyaluronic acid composite gel with anti-biofilm, anti-inflammatory and pro-healing characteristics for accelerating infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127190
 Dual-action gallium-flavonoid compounds for combating Pseudomonas aeruginosa infection.|https://dx.doi.org/10.1039/d3cb00033h
 Proteomic analysis of anti-MRSA activity of caerin 1.1/1.9 in a murine skin infection model and their in vitro anti-biofilm effects against Acinetobacter baumannii.|https://dx.doi.org/10.1128/spectrum.04520-22
+Staphylococcus epidermidis biofilm assembly and self-dispersion: bacteria and matrix dynamics.|https://dx.doi.org/10.1007/s10123-023-00433-2

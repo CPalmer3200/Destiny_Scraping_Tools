@@ -52,3 +52,9 @@ Characterization of a Tigecycline-, Linezolid- and Vancomycin-Resistant Clinical
 [A case of irreversible metronidazole encephalopathy during liver abscess treatment].|https://dx.doi.org/10.11405/nisshoshi.120.858
 Opioid exposure as a potential risk factor for vancomycin-resistant enterococci colonization in the absence of antimicrobial exposure.|https://dx.doi.org/10.1016/j.ajic.2023.10.001
 Risk Factors for Acute Kidney Injury after Hematopoietic Stem Cell Transplantation: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1159/000533945
+On the occurrence of a glutaredoxin-like small protein in the anaerobic protozoan parasite Entamoeba histolytica.|https://dx.doi.org/10.1016/j.bbagen.2023.130489
+Antimicrobial susceptibility of Treponema pallidum subspecies pallidum: an in-vitro study.|https://dx.doi.org/10.1016/S2666-5247(23)00219-7
+Molecular characterization of tetracycline and vancomycin-resistant Enterococcus faecium isolates from healthy dogs in Egypt: a public health threat.|https://dx.doi.org/10.1186/s12864-023-09708-4
+Successful antibiotic management of Staphylococcus epidermidis endophthalmitis after implantable collamer lens implantation.|https://dx.doi.org/10.1186/s12886-023-03127-5
+Evaluating antibiotic regimens for streptococcal toxic shock syndrome in children.|https://dx.doi.org/10.1371/journal.pone.0292311
+Antimicrobial-resistant Helicobacter pylori in Japan: Report of nationwide surveillance for 2018-2020.|https://dx.doi.org/10.1111/hel.13028

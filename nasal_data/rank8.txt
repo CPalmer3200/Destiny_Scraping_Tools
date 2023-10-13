@@ -72,3 +72,13 @@ Management of Implant Extrusion following Thyroplasty for Vocal Fold Paralysis: 
 Twenty-Five Year Multicentre Experience of Explantation of Infected Abdominal Aortic Endografts.|https://dx.doi.org/10.1177/00033197231206430
 Early Video Assisted Thoracoscopic Surgery (VATS) or Intrapleural Enzyme Therapy (IET) in Pleural Infection - A Feasibility Randomized Controlled Trial (The Third Multicenter Intrapleural Sepsis Trial - MIST-3).|https://dx.doi.org/10.1164/rccm.202305-0854OC
 Assessment of the Clinical Course of Human Rhinovirus/Enterovirus Infections in Pediatric Intensive Care.|https://dx.doi.org/10.1097/INF.0000000000004127
+The Effects of Blood Glucose Control in the Operative Spine Patient: A Systematic Review.|https://dx.doi.org/10.14444/8547
+Development and validation of a postoperative bleeding complications prediction model in infective endocarditis.|https://dx.doi.org/10.1016/j.ijcard.2023.131432
+Enhanced antimicrobial properties and bioactivity of 3D-printed titanium scaffolds by multilayer bioceramic coating for large bone defects.|https://dx.doi.org/10.1088/1748-605X/ad02d2
+Correlation between use of different type protective facemasks and the oral ecosystem.|https://dx.doi.org/10.1186/s12889-023-16936-6
+Safety and efficacy of waterjet debridement vs. conventional debridement in the treatment of extremely severe burns: A retrospective analysis.|https://dx.doi.org/10.1016/j.burns.2023.06.004
+New Noninvasive Method for the Assessment of Central Venous Oxygen Saturations in Critically Ill Patients.|https://dx.doi.org/10.1053/j.jvca.2023.09.020
+Recipient With Influenza A Infection: Contraindication to Transplant? A Case Report.|https://dx.doi.org/10.1016/j.transproceed.2023.08.026
+Characterizing the Crosstalk Between Programmed Cell Death Pathways in Cytokine Storm With an Agent-Based Model.|https://dx.doi.org/10.1089/sur.2023.115
+Evaluation of risk factors for the development of bacteremia and complications in patients with brucellosis: Is it possible to predict the clinical course?|https://dx.doi.org/10.3855/jidc.18164
+Accuracy of the ACS NSQIP Surgical Risk Calculator for Predicting Postoperative Complications in Gastric Cancer Following Open Gastrectomy.|https://dx.doi.org/10.1177/00031348231206581

@@ -24,3 +24,5 @@ Treatment of recurrent Clostridioides difficile infections with faecal microbiot
 Australian Paediatric Surveillance Unit (APSU) Annual Surveillance Report 2022.|https://dx.doi.org/10.33321/cdi.2023.47.46
 Socio-environmental and clinical features of invasive group A streptococcal disease in the Northern Territory of Australia.|https://dx.doi.org/10.33321/cdi.2023.47.39
 Identification of a 1,2,4-Oxadiazole with Potent and Specific Activity against Clostridioides difficile, the Causative Bacterium of C. difficile Infection, an Urgent Public Health Threat.|https://dx.doi.org/10.1021/acs.jmedchem.3c01778
+Flagellin is essential for initial attachment to mucosal surfaces by Clostridioides difficile.|https://dx.doi.org/10.1128/spectrum.02120-23
+Impact of a purified microbiome therapeutic on abundance of antimicrobial resistance genes in patients with recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/cid/ciad636

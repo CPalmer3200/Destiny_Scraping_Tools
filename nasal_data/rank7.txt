@@ -97,3 +97,23 @@ Case report: Presentations and cytokine profiles of inflammatory non-pulmonary C
 User perceptions of COVID-19 telemedicine testing services, disease risk, and pandemic preparedness: findings from a private clinic in Hong Kong.|https://dx.doi.org/10.12809/hkmj219414
 Relationship between perceived social support and mental health among Chinese college football athletes: a moderated mediation model.|https://dx.doi.org/10.1186/s40359-023-01357-2
 Intrauterine transmission of SARS-CoV-2 to and prenatal ultrasound abnormal findings in the fetus of a pregnant woman with mild COVID-19.|https://dx.doi.org/10.1186/s12884-023-06053-y
+Impact of strategies to mitigate misinformation in diverse settings and populations: a protocol for a living evidence synthesis.|https://dx.doi.org/10.1136/bmjopen-2023-076672
+Descriptive Epidemiology of Central Line-Associated Bloodstream Infections at an Academic Medical Center in Iowa, 2019-2022.|https://dx.doi.org/10.1016/j.ajic.2023.09.021
+Transplacental transfer efficiency of maternal antibodies against influenza A(H1N1)pdm09 virus and dynamics of naturally acquired antibodies in Chinese children: a longitudinal, paired mother-neonate cohort study.|https://dx.doi.org/10.1016/S2666-5247(23)00181-7
+Autoreactive T cells targeting type II pneumocyte antigens in COVID-19 convalescent patients.|https://dx.doi.org/10.1016/j.jaut.2023.103118
+Evaluation of in vitro SARS-CoV-2 inactivation by a new quaternary ammonium compound: Bromiphen bromide.|https://dx.doi.org/10.1002/ardp.202300424
+Effectiveness of the booster dose of inactivated COVID-19 vaccine against Omicron BA.5 infection: a matched cohort study of adult close contacts.|https://dx.doi.org/10.1186/s12931-023-02542-y
+Interregional mobility in different age groups is associated with COVID-19 transmission in the Taipei metropolitan area, Taiwan.|https://dx.doi.org/10.1038/s41598-023-44474-z
+Seasonal quadrivalent mRNA vaccine prevents and mitigates influenza infection.|https://dx.doi.org/10.1038/s41541-023-00752-5
+Immunity of Canadians and risk of epidemics workshop - Conference report.|https://dx.doi.org/10.1016/j.vaccine.2023.07.023
+Obstructive jaundice treatment during the COVID-19 pandemic: retrospective cohort study at a single tertiary care center in Serbia.|https://dx.doi.org/10.1177/03000605231202350
+Changes in coercive parenting and child externalizing behavior across COVID-19 and the moderating role of parent-child attachment relationship quality.|https://dx.doi.org/10.1371/journal.pone.0290089
+The effects of body dissatisfaction, sleep duration, and exercise habits on the mental health of university students in southern China during COVID-19.|https://dx.doi.org/10.1371/journal.pone.0292896
+COVID-19's shadow on families: A structural equation model of parental stress, family relationships, and child wellbeing.|https://dx.doi.org/10.1371/journal.pone.0292292
+Determinants of trust in times of crises: A cross-sectional study of 3,065 German-speaking adults from the D-A-CH region.|https://dx.doi.org/10.1371/journal.pone.0286488
+COVID-19 infection among healthcare workers in an oncology hospital.|https://dx.doi.org/10.3855/jidc.17404
+A survey of perceived risk and protective behaviours towards COVID-19 in 2020 in Iraqi Kurdistan.|https://dx.doi.org/10.3855/jidc.17908
+The impact of the COVID-19 pandemic on the trend of ventilator associated pneumonia incidence in a non-COVID-19 dedicated hospital.|https://dx.doi.org/10.3855/jidc.17667
+Epidemiology of common infectious diseases before and during the COVID-19 pandemic in Bavaria, Germany, 2016 to 2021: an analysis of routine surveillance data.|https://dx.doi.org/10.2807/1560-7917.ES.2023.28.41.2300030
+Analysis of avian influenza A (H3N8) viruses in poultry and their zoonotic potential, China, September 2021 to May 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2023.28.41.2200871
+Effects of the COVID-19 pandemic on stress, coping, and well-being among adults with histories of child maltreatment.|https://dx.doi.org/10.1037/ort0000707

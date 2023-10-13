@@ -25,3 +25,8 @@ Occurrence, spatial distribution, and risk assessment of perchlorate in tea from
 Contribution of groundwater to dietary requirements of essential metals in Lagos and Ogun States, Nigeria.|https://dx.doi.org/10.1007/s10661-023-11893-4
 Efficient groundwater defluorination over a wide concentration gradient through capacitive deionization with a three-layer structured membrane coating electrode.|https://dx.doi.org/10.1016/j.jhazmat.2023.132703
 High rates of acquisition of toxigenic Clostridioides difficile colonization without subsequent infection during acute lymphoblastic leukemia treatment in children.|https://dx.doi.org/10.1093/cid/ciad628
+Impact of Balloon Guide Catheters in Elderly Patients Treated with Mechanical Thrombectomy: Insights from the ROSSETTI Registry.|https://dx.doi.org/10.3174/ajnr.A8003
+Inter-relationships between suicidality and depressive symptoms among children and adolescents experiencing crisis: A network perspective.|https://dx.doi.org/10.1016/j.jad.2023.10.029
+Syndromic testing for increasing diagnostic accuracy in gastrointestinal infection.|https://dx.doi.org/10.3855/jidc.17038
+Switchable Organocatalysis from N-Heterocyclic Carbene-Carbodiimide Adducts with Tunable Release Temperature.|https://dx.doi.org/10.1002/anie.202314376
+Biogeographic distribution and molecular epidemiology of Clostridioides (Clostridium) difficile in Western Australian soils.|https://dx.doi.org/10.1128/aem.00379-23

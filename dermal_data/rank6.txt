@@ -16,3 +16,4 @@ The association between S. aureus colonization on cheek skin at 2 months and sub
 The role of bacterial colonisation in severity, symptoms and aetiology of hand eczema: The importance of Staphylococcus aureus and presence of commensal skin flora.|https://dx.doi.org/10.1111/cod.14384
 Effect of sphingosine and inoculum concentrations on Staphylococcus aureus and Staphylococcus epidermidis biofilms.|https://dx.doi.org/10.1080/08927014.2023.2236584
 Ethnic endotypes in pediatric atopic dermatitis depend on immunotype, lipid composition, and microbiota of the skin.|https://dx.doi.org/10.1111/jdv.19565
+Association Between Nasal Colonization of Staphylococcus aureus and Eczema of Multiple Body Sites.|https://dx.doi.org/10.4168/aair.2023.15.5.659

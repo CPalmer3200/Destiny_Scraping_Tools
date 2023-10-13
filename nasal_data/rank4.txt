@@ -60,3 +60,10 @@ The management of gingival fenestration: A series of three cases.|https://dx.doi
 Acute pharyngitis in children and adults: descriptive comparison of current recommendations from national and international guidelines and future perspectives.|https://dx.doi.org/10.1007/s00431-023-05211-w
 [Surgical site infection after lower limb arterial reconstruction: can we improve prevention?].|https://dx.doi.org/10.53738/REVMED.2023.19.845.1824
 Impact of digestive-surgical cross-disciplinary management in patients with esophageal atresia.|https://dx.doi.org/10.54847/cp.2023.04.11
+Maximizing outcomes in penile prosthetic surgery: exploring strategies to prevent and manage infectious and non-infectious complications.|https://dx.doi.org/10.1038/s41443-023-00773-7
+Current concepts review: Management of civilian transpelvic gunshot fractures.|https://dx.doi.org/10.1016/j.injury.2023.111086
+High Influenza Incidence and Disease Severity Among Children and Adolescents Aged <18 Years - United States, 2022-23 Season.|https://dx.doi.org/10.15585/mmwr.mm7241a2
+Use of the Pfizer Respiratory Syncytial Virus Vaccine During Pregnancy for the Prevention of Respiratory Syncytial Virus-Associated Lower Respiratory Tract Disease in Infants: Recommendations of the Advisory Committee on Immunization Practices - United States, 2023.|https://dx.doi.org/10.15585/mmwr.mm7241e1
+Prevalence and Correlates of Physical Inactivity Among Individuals with HIV During the First COVID-19 Wave: A Cross-sectional Survey.|https://dx.doi.org/10.1007/s10461-023-04170-5
+[Surgical site infection and perioperative antibiotics in dermatosurgery].|https://dx.doi.org/10.1007/s00105-023-05233-3
+Real-world experience of therapeutic drug monitoring and PK/PD achievement of ceftaroline administered by different infusion regimens in patients with confirmed infections caused by Gram-positive bacteria.|https://dx.doi.org/10.1093/jac/dkad296

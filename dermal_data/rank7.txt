@@ -23,3 +23,4 @@ Native human and mouse skin infection models to study Candida auris-host interac
 Inflammation-mediated fibroblast activation and immune dysregulation in collagen VII-deficient skin.|https://dx.doi.org/10.3389/fimmu.2023.1211505
 Widespread and dynamic expression of granzyme C by skin-resident antiviral T cells.|https://dx.doi.org/10.3389/fimmu.2023.1236595
 C-type lectin receptor expression is a hallmark of neutrophils infiltrating the skin in epidermolysis bullosa acquisita.|https://dx.doi.org/10.3389/fimmu.2023.1266359
+Development of gel containing Psidium glaziovianum essential oil has in vitro antimicrobial activity and improves healing of excisional wounds in mice.|https://dx.doi.org/10.1007/s10787-023-01351-5

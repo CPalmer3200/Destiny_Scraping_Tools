@@ -22,3 +22,4 @@ Unraveling the mechanisms of Cefoxitin resistance in methicillin-resistant Staph
 Decolonization in Nursing Homes to Prevent Infection and Hospitalization.|https://dx.doi.org/10.1056/NEJMoa2215254
 Pediatric Utilization of Methicillin-resistant Staphylococcus aureus Nasal Swabs for Antimicrobial Stewardship.|https://dx.doi.org/10.1097/INF.0000000000004129
 Stability of magistral phage preparations before therapeutic application in patients with chronic rhinosinusitis, sepsis, pulmonary, and musculoskeletal infections.|https://dx.doi.org/10.1128/spectrum.02907-23
+Association Between Nasal Colonization of Staphylococcus aureus and Eczema of Multiple Body Sites.|https://dx.doi.org/10.4168/aair.2023.15.5.659

@@ -22,3 +22,4 @@ Molecular typing and characterization of Staphylococcus aureus isolates from bur
 Cell free extract-mediated biogenic synthesis of ZnONPs and their application with kanamycin as a bactericidal combination.|https://dx.doi.org/10.1007/s11274-023-03777-z
 [Epidemiological characteristics and risk factors of sepsis development and death in patients with extremely severe burns].|https://dx.doi.org/10.3760/cma.j.cn501225-20220806-00336
 Bacteriophage entrapped chitosan microgel for biofilm-mediated poly bacterial infection in burn wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127247
+Magnesium/gallic acid bioMOFs laden carbonized mushroom aerogel effectively heals biofilm-infected skin wounds.|https://dx.doi.org/10.1016/j.biomaterials.2023.122347

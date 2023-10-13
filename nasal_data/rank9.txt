@@ -75,3 +75,19 @@ Local Delivery of Glabridin by Biomolecular Microneedle to Accelerate Infected W
 Avoiding misclassification of acute kidney injury: Timing is everything.|https://dx.doi.org/10.1111/nep.14246
 Chemical composition and antimicrobial activity of essential oil from Popowia pisocarpa (Bl.) Endl., Walp. Repert. (Annonaceae).|https://dx.doi.org/10.1080/14786419.2023.2265530
 The secreted tyrosine phosphatase PtpA promotes Staphylococcus aureus survival in RAW 264.7 macrophages through decrease of the SUMOylation host response.|https://dx.doi.org/10.1128/spectrum.02813-23
+A sensitive non-enzymatic dual-conductive biosensor for continuous glucose monitoring.|https://dx.doi.org/10.1016/j.aca.2023.341845
+Engineering pH responsive carboxyethyl chitosan and oxidized pectin -based hydrogels with self-healing, biodegradable and antibacterial properties for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127364
+Engineering pH-sensitive erodible chitosan hydrogel composite containing bacteriophage: An interplay between hydrogel and bacteriophage against Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127371
+Real-time in vivo monitoring of the antimicrobial action of combination therapies in the management of infected topical wounds.|https://dx.doi.org/10.1016/j.ijpharm.2023.123502
+Advantages of agarose on alginate for the preparation of polysaccharide/hydroxyapatite porous bone scaffolds compatible with a proline-rich antimicrobial peptide.|https://dx.doi.org/10.1088/1748-605X/ad02d3
+Magnesium/gallic acid bioMOFs laden carbonized mushroom aerogel effectively heals biofilm-infected skin wounds.|https://dx.doi.org/10.1016/j.biomaterials.2023.122347
+Layer-by-layer microneedle patch with antibacterial and antioxidant dual activities for accelerating bacterial-infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2023.113569
+A smartphone-based fluorescent sensor for rapid detection of multiple pathogenic bacteria.|https://dx.doi.org/10.1016/j.bios.2023.115744
+Correction to: A longitudinal census of the bacterial community in raw milk correlated with Staphylococcus aureus clinical mastitis infections in dairy cattle.|https://dx.doi.org/10.1186/s42523-023-00273-5
+Evaluation of epidemiological and microbiological characteristics, clinical features, and outcomes of adult patients with infective endocarditis in Mashhad, Iran.|https://dx.doi.org/10.3855/jidc.17583
+Efficacy of boric acid used to treat experimental vascular graft infection by methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3855/jidc.17865
+Antibiotic resistance patterns in nosocomial infections: preliminary data from Hospital of Al-Hoceima, Morocco.|https://dx.doi.org/10.3855/jidc.17454
+Biochemical and Cellular Characterization of the Function of Fluorophosphonate-Binding Hydrolase H (FphH) in Staphylococcus aureus Support a Role in Bacterial Stress Response.|https://dx.doi.org/10.1021/acsinfecdis.3c00246
+Nucleic acid strand displacement for indirect determination of foodborne bacteria by capillary electrophoresis and its application in antagonism and bacteriostasis studies.|https://dx.doi.org/10.1002/elps.202300155
+The cytocompatibility of graphene oxide as a platform to enhance the effectiveness and safety of silver nanoparticles through in vitro studies.|https://dx.doi.org/10.1007/s11356-023-30151-1
+The Mg doping ZIF-8 loaded with Icariin and its antibacterial and osteogenic performances.|https://dx.doi.org/10.1007/s10856-023-06755-x
