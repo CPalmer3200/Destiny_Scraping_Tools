@@ -14,3 +14,21 @@ Parathyroid hormone therapy improves MRSA-infected fracture healing in a murine 
 Exploring the potential of ume-derived proanthocyanidins: novel applications for blueberry preservation.|https://dx.doi.org/10.3389/fmicb.2023.1265993
 Antibodies to coagulase of Staphylococcus aureus crossreact to Efb and reveal different binding of shared fibrinogen binding repeats.|https://dx.doi.org/10.3389/fimmu.2023.1221108
 Improved Antibacterial Activity of 1,3,4-Oxadiazole-Based Compounds That Restrict Staphylococcus aureus Growth Independent of LtaS Function.|https://dx.doi.org/10.1021/acsinfecdis.3c00250
+Nanoemulsion of Lavandula angustifolia Essential Oil/Gold Nanoparticles: Antibacterial Effect against Multidrug-Resistant Wound-Causing Bacteria.|https://dx.doi.org/10.3390/molecules28196988
+Thymus Vulgaris Oil Nanoemulsion: Synthesis, Characterization, Antimicrobial and Anticancer Activities.|https://dx.doi.org/10.3390/molecules28196910
+Encapsulation and Biological Activity of Hesperetin Derivatives with HP-β-CD.|https://dx.doi.org/10.3390/molecules28196893
+Development and Evaluation of Topical Zinc Oxide Nanogels Formulation Using Dendrobium anosmum and Its Effect on Acne Vulgaris.|https://dx.doi.org/10.3390/molecules28196749
+Antibacterial and Disinfecting Effects of Standardised Tea Extracts on More than 100 Clinical Isolates of Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/plants12193440
+Phytochemical Composition and Pharmacological Activities of Three Essential Oils Collected from Eastern Morocco (Origanum compactum, Salvia officinalis, and Syzygium aromaticum): A Comparative Study.|https://dx.doi.org/10.3390/plants12193376
+Polymer Packaging through the Blending of Biowaste Oyster Shell and Low-Density Polyethylene: A Sustainable Approach for Enhanced Food Preservation.|https://dx.doi.org/10.3390/polym15193977
+Anticancer Drug-Loaded Chitosan Nanoparticles for In Vitro Release, Promoting Antibacterial and Anticancer Activities.|https://dx.doi.org/10.3390/polym15193925
+Changes in Hemolymph Microbiota of Chinese Mitten Crab (Eriocheir sinensis) in Response to Aeromonas hydrophila or Staphylococcus aureus Infection.|https://dx.doi.org/10.3390/ani13193058
+Irregular Findings on Teatcups in Milking Parlours in Sheep and Goat Farms and Potential Predictors.|https://dx.doi.org/10.3390/ani13193004
+Prevalence of Foodborne Bacterial Pathogens and Antibiotic Resistance Genes in Sweets from Local Markets in Iran.|https://dx.doi.org/10.3390/foods12193645
+The Influence of Enzymatic Hydrolysis on Bee Pollen Antioxidant and Antibacterial Activities.|https://dx.doi.org/10.3390/foods12193582
+Bacteriocin-Producing Enterococcus faecium OV3-6 as a Bio-Preservative Agent to Produce Fermented Houttuynia cordata Thunb. Beverages: A Preliminary Study.|https://dx.doi.org/10.3390/foods12193520
+Association of Positive Bacterial Cultures Obtained from the Throat, Anus, Ear, Bronchi and Blood in Very-Low-Birth-Weight Premature Infants with Severe Retinopathy of Prematurity-Own Observations.|https://dx.doi.org/10.3390/jcm12196374
+Antimicrobial Peptidomimetics Prevent the Development of Resistance against Gentamicin and Ciprofloxacin in Staphylococcus and Pseudomonas Bacteria.|https://dx.doi.org/10.3390/ijms241914966
+Incorporating Ceragenins into Coatings Protects Peripherally Inserted Central Catheter Lines against Pathogen Colonization for Multiple Weeks.|https://dx.doi.org/10.3390/ijms241914923
+Staphylococcus aureus Modulates Carotenoid and Phospholipid Content in Response to Oxygen-Restricted Growth Conditions, Triggering Changes in Membrane Biophysical Properties.|https://dx.doi.org/10.3390/ijms241914906
+Crystal Structure of DNA Replication Protein SsbA Complexed with the Anticancer Drug 5-Fluorouracil.|https://dx.doi.org/10.3390/ijms241914899

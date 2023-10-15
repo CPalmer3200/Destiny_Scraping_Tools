@@ -16,3 +16,23 @@ COVID-19 treatment strategies with drugs centrally procured by the German Federa
 Developing and testing a protocol using a common data model for federated collection and analysis of national perinatal health indicators in Europe.|https://dx.doi.org/10.12688/openreseurope.15701.2
 Mortality in Two Waves of COVID-19: A Comparative Analysis of a Tertiary Care Hospital in India.|https://dx.doi.org/10.7759/cureus.45025
 The Past, Present, and Future of One Health in India: A Narrative Review.|https://dx.doi.org/10.7759/cureus.44992
+Implementation of an International Severe Infection Point-of-Care Ultrasound Research Network.|https://dx.doi.org/10.1093/milmed/usad393
+Social Disparities in Lifestyle and Body Weight Changes during COVID-19 Quarantine and Post-Quarantine Persistence of Changes among Lithuanian Adult Population.|https://dx.doi.org/10.3390/nu15194254
+Cancer Metabolism as a Therapeutic Target and Review of Interventions.|https://dx.doi.org/10.3390/nu15194245
+Barriers in the Management of Obesity in Mexican Children and Adolescents through the COVID-19 Lockdown-Lessons Learned and Perspectives for the Future.|https://dx.doi.org/10.3390/nu15194238
+Nutritional Strategies to Prevent Weight Gain and Obesity.|https://dx.doi.org/10.3390/nu15194180
+Emerging Technology-Driven Hybrid Models for Preventing and Monitoring Infectious Diseases: A Comprehensive Review and Conceptual Framework.|https://dx.doi.org/10.3390/diagnostics13193047
+A Single-Tube Colorimetric Loop-Mediated Isothermal Amplification for Rapid Detection of SARS-CoV-2 RNA.|https://dx.doi.org/10.3390/diagnostics13193040
+Resilience, Positivity and Social Support as Perceived Stress Predictors among University Students.|https://dx.doi.org/10.3390/ijerph20196892
+Medical Care Management Based on Disaster Medicine for the Triathlon Events at the XXXII Olympiad and Tokyo 2020 Paralympic Games.|https://dx.doi.org/10.3390/ijerph20196891
+Effects of the COVID-19 Pandemic on Legionella Water Management Program Performance across a United States Lodging Organization.|https://dx.doi.org/10.3390/ijerph20196885
+Gaming in Pandemic Times: An International Survey Assessing the Effects of COVID-19 Lockdowns on Young Video Gamers' Health.|https://dx.doi.org/10.3390/ijerph20196855
+Advancing the Management of Long COVID by Integrating into Health Informatics Domain: Current and Future Perspectives.|https://dx.doi.org/10.3390/ijerph20196836
+A COVID-19 Outbreak in a Large Meat-Processing Plant in England: Transmission Risk Factors and Controls.|https://dx.doi.org/10.3390/ijerph20196806
+Thyroid Autoimmunity and SARS-CoV-2 Infection.|https://dx.doi.org/10.3390/jcm12196365
+Comparison of Maternal and Neonatal Outcomes between SARS-CoV-2 Variants: A Retrospective, Monocentric Study.|https://dx.doi.org/10.3390/jcm12196329
+The Effect of the COVID-19 Pandemic on Self-Reported Health Status and Smoking and Drinking Habits in the General Urban Population.|https://dx.doi.org/10.3390/jcm12196241
+Multi-Omic Candidate Screening for Markers of Severe Clinical Courses of COVID-19.|https://dx.doi.org/10.3390/jcm12196225
+Telemedicine in Elderly Hypertensive and Patients with Chronic Diseases during the COVID-19 Pandemic: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm12196160
+The Emotional Landscape of Pregnancy and Postpartum during the COVID-19 Pandemic in Italy: A Mixed-Method Analysis Using Artificial Intelligence.|https://dx.doi.org/10.3390/jcm12196140
+Decoding Sepsis-Induced Disseminated Intravascular Coagulation: A Comprehensive Review of Existing and Emerging Therapies.|https://dx.doi.org/10.3390/jcm12196128

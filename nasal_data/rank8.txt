@@ -14,3 +14,17 @@ A meta-analysis of the risk factors of surgical site infection after hysterectom
 Clinical characteristics and prognosis of sudden sensorineural hearing loss in single-sided deafness patients.|https://dx.doi.org/10.3389/fneur.2023.1230340
 Genomic Characterization of 2 Cutibacterium acnes Isolates from a Surgical Site Infection Reveals Large Genomic Inversion.|https://dx.doi.org/10.20411/pai.v8i1.606
 Which, how, and what? Using digital tools to train surgical skills; a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.sopen.2023.10.002
+Postoperative results of modified Karydakis flap method for primary sacrococcygeal pilonidal sinus disease: short and long-term analysis.|https://dx.doi.org/10.1111/ans.18738
+Primary Cutaneous Cryptococcosis in an Immunocompetent Patient: Diagnostic Workflow and Choice of Treatment.|https://dx.doi.org/10.3390/diagnostics13193149
+Interventional Heartworm Extraction in Two Dogs: The Clinical Application of Impedance Cardiography.|https://dx.doi.org/10.3390/ani13193127
+Nasopharynx Battlefield: Cellular Immune Responses Mediated by Midkine in Nasopharyngeal Carcinoma and COVID-19.|https://dx.doi.org/10.3390/cancers15194850
+Prognostic Performance of Sequential Organ Failure Assessment, Acute Physiology and Chronic Health Evaluation III, and Simplified Acute Physiology Score II Scores in Patients with Suspected Infection According to Intensive Care Unit Type.|https://dx.doi.org/10.3390/jcm12196402
+Advances and Evolving Challenges in Spinal Deformity Surgery.|https://dx.doi.org/10.3390/jcm12196386
+Autoimmune Pancreatitis Type 1 with Biliary, Nasal, Testicular, and Pulmonary Involvement: A Case Report and a Systematic Review.|https://dx.doi.org/10.3390/jcm12196340
+Associated Factors of Functional Ability in Older Persons Undergoing Hip Surgery Immediately Post-Hospital Discharge: A Prospective Study.|https://dx.doi.org/10.3390/jcm12196258
+Treatment of Fracture-Related Infection after Pelvic Fracture.|https://dx.doi.org/10.3390/jcm12196221
+The Classic Three-Month Post-Operative Adaptation Phase in Foot and Ankle Surgery-An Expert Perspective.|https://dx.doi.org/10.3390/jcm12196217
+Interventional Radiotherapy (Brachytherapy) for Nasal Vestibule: Novel Strategies to Prevent Side Effects.|https://dx.doi.org/10.3390/jcm12196154
+Fabrication and Characterization of a Multifunctional Coating to Promote the Osteogenic Properties of Orthopedic Implants.|https://dx.doi.org/10.3390/ma16196608
+Excessive Pregestational Weight and Maternal Obstetric Complications: The Role of Adipokines.|https://dx.doi.org/10.3390/ijms241914678
+Nosocomial infections in the surgical intensive care unit: an observational retrospective study from a large tertiary hospital in Palestine.|https://dx.doi.org/10.1186/s12879-023-08677-z
