@@ -32,3 +32,18 @@ Antimicrobial Peptidomimetics Prevent the Development of Resistance against Gent
 Incorporating Ceragenins into Coatings Protects Peripherally Inserted Central Catheter Lines against Pathogen Colonization for Multiple Weeks.|https://dx.doi.org/10.3390/ijms241914923
 Staphylococcus aureus Modulates Carotenoid and Phospholipid Content in Response to Oxygen-Restricted Growth Conditions, Triggering Changes in Membrane Biophysical Properties.|https://dx.doi.org/10.3390/ijms241914906
 Crystal Structure of DNA Replication Protein SsbA Complexed with the Anticancer Drug 5-Fluorouracil.|https://dx.doi.org/10.3390/ijms241914899
+A multi-functional double cross-linked chitosan hydrogel with tunable mechanical and antibacterial properties for skin wound dressing.|https://dx.doi.org/10.1016/j.carbpol.2023.121344
+Evaluation of the antibacterial and inhibitory activity of the MepA efflux pump of Staphylococcus aureus by riparins I, II, III, and IV.|https://dx.doi.org/10.1016/j.abb.2023.109782
+Biological production of epicoccamide-aglycone and its cytotoxicity.|https://dx.doi.org/10.1016/j.bmcl.2023.129524
+2,4-Diacetylphloroglucinol (DAPG) derivatives rapidly eradicate methicillin-resistant staphylococcus aureus without resistance development by disrupting membrane.|https://dx.doi.org/10.1016/j.ejmech.2023.115823
+Antimicrobial films fabricated with myricetin nanoparticles and chitosan derivation microgels for killing pathogenic bacteria in drinking water.|https://dx.doi.org/10.1016/j.colsurfb.2023.113591
+Gum arabic-assisted green synthesis of biocompatible MoS(2) nanoparticles for methylene blue photodegradation.|https://dx.doi.org/10.1007/s11356-023-30116-4
+Non-coding RNAs in diabetic foot ulcer- a focus on infected wounds.|https://dx.doi.org/10.1002/dmrr.3740
+Chemical Biology Approach to Reveal the Importance of Precise Subcellular Targeting for Intracellular Staphylococcus aureus Eradication.|https://dx.doi.org/10.1021/jacs.3c09587
+Silver Nanowire Reinforced Conductive and Injectable Colloidal Gel for Effective Wound Healing via Electrical Stimulation.|https://dx.doi.org/10.1002/adhm.202301420
+Development of basil seed mucilage (a heteropolysaccharide) - Polyvinyl alcohol biopolymers incorporating zinc oxide nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127342
+Eminent destruction of organics and pathogens concomitant with power generation in a visible light-responsive photocatalytic fuel cell with NiFe(2)O(4)/ZnO pine tree-like photoanode and CuO/Cu(2)O nanorod cathode.|https://dx.doi.org/10.1016/j.chemosphere.2023.140402
+Bone and joint infection complicated with sepsis in neonates and infants under three months of age.|https://dx.doi.org/10.1016/j.jped.2023.09.003
+Quantification of bacterial DNA in blood using droplet digital PCR: a pilot study.|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116075
+Preparation of polyvinyl alcohol/chitosan nanofibrous films incorporating graphene oxide and lanthanum chloride by electrospinning method for potential photothermal and chemical synergistic antibacterial applications in wound dressings.|https://dx.doi.org/10.1016/j.jmbbm.2023.106162
+Starch/poly (butylene adipate-co-terephthalate) blown films contained the quaternary ammonium salts with different N-alkyl chain lengths as antimicrobials.|https://dx.doi.org/10.1016/j.foodchem.2023.137650

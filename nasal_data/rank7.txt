@@ -36,3 +36,20 @@ Multi-Omic Candidate Screening for Markers of Severe Clinical Courses of COVID-1
 Telemedicine in Elderly Hypertensive and Patients with Chronic Diseases during the COVID-19 Pandemic: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm12196160
 The Emotional Landscape of Pregnancy and Postpartum during the COVID-19 Pandemic in Italy: A Mixed-Method Analysis Using Artificial Intelligence.|https://dx.doi.org/10.3390/jcm12196140
 Decoding Sepsis-Induced Disseminated Intravascular Coagulation: A Comprehensive Review of Existing and Emerging Therapies.|https://dx.doi.org/10.3390/jcm12196128
+Breakthrough COVID-19 after tixagevimab/cilgavimab among patients with systemic autoimmune rheumatic diseases.|https://dx.doi.org/10.3899/jrheum.2023-0742
+A population-based test-negative matched case control analysis of SARS-CoV-2 vaccine effectiveness among pregnant people in Ontario, Canada.|https://dx.doi.org/10.1016/j.jogc.2023.102239
+An updated review on pathogenic coronaviruses (CoVs) amid the emergence of SARS-CoV-2 variants: A look into the repercussions and possible solutions.|https://dx.doi.org/10.1016/j.jiph.2023.09.004
+Early Childhood Caries and Dental Public Health Programmes in Hong Kong.|https://dx.doi.org/10.1016/j.identj.2023.08.001
+Immune escape and waning immunity of COVID-19 monovalent mRNA vaccines against symptomatic infection with BA.1/BA.2 and BA.5 in Japan.|https://dx.doi.org/10.1016/j.vaccine.2023.10.021
+The Impact of COVID-19 on the Careers of Women in Academic Sciences, Engineering, and Medicine (2021).|https://dx.doi.org/10.1097/JOM.0000000000002559
+Investigation of the relationship between disasters and sleep problems in adolescents.|https://dx.doi.org/10.1080/09603123.2023.2269875
+Application of distributed lag models and spatial analysis for comparing the performance of the COVID-19 control decisions in European countries.|https://dx.doi.org/10.1038/s41598-023-44830-z
+A dry powder formulation for peripheral lung delivery and absorption of an anti-SARS-CoV-2 ACE2 decoy polypeptide.|https://dx.doi.org/10.1016/j.ejps.2023.106609
+Anti-SARS-CoV-2 activity of cyanopeptolins produced by Nostoc edaphicum CCNP1411.|https://dx.doi.org/10.1016/j.antiviral.2023.105731
+Predictive power of wastewater for nowcasting infectious disease transmission: A retrospective case study of five sewershed areas in Louisville, Kentucky.|https://dx.doi.org/10.1016/j.envres.2023.117395
+Analyzing neural activity under prolonged mask usage through EEG.|https://dx.doi.org/10.1016/j.brainres.2023.148624
+The Lancet-PPATS Commission on Prevention of Viral Spillover: reducing the risk of pandemics through primary prevention.|https://dx.doi.org/10.1016/S0140-6736(23)01064-4
+Incidence, risk factors and outcome of acute kidney injury in critically ill COVID-19 patients in Tyrol, Austria: a prospective multicenter registry study.|https://dx.doi.org/10.1007/s40620-023-01760-3
+Potential use of cidofovir, brincidofovir, and tecovirimat drugs in fighting monkeypox infection: recent trends and advancements.|https://dx.doi.org/10.1007/s00210-023-02769-y
+An overview of the use of psychoactive substances among students at the University of Lille during the COVID-19 health crisis: Results of the PETRA study.|https://dx.doi.org/10.1080/19585969.2023.2268063
+Health promotion through physical activity applications using gamification.|https://dx.doi.org/10.1080/15332640.2023.2267000

@@ -28,3 +28,19 @@ Interventional Radiotherapy (Brachytherapy) for Nasal Vestibule: Novel Strategie
 Fabrication and Characterization of a Multifunctional Coating to Promote the Osteogenic Properties of Orthopedic Implants.|https://dx.doi.org/10.3390/ma16196608
 Excessive Pregestational Weight and Maternal Obstetric Complications: The Role of Adipokines.|https://dx.doi.org/10.3390/ijms241914678
 Nosocomial infections in the surgical intensive care unit: an observational retrospective study from a large tertiary hospital in Palestine.|https://dx.doi.org/10.1186/s12879-023-08677-z
+Pyothorax and Constrictive Pericarditis after Chemoradiotherapy for Esophageal Cancer: A Case Report.|https://dx.doi.org/10.2169/internalmedicine.2502-23
+A retrospective study of pediatric renal trauma: A single-center experience in Japan.|https://dx.doi.org/10.1111/iju.15306
+Prevalence and genetic diversity of Blastocystis sp. among autochthonous and immigrant patients in Italy.|https://dx.doi.org/10.1016/j.micpath.2023.106377
+Transcatheter Vacuum-Assisted Mass Extraction versus Surgical Debridement for Vegetations in Tricuspid Valve Infective Endocarditis: A Meta-Analysis of Observational Studies.|https://dx.doi.org/10.1016/j.amjcard.2023.10.021
+Periprosthetic Shoulder Infection management: one-stage should be the way - A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jse.2023.09.007
+Diagnostic, clinical management and outcome of bone flap-related osteomyelitis following cranioplasty.|https://dx.doi.org/10.1016/j.ijid.2023.10.008
+Ethnic rhinoplasty: Preliminary results of our technique in the pursuit of the harmonious nose.|https://dx.doi.org/10.1016/j.bjps.2023.09.036
+An ischemic complication of a snake bite: Case report.|https://dx.doi.org/10.1016/j.ijscr.2023.108962
+[Coiled tube of femoral anterolateral flap for repair of circumferential defect after operation of advanced hypopharyngeal carcinoma].|https://dx.doi.org/10.3760/cma.j.cn115330-20230214-00068
+TP53 mutation and human papilloma virus status as independent prognostic factors in a Norwegian cohort of vulva squamous cell carcinoma.|https://dx.doi.org/10.1111/aogs.14689
+Microbiome of infected fracture nonunion: Does it affect outcomes?|https://dx.doi.org/10.1016/j.jos.2023.08.018
+Effect of conditions being present at time of surgery (PATOS) on outcomes in liver surgery.|https://dx.doi.org/10.1016/j.amjsurg.2023.09.046
+Does preoperative screening VCUG affect the outcomes and complications of pyeloplasty in patients with ureteropelvic junction obstruction?|https://dx.doi.org/10.1016/j.jpurol.2023.09.016
+Outcome of percutaneous reconstruction of chronic lateral collateral ligament rupture.|https://dx.doi.org/10.1016/j.cjtee.2023.09.004
+Cryptic susceptibility to penicillin/β-lactamase inhibitor combinations in emerging multidrug-resistant, hospital-adapted Staphylococcus epidermidis lineages.|https://dx.doi.org/10.1038/s41467-023-42245-y
+Correlation between admission hypoalbuminemia and postoperative urinary tract infections in elderly hip fracture patients.|https://dx.doi.org/10.1186/s13018-023-04274-7

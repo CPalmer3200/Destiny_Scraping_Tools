@@ -7,3 +7,7 @@ Ventilator-Associated Methicillin-Resistant Staphylococcus aureus (MRSA) Pneumon
 Fosfomycin-induced agranulocytosis: a case report and review of the literature.|https://dx.doi.org/10.1186/s12879-023-08652-8
 Nephrotoxicity caused by colistin use in ICU: a single centre experience.|https://dx.doi.org/10.1186/s12882-023-03334-8
 Design of experiment-oriented development of solvent-free mixed micellar chromatographic method for concomitant determination of metronidazole and ciprofloxacin hydrochloride.|https://dx.doi.org/10.1038/s41598-023-44498-5
+Pleural penetration of amoxicillin and metronidazole during pleural infections: an ambispective cohort study.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107004
+Serum Concentration of Continuously administered Vancomycin influences Efficacy and Safety in Critically Ill Adults: A Systematic Review.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107005
+Cefepime vs Piperacillin-Tazobactam in Adults Hospitalized With Acute Infection: The ACORN Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2023.20583
+Comparison of ointment-based agents after excisional procedures for hemorrhoidal disease: a network meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1007/s00423-023-03128-4

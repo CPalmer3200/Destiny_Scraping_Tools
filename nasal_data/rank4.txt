@@ -8,3 +8,8 @@ Improved [(18)F]FDG PET/CT Diagnostic Accuracy for Infective Endocarditis Using 
 Clinical Characteristics and Postoperative Complications in Patients Undergoing Colorectal Cancer Surgery with Perioperative COVID-19 Infection.|https://dx.doi.org/10.3390/cancers15194841
 A Systematic Review on Postoperative Antibiotic Prophylaxis after Pediatric and Adult Male Urethral Reconstruction.|https://dx.doi.org/10.3390/jcm12196162
 Rate of benign nodule resection in a lung cancer screening program.|https://dx.doi.org/10.1016/j.clinimag.2023.109984
+Management of Postoperative Discitis with Debridement and Novel Technique of Local Antibiotic Instillation: Functional Outcomes from a Resource-Limited Setting.|https://dx.doi.org/10.1016/j.wneu.2023.10.031
+Responsive neurostimulation for treatment of pediatric refractory epilepsy: A pooled analysis of the literature.|https://dx.doi.org/10.1016/j.clineuro.2023.108012
+A Process Improvement Project to Increase Compliance With Cephalosporin-based Surgical Antimicrobial Prophylaxis in Children With Non-severe Penicillin Allergies.|https://dx.doi.org/10.1016/j.jpedsurg.2023.09.025
+Surviving Sepsis After Burn Campaig.|https://dx.doi.org/10.1016/j.burns.2023.05.003
+Infections After Adoption of Antibiogram-directed Prophylaxis and Intracorporeal Urinary Diversion for Robot-assisted Radical Cystectomy.|https://dx.doi.org/10.1016/j.euf.2023.09.013
