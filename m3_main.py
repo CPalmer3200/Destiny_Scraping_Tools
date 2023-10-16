@@ -194,7 +194,7 @@ def send_email(email_text):
 
     email_sender = 'automatedscrapingbot@gmail.com'
     email_password = os.environ["SECRET_TOKEN"]
-    email_receiver = 'christopher.palmer32@gmail.com'
+    email_receiver = 'wrw@destinypharma.com'
 
     subject = f'New high priority literature (NTCD-M3 {date})'  # Title of the email
     body = email_text
