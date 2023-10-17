@@ -9,3 +9,4 @@
 07:36 14/10/2023, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 6, Rank 5: 0, Rank 6: 1, Rank 7: 18, Rank 8: 16, Rank 9: 16
 07:36 15/10/2023, Rank 1: 0, Rank 2: 1, Rank 3: 0, Rank 4: 4, Rank 5: 0, Rank 6: 0, Rank 7: 20, Rank 8: 14, Rank 9: 18
 07:40 16/10/2023, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 5, Rank 5: 1, Rank 6: 0, Rank 7: 17, Rank 8: 16, Rank 9: 15
+07:39 17/10/2023, Rank 1: 0, Rank 2: 1, Rank 3: 0, Rank 4: 13, Rank 5: 1, Rank 6: 1, Rank 7: 19, Rank 8: 15, Rank 9: 17

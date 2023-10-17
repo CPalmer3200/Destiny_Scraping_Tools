@@ -11,3 +11,17 @@ Pleural penetration of amoxicillin and metronidazole during pleural infections: 
 Serum Concentration of Continuously administered Vancomycin influences Efficacy and Safety in Critically Ill Adults: A Systematic Review.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107005
 Cefepime vs Piperacillin-Tazobactam in Adults Hospitalized With Acute Infection: The ACORN Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2023.20583
 Comparison of ointment-based agents after excisional procedures for hemorrhoidal disease: a network meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1007/s00423-023-03128-4
+Successful multidisciplinary treatment of the rare pathology of vulvar Crohn's disease.|https://dx.doi.org/10.1136/bcr-2023-256343
+Eosinophilic enteritis presenting as intestinal obstruction: case report and review of the literature.|https://dx.doi.org/10.24875/CIRU.21000723
+A case of Vagococcus fluvialis isolated from the bile of a patient with calculous cholecystitis.|https://dx.doi.org/10.1186/s12879-023-08696-w
+Bifidobacteria metabolize lactulose to optimize gut metabolites and prevent systemic infection in patients with liver disease.|https://dx.doi.org/10.1038/s41564-023-01493-w
+Therapeutic Drug Monitoring-Guided Vancomycin Therapy of a Pediatric Patient after Liver Transplantation: a Case Report.|https://dx.doi.org/10.7754/Clin.Lab.2023.230209
+The Antibacterial Resistance Leadership Group: Scientific Advancements and Future Directions.|https://dx.doi.org/10.1093/cid/ciad475
+Priorities and Progress in Gram-positive Bacterial Infection Research by the Antibacterial Resistance Leadership Group: A Narrative Review.|https://dx.doi.org/10.1093/cid/ciad565
+Sociodemographic distributions and molecular characterization of colonized Enterococcus faecium isolates from locality hospitals in Khartoum, Sudan.|https://dx.doi.org/10.7717/peerj.16169
+Microbiome-transcriptome analysis reveals that dietary supplementation with macleaya cordata extract alters multiple immune pathways with minimal impact on microbial structure.|https://dx.doi.org/10.3389/fcimb.2023.1264550
+Antimicrobial and antibiofilm effects of essential fatty acids against clinically isolated vancomycin-resistant Enterococcus faecium.|https://dx.doi.org/10.3389/fcimb.2023.1266674
+Impact of implementing a vancomycin protocol to reduce kidney toxicity: A comparative study.|https://dx.doi.org/10.3389/fphar.2023.1154573
+Drain blockage by topical vancomycin powder-a case report of a potentially catastrophic complication in spine surgery.|https://dx.doi.org/10.21037/jss-23-46
+Case report: isolation of Hydrogenophaga from septic blood culture following near-death drowning in lakewater.|https://dx.doi.org/10.1099/acmi.0.000533.v4
+Indole-based aryl sulfides target the cell wall of Staphylococcus aureus without detectable resistance.|https://dx.doi.org/10.1002/ddr.22123

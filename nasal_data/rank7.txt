@@ -53,3 +53,22 @@ Incidence, risk factors and outcome of acute kidney injury in critically ill COV
 Potential use of cidofovir, brincidofovir, and tecovirimat drugs in fighting monkeypox infection: recent trends and advancements.|https://dx.doi.org/10.1007/s00210-023-02769-y
 An overview of the use of psychoactive substances among students at the University of Lille during the COVID-19 health crisis: Results of the PETRA study.|https://dx.doi.org/10.1080/19585969.2023.2268063
 Health promotion through physical activity applications using gamification.|https://dx.doi.org/10.1080/15332640.2023.2267000
+Time trend and seasonality in medically attended respiratory syncytial virus (RSV) infections in US children aged 0-5 years, January 2010-January 2023.|https://dx.doi.org/10.1136/fmch-2023-002453
+Remaining agile - Post-pandemic prevention of SARS-CoV-2 nosocomial transmission.|https://dx.doi.org/10.1016/j.jhin.2023.10.002
+COVID-19: The Dysregulated Response to Infection - Why Consider Polymethylmethacrylate Membrane in Hemodialysis Patients?|https://dx.doi.org/10.1159/000533738
+Identifying strategies that promote staff and resident influenza and COVID-19 vaccination in nursing homes: Perspectives from nursing home staff.|https://dx.doi.org/10.1016/j.gerinurse.2023.09.006
+Impact of COVID-19 Disease Control Committee (CDCC) policies on prevention of the disease using Bayes network inference in west of Iran.|https://dx.doi.org/10.1186/s12889-023-16879-y
+Chronic shoulder injury related to vaccine administration following coronavirus disease 2019 vaccination: a case report.|https://dx.doi.org/10.1186/s13256-023-04198-0
+The potential role of ferroptosis in COVID-19-related cardiovascular injury.|https://dx.doi.org/10.1016/j.biopha.2023.115637
+Perioperative Mortality of the COVID-19 Recovered Patient Compared to a Matched Control: A Multicenter Retrospective Cohort Study.|https://dx.doi.org/10.1097/ALN.0000000000004809
+Comparison of Positive/Inconclusive Xpert Xpress SARS-CoV-2 with the Standard M nCoV Real-Time Detection.|https://dx.doi.org/10.7754/Clin.Lab.2023.230546
+Consequences of school closures due to COVID-19 in DRC, Nigeria, Senegal, and Uganda.|https://dx.doi.org/10.1371/journal.pgph.0002452
+Immunological Responses of Arsenicum album 30CH to Combat COVID-19: Protocol for a Double-Blind, Randomized, Placebo-Controlled Clinical Trial in the Pathanamthitta District of Kerala.|https://dx.doi.org/10.2196/48479
+Effectiveness of Monovalent mRNA Vaccines Against Omicron XBB Infection in Singaporean Children Younger Than 5 Years.|https://dx.doi.org/10.1001/jamapediatrics.2023.4505
+A Novel Role for Physical Therapists in Infection Prevention and Control in Response to the COVID-19 Pandemic: An Administrative Case Report.|https://dx.doi.org/10.1093/ptj/pzad144
+Risks of low vaccination coverage and strategies to prevent the resurgence of vaccine-preventable diseases in infants in the COVID-19 pandemic scenario: recommendations for Latin America and the Caribbean by the group of experts on infant immunization for Latin America.|https://dx.doi.org/10.1080/14760584.2023.2271057
+DHA and EPA inhibit porcine coronavirus replication by alleviating ER stress.|https://dx.doi.org/10.1128/jvi.01209-23
+Omicron new variant BA.2.86 (Pirola): Epidemiological, biological, and clinical characteristics - a global data-based analysis.|https://dx.doi.org/10.26355/eurrev_202310_33975
+Possible mechanism of central nervous system targeting and neurological symptoms of the new-coronavirus (COVID-19): literature review.|https://dx.doi.org/10.26355/eurrev_202310_33970
+Approach to Study the Efficacy and Safety of New Complementary and Alternative Medicine Formulations: Lesson during COVID-19 from Sri Lanka.|https://dx.doi.org/10.4103/WHO-SEAJPH.WHO-SEAJPH_67_22
+Social marketing in gynecological cancers prevention after the COVID-19 pandemic.|https://dx.doi.org/10.5603/gpl.94264

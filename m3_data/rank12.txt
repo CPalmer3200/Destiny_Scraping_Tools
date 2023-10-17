@@ -5,3 +5,5 @@ The Association between Mediated Deprivation and Ovarian Cancer Survival among A
 The mental functioning of school-age children in Poland since the outbreak of war in Ukraine and during the subsequent refugee crisis.|https://dx.doi.org/10.1016/j.chiabu.2023.106500
 Clostridioides difficile infection drives neuronal inflammation.|https://dx.doi.org/10.1038/d41586-023-02640-3
 Prevalence and genetic diversity of Blastocystis sp. among autochthonous and immigrant patients in Italy.|https://dx.doi.org/10.1016/j.micpath.2023.106377
+Fabrication of a reusable electrochemical platform based on acid-responsive host-guest interaction with β- cyclodextrin.|https://dx.doi.org/10.1016/j.carres.2023.108966
+The RgaS-RgaR two-component system promotes Clostridioides difficile sporulation through a small RNA and the Agr1 system.|https://dx.doi.org/10.1371/journal.pgen.1010841

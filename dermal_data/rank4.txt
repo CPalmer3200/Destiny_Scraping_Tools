@@ -2,3 +2,5 @@ Nanoemulsion of Lavandula angustifolia Essential Oil/Gold Nanoparticles: Antibac
 Development and Evaluation of Topical Zinc Oxide Nanogels Formulation Using Dendrobium anosmum and Its Effect on Acne Vulgaris.|https://dx.doi.org/10.3390/molecules28196749
 A multi-functional double cross-linked chitosan hydrogel with tunable mechanical and antibacterial properties for skin wound dressing.|https://dx.doi.org/10.1016/j.carbpol.2023.121344
 Preparation of polyvinyl alcohol/chitosan nanofibrous films incorporating graphene oxide and lanthanum chloride by electrospinning method for potential photothermal and chemical synergistic antibacterial applications in wound dressings.|https://dx.doi.org/10.1016/j.jmbbm.2023.106162
+Evaluation of Anti-inflammatory and Antimicrobial Properties of Mustard Seed Extract-Based Hydrogel: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.45146
+Antifouling Zwitterionic Nanofibrous Wound Dressing for Long-Lasting Antibacterial Photodynamic Therapy.|https://dx.doi.org/10.1021/acsomega.3c03964

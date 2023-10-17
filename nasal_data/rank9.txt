@@ -47,3 +47,20 @@ Bone and joint infection complicated with sepsis in neonates and infants under t
 Quantification of bacterial DNA in blood using droplet digital PCR: a pilot study.|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116075
 Preparation of polyvinyl alcohol/chitosan nanofibrous films incorporating graphene oxide and lanthanum chloride by electrospinning method for potential photothermal and chemical synergistic antibacterial applications in wound dressings.|https://dx.doi.org/10.1016/j.jmbbm.2023.106162
 Starch/poly (butylene adipate-co-terephthalate) blown films contained the quaternary ammonium salts with different N-alkyl chain lengths as antimicrobials.|https://dx.doi.org/10.1016/j.foodchem.2023.137650
+Development, characterization and functional properties of sodium alginate-based films incorporated with Schisandra chinensis extract-natamycin complex.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127435
+Grafting of sinapic acid onto glucosamine nanoparticle as a potential therapeutic drug with enhanced anti-inflammatory activities in osteoarthritis treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127454
+Investigating synergism and mechanism during sequential inactivation of Staphylococcus aureus with ultrasound followed by UV/peracetic acid.|https://dx.doi.org/10.1016/j.jhazmat.2023.132609
+Silver-releasing bioactive glass nanoparticles for infected tissue regeneration.|https://dx.doi.org/10.1016/j.bioadv.2023.213656
+Clinical Report of a Rare Mucinous Staphylococcus Aureus Infection.|https://dx.doi.org/10.7754/Clin.Lab.2023.230410
+The role of chitosan in enhancing the solubility and antibacterial activity of emodin against drug-resistant bacteria.|https://dx.doi.org/10.1080/09205063.2023.2268964
+Silver Nanoparticles Prepared Using Magnolia officinalis Are an Effective Antimicrobial Agent on Candida albicans, Escherichia coli, and Staphylococcus aureus.|https://dx.doi.org/10.1007/s12602-023-10179-y
+Exploring the hidden treasures of Nitella hyalina: a comprehensive study on its biological compounds, nutritional profile, and unveiling its antimicrobial, antioxidative, and hypoglycemic properties.|https://dx.doi.org/10.1007/s11274-023-03795-x
+Polymer Photocatalysts Containing Segregated π-Conjugation Units with Electron-Trap Activity for Efficient Natural-light-driven Bacterial Inactivation.|https://dx.doi.org/10.1002/anie.202313787
+Concurrent Staphylococcus aureus bacteraemia in Plasmodium vivax malaria Infection: A report of two cases from western India.|https://dx.doi.org/10.4103/0972-9062.374237
+Three Undescribed Iridoid derivatives Isolated from The Fruits of Vitex trifolia with Their Cytotoxic and Antimicrobial Activities.|https://dx.doi.org/10.1002/cbdv.202301296
+The adhesion capability oef Staphylococcus aureus cells is heterogeneously distributed over the cell envelope.|https://dx.doi.org/10.1039/d3sm01045g
+Triple Threat: Triple-Valve Endocarditis Case Report and Literature Review.|https://dx.doi.org/10.14797/mdcvj.1277
+Veillonella Intrapulmonary Abscess With Empyema.|https://dx.doi.org/10.7759/cureus.45210
+Evaluation of Anti-inflammatory and Antimicrobial Properties of Mustard Seed Extract-Based Hydrogel: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.45146
+Paediatric Hemophagocytic Lymphohistiocytosis: A Case Series With a Diverse Spectrum From a Resource-Limited Setting.|https://dx.doi.org/10.7759/cureus.45140
+Presentation, management and outcomes of iliopsoas abscess at a University Teaching Hospital in Nepal.|https://dx.doi.org/10.1515/iss-2022-0013

@@ -44,3 +44,18 @@ Does preoperative screening VCUG affect the outcomes and complications of pyelop
 Outcome of percutaneous reconstruction of chronic lateral collateral ligament rupture.|https://dx.doi.org/10.1016/j.cjtee.2023.09.004
 Cryptic susceptibility to penicillin/β-lactamase inhibitor combinations in emerging multidrug-resistant, hospital-adapted Staphylococcus epidermidis lineages.|https://dx.doi.org/10.1038/s41467-023-42245-y
 Correlation between admission hypoalbuminemia and postoperative urinary tract infections in elderly hip fracture patients.|https://dx.doi.org/10.1186/s13018-023-04274-7
+The impact of perioperative opioid use on post-operative outcomes following spinal surgery: A meta-analysis of 60 cohort studies with 13 million participants.|https://dx.doi.org/10.1016/j.spinee.2023.09.027
+Successful management following combined thoracic endovascular aortic repair and minimally invasive esophagectomy for primary aortoesophageal fistula: A case report.|https://dx.doi.org/10.1111/ases.13249
+Ten golden rules for optimal antibiotic use in hospital settings: the WARNING call to action.|https://dx.doi.org/10.1186/s13017-023-00518-3
+A case of Vagococcus fluvialis isolated from the bile of a patient with calculous cholecystitis.|https://dx.doi.org/10.1186/s12879-023-08696-w
+The vanishing nasal septum sign: a case of severe fungal sinusitis.|https://dx.doi.org/10.1007/s10140-023-02176-z
+[Treatment of symptomatic end-stage osteoarthritis of the ankle with anterolateral approach and an anatomical plate].|https://dx.doi.org/10.1007/s00064-023-00831-9
+Endotoxin removal therapy with Polymyxin B immobilized fiber column: a single center experience from EUPHAS2 registry.|https://dx.doi.org/10.1038/s41598-023-44850-9
+Perioperative Antibiotikaprophylaxe in der Dermatochirurgie - Positionspapier der Arbeitsgruppe Antibiotic Stewardship der Deutschen Gesellschaft für Dermatochirurgie (DGDC), Teil 2: Spezielle Indikationen und Situationen.|https://dx.doi.org/10.1111/ddg.15153_g
+Gastrointestinal Fistula in Radical Distal Gastrectomy: Case-Control Study from a High-Volume Hospital.|https://dx.doi.org/10.1089/lap.2023.0259
+A comparison of surgical techniques for perineal wound closure following perineal excision: a systematic review and network meta-analysis.|https://dx.doi.org/10.1007/s10151-023-02868-1
+Could an optimized joint pharmacokinetic/pharmacodynamic target attainment of continuous infusion ceftazidime-avibactam be a way to avoid the need for combo therapy in the targeted treatment of deep-seated DTR Gram-negative infections?|https://dx.doi.org/10.1128/aac.00969-23
+Treatment of multidrug-resistant Klebsiella pneumoniae pneumonia in rats with the Wen Run Fei Ning formula: A preliminary study.|https://dx.doi.org/10.4103/0972-9062.364759
+Single-incision versus multi-port laparoscopic ileocolic resections for Crohn's disease: Systematic review and meta-analysis.|https://dx.doi.org/10.4103/jmas.jmas_6_23
+Comprehensive pulmonary rehabilitation for a 90-year-old patient with intertrochanteric fracture complicated by chronic obstructive pulmonary disease: a case report.|https://dx.doi.org/10.1080/09593985.2023.2268170
+Necrotizing fasciitis due to mycobacterium tuberculosis: A case report.|https://dx.doi.org/10.1016/j.heliyon.2023.e20733
