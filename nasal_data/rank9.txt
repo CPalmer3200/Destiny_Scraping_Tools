@@ -64,3 +64,16 @@ Veillonella Intrapulmonary Abscess With Empyema.|https://dx.doi.org/10.7759/cure
 Evaluation of Anti-inflammatory and Antimicrobial Properties of Mustard Seed Extract-Based Hydrogel: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.45146
 Paediatric Hemophagocytic Lymphohistiocytosis: A Case Series With a Diverse Spectrum From a Resource-Limited Setting.|https://dx.doi.org/10.7759/cureus.45140
 Presentation, management and outcomes of iliopsoas abscess at a University Teaching Hospital in Nepal.|https://dx.doi.org/10.1515/iss-2022-0013
+Investigation into the prevalence of enterotoxin genes and genetic background of Staphylococcus aureus isolates from retain foods in Hangzhou, China.|https://dx.doi.org/10.1186/s12866-023-03027-0
+Antimicrobial polyketides from Magellan Seamount-derived fungus Talaromyces scorteus AS-242.|https://dx.doi.org/10.1038/s41429-023-00664-5
+Evidence of bisphosphonate-conjugated sitafloxacin eradication of established methicillin-resistant S. aureus infection with osseointegration in murine models of implant-associated osteomyelitis.|https://dx.doi.org/10.1038/s41413-023-00287-4
+Conjugated polymer nanoparticles as sonosensitizers in sono-inactivation of a broad spectrum of pathogens.|https://dx.doi.org/10.1016/j.ultras.2023.107180
+The distribution and the antimicrobial susceptibility features of microorganisms isolated from the burn wounds; a ten-year retrospective analysis.|https://dx.doi.org/10.1093/jbcr/irad158
+Platelet Membrane-Enclosed Bioorthogonal Catalysis for Combating Dental Caries.|https://dx.doi.org/10.1002/adhm.202302121
+Comparative genomics reveals environmental adaptability and antimicrobial activity of a novel Streptomyces isolated from soil under black Gobi rocks.|https://dx.doi.org/10.1007/s10482-023-01882-5
+Drosophila melanogaster as an organism model for studying cystic fibrosis and its major associated microbial infections.|https://dx.doi.org/10.1128/iai.00240-23
+In vitro comparison of methods for sampling copper-based antimicrobial surfaces.|https://dx.doi.org/10.1128/spectrum.02441-23
+Draft genome sequence of methicillin-resistant Staphylococcus aureus strain D1418m22 isolated from human wound pus.|https://dx.doi.org/10.1128/MRA.00409-23
+[Clinical Characteristics and Risk Factors in Children with Acute Leukemia Complicated with Multiple Drug Resistant Bacterial Septicemia].|https://dx.doi.org/10.19746/j.cnki.issn.1009-2137.2023.05.049
+[Analysis of Pathogenic Bacterial Spectrum, Drug Resistance and Risk Factors for Mortality of Bloodstream Infection in Patients with Hematologic Diseases].|https://dx.doi.org/10.19746/j.cnki.issn.1009-2137.2023.05.048
+Green synthesis of N,S-doped carbon dots for tartrazine detection and their antibacterial activities.|https://dx.doi.org/10.1039/d3an01609a

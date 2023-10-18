@@ -7,3 +7,6 @@ Clostridioides difficile infection drives neuronal inflammation.|https://dx.doi.
 Prevalence and genetic diversity of Blastocystis sp. among autochthonous and immigrant patients in Italy.|https://dx.doi.org/10.1016/j.micpath.2023.106377
 Fabrication of a reusable electrochemical platform based on acid-responsive host-guest interaction with β- cyclodextrin.|https://dx.doi.org/10.1016/j.carres.2023.108966
 The RgaS-RgaR two-component system promotes Clostridioides difficile sporulation through a small RNA and the Agr1 system.|https://dx.doi.org/10.1371/journal.pgen.1010841
+COVID-19 Australia: Epidemiology Report 78.|https://dx.doi.org/10.33321/cdi.2023.47.60
+COVID-19 Australia: Epidemiology Report 77.|https://dx.doi.org/10.33321/cdi.2023.47.58
+COVID-19 Australia: Epidemiology Report 76.|https://dx.doi.org/10.33321/cdi.2023.47.51

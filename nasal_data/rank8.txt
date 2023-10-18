@@ -59,3 +59,19 @@ Treatment of multidrug-resistant Klebsiella pneumoniae pneumonia in rats with th
 Single-incision versus multi-port laparoscopic ileocolic resections for Crohn's disease: Systematic review and meta-analysis.|https://dx.doi.org/10.4103/jmas.jmas_6_23
 Comprehensive pulmonary rehabilitation for a 90-year-old patient with intertrochanteric fracture complicated by chronic obstructive pulmonary disease: a case report.|https://dx.doi.org/10.1080/09593985.2023.2268170
 Necrotizing fasciitis due to mycobacterium tuberculosis: A case report.|https://dx.doi.org/10.1016/j.heliyon.2023.e20733
+[Surgical technique of lateral unicompartmental knee arthroplasty and discussion of the maximum correction value in the treatment of knee valgus deformity].|https://dx.doi.org/10.7507/1002-1892.202307005
+[Clinical application and effectiveness of patellar tunnel locator in medial patellofemoral ligament reconstruction surgery].|https://dx.doi.org/10.7507/1002-1892.202306060
+[Reconstruction of medial and lateral column periosteal hinge using Kirschner wire to assist in closed reduction of multi-directional unstable humeral supracondylar fractures in children].|https://dx.doi.org/10.7507/1002-1892.202307015
+[Three-dimensional-printed hemi-pelvic prosthesis for revision of aseptic loosening or screw fracture of modular hemi-pelvic prosthesis].|https://dx.doi.org/10.7507/1002-1892.202306073
+Aortic endograft infection by Mycobacterium abscessus subsp. massiliense with acquired clarithromycin resistance: a case report.|https://dx.doi.org/10.1186/s12879-023-08702-1
+Plastic bronchitis associated with respiratory syncytial virus infection: a case report.|https://dx.doi.org/10.1186/s12887-023-04351-0
+Pure Laparoscopic Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy (ALPPS) for a Giant Hepatocellular Carcinoma (> 15 cm) Abutting the Liver Hilum.|https://dx.doi.org/10.1007/s11605-023-05854-y
+A Sustainable Translational Sheep Model for Planned Cesarean Delivery of Contraction-Free Ewes.|https://dx.doi.org/10.1007/s43032-023-01365-y
+Predictive value of hematological parameters in cirrhotic patients with open umbilical hernia repair.|https://dx.doi.org/10.1007/s10029-023-02908-7
+How to Prevent and Manage Postoperative Complications in Maxillary Sinus Augmentation Using the Lateral Approach: A Review.|https://dx.doi.org/10.11607/jomi.10145
+Insights into the microbiological and virulence characteristics of bacteria in orthopaedic implant infections: A study from Pakistan.|https://dx.doi.org/10.1371/journal.pone.0292956
+Mandibular reconstruction with TMJ prosthesis: management of osteomyelitis after orthognathic surgery (Case Report).|https://dx.doi.org/10.1007/s10006-023-01184-0
+An evaluation of three validated comorbidity indices to predict short-term postoperative outcomes after prosthetic urologic surgery.|https://dx.doi.org/10.1007/s11255-023-03842-4
+Think positive! Resolving human motion ambiguity in the presence of disease threat.|https://dx.doi.org/10.1080/02699931.2023.2269831
+Comparison of Helicobacter pylori positive and negative gastric cancer via multi-omics analysis.|https://dx.doi.org/10.1128/mbio.01531-23
+Infections in the first year after heart transplantation in a Latin American country.|https://dx.doi.org/10.1111/tid.14166

@@ -72,3 +72,22 @@ Omicron new variant BA.2.86 (Pirola): Epidemiological, biological, and clinical 
 Possible mechanism of central nervous system targeting and neurological symptoms of the new-coronavirus (COVID-19): literature review.|https://dx.doi.org/10.26355/eurrev_202310_33970
 Approach to Study the Efficacy and Safety of New Complementary and Alternative Medicine Formulations: Lesson during COVID-19 from Sri Lanka.|https://dx.doi.org/10.4103/WHO-SEAJPH.WHO-SEAJPH_67_22
 Social marketing in gynecological cancers prevention after the COVID-19 pandemic.|https://dx.doi.org/10.5603/gpl.94264
+TREM-1, TREM-2 and their association with disease severity in patients with COVID-19.|https://dx.doi.org/10.1080/07853890.2023.2269558
+Occupation-related factors affecting the health of migrants working during the COVID-19 pandemic - a qualitative study in Norway.|https://dx.doi.org/10.1186/s12939-023-02013-2
+Database derived from an electronic medical record-based surveillance network of US emergency department patients with acute respiratory illness.|https://dx.doi.org/10.1186/s12911-023-02310-4
+The effect of COVID-19 on the frequency of Pneumocystis jirovecii pneumonia: a monocentric, retrospective, and observational study.|https://dx.doi.org/10.1186/s12879-023-08545-w
+Wellness Tour for Tribal Communities During the COVID-19 Pandemic: Uniting Sacred Space with Western Medicine to Prevent Substance Use.|https://dx.doi.org/10.1007/s10900-023-01295-5
+Performance evaluation of in-house developed Covid-19 IgG/IgM antibody rapid diagnostic kit.|https://dx.doi.org/10.1186/s13568-023-01620-0
+Les personnes déplacées internes au Mali face à la COVID-19 : une étude qualitative.|https://dx.doi.org/10.3917/spub.233.0343
+The Global Landscape of Domestic Violence against Women during the COVID-19 Pandemic: A Narrative Review.|https://dx.doi.org/10.4082/kjfm.23.0084
+Training, Deployment Preparation, and Behavioral Health of New York National Guard Personnel Deployed to Assist with COVID-19 Decedent Work.|https://dx.doi.org/10.1093/milmed/usad395
+Influenza Epidemic Trend Surveillance and Prediction Based on Search Engine Data: Deep Learning Model Study.|https://dx.doi.org/10.2196/45085
+Expression of key SARS-CoV-2 entry molecules in surgically obtained human retinal biopsies.|https://dx.doi.org/10.1007/s10792-023-02908-7
+A novel recombinant S-based subunit vaccine induces protective immunity against porcine deltacoronavirus challenge in piglets.|https://dx.doi.org/10.1128/jvi.00958-23
+Impact of Nonpharmacological Interventions on Severe Acute Respiratory Infections in Children: From the National Surveillance Database.|https://dx.doi.org/10.3346/jkms.2023.38.e311
+Molecular insights and optimization strategies for the competitive binding of engineered ACE2 proteins: a multiple replica molecular dynamics study.|https://dx.doi.org/10.1039/d3cp03392a
+Designing a comprehensive minimum dataset for patients with COVID-19 in Iranian hospital information systems.|https://dx.doi.org/10.1177/18333583231199879
+COVID-19 Impact on Intraparenchymal Hemorrhage and Surgical Outcomes: A Comprehensive Analysis.|https://dx.doi.org/10.5137/1019-5149.JTN.44280-23.1
+Outcomes of Information Seeking and Avoidance Behaviors: Insights from a German Longitudinal Study.|https://dx.doi.org/10.1080/10810730.2023.2268562
+[Vitamin D and COVID-19: a communication far from reality].|https://dx.doi.org/10.19191/EP23.4-5.A627.071
+Allattamento e presenza della persona a scelta della donna durante la pandemia da COVID-19 in Italia: dati correnti regionali e buone pratiche alla nascita.|https://dx.doi.org/10.19191/EP23.4-5.A587.066

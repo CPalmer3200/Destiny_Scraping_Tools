@@ -25,3 +25,9 @@ Impact of implementing a vancomycin protocol to reduce kidney toxicity: A compar
 Drain blockage by topical vancomycin powder-a case report of a potentially catastrophic complication in spine surgery.|https://dx.doi.org/10.21037/jss-23-46
 Case report: isolation of Hydrogenophaga from septic blood culture following near-death drowning in lakewater.|https://dx.doi.org/10.1099/acmi.0.000533.v4
 Indole-based aryl sulfides target the cell wall of Staphylococcus aureus without detectable resistance.|https://dx.doi.org/10.1002/ddr.22123
+Sterile soil mitigates the intergenerational loss of gut microbial diversity and anxiety-like behavior induced by antibiotics in mice.|https://dx.doi.org/10.1016/j.bbi.2023.10.014
+Clinical study of drug-loaded calcium sulfate in the treatment of hematogenous osteomyelitis in children.|https://dx.doi.org/10.1186/s12891-023-06948-z
+Aortic endograft infection by Mycobacterium abscessus subsp. massiliense with acquired clarithromycin resistance: a case report.|https://dx.doi.org/10.1186/s12879-023-08702-1
+Evidence of bisphosphonate-conjugated sitafloxacin eradication of established methicillin-resistant S. aureus infection with osseointegration in murine models of implant-associated osteomyelitis.|https://dx.doi.org/10.1038/s41413-023-00287-4
+The distribution and the antimicrobial susceptibility features of microorganisms isolated from the burn wounds; a ten-year retrospective analysis.|https://dx.doi.org/10.1093/jbcr/irad158
+[Analysis of Pathogenic Bacterial Spectrum, Drug Resistance and Risk Factors for Mortality of Bloodstream Infection in Patients with Hematologic Diseases].|https://dx.doi.org/10.19746/j.cnki.issn.1009-2137.2023.05.048

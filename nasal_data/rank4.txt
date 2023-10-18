@@ -26,3 +26,12 @@ Access to COVID-19 testing by individuals with housing insecurity during the ear
 Mycobacterium Tuberculosis infection of the wrist joint: A current concepts review.|https://dx.doi.org/10.1016/j.jcot.2023.102257
 Biofabrication of Acer palmatum-Mediated Multifunctional CuO Nanoparticles for Dye Removal, Antibacterial-Antifungal Activity, and Molecular Docking.|https://dx.doi.org/10.1021/acsomega.3c03591
 Purulent Skin and Soft Tissue Infections, Challenging the Practice of Incision and Drainage: A Scoping Review.|https://dx.doi.org/10.1155/2023/5849141
+A cancer disparities curriculum in a hematology/oncology fellowship program.|https://dx.doi.org/10.1186/s12909-023-04465-0
+A qualitative assessment of key considerations for drug checking service implementation.|https://dx.doi.org/10.1186/s12954-023-00882-y
+Assessing the performance of regular surgical nose masks as a sampling method for SARS-CoV-2 detection in a cross-sectional study.|https://dx.doi.org/10.1371/journal.pone.0293001
+Superior outcomes of total hip arthroplasty without prior lumbar arthrodesis: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00590-023-03761-1
+Have you heard the news? Artemether-lumefantrine is now recommended for ALL uncomplicated malaria in the United States, including in pregnancy.|https://dx.doi.org/10.1093/cid/ciad638
+Treatment approaches for severe Stenotrophomonas maltophilia infections.|https://dx.doi.org/10.1097/QCO.0000000000000975
+Effects of parasternal intercostal block on surgical site wound infection and pain in patients undergoing cardiac surgery: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14433
+Abscess drain migration into the colon following laparoscopic cholecystectomy.|https://dx.doi.org/10.1016/j.jimed.2023.07.001
+Tailored Approach to Evaluation and Management of Early Onset Neonatal Sepsis in a Safety-Net Teaching Hospital in Northeast Florida.|https://dx.doi.org/10.7759/cureus.45263
