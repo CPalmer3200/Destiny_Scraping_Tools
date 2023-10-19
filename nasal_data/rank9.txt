@@ -77,3 +77,13 @@ Draft genome sequence of methicillin-resistant Staphylococcus aureus strain D141
 [Clinical Characteristics and Risk Factors in Children with Acute Leukemia Complicated with Multiple Drug Resistant Bacterial Septicemia].|https://dx.doi.org/10.19746/j.cnki.issn.1009-2137.2023.05.049
 [Analysis of Pathogenic Bacterial Spectrum, Drug Resistance and Risk Factors for Mortality of Bloodstream Infection in Patients with Hematologic Diseases].|https://dx.doi.org/10.19746/j.cnki.issn.1009-2137.2023.05.048
 Green synthesis of N,S-doped carbon dots for tartrazine detection and their antibacterial activities.|https://dx.doi.org/10.1039/d3an01609a
+Evaluation of poly(lactic acid) and ECOVIO based biocomposites loaded with antimicrobial sodium phosphate microparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127488
+Copper ion-based chemical elicitation induces production of new benzofurans in Anthostomella brabeji, an endophytic fungus of Paepalanthus planifolius.|https://dx.doi.org/10.1016/j.fitote.2023.105706
+Bioinspired 3D scaffolds with antimicrobial, drug delivery, and osteogenic functions for bone regeneration.|https://dx.doi.org/10.1007/s13346-023-01448-y
+Inactive S. aureus Cas9 downregulates alpha-synuclein and reduces mtDNA damage and oxidative stress levels in human stem cell model of Parkinson's disease.|https://dx.doi.org/10.1038/s41598-023-45078-3
+The ClpX protease is essential for inactivating the CI master repressor and completing prophage induction in Staphylococcus aureus.|https://dx.doi.org/10.1038/s41467-023-42413-0
+Multiomic profiling of cutaneous leishmaniasis infections reveals microbiota-driven mechanisms underlying disease severity.|https://dx.doi.org/10.1126/scitranslmed.adh1469
+Clinical impact of metformin exposure during Staphylococcus aureus bacteremia in patients with diabetes mellitus.|https://dx.doi.org/10.1007/s10096-023-04679-6
+A Staphylococcus capitis strain with unusual bacteriocin production.|https://dx.doi.org/10.1111/1751-7915.14356
+The two-component system WalKR provides an essential link between cell wall homeostasis and DNA replication in Staphylococcus aureus.|https://dx.doi.org/10.1128/mbio.02262-23
+Unveiling the antibacterial and antioxidant potential of Hedera helix leaf extracts: recent findings.|https://dx.doi.org/10.1139/cjpp-2023-0264

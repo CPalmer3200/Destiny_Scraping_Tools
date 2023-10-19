@@ -75,3 +75,18 @@ An evaluation of three validated comorbidity indices to predict short-term posto
 Think positive! Resolving human motion ambiguity in the presence of disease threat.|https://dx.doi.org/10.1080/02699931.2023.2269831
 Comparison of Helicobacter pylori positive and negative gastric cancer via multi-omics analysis.|https://dx.doi.org/10.1128/mbio.01531-23
 Infections in the first year after heart transplantation in a Latin American country.|https://dx.doi.org/10.1111/tid.14166
+Clinical effectiveness of septoplasty versus medical management for nasal airways obstruction: multicentre, open label, randomised controlled trial.|https://dx.doi.org/10.1136/bmj-2023-075445
+Percutaneous Endoscopic Posterior Lateral Approach for the Treatment of Central Cervical Disc Herniation.|https://dx.doi.org/10.1016/j.wneu.2023.10.064
+Midterm Outcome of Arthroscopic-Assisted Lower Trapezius Transfer Using an Achilles Allograft in Treatment of Posterior Superior Irreparable Rotator Cuff Tear.|https://dx.doi.org/10.1016/j.jse.2023.09.013
+Shoulder Arthroplasty for Inflammatory Arthritis is Associated With Higher Rates of Medical and Surgical Complications: A Nationwide Matched Cohort Analysis from 2016-2020.|https://dx.doi.org/10.1016/j.jse.2023.09.014
+Risk Factors for Postoperative Infections Following Appendectomy of Complicated Appendicitis: A Meta-analysis and Retrospective Single-institutional Study.|https://dx.doi.org/10.1097/SLE.0000000000001234
+Prevalence of malpractice claims after arthroscopic shoulder surgery: analysis of 69,097 procedures from a national registry in Norway.|https://dx.doi.org/10.1186/s13037-023-00378-5
+[Acute postoperative infections after dual head arthroplasty in geriatric patients].|https://dx.doi.org/10.1007/s00113-023-01376-z
+The prognostic value of red blood cell distribution width for pulmonary infection in elderly patients received abdominal surgery with tracheal intubation and general anesthesia.|https://dx.doi.org/10.1016/j.jnma.2023.09.002
+Clinical applications and outcomes of the surgical tooth extrusion technique: A bibliometric analysis from 1982 to 2023.|https://dx.doi.org/10.1016/j.prosdent.2023.09.016
+Effect of robotic versus laparoscopic surgery on postoperative wound infection in patients with cervical cancer: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14437
+Trial of Vancomycin and Cefazolin as Surgical Prophylaxis in Arthroplasty.|https://dx.doi.org/10.1056/NEJMoa2301401
+High-Resolution Melting Analysis for Simultaneous Detection and Discrimination between Wild-Type and Vaccine Strains of Feline Calicivirus.|https://dx.doi.org/10.1080/01652176.2023.2272188
+ONLAY VERSUS RIVES-STOPPA TECHNIQUES IN THE TREATMENT OF INCISIONAL HERNIAS.|https://dx.doi.org/10.1590/0102-672020230048e1766
+The impact of residency training in family medicine on hospital admissions due to Ambulatory-care Sensitive Conditions in Rio de Janeiro.|https://dx.doi.org/10.1371/journal.pgph.0000547
+Endophthalmitis Management Study-A Prospective Randomized Clinical Trial on Postoperative Endophthalmitis Management in India: An Interim Analysis. Endophthalmitis Management Study Report #3.|https://dx.doi.org/10.1097/APO.0000000000000633

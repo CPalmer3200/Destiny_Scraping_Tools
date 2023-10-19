@@ -91,3 +91,23 @@ COVID-19 Impact on Intraparenchymal Hemorrhage and Surgical Outcomes: A Comprehe
 Outcomes of Information Seeking and Avoidance Behaviors: Insights from a German Longitudinal Study.|https://dx.doi.org/10.1080/10810730.2023.2268562
 [Vitamin D and COVID-19: a communication far from reality].|https://dx.doi.org/10.19191/EP23.4-5.A627.071
 Allattamento e presenza della persona a scelta della donna durante la pandemia da COVID-19 in Italia: dati correnti regionali e buone pratiche alla nascita.|https://dx.doi.org/10.19191/EP23.4-5.A587.066
+Colorectal cancer: From prevention to treatment.|https://dx.doi.org/10.1016/j.bpg.2023.101869
+Two consecutive outbreaks caused by chlorhexidine mouthwash contaminated with Burkholderia contaminans in a two-hospital tertiary care system.|https://dx.doi.org/10.1016/j.jhin.2023.10.005
+Impact of Postoperative COVID-19 Infection Status on Outcomes in Elective Primary Total Joint Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2023.10.016
+Mental health up to 12 months following SARS-CoV-2 infection: A prospective cohort study.|https://dx.doi.org/10.1016/j.jpsychores.2023.111520
+Effective infection prevention and control measures in long-term care facilities in non-outbreak and outbreak settings: a systematic literature review.|https://dx.doi.org/10.1186/s13756-023-01318-9
+Sleep disturbance increases the risk of severity and acquisition of COVID-19: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s40001-023-01415-w
+The geographical distribution and socioeconomic risk factors of COVID-19, tuberculosis and leprosy in Fortaleza, Brazil.|https://dx.doi.org/10.1186/s12879-023-08627-9
+Calpeptin is a potent cathepsin inhibitor and drug candidate for SARS-CoV-2 infections.|https://dx.doi.org/10.1038/s42003-023-05317-9
+Machine learning risk estimation and prediction of death in continuing care facilities using administrative data.|https://dx.doi.org/10.1038/s41598-023-43943-9
+The impact of the anthropause caused by the COVID-19 pandemic on beach debris accumulation in Maui, Hawai'i.|https://dx.doi.org/10.1038/s41598-023-44944-4
+Diagnosis and therapy of tacrolimus toxicity in a liver transplant recipient during COVID-19 treatment.|https://dx.doi.org/10.1016/j.hbpd.2023.10.004
+Clinical stage and grade migration of localized prostate cancer at diagnosis during the past decade.|https://dx.doi.org/10.1016/j.urolonc.2023.09.012
+Association Between Guillain-Barré Syndrome and COVID-19 Infection and Vaccination: A Population-Based Nested Case-Control Study.|https://dx.doi.org/10.1212/WNL.0000000000207900
+Evaluation of Diabetes Hotline Service Implemented During the COVID-19 Pandemic: A Dynamic Adaptation.|https://dx.doi.org/10.1089/tmj.2023.0080
+Improvement project to reduce surgical site infections: a retrospective cohort study.|https://dx.doi.org/10.1590/0100-6991e-20233380-en
+[Online survey on the reasons for vaccine hesitancy against COVID-19 in children and adolescents in Brazil].|https://dx.doi.org/10.1590/0102-311XPT159122
+Long COVID-19 syndrome associated with Omicron XBB.1.5 infection: a case report.|https://dx.doi.org/10.1590/0074-02760230069
+Public economic gains from tax-financed investments in childhood immunization in the United States.|https://dx.doi.org/10.1371/journal.pgph.0002461
+Provider motivations and barriers to cancer clinical trial screening, referral, and operations: Findings from a survey.|https://dx.doi.org/10.1002/cncr.35044
+Day-case and in-patient elective inguinal hernia repair surgery across England: an observational study of variation and outcomes.|https://dx.doi.org/10.1007/s10029-023-02893-x

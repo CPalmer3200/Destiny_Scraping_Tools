@@ -6,3 +6,5 @@ Peripheral Blood Mononuclear Cells: A New Frontier in the Management of Patients
 Non-coding RNAs in diabetic foot ulcer- a focus on infected wounds.|https://dx.doi.org/10.1002/dmrr.3740
 Diabetic Soft Tissue Infections.|https://dx.doi.org/10.1016/j.suc.2023.06.002
 Distribution of multidrug-resistant bacterial infections in diabetic foot ulcers and risk factors for drug resistance: a retrospective analysis.|https://dx.doi.org/10.7717/peerj.16162
+Empirical Antibiotic Therapy in Diabetic Foot Ulcer Infection Increases Hospitalization.|https://dx.doi.org/10.1093/ofid/ofad495
+Hospital Readmission in Patients With Diabetic Foot Ulcers: Prevalence, Causes, and Outcomes.|https://dx.doi.org/10.1177/15347346231207747

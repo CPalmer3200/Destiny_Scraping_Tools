@@ -31,3 +31,11 @@ Aortic endograft infection by Mycobacterium abscessus subsp. massiliense with ac
 Evidence of bisphosphonate-conjugated sitafloxacin eradication of established methicillin-resistant S. aureus infection with osseointegration in murine models of implant-associated osteomyelitis.|https://dx.doi.org/10.1038/s41413-023-00287-4
 The distribution and the antimicrobial susceptibility features of microorganisms isolated from the burn wounds; a ten-year retrospective analysis.|https://dx.doi.org/10.1093/jbcr/irad158
 [Analysis of Pathogenic Bacterial Spectrum, Drug Resistance and Risk Factors for Mortality of Bloodstream Infection in Patients with Hematologic Diseases].|https://dx.doi.org/10.19746/j.cnki.issn.1009-2137.2023.05.048
+Concerning emergence of a new vancomycin-resistant Enterococcus faecium strain ST1299/CT1903/vanA at a tertiary university centre in South-Germany.|https://dx.doi.org/10.1016/j.jhin.2023.10.008
+[Translated article] Oral vancomycin in a pediatric patient with primary sclerosing cholangitis and inflammatory bowel disease.|https://dx.doi.org/10.1016/j.farma.2023.09.005
+Successful Eradication of a Highly Resistant Elizabethkingia anophelis Species in a Premature Neonate With Bacteremia and Meningitis.|https://dx.doi.org/10.1097/INF.0000000000004132
+Trial of Vancomycin and Cefazolin as Surgical Prophylaxis in Arthroplasty.|https://dx.doi.org/10.1056/NEJMoa2301401
+Endophthalmitis Management Study-A Prospective Randomized Clinical Trial on Postoperative Endophthalmitis Management in India: An Interim Analysis. Endophthalmitis Management Study Report #3.|https://dx.doi.org/10.1097/APO.0000000000000633
+A Staphylococcus capitis strain with unusual bacteriocin production.|https://dx.doi.org/10.1111/1751-7915.14356
+Volume of distribution as an early predictor of vancomycin-induced AKI in critically ill patients.|https://dx.doi.org/10.23750/abm.v94i5.14158
+Infections associated with clozapine: a pharmacovigilance study using VigiBase(®).|https://dx.doi.org/10.3389/fphar.2023.1260915

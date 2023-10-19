@@ -35,3 +35,14 @@ Treatment approaches for severe Stenotrophomonas maltophilia infections.|https:/
 Effects of parasternal intercostal block on surgical site wound infection and pain in patients undergoing cardiac surgery: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14433
 Abscess drain migration into the colon following laparoscopic cholecystectomy.|https://dx.doi.org/10.1016/j.jimed.2023.07.001
 Tailored Approach to Evaluation and Management of Early Onset Neonatal Sepsis in a Safety-Net Teaching Hospital in Northeast Florida.|https://dx.doi.org/10.7759/cureus.45263
+Systematic review of ceftaroline fosamil in the management of patients with methicillin-resistant Staphylococcus aureus pneumonia.|https://dx.doi.org/10.1183/16000617.0117-2023
+Stroke History and Time Elapsed are Predictors of Complications in Total Knee Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2023.10.006
+Challenges Unique to Transgender Persons in US Correctional Settings: a Scoping Review.|https://dx.doi.org/10.1007/s11524-023-00794-z
+Mechanical bowel preparation in elective colorectal surgery: a propensity score-matched analysis of the Italian colorectal anastomotic leakage (iCral) study group prospective cohorts.|https://dx.doi.org/10.1007/s13304-023-01670-w
+[Practicability of the German guidelines on skin and soft tissue infections].|https://dx.doi.org/10.1007/s00105-023-05229-z
+Complication analysis in acute appendicitis, results from an international multicenter study.|https://dx.doi.org/10.1007/s00068-023-02361-2
+Prophylactic use of cardiac medications for delay of left ventricular dysfunction in Duchenne muscular dystrophy.|https://dx.doi.org/10.1002/bdr2.2260
+Nutritional composition assessment and antimicrobial activity of Catostylus perezi, jellyfish blooms along the coast of Pakistan: an awareness to avoid food neophobia in Pakistan.|https://dx.doi.org/10.1080/14786419.2023.2269597
+Major revision version 12.0 of the European AIDS Clinical Society guidelines 2023.|https://dx.doi.org/10.1111/hiv.13542
+[Feasibility of a three-sided encapsulation procedure based on fascia anatomy in laparoscopic lateral lymph node dissection for middle and low rectal cancer].|https://dx.doi.org/10.3760/cma.j.cn441530-20230525-00181
+[Pelvic exenteration for late complications of radiation-induced pelvic injury: a preliminary study].|https://dx.doi.org/10.3760/cma.j.cn441530-20230816-00053
