@@ -87,3 +87,18 @@ Clinical impact of metformin exposure during Staphylococcus aureus bacteremia in
 A Staphylococcus capitis strain with unusual bacteriocin production.|https://dx.doi.org/10.1111/1751-7915.14356
 The two-component system WalKR provides an essential link between cell wall homeostasis and DNA replication in Staphylococcus aureus.|https://dx.doi.org/10.1128/mbio.02262-23
 Unveiling the antibacterial and antioxidant potential of Hedera helix leaf extracts: recent findings.|https://dx.doi.org/10.1139/cjpp-2023-0264
+3D Printing Assisted Fabrication of Copper-Silver Mesoporous Bioactive Glass Nanoparticles Reinforced Sodium Alginate/Poly(vinyl alcohol) Based Composite Scaffolds: Designed for Skin Tissue Engineering.|https://dx.doi.org/10.1021/acsabm.3c00726
+Synthesis of γ-Cyclodextrin-Reduced Fe(III) Nanoparticles with Peroxidase-like Catalytic Activity for Bacteriostasis of Food.|https://dx.doi.org/10.1021/acs.nanolett.3c03103
+Development of teixobactin analogues containing hydrophobic, non-proteogenic amino acids that are highly potent against multidrug-resistant bacteria and biofilms.|https://dx.doi.org/10.1016/j.ejmech.2023.115853
+Antimicrobial-loaded biodegradable nanoemulsions for efficient clearance of intracellular pathogens in bacterial peritonitis.|https://dx.doi.org/10.1016/j.biomaterials.2023.122344
+Structural characterization, biofunctionality, and environmental factors impacting rheological properties of exopolysaccharide produced by probiotic Lactococcus lactis C15.|https://dx.doi.org/10.1038/s41598-023-44728-w
+A study on the effect of bioactive glass and hydroxyapatite-loaded Xanthan dialdehyde-based composite coatings for potential orthopedic applications.|https://dx.doi.org/10.1038/s41598-023-44870-5
+One-pot synthesis, computational chemical study, molecular docking, biological study, and in silico prediction ADME/pharmacokinetics properties of 5-substituted 1H-tetrazole derivatives.|https://dx.doi.org/10.1038/s41598-023-44615-4
+Methicillin-Resistant Staphylococcus aureus and Coagulase-Negative Staphylococcus from School Dining Rooms in Argentina.|https://dx.doi.org/10.1089/fpd.2023.0071
+[Tips and tricks of cement removal in the case of revision surgery].|https://dx.doi.org/10.1007/s00132-023-04453-8
+A Janus-Ros Healing System Promoting Infectious Bone Regeneration via Sono-Epigenetic Modulation.|https://dx.doi.org/10.1002/adma.202307846
+Tree Frog-Derived Cathelicidin Protects Mice against Bacterial Infection through Its Antimicrobial and Anti-Inflammatory Activities and Regulatory Effect on Phagocytes.|https://dx.doi.org/10.1021/acsinfecdis.3c00316
+[Surveillance of bacterial resistance in children aged 0-14 years from 2018 to 2022].|https://dx.doi.org/10.3760/cma.j.cn112140-20230710-00445
+Evaluation of microbial contamination in removable dental prosthesis at different time of usage.|https://dx.doi.org/10.4103/jomfp.jomfp_157_23
+Harnessing gradient gelatin nanocomposite hydrogels: a progressive approach to tackling antibacterial biofilms.|https://dx.doi.org/10.1039/d3ra06034a
+Risk Factors for Pulmonary Infection and Nursing Interventions Post-Tracheostomy in Patients with Spinal Cord Injury.|https://dx.doi.org/10.2147/IDR.S418894

@@ -111,3 +111,23 @@ Long COVID-19 syndrome associated with Omicron XBB.1.5 infection: a case report.
 Public economic gains from tax-financed investments in childhood immunization in the United States.|https://dx.doi.org/10.1371/journal.pgph.0002461
 Provider motivations and barriers to cancer clinical trial screening, referral, and operations: Findings from a survey.|https://dx.doi.org/10.1002/cncr.35044
 Day-case and in-patient elective inguinal hernia repair surgery across England: an observational study of variation and outcomes.|https://dx.doi.org/10.1007/s10029-023-02893-x
+Racial and ethnic disparities in motor vehicle crash-related outcomes in North Carolina surrounding the COVID-19 pandemic.|https://dx.doi.org/10.1136/ip-2023-045005
+Health Care Costs Following COVID-19 Hospitalization Prior to Vaccine Availability.|https://dx.doi.org/10.3122/jabfm.2023.230069R1
+Risk of lymphadenopathy from SARS-CoV-2 vaccination: a self-controlled case series analysis.|https://dx.doi.org/10.4178/epih.e2023090
+Investigating SARS-CoV-2 infection and the health and psychosocial impact of the COVID-19 pandemic in the Canadian CHILD Cohort.|https://dx.doi.org/10.4178/epih.e2023091
+Parents' perceptions of their children's mental health during COVID-19: Evidence from Canada.|https://dx.doi.org/10.1016/j.socscimed.2023.116298
+Nutricional intake, maternal outcomes and knowledge on preeclampsia prevention: Was there impact during the COVID-19 pandemic among women with hypertension?|https://dx.doi.org/10.1016/j.preghy.2023.10.006
+Association between social networks and symptoms of post-traumatic stress during the pandemic: Cohort study in South Korea.|https://dx.doi.org/10.1016/j.comppsych.2023.152432
+Tools and methods for evaluating the change to health service delivery due to pandemics or other similar emergencies: A rapid evidence review.|https://dx.doi.org/10.1016/j.evalprogplan.2023.102378
+Utility of nasal swabs for assessing mucosal immune responses towards SARS-CoV-2.|https://dx.doi.org/10.1038/s41598-023-44989-5
+New Phenylthiazoles: Design, Synthesis, and Biological Evaluation as Antibacterial, Antifungal, and Anti-COVID-19 Candidates.|https://dx.doi.org/10.1002/cbdv.202301143
+Impacts of Ship Emissions on Air Quality in Southern China: Opportunistic Insights from the Abrupt Emission Changes in Early 2020.|https://dx.doi.org/10.1021/acs.est.3c04155
+Regulatory T cell-like response to SARS-CoV-2 in Jamaican fruit bats (Artibeus jamaicensis) transduced with human ACE2.|https://dx.doi.org/10.1371/journal.ppat.1011728
+A retrospective cohort study of prescribing outcomes in outpatients treated with nirmatrelvir-Ritonavir for COVID-19 in an interdisciplinary community clinic.|https://dx.doi.org/10.1371/journal.pone.0293302
+Evaluation and Mechanistic Investigation of Human Milk Oligosaccharide against SARS-CoV-2.|https://dx.doi.org/10.1021/acs.jafc.3c04275
+Transmission Dynamics and Rare Clustered Transmission Within an Urban University Population Before Widespread Vaccination.|https://dx.doi.org/10.1093/infdis/jiad397
+Integrating Clinical Decision Support Into Electronic Health Record Systems Using a Novel Platform (EvidencePoint): Developmental Study.|https://dx.doi.org/10.2196/44065
+Maryland's Integration of Public Health and Primary Care During the COVID-19 Pandemic: Case Study and Lessons Learned.|https://dx.doi.org/10.1089/hs.2022.0130
+COVID-19 Vaccination Willingness and Reasons for Vaccine Refusal.|https://dx.doi.org/10.1001/jamanetworkopen.2023.37909
+Response to the Letter to the Editor on "Bacterial and fungal superinfections are detected at higher frequency in critically ill patients affected by SARS-CoV-2 infection than negative patients and are associated to a worse outcome".|https://dx.doi.org/10.1002/jmv.29192
+Increased population susceptibility to seasonal influenza during the COVID-19 pandemic in China and the United States.|https://dx.doi.org/10.1002/jmv.29186

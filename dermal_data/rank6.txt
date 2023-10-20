@@ -1,2 +1,3 @@
 Are the predicted known bacterial strains in a sample really present? A case study.|https://dx.doi.org/10.1371/journal.pone.0291964
 Dermatologic conditions and risk factors in people experiencing homelessness (PEH): systematic review.|https://dx.doi.org/10.1007/s00403-023-02722-2
+Inhibitory effect of theaflavin-3,3'-digallate can involve its binding to the "stem" domain of α-hemolysin of Staphylococcus aureus.|https://dx.doi.org/10.1556/1886.2023.00032

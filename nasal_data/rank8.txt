@@ -90,3 +90,17 @@ High-Resolution Melting Analysis for Simultaneous Detection and Discrimination b
 ONLAY VERSUS RIVES-STOPPA TECHNIQUES IN THE TREATMENT OF INCISIONAL HERNIAS.|https://dx.doi.org/10.1590/0102-672020230048e1766
 The impact of residency training in family medicine on hospital admissions due to Ambulatory-care Sensitive Conditions in Rio de Janeiro.|https://dx.doi.org/10.1371/journal.pgph.0000547
 Endophthalmitis Management Study-A Prospective Randomized Clinical Trial on Postoperative Endophthalmitis Management in India: An Interim Analysis. Endophthalmitis Management Study Report #3.|https://dx.doi.org/10.1097/APO.0000000000000633
+Skull Base Osteomyelitis in Children: Clinical Characteristics and Potential Implications.|https://dx.doi.org/10.1097/PEC.0000000000003065
+Clinical features and outcomes of small airway disease in ANCA-associated vasculitis.|https://dx.doi.org/10.1111/resp.14611
+Empyema necessitans in a pediatric patient: A case study.|https://dx.doi.org/10.1016/j.ijscr.2023.108932
+Open reduction and internal fixation of irreducible displaced femoral neck fracture with femoral Neck System: a preliminary study.|https://dx.doi.org/10.1186/s12891-023-06839-3
+Impact of multidisciplinary care of diabetic foot infections for inpatients at Campbelltown Hospital.|https://dx.doi.org/10.1186/s12913-023-10119-0
+An evaluation of subtalar titanium screw arthroereisis for the treatment of symptomatic paediatric flatfeet - early results.|https://dx.doi.org/10.1186/s12891-023-06937-2
+Preoperative computed tomography in Fournier's gangrene does not delay time to surgery.|https://dx.doi.org/10.1007/s10140-023-02177-y
+Lateral tarsal strip procedure: comparison of absorbable sutures and non-absorbable polypropylene suture. Does the suture type matter?|https://dx.doi.org/10.1038/s41433-023-02768-6
+Comparison of prophylactic antibiotics for endonasal transsphenoidal surgery using a national inpatient database in Japan.|https://dx.doi.org/10.1093/jac/dkad329
+Clinical outcomes of MR-guided laser interstitial thermal therapy corpus callosum ablation in drug-resistant epilepsy: a systematic review and meta-analysis.|https://dx.doi.org/10.3171/2023.9.PEDS23326
+Lower Extremity Pediatric Tissue Expansion: A Single Surgeon's 16-Year Experience.|https://dx.doi.org/10.1097/SAP.0000000000003715
+Wound Infection After Ileostomy Closure: An Interim Analysis of a Prospective Randomized Study Comparing Primary Versus Circumferential Subcuticular Closure Techniques.|https://dx.doi.org/10.1089/sur.2023.191
+Outbreak of Bilateral Endophthalmitis After Immediate Sequential Bilateral Cataract Surgery.|https://dx.doi.org/10.1001/jamaophthalmol.2023.4637
+SARS-CoV-2 Infection of Human Primary Nasal Multiciliated Epithelial Cells Grown on Air-Liquid Interface Cultures.|https://dx.doi.org/10.1007/978-1-0716-3507-0_2

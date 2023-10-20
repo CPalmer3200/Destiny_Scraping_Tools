@@ -39,3 +39,14 @@ Endophthalmitis Management Study-A Prospective Randomized Clinical Trial on Post
 A Staphylococcus capitis strain with unusual bacteriocin production.|https://dx.doi.org/10.1111/1751-7915.14356
 Volume of distribution as an early predictor of vancomycin-induced AKI in critically ill patients.|https://dx.doi.org/10.23750/abm.v94i5.14158
 Infections associated with clozapine: a pharmacovigilance study using VigiBase(®).|https://dx.doi.org/10.3389/fphar.2023.1260915
+Vancomycin and Gentamicin Removal with the HA380 Cartridge during Experimental Hemoadsorption.|https://dx.doi.org/10.1159/000534108
+Development of teixobactin analogues containing hydrophobic, non-proteogenic amino acids that are highly potent against multidrug-resistant bacteria and biofilms.|https://dx.doi.org/10.1016/j.ejmech.2023.115853
+Antimicrobial-loaded biodegradable nanoemulsions for efficient clearance of intracellular pathogens in bacterial peritonitis.|https://dx.doi.org/10.1016/j.biomaterials.2023.122344
+Arginase2 mediates contrast-induced acute kidney injury via facilitating nitrosative stress in tubular cells.|https://dx.doi.org/10.1016/j.redox.2023.102929
+Production of all-male non-transgenic zebrafish by conditional primordial germ cell ablation.|https://dx.doi.org/10.1007/s10695-023-01252-y
+Methicillin-Resistant Staphylococcus aureus and Coagulase-Negative Staphylococcus from School Dining Rooms in Argentina.|https://dx.doi.org/10.1089/fpd.2023.0071
+Clinical significance of Nosocomiicoccus ampullae isolated from blood cultures.|https://dx.doi.org/10.1128/spectrum.02179-23
+[Surveillance of bacterial resistance in children aged 0-14 years from 2018 to 2022].|https://dx.doi.org/10.3760/cma.j.cn112140-20230710-00445
+Comparative outcomes of the pathogen in cultured Jones tubes used in lacrimal bypass surgery according to follow up periods.|https://dx.doi.org/10.18240/ijo.2023.10.10
+A Systemic Lupus Erythematosus Patient with Cutaneous Mycobacterium haemophilum Infection under Belimumab Treatment: A Case Report.|https://dx.doi.org/10.5021/ad.21.077
+The Effect of Topical Antibiotic Powder Application in the Emergency Department on Deep Fracture Related Infection in Type III Open Lower Extremity Fractures.|https://dx.doi.org/10.1097/BOT.0000000000002717

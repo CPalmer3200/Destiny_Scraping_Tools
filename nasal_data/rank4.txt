@@ -46,3 +46,13 @@ Nutritional composition assessment and antimicrobial activity of Catostylus pere
 Major revision version 12.0 of the European AIDS Clinical Society guidelines 2023.|https://dx.doi.org/10.1111/hiv.13542
 [Feasibility of a three-sided encapsulation procedure based on fascia anatomy in laparoscopic lateral lymph node dissection for middle and low rectal cancer].|https://dx.doi.org/10.3760/cma.j.cn441530-20230525-00181
 [Pelvic exenteration for late complications of radiation-induced pelvic injury: a preliminary study].|https://dx.doi.org/10.3760/cma.j.cn441530-20230816-00053
+Negative pressure wound therapy for flap closed-incisions after 3D-printed prosthesis implantation in patients with chronic osteomyelitis with soft tissue defects.|https://dx.doi.org/10.1186/s12891-023-06970-1
+Early Vitrectomy for Endophthalmitis: Are EVS Guidelines Still Valid?|https://dx.doi.org/10.1159/000534650
+Treatment of bone infections in children in low-income countries - A practical guideline based on clinical cases.|https://dx.doi.org/10.1016/j.injury.2023.111066
+Prevalence and control of hypertension in a high HIV-prevalence setting, insights from a population based study in Botswana.|https://dx.doi.org/10.1038/s41598-023-44499-4
+Assessment and management of diabetes-related foot infection according to the new International Working Group on the Diabetic Foot guidelines 2023-Multidisciplinary grand rounds.|https://dx.doi.org/10.1002/dmrr.3737
+Debulking the tricuspid valve with FlowTriever aspiration: A case series.|https://dx.doi.org/10.1002/ccd.30888
+Introduction to A Compendium of Strategies to Prevent Healthcare-Associated Infections In Acute-Care Hospitals: 2022 Updates.|https://dx.doi.org/10.1017/ice.2023.158
+Septic Shock Secondary to Tricuspid Valve Vegetation Requiring Surgical Debulking.|https://dx.doi.org/10.7759/cureus.45403
+A Clinically Oriented antimicrobial Resistance surveillance Network (ACORN): pilot implementation in three countries in Southeast Asia, 2019-2020.|https://dx.doi.org/10.12688/wellcomeopenres.18317.1
+Buccal Fat Pad in Primary and Secondary Cleft Palate Repair: A Systematic Review of the Literature.|https://dx.doi.org/10.1177/10556656231206238

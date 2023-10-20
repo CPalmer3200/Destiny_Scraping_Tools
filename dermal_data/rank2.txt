@@ -8,3 +8,6 @@ Diabetic Soft Tissue Infections.|https://dx.doi.org/10.1016/j.suc.2023.06.002
 Distribution of multidrug-resistant bacterial infections in diabetic foot ulcers and risk factors for drug resistance: a retrospective analysis.|https://dx.doi.org/10.7717/peerj.16162
 Empirical Antibiotic Therapy in Diabetic Foot Ulcer Infection Increases Hospitalization.|https://dx.doi.org/10.1093/ofid/ofad495
 Hospital Readmission in Patients With Diabetic Foot Ulcers: Prevalence, Causes, and Outcomes.|https://dx.doi.org/10.1177/15347346231207747
+Impact of multidisciplinary care of diabetic foot infections for inpatients at Campbelltown Hospital.|https://dx.doi.org/10.1186/s12913-023-10119-0
+Assessment and management of diabetes-related foot infection according to the new International Working Group on the Diabetic Foot guidelines 2023-Multidisciplinary grand rounds.|https://dx.doi.org/10.1002/dmrr.3737
+Association Between the Society for Vascular Surgery (SVS)-WIfI (Wound, Ischemia, Foot Infection) Classification, Wagner-Meggitt Classification, and Amputation Rate in Patients With Diabetic Foot Infection.|https://dx.doi.org/10.1177/15347346231208342
