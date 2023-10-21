@@ -56,3 +56,6 @@ Introduction to A Compendium of Strategies to Prevent Healthcare-Associated Infe
 Septic Shock Secondary to Tricuspid Valve Vegetation Requiring Surgical Debulking.|https://dx.doi.org/10.7759/cureus.45403
 A Clinically Oriented antimicrobial Resistance surveillance Network (ACORN): pilot implementation in three countries in Southeast Asia, 2019-2020.|https://dx.doi.org/10.12688/wellcomeopenres.18317.1
 Buccal Fat Pad in Primary and Secondary Cleft Palate Repair: A Systematic Review of the Literature.|https://dx.doi.org/10.1177/10556656231206238
+Percutaneous mitral and tricuspid edge-to-edge repair as a bridge therapy to heart transplantation in advanced heart failure secondary to human immunodeficiency virus: a case report.|https://dx.doi.org/10.1093/ehjcr/ytad488
+Absorbable vs Nonabsorbable Sutures for Achilles Tendon Repair: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1177/24730114231201842
+Appropriateness of acute care antibiotic prescriptions for community-acquired infections and surgical antibiotic prophylaxis in England: Analysis of 2016 national point-prevalence survey data.|https://dx.doi.org/10.1016/j.jhin.2023.10.006

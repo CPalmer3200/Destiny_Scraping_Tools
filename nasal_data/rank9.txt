@@ -102,3 +102,19 @@ Tree Frog-Derived Cathelicidin Protects Mice against Bacterial Infection through
 Evaluation of microbial contamination in removable dental prosthesis at different time of usage.|https://dx.doi.org/10.4103/jomfp.jomfp_157_23
 Harnessing gradient gelatin nanocomposite hydrogels: a progressive approach to tackling antibacterial biofilms.|https://dx.doi.org/10.1039/d3ra06034a
 Risk Factors for Pulmonary Infection and Nursing Interventions Post-Tracheostomy in Patients with Spinal Cord Injury.|https://dx.doi.org/10.2147/IDR.S418894
+Eco-Friendly Cellulose-Based Nonionic Antimicrobial Polymers with Excellent Biocompatibility, Nonleachability, and Polymer Miscibility.|https://dx.doi.org/10.1021/acsami.3c10902
+Subplenones A-J: Dimeric Xanthones with Antibacterial Activity from the Endophytic Fungus Subplenodomus sp. CPCC 401465.|https://dx.doi.org/10.1021/acs.jnatprod.3c00628
+Molecular and Phenotypic Characterization of Ocular Methicillin-Resistant Staphylococcus epidermidis Isolates in Taiwan.|https://dx.doi.org/10.1167/iovs.64.13.33
+Prevalence and risk factors associated with drug resistant bacteria in neonatal and pediatric intensive care units: A retrospective study in Saudi Arabia.|https://dx.doi.org/10.1097/MD.0000000000035638
+Efficacy and Safety of Different Antibiotic Therapies for Bone and Joint Infections: A Network Meta-analysis of Randomized Controlled Trials.|https://dx.doi.org/10.2174/0113816128236536231010051130
+Effectiveness, safety, and cost of vancomycin and linezolid in Kuwait: A retrospective cohort study.|https://dx.doi.org/10.1016/j.jsps.2023.101813
+Design, synthesis and molecular modeling of isatin-aminobenzoic acid hybrids as antibacterial and antibiofilm agents.|https://dx.doi.org/10.1016/j.jsps.2023.101781
+Biosynthesis of silver nanoparticles using tea leaf extract (camellia sinensis) for photocatalyst and antibacterial effect.|https://dx.doi.org/10.1016/j.heliyon.2023.e20707
+Phenotypic and genotypic resistance to antibiotics in Staphylococcus aureus strains isolated from cattle milk in Northern Kazakhstan.|https://dx.doi.org/10.14202/vetworld.2023.1815-1820
+[A dry-reagent assay to rapidly detect Mycobacterium tuberculosis using loop-mediated isothermal amplification].|https://dx.doi.org/10.3760/cma.j.cn112150-20230623-00488
+[Establishment of a rapid method for detection of influenza A/B virus' antigens].|https://dx.doi.org/10.3760/cma.j.cn112150-20230411-00280
+Biocompatible and antibacterial poly(lactic acid)/cellulose nanofiber‑silver nanoparticle biocomposites prepared via Pickering emulsion method.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127495
+Porosity controlled soya protein isolate-polyethylene oxide multifunctional dual membranes as smart wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127468
+Management of the human hair follicle microbiome by a synthetic odorant.|https://dx.doi.org/10.1016/j.jdermsci.2023.09.006
+Variable staphyloxanthin production by Staphylococcus aureus drives strain-dependent effects on diabetic wound-healing outcomes.|https://dx.doi.org/10.1016/j.celrep.2023.113281
+Characterization of potential probiotic starter cultures of lactic acid bacteria isolated from Ethiopian fermented cereal beverages, Naaqe and Cheka.|https://dx.doi.org/10.1093/jambio/lxad237

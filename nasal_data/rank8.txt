@@ -104,3 +104,18 @@ Lower Extremity Pediatric Tissue Expansion: A Single Surgeon's 16-Year Experienc
 Wound Infection After Ileostomy Closure: An Interim Analysis of a Prospective Randomized Study Comparing Primary Versus Circumferential Subcuticular Closure Techniques.|https://dx.doi.org/10.1089/sur.2023.191
 Outbreak of Bilateral Endophthalmitis After Immediate Sequential Bilateral Cataract Surgery.|https://dx.doi.org/10.1001/jamaophthalmol.2023.4637
 SARS-CoV-2 Infection of Human Primary Nasal Multiciliated Epithelial Cells Grown on Air-Liquid Interface Cultures.|https://dx.doi.org/10.1007/978-1-0716-3507-0_2
+Injectable Antiswelling and High-Strength Bioactive Hydrogels with a Wet Adhesion and Rapid Gelling Process to Promote Sutureless Wound Closure and Scar-free Repair of Infectious Wounds.|https://dx.doi.org/10.1021/acsnano.3c08625
+Predicting the Risk of Total Hip Replacement by Using A Deep Learning Algorithm on Plain Pelvic Radiographs: Diagnostic Study.|https://dx.doi.org/10.2196/42788
+The Role of Patient Engagement in Surgical Site Infection Reduction: A Process Improvement Project.|https://dx.doi.org/10.1097/ASW.0000000000000055
+Comment on "use of pre-operative haemoglobin a1c to predict early post-operative renal failure and infection risks in patients who are not diabetics and undergoing elective off pump coronary artery bypass graft surgery".|https://dx.doi.org/10.4103/aca.aca_57_23
+A Lung ultrasound-based comparison of postoperative respiratory outcome after pediatric congenital heart surgery in COVID-19 recovered and COVID-19 unaffected children-a pilot study.|https://dx.doi.org/10.4103/aca.aca_43_23
+Obesity, Sarcopenia and Myosteatosis: Impact on Clinical Outcomes in the Operative Management of Crohn's Disease.|https://dx.doi.org/10.1093/ibd/izad225
+Using the National Nosocomial Infections Surveillance risk index to determine risk factors associated with surgical site infections following gynecologic surgeries.|https://dx.doi.org/10.5603/gpl.95073
+Comparisons of the morbidities of a double gastrocnemius flap and a medial gastrocnemius flap in the orthoplastic reconstruction around the knee.|https://dx.doi.org/10.1002/micr.31114
+The efficacy of negative-pressure wound therapy for head and neck wounds: A systematic review and update.|https://dx.doi.org/10.1002/hed.27547
+Molecular defects in primary ciliary dyskinesia are associated with agenesis of the frontal and sphenoid paranasal sinuses and chronic rhinosinusitis.|https://dx.doi.org/10.3389/fmolb.2023.1258374
+Retracted: Effect of Nursing Intervention in the Operating Room Based on Simple Virtual Reality Augmented Technology on Preventing Gastrointestinal Surgical Incision Infection.|https://dx.doi.org/10.1155/2023/9851046
+Designing one-step reverse transcriptase loop-mediated isothermal amplification for serotype O foot-and-mouth disease virus detection during the 2022 outbreak in East Java, Indonesia.|https://dx.doi.org/10.14202/vetworld.2023.1889-1896
+Antimicrobial resistance patterns of Acinetobacter baumannii and Klebsiella pneumoniae isolated from dogs presented at a veterinary academic hospital in South Africa.|https://dx.doi.org/10.14202/vetworld.2023.1880-1888
+Pneumocystis jirovecii Pneumonia (PCP) in a Non-HIV Lung Cancer Patient in the Absence of Common Risk Factors.|https://dx.doi.org/10.7759/cureus.45458
+Incidence and risk factors of surgical site infection following cervical laminoplasty: A retrospective clinical study.|https://dx.doi.org/10.1111/iwj.14450

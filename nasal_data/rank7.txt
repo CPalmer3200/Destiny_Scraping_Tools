@@ -131,3 +131,22 @@ Maryland's Integration of Public Health and Primary Care During the COVID-19 Pan
 COVID-19 Vaccination Willingness and Reasons for Vaccine Refusal.|https://dx.doi.org/10.1001/jamanetworkopen.2023.37909
 Response to the Letter to the Editor on "Bacterial and fungal superinfections are detected at higher frequency in critically ill patients affected by SARS-CoV-2 infection than negative patients and are associated to a worse outcome".|https://dx.doi.org/10.1002/jmv.29192
 Increased population susceptibility to seasonal influenza during the COVID-19 pandemic in China and the United States.|https://dx.doi.org/10.1002/jmv.29186
+Treatments and Severe Outcomes for Patients Diagnosed With MIS-C at Four Children's Hospitals in the United States, March 16, 2020-March 10, 2021.|https://dx.doi.org/10.1097/INF.0000000000004065
+Decreasing the Risk for Transmission of SARS-CoV-2 During In-Person Visitation Within a State Prison System.|https://dx.doi.org/10.1089/jchc.21.12.0134
+Key performance indicators of COVID-19 contact tracing in Belgium from September 2020 to December 2021.|https://dx.doi.org/10.1371/journal.pone.0292346
+Humanitarian sector (international non-governmental organisations) support to the community in Goma city/DRC during the COVID-19 pandemic period: Expectations and reality.|https://dx.doi.org/10.1371/journal.pgph.0002086
+Facilitators and Barriers in the Implementation of a Digital Surveillance and Outbreak Response System in Ghana Before and During the COVID-19 Pandemic: Qualitative Analysis of Stakeholder Interviews.|https://dx.doi.org/10.2196/45715
+Smartphone Apps for Containing the COVID-19 Pandemic in Germany: Qualitative Interview Study With Experts Based on Grounded Theory.|https://dx.doi.org/10.2196/45549
+Sharing Reliable COVID-19 Information and Countering Misinformation: In-Depth Interviews With Information Advocates.|https://dx.doi.org/10.2196/47677
+Intersecting Epidemics: The Predictors of Continued Utilization of HIV Care and Treatment Services During the COVID-19 Outbreak Among People Living with HIV in ZIMBABWE.|https://dx.doi.org/10.1007/s10461-023-04194-x
+COVID-19 Impacts the Mental Health and Speech Function in Spinocerebellar Ataxia Type 2: Evidences from a Follow-Up Study.|https://dx.doi.org/10.1007/s12311-023-01612-7
+Temporal effects on death by suicide: empirical evidence and possible molecular correlates.|https://dx.doi.org/10.1007/s44192-023-00035-4
+A single centre study of the level of parents' satisfaction with the COVID-19 telemedicine consultation.|https://dx.doi.org/10.1007/s00431-023-05276-7
+Senior volunteers: addressing loneliness in times of COVID-19.|https://dx.doi.org/10.1007/s10433-023-00788-5
+Personal Protective Equipment-Related Problems Experienced by Healthcare Workers, Solutions, and Recommendations: A Qualitative Study.|https://dx.doi.org/10.1097/ASW.0000000000000059
+Hashimoto's thyroiditis-related myopathy in a patient with SARS-CoV-2 infection: A case report and systematic literature review.|https://dx.doi.org/10.1097/MD.0000000000035720
+The incidence and risk factors of selected drug prescriptions and outpatient care after SARS-CoV-2 infection in low-risk subjects: a multicenter population-based cohort study.|https://dx.doi.org/10.3389/fpubh.2023.1241401
+Recurrent giant cellulitis-like Sweet syndrome induced by SARS-CoV-2 Pfizer-BioNTech mRNA vaccine.|https://dx.doi.org/10.4081/dr.2023.9668
+The Coordinating Research on Emerging Arboviral Threats Encompassing the Neotropics (CREATE-NEO).|https://dx.doi.org/10.15212/zoonoses-2022-0047
+Social networks as a protective factor for worsened self-perceived health status related to self-perceived changes in loneliness and health conditions in adults aged 50+ during the COVID-19 outbreak.|https://dx.doi.org/10.1016/j.heliyon.2023.e20529
+A network meta-analysis of risk factors of infection among close contacts of COVID-19.|https://dx.doi.org/10.1016/j.heliyon.2023.e20861

@@ -11,3 +11,6 @@ Hospital Readmission in Patients With Diabetic Foot Ulcers: Prevalence, Causes, 
 Impact of multidisciplinary care of diabetic foot infections for inpatients at Campbelltown Hospital.|https://dx.doi.org/10.1186/s12913-023-10119-0
 Assessment and management of diabetes-related foot infection according to the new International Working Group on the Diabetic Foot guidelines 2023-Multidisciplinary grand rounds.|https://dx.doi.org/10.1002/dmrr.3737
 Association Between the Society for Vascular Surgery (SVS)-WIfI (Wound, Ischemia, Foot Infection) Classification, Wagner-Meggitt Classification, and Amputation Rate in Patients With Diabetic Foot Infection.|https://dx.doi.org/10.1177/15347346231208342
+The Validity and Reliability of the SINBAD Classification System for Diabetic Foot Ulcers.|https://dx.doi.org/10.1097/ASW.0000000000000050
+Retrospective Data Analysis of the Use of an Autologous Multilayered Leukocyte, Platelet, and Fibrin Patch for Diabetic Foot Ulcers Treatment in Daily Clinical Practice.|https://dx.doi.org/10.1097/ASW.0000000000000054
+Efficacy and Safety of Different Antibiotic Therapies for Bone and Joint Infections: A Network Meta-analysis of Randomized Controlled Trials.|https://dx.doi.org/10.2174/0113816128236536231010051130

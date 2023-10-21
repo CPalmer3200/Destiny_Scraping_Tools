@@ -50,3 +50,9 @@ Clinical significance of Nosocomiicoccus ampullae isolated from blood cultures.|
 Comparative outcomes of the pathogen in cultured Jones tubes used in lacrimal bypass surgery according to follow up periods.|https://dx.doi.org/10.18240/ijo.2023.10.10
 A Systemic Lupus Erythematosus Patient with Cutaneous Mycobacterium haemophilum Infection under Belimumab Treatment: A Case Report.|https://dx.doi.org/10.5021/ad.21.077
 The Effect of Topical Antibiotic Powder Application in the Emergency Department on Deep Fracture Related Infection in Type III Open Lower Extremity Fractures.|https://dx.doi.org/10.1097/BOT.0000000000002717
+Subplenones A-J: Dimeric Xanthones with Antibacterial Activity from the Endophytic Fungus Subplenodomus sp. CPCC 401465.|https://dx.doi.org/10.1021/acs.jnatprod.3c00628
+External validation of obese and critically ill vancomycin population pharmacokinetic models in critically ill obese patients.|https://dx.doi.org/10.1002/jcph.2375
+Potential Effects of Alpha-Glycosyl Isoquercitrin on Memory by Altering the Gut Microbiota-Blood-Brain Axis in Mice.|https://dx.doi.org/10.1021/acs.jafc.3c00897
+RavA-ViaA antibiotic response is linked to Cpx and Zra2 envelope stress systems in Vibrio cholerae.|https://dx.doi.org/10.1128/spectrum.01730-23
+Prevalence of antibiotic resistance in lactic acid bacteria isolated from traditional fermented Indian food products.|https://dx.doi.org/10.1007/s10068-023-01305-1
+Effectiveness, safety, and cost of vancomycin and linezolid in Kuwait: A retrospective cohort study.|https://dx.doi.org/10.1016/j.jsps.2023.101813
