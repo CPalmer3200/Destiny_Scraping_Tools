@@ -150,3 +150,23 @@ Recurrent giant cellulitis-like Sweet syndrome induced by SARS-CoV-2 Pfizer-BioN
 The Coordinating Research on Emerging Arboviral Threats Encompassing the Neotropics (CREATE-NEO).|https://dx.doi.org/10.15212/zoonoses-2022-0047
 Social networks as a protective factor for worsened self-perceived health status related to self-perceived changes in loneliness and health conditions in adults aged 50+ during the COVID-19 outbreak.|https://dx.doi.org/10.1016/j.heliyon.2023.e20529
 A network meta-analysis of risk factors of infection among close contacts of COVID-19.|https://dx.doi.org/10.1016/j.heliyon.2023.e20861
+The link between anger and admiration toward governmental actions and self-reported preventive behaviour in the context of the COVID-19 pandemic.|https://dx.doi.org/10.1002/ijop.12961
+Prevalence of computer vision syndrome: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.optom.2023.100482
+Real-world effectiveness of an intranasal spray A8G6 antibody cocktail in the post-exposure prophylaxis of COVID-19.|https://dx.doi.org/10.1038/s41392-023-01656-5
+Effectiveness of Mouthwashes in Managing Oral Diseases and Conditions: Do They Have a Role?|https://dx.doi.org/10.1016/j.identj.2023.08.014
+Analysis of perceptions and emotional repercussions in Twitter users in Colombia during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.rcpeng.2021.05.008
+Immunogenicity of rabies virus G mRNA formulated with lipid nanoparticles and nucleic acid immunostimulators in mice.|https://dx.doi.org/10.1016/j.vaccine.2023.10.019
+Introducing seasonal influenza vaccine in Bhutan: Country experience and achievements.|https://dx.doi.org/10.1016/j.vaccine.2023.10.053
+Influenza vaccination coverage among persons ages six months and older in the Vaccine Safety Datalink in the 2017-18 through 2022-23 influenza seasons.|https://dx.doi.org/10.1016/j.vaccine.2023.10.023
+Impact of the COVID-19 pandemic on cancer death locations in Japan: an analysis up to February 2023 on excess mortality.|https://dx.doi.org/10.2188/jea.JE20230235
+Usage of Natural Health Products (NHPs) for respiratory diseases: user characteristics and NHP-Consumption behavior during the Covid-19 pandemic in Germany.|https://dx.doi.org/10.1186/s12906-023-04180-9
+Innovative method for rapid detection of falsified COVID-19 vaccines through unopened vials using handheld Spatially Offset Raman Spectroscopy (SORS).|https://dx.doi.org/10.1016/j.vaccine.2023.10.012
+Quarantine experience of healthcare workers in close contact with COVID-19 patients in China: a qualitative study.|https://dx.doi.org/10.1136/bmjopen-2023-073868
+Health resilience in Arabic-speaking adult refugees with type 2 diabetes: A grounded theory study during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.jcjd.2023.10.403
+Inferring mechanical properties of the SARS-CoV-2 virus particle with nano-indentation tests and numerical simulations.|https://dx.doi.org/10.1016/j.jmbbm.2023.106153
+Evaluation of the safety profile and therapeutic efficacy of remdesivir in children with SARS-CoV-2 infection - a single-center, retrospective, cohort study.|https://dx.doi.org/10.1007/s00431-023-05287-4
+A structured approach with Swiss cheese model to reduce vascular adverse events of filler injections.|https://dx.doi.org/10.1111/jocd.16038
+Follow-up assessment of visceral leishmaniasis treated patients and the impact of COVID-19 on control services in Nepal.|https://dx.doi.org/10.1186/s41182-023-00549-1
+Pathogens in PICU before and during the SARS-CoV-2 pandemic in China: a multicenter retrospective study.|https://dx.doi.org/10.1186/s12879-023-08687-x
+A systematic review of the data, methods and environmental covariates used to map Aedes-borne arbovirus transmission risk.|https://dx.doi.org/10.1186/s12879-023-08717-8
+Allograft bone vs. bioactive glass in rehabilitation of canal wall-down surgery.|https://dx.doi.org/10.1038/s41598-023-44901-1

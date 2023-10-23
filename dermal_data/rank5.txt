@@ -5,3 +5,4 @@ Identification of staphyloxanthin and derivates in yellow-pigmented Staphylococc
 Case Report of Myroides odoratimimus Cellulitis in Chronic Venous Stasis Dermatitis With Literature Review.|https://dx.doi.org/10.7759/cureus.45319
 Ototoxicity associated with extended dalbavancin treatment for a shoulder prosthetic joint infection.|https://dx.doi.org/10.1186/s12879-023-08709-8
 Detection of Antimicrobial Resistance and Biofilm Production Among Staphylococcus pseudintermedius from Canine Skin Lesions.|https://dx.doi.org/10.1089/mdr.2022.0257
+Gelatinase-responsive biodegradable targeted microneedle patch for abscess wound treatment of S. aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127548

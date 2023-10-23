@@ -59,3 +59,13 @@ Buccal Fat Pad in Primary and Secondary Cleft Palate Repair: A Systematic Review
 Percutaneous mitral and tricuspid edge-to-edge repair as a bridge therapy to heart transplantation in advanced heart failure secondary to human immunodeficiency virus: a case report.|https://dx.doi.org/10.1093/ehjcr/ytad488
 Absorbable vs Nonabsorbable Sutures for Achilles Tendon Repair: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1177/24730114231201842
 Appropriateness of acute care antibiotic prescriptions for community-acquired infections and surgical antibiotic prophylaxis in England: Analysis of 2016 national point-prevalence survey data.|https://dx.doi.org/10.1016/j.jhin.2023.10.006
+Blood transfusions in non-major burns patients.|https://dx.doi.org/10.1016/j.burns.2023.09.018
+[RISK FACTORS FOR INFECTIONS AT SURGICAL SITES AND REMOTE REGIONS IN PATIENTS UNDERGOING LAPAROSCOPIC PYELOPLASTY AND EVALUATION OF ANTIMICROBIAL PROPHYLAXIS].|https://dx.doi.org/10.5980/jpnjurol.113.128
+Assessing the Soft Tissue Infection Expertise of ChatGPT and Bard Compared to IDSA Recommendations.|https://dx.doi.org/10.1007/s10439-023-03372-1
+Re: 'the effect of antibiotic therapy for Clostridioides difficile infection on mortality and other patient-relevant outcomes' by Stabholz et al.|https://dx.doi.org/10.1016/j.cmi.2023.10.015
+Impact of clinical decision support on controlled substance prescribing.|https://dx.doi.org/10.1186/s12911-023-02314-0
+Awareness of and willingness to use oral pre-exposure prophylaxis (PrEP) for HIV prevention among sexually active adults in Malawi: results from the 2020 Malawi population-based HIV impact assessment.|https://dx.doi.org/10.1186/s12879-023-08683-1
+Proximal protective diverting ostomy following colon anastomosis for penetrating trauma may not be protective: A matched cohort study.|https://dx.doi.org/10.1016/j.amjsurg.2023.10.026
+Characteristics and Outcomes Among Adults Aged ≥60 Years Hospitalized with Laboratory-Confirmed Respiratory Syncytial Virus - RSV-NET, 12 States, July 2022-June 2023.|https://dx.doi.org/10.1016/j.ajt.2023.10.010
+Evaluation of the microbiological efficacy of cleaning agents for tracheostomy inner cannulas.|https://dx.doi.org/10.1016/j.amjoto.2023.104073
+High protein provision of more than 1.2 g/kg improves muscle mass preservation and mortality in ICU patients: A systematic review and meta-analyses.|https://dx.doi.org/10.1016/j.clnu.2023.09.026

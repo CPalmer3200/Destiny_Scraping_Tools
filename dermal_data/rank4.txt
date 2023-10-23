@@ -8,3 +8,4 @@ Harnessing gradient gelatin nanocomposite hydrogels: a progressive approach to t
 A nanozyme-reinforced injectable photodynamic hydrogel for combating biofilm infection.|https://dx.doi.org/10.1039/d3tb01688a
 Injectable Antiswelling and High-Strength Bioactive Hydrogels with a Wet Adhesion and Rapid Gelling Process to Promote Sutureless Wound Closure and Scar-free Repair of Infectious Wounds.|https://dx.doi.org/10.1021/acsnano.3c08625
 Porosity controlled soya protein isolate-polyethylene oxide multifunctional dual membranes as smart wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127468
+An efficient magnetic nanoadsorbent based on functionalized graphene oxide with gellan gum hydrogel embedded with MnFe layered double hydroxide for adsorption of Indigo carmine from water.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127479

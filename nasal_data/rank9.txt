@@ -118,3 +118,19 @@ Porosity controlled soya protein isolate-polyethylene oxide multifunctional dual
 Management of the human hair follicle microbiome by a synthetic odorant.|https://dx.doi.org/10.1016/j.jdermsci.2023.09.006
 Variable staphyloxanthin production by Staphylococcus aureus drives strain-dependent effects on diabetic wound-healing outcomes.|https://dx.doi.org/10.1016/j.celrep.2023.113281
 Characterization of potential probiotic starter cultures of lactic acid bacteria isolated from Ethiopian fermented cereal beverages, Naaqe and Cheka.|https://dx.doi.org/10.1093/jambio/lxad237
+ZnO/chitosan nanocomposites as a new approach for delivery LL37 and evaluation of the inhibitory effects against biofilm-producing Methicillin-resistant Staphylococcus aureus isolated from clinical samples.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127583
+An efficient magnetic nanoadsorbent based on functionalized graphene oxide with gellan gum hydrogel embedded with MnFe layered double hydroxide for adsorption of Indigo carmine from water.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127479
+Constructing a biodegradable carrageenan based food packaging film according to the synergistic strategies between peppermint essential oil and thymol.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127537
+Treatment of Staphylococcus aureus and Candida albicans polymicrobial biofilms by phloroglucinol-gold nanoparticles.|https://dx.doi.org/10.1016/j.micpath.2023.106416
+Exploring the wound-healing and antimicrobial potential of Dittrichia viscosa L lipidic extract: Chemical composition and in vivo evaluation.|https://dx.doi.org/10.1016/j.fitote.2023.105707
+Effect of trisodium phosphate, ascorbic acid and lactic acid on bacterial load, sensorial characteristics and instrumental colour of rabbit meat.|https://dx.doi.org/10.1016/j.meatsci.2023.109349
+P, N Codoped carbon dots from tire waste for the photocatalytic degradation of methyl orange dye, molecular docking studies, and antimicrobial activity.|https://dx.doi.org/10.1002/cbdv.202301358
+[Effect of Pp2cm Gene Silencing on Mouse Macrophage Resistance Against Staphylococcus aureus Infection via TLR Pathway].|https://dx.doi.org/10.12182/20230960206
+New synergistic antibacterial mechanism of bulky mixed Ti/w hetero-polyoxometalates composed of multi lacunary Keggin structure with oxacillin against vancomycin intermediate-resistant Staphylococcus aureus.|https://dx.doi.org/10.4265/jmc.28.3_101
+Bioactivities of natural product geodin congeners and their preliminary structure activity relationship.|https://dx.doi.org/10.1080/14786419.2023.2272022
+Efficacy of disinfectants on control and clinical bacteria strains at a zonal referral hospital in Mwanza, Tanzania: a cross sectional hospital-based study.|https://dx.doi.org/10.1038/s41598-023-45228-7
+Efficacy of various extracting solvents on phytochemical composition, and biological properties of Mentha longifolia L. leaf extracts.|https://dx.doi.org/10.1038/s41598-023-45030-5
+Gelatinase-responsive biodegradable targeted microneedle patch for abscess wound treatment of S. aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127548
+Physicochemical and antioxidant properties of tannic acid crosslinked cationic starch/chitosan based active films for ladyfinger packaging application.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127552
+Integrated analysis of microbiome and host transcriptome reveals the damage/protective mechanism of corn oil and olive oil on the gut health of grouper (♀ Epinephelus fuscoguttatus × ♂ E. lanceolatu).|https://dx.doi.org/10.1016/j.ijbiomac.2023.127550
+Detection of mecA positive staphylococcal species in a wastewater treatment plant in South Africa.|https://dx.doi.org/10.1007/s11356-023-30319-9

@@ -56,3 +56,9 @@ Potential Effects of Alpha-Glycosyl Isoquercitrin on Memory by Altering the Gut 
 RavA-ViaA antibiotic response is linked to Cpx and Zra2 envelope stress systems in Vibrio cholerae.|https://dx.doi.org/10.1128/spectrum.01730-23
 Prevalence of antibiotic resistance in lactic acid bacteria isolated from traditional fermented Indian food products.|https://dx.doi.org/10.1007/s10068-023-01305-1
 Effectiveness, safety, and cost of vancomycin and linezolid in Kuwait: A retrospective cohort study.|https://dx.doi.org/10.1016/j.jsps.2023.101813
+Pyelo-hepatic abscess caused by staghorn stone infection: a case report.|https://dx.doi.org/10.1186/s13256-023-04173-9
+New synergistic antibacterial mechanism of bulky mixed Ti/w hetero-polyoxometalates composed of multi lacunary Keggin structure with oxacillin against vancomycin intermediate-resistant Staphylococcus aureus.|https://dx.doi.org/10.4265/jmc.28.3_101
+Gelatinase-responsive biodegradable targeted microneedle patch for abscess wound treatment of S. aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127548
+Adjuvant intra-articular vancomycin for recalcitrant Staphylococcal prosthetic joint infections of the knee.|https://dx.doi.org/10.1007/s00590-023-03764-y
+Global impact of antibacterial resistance in patients with hematologic malignancies and hematopoietic cell transplant recipients.|https://dx.doi.org/10.1111/tid.14169
+In situ patch and repeated open application test for fixed drug eruption: a multicenter study.|https://dx.doi.org/10.1016/j.jaip.2023.10.021

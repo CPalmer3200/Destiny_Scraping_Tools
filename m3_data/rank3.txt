@@ -2,3 +2,4 @@ Infections After Adoption of Antibiogram-directed Prophylaxis and Intracorporeal
 Systematic review of ceftaroline fosamil in the management of patients with methicillin-resistant Staphylococcus aureus pneumonia.|https://dx.doi.org/10.1183/16000617.0117-2023
 Australian recommendations for the management of drug-resistant tuberculosis, 2023.|https://dx.doi.org/10.33321/cdi.2023.47.48
 Australian vaccine preventable disease epidemiological review series: tetanus 2003-2019.|https://dx.doi.org/10.33321/cdi.2023.47.61
+Re: 'the effect of antibiotic therapy for Clostridioides difficile infection on mortality and other patient-relevant outcomes' by Stabholz et al.|https://dx.doi.org/10.1016/j.cmi.2023.10.015

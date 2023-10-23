@@ -21,3 +21,6 @@ Considerations about antibiotic management for community-acquired pneumonia: unm
 Polyamines and hypusination are important for Clostridioides difficile toxin B (TcdB)-mediated activation of group 3 innate lymphocytes (ILC3s).|https://dx.doi.org/10.1128/iai.00236-23
 Preparation and Evaluation of β-Cyclodextrin-based Nanosponges loaded with Budesonide for Pulmonary Delivery.|https://dx.doi.org/10.1016/j.ijpharm.2023.123529
 Cessation of Antibiotics for Complicated Appendicitis at Discharge Does Not Increase Risk of Post-operative Infection.|https://dx.doi.org/10.1016/j.jpedsurg.2023.09.023
+Extreme Monovalent Ion Selectivity Via Capacitive Ion Exchange.|https://dx.doi.org/10.1016/j.watres.2023.120684
+Mesoporous dopamine-modified leaf-like zeolitic imidazolate frameworks derived carbon for efficient capacitive deionization.|https://dx.doi.org/10.1016/j.jcis.2023.10.070
+Constructing ion-transport blockchain by polypyrrole to link CoTi-ZIF-9 derived carbon materials for high-performance seawater desalination.|https://dx.doi.org/10.1016/j.jcis.2023.10.065
