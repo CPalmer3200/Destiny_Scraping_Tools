@@ -61,6 +61,6 @@ Please clear any log, database, rank files and then format your own _queries.txt
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/4042ce4b-afd4-42be-93d7-b89678867891)
 
-3. Create and format a new template.docx file in project-specific directory
+2. Create and format a new template.docx file in project-specific directory
 
 
