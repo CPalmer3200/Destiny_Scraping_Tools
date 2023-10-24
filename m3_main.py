@@ -87,7 +87,7 @@ def doi_checker(doi_to_check, doi_db_filename):
 def string_formatter(title, doi):
 
     url = 'https://dx.doi.org/' + str(doi)
-    internal_str = f'{title}|{url}'  # Internal string used for splitting title and url in review_main.py
+    internal_str = f'{title}|{url}'  # Internal string used for splitting title and url in review_nasal.py
     external_str = f'{title} ({url})'  # External string used for push emails
 
     return internal_str, external_str

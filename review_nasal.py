@@ -1,4 +1,4 @@
-from docxtpl import DocxTemplate, InlineImage, RichText
+from docxtpl import DocxTemplate, RichText
 import os
 import smtplib
 import time
@@ -41,16 +41,8 @@ def extract_data(directory, rank_file, data_dict):
 
 # Simple function to fetch the correct template and project name
 def import_template(directory):
-    if directory == 'm3_data/':
-        doc = DocxTemplate("m3_template.docx")
-        project = 'NTCD-M3'
-    elif directory == 'nasal_data/':
-        doc = DocxTemplate("nasal_template.docx")
-        project = 'XF-73 Nasal'
-    elif directory == 'dermal_data/':
-        doc = DocxTemplate("dermal_template.docx")
-        project = 'XF-73 Dermal'
-    return doc, project
+    doc = DocxTemplate(f"{directory}template.docx")
+    return doc
 
 
 def create_file(directory, template, data_dict, start_date):
@@ -185,59 +177,69 @@ def review_log(project):
     print('Changes logged')
 
 
-if __name__ == '__main__':
-
-    # State directories
-    directories = ['nasal_data/', 'm3_data/', 'dermal_data/']
-
-    # Fetch starting date of the literature reviews
-    with open('start_date.txt', 'r') as file:
+def fetch_start_date(directory):
+    with open(f'{directory}start_date.txt', 'r') as file:
         start_date = file.readline().strip()
 
-    # Begin loop over directories list
-    for directory in directories:
-        ranks = list_rank_files(directory)
-        data_dict = {}
+    return start_date
 
-        # Loop over the listed ranks within each directory
-        for rank in ranks:
-            data_dict = extract_data(directory, rank, data_dict)
 
-        # Remove the '.txt' extension from the key (not recognised by jinja2)
-        new_dict = {}
-        for key, value in data_dict.items():
-            new_key = key.replace('.txt', '')
-            new_dict[new_key] = value
-
-        # Import the correct template
-        doc, project = import_template(directory)
-        print(f'Sourced {project} template')
-
-        # Create the lit review
-        final_doc = create_file(directory, doc, new_dict, start_date)
-        print(f'Assembled {project} literature review')
-
-        # Send email with literature review attached
-        send_email(directory, project)
-        print(f'{project} email delivered')
-
-        # Clear all the rank files
-        clear_ranks(directory, ranks)
-
-        # Log review sent
-        review_log(project)
-
-        # Wait 2 minutes to prevent email spam
-        time.sleep(120)
-
+def log_start_date(directory):
     # Log start date for beginning new literature search
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
-    with open('start_date.txt', 'w') as start_date_file:
+    with open(f'{directory}start_date.txt', 'w') as start_date_file:
         start_date_file.write(date)
+
+
+def main():
+    # Define directory
+    directory = 'nasal_data/'
+    project = 'XF-73 Nasal'
+
+    # Fetch starting date of the literature reviews
+    start_date = fetch_start_date(directory)
+
+    data_dict = {}
+
+    # Loop over the listed ranks within each directory
+    ranks = list_rank_files(directory)
+    for rank in ranks:
+        data_dict = extract_data(directory, rank, data_dict)
+
+    # Remove the '.txt' extension from the key (not recognised by jinja2)
+    new_dict = {}
+    for key, value in data_dict.items():
+        new_key = key.replace('.txt', '')
+        new_dict[new_key] = value
+
+    # Import the correct template
+    doc = import_template(directory)
+    print(f'Sourced {project} template')
+
+    # Create the lit review
+    create_file(directory, doc, new_dict, start_date)
+    print(f'Assembled {project} literature review')
+
+    # Send email with literature review attached
+    send_email(directory, project)
+    print(f'{project} email delivered')
+
+    # Clear all the rank files
+    clear_ranks(directory, ranks)
+
+    # Log review sent
+    review_log(project)
+
+    # Log start date for beginning new literature search
+    log_start_date(directory)
 
     # Final print statement
     print('Queries complete, returning to sleep')
+
+
+if __name__ == '__main__':
+    main()
 
 
 

@@ -5,20 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46b8e445-1922-4d2b-9bcf-552619bb8f77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/actions_2.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions_2.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dermal_data/lit_review.docx" beforeDir="false" afterPath="$PROJECT_DIR$/dermal_data/lit_review.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dermal_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dermal_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dermal_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3_data/lit_review.docx" beforeDir="false" afterPath="$PROJECT_DIR$/m3_data/lit_review.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m3_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nasal_data/lit_review.docx" beforeDir="false" afterPath="$PROJECT_DIR$/nasal_data/lit_review.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nasal_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/nasal_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/review_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/review_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nasal_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/review_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/review_nasal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start_date.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.nasal_main">
+  <component name="RunManager" selected="Python.dermal_main">
     <configuration name="dermal_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Destiny_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="review_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="review_nasal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Destiny_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review_main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\chris\OneDrive\Desktop\Destiny_Project\review_nasal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +136,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.nasal_main" />
-        <item itemvalue="Python.review_main" />
+        <item itemvalue="Python.review_nasal" />
         <item itemvalue="Python.dermal_main" />
         <item itemvalue="Python.m3_main" />
       </list>

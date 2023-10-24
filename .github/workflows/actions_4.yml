@@ -1,9 +1,9 @@
-name: run monthly_nasal_review
+name: run monthly_m3_review
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '35 02 24 * *' # At 02:35 UTC on the 24th day every month
+    - cron: '35 02 8 * *' # At 02:35 UTC on the 8th day every month
 
 jobs:
   build:
@@ -21,10 +21,10 @@ jobs:
       - name: install Python dependencies
         run: pip install -r requirements.txt
           
-      - name: execute nasal_review script # run review script
+      - name: execute review_m3 script # run review script
         env:
           SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
-        run: python review_nasal.py
+        run: python review_m3.py
           
       - name: commit files
         run: |
