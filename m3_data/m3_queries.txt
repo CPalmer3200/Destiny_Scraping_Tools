@@ -8,5 +8,5 @@ PF-06425090 OR SER-109 OR VOWST OR cp-101 OR VE303 OR GSK2904545A OR MET-2 OR Ri
 (Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND (MGB OR Microbiota-gut brain)
 CDAD OR Clostridium difficile associated disease OR C. difficile associated disease OR Clostridioides difficile associated disease OR Clostridium difficile-associated disease OR C. difficile-associated disease OR Clostridioides difficile-associated disease
 (Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI) AND manufacture
-((Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile) AND CDI) AND (metronidazole OR vancomycin OR fidaxomicin)
+((Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile) AND CDI) OR (metronidazole OR vancomycin OR fidaxomicin)
 (Clostridium difficile OR Clostridioides difficile OR C. difficile OR difficile OR CDI)
