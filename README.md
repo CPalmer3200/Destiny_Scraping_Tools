@@ -58,8 +58,9 @@ Please clear any log, database, rank files and then format your own _queries.txt
 ### Altering the literature review script (review_x.py)
 
 1. Alter the project name and directory under main() function
+
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/4042ce4b-afd4-42be-93d7-b89678867891)
 
-2. Create and format a new template.docx file in project-specific directory
+3. Create and format a new template.docx file in project-specific directory
 
 
