@@ -54,13 +54,12 @@ Please clear any log, database, rank files and then format your own _queries.txt
 
 4. Instances of the path (example: m3_data/) and email address must also be changed within if __name__ == '__main__':
 
-5. A new _template.docx file must be created, formatted and stored in the directory
 
-6. Within review_main.py alter the project names and document name under import_template() function
+### Altering the literature review script (review_x.py)
 
-![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/d9b988ed-7498-484b-8ef4-a3a13b57a2b1)
+1. Alter the project name and directory under main() function
+![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/4042ce4b-afd4-42be-93d7-b89678867891)
 
-7. Alter the directories list:
+2. Create and format a new template.docx file in project-specific directory
 
-![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/1a80c182-e183-485d-8d50-8927284ebeb3)
 
