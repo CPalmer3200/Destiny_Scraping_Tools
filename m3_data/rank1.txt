@@ -3,3 +3,6 @@ Derivation of clinical predictive factors (CHIEF) for first recurrent Clostridio
 Factors Associated With Fecal Microbiota Transplant Failure in the Treatment of Recurrent Clostridioides difficile Infection: A Single-Center Retrospective Study.|https://dx.doi.org/10.7759/cureus.45118
 Fecal microbiota transplantation for treatment of refractory or recurrent Clostridioides difficile infection in Taiwan: a cost-effectiveness analysis.|https://dx.doi.org/10.3389/fmed.2023.1229148
 Interaction of Clostridioides difficile infection with frailty and cognition in the elderly: a narrative review.|https://dx.doi.org/10.1186/s40001-023-01432-9
+Colonic distribution of FMT by different enema procedures compared to colonoscopy - proof of concept study using contrast fluid.|https://dx.doi.org/10.1186/s12876-023-02979-x
+Prevalence of Clostridium Difficile Infection (CDI) among Inflammatory Bowel Disease (IBD) Patients in Comparison to Non-IBD Patients in King Abdulaziz Medical City in Jeddah.|https://dx.doi.org/10.1155/2023/9958104
+A Percutaneous Endoscopic Colostomy Tube to the Rescue.|https://dx.doi.org/10.14309/crj.0000000000001186

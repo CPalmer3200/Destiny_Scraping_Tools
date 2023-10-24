@@ -15,3 +15,4 @@ The Validity and Reliability of the SINBAD Classification System for Diabetic Fo
 Retrospective Data Analysis of the Use of an Autologous Multilayered Leukocyte, Platelet, and Fibrin Patch for Diabetic Foot Ulcers Treatment in Daily Clinical Practice.|https://dx.doi.org/10.1097/ASW.0000000000000054
 Efficacy and Safety of Different Antibiotic Therapies for Bone and Joint Infections: A Network Meta-analysis of Randomized Controlled Trials.|https://dx.doi.org/10.2174/0113816128236536231010051130
 Adjunctive topical oxygen therapy in the management of complex diabetes-related wounds: A South African case study series.|https://dx.doi.org/10.1016/j.foot.2023.101961
+A focused review on hyaluronic acid contained nanofiber formulations for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127607

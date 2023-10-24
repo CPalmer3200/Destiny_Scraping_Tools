@@ -135,3 +135,21 @@ Immunology of THymectomy And childhood CArdiac transplant (ITHACA): protocol for
 Perioperative Care and Outcomes of Patients with Brain Tumors Undergoing Elective Craniotomy: Experience from an Ethiopian Tertiary-Care Hospital.|https://dx.doi.org/10.1016/j.wneu.2023.10.077
 Comparison of perioperative outcomes and complications between intracorporeal, extracorporeal, and hybrid ileal conduit urinary diversion during robot-assisted radical cystectomy: a comparative propensity score-matched analysis from nationwide multi-institutional study in Japan.|https://dx.doi.org/10.1007/s10147-023-02425-8
 Lateral versus medial approach for total knee arthroplasty for valgus knee deformity shows comparable functional outcomes, hip-knee-ankle angle values, and complication rates: a meta-analysis of comparative studies.|https://dx.doi.org/10.1007/s00402-023-05088-2
+Case report: septic shock after endometrial polypectomy with tissue removal system.|https://dx.doi.org/10.1186/s12905-023-02690-9
+Post-operative C-reactive protein and white blood cells changes pattern following spinal deformity surgery and its clinical correlation.|https://dx.doi.org/10.1186/s13018-023-04288-1
+Risk factors analysis of surgical site infections in postoperative colorectal cancer: a nine-year retrospective study.|https://dx.doi.org/10.1186/s12893-023-02231-z
+Case report: isolated prevotella intermedia causing intracranial infection detected using metagenomic next generation sequencing.|https://dx.doi.org/10.1186/s12883-023-03374-5
+Radical surgery for intractable thoracic empyema complicating traumatic pneumothorax and rib fractures.|https://dx.doi.org/10.1186/s40792-023-01765-x
+Visceral larva Migrans in a Young Italian Patient: A Diagnostic Dilemma.|https://dx.doi.org/10.1007/s11686-023-00723-9
+Pro-regenerative biomaterials recruit immunoregulatory dendritic cells after traumatic injury.|https://dx.doi.org/10.1038/s41563-023-01689-9
+Acute cholecystitis with sepsis due to Edwardsiella tarda: a case report.|https://dx.doi.org/10.1186/s40792-023-01763-z
+Diagnostic performance of short noncontrast biparametric 3-T MRI for tonsillar infections: comparison with a full protocol including contrast-enhanced sequences.|https://dx.doi.org/10.1186/s41747-023-00379-0
+Electronic nose versus VITEK 2 system for the rapid diagnosis of bloodstream infections.|https://dx.doi.org/10.1007/s42770-023-01154-4
+Molluscum contagiosum presenting as periorbital abscess in immunocompetent children.|https://dx.doi.org/10.1038/s41598-023-45320-y
+In-hospital complications and readmission patterns in 13,937 patients with developmental dysplasia of the hip undergoing total hip arthroplasty: Evidence from the Chinese national database.|https://dx.doi.org/10.1016/j.surge.2023.10.003
+Early Periprosthetic Femur Fractures After Primary Cementless Total Hip Arthroplasty: High Risk of Periprosthetic Joint Infection and Subsequent Reoperation.|https://dx.doi.org/10.1016/j.arth.2023.10.037
+Long-term Outcomes of Revision Total Hip Arthroplasty Using a Modular Fluted Conical Femoral Stem.|https://dx.doi.org/10.1016/j.arth.2023.10.031
+Increased number of symptoms during the acute phase of SARS-CoV-2 infection in athletes is associated with prolonged time to return to full sports performance-AWARE VIII: Athlete return to full performance after recent COVID-19.|https://dx.doi.org/10.1016/j.jshs.2023.10.005
+Comparison of the Outcomes of Plating, Screw Fixation, and Pinning in Sanders Type II Fractures: A Multicenter (TRON) Retrospective Study.|https://dx.doi.org/10.1053/j.jfas.2023.10.002
+Skeletonized Versus Pedicled Harvesting of Internal Mammary Artery: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.cpcardiol.2023.102160
+Needlestick and sharps injuries among healthcare workers in an oncology setting: a retrospective 7-year cross-sectional study.|https://dx.doi.org/10.1177/03000605231206304

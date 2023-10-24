@@ -69,3 +69,7 @@ Proximal protective diverting ostomy following colon anastomosis for penetrating
 Characteristics and Outcomes Among Adults Aged ≥60 Years Hospitalized with Laboratory-Confirmed Respiratory Syncytial Virus - RSV-NET, 12 States, July 2022-June 2023.|https://dx.doi.org/10.1016/j.ajt.2023.10.010
 Evaluation of the microbiological efficacy of cleaning agents for tracheostomy inner cannulas.|https://dx.doi.org/10.1016/j.amjoto.2023.104073
 High protein provision of more than 1.2 g/kg improves muscle mass preservation and mortality in ICU patients: A systematic review and meta-analyses.|https://dx.doi.org/10.1016/j.clnu.2023.09.026
+Maternal Group B Streptococcus Prophylaxis Improvement Using an Electronic Medical Record Dynamic Order Set.|https://dx.doi.org/10.1055/a-2196-6078
+Association of Prophylactic Antibiotics With Early Infectious Complications in Children With Cancer Undergoing Central Venous Access Device Placement.|https://dx.doi.org/10.1097/SLA.0000000000006140
+Simulation Models for Suicide Prevention: A Survey of the State-of-the-Art.|https://dx.doi.org/10.3390/computers12070132
+A rare case of mandibular third molar displaced into submandibular space: A complication of mandibular third molar extraction.|https://dx.doi.org/10.1002/ccr3.8101

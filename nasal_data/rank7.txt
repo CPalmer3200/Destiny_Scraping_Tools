@@ -170,3 +170,22 @@ Follow-up assessment of visceral leishmaniasis treated patients and the impact o
 Pathogens in PICU before and during the SARS-CoV-2 pandemic in China: a multicenter retrospective study.|https://dx.doi.org/10.1186/s12879-023-08687-x
 A systematic review of the data, methods and environmental covariates used to map Aedes-borne arbovirus transmission risk.|https://dx.doi.org/10.1186/s12879-023-08717-8
 Allograft bone vs. bioactive glass in rehabilitation of canal wall-down surgery.|https://dx.doi.org/10.1038/s41598-023-44901-1
+Preventable tragedies: findings from the #NotAnAccident index of unintentional shootings by children.|https://dx.doi.org/10.1186/s40621-023-00464-3
+The preparedness and knowledge of pharmacists and general practitioners in managing human monkeypox: a highly spreading infectious disease.|https://dx.doi.org/10.1186/s40545-023-00636-y
+Federated causal inference based on real-world observational data sources: application to a SARS-CoV-2 vaccine effectiveness assessment.|https://dx.doi.org/10.1186/s12874-023-02068-3
+The impact of COVID-19 on hepatitis B and C virus prevention, diagnosis, and treatment in Bangladesh compared with Japan and the global perspective.|https://dx.doi.org/10.1186/s12913-023-10138-x
+Rapid prototyping of models for COVID-19 outbreak detection in workplaces.|https://dx.doi.org/10.1186/s12879-023-08713-y
+Community Cohesion, Social Support, and Mental Health among Black Individuals in Chicago: A Cross-Sectional Examination of the Effects on COVID-19 Vaccination.|https://dx.doi.org/10.1007/s40615-023-01837-6
+The need and ongoing efforts to understand the full value of improved influenza vaccines.|https://dx.doi.org/10.1016/j.vaccine.2023.10.047
+Conducting formative research during a pandemic threat to inform the development of an obesity prevention social and behaviour change communication strategy in Tonga.|https://dx.doi.org/10.1002/hpja.821
+Maritime disasters and pollution: X-Press Pearl maritime debacle.|https://dx.doi.org/10.1016/j.marpolbul.2023.115532
+Meeting the 2030 END TB goals in the wake of COVID-19: A modelling study of countries in the USAID TB portfolio.|https://dx.doi.org/10.1371/journal.pgph.0001271
+Serological response and breakthrough infection after COVID-19 vaccination in patients with cirrhosis and post-liver transplant.|https://dx.doi.org/10.1097/HC9.0000000000000273
+Newborn and Early Infant Outcomes Following Maternal COVID-19 Vaccination During Pregnancy.|https://dx.doi.org/10.1001/jamapediatrics.2023.4499
+Child Abuse Prevention in a Pandemic-A Natural Experiment in Social Welfare Policy.|https://dx.doi.org/10.1001/jamapediatrics.2023.4525
+Hospital Admissions for Abusive Head Trauma Before and During the COVID-19 Pandemic.|https://dx.doi.org/10.1001/jamapediatrics.2023.4519
+Characteristics and Mitigation Measures of Candida auris Infection: Descriptive Analysis from a Quaternary Care Hospital in Saudi Arabia, 2021-2022.|https://dx.doi.org/10.1007/s44197-023-00154-9
+Causes and costs of global COVID-19 vaccine inequity.|https://dx.doi.org/10.1007/s00281-023-00998-0
+What influenced frontline nurses' mental health during the early phase of the COVID-19 pandemic.|https://dx.doi.org/10.1111/inr.12895
+Initial and 5-day positivity rate of severe acute respiratory coronavirus virus 2 (SARS-CoV-2) polymerase chain reaction (PCR) in exposed inpatients within shared rooms during the omicron-variant dominant period.|https://dx.doi.org/10.1017/ice.2023.230
+A Scoping Review of Digital Technologies Used in Monitoring COVID-19.|https://dx.doi.org/10.3233/SHTI230808

@@ -134,3 +134,20 @@ Gelatinase-responsive biodegradable targeted microneedle patch for abscess wound
 Physicochemical and antioxidant properties of tannic acid crosslinked cationic starch/chitosan based active films for ladyfinger packaging application.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127552
 Integrated analysis of microbiome and host transcriptome reveals the damage/protective mechanism of corn oil and olive oil on the gut health of grouper (♀ Epinephelus fuscoguttatus × ♂ E. lanceolatu).|https://dx.doi.org/10.1016/j.ijbiomac.2023.127550
 Detection of mecA positive staphylococcal species in a wastewater treatment plant in South Africa.|https://dx.doi.org/10.1007/s11356-023-30319-9
+Medicinal plant Miconia albicans synergizes with ampicillin and ciprofloxacin against multi-drug resistant Acinetobacter baumannii and Staphylococcus aureus.|https://dx.doi.org/10.1186/s12906-023-04147-w
+Potent Rifampicin derivatives can clear MRSA infections at single low doses when concomitantly dosed with Vancomycin.|https://dx.doi.org/10.1038/s41429-023-00663-6
+Staphylococcus aureus sacculus mediates activities of M23 hydrolases.|https://dx.doi.org/10.1038/s41467-023-42506-w
+Development of truncated Battacin antimicrobials featuring novel N-terminal fatty acids with an excellent safety profile.|https://dx.doi.org/10.1016/j.bmcl.2023.129535
+Microbiology and Inflammation Biomarkers of Bacteremia in Children in a Teaching Hospital in Kuwait: An 8-Year Retrospective Study.|https://dx.doi.org/10.1159/000534716
+Weizmannia coagulans Extracellular Proteins Reduce Skin Acne by Inhibiting Pathogenic Bacteria and Regulating TLR2/TRAF6-Mediated NF-κB and MAPKs Signaling Pathways.|https://dx.doi.org/10.1007/s12602-023-10175-2
+Antimicrobial and Antibiofilm Activities of Copper(II)-1,10-phenanthroline-5,6-pione Against Commensal Bacteria and Fungi Responsible for Vaginal Microbiota Dysbiosis.|https://dx.doi.org/10.1007/s00284-023-03500-z
+Dynamic Microenvironment-Adaptable Hydrogel with Photothermal Performance and ROS Scavenging for Management of Diabetic Ulcer.|https://dx.doi.org/10.1021/acsami.3c09182
+Assessment of the Binding of Pseudallecin A to Human Serum Albumin with Multi-spectroscopic analysis, Molecular Docking and Molecular Dynamic Simulation.|https://dx.doi.org/10.1002/cbdv.202301217
+Ultrasound for management of left ventricular assist device driveline infections: A single-center experience.|https://dx.doi.org/10.1111/tid.14178
+Selected antimicrobial essential oils to eradicate multi-drug resistant bacterial biofilms involved in human nosocomial infections.|https://dx.doi.org/10.1080/08927014.2023.2269551
+Bacterial susceptibility and resistance to modelin-5.|https://dx.doi.org/10.1039/d3sm01007d
+Copper ion/gallic acid MOFs-laden adhesive pomelo peel sponge effectively treats biofilm-infected skin wounds and improves healing quality.|https://dx.doi.org/10.1016/j.bioactmat.2023.10.005
+Loaded delta-hemolysin shapes the properties of Staphylococcus aureus membrane vesicles.|https://dx.doi.org/10.3389/fmicb.2023.1254367
+A comprehensive review of the applications of bacteriophage-derived endolysins for foodborne bacterial pathogens and food safety: recent advances, challenges, and future perspective.|https://dx.doi.org/10.3389/fmicb.2023.1259210
+FRZB affects Staphylococcus aureus‑induced osteomyelitis in human bone marrow derived stem cells by regulating the Wnt/β‑catenin signaling pathway.|https://dx.doi.org/10.3892/etm.2023.12230
+Antibiotic photocatalysis and antimicrobial activity of low-cost multifunctional Fe(3)O(4)@HAp nanocomposites.|https://dx.doi.org/10.1007/s40201-023-00869-8

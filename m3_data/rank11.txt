@@ -62,3 +62,20 @@ Gelatinase-responsive biodegradable targeted microneedle patch for abscess wound
 Adjuvant intra-articular vancomycin for recalcitrant Staphylococcal prosthetic joint infections of the knee.|https://dx.doi.org/10.1007/s00590-023-03764-y
 Global impact of antibacterial resistance in patients with hematologic malignancies and hematopoietic cell transplant recipients.|https://dx.doi.org/10.1111/tid.14169
 In situ patch and repeated open application test for fixed drug eruption: a multicenter study.|https://dx.doi.org/10.1016/j.jaip.2023.10.021
+Antimicrobial resistance pattern of anaerobic bacteria causing lower respiratory tract infections.|https://dx.doi.org/10.1186/s12866-023-03059-6
+Case report: isolated prevotella intermedia causing intracranial infection detected using metagenomic next generation sequencing.|https://dx.doi.org/10.1186/s12883-023-03374-5
+Potent Rifampicin derivatives can clear MRSA infections at single low doses when concomitantly dosed with Vancomycin.|https://dx.doi.org/10.1038/s41429-023-00663-6
+Potential of arterial spin labeling in elucidating the pathogenesis of the splenium of the corpus callosum and cerebellar dentate nucleus in encephalopathy.|https://dx.doi.org/10.1016/j.braindev.2023.10.001
+Antibiotics attenuate diet-induced non-alcoholic fatty liver disease without altering intestinal barrier dysfunction.|https://dx.doi.org/10.1016/j.jnutbio.2023.109495
+Maternal Group B Streptococcus Prophylaxis Improvement Using an Electronic Medical Record Dynamic Order Set.|https://dx.doi.org/10.1055/a-2196-6078
+Core genome multilocus sequence typing of Clostridioides difficile to investigate transmission in the hospital setting.|https://dx.doi.org/10.1007/s10096-023-04676-9
+Shorter versus longer duration of antibiotic treatment in children with bacterial meningitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00431-023-05275-8
+Efficacy of systemic use of antibiotics as an adjunct to non-surgical treatment of peri-implantitis: a meta-analysis of randomized controlled trials.|https://dx.doi.org/10.3290/j.qi.b4551761
+Knowledge and attitude of dental students regarding etiology, diagnosis, and treatment of peri-implantitis.|https://dx.doi.org/10.1002/jdd.13397
+Epidemiological and microbiological profiles of microbial keratitis in a tertiary eye center in Eastern India (Bihar).|https://dx.doi.org/10.4103/IJO.IJO_1605_23
+Performance evaluation of PdO/ CuO TiO2 photocatalytic membrane on ceramic support for removing pharmaceutical compounds from water.|https://dx.doi.org/10.1007/s40201-023-00866-x
+Interactions of metronidazole and chloramphenicol with myoglobin: Crystal structure of a Mb-acetamide product.|https://dx.doi.org/10.1142/s1088424623500700
+Hemophagocytic Lymphohistiocytosis and Pancreatic Cancer: A Rare Association.|https://dx.doi.org/10.55729/2000-9666.1225
+Efficacy of Sequential Therapy as the First-Line Treatment in the Eradication of Helicobacter pylori.|https://dx.doi.org/10.7759/cureus.45593
+Occult Bacteremia Caused by Enterococcus-Associated Pyuria in an Elderly Man.|https://dx.doi.org/10.7759/cureus.45582
+Occurrence of Virulence Genes among Methicillin-Resistant Staphylococcus aureus Isolated from Subclinical Bovine Mastitis.|https://dx.doi.org/10.1021/acsomega.3c04206

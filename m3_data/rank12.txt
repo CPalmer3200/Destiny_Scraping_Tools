@@ -24,3 +24,6 @@ Cessation of Antibiotics for Complicated Appendicitis at Discharge Does Not Incr
 Extreme Monovalent Ion Selectivity Via Capacitive Ion Exchange.|https://dx.doi.org/10.1016/j.watres.2023.120684
 Mesoporous dopamine-modified leaf-like zeolitic imidazolate frameworks derived carbon for efficient capacitive deionization.|https://dx.doi.org/10.1016/j.jcis.2023.10.070
 Constructing ion-transport blockchain by polypyrrole to link CoTi-ZIF-9 derived carbon materials for high-performance seawater desalination.|https://dx.doi.org/10.1016/j.jcis.2023.10.065
+Global and cell type-specific immunological hallmarks of severe dengue progression identified via a systems immunology approach.|https://dx.doi.org/10.1038/s41590-023-01654-3
+Association between resistivity index of central retinal artery and severity of diabetic retinopathy.|https://dx.doi.org/10.4103/IJO.IJO_3408_22
+Dataset of exceptional women directors and carbon information disclosures of global energy companies.|https://dx.doi.org/10.1016/j.dib.2023.109650

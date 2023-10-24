@@ -6,3 +6,6 @@ Case Report of Myroides odoratimimus Cellulitis in Chronic Venous Stasis Dermati
 Ototoxicity associated with extended dalbavancin treatment for a shoulder prosthetic joint infection.|https://dx.doi.org/10.1186/s12879-023-08709-8
 Detection of Antimicrobial Resistance and Biofilm Production Among Staphylococcus pseudintermedius from Canine Skin Lesions.|https://dx.doi.org/10.1089/mdr.2022.0257
 Gelatinase-responsive biodegradable targeted microneedle patch for abscess wound treatment of S. aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127548
+Management of Biofilm with Breast Implant Surgery.|https://dx.doi.org/10.1097/PRS.0000000000010791
+Weizmannia coagulans Extracellular Proteins Reduce Skin Acne by Inhibiting Pathogenic Bacteria and Regulating TLR2/TRAF6-Mediated NF-κB and MAPKs Signaling Pathways.|https://dx.doi.org/10.1007/s12602-023-10175-2
+Enablers of Candida auris persistence on medical devices and their mode of eradication.|https://dx.doi.org/10.18502/CMM.2023.150673
