@@ -9,3 +9,5 @@ Gelatinase-responsive biodegradable targeted microneedle patch for abscess wound
 Management of Biofilm with Breast Implant Surgery.|https://dx.doi.org/10.1097/PRS.0000000000010791
 Weizmannia coagulans Extracellular Proteins Reduce Skin Acne by Inhibiting Pathogenic Bacteria and Regulating TLR2/TRAF6-Mediated NF-κB and MAPKs Signaling Pathways.|https://dx.doi.org/10.1007/s12602-023-10175-2
 Enablers of Candida auris persistence on medical devices and their mode of eradication.|https://dx.doi.org/10.18502/CMM.2023.150673
+An exploration of mechanisms underlying Desemzia incerta colonization resistance to methicillin-resistant Staphylococcus aureus on the skin.|https://dx.doi.org/10.1101/2023.10.11.561853
+Restriction of Arginine Induces Antibiotic Tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1101/2023.10.12.561972

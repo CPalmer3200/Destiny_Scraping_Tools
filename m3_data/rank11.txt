@@ -79,3 +79,10 @@ Hemophagocytic Lymphohistiocytosis and Pancreatic Cancer: A Rare Association.|ht
 Efficacy of Sequential Therapy as the First-Line Treatment in the Eradication of Helicobacter pylori.|https://dx.doi.org/10.7759/cureus.45593
 Occult Bacteremia Caused by Enterococcus-Associated Pyuria in an Elderly Man.|https://dx.doi.org/10.7759/cureus.45582
 Occurrence of Virulence Genes among Methicillin-Resistant Staphylococcus aureus Isolated from Subclinical Bovine Mastitis.|https://dx.doi.org/10.1021/acsomega.3c04206
+Systemic azithromycin versus amoxicillin/metronidazole as an adjunct in the treatment of periodontitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1111/adj.12991
+Physical compatibility of lipid emulsions and intravenous medications used in neonatal intensive care settings.|https://dx.doi.org/10.1136/ejhpharm-2023-003870
+Evaluation of antimicrobial usage in companion animals at a Veterinary Teaching Hospital in Nigeria.|https://dx.doi.org/10.1038/s41598-023-44485-w
+Fumagillin inhibits growth of the enteric protozoan parasite Entamoeba histolytica by covalently binding to and selectively inhibiting methionine aminopeptidase 2.|https://dx.doi.org/10.1128/aac.00560-23
+Antibiotic adjuvant activities of quorum sensing signal molecules DSF and BDSF against mature biofilms of Staphylococci.|https://dx.doi.org/10.1080/1120009X.2023.2270743
+Prevalence and antibiogram of bacteria causing urinary tract infection among patients with chronic kidney disease.|https://dx.doi.org/10.1515/med-2023-0824
+Restriction of Arginine Induces Antibiotic Tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1101/2023.10.12.561972

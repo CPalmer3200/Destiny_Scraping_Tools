@@ -27,3 +27,5 @@ Constructing ion-transport blockchain by polypyrrole to link CoTi-ZIF-9 derived 
 Global and cell type-specific immunological hallmarks of severe dengue progression identified via a systems immunology approach.|https://dx.doi.org/10.1038/s41590-023-01654-3
 Association between resistivity index of central retinal artery and severity of diabetic retinopathy.|https://dx.doi.org/10.4103/IJO.IJO_3408_22
 Dataset of exceptional women directors and carbon information disclosures of global energy companies.|https://dx.doi.org/10.1016/j.dib.2023.109650
+Vascular imaging findings in retinopathy of prematurity.|https://dx.doi.org/10.1111/aos.15800
+Exploring the emotional and behavioural profile in paediatric narcolepsy type 1: A case-control study.|https://dx.doi.org/10.1111/jsr.14064
