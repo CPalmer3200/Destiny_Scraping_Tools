@@ -12,3 +12,5 @@ An efficient magnetic nanoadsorbent based on functionalized graphene oxide with 
 Dynamic Microenvironment-Adaptable Hydrogel with Photothermal Performance and ROS Scavenging for Management of Diabetic Ulcer.|https://dx.doi.org/10.1021/acsami.3c09182
 Copper ion/gallic acid MOFs-laden adhesive pomelo peel sponge effectively treats biofilm-infected skin wounds and improves healing quality.|https://dx.doi.org/10.1016/j.bioactmat.2023.10.005
 Nanofibrous Dressing with Nanocomposite Monoporous Microspheres for Chemodynamic Antibacterial Therapy and Wound Healing.|https://dx.doi.org/10.1021/acsomega.3c05271
+Encapsulating Antibiotic and Protein-Stabilized Nanosilver into Sandwich-Structured Electrospun Nanofibrous Scaffolds for MRSA-Infected Wound Treatment.|https://dx.doi.org/10.1021/acsami.3c10994
+Sequential Anti-Infection and Proangiogenesis of DMOG@ZIF-8/Gelatin-PCL Electrospinning Dressing for Chronic Wound Healing.|https://dx.doi.org/10.1021/acsami.3c09584

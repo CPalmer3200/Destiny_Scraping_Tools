@@ -18,3 +18,4 @@ Adjunctive topical oxygen therapy in the management of complex diabetes-related 
 A focused review on hyaluronic acid contained nanofiber formulations for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127607
 Charcot arthropathy outcomes after early referral to a regional tertiary care foot clinic.|https://dx.doi.org/10.1503/cjs.006022
 Clinical characteristics and the prognosis of diabetic foot in Tibet: A single center, retrospective study.|https://dx.doi.org/10.1515/biol-2022-0740
+Lipidomics Characterization of the Microbiome in People with Diabetic Foot Infection Using MALDI-TOF MS.|https://dx.doi.org/10.1021/acs.analchem.3c03071

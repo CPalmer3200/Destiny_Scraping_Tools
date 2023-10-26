@@ -12,3 +12,20 @@ An exploration of mechanisms underlying Desemzia incerta colonization resistance
 Restriction of Arginine Induces Antibiotic Tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1101/2023.10.12.561972
 An organotypic oral mucosal infection model to study host-pathogen interactions.|https://dx.doi.org/10.1177/20417314231197310
 Terpene-functionalized Fluoroquinolones as Potential Antimicrobials: Synthesis and Properties.|https://dx.doi.org/10.1002/cmdc.202300358
+Synthesis of Berberis aristate rhizome extract stabilized magnesium nanoparticles using green chemistry: rhizome characterization, in vitro antimicrobial and anti-inflammatory activity.|https://dx.doi.org/10.1080/09603123.2023.2271844
+In vitro and in vivo antibacterial studies of volatile oil from Atractylodis Rhizoma against Staphylococcus pseudintermedius and multidrug resistant Staphylococcus pseudintermedius strains from canine pyoderma.|https://dx.doi.org/10.1016/j.jep.2023.117326
+Co-exposure of chromium or cadmium and a low concentration of amoxicillin are responsible to emerge amoxicillin resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jgar.2023.10.011
+Synthesis and evaluation of novel pleuromutilin derivatives targeting the 50S ribosomal subunit for antibacterial ability.|https://dx.doi.org/10.1016/j.ejmech.2023.115882
+Bacterial colony size growth estimation by deep learning.|https://dx.doi.org/10.1186/s12866-023-03053-y
+Antibiotics resistance as a major public health concern: A pharmaco-epidemiological study to evaluate prevalence and antibiotics susceptibility-resistance pattern of bacterial isolates from multiple teaching hospitals.|https://dx.doi.org/10.1016/j.jiph.2023.09.019
+Electrophysiological mechanisms of motion-style scalp acupuncture for treating poststroke spasticity in rats.|https://dx.doi.org/10.13702/j.1000-0607.20220920
+Microbial keratitis in Sao Paulo, Brazil: a 10-year review of laboratory results, epidemiological features, and risk factors.|https://dx.doi.org/10.5935/0004-2749.2022-0060
+Biofabrication of Mg-doped ZnO nanostructures for hemolysis and antibacterial properties.|https://dx.doi.org/10.1007/s00449-023-02937-7
+Behavior and use of quaternary ammonium-based disinfectants in biosafety protocols against Fusarium oxysporum f.sp. cubense race 1 and tropical race 4.|https://dx.doi.org/10.1094/PDIS-06-23-1138-RE
+Systematic Review and Meta-analysis of Deaths Attributable to Antimicrobial Resistance, Latin America.|https://dx.doi.org/10.3201/eid2911.230753
+Pneumatic nano-sieve for CRISPR-based detection of drug-resistant bacteria.|https://dx.doi.org/10.1039/d3nh00365e
+Encapsulating Antibiotic and Protein-Stabilized Nanosilver into Sandwich-Structured Electrospun Nanofibrous Scaffolds for MRSA-Infected Wound Treatment.|https://dx.doi.org/10.1021/acsami.3c10994
+Sequential Anti-Infection and Proangiogenesis of DMOG@ZIF-8/Gelatin-PCL Electrospinning Dressing for Chronic Wound Healing.|https://dx.doi.org/10.1021/acsami.3c09584
+Biocompatible quaternary pullulan functionalized 2D MoS(2) glycosheet-based non-leaching and infection-resistant coatings for indwelling medical implants.|https://dx.doi.org/10.1039/d3tb01816d
+N-Pyrazinylhydroxybenzamides as biologically active compounds: a hit-expansion study and antimicrobial evaluation.|https://dx.doi.org/10.4155/fmc-2023-0189
+Toxic potential assessment of hair dye developer 2,4,5,6-tetraaminopyrimidine sulfate exposed under ambient UVB radiation.|https://dx.doi.org/10.1177/07482337231209352

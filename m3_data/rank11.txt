@@ -86,3 +86,8 @@ Fumagillin inhibits growth of the enteric protozoan parasite Entamoeba histolyti
 Antibiotic adjuvant activities of quorum sensing signal molecules DSF and BDSF against mature biofilms of Staphylococci.|https://dx.doi.org/10.1080/1120009X.2023.2270743
 Prevalence and antibiogram of bacteria causing urinary tract infection among patients with chronic kidney disease.|https://dx.doi.org/10.1515/med-2023-0824
 Restriction of Arginine Induces Antibiotic Tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1101/2023.10.12.561972
+Age-associated augmented renal clearance and low BMI trigger suboptimal vancomycin trough concentrations in children with haematologic diseases: data of 1453 paediatric patients from 2017 to 2022.|https://dx.doi.org/10.1186/s12887-023-04288-4
+Intracameral antibiotics during cataract surgery: efficacy, safety, and cost-benefit considerations.|https://dx.doi.org/10.1097/ICU.0000000000001010
+Model-informed precision dosing in vancomycin treatment.|https://dx.doi.org/10.3389/fphar.2023.1252757
+Peripheral vascular access as exclusive access mode in pediatric intensive care unit.|https://dx.doi.org/10.3389/fped.2023.1259395
+Contemporary pharmacologic treatments of MRSA for hospitalized adults: rationale for vancomycin versus non-vancomycin therapies as first line agents.|https://dx.doi.org/10.1080/14787210.2023.2275663

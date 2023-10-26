@@ -4,3 +4,16 @@ What are the current anti-COVID-19 drugs? From traditional to smart molecular me
 Multicentre, prospective, randomized control non-inferiority trial of bladder catheter management in colon surgery.|https://dx.doi.org/10.1111/codi.16593
 Australian evidence-based guidelines for the prevention and management of diabetes-related foot disease: a guideline summary.|https://dx.doi.org/10.5694/mja2.52136
 Adenoidectomy for otitis media with effusion (OME) in children.|https://dx.doi.org/10.1002/14651858.CD015252.pub2
+Shifting quality chronic pain treatment measures from processes to outcomes.|https://dx.doi.org/10.5055/jom.2023.0802
+Epidemiology, risk factors, and clinical outcomes of carbapenem resistant Enterobacterales in Africa: a systematic review.|https://dx.doi.org/10.1016/j.jgar.2023.10.008
+Burden, risk factors, neurosurgical evacuation outcomes, and predictors of mortality among traumatic brain injury patients with expansive intracranial hematomas in Uganda: a mixed methods study design.|https://dx.doi.org/10.1186/s12893-023-02227-9
+Impact of HIV treat-all and complementary policies on ART linkage in 13 PEPFAR-supported African countries.|https://dx.doi.org/10.1186/s12913-023-09702-2
+Shifting Tides: Is It Time to Embrace Adjunctive Corticosteroids for Community-Acquired Pneumonia?|https://dx.doi.org/10.1093/cid/ciad498
+Clinical implementation of partial oral treatment in infective endocarditis: the Danish POETry study.|https://dx.doi.org/10.1093/eurheartj/ehad715
+Assessing Second Debridement Timing and Mortality in Necrotizing Soft Tissue Infections.|https://dx.doi.org/10.1177/00031348231209528
+Quality of life measurement in teledermatology. Position statement of the European Academy of Dermatology and Venereology Task Forces on Quality of Life and Patient Oriented Outcomes and Teledermatology.|https://dx.doi.org/10.1111/jdv.19570
+SHEA NICU white paper series: Practical approaches for the prevention of viral respiratory infections.|https://dx.doi.org/10.1017/ice.2023.120
+Antibiotic Use in Patients Undergoing Complex Clean-Contaminated Head and Neck Surgery: A Prospective Study.|https://dx.doi.org/10.4103/jispcd.JISPCD_25_23
+Clinical Effectiveness of Total Hip Arthroplasty Compared With Hemiarthroplasty in Adults Undergoing Surgery for Displaced Intracapsular Hip Fracture: A Single-Centre Retrospective Cohort Study.|https://dx.doi.org/10.7759/cureus.45807
+Contemporary pharmacologic treatments of MRSA for hospitalized adults: rationale for vancomycin versus non-vancomycin therapies as first line agents.|https://dx.doi.org/10.1080/14787210.2023.2275663
+Activity of antimicrobial examination gloves under realistic conditions: challenge not fulfilled.|https://dx.doi.org/10.1186/s13756-023-01322-z

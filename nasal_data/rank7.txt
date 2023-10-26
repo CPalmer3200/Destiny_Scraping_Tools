@@ -16,3 +16,23 @@ Host immunity associated with spontaneous suppression of viremia in therapy-naï
 Acute Bronchiolitis: The Less, the Better?|https://dx.doi.org/10.2174/0115733963267129230919091338
 Data-Driven Deep Learning Neural Networks for Predicting the Number of Individuals Infected by COVID-19 Omicron Variant.|https://dx.doi.org/10.3390/epidemiologia4040037
 Community-Based Hip Screening for Up to Four-Month-Old Infants and Health Guidance for Their Caregivers in Japan: A Nation-Wide Survey.|https://dx.doi.org/10.3390/nursrep13040121
+Understanding covid-19 outcomes among people with intellectual disabilities in England.|https://dx.doi.org/10.1186/s12889-023-16993-x
+Chest wall and nasal chondromesenchymal hamartoma in a toddler: treated during a global pandemic.|https://dx.doi.org/10.1136/bcr-2022-252019
+TMPRSS2 is a functional receptor for human coronavirus HKU1.|https://dx.doi.org/10.1038/s41586-023-06761-7
+Assessing the influence of COVID-19 on influenza prevalence: A multicenter time series study.|https://dx.doi.org/10.1016/j.jiph.2023.09.018
+Differential care-seeking behaviors during the beginning of the COVID-19 pandemic in Michigan: a population-based cross-sectional study.|https://dx.doi.org/10.1186/s12889-023-16999-5
+Household hardships and responses to COVID-19 pandemic-related shocks in Eastern Ethiopia.|https://dx.doi.org/10.1186/s12889-023-16982-0
+Safety of BNT162b2 mRNA COVID-19 vaccine in children with chronic kidney disease: a national population study from South Korea.|https://dx.doi.org/10.1007/s00467-023-06195-3
+Resilient health systems for already resilient countries? Pandemic discourses in the post-COVID-19 era.|https://dx.doi.org/10.1590/1413-812320232810.10182023
+COVID-19 and health systems in Brazil and around the world: effects on the working conditions and health of health workers.|https://dx.doi.org/10.1590/1413-812320232810.10102023
+Computational screening of neuropilin 1 unveils novel potential anti-SARS-CoV-2 therapeutics.|https://dx.doi.org/10.1002/cbdv.202301227
+Is experience of the HIV/AIDS epidemic associated with responses to COVID-19? Evidence from the Rural Malawi.|https://dx.doi.org/10.1371/journal.pone.0292378
+Inactivated SARS-CoV-2 Vaccine Booster Against Omicron Infection Among Quarantined Close Contacts.|https://dx.doi.org/10.1001/jamanetworkopen.2023.39507
+Rapid Detection of SARS-CoV-2 in Clinical and Environmental Samples via a Resonant Cavity SERS Platform within 20 min.|https://dx.doi.org/10.1021/acsami.3c08819
+Assessment of oral tissue alterations in patients diagnosed with SARS-CoV-2.|https://dx.doi.org/10.23736/S2724-6329.23.04870-2
+COVID-19 vaccine effectiveness in children by age groups. A population-based study in Galicia, Spain.|https://dx.doi.org/10.1111/pai.14037
+A novel simian adenovirus-vectored COVID-19 vaccine elicits effective mucosal and systemic immunity in mice by intranasal and intramuscular vaccination regimens.|https://dx.doi.org/10.1128/spectrum.01794-23
+Intravenous Vitamin C for Patients Hospitalized With COVID-19: Two Harmonized Randomized Clinical Trials.|https://dx.doi.org/10.1001/jama.2023.21407
+Safety, immunogenicity and immune-persistence of heterologous prime-boost immunization with BBIBP-CorV and ZF2001 against SARS-CoV-2 in healthy adults aged 18 years or older.|https://dx.doi.org/10.1080/14760584.2023.2274491
+Comparative antimicrobial use in coronavirus disease 2019 (COVID-19) and non-COVID-19 inpatients from 2019 to 2020: A multicenter ecological study.|https://dx.doi.org/10.1017/ice.2023.180
+Differences of corruption types in selected Western and central-eastern health systems during the COVID-19 pandemic: a rapid review.|https://dx.doi.org/10.3389/fpubh.2023.1269189
