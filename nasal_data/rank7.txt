@@ -36,3 +36,21 @@ Intravenous Vitamin C for Patients Hospitalized With COVID-19: Two Harmonized Ra
 Safety, immunogenicity and immune-persistence of heterologous prime-boost immunization with BBIBP-CorV and ZF2001 against SARS-CoV-2 in healthy adults aged 18 years or older.|https://dx.doi.org/10.1080/14760584.2023.2274491
 Comparative antimicrobial use in coronavirus disease 2019 (COVID-19) and non-COVID-19 inpatients from 2019 to 2020: A multicenter ecological study.|https://dx.doi.org/10.1017/ice.2023.180
 Differences of corruption types in selected Western and central-eastern health systems during the COVID-19 pandemic: a rapid review.|https://dx.doi.org/10.3389/fpubh.2023.1269189
+Dynamic Patterns and Modeling of Early COVID-19 Transmission by Dynamic Mode Decomposition.|https://dx.doi.org/10.5888/pcd20.230089
+Exploring the structural and molecular interaction landscape of nirmatrelvir and Mpro complex: The study might assist in designing more potent antivirals targeting SARS-CoV-2 and other viruses.|https://dx.doi.org/10.1016/j.jiph.2023.09.020
+The impact of COVID-19 on the lives of Canadians with and without non-communicable chronic diseases: results from the iCARE Study.|https://dx.doi.org/10.1186/s12889-023-15658-z
+Personal protective equipment and medical students in times of COVID-19: experiences and perspectives from the final clerkship year.|https://dx.doi.org/10.1186/s12909-023-04784-2
+Risk of Suicide-Related Outcomes After SARS-COV-2 Infection: Results from a Nationwide Observational Matched Cohort of US Veterans.|https://dx.doi.org/10.1007/s11606-023-08440-9
+A randomized controlled trial of teprenone in terms of preventing worsening of COVID-19 infection.|https://dx.doi.org/10.1371/journal.pone.0287501
+Participants' Engagement With and Results From a Web-Based Integrative Population Mental Wellness Program (CHAMindWell) During the COVID-19 Pandemic: Program Evaluation Study.|https://dx.doi.org/10.2196/48112
+SARS-CoV-2 genome incidence on the inanimate surface of the material used in the flow of biological samples from the collection point to the testing unit.|https://dx.doi.org/10.1007/s11845-023-03554-9
+Characteristics of respiratory viruses' circulation through a six-year period (2016-2022) in a pediatric population in Normandy, France, and the impact of COVID-19 pandemic.|https://dx.doi.org/10.1128/spectrum.01867-23
+Emotion recognition in autism spectrum condition during the COVID-19 pandemic.|https://dx.doi.org/10.1177/13623613231203306
+Management of Infective Endocarditis and Tibioperoneal Mycotic Aneurysm Following COVID-19 Infection.|https://dx.doi.org/10.1016/j.ejvsvf.2023.09.005
+Post COVID-19 complications and follow up biomarkers.|https://dx.doi.org/10.1039/d3na00342f
+Orthodontic urgencies and their management during COVID-19 pandemic-A web-based survey.|https://dx.doi.org/10.4103/jos.jos_6_23
+Quercetin: A promising drug candidate against the potential SARS-CoV-2-Spike mutants with high viral infectivity.|https://dx.doi.org/10.1016/j.csbj.2023.10.029
+The NHS Health Check programme: a survey of programme delivery in England before and after the Covid-19 pandemic response.|https://dx.doi.org/10.3310/nihropenres.13436.2
+Unveiling the potential pleiotropic effects of metformin in treating COVID-19: a comprehensive review.|https://dx.doi.org/10.3389/fmolb.2023.1260633
+Impact of COVID-19 outbreak on stroke admission in Thailand: a quasi-experimental, ecological study on national database.|https://dx.doi.org/10.1080/20008686.2023.2270261
+Dynamic variations in and prediction of COVID-19 with omicron in the four first-tier cities of mainland China, Hong Kong, and Singapore.|https://dx.doi.org/10.3389/fpubh.2023.1228564

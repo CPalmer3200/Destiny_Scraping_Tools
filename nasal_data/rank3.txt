@@ -1,0 +1,1 @@
+Bayesian modeling of the impact of antibiotic resistance on the efficiency of MRSA decolonization.|https://dx.doi.org/10.1371/journal.pcbi.1010898

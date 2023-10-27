@@ -9,3 +9,4 @@ A Percutaneous Endoscopic Colostomy Tube to the Rescue.|https://dx.doi.org/10.14
 Dysregulated Immunity to Clostridioides difficile in IBD Patients Without a History of Recognized Infection.|https://dx.doi.org/10.1093/ibd/izad238
 Oral teicoplanin administration suppresses recurrence of Clostridioides difficile infection: Proof of concept.|https://dx.doi.org/10.1016/j.anaerobe.2023.102789
 Risk factors for Recurrent Clostridioides Difficile Infection in Children.|https://dx.doi.org/10.1542/hpeds.2023-007154
+Analysis of Clostridioides difficile Infection in Children with Diarrhea in Two Hospitals in Southern Brazil.|https://dx.doi.org/10.1007/s00284-023-03499-3

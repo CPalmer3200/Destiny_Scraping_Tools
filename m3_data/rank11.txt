@@ -91,3 +91,13 @@ Intracameral antibiotics during cataract surgery: efficacy, safety, and cost-ben
 Model-informed precision dosing in vancomycin treatment.|https://dx.doi.org/10.3389/fphar.2023.1252757
 Peripheral vascular access as exclusive access mode in pediatric intensive care unit.|https://dx.doi.org/10.3389/fped.2023.1259395
 Contemporary pharmacologic treatments of MRSA for hospitalized adults: rationale for vancomycin versus non-vancomycin therapies as first line agents.|https://dx.doi.org/10.1080/14787210.2023.2275663
+Innovative cold atmospheric plasma (iCAP) decreases corneal ulcer formation and bacterial loads and improves anterior chamber health in methicillin resistant Staphylococcus aureus keratitis.|https://dx.doi.org/10.1016/j.exer.2023.109692
+The Use of Metronidazole in Acute Diarrhea in Dogs: A Narrative Review.|https://dx.doi.org/10.1016/j.tcam.2023.100824
+Recombinant Klotho alleviates vancomycin-induced acute kidney injury by upregulating anti-oxidative capacity via JAK2/STAT3/GPx3 axis.|https://dx.doi.org/10.1016/j.tox.2023.153657
+Understanding vancomycin nephrotoxicity augmented by β-lactams: a synthesis of endosymbiosis, proximal renal tubule mitochondrial metabolism, and β-lactam chemistry.|https://dx.doi.org/10.1016/S1473-3099(23)00432-2
+Bilobetin attenuates Staphylococcus aureus virulence by targeting Von Willebrand factor-binding protein and staphylocoagulase.|https://dx.doi.org/10.1007/s11274-023-03812-z
+Conformationally Restricted Glycopeptide Backbone Inhibits Gas-Phase H/D Scrambling between Glycan and Peptide Moieties.|https://dx.doi.org/10.1021/jacs.3c04068
+Confronting the Threat: Designing Highly Effective bis-Benzimidazolium Agents to Overcome Biofilm Persistence and Antimicrobial Resistance.|https://dx.doi.org/10.1021/acsinfecdis.3c00289
+Benign intestinal pneumatosis associated with congenital Morgagni-Larrey diaphragmatic hernia.|https://dx.doi.org/10.17235/reed.2023.9888/2023
+Vancomycin modestly attenuates symptom severity during onset of and recovery from exertional heat stroke in mice.|https://dx.doi.org/10.1152/japplphysiol.00368.2023
+Management of Infective Endocarditis and Tibioperoneal Mycotic Aneurysm Following COVID-19 Infection.|https://dx.doi.org/10.1016/j.ejvsvf.2023.09.005

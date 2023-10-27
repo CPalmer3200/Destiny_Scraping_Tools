@@ -19,3 +19,6 @@ A focused review on hyaluronic acid contained nanofiber formulations for diabeti
 Charcot arthropathy outcomes after early referral to a regional tertiary care foot clinic.|https://dx.doi.org/10.1503/cjs.006022
 Clinical characteristics and the prognosis of diabetic foot in Tibet: A single center, retrospective study.|https://dx.doi.org/10.1515/biol-2022-0740
 Lipidomics Characterization of the Microbiome in People with Diabetic Foot Infection Using MALDI-TOF MS.|https://dx.doi.org/10.1021/acs.analchem.3c03071
+Nasal MRSA carriage is a risk factor for development of antibiotic resistance in diabetic foot ulcers and is significantly higher than diabetic and non-diabetic individuals without foot ulcer.|https://dx.doi.org/10.1186/s12879-023-08673-3
+Diabetes mellitus promotes the nasal colonization of high virulent Staphylococcus aureus through the regulation of SaeRS two-component systemnasal colonized S. aureus in type 2 diabetes.|https://dx.doi.org/10.1080/22221751.2023.2276335
+Oxygen Saturation or Tissue Oxygen Determinations on Skin Whose Viability is at Risk.|https://dx.doi.org/10.1177/15347346231206423

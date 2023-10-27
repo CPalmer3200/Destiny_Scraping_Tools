@@ -24,3 +24,18 @@ Duration of Enterovirus D68 RNA Shedding in the Upper Respiratory Tract and Tran
 [Preparation of Mycobacterium tuberculosis EsxV lipid nanoparticles subunit vaccine and its immunological characteristics].|https://dx.doi.org/10.13345/j.cjb.230245
 HIV associated malignancies presenting as acute pancreatitis: a case series.|https://dx.doi.org/10.36303/SAJS.3511
 Bilateral versus single internal mammary artery in diabetic patients: systematic review and meta-analysis.|https://dx.doi.org/10.1177/02184923231209364
+Novel technique for arterial reconstruction in simultaneous pancreas-kidney transplantation, a randomized clinical trial.|https://dx.doi.org/10.1186/s13104-023-06568-9
+Novel prognostic biomarkers in decompensated cirrhosis: a systematic review and meta-analysis.|https://dx.doi.org/10.1136/gutjnl-2023-329923
+Mortality related risk factors: Results from the Brandenburg Endocarditis Register.|https://dx.doi.org/10.1055/a-2199-2344
+Costs, length of stay and inpatient complications of early surgical decompression after spinal cord injury in a geriatric cohort.|https://dx.doi.org/10.1016/j.jocn.2023.10.009
+A case report of small bowel occlusion due to Meckel diverticulum causing a life-threatening condition.|https://dx.doi.org/10.1016/j.ijscr.2023.108982
+The augmented value of using clinical notes in semi-automated surveillance of deep surgical site infections after colorectal surgery.|https://dx.doi.org/10.1186/s13756-023-01316-x
+Quadrivalent neuraminidase RNA particle vaccine protects pigs against homologous and heterologous strains of swine influenza virus infection.|https://dx.doi.org/10.1016/j.vaccine.2023.10.005
+A large-volume low-pressure nasal irrigation delivers drug into the nasal cavity? An in vivo study.|https://dx.doi.org/10.1007/s13346-023-01455-z
+Comparison of clinical outcomes of anal fistula plug and endoanal advancement flap repair treating the complex anal fistula: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s13304-023-01674-6
+Increased rates of invasive bacterial disease in late 2022.|https://dx.doi.org/10.1007/s00431-023-05282-9
+Design and validation of an exposure system for efficient inter-animal SARS-CoV-2 airborne transmission in Syrian hamsters.|https://dx.doi.org/10.1128/spectrum.04717-22
+Detection and characterization of novel luchacoviruses, genus Alphacoronavirus, in saliva and feces of meso-carnivores in the northeastern United States.|https://dx.doi.org/10.1128/jvi.00829-23
+Understanding the Drivers of Cost and Length of Stay in a Cohort of 21,875 Severe Burn Patients.|https://dx.doi.org/10.1093/jbcr/irad168
+Perinatal outcome of maternal deaths at Chris Hani Baragwanath Academic Hospital, Johannesburg, South Africa, January 2014 - June 2019.|https://dx.doi.org/10.7196/SAMJ.2023.v113i9.724
+Perioperative Outcomes for Same- Versus Next-Day Discharge After Benign Vaginal Hysterectomy.|https://dx.doi.org/10.1097/SPV.0000000000001403

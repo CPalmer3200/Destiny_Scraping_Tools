@@ -29,3 +29,18 @@ Sequential Anti-Infection and Proangiogenesis of DMOG@ZIF-8/Gelatin-PCL Electros
 Biocompatible quaternary pullulan functionalized 2D MoS(2) glycosheet-based non-leaching and infection-resistant coatings for indwelling medical implants.|https://dx.doi.org/10.1039/d3tb01816d
 N-Pyrazinylhydroxybenzamides as biologically active compounds: a hit-expansion study and antimicrobial evaluation.|https://dx.doi.org/10.4155/fmc-2023-0189
 Toxic potential assessment of hair dye developer 2,4,5,6-tetraaminopyrimidine sulfate exposed under ambient UVB radiation.|https://dx.doi.org/10.1177/07482337231209352
+Cytotoxic and antimicrobial mycophenolic acid derivatives from an endophytic fungus Penicillium sp. MNP-HS-2 associated with Macrozamia communis.|https://dx.doi.org/10.1016/j.phytochem.2023.113901
+Refashioning of the drug-properties of fluoroquinolone through the synthesis of a levofloxacin-imidazole cobalt (II) complex and its interaction studies on with DNA and BSA biopolymers, antimicrobial and cytotoxic studies on breast cancer cell lines.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127636
+Innovative cold atmospheric plasma (iCAP) decreases corneal ulcer formation and bacterial loads and improves anterior chamber health in methicillin resistant Staphylococcus aureus keratitis.|https://dx.doi.org/10.1016/j.exer.2023.109692
+Metabolites of non-aureus staphylococci affect the ability of Staphylococcus aureus to adhere to and internalize into bovine mammary epithelial cells.|https://dx.doi.org/10.1186/s13567-023-01232-3
+Utilizing intramammary Melaleuca alternifolia as an organic internal sealant for dry-off therapy in Murrah buffaloes.|https://dx.doi.org/10.1007/s11250-023-03797-9
+Bilobetin attenuates Staphylococcus aureus virulence by targeting Von Willebrand factor-binding protein and staphylocoagulase.|https://dx.doi.org/10.1007/s11274-023-03812-z
+17β-Estradiol Mediates Staphylococcus aureus Adhesion in Vaginal Epithelial Cells via Estrogen Receptor α-Associated Signaling Pathway.|https://dx.doi.org/10.1007/s00284-023-03488-6
+Survey on microbial contamination of opened skin care products used for tattooing.|https://dx.doi.org/10.1093/jambio/lxad243
+Determining the efficacy of disinfectants at nucleic acid degradation.|https://dx.doi.org/10.1093/jambio/lxad244
+Solvent based fractional biosynthesis, phytochemical analysis, and biological activity of silver nanoparticles obtained from the extract of Salvia moorcroftiana.|https://dx.doi.org/10.1371/journal.pone.0287080
+Investigating the effect of eye drops based on iodine nanoparticles in the treatment of corneal ulcers in rabbit eyes.|https://dx.doi.org/10.1186/s12348-023-00367-w
+Vaginal microflora following the use of a disposable home-use vaginal device and a commercially available ring pessary for pelvic organ prolapse management: a randomized controlled trial.|https://dx.doi.org/10.1007/s00404-023-07260-w
+Antimicrobial susceptibility and clinical characteristics of multidrug-resistant polymicrobial infections in Pakistan, a retrospective study 2019-2021.|https://dx.doi.org/10.2217/fmb-2023-0110
+Current types of staphylococcal cassette chromosome mec (SCCmec) in clinically relevant coagulase-negative staphylococcal (CoNS) species.|https://dx.doi.org/10.1080/1040841X.2023.2274841
+Confronting the Threat: Designing Highly Effective bis-Benzimidazolium Agents to Overcome Biofilm Persistence and Antimicrobial Resistance.|https://dx.doi.org/10.1021/acsinfecdis.3c00289

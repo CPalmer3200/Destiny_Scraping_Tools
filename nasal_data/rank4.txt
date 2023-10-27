@@ -17,3 +17,15 @@ Antibiotic Use in Patients Undergoing Complex Clean-Contaminated Head and Neck S
 Clinical Effectiveness of Total Hip Arthroplasty Compared With Hemiarthroplasty in Adults Undergoing Surgery for Displaced Intracapsular Hip Fracture: A Single-Centre Retrospective Cohort Study.|https://dx.doi.org/10.7759/cureus.45807
 Contemporary pharmacologic treatments of MRSA for hospitalized adults: rationale for vancomycin versus non-vancomycin therapies as first line agents.|https://dx.doi.org/10.1080/14787210.2023.2275663
 Activity of antimicrobial examination gloves under realistic conditions: challenge not fulfilled.|https://dx.doi.org/10.1186/s13756-023-01322-z
+Up-to-Date Breast, Cervical, and Colorectal Cancer Screening Test Use in the United States, 2021.|https://dx.doi.org/10.5888/pcd20.230071
+The synergistic effects of soil-applied boron and foliar-applied silicon on cotton fiber quality and yield.|https://dx.doi.org/10.1186/s12870-023-04542-y
+Assessing the quality and completeness of reporting in health systems guidance for pandemics using the AGREE-HS tool.|https://dx.doi.org/10.7189/jogh.13.06050
+Role of the National Immunisation Technical Advisory Groups in 13 European countries in the decision-making process on vaccine recommendations.|https://dx.doi.org/10.2807/1560-7917.ES.2023.28.43.2300131
+Bacterial survival in radiopharmaceutical solutions: a critical impact on current practices.|https://dx.doi.org/10.1186/s41181-023-00221-3
+Antibacterial and immunological properties of piperine evidenced by preclinical studies: a systematic review.|https://dx.doi.org/10.2217/fmb-2023-0101
+A conceptual framework for nomenclatural stability and validity of medically important fungi: a proposed global consensus guideline for fungal name changes supported by ABP, ASM, CLSI, ECMM, ESCMID-EFISG, EUCAST-AFST, FDLC, IDSA, ISHAM, MMSA, and MSGERC.|https://dx.doi.org/10.1128/jcm.00873-23
+Polydopamine-curcumin coating of titanium for remarkable antibacterial activity via synergistic photodynamic and photothermal properties.|https://dx.doi.org/10.1111/php.13870
+Further evidence of misclassification of the injury deaths in South Africa: When will the barriers to accurate injury death statistics be removed?|https://dx.doi.org/10.7196/SAMJ.2023.v113i9.836
+Research ethics during infectious disease outbreaks: A survey of African research stakeholders using the Ebola virus disease outbreak as a case.|https://dx.doi.org/10.4081/jphia.2023.1632
+Outcomes of Coronary Artery Bypass Graft Surgery in Africa: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.47541
+[POCUS : diagnosis of pneumonia by lung ultrasonography].|https://dx.doi.org/10.53738/REVMED.2023.19.847.2008

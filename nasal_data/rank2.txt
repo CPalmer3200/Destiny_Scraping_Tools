@@ -1,1 +1,4 @@
 Estimation of the contribution to intraoperative pathogen transmission from bacterial contamination of patient nose, patient groin and axilla, anesthesia practitioners' hands, anesthesia machine, and intravenous lumen.|https://dx.doi.org/10.1016/j.jclinane.2023.111303
+Nasal MRSA carriage is a risk factor for development of antibiotic resistance in diabetic foot ulcers and is significantly higher than diabetic and non-diabetic individuals without foot ulcer.|https://dx.doi.org/10.1186/s12879-023-08673-3
+Implementation of a Colorectal Surgical Site Infection Prevention Bundle and Checklist: A Quality Improvement Project.|https://dx.doi.org/10.1002/aorn.14020
+Diabetes mellitus promotes the nasal colonization of high virulent Staphylococcus aureus through the regulation of SaeRS two-component systemnasal colonized S. aureus in type 2 diabetes.|https://dx.doi.org/10.1080/22221751.2023.2276335
