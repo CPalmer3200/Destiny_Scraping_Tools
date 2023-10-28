@@ -101,3 +101,18 @@ Confronting the Threat: Designing Highly Effective bis-Benzimidazolium Agents to
 Benign intestinal pneumatosis associated with congenital Morgagni-Larrey diaphragmatic hernia.|https://dx.doi.org/10.17235/reed.2023.9888/2023
 Vancomycin modestly attenuates symptom severity during onset of and recovery from exertional heat stroke in mice.|https://dx.doi.org/10.1152/japplphysiol.00368.2023
 Management of Infective Endocarditis and Tibioperoneal Mycotic Aneurysm Following COVID-19 Infection.|https://dx.doi.org/10.1016/j.ejvsvf.2023.09.005
+First Isolation of Methicillin-Resistant Livestock-Associated Staphylococcus aureus CC398 and CC1 in Intensive Pig Production Farms in Argentina.|https://dx.doi.org/10.3390/ani13111796
+Risk factors for acute kidney injury associated with intravenous vancomycin in neurosurgical inpatients: a retrospective study.|https://dx.doi.org/10.1007/s00228-023-03581-6
+Comparison of the incidence of vancomycin-associated nephrotoxicity following the change from trough-guided dosing to AUC-guided doing using trough-only data.|https://dx.doi.org/10.1093/jac/dkad333
+Identification and Characterization of Peptaibols as the Causing Agents of Pseudodiploöspora longispora Infecting the Edible Mushroom Morchella.|https://dx.doi.org/10.1021/acs.jafc.3c05783
+A Point Prevalence Survey of Antimicrobial Use at Geita Regional Referral Hospital in North-Western Tanzania.|https://dx.doi.org/10.3390/pharmacy11050159
+The Effect of Subinhibitory Concentration of Metronidazole on the Growth and Biofilm Formation on Toxigenic Clostridioides difficile Strains Belonging to Different Ribotypes.|https://dx.doi.org/10.3390/pathogens12101244
+The Role of Indoor Microbiome and Metabolites in Shaping Children's Nasal and Oral Microbiota: A Pilot Multi-Omic Analysis.|https://dx.doi.org/10.3390/metabo13101040
+Antimicrobial Susceptibility to 27 Drugs and the Molecular Mechanisms of Macrolide, Tetracycline, and Quinolone Resistance in Gemella sp.|https://dx.doi.org/10.3390/antibiotics12101538
+Drug-Induced Acute Pancreatitis in Adults: Focus on Antimicrobial and Antiviral Drugs, a Narrative Review.|https://dx.doi.org/10.3390/antibiotics12101495
+Monoclonal Antibody Disrupts Biofilm Structure and Restores Antibiotic Susceptibility in an Orthopedic Implant Infection Model.|https://dx.doi.org/10.3390/antibiotics12101490
+Antimicrobial Resistance Pattern and Empirical Antibiotic Treatments in Neonatal Sepsis: A Retrospective, Single-Center, 12-Year Study.|https://dx.doi.org/10.3390/antibiotics12101488
+Multidrug Resistance in Enterococci Isolated from Cheese and Capable of Producing Benzalkonium Chloride-Resistant Biofilms.|https://dx.doi.org/10.3390/biology12101353
+Parenteral Vancomycin in the Treatment of MRSA-Associated Diabetic Foot Infections: An Unnecessary Risk.|https://dx.doi.org/10.1177/15347346231207553
+[Fungal Keratitis Associated with Curvularia lunata: First Case Report from Türkiye].|https://dx.doi.org/10.5578/mb.20239957
+[Comparison of Conventional Methods with Molecular Methods in the Diagnosis of Trichomonas vaginalis and Investigation of Metronidazole Resistance].|https://dx.doi.org/10.5578/mb.20239950

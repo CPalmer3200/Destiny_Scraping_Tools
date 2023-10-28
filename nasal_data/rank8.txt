@@ -39,3 +39,17 @@ Detection and characterization of novel luchacoviruses, genus Alphacoronavirus, 
 Understanding the Drivers of Cost and Length of Stay in a Cohort of 21,875 Severe Burn Patients.|https://dx.doi.org/10.1093/jbcr/irad168
 Perinatal outcome of maternal deaths at Chris Hani Baragwanath Academic Hospital, Johannesburg, South Africa, January 2014 - June 2019.|https://dx.doi.org/10.7196/SAMJ.2023.v113i9.724
 Perioperative Outcomes for Same- Versus Next-Day Discharge After Benign Vaginal Hysterectomy.|https://dx.doi.org/10.1097/SPV.0000000000001403
+Isolation and Characterization of Swinepox Virus from Outbreak in Russia.|https://dx.doi.org/10.3390/ani13111786
+Risk Factors for Post-Operative Multi-Drug-Resistant Organism Bacterial Infection in Patients With Stanford Acute Type A Aortic Dissection.|https://dx.doi.org/10.1089/sur.2023.121
+White-nose syndrome restructures bat skin microbiomes.|https://dx.doi.org/10.1128/spectrum.02715-23
+X-ray and UV Irradiation-Induced Reactive Oxygen Species Mediated Antibacterial Activity in Fe and Pt Nanoparticle-Decorated Si-Doped TiCaCON Films.|https://dx.doi.org/10.1021/acsami.3c13242
+Relationship between Duffy Genotype/Phenotype and Prevalence of Plasmodium vivax Infection: A Systematic Review.|https://dx.doi.org/10.3390/tropicalmed8100463
+Formulation and Characterization of Hesperidin-Loaded Transethosomal Gel for Dermal Delivery to Enhance Antibacterial Activity: Comprehension of In Vitro, Ex Vivo, and Dermatokinetic Analysis.|https://dx.doi.org/10.3390/gels9100791
+First Cases of Feline Sporotrichosis Caused by Sporothrix brasiliensis in Paraguay.|https://dx.doi.org/10.3390/jof9100972
+Microbiological and Clinical Assessments of Suture Materials and Cyanoacrylate Application in Impacted Third Molar Surgeries: A Scoping Review.|https://dx.doi.org/10.3390/jfb14100529
+Tilapia Fish Skin Treatment of Third-Degree Skin Burns in Murine Model.|https://dx.doi.org/10.3390/jfb14100512
+Clinical and Biochemical Evaluation of the Use of Alb-PRF versus L-PRF in Mandibular Third Molar Extractions: A Split-Mouth Randomized Clinical Trial.|https://dx.doi.org/10.3390/jfb14100505
+Are Absorbable Plates More Resistant to Infection Than Titanium Implants? An Experimental Pre-Clinical Trial in Rabbits.|https://dx.doi.org/10.3390/jfb14100498
+Clinical, Microbiological and Treatment Characteristics of Severe Postoperative Respiratory Infections: An Observational Cohort Study.|https://dx.doi.org/10.3390/jpm13101482
+Simultaneous Bilateral Cochlear Implantation in Adults.|https://dx.doi.org/10.3390/jpm13101462
+Septic Obturation of a Knee Endoprosthesis Caused by Aspergillus clavatus.|https://dx.doi.org/10.3390/pathogens12101270

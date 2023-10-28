@@ -54,3 +54,23 @@ The NHS Health Check programme: a survey of programme delivery in England before
 Unveiling the potential pleiotropic effects of metformin in treating COVID-19: a comprehensive review.|https://dx.doi.org/10.3389/fmolb.2023.1260633
 Impact of COVID-19 outbreak on stroke admission in Thailand: a quasi-experimental, ecological study on national database.|https://dx.doi.org/10.1080/20008686.2023.2270261
 Dynamic variations in and prediction of COVID-19 with omicron in the four first-tier cities of mainland China, Hong Kong, and Singapore.|https://dx.doi.org/10.3389/fpubh.2023.1228564
+Enhanced surveillance of hospitalized COVID-19 patients in Europe: an evaluation of the I-MOVE-COVID-19 surveillance network.|https://dx.doi.org/10.1093/eurpub/ckad185
+Simvastatin in Critically Ill Patients with Covid-19.|https://dx.doi.org/10.1056/NEJMoa2309995
+The Impact of COVID-19 on Knowledge, Beliefs, and Practices of Ni-Vanuatu Health Workers Regarding Antibiotic Prescribing and Antibiotic Resistance, 2018 and 2022: A Mixed Methods Study.|https://dx.doi.org/10.3390/tropicalmed8100477
+Investigation of Initial Viral Loads and Patient Characteristics as Predictors of COVID-19 Outcomes: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/idr15050057
+Influence of the COVID-19 Pandemic on Musculoskeletal Complaints and Psychological Well-Being of Employees in Public Services-A Cohort Study.|https://dx.doi.org/10.3390/jpm13101478
+Assessment of Dyspnoea, Physical Activity, and Back Pain Levels in Students at Medical Universities after the COVID-19 Pandemic in Poland.|https://dx.doi.org/10.3390/jpm13101474
+Absence of Coronavirus RNA in Faecal Samples from Wild Primates in Gabon, Central Africa.|https://dx.doi.org/10.3390/pathogens12101272
+Immunity Induced by Inactivated SARS-CoV-2 Vaccine: Breadth, Durability, Potency, and Specificity in a Healthcare Worker Cohort.|https://dx.doi.org/10.3390/pathogens12101254
+Re-Emergence of HMPV in Gwangju, South Korea, after the COVID-19 Pandemic.|https://dx.doi.org/10.3390/pathogens12101218
+Analysis of Concentrated COVID-19 Outbreaks in Elderly Facilities in Suita City, Osaka Prefecture, Japan.|https://dx.doi.org/10.3390/ijerph20206926
+Assessment of Water, Sanitation, and Hygiene Conditions in Public Elementary Schools in Quetzaltenango, Guatemala, in the Context of the COVID-19 Pandemic.|https://dx.doi.org/10.3390/ijerph20206914
+Sleep and Well-Being during the COVID-19 Remote and In-Person Periods: Experiences of College Faculty and Staff with and without Disabilities.|https://dx.doi.org/10.3390/bs13100844
+Knowledge, Perception, and Attitudes during the COVID-19 Pandemic in the Peruvian Population.|https://dx.doi.org/10.3390/bs13100807
+Combating Loneliness in Older Adults during the COVID-19 Pandemic: Findings from a Volunteer-Based Program in Greece.|https://dx.doi.org/10.3390/bs13100804
+Impact of Immuno-Nutrition on the Nutritional Status, Inflammatory Response and Clinical Outcome of Clinic-Admitted Mild-Intensity-COVID-19 Patients: A Pilot, Perspective-Concluding Study.|https://dx.doi.org/10.3390/metabo13101070
+Molecular Typing and Resistance Profile of Acinetobacter baumannii Isolates during the COVID-19 Pandemic: Findings from the "EPIRADIOCLINF" Project.|https://dx.doi.org/10.3390/antibiotics12101551
+The Impact of Antibiotic Prophylaxis on a Retrospective Cohort of Hospitalized Patients with COVID-19 Treated with a Combination of Steroids and Tocilizumab.|https://dx.doi.org/10.3390/antibiotics12101515
+Healthcare-Associated Ventriculitis in Children during COVID-19 Pandemic: Clinical Characteristics and Outcome of a First Infection.|https://dx.doi.org/10.3390/antibiotics12101501
+The Sphingolipid-Signaling Pathway as a Modulator of Infection by SARS-CoV-2.|https://dx.doi.org/10.3390/cimb45100503
+Involving trained community health mediators in COVID-19 prevention measures. A process evaluation from Bremen, Germany.|https://dx.doi.org/10.3389/fdgth.2023.1266684

@@ -22,3 +22,6 @@ Lipidomics Characterization of the Microbiome in People with Diabetic Foot Infec
 Nasal MRSA carriage is a risk factor for development of antibiotic resistance in diabetic foot ulcers and is significantly higher than diabetic and non-diabetic individuals without foot ulcer.|https://dx.doi.org/10.1186/s12879-023-08673-3
 Diabetes mellitus promotes the nasal colonization of high virulent Staphylococcus aureus through the regulation of SaeRS two-component systemnasal colonized S. aureus in type 2 diabetes.|https://dx.doi.org/10.1080/22221751.2023.2276335
 Oxygen Saturation or Tissue Oxygen Determinations on Skin Whose Viability is at Risk.|https://dx.doi.org/10.1177/15347346231206423
+A Narrative Review on the Role of Dalbavancin in the Treatment of Bone and Joint Infections.|https://dx.doi.org/10.3390/antibiotics12101492
+Parenteral Vancomycin in the Treatment of MRSA-Associated Diabetic Foot Infections: An Unnecessary Risk.|https://dx.doi.org/10.1177/15347346231207553
+Risk Factors Associated with Failure of Toe Amputation in Diabetic Foot Infections.|https://dx.doi.org/10.1177/15347346231207679

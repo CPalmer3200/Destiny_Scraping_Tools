@@ -30,3 +30,5 @@ Dataset of exceptional women directors and carbon information disclosures of glo
 Vascular imaging findings in retinopathy of prematurity.|https://dx.doi.org/10.1111/aos.15800
 Exploring the emotional and behavioural profile in paediatric narcolepsy type 1: A case-control study.|https://dx.doi.org/10.1111/jsr.14064
 Infection epidemiology in relation to different therapy phases in patients with haematological malignancies receiving CAR T-cell therapy.|https://dx.doi.org/10.1111/ejh.14122
+Protective Effects of Alginate and Chitosan Oligosaccharides against Clostridioides difficile Bacteria and Toxin.|https://dx.doi.org/10.3390/toxins15100586
+Does depression affect the association between prosocial behavior and anxiety? A cross-sectional study of students in China.|https://dx.doi.org/10.3389/fpubh.2023.1274253

@@ -14,3 +14,7 @@ Copper ion/gallic acid MOFs-laden adhesive pomelo peel sponge effectively treats
 Nanofibrous Dressing with Nanocomposite Monoporous Microspheres for Chemodynamic Antibacterial Therapy and Wound Healing.|https://dx.doi.org/10.1021/acsomega.3c05271
 Encapsulating Antibiotic and Protein-Stabilized Nanosilver into Sandwich-Structured Electrospun Nanofibrous Scaffolds for MRSA-Infected Wound Treatment.|https://dx.doi.org/10.1021/acsami.3c10994
 Sequential Anti-Infection and Proangiogenesis of DMOG@ZIF-8/Gelatin-PCL Electrospinning Dressing for Chronic Wound Healing.|https://dx.doi.org/10.1021/acsami.3c09584
+Antibacterial-Antioxidative Thiolated Gelatin/Methacrylated Silk Fibroin Hydrogels with Nitric Oxide Release Catalyzed by Metal-Polyphenol Nanoparticles for MRSA-Infected Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.3c00696
+An Antibiotic-Loaded Silicone-Hydrogel Interpenetrating Polymer Network for the Prevention of Surgical Site Infections.|https://dx.doi.org/10.3390/gels9100826
+Antiseptic Chitosan-Poly(hexamethylene) Biguanide Hydrogel for the Treatment of Infectious Wounds.|https://dx.doi.org/10.3390/jfb14100528
+Peelable Alginate Films Reinforced by Carbon Nanofibers Decorated with Antimicrobial Nanoparticles for Immediate Biological Decontamination of Surfaces.|https://dx.doi.org/10.3390/nano13202775

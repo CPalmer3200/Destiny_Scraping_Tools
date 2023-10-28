@@ -44,3 +44,19 @@ Vaginal microflora following the use of a disposable home-use vaginal device and
 Antimicrobial susceptibility and clinical characteristics of multidrug-resistant polymicrobial infections in Pakistan, a retrospective study 2019-2021.|https://dx.doi.org/10.2217/fmb-2023-0110
 Current types of staphylococcal cassette chromosome mec (SCCmec) in clinically relevant coagulase-negative staphylococcal (CoNS) species.|https://dx.doi.org/10.1080/1040841X.2023.2274841
 Confronting the Threat: Designing Highly Effective bis-Benzimidazolium Agents to Overcome Biofilm Persistence and Antimicrobial Resistance.|https://dx.doi.org/10.1021/acsinfecdis.3c00289
+Persistence of detectable pathogens by culture independent systems (T2 Magnetic Resonance) in patients with bloodstream infection: prognostic role and possible clinical implications.|https://dx.doi.org/10.1093/cid/ciad663
+Antibacterial-Antioxidative Thiolated Gelatin/Methacrylated Silk Fibroin Hydrogels with Nitric Oxide Release Catalyzed by Metal-Polyphenol Nanoparticles for MRSA-Infected Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.3c00696
+Isolation and identification of bioactive compounds from Antrodia camphorata against ESKAPE pathogens.|https://dx.doi.org/10.1371/journal.pone.0293361
+Supplementation with Antimicrobial Peptides or a Tannic Acid Can Effectively Replace the Pharmacological Effects of Zinc Oxide in the Early Stages of Weaning Piglets.|https://dx.doi.org/10.3390/ani13111797
+Profiling of phenolic compounds, antimicrobial, antioxidant, and hemolytic activity of mango seed kernel using different optimized extraction systems.|https://dx.doi.org/10.1111/1750-3841.16799
+Development of a dual fluorescent reporter system to identify inhibitors of Staphylococcus aureus virulence factors.|https://dx.doi.org/10.1128/aem.00978-23
+Screening the NCI diversity set V for anti-MRSA activity: cefoxitin synergy and LC-MS/MS confirmation of folate/thymidine biosynthesis inhibition.|https://dx.doi.org/10.1128/spectrum.00541-23
+Gallium-based metal-organic frameworks loaded with antimicrobial peptides for synergistic killing of drug-resistant bacteria.|https://dx.doi.org/10.1039/d3tb01754k
+Reduced TiO2 Nanotubes / Silk Fibroin / ZnO as a Promising Hybrid Antibacterial Coating.|https://dx.doi.org/10.1002/cplu.202300450
+A Blood Drying Process for DNA Amplification.|https://dx.doi.org/10.1002/smll.202307959
+Identification and Characterization of Peptaibols as the Causing Agents of Pseudodiploöspora longispora Infecting the Edible Mushroom Morchella.|https://dx.doi.org/10.1021/acs.jafc.3c05783
+Phenolic Acid Functional Quaternized Chitooligosaccharide Derivatives: Preparation, Characterization, Antioxidant, Antibacterial, and Antifungal Activity.|https://dx.doi.org/10.3390/md21100535
+Phyllofenones F-M, Scalarane Sesterterpenes from the Marine Sponge Phyllospongia foliascens.|https://dx.doi.org/10.3390/md21100507
+Spilanthes acmella Extract-Based Natural Oils Loaded Emulgel for Anti-Microbial Action against Dermatitis.|https://dx.doi.org/10.3390/gels9100832
+The Sustainable Bioactive Dyeing of Textiles: A Novel Strategy Using Bacterial Pigments, Natural Antibacterial Ingredients, and Deep Eutectic Solvents.|https://dx.doi.org/10.3390/gels9100800
+Exploring the Antimicrobial Potential and Stability of Black Soldier Fly (Hermentia illucens) Larvae Fat for Enhanced Food Shelf-Life.|https://dx.doi.org/10.3390/gels9100793

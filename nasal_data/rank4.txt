@@ -29,3 +29,16 @@ Further evidence of misclassification of the injury deaths in South Africa: When
 Research ethics during infectious disease outbreaks: A survey of African research stakeholders using the Ebola virus disease outbreak as a case.|https://dx.doi.org/10.4081/jphia.2023.1632
 Outcomes of Coronary Artery Bypass Graft Surgery in Africa: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.47541
 [POCUS : diagnosis of pneumonia by lung ultrasonography].|https://dx.doi.org/10.53738/REVMED.2023.19.847.2008
+[Register data on cemented arthroplasty : A proof for cementless fixation?].|https://dx.doi.org/10.1007/s00132-023-04451-w
+A metagenomics method for the quantitative detection of bacterial pathogens causing hospital-associated and ventilator-associated pneumonia.|https://dx.doi.org/10.1128/spectrum.01294-23
+An Antibiotic-Loaded Silicone-Hydrogel Interpenetrating Polymer Network for the Prevention of Surgical Site Infections.|https://dx.doi.org/10.3390/gels9100826
+Late-Onset Prosthetic Endocarditis with Paraaortic Abscess Caused by Cutibacterium acnes.|https://dx.doi.org/10.3390/idr15050059
+Pneumocystis jirovecii Pneumonia after Heart Transplantation: Two Case Reports and a Review of the Literature.|https://dx.doi.org/10.3390/pathogens12101265
+Antimicrobial Stewardship in the Hospital Setting: A Narrative Review.|https://dx.doi.org/10.3390/antibiotics12101557
+Time-Kill Analysis of Canine Skin Pathogens: A Comparison of Pradofloxacin and Marbofloxacin.|https://dx.doi.org/10.3390/antibiotics12101548
+Efficacy/Safety of the Use of Glucocorticoids in Oral and Maxillofacial Surgery.|https://dx.doi.org/10.3390/dj11100239
+Association Between Combinations of 24-Hour Movement Behaviors and Depression Among Adolescents - Inner Mongolia Autonomous Region, China, 2019-2021.|https://dx.doi.org/10.46234/ccdcw2023.169
+SCPNB is an adjuvant to local anaesthesia for maxillofacial surgical practice.|https://dx.doi.org/10.6026/97320630019605
+Endoscopic nasobiliary drainage versus endoscopic biliary stenting for preoperative biliary drainage in patients with malignant hilar biliary obstruction: A propensity score matched multicenter comparative study.|https://dx.doi.org/10.1111/den.14712
+Comparing the efficacy of chlorhexidine and povidone-iodine in preventing surgical site infections: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14463
+New Drainage Management Following Liver Transplant Results in Fewer Postoperative Hospital Days.|https://dx.doi.org/10.6002/ect.2023.0159

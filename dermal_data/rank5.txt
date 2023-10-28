@@ -11,3 +11,5 @@ Weizmannia coagulans Extracellular Proteins Reduce Skin Acne by Inhibiting Patho
 Enablers of Candida auris persistence on medical devices and their mode of eradication.|https://dx.doi.org/10.18502/CMM.2023.150673
 An exploration of mechanisms underlying Desemzia incerta colonization resistance to methicillin-resistant Staphylococcus aureus on the skin.|https://dx.doi.org/10.1101/2023.10.11.561853
 Restriction of Arginine Induces Antibiotic Tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1101/2023.10.12.561972
+Naturally Derived Malabaricone B as a Promising Bactericidal Candidate Targeting Multidrug-Resistant Staphylococcus aureus also Possess Synergistic Interactions with Clinical Antibiotics.|https://dx.doi.org/10.3390/antibiotics12101483
+New Weapons to Fight against Staphylococcus aureus Skin Infections.|https://dx.doi.org/10.3390/antibiotics12101477

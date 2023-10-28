@@ -2,3 +2,7 @@ Estimation of the contribution to intraoperative pathogen transmission from bact
 Nasal MRSA carriage is a risk factor for development of antibiotic resistance in diabetic foot ulcers and is significantly higher than diabetic and non-diabetic individuals without foot ulcer.|https://dx.doi.org/10.1186/s12879-023-08673-3
 Implementation of a Colorectal Surgical Site Infection Prevention Bundle and Checklist: A Quality Improvement Project.|https://dx.doi.org/10.1002/aorn.14020
 Diabetes mellitus promotes the nasal colonization of high virulent Staphylococcus aureus through the regulation of SaeRS two-component systemnasal colonized S. aureus in type 2 diabetes.|https://dx.doi.org/10.1080/22221751.2023.2276335
+First Isolation of Methicillin-Resistant Livestock-Associated Staphylococcus aureus CC398 and CC1 in Intensive Pig Production Farms in Argentina.|https://dx.doi.org/10.3390/ani13111796
+Prevalence of Colonization with Multidrug-Resistant Bacteria: Results of a 5-Year Active Surveillance in Patients Attending a Teaching Hospital.|https://dx.doi.org/10.3390/antibiotics12101525
+Staphylococcus aureus Adaptation to the Skin in Health and Persistent/Recurrent Infections.|https://dx.doi.org/10.3390/antibiotics12101520
+Within-Host Diversity of Coagulase-Negative Staphylococci Resistome from Healthy Pigs and Pig Farmers, with the Detection of cfr-Carrying Strains and MDR-S. borealis.|https://dx.doi.org/10.3390/antibiotics12101505
