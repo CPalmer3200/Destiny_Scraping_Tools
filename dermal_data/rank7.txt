@@ -4,3 +4,4 @@ Identification of Desiccation Stress-Inducible Antioxidative and Antiglycative U
 The parapoxvirus Orf virus inhibits dsDNA-mediated type I IFN expression via STING-dependent and STING-independent signalling pathways.|https://dx.doi.org/10.1099/jgv.0.001912
 Salmon nasal cartilage proteoglycan stimulates hair growth.|https://dx.doi.org/10.1093/bbb/zbad149
 Spilanthes acmella Extract-Based Natural Oils Loaded Emulgel for Anti-Microbial Action against Dermatitis.|https://dx.doi.org/10.3390/gels9100832
+Characterization and Bio-Evaluation of the Synergistic Effect of Simvastatin and Folic Acid as Wound Dressings on the Healing Process.|https://dx.doi.org/10.3390/pharmaceutics15102423

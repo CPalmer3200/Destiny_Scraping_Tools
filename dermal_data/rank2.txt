@@ -25,3 +25,5 @@ Oxygen Saturation or Tissue Oxygen Determinations on Skin Whose Viability is at 
 A Narrative Review on the Role of Dalbavancin in the Treatment of Bone and Joint Infections.|https://dx.doi.org/10.3390/antibiotics12101492
 Parenteral Vancomycin in the Treatment of MRSA-Associated Diabetic Foot Infections: An Unnecessary Risk.|https://dx.doi.org/10.1177/15347346231207553
 Risk Factors Associated with Failure of Toe Amputation in Diabetic Foot Infections.|https://dx.doi.org/10.1177/15347346231207679
+Mesenchymal Stem/Stromal Cell-Derived Small Extracellular Vesicles (MSC-sEVs): A Promising Treatment Modality for Diabetic Foot Ulcer.|https://dx.doi.org/10.3390/bioengineering10101140
+Comparison of customized vacuum sealing drainage and vacuum sealing drainage in the treatment of diabetic foot ulcers: a retrospective analysis.|https://dx.doi.org/10.1186/s13018-023-04298-z

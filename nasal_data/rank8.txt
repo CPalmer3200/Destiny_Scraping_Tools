@@ -53,3 +53,18 @@ Are Absorbable Plates More Resistant to Infection Than Titanium Implants? An Exp
 Clinical, Microbiological and Treatment Characteristics of Severe Postoperative Respiratory Infections: An Observational Cohort Study.|https://dx.doi.org/10.3390/jpm13101482
 Simultaneous Bilateral Cochlear Implantation in Adults.|https://dx.doi.org/10.3390/jpm13101462
 Septic Obturation of a Knee Endoprosthesis Caused by Aspergillus clavatus.|https://dx.doi.org/10.3390/pathogens12101270
+Safety and Immunogenicity of Chimeric Pestivirus KD26_E2LOM in Piglets and Calves.|https://dx.doi.org/10.3390/vaccines11101622
+A Single-Dose Intramuscular Immunization of Pigs with Lipid Nanoparticle DNA Vaccines Based on the Hemagglutinin Antigen Confers Complete Protection against Challenge Infection with the Homologous Influenza Virus Strain.|https://dx.doi.org/10.3390/vaccines11101596
+An RNA-Scaffold Protein Subunit Vaccine for Nasal Immunization.|https://dx.doi.org/10.3390/vaccines11101550
+Global Elimination of HCV-Why Is Poland Still So Far from the Goal?|https://dx.doi.org/10.3390/v15102067
+Nipah Virus: An Overview of the Current Status of Diagnostics and Their Role in Preparedness in Endemic Countries.|https://dx.doi.org/10.3390/v15102062
+Unraveling Immunological Dynamics: HPV Infection in Women-Insights from Pregnancy.|https://dx.doi.org/10.3390/v15102011
+Deep Neural Network-Based Visual Feedback System for Nasopharyngeal Swab Sampling.|https://dx.doi.org/10.3390/s23208443
+Bactericidal Activity of Silver-Doped Chitosan Coatings via Electrophoretic Deposition on Ti(6)Al(4)V Additively Manufactured Substrates.|https://dx.doi.org/10.3390/polym15204130
+A Literature Review on the Use of Aortic Allografts in Modern Cardiac Surgery for the Treatment of Infective Endocarditis: Is There Clear Evidence or Is It Merely a Perception?|https://dx.doi.org/10.3390/life13101980
+Neutrophils' Contribution to Periodontitis and Periodontitis-Associated Cardiovascular Diseases.|https://dx.doi.org/10.3390/ijms242015370
+Enzymatic Cleavage of Stx2a in the Gut and Identification of Pancreatic Elastase and Trypsin as Possible Main Cleavers.|https://dx.doi.org/10.3390/microorganisms11102487
+Impact of Latent Virus Infection in the Cornea on Corneal Healing after Small Incision Lenticule Extraction.|https://dx.doi.org/10.3390/microorganisms11102441
+Prevalence of Herpes Simplex and Varicella-Zoster Virus DNA in Corneal Grafts Is Higher than Expected.|https://dx.doi.org/10.3390/microorganisms11102405
+Cystic Echinococcosis in Hospitalized Adult Patients from Western Romania: 2007-2022.|https://dx.doi.org/10.3390/microorganisms11102388
+Arterial Blood Gas, Electrolyte and Acid-Base Values as Diagnostic and Prognostic Indicators in Equine Colic.|https://dx.doi.org/10.3390/ani13203241

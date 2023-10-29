@@ -42,3 +42,18 @@ SCPNB is an adjuvant to local anaesthesia for maxillofacial surgical practice.|h
 Endoscopic nasobiliary drainage versus endoscopic biliary stenting for preoperative biliary drainage in patients with malignant hilar biliary obstruction: A propensity score matched multicenter comparative study.|https://dx.doi.org/10.1111/den.14712
 Comparing the efficacy of chlorhexidine and povidone-iodine in preventing surgical site infections: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14463
 New Drainage Management Following Liver Transplant Results in Fewer Postoperative Hospital Days.|https://dx.doi.org/10.6002/ect.2023.0159
+HIV Drug Resistance Patterns and Characteristics Associated with Clinically Significant Drug Resistance among Children with Virologic Failure on Antiretroviral Treatment in Kenya: Findings from the Opt4Kids Randomized Controlled Trial.|https://dx.doi.org/10.3390/v15102083
+Contribution to the Synthesis, Characterization, Separation and Quantification of New N-Acyl Thiourea Derivatives with Antimicrobial and Antioxidant Potential.|https://dx.doi.org/10.3390/pharmaceutics15102501
+Anti-MRSA and Biological Activities of Propolis Concentrations Loaded to Chitosan Nanoemulsion for Pharmaceutics Applications.|https://dx.doi.org/10.3390/pharmaceutics15102386
+Surgical Treatment of Adolescent Idiopathic Scoliosis with the ApiFix Minimal Invasive Dynamic Correction System-A Preliminary Report of a 24-Month Follow-Up.|https://dx.doi.org/10.3390/life13102032
+Bridging Molecular and Clinical Sciences to Achieve the Best Treatment of Enterococcus faecalis Endocarditis.|https://dx.doi.org/10.3390/microorganisms11102604
+Antimicrobial Resistance in Bacteria from Meat and Meat Products: A One Health Perspective.|https://dx.doi.org/10.3390/microorganisms11102581
+The Socioeconomic Factors of Street Food Vending in Developing Countries and Its Implications for Public Health: A Systematic Review.|https://dx.doi.org/10.3390/foods12203774
+Cost-Effectiveness of Treatment Decisions for Early Childhood Caries in Infants and Toddlers: A Systematic Review.|https://dx.doi.org/10.3390/medicina59101865
+Applications of Lab on a Chip in Antimicrobial Susceptibility of Staphylococcus aureus: A Systematic Review.|https://dx.doi.org/10.3390/medicina59101719
+Reconstructive Procedures of the Auricular Concha after Cutaneous Oncologic Surgery: A Systematic Review.|https://dx.doi.org/10.3390/jcm12206521
+Non-Pharmacological Strategies and Interventions for Effective COVID-19 Control: A Narrative Review.|https://dx.doi.org/10.3390/jcm12206465
+Best products for skin antisepsis.|https://dx.doi.org/10.1016/j.ajic.2023.02.002
+Disinfection, sterilization and antisepsis: An overview.|https://dx.doi.org/10.1016/j.ajic.2023.01.001
+Host-Directed Therapy in Nontuberculous Mycobacterial Pulmonary Disease: Preclinical and Clinical Data Review.|https://dx.doi.org/10.1016/j.ccm.2023.07.004
+Early detection of neurodevelopmental disorders in African children living in informal settlements in Nairobi.|https://dx.doi.org/10.1136/bmjpo-2023-002117

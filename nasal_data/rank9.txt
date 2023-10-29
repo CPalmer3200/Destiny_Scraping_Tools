@@ -60,3 +60,19 @@ Phyllofenones F-M, Scalarane Sesterterpenes from the Marine Sponge Phyllospongia
 Spilanthes acmella Extract-Based Natural Oils Loaded Emulgel for Anti-Microbial Action against Dermatitis.|https://dx.doi.org/10.3390/gels9100832
 The Sustainable Bioactive Dyeing of Textiles: A Novel Strategy Using Bacterial Pigments, Natural Antibacterial Ingredients, and Deep Eutectic Solvents.|https://dx.doi.org/10.3390/gels9100800
 Exploring the Antimicrobial Potential and Stability of Black Soldier Fly (Hermentia illucens) Larvae Fat for Enhanced Food Shelf-Life.|https://dx.doi.org/10.3390/gels9100793
+Novel N-acylsulfonamides: Synthesis, in silico prediction, molecular docking dynamic simulation, antimicrobial and anti-inflammatory activities.|https://dx.doi.org/10.1080/07391102.2022.2148751
+Quercetin-loaded sodium alginate/collagen/h-boron nitride potential wound dressings prepared using the Box-Behnken experimental design.|https://dx.doi.org/10.1002/biot.202300147
+Tomato Brown Rugose Fruit Virus: Survival and Disinfection Efficacy on Common Glasshouse Surfaces.|https://dx.doi.org/10.3390/v15102076
+Resensitisation of Methicillin-Resistant Staphylococcus aureus to Conventional Antibiotics in the Presence of an Engineered Enzybiotic.|https://dx.doi.org/10.3390/pharmaceutics15102511
+Enhancing the Functional Properties of Tea Tree Oil: In Vitro Antimicrobial Activity and Microencapsulation Strategy.|https://dx.doi.org/10.3390/pharmaceutics15102489
+Bio-Fabricated Silver Nanoparticles from the Leaf Extract of the Poisonous Plant, Holigarna arnottiana: Assessment of Antimicrobial, Antimitotic, Anticancer, and Radical-Scavenging Properties.|https://dx.doi.org/10.3390/pharmaceutics15102468
+Relationship between the Polymer Blend Using Chitosan, Polyethylene Glycol, Polyvinyl Alcohol, Polyvinylpyrrolidone, and Antimicrobial Activities against Staphylococcus aureus.|https://dx.doi.org/10.3390/pharmaceutics15102453
+Effects on Colonization Factors and Mechanisms Involved in Antimicrobial Sonophotodynamic Inactivation Mediated by Curcumin.|https://dx.doi.org/10.3390/pharmaceutics15102407
+Valencene, Nootkatone and Their Liposomal Nanoformulations as Potential Inhibitors of NorA, Tet(K), MsrA, and MepA Efflux Pumps in Staphylococcus aureus Strains.|https://dx.doi.org/10.3390/pharmaceutics15102400
+Suspension Cell Culture of Polyscias fruticosa (L.) Harms in Bubble-Type Bioreactors-Growth Characteristics, Triterpene Glycosides Accumulation and Biological Activity.|https://dx.doi.org/10.3390/plants12203641
+In Vitro Synergistic Inhibitory Effects of Plant Extract Combinations on Bacterial Growth of Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/ph16101491
+Hierarchical Virtual Screening of Potential New Antibiotics from Polyoxygenated Dibenzofurans against Staphylococcus aureus Strains.|https://dx.doi.org/10.3390/ph16101430
+Antibacterial and Antimycotic Activity of Epilobium angustifolium L. Extracts: A Review.|https://dx.doi.org/10.3390/ph16101419
+Euphorbia royleana Boiss Derived Silver Nanoparticles and Their Applications as a Nanotherapeutic Agent to Control Microbial and Oxidative Stress-Originated Diseases.|https://dx.doi.org/10.3390/ph16101413
+Unlocking the Power of Onion Peel Extracts: Antimicrobial and Anti-Inflammatory Effects Improve Wound Healing through Repressing Notch-1/NLRP3/Caspase-1 Signaling.|https://dx.doi.org/10.3390/ph16101379
+Multifunctional Properties of BMAP-18 and Its Aliphatic Analog against Drug-Resistant Bacteria.|https://dx.doi.org/10.3390/ph16101356

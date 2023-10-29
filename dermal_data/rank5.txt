@@ -13,3 +13,6 @@ An exploration of mechanisms underlying Desemzia incerta colonization resistance
 Restriction of Arginine Induces Antibiotic Tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1101/2023.10.12.561972
 Naturally Derived Malabaricone B as a Promising Bactericidal Candidate Targeting Multidrug-Resistant Staphylococcus aureus also Possess Synergistic Interactions with Clinical Antibiotics.|https://dx.doi.org/10.3390/antibiotics12101483
 New Weapons to Fight against Staphylococcus aureus Skin Infections.|https://dx.doi.org/10.3390/antibiotics12101477
+Anti-Malassezia Drug Candidates Based on Virulence Factors of Malassezia-Associated Diseases.|https://dx.doi.org/10.3390/microorganisms11102599
+Phenotypic and Genotypic Characterization of Cutibacterium acnes Isolated from Shoulder Surgery Reveals Insights into Genetic Diversity.|https://dx.doi.org/10.3390/microorganisms11102594
+Regulation of σ(B)-Dependent Biofilm Formation in Staphylococcus aureus through Strain-Specific Signaling Induced by Diosgenin.|https://dx.doi.org/10.3390/microorganisms11102376

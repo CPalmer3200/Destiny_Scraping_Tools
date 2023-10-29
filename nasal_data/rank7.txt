@@ -74,3 +74,23 @@ The Impact of Antibiotic Prophylaxis on a Retrospective Cohort of Hospitalized P
 Healthcare-Associated Ventriculitis in Children during COVID-19 Pandemic: Clinical Characteristics and Outcome of a First Infection.|https://dx.doi.org/10.3390/antibiotics12101501
 The Sphingolipid-Signaling Pathway as a Modulator of Infection by SARS-CoV-2.|https://dx.doi.org/10.3390/cimb45100503
 Involving trained community health mediators in COVID-19 prevention measures. A process evaluation from Bremen, Germany.|https://dx.doi.org/10.3389/fdgth.2023.1266684
+Immunogenicity of Co-Administered Omicron BA.4/BA.5 Bivalent COVID-19 and Quadrivalent Seasonal Influenza Vaccines in Israel during the 2022-2023 Winter Season.|https://dx.doi.org/10.3390/vaccines11101624
+NEURO-COVAX: An Italian Population-Based Study of Neurological Complications after COVID-19 Vaccinations.|https://dx.doi.org/10.3390/vaccines11101621
+Large-Scale Purification and Characterization of Recombinant Receptor-Binding Domain (RBD) of SARS-CoV-2 Spike Protein Expressed in Yeast.|https://dx.doi.org/10.3390/vaccines11101602
+Factors Associated with COVID-19 Vaccine Uptake among Schoolgoing Adolescent Girls and Young Women in South Africa.|https://dx.doi.org/10.3390/vaccines11101581
+Effect of COVID-19 on Routine Childhood Vaccination in Bahir Dar City, Northwestern, Ethiopia.|https://dx.doi.org/10.3390/vaccines11101569
+Acceptance of the COVID-19 Vaccine by Prisoners and Staff in Spanish Prisons.|https://dx.doi.org/10.3390/vaccines11101547
+Immunogenicity and Pre-Clinical Efficacy of an OMV-Based SARS-CoV-2 Vaccine.|https://dx.doi.org/10.3390/vaccines11101546
+A Delta-Omicron Bivalent Subunit Vaccine Elicited Antibody Responses in Mice against Both Ancestral and Variant Strains of SARS-CoV-2.|https://dx.doi.org/10.3390/vaccines11101539
+Long Term Follow-Up Study of a Randomized, Open-Label, Uncontrolled, Phase I/II Study to Assess the Safety and Immunogenicity of Intramuscular and Intradermal Doses of COVID-19 DNA Vaccine (AG0302-COVID19).|https://dx.doi.org/10.3390/vaccines11101535
+In Vitro Efficacy of Antivirals and Monoclonal Antibodies against SARS-CoV-2 Omicron Lineages XBB.1.9.1, XBB.1.9.3, XBB.1.5, XBB.1.16, XBB.2.4, BQ.1.1.45, CH.1.1, and CL.1.|https://dx.doi.org/10.3390/vaccines11101533
+Healthcare Worker Characteristics Associated with SARS-CoV-2 Vaccine Uptake in Ireland; a Multicentre Cross-Sectional Study.|https://dx.doi.org/10.3390/vaccines11101529
+Determinants of Anti-S Immune Response at 12 Months after SARS-CoV-2 Vaccination in a Multicentric European Cohort of Healthcare Workers-ORCHESTRA Project.|https://dx.doi.org/10.3390/vaccines11101527
+COVID-19 Immunization Rates in Patients with Inflammatory Bowel Disease Worldwide: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/vaccines11101523
+The Impact of the COVID-19 Pandemic on Influenza Vaccination Attitudes and Actions in Spain's Adult Population.|https://dx.doi.org/10.3390/vaccines11101514
+Exploring Community Perceptions of COVID-19 and Vaccine Hesitancy in Selected Cities of Ethiopia: A Qualitative Study.|https://dx.doi.org/10.3390/vaccines11101511
+Contemporaneous SARS-CoV-2-Neutralizing Antibodies Mediated by N-glycan Shields.|https://dx.doi.org/10.3390/v15102079
+Viral Entry Inhibitors Protect against SARS-CoV-2-Induced Neurite Shortening in Differentiated SH-SY5Y Cells.|https://dx.doi.org/10.3390/v15102020
+The Development of the SARS-CoV-2 Epidemic in Different Regions of Siberia in the 2020-2022 Period.|https://dx.doi.org/10.3390/v15102014
+The Ubiquitin-Proteasome System Facilitates Membrane Fusion and Uncoating during Coronavirus Entry.|https://dx.doi.org/10.3390/v15102001
+Retrospective Analysis of a Real-Life Use of Tixagevimab-Cilgavimab plus SARS-CoV-2 Antivirals for Treatment of COVID-19.|https://dx.doi.org/10.3390/ph16101493

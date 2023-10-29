@@ -6,3 +6,5 @@ First Isolation of Methicillin-Resistant Livestock-Associated Staphylococcus aur
 Prevalence of Colonization with Multidrug-Resistant Bacteria: Results of a 5-Year Active Surveillance in Patients Attending a Teaching Hospital.|https://dx.doi.org/10.3390/antibiotics12101525
 Staphylococcus aureus Adaptation to the Skin in Health and Persistent/Recurrent Infections.|https://dx.doi.org/10.3390/antibiotics12101520
 Within-Host Diversity of Coagulase-Negative Staphylococci Resistome from Healthy Pigs and Pig Farmers, with the Detection of cfr-Carrying Strains and MDR-S. borealis.|https://dx.doi.org/10.3390/antibiotics12101505
+Matrix-Mediated Delivery of Silver Nanoparticles for Prevention of Staphylococcus aureus and Pseudomonas aeruginosa Biofilm Formation in Chronic Rhinosinusitis.|https://dx.doi.org/10.3390/pharmaceutics15102426
+Associated Bacterial Coinfections in COVID-19-Positive Patients.|https://dx.doi.org/10.3390/medicina59101858

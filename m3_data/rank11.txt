@@ -116,3 +116,14 @@ Multidrug Resistance in Enterococci Isolated from Cheese and Capable of Producin
 Parenteral Vancomycin in the Treatment of MRSA-Associated Diabetic Foot Infections: An Unnecessary Risk.|https://dx.doi.org/10.1177/15347346231207553
 [Fungal Keratitis Associated with Curvularia lunata: First Case Report from Türkiye].|https://dx.doi.org/10.5578/mb.20239957
 [Comparison of Conventional Methods with Molecular Methods in the Diagnosis of Trichomonas vaginalis and Investigation of Metronidazole Resistance].|https://dx.doi.org/10.5578/mb.20239950
+Selection of Excipients for the Preparation of Vancomycin-Loaded Poly(D,L-lactide-co-glycolide) Microparticles with Extended Release by Emulsion Spray Drying.|https://dx.doi.org/10.3390/pharmaceutics15102438
+Greener and Whiter Analytical Chemistry Using Cyrene as a More Sustainable and Eco-Friendlier Mobile Phase Constituent in Chromatography.|https://dx.doi.org/10.3390/ph16101488
+Antimycobacterial Activities of Hydroxamic Acids and Their Iron(II/III), Nickel(II), Copper(II) and Zinc(II) Complexes.|https://dx.doi.org/10.3390/microorganisms11102611
+Antimicrobial Resistance in Bacteria from Meat and Meat Products: A One Health Perspective.|https://dx.doi.org/10.3390/microorganisms11102581
+Telacebec Interferes with Virulence Lipid Biosynthesis Protein Expression and Sensitizes to Other Antibiotics.|https://dx.doi.org/10.3390/microorganisms11102469
+Validating Interactions of Pathogenic Proteins of Staphylococcus aureus and E. coli with Phytochemicals of Ziziphus jujube and Acacia nilotica.|https://dx.doi.org/10.3390/microorganisms11102450
+Probiotics and Their Bioproducts: A Promising Approach for Targeting Methicillin-Resistant Staphylococcus aureus and Vancomycin-Resistant Enterococcus.|https://dx.doi.org/10.3390/microorganisms11102393
+Effects of Synbiotic Lacticaseibacillus paracasei, Bifidobacterium breve, and Prebiotics on the Growth Stimulation of Beneficial Gut Microbiota.|https://dx.doi.org/10.3390/foods12203847
+Antibiotic use and consumption among medical patients of two hospitals in Sierra Leone: a descriptive report.|https://dx.doi.org/10.1186/s12879-023-08517-0
+Efficacy of oritavancin and nisin alone and their combination against vancomycin resistant enterococci strains in hospitalized patients in Turkiye.|https://dx.doi.org/10.1016/j.ijmmb.2023.100489
+Use of vancomycin and gentamicin-impregnated calcium sulfate beads for the prevention of surgical site infection in adult spinal deformity.|https://dx.doi.org/10.1016/j.spinee.2023.10.002
