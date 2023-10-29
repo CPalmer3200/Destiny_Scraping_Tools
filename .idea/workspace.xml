@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46b8e445-1922-4d2b-9bcf-552619bb8f77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/actions_2.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions_2.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dermal_data/lit_review.docx" beforeDir="false" afterPath="$PROJECT_DIR$/dermal_data/lit_review.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dermal_data/dermal_queries.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dermal_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dermal_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dermal_template.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3_data/lit_review.docx" beforeDir="false" afterPath="$PROJECT_DIR$/m3_data/lit_review.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3_data/m3_queries.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/m3_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3_template.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nasal_data/lit_review.docx" beforeDir="false" afterPath="$PROJECT_DIR$/nasal_data/lit_review.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nasal_data/nasal_queries.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nasal_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/nasal_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nasal_template.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/review_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/review_nasal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start_date.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.dermal_main">
+  <component name="RunManager">
     <configuration name="dermal_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Destiny_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />

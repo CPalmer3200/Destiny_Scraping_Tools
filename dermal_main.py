@@ -91,9 +91,9 @@ def string_formatter(title, doi):
     return internal_str, external_str
 
 
-def write_to_rank(rank, text):
+def write_to_rank(directory, rank, text):
     # Write the text to the correct rank file
-    with open(f'dermal_data/rank{rank}.txt', 'a', encoding='utf-8') as file:
+    with open(f'{directory}rank{rank}.txt', 'a', encoding='utf-8') as file:
         file.write(text + '\n')
 
 
@@ -111,7 +111,7 @@ def body_format(email_body):
     return email_body_html
 
 
-def html_formatting(email_body):
+def html_formatting(email_body, project):
     # Fetch the current date for email titling
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
@@ -119,7 +119,7 @@ def html_formatting(email_body):
     # Explanation of the search queries used to perform this search
     search_queries = 'This search was performed using the terms "burn wound infection/burn wound/burns" and' \
                      '"Staphylococcus aureus/S. aureus/Staph/MSSA/MRSA/methicillin resistant staphylococcus aureus"'
-    destiny_url = 'https://www.destinypharma.com/'
+    url = 'https://www.destinypharma.com/'
 
     # html formatting of the push email
     html = f"""
@@ -168,13 +168,13 @@ def html_formatting(email_body):
             <body>
                 <img src="cid:image">
                 <div class="container">
-                    <h1 style="text-align: center;">New high priority papers are available on PubMed (XF-73 Dermal {date})</h1>
+                    <h1 style="text-align: center;">New high priority papers are available on PubMed ({project} {date})</h1>
                 </div>
                 {email_body}
                 <hr> <!-- Black line -->
                 <p class="small-text">
                     {search_queries}<br><br>
-                    {destiny_url}
+                    {url}
                 </p>
             </body>
             </html>
@@ -183,16 +183,12 @@ def html_formatting(email_body):
 
 
 # Define email function where a message is sent to the recipient
-def send_email(email_text):
+def send_email(email_text, email_sender, email_password, email_receiver, project):
 
     date = datetime.date.today()
     date = date.strftime('%d/%m/%Y')
 
-    email_sender = 'automatedscrapingbot@gmail.com'
-    email_password = os.environ["SECRET_TOKEN"]
-    email_receiver = 'wrw@destinypharma.com'
-
-    subject = f'New high priority literature (XF-73 Dermal {date})'  # Title of the email
+    subject = f'New high priority literature ({project} {date})'  # Title of the email
     body = email_text
 
     em = MIMEMultipart()
@@ -202,12 +198,13 @@ def send_email(email_text):
     em.attach(MIMEText(body, 'html'))  # Instruct python to expect html content
 
     # Open and attach the logo (image.jpg) to the file
-    with open('image.JPG', 'rb') as image_file:
-        image = MIMEImage(image_file.read())
-        image.add_header('Content-ID', '<image>')
-        em.attach(image)
-
-    # em.set_content(body)
+    try:
+        with open('image.JPG', 'rb') as image_file:
+            image = MIMEImage(image_file.read())
+            image.add_header('Content-ID', '<image>')
+            em.attach(image)
+    except FileNotFoundError:
+        print('"image.JPG" not identified, continuing without it')
 
     context = ssl.create_default_context()
 
@@ -217,17 +214,21 @@ def send_email(email_text):
         smtp.sendmail(email_sender, email_receiver, em.as_string())
 
 
-if __name__ == '__main__':
-
+def main():
     # Create blank variables
     queries = []
     email_body = ""
     rank = 1
     new_paper_count = 0
     changes = {}
+    fail = False
+
+    project = 'XF-73 Dermal'
+    directory = 'dermal_data/'
+    bot_email = 'automatedscrapingbot@gmail.com'
 
     # Extract search queries to a list
-    with open('dermal_data/dermal_queries.txt', 'r') as search_queries:
+    with open(f'{directory}queries.txt', 'r') as search_queries:
         for line in search_queries:
             line = line.rstrip()
             queries.append(line)
@@ -235,43 +236,49 @@ if __name__ == '__main__':
     # Iterate over search queries and perform scrape
     for query in queries:
         print(f'Performing Pubmed search for "rank {rank}" topics...')
-        bot_search = pubmed_scrape(query, 'automatedscrapingbot@gmail.com', 20)
 
-        # Check DOI for duplicate or non-dupe
-        for doi, info in bot_search.items():
-            status, doi = doi_checker(doi, 'dermal_data/doi_db.txt')
+        try:
+            bot_search = pubmed_scrape(query, bot_email, 20)
 
-            if not status:
-                # Add 1 to new paper count
-                new_paper_count +=1
+            # Check DOI for duplicate or non-dupe
+            for doi, info in bot_search.items():
+                status, doi = doi_checker(doi, f'{directory}doi_db.txt')
 
-                # Format paper string
-                print(f'{doi} not found in database - recognised as new paper')
-                title = info['Title']
-                int_string, ext_string = string_formatter(title, doi)
+                if not status:
+                    # Add 1 to new paper count
+                    new_paper_count += 1
 
-                # Write to rank database
-                write_to_rank(rank, int_string)
+                    # Format paper string
+                    print(f'{doi} not found in database - recognised as new paper')
+                    title = info['Title']
+                    int_string, ext_string = string_formatter(title, doi)
 
-                if rank == 1:
-                    # Append to email_body text if rank == 1
-                    email_body += ext_string
-                    email_body += "\n"
-            elif status:
-                print(f'{doi} already in database')
+                    # Write to rank database
+                    write_to_rank(rank, int_string)
 
-            else:
-                print('Logic error please check bot configuration')
+                    if rank == 1:
+                        # Append to email_body text if rank == 1
+                        email_body += ext_string
+                        email_body += "\n"
+                elif status:
+                    print(f'{doi} already in database')
 
-        # Log the changes of new papers for this rank
-        changes[rank] = new_paper_count
+                else:
+                    print('Logic error please check bot configuration')
 
-        # Add 1 to the rank variable and reset new paper count
-        rank += 1
-        new_paper_count = 0
+            # Log the changes of new papers for this rank
+            changes[rank] = new_paper_count
 
-        # Sleep to prevent spam
-        time.sleep(10)
+            # Add 1 to the rank variable and reset new paper count
+            rank += 1
+            new_paper_count = 0
+
+            # Sleep to prevent spam
+            time.sleep(10)
+
+        except ValueError:
+            fail = True
+            break
 
     # Send email if any high priority papers are recorded
     if email_body != "":
@@ -279,9 +286,13 @@ if __name__ == '__main__':
         # HTML format the email body into a numbered list
         formatted_body = body_format(email_body)
         # Format the email with the html template
-        formatted_email = html_formatting(formatted_body)
+        formatted_email = html_formatting(formatted_body, project)
         # Send the email and print confirmation
-        send_email(formatted_email)
+        email_sender = bot_email
+        email_password = os.environ["SECRET_TOKEN"]
+        email_receiver = 'wrw@destinypharma.com'
+
+        send_email(formatted_email, email_sender, email_password, email_receiver, project)
         print('High priority papers found - push email sent')
     else:
         print('No new high priority papers identified')
@@ -297,11 +308,17 @@ if __name__ == '__main__':
     date = datetime.datetime.now()
     date = date.strftime("%H:%M %d/%m/%Y")
     changes_log = f'{date}, {formatted_string}'
+    if fail:
+        changes_log += 'RUN FAILED'
 
     # Write to file and print
-    with open('dermal_data/log.txt', 'a') as log:
+    with open(f'{directory}log.txt', 'a') as log:
         log.write(changes_log + '\n')
     print(changes_log)
 
     # Print closing message
     print('Query complete - returning to sleep')
+
+
+if __name__ == '__main__':
+    main()
