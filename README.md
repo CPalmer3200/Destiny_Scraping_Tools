@@ -36,7 +36,7 @@ This repo is designed to be automated using GitHub actions - please see the work
 ### Altering the daily scraping bot ('X_main.py')
 Although this bot network has been tailored for specific use, it can be adapted by any user using the following steps:
 
-Please clear any log, database, rank files and then format your own queries.txt and template.docx file
+Please clear any log, database, rank files and then create your own queries.txt, image.JPG, and template.docx files
 
 1. Within the html_formatting() function change the search_queries variable to be a readable string of the rank 1 queries. Also change the 'url' variable
 
@@ -46,7 +46,7 @@ Please clear any log, database, rank files and then format your own queries.txt 
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/50c2c380-51f4-4ae4-8d34-ccfc6ba16953)
 
-3. Change the email_password, and email_receiver variables in main() (Optional changes also include replacing image.JPG with your chosen logo)
+3. Change the email_password, and email_receiver variables in main()
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/3995d000-2464-4846-ae31-c399c928103d)
 
