@@ -42,7 +42,7 @@ Please clear any log, database, rank files and then format your own queries.txt 
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/54d5fa1f-8f60-41f6-b204-fb7c235cec70)
 
-2. Alter the email_sender, project name and directory under main() function
+2. Alter the bot_email, project name and directory under main() function
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/50c2c380-51f4-4ae4-8d34-ccfc6ba16953)
 
@@ -53,7 +53,7 @@ Please clear any log, database, rank files and then format your own queries.txt 
 
 ### Altering the literature review script (review_x.py)
 
-1. Alter the email_sender, project name and directory under main() function
+1. Alter the bot_email, project name and directory under main() function
 
 2. Change the email_password, and email_receiver variables in main()
 
