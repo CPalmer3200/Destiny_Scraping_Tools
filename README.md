@@ -5,9 +5,9 @@ This project is designed and tailored towards Destiny Pharma PLC to assist scrap
 
 ## Repo architecture
 This repo is comprised of 4 scripts which provide 2 distinct functions. 
-1. dermal_main.py, m3_main.py, and nasal_main.py are web-scraping bots designed to extract relevant PubMed literature, rank the literature based on search category and importance, and send a push email if any high priority literature is identified. These scripts are automated to run daily, using GitHub actions.
+1. X_main.py are web-scraping bots designed to extract relevant PubMed literature, rank the literature based on search category and importance, and send a push email if any high priority literature is identified. These scripts are automated to run daily, using GitHub actions.
 
-2. review_main.py is a script run monthly which assembles all of the literature gathered in the previous month (for all 3 bots) and creates 3 seperate literature reviews. These are then emailed to the target recipients. This script is automated to run monthly, using GitHub actions.
+2. review_X.py are scripts run monthly which assembles all of the literature gathered in the previous month (for a target bot) and creates a literature reviews. These are then emailed to the target recipients. This script is automated to run monthly, using GitHub actions.
 
 ## Usage
 
@@ -22,7 +22,7 @@ The bots rely on their respective _data folders which contain doi_db.txt, log.tx
 
 ### Using the monthly review script (review_main.py)
 The review script does not have it's own respective folder but requires _template.docx(s), start_date.txt, review_log.txt files
-1. _template.docx: Formatted .docx file which is the template for the respective literature review that is generated
+1. template.docx: Formatted .docx file which is the template for the respective literature review that is generated
 2. start_date.txt: Accessed by the script to record the start date of the literature scraping
 3. review_log.txt: Simple log file that documents the searches run and their respective date
 
