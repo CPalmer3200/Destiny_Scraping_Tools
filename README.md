@@ -48,6 +48,9 @@ Please clear any log, database, rank files and then format your own queries.txt 
 
 3. Change the email_sender, email_password, and email_receiver variables in main() (Optional changes also include replacing image.JPG with your chosen logo)
 
+![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/3995d000-2464-4846-ae31-c399c928103d)
+
+
 ### Altering the literature review script (review_x.py)
 
 1. Alter the project name and directory under main() function
