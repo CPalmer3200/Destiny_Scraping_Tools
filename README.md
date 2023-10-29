@@ -38,9 +38,9 @@ Although this bot network has been tailored for specific use, it can be adapted 
 
 Please clear any log, database, rank files and then format your own queries.txt and template.docx file
 
-1. Within the html_formatting() function change the search_queries variable to be a readable string of the rank 1 queries. Also change the destiny_url
+1. Within the html_formatting() function change the search_queries variable to be a readable string of the rank 1 queries. Also change the 'url' variable
 
-![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/ad4b9fd8-c6f1-4cd0-abc4-5db266783a04)
+![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/54d5fa1f-8f60-41f6-b204-fb7c235cec70)
 
 2. Alter the project name and directory under main() function
 
@@ -51,8 +51,6 @@ Please clear any log, database, rank files and then format your own queries.txt 
 ### Altering the literature review script (review_x.py)
 
 1. Alter the project name and directory under main() function
-
-![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/4042ce4b-afd4-42be-93d7-b89678867891)
 
 2. Change the email_sender, email_password, and email_receiver variables in main()
 
