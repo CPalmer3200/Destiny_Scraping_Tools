@@ -33,27 +33,20 @@ This repo is designed to be automated using GitHub actions - please see the work
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/fe8d34bf-6401-4e91-bbc8-8e296277e229)
 
-## Adapting this repository
-Although this bot network has been tailored for Destiny Pharma's specific use, it can be adapted by any user using the following steps:
+### Altering the daily scraping bot ('X_main.py')
+Although this bot network has been tailored for specific use, it can be adapted by any user using the following steps:
 
-IN THE FUTURE THIS REPO WILL BE UPDATED WITH A STREAMLINED VERSION ALLOWING EASIER ADAPTATION
+Please clear any log, database, rank files and then format your own queries.txt and template.docx file
 
-Please clear any log, database, rank files and then format your own _queries.txt file
-
-1. Within the write_to_rank() function in the bot scripts change the directory to a new one of your choice (example change m3_data/)
-
-![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/8840b1c4-8b5a-404c-9208-e69cf6f906df)
-
-2. Within the html_formatting() function change the search_queries variable to be a readable string of the rank 1 queries. Also change the destiny_url
+1. Within the html_formatting() function change the search_queries variable to be a readable string of the rank 1 queries. Also change the destiny_url
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/ad4b9fd8-c6f1-4cd0-abc4-5db266783a04)
 
-3. Change the email_sender, email_password, and email_receiver variables in send_email() - THIS MUST BE DONE FOR review_main.py TOO. Optional changes also include replacing image.JPG with your chosen logo and rewriting the email subject.
+2. Alter the project name and directory under main() function
 
-![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/684c0c48-f46a-401e-a673-32ddd960d603)
+![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/4042ce4b-afd4-42be-93d7-b89678867891)
 
-4. Instances of the path (example: m3_data/) and email address must also be changed within if __name__ == '__main__':
-
+3. Change the email_sender, email_password, and email_receiver variables in main() (Optional changes also include replacing image.JPG with your chosen logo)
 
 ### Altering the literature review script (review_x.py)
 
@@ -61,6 +54,7 @@ Please clear any log, database, rank files and then format your own _queries.txt
 
 ![image](https://github.com/CPalmer3200/Destiny_Scraping_Tools/assets/145576128/4042ce4b-afd4-42be-93d7-b89678867891)
 
-2. Create and format a new template.docx file in project-specific directory
+2. Change the email_sender, email_password, and email_receiver variables in main()
+
 
 
