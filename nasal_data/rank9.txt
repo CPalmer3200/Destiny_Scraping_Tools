@@ -76,3 +76,19 @@ Antibacterial and Antimycotic Activity of Epilobium angustifolium L. Extracts: A
 Euphorbia royleana Boiss Derived Silver Nanoparticles and Their Applications as a Nanotherapeutic Agent to Control Microbial and Oxidative Stress-Originated Diseases.|https://dx.doi.org/10.3390/ph16101413
 Unlocking the Power of Onion Peel Extracts: Antimicrobial and Anti-Inflammatory Effects Improve Wound Healing through Repressing Notch-1/NLRP3/Caspase-1 Signaling.|https://dx.doi.org/10.3390/ph16101379
 Multifunctional Properties of BMAP-18 and Its Aliphatic Analog against Drug-Resistant Bacteria.|https://dx.doi.org/10.3390/ph16101356
+Biomimetic, self-coacervating adhesive with tough underwater adhesion for ultrafast hemostasis and infected wound healing.|https://dx.doi.org/10.1039/d3bm01391j
+A photocrosslinked methacrylated carboxymethyl chitosan/oxidized locust bean gum double network hydrogel for cartilage repair.|https://dx.doi.org/10.1039/d3tb01701j
+Teicoplanin associated gene tcaA inactivation increases persister cell formation in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1241995
+Synthesis and Characterization of Durable Antibiofilm and Antiviral Silane-Phosphonium Thin Coatings for Medical and Agricultural Applications.|https://dx.doi.org/10.1021/acsomega.3c04908
+Innovative Preparation of Cellulose-Mediated Silver Nanoparticles for Multipurpose Applications: Experiment and Molecular Docking Studies.|https://dx.doi.org/10.1021/acsomega.3c02432
+Enterococcus faecalis suppresses Staphylococcus aureus-induced NETosis and promotes bacterial survival in polymicrobial infections.|https://dx.doi.org/10.1093/femsmc/xtad019
+Evaluation of the Anti-inflammatory, Antimicrobial, Antioxidant, and Cytotoxic Effects of Chitosan Thiocolchicoside-Lauric Acid Nanogel.|https://dx.doi.org/10.7759/cureus.46003
+A Case Report of Necrotizing Fasciitis Managed With the Application of Negative Pressure Wound Therapy to Achieve Better Wound Closure.|https://dx.doi.org/10.7759/cureus.46140
+Bloodstream Infections Caused by Multidrug Resistant Bacteria: Clinical and Microbiological Features and Mortality.|https://dx.doi.org/10.14744/SEMB.2023.31697
+White-Light-Responsive Prussian Blue Nanophotonic Particles for Effective Eradication of Bacteria and Improved Healing of Infected Cutaneous Wounds.|https://dx.doi.org/10.1021/acsami.3c09516
+Modeling the γ-irradiation inactivation kinetics of foodborne pathogens Escherichia coli O157:H7, Salmonella, Staphylococcus aureus and Bacillus cereus in instant soup.|https://dx.doi.org/10.1177/10820132231210317
+Ultrasound-Induced Abiotic and Biotic Interfacial Electron Transfer for Efficient Treatment of Bacterial Infection.|https://dx.doi.org/10.1021/acsnano.3c03858
+[Clinical and etiological characteristics of infectious vulvovaginitis in children in Zhejiang province from 2009 to 2019].|https://dx.doi.org/10.3760/cma.j.cn112140-20230327-00210
+Differential survival of Staphylococcal species in macrophages.|https://dx.doi.org/10.1111/mmi.15184
+Changing Strategy Between Bridge to Transplant and Destination LVAD Therapy After The First 3 Months: Analysis of the STS- INTERMACS Database.|https://dx.doi.org/10.1016/j.cardfail.2023.09.011
+Eco-friendly food packaging based on paper coated with a bio-based antibacterial coating composed of carbamate starch, calcium lignosulfonate, cellulose nanofibrils, and silver nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127659

@@ -68,3 +68,20 @@ Impact of Latent Virus Infection in the Cornea on Corneal Healing after Small In
 Prevalence of Herpes Simplex and Varicella-Zoster Virus DNA in Corneal Grafts Is Higher than Expected.|https://dx.doi.org/10.3390/microorganisms11102405
 Cystic Echinococcosis in Hospitalized Adult Patients from Western Romania: 2007-2022.|https://dx.doi.org/10.3390/microorganisms11102388
 Arterial Blood Gas, Electrolyte and Acid-Base Values as Diagnostic and Prognostic Indicators in Equine Colic.|https://dx.doi.org/10.3390/ani13203241
+Multifactor analysis of the technique in total laparoscopic gastric cancer.|https://dx.doi.org/10.4240/wjgs.v15.i9.2003
+Application of multidisciplinary collaborative nursing with family care for enhanced recovery after surgery in children with inguinal hernia.|https://dx.doi.org/10.4240/wjgs.v15.i9.1932
+Management of Large Conjunctival Cysts in a Patient with Stevens-Johnson Syndrome: A Case Report and Review of the Literature.|https://dx.doi.org/10.1159/000533648
+Sterile Corneal Infiltrates following Cataract Surgery: Case Series.|https://dx.doi.org/10.1159/000533768
+Brucella infection-induced hemophagocytic syndrome with subsequent development of the probable vanishing bile duct syndrome: A case report and literature review.|https://dx.doi.org/10.1177/2050313X231207562
+Machine learning-based identification of CYBB and FCAR as potential neutrophil extracellular trap-related treatment targets in sepsis.|https://dx.doi.org/10.3389/fimmu.2023.1253833
+Fc-mediated functions of nirsevimab complement direct respiratory syncytial virus neutralization but are not required for optimal prophylactic protection.|https://dx.doi.org/10.3389/fimmu.2023.1283120
+Should We Use Rifampicin in Periprosthetic Joint Infections Caused by Staphylococci When the Implant Has Been Exchanged? A Multicenter Observational Cohort Study.|https://dx.doi.org/10.1093/ofid/ofad491
+Comparison of surgical outcomes and urinary functioning after phalloplasty with versus without urethral lengthening in transgender men.|https://dx.doi.org/10.1080/26895269.2022.2110548
+The effect of colpectomy on lower urinary tract function in transgender men.|https://dx.doi.org/10.1080/26895269.2022.2136813
+Factors influencing the surveillance of re-emerging intracranial infections in elective neurosurgical patients: A single-center retrospective study.|https://dx.doi.org/10.12998/wjcc.v11.i28.6680
+Application of negative pressure wound therapy after skin grafting in the treatment of skin cancer: A case report.|https://dx.doi.org/10.12998/wjcc.v11.i28.6812
+Effects of humanized nursing care on negative emotions and complications in patients undergoing hysteromyoma surgery.|https://dx.doi.org/10.12998/wjcc.v11.i28.6763
+Rotationplasty type BIIIb as an effective alternative to limb salvage procedure in adults: Two case reports.|https://dx.doi.org/10.12998/wjcc.v11.i28.6877
+Endoscopic iliopsoas lengthening for treatment of recalcitrant iliopsoas tendinitis after total hip arthroplasty.|https://dx.doi.org/10.1093/jhps/hnac052
+Transperineal Repair of Secondary Perineal Hernia Using a Mesh with a Memory-recoil Ring.|https://dx.doi.org/10.23922/jarc.2023-011
+mTOR Pathway Somatic Pathogenic Variants in Focal Malformations of Cortical Development: Novel Variants, Topographic Mapping, and Clinical Outcomes.|https://dx.doi.org/10.1212/NXG.0000000000200103

@@ -127,3 +127,11 @@ Effects of Synbiotic Lacticaseibacillus paracasei, Bifidobacterium breve, and Pr
 Antibiotic use and consumption among medical patients of two hospitals in Sierra Leone: a descriptive report.|https://dx.doi.org/10.1186/s12879-023-08517-0
 Efficacy of oritavancin and nisin alone and their combination against vancomycin resistant enterococci strains in hospitalized patients in Turkiye.|https://dx.doi.org/10.1016/j.ijmmb.2023.100489
 Use of vancomycin and gentamicin-impregnated calcium sulfate beads for the prevention of surgical site infection in adult spinal deformity.|https://dx.doi.org/10.1016/j.spinee.2023.10.002
+Teicoplanin associated gene tcaA inactivation increases persister cell formation in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1241995
+Design and Synthesis of d-Ala-d-Ala Silica Gel for a Binding Mode-Based Physicochemical Screening Method.|https://dx.doi.org/10.1021/acsomega.3c03837
+Vancomycin-induced gut microbial dysbiosis alters enteric neuron-macrophage interactions during a critical period of postnatal development.|https://dx.doi.org/10.3389/fimmu.2023.1268909
+Ultrasound-Induced Abiotic and Biotic Interfacial Electron Transfer for Efficient Treatment of Bacterial Infection.|https://dx.doi.org/10.1021/acsnano.3c03858
+Effectiveness of chlorhexidine gels and chips in Periodontitis Patients after Scaling and Root Planing: a systematic review and Meta-analysis.|https://dx.doi.org/10.1186/s12903-023-03241-2
+[Clinical and etiological characteristics of infectious vulvovaginitis in children in Zhejiang province from 2009 to 2019].|https://dx.doi.org/10.3760/cma.j.cn112140-20230327-00210
+A metagenomic library cloning strategy that promotes high-level expression of captured genes to enable efficient functional screening.|https://dx.doi.org/10.1016/j.chembiol.2023.10.001
+Retrospective review of intermittent and continuous infusion vancomycin for methicillin-resistant Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1007/s00228-023-03585-2

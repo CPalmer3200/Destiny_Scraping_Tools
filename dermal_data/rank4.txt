@@ -23,3 +23,4 @@ Matrix-Mediated Delivery of Silver Nanoparticles for Prevention of Staphylococcu
 Quantitative Insights and Visualization of Antimicrobial Tolerance in Mixed-Species Biofilms.|https://dx.doi.org/10.3390/biomedicines11102640
 Fabrication, Characterization, and In Vitro Cytotoxicity Assessment of Tri-Layered Multifunctional Scaffold for Effective Chronic Wound Healing.|https://dx.doi.org/10.3390/bioengineering10101148
 Temporal Changes in the Skin Microbiome of Epidermolysis Bullosa Patients following the Application of Wound Dressings.|https://dx.doi.org/10.3390/jcm12206435
+A photocrosslinked methacrylated carboxymethyl chitosan/oxidized locust bean gum double network hydrogel for cartilage repair.|https://dx.doi.org/10.1039/d3tb01701j

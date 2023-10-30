@@ -37,3 +37,6 @@ Phenylacetyl-/Trolox- Amides: Synthesis, Sigma-1, HDAC-6, and Antioxidant Activi
 Phenotypic and Genotypic Characterization of Recently Isolated Multidrug-Resistant Acinetobacter baumannii Clinical and Aquatic Strains and Demonstration of Silver Nanoparticle Potency.|https://dx.doi.org/10.3390/microorganisms11102439
 Update on potential interventions to reduce the risk for transmission of health care-associated pathogens from floors and sinks.|https://dx.doi.org/10.1016/j.ajic.2023.03.009
 Empowering patients to prevent healthcare-associated infections.|https://dx.doi.org/10.1016/j.ajic.2023.03.008
+Effect of activated carbon electrode material characteristics on hardness control performance of membrane capacitive deionization.|https://dx.doi.org/10.1039/d3ra05615e
+A Case of Central Diabetes Insipidus in a Patient With a Pineal Mass Suspected to Be a Germinoma: A Case Report.|https://dx.doi.org/10.7759/cureus.46103
+A resilience perspective on healthcare personnels' experiences of managing the COVID-19 pandemic: a qualitative study in Norwegian nursing homes and come care services.|https://dx.doi.org/10.1186/s12913-023-10187-2

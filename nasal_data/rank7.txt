@@ -94,3 +94,23 @@ Viral Entry Inhibitors Protect against SARS-CoV-2-Induced Neurite Shortening in 
 The Development of the SARS-CoV-2 Epidemic in Different Regions of Siberia in the 2020-2022 Period.|https://dx.doi.org/10.3390/v15102014
 The Ubiquitin-Proteasome System Facilitates Membrane Fusion and Uncoating during Coronavirus Entry.|https://dx.doi.org/10.3390/v15102001
 Retrospective Analysis of a Real-Life Use of Tixagevimab-Cilgavimab plus SARS-CoV-2 Antivirals for Treatment of COVID-19.|https://dx.doi.org/10.3390/ph16101493
+A potent and broad-spectrum neutralizing nanobody for SARS-CoV-2 viruses, including all major Omicron strains.|https://dx.doi.org/10.1002/mco2.397
+Symptomatic Hypocalcemia due to Nutritional Vitamin D Deficiency in Three Adolescents during the COVID-19 Pandemic.|https://dx.doi.org/10.1155/2023/3588196
+Uncovering the underlying aspects of successful COVID-19 prevention and control in Thailand through factor analysis: Lessons we have not yet learned from village health volunteers.|https://dx.doi.org/10.33546/bnj.2735
+Self-isolation of an Italian long-term care facility during COVID-19 pandemic: A comparison study on care-related infectious episodes.|https://dx.doi.org/10.1515/med-2023-0822
+Vitamin D and COVID-19: An Update on Evidence and Potential Therapeutic Implications.|https://dx.doi.org/10.7759/cureus.46121
+SARS-CoV-2 incidence, seroprevalence, and COVID-19 vaccination coverage in the homeless population: a systematic review and meta-analysis.|https://dx.doi.org/10.3389/fpubh.2023.1044788
+County-level barriers in the COVID-19 vaccine coverage index and their associations with willingness to receive the COVID-19 vaccine across racial/ethnic groups in the U.S.|https://dx.doi.org/10.3389/fpubh.2023.1192748
+Secondary infections in critically ill patients with COVID-19 receiving steroid therapy.|https://dx.doi.org/10.1177/00368504231207209
+Clinicopathological characteristics of cutaneous complications following COVID-19 vaccination: A case series.|https://dx.doi.org/10.1111/jocd.16042
+Moral characteristics predicting COVID-19 vaccination.|https://dx.doi.org/10.1111/jopy.12892
+Long-term impact of the COVID-19 pandemic on self-management of chronic conditions among high-risk adults in the USA: protocol for the C3 observational cohort study.|https://dx.doi.org/10.1136/bmjopen-2023-077911
+Public health restrictions, directives, and measures in Arctic countries in the first year of the COVID-19 pandemic.|https://dx.doi.org/10.1080/22423982.2023.2271211
+A Study of the Impact and Restitutive Efforts of Cervical Cancer Screening during the COVID-19 Pandemic in a Regionsl Cancer Centre in Eastern India.|https://dx.doi.org/10.31557/APJCP.2023.24.10.3495
+Immunized mice naturally process in silico-derived peptides from the nucleocapsid of SARS-CoV-2.|https://dx.doi.org/10.1186/s12866-023-03076-5
+Changes in work tasks and organization of general practice in Norway during the COVID-19 pandemic: results from a comparative international study.|https://dx.doi.org/10.1186/s12875-023-02146-x
+Facilitators and barriers of mHealth interventions during the Covid-19 pandemic: systematic review.|https://dx.doi.org/10.1186/s12913-023-10171-w
+You & Me: Test and Treat study protocol for promoting COVID-19 test and treatment access to underserved populations.|https://dx.doi.org/10.1186/s12889-023-16960-6
+Racial and ethnic disparities in prevalence and correlates of depressive symptoms and suicidal ideation among adults in the United States, 2017-2020 pre-pandemic.|https://dx.doi.org/10.1016/j.jad.2023.10.138
+Safety and immunogenicity of the COVID-19 mRNA vaccine CS-2034: A randomized, double-blind, dose-exploration, placebo-controlled multicenter Phase I clinical trial in healthy Chinese adults.|https://dx.doi.org/10.1016/j.jinf.2023.10.012
+Facial dog bites in children: a public health problem highlighted by COVID-19 lockdown.|https://dx.doi.org/10.1016/j.jormas.2023.101671
