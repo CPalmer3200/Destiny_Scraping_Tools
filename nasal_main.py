@@ -290,7 +290,7 @@ def main():
         # Send the email and print confirmation
         email_sender = bot_email
         email_password = os.environ["SECRET_TOKEN"]
-        email_receiver = 'wrw@destinypharma.com'
+        email_receiver = 'christopher.palmer32@gmail.com'
 
         send_email(formatted_email, email_sender, email_password, email_receiver, project)
         print('High priority papers found - push email sent')
