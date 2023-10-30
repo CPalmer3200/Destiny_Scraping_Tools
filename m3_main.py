@@ -257,7 +257,7 @@ def main():
                     int_string, ext_string = string_formatter(title, doi)
 
                     # Write to rank database
-                    write_to_rank(rank, int_string)
+                    write_to_rank(directory, rank, int_string)
 
                     if rank == 1:
                         # Append to email_body text if rank == 1
