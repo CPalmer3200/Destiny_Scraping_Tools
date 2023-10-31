@@ -279,7 +279,7 @@ def main():
             # Sleep to prevent spam
             time.sleep(10)
 
-        except ValueError:
+        except (ValueError, RuntimeError):
             fail = True
             break
 
