@@ -40,3 +40,5 @@ Empowering patients to prevent healthcare-associated infections.|https://dx.doi.
 Effect of activated carbon electrode material characteristics on hardness control performance of membrane capacitive deionization.|https://dx.doi.org/10.1039/d3ra05615e
 A Case of Central Diabetes Insipidus in a Patient With a Pineal Mass Suspected to Be a Germinoma: A Case Report.|https://dx.doi.org/10.7759/cureus.46103
 A resilience perspective on healthcare personnels' experiences of managing the COVID-19 pandemic: a qualitative study in Norwegian nursing homes and come care services.|https://dx.doi.org/10.1186/s12913-023-10187-2
+A diagnostic stewardship approach to prevent unnecessary testing of an enteric bacterial molecular panel.|https://dx.doi.org/10.1128/spectrum.02945-23
+Change Score and Subscore Precision and Reliability of the Children's Depression Inventory.|https://dx.doi.org/10.1177/10731911231204832

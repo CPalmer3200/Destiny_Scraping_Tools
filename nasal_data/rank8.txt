@@ -85,3 +85,13 @@ Rotationplasty type BIIIb as an effective alternative to limb salvage procedure 
 Endoscopic iliopsoas lengthening for treatment of recalcitrant iliopsoas tendinitis after total hip arthroplasty.|https://dx.doi.org/10.1093/jhps/hnac052
 Transperineal Repair of Secondary Perineal Hernia Using a Mesh with a Memory-recoil Ring.|https://dx.doi.org/10.23922/jarc.2023-011
 mTOR Pathway Somatic Pathogenic Variants in Focal Malformations of Cortical Development: Novel Variants, Topographic Mapping, and Clinical Outcomes.|https://dx.doi.org/10.1212/NXG.0000000000200103
+Does surgical site infection affect patient-reported outcomes after spinal surgery? A multicenter cohort study.|https://dx.doi.org/10.1016/j.jos.2023.10.010
+Single-use negative pressure wound therapy versus conventional dressings for the reduction of surgical site infections in closed surgical incisions: Systematic literature review and meta-analysis.|https://dx.doi.org/10.1016/j.amjsurg.2023.10.031
+An Electroconductive And Antibacterial Adhesive Nanocomposite Hydrogel for High-Performance Skin Wound Healing.|https://dx.doi.org/10.1002/adhm.202303138
+Potential Contribution of Cell Adhesion Molecule 1 to the Binding of SARS-CoV-2 Spike Protein to Mouse Nasal Mucosa.|https://dx.doi.org/10.1159/000534892
+Case Report: Osteomyelitis Due to Sporothrix brasiliensis in Two Immunocompetent Patients Requiring Surgical Amputation.|https://dx.doi.org/10.4269/ajtmh.22-0755
+A new treatment of concealed penis: symmetrical pterygoid flap surgery.|https://dx.doi.org/10.1590/S1677-5538.IBJU.2023.0629
+Clinical Application of Ureteroscope-Assisted Laparoscopic Surgery for Prostatic Utricle in Children.|https://dx.doi.org/10.1089/lap.2023.0055
+Nicotine Dependence and Rates of Postoperative Complications in Achilles Tendon Repair.|https://dx.doi.org/10.1177/10711007231205293
+Outcomes Among Malnourished Patients With Crohn's Disease Undergoing Elective Ileocecectomy: A Nationwide Analysis.|https://dx.doi.org/10.1177/00031348231209866
+Postoperative Urinary Complications in Head and Neck Free Flap Reconstructive Surgery.|https://dx.doi.org/10.1177/00034894231208256

@@ -92,3 +92,7 @@ Ultrasound-Induced Abiotic and Biotic Interfacial Electron Transfer for Efficien
 Differential survival of Staphylococcal species in macrophages.|https://dx.doi.org/10.1111/mmi.15184
 Changing Strategy Between Bridge to Transplant and Destination LVAD Therapy After The First 3 Months: Analysis of the STS- INTERMACS Database.|https://dx.doi.org/10.1016/j.cardfail.2023.09.011
 Eco-friendly food packaging based on paper coated with a bio-based antibacterial coating composed of carbamate starch, calcium lignosulfonate, cellulose nanofibrils, and silver nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127659
+Prediction of C-reactive protein dynamics during meropenem treatment in neonates and infants.|https://dx.doi.org/10.1111/bcp.15950
+Structural Patterns Enhancing the Antibacterial Activity of Metallacarborane-Based Antibiotics.|https://dx.doi.org/10.1021/acs.jmedchem.3c01516
+Alteration of cholesterol content and oxygen level in intestinal organoids after infection with Staphylococcus aureus.|https://dx.doi.org/10.1096/fj.202300799R
+Profiling daptomycin resistance among diverse methicillin-resistant Staphylococcus aureus lineages in China.|https://dx.doi.org/10.1128/aac.00563-23

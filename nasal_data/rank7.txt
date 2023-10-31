@@ -114,3 +114,16 @@ You & Me: Test and Treat study protocol for promoting COVID-19 test and treatmen
 Racial and ethnic disparities in prevalence and correlates of depressive symptoms and suicidal ideation among adults in the United States, 2017-2020 pre-pandemic.|https://dx.doi.org/10.1016/j.jad.2023.10.138
 Safety and immunogenicity of the COVID-19 mRNA vaccine CS-2034: A randomized, double-blind, dose-exploration, placebo-controlled multicenter Phase I clinical trial in healthy Chinese adults.|https://dx.doi.org/10.1016/j.jinf.2023.10.012
 Facial dog bites in children: a public health problem highlighted by COVID-19 lockdown.|https://dx.doi.org/10.1016/j.jormas.2023.101671
+Unveiling Maternal Health Insights During the COVID-19 Pandemic in Pakistan: Using Causal Loop Diagrams to Illuminate and Prevent Unintended Policy Effects.|https://dx.doi.org/10.9745/GHSP-D-21-00803
+Risk of hospital admission and death from first-ever SARS-CoV-2 infection by age group during the Delta and Omicron periods in British Columbia, Canada.|https://dx.doi.org/10.1503/cmaj.230721
+The Impact of the COVID Pandemic on Adrenal Surgery at an Academic Endocrine Surgery Unit.|https://dx.doi.org/10.1055/a-2187-3547
+Effectiveness of Nirmatrelvir-Ritonavir Against the Development of Post-COVID-19 Conditions Among U.S. Veterans : A Target Trial Emulation.|https://dx.doi.org/10.7326/M23-1394
+Comparing a data entry tool to provider insight alone for assessment of COVID-19 hospitalization risk: A matched cohort comparison.|https://dx.doi.org/10.2196/44250
+Predictors of dropout among psychosomatic rehabilitation patients during the COVID-19 pandemic: Secondary analysis of a longitudinal study of digital training.|https://dx.doi.org/10.2196/43584
+Improving the mental health care process in response to Covid-19 pandemic: The case of a penitentiary mental health division.|https://dx.doi.org/10.1371/journal.pone.0293492
+Use of psychological interventions among healthcare workers over the 2-year period following the COVID-19 pandemic: A longitudinal study.|https://dx.doi.org/10.1371/journal.pone.0292932
+Mortality, incidence, and microbiological documentation of ventilated acquired pneumonia (VAP) in critically ill patients with COVID-19 or influenza.|https://dx.doi.org/10.1186/s13613-023-01207-9
+Development and psychometric validation of the Pandemic-Related Traumatic Stress Scale for children and adults.|https://dx.doi.org/10.1037/pas0001211
+The Fear of COVID-19 Scale: A meta-analytic structural equation modeling approach.|https://dx.doi.org/10.1037/pas0001276
+The COVID-19 pandemic and measurement of preschoolers' executive functions.|https://dx.doi.org/10.1037/pas0001250
+The "Bubble": What Can Be Learned from the National Basketball Association (NBA)'s 2019-20 Season Restart in Orlando during the COVID-19 Pandemic.|https://dx.doi.org/10.1093/jalm/jfad073

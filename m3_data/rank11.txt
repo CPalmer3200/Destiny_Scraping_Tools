@@ -135,3 +135,4 @@ Effectiveness of chlorhexidine gels and chips in Periodontitis Patients after Sc
 [Clinical and etiological characteristics of infectious vulvovaginitis in children in Zhejiang province from 2009 to 2019].|https://dx.doi.org/10.3760/cma.j.cn112140-20230327-00210
 A metagenomic library cloning strategy that promotes high-level expression of captured genes to enable efficient functional screening.|https://dx.doi.org/10.1016/j.chembiol.2023.10.001
 Retrospective review of intermittent and continuous infusion vancomycin for methicillin-resistant Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1007/s00228-023-03585-2
+Profiling daptomycin resistance among diverse methicillin-resistant Staphylococcus aureus lineages in China.|https://dx.doi.org/10.1128/aac.00563-23

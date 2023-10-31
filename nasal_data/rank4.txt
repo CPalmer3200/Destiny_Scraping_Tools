@@ -69,3 +69,5 @@ Iatrogenic Cerebrospinal Fluid Breast Augmentation: Rare complication of Ventric
 Quantitative light-induced fluorescence-guided surgery for medication-related osteomyelitis of the jaw.|https://dx.doi.org/10.1016/j.pdpdt.2023.103867
 Surgeon Preferences Worldwide in Wound Drain Utilization in Open Lumbar Fusion Surgery for Degenerative Pathologies.|https://dx.doi.org/10.1177/21925682231210184
 Evidence-based clinical practice guideline for management of urinary tract infection and primary vesicoureteric reflux.|https://dx.doi.org/10.1007/s00467-023-06173-9
+THE DIAGNOSIS AND TREATMENT OF LOW BACK PAIN: Synopsis of the 2021 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.|https://dx.doi.org/10.1097/PHM.0000000000002356
+Society of Critical Care Medicine and the Infectious Diseases Society of America Guidelines for Evaluating New Fever in Adult Patients in the ICU.|https://dx.doi.org/10.1097/CCM.0000000000006022
