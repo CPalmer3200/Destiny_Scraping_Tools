@@ -127,3 +127,20 @@ Development and psychometric validation of the Pandemic-Related Traumatic Stress
 The Fear of COVID-19 Scale: A meta-analytic structural equation modeling approach.|https://dx.doi.org/10.1037/pas0001276
 The COVID-19 pandemic and measurement of preschoolers' executive functions.|https://dx.doi.org/10.1037/pas0001250
 The "Bubble": What Can Be Learned from the National Basketball Association (NBA)'s 2019-20 Season Restart in Orlando during the COVID-19 Pandemic.|https://dx.doi.org/10.1093/jalm/jfad073
+Cost of the COVID-19 pandemic versus the cost-effectiveness of mitigation strategies in EU/UK/OECD: a systematic review.|https://dx.doi.org/10.1136/bmjopen-2023-077602
+[The impact of COVID-19 on the health status of older people in Chile].|https://dx.doi.org/10.4067/s0034-98872022001201664
+[Trend in Physical Activity Counseling and Cardiometabolic Diseases in Maule, Chile: COVID-19 Pre-Pandemic Study between 2012 and 2019].|https://dx.doi.org/10.4067/s0034-98872022001201596
+Prevention and control of COVID-19 outbreak in a hemodialysis center.|https://dx.doi.org/10.4067/s0034-98872023000100072
+Readiness of public schools before reopening during COVID-19 pandemic: School-based cross-sectional survey in southern Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0293722
+Behavioral Changes Associated With COVID-19 Vaccination: Cross-National Online Survey.|https://dx.doi.org/10.2196/47563
+Surgical Interventions in Coronavirus Disease 2019 Pleural and Pulmonary Complications: A Case Series of the Tertiary Thoracic Surgery Center Experience.|https://dx.doi.org/10.1089/sur.2023.167
+Depressive and anxiety symptom trajectories in Polish adolescents during the COVID-19 pandemic and the outbreak of war in Ukraine: uncovering the role of family relations.|https://dx.doi.org/10.1017/S095457942300130X
+Absolute and relative preferences for mobile phone internet content, mobile phone dependence, and depressive symptoms: a study of Chinese university students in the post-pandemic era.|https://dx.doi.org/10.3389/fpubh.2023.1247438
+High Prevalence of Respiratory Co-Infections and Risk Factors in COVID-19 Patients at Hospital Admission During an Epidemic Peak in China.|https://dx.doi.org/10.2147/IDR.S435143
+Buccopharyngeal route administered high polyphenolic olive oil and COVID-19: A pilot clinical trial.|https://dx.doi.org/10.1002/iid3.1054
+Excluding Participants With Mycobacteria Infections From Clinical Trials: A Critical Consideration in Evaluating the Efficacy of BCG Against COVID-19.|https://dx.doi.org/10.3346/jkms.2023.38.e343
+Predictors of COVID-19 Vaccine Hesitancy Among Parents of Children Aged 5-11 Years in Korea.|https://dx.doi.org/10.3346/jkms.2023.38.e315
+Blood coagulation, risk factors and associated complications in COVID-19 patients in Saudi Arabia: A retrospective cohort study.|https://dx.doi.org/10.1097/MD.0000000000035621
+Examining the secondary impacts of the COVID-19 pandemic on syndemic production and PrEP use among gay, bisexual and other men who have sex with men (GBM) in Vancouver, Canada.|https://dx.doi.org/10.1186/s12889-023-17049-w
+Impact of employment on the elderly in a super-aging society during the COVID-19 pandemic in Japan.|https://dx.doi.org/10.1038/s41598-023-45270-5
+Antibody response and soluble mediator profile in the first six months following acute SARS-CoV-2 infection.|https://dx.doi.org/10.1038/s41598-023-43263-y

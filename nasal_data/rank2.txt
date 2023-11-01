@@ -8,3 +8,5 @@ Staphylococcus aureus Adaptation to the Skin in Health and Persistent/Recurrent 
 Within-Host Diversity of Coagulase-Negative Staphylococci Resistome from Healthy Pigs and Pig Farmers, with the Detection of cfr-Carrying Strains and MDR-S. borealis.|https://dx.doi.org/10.3390/antibiotics12101505
 Matrix-Mediated Delivery of Silver Nanoparticles for Prevention of Staphylococcus aureus and Pseudomonas aeruginosa Biofilm Formation in Chronic Rhinosinusitis.|https://dx.doi.org/10.3390/pharmaceutics15102426
 Associated Bacterial Coinfections in COVID-19-Positive Patients.|https://dx.doi.org/10.3390/medicina59101858
+Postoperative Staphylococcus aureus Infections in Patients With and Without Preoperative Colonization.|https://dx.doi.org/10.1001/jamanetworkopen.2023.39793
+The destruction of mucosal barriers, epithelial remodeling, and impaired mucociliary clearance: possible pathogenic mechanisms of Pseudomonas aeruginosa and Staphylococcus aureus in chronic rhinosinusitis.|https://dx.doi.org/10.1186/s12964-023-01347-2

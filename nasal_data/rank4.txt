@@ -71,3 +71,6 @@ Surgeon Preferences Worldwide in Wound Drain Utilization in Open Lumbar Fusion S
 Evidence-based clinical practice guideline for management of urinary tract infection and primary vesicoureteric reflux.|https://dx.doi.org/10.1007/s00467-023-06173-9
 THE DIAGNOSIS AND TREATMENT OF LOW BACK PAIN: Synopsis of the 2021 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.|https://dx.doi.org/10.1097/PHM.0000000000002356
 Society of Critical Care Medicine and the Infectious Diseases Society of America Guidelines for Evaluating New Fever in Adult Patients in the ICU.|https://dx.doi.org/10.1097/CCM.0000000000006022
+Enhanced Category-Based Risk Assessment for Neonatal Early-Onset Sepsis: A Prospective Observational Study.|https://dx.doi.org/10.1159/000534091
+CDC Recommendations for Hepatitis C Testing Among Perinatally Exposed Infants and Children - United States, 2023.|https://dx.doi.org/10.15585/mmwr.rr7204a1
+Successful Treatment of Sepsis-Induced Cardiomyopathy with Intra-Aortic Balloon Pumping: A Case Report and Literature Review.|https://dx.doi.org/10.12659/AJCR.941098

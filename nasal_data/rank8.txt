@@ -95,3 +95,20 @@ Clinical Application of Ureteroscope-Assisted Laparoscopic Surgery for Prostatic
 Nicotine Dependence and Rates of Postoperative Complications in Achilles Tendon Repair.|https://dx.doi.org/10.1177/10711007231205293
 Outcomes Among Malnourished Patients With Crohn's Disease Undergoing Elective Ileocecectomy: A Nationwide Analysis.|https://dx.doi.org/10.1177/00031348231209866
 Postoperative Urinary Complications in Head and Neck Free Flap Reconstructive Surgery.|https://dx.doi.org/10.1177/00034894231208256
+Submandibular gland abscess in a kidney transplant recipient: a diagnostic and therapeutic enigma.|https://dx.doi.org/10.1136/bcr-2022-254154
+Data quality and patient characteristics in European ANCA-associated vasculitis registries: data retrieval by federated querying.|https://dx.doi.org/10.1136/ard-2023-224571
+Trochlear Ridge Prostheses for Reshaping Femoral Trochlear Ridges in Dogs with Patellar Luxation.|https://dx.doi.org/10.1055/s-0043-1776331
+Effect of oral nutritional supplementation on outcomes in older adults with hip fractures and factors influencing compliance.|https://dx.doi.org/10.1302/0301-620X.105B11.BJJ-2023-0139.R1
+Cost-effectiveness of selective decontamination of the digestive tract to decrease infectious complications in colorectal cancer surgery: An analysis of the SELECT trial.|https://dx.doi.org/10.1016/j.ejso.2023.107116
+A prospective study on skin and soft tissue infections: a fact-finding mission from a tertiary centre in north India.|https://dx.doi.org/10.12968/jowc.2023.32.Sup11.S4
+[Exclusive breastfeeding and disease evolution in hospitalized infants with bronchiolitis].|https://dx.doi.org/10.32641/andespediatr.v94i1.3834
+Incidence, Microbiological Studies, and Factors Associated With Prosthetic Joint Infection After Total Knee Arthroplasty.|https://dx.doi.org/10.1001/jamanetworkopen.2023.40457
+Serum Interleukin-6 as a Biomarker for Early Prediction of Post-Operative Infectious Complications After Elective Pancreatectomy.|https://dx.doi.org/10.1089/sur.2023.108
+Upper respiratory tract microbiome profiles in SARS-CoV-2 Delta and Omicron infected patients exhibit variant specific patterns and robust prediction of disease groups.|https://dx.doi.org/10.1128/spectrum.02368-23
+[Dose-response relationship between age and Streptococcus pneumoniae vaccination coverage in kindergarten children].|https://dx.doi.org/10.7499/j.issn.1008-8830.2305003
+[Effect of somatostatin on gastrointestinal hormone levels and clinical outcomes in critically ill infants after gastrointestinal surgery: a prospective randomized controlled study].|https://dx.doi.org/10.7499/j.issn.1008-8830.2305022
+Laparoscopic vs. open surgery: A comparative analysis of wound infection rates and recovery outcomes.|https://dx.doi.org/10.1111/iwj.14474
+Effect of percutaneous endoscopic gastrostomy prior to oesophageal cancer surgery on postoperative wound complications in patients: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14461
+Clinical Outcome in Patients With High-grade Soft-tissue Sarcoma Receiving Prosthetic Replacement After Tumor Resection of the Lower Extremities: Tokai Musculoskeletal Oncology Consortium Study.|https://dx.doi.org/10.21873/invivo.13372
+Clinical Significance of Controlling Nutritional Status (CONUT) Score in Patients With Colorectal Liver Metastases After Hepatectomy.|https://dx.doi.org/10.21873/invivo.13377
+Design of experiment (DoE) as a quality by design (QbD) tool to optimize formulations of lipid nanoparticles for nose-to-brain drug delivery.|https://dx.doi.org/10.1080/17425247.2023.2274902

@@ -136,3 +136,16 @@ Effectiveness of chlorhexidine gels and chips in Periodontitis Patients after Sc
 A metagenomic library cloning strategy that promotes high-level expression of captured genes to enable efficient functional screening.|https://dx.doi.org/10.1016/j.chembiol.2023.10.001
 Retrospective review of intermittent and continuous infusion vancomycin for methicillin-resistant Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1007/s00228-023-03585-2
 Profiling daptomycin resistance among diverse methicillin-resistant Staphylococcus aureus lineages in China.|https://dx.doi.org/10.1128/aac.00563-23
+Compass for antibiotic stewardship: using a digital tool to improve guideline adherence and drive clinician behaviour for appendicitis treatment in the emergency department.|https://dx.doi.org/10.1136/emermed-2022-213015
+Underwater bubbling plasma assisted with persulfate activation for the synergistic degradation of tetracycline hydrochloride.|https://dx.doi.org/10.1016/j.envres.2023.117539
+Intraosseous regional prophylaxis in total knee arthroplasty.|https://dx.doi.org/10.1302/0301-620X.105B11.BJJ-2023-0708
+Cost-effectiveness of selective decontamination of the digestive tract to decrease infectious complications in colorectal cancer surgery: An analysis of the SELECT trial.|https://dx.doi.org/10.1016/j.ejso.2023.107116
+Emergence of novel ST1299 vanA lineages as possible cause for the striking rise of vancomycin resistance among invasive strains of Enterococcus faecium at a German university hospital.|https://dx.doi.org/10.1128/spectrum.02962-23
+Comparative efficacy of vancomycin in treating ST5 and ST764 methicillin-resistant Staphylococcus aureus infections in adult patients.|https://dx.doi.org/10.1128/msphere.00457-23
+Synergistic effects of polymyxin and vancomycin combinations on carbapenem- and polymyxin-resistant Klebsiella pneumoniae and their molecular characteristics.|https://dx.doi.org/10.1128/spectrum.01199-23
+The novel bacteriocin romsacin from Staphylococcus haemolyticus inhibits Gram-positive WHO priority pathogens.|https://dx.doi.org/10.1128/spectrum.00869-23
+Single-Cell Meta-Analysis of Neutrophil Activation in Kawasaki Disease and Multisystem Inflammatory Syndrome in Children Reveals Potential Shared Immunological Drivers.|https://dx.doi.org/10.1161/CIRCULATIONAHA.123.064734
+Comparison of Antimicrobial Activity of Injectable Platelet-Rich Fibrin (i-PRF) and Leukocyte and Platelet-Rich Fibrin (l-PRF) Against Oral Microbes: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.46196
+Facilitating the structural characterisation of non-canonical amino acids in biomolecular NMR.|https://dx.doi.org/10.5194/mr-4-57-2023
+Elution profiles of metronidazole from calcium sulfate beads.|https://dx.doi.org/10.4142/jvs.23166
+Meningitis and sepsis caused by Streptococcus suis in an elderly woman: A CARE-compliant case report.|https://dx.doi.org/10.1097/MD.0000000000035780

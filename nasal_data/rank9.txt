@@ -96,3 +96,14 @@ Prediction of C-reactive protein dynamics during meropenem treatment in neonates
 Structural Patterns Enhancing the Antibacterial Activity of Metallacarborane-Based Antibiotics.|https://dx.doi.org/10.1021/acs.jmedchem.3c01516
 Alteration of cholesterol content and oxygen level in intestinal organoids after infection with Staphylococcus aureus.|https://dx.doi.org/10.1096/fj.202300799R
 Profiling daptomycin resistance among diverse methicillin-resistant Staphylococcus aureus lineages in China.|https://dx.doi.org/10.1128/aac.00563-23
+Repeat-exposure in vitro protocol to assess the risk of antimicrobial resistance (AMR) development from use of personal care products: Case study using an antibacterial liquid handwash.|https://dx.doi.org/10.1016/j.mimet.2023.106851
+Multifunctional Chitosan Scaffold Platforms Loaded with Natural Polyphenolic Extracts for Wound Dressing Applications.|https://dx.doi.org/10.1021/acs.biomac.3c00727
+Characterisation of physicochemical parameters and antibacterial properties of New Caledonian honeys.|https://dx.doi.org/10.1371/journal.pone.0293730
+Injectable Self-Harden Antibiofilm Bioceramic Cement for Minimally Invasive Surgery.|https://dx.doi.org/10.1021/acsbiomaterials.3c00822
+Preparation, characterization, bacteriostatic efficacy, and mechanism of zinc/selenium-loaded sodium humate.|https://dx.doi.org/10.1007/s00253-023-12803-x
+The complex of tannic acid and cetylpyridinium chloride: An antibacterial and staining-removal cleaner for the aligners.|https://dx.doi.org/10.1016/j.ajodo.2023.08.012
+Comparative efficacy of vancomycin in treating ST5 and ST764 methicillin-resistant Staphylococcus aureus infections in adult patients.|https://dx.doi.org/10.1128/msphere.00457-23
+The novel bacteriocin romsacin from Staphylococcus haemolyticus inhibits Gram-positive WHO priority pathogens.|https://dx.doi.org/10.1128/spectrum.00869-23
+Experimental Research on the Effect of Tounong San on the Immune Function of Rats with Superficial Suppurative Infection.|https://dx.doi.org/10.2147/IDR.S420199
+Exploring the pathogenesis of osteomyelitis accompanied by diabetic foot ulcers using microarray data analysis.|https://dx.doi.org/10.1097/MD.0000000000033962
+Microbiome dysbiosis: a modifiable state and target to prevent Staphylococcus aureus infections and other diseases in neonates.|https://dx.doi.org/10.1038/s41372-023-01810-5
