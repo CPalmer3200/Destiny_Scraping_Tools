@@ -144,3 +144,22 @@ Blood coagulation, risk factors and associated complications in COVID-19 patient
 Examining the secondary impacts of the COVID-19 pandemic on syndemic production and PrEP use among gay, bisexual and other men who have sex with men (GBM) in Vancouver, Canada.|https://dx.doi.org/10.1186/s12889-023-17049-w
 Impact of employment on the elderly in a super-aging society during the COVID-19 pandemic in Japan.|https://dx.doi.org/10.1038/s41598-023-45270-5
 Antibody response and soluble mediator profile in the first six months following acute SARS-CoV-2 infection.|https://dx.doi.org/10.1038/s41598-023-43263-y
+Childhood adversity and COVID-19 outcomes in the UK Biobank.|https://dx.doi.org/10.1136/jech-2023-221147
+Cohort profile: recruitment and retention in a prospective cohort of Canadian healthcare workers during the COVID-19 pandemic.|https://dx.doi.org/10.1136/bmjopen-2023-074716
+COVID-19: A management update.|https://dx.doi.org/10.3949/ccjm.90a.22102
+Metagenomics in the Fight Against Zoonotic Viral Infections: A Focus on SARS-CoV-2 Analogues.|https://dx.doi.org/10.1016/j.jviromet.2023.114837
+Knowledge of COVID-19 symptoms, transmission, and prevention: Evidence from health and demographic surveillance in Southern Mozambique.|https://dx.doi.org/10.1371/journal.pgph.0002532
+Factors associated with compliance with Infection Prevention and Control measures during the COVID-19 pandemic among healthcare workers in Kampala City, Uganda.|https://dx.doi.org/10.1371/journal.pone.0293732
+Knowledge, attitudes and practices of French university students towards COVID-19 prevention-are health students better?|https://dx.doi.org/10.1371/journal.pone.0287716
+Seroprevalence of anti-SARS-CoV-2 antibodies before and after implementation of anti-COVID-19 vaccination among hospital staff in Bangui, Central African Republic.|https://dx.doi.org/10.1371/journal.pgph.0001497
+Doing what matters in times of stress: No-nonsense meditation and occupational well-being in COVID-19.|https://dx.doi.org/10.1371/journal.pone.0292406
+Cost-Effectiveness Analysis of Vaccines for COVID-19 According to Sex, Comorbidity and Socioeconomic Status: A Population Study.|https://dx.doi.org/10.1007/s40273-023-01326-y
+Cost-Effectiveness of the Second COVID-19 Booster Vaccination in the USA.|https://dx.doi.org/10.1007/s40258-023-00844-2
+Respiratory viral infections including COVID-19 in solid organ transplantation.|https://dx.doi.org/10.1097/MOT.0000000000001106
+The fourth COVID-19 vaccine dose increased the neutralizing antibody response against the SARS-CoV-2 Omicron (B.1.1.529) variant in a diverse Brazilian population.|https://dx.doi.org/10.1128/spectrum.02857-23
+Enhanced immunogenicity elicited by a novel DNA vaccine encoding the SARS-CoV-2 S1 protein fused to the optimized flagellin of Salmonella typhimurium in mice.|https://dx.doi.org/10.1128/spectrum.02549-23
+Depression, Anxiety, and Stress Among Medical Students During COVID-19 at Sultan Qaboos University in Oman.|https://dx.doi.org/10.7759/cureus.46211
+Editorial: Impact of coronavirus disease 2019 (COVID-19) pandemic on nosocomial infection.|https://dx.doi.org/10.3389/fmed.2023.1298645
+Distinct temporal trajectories and risk factors for Post-acute sequelae of SARS-CoV-2 infection.|https://dx.doi.org/10.3389/fmed.2023.1227883
+Psychological disorders and suicide attempts in youths during the pre-COVID and post-COVID era in a Taiwan pediatric emergency department.|https://dx.doi.org/10.3389/fpsyg.2023.1281806
+Two Cases of Thyroiditis in Adolescents Following COVID-19 Vaccinations.|https://dx.doi.org/10.1210/jcemcr/luad017

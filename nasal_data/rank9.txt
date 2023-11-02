@@ -107,3 +107,20 @@ The novel bacteriocin romsacin from Staphylococcus haemolyticus inhibits Gram-po
 Experimental Research on the Effect of Tounong San on the Immune Function of Rats with Superficial Suppurative Infection.|https://dx.doi.org/10.2147/IDR.S420199
 Exploring the pathogenesis of osteomyelitis accompanied by diabetic foot ulcers using microarray data analysis.|https://dx.doi.org/10.1097/MD.0000000000033962
 Microbiome dysbiosis: a modifiable state and target to prevent Staphylococcus aureus infections and other diseases in neonates.|https://dx.doi.org/10.1038/s41372-023-01810-5
+An experimental study on the addition of bacteria to residual anticancer drugs: evaluation of the effect on bacterial growth.|https://dx.doi.org/10.7883/yoken.JJID.2023.270
+Synthesis, Odour Characteristics, and Antimicrobial Activity of Optically Active (Z)-7-Decen-4-olide and Its Derivatives.|https://dx.doi.org/10.5650/jos.ess23098
+Sonocatalytic induced dye degradation and antibacterial performance of SrTiO(3) nanoparticles embedded cotton fabric.|https://dx.doi.org/10.1016/j.envres.2023.117541
+Graphene oxide-enhanced colorimetric detection of Mec A gene based on toehold-mediated strand displacement.|https://dx.doi.org/10.1016/j.ab.2023.115365
+Genetically encoded zinc-binding collagen-like protein hybrid hydrogels for wound repair.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127592
+Chitosan-based supramolecular aerogel with "skeletal structure" constructed in natural deep eutectic solvents for medical dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127720
+Study on the effect of blackcurrant extract - based preservative on model membranes and pathogenic bacteria.|https://dx.doi.org/10.1016/j.abb.2023.109806
+Preparation and characterization of zein-tannic acid nanoparticles/chitosan composite films and application in the preservation of sugar oranges.|https://dx.doi.org/10.1016/j.foodchem.2023.137673
+Left Atrial-Veno Arterial Extracorporeal Membrane Oxygenation as a Bridge to Surgery for Endocarditis-Related Acute Severe Aortic Regurgitation.|https://dx.doi.org/10.1097/MAT.0000000000002077
+Wall Teichoic Acid Mediates Staphylococcus aureus Binding to Endothelial Cells via the Scavenger Receptor LOX-1.|https://dx.doi.org/10.1021/acsinfecdis.3c00252
+Antibacterial Activity of Essential Oils Combinations based on Thymus broussonnetii, and Their Synergism with some Antibiotics.|https://dx.doi.org/10.1007/s00284-023-03510-x
+Septicemia due to Bacillus clausii after the use of probiotics. A complication to keep in mind.|https://dx.doi.org/10.32641/andespediatr.v94i3.4417
+Engineered probiotic Lactobacillus plantarum WCSF I for monitoring and treatment of Staphylococcus aureus infection.|https://dx.doi.org/10.1128/spectrum.01829-23
+Single-cell phenotypes revealed as a key biomarker in bacterial-fungal interactions: a case study of Staphylococcus and Malassezia.|https://dx.doi.org/10.1128/spectrum.00437-23
+In Vitro and In Silico Studies of Functionalized Polyurethane Surfaces toward Understanding Biologically Relevant Interactions.|https://dx.doi.org/10.1021/acsbiomaterials.3c01367
+A MXene@AgAu@PDA nanoplatform loaded with AgAu nanocages for enhancing catalytic activity and antibacterial performance.|https://dx.doi.org/10.1039/d3tb01755a
+Phase Change Material-Embedded Multifunctional Janus Nanofiber Dressing with Directional Moisture Transport, Controlled Release of Anti-Inflammatory Drugs, and Synergistic Antibacterial Properties.|https://dx.doi.org/10.1021/acsami.3c11903

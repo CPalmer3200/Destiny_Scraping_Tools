@@ -149,3 +149,9 @@ Comparison of Antimicrobial Activity of Injectable Platelet-Rich Fibrin (i-PRF) 
 Facilitating the structural characterisation of non-canonical amino acids in biomolecular NMR.|https://dx.doi.org/10.5194/mr-4-57-2023
 Elution profiles of metronidazole from calcium sulfate beads.|https://dx.doi.org/10.4142/jvs.23166
 Meningitis and sepsis caused by Streptococcus suis in an elderly woman: A CARE-compliant case report.|https://dx.doi.org/10.1097/MD.0000000000035780
+Corydalis Saxicola Bunting Total Alkaloid Eliminates Porphyromonas gingivalis strain 33277 Internalized into Macrophages by Inhibition of TLR2.|https://dx.doi.org/10.1016/j.micinf.2023.105244
+Perioperative daptomycin for prophylaxis of vancomycin-resistant Enterococcus infection in colonized liver transplant recipients.|https://dx.doi.org/10.1111/tid.14186
+Experience of the use of lock therapy in pediatric patients with central venous catheter.|https://dx.doi.org/10.32641/andespediatr.v94i3.4458
+Sulfonium-Cross-Linked Hyaluronic Acid-Based Self-Healing Hydrogel: Stimuli-responsive Drug Carrier with Inherent Antibacterial Activity to Counteract Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.1002/adhm.202302790
+Retrospective analysis of 10 cases with esophageal fistula after anterior surgery for cervical spine fracture.|https://dx.doi.org/10.1016/j.heliyon.2023.e21244
+Pharmacotechnical aspects of a stable probiotic formulation toward multidrug-resistance antibacterial activity: design and quality control.|https://dx.doi.org/10.1186/s12906-023-04224-0

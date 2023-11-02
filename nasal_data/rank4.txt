@@ -74,3 +74,13 @@ Society of Critical Care Medicine and the Infectious Diseases Society of America
 Enhanced Category-Based Risk Assessment for Neonatal Early-Onset Sepsis: A Prospective Observational Study.|https://dx.doi.org/10.1159/000534091
 CDC Recommendations for Hepatitis C Testing Among Perinatally Exposed Infants and Children - United States, 2023.|https://dx.doi.org/10.15585/mmwr.rr7204a1
 Successful Treatment of Sepsis-Induced Cardiomyopathy with Intra-Aortic Balloon Pumping: A Case Report and Literature Review.|https://dx.doi.org/10.12659/AJCR.941098
+The Comprehensive Complication Index versus Clavien-Dindo grading after laparoscopic and open D2-gastrectomy in the multicenter randomized LOGICA-trial.|https://dx.doi.org/10.1016/j.ejso.2023.107095
+Fetal Growth and Antenatal Testing in Uncomplicated Multiple Gestations.|https://dx.doi.org/10.1097/GRF.0000000000000815
+Earlier Screening of Infants With Perinatal Hepatitis C Exposure: A Key Step Towards Elimination.|https://dx.doi.org/10.1542/peds.2023-064242
+Deep immunological imprinting due to the ancestral spike in the current bivalent COVID-19 vaccine.|https://dx.doi.org/10.1016/j.xcrm.2023.101258
+Ultrasonic Bone Scalpel versus Conventional Technique for Thoracolumbar Spinal Decompression: A Prospective Randomized Controlled Trial.|https://dx.doi.org/10.1055/s-0043-1768627
+CDC's Adapting Clinical Guidelines for the Digital Age Lacks Real-World Context.|https://dx.doi.org/10.1097/JMQ.0000000000000152
+Trends in teicoplanin loading dose implementation from 2010 to 2019 and evaluation of safety and efficacy factors: a retrospective cohort study based on a Japanese administrative claims database.|https://dx.doi.org/10.1186/s40780-023-00304-y
+Efficacy and safety of using antibiotics to prevent post-operative complications in oral implant treatment: evidence-based review.|https://dx.doi.org/10.1038/s41405-023-00174-4
+Occupational Heat Stress Recommendation Compliance Attenuates Acute Kidney Injury Risk Compared to a Work-Rest Matched, Positive Control Scenario.|https://dx.doi.org/10.34067/KID.0000000000000288
+Stakeholders' perception of factors influencing adoption of a pediatric weight management intervention: a qualitative study.|https://dx.doi.org/10.3389/fpubh.2023.1045618

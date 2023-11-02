@@ -112,3 +112,22 @@ Effect of percutaneous endoscopic gastrostomy prior to oesophageal cancer surger
 Clinical Outcome in Patients With High-grade Soft-tissue Sarcoma Receiving Prosthetic Replacement After Tumor Resection of the Lower Extremities: Tokai Musculoskeletal Oncology Consortium Study.|https://dx.doi.org/10.21873/invivo.13372
 Clinical Significance of Controlling Nutritional Status (CONUT) Score in Patients With Colorectal Liver Metastases After Hepatectomy.|https://dx.doi.org/10.21873/invivo.13377
 Design of experiment (DoE) as a quality by design (QbD) tool to optimize formulations of lipid nanoparticles for nose-to-brain drug delivery.|https://dx.doi.org/10.1080/17425247.2023.2274902
+[Urological Comorbidities in an HIV-Infected Patient: A Case Report].|https://dx.doi.org/10.14989/ActaUrolJap_69_10_299
+Segmental testicular infarction secondary to protein C deficiency.|https://dx.doi.org/10.1136/bcr-2023-255915
+Long-Term outcome of Chest Wall and Diaphragm repair with Biological Materials.|https://dx.doi.org/10.1055/a-2202-4154
+Osteoporosis and Total Knee Arthroplasty: Higher 5-Year Implant-Related Complications.|https://dx.doi.org/10.1016/j.arth.2023.10.045
+Validation of the incidence of reported periprosthetic joint infections in total hip and knee arthroplasty in the Dutch Arthroplasty Register.|https://dx.doi.org/10.1016/j.arth.2023.10.040
+Fusarium oxysporum disseminated infection in a teenage patient with a relapse of acute lymphoblastic leukemia - Case report and review of the literature.|https://dx.doi.org/10.1016/j.jiac.2023.10.011
+Strange, Rare and Peculiar Symptoms of COVID-19 Cases Managed by Practitioners of the Homeopathy Help Network.|https://dx.doi.org/10.1055/s-0043-1771374
+Successful Surgical Management of Ruptured Hepatic Artery Pseudoaneurysm Post-Liver Retransplant: A Case Report.|https://dx.doi.org/10.1016/j.ijscr.2023.108989
+The modified cross-suture technique for loop stoma reversal: A technical note.|https://dx.doi.org/10.1016/j.asjsur.2023.10.078
+Analysis of Vacuum-Assisted Closure-Assisted Antibiotic Irrigation in Treatment of Severe Neurosurgical Central Nervous System Infections.|https://dx.doi.org/10.1089/sur.2023.129
+The clinical evaluation of the flapless placement of zygomatic implants: a randomized controlled trial.|https://dx.doi.org/10.11607/jomi.10443
+The yeast prion protein Sup35 initiates α-synuclein pathology in mouse models of Parkinson's disease.|https://dx.doi.org/10.1126/sciadv.adj1092
+Perioperative daptomycin for prophylaxis of vancomycin-resistant Enterococcus infection in colonized liver transplant recipients.|https://dx.doi.org/10.1111/tid.14186
+Sex differences in post-operative outcomes following non-cardiac surgery.|https://dx.doi.org/10.1371/journal.pone.0293638
+Successful Outpatient Treatment of Severe Diabetic-Foot Myositis and Osteomyelitis Caused by Extensively Drug-Resistant Enterococcus faecalis with Teicoplanin plus Rifampicin: A Case Report.|https://dx.doi.org/10.12659/AJCR.941337
+In Vivo Acute Toxicity and Therapeutic Potential of a Synthetic Peptide, DP1 in a Staphylococcus aureus Infected Murine Wound Excision Model.|https://dx.doi.org/10.1007/s12602-023-10176-1
+Evaluation of hemodynamic changes and patient-reported outcome measures in surgical therapy with or without intravenous sedation: a prospective controlled clinical study.|https://dx.doi.org/10.1007/s00784-023-05358-8
+A validation study of the 30-day questionnaire in the national Norwegian Tonsil Surgery Register: can we trust the data reported by the patients?|https://dx.doi.org/10.1007/s00405-023-08306-0
+Performance evaluation of the cobas SARS-CoV-2 Duo, a novel qualitative and quantitative assay, for the detection of SARS-CoV-2 RNA.|https://dx.doi.org/10.1128/spectrum.01369-23

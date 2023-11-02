@@ -10,3 +10,5 @@ Matrix-Mediated Delivery of Silver Nanoparticles for Prevention of Staphylococcu
 Associated Bacterial Coinfections in COVID-19-Positive Patients.|https://dx.doi.org/10.3390/medicina59101858
 Postoperative Staphylococcus aureus Infections in Patients With and Without Preoperative Colonization.|https://dx.doi.org/10.1001/jamanetworkopen.2023.39793
 The destruction of mucosal barriers, epithelial remodeling, and impaired mucociliary clearance: possible pathogenic mechanisms of Pseudomonas aeruginosa and Staphylococcus aureus in chronic rhinosinusitis.|https://dx.doi.org/10.1186/s12964-023-01347-2
+Prevalence of surgical site wound infection after spine surgery in nasal colonization of methicillin-resistant Staphylococcus aureus: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14470
+Prolonged mask wearing changed nasal microbial characterization of young adults during the COVID-19 pandemic in Shanghai, China.|https://dx.doi.org/10.3389/fimmu.2023.1266941
