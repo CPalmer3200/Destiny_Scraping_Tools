@@ -155,3 +155,6 @@ Experience of the use of lock therapy in pediatric patients with central venous 
 Sulfonium-Cross-Linked Hyaluronic Acid-Based Self-Healing Hydrogel: Stimuli-responsive Drug Carrier with Inherent Antibacterial Activity to Counteract Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.1002/adhm.202302790
 Retrospective analysis of 10 cases with esophageal fistula after anterior surgery for cervical spine fracture.|https://dx.doi.org/10.1016/j.heliyon.2023.e21244
 Pharmacotechnical aspects of a stable probiotic formulation toward multidrug-resistance antibacterial activity: design and quality control.|https://dx.doi.org/10.1186/s12906-023-04224-0
+Oral vancomycin treatment suppresses gut trypsin activity and preserves intestinal barrier function during EAE.|https://dx.doi.org/10.1016/j.isci.2023.108143
+Preparation of fish collagen and vancomycin microspheres based on microfluidic technology and its application in osteomyelitis.|https://dx.doi.org/10.3389/fbioe.2023.1249706
+Bismuth-Based Therapy: The New Therapy for Obese Patients Undergoing Gastric Bypass Surgery?|https://dx.doi.org/10.1007/s11695-023-06549-8

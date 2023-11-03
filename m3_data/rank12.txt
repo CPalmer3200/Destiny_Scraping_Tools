@@ -49,3 +49,4 @@ Septicemia due to Bacillus clausii after the use of probiotics. A complication t
 Solar reduced graphene oxide decorated with manganese dioxide nanostructures for brackish water desalination using asymmetric capacitive deionization.|https://dx.doi.org/10.1039/d3cp02984k
 A Case of Lymphocytic Infundibulo-neurohypophysitis Exhibiting Spontaneous Regression.|https://dx.doi.org/10.1210/jcemcr/luad020
 Diagnosis and Treatment of Hereditary Central Diabetes Insipidus in a Swiss Family With a Mutation in the AVP Gene.|https://dx.doi.org/10.1210/jcemcr/luac023
+Advanced capacitive deionization for ion selective separation: Insights into mechanism over a functional classification.|https://dx.doi.org/10.1016/j.chemosphere.2023.140601
