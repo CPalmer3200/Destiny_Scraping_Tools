@@ -84,3 +84,19 @@ Trends in teicoplanin loading dose implementation from 2010 to 2019 and evaluati
 Efficacy and safety of using antibiotics to prevent post-operative complications in oral implant treatment: evidence-based review.|https://dx.doi.org/10.1038/s41405-023-00174-4
 Occupational Heat Stress Recommendation Compliance Attenuates Acute Kidney Injury Risk Compared to a Work-Rest Matched, Positive Control Scenario.|https://dx.doi.org/10.34067/KID.0000000000000288
 Stakeholders' perception of factors influencing adoption of a pediatric weight management intervention: a qualitative study.|https://dx.doi.org/10.3389/fpubh.2023.1045618
+Three Cases of Catheter-related Bloodstream Infection Caused by Phialemonium curvata: A Case Report and Literature Review.|https://dx.doi.org/10.1097/INF.0000000000004142
+Key aspects of soft tissue management in fracture-related infection: recommendations from an international expert group.|https://dx.doi.org/10.1007/s00402-023-05073-9
+Global Otitis Media Incidence Changes During the COVID Pandemic: Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1002/lary.31125
+Functional and Radiological Outcomes Following Simultaneous Bilateral Total Hip Arthroplasty: Analysis of a Retrospective Series.|https://dx.doi.org/10.7759/cureus.46361
+Aneurysmal bone cyst arising from the surgically removed craniofacial fibrous dysplasia in the long-term follow-up: a case report.|https://dx.doi.org/10.7181/acfs.2023.00255
+EaveTubes for control of vector-borne diseases in Côte d'Ivoire: study protocol for a cluster randomized controlled trial.|https://dx.doi.org/10.1186/s13063-023-07639-9
+Emerging importance of multidrug-resistant Stenotrophomonas maltophilia infections in neonatal intensive care unit in a tertiary center in Turkey.|https://dx.doi.org/10.1016/j.pedneo.2023.04.019
+Postpartum Extended-Release Buprenorphine Tissue Necrosis.|https://dx.doi.org/10.1097/AOG.0000000000005425
+Association of High Body Mass Index With Postoperative Complications After Chest Masculinization Surgery.|https://dx.doi.org/10.1097/SAP.0000000000003737
+Tuberculosis Testing and Latent Tuberculosis Infection Treatment Practices Among Health Care Providers - United States, 2020-2022.|https://dx.doi.org/10.15585/mmwr.mm7244a2
+Metabolic syndrome and surgical complications: A systematic review and meta-analysis of 13 million individuals.|https://dx.doi.org/10.1097/JS9.0000000000000834
+Are Intra-operative Forced Air Warming Devices a Possible Source for Contamination During Hand Surgery?|https://dx.doi.org/10.7759/cureus.46287
+Bladder stone formation due to neglected double J stent: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001294
+10-day decitabine versus 3 + 7 chemotherapy followed by allografting in older patients with acute myeloid leukaemia: an open-label, randomised, controlled, phase 3 trial.|https://dx.doi.org/10.1016/S2352-3026(23)00273-9
+Mucorales-disseminated infection in burn wound.|https://dx.doi.org/10.1136/bcr-2022-253879
+Rare tuberculosis in recipients of allogeneic hematopoietic stem cell transplantation successfully treated with contezolid-a typical case report and literature review.|https://dx.doi.org/10.3389/fcimb.2023.1258561

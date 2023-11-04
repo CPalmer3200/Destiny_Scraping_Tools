@@ -131,3 +131,18 @@ In Vivo Acute Toxicity and Therapeutic Potential of a Synthetic Peptide, DP1 in 
 Evaluation of hemodynamic changes and patient-reported outcome measures in surgical therapy with or without intravenous sedation: a prospective controlled clinical study.|https://dx.doi.org/10.1007/s00784-023-05358-8
 A validation study of the 30-day questionnaire in the national Norwegian Tonsil Surgery Register: can we trust the data reported by the patients?|https://dx.doi.org/10.1007/s00405-023-08306-0
 Performance evaluation of the cobas SARS-CoV-2 Duo, a novel qualitative and quantitative assay, for the detection of SARS-CoV-2 RNA.|https://dx.doi.org/10.1128/spectrum.01369-23
+New-Onset of Herpes Simplex Keratitis After Blepharoplasty, Case Series and Review of the Literature.|https://dx.doi.org/10.1097/IOP.0000000000002453
+Endophthalmitis caused by Burkholderia cepacia complex (BCC): clinical characteristics, antibiotic susceptibilities, and treatment outcomes.|https://dx.doi.org/10.1186/s12348-023-00370-1
+Complications and secondary operations after non-operative and operative treatment of tibial plateau fractures: a population-based study of 562 patients with mean follow-up of 7 years.|https://dx.doi.org/10.1007/s00402-023-05102-7
+[Acetabular metastatic defect reconstruction using the modular revision support cup MRS-C].|https://dx.doi.org/10.1007/s00064-023-00834-6
+Intranasal immunisation with recombinant Toxoplasma gondii uridine phosphorylase confers resistance against acute toxoplasmosis in mice.|https://dx.doi.org/10.1051/parasite/2023047
+Nanocore-Shell Bone Filler Contained Mesoporous Silica Modified with Hydroxyapatite Precursors; Wrapped in a Natural Metal-Phenolic Network.|https://dx.doi.org/10.1021/acs.langmuir.3c02227
+Zone I Revision Finger Amputations Performed in the Emergency Department Compared With Those Performed in the Operating Room.|https://dx.doi.org/10.3928/01477447-20231027-04
+Do Children with Previous COVID Infection Have Hyposmia?|https://dx.doi.org/10.1002/lary.31147
+Incidence, Risk Factors and Management of Postoperative Complications in Horizontal Strabismus Surgery.|https://dx.doi.org/10.1080/08820538.2023.2275620
+Assembly of an inexpensive rat jugular catheter button based on a split-septum needleless intravenous system.|https://dx.doi.org/10.1016/j.mex.2023.102433
+Clinical Profile and Outcome Analysis of Ear-Nose-Throat Symptoms in SARS-CoV-2 Omicron Subvariant Infections.|https://dx.doi.org/10.3389/ijph.2023.1606403
+Necrotizing fasciitis wound after debridement could be successfully treated with negative-pressure wound therapy with instillation and dwelling: A case report.|https://dx.doi.org/10.1016/j.tcr.2023.100957
+Primary care drug therapy pharmacists in South Africa: Practice settings and conditions treated.|https://dx.doi.org/10.1016/j.rcsop.2023.100352
+Postoperative Swallowing Function in Patients with Deep Neck Infection.|https://dx.doi.org/10.1159/000533526
+First case of Cutibacterium avidum-infected pelvic lymphocele post-lymphadenectomy for endometrial cancer: A case report.|https://dx.doi.org/10.1016/j.heliyon.2023.e21396

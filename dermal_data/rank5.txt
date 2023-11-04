@@ -1,2 +1,3 @@
 The novel bacteriocin romsacin from Staphylococcus haemolyticus inhibits Gram-positive WHO priority pathogens.|https://dx.doi.org/10.1128/spectrum.00869-23
 Single-cell phenotypes revealed as a key biomarker in bacterial-fungal interactions: a case study of Staphylococcus and Malassezia.|https://dx.doi.org/10.1128/spectrum.00437-23
+Gold nanoparticle conjugation enhances berberine's antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1016/j.talanta.2023.125358

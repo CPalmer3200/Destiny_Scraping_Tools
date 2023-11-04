@@ -163,3 +163,20 @@ Editorial: Impact of coronavirus disease 2019 (COVID-19) pandemic on nosocomial 
 Distinct temporal trajectories and risk factors for Post-acute sequelae of SARS-CoV-2 infection.|https://dx.doi.org/10.3389/fmed.2023.1227883
 Psychological disorders and suicide attempts in youths during the pre-COVID and post-COVID era in a Taiwan pediatric emergency department.|https://dx.doi.org/10.3389/fpsyg.2023.1281806
 Two Cases of Thyroiditis in Adolescents Following COVID-19 Vaccinations.|https://dx.doi.org/10.1210/jcemcr/luad017
+Case Series With Streptococcus pyogenes-related Toxic Shock Syndrome in the Post-COVID Period.|https://dx.doi.org/10.1097/INF.0000000000004152
+Effectiveness of BNT162b2 Vaccine Against Omicron-SARS-CoV-2 Subvariants in Children 5-11 Years of Age in Quebec, Canada, January 2022 to January 2023.|https://dx.doi.org/10.1097/INF.0000000000004145
+Immunity to measles in COVID-19 era.|https://dx.doi.org/10.1080/21645515.2023.2274724
+Telehealth improves follow-up and monitoring of age-related macular degeneration during the COVID-19 pandemic.|https://dx.doi.org/10.1007/s10792-023-02906-9
+In silico identification of five binding sites on the SARS-CoV-2 spike protein and selection of seven ligands for such sites.|https://dx.doi.org/10.1080/07391102.2023.2278077
+AI-driven Discovery of Celecoxib and Dexamethasone for Exploring their Mode of Action as Human Interleukin (IL-6) Inhibitors to Treat COVID-19-induced Cytokine Storm in Humans.|https://dx.doi.org/10.2174/0113816128260449231017091824
+Evaluation of COVID-19 vaccine effectiveness in different high-risk facility types during a period of Delta variant dominance in the Republic of Korea: a cross-sectional study.|https://dx.doi.org/10.24171/j.phrp.2023.0188
+Coronavirus disease 2019 (COVID-19) impact on central-line-associated bloodstream infections (CLABSI): a systematic review.|https://dx.doi.org/10.1016/j.infpip.2023.100313
+Risk factors for health impairments in children after hospitalization for acute COVID-19 or MIS-C.|https://dx.doi.org/10.3389/fped.2023.1260372
+Psychological impact of COVID-19 and determinants among Spanish university students.|https://dx.doi.org/10.3389/fpubh.2023.1252849
+Optimized vaccine candidate MVA-S(3P) fully protects against SARS-CoV-2 infection in hamsters.|https://dx.doi.org/10.3389/fimmu.2023.1163159
+Specific immune responses after BNT162b2 mRNA vaccination and COVID-19 infection.|https://dx.doi.org/10.3389/fimmu.2023.1271353
+Surveillance, epidemiology, and impact of the coronavirus disease 2019 interventions on the incidence of enterovirus infections in Nanchang, China, 2010-2022.|https://dx.doi.org/10.3389/fmicb.2023.1251683
+Modelling the transmission and control of COVID-19 in Yangzhou city with the implementation of Zero-COVID policy.|https://dx.doi.org/10.3934/mbe.2023703
+A proposal for further developing fatigue-related post COVID-19 health states for burden of disease studies.|https://dx.doi.org/10.1186/s13690-023-01212-1
+An early warning precision public health approach for assessing COVID-19 vulnerability in the UK: the Moore-Hill Vulnerability Index (MHVI).|https://dx.doi.org/10.1186/s12889-023-17092-7
+A longitudinal study of Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels.|https://dx.doi.org/10.1186/s12917-023-03769-z

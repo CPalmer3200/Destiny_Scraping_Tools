@@ -124,3 +124,20 @@ Single-cell phenotypes revealed as a key biomarker in bacterial-fungal interacti
 In Vitro and In Silico Studies of Functionalized Polyurethane Surfaces toward Understanding Biologically Relevant Interactions.|https://dx.doi.org/10.1021/acsbiomaterials.3c01367
 A MXene@AgAu@PDA nanoplatform loaded with AgAu nanocages for enhancing catalytic activity and antibacterial performance.|https://dx.doi.org/10.1039/d3tb01755a
 Phase Change Material-Embedded Multifunctional Janus Nanofiber Dressing with Directional Moisture Transport, Controlled Release of Anti-Inflammatory Drugs, and Synergistic Antibacterial Properties.|https://dx.doi.org/10.1021/acsami.3c11903
+Cefazolin and Carbapenem Combination to Treat Persistent Methicillin-sensitive Staphylococcus aureus Bacteremia in Preterm Infants.|https://dx.doi.org/10.1097/INF.0000000000004155
+Characterization of Staphylococcus Species Isolates from Sheep Milk with Subclinical Mastitis: Antibiotic Resistance, Enterotoxins, and Biofilm Production.|https://dx.doi.org/10.1089/fpd.2023.0003
+Stiffness and Oligomer Content Affect the Initial Adhesion of Staphylococcus aureus to Polydimethylsiloxane Gels.|https://dx.doi.org/10.1021/acsami.3c11349
+Versatile Injectable Carboxymethyl Chitosan Hydrogel for Immediate Hemostasis, Robust Tissue Adhesion Barrier, and Antibacterial Applications.|https://dx.doi.org/10.1021/acsami.3c12027
+Aptamer and DNAzyme-Functionalized Cu-MOF Hybrid Nanozymes for the Monitoring and Management of Bacteria-Infected Wounds.|https://dx.doi.org/10.1021/acsami.3c10682
+Complete genome sequence of the bacterium Desemzia incerta isolated from the dorsal skin of a Yucatan pig.|https://dx.doi.org/10.1128/MRA.00519-23
+Core-Shell NiS@SrTiO(3) Nanorods on Titanium for Enhanced Osseointegration via Programmed Regulation of Bacterial Infection, Angiogenesis, and Osteogenesis.|https://dx.doi.org/10.1021/acsami.3c11995
+Strategies to combat Gram-negative bacterial resistance to conventional antibacterial drugs: a review.|https://dx.doi.org/10.24171/j.phrp.2022.0323
+Control of pathogenic bacteria using marine actinobacterial extract with antiquorum sensing and antibiofilm activity.|https://dx.doi.org/10.1186/s13104-023-06580-z
+In vitro and in silico prediction of antibacterial interaction between essential oils via graph embedding approach.|https://dx.doi.org/10.1038/s41598-023-46377-5
+Comparing the susceptibility to sanitizers, biofilm-forming ability, and biofilm resistance to quaternary ammonium and chlorine dioxide of 43 Salmonella enterica and Listeria monocytogenes strains.|https://dx.doi.org/10.1016/j.fm.2023.104380
+Changes in the behavior of Staphylococcus aureus strains in the presence of oxacillin under the effect of gamma radiation.|https://dx.doi.org/10.1016/j.envpol.2023.122843
+Long-term results of thoracofemoral bypass in the initial treatment of juxtarenal total aortic occlusion.|https://dx.doi.org/10.1016/j.avsg.2023.09.069
+Green synthesis of silver nanoparticles using Phlebopus portentosus polysaccharide and their antioxidant, antidiabetic, anticancer, and antimicrobial activities.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127579
+Gold nanoparticle conjugation enhances berberine's antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1016/j.talanta.2023.125358
+Antibiotic resistance of bacterial pathogens isolated from the conjunctiva in the Antibiotic Resistance Monitoring in Ocular micRoorganisms (ARMOR) surveillance study (2009-2021).|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116069
+Metataxonomic Sequencing to Assess Microbial Safety of Buffalo Yogurts in Amasra Region.|https://dx.doi.org/10.1089/fpd.2023.0082
