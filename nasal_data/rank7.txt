@@ -180,3 +180,14 @@ Modelling the transmission and control of COVID-19 in Yangzhou city with the imp
 A proposal for further developing fatigue-related post COVID-19 health states for burden of disease studies.|https://dx.doi.org/10.1186/s13690-023-01212-1
 An early warning precision public health approach for assessing COVID-19 vulnerability in the UK: the Moore-Hill Vulnerability Index (MHVI).|https://dx.doi.org/10.1186/s12889-023-17092-7
 A longitudinal study of Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels.|https://dx.doi.org/10.1186/s12917-023-03769-z
+Comparing self-medication and medical supervised treatment before hospitalization among patients with Covid-19: A retrospective case-control study.|https://dx.doi.org/10.1016/j.jiph.2023.10.023
+Determinants of passive antibody efficacy in SARS-CoV-2 infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/S2666-5247(23)00194-5
+Surveillance of COVID-19 and influenza A(H1N1) prevalence in China via medicine-based wastewater biomarkers.|https://dx.doi.org/10.1016/j.watres.2023.120783
+The Importance of Personal and Familial Factors on Breastfeeding Intention and Practices, and Postpartum Distress during the Pandemic: A Longitudinal Observational Study.|https://dx.doi.org/10.1007/s10995-023-03813-2
+Seeking outcomes under tight budgets: A case for health impact bonds in Post-COVID times.|https://dx.doi.org/10.1002/hpm.3727
+COVID-19 Vaccine Hesitancy Among US Adults: Safety and Effectiveness Perceptions and Messaging to Increase Vaccine Confidence and Intent to Vaccinate.|https://dx.doi.org/10.1177/00333549231204419
+The "new normal" of hygiene measures at the end of the COVID-19 epidemic: a survey among French dentists.|https://dx.doi.org/10.1186/s12913-023-10167-6
+COVID-19-related global health governance and population health priorities for health equity in G20 countries: a scoping review.|https://dx.doi.org/10.1186/s12939-023-02045-8
+Symptomatic MERS-CoV infection reduces the risk of future COVID-19 disease; a retrospective cohort study.|https://dx.doi.org/10.1186/s12879-023-08763-2
+Early and fair COVID-19 outcome risk assessment using robust feature selection.|https://dx.doi.org/10.1038/s41598-023-36175-4
+Aerosol delivery of SARS-CoV-2 human monoclonal antibodies in macaques limits viral replication and lung pathology.|https://dx.doi.org/10.1038/s41467-023-42440-x

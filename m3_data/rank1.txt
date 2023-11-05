@@ -16,3 +16,4 @@ Review of the Impact of Biofilm Formation on Recurrent Clostridioides difficile 
 Effects of Hyperbaric Oxygen Therapy for Clostridioides difficile-associated Colitis: A Retrospective Study.|https://dx.doi.org/10.23922/jarc.2023-033
 Clostridium paraputrificum Bacteremia in a Patient with Rectal Cancer after Receiving Antibiotic Therapy for Acute Pharyngolaryngitis.|https://dx.doi.org/10.2169/internalmedicine.2192-23
 Genetic variation in the human leukocyte antigen region confers susceptibility to Clostridioides difficile infection.|https://dx.doi.org/10.1038/s41598-023-45649-4
+Shengjiang Xiexin decoction mitigates murine Clostridium difficile infection through modulation of the gut microbiota and bile acid metabolism.|https://dx.doi.org/10.1016/j.jep.2023.117384

@@ -141,3 +141,17 @@ Green synthesis of silver nanoparticles using Phlebopus portentosus polysacchari
 Gold nanoparticle conjugation enhances berberine's antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1016/j.talanta.2023.125358
 Antibiotic resistance of bacterial pathogens isolated from the conjunctiva in the Antibiotic Resistance Monitoring in Ocular micRoorganisms (ARMOR) surveillance study (2009-2021).|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116069
 Metataxonomic Sequencing to Assess Microbial Safety of Buffalo Yogurts in Amasra Region.|https://dx.doi.org/10.1089/fpd.2023.0082
+Long-term antibacterial activity of silver-containing hydroxyapatite coatings against Staphylococcus aureus in vitro and invivo.|https://dx.doi.org/10.1016/j.jos.2023.10.009
+Profiling the in vivo RNA interactome associated with the endoribonuclease RNase III in Staphylococcus aureus.|https://dx.doi.org/10.1016/bs.mie.2023.05.001
+Fabrication of next-generation multifunctional LBG-s-agnps@ g-C(3)N(4) NS hybrid nanostructures for environmental applications.|https://dx.doi.org/10.1016/j.envres.2023.117540
+Study of the structure-function relationship of formate dehydrogenase- an important enzyme for Staphylococcus aureus biofilms by rational design.|https://dx.doi.org/10.1016/j.biochi.2023.10.016
+Ecotoxicity and rapid degradation of quaternary ammonium compounds (QACs) subjected to combined vacuum UV and UV-C treatment.|https://dx.doi.org/10.1016/j.chemosphere.2023.140584
+Identification of a Staphylococcus aureus amidase catalytic domain inhibitor to prevent biofilm formation by sequential virtual screening, molecular dynamics simulation and biological evaluation.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127842
+Photodynamic antibacterial application of TiO(2)/curcumin/hydroxypropyl-cyclodextrin and its konjac glucomannan composite films.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127716
+From garden to lab: C-3 chemical modifications of tomatidine unveil broad-spectrum ATP synthase inhibitors to combat bacterial resistance.|https://dx.doi.org/10.1016/j.ejmech.2023.115886
+Activated mesenchymal stem cells increase drug susceptibility of methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1007/s12223-023-01099-z
+Retraction Note: Systematic review and meta-analysis of the epidemiology of Vancomycin-resistance Staphylococcus aureus isolates.|https://dx.doi.org/10.1186/s13756-023-01327-8
+Reduced graphene oxide coated alginate scaffolds: potential for cardiac patch application.|https://dx.doi.org/10.1186/s40824-023-00449-9
+Improving the biocompatibility and antibacterial efficacy of silver nanoparticles functionalized with (LLRR)(3) antimicrobial peptide.|https://dx.doi.org/10.1007/s11274-023-03792-0
+Characterization of Brazilian green propolis as a photosensitizer for LED light-induced antimicrobial photodynamic therapy (aPDT) against methicillin-resistant Staphylococcus aureus (MRSA) and Vancomycin-intermediate Staphylococcus aureus (VISA).|https://dx.doi.org/10.1007/s43630-023-00495-1
+Green synthesis of biocompatible Fe(3)O(4) magnetic nanoparticles using Citrus Sinensis peels extract for their biological activities and magnetic-hyperthermia applications.|https://dx.doi.org/10.1038/s41598-023-46287-6

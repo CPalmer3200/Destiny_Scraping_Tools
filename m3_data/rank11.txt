@@ -163,3 +163,9 @@ Endophthalmitis caused by Burkholderia cepacia complex (BCC): clinical character
 Systemic non-steroidal immunomodulators for oral lichen planus treatment-a scoping review.|https://dx.doi.org/10.1007/s00784-023-05357-9
 The association between HIV and BV and metronidazole treatment failure for Trichomonas vaginalis.|https://dx.doi.org/10.1097/OLQ.0000000000001891
 Impact of doxycycline on Clostridioides difficile infection in patients hospitalized with community-acquired pneumonia.|https://dx.doi.org/10.1016/j.ajic.2023.09.007
+Flowchart for predicting achieving the target area under the concentration-time curve of vancomycin in critically ill Japanese patients: A multicenter retrospective study.|https://dx.doi.org/10.1016/j.jiac.2023.11.001
+Association of patient clinical and gut microbiota features with vancomycin-resistant enterococci environmental contamination in nursing homes: a retrospective observational study.|https://dx.doi.org/10.1016/S2666-7568(23)00188-5
+Environmental contamination contributing to the spread of vancomycin-resistant enterococci in nursing homes.|https://dx.doi.org/10.1016/S2666-7568(23)00197-6
+Activated mesenchymal stem cells increase drug susceptibility of methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1007/s12223-023-01099-z
+Retraction Note: Systematic review and meta-analysis of the epidemiology of Vancomycin-resistance Staphylococcus aureus isolates.|https://dx.doi.org/10.1186/s13756-023-01327-8
+Characterization of Brazilian green propolis as a photosensitizer for LED light-induced antimicrobial photodynamic therapy (aPDT) against methicillin-resistant Staphylococcus aureus (MRSA) and Vancomycin-intermediate Staphylococcus aureus (VISA).|https://dx.doi.org/10.1007/s43630-023-00495-1

@@ -4,3 +4,4 @@ Chitosan-based supramolecular aerogel with "skeletal structure" constructed in n
 Phase Change Material-Embedded Multifunctional Janus Nanofiber Dressing with Directional Moisture Transport, Controlled Release of Anti-Inflammatory Drugs, and Synergistic Antibacterial Properties.|https://dx.doi.org/10.1021/acsami.3c11903
 Sulfonium-Cross-Linked Hyaluronic Acid-Based Self-Healing Hydrogel: Stimuli-responsive Drug Carrier with Inherent Antibacterial Activity to Counteract Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.1002/adhm.202302790
 Versatile Injectable Carboxymethyl Chitosan Hydrogel for Immediate Hemostasis, Robust Tissue Adhesion Barrier, and Antibacterial Applications.|https://dx.doi.org/10.1021/acsami.3c12027
+Photodynamic antibacterial application of TiO(2)/curcumin/hydroxypropyl-cyclodextrin and its konjac glucomannan composite films.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127716

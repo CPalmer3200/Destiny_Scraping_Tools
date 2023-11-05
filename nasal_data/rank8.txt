@@ -146,3 +146,14 @@ Necrotizing fasciitis wound after debridement could be successfully treated with
 Primary care drug therapy pharmacists in South Africa: Practice settings and conditions treated.|https://dx.doi.org/10.1016/j.rcsop.2023.100352
 Postoperative Swallowing Function in Patients with Deep Neck Infection.|https://dx.doi.org/10.1159/000533526
 First case of Cutibacterium avidum-infected pelvic lymphocele post-lymphadenectomy for endometrial cancer: A case report.|https://dx.doi.org/10.1016/j.heliyon.2023.e21396
+Surgical and survival outcomes after robotic and open pancreatoduodenectomy for ampullary cancer: A propensity score-matching comparison.|https://dx.doi.org/10.1016/j.asjsur.2023.10.076
+Ehlers-Danlos Syndrome is Associated with Increased Rates of Adjacent Segment Disease Following TLIF: A Propensity Matched Study.|https://dx.doi.org/10.1016/j.wneu.2023.10.134
+Clinical significances of mutations in dihydropteroate synthase in Pneumocystis jirovecii pneumonia among non-HIV-infected patients.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107019
+Patient-specific instrumentation in total knee arthroplasty: a review of the current literature.|https://dx.doi.org/10.52628/89.2.11543
+Effectiveness and safety of a cement-on-cement removal system for hip and knee arthroplasty revision surgery.|https://dx.doi.org/10.52628/89.2.11562
+Acute dacryocystitis: changing practice pattern over the last three decades at a tertiary care setup.|https://dx.doi.org/10.1007/s00417-023-06300-0
+Surgical treatment of carotid blowout syndrome after radiotherapy for head and neck malignant tumors: a single-center experience.|https://dx.doi.org/10.1007/s10143-023-02193-z
+Lead Extraction Today: A Matter of Time or a Matter of Way?|https://dx.doi.org/10.1093/europace/euad325
+Empyema thoracic in a neonate co-infected with SARS-CoV-2 and staphylococcus arouse successfully treated with fibrinolysis: a brief report.|https://dx.doi.org/10.1186/s12887-023-04375-6
+Complication rates after proximal femoral nailing: does level of training matter?|https://dx.doi.org/10.1186/s10195-023-00737-z
+HLA allele-calling using multi-ancestry whole-exome sequencing from the UK Biobank identifies 129 novel associations in 11 autoimmune diseases.|https://dx.doi.org/10.1038/s42003-023-05496-5
