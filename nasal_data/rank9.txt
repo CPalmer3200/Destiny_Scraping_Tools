@@ -155,3 +155,10 @@ Reduced graphene oxide coated alginate scaffolds: potential for cardiac patch ap
 Improving the biocompatibility and antibacterial efficacy of silver nanoparticles functionalized with (LLRR)(3) antimicrobial peptide.|https://dx.doi.org/10.1007/s11274-023-03792-0
 Characterization of Brazilian green propolis as a photosensitizer for LED light-induced antimicrobial photodynamic therapy (aPDT) against methicillin-resistant Staphylococcus aureus (MRSA) and Vancomycin-intermediate Staphylococcus aureus (VISA).|https://dx.doi.org/10.1007/s43630-023-00495-1
 Green synthesis of biocompatible Fe(3)O(4) magnetic nanoparticles using Citrus Sinensis peels extract for their biological activities and magnetic-hyperthermia applications.|https://dx.doi.org/10.1038/s41598-023-46287-6
+Nutraceutical formulation for immune system modulation: Active constituents, in vitro antibacterial and immunomodulatory activity, and metabolomics analysis.|https://dx.doi.org/10.1002/ptr.7995
+Development and application of the MIRA and MIRA-LFD detection methods of Spiroplasma eriocheiris.|https://dx.doi.org/10.1016/j.jip.2023.108017
+Contemporary use of cefazolin for MSSA infective endocarditis: Analysis of a national prospective cohort.|https://dx.doi.org/10.1016/j.ijid.2023.10.019
+A high throughput microphysiological model of prosthetic valve endocarditis for investigating factors that influence bacterial adhesion under fluid shear stress.|https://dx.doi.org/10.1016/j.bbrc.2023.149155
+Synthesis and characterization of novel chitosan derivatives (containing dipyridinium quaternary salts) with antimicrobial potential.|https://dx.doi.org/10.1016/j.carres.2023.108964
+Cytotoxicity studies and antibacterial modification of poly(ethylene 2,5-furandicarboxylate) nonwoven.|https://dx.doi.org/10.1016/j.colsurfb.2023.113609
+Synthesis of silver nanoparticles from Ganoderma species and their activity against Multi drug resistant pathogens.|https://dx.doi.org/10.1002/cbdv.202301304

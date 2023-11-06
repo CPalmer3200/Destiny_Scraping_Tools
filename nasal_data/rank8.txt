@@ -157,3 +157,14 @@ Lead Extraction Today: A Matter of Time or a Matter of Way?|https://dx.doi.org/1
 Empyema thoracic in a neonate co-infected with SARS-CoV-2 and staphylococcus arouse successfully treated with fibrinolysis: a brief report.|https://dx.doi.org/10.1186/s12887-023-04375-6
 Complication rates after proximal femoral nailing: does level of training matter?|https://dx.doi.org/10.1186/s10195-023-00737-z
 HLA allele-calling using multi-ancestry whole-exome sequencing from the UK Biobank identifies 129 novel associations in 11 autoimmune diseases.|https://dx.doi.org/10.1038/s42003-023-05496-5
+Epidemiology of healthcare-associated infections and outcomes among open and robotic pancreatoduodenectomy: A retrospective study from 2013 to 2022.|https://dx.doi.org/10.1111/jgh.16391
+Simultaneous sinus elevation and immediate implant placement without biomaterial: a technical note.|https://dx.doi.org/10.1016/j.jormas.2023.101677
+Risk analysis and clinical outcomes in chronic limb-threatening ischemia patients with surgical site infection after distal bypass.|https://dx.doi.org/10.1016/j.avsg.2023.09.091
+The incidence and cost implications of surgical site infection following lymph node surgery for skin malignancy.|https://dx.doi.org/10.1016/j.bjps.2023.10.086
+Urinary retention complicated by hematocolpos in an adolescent girl: Case report.|https://dx.doi.org/10.1016/j.ijscr.2023.108934
+Safety and efficacy of high tracheostomy with inferior retraction of the thyroid isthmus.|https://dx.doi.org/10.1016/j.anl.2023.10.007
+Dissemination of bla(NDM-5)-carrying IncX3-type plasmid among non-clonal Escherichia coli strains colonising a dog with a skin infection caused by a carbapenem-resistant Klebsiella pneumoniae, United Kingdom.|https://dx.doi.org/10.1016/j.jiph.2023.10.048
+Nutrition support considerations in pediatric small bowel transplantation.|https://dx.doi.org/10.1002/ncp.11091
+Genome mining conformance to metabolite profile of Bacillus strains to control potato pathogens.|https://dx.doi.org/10.1038/s41598-023-46672-1
+Tetanus in a vaccinated soil expert - a case report.|https://dx.doi.org/10.1186/s12879-023-08780-1
+Natural language processing diagnosed behavioural disturbance phenotypes in the intensive care unit: characteristics, prevalence, trajectory, treatment, and outcomes.|https://dx.doi.org/10.1186/s13054-023-04695-0

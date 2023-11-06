@@ -191,3 +191,9 @@ COVID-19-related global health governance and population health priorities for h
 Symptomatic MERS-CoV infection reduces the risk of future COVID-19 disease; a retrospective cohort study.|https://dx.doi.org/10.1186/s12879-023-08763-2
 Early and fair COVID-19 outcome risk assessment using robust feature selection.|https://dx.doi.org/10.1038/s41598-023-36175-4
 Aerosol delivery of SARS-CoV-2 human monoclonal antibodies in macaques limits viral replication and lung pathology.|https://dx.doi.org/10.1038/s41467-023-42440-x
+[Impact of COVID-19 pandemic on the management of imported malaria in China].|https://dx.doi.org/10.16250/j.32.1374.2023009
+The effects of post-COVID-19 fatigue in nurses on organizational outcomes.|https://dx.doi.org/10.1111/nhs.13060
+A comprehensive review of ACE2, ACE1, TMPRSS2 and IFITM3 gene polymorphisms and their effect on the severity of COVID-19.|https://dx.doi.org/10.1016/j.advms.2023.10.010
+Study protocol: assessment of the usefulness and practicability of a psychoeducational intervention to prevent the negative psychological impact of the COVID-19 pandemic on primary care health workers.|https://dx.doi.org/10.1186/s12875-023-02187-2
+Vaccines and global health: COVID-19 vaccine development, strategy, and implementation symposium - Summary of the meeting at Vagelos College of Physicians and Surgeons (February 22-26, 2021, New York).|https://dx.doi.org/10.1016/j.vaccine.2023.10.052
+Bacterial respiratory infections in patients with COVID-19: A retrospective study from a tertiary care center in Lebanon.|https://dx.doi.org/10.1016/j.jiph.2023.10.026

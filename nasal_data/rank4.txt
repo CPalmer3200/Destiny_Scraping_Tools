@@ -102,3 +102,5 @@ Mucorales-disseminated infection in burn wound.|https://dx.doi.org/10.1136/bcr-2
 Rare tuberculosis in recipients of allogeneic hematopoietic stem cell transplantation successfully treated with contezolid-a typical case report and literature review.|https://dx.doi.org/10.3389/fcimb.2023.1258561
 Benefits of Coronectomy in Lower Third Molar Surgery: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1016/j.joms.2023.09.024
 Risk Factors for Surgical Site Infection after Lower Limb Revascularisation Surgery: a Systematic Review and Meta-Analysis of Prognostic Studies.|https://dx.doi.org/10.1016/j.ejvs.2023.10.038
+Racial and ethnic disparities in influenza vaccination coverage among pregnant women in the United States: The contribution of vaccine-related attitudes.|https://dx.doi.org/10.1016/j.ypmed.2023.107751
+Metronidazole prescribing practices in Australian hospitals: Measuring guideline compliance and appropriateness to support antimicrobial stewardship.|https://dx.doi.org/10.1016/j.jiph.2023.10.039
