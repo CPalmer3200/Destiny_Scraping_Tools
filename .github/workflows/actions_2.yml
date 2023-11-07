@@ -3,7 +3,7 @@ name: run monthly_nasal_review
 on:
   workflow_dispatch:
   schedule:
-    - cron: '35 02 24 * *' # At 02:35 UTC on the 24th day every month
+    - cron: '35 08 24 * *' # At 02:35 UTC on the 24th day every month
 
 jobs:
   build:
