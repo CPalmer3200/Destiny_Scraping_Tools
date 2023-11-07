@@ -3,7 +3,7 @@ name: run monthly_dermal_review
 on:
   workflow_dispatch:
   schedule:
-    - cron: '35 02 1 * *' # At 02:35 UTC on the 1st day every month
+    - cron: '35 08 1 * *' # At 02:35 UTC on the 1st day every month
 
 jobs:
   build:
