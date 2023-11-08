@@ -162,3 +162,22 @@ A high throughput microphysiological model of prosthetic valve endocarditis for 
 Synthesis and characterization of novel chitosan derivatives (containing dipyridinium quaternary salts) with antimicrobial potential.|https://dx.doi.org/10.1016/j.carres.2023.108964
 Cytotoxicity studies and antibacterial modification of poly(ethylene 2,5-furandicarboxylate) nonwoven.|https://dx.doi.org/10.1016/j.colsurfb.2023.113609
 Synthesis of silver nanoparticles from Ganoderma species and their activity against Multi drug resistant pathogens.|https://dx.doi.org/10.1002/cbdv.202301304
+Biocompatible Rhamnolipid Self-Assemblies with Ph-Responsive Antimicrobial Activity.|https://dx.doi.org/10.1002/adhm.202302596
+Impact of antimicrobial stewardship 2018 on severe pneumonia with bacterial infection in PICU.|https://dx.doi.org/10.1016/j.jgar.2023.10.017
+Multi-functionalization of cotton fabrics with excellent flame retardant, antibacterial and superhydrophobic properties.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127889
+Phytochemical study on ethyl acetate fraction of Lepidium obtusum Basin.|https://dx.doi.org/10.1016/j.fitote.2023.105733
+Synthesis, antimicrobial activity and molecular docking study of benzyl functionalized benzimidazole silver(I) complexes.|https://dx.doi.org/10.1007/s00775-023-02024-y
+Quaternary Ammonium Compounds (QACs) in Wastewater Influent and Effluent Throughout the COVID-19 Pandemic.|https://dx.doi.org/10.1021/acs.est.3c04413
+Comparison of genomic diversity between single and pooled Staphylococcus aureus colonies isolated from human colonization cultures.|https://dx.doi.org/10.1099/mgen.0.001111
+Antibacterial Activity of Quinoline-Based Derivatives against Methicillin-Resistant Staphylococcus aureus and Pseudomonas aeruginosa: Design, Synthesis, DFT and Molecular Dynamic Simulations.|https://dx.doi.org/10.1002/cbdv.202300804
+Hyperglycemia potentiates increased Staphylococcus aureus virulence and resistance to growth inhibition by Pseudomonas aeruginosa.|https://dx.doi.org/10.1128/spectrum.02299-23
+Draft genome sequence of a highly proteolytic Staphylococcus aureus USA300 isolate from human urine.|https://dx.doi.org/10.1128/MRA.00679-23
+[Eccema herpético en una paciente con dermatitis atópica].|https://dx.doi.org/10.29262/ram.v70i3.1212
+Bioactive compounds by UHPLC-MS/MS and molecular networking from Myrceugenia foveolata.|https://dx.doi.org/10.1080/14786419.2023.2278162
+Three new metabolites from the endophyte Fusarium proliferatum T2-10.|https://dx.doi.org/10.1080/14786419.2023.2278158
+Pyrazole: an emerging privileged scaffold in drug discovery.|https://dx.doi.org/10.4155/fmc-2023-0207
+Application of Multiplex Fluorescence Polymerase Chain Reaction for Detecting Pathogenic Bacteria in Sputum Samples from Patients with Lower Respiratory Tract Infection.|https://dx.doi.org/10.2147/IDR.S431425
+Bacterial isolates and antibiotic susceptibility among women with abnormal vaginal discharge attending the gynecology clinic at a tertiary hospital in southwestern Uganda: a cross-sectional study.|https://dx.doi.org/10.1186/s12905-023-02746-w
+Effect of DMPEI coating against biofilm formation on PVC catheter surface.|https://dx.doi.org/10.1007/s11274-023-03799-7
+The effects of antimicrobial photodynamic therapy (aPDT) with nanotechnology-applied curcumin and 450nm blue led irradiation on multi-species biofilms in root canals.|https://dx.doi.org/10.1007/s10103-023-03925-9
+Phytochemical analysis, biological activities of methanolic extracts and an isolated flavonoid from Tunisian Limoniastrum monopetalum (L.) Boiss: an in vitro and in silico investigations.|https://dx.doi.org/10.1038/s41598-023-46457-6

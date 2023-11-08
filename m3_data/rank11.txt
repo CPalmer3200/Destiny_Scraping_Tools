@@ -173,3 +173,10 @@ Bacillus cereus Sepsis in a Patient with Severe Alcoholic Hepatitis: A Case Repo
 Two into one does go: Formulation development of a multipurpose combination vaginal ring releasing dapivirine and metronidazole for prevention of HIV infection and treatment of bacterial vaginosis.|https://dx.doi.org/10.1016/j.ijpharm.2023.123572
 Detection of multidrug-resistant Campylobacter species from food-producing animals and humans in Nigeria: Public health implications and one health control measures.|https://dx.doi.org/10.1016/j.cimid.2023.102083
 Metronidazole prescribing practices in Australian hospitals: Measuring guideline compliance and appropriateness to support antimicrobial stewardship.|https://dx.doi.org/10.1016/j.jiph.2023.10.039
+Pyrazole: an emerging privileged scaffold in drug discovery.|https://dx.doi.org/10.4155/fmc-2023-0207
+Molecular characterization and biofilm formation ability of Enterococcus faecium and Enterococcus faecalis bloodstream isolates from a Chinese tertiary hospital in Beijing.|https://dx.doi.org/10.1007/s10123-023-00441-2
+Topical Vancomycin for Prevention of Surgical Site Infection in Cranial Surgeries: Results of an Updated Systematic Review, Meta-Analysis and Meta-Regression.|https://dx.doi.org/10.4103/0028-3886.388107
+Combinatorial efficacy of Manuka honey and antibiotics in the in vitro control of staphylococci and their small colony variants.|https://dx.doi.org/10.3389/fcimb.2023.1219984
+Recurrent amebic liver abscesses despite metronidazole treatment: A rare case report.|https://dx.doi.org/10.1002/ccr3.8138
+Method for determination of elemental impurities in metronidazole benzoate using inductively coupled plasma mass spectrometry.|https://dx.doi.org/10.1177/14690667231211696
+Fosfomycin as salvage therapy for persistent methicillin-resistant Staphylococcus aureus bacteremia: A case series and review of the literature.|https://dx.doi.org/10.1016/j.jiac.2023.10.024

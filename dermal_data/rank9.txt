@@ -3,3 +3,5 @@ A Staphylococcus capitis strain with unusual bacteriocin production.|https://dx.
 Single-center, prospective, and observational study on the management and treatment of impetigo in a pediatric population.|https://dx.doi.org/10.26355/eurrev_202310_33955
 [Practicability of the German guidelines on skin and soft tissue infections].|https://dx.doi.org/10.1007/s00105-023-05229-z
 A systematic review regarding the prevalence of malignancy in patients with the hyper-IgE syndrome.|https://dx.doi.org/10.1007/s10238-023-01228-5
+Significant increase in the prevalence of Panton-Valentine leukocidin-positive methicillin-resistant Staphylococcus aureus, particularly the USA300 variant ΨUSA300, in the Japanese community.|https://dx.doi.org/10.1128/spectrum.01248-23
+Variable staphyloxanthin production by Staphylococcus aureus drives strain-dependent effects on diabetic wound-healing outcomes.|https://dx.doi.org/10.1016/j.celrep.2023.113281

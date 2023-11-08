@@ -5,3 +5,4 @@ Australian vaccine preventable disease epidemiological review series: tetanus 20
 Re: 'the effect of antibiotic therapy for Clostridioides difficile infection on mortality and other patient-relevant outcomes' by Stabholz et al.|https://dx.doi.org/10.1016/j.cmi.2023.10.015
 Intracranial germinoma combined with parathyroid adenoma in a male pediatric patient: A case report.|https://dx.doi.org/10.1177/2050313X231207561
 Comparing Oral Versus Intravenous Antibiotics Administration for Cellulitis Infection: Protocol for a Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2196/48342
+Impact of a Pharmacist-Conducted Preoperative Beta-Lactam Allergy Assessment on Perioperative Cefazolin Prescribing.|https://dx.doi.org/10.1177/08971900231214581

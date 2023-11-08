@@ -168,3 +168,21 @@ Nutrition support considerations in pediatric small bowel transplantation.|https
 Genome mining conformance to metabolite profile of Bacillus strains to control potato pathogens.|https://dx.doi.org/10.1038/s41598-023-46672-1
 Tetanus in a vaccinated soil expert - a case report.|https://dx.doi.org/10.1186/s12879-023-08780-1
 Natural language processing diagnosed behavioural disturbance phenotypes in the intensive care unit: characteristics, prevalence, trajectory, treatment, and outcomes.|https://dx.doi.org/10.1186/s13054-023-04695-0
+A combination of annual and nonannual forces drive respiratory disease in the tropics.|https://dx.doi.org/10.1136/bmjgh-2023-013054
+Single-stage surgical procedure for patients with primary esophageal and lung cancers.|https://dx.doi.org/10.1055/a-2205-2479
+Effect of laparoscopic versus open surgery on postoperative wound complications in patients with low rectal cancer: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14471
+Comparison of safety and efficiency between sequential simultaneous bilateral and staged bilateral total knee arthroplasty at a high-volume center: a retrospective cohort study.|https://dx.doi.org/10.52628/89.3.11954
+Influence of antiseptic lavage during tibial plateau leveling osteotomies on surgical site infection in 1422 dogs.|https://dx.doi.org/10.1111/vsu.14050
+Biocontrol of biofilm forming Burkholderia cepacia using a quorum quenching crude lactonase enzyme extract from a marine Chromohalobacter sp. strain D23.|https://dx.doi.org/10.1007/s00203-023-03712-8
+A Novel Approach to Reduce Lid Weight in the Upper Eyelid Blepharoplasty: Split-Thickness Excision of the Palpebral Part of Orbicularis Oculi Muscle.|https://dx.doi.org/10.1097/SCS.0000000000009831
+Body Mass Index Effect on Minimally Invasive Ventral Hernia Repair: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1097/SLE.0000000000001235
+Molecular subtypes of Adenovirus-associated acute respiratory infection outbreak in children in Northern Vietnam and risk factors of more severe cases.|https://dx.doi.org/10.1371/journal.pntd.0011311
+Trachoma risk factors in Oromia Region, Ethiopia.|https://dx.doi.org/10.1371/journal.pntd.0011679
+Comparison of two endoscopic perichondrium-cartilage graft underlay myringoplasty for large perforations: a randomized controlled trial.|https://dx.doi.org/10.1007/s00405-023-08295-0
+Hydrocephalus in prematurity: does valve choice make a difference?|https://dx.doi.org/10.1007/s00381-023-06204-8
+Surgical versus non-surgical interventions for displaced intra-articular calcaneal fractures.|https://dx.doi.org/10.1002/14651858.CD008628.pub3
+The long-term quality of life following liver transplantation in a developing country with a free health care system.|https://dx.doi.org/10.4038/cmj.v67i3.9695
+The Outcome of Sac Filling With Fibrin Sealant and Gentamicin After Endovascular Aortic Repair of Brucella-Related Aorto-Iliac Artery Aneurysms: A Retrospective Single-Center Study.|https://dx.doi.org/10.1177/15266028231209943
+When the Lung Refuses to Expand: A Deep Dive Into a Pneumothorax Ex Vacuo Case.|https://dx.doi.org/10.7759/cureus.46565
+Uncommon Complications of Cystoscopy: Presentations of Concurrent Perirenal Hematoma and Candida albicans Sepsis.|https://dx.doi.org/10.7759/cureus.46602
+Silastic Joint Arthroplasty as a Joint-Preserving Alternative for End-Stage Hallux Rigidus: Outcomes From 112 First Metatarsophalangeal Joint Arthroplasties.|https://dx.doi.org/10.7759/cureus.46561

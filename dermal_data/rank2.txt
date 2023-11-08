@@ -5,3 +5,7 @@ Pycnoporus sanguineus Polysaccharides as Reducing Agents: Self-Assembled Composi
 Microbiome of limb-threatening diabetic foot ulcers indicates the association of fastidious Stenotrophomonas and major amputation.|https://dx.doi.org/10.1016/j.jmii.2023.10.007
 Redefining Foot Symptoms in a Kidney-Pancreas-Transplanted Type 1 Diabetic Patient: Challenging the Conventional Charcot Foot Diagnosis.|https://dx.doi.org/10.12659/AJCR.939071
 Contemporary Medical Management of Peripheral Arterial Disease.|https://dx.doi.org/10.1007/s10557-023-07516-2
+Consenso de expertos sobre la eficacia clínica y directrices sobre la terapia de oxígeno transdérmico continuo para la cicatrización de las heridas complejas o difíciles de cicatrizar.|https://dx.doi.org/10.12968/jowc.2023.32.LatAm_sup_10.1
+Use of Traditional Remedies for Treatment of Diabetic Foot Ulcers: A Cross-Sectional Study at a Tertiary Center in Saudi Arabia.|https://dx.doi.org/10.1177/15347346231211372
+Towards Standardization of Phage Susceptibility Testing: The Israeli Phage Therapy Center "Clinical Phage Microbiology"-A Pipeline Proposal.|https://dx.doi.org/10.1093/cid/ciad514
+Automatic foot ulcer segmentation using conditional generative adversarial network (AFSegGAN): A wound management system.|https://dx.doi.org/10.1371/journal.pdig.0000344

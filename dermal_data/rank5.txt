@@ -2,3 +2,5 @@ The novel bacteriocin romsacin from Staphylococcus haemolyticus inhibits Gram-po
 Single-cell phenotypes revealed as a key biomarker in bacterial-fungal interactions: a case study of Staphylococcus and Malassezia.|https://dx.doi.org/10.1128/spectrum.00437-23
 Gold nanoparticle conjugation enhances berberine's antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1016/j.talanta.2023.125358
 Long-term antibacterial activity of silver-containing hydroxyapatite coatings against Staphylococcus aureus in vitro and invivo.|https://dx.doi.org/10.1016/j.jos.2023.10.009
+Discovery of new quaternized norharmane dimers as potential anti-MRSA agents.|https://dx.doi.org/10.1016/j.jare.2023.11.005
+Hyperbaric oxygen therapy counteracts Pseudomonas aeruginosa biofilm micro-compartment phenomenon in murine thermal wounds.|https://dx.doi.org/10.1016/j.bioflm.2023.100159

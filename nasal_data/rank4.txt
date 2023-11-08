@@ -104,3 +104,16 @@ Benefits of Coronectomy in Lower Third Molar Surgery: A Systematic Review and Me
 Risk Factors for Surgical Site Infection after Lower Limb Revascularisation Surgery: a Systematic Review and Meta-Analysis of Prognostic Studies.|https://dx.doi.org/10.1016/j.ejvs.2023.10.038
 Racial and ethnic disparities in influenza vaccination coverage among pregnant women in the United States: The contribution of vaccine-related attitudes.|https://dx.doi.org/10.1016/j.ypmed.2023.107751
 Metronidazole prescribing practices in Australian hospitals: Measuring guideline compliance and appropriateness to support antimicrobial stewardship.|https://dx.doi.org/10.1016/j.jiph.2023.10.039
+Optimizing prophylactic antibiotic use among surgery patients in Ethiopian hospitals.|https://dx.doi.org/10.1016/j.jiph.2023.10.037
+[A multicenter study to test the reliability and validity of the frailty assessment scale for elderly patients with inguinal hernia and to evaluate the value of clinical application].|https://dx.doi.org/10.3760/cma.j.cn112139-20230131-00043
+Impact of a Pharmacist-Conducted Preoperative Beta-Lactam Allergy Assessment on Perioperative Cefazolin Prescribing.|https://dx.doi.org/10.1177/08971900231214581
+A rare case of perforated gastric lymphoma presenting a life-threatening condition: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109010
+Effects of mask use on cardiopulmonary functions and coronaphobia in the COVID-19 pandemic: an observational study among university students.|https://dx.doi.org/10.4103/2045-9912.385440
+Comparison of adding magnesium sulfate, dexmedetomidine and ondansetron to lidocaine for gargling before laryngoscopy and endotracheal intubation to prevent sore throat: a randomized clinical trial.|https://dx.doi.org/10.4103/2045-9912.372664
+Topical Vancomycin for Prevention of Surgical Site Infection in Cranial Surgeries: Results of an Updated Systematic Review, Meta-Analysis and Meta-Regression.|https://dx.doi.org/10.4103/0028-3886.388107
+OralOpioids: Harnessing R Programming and Data Science to Combat Opioid Misuse.|https://dx.doi.org/10.1177/23333928231208251
+Examining the Efficacy of Drain Tip Cultures in Predicting Postoperative Surgical Site Infections in Hip Arthroplasty: A 15-Year Retrospective Study.|https://dx.doi.org/10.7759/cureus.46395
+An Interactive E-learning Platform-Based Training to Improve Intensive Care Professionals' Knowledge Regarding Central Venous Catheter-Related Infections.|https://dx.doi.org/10.7759/cureus.46399
+Glomerulonephritis Associated With Infected Cardiac Pacemaker Lead Mimics Infective Endocarditis-Associated Glomerulonephritis With Resolution After Lead Removal: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.46471
+Methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa community acquired pneumonia: Prevalence and locally derived risk factors in a single hospital system.|https://dx.doi.org/10.1002/emp2.13061
+Wound management across Australian and New Zealand pediatric cardiac services: a cross-sectional survey.|https://dx.doi.org/10.1017/S1047951123003025

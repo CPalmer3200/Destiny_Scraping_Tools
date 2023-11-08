@@ -4,3 +4,5 @@ Hydatid Cyst of the Thigh: A Report of a Rare Case With Literature Review.|https
 Management of Biofilm with Breast Implant Surgery.|https://dx.doi.org/10.1097/PRS.0000000000010791
 Effect of radiation therapy during surgery on postoperative wound complications after breast reconstruction in patients with breast cancer: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14473
 A case of sacrococcygeal teratoma associated with antenatally acquired urethrovaginal fistula and hydrocolpos.|https://dx.doi.org/10.1186/s40792-023-01772-y
+Mastitis and Mammary Abscess Management Audit (MAMMA) in the UK and Ireland.|https://dx.doi.org/10.1093/bjs/znad333
+Successful fat-only whole breast reconstruction using cultured mature adipocytes and conditioned medium containing MCP-1.|https://dx.doi.org/10.1038/s41598-023-45169-1

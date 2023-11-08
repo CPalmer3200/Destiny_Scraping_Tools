@@ -55,3 +55,6 @@ Strategies to combat Gram-negative bacterial resistance to conventional antibact
 Al(8) Cluster-Based Metal Halide Frameworks: Balancing Singlet-Triplet Excited States to Achieve White Light and Multicolor Luminescence.|https://dx.doi.org/10.1002/smll.202306713
 'The Effect of Antibiotic Therapy for Clostridioides difficile Infection on Mortality and Other Patient-Relevant Outcomes' - Author's reply.|https://dx.doi.org/10.1016/j.cmi.2023.10.028
 Rapid detection of gastrointestinal pathogens using a multiplex polymerase chain reaction gastrointestinal panel and its role in antimicrobial stewardship.|https://dx.doi.org/10.1016/j.jmii.2023.10.004
+Risk factors associated with development of colitis in horses post-exploratory laparotomy.|https://dx.doi.org/10.1111/evj.14028
+Impact of Reducing Time-to-Antibiotics on Sepsis Mortality, Antibiotic Use, and Adverse Events.|https://dx.doi.org/10.1513/AnnalsATS.202306-505OC
+Clostridium difficile Bacteremia as a Rare Presentation of Polymicrobial Pyogenic Liver Abscesses and Its Management Challenges.|https://dx.doi.org/10.1159/000531892
