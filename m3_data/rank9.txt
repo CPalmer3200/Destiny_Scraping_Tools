@@ -1,6 +1,0 @@
-Detection of multiple human enteropathogens in Norway rats (Rattus norvegicus) from an under-resourced neighborhood of Vancouver, British Columbia.|https://dx.doi.org/10.1371/journal.pntd.0011669
-Research progress on the regulation of oxidative stress by phenolics: The role of gut microbiota and Nrf2 signaling pathway.|https://dx.doi.org/10.1002/jsfa.13062
-Enteric Infection at Flare of Inflammatory Bowel Disease Impacts Outcomes at 2 Years.|https://dx.doi.org/10.1093/ibd/izad253
-Recent trends and risk factors associated with Clostridioides difficile infections in hospitalized patients with inflammatory bowel disease.|https://dx.doi.org/10.1111/apt.17777
-Gut Microbiota Associated with Clostridioides difficile Carriage in Three Clinical Groups (Inflammatory Bowel Disease, C. difficile Infection and Healthcare Workers) in Hospital Field.|https://dx.doi.org/10.3390/microorganisms11102527
-Non-viral pathogens of infectious diarrhoea post-allogeneic stem cell transplantation are associated with graft-versus-host disease.|https://dx.doi.org/10.1007/s00277-023-05526-6
