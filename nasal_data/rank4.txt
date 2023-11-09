@@ -117,3 +117,14 @@ An Interactive E-learning Platform-Based Training to Improve Intensive Care Prof
 Glomerulonephritis Associated With Infected Cardiac Pacemaker Lead Mimics Infective Endocarditis-Associated Glomerulonephritis With Resolution After Lead Removal: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.46471
 Methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa community acquired pneumonia: Prevalence and locally derived risk factors in a single hospital system.|https://dx.doi.org/10.1002/emp2.13061
 Wound management across Australian and New Zealand pediatric cardiac services: a cross-sectional survey.|https://dx.doi.org/10.1017/S1047951123003025
+How standardised are antibiotic regimens in otologic surgery?|https://dx.doi.org/10.1186/s40463-023-00669-y
+Characteristics of hemoglobin distributions in preschool children and non-pregnant women of reproductive age and their implications for establishing quality control criteria for hemoglobin data in field surveys: evidence from 483 surveys conducted in refugee settings worldwide.|https://dx.doi.org/10.1186/s12963-023-00315-9
+Public opinion of resident physician work hours in 2022.|https://dx.doi.org/10.1016/j.sleh.2023.08.016
+Malakoplakia mimicking malignant ovarian tumor: A case report and literature review.|https://dx.doi.org/10.1016/j.ijscr.2023.109012
+Limitations of Sexual Orientation and Gender Identity Information as Reported in the National Violent Death Reporting System.|https://dx.doi.org/10.1089/lgbt.2022.0297
+In focus: perplexing increase of urinary stone disease in children, adolescent and young adult women and its economic impact.|https://dx.doi.org/10.3389/fmed.2023.1272900
+Arthritis Foundation/HSS Workshop on Hip Osteoarthritis, Part 1: Epidemiology, Early Development, and Cohorts From Around the World.|https://dx.doi.org/10.1177/15563316231189748
+Aortic Valve Replacement: A Case of Aortic Valve Insufficiency Secondary to Infective Endocarditis.|https://dx.doi.org/10.7759/cureus.46628
+When a pandemic and epidemic collide: Lessons learned about how system barriers can interrupt implementation of addiction research.|https://dx.doi.org/10.1177/26334895231205890
+Adoption and Discontinuance of Innovation Packages: A Longitudinal Study of Transitions in COVID-19 Mitigation.|https://dx.doi.org/10.1080/10410236.2023.2275911
+Machine learning models to predict surgical case duration compared to current industry standards: scoping review.|https://dx.doi.org/10.1093/bjsopen/zrad113

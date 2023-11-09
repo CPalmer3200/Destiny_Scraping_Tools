@@ -5,3 +5,5 @@ Single-center, prospective, and observational study on the management and treatm
 A systematic review regarding the prevalence of malignancy in patients with the hyper-IgE syndrome.|https://dx.doi.org/10.1007/s10238-023-01228-5
 Significant increase in the prevalence of Panton-Valentine leukocidin-positive methicillin-resistant Staphylococcus aureus, particularly the USA300 variant ΨUSA300, in the Japanese community.|https://dx.doi.org/10.1128/spectrum.01248-23
 Variable staphyloxanthin production by Staphylococcus aureus drives strain-dependent effects on diabetic wound-healing outcomes.|https://dx.doi.org/10.1016/j.celrep.2023.113281
+Purification, characterization, and cloning of a novel pro-inflammatory secreted protein from Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.02898-23
+Comparison of genomic diversity between single and pooled Staphylococcus aureus colonies isolated from human colonization cultures.|https://dx.doi.org/10.1099/mgen.0.001111

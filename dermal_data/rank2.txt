@@ -9,3 +9,6 @@ Consenso de expertos sobre la eficacia clínica y directrices sobre la terapia d
 Use of Traditional Remedies for Treatment of Diabetic Foot Ulcers: A Cross-Sectional Study at a Tertiary Center in Saudi Arabia.|https://dx.doi.org/10.1177/15347346231211372
 Towards Standardization of Phage Susceptibility Testing: The Israeli Phage Therapy Center "Clinical Phage Microbiology"-A Pipeline Proposal.|https://dx.doi.org/10.1093/cid/ciad514
 Automatic foot ulcer segmentation using conditional generative adversarial network (AFSegGAN): A wound management system.|https://dx.doi.org/10.1371/journal.pdig.0000344
+Use of a Skin-Covering Pocket as a Local Flap and Negative Pressure Wound Therapy with Instillation and Dwell Time/Negative Pressure Wound Therapy for the Treatment of Diabetic Foot Ulcer with Calcaneal Osteomyelitis: A Case Report.|https://dx.doi.org/10.7547/21-061
+A 2-Stage Approach in Managing Diabetic Forefoot Ulcers.|https://dx.doi.org/10.1177/10711007231191132
+Exploration of the common pathogenic link between COVID-19 and diabetic foot ulcers: An in silico approach.|https://dx.doi.org/10.1002/hsr2.1686

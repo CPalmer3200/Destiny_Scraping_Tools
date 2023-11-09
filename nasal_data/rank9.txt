@@ -181,3 +181,23 @@ Bacterial isolates and antibiotic susceptibility among women with abnormal vagin
 Effect of DMPEI coating against biofilm formation on PVC catheter surface.|https://dx.doi.org/10.1007/s11274-023-03799-7
 The effects of antimicrobial photodynamic therapy (aPDT) with nanotechnology-applied curcumin and 450nm blue led irradiation on multi-species biofilms in root canals.|https://dx.doi.org/10.1007/s10103-023-03925-9
 Phytochemical analysis, biological activities of methanolic extracts and an isolated flavonoid from Tunisian Limoniastrum monopetalum (L.) Boiss: an in vitro and in silico investigations.|https://dx.doi.org/10.1038/s41598-023-46457-6
+A novel pyrazolone complex P-FAH-Cu-bpy induces death of Escherichia coli and Staphylococcus aureus by disrupting cell structure and blocking energy.|https://dx.doi.org/10.1007/s00203-023-03714-6
+Pickering emulsions as an effective route for the preparation of bioactive composites: A study of nanocellulose/polyaniline particles with immunomodulatory effect.|https://dx.doi.org/10.1016/j.carbpol.2023.121429
+Thymol incorporation within chitosan/polyethylene oxide nanofibers by concurrent coaxial electrospinning and in-situ crosslinking from core-out for active antibacterial packaging.|https://dx.doi.org/10.1016/j.carbpol.2023.121381
+Preparation of bacterial cellulose-based antibacterial membranes with prolonged release of drugs: Emphasis on the chemical structure of drugs.|https://dx.doi.org/10.1016/j.carbpol.2023.121379
+Cold atmospheric plasma for surface disinfection. A promising weapon against deleterious MRSA biofilms.|https://dx.doi.org/10.1016/j.jhin.2023.10.014
+Preparation of Ag@lignin nanotubes for the development of antimicrobial biodegradable films from corn straw.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127630
+Ethyl cellulose/gelatin/β-cyclodextrin/curcumin nanofibrous membrane with antibacterial and formaldehyde adsorbable capabilities for lightweight and high-performance air filtration.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127862
+Multifunctional natural microneedles based methacrylated Bletilla striata polysaccharide for repairing chronic wounds with bacterial infections.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127914
+Antibacterial and hemostatic chitin sponge directly constructed from Pleurotus Eryngii via top-down approach.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127902
+Isolation, characterization and screening of actinomycetes associated with fijian ant-plant symbioses.|https://dx.doi.org/10.1099/mic.0.001410
+Carbon-infiltrated carbon nanotubes inhibit the development of Staphylococcus aureus biofilms.|https://dx.doi.org/10.1038/s41598-023-46748-y
+Multidrug Efflux System-mediated resistance in Staphylococcus aureus under a One Health approach.|https://dx.doi.org/10.1007/s11274-023-03793-z
+Sucralfate Prevents Pin Site Infections of External Fixators in Open Tibia Fractures.|https://dx.doi.org/10.1615/JLongTermEffMedImplants.2023044966
+Routine Metagenomics Service for Intensive Care Unit Patients with Respiratory Infection.|https://dx.doi.org/10.1164/rccm.202305-0901OC
+Purification, characterization, and cloning of a novel pro-inflammatory secreted protein from Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.02898-23
+Specialized phosphate transport is essential for Staphylococcus aureus nitric oxide resistance.|https://dx.doi.org/10.1128/mbio.02451-23
+Microorganism Test on Biscuits Combined With Red Algae Extract (Eucheuma denticulatum) and Tempeh (Glycine max).|https://dx.doi.org/10.3923/pjbs.2023.442.452
+Polyvinyl alcohol nanoparticles loaded with propolis extract: Fabrication, characterization and antimicrobial activity.|https://dx.doi.org/10.5599/admet.1740
+Oritavancin vs Standard of Care for Treatment of Nonendovascular Gram-Positive Bloodstream Infections.|https://dx.doi.org/10.1093/ofid/ofad411
+Native Tricuspid Valve Infective Endocarditis After Breast Skin Abscess.|https://dx.doi.org/10.7759/cureus.46607

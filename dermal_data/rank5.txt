@@ -4,3 +4,4 @@ Gold nanoparticle conjugation enhances berberine's antibacterial activity agains
 Long-term antibacterial activity of silver-containing hydroxyapatite coatings against Staphylococcus aureus in vitro and invivo.|https://dx.doi.org/10.1016/j.jos.2023.10.009
 Discovery of new quaternized norharmane dimers as potential anti-MRSA agents.|https://dx.doi.org/10.1016/j.jare.2023.11.005
 Hyperbaric oxygen therapy counteracts Pseudomonas aeruginosa biofilm micro-compartment phenomenon in murine thermal wounds.|https://dx.doi.org/10.1016/j.bioflm.2023.100159
+A thermosensitive hydrogel formulation of phage and colistin combination for the management of multidrug-resistant Acinetobacter baumannii wound infections.|https://dx.doi.org/10.1039/d3bm01383a

@@ -216,3 +216,22 @@ Diagnostic stewardship and the coronavirus disease 2019 (COVID-19) pandemic: Les
 Clinical Laboratory Experiences During the Coronavirus Disease 2019 Pandemic.|https://dx.doi.org/10.1093/cid/ciad622
 [Driving pressure-guided lung protective ventilation strategy reduces postoperative pulmonary complications in patients recovered from COVID-19].|https://dx.doi.org/10.12122/j.issn.1673-4254.2023.10.23
 Changes in sleep and the prevalence of probable insomnia in undergraduate university students over the course of the COVID-19 pandemic: findings from the U-Flourish cohort study.|https://dx.doi.org/10.1192/bjo.2023.597
+Impact of vaccination against severe COVID-19 in the French population aged 50 years and above: a retrospective population-based study.|https://dx.doi.org/10.1186/s12916-023-03119-8
+The KxGxYR and DxE motifs in the C-tail of the Middle East respiratory syndrome coronavirus membrane protein are crucial for infectious virus assembly.|https://dx.doi.org/10.1007/s00018-023-05008-y
+JCOA The Japanese Clinical Orthopaedic Association the questionnaire survey on the physical changes after the self-restraint of outdoor activities with the COVID-19 crisis (2nd report).|https://dx.doi.org/10.1016/j.jos.2023.08.023
+Intrahospital transmission and Infection Control of Candida auris Originating from a Severely Infected COVID-19 Patient Transferred Abroad.|https://dx.doi.org/10.1016/j.jhin.2023.10.017
+Drug repurposing for the treatment of COVID-19: Targeting nafamostat to the lungs by a liposomal delivery system.|https://dx.doi.org/10.1016/j.jconrel.2023.10.050
+Monitoring COVID-19 pandemic in Saudi Arabia using SEIRD model parameters with MEWMA.|https://dx.doi.org/10.1016/j.jiph.2023.09.009
+Risk of Coronavirus Disease 2019 (COVID-19) among those up-to-date and not up-to-date on COVID-19 vaccination by US CDC criteria.|https://dx.doi.org/10.1371/journal.pone.0293449
+Community-Based Digital Contact Tracing of Emerging Infectious Diseases: Design and Implementation Study With Empirical COVID-19 Cases.|https://dx.doi.org/10.2196/47219
+Longitudinal study of disease severity and external factors in cognitive failure after COVID-19 among Indonesian population.|https://dx.doi.org/10.1038/s41598-023-46334-2
+Adult Mental Health Presentations to Emergency Departments in Victoria, Australia between January 2018 and October 2020: Changes Associated with COVID-19 Pandemic Public Health Restrictions.|https://dx.doi.org/10.1007/s11126-023-10057-4
+COVID-19 infection and ambulatory surgery: Decision making based on known knowns.|https://dx.doi.org/10.1016/j.bpa.2022.12.002
+Diversity for endoribonuclease nsp15-mediated regulation of alpha-coronavirus propagation and virulence.|https://dx.doi.org/10.1128/spectrum.02209-23
+Assessing airborne transmission risks in COVID-19 hospitals by systematically monitoring SARS-CoV-2 in the air.|https://dx.doi.org/10.1128/spectrum.01099-23
+COVID-19 Pandemic Effects on Clinical Outcomes of Hip Fractures Among Pediatric and Adult Patients.|https://dx.doi.org/10.1097/JTN.0000000000000752
+Free Flap Outcomes for Head and Neck Surgery in Patients with COVID-19.|https://dx.doi.org/10.1002/lary.31159
+Nurses' mental workload and public health emergency response capacity in COVID-19 pandemic: A cross-sectional study.|https://dx.doi.org/10.1111/jan.15929
+A single-center review of outcomes between COVID-19 vaccinated and unvaccinated liver transplant recipients.|https://dx.doi.org/10.1111/ctr.15185
+Psychological characteristics of patients with inflammatory bowel disease during the first wave of COVID-19.|https://dx.doi.org/10.5114/pg.2023.131398
+Efficacy of a monovalent (D614) SARS-CoV-2 recombinant protein vaccine with AS03 adjuvant in adults: a phase 3, multi-country study.|https://dx.doi.org/10.1016/j.eclinm.2023.102168
