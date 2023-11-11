@@ -6,3 +6,11 @@ Severe cutaneous adverse reactions due to antibiotics therapy: a pharmacovigilan
 Metronidazole Cocrystal Polymorphs with Gallic and Gentisic Acid Accessed through Slurry, Atomization Techniques, and Thermal Methods.|https://dx.doi.org/10.1021/acs.cgd.3c00951
 Oritavancin vs Standard of Care for Treatment of Nonendovascular Gram-Positive Bloodstream Infections.|https://dx.doi.org/10.1093/ofid/ofad411
 Native Tricuspid Valve Infective Endocarditis After Breast Skin Abscess.|https://dx.doi.org/10.7759/cureus.46607
+Low utilization of vancomycin in febrile neutropenia: real-world evidence from 4 Brazilian centers.|https://dx.doi.org/10.1007/s00520-023-08152-0
+Interception of Epoxide ring to quorum sensing system in Enterococcus faecalis and Staphylococcus aureus.|https://dx.doi.org/10.1186/s13568-023-01633-9
+Toxigenic characterization, spoilage potential, and antimicrobial susceptibility of coagulase-positive Staphylococcus species isolated from Minas Frescal cheese.|https://dx.doi.org/10.3168/jds.2023-23747
+[Acaricidal therapy in chronic demodex blepharitis and meibomian gland dysfunctions].|https://dx.doi.org/10.17116/oftalma202313905136
+Antimicrobial Mechanisms and Preparation of Antibiotic-impregnated Cement-coated Locking Plates in the Treatment of Infected Non-unions.|https://dx.doi.org/10.5005/jp-journals-10080-1586
+Antibiotic resistance of bacteria responsible for postoperative wound infections seen in the laboratory of the University Hospital of Befelatanana.|https://dx.doi.org/10.4081/jphia.2023.2307
+Metronidazole-induced encephalopathy in a patient with cirrhosis.|https://dx.doi.org/10.1016/j.radcr.2023.10.001
+Real-world Evidence for the Treatment of Rosacea with Sulfur or Metronidazole Preparation in Japanese Patients.|https://dx.doi.org/10.31662/jmaj.2023-0100

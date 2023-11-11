@@ -1,2 +1,8 @@
 Human virome profiling identified CMV as the major viral driver of a high accumulation of senescent CD8(+) T cells in patients with advanced NSCLC.|https://dx.doi.org/10.1126/sciadv.adh0708
 Evaluation of Psychiatric Symptomatology, Quality of Life, and Caregiver Burden in Mothers and Children with Primary Immunodeficiency.|https://dx.doi.org/10.15586/aei.v51i6.927
+Identification of central symptoms of children depression and development of two short version of Children's Depression Inventory: Based on network analysis and machine learning.|https://dx.doi.org/10.1016/j.jad.2023.10.146
+Manipulating the 3D organization of the largest synthetic yeast chromosome.|https://dx.doi.org/10.1016/j.molcel.2023.10.015
+Design, construction, and functional characterization of a tRNA neochromosome in yeast.|https://dx.doi.org/10.1016/j.cell.2023.10.015
+Debugging and consolidating multiple synthetic chromosomes reveals combinatorial genetic interactions.|https://dx.doi.org/10.1016/j.cell.2023.09.025
+Targeted inhibition of Wnt signaling with a Clostridioides difficile toxin B fragment suppresses breast cancer tumor growth.|https://dx.doi.org/10.1371/journal.pbio.3002353
+Clostridium difficile Enteritis With NAP7/078 Toxigenic Strain.|https://dx.doi.org/10.1093/ofid/ofad523

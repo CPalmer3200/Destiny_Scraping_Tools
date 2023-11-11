@@ -8,3 +8,6 @@ Photodynamic antibacterial application of TiO(2)/curcumin/hydroxypropyl-cyclodex
 Chitosan coated graphene oxide incorporated sodium alginate hydrogel beads for the controlled release of amoxicillin.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127837
 Multifunctional natural microneedles based methacrylated Bletilla striata polysaccharide for repairing chronic wounds with bacterial infections.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127914
 Sucralfate Prevents Pin Site Infections of External Fixators in Open Tibia Fractures.|https://dx.doi.org/10.1615/JLongTermEffMedImplants.2023044966
+Culture-Delivery Live Probiotics Dressing for Accelerated Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.3c12845
+Effectiveness of Negative Pressure Wound Therapy During Aeromedical Evacuation Following Soft Tissue Injury and Infection.|https://dx.doi.org/10.1093/milmed/usad113
+Sprayable self-assembly multifunctional bioactive poly(ferulic acid) hydrogel for rapid MRSA infected wound repair.|https://dx.doi.org/10.1002/jbm.a.37636

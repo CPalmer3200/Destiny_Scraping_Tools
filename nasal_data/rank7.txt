@@ -235,3 +235,23 @@ Nurses' mental workload and public health emergency response capacity in COVID-1
 A single-center review of outcomes between COVID-19 vaccinated and unvaccinated liver transplant recipients.|https://dx.doi.org/10.1111/ctr.15185
 Psychological characteristics of patients with inflammatory bowel disease during the first wave of COVID-19.|https://dx.doi.org/10.5114/pg.2023.131398
 Efficacy of a monovalent (D614) SARS-CoV-2 recombinant protein vaccine with AS03 adjuvant in adults: a phase 3, multi-country study.|https://dx.doi.org/10.1016/j.eclinm.2023.102168
+CLINICAL AND EPIDEMIOLOGICAL FEATURES OF COVID-19 IN CHILDREN FOR THE PERIOD 2020-2022.|https://dx.doi.org/10.36740/WLek202310126
+CLINICAL PROFILES AND CHARACTERISTICS OF MENSTRUAL DYSFUNCTION IN WOMEN AFTER SUFFERING FROM COVID-19 OR VACCINATION.|https://dx.doi.org/10.36740/WLek202310118
+MICROCIRCULATORY ALTERATIONS IN STABLE CORONARY ARTERY DISEASE PATIENTS WITH CONCOMITANT COVID-19.|https://dx.doi.org/10.36740/WLek202310115
+Amplification Failure by the Cepheid Xpert Xpress SARS-CoV-2 Assay due to a Single-Nucleotide Variant of the N Gene in the Omicron Variant.|https://dx.doi.org/10.7754/Clin.Lab.2023.230543
+Antibody-mediated spike activation promotes cell-cell transmission of SARS-CoV-2.|https://dx.doi.org/10.1371/journal.ppat.1011789
+A data-driven framework to assess population dynamics during novel coronavirus outbreaks: A case study on Xiamen Island, China.|https://dx.doi.org/10.1371/journal.pone.0293803
+Is Nosocomial SARS-CoV-2 Still Worth Preventing?|https://dx.doi.org/10.1001/jamanetworkopen.2023.44704
+Nosocomial SARS-CoV-2 Infections and Mortality During Unique COVID-19 Epidemic Waves.|https://dx.doi.org/10.1001/jamanetworkopen.2023.41936
+COVID-19 infodemic and health-related quality of life in patients with chronic respiratory diseases: A multicentre, observational study.|https://dx.doi.org/10.7189/jogh.13.06045
+Health Promotion and Racial Disparity in COVID-19 Mortality Among African American Populations.|https://dx.doi.org/10.29011/2690-9480.100168
+Influenza Vaccine Effectiveness Pre-pandemic among Adults Hospitalized with Congestive Heart Failure, Chronic Obstructive Pulmonary Disease, and Older Adults.|https://dx.doi.org/10.1093/cid/ciad679
+The risk of miscarriage after COVID-19 vaccination before and during pregnancy.|https://dx.doi.org/10.1002/pds.5724
+Access to healthcare services for people with non-communicable diseases during the COVID-19 pandemic in Ibadan, Nigeria: a qualitative study.|https://dx.doi.org/10.1186/s12913-023-10278-0
+Cost-effectiveness analysis of isolation strategies for asymptomatic and mild symptom COVID-19 patients.|https://dx.doi.org/10.1186/s12962-023-00497-x
+Evaluation of the impact of COVID-19 pandemic on hospital-acquired infections in a tertiary hospital in Malaysia.|https://dx.doi.org/10.1186/s12879-023-08770-3
+Efficacy and safety of therapies for COVID-19 in pregnancy: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-023-08747-2
+Author Correction: Multiplexed CRISPR-based microfluidic platform for clinical testing of respiratory viruses and identification of SARS-CoV-2 variants.|https://dx.doi.org/10.1038/s41591-023-02684-y
+The association between antipyretic analgesics use and SARS-CoV-2 antibody titers following the second dose of the BNT162b2 mRNA vaccine: An observational study.|https://dx.doi.org/10.1016/j.vaccine.2023.10.037
+Post covid cerebral phaeohyphomycosis by Rhinocladiella mackenziei: An unusual association.|https://dx.doi.org/10.1016/j.ijmmb.2023.100430
+Evaluation of real and perceived risk to health care workers caring for patients with the Omicron variant of the SARS-CoV-2 virus in surgery and obstetrics.|https://dx.doi.org/10.1016/j.jogc.2023.102276

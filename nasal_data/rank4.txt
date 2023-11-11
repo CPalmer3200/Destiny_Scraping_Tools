@@ -128,3 +128,23 @@ Aortic Valve Replacement: A Case of Aortic Valve Insufficiency Secondary to Infe
 When a pandemic and epidemic collide: Lessons learned about how system barriers can interrupt implementation of addiction research.|https://dx.doi.org/10.1177/26334895231205890
 Adoption and Discontinuance of Innovation Packages: A Longitudinal Study of Transitions in COVID-19 Mitigation.|https://dx.doi.org/10.1080/10410236.2023.2275911
 Machine learning models to predict surgical case duration compared to current industry standards: scoping review.|https://dx.doi.org/10.1093/bjsopen/zrad113
+Early Enteral Nutrition in Aeromedically Evacuated Critically Ill/Injured Patients With a Resultant Validation Algorithm for the Theater Validating Flight Surgeon.|https://dx.doi.org/10.1093/milmed/usad030
+Improving Pre-exposure Prophylaxis Counseling at a Military Women's Health Care Clinic to Champion CDC and Defense Health Agency Recommendations.|https://dx.doi.org/10.1093/milmed/usad058
+Low utilization of vancomycin in febrile neutropenia: real-world evidence from 4 Brazilian centers.|https://dx.doi.org/10.1007/s00520-023-08152-0
+Enhancing open clinical trials through blinded evaluations: an exploration with diabetic foot infections.|https://dx.doi.org/10.1186/s13063-023-07652-y
+Incidence of postoperative complications in patellar fractures related to different methods of osteosynthesis procedures - a retrospective cohort study.|https://dx.doi.org/10.1186/s12891-023-06998-3
+Relative Risk of COVID-19 Reinfection by Demographic and Vaccination Factors During the Period March 2020-October 2022.|https://dx.doi.org/10.1007/s10900-023-01303-8
+Non-surgical treatment of aseptic olecranon bursitis: A systematic review.|https://dx.doi.org/10.1016/j.reumae.2023.05.004
+Interventions for preventing or controlling healthcare-associated infection amongst healthcare workers or patients within primary care facilities: a scoping review.|https://dx.doi.org/10.1016/j.ajic.2023.10.011
+Influenza and Up-to-Date COVID-19 Vaccination Coverage Among Health Care Personnel - National Healthcare Safety Network, United States, 2022-23 Influenza Season.|https://dx.doi.org/10.15585/mmwr.mm7245a5
+Declines in Influenza Vaccination Coverage Among Health Care Personnel in Acute Care Hospitals During the COVID-19 Pandemic - United States, 2017-2023.|https://dx.doi.org/10.15585/mmwr.mm7245a6
+Human Papillomavirus Vaccination Status and Correlates Among Mid-Adult Women: Connecticut, USA, 2016-2019.|https://dx.doi.org/10.1089/jwh.2022.0456
+Professional Fees for U.S. Hospital Care, 2016-2020.|https://dx.doi.org/10.1097/MLR.0000000000001900
+Asthma-community acquired pneumonia co-diagnosis in children: a scoping review.|https://dx.doi.org/10.1080/02770903.2023.2280843
+Improved postoperative outcomes in pediatric major surgery: evidence from hospital volume analysis.|https://dx.doi.org/10.1007/s00431-023-05308-2
+Epidemiology and Risk Factors for Invasive Fungal Infections in Pancreas Transplant in the Absence of Postoperative Antifungal Prophylaxis.|https://dx.doi.org/10.1093/ofid/ofad478
+An updated meta-analysis comparing complications, functional, clinically relevant and radiological outcomes of accelerometer based portable navigation and conventional technique of total knee arthroplasty.|https://dx.doi.org/10.1016/j.jor.2023.10.012
+Significance of expeditious diagnosis and treatment following menarche in obstructed hemivagina and ipsilateral renal agenesis syndrome: A case report.|https://dx.doi.org/10.1016/j.radcr.2023.09.070
+Using Electronic Health Record Data to Measure the Latent Tuberculosis Infection Care Cascade in Safety-Net Primary Care Clinics.|https://dx.doi.org/10.1016/j.focus.2023.100148
+Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics.|https://dx.doi.org/10.1093/jpids/piad089
+Bladder Repair with Irrigation and Debridement and Open Reduction Internal Fixation of the Anterior Pelvic Ring is Safe and Decreases Risk of Infection in Pelvic Ring Injuries with Extraperitoneal Bladder Ruptures.|https://dx.doi.org/10.1097/BOT.0000000000002720

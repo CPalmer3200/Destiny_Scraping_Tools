@@ -201,3 +201,19 @@ Microorganism Test on Biscuits Combined With Red Algae Extract (Eucheuma denticu
 Polyvinyl alcohol nanoparticles loaded with propolis extract: Fabrication, characterization and antimicrobial activity.|https://dx.doi.org/10.5599/admet.1740
 Oritavancin vs Standard of Care for Treatment of Nonendovascular Gram-Positive Bloodstream Infections.|https://dx.doi.org/10.1093/ofid/ofad411
 Native Tricuspid Valve Infective Endocarditis After Breast Skin Abscess.|https://dx.doi.org/10.7759/cureus.46607
+Culture-Delivery Live Probiotics Dressing for Accelerated Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.3c12845
+Ternifoliasaponin, a new triterpenoid saponin from the roots of Gardenia ternifolia Schumach & Thonn (Rubiaceae).|https://dx.doi.org/10.1080/14786419.2023.2276388
+Hexadecanamide alleviates Staphylococcus aureus-induced mastitis in mice by inhibiting inflammatory responses and restoring blood-milk barrier integrity.|https://dx.doi.org/10.1371/journal.ppat.1011764
+C-di-AMP levels modulate Staphylococcus aureus cell wall thickness, response to oxidative stress, and antibiotic resistance and tolerance.|https://dx.doi.org/10.1128/spectrum.02788-23
+The contribution of DNA repair pathways to Staphylococcus aureus fitness and fidelity during nitric oxide stress.|https://dx.doi.org/10.1128/mbio.02156-23
+Effectiveness of FDA-cleared Wound Cleansers for Disinfection of Surgical Surfaces in Resource Limited Environments.|https://dx.doi.org/10.1093/milmed/usad232
+Effectiveness of Negative Pressure Wound Therapy During Aeromedical Evacuation Following Soft Tissue Injury and Infection.|https://dx.doi.org/10.1093/milmed/usad113
+Tyrosinase enzyme purification and immobilization from Pseudomonas sp. EG22 using cellulose coated magnetic nanoparticles: characterization and application in melanin production.|https://dx.doi.org/10.1007/s11274-023-03796-w
+Anti-MRSA Dimeric and Brominated Phenyltetracenoids Produced by Streptomyces morookaense SC1169.|https://dx.doi.org/10.1021/acs.jnatprod.3c00788
+Polycation-Intercalated MXene Membrane with Enhanced Permselective and Anti-Microbial Properties.|https://dx.doi.org/10.3390/nano13212885
+Novel Mitochondria-Targeted Amphiphilic Aminophosphonium Salts and Lipids Nanoparticles: Synthesis, Antitumor Activity and Toxicity.|https://dx.doi.org/10.3390/nano13212840
+Evaluating Antibiofilm, Cytotoxic and Apoptotic Activities of Scutellaria brevibracteata subsp. brevibracteata Essential Oil.|https://dx.doi.org/10.1002/cbdv.202300878
+Size-dependent magnetomechanically enhanced photothermal antibacterial effect of Fe(3)O(4)@Au/PDA nanodurian.|https://dx.doi.org/10.1039/d3dt03303a
+Sprayable self-assembly multifunctional bioactive poly(ferulic acid) hydrogel for rapid MRSA infected wound repair.|https://dx.doi.org/10.1002/jbm.a.37636
+Carboxymethylcellulose/Agar-Based Multifunctional Films Incorporated with Zn-Doped SnO(2) Nanoparticles for Active Food Packaging Application.|https://dx.doi.org/10.1021/acsabm.3c00514
+Interception of Epoxide ring to quorum sensing system in Enterococcus faecalis and Staphylococcus aureus.|https://dx.doi.org/10.1186/s13568-023-01633-9
