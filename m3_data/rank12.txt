@@ -6,3 +6,6 @@ Design, construction, and functional characterization of a tRNA neochromosome in
 Debugging and consolidating multiple synthetic chromosomes reveals combinatorial genetic interactions.|https://dx.doi.org/10.1016/j.cell.2023.09.025
 Targeted inhibition of Wnt signaling with a Clostridioides difficile toxin B fragment suppresses breast cancer tumor growth.|https://dx.doi.org/10.1371/journal.pbio.3002353
 Clostridium difficile Enteritis With NAP7/078 Toxigenic Strain.|https://dx.doi.org/10.1093/ofid/ofad523
+Early Literacy Promotion Using Automated Hovering Among Young Minority Children.|https://dx.doi.org/10.1016/j.acap.2023.11.010
+Detection of Clostridium difficile among diarrheic children using cultural and polymerase chain reaction technique.|https://dx.doi.org/10.3855/jidc.17473
+A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.|https://dx.doi.org/10.1371/journal.ppat.1011741

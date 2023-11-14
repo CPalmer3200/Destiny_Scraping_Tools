@@ -255,3 +255,22 @@ Author Correction: Multiplexed CRISPR-based microfluidic platform for clinical t
 The association between antipyretic analgesics use and SARS-CoV-2 antibody titers following the second dose of the BNT162b2 mRNA vaccine: An observational study.|https://dx.doi.org/10.1016/j.vaccine.2023.10.037
 Post covid cerebral phaeohyphomycosis by Rhinocladiella mackenziei: An unusual association.|https://dx.doi.org/10.1016/j.ijmmb.2023.100430
 Evaluation of real and perceived risk to health care workers caring for patients with the Omicron variant of the SARS-CoV-2 virus in surgery and obstetrics.|https://dx.doi.org/10.1016/j.jogc.2023.102276
+SARS-CoV-2 trends in Italy, Germany and Portugal and school opening during the period of Omicron variant dominance: a quasi-experimental study.|https://dx.doi.org/10.1016/j.ijid.2023.11.002
+Identification of the shared molecular mechanisms between major depressive disorder and COVID-19 from postmortem brain transcriptome analysis.|https://dx.doi.org/10.1016/j.jad.2023.11.030
+The association of changes in leisure-time physical activity on depressive symptoms during Covid-19 in German adults: A longitudinal study.|https://dx.doi.org/10.1016/j.psychsport.2023.102562
+COVID-19 and health care related financial toxicity in the United States: Evidence from the 2022 National Health Interview Survey.|https://dx.doi.org/10.1016/j.ajic.2023.11.004
+The Application of Simulation Methods During the COVID-19 Pandemic: A Scoping Review.|https://dx.doi.org/10.1016/j.jbi.2023.104543
+How well do surveys on adherence to pandemic policies assess actual behaviour: Measurement properties of the Dutch COVID-19 adherence to prevention advice survey (CAPAS).|https://dx.doi.org/10.1016/j.socscimed.2023.116395
+Helping a Patient With a Pre-Existing Mental Health Condition Cope With Depression and COVID-19 Using the Neuman Systems Model: A Single Intrinsic Case Study.|https://dx.doi.org/10.1177/10784535231211694
+Senolytic therapy alleviates physiological human brain aging and COVID-19 neuropathology.|https://dx.doi.org/10.1038/s43587-023-00519-6
+Update of the recommendations on the management of the SARS-CoV-2 coronavirus pandemic (COVID-19) in kidney transplant patients.|https://dx.doi.org/10.1016/j.nefroe.2023.10.007
+Content and specificity of the Anti-SARS-CoV-2 antibodies in solutions for immunoglobulin replacement therapy.|https://dx.doi.org/10.1016/j.intimp.2023.111159
+Digital PCR to Measure SARS-CoV-2 RNA, Variants, and Outcomes in Youth.|https://dx.doi.org/10.1093/jpids/piad101
+Clinical characteristics and risk factors associated with secondary bacterial pneumonia among COVID-19 patients in ICU.|https://dx.doi.org/10.3855/jidc.17066
+Delirium in patients with COVID-19 treated in the intensive care unit.|https://dx.doi.org/10.1371/journal.pone.0289662
+Contact tracing for COVID-19 in a Swiss canton: analysis of key performance indicators.|https://dx.doi.org/10.57187/smw.2023.40112
+Behavioral Beliefs Predict Recommended Behaviors, Especially When Trust in Public Health Sources is Low: Evidence from a Longitudinal Study of Three COVID-19 Prevention Behaviors Among U.S. Adults.|https://dx.doi.org/10.1080/10810730.2023.2278615
+Descriptive analysis of a SARS-CoV-2 outbreak among health-care workers in a regional hospital in the Philippines.|https://dx.doi.org/10.5365/wpsar.2023.14.3.1050
+Persistent Respiratory Failure and Re-Admission in Patients with Chronic Obstructive Pulmonary Disease Following Hospitalization for COVID-19.|https://dx.doi.org/10.2147/COPD.S428316
+Thrombotic Thrombocytopenic Purpura Following Pfizer-BioNTech COVID-19 Vaccination in a Patient With Multiple Myeloma: Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.46784
+SARS-CoV-2 pre-exposure prophylaxis with tixagevimab/cilgavimab (AZD7442) provides protection in inborn errors of immunity with antibody defects: a real-world experience.|https://dx.doi.org/10.3389/fimmu.2023.1249462

@@ -148,3 +148,13 @@ Significance of expeditious diagnosis and treatment following menarche in obstru
 Using Electronic Health Record Data to Measure the Latent Tuberculosis Infection Care Cascade in Safety-Net Primary Care Clinics.|https://dx.doi.org/10.1016/j.focus.2023.100148
 Clinical Practice Guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 Guideline on Diagnosis and Management of Acute Bacterial Arthritis in Pediatrics.|https://dx.doi.org/10.1093/jpids/piad089
 Bladder Repair with Irrigation and Debridement and Open Reduction Internal Fixation of the Anterior Pelvic Ring is Safe and Decreases Risk of Infection in Pelvic Ring Injuries with Extraperitoneal Bladder Ruptures.|https://dx.doi.org/10.1097/BOT.0000000000002720
+Prevalence and antibacterial resistance patterns of uropathogenic staphylococci in Casablanca, Morocco.|https://dx.doi.org/10.3855/jidc.17920
+Inpatient peritoneal dialysis catheters placed across the United States during a 3-year period: Lessons learned from 15,000 patients.|https://dx.doi.org/10.1016/j.surg.2023.09.058
+Clinical practice recommendations for infectious disease management of diabetic foot infection (DFI) - 2023 SPILF.|https://dx.doi.org/10.1016/j.idnow.2023.104832
+The effect of the surgical helmet system on intraoperative contamination in arthroplasty surgery.|https://dx.doi.org/10.1302/2633-1462.411.BJO-2023-0078.R1
+Intraoperative tissue sampling for histology in chronic osteomyelitis shows high neutrophil infiltration centrally and low remains in debrided presumed infection-free regions.|https://dx.doi.org/10.1016/j.injury.2023.111178
+Evaluation of the Acute flaccid paralysis surveillance indicators in Zambia from 2015-2021: a retrospective analysis.|https://dx.doi.org/10.1186/s12889-023-17141-1
+Comparison of temporary external and percutaneous k-wire fixations for treatment of ankle fracture-dislocations.|https://dx.doi.org/10.1186/s12891-023-07020-6
+Contemporary Management of Staphylococcus aureus Bacteremia-Controversies in Clinical Practice.|https://dx.doi.org/10.1093/cid/ciad500
+Gonorrheal and chlamydia yield for genital and extragenital testing in children evaluated for sexual abuse.|https://dx.doi.org/10.1016/j.chiabu.2023.106525
+Right atrial thrombus leading to pulmonary embolism in a patient with dermatomyositis and COVID-19 managed with FlowTriever device thrombectomy.|https://dx.doi.org/10.1136/bcr-2023-255385

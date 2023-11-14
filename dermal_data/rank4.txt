@@ -11,3 +11,8 @@ Sucralfate Prevents Pin Site Infections of External Fixators in Open Tibia Fract
 Culture-Delivery Live Probiotics Dressing for Accelerated Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.3c12845
 Effectiveness of Negative Pressure Wound Therapy During Aeromedical Evacuation Following Soft Tissue Injury and Infection.|https://dx.doi.org/10.1093/milmed/usad113
 Sprayable self-assembly multifunctional bioactive poly(ferulic acid) hydrogel for rapid MRSA infected wound repair.|https://dx.doi.org/10.1002/jbm.a.37636
+Poly(vinyl alcohol)/chitosan hydrogel incorporating chitooligosaccharide-gentisic acid conjugate with antioxidant and antibacterial properties as a potential wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128047
+Multifunctional Regeneration Silicon-Loaded Chitosan Hydrogels for MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202303501
+Thermal, morphology and bacterial analysis of pH-responsive sodium carboxyl methylcellulose/ fumaric acid/ acrylamide nanocomposite hydrogels: Synthesis and characterization.|https://dx.doi.org/10.1016/j.heliyon.2023.e20939
+Preparation and characterization of ι-carrageenan nanocomposite hydrogels with dual anti-HPV and anti-bacterial activities.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127941
+Tailored chitosan/glycerol micropatterned composite dressings by 3D printing for improved wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127952

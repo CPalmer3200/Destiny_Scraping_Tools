@@ -8,3 +8,5 @@ Mastitis and Mammary Abscess Management Audit (MAMMA) in the UK and Ireland.|htt
 Successful fat-only whole breast reconstruction using cultured mature adipocytes and conditioned medium containing MCP-1.|https://dx.doi.org/10.1038/s41598-023-45169-1
 A comparison of clinical outcomes of acellular dermal matrix with and without radiation sterilization process in immediate prepectoral direct-to-implant breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2023.10.087
 Perioperative nursing care speed up recover of a male patient after bilateral endoscopic mastectomy: a case report.|https://dx.doi.org/10.21037/acr-23-101
+Diagnostic value of inflammatory indicators for surgical site infection in patients with breast cancer.|https://dx.doi.org/10.3389/fcimb.2023.1286313
+Managing complications following cosmetic surgery after the COVID pandemic: A study of a year at an NHS plastic surgery unit.|https://dx.doi.org/10.1016/j.bjps.2023.10.135

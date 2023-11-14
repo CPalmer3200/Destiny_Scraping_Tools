@@ -14,3 +14,16 @@ Antimicrobial Mechanisms and Preparation of Antibiotic-impregnated Cement-coated
 Antibiotic resistance of bacteria responsible for postoperative wound infections seen in the laboratory of the University Hospital of Befelatanana.|https://dx.doi.org/10.4081/jphia.2023.2307
 Metronidazole-induced encephalopathy in a patient with cirrhosis.|https://dx.doi.org/10.1016/j.radcr.2023.10.001
 Real-world Evidence for the Treatment of Rosacea with Sulfur or Metronidazole Preparation in Japanese Patients.|https://dx.doi.org/10.31662/jmaj.2023-0100
+Therapeutic drug monitoring of vancomycin and meropenem: illustration of the impact of inaccurate information in dose administration time.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107032
+Size-tunable nanogels for cascaded release of metronidazole and chemotherapeutic agents to combat Fusobacterium nucleatum-infected colorectal cancer.|https://dx.doi.org/10.1016/j.jconrel.2023.11.018
+Identification and characterization of a highly virulent Citrobacter freundii isolate and its activation on immune responses in largemouth bass (Micropterus salmoides).|https://dx.doi.org/10.1016/j.fsi.2023.109224
+Prevalence and antibacterial resistance patterns of uropathogenic staphylococci in Casablanca, Morocco.|https://dx.doi.org/10.3855/jidc.17920
+Case Report: A Challenging Case of Tetanus Presenting with Headache.|https://dx.doi.org/10.4269/ajtmh.23-0035
+Review of Intra-Articular Use of Antibiotics and Antiseptic Irrigation and Their Systematic Association with Chondrolysis.|https://dx.doi.org/10.17161/kjm.vol16.20357
+Distribution and association of antimicrobial resistance and virulence characteristics in Enterococcus spp. isolates from captive Asian elephants in China.|https://dx.doi.org/10.3389/fmicb.2023.1277221
+Before Diagnosing Metronidazole Encephalopathy, Rule Out its Differential Diagnoses.|https://dx.doi.org/10.2169/internalmedicine.2798-23
+Response to Letter to the Editor on "Metronidazole-induced Encephalopathy".|https://dx.doi.org/10.2169/internalmedicine.2903-23
+Bacteriophages: Vectors of or weapons against the transmission of antibiotic resistance genes in hospital wastewater systems?|https://dx.doi.org/10.1016/j.watres.2023.120833
+The first investigation of a nosocomial outbreak caused by ST80 vancomycin-resistant Enterococci faecium in China.|https://dx.doi.org/10.1016/j.jhin.2023.10.020
+Morganella morganii and Enterococcus faecalis endophthalmitis following intravitreal injection.|https://dx.doi.org/10.1186/s12886-023-03198-4
+Ginsenoside Rg3 enriches SCFA-producing commensal bacteria to confer protection against enteric viral infection via the cGAS-STING-type I IFN axis.|https://dx.doi.org/10.1038/s41396-023-01541-7

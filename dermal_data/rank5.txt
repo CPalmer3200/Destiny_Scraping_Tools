@@ -8,3 +8,8 @@ A thermosensitive hydrogel formulation of phage and colistin combination for the
 Antibacterial Efficacy of a Chitosan-Based Hydrogel Modified With Epsilon-Poly-l-Lysine Against Pseudomonas aeruginosa in a Murine-Infected Burn Wound Model.|https://dx.doi.org/10.1093/milmed/usad013
 The potential of shallot skin powder and actinomycetes metabolites as antimicrobe and antibiofilm in the treatment of eel (Anguilla bicolor bicolor) infected with Aeromonas hydrophila.|https://dx.doi.org/10.1186/s13104-023-06611-9
 Antimicrobial peptide 2K4L disrupts the membrane of multidrug-resistant Acinetobacter baumannii and protects mice against sepsis.|https://dx.doi.org/10.3389/fmicb.2023.1258469
+Design of biodegradable polyurethanes and post-modification with long alkyl chains via inhibiting biofilm formation and killing drug-resistant bacteria for the treatment of wound bacterial infection.|https://dx.doi.org/10.1039/d3bm01448g
+A novel antimicrobial peptide Scyreptin(1-30) from Scylla paramamosain exhibiting potential therapy of Pseudomonas aeruginosa early infection in a mouse burn wound model.|https://dx.doi.org/10.1016/j.bcp.2023.115917
+The adhesin SCF1 mediates Candida auris colonization.|https://dx.doi.org/10.1016/j.tim.2023.10.008
+Tenacibaculum dicentrarchi produce outer membrane vesicles (OMV) that are associated with the cytotoxic effect in rainbow trout head kidney macrophages.|https://dx.doi.org/10.1111/jfd.13888
+Burkholderia cepacia skin-related ulceration: a case report.|https://dx.doi.org/10.12968/bjon.2023.32.Sup20.S6

@@ -217,3 +217,20 @@ Size-dependent magnetomechanically enhanced photothermal antibacterial effect of
 Sprayable self-assembly multifunctional bioactive poly(ferulic acid) hydrogel for rapid MRSA infected wound repair.|https://dx.doi.org/10.1002/jbm.a.37636
 Carboxymethylcellulose/Agar-Based Multifunctional Films Incorporated with Zn-Doped SnO(2) Nanoparticles for Active Food Packaging Application.|https://dx.doi.org/10.1021/acsabm.3c00514
 Interception of Epoxide ring to quorum sensing system in Enterococcus faecalis and Staphylococcus aureus.|https://dx.doi.org/10.1186/s13568-023-01633-9
+Poly(vinyl alcohol)/chitosan hydrogel incorporating chitooligosaccharide-gentisic acid conjugate with antioxidant and antibacterial properties as a potential wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128047
+Global trends in the increasing prevalence of the fosfomycin resistance gene in Staphylococcus aureus.|https://dx.doi.org/10.1016/S2666-5247(23)00339-7
+In vitro long-term antibacterial performance and mechanism of Zn-doped micro-arc oxidation coatings.|https://dx.doi.org/10.1016/j.colsurfb.2023.113634
+Superior Performance of Iron-Coated Silver Nanoparticles and Cefoxitin as an Antibiotic Composite Against Methicillin-Resistant  Staphylococcus aureus (MRSA): A Population Study.|https://dx.doi.org/10.1007/s12033-023-00957-y
+Formulation, pharmacokinetics, and antibacterial activity of florfenicol-loaded niosome.|https://dx.doi.org/10.1007/s13346-023-01459-9
+The antimicrobial effect and mechanism of the Artemisia argyi essential oil against bacteria and fungus.|https://dx.doi.org/10.1007/s42770-023-01172-2
+Bioactive ambuic acid congeners from endophytic fungus Pestalotiopsis trachicarpicola SC-J551.|https://dx.doi.org/10.1038/s41429-023-00674-3
+Physicochemical Properties and Simulation of Magnesium/Zinc Binary-Substituted Hydroxyapatite with Enhanced Biocompatibility and Antibacterial Ability.|https://dx.doi.org/10.1021/acsabm.3c00599
+Antimicrobial Activity of Depsidones and Macrocyclic Peptides Isolated from Marine Sponge-Derived Fungus Aspergillus nidulans M256.|https://dx.doi.org/10.1002/cbdv.202301660
+Sensitive and Extraction-Free Detection of Methicillin-Resistant Staphylococcus aureus Through Ag(+) Aptamer-Based Color Reaction.|https://dx.doi.org/10.4014/jmb.2308.08044
+Antibiotic point prevalence survey and antimicrobial resistance in hospitalized patients across Peruvian reference hospitals.|https://dx.doi.org/10.1016/j.jiph.2023.10.030
+Multifunctional Regeneration Silicon-Loaded Chitosan Hydrogels for MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202303501
+3D-Printed Multifunctional Ag/CeO(2)/ZnO Reinforced Hydroxyapatite-Based Scaffolds with Effective Antibacterial and Mechanical Properties.|https://dx.doi.org/10.1021/acsabm.3c00457
+Design of biodegradable polyurethanes and post-modification with long alkyl chains via inhibiting biofilm formation and killing drug-resistant bacteria for the treatment of wound bacterial infection.|https://dx.doi.org/10.1039/d3bm01448g
+Hyperbranched polyphthalocyanine micelles with dual PTT/PDT functions for bacteria eradication under an NIR window.|https://dx.doi.org/10.1039/d3cc04082h
+Endemic Mountain Tea (Sideritis dichotoma Huter): Antioxidant and Antibacterial Activities, Mineral Content by ICP-MS and Phytochemical Content by LCHR-MS.|https://dx.doi.org/10.1002/cbdv.202301453
+United we stand, divided we fall: in-depth proteomic evaluation of the synergistic effect of Mo-CBP(3)-PepI and Ciprofloxacin against Staphylococcus aureus biofilms.|https://dx.doi.org/10.1080/08927014.2023.2279992

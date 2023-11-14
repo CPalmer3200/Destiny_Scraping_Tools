@@ -223,3 +223,18 @@ A Retrospective Analysis of Emergency Obstetric Hysterectomy: A Life-Saving Inte
 Aggressive angiomyxoma of the epididymis: A case report.|https://dx.doi.org/10.12998/wjcc.v11.i29.7214
 "In situ bone flap" combined with vascular pedicled mucous flap to reconstruction of skull base defect.|https://dx.doi.org/10.12998/wjcc.v11.i29.7053
 Unusual presentation of penile giant condyloma acuminatum with spontaneous prepuce perforation: A case report.|https://dx.doi.org/10.12998/wjcc.v11.i29.7107
+Therapeutic drug monitoring of vancomycin and meropenem: illustration of the impact of inaccurate information in dose administration time.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107032
+Microvascular Replantation for partial auricle Amputation: Only Arterial anastomoses and Acupuncture Bloodletting.|https://dx.doi.org/10.1007/s00266-023-03737-w
+Development of antibacterial neural stimulation electrodes via hierarchical surface restructuring and atomic layer deposition.|https://dx.doi.org/10.1038/s41598-023-47256-9
+Complications and Functional Voice Limitations Following Gender-Affirming Laryngeal Surgery (GALS).|https://dx.doi.org/10.1016/j.jvoice.2023.09.015
+Use of a subpalpebral lavage system as salvage therapy for Pseudomonas aeruginosa panophthalmitis due to an infected scleral buckle.|https://dx.doi.org/10.1177/11206721231213402
+Angiogenesis and eosinophilia in the nasal mucosa of patients with different clinical phenotypes of chronic rhinosinusitis.|https://dx.doi.org/10.3855/jidc.18166
+A Systematic Review of Data Collection by National Joint Replacement Registries: What Opportunities Exist for Enhanced Data Collection and Analysis?|https://dx.doi.org/10.2106/JBJS.RVW.23.00062
+Phage therapy: Awareness and demand among clinicians in the United Kingdom.|https://dx.doi.org/10.1371/journal.pone.0294190
+Posterior cerebral territory ischemia in pediatric moyamoya: Surgical techniques and long-term clinical and radiographic outcomes.|https://dx.doi.org/10.1007/s00381-023-06219-1
+Enhancement of in vitro antibacterial activity and bioactivity of iodine-loaded titanium by micro-scale regulation using mixed-acid treatment.|https://dx.doi.org/10.1002/jbm.a.37647
+Intralobar Pulmonary Sequestration: A Case Report.|https://dx.doi.org/10.7759/cureus.46794
+The Sunlight-Vitamin D Connection: Implications for Patient Outcomes in the Surgical Intensive Care Unit.|https://dx.doi.org/10.7759/cureus.46819
+Delayed Diagnosis of an Invisible Seizure: Cefepime-Induced Non-convulsive Status Epilepticus.|https://dx.doi.org/10.7759/cureus.46810
+Flanged Bentall procedure for paravalvular leakage and pseudoaneurysm after root replacement in Behcet's disease and infective endocarditis: a case report.|https://dx.doi.org/10.1093/ehjcr/ytad489
+Evaluating the Potential of a New Low-Profile Urinary Catheter in Preventing Catheter-Associated Urinary Tract Infections: A Prospective Randomized Blinded Clinical Trial.|https://dx.doi.org/10.1177/23333928231211410

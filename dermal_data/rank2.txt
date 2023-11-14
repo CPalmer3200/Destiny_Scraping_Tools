@@ -14,3 +14,5 @@ A 2-Stage Approach in Managing Diabetic Forefoot Ulcers.|https://dx.doi.org/10.1
 Exploration of the common pathogenic link between COVID-19 and diabetic foot ulcers: An in silico approach.|https://dx.doi.org/10.1002/hsr2.1686
 Soft Tissue Reconstruction After Revascularization.|https://dx.doi.org/10.1177/15347346231210144
 Enhancing open clinical trials through blinded evaluations: an exploration with diabetic foot infections.|https://dx.doi.org/10.1186/s13063-023-07652-y
+Clinical practice recommendations for infectious disease management of diabetic foot infection (DFI) - 2023 SPILF.|https://dx.doi.org/10.1016/j.idnow.2023.104832
+Considerations in Charcot Reconstruction.|https://dx.doi.org/10.1016/j.cpm.2023.06.005
