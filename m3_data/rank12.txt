@@ -9,3 +9,9 @@ Clostridium difficile Enteritis With NAP7/078 Toxigenic Strain.|https://dx.doi.o
 Early Literacy Promotion Using Automated Hovering Among Young Minority Children.|https://dx.doi.org/10.1016/j.acap.2023.11.010
 Detection of Clostridium difficile among diarrheic children using cultural and polymerase chain reaction technique.|https://dx.doi.org/10.3855/jidc.17473
 A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.|https://dx.doi.org/10.1371/journal.ppat.1011741
+Prescription réfléchie pour les patients souffrant d’une dépression difficile à traiter.|https://dx.doi.org/10.46747/cfp.6911e221
+A Review of Omadacycline for Potential Utility in the Military Health System for the Treatment of Wound Infections.|https://dx.doi.org/10.1093/milmed/usad417
+The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease.|https://dx.doi.org/10.1172/JCI170859
+The pH-responsive SmrR-SmrT system modulates C. difficile antimicrobial resistance, spore formation, and toxin production.|https://dx.doi.org/10.1101/2023.11.02.565354
+The Global Burden of Type 2 Diabetes Attributable to Dietary Risks: Insights from the Global Burden of Disease Study 2019.|https://dx.doi.org/10.3390/nu15214613
+COVID-19 Australia: Epidemiology Report 79.|https://dx.doi.org/10.33321/cdi.2023.47.72

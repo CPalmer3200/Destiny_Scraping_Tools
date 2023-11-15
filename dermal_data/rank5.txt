@@ -13,3 +13,4 @@ A novel antimicrobial peptide Scyreptin(1-30) from Scylla paramamosain exhibitin
 The adhesin SCF1 mediates Candida auris colonization.|https://dx.doi.org/10.1016/j.tim.2023.10.008
 Tenacibaculum dicentrarchi produce outer membrane vesicles (OMV) that are associated with the cytotoxic effect in rainbow trout head kidney macrophages.|https://dx.doi.org/10.1111/jfd.13888
 Burkholderia cepacia skin-related ulceration: a case report.|https://dx.doi.org/10.12968/bjon.2023.32.Sup20.S6
+The Power of Licorice (Radix glycyrrhizae) to Improve Oral Health: A Comprehensive Review of Its Pharmacological Properties and Clinical Implications.|https://dx.doi.org/10.3390/healthcare11212887

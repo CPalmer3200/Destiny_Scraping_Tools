@@ -27,3 +27,12 @@ Bacteriophages: Vectors of or weapons against the transmission of antibiotic res
 The first investigation of a nosocomial outbreak caused by ST80 vancomycin-resistant Enterococci faecium in China.|https://dx.doi.org/10.1016/j.jhin.2023.10.020
 Morganella morganii and Enterococcus faecalis endophthalmitis following intravitreal injection.|https://dx.doi.org/10.1186/s12886-023-03198-4
 Ginsenoside Rg3 enriches SCFA-producing commensal bacteria to confer protection against enteric viral infection via the cGAS-STING-type I IFN axis.|https://dx.doi.org/10.1038/s41396-023-01541-7
+Optimization of oil yield of Pelargonium graveolens L'Hér using Box-Behnken design in relation to its antimicrobial activity and in silico study.|https://dx.doi.org/10.1038/s41598-023-47170-0
+Giardia lamblia Diagnosed During Upper Gastrointestinal Endoscopy: Clinical Manifestation, Histopathologic Findings and the Association With Celiac Disease.|https://dx.doi.org/10.1097/INF.0000000000004171
+A fluorogenic micrococcal nuclease-based probe for fast detection and optical imaging of Staphylococcus aureus in prosthetic joint and fracture-related infections.|https://dx.doi.org/10.1007/s00259-023-06499-4
+High incidence of antibiotic resistance amongst isolates of Helicobacter pylori collected in Nottingham, UK, between 2001 and 2018.|https://dx.doi.org/10.1099/jmm.0.001776
+Rapid Colloidal Gold Immunoassay for Pharmacokinetic Evaluation of Vancomycin in the Cerebrospinal Fluid and Plasma of Beagle Dogs.|https://dx.doi.org/10.3390/s23218978
+Vancomycin-Loaded 3D-Printed Polylactic Acid-Hydroxyapatite Scaffolds for Bone Tissue Engineering.|https://dx.doi.org/10.3390/polym15214250
+Occurrence of Antibiotic-Resistant Bacteria in Fish and Seafood from Slovak Market.|https://dx.doi.org/10.3390/foods12213912
+Silver, Its Salts and Application in Medicine and Pharmacy.|https://dx.doi.org/10.3390/ijms242115723
+Poor removal of tedizolid during continuous hemodiafiltration: experiments using an in vitro continuous hemodiafiltration model.|https://dx.doi.org/10.1186/s40780-023-00307-9
