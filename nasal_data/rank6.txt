@@ -8,3 +8,5 @@ Facile fabrication of carboxymethylcellulose/ZnO/g-C3N4 containing nutmeg extrac
 Early oral antibiotic switch in Staphylococcus aureus bacteraemia: The Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Early Oral Switch Protocol.|https://dx.doi.org/10.1093/cid/ciad666
 Reduced Use of Antibiotics and Nasal Decongestants During Treatment with a Mouthwash Containing Delmopinol.|https://dx.doi.org/10.3290/j.ohpd.b4586769
 Antigen specific activation of cytotoxic CD8(+) T cells by Staphylococcus aureus infected dendritic cells.|https://dx.doi.org/10.3389/fcimb.2023.1245299
+Antioxidant and antibacterial activities of the rhizome extract of Curcuma zedoaria extracted using some organic solvents.|https://dx.doi.org/10.5455/javar.2023.j687
+Fitness Trade-Offs between Phage and Antibiotic Sensitivity in Phage-Resistant Variants: Molecular Action and Insights into Clinical Applications for Phage Therapy.|https://dx.doi.org/10.3390/ijms242115628

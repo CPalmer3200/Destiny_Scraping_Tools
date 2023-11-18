@@ -16,3 +16,5 @@ Multifunctional Regeneration Silicon-Loaded Chitosan Hydrogels for MRSA-Infected
 Thermal, morphology and bacterial analysis of pH-responsive sodium carboxyl methylcellulose/ fumaric acid/ acrylamide nanocomposite hydrogels: Synthesis and characterization.|https://dx.doi.org/10.1016/j.heliyon.2023.e20939
 Preparation and characterization of ι-carrageenan nanocomposite hydrogels with dual anti-HPV and anti-bacterial activities.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127941
 Tailored chitosan/glycerol micropatterned composite dressings by 3D printing for improved wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127952
+Construction and properties of a carbon dots-decorated gelatin-dialdehyde starch hydrogel with pH response release and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127929
+Injectable Self-Expanding/Self-Propelling Hydrogel Adhesive with Procoagulant Activity and Rapid Gelation for Lethal Massive Hemorrhage Management.|https://dx.doi.org/10.1002/adma.202308701

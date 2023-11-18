@@ -17,3 +17,7 @@ Enhancing open clinical trials through blinded evaluations: an exploration with 
 Clinical practice recommendations for infectious disease management of diabetic foot infection (DFI) - 2023 SPILF.|https://dx.doi.org/10.1016/j.idnow.2023.104832
 Considerations in Charcot Reconstruction.|https://dx.doi.org/10.1016/j.cpm.2023.06.005
 Promising improvement in infected Wound Healing in Type two Diabetic rats by Combined effects of conditioned medium of human adipose-derived stem cells plus Photobiomodulation.|https://dx.doi.org/10.1186/s42826-023-00178-z
+Acceleration of a delayed healing wound repair model in diabetic rats by additive impacts of photobiomodulation plus conditioned medium of adipose-derived stem cells.|https://dx.doi.org/10.1007/s40200-023-01285-3
+Population pharmacokinetics of vancomycin in patients with diabetic foot infection: a comparison of five models.|https://dx.doi.org/10.1007/s40200-023-01259-5
+Whole genome sequencing and pan-genome analysis of Staphylococcus/Mammaliicoccus spp. isolated from diabetic foot ulcers and contralateral healthy skin of Algerian patients.|https://dx.doi.org/10.1186/s12866-023-03087-2
+A meta-analysis of the effectiveness of antibacterial bone cement in the treatment of diabetic foot skin wound infections.|https://dx.doi.org/10.1111/iwj.14487

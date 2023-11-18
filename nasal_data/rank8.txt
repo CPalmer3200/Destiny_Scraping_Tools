@@ -238,3 +238,19 @@ The Sunlight-Vitamin D Connection: Implications for Patient Outcomes in the Surg
 Delayed Diagnosis of an Invisible Seizure: Cefepime-Induced Non-convulsive Status Epilepticus.|https://dx.doi.org/10.7759/cureus.46810
 Flanged Bentall procedure for paravalvular leakage and pseudoaneurysm after root replacement in Behcet's disease and infective endocarditis: a case report.|https://dx.doi.org/10.1093/ehjcr/ytad489
 Evaluating the Potential of a New Low-Profile Urinary Catheter in Preventing Catheter-Associated Urinary Tract Infections: A Prospective Randomized Blinded Clinical Trial.|https://dx.doi.org/10.1177/23333928231211410
+The Device for Intraventricular Entry guide: a novel solution to a perpetual problem.|https://dx.doi.org/10.3171/2023.8.JNS23693
+Identification and Analysis of the Ankle Microbiome Using Next-Generation DNA Sequencing: An Observational Analysis.|https://dx.doi.org/10.5435/JAAOS-D-23-00387
+Preclinical safety evaluation of continuous UV-A lighting in an operative setting.|https://dx.doi.org/10.1371/journal.pone.0291083
+Alternaria fungal dacryocystitis with cutaneous fistula: a case report.|https://dx.doi.org/10.1080/01676830.2023.2274867
+The Evolution of Surgical Technique in Spinal Cord Stimulation: A Scoping Review.|https://dx.doi.org/10.1227/ons.0000000000000995
+Early outcomes of open anterior versus posterior components separation with transversus abdominis release for large median incisional hernias: a retrospective stepwise analysis.|https://dx.doi.org/10.1007/s10029-023-02920-x
+Synergistic properties of linezolid against Enterococcus spp. isolates: a systematic review from in vitro studies.|https://dx.doi.org/10.1007/s10096-023-04704-8
+The Effect of Aspiration and Corticosteroid Injection After ACL Injury on Postoperative Infection Rate.|https://dx.doi.org/10.1177/03635465231211606
+First reported case of ANCA-associated vasculitis induced by oxaliplatin, capecitabine, and trastuzumab.|https://dx.doi.org/10.1080/0886022X.2023.2282710
+Acceleration of a delayed healing wound repair model in diabetic rats by additive impacts of photobiomodulation plus conditioned medium of adipose-derived stem cells.|https://dx.doi.org/10.1007/s40200-023-01285-3
+30-Day Post-Operative Complications of Facial Fracture Repairs: A United States Database Study.|https://dx.doi.org/10.1177/19433875221128535
+Clinical Correlates of Cholestasis in Preterm Infants with Surgical Necrotizing Enterocolitis.|https://dx.doi.org/10.5005/jp-journals-11002-0069
+Persistent Inflammation Associated With HLA-B27 After Pars Plana Vitrectomy With Scleral Buckle Placement.|https://dx.doi.org/10.1177/24741264231176143
+Reconstructing Small-Medium Sized Oral Cavity Defects- Our Experience with the Versatile Famm Flap.|https://dx.doi.org/10.1007/s12070-023-03946-4
+Retrospective Cohort Study on the Surgical Outcomes of Intracapsular Thyroidectomy Vs Standard Thyroidectomy.|https://dx.doi.org/10.1007/s12070-023-04074-9
+Role of Prophylactic Dose of Oral Amoxicillin Trihydrate in Prevention of Bacteremia Post Surgical Removal of Impacted Mandibular Third Molar: A Clinical Study.|https://dx.doi.org/10.1007/s12070-023-03883-2

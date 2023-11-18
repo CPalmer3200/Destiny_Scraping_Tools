@@ -234,3 +234,20 @@ Design of biodegradable polyurethanes and post-modification with long alkyl chai
 Hyperbranched polyphthalocyanine micelles with dual PTT/PDT functions for bacteria eradication under an NIR window.|https://dx.doi.org/10.1039/d3cc04082h
 Endemic Mountain Tea (Sideritis dichotoma Huter): Antioxidant and Antibacterial Activities, Mineral Content by ICP-MS and Phytochemical Content by LCHR-MS.|https://dx.doi.org/10.1002/cbdv.202301453
 United we stand, divided we fall: in-depth proteomic evaluation of the synergistic effect of Mo-CBP(3)-PepI and Ciprofloxacin against Staphylococcus aureus biofilms.|https://dx.doi.org/10.1080/08927014.2023.2279992
+Elevated 68Ga-FAPI-04 Activity Due to Staphylococcus aureus Intracranial Infection.|https://dx.doi.org/10.1097/RLU.0000000000004958
+Facile biosynthesis of Ag-ZnO nanocomposites using Launaea cornuta leaf extract and their antimicrobial activity.|https://dx.doi.org/10.1186/s11671-023-03925-2
+Rocket-miR, a translational launchpad for miRNA-based antimicrobial drug development.|https://dx.doi.org/10.1128/msystems.00653-23
+Transparent Oil-Water Separating Hydrophobic Sponge Prepared from a Pickering High Internal Phase Emulsion Stabilized by Octadecyltrichlorosilane Grafting Carbon Nanotubes.|https://dx.doi.org/10.1021/acs.langmuir.3c02529
+Photothermally Enhanced Cascaded Nanozyme-Functionalized Black Phosphorus Nanosheets for Targeted Treatment of Infected Diabetic Wounds.|https://dx.doi.org/10.1002/adhm.202302955
+Population pharmacokinetics of vancomycin in patients with diabetic foot infection: a comparison of five models.|https://dx.doi.org/10.1007/s40200-023-01259-5
+Nanocrystalline silver for the treatment of otitis externa.|https://dx.doi.org/10.1007/s12070-023-04042-3
+Pediatric Craniofacial and Neck Burns.|https://dx.doi.org/10.1007/s12070-023-03926-8
+Evaluation of the Current Bacterial Pathogens and Antibiogram of Chronic Suppurative Otitis Media in Adults.|https://dx.doi.org/10.1007/s12070-023-03904-0
+Mapping disease regulatory circuits at cell-type resolution from single-cell multiomics data.|https://dx.doi.org/10.1038/s43588-023-00476-5
+Antibacterial and antibiofilm effects of Camellia oleifera seed dreg extract and its application in cosmetics.|https://dx.doi.org/10.1111/jocd.16068
+Streptococcus strain D19(T) as a probiotic candidate to modulate oral health.|https://dx.doi.org/10.1186/s12866-023-03066-7
+Whole genome sequencing and pan-genome analysis of Staphylococcus/Mammaliicoccus spp. isolated from diabetic foot ulcers and contralateral healthy skin of Algerian patients.|https://dx.doi.org/10.1186/s12866-023-03087-2
+Phytochemical analysis and anti-infective potential of fungal endophytes isolated from Nigella sativa seeds.|https://dx.doi.org/10.1186/s12866-023-03085-4
+Pyrogallol impairs staphylococcal biofilm formation via induction of bacterial oxidative stress.|https://dx.doi.org/10.1093/jambio/lxad270
+A cleavable chimeric peptide with targeting and killing domains enhances LPS neutralization and antibacterial properties against multi-drug resistant E. coli.|https://dx.doi.org/10.1038/s42003-023-05528-0
+Epidemiologic case investigation on the zoonotic transmission of Methicillin-resistant Staphylococcus pseudintermedius among dogs and their owners.|https://dx.doi.org/10.1016/j.jiph.2023.10.041

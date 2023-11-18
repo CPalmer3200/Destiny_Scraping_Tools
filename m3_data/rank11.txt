@@ -36,3 +36,19 @@ Vancomycin-Loaded 3D-Printed Polylactic Acid-Hydroxyapatite Scaffolds for Bone T
 Occurrence of Antibiotic-Resistant Bacteria in Fish and Seafood from Slovak Market.|https://dx.doi.org/10.3390/foods12213912
 Silver, Its Salts and Application in Medicine and Pharmacy.|https://dx.doi.org/10.3390/ijms242115723
 Poor removal of tedizolid during continuous hemodiafiltration: experiments using an in vitro continuous hemodiafiltration model.|https://dx.doi.org/10.1186/s40780-023-00307-9
+Synergistic properties of linezolid against Enterococcus spp. isolates: a systematic review from in vitro studies.|https://dx.doi.org/10.1007/s10096-023-04704-8
+Population pharmacokinetics of vancomycin in patients with diabetic foot infection: a comparison of five models.|https://dx.doi.org/10.1007/s40200-023-01259-5
+Urinary Biomarkers as Indicators of Acute Kidney Injury in Critically Ill Children Exposed to Vancomycin.|https://dx.doi.org/10.1002/phar.2893
+Systematic mining of the human microbiome identifies antimicrobial peptides with diverse activity spectra.|https://dx.doi.org/10.1038/s41564-023-01524-6
+Primary antibiotic resistance of Helicobacter pylori in the Asia-Pacific region between 1990 and 2022: an updated systematic review and meta-analysis.|https://dx.doi.org/10.1016/S2468-1253(23)00281-9
+How to Dose Vancomycin in Overweight and Obese Patients with Varying Renal (Dys)function in the Novel Era of AUC 400-600 mg·h/L-Targeted Dosing.|https://dx.doi.org/10.1007/s40262-023-01324-5
+The potential for development of clinically relevant microbial resistance to rifaximin-α: a narrative review.|https://dx.doi.org/10.1128/cmr.00039-23
+Use of Antipseudomonal Antibiotics is not Associated with Lower Rates of Postoperative Drainage Procedures or More Favorable Culture Profiles in Children with Complicated Appendicitis: Results from a Multicenter Regional Research Consortium.|https://dx.doi.org/10.1097/SLA.0000000000006152
+Vancomycin flushing syndrome in orthopaedic practice: A case report.|https://dx.doi.org/10.5312/wjo.v14.i10.771
+Characteristics of Streptococcus agalactiae causing urinary tract infections: Emergence of new sequence types ST74 and ST38 in Iran.|https://dx.doi.org/10.22038/IJBMS.2023.70337.15294
+Bacteraemia and obstructive pyelonephritis caused by Bifidobacterium breve in an elderly woman: a case report and literature review.|https://dx.doi.org/10.1099/acmi.0.000574.v3
+A very rare case of bacteraemia in a 4-year-old girl with osteopetrosis with probable Leuconostoc lactis infection.|https://dx.doi.org/10.1099/acmi.0.000439
+Multifunctional Carbon Nanodots for Antibacterial Enhancement, pH Change, and Poisonous Tin(IV) Specifical Detection.|https://dx.doi.org/10.1021/acsomega.3c05319
+Neonatal methicillin-resistant Staphylococcus aureus pneumonia-related recurrent fatal pyopneumothorax: A case report and review of literature.|https://dx.doi.org/10.12998/wjcc.v11.i30.7475
+Six-year analysis of key monitoring for bacterial strain distribution and antibiotic sensitivity in a hospital.|https://dx.doi.org/10.12998/wjcc.v11.i30.7294
+Transcriptional regulation of the fidaxomicin gene cluster and cellular development in Actinoplanes deccanensis YP-1 by the pleiotropic regulator MtrA.|https://dx.doi.org/10.1128/spectrum.02702-23

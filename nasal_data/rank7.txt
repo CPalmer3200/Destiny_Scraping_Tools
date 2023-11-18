@@ -274,3 +274,22 @@ Descriptive analysis of a SARS-CoV-2 outbreak among health-care workers in a reg
 Persistent Respiratory Failure and Re-Admission in Patients with Chronic Obstructive Pulmonary Disease Following Hospitalization for COVID-19.|https://dx.doi.org/10.2147/COPD.S428316
 Thrombotic Thrombocytopenic Purpura Following Pfizer-BioNTech COVID-19 Vaccination in a Patient With Multiple Myeloma: Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.46784
 SARS-CoV-2 pre-exposure prophylaxis with tixagevimab/cilgavimab (AZD7442) provides protection in inborn errors of immunity with antibody defects: a real-world experience.|https://dx.doi.org/10.3389/fimmu.2023.1249462
+The impact of the COVID-19 pandemic on cancer care including innovations implemented in Sub-Saharan Africa: A systematic review.|https://dx.doi.org/10.7189/jogh.13.06048
+NLRP12 Senses the SARS-CoV-2 Membrane Protein and Promotes an Inflammatory Response.|https://dx.doi.org/10.1093/infdis/jiad458
+Effects of SARS-CoV-2 Vaccines on Sperm Quality: Systematic Review.|https://dx.doi.org/10.2196/48511
+Steroid initiation timing and outcome of coronavirus disease 2019 patients: A multicenter, retrospective, observational study.|https://dx.doi.org/10.1177/03946320231216314
+Efficacy of combined COVID-19 convalescent plasma with oral RNA-dependent RNA polymerase inhibitor treatment versus neutralizing monoclonal antibody therapy in COVID-19 outpatients: a multi-center, non-inferiority, open-label randomized controlled trial (PlasMab).|https://dx.doi.org/10.1128/spectrum.03257-23
+A report about the experience of COVID-19 active surveillance of homeless, undocumented people, and shelter staff in two cities of Lazio, Italy.|https://dx.doi.org/10.26355/eurrev_202311_34359
+Is there an increased risk of complications in patients diagnosed with COVID-19 six months before total knee arthroplasty?|https://dx.doi.org/10.26355/eurrev_202311_34302
+Insulin and early debridement keys to survival in-COVID 19 associated mucormycosis patients(CAM)- An experience from tertiary care hospital In India.|https://dx.doi.org/10.1007/s40200-023-01269-3
+Protease Inhibitors for Treating or Preventing Coronavirus Infection.|https://dx.doi.org/10.1021/acsmedchemlett.3c00417
+Mucormycosis Epidemic in Covid Era: A Sinister Superinfection.|https://dx.doi.org/10.1007/s12070-023-04014-7
+Pivoting injury prevention efforts during a pandemic: results of an international survey.|https://dx.doi.org/10.1186/s40621-023-00472-3
+Trust in pharmaceuticals and vaccine hesitancy: exploring factors influencing COVID-19 immunization among Lebanese children aged 1 to 11 years.|https://dx.doi.org/10.1186/s12887-023-04394-3
+Ventilator-associated pneumonia in Polish intensive care unit dedicated to COVID-19 patients.|https://dx.doi.org/10.1186/s12890-023-02743-7
+Use of a digital contact tracing system in Singapore to mitigate COVID-19 spread.|https://dx.doi.org/10.1186/s12889-023-17150-0
+Near complete genome sequences from Southern Vietnam revealed local features of genetic diversity and intergenerational changes in SARS- CoV-2 variants in 2020-2021.|https://dx.doi.org/10.1186/s12879-023-08814-8
+Assessing hand hygiene knowledge, attitudes, and behaviors among Guatemalan primary school students in the context of the COVID-19 pandemic.|https://dx.doi.org/10.1186/s12889-023-17168-4
+Protecting small and sick newborn care in the COVID-19 pandemic: multi-stakeholder qualitative data from four African countries with NEST360.|https://dx.doi.org/10.1186/s12887-023-04358-7
+The change of healthcare service in Chinese patients with inflammatory bowel disease during the pandemic: a national multicenter cross-sectional study.|https://dx.doi.org/10.1038/s41598-023-46892-5
+Vaccine effectiveness of COVID-19 and rebound in the real world.|https://dx.doi.org/10.1007/s10238-023-01204-z

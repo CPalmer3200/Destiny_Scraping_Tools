@@ -2,3 +2,4 @@ Extended antibiotic therapy is associated with a lower rate of clinically releva
 Factors Associated With Actionable Gastrointestinal Panel Results in Hospitalized Children.|https://dx.doi.org/10.1542/hpeds.2023-007273
 Surveillance and epidemiology of Clostridioides difficile infection using the national health surveillance network criteria: A 7-year study from Mumbai, India.|https://dx.doi.org/10.1016/j.ijmmb.2023.100425
 Clostridioides difficile MreE (PBP2) variants facilitate clinical disease during cephalosporin exposures.|https://dx.doi.org/10.1101/2023.10.23.23297415
+Clostridioides difficile infection in neurosurgical patients in a national centre over 10 years: less common but associated with longer hospital stays.|https://dx.doi.org/10.1007/s00701-023-05883-1

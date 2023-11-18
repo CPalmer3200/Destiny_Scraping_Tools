@@ -15,3 +15,5 @@ Tenacibaculum dicentrarchi produce outer membrane vesicles (OMV) that are associ
 Burkholderia cepacia skin-related ulceration: a case report.|https://dx.doi.org/10.12968/bjon.2023.32.Sup20.S6
 The Power of Licorice (Radix glycyrrhizae) to Improve Oral Health: A Comprehensive Review of Its Pharmacological Properties and Clinical Implications.|https://dx.doi.org/10.3390/healthcare11212887
 Peptide-Mimicking Poly(2-oxazoline)s Possessing Potent Antifungal Activity and BBB Penetrating Property to Treat Invasive Infections and Meningitis.|https://dx.doi.org/10.1021/jacs.3c09240
+Antibacterial and antibiofilm effects of Camellia oleifera seed dreg extract and its application in cosmetics.|https://dx.doi.org/10.1111/jocd.16068
+Adding Flying Wings: Butterfly-Shaped NIR-II AIEgens with Multiple Molecular Rotors for Photothermal Combating of Bacterial Biofilms.|https://dx.doi.org/10.1021/jacs.3c09058

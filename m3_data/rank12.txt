@@ -15,3 +15,15 @@ The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic feat
 The pH-responsive SmrR-SmrT system modulates C. difficile antimicrobial resistance, spore formation, and toxin production.|https://dx.doi.org/10.1101/2023.11.02.565354
 The Global Burden of Type 2 Diabetes Attributable to Dietary Risks: Insights from the Global Burden of Disease Study 2019.|https://dx.doi.org/10.3390/nu15214613
 COVID-19 Australia: Epidemiology Report 79.|https://dx.doi.org/10.33321/cdi.2023.47.72
+PCA and logistic regression in 2-[(18)F]FDG PET neuroimaging as an interpretable and diagnostic tool for Alzheimer's disease.|https://dx.doi.org/10.1088/1361-6560/ad0ddd
+Spatial-temporal simulation for hospital infection spread and outbreaks of Clostridioides difficile.|https://dx.doi.org/10.1038/s41598-023-47296-1
+Pro-Survival Pathway Protects from C. difficile Toxin-Mediated Cell Death.|https://dx.doi.org/10.1093/infdis/jiad481
+[Diagnostic efficiency of transcutaneous ultrasound scanning and Dopplerography in laryngeal pathology].|https://dx.doi.org/10.17116/otorino20238805127
+Implications of different cell death patterns for prognosis and immunity in lung adenocarcinoma.|https://dx.doi.org/10.1038/s41698-023-00456-y
+Author Correction: Genetic variation in the human leukocyte antigen region confers susceptibility to Clostridioides difficile infection.|https://dx.doi.org/10.1038/s41598-023-47359-3
+Clostridioides difficile ferrosome organelles combat nutritional immunity.|https://dx.doi.org/10.1038/s41586-023-06719-9
+A cluster of leptospirosis cases associated with crocodile workers in the Northern Territory, Australia, 2022.|https://dx.doi.org/10.33321/cdi.2023.47.70
+A five-year analysis of latent tuberculosis infection in Queensland, 2016-2020.|https://dx.doi.org/10.33321/cdi.2023.47.71
+Australian Group on Antimicrobial Resistance (AGAR) Australian Gram-negative Surveillance Outcome Program (GnSOP) Bloodstream Infection Annual Report 2022.|https://dx.doi.org/10.33321/cdi.2023.47.69
+Meningococcal Surveillance Australia - Reporting period 1 January to 31 March 2023.|https://dx.doi.org/10.33321/cdi.2023.47.59
+The APPRISE Virtual Biobank for Infectious Diseases.|https://dx.doi.org/10.33321/cdi.2023.47.66

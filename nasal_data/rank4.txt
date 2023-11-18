@@ -158,3 +158,21 @@ Comparison of temporary external and percutaneous k-wire fixations for treatment
 Contemporary Management of Staphylococcus aureus Bacteremia-Controversies in Clinical Practice.|https://dx.doi.org/10.1093/cid/ciad500
 Gonorrheal and chlamydia yield for genital and extragenital testing in children evaluated for sexual abuse.|https://dx.doi.org/10.1016/j.chiabu.2023.106525
 Right atrial thrombus leading to pulmonary embolism in a patient with dermatomyositis and COVID-19 managed with FlowTriever device thrombectomy.|https://dx.doi.org/10.1136/bcr-2023-255385
+Optimizing Surgical Wound Care in Obstetrics and Gynecology.|https://dx.doi.org/10.1097/OGX.0000000000001204
+Uterine Prolapse in Pregnancy: A Review.|https://dx.doi.org/10.1097/OGX.0000000000001192
+Simultaneous Robotic-Assisted Splenectomy and Cholecystectomy in Children: Is It Safe and Effective?|https://dx.doi.org/10.1089/lap.2023.0255
+Pretreatment HIV Drug Resistance and the Molecular Transmission Network Among HIV-Positive Individuals in China in 2022: Multicenter Observational Study.|https://dx.doi.org/10.2196/50894
+Surgical Outcome of Endoscopic Dacryocystorhinostomy with and Without Prolene Stent in Chronic Dacryocystitis: A Randomized Controlled Trial.|https://dx.doi.org/10.1007/s12070-023-03911-1
+A Rare Case of Retropharyngeal Abscess in a 3 Month Old Male Infant: Case Report and Review of Literature.|https://dx.doi.org/10.1007/s12070-023-04043-2
+Anaesthetic and Surgical Considerations in Post COVID-19 Patients Requiring Head and Neck Surgery.|https://dx.doi.org/10.1007/s12070-023-04040-5
+Ultrasound guidance practices used for the placement of vascular accesses in intensive care units: an observational multicentre study.|https://dx.doi.org/10.1186/s40001-023-01518-4
+Effects of an enhanced recovery after surgery nursing programme on surgical site wound infection and postoperative complications in patients undergoing total knee arthroplasty: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14485
+Effectiveness of a bivalent mRNA vaccine dose against symptomatic SARS-CoV-2 infection among U.S. Healthcare personnel, September 2022-May 2023.|https://dx.doi.org/10.1016/j.vaccine.2023.10.072
+Hernia repair in the bariatric patient: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.soard.2023.10.005
+Evaluation of Thoracoscopic Lobectomy in Infants for Congenital Lung Lesions: Earlier Is Better!|https://dx.doi.org/10.1016/j.jpedsurg.2023.10.060
+Lead poisoning: Clinical and laboratory considerations.|https://dx.doi.org/10.1016/bs.acc.2023.08.001
+Type I Photosensitizer Targeting Glycans: Overcoming Biofilm Resistance by Inhibiting The Two-Component System, Quorum Sensing, And Multidrug Efflux.|https://dx.doi.org/10.1002/adma.202309797
+Polyether Ether Ketone (PEEK) Implants and the Manufacturer and User Facility Device Experience (MAUDE) Database: An Updated Review of Adverse Events and Complications.|https://dx.doi.org/10.1097/SCS.0000000000009871
+Investigation of etiology of community-acquired pneumonia in hospitalized patients in a tertiary hospital of São Paulo City, Brazil.|https://dx.doi.org/10.1016/j.bjid.2023.103690
+Recommended Childhood and Adolescent Immunization Schedule: United States, 2024.|https://dx.doi.org/10.1542/peds.2023-065044
+Evaluating the utility of robotic axillary lymph node dissection in patients with invasive breast cancer: a systematic review.|https://dx.doi.org/10.1007/s11845-023-03561-w
