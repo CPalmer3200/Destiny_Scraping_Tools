@@ -1,3 +1,5 @@
 Bayesian modeling of the impact of antibiotic resistance on the efficiency of MRSA decolonization.|https://dx.doi.org/10.1371/journal.pcbi.1010898
 Evaluation of the Effect and Mechanism of Sanhuang Ointment on MRSA Infection in the Skin and Soft Tissue via Network Pharmacology.|https://dx.doi.org/10.2147/IDR.S424746
 Antimicrobial susceptibilities and genomic characteristics of methicillin-resistant Staphylococcus aureus resistant to mupirocin in Stockholm, Sweden.|https://dx.doi.org/10.1111/apm.13357
+Perspectives on antimicrobial properties of Paulownia tomentosa Steud. Fruit products in the control of Staphylococcus aureus infections.|https://dx.doi.org/10.1016/j.jep.2023.117461
+Fabrication of geraniol nanophytosomes loaded into polyvinyl alcohol: A new product for the treatment of wounds infected with methicillin-resistant Staphylococcusaureus.|https://dx.doi.org/10.1016/j.jtv.2023.11.002

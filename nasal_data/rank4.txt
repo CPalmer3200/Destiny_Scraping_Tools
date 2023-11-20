@@ -176,3 +176,10 @@ Polyether Ether Ketone (PEEK) Implants and the Manufacturer and User Facility De
 Investigation of etiology of community-acquired pneumonia in hospitalized patients in a tertiary hospital of São Paulo City, Brazil.|https://dx.doi.org/10.1016/j.bjid.2023.103690
 Recommended Childhood and Adolescent Immunization Schedule: United States, 2024.|https://dx.doi.org/10.1542/peds.2023-065044
 Evaluating the utility of robotic axillary lymph node dissection in patients with invasive breast cancer: a systematic review.|https://dx.doi.org/10.1007/s11845-023-03561-w
+Targeting average length of hospital stay as a control measure to decrease COVID-19 hospital-acquired infection in surgical cancer patients.|https://dx.doi.org/10.1186/s43046-023-00199-8
+Perioperative outcomes of penile prosthesis implantation in Germany: results from the GRAND study.|https://dx.doi.org/10.1038/s41443-023-00796-0
+The Racial Disparity of Severe Maternal Morbidity Across Weeks of Gestation: A Cross-Sectional Analysis of the 2019 National Inpatient Sample.|https://dx.doi.org/10.1016/j.ajog.2023.11.1228
+Drainage in primary and revision hip and knee arthroplasty.|https://dx.doi.org/10.1016/j.otsr.2023.103764
+Risk factors and mortality of SARS-CoV-2 reinfection during the Omicron era in Taiwan: A nationwide population-based cohort study.|https://dx.doi.org/10.1016/j.jmii.2023.10.013
+The effect of interventions on the incidence of surgical site infections in acute care settings: A systematic review.|https://dx.doi.org/10.1016/j.jtv.2023.11.004
+Meeting the Canadian 24-Hour Movement Guidelines and physical-mental comorbidity among Chinese children and adolescents: Prevalence, associations, and the population impacts.|https://dx.doi.org/10.1016/j.jpsychores.2023.111544

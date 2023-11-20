@@ -21,3 +21,5 @@ Acceleration of a delayed healing wound repair model in diabetic rats by additiv
 Population pharmacokinetics of vancomycin in patients with diabetic foot infection: a comparison of five models.|https://dx.doi.org/10.1007/s40200-023-01259-5
 Whole genome sequencing and pan-genome analysis of Staphylococcus/Mammaliicoccus spp. isolated from diabetic foot ulcers and contralateral healthy skin of Algerian patients.|https://dx.doi.org/10.1186/s12866-023-03087-2
 A meta-analysis of the effectiveness of antibacterial bone cement in the treatment of diabetic foot skin wound infections.|https://dx.doi.org/10.1111/iwj.14487
+Risk factors associated with osteomyelitis due to Corynebacterium striatum in patients with diabetic foot.|https://dx.doi.org/10.1016/j.medcli.2023.09.015
+Fighting diabetic foot ulcer by combination therapy, including larva therapy, Medi honey ointment, and silver alginate dressings: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109055
