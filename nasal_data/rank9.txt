@@ -251,3 +251,19 @@ Phytochemical analysis and anti-infective potential of fungal endophytes isolate
 Pyrogallol impairs staphylococcal biofilm formation via induction of bacterial oxidative stress.|https://dx.doi.org/10.1093/jambio/lxad270
 A cleavable chimeric peptide with targeting and killing domains enhances LPS neutralization and antibacterial properties against multi-drug resistant E. coli.|https://dx.doi.org/10.1038/s42003-023-05528-0
 Epidemiologic case investigation on the zoonotic transmission of Methicillin-resistant Staphylococcus pseudintermedius among dogs and their owners.|https://dx.doi.org/10.1016/j.jiph.2023.10.041
+Comparison of Chitosan and SLN nano-delivery systems for antibacterial effect of Tea Tree (Melaleuca alternifolia) oil against P. aeruginosa and S. aureus.|https://dx.doi.org/10.1093/lambio/ovad130
+Inflammation of actinic keratosis from chemotherapy in a relapsed multiple myeloma patient.|https://dx.doi.org/10.1136/bcr-2023-256024
+Corrigendum: Synergistic and Additive Effects of Menadione in Combination with Antibiotics on Multidrug-Resistant Staphylococcus aureus: Insights from Structure-Function Analysis of Naphthoquinones.|https://dx.doi.org/10.1002/cmdc.202300632
+Synthesis and In silico studies of Some New 1,2,3-Triazolyltetrazole Bearing Indazole Derivatives as Potent Antimicrobial Agents.|https://dx.doi.org/10.1002/cbdv.202301232
+Starch Assisted the ZnS Buffer Layer in Enhancing the Photoluminescence of ZnSe/ZnS:Mn/ZnS Quantum Dots for Detecting E. Coli and MRSA Bacteria Quickly.|https://dx.doi.org/10.1007/s10895-023-03493-9
+Porphyrin-anthracene covalent organic frameworks for sustainable photosterilization.|https://dx.doi.org/10.1039/d3tb02017g
+Differences in Biofilm Formation by Methicillin-Resistant and Methicillin-Susceptible Staphylococcus aureus Strains.|https://dx.doi.org/10.3390/diseases11040160
+Combined Malonic and Methylmalonic Aciduria Diagnosed by Recurrent and Severe Infections Mimicking a Primary Immunodeficiency Disease: A Case Report.|https://dx.doi.org/10.3346/jkms.2023.38.e387
+[A multicenter randomized controlled trial of domestic robot-assisted and conventional total knee arthroplasty].|https://dx.doi.org/10.7507/1002-1892.202307078
+Effect of Resveratrol and Curcumin on Gene Expression of Methicillin-Resistant Staphylococcus aureus (MRSA) Toxins.|https://dx.doi.org/10.4014/jmb.2309.09001
+Fatal bacteremia caused by Staphylococcus argenteus: A case report.|https://dx.doi.org/10.1097/MD.0000000000035866
+Phenolic content, antioxidant and antimicrobial activities evaluation and relationship of commercial spices in the lebanese market.|https://dx.doi.org/10.1186/s13065-023-01074-2
+PCT, IL-6, and IL-10 facilitate early diagnosis and pathogen classifications in bloodstream infection.|https://dx.doi.org/10.1186/s12941-023-00653-4
+Comparative proteomic analysis of vancomycin-sensitive and vancomycin-intermediate resistant Staphylococcus aureus.|https://dx.doi.org/10.1007/s10096-023-04709-3
+Biological characteristics and pathogenicity of a Staphylococcus aureus strain with an incomplete hemolytic phenotype isolated from bovine milk.|https://dx.doi.org/10.1111/1348-0421.13102
+Carboxylated nanofibrillated cellulose empowers moxifloxacin to overcome Staphylococcus aureus biofilm in bacterial keratitis.|https://dx.doi.org/10.1016/j.carbpol.2023.121558

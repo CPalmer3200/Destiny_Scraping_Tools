@@ -17,3 +17,6 @@ The Power of Licorice (Radix glycyrrhizae) to Improve Oral Health: A Comprehensi
 Peptide-Mimicking Poly(2-oxazoline)s Possessing Potent Antifungal Activity and BBB Penetrating Property to Treat Invasive Infections and Meningitis.|https://dx.doi.org/10.1021/jacs.3c09240
 Antibacterial and antibiofilm effects of Camellia oleifera seed dreg extract and its application in cosmetics.|https://dx.doi.org/10.1111/jocd.16068
 Adding Flying Wings: Butterfly-Shaped NIR-II AIEgens with Multiple Molecular Rotors for Photothermal Combating of Bacterial Biofilms.|https://dx.doi.org/10.1021/jacs.3c09058
+Rational Design and Antimicrobial Potency Assessment of Abaecin Analogues.|https://dx.doi.org/10.1021/acsbiomaterials.3c01234
+On-farm epidemiology, virulence profiling, and molecular characterization of methicillin-resistant Staphylococcus aureus at goat farms.|https://dx.doi.org/10.1016/j.micpath.2023.106456
+Biofilm heterogeneity-adaptive photoredox catalysis enables red light-triggered nitric oxide release for combating drug-resistant infections.|https://dx.doi.org/10.1038/s41467-023-43415-8

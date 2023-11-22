@@ -3,3 +3,5 @@ Factors Associated With Actionable Gastrointestinal Panel Results in Hospitalize
 Surveillance and epidemiology of Clostridioides difficile infection using the national health surveillance network criteria: A 7-year study from Mumbai, India.|https://dx.doi.org/10.1016/j.ijmmb.2023.100425
 Clostridioides difficile MreE (PBP2) variants facilitate clinical disease during cephalosporin exposures.|https://dx.doi.org/10.1101/2023.10.23.23297415
 Clostridioides difficile infection in neurosurgical patients in a national centre over 10 years: less common but associated with longer hospital stays.|https://dx.doi.org/10.1007/s00701-023-05883-1
+Is perioperative blood transfusion associated with postoperative thromboembolism or infection after metastatic spinal tumor surgery?|https://dx.doi.org/10.1016/j.clineuro.2023.108052
+A narrative review of how infection preventionist (IP) staffing and outcome metrics are assessed by health care organizations and factors to consider.|https://dx.doi.org/10.1016/j.ajic.2023.06.017

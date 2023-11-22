@@ -10,3 +10,5 @@ Reduced Use of Antibiotics and Nasal Decongestants During Treatment with a Mouth
 Antigen specific activation of cytotoxic CD8(+) T cells by Staphylococcus aureus infected dendritic cells.|https://dx.doi.org/10.3389/fcimb.2023.1245299
 Antioxidant and antibacterial activities of the rhizome extract of Curcuma zedoaria extracted using some organic solvents.|https://dx.doi.org/10.5455/javar.2023.j687
 Fitness Trade-Offs between Phage and Antibiotic Sensitivity in Phage-Resistant Variants: Molecular Action and Insights into Clinical Applications for Phage Therapy.|https://dx.doi.org/10.3390/ijms242115628
+Effective early strategy to prevent olfactory and gustatory dysfunction in COVID-19: A randomized controlled trial.|https://dx.doi.org/10.1093/qjmed/hcad262
+Human monoclonal antibodies against Staphylococcus aureus A protein identified by high-throughput single-cell sequencing of phase I clinical volunteers' B cells.|https://dx.doi.org/10.1016/j.clim.2023.109843

@@ -183,3 +183,12 @@ Drainage in primary and revision hip and knee arthroplasty.|https://dx.doi.org/1
 Risk factors and mortality of SARS-CoV-2 reinfection during the Omicron era in Taiwan: A nationwide population-based cohort study.|https://dx.doi.org/10.1016/j.jmii.2023.10.013
 The effect of interventions on the incidence of surgical site infections in acute care settings: A systematic review.|https://dx.doi.org/10.1016/j.jtv.2023.11.004
 Meeting the Canadian 24-Hour Movement Guidelines and physical-mental comorbidity among Chinese children and adolescents: Prevalence, associations, and the population impacts.|https://dx.doi.org/10.1016/j.jpsychores.2023.111544
+Pediatric preoperative bathing process: An infection prevention perspective for development of a highly reliable organization.|https://dx.doi.org/10.1016/j.cppeds.2023.101465
+An update on a persisting challenge: a systematic review and meta-analysis of the risk factors for surgical site infection post craniotomy.|https://dx.doi.org/10.1016/j.ajic.2023.11.005
+Implementing an Adult Extracorporeal Membrane Oxygenation Program During the COVID-19 Pandemic.|https://dx.doi.org/10.1097/01.NAJ.0000997232.94091.ba
+CDC Identifies Core Elements for Hospital Sepsis Programs.|https://dx.doi.org/10.1097/01.NAJ.0000997176.62217.0e
+Eco-Friendly and COVID-19 Friendly? Decreasing the Carbon Footprint of the Operating Room in the COVID-19 Era.|https://dx.doi.org/10.3390/diseases11040157
+[Study on clinical characteristics and surgical methods of bucket-handle meniscal tears].|https://dx.doi.org/10.7507/1002-1892.202308001
+Viral load of SARS-CoV-2 in surgical smoke in minimally invasive and open surgery: a single-center prospective clinical trial.|https://dx.doi.org/10.1038/s41598-023-47058-z
+Successful management of malignant colovesical fistula using covered colonic self-expanding metallic stent: a case report.|https://dx.doi.org/10.1186/s40792-023-01784-8
+HPV testing in Polish population-based cervical cancer screening programme (HIPPO project)-study protocol of a randomised healthcare policy trial.|https://dx.doi.org/10.1186/s12885-023-11597-5

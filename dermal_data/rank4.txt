@@ -18,3 +18,9 @@ Preparation and characterization of ι-carrageenan nanocomposite hydrogels with 
 Tailored chitosan/glycerol micropatterned composite dressings by 3D printing for improved wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127952
 Construction and properties of a carbon dots-decorated gelatin-dialdehyde starch hydrogel with pH response release and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127929
 Injectable Self-Expanding/Self-Propelling Hydrogel Adhesive with Procoagulant Activity and Rapid Gelation for Lethal Massive Hemorrhage Management.|https://dx.doi.org/10.1002/adma.202308701
+A highly stretchable, adhesive, and antibacterial hydrogel with chitosan and tobramycin as dynamic cross-linkers for treating the infected diabetic wound.|https://dx.doi.org/10.1016/j.carbpol.2023.121543
+Vancomycin-loaded methylcellulose aerogel scaffolds for advanced bone tissue engineering.|https://dx.doi.org/10.1016/j.carbpol.2023.121536
+Facile fabrication and antibacterial properties of chitosan/acrylamide/gold nanocomposite hydrogel incorporated with Chaetomium globosium extracts from Gingko biloba leaves.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128194
+Ag nanocomposite hydrogels with immune and regenerative microenvironment regulation promote scarless healing of infected wounds.|https://dx.doi.org/10.1186/s12951-023-02209-2
+Porous antimicrobial crosslinked film of hydroxypropyl methylcellulose/carboxymethyl starch incorporating gallic acid for wound dressing application.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128231
+Polycaprolactone/cress seed mucilage based bilayer antibacterial films containing ZnO nanoparticles with superabsorbent property for the treatment of exuding wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128090

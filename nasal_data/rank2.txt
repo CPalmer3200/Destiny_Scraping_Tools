@@ -20,3 +20,4 @@ The Impact of the Nasal Mucosal Flap on Tissue Remodeling After Sinus Bone Drill
 Nasal Decolonization in Congregant Settings: Reducing Infection Spread, Cutting Costs, and Improving Operational Readiness.|https://dx.doi.org/10.1093/milmed/usad431
 Systematic mining of the human microbiome identifies antimicrobial peptides with diverse activity spectra.|https://dx.doi.org/10.1038/s41564-023-01524-6
 Nasal airway inflammatory responses and pathogen detection in infants with cystic fibrosis.|https://dx.doi.org/10.1016/j.jcf.2023.10.020
+Predictive value of methicillin-resistant staphylococcus aureus nasal swab in patients with COVID-19 pneumonia and secondary bacterial pneumonia.|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116134

@@ -3,3 +3,5 @@ Deciphering the molecular and cellular atlas of immune cells in septic patients 
 Prevalence of Mupirocin and Methicillin-Resistant Staphylococcus aureus in Nasal Carriage Among Healthcare Workers in an Intensive Care Unit and Post-decolonization Screening Outcomes at a Tertiary Care Hospital: A Prospective Study.|https://dx.doi.org/10.7759/cureus.46435
 Evaluation of the Effect and Mechanism of Sanhuang Ointment on MRSA Infection in the Skin and Soft Tissue via Network Pharmacology.|https://dx.doi.org/10.2147/IDR.S424746
 Antimicrobial susceptibilities and genomic characteristics of methicillin-resistant Staphylococcus aureus resistant to mupirocin in Stockholm, Sweden.|https://dx.doi.org/10.1111/apm.13357
+Perspectives on antimicrobial properties of Paulownia tomentosa Steud. Fruit products in the control of Staphylococcus aureus infections.|https://dx.doi.org/10.1016/j.jep.2023.117461
+Fabrication of geraniol nanophytosomes loaded into polyvinyl alcohol: A new product for the treatment of wounds infected with methicillin-resistant Staphylococcusaureus.|https://dx.doi.org/10.1016/j.jtv.2023.11.002

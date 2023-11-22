@@ -293,3 +293,19 @@ Assessing hand hygiene knowledge, attitudes, and behaviors among Guatemalan prim
 Protecting small and sick newborn care in the COVID-19 pandemic: multi-stakeholder qualitative data from four African countries with NEST360.|https://dx.doi.org/10.1186/s12887-023-04358-7
 The change of healthcare service in Chinese patients with inflammatory bowel disease during the pandemic: a national multicenter cross-sectional study.|https://dx.doi.org/10.1038/s41598-023-46892-5
 Vaccine effectiveness of COVID-19 and rebound in the real world.|https://dx.doi.org/10.1007/s10238-023-01204-z
+Multicenter observational survey on psychosocial and behavioral impacts of COVID-19 in people living with HIV in Northern Vietnam.|https://dx.doi.org/10.1038/s41598-023-47577-9
+Comparable performance of antigen-detecting rapid test by healthcare worker-collected and self-collected swabs for SARS-CoV-2 diagnostic: A systematic review and meta-analysis.|https://dx.doi.org/10.1002/rmv.2492
+Impact of the COVID-19 pandemic on acute coronary syndrome hospital admission and management in Slovenia.|https://dx.doi.org/10.1136/openhrt-2023-002440
+Human monocytes exposed to SARS-CoV-2 display features of innate immune memory producing high levels of CXCL10 upon restimulation.|https://dx.doi.org/10.1159/000535120
+Adjunctive use of oral MAF is associated with no disease progression or mortality in hospitalized patients with COVID-19 pneumonia: The single-arm COral-MAF1 prospective trial.|https://dx.doi.org/10.1016/j.biopha.2023.115894
+Mortality among persons with HIV in the United States during the COVID-19 pandemic: a population-level analysis.|https://dx.doi.org/10.1097/QAI.0000000000003347
+The CLoCk study: A retrospective exploration of loneliness in children and young people during the COVID-19 pandemic, in England.|https://dx.doi.org/10.1371/journal.pone.0294165
+A Web-Based COVID-19 Tool for Testing Residents in Retirement Homes: Development Study.|https://dx.doi.org/10.2196/45875
+Prolonged COVID-19 Infection in a Patient with Complete Remission from Follicular Lymphoma with Hyperosmolar Hyperglycemic Syndrome.|https://dx.doi.org/10.3390/geriatrics8060110
+Analysis of Post-COVID-19 Guillain-Barré Syndrome over a Period of One Year in the University Hospital of Split (Croatia).|https://dx.doi.org/10.3390/neurolint15040086
+Parental Home Safety Practices for Domestic Accident Prevention: How Prepared Were Parents for COVID-19 Confinement? A Cross-Sectional Study.|https://dx.doi.org/10.3390/clinpract13060129
+Oral Molnupiravir and Nirmatrelvir/Ritonavir for the Treatment of COVID-19: A Literature Review with a Focus on Real-World Evidence.|https://dx.doi.org/10.3390/idr15060061
+Association of COVID-19 Infection with Sociodemographic, Anthropometric and Lifestyle Factors: A Cross-Sectional Study in an Older Adults' Population Aged over 65 Years Old.|https://dx.doi.org/10.3390/diseases11040165
+Parkinson's disease physical therapy services during COVID-19: A phenomenological study.|https://dx.doi.org/10.1111/ajag.13259
+Covid19Vaxplorer: a free, online, user-friendly COVID-19 Vaccine Allocation Comparison Tool.|https://dx.doi.org/10.1101/2023.06.15.23291472
+The impact of COVID-19 on the birth rate in Nigeria: a report from population-based registries.|https://dx.doi.org/10.53388/idr2023004

@@ -52,3 +52,21 @@ Multifunctional Carbon Nanodots for Antibacterial Enhancement, pH Change, and Po
 Neonatal methicillin-resistant Staphylococcus aureus pneumonia-related recurrent fatal pyopneumothorax: A case report and review of literature.|https://dx.doi.org/10.12998/wjcc.v11.i30.7475
 Six-year analysis of key monitoring for bacterial strain distribution and antibiotic sensitivity in a hospital.|https://dx.doi.org/10.12998/wjcc.v11.i30.7294
 Transcriptional regulation of the fidaxomicin gene cluster and cellular development in Actinoplanes deccanensis YP-1 by the pleiotropic regulator MtrA.|https://dx.doi.org/10.1128/spectrum.02702-23
+Metronidazole loaded chitosan-phytic acid polyelectrolyte complex nanoparticles as mucoadhesive vaginal delivery system for bacterial vaginosis.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128212
+In Vitro Evaluation of Vancomycin-Induced Toxicity in Human Primary Knee Chondrocytes.|https://dx.doi.org/10.1177/10915818231216413
+Fabrication of dissolving microneedles for transdermal delivery of protein and peptide drugs: Polymer materials and solvent casting micromoulding method.|https://dx.doi.org/10.1080/10837450.2023.2285498
+Systemic Medication for the Treatment of Prurigo Nodularis-A Systematic Review.|https://dx.doi.org/10.1177/12034754231211797
+Transforming Intratumor Bacteria into Immunopotentiators to Reverse Cold Tumors for Enhanced Immuno-chemodynamic Therapy of Triple-Negative Breast Cancer.|https://dx.doi.org/10.1021/jacs.3c09472
+Variation in antibiotic consumption in very preterm infants-a 10 year population-based study.|https://dx.doi.org/10.1093/jac/dkad358
+PCT, IL-6, and IL-10 facilitate early diagnosis and pathogen classifications in bloodstream infection.|https://dx.doi.org/10.1186/s12941-023-00653-4
+Comparative proteomic analysis of vancomycin-sensitive and vancomycin-intermediate resistant Staphylococcus aureus.|https://dx.doi.org/10.1007/s10096-023-04709-3
+Biocidal and synergistic effect of three types of biologically synthesised silver/silver chloride nanoparticles.|https://dx.doi.org/10.1007/s11274-023-03825-8
+Vancomycin-loaded methylcellulose aerogel scaffolds for advanced bone tissue engineering.|https://dx.doi.org/10.1016/j.carbpol.2023.121536
+Antimicrobial susceptibility testing of anaerobic bacteria causing bacteremia: A 13-year (2010-2022) retrospective study in a tertiary hospital.|https://dx.doi.org/10.1016/j.anaerobe.2023.102803
+Antibiotic resistance of Helicobacter pylori in Chinese children: A multicenter study from 2016 to 2023.|https://dx.doi.org/10.1111/hel.13038
+Effectiveness of Helicobacter pylori treatments according to antibiotic resistance.|https://dx.doi.org/10.14309/ajg.0000000000002600
+Availability of access, watch, and reserve (AWaRe) group of antibiotics in community pharmacies located close to a tertiary care hospital in Lalitpur, Nepal.|https://dx.doi.org/10.1371/journal.pone.0294644
+Vancomycin Flushing Syndrome Following Oral Administration of Vancomycin.|https://dx.doi.org/10.3238/arztebl.m2022.0359
+Implementing services for pediatric cystic fibrosis treatment in a community hospital.|https://dx.doi.org/10.1093/ajhp/zxad287
+Refractory Peritonitis Related to Peritoneal Dialysis Caused by Enterococcus gallinarum: A Case Report.|https://dx.doi.org/10.2169/internalmedicine.2373-23
+Self-adaptable calcium-based bioactive phosphosilicate-infused gelatin-hyaluronic hydrogel for orthopedic regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128091

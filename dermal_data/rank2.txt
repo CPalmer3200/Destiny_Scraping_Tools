@@ -23,3 +23,6 @@ Whole genome sequencing and pan-genome analysis of Staphylococcus/Mammaliicoccus
 A meta-analysis of the effectiveness of antibacterial bone cement in the treatment of diabetic foot skin wound infections.|https://dx.doi.org/10.1111/iwj.14487
 Risk factors associated with osteomyelitis due to Corynebacterium striatum in patients with diabetic foot.|https://dx.doi.org/10.1016/j.medcli.2023.09.015
 Fighting diabetic foot ulcer by combination therapy, including larva therapy, Medi honey ointment, and silver alginate dressings: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109055
+[Progress in clinical diagnosis and treatment of diabetic Charcot neuroarthropathy of foot and ankle].|https://dx.doi.org/10.7507/1002-1892.202307068
+[Effectiveness of tibial transverse transport combined with modified neurolysis in treatment of diabetic foot ulcers].|https://dx.doi.org/10.7507/1002-1892.202306016
+Identification of hub genes and pathways associated with cellular senescence in diabetic foot ulcers via comprehensive transcriptome analysis.|https://dx.doi.org/10.1111/jcmm.18043
