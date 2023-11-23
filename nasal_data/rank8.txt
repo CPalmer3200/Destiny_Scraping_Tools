@@ -268,3 +268,17 @@ Open Reduction And Internal Fixation of Tarsometatarsal (Lisfranc) Fracture Disl
 A novel laparoscopic pancreaticoduodenal training model: optimization of the learning curve and simplification of postoperative complications.|https://dx.doi.org/10.1097/JS9.0000000000000918
 Value of preoperative biliary drainage in pancreatic head cancer patients with severe obstructive jaundice: A multicenter retrospective study.|https://dx.doi.org/10.4103/sjg.sjg_296_23
 High Rates of Treatment Failure and Amputation in Modular Endoprosthesis Prosthetic Joint Infections Caused by Fungal Infections With Candida.|https://dx.doi.org/10.1097/CORR.0000000000002918
+Repeated Omicron exposures override ancestral SARS-CoV-2 immune imprinting.|https://dx.doi.org/10.1038/s41586-023-06753-7
+A single plain ring is not associated with increased bacterial load on hands: An experimental study among healthcare worker students undertaking mock surgery.|https://dx.doi.org/10.1016/j.idh.2023.10.003
+Radiological, Clinical and Patient-reported Outcomes in Stemless Reverse Shoulder Arthroplasty at a Mean of 46 Months.|https://dx.doi.org/10.1016/j.jse.2023.10.003
+Impact of wearing a surgical facemask during exercise on dyspnea in patients with chronic pulmonary infections: A randomized crossover study.|https://dx.doi.org/10.1016/j.rmed.2023.107453
+Cost-utility analysis of robotic arm-assisted medial compartment knee arthroplasty.|https://dx.doi.org/10.1302/2633-1462.411.BJO-2023-0090.R1
+Effect of concomitant deformity correction on patient outcomes following femoral (OTA type 32) nonunion repair.|https://dx.doi.org/10.1016/j.injury.2023.111192
+Iris depigmentation and cytomegalovirus in aqueous humor as predictors of uveitic activity and recurrence in chronic and recurrent anterior uveitis.|https://dx.doi.org/10.4103/IJO.IJO_2937_22
+15 Years of Spinal Fusion Outcomes in Children with Cerebral Palsy: Are We Getting Better?|https://dx.doi.org/10.1097/BRS.0000000000004792
+Pave and Pop: A novel addition to the endovascular treatment of hemodialysis access aneurysms.|https://dx.doi.org/10.1177/11297298231201665
+Frenulum Protection Technique in Disposable Circumcision Suture Device for Adult Males.|https://dx.doi.org/10.22037/uj.v20i.7788
+Current State of Clinical Trials Regarding Alveolar Bone Grafting.|https://dx.doi.org/10.1177/10556656231215164
+Association between quality of governance, antibiotic consumption, and antimicrobial resistance: an analysis of Italian regions.|https://dx.doi.org/10.1186/s13756-023-01337-6
+Analysis of the efficacy of drilling decompression autologous bone marrow and allogeneic bone grafting in the treatment of HIV-positive patients with early osteonecrosis of the femoral head.|https://dx.doi.org/10.1186/s12891-023-07039-9
+The impact of obesity on thyroidectomy outcomes: a case-matched study.|https://dx.doi.org/10.1007/s13304-023-01687-1

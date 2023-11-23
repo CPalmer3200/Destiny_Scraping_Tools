@@ -3,3 +3,4 @@ Outbreak of ciguatera poisoning in a commercial vessel: lessons learnt and prosp
 REVISE: Re-Evaluating the Inhibition of Stress Erosions in the ICU: a randomised trial protocol.|https://dx.doi.org/10.1136/bmjopen-2023-075588
 Fluoroquinolone Prophylaxis During Conventional Chemotherapy or Hematopoietic Stem Cell Transplantation for Acute Leukemia - Pros and Cons.|https://dx.doi.org/10.1159/000535119
 Azithromycin Treatment for Acne Vulgaris: A Case Report on the Risk of Clostridioides difficile Infection.|https://dx.doi.org/10.12659/AJCR.941424
+Controlling infections in hospitalized pretransplant candidates.|https://dx.doi.org/10.1097/MOT.0000000000001120

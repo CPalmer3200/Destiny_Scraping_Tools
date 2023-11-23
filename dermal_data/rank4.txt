@@ -24,3 +24,4 @@ Facile fabrication and antibacterial properties of chitosan/acrylamide/gold nano
 Ag nanocomposite hydrogels with immune and regenerative microenvironment regulation promote scarless healing of infected wounds.|https://dx.doi.org/10.1186/s12951-023-02209-2
 Porous antimicrobial crosslinked film of hydroxypropyl methylcellulose/carboxymethyl starch incorporating gallic acid for wound dressing application.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128231
 Polycaprolactone/cress seed mucilage based bilayer antibacterial films containing ZnO nanoparticles with superabsorbent property for the treatment of exuding wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128090
+Enhanced Antibacterial And Wound Healing Using A Metal-Organic Cluster Inspired by Artificial Photosynthesis.|https://dx.doi.org/10.1002/adhm.202302087

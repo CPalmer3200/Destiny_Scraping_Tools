@@ -309,3 +309,22 @@ Association of COVID-19 Infection with Sociodemographic, Anthropometric and Life
 Parkinson's disease physical therapy services during COVID-19: A phenomenological study.|https://dx.doi.org/10.1111/ajag.13259
 Covid19Vaxplorer: a free, online, user-friendly COVID-19 Vaccine Allocation Comparison Tool.|https://dx.doi.org/10.1101/2023.06.15.23291472
 The impact of COVID-19 on the birth rate in Nigeria: a report from population-based registries.|https://dx.doi.org/10.53388/idr2023004
+The impact of covid-19 pandemic on pregnancy outcome.|https://dx.doi.org/10.1186/s12884-023-06098-z
+The sexual politics of technology industry responses to online child sexual exploitation during COVID-19: "This pernicious elitism".|https://dx.doi.org/10.1016/j.chiabu.2023.106559
+[Early post-exposure and curative therapeutic strategies against COVID-19].|https://dx.doi.org/10.1016/j.rmr.2023.10.007
+Lung transcriptomics of K18-hACE2 mice highlights mechanisms and genes involved in the MVA-S vaccine-mediated immune response and protection against SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.antiviral.2023.105760
+The influence of propolis plus Hyoscyamus niger L. against COVID-19: A phase II, multicenter, placebo-controlled, randomized trial.|https://dx.doi.org/10.1002/ptr.8047
+Drug-drug interaction between paxlovid and tacrolimus in a patient with myasthenia gravis and SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.jneuroim.2023.578245
+Dealing with the unknown: perceptions, fears and worries of SARS-CoV-2 infection among hospital workers.|https://dx.doi.org/10.1016/j.gaceta.2023.102335
+The impact of non-pharmacologic interventions on respiratory syncytial virus hospitalization during the COVID-19 pandemic: A retrospective study from Saudi Arabia.|https://dx.doi.org/10.1016/j.jiph.2023.11.010
+Type of delivery and perinatal outcomes in pregnant women diagnosed with COVID-19: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.ejogrb.2023.11.019
+Patterns of social behavior among informal workers during extreme events: lessons from social life during the Covid-19 pandemic in Lima, Peru.|https://dx.doi.org/10.18294/sc.2023.4494
+The politics of vaccination: a closer look at the beliefs, social norms, and prevention behaviors related to COVID-19 vaccine uptake within two US political parties.|https://dx.doi.org/10.1080/13548506.2023.2283401
+DETERMINING THE RELATIONSHIP BETWEEN HEALTH TECHNICIAN STUDENTS' ATTITUDES TO THE COVID-19 PANDEMIC AND INTOLERANCE OF UNCERTAINTY WITH DEPRESSION, ANXIETY, AND STRESS LEVELS.|https://dx.doi.org/10.24869/psyd.2023.544
+Associations of SARS-CoV-2 antibodies with birth outcomes: Results from three urban birth cohorts in the NIH environmental influences on child health outcomes program.|https://dx.doi.org/10.1371/journal.pone.0293652
+Long COVID in Icelandic Children: A Matched Cohort Study of Nonspecific Symptoms Following SARS-CoV-2 Infection.|https://dx.doi.org/10.1097/INF.0000000000004187
+Study of the excess mortality associated with the SARS-CoV-2 pandemic in the Local Health Authorities and Districts of the Autonomous Region of Sardinia - quinquennium 2017-2021.|https://dx.doi.org/10.7416/ai.2023.2589
+Data Resource Profile: the Children and Young People with Long COVID (CLoCk) Study.|https://dx.doi.org/10.1093/ije/dyad158
+Evaluating barriers and potential solutions to speaking up about coronavirus disease 2019 (COVID-19) symptoms: A survey among nursing home workers.|https://dx.doi.org/10.1017/ice.2023.51
+Heterogenous transmission and seroprevalence of SARS-CoV-2 in two demographically diverse populations with low vaccination uptake in Kenya, March and June 2021.|https://dx.doi.org/10.12688/gatesopenres.14684.2
+Effective health communication depends on the interaction of message source and content: two experiments on adherence to COVID-19 measures in Türkiye.|https://dx.doi.org/10.1080/08870446.2023.2285445

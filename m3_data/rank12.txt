@@ -36,3 +36,5 @@ Diagnostic approaches, aetiological agents and their associations with short-ter
 Antimicrobial stewardship strategy implementation and impact in acute care spinal cord injury and disorder units.|https://dx.doi.org/10.1080/10790268.2023.2277963
 Racial disparities in Clostridioides difficile testing in three southeastern US hospitals.|https://dx.doi.org/10.1017/ice.2023.244
 Clostridioides difficile PCR ribotypes 001 and 084 can trigger autophagy process in human intestinal Caco-2 cells.|https://dx.doi.org/10.1016/j.micpath.2023.106450
+Pharmacist insights into antimicrobial stewardship: A social marketing approach.|https://dx.doi.org/10.1016/j.sapharm.2023.11.003
+Attitudes and experiences regarding preventive strategies for the deaf population in Western New York.|https://dx.doi.org/10.1371/journal.pgph.0001056

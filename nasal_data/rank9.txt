@@ -267,3 +267,15 @@ PCT, IL-6, and IL-10 facilitate early diagnosis and pathogen classifications in 
 Comparative proteomic analysis of vancomycin-sensitive and vancomycin-intermediate resistant Staphylococcus aureus.|https://dx.doi.org/10.1007/s10096-023-04709-3
 Biological characteristics and pathogenicity of a Staphylococcus aureus strain with an incomplete hemolytic phenotype isolated from bovine milk.|https://dx.doi.org/10.1111/1348-0421.13102
 Carboxylated nanofibrillated cellulose empowers moxifloxacin to overcome Staphylococcus aureus biofilm in bacterial keratitis.|https://dx.doi.org/10.1016/j.carbpol.2023.121558
+Enhanced Antibacterial And Wound Healing Using A Metal-Organic Cluster Inspired by Artificial Photosynthesis.|https://dx.doi.org/10.1002/adhm.202302087
+Ultrasonically functionalized chitosan-Gallic acid films inactivate Staphylococcus aureus through envelope-disruption under UVA light exposure.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128217
+Enhancing biofilm penetration and antibiofilm efficacy with protein nanocarriers against pathogenic biofilms.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128300
+Emerging novel sequence types of Staphylococcus aureus in Pakistan.|https://dx.doi.org/10.1016/j.jiph.2023.10.036
+Fluorinated azoles as effective weapons in fight against methicillin-resistance staphylococcus aureus (MRSA) and its SAR studies.|https://dx.doi.org/10.1016/j.bioorg.2023.106975
+Imaging the Bacterial Cell Wall Using N-Acetyl Muramic Acid-Derived Positron Emission Tomography Radiotracers.|https://dx.doi.org/10.1021/acssensors.3c01477
+Open Source Antibiotics: Simple Diarylimidazoles Are Potent against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00286
+Cloning, Purification, and Biophysical Characterization of FemB Protein from Methicillin-Resistant Staphylococcus aureus and Inhibitors Screening.|https://dx.doi.org/10.1007/s12010-023-04780-8
+Catalytic One-pot Solvent Free Synthesis, Biological Activity, and Docking Study of New Series of 1, 3-thiazolidine-4-one Derivatives Derived from 2- (P-tolyl) Benzoxazol-5-amine.|https://dx.doi.org/10.2174/1570179420666230428125251
+Pyripyropene U, a new alkaloid from the sponge-derived fungus Aspergillus sp. SCSIO41420.|https://dx.doi.org/10.1080/14786419.2023.2284866
+[Screening of pathogenic molecular markers of Staphylococcus aureus in children based on whole genome sequencing technology].|https://dx.doi.org/10.7499/j.issn.1008-8830.2304128
+Effect of silver sulfadiazine on mature mixed bacterial biofilms on voice prostheses.|https://dx.doi.org/10.1186/s40463-023-00672-3

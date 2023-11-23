@@ -70,3 +70,7 @@ Vancomycin Flushing Syndrome Following Oral Administration of Vancomycin.|https:
 Implementing services for pediatric cystic fibrosis treatment in a community hospital.|https://dx.doi.org/10.1093/ajhp/zxad287
 Refractory Peritonitis Related to Peritoneal Dialysis Caused by Enterococcus gallinarum: A Case Report.|https://dx.doi.org/10.2169/internalmedicine.2373-23
 Self-adaptable calcium-based bioactive phosphosilicate-infused gelatin-hyaluronic hydrogel for orthopedic regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128091
+Comparing ethanol lock therapy versus vancomycin lock in a salvation strategy for totally implantable vascular access device infections due to coagulase-negative staphylococci (the ETHALOCK study): a prospective double-blind randomized clinical trial.|https://dx.doi.org/10.1007/s10096-023-04702-w
+Emerging novel sequence types of Staphylococcus aureus in Pakistan.|https://dx.doi.org/10.1016/j.jiph.2023.10.036
+Fluorinated azoles as effective weapons in fight against methicillin-resistance staphylococcus aureus (MRSA) and its SAR studies.|https://dx.doi.org/10.1016/j.bioorg.2023.106975
+Bioanalysis of six antibiotics from volumetric microsamples: a new tool for precision dosing in critically ill children.|https://dx.doi.org/10.4155/bio-2023-0171
