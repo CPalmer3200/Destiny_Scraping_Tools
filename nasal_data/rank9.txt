@@ -279,3 +279,17 @@ Catalytic One-pot Solvent Free Synthesis, Biological Activity, and Docking Study
 Pyripyropene U, a new alkaloid from the sponge-derived fungus Aspergillus sp. SCSIO41420.|https://dx.doi.org/10.1080/14786419.2023.2284866
 [Screening of pathogenic molecular markers of Staphylococcus aureus in children based on whole genome sequencing technology].|https://dx.doi.org/10.7499/j.issn.1008-8830.2304128
 Effect of silver sulfadiazine on mature mixed bacterial biofilms on voice prostheses.|https://dx.doi.org/10.1186/s40463-023-00672-3
+That itchy, scratchy feeling strikes when Staph bacteria get to work.|https://dx.doi.org/10.1038/d41586-023-03561-x
+Quaternary ammonium-based coating of textiles is effective against bacteria and viruses with a low risk to human health.|https://dx.doi.org/10.1038/s41598-023-47707-3
+Corrigendum to "MXene@Au based electrochemical biosensor with pretreatment by magnetic nanoparticles for determination of MRSA from clinical samples" J. Hazard. Mater. 457 (September) (2023) 131823.|https://dx.doi.org/10.1016/j.jhazmat.2023.133019
+Aggregation-induced emission for the detection of peptide ligases with improving ligation efficiency.|https://dx.doi.org/10.1016/j.aca.2023.341994
+Engraulisin: A novel marine derived cell penetrating peptide with activity against drug resistant bacteria.|https://dx.doi.org/10.1016/j.bbamem.2023.184255
+Physical stability, microstructure and antimicrobial properties of konjac glucomannan coatings enriched with Litsea cubeba essential oil nanoemulsion and its effect on citruses preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128306
+Synthesis of hydroxyethylcellulose phthalate-modified silver nanoparticles and their multifunctional applications as an efficient antibacterial, photocatalytic and mercury-selective sensing agent.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128009
+S. aureus drives itch and scratch-induced skin damage through a V8 protease-PAR1 axis.|https://dx.doi.org/10.1016/j.cell.2023.10.019
+Staphylococcus scratches its itch.|https://dx.doi.org/10.1016/j.cell.2023.10.027
+Comparative transcriptome analysis of E. coli & Staphylococcus aureus infected goat mammary epithelial cells reveals genes associated with infection.|https://dx.doi.org/10.1016/j.intimp.2023.111213
+In silico analysis of a novel hypothetical protein (YP_498675.1) from Staphylococcus aureus unravels the protein of tryptophan synthase beta superfamily (Try-synth-beta_ II).|https://dx.doi.org/10.1186/s43141-023-00613-7
+Correction to: A fluorogenic micrococcal nuclease‑based probe for fast detection and optical imaging of Staphylococcus aureus in prosthetic joint and fracture‑related infections.|https://dx.doi.org/10.1007/s00259-023-06538-0
+Engineering Copper-Containing Nanoparticles-Loaded Silicene Nanosheets with Triple Enzyme Mimicry Activities and Photothermal Effect for Promoting Bacteria-Infected Wound Healing.|https://dx.doi.org/10.1002/smll.202307096
+Clinical and molecular characteristics of methicillin-resistant Staphylococcus aureus in bone and joint infection among children.|https://dx.doi.org/10.1186/s12941-023-00654-3

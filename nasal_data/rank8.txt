@@ -282,3 +282,18 @@ Current State of Clinical Trials Regarding Alveolar Bone Grafting.|https://dx.do
 Association between quality of governance, antibiotic consumption, and antimicrobial resistance: an analysis of Italian regions.|https://dx.doi.org/10.1186/s13756-023-01337-6
 Analysis of the efficacy of drilling decompression autologous bone marrow and allogeneic bone grafting in the treatment of HIV-positive patients with early osteonecrosis of the femoral head.|https://dx.doi.org/10.1186/s12891-023-07039-9
 The impact of obesity on thyroidectomy outcomes: a case-matched study.|https://dx.doi.org/10.1007/s13304-023-01687-1
+Mental health and job stress of nurses in surgical system: what should we care.|https://dx.doi.org/10.1186/s12888-023-05336-0
+Outcomes of Laparoscopic Sleeve Gastrectomy (LSG) vs One-Anastomosis Gastric Bypass (OAGB) in Patients with Super-Super Obesity (BMI ≥ 60 kg/m(2)).|https://dx.doi.org/10.1007/s11695-023-06960-1
+Prognostic Factors and Outcomes in Elderly Esophagectomy Patients with Esophageal Cancer.|https://dx.doi.org/10.1245/s10434-023-14634-6
+Sepsis in cardiothoracic surgery.|https://dx.doi.org/10.1016/j.surg.2023.10.015
+Microvascular decompression for trigeminal neuralgia: A retrospective analysis of long-term outcomes and prognostic factors.|https://dx.doi.org/10.1016/j.nrleng.2021.03.010
+Complications from Fat Grafting and Gluteal Augmentation in Outpatient Plastic Surgery: An Analysis of American Association for Accreditation of Ambulatory Surgical Facilities (AAAASF, QUAD A) Data.|https://dx.doi.org/10.1093/asj/sjad345
+Efficacy of antibiotic bone cement in the treatment of burkholderia cepacia infection after spinal internal fixation surgery：Case Report and Literature Review.|https://dx.doi.org/10.1016/j.wneu.2023.11.063
+Identification of asymptomatic Leishmania infection in patients undergoing kidney transplant using multiple tests.|https://dx.doi.org/10.1016/j.ijid.2023.11.012
+[Translated article] Risk factors for infection of tibial plateau fractures.|https://dx.doi.org/10.1016/j.recot.2023.11.015
+The Impact of Social Determinants of Health on Outcomes and Complications After Total Knee Arthroplasty: An Analysis of Neighborhood Deprivation Indices.|https://dx.doi.org/10.2106/JBJS.23.00044
+Cutaneous Mucormycosis of the Eyelid Treated With Subcutaneous Liposomal Amphotericin B Injections.|https://dx.doi.org/10.1097/IOP.0000000000002545
+Epidemiology of acute infections in people who inject drugs in Australia.|https://dx.doi.org/10.1111/dar.13772
+Testing of tissue specimens obtained from SARS-CoV-2 nasopharyngeal swab-positive donors.|https://dx.doi.org/10.1007/s10561-023-10119-8
+Are Cutibacterium acnes delivered from skin to deep tissues in primary reverse shoulder arthroplasty? A prospective study.|https://dx.doi.org/10.1007/s00402-023-05125-0
+An intervention study investigating the effectiveness of contextualizing multimodal strategy on improving hand hygiene at a tertiary hospital in Nigeria.|https://dx.doi.org/10.1093/trstmh/trad081

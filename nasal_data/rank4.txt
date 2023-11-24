@@ -198,3 +198,11 @@ Bedside open tracheostomy in COVID-19 patients - a safe and swift approach.|http
 Complications of Intracranial Multimodal Monitoring for Neurocritical Care: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1007/s12028-023-01885-0
 Forensic examination of security features of the CDC-issued COVID-19 vaccination card and suggested improvements to minimize counterfeiting.|https://dx.doi.org/10.1111/1556-4029.15425
 A rare and challenging case of intrapericardial hydatidosis.|https://dx.doi.org/10.1186/s13019-023-02455-3
+New advances in management and treatment of cardiac implantable electronic devices infections.|https://dx.doi.org/10.1007/s15010-023-02130-8
+COVID-19 vaccine uptake among people with HIV: identifying characteristics associated with vaccine hesitancy.|https://dx.doi.org/10.1038/s41598-023-47106-8
+2023 French recommendations for diagnosing and managing prepatellar and olecranon septic bursitis.|https://dx.doi.org/10.1016/j.jbspin.2023.105664
+Model-informed vancomycin dosing optimization to address delayed renal maturation in infants and young children with critical congenital heart disease.|https://dx.doi.org/10.1002/cpt.3095
+The influence of radical trachelectomy on endometrial thickness in in vitro fertilization-embryo transfer.|https://dx.doi.org/10.1111/jog.15841
+Predictive value of suprasellar extension for intracranial infection after endoscopic transsphenoidal pituitary adenoma resection.|https://dx.doi.org/10.1186/s12957-023-03243-y
+Understanding barriers, recommended solutions, and future prospects for the diagnosis and management of Pythium insidiosum keratitis.|https://dx.doi.org/10.4103/IJO.IJO_1041_23
+Successful management of concurrent COVID-19 and Pneumocystis Jirovecii Pneumonia in kidney transplant recipients: a case series.|https://dx.doi.org/10.1186/s12890-023-02764-2

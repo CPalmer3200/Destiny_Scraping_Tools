@@ -328,3 +328,23 @@ Data Resource Profile: the Children and Young People with Long COVID (CLoCk) Stu
 Evaluating barriers and potential solutions to speaking up about coronavirus disease 2019 (COVID-19) symptoms: A survey among nursing home workers.|https://dx.doi.org/10.1017/ice.2023.51
 Heterogenous transmission and seroprevalence of SARS-CoV-2 in two demographically diverse populations with low vaccination uptake in Kenya, March and June 2021.|https://dx.doi.org/10.12688/gatesopenres.14684.2
 Effective health communication depends on the interaction of message source and content: two experiments on adherence to COVID-19 measures in Türkiye.|https://dx.doi.org/10.1080/08870446.2023.2285445
+Analysing the implementation of infection prevention and control measures in health care facilities during the COVID-19 pandemic in the African Region.|https://dx.doi.org/10.1186/s12879-023-08830-8
+The evaluation of a rapid microfluidic immunofluorescence antigen test in detecting the infectiousness of COVID-19 patients.|https://dx.doi.org/10.1186/s12879-023-08821-9
+Environmental surface surveillance during a COVID-19 outbreak in a school community: implications for controlling indirect transmission.|https://dx.doi.org/10.1007/s42770-023-01185-x
+The development of suicide risk in people with severe mental disorders during the first year of the COVID-19 pandemic: a claims-based cohort study.|https://dx.doi.org/10.1007/s00127-023-02584-z
+Ischemic stroke after COVID-19 bivalent vaccine administration in patients aged 65 years and older in the United States.|https://dx.doi.org/10.1038/s41541-023-00777-w
+Negative mood state in Kermanshah population during COVID-19 quarantine linked to low physical activity levels: a cross-sectional online survey study.|https://dx.doi.org/10.1038/s41598-023-48009-4
+Asthma is a risk factor for general fatigue of long COVID in Japanese nation-wide cohort study.|https://dx.doi.org/10.1016/j.alit.2023.11.003
+Is there a role for growth hormone replacement in adults to control acute and post-acute COVID-19?|https://dx.doi.org/10.1016/j.beem.2023.101842
+Fulminant amoebic colitis co-infection in a patient with COVID-19.|https://dx.doi.org/10.1136/bcr-2022-254004
+How African countries can prepare for the next pandemic.|https://dx.doi.org/10.1136/bmj.p2762
+Spike protein genetic evolution in patients at high-risk of severe COVID-19 treated by monoclonal antibodies.|https://dx.doi.org/10.1093/infdis/jiad523
+Polymethoxyflavone from Citrus depressa as an inhibitor against various variants of SARS-CoV-2 spike protein.|https://dx.doi.org/10.1016/j.jep.2023.117412
+Antithrombotic prophylaxis with rivaroxaban in patients with prehospital COVID-19: A meta-analysis of two placebo-controlled trials.|https://dx.doi.org/10.1055/a-2216-5848
+[Influence of the Corona pandemic on cardiovascular risk factors - Data from 1775 participants of the ELITE study before and during the Corona pandemic].|https://dx.doi.org/10.1055/a-2201-6772
+Applications of peptide-functionalized or unfunctionalized selenium nanoparticles for the passivation of SARS-CoV-2 variants and the respiratory syncytial virus (RSV).|https://dx.doi.org/10.1016/j.colsurfb.2023.113638
+Adherence with infection prevention and control measures among Italian healthcare workers: Lessons from the COVID-19 pandemic to tackle future ones.|https://dx.doi.org/10.1016/j.jiph.2023.10.031
+Evaluation of occupational health and safety intervention for the waste and sanitation workers in Bangladesh during COVID-19.|https://dx.doi.org/10.1016/j.ijheh.2023.114288
+The natural virome and pandemic potential: Disease X.|https://dx.doi.org/10.1016/j.coviro.2023.101377
+SARS-CoV-2 genomics and impact on clinical care for COVID-19.|https://dx.doi.org/10.1093/jac/dkad309
+COVID-19 therapeutics: stewardship in England and considerations for antimicrobial resistance.|https://dx.doi.org/10.1093/jac/dkad314
