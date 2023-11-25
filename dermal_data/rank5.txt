@@ -20,3 +20,6 @@ Adding Flying Wings: Butterfly-Shaped NIR-II AIEgens with Multiple Molecular Rot
 Rational Design and Antimicrobial Potency Assessment of Abaecin Analogues.|https://dx.doi.org/10.1021/acsbiomaterials.3c01234
 On-farm epidemiology, virulence profiling, and molecular characterization of methicillin-resistant Staphylococcus aureus at goat farms.|https://dx.doi.org/10.1016/j.micpath.2023.106456
 Biofilm heterogeneity-adaptive photoredox catalysis enables red light-triggered nitric oxide release for combating drug-resistant infections.|https://dx.doi.org/10.1038/s41467-023-43415-8
+Formulation and In Vivo Evaluation of Biofilm Loaded with Silver Sulfadiazine for Burn Healing.|https://dx.doi.org/10.3390/gels9110855
+Engineering Antimicrobial Metal-Phenolic Network Nanoparticles with High Biocompatibility for Wound Healing.|https://dx.doi.org/10.1002/adma.202307680
+[Modern methods of adhesive fixation of facial epitheses].|https://dx.doi.org/10.17116/stomat202310206162

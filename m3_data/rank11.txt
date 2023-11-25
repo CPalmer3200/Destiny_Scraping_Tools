@@ -74,3 +74,16 @@ Comparing ethanol lock therapy versus vancomycin lock in a salvation strategy fo
 Emerging novel sequence types of Staphylococcus aureus in Pakistan.|https://dx.doi.org/10.1016/j.jiph.2023.10.036
 Fluorinated azoles as effective weapons in fight against methicillin-resistance staphylococcus aureus (MRSA) and its SAR studies.|https://dx.doi.org/10.1016/j.bioorg.2023.106975
 Bioanalysis of six antibiotics from volumetric microsamples: a new tool for precision dosing in critically ill children.|https://dx.doi.org/10.4155/bio-2023-0171
+Vancomycin Elution Kinetics of Four Antibiotic Carriers Used in Orthopaedic Surgery: In Vitro Study over 42 Days.|https://dx.doi.org/10.3390/antibiotics12111636
+Emergence of Antibiotic-Resistant Porphyromonas gingivalis in United States Periodontitis Patients.|https://dx.doi.org/10.3390/antibiotics12111584
+Evaluating the Potency of Selected Antibiotic Medications Dispensed in Community Pharmacies in Gwale, Kano, Nigeria.|https://dx.doi.org/10.3390/antibiotics12111582
+Assessing Clinical Outcomes of Vancomycin Treatment in Adult Patients with Vancomycin-Susceptible Enterococcus faecium Bacteremia.|https://dx.doi.org/10.3390/antibiotics12111577
+Daptomycin-Impregnated PMMA Cement against Vancomycin-Resistant Germs: Dosage, Handling, Elution, Mechanical Stability, and Effectiveness.|https://dx.doi.org/10.3390/antibiotics12111567
+Real-Life Vancomycin Therapeutic Drug Monitoring in Coagulase-Negative Staphylococcal Bacteremia in Neonatal and Pediatric Intensive Care Unit: Are We Underestimating Augmented Renal Clearance?|https://dx.doi.org/10.3390/antibiotics12111566
+Susceptibility of Ocular Surface Bacteria to Various Antibiotic Agents in a Romanian Ophthalmology Clinic.|https://dx.doi.org/10.3390/diagnostics13223409
+Development and Functionalization of a Novel Chitosan-Based Nanosystem for Enhanced Drug Delivery.|https://dx.doi.org/10.3390/jfb14110538
+The use of intra-articular vancomycin is safe in primary hip and knee arthroplasty.|https://dx.doi.org/10.1016/j.jor.2023.10.017
+Efficacy of antibiotic bone cement in the treatment of burkholderia cepacia infection after spinal internal fixation surgery：Case Report and Literature Review.|https://dx.doi.org/10.1016/j.wneu.2023.11.063
+Impact of functional status on development of Clostridioides difficile infection and increase in in-hospital mortality among antibiotic users.|https://dx.doi.org/10.1159/000535306
+Model-informed vancomycin dosing optimization to address delayed renal maturation in infants and young children with critical congenital heart disease.|https://dx.doi.org/10.1002/cpt.3095
+Inhibition of pathogenic bacterial carbonic anhydrases by monothiocarbamates.|https://dx.doi.org/10.1080/14756366.2023.2284119

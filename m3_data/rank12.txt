@@ -38,3 +38,8 @@ Racial disparities in Clostridioides difficile testing in three southeastern US 
 Clostridioides difficile PCR ribotypes 001 and 084 can trigger autophagy process in human intestinal Caco-2 cells.|https://dx.doi.org/10.1016/j.micpath.2023.106450
 Pharmacist insights into antimicrobial stewardship: A social marketing approach.|https://dx.doi.org/10.1016/j.sapharm.2023.11.003
 Attitudes and experiences regarding preventive strategies for the deaf population in Western New York.|https://dx.doi.org/10.1371/journal.pgph.0001056
+A Colonic Organoid Model Challenged with the Large Toxins of Clostridioides difficile TcdA and TcdB Exhibit Deregulated Tight Junction Proteins.|https://dx.doi.org/10.3390/toxins15110643
+The Magnificent Seven: Seven good publications in infectious disease.|https://dx.doi.org/10.37201/req/s01.16.2023
+A clinical strategy to improve the diagnostic performance of 3T non-contrast coronary MRA and noninvasively evaluate coronary distensibility: combination of diastole and systole imaging.|https://dx.doi.org/10.1186/s12968-023-00982-5
+System-Level Factors and Time Spent on Electronic Health Records by Primary Care Physicians.|https://dx.doi.org/10.1001/jamanetworkopen.2023.44713
+Proceedings of the inaugural Dark Genome Symposium: November 2022.|https://dx.doi.org/10.1186/s13100-023-00306-5
