@@ -27,3 +27,4 @@ Fighting diabetic foot ulcer by combination therapy, including larva therapy, Me
 [Effectiveness of tibial transverse transport combined with modified neurolysis in treatment of diabetic foot ulcers].|https://dx.doi.org/10.7507/1002-1892.202306016
 Identification of hub genes and pathways associated with cellular senescence in diabetic foot ulcers via comprehensive transcriptome analysis.|https://dx.doi.org/10.1111/jcmm.18043
 Predictive Value of C-Reactive Protein to Albumin Ratio for Amputation Risk in Diabetic Foot Infection.|https://dx.doi.org/10.1177/00033197231218330
+A novel assessment, diagnostic and treatment system for diabetic foot.|https://dx.doi.org/10.1186/s13047-023-00687-z
