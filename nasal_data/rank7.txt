@@ -14,3 +14,22 @@ Vaccine effectiveness against COVID-19 hospitalisation in adults (≥ 20 years
 Vaccine effectiveness against COVID-19 hospitalisation in adults (≥ 20 years) during Omicron-dominant circulation: I-MOVE-COVID-19 and VEBIS SARI VE networks, Europe, 2021 to 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2023.28.47.2300187
 Immigrants, health, and the impact of COVID-19: A narrative review.|https://dx.doi.org/10.12688/f1000research.130085.2
 A Comparison of Changes in Health Behavior, Obesity, and Mental Health of Korean Adolescents Before and During the COVID-19 Pandemic: Online Cross-Sectional Study.|https://dx.doi.org/10.30773/pi.2023.0196
+Resilience of routine childhood immunization services in two counties in Kenya in the face of the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.vaccine.2023.09.023
+Child protective services and out-of-home Care for Children during COVID-19: A scoping review and thematic analysis.|https://dx.doi.org/10.1016/j.chiabu.2023.106540
+Personal protective equipment during COVID-19: A natural history of dental and dental hygiene regulatory guidance in Canada.|https://dx.doi.org/10.1016/j.adaj.2023.09.017
+Vaccination, regular exercise, and prevention of chronic lung disease reduce exacerbation of COVID-19 severity in northern Okinawa, Japan: A cross-sectional study.|https://dx.doi.org/10.1265/ehpm.23-00281
+Mycoplasma pneumoniae: delayed re-emergence after COVID-19 pandemic restrictions.|https://dx.doi.org/10.1016/S2666-5247(23)00344-0
+Efficient SARS-CoV-2 infection antagonization by rhACE2 ectodomain multimerized onto the Avidin-Nucleic-Acid-NanoASsembly.|https://dx.doi.org/10.1016/j.biomaterials.2023.122394
+Revisiting the Percentage of K-12 Students in Need of Preventive Interventions in Schools in a "Peri-COVID" Era: Implications for the Implementation of Tiered Programming.|https://dx.doi.org/10.1007/s11121-023-01618-x
+Association between levels of receptor binding domain antibodies of SARS-CoV-2, receipt of booster and risk of breakthrough infections: LA pandemic surveillance cohort study.|https://dx.doi.org/10.1038/s41598-023-47261-y
+Targeted amplicon sequencing facilitated a novel risk assessment framework for assessing the prevalence of broad spectrum bacterial and coronavirus diseases.|https://dx.doi.org/10.1016/j.scitotenv.2023.168797
+Effect of Chronic Diseases on willingness to receive the Second COVID-19 Vaccine Booster Dose among Cancer Patients: A multicenter cross-sectional survey in China.|https://dx.doi.org/10.1016/j.ajic.2023.11.011
+Salivary IgA and vimentin differentiate in vitro SARS-CoV-2 infection: a study of 290 convalescent COVID-19 patients.|https://dx.doi.org/10.1016/j.mucimm.2023.11.007
+Seroprevalence of SARS-CoV-2 antibodies in pediatric hospital surgical unit: a lower-middle-income country perspective.|https://dx.doi.org/10.1093/tropej/fmad039
+Comparative Effectiveness of Bivalent (Original/Omicron BA.4/BA.5) COVID-19 Vaccines in Adults.|https://dx.doi.org/10.3390/vaccines11111711
+Primary and Recall Immune Responses to SARS-CoV-2 in Breakthrough Infection.|https://dx.doi.org/10.3390/vaccines11111705
+An Analysis of the Neutralizing Antibodies against the Main SARS-CoV-2 Variants in Healthcare Workers (HCWs) Vaccinated against or Infected by SARS-CoV-2.|https://dx.doi.org/10.3390/vaccines11111702
+Revisiting Vaccine Hesitancy in Residential Care Homes for the Elderly for Pandemic Preparedness: A Lesson from COVID-19.|https://dx.doi.org/10.3390/vaccines11111700
+Impact of Vaccination on the Course and Outcome of COVID-19 in Patients with Multimorbidity.|https://dx.doi.org/10.3390/vaccines11111696
+Lessons Learned from the COVID-19 Vaccination Campaigns in Veneto Region: Population Vaccination Centers as Support for the Traditional Outpatient Model.|https://dx.doi.org/10.3390/vaccines11111695
+Opinions, Attitudes and Factors Related to SARS-CoV-2 Vaccine Uptake in Eight South American Countries.|https://dx.doi.org/10.3390/vaccines11111660

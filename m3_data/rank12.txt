@@ -43,3 +43,7 @@ The Magnificent Seven: Seven good publications in infectious disease.|https://dx
 A clinical strategy to improve the diagnostic performance of 3T non-contrast coronary MRA and noninvasively evaluate coronary distensibility: combination of diastole and systole imaging.|https://dx.doi.org/10.1186/s12968-023-00982-5
 System-Level Factors and Time Spent on Electronic Health Records by Primary Care Physicians.|https://dx.doi.org/10.1001/jamanetworkopen.2023.44713
 Proceedings of the inaugural Dark Genome Symposium: November 2022.|https://dx.doi.org/10.1186/s13100-023-00306-5
+Halogen-Dependent Diversity and Weak Interactions in the Heterometallic Ni/Cd Complex Solids: Structural and Theoretical Investigation.|https://dx.doi.org/10.3390/molecules28227652
+Therapies from Thiopeptides.|https://dx.doi.org/10.3390/molecules28227579
+Dietary Habits and Oral Hygiene as Determinants of the Incidence and Intensity of Dental Caries-A Pilot Study.|https://dx.doi.org/10.3390/nu15224833
+Scheimpflug Corneal Densitometry Patterns at the Graft-Host Interface in DMEK and DSAEK: A 12-Month Longitudinal Comparative Study.|https://dx.doi.org/10.3390/jcm12227133

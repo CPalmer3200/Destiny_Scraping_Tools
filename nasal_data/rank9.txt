@@ -15,3 +15,18 @@ Antibacterial Efficiency of Tanacetum vulgare Essential Oil against ESKAPE Patho
 Antimicrobial Activity of Novel Ni(II) and Zn(II) Complexes with (E)-2-((5-Bromothiazol-2-yl)imino)methyl)phenol Ligand: Synthesis, Characterization and Molecular Docking Studies.|https://dx.doi.org/10.3390/antibiotics12111634
 Effect of Hygiene Protocols on the Mechanical and Physical Properties of Two 3D-Printed Denture Resins Characterized by Extrinsic Pigmentation as Well as the Mixed Biofilm Formed on the Surface.|https://dx.doi.org/10.3390/antibiotics12111630
 Assessing the Potential of Gallic Acid and Methyl Gallate to Enhance the Efficacy of β-Lactam Antibiotics against Methicillin-Resistant Staphylococcus aureus by Targeting β-Lactamase: In Silico and In Vitro Studies.|https://dx.doi.org/10.3390/antibiotics12111622
+[Antimicrobials discovery against Staphylococcus aureus by high throughput screening of drug library].|https://dx.doi.org/10.3760/cma.j.cn112150-20230418-00302
+A nanocomposite hydrogel for co-delivery of multiple anti-biofilm therapeutics to enhance the treatment of bacterial biofilm-related infections.|https://dx.doi.org/10.1016/j.ijpharm.2023.123638
+Croconaine conjugated cationic polymeric nanoparticles for NIR enhanced bacterial killing.|https://dx.doi.org/10.1016/j.colsurfb.2023.113665
+Impact of Key Components of Intensified Ceftaroline Dosing on Pharmacokinetic/Pharmacodynamic Target Attainment.|https://dx.doi.org/10.1007/s40262-023-01325-4
+UPLC-Q-TOF-MS profiling of Viola stocksii Boiss. and evaluation of aphrodisiac potential and risk factors associated with erectile dysfunction.|https://dx.doi.org/10.1016/j.jep.2023.117477
+Biopolymeric nanofibrous scaffolds of poly(3-hydroxybuthyrate)/chitosan loaded with biogenic silver nanoparticle synthesized using curcumin and their antibacterial activities.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128330
+Antibacterial, antioxidant and fruit packaging ability of biochar-based silver nanoparticles-polyvinyl alcohol-chitosan composite film.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128297
+Dextran coated iron oxide nanoparticles loaded with protocatechuic acid as multifunctional therapeutic agents.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128314
+Carbon dot/g-C(3)N(4)-mediated self-activated antimicrobial nanocomposite films for active packaging applications.|https://dx.doi.org/10.1016/j.foodchem.2023.137939
+Staphylococcus aureus epidemiology, pathophysiology, clinical manifestations and application of nano-therapeutics as a promising approach to combat methicillin resistant Staphylococcus aureus.|https://dx.doi.org/10.1080/20477724.2023.2285187
+Development of Highly Hygienic Textile by Coating with Encapsulated Ginseng Oil.|https://dx.doi.org/10.3390/polym15224352
+Significant Benefits of Environmentally Friendly Hydrosols from Tropaeolum majus L. Seeds with Multiple Biological Activities.|https://dx.doi.org/10.3390/plants12223897
+Eucalyptus camaldulensis Dehnh Leaf Essential Oil from Palestine Exhibits Antimicrobial and Antioxidant Activity but No Effect on Porcine Pancreatic Lipase and α-Amylase.|https://dx.doi.org/10.3390/plants12223805
+Phytochemical Profile, Antioxidant Potential, Antimicrobial Activity, and Cytotoxicity of Dry Extract from Rosa damascena Mill.|https://dx.doi.org/10.3390/molecules28227666
+New Meroterpenoid Derivatives from the Pomegranate-Derived Endophytic Fungus Talaromyces purpureogenus.|https://dx.doi.org/10.3390/molecules28227650

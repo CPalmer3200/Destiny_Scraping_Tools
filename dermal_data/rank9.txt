@@ -9,3 +9,4 @@ Purification, characterization, and cloning of a novel pro-inflammatory secreted
 Comparison of genomic diversity between single and pooled Staphylococcus aureus colonies isolated from human colonization cultures.|https://dx.doi.org/10.1099/mgen.0.001111
 Survey on microbial contamination of opened skin care products used for tattooing.|https://dx.doi.org/10.1093/jambio/lxad243
 The Staphylococcus aureus regulatory program in a human skin-like environment.|https://dx.doi.org/10.1101/2023.10.24.563767
+High-efficiency antibacterial calcium alginate/lysozyme/AgNPs composite sponge for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128370

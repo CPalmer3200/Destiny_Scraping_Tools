@@ -27,3 +27,5 @@ Polycaprolactone/cress seed mucilage based bilayer antibacterial films containin
 Enhanced Antibacterial And Wound Healing Using A Metal-Organic Cluster Inspired by Artificial Photosynthesis.|https://dx.doi.org/10.1002/adhm.202302087
 Sterilized Polyhexanide-Releasing Chitosan Membranes with Potential for Use in Antimicrobial Wound Dressings.|https://dx.doi.org/10.3390/membranes13110877
 Antibacterial Efficacy of Manuka Honey-Doped Chitosan-Gelatin Cryogel and Hydrogel Scaffolds in Reducing Infection.|https://dx.doi.org/10.3390/gels9110877
+Excellent Dark/Light Dual-Mode Photoresponsive Activities Based on g-C(3)N(4)/CMCh/PVA Nanocomposite Hydrogel Using Electron Beam Radiation Method.|https://dx.doi.org/10.3390/molecules28227544
+Alginate-Based Hydrogels Enriched with Lavender Essential Oil: Evaluation of Physicochemical Properties, Antimicrobial Activity, and In Vivo Biocompatibility.|https://dx.doi.org/10.3390/pharmaceutics15112608

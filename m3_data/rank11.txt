@@ -87,3 +87,19 @@ Efficacy of antibiotic bone cement in the treatment of burkholderia cepacia infe
 Impact of functional status on development of Clostridioides difficile infection and increase in in-hospital mortality among antibiotic users.|https://dx.doi.org/10.1159/000535306
 Model-informed vancomycin dosing optimization to address delayed renal maturation in infants and young children with critical congenital heart disease.|https://dx.doi.org/10.1002/cpt.3095
 Inhibition of pathogenic bacterial carbonic anhydrases by monothiocarbamates.|https://dx.doi.org/10.1080/14756366.2023.2284119
+Frequency of bloodstream infections caused by six key antibiotic-resistant pathogens for prioritization of research and discovery of new therapies in Europe: a systematic review.|https://dx.doi.org/10.1016/j.cmi.2023.10.019
+Increased Range of Catalytic Activities of Immobilized Compared to Colloidal Gold Nanoparticles.|https://dx.doi.org/10.3390/molecules28227558
+Electrospun PCL Wires Loaded with Vancomycin on Zirconium Substrate.|https://dx.doi.org/10.3390/ma16227237
+Lacticaseibacillus rhamnosus GG Versus Placebo for Eradication of Vancomycin-Resistant Enterococcus faecium in Intestinal Carriers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/microorganisms11112804
+Dysbiosis by Eradication of Helicobacter pylori Infection Associated with Follicular Gastropathy and Pangastropathy.|https://dx.doi.org/10.3390/microorganisms11112748
+Identification, Genome Sequencing, and Characterizations of Helicobacter pylori Sourced from Pakistan.|https://dx.doi.org/10.3390/microorganisms11112658
+Metronidazole Treatment Failure and Persistent BV Lead to Increased Frequencies of Activated T- and Dendritic-Cell Subsets.|https://dx.doi.org/10.3390/microorganisms11112643
+Tri-Layer Core-Shell Fibers from Coaxial Electrospinning for a Modified Release of Metronidazole.|https://dx.doi.org/10.3390/pharmaceutics15112561
+A Pharmacovigilance Study Regarding the Risk of Antibiotic-Associated Clostridioides difficile Infection Based on Reports from the EudraVigilance Database: Analysis of Some of the Most Used Antibiotics in Intensive Care Units.|https://dx.doi.org/10.3390/ph16111585
+Experimental Evaluation of the Hypersensitivity Reactions of a New Glycopeptide Antibiotic Flavancin in Animal Models.|https://dx.doi.org/10.3390/ph16111569
+A Simple Technique Using Peri-Prosthetic Irrigation Improves Implant Salvage Rates in Immediate Implant-Based Breast Reconstruction.|https://dx.doi.org/10.3390/medicina59112039
+Enterococcal Membrane Vesicles as Vaccine Candidates.|https://dx.doi.org/10.3390/ijms242216051
+Preparation, Physicochemical Characterization, Antimicrobial Effects, Biocompatibility and Cytotoxicity of Co-Loaded Meropenem and Vancomycin in Mesoporous Silica Nanoparticles.|https://dx.doi.org/10.3390/biomedicines11113075
+The epidemiology of Helicobacter pylori resistance in a university affiliated hospital: a comparison between two time periods-a cross-sectional design.|https://dx.doi.org/10.1186/s40001-023-01500-0
+Near infrared II excitation nanoplatform for photothermal/chemodynamic/antibiotic synergistic therapy combating bacterial biofilm infections.|https://dx.doi.org/10.1186/s12951-023-02212-7
+Outbreak of vancomycin-resistant Enterococcus faecium ST1133 in pediatric patients with acute lymphoblastic leukemia from Southern Brazil.|https://dx.doi.org/10.1016/j.jgar.2023.11.005

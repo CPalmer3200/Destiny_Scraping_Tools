@@ -14,3 +14,18 @@ Impact of the Five-Year Intervention of an Antimicrobial Stewardship Program on 
 Surgical Strategy for Sternal Closure in Patients with Surgical Myocardial Revascularization Using Mammary Arteries.|https://dx.doi.org/10.3390/jcdd10110457
 Incidence and Risk Factors for Wound Revision after Surgical Treatment of Spinal Metastasis: A National Population-Based Study in South Korea.|https://dx.doi.org/10.3390/healthcare11222962
 Shaping the Future of Antimicrobial Therapy: Harnessing the Power of Antimicrobial Peptides in Biomedical Applications.|https://dx.doi.org/10.3390/jfb14110539
+Awake craniotomy for high-grade gliomas - a prospective cohort study in a UK tertiary-centre.|https://dx.doi.org/10.1016/j.surge.2023.11.002
+GP2-expressing cells: a new guardian with divergent functions in the intestine, eyes, and nose.|https://dx.doi.org/10.2220/biomedres.44.233
+Stepwise Lengthening of Quadriceps Extensor Mechanism for Severe Obligatory and Fixed Patella Dislocators: Four-Year Clinical and Surgical Outcomes.|https://dx.doi.org/10.1016/j.jisako.2023.11.007
+Current aspects of intraoperative high field (3 Tesla) magnetic resonance imaging in pediatric neurosurgery: Experiences from a recently launched unit at a tertiary referral center.|https://dx.doi.org/10.1016/j.wneu.2023.11.093
+Gout-Induced Cervical Deformity and Progressive Myelopathy Mimicking Infection Requiring Cervical Reconstruction.|https://dx.doi.org/10.1016/j.wneu.2023.11.103
+Study on the Prediction Model of Wound Infection After Spinal Fusion and Internal Fixation Based on Logistic Regression.|https://dx.doi.org/10.3233/SHTI230898
+Research on Symptomatic Treatment Decision Support System Based on Natural Language Process (NLP) for Medication Guidance.|https://dx.doi.org/10.3233/SHTI230897
+Antibiotic therapy in reconstructive surgery of deep sternal wound infections.|https://dx.doi.org/10.3233/CH-238121
+PREVENTING VENTRICULAR CATHETER DISPLACEMENT AND INFECTION WITH THE "CATHETER-LOCKING DEVICE-ASSISTED" TECHNIQUE: A RETROSPECTIVE STUDY OF 231 PATIENTS.|https://dx.doi.org/10.1016/j.wneu.2023.11.089
+Preoperative Application of Chlorhexidine to Reduce Infection with Cesarean Delivery after Labor (PRACTICAL): A Randomized Clinical Trial.|https://dx.doi.org/10.1055/a-2217-8556
+Epidemiology and pathogenicity of M. equirhinis in equine respiratory disorders.|https://dx.doi.org/10.1016/j.vetmic.2023.109926
+Addition of gentamicin for antibiotic prophylaxis in hip hemiarthroplasty does not decrease the rate of surgical site infection.|https://dx.doi.org/10.1007/s00068-023-02406-6
+Megaprosthesis use in Paprosky III/IV femoral defects in non-oncological patients: analysis of survival, clinical, and functional outcomes after an average follow-up of five years.|https://dx.doi.org/10.1007/s00590-023-03783-9
+Application of contrast-enhanced ultrasound in the surgical treatment of vesicoureteral reflux in children.|https://dx.doi.org/10.1007/s00383-023-05605-9
+Surprise positive culture rate in the treatment of presumed aseptic long-bone nonunion: a systematic review with meta-analysis of 2397 patients.|https://dx.doi.org/10.1007/s00402-023-05103-6
