@@ -10,3 +10,7 @@ Comparison of genomic diversity between single and pooled Staphylococcus aureus 
 Survey on microbial contamination of opened skin care products used for tattooing.|https://dx.doi.org/10.1093/jambio/lxad243
 The Staphylococcus aureus regulatory program in a human skin-like environment.|https://dx.doi.org/10.1101/2023.10.24.563767
 High-efficiency antibacterial calcium alginate/lysozyme/AgNPs composite sponge for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128370
+'Sad Man' Facies in a Preterm Neonate with Staphylococcal Scalded Skin Syndrome.|https://dx.doi.org/10.1007/s12098-023-04953-7
+Nanoparticles of Lactiplantibacillus plantarum K8 Reduce Staphylococcus aureus Respiratory Infection and Tumor Necrosis Factor Alpha- and Interferon Gamma-Induced Lung Inflammation.|https://dx.doi.org/10.3390/nu15224728
+S. aureus drives itch and scratch-induced skin damage through a V8 protease-PAR1 axis.|https://dx.doi.org/10.1016/j.cell.2023.10.019
+Staphylococcus scratches its itch.|https://dx.doi.org/10.1016/j.cell.2023.10.027

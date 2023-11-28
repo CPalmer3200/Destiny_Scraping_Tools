@@ -29,3 +29,19 @@ Addition of gentamicin for antibiotic prophylaxis in hip hemiarthroplasty does n
 Megaprosthesis use in Paprosky III/IV femoral defects in non-oncological patients: analysis of survival, clinical, and functional outcomes after an average follow-up of five years.|https://dx.doi.org/10.1007/s00590-023-03783-9
 Application of contrast-enhanced ultrasound in the surgical treatment of vesicoureteral reflux in children.|https://dx.doi.org/10.1007/s00383-023-05605-9
 Surprise positive culture rate in the treatment of presumed aseptic long-bone nonunion: a systematic review with meta-analysis of 2397 patients.|https://dx.doi.org/10.1007/s00402-023-05103-6
+The risk of osteomyelitis after mandibular fracture is doubled in men versus women: analysis of 300,000 patients.|https://dx.doi.org/10.1038/s41598-023-48235-w
+Simplified models of aerosol collision and deposition for disease transmission.|https://dx.doi.org/10.1038/s41598-023-48053-0
+Nebulised 3% hypertonic saline versus 0.9% saline for treating patients hospitalised with acute bronchiolitis: protocol for a randomised, double-blind, multicentre trial.|https://dx.doi.org/10.1136/bmjopen-2023-080182
+Burden of Social and Behavioral Determinants of Health on Infectious Complications in Emergency General Surgery.|https://dx.doi.org/10.1089/sur.2023.192
+Is There a Community Microbial Community? A Comparison of Pathogens Between Two Hospital Surgical Intensive Care Units in a Single City.|https://dx.doi.org/10.1089/sur.2023.069
+Iranian specialists' approach to surgery in patients with multiple sclerosis.|https://dx.doi.org/10.18502/cjn.v22i2.13336
+Are There Racial Differences in the Rate of Surgical Site Infection Based on Surgical Subspecialty?|https://dx.doi.org/10.1089/sur.2023.127
+Periosteal Turnover Flap for Coverage and Salvage of Exposed Deep Brain Stimulation Device.|https://dx.doi.org/10.1097/SCS.0000000000009683
+Anatomical Study and Clinical Application of Neuroendoscopic Transfarlateral Supracerebellar Infratentorial Approach.|https://dx.doi.org/10.1097/SCS.0000000000009725
+A Systematic Review and Meta-Analysis of the Worldwide Incidence of Surgical Site Infection.|https://dx.doi.org/10.1002/aorn.14043
+Intraoperative mechanical power and postoperative pulmonary complications in non-cardiothoracic elective surgery patients: a ten-year retrospective cohort-study.|https://dx.doi.org/10.1097/ALN.0000000000004848
+Genetic mechanisms and biological processes underlying host response to ophidiomycosis (snake fungal disease) inferred from tissue-specific transcriptome analyses.|https://dx.doi.org/10.1111/mec.17210
+Functional and safety outcomes after benign prostatic enlargement surgeries in men with detrusor underactivity compared with normal detrusor contractility: Systematic review and meta-analysis.|https://dx.doi.org/10.1002/nau.25336
+Measurement of the interbronchial angle in acute viral bronchiolitis.|https://dx.doi.org/10.1002/ppul.26771
+Impact of preoperative bloodstream infection on outcomes of pediatric liver transplant recipients treated for acute liver failure.|https://dx.doi.org/10.1111/tid.14200
+Fracture related infection (FRI) of the upper extremity correlates with poor bone and soft tissue healing.|https://dx.doi.org/10.1007/s00590-023-03750-4

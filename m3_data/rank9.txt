@@ -7,3 +7,4 @@ Is perioperative blood transfusion associated with postoperative thromboembolism
 A narrative review of how infection preventionist (IP) staffing and outcome metrics are assessed by health care organizations and factors to consider.|https://dx.doi.org/10.1016/j.ajic.2023.06.017
 Trauma-toxicology: concepts, causes, complications.|https://dx.doi.org/10.1007/s00210-023-02845-3
 Impact of COVID-19 Pandemic on Healthcare-Associated Infections: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/antibiotics12111600
+Complication rates of ciprofloxacin alone vs. ciprofloxacin plus fosfomycin for transrectal prostate biopsy.|https://dx.doi.org/10.5489/cuaj.8532

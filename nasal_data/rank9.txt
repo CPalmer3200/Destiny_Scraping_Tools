@@ -30,3 +30,15 @@ Significant Benefits of Environmentally Friendly Hydrosols from Tropaeolum majus
 Eucalyptus camaldulensis Dehnh Leaf Essential Oil from Palestine Exhibits Antimicrobial and Antioxidant Activity but No Effect on Porcine Pancreatic Lipase and α-Amylase.|https://dx.doi.org/10.3390/plants12223805
 Phytochemical Profile, Antioxidant Potential, Antimicrobial Activity, and Cytotoxicity of Dry Extract from Rosa damascena Mill.|https://dx.doi.org/10.3390/molecules28227666
 New Meroterpenoid Derivatives from the Pomegranate-Derived Endophytic Fungus Talaromyces purpureogenus.|https://dx.doi.org/10.3390/molecules28227650
+N-Heterocycle Modified Graphene Quantum Dots as Topoisomerase Targeted Nanoantibiotics for Combating Microbial Infections.|https://dx.doi.org/10.1002/adhm.202302659
+Genomic characterization of methicillin-susceptible Staphylococcus aureus carriage in patients on home parenteral nutrition and their caregivers.|https://dx.doi.org/10.1093/cid/ciad721
+A multiplex Taqman PCR assay for MRSA detection from whole blood.|https://dx.doi.org/10.1371/journal.pone.0294782
+Evaluation of fatty acid contents and biological activities of Jurinea turcica.|https://dx.doi.org/10.1002/cbdv.202300084
+The intra-host evolutionary landscape and pathoadaptation of persistent Staphylococcus aureus in chronic rhinosinusitis.|https://dx.doi.org/10.1099/mgen.0.001128
+Drug delivery nanoparticles for preventing implant bacterial infections based on the bacteria and immunity mechanisms.|https://dx.doi.org/10.1039/d3bm01584j
+Corrigendum: Triclosan-resistant small-colony variants of Staphylococcus aureus produce less capsule, less phenol-soluble modulins, and are attenuated in a Galleria mellonella model of infection.|https://dx.doi.org/10.1099/mic.0.001419
+Antibacterial copper-filled TiO(2) coating of cardiovascular implants to prevent infective endocarditis-A pilot study.|https://dx.doi.org/10.1111/aor.14688
+Defective ReS(2) Triggers High Intrinsic Piezoelectricity for Piezo-Photocatalytic Efficient Sterilization.|https://dx.doi.org/10.1021/acsami.3c12491
+Risk factors for surgical site infection after closed proximal humerus fractures.|https://dx.doi.org/10.1111/iwj.14515
+Synergistic Potential of α-Melanocyte Stimulating Hormone Based Analogues with Conventional Antibiotic against Planktonic, Biofilm-Embedded, and Systemic Infection Model of MRSA.|https://dx.doi.org/10.1021/acsinfecdis.3c00298
+Antimicrobial and antibiofilm effects of shikonin with tea tree oil nanoemulsion against Candida albicans and Staphylococcus aureus.|https://dx.doi.org/10.1080/08927014.2023.2281511

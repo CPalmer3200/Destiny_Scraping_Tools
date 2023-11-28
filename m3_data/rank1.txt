@@ -2,3 +2,4 @@ Clostridioides difficile Infection in the Neurorehabilitation Setting: Importanc
 Fecal Microbiota Transplantation: History, Procedure and Regulatory Considerations.|https://dx.doi.org/10.1016/j.lpm.2023.104204
 Clostridioides difficile infections; new treatments and future perspectives.|https://dx.doi.org/10.1097/MOG.0000000000000989
 In vitro activity of fidaxomicin and combinations of fidaxomicin with other antibiotics against Clostridium perfringens strains isolated from dogs and cats.|https://dx.doi.org/10.1186/s12917-023-03801-2
+Identification of an anti-CRISPR protein that inhibits the CRISPR-Cas type I-B system in Clostridioides difficile.|https://dx.doi.org/10.1128/msphere.00401-23

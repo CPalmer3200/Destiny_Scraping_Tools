@@ -33,3 +33,23 @@ Revisiting Vaccine Hesitancy in Residential Care Homes for the Elderly for Pande
 Impact of Vaccination on the Course and Outcome of COVID-19 in Patients with Multimorbidity.|https://dx.doi.org/10.3390/vaccines11111696
 Lessons Learned from the COVID-19 Vaccination Campaigns in Veneto Region: Population Vaccination Centers as Support for the Traditional Outpatient Model.|https://dx.doi.org/10.3390/vaccines11111695
 Opinions, Attitudes and Factors Related to SARS-CoV-2 Vaccine Uptake in Eight South American Countries.|https://dx.doi.org/10.3390/vaccines11111660
+Comparing vaccination coverage before and during COVID-19 pandemic in children under one year in the health district of commune V in Bamako, Mali.|https://dx.doi.org/10.1186/s12887-023-04416-0
+Characteristics of hematological parameters on admission in COVID-19 Omicron variant infected in Chinese population: a large-scale retrospective study.|https://dx.doi.org/10.1186/s12879-023-08771-2
+A web-based genome-wide association study reveals the susceptibility loci of common adverse events following COVID-19 vaccination in the Japanese population.|https://dx.doi.org/10.1038/s41598-023-47632-5
+Persistent humoral immune response in youth throughout the COVID-19 pandemic: prospective school-based cohort study.|https://dx.doi.org/10.1038/s41467-023-43330-y
+Practice Facilitation to Support Family Physicians in Encouraging COVID-19 Vaccine Uptake: A Multimethod Process Evaluation.|https://dx.doi.org/10.1370/afm.3041
+Plasmonic digital PCR for discriminative detection of SARS-CoV-2 variants.|https://dx.doi.org/10.1016/j.bios.2023.115859
+Vaccination, immunity, and the changing impact of COVID-19 on infant health.|https://dx.doi.org/10.1073/pnas.2311573120
+Neutrophil Extracellular Traps Are Induced by Coronavirus 2019 Disease-Positive Patient Plasma and Persist Longitudinally: A Possible Link to Endothelial Dysfunction as Measured By Syndecan-1.|https://dx.doi.org/10.1089/sur.2023.156
+Identify successful restrictions in suppressing the early outbreak of COVID-19 in Arizona, United States: Interrupted time series analysis.|https://dx.doi.org/10.1371/journal.pone.0291205
+Evaluation of an infection control protocol to limit COVID-19 at residential summer camps in 2021.|https://dx.doi.org/10.1371/journal.pone.0282560
+Impact of the COVID-19 pandemic on routine HIV care and antiretroviral treatment outcomes in Kenya: A nationally representative analysis.|https://dx.doi.org/10.1371/journal.pone.0291479
+The successful and safe conversion of joint arthroplasty to same-day surgery: A necessity after the COVID-19 pandemic.|https://dx.doi.org/10.1371/journal.pone.0290135
+[SARS-CoV-2-induced non-bacterial endomyocarditis with the development of acquired heart defects].|https://dx.doi.org/10.17116/patol20238506152
+Development of mRNA Nano-Vaccines for COVID-19 Prevention and its Biochemical Interactions with Various Disease Conditions and Age Groups.|https://dx.doi.org/10.1080/1061186X.2023.2288996
+Virological characteristics and the rapid antigen test as deisolation criteria in immunocompromised patients with COVID-19: A prospective cohort study.|https://dx.doi.org/10.1002/jmv.29228
+The impact of COVID-19 on Italian dentists: A cross-sectional survey on 2443 participants.|https://dx.doi.org/10.1111/odi.14815
+Resurgence of influenza during COVID-19 in Chongqing, China: A retrospective analysis.|https://dx.doi.org/10.1002/jmv.29249
+Molecular PET/CT mapping of rhACE2 distribution and quantification in organs to aid in SARS-CoV-2 targeted therapy.|https://dx.doi.org/10.1002/jmv.29221
+Prevalence and factors associated with changes in frailty among community-dwelling older adults in Japan during the COVID-19 pandemic: A prospective cohort study from 2020 to 2022.|https://dx.doi.org/10.1111/ggi.14748
+The lingering symptoms of post-COVID-19 condition (long-COVID): a prospective cohort study.|https://dx.doi.org/10.1111/imj.16251
