@@ -103,3 +103,9 @@ Preparation, Physicochemical Characterization, Antimicrobial Effects, Biocompati
 The epidemiology of Helicobacter pylori resistance in a university affiliated hospital: a comparison between two time periods-a cross-sectional design.|https://dx.doi.org/10.1186/s40001-023-01500-0
 Near infrared II excitation nanoplatform for photothermal/chemodynamic/antibiotic synergistic therapy combating bacterial biofilm infections.|https://dx.doi.org/10.1186/s12951-023-02212-7
 Outbreak of vancomycin-resistant Enterococcus faecium ST1133 in pediatric patients with acute lymphoblastic leukemia from Southern Brazil.|https://dx.doi.org/10.1016/j.jgar.2023.11.005
+Comparative analyses of the faecal resistome against β-lactam and quinolone antibiotics in humans and livestock using metagenomic sequencing.|https://dx.doi.org/10.1038/s41598-023-48221-2
+Parenteral Fosfomycin in Gastrointestinal Surgery: A Systematic Review.|https://dx.doi.org/10.1055/a-2195-3032
+Statistical computational optimization approach for photocatalytic-ozonation decontamination of metronidazole in aqueous media using CuFe(2)O(4)/SiO(2)/ZnO nanocomposite.|https://dx.doi.org/10.1016/j.envres.2023.117747
+Metabolism shapes immune responses to Staphylococcus aureus.|https://dx.doi.org/10.1159/000535482
+Evolution of a small phage protein confers resistance to antiphage defense in Enterococcus faecalis.|https://dx.doi.org/10.1101/2023.11.16.567456
+Oxidative stress enhances rotavirus oncolysis in breast cancer and leukemia, except in melanoma with abundant matrix.|https://dx.doi.org/10.1016/j.virusres.2023.199285

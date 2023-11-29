@@ -47,3 +47,5 @@ Halogen-Dependent Diversity and Weak Interactions in the Heterometallic Ni/Cd Co
 Therapies from Thiopeptides.|https://dx.doi.org/10.3390/molecules28227579
 Dietary Habits and Oral Hygiene as Determinants of the Incidence and Intensity of Dental Caries-A Pilot Study.|https://dx.doi.org/10.3390/nu15224833
 Scheimpflug Corneal Densitometry Patterns at the Graft-Host Interface in DMEK and DSAEK: A 12-Month Longitudinal Comparative Study.|https://dx.doi.org/10.3390/jcm12227133
+Repurposing dried blood spot (DBS) device technology to examine bile acid profiles in human dried fecal spot (DFS) samples.|https://dx.doi.org/10.1152/ajpgi.00188.2023
+Pancreatic resection for metastasis from renal cell carcinoma: A single institution experience and meta-analysis of survival outcomes.|https://dx.doi.org/10.1016/j.pan.2023.11.014

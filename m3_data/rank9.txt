@@ -8,3 +8,4 @@ A narrative review of how infection preventionist (IP) staffing and outcome metr
 Trauma-toxicology: concepts, causes, complications.|https://dx.doi.org/10.1007/s00210-023-02845-3
 Impact of COVID-19 Pandemic on Healthcare-Associated Infections: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/antibiotics12111600
 Complication rates of ciprofloxacin alone vs. ciprofloxacin plus fosfomycin for transrectal prostate biopsy.|https://dx.doi.org/10.5489/cuaj.8532
+Missing Narrative: Examining the Impact of Disability on Post-Operative Infectious Complications.|https://dx.doi.org/10.1089/sur.2023.160

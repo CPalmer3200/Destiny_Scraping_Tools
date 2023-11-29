@@ -45,3 +45,16 @@ Functional and safety outcomes after benign prostatic enlargement surgeries in m
 Measurement of the interbronchial angle in acute viral bronchiolitis.|https://dx.doi.org/10.1002/ppul.26771
 Impact of preoperative bloodstream infection on outcomes of pediatric liver transplant recipients treated for acute liver failure.|https://dx.doi.org/10.1111/tid.14200
 Fracture related infection (FRI) of the upper extremity correlates with poor bone and soft tissue healing.|https://dx.doi.org/10.1007/s00590-023-03750-4
+Pathogen species are the risk factors for postoperative infection of patients with transurethral resection of the prostate: a retrospective study.|https://dx.doi.org/10.1038/s41598-023-47773-7
+Postoperative pulmonary complications with high versus standard fiO(2) in adult patients undergoing major abdominal surgery: A noninferiority trial.|https://dx.doi.org/10.1016/j.surg.2023.10.020
+Parenteral Fosfomycin in Gastrointestinal Surgery: A Systematic Review.|https://dx.doi.org/10.1055/a-2195-3032
+Safety and effectiveness of totally laparoscopic total gastrectomy vs laparoscopic-assisted total gastrectomy: a meta-analysis.|https://dx.doi.org/10.1097/JS9.0000000000000921
+Is antibiotic prophylaxis generally safe and effective in surgical and non-surgical scenarios? Evidence from an umbrella review of randomized controlled trials.|https://dx.doi.org/10.1097/JS9.0000000000000923
+Role of Pre-Operative Nutrition Status on Surgical Site Infection After Posterior Lumbar Interbody Fusion: A Retrospective Study.|https://dx.doi.org/10.1089/sur.2023.051
+Local Soft-Tissue Thickness vs. Body Mass Index as Predictors of Complications After Total Knee or Hip Arthroplasty: A Literature Review.|https://dx.doi.org/10.2106/JBJS.RVW.22.00128
+Association Between T2-related Comorbidities and Effectiveness of Biologics in Severe Asthma.|https://dx.doi.org/10.1164/rccm.202305-0808OC
+Postsurgical Pyoderma Gangrenosum After Minimally Invasive Transforaminal Lumbar Interbody Fusion: A Case Report.|https://dx.doi.org/10.2106/JBJS.CC.23.00087
+Missing Narrative: Examining the Impact of Disability on Post-Operative Infectious Complications.|https://dx.doi.org/10.1089/sur.2023.160
+The application of nano-hydrogels and hydrogels in wound dressings.|https://dx.doi.org/10.14715/cmb/2023.69.11.19
+Hazardous alcohol consumption and perioperative complications in a cardiac surgery patient. A retrospective study.|https://dx.doi.org/10.1111/aas.14361
+Balloon dilation and transient stenting of unilateral membranous choanal atresia in a British Shorthair cat with chronic purulent rhinitis and ascending meningoencephalitis.|https://dx.doi.org/10.17236/sat00414

@@ -28,3 +28,4 @@ Fighting diabetic foot ulcer by combination therapy, including larva therapy, Me
 Identification of hub genes and pathways associated with cellular senescence in diabetic foot ulcers via comprehensive transcriptome analysis.|https://dx.doi.org/10.1111/jcmm.18043
 Predictive Value of C-Reactive Protein to Albumin Ratio for Amputation Risk in Diabetic Foot Infection.|https://dx.doi.org/10.1177/00033197231218330
 A novel assessment, diagnostic and treatment system for diabetic foot.|https://dx.doi.org/10.1186/s13047-023-00687-z
+Peptide TK-HR from the Skin of Chinese Folk Medicine Frog Hoplobatrachus Rugulosus Accelerates Wound Healing via the Activation of the Neurokinin-1 Receptor.|https://dx.doi.org/10.1021/acs.jmedchem.3c01434

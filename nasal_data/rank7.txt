@@ -53,3 +53,22 @@ Resurgence of influenza during COVID-19 in Chongqing, China: A retrospective ana
 Molecular PET/CT mapping of rhACE2 distribution and quantification in organs to aid in SARS-CoV-2 targeted therapy.|https://dx.doi.org/10.1002/jmv.29221
 Prevalence and factors associated with changes in frailty among community-dwelling older adults in Japan during the COVID-19 pandemic: A prospective cohort study from 2020 to 2022.|https://dx.doi.org/10.1111/ggi.14748
 The lingering symptoms of post-COVID-19 condition (long-COVID): a prospective cohort study.|https://dx.doi.org/10.1111/imj.16251
+Early combination therapy of COVID-19 in high-risk patients.|https://dx.doi.org/10.1007/s15010-023-02125-5
+Clinical features of 26 cases of COVID-19-associated conjunctivitis.|https://dx.doi.org/10.1007/s10384-023-01033-3
+Comparison of all completed suicides in Frankfurt am Main (Hessen) before and during the early COVID-19 pandemic.|https://dx.doi.org/10.1007/s12024-023-00754-8
+Factors affecting social phobia among Chinese college students in the context of COVID-19 pandemic: a cross-sectional study.|https://dx.doi.org/10.1038/s41598-023-48225-y
+Covid-19 vaccination among migrants in Rome, Italy.|https://dx.doi.org/10.1038/s41598-023-48273-4
+Post-discharge follow-up of patients with spine trauma in the National Spinal Cord Injury Registry of Iran during the COVID-19 pandemic: Challenges and lessons learned.|https://dx.doi.org/10.1016/j.cjtee.2023.10.005
+Incidence of community-acquired pneumonia hospitalisation in persons with bronchiectasis during the COVID-19 lockdown in Denmark: a retrospective cohort study.|https://dx.doi.org/10.1136/bmjresp-2022-001517
+Effectiveness of antidepressants in improving the prognosis of COVID-19: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.aprim.2023.102771
+Hydroxyurea interaction with α7 nicotinic acetylcholine receptor can underlie its therapeutic efficacy upon COVID-19.|https://dx.doi.org/10.1016/j.jneuroim.2023.578244
+Blood microbial analyses reveal long-term effects of SARS-CoV-2 infection on patients who recovered from COVID-19.|https://dx.doi.org/10.1016/j.compbiomed.2023.107721
+Dynamics of childhood obesity in Hong Kong throughout the COVID-19 pandemic before and after the school closures: a 3-year longitudinal study.|https://dx.doi.org/10.1016/j.puhe.2023.10.037
+[Medical rehabilitation features of patients suffered from new coronavirus infection].|https://dx.doi.org/10.17116/kurort202310005164
+Ultraviolet-C light at 222 nm has a high disinfecting spectrum in environments contaminated by infectious pathogens, including SARS-CoV-2.|https://dx.doi.org/10.1371/journal.pone.0294427
+Neutrophil virucidal activity against SARS-CoV-2 is mediated by NETs.|https://dx.doi.org/10.1093/infdis/jiad526
+A computational simulation appraisal of banana lectin as a potential anti-SARS-CoV-2 candidate by targeting the receptor-binding domain.|https://dx.doi.org/10.1186/s43141-023-00569-8
+Reported changes in romantic and sexual behavior among college and graduate students during COVID-19.|https://dx.doi.org/10.1080/07448481.2023.2283747
+Cannabis to cope with COVID-19 in college.|https://dx.doi.org/10.1080/07448481.2023.2277861
+Mental health in undergraduate students several months into the COVID-19 pandemic compared to before the pandemic.|https://dx.doi.org/10.1080/07448481.2023.2277193
+Effect of COVID-19 Risk Perception and COVID-19 Self-Care of Korean Correctional Nurses on Occupational Burnout: Mediating Effect of Stress and Anxiety About Viral Epidemics.|https://dx.doi.org/10.1097/JFN.0000000000000455

@@ -42,3 +42,16 @@ Defective ReS(2) Triggers High Intrinsic Piezoelectricity for Piezo-Photocatalyt
 Risk factors for surgical site infection after closed proximal humerus fractures.|https://dx.doi.org/10.1111/iwj.14515
 Synergistic Potential of α-Melanocyte Stimulating Hormone Based Analogues with Conventional Antibiotic against Planktonic, Biofilm-Embedded, and Systemic Infection Model of MRSA.|https://dx.doi.org/10.1021/acsinfecdis.3c00298
 Antimicrobial and antibiofilm effects of shikonin with tea tree oil nanoemulsion against Candida albicans and Staphylococcus aureus.|https://dx.doi.org/10.1080/08927014.2023.2281511
+Bacteriophage treatment as an alternative therapy for multidrug-resistant bacteria.|https://dx.doi.org/10.15537/smj.2023.44.12.20230366
+Development of chitosan-based cerium and titanium oxide loaded polycaprolactone for cutaneous wound healing and antibacterial applications.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128458
+In vitro activity of ceftaroline against bacterial isolates causing skin and soft tissue and respiratory tract infections collected in Latin American countries, ATLAS program 2016-2020.|https://dx.doi.org/10.1016/j.jgar.2023.11.006
+Metabolism shapes immune responses to Staphylococcus aureus.|https://dx.doi.org/10.1159/000535482
+Degradation of Procion Brilliant Purple H-3R using ultrasound coupled with advanced oxidation processes.|https://dx.doi.org/10.1016/j.jenvman.2023.119642
+CodonU: A Python Package for Codon Usage Analysis.|https://dx.doi.org/10.1109/TCBB.2023.3335823
+Elucidating the impact of bacterial lipases, human serum albumin, and FASII inhibition on the utilization of exogenous fatty acids by Staphylococcus aureus.|https://dx.doi.org/10.1128/msphere.00368-23
+Catalytic effect of transition metal-doped medical grade polymer on S-nitrosothiol decomposition and its biological response.|https://dx.doi.org/10.1039/d3ma00191a
+N-lauric-O-carboxymethyl chitosan: Synthesis, characterization and application as a pH-responsive carrier for curcumin particles.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128421
+Putative staphylococcal enterotoxin possesses two common structural motifs for MHC-II binding.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128437
+Real-time, label-free detection and identification of bacteria through non-invasive optical imaging.|https://dx.doi.org/10.1016/j.micinf.2023.105263
+Trend in mitral valve prostheses of choice and early outcomes in the United Kingdom.|https://dx.doi.org/10.1016/j.ijcard.2023.131607
+Effectiveness of tailored screening for multidrug-resistant organisms upon admission to an intensive care unit in the United Arab Emirates.|https://dx.doi.org/10.1186/s13756-023-01340-x

@@ -17,3 +17,11 @@ Early versus delayed ureterolithotripsy following obstructive acute pyelonephrit
 Responding to avian influenza A H5N1 detection on a hospital property in Maine-An interdisciplinary approach.|https://dx.doi.org/10.1111/zph.13097
 Expert Consensus on Best Practices for Optimal Wound Closure in Total Knee Arthroplasty: A STRIDE Initiative for Orthopedic Surgeons of India.|https://dx.doi.org/10.1007/s43465-023-00922-6
 Pre-Emptive Use of Rituximab in Epstein-Barr Virus Reactivation: Incidence, Predictive Factors, Monitoring, and Outcomes.|https://dx.doi.org/10.3390/ijms242216029
+Effectiveness of ChatGPT to Identify and Accurately Guide Patients in Rhinoplasty Complications.|https://dx.doi.org/10.1055/a-2218-6984
+Clinical application of ultrasound-guided totally implantable venous access ports implantation via the posterior approach of the internal jugular vein.|https://dx.doi.org/10.1097/JCMA.0000000000001030
+Impact of Prophylactic Antibiotic Selection on the Prevention and Bacterial Flora of Surgical Site Infections After Colorectal Surgery.|https://dx.doi.org/10.1089/sur.2023.219
+Nonface-to-Face Visitation to Restrict Patient Visits for Infection Control: Integrative Review.|https://dx.doi.org/10.2196/43572
+Outliers in nutrient intake data for U.S. adults: national health and nutrition examination survey 2017-2018.|https://dx.doi.org/10.1515/em-2023-0018
+Efficacy of DAIR in managing Candida parapsilosis-infected total knee arthroplasty with five-year follow-up: A case report and review of literature.|https://dx.doi.org/10.1097/MD.0000000000036246
+Post-operative nursing activities to prevent wound complications in patients undergoing colorectal surgeries: A scoping review.|https://dx.doi.org/10.1111/jocn.16933
+SPECT/CT and PET/CT for the evaluation of persistent or recurrent pain after spine surgery: a systematic review and case series.|https://dx.doi.org/10.1016/j.wneu.2023.11.108
