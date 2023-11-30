@@ -58,3 +58,22 @@ Missing Narrative: Examining the Impact of Disability on Post-Operative Infectio
 The application of nano-hydrogels and hydrogels in wound dressings.|https://dx.doi.org/10.14715/cmb/2023.69.11.19
 Hazardous alcohol consumption and perioperative complications in a cardiac surgery patient. A retrospective study.|https://dx.doi.org/10.1111/aas.14361
 Balloon dilation and transient stenting of unilateral membranous choanal atresia in a British Shorthair cat with chronic purulent rhinitis and ascending meningoencephalitis.|https://dx.doi.org/10.17236/sat00414
+Amplification of poly(I:C)-induced interleukin-6 production in human bronchial epithelial cells by priming with interferon-γ.|https://dx.doi.org/10.1038/s41598-023-48422-9
+Evaluation of routine proximal bone analysis for microbiology and histopathology in diabetes-related foot infections and osteomyelitis.|https://dx.doi.org/10.1111/ans.18805
+Bone formation of the coracoid bone graft after the Bristow procedure assessed using three-dimensional computed tomography.|https://dx.doi.org/10.1016/j.jos.2023.11.010
+Peptide Receptor Radionuclide Therapy for Recurrent Olfactory Neuroblastoma After Cranioplasty for Surgical Infection: A Case Report.|https://dx.doi.org/10.21873/anticanres.16778
+A Nasal Swab Classifier to Evaluate the Probability of Lung Cancer in Patients with Pulmonary Nodules.|https://dx.doi.org/10.1016/j.chest.2023.11.036
+The adjusted prevalence of hepatitis delta virus (HDV) in 25 countries and territories.|https://dx.doi.org/10.1016/j.jhep.2023.10.043
+Construct validation of machine learning for accurately predicting the risk of postoperative surgical site infection following spine surgery.|https://dx.doi.org/10.1016/j.jhin.2023.09.024
+Establishment of ganglioside GD2-expressing extranodal NK/T cell lymphoma cell line with scRNA-seq analysis.|https://dx.doi.org/10.1016/j.exphem.2023.11.006
+Evaluation of diode laser efficacy in treating benign oral soft tissue masses: A case series.|https://dx.doi.org/10.1016/j.ijscr.2023.109075
+Sensing the invisible: Ultra-low-level electrochemical detection of the microbe (Pseudomonas aeruginosa) on cobalt ferrite-doped silver nanocomposite (CoFe(2)O(4)/AgNPs) surfaces.|https://dx.doi.org/10.1016/j.foodchem.2023.138073
+Dissecting bloodstream infections in febrile neutropenic patients with hematological malignancies, a decade-long single center retrospective observational study (2009-2019).|https://dx.doi.org/10.1016/j.jiph.2023.11.017
+The spatial dissimilarities and connections of the microbiota in the upper and lower respiratory tract of beef cattle.|https://dx.doi.org/10.3389/fcimb.2023.1269726
+Risk Factors for Predicting Mortality and Amputation of Patients with Necrotizing Soft-Tissue Infections: Retrospective Analysis of 111 Cases from a Single Medical Center.|https://dx.doi.org/10.1155/2023/6316896
+A novel candidate hepatitis C virus genotype 4 subtype identified by next generation sequencing full-genome characterization in a patient from Saudi Arabia.|https://dx.doi.org/10.3389/fmicb.2023.1285367
+Pseudorabies gD protein protects mice and piglets against lethal doses of pseudorabies virus.|https://dx.doi.org/10.3389/fmicb.2023.1288458
+Does postoperative pulmonary infection correlate with intestinal flora following gastric cancer surgery? - a nested case-control study.|https://dx.doi.org/10.3389/fmicb.2023.1267750
+Dirofilariasis of Breast Mimicking Malignancy - A Rare Entity.|https://dx.doi.org/10.4103/jmh.jmh_109_22
+Anti-inflammatory, Antioxidant, and Wound-Healing Effects of Photobiomodulation on Type-2 Diabetic Rats.|https://dx.doi.org/10.34172/jlms.2023.45
+Clinical Effects of the End-Love Technique in the Treatment of Recurrent Lumbar Disc Herniation 1 Year After Surgery.|https://dx.doi.org/10.2147/ORR.S433846

@@ -14,3 +14,6 @@ High-efficiency antibacterial calcium alginate/lysozyme/AgNPs composite sponge f
 Nanoparticles of Lactiplantibacillus plantarum K8 Reduce Staphylococcus aureus Respiratory Infection and Tumor Necrosis Factor Alpha- and Interferon Gamma-Induced Lung Inflammation.|https://dx.doi.org/10.3390/nu15224728
 S. aureus drives itch and scratch-induced skin damage through a V8 protease-PAR1 axis.|https://dx.doi.org/10.1016/j.cell.2023.10.019
 Staphylococcus scratches its itch.|https://dx.doi.org/10.1016/j.cell.2023.10.027
+Detection of virulence genes of Staphylococcus aureus isolated from raw beef for retail sale in the markets of Ulaanbaatar city, Mongolia.|https://dx.doi.org/10.1186/s12866-023-03122-2
+Identification of an antivirulence agent targeting the master regulator of virulence genes in Staphylococcus aureus.|https://dx.doi.org/10.3389/fcimb.2023.1268044
+Reduction of Panton-Valentine Leukocidin Production in the Staphylococcal Strain USA300 After In Vitro Ascorbic Acid and Nicotinamide Treatment.|https://dx.doi.org/10.7759/cureus.47588

@@ -25,3 +25,6 @@ Engineering Antimicrobial Metal-Phenolic Network Nanoparticles with High Biocomp
 [Modern methods of adhesive fixation of facial epitheses].|https://dx.doi.org/10.17116/stomat202310206162
 First Report of Kocuria kristinae in the Skin of a Cuban Boa (Epicrates angulifer).|https://dx.doi.org/10.3390/life13112133
 N-Heterocycle Modified Graphene Quantum Dots as Topoisomerase Targeted Nanoantibiotics for Combating Microbial Infections.|https://dx.doi.org/10.1002/adhm.202302659
+Invasive Malassezia Infections.|https://dx.doi.org/10.3314/mmj.23-003
+Unravelling host-pathogen interactions by biofilm infected human wound models.|https://dx.doi.org/10.1016/j.bioflm.2023.100164
+Infected Tibial Plateau Open Reduction Internal Fixation Treated Using External Fixation and a Gastrocnemius Flap: A Case Report.|https://dx.doi.org/10.7759/cureus.46750

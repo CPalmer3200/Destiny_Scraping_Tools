@@ -49,3 +49,14 @@ Dietary Habits and Oral Hygiene as Determinants of the Incidence and Intensity o
 Scheimpflug Corneal Densitometry Patterns at the Graft-Host Interface in DMEK and DSAEK: A 12-Month Longitudinal Comparative Study.|https://dx.doi.org/10.3390/jcm12227133
 Repurposing dried blood spot (DBS) device technology to examine bile acid profiles in human dried fecal spot (DFS) samples.|https://dx.doi.org/10.1152/ajpgi.00188.2023
 Pancreatic resection for metastasis from renal cell carcinoma: A single institution experience and meta-analysis of survival outcomes.|https://dx.doi.org/10.1016/j.pan.2023.11.014
+Clinical characteristics of adipsic diabetes insipidus.|https://dx.doi.org/10.1016/j.eprac.2023.11.012
+Antibiotic prescribing for adults with group A streptococcal bacteremia in a large healthcare system.|https://dx.doi.org/10.1017/ash.2023.449
+A Case Report of Candida-Induced Emphysematous Gastritis.|https://dx.doi.org/10.7759/cureus.47870
+Efficacy of Intravenous Colistin Monotherapy Versus Colistin Combined With Meropenem in Patients With Multidrug-Resistant Infections: A Retrospective Observational Study.|https://dx.doi.org/10.7759/cureus.47342
+Parallel laboratory evolution and rational debugging reveal genomic plasticity to S. cerevisiae synthetic chromosome XIV defects.|https://dx.doi.org/10.1016/j.xgen.2023.100379
+Consequences of a telomerase-related fitness defect and chromosome substitution technology in yeast synIX strains.|https://dx.doi.org/10.1016/j.xgen.2023.100419
+Synthetic yeast chromosome XI design provides a testbed for the study of extrachromosomal circular DNA dynamics.|https://dx.doi.org/10.1016/j.xgen.2023.100418
+Establishing chromosomal design-build-test-learn through a synthetic chromosome and its combinatorial reconfiguration.|https://dx.doi.org/10.1016/j.xgen.2023.100435
+Context-dependent neocentromere activity in synthetic yeast chromosome VIII.|https://dx.doi.org/10.1016/j.xgen.2023.100437
+Dissecting aneuploidy phenotypes by constructing Sc2.0 chromosome VII and SCRaMbLEing synthetic disomic yeast.|https://dx.doi.org/10.1016/j.xgen.2023.100364
+Synthetic chromosome fusion: Effects on mitotic and meiotic genome structure and function.|https://dx.doi.org/10.1016/j.xgen.2023.100439

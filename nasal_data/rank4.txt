@@ -25,3 +25,23 @@ Outliers in nutrient intake data for U.S. adults: national health and nutrition 
 Efficacy of DAIR in managing Candida parapsilosis-infected total knee arthroplasty with five-year follow-up: A case report and review of literature.|https://dx.doi.org/10.1097/MD.0000000000036246
 Post-operative nursing activities to prevent wound complications in patients undergoing colorectal surgeries: A scoping review.|https://dx.doi.org/10.1111/jocn.16933
 SPECT/CT and PET/CT for the evaluation of persistent or recurrent pain after spine surgery: a systematic review and case series.|https://dx.doi.org/10.1016/j.wneu.2023.11.108
+Detection of virulence genes of Staphylococcus aureus isolated from raw beef for retail sale in the markets of Ulaanbaatar city, Mongolia.|https://dx.doi.org/10.1186/s12866-023-03122-2
+Vancomycin vs metronidazole use for the treatment of Clostridioides difficile infection in a tertiary care hospital in Saudi Arabia.|https://dx.doi.org/10.1016/j.heliyon.2023.e22053
+Dynamics of antimicrobial resistance and virulence of staphylococcal species isolated from foods traded in the Cape Coast metropolitan and Elmina municipality of Ghana.|https://dx.doi.org/10.1016/j.heliyon.2023.e21584
+Pseudomonas aeruginosa in children with cerebral palsy: a prospective study.|https://dx.doi.org/10.3389/fped.2023.1267345
+Hepatitis C Prevalence on the Rise but Screening at Safety Net Institutions Lagging behind.|https://dx.doi.org/10.1155/2023/3650746
+Single vs. double drain in modified radical mastectomy: A randomized controlled trial.|https://dx.doi.org/10.47717/turkjsurg.2023.5666
+Procedural Promotion of Multiple Stages in the Wound Healing Process by Graphene-Spiky Silica Heterostructured Nanoparticles.|https://dx.doi.org/10.2147/IJN.S426552
+Reusable tourniquets for blood sampling as a source of multi-resistant organisms- a systematic review.|https://dx.doi.org/10.3389/fpubh.2023.1258692
+Trends and Patterns of Respiratory Tuberculosis Mortality in Rural and Urban - China, 1987-2021.|https://dx.doi.org/10.46234/ccdcw2023.176
+Epidemiological Shifts in Infectious Diseases in China: Implications and Policy Recommendations.|https://dx.doi.org/10.46234/ccdcw2023.178
+Surveillance of central line associated bloodstream infection (CLABSI) - comparison of current (CDC/NHSN) and modified criteria: A prospective study.|https://dx.doi.org/10.4103/joacp.joacp_393_21
+Oxidized Zirconium Bearing Surface Failure in Total Knee Arthroplasty: A Unique Case Report of Isolated Medial Compartment with Catastrophic Results.|https://dx.doi.org/10.13107/jocr.2023.v13.i11.4018
+Mild photothermal therapy assist in promoting bone repair: Related mechanism and materials.|https://dx.doi.org/10.1016/j.mtbio.2023.100834
+Benefits of Early Enteral Feeding with a Locally Prepared Protein-Energy Ration after Surgery for Acute Generalised Peritonitis: A Randomised Trial in Two Hospitals in Bukavu, Eastern Democratic Republic of Congo.|https://dx.doi.org/10.1155/2023/1764242
+Audit on the Adequacy of Consenting Practices for Neck of Femur Fracture Surgeries.|https://dx.doi.org/10.7759/cureus.48565
+A qualitative study exploring healthcare workers' lived experiences of the impacts of COVID-19 policies and guidelines on maternal and reproductive healthcare services in the United Kingdom.|https://dx.doi.org/10.18332/ejm/171802
+What is the right gentamicin dose for multiple trauma patients? A Monte Carlo simulation exploration study.|https://dx.doi.org/10.4103/ijciis.ijciis_14_23
+Impact of Irrational Use of Antibiotics Among Patients in the Intensive Care Unit on Clinical Outcomes in Sudan.|https://dx.doi.org/10.2147/IDR.S378645
+Safety of Laparoscopic Entry Points in Patients With a History of Abdominal Surgery: A Research Article.|https://dx.doi.org/10.7759/cureus.47244
+Late-Presenting Septic Arthritis of the Hip in Children: Variations in Presentation and a Review of 25 Hips After Surgical Debridement.|https://dx.doi.org/10.7759/cureus.47717

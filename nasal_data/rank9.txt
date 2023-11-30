@@ -55,3 +55,21 @@ Putative staphylococcal enterotoxin possesses two common structural motifs for M
 Real-time, label-free detection and identification of bacteria through non-invasive optical imaging.|https://dx.doi.org/10.1016/j.micinf.2023.105263
 Trend in mitral valve prostheses of choice and early outcomes in the United Kingdom.|https://dx.doi.org/10.1016/j.ijcard.2023.131607
 Effectiveness of tailored screening for multidrug-resistant organisms upon admission to an intensive care unit in the United Arab Emirates.|https://dx.doi.org/10.1186/s13756-023-01340-x
+Linezolid dose adjustment according to therapeutic drug monitoring helps reach the goal concentration in severe patients, and the oldest seniors benefit more.|https://dx.doi.org/10.1186/s12879-023-08831-7
+Vancomycin tolerance of adherent Staphylococcus aureus is impeded by nanospike-induced physiological changes.|https://dx.doi.org/10.1038/s41522-023-00458-5
+Hydrogel Encapsulating Wormwood Essential Oil with Broad-spectrum Antibacterial and Immunomodulatory Properties for Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/advs.202305078
+Identification and characterization of major bioactive compounds from Andrographis paniculata (Burm. f.) extracts showed multi-biomedical applications.|https://dx.doi.org/10.1016/j.envres.2023.117763
+Antibacterial, antidiabetic, acute toxicity, antioxidant, and nephroproductive competence of extracts of Lannea coromandelica fruit through in-vitro and in-vivo animal model investigation.|https://dx.doi.org/10.1016/j.envres.2023.117767
+Citrobacter koseri inhibits the growth of Staphylococcus epidermidis by suppressing iron utilization.|https://dx.doi.org/10.1016/j.bbrc.2023.149277
+Bioinspired Flexible Wearable Sensor with High Self-Cleaning and Antibacterial Performance for Human Motion Sensing.|https://dx.doi.org/10.1021/acsabm.3c00873
+Structure of Staphylococcus aureus ClpP Bound to the Covalent Active Site Inhibitor Cystargolide A.|https://dx.doi.org/10.1002/anie.202314028
+Identification of an antivirulence agent targeting the master regulator of virulence genes in Staphylococcus aureus.|https://dx.doi.org/10.3389/fcimb.2023.1268044
+Integrative proteomic and metabonomic profiling elucidates amino acid and lipid metabolism disorder in CA-MRSA-infected breast abscesses.|https://dx.doi.org/10.3389/fcimb.2023.1240743
+Development of droplet digital PCR-based detection of bacterial pathogens in prosthetic joint infection: a preliminary study using a synthesized model plasmid.|https://dx.doi.org/10.3389/fcimb.2023.1301446
+Alkaloid diversity expansion of a talent fungus Penicillium raistrichii through OSMAC-based cultivation.|https://dx.doi.org/10.3389/fmicb.2023.1279140
+Competition-cooperation mechanism between Escherichia coli and Staphylococcus aureus based on systems mapping.|https://dx.doi.org/10.3389/fmicb.2023.1192574
+Characterization of Campylobacter jejuni proteome profiles in co-incubation scenarios.|https://dx.doi.org/10.3389/fmicb.2023.1247211
+Antibacterial Activity of Surfactin and Synergistic Effect with Conventional Antibiotics Against Methicillin-Resistant Staphylococcus aureus Isolated from Patients with Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/DMSO.S435062
+Risk factors for methicillin-resistant Staphylococcus aureus colonization in a level-IV neonatal intensive care unit: a retrospective study.|https://dx.doi.org/10.1017/ash.2023.482
+Fear of Missing Organisms (FOMO): the discordance among broad-spectrum empiric antibiotic therapy, microbiologic results, and definitive antibiotic therapy for diabetic foot infections and lower extremity osteomyelitis.|https://dx.doi.org/10.1017/ash.2023.467
+Persistence of potential ST398 MSSA in outpatient settings among US veterans, 2010-2019.|https://dx.doi.org/10.1017/ash.2023.452

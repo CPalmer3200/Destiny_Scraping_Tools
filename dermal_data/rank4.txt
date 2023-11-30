@@ -30,3 +30,6 @@ Antibacterial Efficacy of Manuka Honey-Doped Chitosan-Gelatin Cryogel and Hydrog
 Excellent Dark/Light Dual-Mode Photoresponsive Activities Based on g-C(3)N(4)/CMCh/PVA Nanocomposite Hydrogel Using Electron Beam Radiation Method.|https://dx.doi.org/10.3390/molecules28227544
 Alginate-Based Hydrogels Enriched with Lavender Essential Oil: Evaluation of Physicochemical Properties, Antimicrobial Activity, and In Vivo Biocompatibility.|https://dx.doi.org/10.3390/pharmaceutics15112608
 Development of chitosan-based cerium and titanium oxide loaded polycaprolactone for cutaneous wound healing and antibacterial applications.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128458
+Hydrogel Encapsulating Wormwood Essential Oil with Broad-spectrum Antibacterial and Immunomodulatory Properties for Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/advs.202305078
+A high-efficient antibacterial and biocompatible polyurethane film with Ag@rGO nanostructures prepared by microwave-assisted method: Physicochemical and dermal wound healing evaluation.|https://dx.doi.org/10.1016/j.heliyon.2023.e21783
+Silver Nanoparticles and Graphene Oxide Complex as an Anti-Inflammatory Biocompatible Liquid Nano-Dressing for Skin Infected with Staphylococcus aureus.|https://dx.doi.org/10.2147/JIR.S431565

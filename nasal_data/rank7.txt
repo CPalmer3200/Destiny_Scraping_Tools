@@ -72,3 +72,23 @@ Reported changes in romantic and sexual behavior among college and graduate stud
 Cannabis to cope with COVID-19 in college.|https://dx.doi.org/10.1080/07448481.2023.2277861
 Mental health in undergraduate students several months into the COVID-19 pandemic compared to before the pandemic.|https://dx.doi.org/10.1080/07448481.2023.2277193
 Effect of COVID-19 Risk Perception and COVID-19 Self-Care of Korean Correctional Nurses on Occupational Burnout: Mediating Effect of Stress and Anxiety About Viral Epidemics.|https://dx.doi.org/10.1097/JFN.0000000000000455
+Seroprevalence of SARS-CoV-2 antibodies among healthcare workers in Dutch hospitals after the 2020 first wave: a multicentre cross-sectional study with prospective follow-up.|https://dx.doi.org/10.1186/s13756-023-01324-x
+Strengthening the primary health care for non-communicable disease prevention and control in the post-pandemic period: a perspective from China.|https://dx.doi.org/10.1186/s41256-023-00336-9
+Dissemination of Registered COVID-19 Clinical Trials (DIRECCT): a cross-sectional study.|https://dx.doi.org/10.1186/s12916-023-03161-6
+Telemedicine in home-based care for COVID-19 patients.|https://dx.doi.org/10.1186/s12875-023-02199-y
+Human microbiota dysbiosis after SARS-CoV-2 infection have the potential to predict disease prognosis.|https://dx.doi.org/10.1186/s12879-023-08784-x
+The safety of patient management in family medicine in Slovenia during Covid-19: a cross-sectional study.|https://dx.doi.org/10.1186/s12875-023-02209-z
+Knowledge, attitude and practices towards SARS-CoV-2 genetic mutations and emerging variants among the population in Bangladesh: a cross-sectional study.|https://dx.doi.org/10.1136/bmjopen-2023-073091
+Diabetic individuals with COVID-19 exhibit reduced efficacy of gliptins in inhibiting dipeptidyl peptidase 4 (DPP4). A suggested explanation for increased COVID-19 susceptibility in patients with type 2 diabetes mellitus (T2DM).|https://dx.doi.org/10.1016/j.lfs.2023.122292
+Joint exposure to urban-rural status and medically underserved area residence and risk of severe COVID-19 outcomes in 2020.|https://dx.doi.org/10.22605/RRH8373
+Descriptive study of COVID-19 vaccinations and infections within an NHS workforce.|https://dx.doi.org/10.1093/occmed/kqad126
+Routine immunization experience and practices during the COVID-19 pandemic of caregivers attending a tertiary hospital in Cape Town.|https://dx.doi.org/10.3389/frhs.2023.1242796
+Age and beliefs about vaccines associated with COVID-19 vaccination among US Veterans.|https://dx.doi.org/10.1017/ash.2023.446
+SARS-CoV-2 infection among healthcare workers: the role of occupational and household exposures during the first three pandemic waves in Quebec, Canada.|https://dx.doi.org/10.1017/ash.2023.442
+COVID-19 and British Columbia's volunteer search and rescue workers: risk recognition and risk mitigation.|https://dx.doi.org/10.1017/ash.2023.463
+Multidrug-resistant VAP before and during the COVID-19 pandemic among hospitalized patients in a tertiary private hospital.|https://dx.doi.org/10.1017/ash.2023.470
+The effectiveness of COVID-19 vaccine in the prevention of post-COVID conditions: a systematic literature review and meta-analysis of the latest research.|https://dx.doi.org/10.1017/ash.2023.447
+ACTIV-6: Operationalizing a decentralized, outpatient randomized platform trial to evaluate efficacy of repurposed medicines for COVID-19.|https://dx.doi.org/10.1017/cts.2023.644
+COVID-19 infection rate and mortality in a local health authority in Italy: Differences between home-dwelling and residential older adults.|https://dx.doi.org/10.1016/j.puhip.2023.100448
+COVID-19 in a Portuguese whole blood donor population.|https://dx.doi.org/10.1016/j.heliyon.2023.e20570
+Editorial: COVID-19 related olfactory dysfunction: neuropsychiatric, psychological, and cognitive effects.|https://dx.doi.org/10.3389/fnins.2023.1306094

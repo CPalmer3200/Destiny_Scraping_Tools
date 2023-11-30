@@ -2,3 +2,5 @@ The Importance of a Broad Consortium of Bacteria for a Healthy Gastrointestinal 
 Ectopic transcription due to inappropriately inherited histone methylation may interfere with the ongoing function of terminally differentiated cells.|https://dx.doi.org/10.1101/2023.10.29.564525
 Qualitative and psychometric evaluation of the PROMIS®-Fatigue SF-7a scale to assess fatigue in patients with moderately to severely active inflammatory bowel disease.|https://dx.doi.org/10.1186/s41687-023-00645-0
 Wait Time Advantage for Transplant Candidates With HIV Who Accept Kidneys From Donors With HIV Under the HOPE Act.|https://dx.doi.org/10.1097/TP.0000000000004857
+Linagliptin and secoisolariciresinol diglucoside attenuate hyperlipidemia and cardiac hypertrophy induced by a high-methionine diet in rats via suppression of hyperhomocysteinemia-induced endoplasmic reticulum stress.|https://dx.doi.org/10.3389/fphar.2023.1275730
+Comparative Effectiveness Randomized Clinical Trial Using Next-generation Microbial Sequencing to Direct Prophylactic Antibiotic Choice Before Urologic Stone Lithotripsy Using an Interprofessional Model.|https://dx.doi.org/10.1016/j.euros.2023.09.008

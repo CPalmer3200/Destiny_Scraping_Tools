@@ -109,3 +109,21 @@ Statistical computational optimization approach for photocatalytic-ozonation dec
 Metabolism shapes immune responses to Staphylococcus aureus.|https://dx.doi.org/10.1159/000535482
 Evolution of a small phage protein confers resistance to antiphage defense in Enterococcus faecalis.|https://dx.doi.org/10.1101/2023.11.16.567456
 Oxidative stress enhances rotavirus oncolysis in breast cancer and leukemia, except in melanoma with abundant matrix.|https://dx.doi.org/10.1016/j.virusres.2023.199285
+Molecular characterization of Helicobacter pylori isolated from Nile Tilapia (Oreochromis niloticus) and fish handlers.|https://dx.doi.org/10.1186/s12917-023-03819-6
+Linezolid dose adjustment according to therapeutic drug monitoring helps reach the goal concentration in severe patients, and the oldest seniors benefit more.|https://dx.doi.org/10.1186/s12879-023-08831-7
+Vancomycin tolerance of adherent Staphylococcus aureus is impeded by nanospike-induced physiological changes.|https://dx.doi.org/10.1038/s41522-023-00458-5
+Resurrecting ancestral antibiotics: unveiling the origins of modern lipid II targeting glycopeptides.|https://dx.doi.org/10.1038/s41467-023-43451-4
+Standardization of Antibiotic Management and Reduction of Opioid Prescribing in Pediatric Complicated Appendicitis: A Quality Improvement Initiative.|https://dx.doi.org/10.1016/j.jpedsurg.2023.11.001
+Use of nares swab to de-escalate vancomycin for patients with suspected methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1017/ash.2023.444
+Prevalence, risk factors, and outcomes associated with delayed second doses of antibiotics in sepsis at a large academic medical center.|https://dx.doi.org/10.1017/ash.2023.480
+Antibiotic stewardship in Indian palliative care: a single-center retrospective study.|https://dx.doi.org/10.1017/ash.2023.468
+Co-Aggregative Effect of Probiotics Bacteria against Diarrheal Causative Bacteria.|https://dx.doi.org/10.22092/ARI.2022.359870.2494
+Acute kidney injury associated with piperacillin-tazobactam versus other antibiotics combined with vancomycin in critically ill patients: A retrospective cohort study.|https://dx.doi.org/10.1016/j.jsps.2023.101844
+Magnetic Fe-doped TiO(2)@Fe(3)O(4) for metronidazole degradation in aqueous solutions: Characteristics and efficacy assessment.|https://dx.doi.org/10.1016/j.heliyon.2023.e21414
+Ceftriaxone Use Evaluation in Western Zone Tigray Hospitals, Ethiopia: A Retrospective Cross-Sectional Study.|https://dx.doi.org/10.1155/2023/7688896
+Vancomycin associated acute kidney injury in patients with infectious endocarditis: a large retrospective cohort study.|https://dx.doi.org/10.3389/fphar.2023.1260802
+Retrospective study of tetanus in 18 dogs-Causes, management, complications, and immunological status.|https://dx.doi.org/10.3389/fvets.2023.1249833
+Unilateral complicated pleural empyema in a patient with bronchial asthma due to clindamycin-resistant Prevotella buccae.|https://dx.doi.org/10.22551/2023.41.1004.10263
+Empiric anti-Giardia therapy in non-diarrheal protein-losing enteropathy: A focus on children with monogenic humoral immunodeficiency.|https://dx.doi.org/10.5339/qmj.2023.sqac.24
+Clinical Characteristics and Outcomes of Drug-Induced Acute Kidney Injury Cases.|https://dx.doi.org/10.1016/j.ekir.2023.07.037
+Stop antibiotic resistance - A roller coaster ride through "antibiotic stewardship," "prescription auditing" and "AWaRe" assessment tool.|https://dx.doi.org/10.4103/jfmpc.jfmpc_296_23

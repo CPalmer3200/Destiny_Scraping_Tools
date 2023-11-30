@@ -29,3 +29,10 @@ Identification of hub genes and pathways associated with cellular senescence in 
 Predictive Value of C-Reactive Protein to Albumin Ratio for Amputation Risk in Diabetic Foot Infection.|https://dx.doi.org/10.1177/00033197231218330
 A novel assessment, diagnostic and treatment system for diabetic foot.|https://dx.doi.org/10.1186/s13047-023-00687-z
 Peptide TK-HR from the Skin of Chinese Folk Medicine Frog Hoplobatrachus Rugulosus Accelerates Wound Healing via the Activation of the Neurokinin-1 Receptor.|https://dx.doi.org/10.1021/acs.jmedchem.3c01434
+Antibacterial Activity of Surfactin and Synergistic Effect with Conventional Antibiotics Against Methicillin-Resistant Staphylococcus aureus Isolated from Patients with Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/DMSO.S435062
+Fear of Missing Organisms (FOMO): the discordance among broad-spectrum empiric antibiotic therapy, microbiologic results, and definitive antibiotic therapy for diabetic foot infections and lower extremity osteomyelitis.|https://dx.doi.org/10.1017/ash.2023.467
+Unveiling Therapeutic Potential: A Systematic Review of Photobiomodulation Therapy and Biological Dressings for Diabetic Foot Ulcers.|https://dx.doi.org/10.34172/jlms.2023.49
+Examining the effect of polyurethane dressing containing silver particles on the rate of diabetic foot ulcer infection in hospitalized patients: A randomized control study.|https://dx.doi.org/10.1002/hsr2.1733
+Foot self-care practices among diabetic patients attending a teaching hospital in Tamil Nadu, India.|https://dx.doi.org/10.4103/jfmpc.jfmpc_409_23
+Exploring the Indications, Levels, and Outcomes of Lower Extremity Amputation at a Tertiary Care Hospital in Pakistan.|https://dx.doi.org/10.7759/cureus.48856
+Limited Clinical Utility of Routine Mycobacterial Cultures for the Management of Diabetic Foot Infections.|https://dx.doi.org/10.1093/ofid/ofad558
