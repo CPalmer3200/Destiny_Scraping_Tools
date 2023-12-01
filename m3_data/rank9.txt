@@ -10,3 +10,4 @@ Impact of COVID-19 Pandemic on Healthcare-Associated Infections: A Systematic Re
 Complication rates of ciprofloxacin alone vs. ciprofloxacin plus fosfomycin for transrectal prostate biopsy.|https://dx.doi.org/10.5489/cuaj.8532
 Missing Narrative: Examining the Impact of Disability on Post-Operative Infectious Complications.|https://dx.doi.org/10.1089/sur.2023.160
 Risk of Hospitalization and Mortality Following Medically Attended Norovirus Infection-Veterans Health Administration, 2010-2018.|https://dx.doi.org/10.1093/ofid/ofad556
+Clostridioides difficile infection leading to fulminant colitis with toxic megacolon.|https://dx.doi.org/10.4322/acr.2023.457

@@ -33,3 +33,4 @@ Development of chitosan-based cerium and titanium oxide loaded polycaprolactone 
 Hydrogel Encapsulating Wormwood Essential Oil with Broad-spectrum Antibacterial and Immunomodulatory Properties for Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/advs.202305078
 A high-efficient antibacterial and biocompatible polyurethane film with Ag@rGO nanostructures prepared by microwave-assisted method: Physicochemical and dermal wound healing evaluation.|https://dx.doi.org/10.1016/j.heliyon.2023.e21783
 Silver Nanoparticles and Graphene Oxide Complex as an Anti-Inflammatory Biocompatible Liquid Nano-Dressing for Skin Infected with Staphylococcus aureus.|https://dx.doi.org/10.2147/JIR.S431565
+Cotton fiber-based dressings with wireless electrical stimulation and antibacterial activity for wound repair.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128496

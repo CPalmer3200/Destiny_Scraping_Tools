@@ -10,3 +10,4 @@ Procedural Promotion of Multiple Stages in the Wound Healing Process by Graphene
 A synergistic investigation of azo-thiazole derivatives incorporating thiazole moieties: a comprehensive exploration of their synthesis, characterization, computational insights, solvatochromism, and multimodal biological activity assessment.|https://dx.doi.org/10.1039/d3ra06469g
 Methicillin-Resistant Staphylococcus aureus Colonization in Intensive Care and Burn Units: A Narrative Review.|https://dx.doi.org/10.7759/cureus.47139
 A Novel Potential Treatment for Diabetic Foot Ulcers and Non-Healing Ulcers - Case Series.|https://dx.doi.org/10.2174/0118715265260305231115112728
+Balanced chemical reactivity, antimicrobial properties and biocompatibility of decellularized dermal matrices for wound healing.|https://dx.doi.org/10.1039/d3sm01092a

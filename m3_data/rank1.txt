@@ -11,3 +11,6 @@ Novel metal peroxide nanoboxes restrain Clostridioides difficile infection beyon
 The real efficacy of microbiota restoration following standard of care antimicrobial in patients with recurrent Clostridiodes difficile.|https://dx.doi.org/10.21037/tgh-23-46
 Correction to: Role of previous systemic antibiotic therapy on the probability of recurrence after an initial episode of Clostridioides difficile infection treated with vancomycin.|https://dx.doi.org/10.1093/jacamr/dlad121
 Fecal Microbiota, Live-jslm for the Prevention of Recurrent Clostridioides difficile Infection: Subgroup Analysis of PUNCH CD2 and PUNCH CD3.|https://dx.doi.org/10.1097/MCG.0000000000001947
+Epidemiology, outcomes and risk factors for recurrence of Clostridioides difficile infections following allogeneic hematopoietic cell transplantation: a longitudinal retrospective multicenter study.|https://dx.doi.org/10.1038/s41409-023-02157-3
+Inflammatory bowel disease and Clostridium difficile infection: clinical presentation, diagnosis, and management.|https://dx.doi.org/10.1177/17562848231207280
+Assuring safety of fecal microbiota transplantation in the COVID-19 era: A single-center experience.|https://dx.doi.org/10.1002/jgh3.12979

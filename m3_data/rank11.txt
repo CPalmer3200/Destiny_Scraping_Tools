@@ -127,3 +127,14 @@ Unilateral complicated pleural empyema in a patient with bronchial asthma due to
 Empiric anti-Giardia therapy in non-diarrheal protein-losing enteropathy: A focus on children with monogenic humoral immunodeficiency.|https://dx.doi.org/10.5339/qmj.2023.sqac.24
 Clinical Characteristics and Outcomes of Drug-Induced Acute Kidney Injury Cases.|https://dx.doi.org/10.1016/j.ekir.2023.07.037
 Stop antibiotic resistance - A roller coaster ride through "antibiotic stewardship," "prescription auditing" and "AWaRe" assessment tool.|https://dx.doi.org/10.4103/jfmpc.jfmpc_296_23
+Differential effects of two common antiparasitics on microbiota resilience.|https://dx.doi.org/10.1093/infdis/jiad547
+Riboflavin-Vancomycin Conjugate Enables Simultaneous Antibiotic Photo-Release and Photodynamic Killing against Resistant Gram-Positive Pathogens.|https://dx.doi.org/10.1021/jacsau.3c00369
+Iceberg lesion-A rare case of chronic osteomyelitis of the jaw with underlying radicular cyst: A case report.|https://dx.doi.org/10.4103/jomfp.jomfp_533_22
+Antimicrobial effect of Juglans regia bark with commonly used antibiotics against initial colonizers of Plaque and Caries: A comparative study.|https://dx.doi.org/10.4103/jomfp.jomfp_187_23
+Distribution of Pathogenic Bacteria and Antimicrobial Resistance after Plastic Surgery for Microtia.|https://dx.doi.org/10.1097/GOX.0000000000005442
+Management of Helicobacter pylori treatment failures: A large population-based study (HP treatment failures trial).|https://dx.doi.org/10.1371/journal.pone.0294403
+Risk exploration and prediction model construction for linezolid-resistant Enterococcus faecalis based on big data in a province in southern China.|https://dx.doi.org/10.1007/s10096-023-04717-3
+Metronidazole pharmacokinetics in geese (Anser anser domesticus) after intravenous and oral administrations.|https://dx.doi.org/10.1111/jvp.13421
+Engineering an Antifouling Electrochemical Sensing Platform Based on an All-in-One Peptide and a Hierarchical β-Bi(2)O(3)-Au Microsphere for Vancomycin Detection in Food.|https://dx.doi.org/10.1021/acs.jafc.3c07570
+Prevalence, Toxin Genes, and Antibiotic Resistance Profiles of Bacillus cereus Isolates from Spices in Antalya and Isparta Provinces in Türkiye.|https://dx.doi.org/10.1007/s12088-023-01111-7
+A Physiological Approach to Renal Clearance - from Premature Neonates to Adults.|https://dx.doi.org/10.1111/bcp.15978

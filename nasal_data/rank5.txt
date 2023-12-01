@@ -3,3 +3,4 @@ Single-Stage Immediate Breast Reconstruction with Acellular Dermal Matrix after 
 Oncoplastic breast reduction surgery decreases rates of reoperation with no increased medical risk.|https://dx.doi.org/10.1016/j.bjps.2023.10.134
 Influence of sarcopenia on postoperative complications in patients undergoing autologous microsurgical breast reconstruction: an inverse probability of treatment weighting analysis.|https://dx.doi.org/10.3389/fonc.2023.1211593
 Phototherapy techniques for the management of musculoskeletal disorders: strategies and recent advances.|https://dx.doi.org/10.1186/s40824-023-00458-8
+Biofilm derived oxylipin 10-HOME mediated immune response in women with breast implants.|https://dx.doi.org/10.1172/JCI165644

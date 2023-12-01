@@ -3,3 +3,4 @@ The effectiveness of antibacterial therapeutic clothing compared with non-antiba
 A study about the presence of Staphylococcus aureus growth at birth and at 2 months of age in children who developed atopic dermatitis in the first 2 years of life.|https://dx.doi.org/10.1093/bjd/ljad405
 The Effects of Lumbricus rubellus Extract on Staphylococcus aureus Colonization and IL-31 Levels in Children with Atopic Dermatitis.|https://dx.doi.org/10.3390/medicina59112007
 Citrobacter koseri inhibits the growth of Staphylococcus epidermidis by suppressing iron utilization.|https://dx.doi.org/10.1016/j.bbrc.2023.149277
+Washed microbiota transplantation: a case report of clinical success with skin and gut microbiota improvement in an adolescent boy with atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2023.1275427

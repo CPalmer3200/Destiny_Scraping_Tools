@@ -92,3 +92,22 @@ ACTIV-6: Operationalizing a decentralized, outpatient randomized platform trial 
 COVID-19 infection rate and mortality in a local health authority in Italy: Differences between home-dwelling and residential older adults.|https://dx.doi.org/10.1016/j.puhip.2023.100448
 COVID-19 in a Portuguese whole blood donor population.|https://dx.doi.org/10.1016/j.heliyon.2023.e20570
 Editorial: COVID-19 related olfactory dysfunction: neuropsychiatric, psychological, and cognitive effects.|https://dx.doi.org/10.3389/fnins.2023.1306094
+Oral delivery of a chitosan adjuvanted COVID-19 vaccine provides long-lasting and broad-spectrum protection against SARS-CoV-2 variants of concern in golden hamsters.|https://dx.doi.org/10.1016/j.antiviral.2023.105765
+Identifying disparities in suicidal thoughts and behaviors among US adolescents during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.ypmed.2023.107791
+The Impact of the COVID-19 Pandemic on the Military Health System's Care of Military Sexual Assault.|https://dx.doi.org/10.1093/milmed/usad470
+Genomic surveillance of SARS-CoV-2 in Weihai, China, march 2022 to march 2023.|https://dx.doi.org/10.3389/fpubh.2023.1273443
+Patient safety discourse in a pandemic: a Twitter hashtag analysis study on #PatientSafety.|https://dx.doi.org/10.3389/fpubh.2023.1268730
+Trends in the numbers of SARS-CoV-2 infections among students: a prospective cohort study comparing students in sports boarding schools with students in day schools during early COVID-19 pandemic.|https://dx.doi.org/10.3389/fpubh.2023.1223748
+Effective Preventative Measures are Essential to Lower Disease Burden From Dengue and COVID-19 Co-infection in Bangladesh.|https://dx.doi.org/10.1177/11786302231212774
+Perceived Risks and Therapeutic Benefits of Cannabis Among College Students Amidst the COVID-19 Pandemic.|https://dx.doi.org/10.26828/cannabis/2023/000157
+"What was the vibe you were going for?" SAM Behaviors and Socialization During the COVID-19 Pandemic, a Qualitative Approach.|https://dx.doi.org/10.26828/cannabis/2023/000169
+Circulating myeloid-derived suppressor cells may be a useful biomarker in the follow-up of unvaccinated COVID-19 patients after hospitalization.|https://dx.doi.org/10.3389/fimmu.2023.1266659
+Vaccine development against tuberculosis before and after Covid-19.|https://dx.doi.org/10.3389/fimmu.2023.1273938
+Case Report: Gene expression profiling of COVID-19 vaccination-related lymphadenopathies reveals evidence of a dominantly extrafollicular immune response.|https://dx.doi.org/10.3389/fimmu.2023.1285168
+The relationship between PM(10) and SO(2) exposure and Covid-19 infection rates in Turkey using nomenclature of territorial units for statistics level 1 regions.|https://dx.doi.org/10.1016/j.heliyon.2023.e21795
+Association between health anxiety dimensions and preventive behaviors during the COVID-19 pandemic among Japanese healthcare workers.|https://dx.doi.org/10.1016/j.heliyon.2023.e22176
+SARS-CoV-2 activates the TLR4/MyD88 pathway in human macrophages: A possible correlation with strong pro-inflammatory responses in severe COVID-19.|https://dx.doi.org/10.1016/j.heliyon.2023.e21893
+Train-the-trainers intervention for national capacity building in infection prevention and control for COVID-19 in Nigeria.|https://dx.doi.org/10.1016/j.heliyon.2023.e21978
+Detection of SARS-CoV-2 S protein based on FRET between carbon quantum dots and gold nanoparticles.|https://dx.doi.org/10.1016/j.heliyon.2023.e22674
+SARS-CoV-2 transmission via maritime cold chains: A statistical analysis of nucleic acid detection results of cold chain food imported from Fuzhou ports.|https://dx.doi.org/10.1016/j.heliyon.2023.e21954
+Behind closed doors: Exploring the impact of COVID-19 related lockdown on domestic violence in Peru.|https://dx.doi.org/10.1016/j.ssmph.2023.101552

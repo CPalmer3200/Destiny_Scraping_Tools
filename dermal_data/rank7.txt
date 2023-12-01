@@ -5,3 +5,5 @@ Erythroderma combined with deeper dermal dermatophytosis due to Trichophyton rub
 Impact of miconazole nitrate ferrying cationic and anionic nanoemulsion and gels on permeation profiles of across EpiDerm, artificial membrane, and skin: Instrumental evidences.|https://dx.doi.org/10.1016/j.ijpharm.2023.123593
 Sulconazole-Loaded Solid Lipid Nanoparticles for Enhanced Antifungal Activity: In Vitro and In Vivo Approach.|https://dx.doi.org/10.3390/molecules28227508
 Biochemical and gene expression studies reveal the potential of Aspergillus oryzae-fermented broken rice and brewers' rice water extracts as anti-photoageing agents.|https://dx.doi.org/10.14715/cmb/2023.69.11.2
+Curcumin-loaded albumin submicron particles with potential as a cancer therapy: an in vitro study.|https://dx.doi.org/10.3762/bjnano.14.93
+Antimicrobial peptide-producing dermal preadipocytes defend against Candida albicans skin infection via the FGFR-MEK-ERK pathway.|https://dx.doi.org/10.1371/journal.ppat.1011754

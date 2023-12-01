@@ -73,3 +73,21 @@ Antibacterial Activity of Surfactin and Synergistic Effect with Conventional Ant
 Risk factors for methicillin-resistant Staphylococcus aureus colonization in a level-IV neonatal intensive care unit: a retrospective study.|https://dx.doi.org/10.1017/ash.2023.482
 Fear of Missing Organisms (FOMO): the discordance among broad-spectrum empiric antibiotic therapy, microbiologic results, and definitive antibiotic therapy for diabetic foot infections and lower extremity osteomyelitis.|https://dx.doi.org/10.1017/ash.2023.467
 Persistence of potential ST398 MSSA in outpatient settings among US veterans, 2010-2019.|https://dx.doi.org/10.1017/ash.2023.452
+Methicillin-resistant staphylococci in clinical bovine mastitis: occurrence, molecular analysis, and biofilm production.|https://dx.doi.org/10.1007/s11259-023-10268-x
+Botryomycosis: a rare mimic of sarcoma as an initial presentation of acquired immunodeficiency syndrome.|https://dx.doi.org/10.1007/s00256-023-04527-w
+Staphylococcus aureus gets itchy.|https://dx.doi.org/10.1038/s41579-023-01000-2
+The presence of Candida parapsilosis with intrathecal baclofen pump in a person with high cervical spinal cord injury; infection or colonization? A Case Report.|https://dx.doi.org/10.1038/s41394-023-00610-5
+Use of elexacaftor/tezacaftor/ivacaftor leads to changes in detection frequencies of Staphylococcus aureus and Pseudomonas aeruginosa dependent on age and lung function in people with CF.|https://dx.doi.org/10.1016/j.ijid.2023.11.013
+Copper-doped bismuth oxychloride nanosheets assembled into sphere-like morphology for improved photocatalytic inactivation of drug-resistant bacteria.|https://dx.doi.org/10.1016/j.scitotenv.2023.168916
+The effect of contact precautions on preventing Meticillin-resistant Staphylococcus aureus transmission in Intensive Care Units: a review and modelling study of field trials.|https://dx.doi.org/10.1016/j.jhin.2023.09.023
+Green preparation of antibacterial shape memory foam based on bamboo cellulose nanofibril and waterborne polyurethane for adaptive relief of plantar pressure.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128444
+Cotton fiber-based dressings with wireless electrical stimulation and antibacterial activity for wound repair.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128496
+Release studies of the anticancer drug 5-fluorouracil from chitosan-banana peel extract films.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128460
+Thirteen new peptaibols with antimicrobial activities from Trichoderma sp.|https://dx.doi.org/10.1016/S1875-5364(23)60499-6
+Impact of human created environments in the pathogenic potential and antimicrobial resistance of staphylococci from wild neotropical primates in Brazil.|https://dx.doi.org/10.1016/j.cimid.2023.102094
+Amino acid-mediated amorphous copper sulphide with enhanced photothermal conversion efficiency for antibacterial application.|https://dx.doi.org/10.1016/j.jcis.2023.11.163
+Washed microbiota transplantation: a case report of clinical success with skin and gut microbiota improvement in an adolescent boy with atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2023.1275427
+Riboflavin-Vancomycin Conjugate Enables Simultaneous Antibiotic Photo-Release and Photodynamic Killing against Resistant Gram-Positive Pathogens.|https://dx.doi.org/10.1021/jacsau.3c00369
+In-vitro Antimicrobial Study of Non/irradiated Ylang-ylang Essential Oil Against Multi Drug Resistant Pathogens with Reference to Microscopic Morphological Alterations.|https://dx.doi.org/10.1007/s12088-023-01122-4
+Selected flavonoids exhibit antibiofilm and antibacterial effects against Vibrio by disrupting membrane integrity, virulence and metabolic activities.|https://dx.doi.org/10.1016/j.bioflm.2023.100165
+Mammary γδ T cells promote IL-17A-mediated immunity against Staphylococcus aureus-induced mastitis in a microbiota-dependent manner.|https://dx.doi.org/10.1016/j.isci.2023.108453
