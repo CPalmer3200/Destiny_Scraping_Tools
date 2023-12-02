@@ -52,3 +52,11 @@ A Pathway for Increased Diversity, Equity, and Inclusion in the Surgical Infecti
 A postoperative body weight increase is a novel risk factor for incisional hernia of midline abdominal incision after elective gastroenterological surgery.|https://dx.doi.org/10.1007/s00423-023-03193-9
 Awareness, attitudes, and practices on meningococcal serogroup B vaccination in the United States among parents of older adolescents and among young adults.|https://dx.doi.org/10.1080/03007995.2023.2285366
 Clinical characteristics, treatment, and outcome of low-risk non-HIV associated cryptococcal meningitis: a retrospective cohort study.|https://dx.doi.org/10.1093/mmy/myad122
+Stereotactic body radiotherapy with or without selective dismutase mimetic in pancreatic adenocarcinoma: an adaptive, randomised, double-blind, placebo-controlled, phase 1b/2 trial.|https://dx.doi.org/10.1016/S1470-2045(23)00478-3
+Ensuring Continuity of Health Professions Training Amid a Global Pandemic: Lessons from the Uganda Safe Schools Initiative.|https://dx.doi.org/10.1097/ACM.0000000000005570
+Effect of the enhanced recovery protocol in patients with brain tumors undergoing elective craniotomies: a systematic review and meta-analysis.|https://dx.doi.org/10.3171/2023.9.FOCUS23316
+C2 versus C3 or C4 as the upper instrumented vertebra for long-segment cervical fusions: a systematic review and meta-analysis.|https://dx.doi.org/10.3171/2023.9.SPINE23325
+Rationale for the Development of a Traumatic Brain Injury Case Definition for the Pilot National Concussion Surveillance System.|https://dx.doi.org/10.1097/HTR.0000000000000900
+Prevention of Seroma Formation and Its Sequelae After Axillary Lymph Node Dissection: An Up-to-Date Systematic Review and Guideline for Surgeons.|https://dx.doi.org/10.1245/s10434-023-14631-9
+Coronary Stent Infection: A Systematic Review of Literature.|https://dx.doi.org/10.1097/CRD.0000000000000631
+Clinical Profile and Outcomes of Rheumatic Heart Disease Patients Undergoing Surgical Valve Procedures in Uganda.|https://dx.doi.org/10.5334/gh.1260
