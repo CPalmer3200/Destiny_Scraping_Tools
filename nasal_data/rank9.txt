@@ -91,3 +91,22 @@ Riboflavin-Vancomycin Conjugate Enables Simultaneous Antibiotic Photo-Release an
 In-vitro Antimicrobial Study of Non/irradiated Ylang-ylang Essential Oil Against Multi Drug Resistant Pathogens with Reference to Microscopic Morphological Alterations.|https://dx.doi.org/10.1007/s12088-023-01122-4
 Selected flavonoids exhibit antibiofilm and antibacterial effects against Vibrio by disrupting membrane integrity, virulence and metabolic activities.|https://dx.doi.org/10.1016/j.bioflm.2023.100165
 Mammary γδ T cells promote IL-17A-mediated immunity against Staphylococcus aureus-induced mastitis in a microbiota-dependent manner.|https://dx.doi.org/10.1016/j.isci.2023.108453
+Relationship between blood culture time to positivity, mortality rate, and severity of bacteremia.|https://dx.doi.org/10.1016/j.idnow.2023.104843
+Augmentin loaded functionalized halloysite nanotubes: A sustainable emerging nanocarriers for biomedical applications.|https://dx.doi.org/10.1016/j.envres.2023.117811
+Evaluation of phytochemical, antibacterial, thrombolytic, anti-inflammatory, and cytotoxicity profile of Achyranthes aspera aerial part extracts.|https://dx.doi.org/10.1016/j.envres.2023.117802
+The erythromycin polyketide compound TMC-154 stimulates ROS generation to exert antibacterial effects against Streptococcus pyogenes.|https://dx.doi.org/10.1016/j.jprot.2023.105057
+Platelet Membrane-Derived Nanodiscs for Neutralization of Endogenous Autoantibodies and Exogenous Virulence Factors.|https://dx.doi.org/10.1002/smll.202308327
+An analytical framework combining online high-performance liquid chromatography methodologies and biological properties of different extracts of Leonurus cardiaca.|https://dx.doi.org/10.1002/jssc.202300695
+Readmission rates following major colorectal surgery.|https://dx.doi.org/10.1016/j.surge.2023.11.003
+Topical antimicrobial formulations using medicinal plant-derived essential oils targeting methicillin resistant Staphylococcus aureus.|https://dx.doi.org/10.1080/14786419.2023.2287169
+Isolation and Characterization of Antimicrobial Peptides Isolated from Brevibacillus halotolerans 7WMA2 for the Activity Against Multidrug-Resistant Pathogens.|https://dx.doi.org/10.1007/s12033-023-00963-0
+URP20 improves corneal injury caused by alkali burns combined with pathogenic bacterial infection in rats.|https://dx.doi.org/10.1016/j.exer.2023.109739
+Herbal Active Ingredient-Loaded Poly(ω-pentadecalactone-co-δ-valerolactone)/Gelatin Nanofibrous Membranes.|https://dx.doi.org/10.1016/j.ejpb.2023.11.021
+Graphene quantum dots based on cannabis seeds for efficient wound healing in a mouse incisional wound model: Link with stress and neurobehavioral effect.|https://dx.doi.org/10.1016/j.ijpharm.2023.123658
+A non-canonical nucleotide from viral genomes interferes with the oxidative DNA damage repair system.|https://dx.doi.org/10.1016/j.dnarep.2023.103605
+Applying a sandwich-like strategy for dual 'light up' capture and eradication of Staphylococcus aureus using magnetically functionalized materials.|https://dx.doi.org/10.1016/j.jhazmat.2023.133065
+Blue-light-driven photoactivity of L-cysteine-modified graphene quantum dots and their antibacterial effects.|https://dx.doi.org/10.1016/j.jphotobiol.2023.112818
+Endowing Polyetheretherketone with Anti-Infection And Immunomodulatory Properties Through Guanidination Carbon Dots Modification to Promote Osseointegration in Diabetes with MRSA Infection.|https://dx.doi.org/10.1002/adhm.202302873
+Chemical constituents from Cordia myxa L. (Boraginaceae) and their antibacterial activity.|https://dx.doi.org/10.1080/14786419.2023.2288928
+The ClpX chaperone and a hypermorphic FtsA variant with impaired self-interaction are mutually compensatory for coordinating Staphylococcus aureus cell division.|https://dx.doi.org/10.1111/mmi.15200
+Candidate molecules as alternative nitric oxide donors with better antibacterial property against Escherichia coli and Staphylococcus aureus.|https://dx.doi.org/10.1093/jambio/lxad285

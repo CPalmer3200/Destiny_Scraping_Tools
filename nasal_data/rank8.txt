@@ -96,3 +96,23 @@ A retrospective case-control study to evaluate the use of beta-lactam desensitiz
 Buruli ulcer in Africa: Geographical distribution, ecology, risk factors, diagnosis, and indigenous plant treatment options - A comprehensive review.|https://dx.doi.org/10.1016/j.heliyon.2023.e22018
 What did we learn about tocilizumab use against COVID-19? A single-center observational study from an intensive care unit in Serbia.|https://dx.doi.org/10.3389/fmed.2023.1253135
 Disseminated Nasal subtype Extranodal NK/T-cell lymphoma and its diagnostic difficulties in antemortem biopsies.|https://dx.doi.org/10.4322/acr.2023.445
+Complications following Opportunistic Salpingectomy compared to Tubal Ligation at cesarean delivery: A retrospective cohort study.|https://dx.doi.org/10.1016/j.fertnstert.2023.11.031
+Predictors of first-year postoperative complications after fixation of low-energy ankle fractures A single-center, retrospective cohort study of 663 consecutive fractures.|https://dx.doi.org/10.1016/j.recot.2023.11.027
+"No Care Pin Care" Following Charcot Reconstruction with Static External Fixation.|https://dx.doi.org/10.1053/j.jfas.2023.11.008
+Does changes in unicompartmental knee arthroplasty practice pattern influence reasons for revision?|https://dx.doi.org/10.1302/2633-1462.412.BJO-2023-0096.R1
+Role of Acute Rhinosinusitis in Periorbital Infections in Children.|https://dx.doi.org/10.1016/j.ijporl.2023.111813
+Pseudoaneurysm of mitral-aortic intervalvular fibrosa with rupture: a case report.|https://dx.doi.org/10.1186/s40792-023-01789-3
+Radiological evaluation before and after treatment with an osseointegrated bone-anchor following major limb amputation-a guide for radiologists.|https://dx.doi.org/10.1007/s00256-023-04524-z
+Predicted factors of surgical site infection in glioblastoma patients: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14504
+Impact of dental state and surgical factors on postoperative neck infection in oral cancer patients.|https://dx.doi.org/10.1016/j.bjoms.2023.10.013
+Update on Focal Infection Management: A Czech Interdisciplinary Consensus.|https://dx.doi.org/10.1016/j.identj.2023.11.001
+Patient preferences in treatment options of ulcerative colitis: a discrete choice experiment.|https://dx.doi.org/10.1080/00365521.2023.2286191
+Antibiotic prophylaxis after 48 h postoperatively are not associated with decreased surgical site infections and other healthcare associated infections in pancreatic surgery patients: a retrospective cohort study.|https://dx.doi.org/10.1186/s13756-023-01348-3
+Can multiple miniplates improve the treatment of comminuted patellar fracture?|https://dx.doi.org/10.1186/s12891-023-07045-x
+[Analysis of the postoperative outcome of 81 cases of nasal reconstruction with direct closure].|https://dx.doi.org/10.1007/s00105-023-05262-y
+Postoperative pleural effusion and pulmonary infection occurred in pulmonary hamartoma: A case report.|https://dx.doi.org/10.1016/j.asjsur.2023.11.089
+Epidemiology and clinical significance of persistent bacteremia in severely burned patients.|https://dx.doi.org/10.1016/j.burns.2023.11.007
+Multicenter parallel randomized trial evaluating incisional negative pressure wound therapy for the prevention of surgical site infection after lower extremity bypass.|https://dx.doi.org/10.1016/j.jvs.2023.11.043
+A Prospective Study of Bladder Function Following Endometriosis Surgery with up to 8 years Follow-up.|https://dx.doi.org/10.1016/j.jmig.2023.11.020
+Surgical site infections after kidney transplantation are independently associated with graft loss.|https://dx.doi.org/10.1016/j.ajt.2023.11.013
+Risk of infections in psoriatic arthritis or axial spondyloarthritis patients treated with biologic or targeted therapies: a meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1016/j.jbspin.2023.105673

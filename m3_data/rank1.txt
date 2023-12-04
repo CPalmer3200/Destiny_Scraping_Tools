@@ -14,3 +14,4 @@ Fecal Microbiota, Live-jslm for the Prevention of Recurrent Clostridioides diffi
 Epidemiology, outcomes and risk factors for recurrence of Clostridioides difficile infections following allogeneic hematopoietic cell transplantation: a longitudinal retrospective multicenter study.|https://dx.doi.org/10.1038/s41409-023-02157-3
 Inflammatory bowel disease and Clostridium difficile infection: clinical presentation, diagnosis, and management.|https://dx.doi.org/10.1177/17562848231207280
 Assuring safety of fecal microbiota transplantation in the COVID-19 era: A single-center experience.|https://dx.doi.org/10.1002/jgh3.12979
+Clostridioides difficile canonical L,D-transpeptidases catalyse a novel type of peptidoglycan cross-links and are not required for beta-lactam resistance.|https://dx.doi.org/10.1016/j.jbc.2023.105529

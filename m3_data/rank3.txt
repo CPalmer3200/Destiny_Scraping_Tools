@@ -5,3 +5,4 @@ Fluoroquinolone Prophylaxis During Conventional Chemotherapy or Hematopoietic St
 Azithromycin Treatment for Acne Vulgaris: A Case Report on the Risk of Clostridioides difficile Infection.|https://dx.doi.org/10.12659/AJCR.941424
 Controlling infections in hospitalized pretransplant candidates.|https://dx.doi.org/10.1097/MOT.0000000000001120
 Treating Glabellar Lines With Botulinum Toxin: Does Your Patient Need to Frown Steadily?|https://dx.doi.org/10.1093/asj/sjad349
+Zero-shot interpretable phenotyping of postpartum hemorrhage using large language models.|https://dx.doi.org/10.1038/s41746-023-00957-x

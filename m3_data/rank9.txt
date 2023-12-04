@@ -11,3 +11,4 @@ Complication rates of ciprofloxacin alone vs. ciprofloxacin plus fosfomycin for 
 Missing Narrative: Examining the Impact of Disability on Post-Operative Infectious Complications.|https://dx.doi.org/10.1089/sur.2023.160
 Risk of Hospitalization and Mortality Following Medically Attended Norovirus Infection-Veterans Health Administration, 2010-2018.|https://dx.doi.org/10.1093/ofid/ofad556
 Clostridioides difficile infection leading to fulminant colitis with toxic megacolon.|https://dx.doi.org/10.4322/acr.2023.457
+Fecal calprotectin level is nonlinearly associated with GI pathogen detection in patients with and without inflammatory bowel disease.|https://dx.doi.org/10.1128/jcm.00946-23

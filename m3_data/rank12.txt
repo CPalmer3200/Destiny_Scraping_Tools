@@ -63,3 +63,5 @@ Synthetic chromosome fusion: Effects on mitotic and meiotic genome structure and
 The evolution of short- and long-range weapons for bacterial competition.|https://dx.doi.org/10.1038/s41559-023-02234-2
 A retrospective case-control study to evaluate the use of beta-lactam desensitization in the management of penicillin-allergic patients: a potential strategy for Antimicrobial Stewardship Programs.|https://dx.doi.org/10.3389/fphar.2023.1260632
 Endocrine features of Langerhans cell histiocytosis in paediatric patients: A 30-year review.|https://dx.doi.org/10.1111/jpc.16521
+Diversification of division mechanisms in endospore-forming bacteria revealed by analyses of peptidoglycan synthesis in Clostridioides difficile.|https://dx.doi.org/10.1038/s41467-023-43595-3
+Building a eukaryotic chromosome arm by de novo design and synthesis.|https://dx.doi.org/10.1038/s41467-023-43531-5

@@ -111,3 +111,22 @@ Train-the-trainers intervention for national capacity building in infection prev
 Detection of SARS-CoV-2 S protein based on FRET between carbon quantum dots and gold nanoparticles.|https://dx.doi.org/10.1016/j.heliyon.2023.e22674
 SARS-CoV-2 transmission via maritime cold chains: A statistical analysis of nucleic acid detection results of cold chain food imported from Fuzhou ports.|https://dx.doi.org/10.1016/j.heliyon.2023.e21954
 Behind closed doors: Exploring the impact of COVID-19 related lockdown on domestic violence in Peru.|https://dx.doi.org/10.1016/j.ssmph.2023.101552
+Forecasting local hospital bed demand for COVID-19 using on-request simulations.|https://dx.doi.org/10.1038/s41598-023-48601-8
+SARS-CoV-2 rapid antigen testing positive rate in community testing stations as an indicator for COVID-19 epidemic trend, Taipei, Taiwan, May to August 2021.|https://dx.doi.org/10.1016/j.jfma.2023.10.027
+[Changes in Attitudes to Medical Care among Pharmacy Pharmacists before and after the COVID-19 Pandemic: A Questionnaire Survey].|https://dx.doi.org/10.1248/yakushi.23-00016
+[Expert consensus on the management of interstitial lung disease during the COVID-19 epidemic].|https://dx.doi.org/10.3760/cma.j.cn112147-20230922-00187
+Stronger psychological reaction of patients in depression and remission to the first wave of the COVID-19 pandemic in Poland compared to the non-clinical group.|https://dx.doi.org/10.12740/PP/147260
+Estimating the potential impact and diagnostic requirements for SARS-CoV-2 test-and-treat programs.|https://dx.doi.org/10.1038/s41467-023-43769-z
+The feasibility of self-performing measurements of peripheral oxygen saturation and respiratory exercises in home-isolated COVID-19 patients-a single-arm prospective trial.|https://dx.doi.org/10.1186/s40814-023-01415-x
+How is the COVID-19 pandemic impacting our life, mental health, and well-being? Design and preliminary findings of the pan-Canadian longitudinal COHESION study.|https://dx.doi.org/10.1186/s12889-023-17297-w
+The Impacts of the COVID-19 Pandemic on Receipt of Needed Medical Care and At-Home Support among U.S. Households Receiving Supplemental Security Income and Social Security Disability Insurance on the Basis of Disability.|https://dx.doi.org/10.1093/hsw/hlad034
+Perspectives of Older Adults on COVID-19 and Influenza Vaccination in Ontario, Canada.|https://dx.doi.org/10.1177/21501319231214127
+Neutralization of SARS-CoV-2 Omicron BQ.1, BQ.1.1 and XBB.1 variants following SARS-CoV-2 infection or vaccination in children.|https://dx.doi.org/10.1038/s41467-023-43152-y
+Effectiveness of Vaccines and Antiviral Drugs in Preventing Severe and Fatal COVID-19, Hong Kong.|https://dx.doi.org/10.3201/eid3001.230414
+Development of automated microfluidic immunoassays for the detection of SARS-CoV-2 antibodies and antigen.|https://dx.doi.org/10.1016/j.jim.2023.113586
+A broadly reactive antibody targeting the N-terminal domain of SARS-CoV-2 spike confers Fc-mediated protection.|https://dx.doi.org/10.1016/j.xcrm.2023.101305
+[Impact of COVID-19 on the mental health of the population: Study in primary care].|https://dx.doi.org/10.1016/j.aprim.2023.102813
+Chemical Composition of Thyme (Thymus vulgaris) Extracts, Potential Inhibition of SARS-CoV-2 Spike Protein-ACE2 Binding and ACE2 Activity, and Radical Scavenging Capacity.|https://dx.doi.org/10.1021/acs.jafc.3c05432
+Clinical Assessment of SARS-CoV-2 Antibodies in Oral Fluids Following Infection and Vaccination.|https://dx.doi.org/10.1093/clinchem/hvad169
+Online discussions of sexually transmitted infections (STIs) during COVID-19: Insights from the social media platform Reddit.|https://dx.doi.org/10.1097/OLQ.0000000000001906
+On the path to recovery: traumatic stress research during the COVID-19 pandemic 2021-2023.|https://dx.doi.org/10.1080/20008066.2023.2281988

@@ -60,3 +60,6 @@ Rationale for the Development of a Traumatic Brain Injury Case Definition for th
 Prevention of Seroma Formation and Its Sequelae After Axillary Lymph Node Dissection: An Up-to-Date Systematic Review and Guideline for Surgeons.|https://dx.doi.org/10.1245/s10434-023-14631-9
 Coronary Stent Infection: A Systematic Review of Literature.|https://dx.doi.org/10.1097/CRD.0000000000000631
 Clinical Profile and Outcomes of Rheumatic Heart Disease Patients Undergoing Surgical Valve Procedures in Uganda.|https://dx.doi.org/10.5334/gh.1260
+Supporting evidence-based rotavirus vaccine introduction decision-making and implementation: Lessons from 8 Gavi-eligible countries.|https://dx.doi.org/10.1016/j.vaccine.2023.11.035
+Impact of enhanced recovery after surgery (ERAS) guidelines implementation in cesarean delivery: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.ejogrb.2023.11.028
+The impact of maternal pertussis vaccination recommendation on infant pertussis incidence and mortality in the USA: an interrupted time series analysis.|https://dx.doi.org/10.1093/ije/dyad161

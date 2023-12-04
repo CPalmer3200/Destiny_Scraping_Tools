@@ -138,3 +138,11 @@ Metronidazole pharmacokinetics in geese (Anser anser domesticus) after intraveno
 Engineering an Antifouling Electrochemical Sensing Platform Based on an All-in-One Peptide and a Hierarchical β-Bi(2)O(3)-Au Microsphere for Vancomycin Detection in Food.|https://dx.doi.org/10.1021/acs.jafc.3c07570
 Prevalence, Toxin Genes, and Antibiotic Resistance Profiles of Bacillus cereus Isolates from Spices in Antalya and Isparta Provinces in Türkiye.|https://dx.doi.org/10.1007/s12088-023-01111-7
 A Physiological Approach to Renal Clearance - from Premature Neonates to Adults.|https://dx.doi.org/10.1111/bcp.15978
+Surface interaction of vancomycin with polystyrene microplastics and its effect on human serum albumin.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128491
+Machine learning assisted discrimination and detection of antibiotics by using multicolor microfluidic chemiluminescence detection chip.|https://dx.doi.org/10.1016/j.talanta.2023.125446
+Situs inversus with levocardia in a 15-year-old male adolescent: a case report.|https://dx.doi.org/10.1186/s13256-023-04254-9
+Rapid and efficient removal of multiple heavy metals from diverse types of water using magnetic biochars derived from antibiotic fermentation residue.|https://dx.doi.org/10.1016/j.jenvman.2023.119685
+Ecofriendly single-step HPLC and TLC methods for concurrent analysis of ternary antifungal mixture in their pharmaceutical products.|https://dx.doi.org/10.1186/s13065-023-01083-1
+Evaluation of the impact of tragacanth/xanthan gum interpolymer complexation with chitosan on pharmaceutical performance of gels with secnidazole as potential periodontal treatment.|https://dx.doi.org/10.1016/j.ejps.2023.106657
+Companilactobacillus alimentarius: An extensive characterization of strains isolated from spontaneous fermented sausages.|https://dx.doi.org/10.1016/j.ijfoodmicro.2023.110489
+Biomaterials coated with zwitterionic polymer brush demonstrated significant resistance to bacterial adhesion and biofilm formation in comparison to brush coatings incorporated with antibiotics.|https://dx.doi.org/10.1016/j.colsurfb.2023.113671
