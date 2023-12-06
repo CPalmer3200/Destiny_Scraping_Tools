@@ -110,3 +110,21 @@ Endowing Polyetheretherketone with Anti-Infection And Immunomodulatory Propertie
 Chemical constituents from Cordia myxa L. (Boraginaceae) and their antibacterial activity.|https://dx.doi.org/10.1080/14786419.2023.2288928
 The ClpX chaperone and a hypermorphic FtsA variant with impaired self-interaction are mutually compensatory for coordinating Staphylococcus aureus cell division.|https://dx.doi.org/10.1111/mmi.15200
 Candidate molecules as alternative nitric oxide donors with better antibacterial property against Escherichia coli and Staphylococcus aureus.|https://dx.doi.org/10.1093/jambio/lxad285
+The effect of enterocin A/P dipeptide on growth performance, glutathione-peroxidase activity, IgA secretion and jejunal morphology in rabbits after experimental methicillin-resistant Staphylococcus epidermidis P3Tr2a Infection.|https://dx.doi.org/10.1007/s11259-023-10277-w
+Measurement of Accumulation of Antibiotics to Staphylococcus aureus in Phagosomes of Live Macrophages.|https://dx.doi.org/10.1002/anie.202313870
+Molecular physiological characterization of the dynamics of persister formation in Staphylococcus aureus.|https://dx.doi.org/10.1128/aac.00850-23
+Bacterial species and factors influencing the contamination of the inner and outer layers of face masks used in dentistry.|https://dx.doi.org/10.17219/dmp/153916
+Indolyl-4H-Chromene Derivatives as Antibacterial Agents: Synthesis, in Vitro and in Silico Studies.|https://dx.doi.org/10.1002/cbdv.202301392
+A Rare Skin Rash: Linezolid-Induced Purpuric Drug Eruption without Vasculitis in a Puerto Rican Man.|https://dx.doi.org/10.12659/AJCR.941725
+Analysis of the antibacterial effects of turmeric on particular bacteria.|https://dx.doi.org/10.1097/MD.0000000000036492
+Transcriptome and histological analyses on the uterus of freckle egg laying hens.|https://dx.doi.org/10.1186/s12864-023-09828-x
+Is Galleria mellonella model a good alternative to study virulence in Staphylococcus aureus from bovine mastitis?|https://dx.doi.org/10.1007/s42770-023-01181-1
+Optic nerve sheath diameter measurement for the paediatric patient with an acute deterioration in consciousness.|https://dx.doi.org/10.1186/s13089-023-00341-6
+Antimicrobial activity of ZnO-Ag-MWCNTs nanocomposites prepared by a simple impregnation-calcination method.|https://dx.doi.org/10.1038/s41598-023-48831-w
+First-passage-time statistics of growing microbial populations carry an imprint of initial conditions.|https://dx.doi.org/10.1038/s41598-023-48726-w
+Expansion microscopy applied to mono- and dual-species biofilms.|https://dx.doi.org/10.1038/s41522-023-00460-x
+Effectiveness of plant-based hand sanitizer incorporating Quercus infectoria gall extract.|https://dx.doi.org/10.1093/jambio/lxad295
+Efficacy of Lysostaphin functionalized silicon catheter for the prevention of Staphylococcus aureus biofilm.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128547
+Impact of aminopenicillin administration routes on antimicrobial effects of platelet-rich fibrin: an in-vitro investigation.|https://dx.doi.org/10.1016/j.jormas.2023.101725
+Vernix caseosa reveals mechanistic clues linking maternal obesity to atopic dermatitis pathogenesis.|https://dx.doi.org/10.1016/j.jaci.2023.09.042
+Antibody-antibiotic conjugate targeted therapy for orthopedic implant-associated intracellular S. aureus infections.|https://dx.doi.org/10.1016/j.jare.2023.12.001

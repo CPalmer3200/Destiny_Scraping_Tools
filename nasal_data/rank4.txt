@@ -63,3 +63,13 @@ Clinical Profile and Outcomes of Rheumatic Heart Disease Patients Undergoing Sur
 Supporting evidence-based rotavirus vaccine introduction decision-making and implementation: Lessons from 8 Gavi-eligible countries.|https://dx.doi.org/10.1016/j.vaccine.2023.11.035
 Impact of enhanced recovery after surgery (ERAS) guidelines implementation in cesarean delivery: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.ejogrb.2023.11.028
 The impact of maternal pertussis vaccination recommendation on infant pertussis incidence and mortality in the USA: an interrupted time series analysis.|https://dx.doi.org/10.1093/ije/dyad161
+Prevalence and risk factors of preoperative anemia in patients undergoing elective orthopedic procedures in Northwest Ethiopia: a multicenter prospective observational cohort study.|https://dx.doi.org/10.1186/s13037-023-00373-w
+Impact of the COVID-19 pandemic on services for patients with chronic kidney disease: findings of a national survey of UK kidney centres.|https://dx.doi.org/10.1186/s12882-023-03344-6
+Distribution and prevalence of enterotoxigenic Staphylococcus aureus and staphylococcal enterotoxins in raw ruminants' milk: A systematic review.|https://dx.doi.org/10.1016/j.fm.2023.104405
+Molecular distribution of biocide resistance genes and susceptibility to biocides among vancomycin resistant Staphylococcus aureus (VRSA) isolates from intensive care unit (ICU) of cardiac hospital- A first report from Pakistan.|https://dx.doi.org/10.1016/j.heliyon.2023.e22120
+Clinical Outcomes, Union Rates, and Complications of Screw Versus Button Fixation in the Bristow-Latarjet Procedure for Anterior Shoulder Instability: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.4055/cios23154
+Pediatric Sport-related Concussion: Recommendations From the Amsterdam Consensus Statement 2023.|https://dx.doi.org/10.1542/peds.2023-063489
+ACR Appropriateness Criteria® Imaging After Total Knee Arthroplasty: 2023 Update.|https://dx.doi.org/10.1016/j.jacr.2023.08.014
+ACR Appropriateness Criteria® Imaging After Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.jacr.2023.08.015
+Risk factors for long-term arm morbidities following breast cancer treatments: A systematic review.|https://dx.doi.org/10.18632/oncotarget.28539
+Fatigue and resilience in Master's and PhD students in the Covid-19 pandemic in Brazil: A cross-sectional study.|https://dx.doi.org/10.1371/journal.pone.0295218

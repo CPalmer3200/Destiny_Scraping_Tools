@@ -116,3 +116,18 @@ Multicenter parallel randomized trial evaluating incisional negative pressure wo
 A Prospective Study of Bladder Function Following Endometriosis Surgery with up to 8 years Follow-up.|https://dx.doi.org/10.1016/j.jmig.2023.11.020
 Surgical site infections after kidney transplantation are independently associated with graft loss.|https://dx.doi.org/10.1016/j.ajt.2023.11.013
 Risk of infections in psoriatic arthritis or axial spondyloarthritis patients treated with biologic or targeted therapies: a meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1016/j.jbspin.2023.105673
+Formulation, optimization and evaluation of amisulpride-loaded niosomal intranasal gel for brain targeting.|https://dx.doi.org/10.4155/tde-2023-0059
+Tumors and infections of the growing spine.|https://dx.doi.org/10.1177/18632521231215857
+Treatment of unstable pelvic fractures in children with an external fixator: Retrospective study of 56 patients.|https://dx.doi.org/10.1177/18632521231201163
+An infected chronic expanding haematoma treated with hip disarticulation.|https://dx.doi.org/10.1136/bcr-2023-255977
+Surgical Management of Unstable U-Shaped Sacral Fractures and Tile C Pelvic Ring Disruptions: Institutional Experience in Light of a Narrative Literature Review.|https://dx.doi.org/10.31616/asj.2023.0024
+Promoting wound recovery through stable intestinal flora: Reducing post-operative complications in colorectal cancer surgery patients.|https://dx.doi.org/10.1111/iwj.14501
+Does Operative Time Affect Complication Rate in Laparoscopic Cholecystectomy.|https://dx.doi.org/10.1177/00031348221117032
+A rare case of hypertensive urgency caused by linezolid was reported: A case report.|https://dx.doi.org/10.1097/MD.0000000000036328
+Acute pituitary crisis after lumbar surgery: A case report.|https://dx.doi.org/10.1097/MD.0000000000036294
+Construction and validation of a nomogram prediction model for postoperative incisional infection in ankle fractures.|https://dx.doi.org/10.1097/MD.0000000000036408
+Neutrophil responses to RSV infection show differences between infant and adult neutrophils.|https://dx.doi.org/10.1136/thorax-2023-220081
+Low Body Mass Index Patients Undergoing an Anterior Lumbar Fusion May Have an Increased Risk of Perioperative Complications.|https://dx.doi.org/10.14444/8539
+Lung Transplantation for People Living With HIV: Promising Mid-term Outcomes.|https://dx.doi.org/10.1097/TP.0000000000004861
+Giant non-parasitic splenic cyst: a case report.|https://dx.doi.org/10.1186/s13256-023-04246-9
+A novel surgical strategy of three column osteotomy at non-lesioned area for correcting severe angular kyphosis due to Pott's disease: a retrospectively study.|https://dx.doi.org/10.1038/s41598-023-48891-y

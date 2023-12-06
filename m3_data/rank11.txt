@@ -146,3 +146,23 @@ Ecofriendly single-step HPLC and TLC methods for concurrent analysis of ternary 
 Evaluation of the impact of tragacanth/xanthan gum interpolymer complexation with chitosan on pharmaceutical performance of gels with secnidazole as potential periodontal treatment.|https://dx.doi.org/10.1016/j.ejps.2023.106657
 Companilactobacillus alimentarius: An extensive characterization of strains isolated from spontaneous fermented sausages.|https://dx.doi.org/10.1016/j.ijfoodmicro.2023.110489
 Biomaterials coated with zwitterionic polymer brush demonstrated significant resistance to bacterial adhesion and biofilm formation in comparison to brush coatings incorporated with antibiotics.|https://dx.doi.org/10.1016/j.colsurfb.2023.113671
+Molecular physiological characterization of the dynamics of persister formation in Staphylococcus aureus.|https://dx.doi.org/10.1128/aac.00850-23
+The Prevalence and Risk Factors of Clostridioides difficile Infection in Inflammatory Bowel Disease: 10-Year South Korean Experience Based on the National Database.|https://dx.doi.org/10.3346/jkms.2023.38.e359
+Role of proton pump inhibitors dosage and duration in Helicobacter pylori eradication treatment: Results from the European Registry on H. pylori management.|https://dx.doi.org/10.1002/ueg2.12476
+Time-dependent differences in vancomycin sensitivity of macrophages underlie vancomycin-induced acute kidney injury.|https://dx.doi.org/10.1124/jpet.123.001864
+A prospective, single-centre, randomized, double-blind controlled study protocol to study whether long-term oral metronidazole can effectively reduce the incidence of postoperative liver metastasis in patients with colorectal cancer.|https://dx.doi.org/10.1186/s13063-023-07628-y
+Targeted elimination of Vancomycin resistance gene vanA by CRISPR-Cas9 system.|https://dx.doi.org/10.1186/s12866-023-03136-w
+Efficacy of antimicrobial and nutraceutical treatment for canine acute diarrhoea: A systematic review and meta-analysis for European Network for Optimization of Antimicrobial Therapy (ENOVAT) guidelines.|https://dx.doi.org/10.1016/j.tvjl.2023.106054
+Antibody-antibiotic conjugate targeted therapy for orthopedic implant-associated intracellular S. aureus infections.|https://dx.doi.org/10.1016/j.jare.2023.12.001
+Composite of a thiacalix[4]arene-copper(I) metal-organic framework and mesoporous carbon for efficient electrochemical detection of antibiotics.|https://dx.doi.org/10.1016/j.talanta.2023.125490
+Clinically Approved Antibiotics from 2010 to 2022.|https://dx.doi.org/10.2533/chimia.2023.230
+Common microbial isolates in an adult intensive care unit before and after its relocation and expansion.|https://dx.doi.org/10.51893/2022.1.OA7
+A pilot study of dietary fibres on pathogen growth in an ex vivo colonic model reveals their potential ability to limit vancomycin-resistant Enterococcus expansion.|https://dx.doi.org/10.20517/mrr.2022.14
+Efficacy of Triple Antibiotic Paste and Bromelain Paste As Intracanal Medicament Against Enterococcus faecalis: An In-Vivo Study.|https://dx.doi.org/10.7759/cureus.48098
+Surgical Site Infections in Elective and Emergency Abdominal Surgeries: A Prospective Observational Study About Incidence, Risk Factors, Pathogens, and Antibiotic Sensitivity at a Government Tertiary Care Teaching Hospital in India.|https://dx.doi.org/10.7759/cureus.48071
+BioAct-Het: A Heterogeneous Siamese Neural Network for Bioactivity Prediction Using Novel Bioactivity Representation.|https://dx.doi.org/10.1021/acsomega.3c05778
+Molecular distribution of biocide resistance genes and susceptibility to biocides among vancomycin resistant Staphylococcus aureus (VRSA) isolates from intensive care unit (ICU) of cardiac hospital- A first report from Pakistan.|https://dx.doi.org/10.1016/j.heliyon.2023.e22120
+Prevalence of Gardnerella vaginalis infection and antibiotic resistance pattern of isolates of gynecology clinic patients at Shahriar Noor Hospital from January to June 2020 by PCR and culture methods.|https://dx.doi.org/10.18502/ijm.v15i4.13505
+Discovery and druggability evaluation of pyrrolamide-type GyrB/ParE inhibitor against drug-resistant bacterial infection.|https://dx.doi.org/10.1016/j.apsb.2023.08.030
+Profiling toxin genes and antibiotic resistance in Bacillus cereus isolated from pre-launch spacecraft.|https://dx.doi.org/10.3389/fmicb.2023.1231726
+Risk Factors for Surgical-Site Infections After Liver Transplant: Does Perioperative Antibiotic Regimen Matter?|https://dx.doi.org/10.1097/TP.0000000000004810

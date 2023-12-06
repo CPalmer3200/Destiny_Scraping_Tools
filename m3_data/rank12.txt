@@ -65,3 +65,6 @@ A retrospective case-control study to evaluate the use of beta-lactam desensitiz
 Endocrine features of Langerhans cell histiocytosis in paediatric patients: A 30-year review.|https://dx.doi.org/10.1111/jpc.16521
 Diversification of division mechanisms in endospore-forming bacteria revealed by analyses of peptidoglycan synthesis in Clostridioides difficile.|https://dx.doi.org/10.1038/s41467-023-43595-3
 Building a eukaryotic chromosome arm by de novo design and synthesis.|https://dx.doi.org/10.1038/s41467-023-43531-5
+Effect of oral probiotics on clinical efficacy and intestinal flora in elderly severe pneumonia patients.|https://dx.doi.org/10.1097/MD.0000000000036320
+Percutaneous cementoplasty of periprosthetic aseptic hip loosening.|https://dx.doi.org/10.1016/j.rxeng.2023.06.004
+Correction for Berumen Alvarez and Purcell, "Expanding our grasp of two-component signaling in Clostridioides difficile".|https://dx.doi.org/10.1128/jb.00388-23
