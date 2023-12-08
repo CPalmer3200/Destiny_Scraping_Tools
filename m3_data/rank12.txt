@@ -68,3 +68,7 @@ Building a eukaryotic chromosome arm by de novo design and synthesis.|https://dx
 Effect of oral probiotics on clinical efficacy and intestinal flora in elderly severe pneumonia patients.|https://dx.doi.org/10.1097/MD.0000000000036320
 Percutaneous cementoplasty of periprosthetic aseptic hip loosening.|https://dx.doi.org/10.1016/j.rxeng.2023.06.004
 Correction for Berumen Alvarez and Purcell, "Expanding our grasp of two-component signaling in Clostridioides difficile".|https://dx.doi.org/10.1128/jb.00388-23
+Associations of motility and auto-aggregation with biofilm-formation capacity levels in Clostridioidesdifficile.|https://dx.doi.org/10.1016/j.micpath.2023.106490
+Emergence of OXA-48-producing hypervirulent Klebsiella pneumoniae strains in Taiwan.|https://dx.doi.org/10.1007/s10096-023-04733-3
+Anatomic femoral tunnel position in medial patellofemoral ligament reconstruction: anterior versus posterior.|https://dx.doi.org/10.1186/s12891-023-07069-3
+The Role of the Gut Microbiome in Cancer: A Review, With Special Focus on Colorectal Neoplasia and Clostridioides difficile.|https://dx.doi.org/10.1093/cid/ciad640

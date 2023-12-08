@@ -166,3 +166,16 @@ Prevalence of Gardnerella vaginalis infection and antibiotic resistance pattern 
 Discovery and druggability evaluation of pyrrolamide-type GyrB/ParE inhibitor against drug-resistant bacterial infection.|https://dx.doi.org/10.1016/j.apsb.2023.08.030
 Profiling toxin genes and antibiotic resistance in Bacillus cereus isolated from pre-launch spacecraft.|https://dx.doi.org/10.3389/fmicb.2023.1231726
 Risk Factors for Surgical-Site Infections After Liver Transplant: Does Perioperative Antibiotic Regimen Matter?|https://dx.doi.org/10.1097/TP.0000000000004810
+Analysis of healthcare facility-onset Clostridioides difficile Infection (CDI) in a hematopoietic cell transplant (HCT) unit: A Call for Diagnostic Stewardship in a Complex Patient Population.|https://dx.doi.org/10.1016/j.ajic.2023.11.022
+Evaluating the Effect of Lactobacillus casei FEGY 9973 and Curcumin on Experimental Giardiasis.|https://dx.doi.org/10.1007/s11686-023-00744-4
+Population pharmacokinetics and target attainment analysis of vancomycin after intermittent dosing in adults with cystic fibrosis.|https://dx.doi.org/10.1128/aac.00992-23
+Sphingomonas paucimobilis endophthalmitis postpenetration ocular trauma: A rare case report.|https://dx.doi.org/10.4103/ojo.ojo_298_22
+A descriptive study of vancomycin use at Red Cross War Memorial Children's Hospital, Cape Town.|https://dx.doi.org/10.4102/sajid.v38i1.528
+Resistance phenotype and genetic features of a heterogeneous vancomycin intermediate-resistant Staphylococcus aureus strain from an immunocompromised patient.|https://dx.doi.org/10.1007/s42770-023-01192-y
+[Feline and canine giardiosis: An Update].|https://dx.doi.org/10.1055/a-2191-1723
+Successful expansion of hospital-associated clone of vanA-positive vancomycin-resistant Enterococcus faecalis ST9 to an anthropogenically polluted mangrove in Brazil.|https://dx.doi.org/10.1016/j.marpolbul.2023.115844
+A technique for introducing broad-spectrum topical antibiotics during open reduction and internal fixation of acetabular fractures.|https://dx.doi.org/10.1007/s00590-023-03789-3
+Stopping antibacterial prophylaxis in pediatric allogeneic hematopoietic cell transplantation: An internal audit.|https://dx.doi.org/10.1111/tid.14211
+Isolation, identification, and significance of salivary Veillonella spp., Prevotella spp., and Prevotella salivae in patients with inflammatory bowel disease.|https://dx.doi.org/10.3389/fcimb.2023.1278582
+Dried blood spot analysis for the quantification of vancomycin and creatinine using liquid chromatography - tandem mass spectrometry: method development and validation.|https://dx.doi.org/10.1016/j.cca.2023.117689
+Infectious Inequity: How the Gut Microbiome and Social Determinants of Health May Contribute to Clostridioides difficile Infection Among Racial and Ethnic Minorities.|https://dx.doi.org/10.1093/cid/ciad586

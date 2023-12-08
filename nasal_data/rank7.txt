@@ -148,3 +148,23 @@ Effectiveness of the BNT162b2 vaccine in preventing morbidity and mortality asso
 Investigating the relationship of COVID-19 preventive and mitigation measures with mosque attendance in Pakistan.|https://dx.doi.org/10.1371/journal.pone.0294808
 BioHabana 2022: Preventive and Immunotherapeutic Strategies Against COVID-19 and Cancer in Cuba.|https://dx.doi.org/10.1089/jir.2023.0141
 Combatting SARS-CoV-2 With Digital Contact Tracing and Notification: Navigating Six Points of Failure.|https://dx.doi.org/10.2196/49560
+Predicting the next pandemic: VACCELERATE ranking of the World health Organization's Blueprint for action to prevent epidemics.|https://dx.doi.org/10.1016/j.tmaid.2023.102676
+Inhibition of SARS-CoV-2 infection and replication by Petasites hybridus CO2-extract (Ze 339).|https://dx.doi.org/10.1016/j.biopha.2023.115959
+The impact of the COVID-19 pandemic on cardiovascular disease prevention and corresponding geographical inequalities in England: interrupted time series analysis.|https://dx.doi.org/10.1186/s12889-023-17282-3
+Assessment of post-COVID-19 fatigue among female survivors 2 years after hospital discharge: a nested case-control study.|https://dx.doi.org/10.1186/s12889-023-17382-0
+Understanding the Intersectionality of COVID-19 Racism, Mental Distress, Alcohol Use, and Firearm Purchase Behavior Among Asian Americans.|https://dx.doi.org/10.1007/s40615-023-01874-1
+Optimizing Signal Management in a Vaccine Adverse Event Reporting System: A Proof-of-Concept with COVID-19 Vaccines Using Signs, Symptoms, and Natural Language Processing.|https://dx.doi.org/10.1007/s40264-023-01381-6
+Rapid monitoring of SARS-CoV-2 variants of concern through high-resolution melt analysis.|https://dx.doi.org/10.1038/s41598-023-48929-1
+Characteristics of and Outcomes in COVID-19 Critical Care Patients in the Qassim Region, Saudi Arabia.|https://dx.doi.org/10.7759/cureus.48323
+The Impact of COVID-19 Quarantine Measures on Oral Hygiene Practices Among the General Public in Riyadh City, Saudi Arabia: A Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.48353
+Evaluation of immunogenicity-induced DNA vaccines against different SARS-CoV-2 variants.|https://dx.doi.org/10.1371/journal.pone.0295594
+Safety of COVID-19 Vaccination in Patients With Breast Cancer: Cross-Sectional Study in China.|https://dx.doi.org/10.2196/46009
+Postpandemic Evaluation of the Eco-Efficiency of Personal Protective Equipment Against COVID-19 in Emergency Departments: Proposal for a Mixed Methods Study.|https://dx.doi.org/10.2196/50682
+Cross-Sectional Study of the Psychological Well-Being of Healthcare Workers in a Large European University Hospital after the COVID-19 Initial Wave.|https://dx.doi.org/10.23749/mdl.v114i6.14849
+COVID-19 Marked a Change in the Scope of Occupational Medicine from Occupational to Work-Related Diseases and Total Worker Health®.|https://dx.doi.org/10.23749/mdl.v114i6.15429
+Learning from the Experience of the COVID-19 Pandemic: A New Paradigm for Occupational Biohazard Assessment and Management.|https://dx.doi.org/10.23749/mdl.v114i6.15452
+Parental burnout, coparenting, and internalized sexual stigma during COVID-19 in parents with minoritized sexual identities.|https://dx.doi.org/10.1037/fam0001171
+Large-Scale Scientific Study Led by a Professional Organization during the COVID-19 Pandemic: Operations, Best Practices, and Lessons Learned.|https://dx.doi.org/10.1093/jalm/jfad089
+Lived Experiences of Hospitalized Patients With Coronavirus Disease at Tibebe Ghion Comprehensive Specialized Hospital, Bahir Dar, North West Ethiopia, A Phenomenological Study.|https://dx.doi.org/10.1097/DCC.0000000000000617
+Impact of COVID-19 on Quality of Life After Hospital Discharge in Patients Treated With Noninvasive Ventilation/Continuous Positive Airway Pressure: An Observational, Prospective Multicenter Study.|https://dx.doi.org/10.1097/DCC.0000000000000614
+Erratum for Liu et al., "Ubiquitination of SARS-CoV-2 ORF7a Prevents Cell Death Induced by Recruiting BclXL To Activate ER Stress".|https://dx.doi.org/10.1128/spectrum.03670-23

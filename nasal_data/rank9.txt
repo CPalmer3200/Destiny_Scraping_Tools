@@ -128,3 +128,22 @@ Efficacy of Lysostaphin functionalized silicon catheter for the prevention of St
 Impact of aminopenicillin administration routes on antimicrobial effects of platelet-rich fibrin: an in-vitro investigation.|https://dx.doi.org/10.1016/j.jormas.2023.101725
 Vernix caseosa reveals mechanistic clues linking maternal obesity to atopic dermatitis pathogenesis.|https://dx.doi.org/10.1016/j.jaci.2023.09.042
 Antibody-antibiotic conjugate targeted therapy for orthopedic implant-associated intracellular S. aureus infections.|https://dx.doi.org/10.1016/j.jare.2023.12.001
+Neutrophil-targeted combinatorial nanosystems for suppressing bacteremia-associated hyperinflammation and MRSA infection to improve survival rates.|https://dx.doi.org/10.1016/j.actbio.2023.11.040
+Gelatin/carboxymethylcellulose composite film combined with photodynamic antibacterial: New prospect for fruit preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128643
+Engineering eco-friendly and biodegradable biomass-based multifunctional antibacterial packaging films for sustainable food preservation.|https://dx.doi.org/10.1016/j.foodchem.2023.138119
+Biocontrol capacity of bacteria isolated from sawdust of the dairy cattle production environment.|https://dx.doi.org/10.1016/j.rvsc.2023.105103
+Staphylococcal superantigen-like protein 10 enhances the amyloidogenic biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1186/s12866-023-03134-y
+Silver nanoparticles synthesized by probiotic bacteria and antibacterial role in resistant bacteria.|https://dx.doi.org/10.1186/s13568-023-01651-7
+Prospective External Validation of the Esbenshade Vanderbilt Models Accurately Predicts Bloodstream Infection Risk in Febrile Non-Neutropenic Children With Cancer.|https://dx.doi.org/10.1200/JCO.23.01814
+ZnO@Ag-Functionalized Paper-Based Microarray Chip for SERS Detection of Bacteria and Antibacterial and Photocatalytic Inactivation.|https://dx.doi.org/10.1021/acs.analchem.3c03492
+Reply to Robertson: True Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1093/cid/ciad753
+Preparation of Herbal Nano-Formulation-Assisted Mouth Paint Using Titanium Dioxide Nanoparticles and Its Biomedical Applications.|https://dx.doi.org/10.7759/cureus.48332
+Bacterial Cellulose-Based Bandages with Integrated Antibacteria and Electrical Stimulation for Advanced Wound Management.|https://dx.doi.org/10.1002/adhm.202302893
+Resveratrol-Encapsulated Glutathione-Modified Robust Mesoporous Silica Nanoparticles as an Antibacterial and Antibiofilm Coating Agent for Medical Devices.|https://dx.doi.org/10.1021/acsami.3c13733
+Multi-Enzyme-based Superabsorbent Hydrogel for Self-Enhanced Nir-Ii Photothermal-Catalytic Antibacterial Therapy.|https://dx.doi.org/10.1002/adhm.202303537
+A need to consider divergence in definition of Staphylococcus aureus bacteraemia too.|https://dx.doi.org/10.1093/cid/ciad751
+Exudate-induced Gelatinizable Nanofiber Membrane with High Exudate Absorption And Super Bactericidal Capacity for Bacteria-Infected Wound Management.|https://dx.doi.org/10.1002/adhm.202303293
+Population pharmacokinetics and target attainment analysis of vancomycin after intermittent dosing in adults with cystic fibrosis.|https://dx.doi.org/10.1128/aac.00992-23
+Comparative evaluation of small molecules reported to be inhibitors of Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1128/spectrum.03147-23
+Staphylococcus aureus β-hemolysin causes skin inflammation by acting as an agonist of epidermal growth factor receptor.|https://dx.doi.org/10.1128/spectrum.02227-23
+Covalent bonding of quaternary ammonium compounds and zwitterionic polymer functional layers on polydimethylsiloxane against Escherichia Coli adhesion.|https://dx.doi.org/10.1177/08853282231219063

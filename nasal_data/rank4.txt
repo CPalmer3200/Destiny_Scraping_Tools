@@ -73,3 +73,19 @@ ACR Appropriateness Criteria® Imaging After Total Knee Arthroplasty: 2023 Updat
 ACR Appropriateness Criteria® Imaging After Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.jacr.2023.08.015
 Risk factors for long-term arm morbidities following breast cancer treatments: A systematic review.|https://dx.doi.org/10.18632/oncotarget.28539
 Fatigue and resilience in Master's and PhD students in the Covid-19 pandemic in Brazil: A cross-sectional study.|https://dx.doi.org/10.1371/journal.pone.0295218
+Transcription profiles and phenotype reveal global response of Staphylococcus aureus exposed to ultrasound and ultraviolet stressors.|https://dx.doi.org/10.1016/j.scitotenv.2023.169146
+Severity of Excessive Gestational Weight Gain and Risk of Severe Maternal Morbidity.|https://dx.doi.org/10.1016/j.ajogmf.2023.101247
+Epigenome-wide association studies of prenatal maternal mental health and infant epigenetic profiles: a systematic review.|https://dx.doi.org/10.1038/s41398-023-02620-1
+Efficacy of perioperative oral care management in the prevention of surgical complications in 503 patients after pancreaticoduodenectomy for resectable malignant tumor: A multicenter retrospective analysis using propensity score matching.|https://dx.doi.org/10.1016/j.surg.2023.11.008
+[Chinese expert consensus on the diagnosis and treatment of herpes simplex keratitis (2023)].|https://dx.doi.org/10.3760/cma.j.cn112142-20230901-00076
+What U.S. Obstetricians Need to Know About Respiratory Syncytial Virus.|https://dx.doi.org/10.1097/AOG.0000000000005492
+Characterizing Opioid Prescribing Trends of Medical Oncologists From 2013 to 2019: Analysis From the Centers for Medicare & Medicaid Services Medicare Part D Prescribers Database.|https://dx.doi.org/10.1200/OP.23.00285
+Antimicrobial Resistance of Genital Mycoplasma and Ureaplasma: A Multicentre Study Over a 5-Year Period in Italy (2017-2021).|https://dx.doi.org/10.1089/mdr.2023.0202
+A Rare Case of Streptococcus pasteurianus Endocarditis Signaling Colon Cancer.|https://dx.doi.org/10.7759/cureus.48328
+Factors affecting biofilm formation by bacteria on fabrics.|https://dx.doi.org/10.1007/s10123-023-00460-z
+Development of Pilomatrixoma at the Vaccination Site: A Rare Complication of COVID-19 Vaccination - A Case Report.|https://dx.doi.org/10.12659/AJCR.942280
+Limited versus full sternotomy for aortic valve replacement.|https://dx.doi.org/10.1002/14651858.CD011793.pub3
+Gamified antimicrobial decision support app (GADSA) changes antibiotics prescription behaviour in surgeons in Nigeria: a hospital-based pilot study.|https://dx.doi.org/10.1186/s13756-023-01342-9
+Dried blood spot analysis for the quantification of vancomycin and creatinine using liquid chromatography - tandem mass spectrometry: method development and validation.|https://dx.doi.org/10.1016/j.cca.2023.117689
+Antenatal care booked rural residence women have home delivery during the era of COVID-19 pandemic in Gidan District, Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0295220
+Case report: A pregnant woman with Crohn disease who used ustekinumab to the 3rd trimester developed severe infection.|https://dx.doi.org/10.1097/MD.0000000000036253

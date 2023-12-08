@@ -8,3 +8,4 @@ Bacterial nasopharyngeal colonisation in children in South Africa before and dur
 Bloodstream Infections in Children Hospitalized for Influenza, the Canadian Immunization Monitoring Program Active (IMPACT).|https://dx.doi.org/10.1097/INF.0000000000004199
 Glucomannan enhanced the macrophage activity in exposure to methicillin-resistant Staphylococcus aureus (MRSA): in-vitro study.|https://dx.doi.org/10.18502/ijm.v15i4.13510
 The epidemiology of superficial Streptococcal A (impetigo and pharyngitis) infections in Australia: A systematic review.|https://dx.doi.org/10.1371/journal.pone.0288016
+A blueprint for a multi-disease, multi-domain Bayesian adaptive platform trial incorporating adult and paediatric subgroups: the Staphylococcus aureus Network Adaptive Platform trial.|https://dx.doi.org/10.1186/s13063-023-07718-x

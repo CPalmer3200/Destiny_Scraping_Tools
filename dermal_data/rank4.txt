@@ -2,3 +2,7 @@ Antibacterial hyaluronic acid hydrogels with enhanced self-healing properties vi
 Photothermal antibacterial MoS(2) composited chitosan hydrogel for infectious wound healing.|https://dx.doi.org/10.1016/j.bioadv.2023.213701
 Copper-Zinc-Doped Bilayer Bioactive Glasses Loaded Hydrogel with Spatiotemporal Immunomodulation Supports MRSA-Infected Wound Healing.|https://dx.doi.org/10.1002/advs.202302674
 Herbal Active Ingredient-Loaded Poly(ω-pentadecalactone-co-δ-valerolactone)/Gelatin Nanofibrous Membranes.|https://dx.doi.org/10.1016/j.ejpb.2023.11.021
+Bacterial Cellulose-Based Bandages with Integrated Antibacteria and Electrical Stimulation for Advanced Wound Management.|https://dx.doi.org/10.1002/adhm.202302893
+Multi-Enzyme-based Superabsorbent Hydrogel for Self-Enhanced Nir-Ii Photothermal-Catalytic Antibacterial Therapy.|https://dx.doi.org/10.1002/adhm.202303537
+Exudate-induced Gelatinizable Nanofiber Membrane with High Exudate Absorption And Super Bactericidal Capacity for Bacteria-Infected Wound Management.|https://dx.doi.org/10.1002/adhm.202303293
+Photothermal synergistic nitric oxide controlled release injectable self-healing adhesive hydrogel for biofilm eradication and wound healing.|https://dx.doi.org/10.1039/d3tb02040a

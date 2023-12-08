@@ -5,3 +5,4 @@ Nasal staphylococci microbiota and resistome in healthy adults in La Rioja, nort
 Use of nares swab to de-escalate vancomycin for patients with suspected methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1017/ash.2023.444
 Associated factors for bacterial colonization in patients admitted to the intensive care unit of the Clinical Hospital of Infectious Diseases.|https://dx.doi.org/10.18683/germs.2023.1362
 Molecular characterisation of Staphylococcus aureus in school-age children in Guangzhou: associations among agr types, virulence genes, sequence types, and antibiotic resistant phenotypes.|https://dx.doi.org/10.1186/s12866-023-03126-y
+Staphylococcus aureus lysate induces an IgE response via memory B cells in nasal polyps.|https://dx.doi.org/10.1016/j.jaci.2023.10.033
