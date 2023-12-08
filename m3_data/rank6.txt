@@ -1,2 +1,0 @@
-Clostridioides difficile utilizes siderophores as an iron source and FhuDBGC contributes to ferrichrome uptake.|https://dx.doi.org/10.1128/jb.00324-23
-A phase 3 study evaluating the lot consistency, immunogenicity, safety, and tolerability of a Clostridioides difficile vaccine in healthy adults 65 to 85 years of age.|https://dx.doi.org/10.1016/j.vaccine.2023.11.003

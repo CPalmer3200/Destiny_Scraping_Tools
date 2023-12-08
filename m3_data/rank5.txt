@@ -1,8 +1,0 @@
-Vancomycin resistant enterococcus risk factors for hospital colonization in hematological patients: a matched case-control study.|https://dx.doi.org/10.1186/s13756-023-01332-x
-Australian Group on Antimicrobial Resistance (AGAR) Australian Enterococcal Surveillance Outcome Program (AESOP) Bloodstream Infection Annual Report 2022.|https://dx.doi.org/10.33321/cdi.2023.47.68
-Australian Group on Antimicrobial Resistance (AGAR) Australian Staphylococcus aureus Surveillance Outcome Program (ASSOP) Bloodstream Infection Annual Report 2022.|https://dx.doi.org/10.33321/cdi.2023.47.67
-The absence of surface D-alanylation, localized on lipoteichoic acid, impacts the Clostridioides difficile way of life and antibiotic resistance.|https://dx.doi.org/10.3389/fmicb.2023.1267662
-Diarrheal woes in transplantation from real world settings with special focus on clostridium difficile infection.|https://dx.doi.org/10.1016/j.mjafi.2023.09.001
-Multi-omics analysis of hospital-acquired diarrhoeal patients reveals biomarkers of enterococcal proliferation and Clostridioides difficile infection.|https://dx.doi.org/10.1038/s41467-023-43671-8
-Early diagnosis of monomicrobial Clostridioides difficile bacteremia in a patient without colitis.|https://dx.doi.org/10.3138/jammi-2022-0014
-Fecal Pharmacokinetics and Gut Microbiome Effects of Oral Omadacycline versus Vancomycin in Healthy Volunteers.|https://dx.doi.org/10.1093/infdis/jiad537
