@@ -147,3 +147,19 @@ Population pharmacokinetics and target attainment analysis of vancomycin after i
 Comparative evaluation of small molecules reported to be inhibitors of Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1128/spectrum.03147-23
 Staphylococcus aureus β-hemolysin causes skin inflammation by acting as an agonist of epidermal growth factor receptor.|https://dx.doi.org/10.1128/spectrum.02227-23
 Covalent bonding of quaternary ammonium compounds and zwitterionic polymer functional layers on polydimethylsiloxane against Escherichia Coli adhesion.|https://dx.doi.org/10.1177/08853282231219063
+Preparation and Activity of Hemostatic and Antibacterial Dressings with Greige Cotton/Zeolite Formularies Having Silver and Ascorbic Acid Finishes.|https://dx.doi.org/10.3390/ijms242317115
+Antibacterial and Cytotoxic Study of Hybrid Films Based on Polypropylene and NiO or NiFe(2)O(4) Nanoparticles.|https://dx.doi.org/10.3390/ijms242317052
+Studying the Functional Potential of Ground Ivy (Glechoma hederacea L.) Extract Using an In Vitro Methodology.|https://dx.doi.org/10.3390/ijms242316975
+Characterization of the Novel Leaderless Bacteriocin, Bawcin, from Bacillus wiedmannii.|https://dx.doi.org/10.3390/ijms242316965
+Antibacterial and Photocatalytic Activity of ZnO/Au and ZnO/Ag Nanocomposites.|https://dx.doi.org/10.3390/ijms242316939
+The sprT Gene of Bacillus velezensis FZB42 Is Involved in Biofilm Formation and Bacilysin Production.|https://dx.doi.org/10.3390/ijms242316815
+3D-Printed Antibacterial Scaffolds for the Regeneration of Alveolar Bone in Severe Periodontitis.|https://dx.doi.org/10.3390/ijms242316754
+Enhancing the Antimicrobial Properties of Peptides through Cell-Penetrating Peptide Conjugation: A Comprehensive Assessment.|https://dx.doi.org/10.3390/ijms242316723
+Bioactive Polyketides from the Natural Complex of the Sea Urchin-Associated Fungi Penicillium sajarovii KMM 4718 and Aspergillus protuberus KMM 4747.|https://dx.doi.org/10.3390/ijms242316568
+The Synergistic Effect of Biosynthesized Silver Nanoparticles and Phytocompound as a Novel Approach to the Elimination of Pathogens.|https://dx.doi.org/10.3390/molecules28237921
+Two Antimicrobial Peptides Derived from Bacillus and Their Properties.|https://dx.doi.org/10.3390/molecules28237899
+Antibacterial Activity and Untargeted Metabolomics Profiling of Acalypha arvensis Poepp.|https://dx.doi.org/10.3390/molecules28237882
+Synthesis and Antibacterial Activity of Novel Triazolo[4,3-a]pyrazine Derivatives.|https://dx.doi.org/10.3390/molecules28237876
+Phytochemical and Nutraceutical Screening of Ethanol and Ethyl Acetate Phases of Romanian Galium verum Herba (Rubiaceae).|https://dx.doi.org/10.3390/molecules28237804
+The Characterization and Study of Antibacterial, Free Radical Scavenging, and Anticancer Potential of Livistona chinensis-Mediated Silver Nanoparticles.|https://dx.doi.org/10.3390/molecules28237773
+HPLC-DAD Analysis, SFE-CO(2) Extraction, and Antibacterial Activity on Bioactive Compounds from Mosla chinensis Maxim.|https://dx.doi.org/10.3390/molecules28237724

@@ -6,3 +6,5 @@ Use of nares swab to de-escalate vancomycin for patients with suspected methicil
 Associated factors for bacterial colonization in patients admitted to the intensive care unit of the Clinical Hospital of Infectious Diseases.|https://dx.doi.org/10.18683/germs.2023.1362
 Molecular characterisation of Staphylococcus aureus in school-age children in Guangzhou: associations among agr types, virulence genes, sequence types, and antibiotic resistant phenotypes.|https://dx.doi.org/10.1186/s12866-023-03126-y
 Staphylococcus aureus lysate induces an IgE response via memory B cells in nasal polyps.|https://dx.doi.org/10.1016/j.jaci.2023.10.033
+Anti-Bordetella bronchiseptica effects of targeted bacteriophages via microbiome and metabolic mediated mechanisms.|https://dx.doi.org/10.1038/s41598-023-49248-1
+Tissue-resident memory T cells exhibit phenotypically and functionally heterogeneous in human physiological and pathological nasal mucosa.|https://dx.doi.org/10.1016/j.clim.2023.109860

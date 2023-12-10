@@ -168,3 +168,23 @@ Large-Scale Scientific Study Led by a Professional Organization during the COVID
 Lived Experiences of Hospitalized Patients With Coronavirus Disease at Tibebe Ghion Comprehensive Specialized Hospital, Bahir Dar, North West Ethiopia, A Phenomenological Study.|https://dx.doi.org/10.1097/DCC.0000000000000617
 Impact of COVID-19 on Quality of Life After Hospital Discharge in Patients Treated With Noninvasive Ventilation/Continuous Positive Airway Pressure: An Observational, Prospective Multicenter Study.|https://dx.doi.org/10.1097/DCC.0000000000000614
 Erratum for Liu et al., "Ubiquitination of SARS-CoV-2 ORF7a Prevents Cell Death Induced by Recruiting BclXL To Activate ER Stress".|https://dx.doi.org/10.1128/spectrum.03670-23
+Generation and Characterization of Monoclonal Antibodies against Swine Acute Diarrhea Syndrome Coronavirus Spike Protein.|https://dx.doi.org/10.3390/ijms242317102
+COVID-19 in Children: Molecular Profile and Pathological Features.|https://dx.doi.org/10.3390/ijms242316750
+A Prospective Comparison of Standard and Modified Acute Malnutrition Treatment Protocols during COVID-19 in South Sudan.|https://dx.doi.org/10.3390/nu15234853
+Effectiveness of Antiviral Therapy on Long COVID: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm12237375
+Using Multi-Modal Electronic Health Record Data for the Development and Validation of Risk Prediction Models for Long COVID Using the Super Learner Algorithm.|https://dx.doi.org/10.3390/jcm12237313
+Prevalence and Antimicrobial Resistance Patterns of Hospital Acquired Infections through the COVID-19 Pandemic: Real-Word Data from a Tertiary Urological Centre.|https://dx.doi.org/10.3390/jcm12237278
+The Calm after the Storm: A State-of-the-Art Review about Recommendations Put Forward during the COVID-19 Pandemic to Improve Chronic Pain Management.|https://dx.doi.org/10.3390/jcm12237233
+A Meta-Analysis of the Global Stillbirth Rates during the COVID-19 Pandemic.|https://dx.doi.org/10.3390/jcm12237219
+Feedback on the Implementation of a Rapid and Connectable Point-of-Care COVID-19 Antigen Test in an Emergency Department.|https://dx.doi.org/10.3390/diagnostics13233508
+The risk of pet animals in spreading severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and public health importance: An updated review.|https://dx.doi.org/10.1002/vms3.1320
+Reducing sick leave, improving work ability, and quality of life in patients with mild to moderate Long COVID through psychosocial, physiotherapeutic, and nutritive supportive digital intervention (MiLoCoDaS): study protocol for a randomized controlled trial.|https://dx.doi.org/10.1186/s13063-023-07819-7
+Geographical and practical challenges in the implementation of digital health passports for cross-border COVID-19 pandemic management: a narrative review and framework for solutions.|https://dx.doi.org/10.1186/s12992-023-00998-7
+Anxiety, depression, and their comorbidity among Chinese college students during the COVID-19 lockdown in the post-epidemic era: an online cross-sectional survey.|https://dx.doi.org/10.1186/s12888-023-05442-z
+Epidemiological features of SARS-CoV-2 Omicron infection under new control strategy: a cross-sectional study of the outbreak since December 2022 in Sichuan, China.|https://dx.doi.org/10.1186/s12889-023-17361-5
+Vaccine Effectiveness Against SARS-CoV-2 Related Hospitalizations in People who had Experienced Homelessness or Incarceration - Findings from the Minnesota EHR Consortium.|https://dx.doi.org/10.1007/s10900-023-01308-3
+Genomic surveillance of SARS-CoV-2 reveals highest severity and mortality of delta over other variants: evidence from Cameroon.|https://dx.doi.org/10.1038/s41598-023-48773-3
+Changes in Commercial Insurance Claims for Contraceptive Services During the Beginning of the COVID-19 Pandemic-United States, January 2019-September 2020.|https://dx.doi.org/10.1016/j.whi.2023.10.004
+Into the dark serum proteome: personalized features of IgG1 and IgA1 repertoires in severe COVID-19 patients.|https://dx.doi.org/10.1016/j.mcpro.2023.100690
+The impact of COVID-19 on microbiological profile and antibiotic consumption in ICU: a retrospective study in an infectious disease hospital in Brazil.|https://dx.doi.org/10.1016/j.bjid.2023.103705
+Built Environment and SARS-CoV-2 Transmission in Long-Term Care Facilities: Cross-Sectional Survey and Data Linkage.|https://dx.doi.org/10.1016/j.jamda.2023.10.027

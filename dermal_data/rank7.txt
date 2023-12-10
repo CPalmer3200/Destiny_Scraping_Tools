@@ -2,3 +2,4 @@ Cyanidin-3-O-glucoside and its derivative vitisin A alleviate androgenetic alope
 Serratia marcescens causing recurrent superficial skin infections in an immunosuppressed patient.|https://dx.doi.org/10.1002/ski2.283
 Inhibitory Effects of Latilactobacillus curvatus BYB3 Cell-Free Extract on Human Melanoma B16F10 Cells and Tumorigenic Mice.|https://dx.doi.org/10.4014/jmb.2309.09002
 Exploring the Antibacterial Potential of Semisynthetic Phytocannabinoid: Tetrahydrocannabidiol (THCBD) as a Potential Antibacterial Agent against Sensitive and Resistant Strains of Staphylococcus aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00154
+A minimally invasive, field-applicable CRISPR/Cas biosensor to aid in the detection of Pseudogymnoascus destructans, the causative fungal agent of white-nose syndrome in bats.|https://dx.doi.org/10.1111/1755-0998.13902

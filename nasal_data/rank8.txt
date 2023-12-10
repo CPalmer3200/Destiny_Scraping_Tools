@@ -145,3 +145,19 @@ Elevated Hemoglobin A1c and the Risk of Postoperative Complications in Elective 
 Scanning electron microscopic features of lacrimal drainage silastic stents: Comparison of various Crawford and large-diameter stents.|https://dx.doi.org/10.1371/journal.pone.0295285
 Hard-to-heal peripheral wounds infected with Corynebacterium striatum: a prospective study.|https://dx.doi.org/10.12968/jowc.2023.32.12.811
 Gender-affirming care in urology: Emergency care of the gender affirming surgical (GAS) patient - What the primary urologist needs to know.|https://dx.doi.org/10.1111/bju.16249
+Effect of rapid rehabilitation care on surgical site wound infection and pain in patients with intertrochanteric femoral fractures: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14540
+Viremia and nasal shedding for the diagnosis of equine herpesvirus-1 infection in domesticated horses.|https://dx.doi.org/10.1111/jvim.16958
+Effect of laparoscopic-assisted transvaginal hysterectomy on wound complications in patients with early stage cervical cancer: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14529
+A minimally invasive, field-applicable CRISPR/Cas biosensor to aid in the detection of Pseudogymnoascus destructans, the causative fungal agent of white-nose syndrome in bats.|https://dx.doi.org/10.1111/1755-0998.13902
+Comprehensive analysis of risk factors and pathogenetic characteristics associated with surgical site infections following craniotomy procedures.|https://dx.doi.org/10.1111/iwj.14550
+Interactions of Neutrophils with the Polymeric Molecular Components of the Biofilm Matrix in the Context of Implant-Associated Bone and Joint Infections.|https://dx.doi.org/10.3390/ijms242317042
+Lacticaseibacillus rhamnosus CRL1505 Peptidoglycan Modulates the Inflammation-Coagulation Response Triggered by Poly(I:C) in the Respiratory Tract.|https://dx.doi.org/10.3390/ijms242316907
+Towards a Long-Read Sequencing Approach for the Molecular Diagnosis of RPGR(ORF15) Genetic Variants.|https://dx.doi.org/10.3390/ijms242316881
+Identification of the Major Protein Components of Human and Cow Saliva.|https://dx.doi.org/10.3390/ijms242316838
+Biofilms in Periprosthetic Orthopedic Infections Seen through the Eyes of Neutrophils: How Can We Help Neutrophils?|https://dx.doi.org/10.3390/ijms242316669
+A Modified Technique for Two-Stage Revision in Knee PJI Treatment.|https://dx.doi.org/10.3390/jcm12237323
+Efficacy of Human Papillomavirus Vaccines for Recalcitrant Anogenital and Oral Warts.|https://dx.doi.org/10.3390/jcm12237317
+A New Method for Assessing Patients' Obesity-Associated Infection Risk Using X-rays in Hip Arthroplasties.|https://dx.doi.org/10.3390/jcm12237277
+Obstructed Hemivagina with Ipsilateral Renal Agenesis: A Challenging Case Report and a Management Flow Chart.|https://dx.doi.org/10.3390/jcm12237227
+Isolated Intramural Hematoma of Superior Mesenteric Artery: Case Reports and a Review of Literature.|https://dx.doi.org/10.3390/diagnostics13233581
+Lipid Profile Paradox: Investigating Improved Lipid Levels in Diabetic Mellitus Patients with Foot Ulcer Infections-A Prospective Descriptive Study.|https://dx.doi.org/10.3390/diagnostics13233531

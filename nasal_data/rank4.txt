@@ -89,3 +89,12 @@ Gamified antimicrobial decision support app (GADSA) changes antibiotics prescrip
 Dried blood spot analysis for the quantification of vancomycin and creatinine using liquid chromatography - tandem mass spectrometry: method development and validation.|https://dx.doi.org/10.1016/j.cca.2023.117689
 Antenatal care booked rural residence women have home delivery during the era of COVID-19 pandemic in Gidan District, Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0295220
 Case report: A pregnant woman with Crohn disease who used ustekinumab to the 3rd trimester developed severe infection.|https://dx.doi.org/10.1097/MD.0000000000036253
+Sodium Content in Pre-Packaged Foods in China: A Food Label Analysis.|https://dx.doi.org/10.3390/nu15234862
+Risk Factors Associated with Postoperative Outcomes in Diverticular Disease Undergoing Elective Colectomy-A Retrospective Cohort Study from the ACS-NSQIP Database.|https://dx.doi.org/10.3390/jcm12237338
+Mycobacterial Infection in Recalcitrant Otomastoiditis: A Case Series and Literature Review.|https://dx.doi.org/10.3390/jcm12237279
+Cerebellar Abscess Secondary to Cholesteatomatous Otomastoiditis-An Old Enemy in New Times.|https://dx.doi.org/10.3390/diagnostics13233566
+Quick diagnostic approach for HIV/STDs among migrants: results from a monocentric Italian cohort.|https://dx.doi.org/10.3855/jidc.18317
+Improving Antimicrobial Stewardship Program Using the Lean Six Sigma Methodology: A Descriptive Study from Mediclinic Welcare Hospital in Dubai, the UAE.|https://dx.doi.org/10.3390/healthcare11233048
+Part II: Blood Transfusion and Donor Exposure in the Surgical Management of Trigonocephaly Patients: A Protocol From Alder Hey Craniofacial Unit.|https://dx.doi.org/10.1097/SCS.0000000000009878
+Human cytomegalovirus-related gastrointestinal disease after kidney transplantation: A systematic review.|https://dx.doi.org/10.1111/ctr.15218
+[Expert consensus on diagnosis and treatment of severe COVID-19 associated with pulmonary aspergillus and mucormycosis].|https://dx.doi.org/10.3760/cma.j.cn112147-20230823-00098

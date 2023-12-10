@@ -1,3 +1,5 @@
 Whole genome sequence and comparative genomics analysis of multidrug-resistant Staphylococcus xylosus NM36 isolated from a cow with mastitis in Basrah city.|https://dx.doi.org/10.1186/s43141-023-00606-6
 Structure-activity relationship of drug conjugated polymeric materials against uropathogenic bacteria colonization under in vitro and in vivo settings.|https://dx.doi.org/10.1039/d3tb01841e
 Chitosan-based topical formulation integrated with green-synthesized silver nanoparticles utilizing Camellia sinensis leaf extracts: A promising approach for managing infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128573
+Recent advances in single-cell engineered live biotherapeutic products research for skin repair and disease treatment.|https://dx.doi.org/10.1038/s41522-023-00463-8
+A novel approach to expedite wound healing with plasma brush of cold flame.|https://dx.doi.org/10.1063/5.0096969
