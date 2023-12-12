@@ -8,3 +8,20 @@ Rising threats of hospital-borne multidrug resistant Stenotrophomonas maltophili
 Effect of Pharmacoprophylaxis on Postoperative Outcomes in Adult Elective Colorectal Surgery: A Multi-Center Retrospective Cohort Study within an Enhanced Recovery after Surgery Framework.|https://dx.doi.org/10.3390/healthcare11233060
 Metaproteomic assessment of gut microbial and host functional perturbations in Helicobacter pylori-infected patients subjected to an antimicrobial protocol.|https://dx.doi.org/10.1080/19490976.2023.2291170
 Antigiardial and antiamebic activities of fexinidazole and its metabolites: new drug leads for giardiasis and amebiasis.|https://dx.doi.org/10.1128/aac.00731-23
+Exploring the antimicrobial potential of 4,5,7-trihydroxyflavanone (THF) against vancomycin-resistant Enterococcus gallinarum infections: in vitro and in silico investigations.|https://dx.doi.org/10.1080/07391102.2023.2291833
+Antibiotic Prophylaxis for Grade 3 Open Fractures: A Retrospective Comparison of Ceftriaxone Plus Vancomycin Versus Cefazolin Plus Gentamicin.|https://dx.doi.org/10.1089/sur.2023.137
+Antibiotic resistance in patients with liver cirrhosis: Prevalence and current approach to tackle.|https://dx.doi.org/10.12998/wjcc.v11.i31.7530
+Bismuth Subcitrate, Metronidazole and Tetracycline - A Rare Cause of Drug-Induced Liver Injury.|https://dx.doi.org/10.12890/2023_004119
+Tetanus Following Canine Bite in Japan: A Case Report and Literature Review.|https://dx.doi.org/10.2147/IDR.S442279
+The evolution of diverse antimicrobial responses in vancomycin-intermediate Staphylococcus aureus and its therapeutic implications.|https://dx.doi.org/10.1101/2023.11.30.569373
+Case report: Fatal Legionella infection diagnosed via by metagenomic next-generation sequencing in a patient with chronic myeloid leukemia.|https://dx.doi.org/10.3389/fmed.2023.1266895
+Microbacterium spp. peritonitis in patients undergoing peritoneal dialysis: a single-center experience and literature review.|https://dx.doi.org/10.3389/fmed.2023.1297296
+Draft genome sequencing data of Enterococcus faecium BT22, a vancomycin-resistant opportunistic pathogen isolated from hospital effluents.|https://dx.doi.org/10.1016/j.dib.2023.109664
+Blood Stream Infections in COVID-19 Patients From a Tertiary Care Center in Lebanon: Causative Pathogens and Rates of Multi-Drug Resistant Organisms.|https://dx.doi.org/10.1016/j.mayocpiqo.2023.10.001
+The role of long-acting antibiotics in the clinical practice: a narrative review.|https://dx.doi.org/10.53854/liim-3104-4
+Case report: Two case reports of cryptogenic brain abscess caused by Fusobacterium nucleatum and literature review.|https://dx.doi.org/10.3389/fnins.2023.1248493
+Rapid diagnostic work-up of Streptococcus dysgalactiae endophthalmitis by a novel culture processing system.|https://dx.doi.org/10.1099/acmi.0.000645.v3
+Effectiveness of Bio-K+ for the prevention of Clostridioides difficile infection: Stepped-wedge cluster-randomized controlled trial.|https://dx.doi.org/10.1017/ice.2023.169
+P450-Modified Multicyclic Cyclophane-Containing Ribosomally Synthesized and Post-Translationally Modified Peptides.|https://dx.doi.org/10.1002/anie.202314046
+A dual mechanism with H(2)S inhibition and membrane damage of morusin from Morus alba Linn. against MDR-MRSA.|https://dx.doi.org/10.1016/j.bmc.2023.117544
+Does topical vancomycin prevent fracture-related infections in closed fractures undergoing open reduction and internal fixation? A randomised controlled trial.|https://dx.doi.org/10.1016/j.cjtee.2023.11.006

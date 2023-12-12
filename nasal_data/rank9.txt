@@ -163,3 +163,20 @@ Synthesis and Antibacterial Activity of Novel Triazolo[4,3-a]pyrazine Derivative
 Phytochemical and Nutraceutical Screening of Ethanol and Ethyl Acetate Phases of Romanian Galium verum Herba (Rubiaceae).|https://dx.doi.org/10.3390/molecules28237804
 The Characterization and Study of Antibacterial, Free Radical Scavenging, and Anticancer Potential of Livistona chinensis-Mediated Silver Nanoparticles.|https://dx.doi.org/10.3390/molecules28237773
 HPLC-DAD Analysis, SFE-CO(2) Extraction, and Antibacterial Activity on Bioactive Compounds from Mosla chinensis Maxim.|https://dx.doi.org/10.3390/molecules28237724
+Low Molecular Weight Shuttle Molecules Enhance Polychloramide Antimicrobial Activity.|https://dx.doi.org/10.1021/acs.biomac.3c01109
+The modification of nisin with homocysteine thiolactone and its effect on antimicrobial activity.|https://dx.doi.org/10.1007/s42770-023-01207-8
+Staphylococcus aureus functional amyloids catalyze degradation of β-lactam antibiotics.|https://dx.doi.org/10.1038/s41467-023-43624-1
+Ring-opening metathesis polymerization of N-methylpyridinium-fused norbornenes to access antibacterial main-chain cationic polymers.|https://dx.doi.org/10.1073/pnas.2311396120
+Unveiling the molecular interactions and antimicrobial activity of cetyl pyridinium bromide in ternary systems with short tetraalkylammonium bromide salts.|https://dx.doi.org/10.1080/07391102.2023.2291540
+Enhancement of bactericidal effects of bacteriophage and gentamicin combination regimen against Staphylococcus aureus and Pseudomonas aeruginosa strains in a mice diabetic wound model.|https://dx.doi.org/10.1007/s11262-023-02037-4
+Correction to: Comparative effectiveness of β-lactams for empirical treatment of methicillin-susceptible Staphylococcus aureus bacteraemia: a prospective cohort study.|https://dx.doi.org/10.1093/jac/dkad385
+Giant lung cavity due to three different pathogens in a patient receiving inhaled salmeterol plus fluticasone propionate for asthma.|https://dx.doi.org/10.1080/02770903.2023.2293069
+Food grade disinfectants based on hydrogen peroxide/peracetic acid and sodium hypochlorite interfere with the adhesion of Escherichia coli, Pseudomonas aeruginosa, Staphylococcus aureus and Listeria monocytogenes to stainless steel of differing surface roughness.|https://dx.doi.org/10.1080/08927014.2023.2288886
+Development and validation of a large animal ovine model for implant-associated spine infection using biofilm based inocula.|https://dx.doi.org/10.1016/j.bioflm.2023.100138
+To Evaluate and Compare the Antimicrobial Efficacy of Various Disinfecting Agents on K-file against Gram-positive and Gram-negative Bacteria of Endodontic Origin: An In Vitro Study.|https://dx.doi.org/10.5005/jp-journals-10005-2646
+Pediatric Mycotic Pseudoaneurysm of the Ascending Aorta: A Case Report.|https://dx.doi.org/10.2147/IDR.S441449
+Nrf2/PHB2 alleviates mitochondrial damage and protects against Staphylococcus aureus-induced acute lung injury.|https://dx.doi.org/10.1002/mco2.448
+In situ lipidomics of Staphylococcus aureus osteomyelitis using imaging mass spectrometry.|https://dx.doi.org/10.1101/2023.12.01.569690
+Social Vulnerability and Surgery Outcomes: A Cross-sectional Analysis.|https://dx.doi.org/10.21203/rs.3.rs-3580911/v1
+Rapid detection of antimicrobial resistance in methicillin-resistant Staphylococcus aureus using MALDI-TOF mass spectrometry.|https://dx.doi.org/10.3389/fcimb.2023.1281155
+Burden of infectious diseases and bacterial antimicrobial resistance in China: a systematic analysis for the global burden of disease study 2019.|https://dx.doi.org/10.1016/j.lanwpc.2023.100972

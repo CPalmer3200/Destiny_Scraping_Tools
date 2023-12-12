@@ -8,3 +8,5 @@ Exudate-induced Gelatinizable Nanofiber Membrane with High Exudate Absorption An
 Photothermal synergistic nitric oxide controlled release injectable self-healing adhesive hydrogel for biofilm eradication and wound healing.|https://dx.doi.org/10.1039/d3tb02040a
 Preparation and Activity of Hemostatic and Antibacterial Dressings with Greige Cotton/Zeolite Formularies Having Silver and Ascorbic Acid Finishes.|https://dx.doi.org/10.3390/ijms242317115
 In vitro and in vivo studies of Dragon's blood plant (D. cinnabari)-loaded electrospun chitosan/PCL nanofibers: Cytotoxicity, antibacterial, and wound healing activities.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128634
+To Evaluate and Compare the Antimicrobial Efficacy of Various Disinfecting Agents on K-file against Gram-positive and Gram-negative Bacteria of Endodontic Origin: An In Vitro Study.|https://dx.doi.org/10.5005/jp-journals-10005-2646
+Assessment of antibiotic release and antibacterial efficacy from pendant glutathione hydrogels using ex vivo porcine skin.|https://dx.doi.org/10.1016/j.jconrel.2023.12.008

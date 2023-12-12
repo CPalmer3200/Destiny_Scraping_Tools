@@ -9,3 +9,5 @@ Bloodstream Infections in Children Hospitalized for Influenza, the Canadian Immu
 Glucomannan enhanced the macrophage activity in exposure to methicillin-resistant Staphylococcus aureus (MRSA): in-vitro study.|https://dx.doi.org/10.18502/ijm.v15i4.13510
 The epidemiology of superficial Streptococcal A (impetigo and pharyngitis) infections in Australia: A systematic review.|https://dx.doi.org/10.1371/journal.pone.0288016
 A blueprint for a multi-disease, multi-domain Bayesian adaptive platform trial incorporating adult and paediatric subgroups: the Staphylococcus aureus Network Adaptive Platform trial.|https://dx.doi.org/10.1186/s13063-023-07718-x
+Nasal instillation of povidone-iodine ameliorates ongoing mucosal inflammation in a pre-sensitized murine model of Der p1-induced allergic rhinitis.|https://dx.doi.org/10.1002/alr.23308
+Antibiotic resistance in patients with liver cirrhosis: Prevalence and current approach to tackle.|https://dx.doi.org/10.12998/wjcc.v11.i31.7530

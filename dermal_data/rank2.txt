@@ -4,3 +4,6 @@ Management of diabetic foot ulcers using topical probiotics in a soybean-based c
 Lipid Profile Paradox: Investigating Improved Lipid Levels in Diabetic Mellitus Patients with Foot Ulcer Infections-A Prospective Descriptive Study.|https://dx.doi.org/10.3390/diagnostics13233531
 A Review of Phage Therapy for Bone and Joint Infections.|https://dx.doi.org/10.1007/978-1-0716-3523-0_14
 Bacteriophage Treatment of Infected Diabetic Foot Ulcers.|https://dx.doi.org/10.1007/978-1-0716-3523-0_13
+Enhancement of bactericidal effects of bacteriophage and gentamicin combination regimen against Staphylococcus aureus and Pseudomonas aeruginosa strains in a mice diabetic wound model.|https://dx.doi.org/10.1007/s11262-023-02037-4
+Prognostic Value of Wagner Grade and Platelet Level in Diabetics with Infected Foot Ulcers After Antibiotic Therapy.|https://dx.doi.org/10.2147/IDR.S436869
+Healing rate comparison of revascularized and non-revascularized diabetic foot ulcers with peripheral arterial disease.|https://dx.doi.org/10.1016/j.sopen.2023.11.008

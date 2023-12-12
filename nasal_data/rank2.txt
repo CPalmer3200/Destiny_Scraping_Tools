@@ -8,3 +8,4 @@ Molecular characterisation of Staphylococcus aureus in school-age children in Gu
 Staphylococcus aureus lysate induces an IgE response via memory B cells in nasal polyps.|https://dx.doi.org/10.1016/j.jaci.2023.10.033
 Anti-Bordetella bronchiseptica effects of targeted bacteriophages via microbiome and metabolic mediated mechanisms.|https://dx.doi.org/10.1038/s41598-023-49248-1
 Tissue-resident memory T cells exhibit phenotypically and functionally heterogeneous in human physiological and pathological nasal mucosa.|https://dx.doi.org/10.1016/j.clim.2023.109860
+Predictive value of methicillin-resistant Staphylococcus aureus (MRSA) nasal swab PCR assay for MRSA infection in critically ill pediatric patients.|https://dx.doi.org/10.1093/jpids/piad111

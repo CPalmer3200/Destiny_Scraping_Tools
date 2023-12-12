@@ -98,3 +98,20 @@ Improving Antimicrobial Stewardship Program Using the Lean Six Sigma Methodology
 Part II: Blood Transfusion and Donor Exposure in the Surgical Management of Trigonocephaly Patients: A Protocol From Alder Hey Craniofacial Unit.|https://dx.doi.org/10.1097/SCS.0000000000009878
 Human cytomegalovirus-related gastrointestinal disease after kidney transplantation: A systematic review.|https://dx.doi.org/10.1111/ctr.15218
 [Expert consensus on diagnosis and treatment of severe COVID-19 associated with pulmonary aspergillus and mucormycosis].|https://dx.doi.org/10.3760/cma.j.cn112147-20230823-00098
+Transferring inpatients between wards drives large nosocomial COVID-19 outbreaks, Wales, United Kingdom, 2020-22: a matched case-control study using routine and enhanced surveillance data.|https://dx.doi.org/10.1016/j.jhin.2023.11.014
+Contextual Factors to Improve Implementation of Malaria Chemoprevention in Children: A Systematic Review.|https://dx.doi.org/10.4269/ajtmh.23-0478
+Systematic Review and Meta-Analysis of Seasonal Malaria Chemoprevention.|https://dx.doi.org/10.4269/ajtmh.23-0481
+Antibiotic Prophylaxis for Grade 3 Open Fractures: A Retrospective Comparison of Ceftriaxone Plus Vancomycin Versus Cefazolin Plus Gentamicin.|https://dx.doi.org/10.1089/sur.2023.137
+[Incisional hernias: epidemiology, evidence and guidelines].|https://dx.doi.org/10.1007/s00104-023-01999-3
+Optimal management of severe mpox in patients with uncontrolled human immunodeficiency virus.|https://dx.doi.org/10.1002/jmv.29277
+Incidence of Hyperlipidemia among Adults Initiating Antiretroviral Therapy in the HIV Outpatient Study (HOPS), USA, 2007-2021.|https://dx.doi.org/10.1155/2023/4423132
+The evolution of diverse antimicrobial responses in vancomycin-intermediate Staphylococcus aureus and its therapeutic implications.|https://dx.doi.org/10.1101/2023.11.30.569373
+Application of in-situ casted ZnO-starch nanocomposite for packaging of strawberries (Fragaria x ananassa).|https://dx.doi.org/10.1016/j.heliyon.2023.e22556
+Prevention of implant-associated spinal infections: the GAID-protocol.|https://dx.doi.org/10.3389/fsurg.2023.1308213
+Evaluating the Effectiveness of Conventional Prostheses Against Dual-Mobility Prostheses in the Treatment of Femoral Neck Fractures in Two Separate Groups of Patients: A Clinical Trial Study.|https://dx.doi.org/10.4103/abr.abr_108_23
+Healthcare workers' compliance with the catheter associated urinary tract infection prevention guidelines: an observational study in Yemen.|https://dx.doi.org/10.1186/s13756-023-01352-7
+Modeling the impacts of antiviral prophylaxis strategies in mitigating seasonal influenza outbreaks in nursing homes.|https://dx.doi.org/10.1093/cid/ciad764
+Systematic Review and Meta-analysis of Minimally Invasive Procedures for Surgical Inguinal Nodal Staging in Penile Carcinoma.|https://dx.doi.org/10.1016/j.euf.2023.11.010
+Identification and Management of Acute Neuromuscular Respiratory Failure in the ICU.|https://dx.doi.org/10.1016/j.chest.2023.09.009
+Omega-3 fatty acid supply in pregnancy for risk reduction of preterm and early preterm birth.|https://dx.doi.org/10.1016/j.ajogmf.2023.101251
+Utilization of cardiac tests in anthracycline-treated cancer survivors differs between young adults and children: A claims-based analysis.|https://dx.doi.org/10.1002/cam4.6801

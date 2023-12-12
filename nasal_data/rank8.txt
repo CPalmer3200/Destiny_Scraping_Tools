@@ -161,3 +161,16 @@ A New Method for Assessing Patients' Obesity-Associated Infection Risk Using X-r
 Obstructed Hemivagina with Ipsilateral Renal Agenesis: A Challenging Case Report and a Management Flow Chart.|https://dx.doi.org/10.3390/jcm12237227
 Isolated Intramural Hematoma of Superior Mesenteric Artery: Case Reports and a Review of Literature.|https://dx.doi.org/10.3390/diagnostics13233581
 Lipid Profile Paradox: Investigating Improved Lipid Levels in Diabetic Mellitus Patients with Foot Ulcer Infections-A Prospective Descriptive Study.|https://dx.doi.org/10.3390/diagnostics13233531
+Comparative analysis of external locking plate and combined frame external fixator for open distal tibial fractures: a comprehensive assessment of clinical outcomes and financial implications.|https://dx.doi.org/10.1186/s12891-023-07097-z
+Ninety day adverse events following single level posterior lumbar interbody fusion in patients with sickle cell disease.|https://dx.doi.org/10.1016/j.spinee.2023.11.025
+Cross-contamination of carbapenem-resistant Gram-negative bacteria between patients and hospital environment in the first year of a newly built surgical ward.|https://dx.doi.org/10.1016/j.jhin.2023.11.016
+Extraarticular infection 9 years after Anterior Cruciate Ligament reconstruction. Case Report.|https://dx.doi.org/10.1016/j.jisako.2023.12.004
+Long term results (after a mean 11.3 years, and up to 22 years, of follow-up) of the Legacy Constrained Condylar Knee (LCCK™) in primary total knee arthroplasty.|https://dx.doi.org/10.1016/j.otsr.2023.103795
+Is weight trajectory a better marker of wound complication risk than BMI in hernia patients with obesity?|https://dx.doi.org/10.1007/s00464-023-10596-8
+Computed tomography-assessed presarcopenia and clinical outcomes after laparoscopic surgery for rectal cancer.|https://dx.doi.org/10.3393/ac.2023.00031.0004
+A Review of Surgical Irrigation Solutions for Infection Prevention in Orthopaedic Surgery.|https://dx.doi.org/10.2106/JBJS.RVW.23.00158
+Anterior Chest Wall Reconstruction After Separation of Thoraco-Omphalopagus Conjoined Twins With Cadaveric Rib Grafts and Omental Flap.|https://dx.doi.org/10.1097/SAP.0000000000003645
+Area Deprivation Index Predicts Mortality for Critically Ill Surgical Patients With Sepsis.|https://dx.doi.org/10.1089/sur.2023.232
+Intratumoral delivery of a Tim-3 antibody-encoding oncolytic adenovirus engages an effective antitumor immune response in liver cancer.|https://dx.doi.org/10.1007/s00432-023-05501-8
+Associated Risk Factors for Extended Operative Time Following Cranial Vault Remodeling for Craniosynostosis: Analysis of the 2012 to 2021 NSQIP-Pediatric Database.|https://dx.doi.org/10.1097/SCS.0000000000009920
+Role of the ortho-bridge system in the length unstable subtrochanteric femur fracture in school going children: a retrospective clinical study of 19 cases.|https://dx.doi.org/10.3389/fped.2023.1306076

@@ -188,3 +188,22 @@ Changes in Commercial Insurance Claims for Contraceptive Services During the Beg
 Into the dark serum proteome: personalized features of IgG1 and IgA1 repertoires in severe COVID-19 patients.|https://dx.doi.org/10.1016/j.mcpro.2023.100690
 The impact of COVID-19 on microbiological profile and antibiotic consumption in ICU: a retrospective study in an infectious disease hospital in Brazil.|https://dx.doi.org/10.1016/j.bjid.2023.103705
 Built Environment and SARS-CoV-2 Transmission in Long-Term Care Facilities: Cross-Sectional Survey and Data Linkage.|https://dx.doi.org/10.1016/j.jamda.2023.10.027
+Publisher Correction: Early corticosteroids are associated with lower mortality in critically ill patients with COVID‑19: a cohort study.|https://dx.doi.org/10.1186/s13054-023-04711-3
+Bile acids and bile acid activated receptors in the treatment of Covid-19.|https://dx.doi.org/10.1016/j.bcp.2023.115983
+Glucose Control During Breakthrough SARS-CoV-2 Infections in Vaccinated Patients With Type 1 Diabetes.|https://dx.doi.org/10.1016/j.diabres.2023.111044
+COVID-19 vaccination effectiveness in the population of Friuli Venezia Giulia, North-East Italy. Control of bias associated with divergent compliance to policies in a test-negative case-control study.|https://dx.doi.org/10.1186/s12889-023-17244-9
+COVID-19 vaccination strategies in settings with limited rollout capacity: a mathematical modelling case study in Sierra Leone.|https://dx.doi.org/10.1186/s12889-023-17374-0
+Negative impact of immunoparesis in response to anti-SARS-CoV-2 mRNA vaccination of patients with multiple myeloma.|https://dx.doi.org/10.1007/s12185-023-03680-1
+Comparing SARS-CoV-2 antigen-detection rapid diagnostic tests for COVID-19 self-testing/self-sampling with molecular and professional-use tests: a systematic review and meta-analysis.|https://dx.doi.org/10.1038/s41598-023-48892-x
+Effectiveness of COVID-19 vaccine mandates in raising vaccination rates among the elderly and general population in Europe: Controlled interrupted time series analysis.|https://dx.doi.org/10.1016/j.vaccine.2023.12.025
+Clinical Implications of Suspending and Altering Cardiac Rehabilitation Programs During the COVID-19 Pandemic.|https://dx.doi.org/10.1097/HCR.0000000000000840
+Risk factors for acute kidney injury in patients hospitalized with COVID-19.|https://dx.doi.org/10.1590/2175-8239-JBN-2023-0056en
+The American Academy of Microbiology discusses gain-of-function research of concern (GOFROC) and enhanced potential pandemic pathogens (ePPP).|https://dx.doi.org/10.1128/mbio.02761-23
+Sick leave due to SARS-CoV-2 infection.|https://dx.doi.org/10.1093/occmed/kqad140
+Lemierre's Syndrome Secondary to Shoulder Hematoma Complicated by COVID-19: A Case Report.|https://dx.doi.org/10.1177/01455613231215166
+Evaluation of Seroconversion Rate Following SARS COV 2 Vaccination in Health Care Workers at Shahid Beheshti University of Medical Sciences.|https://dx.doi.org/10.18502/ajmb.v15i4.13501
+A study of the relationship between social anxiety and mask-wearing intention among college students in the post-COVID-19 era: mediating effects of self-identity, impression management, and avoidance.|https://dx.doi.org/10.3389/fpsyg.2023.1287115
+A Cross-Sectional Analysis into the Willingness and Hesitancy to Test and Vaccinate Against COVID-19 Among the Elderly Population in the Kingdom of Saudi Arabia.|https://dx.doi.org/10.2147/PPA.S440821
+Lessons for TB from the COVID-19 response: qualitative data from Brazil, India and South Africa.|https://dx.doi.org/10.5588/pha.23.0044
+A pan-SARS-CoV-2-specific soluble angiotensin-converting enzyme 2-albumin fusion engineered for enhanced plasma half-life and needle-free mucosal delivery.|https://dx.doi.org/10.1093/pnasnexus/pgad403
+A 12-month follow-up of the immune response to SARS-CoV-2 primary vaccination: evidence from a real-world study.|https://dx.doi.org/10.3389/fimmu.2023.1272119

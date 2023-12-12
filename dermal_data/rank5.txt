@@ -3,3 +3,5 @@ Structure-activity relationship of drug conjugated polymeric materials against u
 Chitosan-based topical formulation integrated with green-synthesized silver nanoparticles utilizing Camellia sinensis leaf extracts: A promising approach for managing infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128573
 Recent advances in single-cell engineered live biotherapeutic products research for skin repair and disease treatment.|https://dx.doi.org/10.1038/s41522-023-00463-8
 A novel approach to expedite wound healing with plasma brush of cold flame.|https://dx.doi.org/10.1063/5.0096969
+A promising antibiotic candidate, brevinin-1 analogue 5R, against drug-resistant bacteria, with insights into its membrane-targeting mechanism.|https://dx.doi.org/10.1016/j.csbj.2023.11.031
+Utilizing the Photodynamic Properties of Curcumin to Disrupt Biofilms in Cutibacterium acnes: A Promising Approach for Treating Acne.|https://dx.doi.org/10.1016/j.pdpdt.2023.103928
