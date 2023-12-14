@@ -4,3 +4,4 @@ Inhibitory Effects of Latilactobacillus curvatus BYB3 Cell-Free Extract on Human
 Exploring the Antibacterial Potential of Semisynthetic Phytocannabinoid: Tetrahydrocannabidiol (THCBD) as a Potential Antibacterial Agent against Sensitive and Resistant Strains of Staphylococcus aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00154
 A minimally invasive, field-applicable CRISPR/Cas biosensor to aid in the detection of Pseudogymnoascus destructans, the causative fungal agent of white-nose syndrome in bats.|https://dx.doi.org/10.1111/1755-0998.13902
 Amphotericin B-loaded natural latex dressing for treating Candida albicans wound infections using Galleria mellonella model.|https://dx.doi.org/10.1016/j.jconrel.2023.12.010
+Effects of Poly-L-Lactic Acid on Adipogenesis and Collagen Gene Expression in Cultured Adipocytes Irradiated with Ultraviolet B Rays.|https://dx.doi.org/10.5021/ad.22.177

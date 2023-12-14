@@ -25,3 +25,21 @@ Effectiveness of Bio-K+ for the prevention of Clostridioides difficile infection
 P450-Modified Multicyclic Cyclophane-Containing Ribosomally Synthesized and Post-Translationally Modified Peptides.|https://dx.doi.org/10.1002/anie.202314046
 A dual mechanism with H(2)S inhibition and membrane damage of morusin from Morus alba Linn. against MDR-MRSA.|https://dx.doi.org/10.1016/j.bmc.2023.117544
 Does topical vancomycin prevent fracture-related infections in closed fractures undergoing open reduction and internal fixation? A randomised controlled trial.|https://dx.doi.org/10.1016/j.cjtee.2023.11.006
+Electrochemical and optical (bio)sensors for analysis of antibiotic residuals.|https://dx.doi.org/10.1016/j.foodchem.2023.138145
+Incidence of Antimicrobial-Associated Acute Kidney Injury in Children: A Structured Review.|https://dx.doi.org/10.1007/s40272-023-00607-5
+Frequency and Risk Factor Analysis for Metronidazole-Associated Neurologic Adverse Events.|https://dx.doi.org/10.1007/s11606-023-08566-w
+Association Between Common Empiric Antibiotic Regimens and Clostridioides Difficile Infection in Pediatric Appendicitis.|https://dx.doi.org/10.1016/j.jpedsurg.2023.10.065
+Shift in risk factors for mortality by period of the bloodstream infection timeline.|https://dx.doi.org/10.1016/j.jmii.2023.11.008
+Preoperative Transcatheter Arterial Embolization for Spontaneous Rupture of Huge Amebic Liver Abscess with Massive Intraperitoneal Hemorrhage.|https://dx.doi.org/10.3941/jrcr.v17i8.4837
+Emergence of Rapid-Onset Ototoxicity Following Three Doses of Vancomycin: A Unique Case Report in the Context of Normal Renal Function and Therapeutic Dosing.|https://dx.doi.org/10.7759/cureus.48647
+Molecular and Clinical Features of Heterogeneous Vancomycin-Intermediate Staphylococcus aureus in Tertiary Care Hospitals in South India.|https://dx.doi.org/10.18295/squmj.3.2023.018
+The Challenging Path to Diagnosing Extraintestinal Amoebiasis: A Case Report of an HIV-Infected Patient.|https://dx.doi.org/10.2147/IDR.S442075
+Antibiotic resistance of Helicobacter pylori in Nanjing, China: a cross-section study from 2018 to 2023.|https://dx.doi.org/10.3389/fcimb.2023.1294379
+Epidemiology of vancomycin-resistant enterococci in the United Arab Emirates: a retrospective analysis of 12 years of national AMR surveillance data.|https://dx.doi.org/10.3389/fpubh.2023.1275778
+Construction of antibiotic-induced depression mice model and the function of intestinal microbiota.|https://dx.doi.org/10.3389/fmicb.2023.1093486
+The role of the hospital bed in hospital-onset Clostridioides difficile: A retrospective study with mediation analysis.|https://dx.doi.org/10.1017/ice.2023.254
+Multidrug-resistant organisms may be associated with bed allocation and utilization efficiency in healthcare institutions, based on national monitoring data from China (2014-2020).|https://dx.doi.org/10.1038/s41598-023-49548-6
+Genomic insights into Enterococcus faecium isolates from marine bivalves highlight One Health concerns and healthcare linkages.|https://dx.doi.org/10.1099/mgen.0.001154
+A Boron-Dependent Antibiotic Derived from a Calcium-Dependent Antibiotic.|https://dx.doi.org/10.1002/anie.202317522
+Incidence, Patterns, and Characteristics of Patients With Acute Kidney Injury Requiring Renal Replacement Therapy in Cancer Settings.|https://dx.doi.org/10.7759/cureus.48627
+Updates on the Causes, Diagnosis, and Management of Peritoneal Abscesses: A Systematic Review.|https://dx.doi.org/10.7759/cureus.48601

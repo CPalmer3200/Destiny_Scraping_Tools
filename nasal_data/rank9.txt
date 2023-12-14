@@ -180,3 +180,20 @@ In situ lipidomics of Staphylococcus aureus osteomyelitis using imaging mass spe
 Social Vulnerability and Surgery Outcomes: A Cross-sectional Analysis.|https://dx.doi.org/10.21203/rs.3.rs-3580911/v1
 Rapid detection of antimicrobial resistance in methicillin-resistant Staphylococcus aureus using MALDI-TOF mass spectrometry.|https://dx.doi.org/10.3389/fcimb.2023.1281155
 Burden of infectious diseases and bacterial antimicrobial resistance in China: a systematic analysis for the global burden of disease study 2019.|https://dx.doi.org/10.1016/j.lanwpc.2023.100972
+Tracheal epithelial cell-exosome-derived MiR-21-5p inhibits alveolar macrophage pyroptosis to resist pulmonary bacterial infection through PIK3CD-autophagy pathway.|https://dx.doi.org/10.1016/j.lfs.2023.122340
+Identification and characterization of an L-type lectin from obscure puffer Takifugu obscurus in response to bacterial infection.|https://dx.doi.org/10.1016/j.fsi.2023.109283
+Python-assisted detection and photothermal inactivation of Salmonella typhimurium and Staphylococcus aureus on a background-free SERS chip.|https://dx.doi.org/10.1016/j.bios.2023.115913
+Evaluation of antibacterial properties of nisin peptide expressed in carrots.|https://dx.doi.org/10.1038/s41598-023-49466-7
+Nanosecond pulsed electric fields increase antibiotic susceptibility in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.02992-23
+Testing a Method for Evaluation of the Viability of Biofilm-Forming Bacteria after Exposure to Disinfectants.|https://dx.doi.org/10.1007/s10517-023-05967-z
+Bacteriological Profile and Antibiotic Susceptibility Patterns of Sepsis-Causing Bacteria at the Neonatal Intensive Care Unit of a Tertiary Health Care Facility in Ghana.|https://dx.doi.org/10.1177/11786361231218169
+Hip Pain and Fever During a Nadir Period: Who Came First?|https://dx.doi.org/10.7759/cureus.48697
+Emergence of Rapid-Onset Ototoxicity Following Three Doses of Vancomycin: A Unique Case Report in the Context of Normal Renal Function and Therapeutic Dosing.|https://dx.doi.org/10.7759/cureus.48647
+Rhamnolipid Micelles Assist Azithromycin in Efficiently Disrupting Staphylococcus aureus Biofilms and Impeding Their Re-Formation.|https://dx.doi.org/10.2147/IJN.S436971
+Biocompatible Nanostructured Silver-Incorporated Implant Surfaces Show Effective Antibacterial, Osteogenic, and Anti-Inflammatory Effects in vitro and in Rat Model.|https://dx.doi.org/10.2147/IJN.S435415
+Trends in sex-specific differences following aortic arch repair: results from the Canadian Thoracic Aortic Collaborative.|https://dx.doi.org/10.21037/acs-2023-adw-0163
+Molecular and Clinical Features of Heterogeneous Vancomycin-Intermediate Staphylococcus aureus in Tertiary Care Hospitals in South India.|https://dx.doi.org/10.18295/squmj.3.2023.018
+Early life exposures contributing to accelerated lung function decline in adulthood - a follow-up study of 11,000 adults from the general population.|https://dx.doi.org/10.1016/j.eclinm.2023.102339
+Bacteroides fragilis Acute Hematogenous Osteomyelitis in a Young Female with Sickle Cell Disease.|https://dx.doi.org/10.1155/2023/6340222
+Staphylococcus aureus activates NRLP3-dependent IL-1β secretion from human conjunctival goblet cells using α toxin and toll-like receptors 2 and 1.|https://dx.doi.org/10.3389/fcimb.2023.1265471
+Bacterial Contamination and Antimicrobial Resistance in Drinking Water From Food and Drinking Establishments in Shashemane Town, Ethiopia.|https://dx.doi.org/10.1177/11786302231216864

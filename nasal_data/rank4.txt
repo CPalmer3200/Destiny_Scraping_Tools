@@ -115,3 +115,14 @@ Systematic Review and Meta-analysis of Minimally Invasive Procedures for Surgica
 Identification and Management of Acute Neuromuscular Respiratory Failure in the ICU.|https://dx.doi.org/10.1016/j.chest.2023.09.009
 Omega-3 fatty acid supply in pregnancy for risk reduction of preterm and early preterm birth.|https://dx.doi.org/10.1016/j.ajogmf.2023.101251
 Utilization of cardiac tests in anthracycline-treated cancer survivors differs between young adults and children: A claims-based analysis.|https://dx.doi.org/10.1002/cam4.6801
+Enforcing surveillance of antimicrobial resistance and antibiotic use to drive stewardship: experience in a paediatric setting.|https://dx.doi.org/10.1016/j.jhin.2023.12.001
+Native mitral valve fungal endocarditis caused by Aspergillus fumigatus: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109128
+[ESC guidelines 2023 on the management of endocarditis : What is new?].|https://dx.doi.org/10.1007/s00059-023-05225-y
+The Biosafety Research Road Map: The Search for Evidence to Support Practices in the Laboratory-Crimean Congo Haemorrhagic Fever Virus and Lassa Virus.|https://dx.doi.org/10.1089/apb.2022.0044
+[Consequences of the COVID-19 pandemic for surgical service].|https://dx.doi.org/10.17116/hirurgia2023121103
+Healthcare providers' knowledge and clinical practice surrounding shigellosis - DocStyles Survey, 2020.|https://dx.doi.org/10.1186/s12875-023-02213-3
+Tolerability outcomes of ATS/IDSA guideline-recommended multi-drug antibiotic treatment for Mycobacterium avium complex pulmonary disease in U.S. Medicare beneficiaries with bronchiectasis.|https://dx.doi.org/10.1016/j.chest.2023.12.006
+WHO Surgical Safety Checklist and Anesthesia Equipment Checklist efficacy in war-affected low-resource settings: a prospective two-arm multicenter study.|https://dx.doi.org/10.5114/ait.2023.132531
+Soybean genetics, genomics, and breeding for improving nutritional value and reducing antinutritional traits in food and feed.|https://dx.doi.org/10.1002/tpg2.20415
+Efficacy of prophylactic negative pressure wound therapy after open ventral hernia repair: a systematic review meta-analysis.|https://dx.doi.org/10.1186/s12893-023-02280-4
+Assessing the Potential for Error in Investigating Intraneural Vascularity: A Need for a Standardized Imaging Protocol.|https://dx.doi.org/10.1177/87564793231193396

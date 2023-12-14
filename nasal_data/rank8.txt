@@ -174,3 +174,17 @@ Area Deprivation Index Predicts Mortality for Critically Ill Surgical Patients W
 Intratumoral delivery of a Tim-3 antibody-encoding oncolytic adenovirus engages an effective antitumor immune response in liver cancer.|https://dx.doi.org/10.1007/s00432-023-05501-8
 Associated Risk Factors for Extended Operative Time Following Cranial Vault Remodeling for Craniosynostosis: Analysis of the 2012 to 2021 NSQIP-Pediatric Database.|https://dx.doi.org/10.1097/SCS.0000000000009920
 Role of the ortho-bridge system in the length unstable subtrochanteric femur fracture in school going children: a retrospective clinical study of 19 cases.|https://dx.doi.org/10.3389/fped.2023.1306076
+[ANTIMICROBIAL ALLERGY ASSESSMENT DURING PREGNANCY FOR APPROPRIATE ANTIMICROBIAL USE AT DELIVERY].|https://dx.doi.org/10.15036/arerugi.72.1223
+Short-Term Mortality and Revisions to Promote Maturation After Arteriovenous Fistula Creation.|https://dx.doi.org/10.1016/j.jvs.2023.12.006
+The distribution and function of teleost IgT.|https://dx.doi.org/10.1016/j.fsi.2023.109281
+Cutibacterium namnetense osteosynthetic cervical spine infections: experience with two cases.|https://dx.doi.org/10.1007/s10096-023-04731-5
+Effectiveness of Specific Single-Use Incisional Negative Pressure Wound Therapy (PICO System) After Major Lower Extremity Amputation.|https://dx.doi.org/10.1177/15347346231221116
+Proximal Tibial Recurvatum-Valgus: Analysis and Treatment.|https://dx.doi.org/10.5435/JAAOS-D-23-00642
+A Novel Method for Thoracoscopic Overlap Esophagogastric Reconstruction With Pleural Closure following Minimally Invasive Ivor-Lewis Esophagectomy for Esophagogastric Junction Cancer.|https://dx.doi.org/10.1097/SLE.0000000000001250
+Robotic approach for retromuscular ventral hernia repair may be associated with improved wound morbidity in high-risk patients: a propensity score analysis.|https://dx.doi.org/10.1007/s00464-023-10630-9
+Risk factors for hospital-based surgical site infections.|https://dx.doi.org/10.1007/s00403-023-02773-5
+The Effect of Corticosteroids on Post-Covid-19 Smell Loss: A Meta-Analysis.|https://dx.doi.org/10.22038/IJORL.2023.72451.3456
+Nasopharyngeal Branchial Cyst and Thornwaldt Cyst in a Patient with Hearing Loss after Coronavirus Infection.|https://dx.doi.org/10.22038/IJORL.2023.71639.3436
+Enhanced recovery after surgery (ERAS) protocol reduces need for patient selection for day surgery total knee arthroplasty.|https://dx.doi.org/10.1016/j.jor.2023.11.042
+Altered intestinal microbiota enhances adenoid hypertrophy by disrupting the immune balance.|https://dx.doi.org/10.3389/fimmu.2023.1277351
+A Rare Case of Obstructive Shock due to Cardiac Tamponade in a Term Pregnancy.|https://dx.doi.org/10.1055/a-2200-3497
