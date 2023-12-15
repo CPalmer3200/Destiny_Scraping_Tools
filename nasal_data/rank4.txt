@@ -126,3 +126,10 @@ WHO Surgical Safety Checklist and Anesthesia Equipment Checklist efficacy in war
 Soybean genetics, genomics, and breeding for improving nutritional value and reducing antinutritional traits in food and feed.|https://dx.doi.org/10.1002/tpg2.20415
 Efficacy of prophylactic negative pressure wound therapy after open ventral hernia repair: a systematic review meta-analysis.|https://dx.doi.org/10.1186/s12893-023-02280-4
 Assessing the Potential for Error in Investigating Intraneural Vascularity: A Need for a Standardized Imaging Protocol.|https://dx.doi.org/10.1177/87564793231193396
+Infective Native Aortic Aneurysm: a Delphi Consensus Document on Treatment, Follow Up, and Definition of Cure.|https://dx.doi.org/10.1016/j.ejvs.2023.12.008
+Analysis of Patient Adherence to Filling Emergency Department Discharge Prescriptions for Empiric Treatment of Chlamydia.|https://dx.doi.org/10.1016/j.ajem.2023.11.024
+Suicide Rates by Industry and Occupation - National Vital Statistics System, United States, 2021.|https://dx.doi.org/10.15585/mmwr.mm7250a2
+Current practices for nutritional evaluation and care during the treatment of pediatric oncology patients: a survey among AIEOP centers.|https://dx.doi.org/10.1007/s00431-023-05368-4
+Fall 2023 ACIP Update on Meningococcal, RSV, COVID-19, and Other Pediatric Vaccines.|https://dx.doi.org/10.1542/peds.2023-064990
+What's the evidence on surgical treatment for congenital brachymetatarsia: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jor.2023.11.046
+Predictors of Multiwave Opioid Use Among Older American Adults.|https://dx.doi.org/10.1093/geroni/igad068

@@ -1,2 +1,4 @@
 Prevalence and Risk Factors of Clostridium difficile Infection Among Patients Hospitalized for a Flare of Inflammatory Bowel Disease in King Abdulaziz University Hospital.|https://dx.doi.org/10.7759/cureus.48451
 Predictive value of fecal calprotectin and lactoferrin levels for negative outcomes in Clostridioides difficile infection.|https://dx.doi.org/10.1007/s10096-023-04729-z
+Pulsed dosing and extended daily dosing of oral vancomycin do not facilitate clearance of Clostridioides difficile colonization in mice.|https://dx.doi.org/10.1128/aac.00903-23
+A Comparison of the Efficacy of Treatment With Fidaxomicin Versus Vancomycin in Clostridioides difficile Infection.|https://dx.doi.org/10.7759/cureus.48735

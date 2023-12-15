@@ -197,3 +197,21 @@ Early life exposures contributing to accelerated lung function decline in adulth
 Bacteroides fragilis Acute Hematogenous Osteomyelitis in a Young Female with Sickle Cell Disease.|https://dx.doi.org/10.1155/2023/6340222
 Staphylococcus aureus activates NRLP3-dependent IL-1β secretion from human conjunctival goblet cells using α toxin and toll-like receptors 2 and 1.|https://dx.doi.org/10.3389/fcimb.2023.1265471
 Bacterial Contamination and Antimicrobial Resistance in Drinking Water From Food and Drinking Establishments in Shashemane Town, Ethiopia.|https://dx.doi.org/10.1177/11786302231216864
+Orientational Nanoconjugation with Gold Endows Marked Antimicrobial Potential and Drugability of Ultrashort Dipeptides.|https://dx.doi.org/10.1021/acs.nanolett.3c03909
+Diverse biological activities and secondary metabolites profile of Penicillium brevicompactum HE19ct isolated from the high-Andean medicinal plant Perezia coerulescens.|https://dx.doi.org/10.1016/j.funbio.2023.10.002
+Unilateral lymphadenitis caused by community-associated methicillin-resistant Staphylococcus aureus ST834 strain.|https://dx.doi.org/10.1016/j.jiac.2023.12.005
+Processing and characterization of antimicrobial bioplastic films based on green microalgae Scenedesmus obliquus extract-loaded polyurethane.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128711
+First report on genotypic estimation of MRSA load in udder of nomadic sheep flocks affected with subclinical mastitis in Pakistan.|https://dx.doi.org/10.1016/j.rvsc.2023.105107
+Development of membrane-targeting TPP(+)-chloramphenicol conjugates to combat methicillin-resistant staphylococcus aureus (MRSA) infections.|https://dx.doi.org/10.1016/j.ejmech.2023.115973
+Increased S. aureus colonization and reduced antimicrobial peptide expression in erythrodermic psoriasis.|https://dx.doi.org/10.1016/j.intimp.2023.111343
+Revolutionary Pyrazole-based Aza-BODIPY: Harnessing Photothermal Power Against Cancer Cells and Bacteria.|https://dx.doi.org/10.1002/cbic.202300653
+Multi-aptamer-mediated hairpin allosteric and aptamer-assisted CRISPR system for detection of S. pneumoniae and S. aureus.|https://dx.doi.org/10.1007/s00604-023-06094-2
+Elucidating granulocytic myeloid-derived suppressor cell heterogeneity during Staphylococcus aureus biofilm infection.|https://dx.doi.org/10.1093/jleuko/qiad158
+Antibacterial activity of soil-isolated Bacillus altitudinis/pumilus complex against methicillin-resistant Staphylococcus aureus from Mwanza, Tanzania.|https://dx.doi.org/10.4102/ajlm.v12i1.2167
+CRISPR-Cas9-mediated somatic correction of a one-base deletion in the Ugt1a gene ameliorates hyperbilirubinemia in Crigler-Najjar syndrome mice.|https://dx.doi.org/10.1016/j.omtm.2023.101161
+Significance and current approaches to vascular graft infection.|https://dx.doi.org/10.1007/s12055-023-01638-w
+Protective Effect of Ticagrelor Against Infective Endocarditis Induced by Virulent Staphylococcus aureus in Mice.|https://dx.doi.org/10.1016/j.jacbts.2023.02.003
+Ticagrelor Antibiotic Effect: Ready for Exploring Clinical Implementation?|https://dx.doi.org/10.1016/j.jacbts.2023.03.020
+Surface functionalization of endotracheal tubes coated with laccase-gadolinium phosphate hybrid nanoparticles for antibiofilm activity and contrasting properties.|https://dx.doi.org/10.1039/d3bm01406a
+Host response signature trends in persistent bacteraemia and metastatic infection due to Staphylococcus aureus and Gram-negative bacilli: a prospective multicentre observational study.|https://dx.doi.org/10.1080/23744235.2023.2294122
+Host and Microbial Characteristics Associated with Recurrent Prosthetic Joint Infections.|https://dx.doi.org/10.1002/jor.25768

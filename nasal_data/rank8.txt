@@ -188,3 +188,19 @@ Nasopharyngeal Branchial Cyst and Thornwaldt Cyst in a Patient with Hearing Loss
 Enhanced recovery after surgery (ERAS) protocol reduces need for patient selection for day surgery total knee arthroplasty.|https://dx.doi.org/10.1016/j.jor.2023.11.042
 Altered intestinal microbiota enhances adenoid hypertrophy by disrupting the immune balance.|https://dx.doi.org/10.3389/fimmu.2023.1277351
 A Rare Case of Obstructive Shock due to Cardiac Tamponade in a Term Pregnancy.|https://dx.doi.org/10.1055/a-2200-3497
+Hyperoxia for sepsis and development of acute lung injury with increased mortality.|https://dx.doi.org/10.1136/bmjresp-2023-001968
+Knowledge and practice of nurses with respect to perioperative hypothermia prevention in the Northwest Amhara Regional State Referral Hospitals, Ethiopia: a cross-sectional study.|https://dx.doi.org/10.1136/bmjopen-2022-068131
+Maximizing Readmission Reduction in Colon Cancer Patients.|https://dx.doi.org/10.1016/j.jss.2023.11.047
+Olfactory immunology: the missing piece in airway and CNS defence.|https://dx.doi.org/10.1038/s41577-023-00972-9
+Upper extremity infection: imaging features with focus on magnetic resonance imaging.|https://dx.doi.org/10.1007/s00256-023-04545-8
+Minimally invasive technique combined with external fixator in the treatment of pediatric flexion-type humeral supracondylar fractures.|https://dx.doi.org/10.1038/s41598-023-48158-6
+Metabolic signature of the pathogenic 22q11.2 deletion identifies carriers and provides insight into systemic dysregulation.|https://dx.doi.org/10.1038/s41398-023-02697-8
+Placement of Intracranial Pressure Monitors by Non-neurosurgeons: A Follow-Up Study.|https://dx.doi.org/10.1177/00031348231220575
+Intranasal immunization with the recombinant measles virus encoding the spike protein of SARS-CoV-2 confers protective immunity against COVID-19 in hamsters.|https://dx.doi.org/10.1016/j.vaccine.2023.12.011
+Current Trends in Total Ankle Replacement.|https://dx.doi.org/10.1148/rg.230111
+Nodular pyogranulomatous panniculitis due to Leishmania infantum infection in a domestic ferret (Mustela putorius furo).|https://dx.doi.org/10.1007/s11259-023-10276-x
+From the discovery of helminths to the discovery of their carcinogenic potential.|https://dx.doi.org/10.1007/s00436-023-08022-y
+Bio-Responsive Sliver Peroxide-Nanocarrier Serves as Broad-spectrum Metallo-β-lactamase Inhibitor for Combating Severe Pneumonia.|https://dx.doi.org/10.1002/adma.202310532
+The wound area as a parameter guiding the timing of abdominal closure in the management of patients undergoing open abdominal procedures.|https://dx.doi.org/10.26355/eurrev_202312_34576
+Dermatology practice updates in mycobacterial disease.|https://dx.doi.org/10.1111/ijd.16969
+Arthroscopic Rotator Cuff Repair With Superior Fulcrum Reconstruction Using Autologous Ipsilateral Peroneus Longus Tendon for Irreparable Massive Rotator Cuff Tears.|https://dx.doi.org/10.1016/j.eats.2023.07.024

@@ -224,3 +224,21 @@ COVID-19 Vaccination Among Diverse Population Groups in the Northern Governorate
 The importance of increasing primary vaccinations against COVID-19 in Europe.|https://dx.doi.org/10.1016/j.idm.2023.11.008
 Analysis of the protective efficacy of approved COVID-19 vaccines against Omicron variants and the prospects for universal vaccines.|https://dx.doi.org/10.3389/fimmu.2023.1294288
 Navigating the Pandemic: An Exploration of Medical Practitioners' Preparedness, Concerns, Adaptations, and Practices During the COVID-19 Epidemic in India.|https://dx.doi.org/10.7759/cureus.48677
+Risk of Severe COVID-19 and Protective Effectiveness of Vaccination Among Solid Organ Transplant Recipients.|https://dx.doi.org/10.1093/infdis/jiad501
+Associations of diabetes, hypertension and obesity with COVID-19 mortality: a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjgh-2023-012581
+Mucosal boosting enhances vaccine protection against SARS-CoV-2 in macaques.|https://dx.doi.org/10.1038/s41586-023-06951-3
+Health system quality and COVID-19 vaccination: a cross-sectional analysis in 14 countries.|https://dx.doi.org/10.1016/S2214-109X(23)00490-4
+An antibody-free evaluation of an mRNA COVID-19 vaccine.|https://dx.doi.org/10.1016/j.biologicals.2023.101738
+Inhaled vaccine prevents COVID in monkeys.|https://dx.doi.org/10.1038/d41586-023-04040-z
+Impact of the COVID-19 pandemic on routine vaccination coverage under varying prevalence Conditions: A cohort study in Beijing, China.|https://dx.doi.org/10.1016/j.vaccine.2023.12.014
+Monitoring and reporting the US COVID-19 vaccination effort.|https://dx.doi.org/10.1016/j.vaccine.2023.12.005
+Rebound and steep increase of international travel after the COVID-19 pandemic: where are we going from here?|https://dx.doi.org/10.1093/jtm/taad158
+[Post-Covid osteomyelitis of the facial bones].|https://dx.doi.org/10.17116/stomat202310206268
+Mapping the association between mental health and people's perceived and actual ability to practice hygiene-related behaviours in humanitarian and pandemic crises: A scoping review.|https://dx.doi.org/10.1371/journal.pone.0286494
+The Social, Mental, and Physical Health Impacts of the COVID-19 Pandemic on People With HIV: Protocol of an Observational International Multisite Study.|https://dx.doi.org/10.1097/JNC.0000000000000444
+Impact of the COVID-19 Health Crisis on Key Populations at Higher Risk for, or Living With, HIV or Hepatitis C Virus and People Working With These Populations: Multicountry Community-Based Research Study Protocol (EPIC Program).|https://dx.doi.org/10.2196/45204
+Neutralizing monoclonal antibodies for the prevention of severe COVID-19: a retrospective study during Omicron BA.1 variant surge.|https://dx.doi.org/10.1080/1120009X.2023.2289269
+Emotion Dysregulation is Associated with Increased Problem Cannabis Use Among Emerging Adults During COVID-19.|https://dx.doi.org/10.15288/jsad.23-00144
+Impact of COVID-19 program adaptations on costs and cost-effectiveness of community-based management of acute malnutrition (CMAM) program in South Sudan.|https://dx.doi.org/10.1017/S1368980023002719
+Assessing pandemic preparedness, response, and lessons learned from the COVID-19 pandemic in four south American countries: agenda for the future.|https://dx.doi.org/10.3389/fpubh.2023.1274737
+3D indoor modeling and game theory based navigation for pre and post COVID-19 situation.|https://dx.doi.org/10.3389/fpubh.2023.1301607

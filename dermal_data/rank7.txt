@@ -5,3 +5,4 @@ Exploring the Antibacterial Potential of Semisynthetic Phytocannabinoid: Tetrahy
 A minimally invasive, field-applicable CRISPR/Cas biosensor to aid in the detection of Pseudogymnoascus destructans, the causative fungal agent of white-nose syndrome in bats.|https://dx.doi.org/10.1111/1755-0998.13902
 Amphotericin B-loaded natural latex dressing for treating Candida albicans wound infections using Galleria mellonella model.|https://dx.doi.org/10.1016/j.jconrel.2023.12.010
 Effects of Poly-L-Lactic Acid on Adipogenesis and Collagen Gene Expression in Cultured Adipocytes Irradiated with Ultraviolet B Rays.|https://dx.doi.org/10.5021/ad.22.177
+Association between culture and the preference for, and perceptions of, 11 routes of medicine administration: A survey in 21 countries and regions.|https://dx.doi.org/10.1016/j.rcsop.2023.100378

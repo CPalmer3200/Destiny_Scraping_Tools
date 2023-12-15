@@ -43,3 +43,9 @@ Genomic insights into Enterococcus faecium isolates from marine bivalves highlig
 A Boron-Dependent Antibiotic Derived from a Calcium-Dependent Antibiotic.|https://dx.doi.org/10.1002/anie.202317522
 Incidence, Patterns, and Characteristics of Patients With Acute Kidney Injury Requiring Renal Replacement Therapy in Cancer Settings.|https://dx.doi.org/10.7759/cureus.48627
 Updates on the Causes, Diagnosis, and Management of Peritoneal Abscesses: A Systematic Review.|https://dx.doi.org/10.7759/cureus.48601
+Orientational Nanoconjugation with Gold Endows Marked Antimicrobial Potential and Drugability of Ultrashort Dipeptides.|https://dx.doi.org/10.1021/acs.nanolett.3c03909
+Development of membrane-targeting TPP(+)-chloramphenicol conjugates to combat methicillin-resistant staphylococcus aureus (MRSA) infections.|https://dx.doi.org/10.1016/j.ejmech.2023.115973
+Comparative Evaluation of the Antimicrobial Efficacy of Chemical and Phytomedicinal Agents When Used As Intracanal Irrigants: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.48754
+Molecular Serotyping and Antibiotic Resistance Profile of Group B Streptococcus Strains Isolated from Iranian Pregnant Women with Urinary Tract Infection.|https://dx.doi.org/10.30476/ijms.2023.96346.2787
+Antibacterial activity of Hypericum perforatum L. (St. John's wort) extracts against Gram-positive bacteria and characterisation of its secondary metabolites.|https://dx.doi.org/10.1080/14786419.2023.2291702
+The VANCO Trial Findings Are Generalizable to a North American Trauma Registry.|https://dx.doi.org/10.1097/BOT.0000000000002704

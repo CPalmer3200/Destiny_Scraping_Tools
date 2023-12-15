@@ -6,3 +6,5 @@ Antistaphylococcal Efficacy of Cefepime, Meropenem, and Piperacillin-Tazobactam 
 Fecal Dysbiosis and Inflammation in Intestinal-Specific Cftr Knockout Mice on Regimens Preventing Intestinal Obstruction.|https://dx.doi.org/10.1152/physiolgenomics.00077.2023
 Cognitive improvement following endovascular embolization in patients with intracranial dural arteriovenous fistula: The Neuropsychology in dural ArterIal Fistula (NAIF) Study.|https://dx.doi.org/10.1136/jnis-2023-021033
 How Safe are Outpatient Electronic Health Records? An Evaluation of Medication-Related Decision Support using the Ambulatory Electronic Health Record Evaluation Tool.|https://dx.doi.org/10.1055/s-0043-1777107
+High performance of membrane capacitive deionization with ZnS/g-C(3)N(4) composite electrodes.|https://dx.doi.org/10.2166/wst.2023.391
+Psychopathological Analysis of Adolescent Girls With Autoimmune Thyroiditis.|https://dx.doi.org/10.7759/cureus.50418
