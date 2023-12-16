@@ -49,3 +49,7 @@ Comparative Evaluation of the Antimicrobial Efficacy of Chemical and Phytomedici
 Molecular Serotyping and Antibiotic Resistance Profile of Group B Streptococcus Strains Isolated from Iranian Pregnant Women with Urinary Tract Infection.|https://dx.doi.org/10.30476/ijms.2023.96346.2787
 Antibacterial activity of Hypericum perforatum L. (St. John's wort) extracts against Gram-positive bacteria and characterisation of its secondary metabolites.|https://dx.doi.org/10.1080/14786419.2023.2291702
 The VANCO Trial Findings Are Generalizable to a North American Trauma Registry.|https://dx.doi.org/10.1097/BOT.0000000000002704
+Elizabethkingia meningoseptica Outbreak in NICU: An Observational Study on a Debilitating Neuroinfection in Neonates.|https://dx.doi.org/10.1097/INF.0000000000004117
+Vancomycin-resistant Enterococcus faecium in Japan, 2007-2015: a molecular epidemiology analysis focused on examining strain characteristics over time.|https://dx.doi.org/10.1128/spectrum.02444-23
+IgA coating of vaginal bacteria is reduced in the setting of bacterial vaginosis (BV) and preferentially targets BV-associated species.|https://dx.doi.org/10.1128/iai.00373-23
+Treatment patterns and economic burden of bacterial vaginosis among commercially insured women in the USA.|https://dx.doi.org/10.57264/cer-2023-0079

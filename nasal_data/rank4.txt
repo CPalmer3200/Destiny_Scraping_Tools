@@ -133,3 +133,5 @@ Current practices for nutritional evaluation and care during the treatment of pe
 Fall 2023 ACIP Update on Meningococcal, RSV, COVID-19, and Other Pediatric Vaccines.|https://dx.doi.org/10.1542/peds.2023-064990
 What's the evidence on surgical treatment for congenital brachymetatarsia: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jor.2023.11.046
 Predictors of Multiwave Opioid Use Among Older American Adults.|https://dx.doi.org/10.1093/geroni/igad068
+Monte Carlo simulations and phantom modeling for spatial frequency domain imaging of surgical wound monitoring.|https://dx.doi.org/10.1117/1.JBO.28.12.126003
+Coil embolization of a fistula from the right inferior phrenic artery to the right pulmonary artery with involvement of further arteries: A rare case report.|https://dx.doi.org/10.3941/jrcr.v17i8.4972

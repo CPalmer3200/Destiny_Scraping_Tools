@@ -215,3 +215,20 @@ Ticagrelor Antibiotic Effect: Ready for Exploring Clinical Implementation?|https
 Surface functionalization of endotracheal tubes coated with laccase-gadolinium phosphate hybrid nanoparticles for antibiofilm activity and contrasting properties.|https://dx.doi.org/10.1039/d3bm01406a
 Host response signature trends in persistent bacteraemia and metastatic infection due to Staphylococcus aureus and Gram-negative bacilli: a prospective multicentre observational study.|https://dx.doi.org/10.1080/23744235.2023.2294122
 Host and Microbial Characteristics Associated with Recurrent Prosthetic Joint Infections.|https://dx.doi.org/10.1002/jor.25768
+Bioremediation of hydrocarbon by co-culturing of biosurfactant-producing bacteria in microbial fuel cell with Fe(2)O(3)-modified anode.|https://dx.doi.org/10.1016/j.jenvman.2023.119768
+Integrated spectroscopic and MD simulation approach to decipher the effect of pH on the structure function of Staphylococcus aureus thymidine kinase.|https://dx.doi.org/10.1080/07391102.2023.2293270
+Risk factors for and consequences of positive valve cultures in patients who undergo cardiac surgery while receiving antimicrobial treatment for infective endocarditis.|https://dx.doi.org/10.1080/23744235.2023.2293164
+A population-based study on the incidence and aetiology of infectious complications in peritoneal dialysis in South Sweden.|https://dx.doi.org/10.1080/23744235.2023.2292133
+dCas9-guided demethylation of the AKT1 promoter improves milk protein synthesis in a bovine mastitis mammary gland epithelial model induced by using Staphylococcus aureus.|https://dx.doi.org/10.1002/cbin.12106
+Molecular Epidemiological Characterization of Methicillin-Resistant Staphylococcus aureus from Bloodstream Infections in Northern Japan: Increasing Trend of CC1 and Identification of ST8-SCCmec IVa USA300-Like Isolate Lacking Arginine Catabolic Mobile Element.|https://dx.doi.org/10.1089/mdr.2023.0203
+Cell Adhesion, Elasticity, and Rupture Forces Guide Microbial Cell Death on Nanostructured Antimicrobial Titanium Surfaces.|https://dx.doi.org/10.1021/acsabm.3c00943
+A Hybrid Antimicrobial Peptide Targeting Staphylococcus aureus with a Dual Function of Inhibiting Quorum Sensing Signaling and an Antibacterial Effect.|https://dx.doi.org/10.1021/acs.jmedchem.3c02027
+A pomegranate seed-structured nanozyme-based colorimetric immunoassay for highly sensitive and specific biosensing of Staphylococcus aureus.|https://dx.doi.org/10.1039/d3an01621h
+Transparent silk fibroin film-facilitated infected-wound healing through antibacterial, improved fibroblast adhesion and immune modulation.|https://dx.doi.org/10.1039/d3tb02146g
+Phytochemical composition, biological activity and anti-inflammatory potential of acetone extract from the lichen Platismatia glauca (L.) W.L. Culb. & C.F. Culb.|https://dx.doi.org/10.1080/14786419.2023.2294479
+Studies on 2-((2, 4-dihydroxybenzylidene) amino)-3-phenylpropanoic acid include antimicrobial, antidiabetic, antioxidant, anticancer, hemolysis, and theoretical QSAR.|https://dx.doi.org/10.1080/07391102.2023.2294383
+Exploring the antibacterial and dermatitis-mitigating properties of chicken egg white-synthesized zinc oxide nano whiskers.|https://dx.doi.org/10.3389/fcimb.2023.1295593
+In silico design and mechanistic study of niosome-encapsulated curcumin against multidrug-resistant Staphylococcus aureus biofilms.|https://dx.doi.org/10.3389/fmicb.2023.1277533
+Infective endocarditis of tricuspid valve following septic abortion: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001437
+Two cases of refractory methicillin-susceptible staphylococcus aureus endocarditis responsive to ertapenem.|https://dx.doi.org/10.26599/1671-5411.2023.11.002
+Recombination-mediated dissemination of Methicillin-resistant S. aureus clonal complex 1 in the Egyptian health care settings.|https://dx.doi.org/10.1186/s12941-023-00659-y

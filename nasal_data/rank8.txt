@@ -204,3 +204,20 @@ Bio-Responsive Sliver Peroxide-Nanocarrier Serves as Broad-spectrum Metallo-β-l
 The wound area as a parameter guiding the timing of abdominal closure in the management of patients undergoing open abdominal procedures.|https://dx.doi.org/10.26355/eurrev_202312_34576
 Dermatology practice updates in mycobacterial disease.|https://dx.doi.org/10.1111/ijd.16969
 Arthroscopic Rotator Cuff Repair With Superior Fulcrum Reconstruction Using Autologous Ipsilateral Peroneus Longus Tendon for Irreparable Massive Rotator Cuff Tears.|https://dx.doi.org/10.1016/j.eats.2023.07.024
+Is single-level cervical disc arthroplasty associated with a lower reoperation rate than anterior cervical discectomy and fusion?|https://dx.doi.org/10.3171/2023.10.SPINE23640
+Predictive factors of hydrocephalus development in pediatric patients undergoing hemispherectomy for intractable epilepsy.|https://dx.doi.org/10.3171/2023.11.PEDS23341
+Implant-associated Infection After Pediatric Spine Deformity Surgery: Is Removal of Hardware Indicated?|https://dx.doi.org/10.1097/INF.0000000000004218
+Team Approach: Bone Health Optimization in Orthopaedic Surgery.|https://dx.doi.org/10.2106/JBJS.RVW.23.00178
+A phase I study of intra-anal artesunate (suppositories) to treat anal high-grade squamous intraepithelial lesions.|https://dx.doi.org/10.1371/journal.pone.0295647
+Impact of the COVID-19 era on clinical presentation, management and microbiology in paediatric peritonsillar abscess: A case-control study.|https://dx.doi.org/10.1111/coa.14133
+Determinants of worse liver-related outcome according to HDV infection among HBsAg positive persons living with HIV: Data from the ICONA cohort.|https://dx.doi.org/10.1111/liv.15804
+Antimicrobial Prophylaxis with Ampicillin-sulbactam Compared with Cefazolin for Esophagectomy: Nationwide Inpatient Database Study in Japan.|https://dx.doi.org/10.1097/SLA.0000000000006182
+Effect of hospitalisation on the rate of surgical site infection in dogs with Penrose drains.|https://dx.doi.org/10.1111/jsap.13678
+The role of corneal biopsy in the management of microbial keratitis.|https://dx.doi.org/10.4103/IJO.IJO_1263_23
+Bloodborne viral infections: Seroprevalence and relevance of preoperative screening in Indian eye care system - A retrospective study.|https://dx.doi.org/10.4103/IJO.IJO_958_23
+A Health Economic Analysis Exploring the Cost Consequence of Using a Surgical Site Infection Prevention Bundle for Hip and Knee Arthroplasty in Germany.|https://dx.doi.org/10.36469/001c.90651
+Off-pump vs. on-pump bypass surgery grafting in diabetic patients with three-vessel disease: a propensity score matching study.|https://dx.doi.org/10.3389/fcvm.2023.1249881
+Brucellosis involving the aorta and iliac arteries: a systematic review of 130 cases.|https://dx.doi.org/10.3389/fbioe.2023.1326246
+The outcome and the risk factors of mucormycosis among patients with hematological diseases: a systematic and meta-analysis.|https://dx.doi.org/10.3389/fmed.2023.1268840
+Kratosvirus quantuckense: the history and novelty of an algal bloom disrupting virus and a model for giant virus research.|https://dx.doi.org/10.3389/fmicb.2023.1284617
+Arachnoid cyst presenting as a neurosurgical emergency: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001373

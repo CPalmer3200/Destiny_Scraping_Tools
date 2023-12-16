@@ -2,3 +2,4 @@ Molecular Mechanisms of the Regulation of Liver Cytochrome P450 by Brain NMDA Re
 FIB-4 and APRI for cirrhosis detection in a privately insured national cohort.|https://dx.doi.org/10.1016/j.jhepr.2023.100925
 In vitro activity of tebipenem and comparator agents against bacterial pathogens isolated from patients with cancer.|https://dx.doi.org/10.1093/jacamr/dlad132
 Implementation strategies for hospital-based probiotic administration in a stepped-wedge cluster randomized trial design for preventing hospital-acquired Clostridioides difficile infection.|https://dx.doi.org/10.1186/s12913-023-10350-9
+Patient-reported symptoms and diagnostic journey in Multiple Myeloma.|https://dx.doi.org/10.3389/fonc.2023.1282569

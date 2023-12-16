@@ -6,3 +6,5 @@ A novel approach to expedite wound healing with plasma brush of cold flame.|http
 A promising antibiotic candidate, brevinin-1 analogue 5R, against drug-resistant bacteria, with insights into its membrane-targeting mechanism.|https://dx.doi.org/10.1016/j.csbj.2023.11.031
 Utilizing the Photodynamic Properties of Curcumin to Disrupt Biofilms in Cutibacterium acnes: A Promising Approach for Treating Acne.|https://dx.doi.org/10.1016/j.pdpdt.2023.103928
 Liposomal formulation of a new antifungal hybrid compound provides protection against Candida auris in the ex vivo skin colonization model.|https://dx.doi.org/10.1128/aac.00955-23
+Exploring the antibacterial and dermatitis-mitigating properties of chicken egg white-synthesized zinc oxide nano whiskers.|https://dx.doi.org/10.3389/fcimb.2023.1295593
+Treatment of wound infections linked to neurosurgical implants.|https://dx.doi.org/10.1111/iwj.14528

@@ -242,3 +242,23 @@ Emotion Dysregulation is Associated with Increased Problem Cannabis Use Among Em
 Impact of COVID-19 program adaptations on costs and cost-effectiveness of community-based management of acute malnutrition (CMAM) program in South Sudan.|https://dx.doi.org/10.1017/S1368980023002719
 Assessing pandemic preparedness, response, and lessons learned from the COVID-19 pandemic in four south American countries: agenda for the future.|https://dx.doi.org/10.3389/fpubh.2023.1274737
 3D indoor modeling and game theory based navigation for pre and post COVID-19 situation.|https://dx.doi.org/10.3389/fpubh.2023.1301607
+Emotional exhaustion and traumatic stress among healthcare workers during the COVID-19 pandemic: Longitudinal changes and protective factors.|https://dx.doi.org/10.1371/journal.pone.0291650
+The Impact of Telehealth Expansion on Health Care Utilization, Access, and Outcomes During the Pandemic: A Systematic Review.|https://dx.doi.org/10.1089/tmj.2023.0440
+Evaluating the Effectiveness of School Closure in COVID-19-Related Syndromes From Community-Based Syndromic Surveillance: Longitudinal Observational Study.|https://dx.doi.org/10.2196/44606
+Inequality in COVID-19 mortality in Quebec associated with neighbourhood-level vulnerability domains.|https://dx.doi.org/10.17269/s41997-023-00829-7
+DYRK1A is a multifunctional host factor that regulates coronavirus replication in a kinase-independent manner.|https://dx.doi.org/10.1128/jvi.01239-23
+Promises and Pitfalls of Calcineurin Inhibitors in COVID-19: A Systematic Review and Meta-analysis of Controlled Trials.|https://dx.doi.org/10.2174/0109298673264362231022150520
+Managing acute COVID-19 in immunocompromised pediatric patients.|https://dx.doi.org/10.1080/1744666X.2023.2295982
+Survival benefit of exenteration in COVID-19-associated rhino-orbital mucormycosis.|https://dx.doi.org/10.4103/IJO.IJO_2543_22
+Impact of the COVID-19 pandemic on prevalence of highly resistant microorganisms in hospitalised patients in the Netherlands, March 2020 to August 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2023.28.50.2300152
+Association of a promotional campaign for local dining facilities with the occurrence of COVID-19 in Asahikawa City, Japan, in November 2021.|https://dx.doi.org/10.1016/j.puhip.2023.100403
+A Study to Describe the Pattern of Cutaneous Adverse Effects of COVID-19 Vaccines (Covishield and Covaxin).|https://dx.doi.org/10.4103/idoj.idoj_539_22
+The Association Between Tobacco Use and Risk of COVID-19 Infection and Clinical Outcomes in Sweden: A Population-Based Study.|https://dx.doi.org/10.3389/ijph.2023.1606175
+Attitudes and perceptions about COVID-19 vaccination in the population with chronic HIV infection: A systematic review.|https://dx.doi.org/10.1002/hsr2.1653
+"Low-risk groups" deserve more attention than "high-risk groups" in imported COVID-19 cases.|https://dx.doi.org/10.3389/fmed.2023.1293747
+Anxiety among healthcare workers during the COVID-19 pandemic: a longitudinal study.|https://dx.doi.org/10.3389/fpubh.2023.1236931
+The impact of SARS-CoV-2 on healthcare workers of a large University Hospital in the Veneto Region: risk of infection and clinical presentation in relation to different pandemic phases and some relevant determinants.|https://dx.doi.org/10.3389/fpubh.2023.1250911
+COVID-19 in Baghdad, Iraq: adaptive and emotional findings in a household cluster survey.|https://dx.doi.org/10.3389/fpubh.2023.1130227
+Time trend of respiratory viruses before and during the COVID-19 pandemic in severe acute respiratory virus infection in the Sultanate of Oman between 2017 and 2022.|https://dx.doi.org/10.1111/irv.13233
+SARS-CoV-2 Infection Risk Factors in Beijing during November 2022: A Case Control Study.|https://dx.doi.org/10.3967/bes2023.141
+Efficacy and safety of hydroxychloroquine for treatment of mild SARS-CoV-2 infection and prevention of COVID-19 severity in pregnant and postpartum women: A randomized, double-blind, placebo-controlled trial.|https://dx.doi.org/10.1111/aogs.14745
