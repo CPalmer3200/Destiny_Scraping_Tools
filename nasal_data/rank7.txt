@@ -262,3 +262,15 @@ COVID-19 in Baghdad, Iraq: adaptive and emotional findings in a household cluste
 Time trend of respiratory viruses before and during the COVID-19 pandemic in severe acute respiratory virus infection in the Sultanate of Oman between 2017 and 2022.|https://dx.doi.org/10.1111/irv.13233
 SARS-CoV-2 Infection Risk Factors in Beijing during November 2022: A Case Control Study.|https://dx.doi.org/10.3967/bes2023.141
 Efficacy and safety of hydroxychloroquine for treatment of mild SARS-CoV-2 infection and prevention of COVID-19 severity in pregnant and postpartum women: A randomized, double-blind, placebo-controlled trial.|https://dx.doi.org/10.1111/aogs.14745
+Safety and Immunogenicity of a Recombinant Two-Component SARS-CoV-2 Protein Vaccine: Randomized, Double-Blind, Placebo-Controlled Phase I and Phase II Studies.|https://dx.doi.org/10.1007/s40121-023-00896-w
+Long COVID during the Omicron predominant waves among Japanese healthcare workers.|https://dx.doi.org/10.1002/jmv.29322
+Health and Social Vulnerabilities Among Unstably Housed and Homeless Young Adults During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/15248399231217447
+Cloth face masks are still useful in preventing COVID-19 transmission in Indonesia.|https://dx.doi.org/10.1093/pubmed/fdad265
+Pulmonary function assessment after COVID-19 in vaccinated healthcare workers.|https://dx.doi.org/10.1186/s12995-023-00400-7
+Postoperative thrombotic events following major surgery in patients with a history of COVID-19: a retrospective cohort analysis of commercially insured beneficiaries in the USA.|https://dx.doi.org/10.1007/s12630-023-02639-4
+Spatiotemporal genome diversity of SARS-CoV-2 in wastewater: a two-year global epidemiological study.|https://dx.doi.org/10.1007/s10661-023-12228-z
+Prevalence and network structure of post-traumatic stress symptoms and their association with suicidality among Chinese mental health professionals immediately following the end of China's Dynamic Zero-COVID Policy: a national survey.|https://dx.doi.org/10.1038/s41398-023-02680-3
+Associations of eHealth literacy and knowledge with preventive behaviours and psychological distress during the COVID-19 pandemic: a population-based online survey.|https://dx.doi.org/10.1136/bmjopen-2022-069514
+Characteristics of innate, humoral and cellular immunity in children with non-severe SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.jinf.2023.12.003
+Comparative safety analysis of mRNA and adenoviral vector COVID-19 vaccines: a nationwide cohort study using an emulated target trial approach.|https://dx.doi.org/10.1016/j.cmi.2023.12.010
+Genomic surveillance reveals dynamic shifts in the connectivity of COVID-19 epidemics.|https://dx.doi.org/10.1016/j.cell.2023.11.024

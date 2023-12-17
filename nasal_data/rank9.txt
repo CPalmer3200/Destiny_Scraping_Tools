@@ -232,3 +232,10 @@ In silico design and mechanistic study of niosome-encapsulated curcumin against 
 Infective endocarditis of tricuspid valve following septic abortion: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001437
 Two cases of refractory methicillin-susceptible staphylococcus aureus endocarditis responsive to ertapenem.|https://dx.doi.org/10.26599/1671-5411.2023.11.002
 Recombination-mediated dissemination of Methicillin-resistant S. aureus clonal complex 1 in the Egyptian health care settings.|https://dx.doi.org/10.1186/s12941-023-00659-y
+Genetic characterization of tetracycline-resistant Staphylococcus aureus with reduced vancomycin susceptibility using whole-genome sequencing.|https://dx.doi.org/10.1007/s00203-023-03760-0
+Antimicrobial, antioxidant and cytotoxic activities of the leaf and stem extracts of Carissa bispinosa used for dental health care.|https://dx.doi.org/10.1186/s12906-023-04308-x
+Synthesis of β-acids loaded chitosan-sodium tripolyphosphate nanoparticle towards controlled release, antibacterial and anticancer activity.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128719
+Robust integration of light-driven carbon quantum dots with bacterial cellulose enables excellent mechanical and antibacterial biodegradable yarn.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128741
+Synthesis, antibiofilm activity and molecular docking of N-acylhomoserine lactones containing cinammic moieties.|https://dx.doi.org/10.1016/j.bmcl.2023.129592
+Drug kinetics and antimicrobial properties of quaternary bioactive glasses 81S(81SiO(2)-(16-x)CaO-2P(2)O(5)-1Na(2)O-xMgO); an in-vitro study.|https://dx.doi.org/10.1016/j.bioadv.2023.213729
+Pathological unstable dislocation of shoulder secondary to septic arthritis: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109114

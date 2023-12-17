@@ -135,3 +135,6 @@ What's the evidence on surgical treatment for congenital brachymetatarsia: A sys
 Predictors of Multiwave Opioid Use Among Older American Adults.|https://dx.doi.org/10.1093/geroni/igad068
 Monte Carlo simulations and phantom modeling for spatial frequency domain imaging of surgical wound monitoring.|https://dx.doi.org/10.1117/1.JBO.28.12.126003
 Coil embolization of a fistula from the right inferior phrenic artery to the right pulmonary artery with involvement of further arteries: A rare case report.|https://dx.doi.org/10.3941/jrcr.v17i8.4972
+The 2023 Orthopaedic Research Society's International Consensus Meeting on musculoskeletal infection: Summary from the host immunity section.|https://dx.doi.org/10.1002/jor.25758
+Risk factors associated with surgical site infections in patients undergoing cardiothoracic surgery: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14573
+Dietary intakes of community-dwelling adults in the United States across older adulthood: NHANES 2015-March 2020.|https://dx.doi.org/10.1016/j.tjnut.2023.12.014

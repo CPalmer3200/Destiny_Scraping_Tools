@@ -53,3 +53,4 @@ Elizabethkingia meningoseptica Outbreak in NICU: An Observational Study on a Deb
 Vancomycin-resistant Enterococcus faecium in Japan, 2007-2015: a molecular epidemiology analysis focused on examining strain characteristics over time.|https://dx.doi.org/10.1128/spectrum.02444-23
 IgA coating of vaginal bacteria is reduced in the setting of bacterial vaginosis (BV) and preferentially targets BV-associated species.|https://dx.doi.org/10.1128/iai.00373-23
 Treatment patterns and economic burden of bacterial vaginosis among commercially insured women in the USA.|https://dx.doi.org/10.57264/cer-2023-0079
+Genetic characterization of tetracycline-resistant Staphylococcus aureus with reduced vancomycin susceptibility using whole-genome sequencing.|https://dx.doi.org/10.1007/s00203-023-03760-0

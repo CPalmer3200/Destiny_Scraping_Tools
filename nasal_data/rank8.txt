@@ -221,3 +221,17 @@ Brucellosis involving the aorta and iliac arteries: a systematic review of 130 c
 The outcome and the risk factors of mucormycosis among patients with hematological diseases: a systematic and meta-analysis.|https://dx.doi.org/10.3389/fmed.2023.1268840
 Kratosvirus quantuckense: the history and novelty of an algal bloom disrupting virus and a model for giant virus research.|https://dx.doi.org/10.3389/fmicb.2023.1284617
 Arachnoid cyst presenting as a neurosurgical emergency: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001373
+Injections prior to hip arthroscopy are associated with increased risk of repeat hip arthroscopy at 1 and 5 years.|https://dx.doi.org/10.1007/s00402-023-05164-7
+The Influence of Hospital Type, Insurance Type, and Patient Income on 30-Day Complication and Readmission Rates Following Lumbar Spine Fusion.|https://dx.doi.org/10.1177/21925682231222903
+Whole blood stimulation as a tool for studying the human immune system.|https://dx.doi.org/10.1002/eji.202350519
+The Effects of Antibiotics on the Development and Treatment of Non-Small Cell Lung Cancer.|https://dx.doi.org/10.33073/pjm-2023-047
+Differential infection behavior of African swine fever virus (ASFV) genotype I and II in the upper respiratory tract.|https://dx.doi.org/10.1186/s13567-023-01249-8
+A comparative analysis of suture-augmented and standard hamstring autograft single-bundle ACL reconstruction outcomes: short-term functional benefits without long-term impact.|https://dx.doi.org/10.1186/s12891-023-07100-7
+Endoscopic ultrasound-guided drainage of early pancreatic necrotic collection: Single-center retrospective study.|https://dx.doi.org/10.1007/s12664-023-01478-x
+Fibrin sealant for closure of mucosal penetration at the oesophagus or cardia during submucosal tunnelling endoscopic resection for gastrointestinal submucosal tumours.|https://dx.doi.org/10.1007/s00464-023-10563-3
+Chemical Nose Strategy with Metabolic Labeling and "Antibiotic-Responsive Spectrum" Enables Accurate and Rapid Pathogen Identification.|https://dx.doi.org/10.1021/acs.analchem.3c04469
+Editorial Comment: Does Alexis Wound Protector/Retractor Reduce the Risk of Surgical Site Infections After Open Radical Cystectomy for Bladder Cancer? Results From a Single Center, Comparative Study.|https://dx.doi.org/10.1016/j.urology.2023.09.061
+Treatment experience with continuous local antibiotic perfusion for periprosthetic joint infection.|https://dx.doi.org/10.1016/j.jos.2023.12.001
+Association between COVID-19 diagnosis and postoperative outcomes in sleeve gastrectomy and Roux-en-Y gastric bypass: A national cohort study.|https://dx.doi.org/10.1016/j.amjsurg.2023.11.036
+Effects of non-digestible oligosaccharides on inflammation, lung health and performance of calves.|https://dx.doi.org/10.3168/jds.2023-23887
+A cardiac intimal sarcoma mimicking infective endocarditis.|https://dx.doi.org/10.1016/j.carpath.2023.107598
