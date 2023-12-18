@@ -274,3 +274,20 @@ Associations of eHealth literacy and knowledge with preventive behaviours and ps
 Characteristics of innate, humoral and cellular immunity in children with non-severe SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.jinf.2023.12.003
 Comparative safety analysis of mRNA and adenoviral vector COVID-19 vaccines: a nationwide cohort study using an emulated target trial approach.|https://dx.doi.org/10.1016/j.cmi.2023.12.010
 Genomic surveillance reveals dynamic shifts in the connectivity of COVID-19 epidemics.|https://dx.doi.org/10.1016/j.cell.2023.11.024
+The Changes in Broad-spectrum Antimicrobial Consumption during the COVID-19 Pandemic in a Japanese Acute Tertiary-care Hospital: An Interrupted Time-series Analysis.|https://dx.doi.org/10.2169/internalmedicine.2868-23
+Cardiovascular Safety of Azithromycin in Patients Hospitalized with Coronavirus Disease 2019: a Pre-Specified Pooled Analysis of the COALITION I and COALITION II Randomized Clinical Trials.|https://dx.doi.org/10.1016/j.amjcard.2023.11.069
+Falls Risk in Long-Term Care Residents With Cognitive Impairment: Effects of COVID-19 Pandemic.|https://dx.doi.org/10.1016/j.jamda.2023.11.006
+Long-term outcomes following hospital admission for COVID-19 versus seasonal influenza: a cohort study.|https://dx.doi.org/10.1016/S1473-3099(23)00684-9
+Exploring the reasons behind low COVID-19 vaccination coverage in ethnic minorities-A qualitative study among Arabic-speaking public in Denmark.|https://dx.doi.org/10.1016/j.healthpol.2023.104965
+Recognition COVID-19 as an occupational disease in Poland - definition, criteria and recommendation.|https://dx.doi.org/10.13075/mp.5893.01427
+Durable and enhanced immunity against SARS-CoV-2 elicited by manganese nanoadjuvant formulated subunit vaccine.|https://dx.doi.org/10.1038/s41392-023-01718-8
+Elevated level of serum human epididymis protein 4 (HE4) predicts disease severity and mortality in COVID-19 pneumonia.|https://dx.doi.org/10.1186/s12890-023-02811-y
+The impact of COVID-19 on cancer patients.|https://dx.doi.org/10.1016/j.cytogfr.2023.11.004
+Observations of COVID-19 vaccine coverage and vaccine hesitancy on COVID-19 outbreak: An American ecological study.|https://dx.doi.org/10.1016/j.vaccine.2023.12.008
+Cross-sectional surveillance study of long COVID in Toyonaka city, Osaka prefecture, Japan.|https://dx.doi.org/10.1016/j.jiac.2023.12.006
+SARS-CoV-2 vaccination uptake in six ethnic groups living in Amsterdam, the Netherlands: A registry-based study within the HELIUS cohort.|https://dx.doi.org/10.1016/j.ypmed.2023.107822
+Cyclosporine A micellar nasal spray characterization and antiviral action against SARS-CoV-2.|https://dx.doi.org/10.1016/j.ejps.2023.106673
+Diagnostic accuracy of a point-of-care antigen test for SARS-CoV-2 and influenza in a primary care population (RAPTOR-C19).|https://dx.doi.org/10.1016/j.cmi.2023.12.009
+Efficacy of probiotic treatment as post-exposure prophylaxis for COVID-19: A double-blind, Placebo-Controlled Randomized trial.|https://dx.doi.org/10.1016/j.clnu.2023.11.043
+Non-vaccination of dogs is linked to uncompleted COVID-19 vaccination protocols of owners.|https://dx.doi.org/10.1016/j.prevetmed.2023.106093
+Characterization of a SARS-CoV-2 EG.5.1 clinical isolate in vitro and in vivo.|https://dx.doi.org/10.1016/j.celrep.2023.113580

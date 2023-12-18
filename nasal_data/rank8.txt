@@ -235,3 +235,18 @@ Treatment experience with continuous local antibiotic perfusion for periprosthet
 Association between COVID-19 diagnosis and postoperative outcomes in sleeve gastrectomy and Roux-en-Y gastric bypass: A national cohort study.|https://dx.doi.org/10.1016/j.amjsurg.2023.11.036
 Effects of non-digestible oligosaccharides on inflammation, lung health and performance of calves.|https://dx.doi.org/10.3168/jds.2023-23887
 A cardiac intimal sarcoma mimicking infective endocarditis.|https://dx.doi.org/10.1016/j.carpath.2023.107598
+Strikingly High Rates of Periprosthetic Joint Infection following Revision Surgery for Periprosthetic Fractures Regardless of Surgery Timing.|https://dx.doi.org/10.1016/j.arth.2023.12.008
+Non-Cefazolin Antibiotic Prophylaxis is Associated with Higher Rates of Elbow Periprosthetic Joint Infection.|https://dx.doi.org/10.1016/j.jse.2023.10.029
+Curtailing Infection Risks in Hepatitis C Patients: The Effect of Antiviral Treatment in Revision Shoulder Arthroplasty.|https://dx.doi.org/10.1016/j.jse.2023.10.030
+Frailty Screening For Determination of Hemodialysis Access Placement.|https://dx.doi.org/10.1016/j.jvs.2023.12.022
+A randomized controlled trial of a proactive analgesic protocol demonstrates reduced opioid use among hospitalized adults with inflammatory bowel disease.|https://dx.doi.org/10.1038/s41598-023-48126-0
+Acute respiratory failure developing in a patient with lymphomatoid granulomatosis.|https://dx.doi.org/10.1136/bcr-2023-255697
+Cefiderocol-associated brown chromaturia.|https://dx.doi.org/10.1136/bcr-2023-258207
+Safety and Efficacy of Direct Percutaneous Endoscopic Jejunostomy Tube Placement Compared with Surgical Jejunostomy: A Tertiary Care Analysis.|https://dx.doi.org/10.1016/j.gie.2023.12.013
+A Scoping Review and Best Evidence Synthesis for Treatment of Partial-Thickness Rotator Cuff Tears.|https://dx.doi.org/10.1016/j.jse.2023.10.027
+An outbreak analysis of wound infection due to Acinetobacter baumannii in earthquake-trauma patients.|https://dx.doi.org/10.1016/j.ajic.2023.12.005
+The Effect of Smoking on Open Carpal Tunnel Release Recovery.|https://dx.doi.org/10.1016/j.hansur.2023.11.011
+Fecal metabolite profiling identifies liver transplant recipients at risk for postoperative infection.|https://dx.doi.org/10.1016/j.chom.2023.11.016
+Persistent urinary incontinence in female Golden Retrievers following laser ablation of intramural ectopic ureters may be associated with the presence of historical urinary tract infection.|https://dx.doi.org/10.2460/javma.23.07.0396
+Lack of Routine Postoperative Labs Not Associated With Complications in Pediatric Perforated Appendicitis.|https://dx.doi.org/10.1016/j.jss.2023.11.027
+Timing of Pediatric Incarcerated Inguinal Hernia Repair: A Review of Nationwide Readmissions Data.|https://dx.doi.org/10.1016/j.jss.2023.11.059

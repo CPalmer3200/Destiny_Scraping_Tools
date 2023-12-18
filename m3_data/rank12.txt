@@ -10,3 +10,4 @@ High performance of membrane capacitive deionization with ZnS/g-C(3)N(4) composi
 Psychopathological Analysis of Adolescent Girls With Autoimmune Thyroiditis.|https://dx.doi.org/10.7759/cureus.50418
 Hydrogen-Bonded Organic Framework Derived 2D N, O Co-Doped Carbon Nanobelt with Tunable Pseudocapacitive Contribution for Efficient Capacitive Deionization.|https://dx.doi.org/10.1002/smll.202309353
 Super-enhancers include classical enhancers and facilitators to fully activate gene expression.|https://dx.doi.org/10.1016/j.cell.2023.11.030
+Potential contamination and health risk assessment of heavy metals in Hurghada coastal sediments, Northwestern Red Sea.|https://dx.doi.org/10.1016/j.marpolbul.2023.115924

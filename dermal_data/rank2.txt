@@ -13,3 +13,5 @@ Sepsis in the acute phase of Charcot requiring prompt surgical treatment.|https:
 Early identification of delayed wound healing in complex diabetic foot ulcers treated with a dermal regeneration template: A novel clinical target and its risk factors.|https://dx.doi.org/10.1097/JS9.0000000000000898
 Adherence to vascular care guidelines for emergency revascularization of chronic limb-threatening ischemia.|https://dx.doi.org/10.1016/j.jvscit.2023.101299
 Metabolic dysfunction-associated fatty liver disease in the elderly with diabetic foot ulcers: A longitudinal cohort study.|https://dx.doi.org/10.1111/iwj.14586
+Health-related quality of life in people with different diabetes-related foot ulcer health states: a cross-sectional study of healed, non-infected, infected, hospitalised and amputated ulcer states.|https://dx.doi.org/10.1016/j.diabres.2023.111061
+Cefiderocol-associated brown chromaturia.|https://dx.doi.org/10.1136/bcr-2023-258207

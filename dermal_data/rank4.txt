@@ -12,3 +12,5 @@ To Evaluate and Compare the Antimicrobial Efficacy of Various Disinfecting Agent
 Assessment of antibiotic release and antibacterial efficacy from pendant glutathione hydrogels using ex vivo porcine skin.|https://dx.doi.org/10.1016/j.jconrel.2023.12.008
 Preparation of berberine hydrochloride-Ag nanoparticle composite antibacterial dressing based on 3D printing technology.|https://dx.doi.org/10.1177/08853282231222191
 Transparent silk fibroin film-facilitated infected-wound healing through antibacterial, improved fibroblast adhesion and immune modulation.|https://dx.doi.org/10.1039/d3tb02146g
+Analysis and comparison of bioactive phytochemical composition and antibacterial property of two Ethiopian indigenous medicinal plants.|https://dx.doi.org/10.1002/cbdv.202301546
+A photothermally antibacterial Au@Halloysite nanotubes/lignin composite hydrogel for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128704

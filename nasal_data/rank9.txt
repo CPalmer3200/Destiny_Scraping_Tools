@@ -239,3 +239,12 @@ Robust integration of light-driven carbon quantum dots with bacterial cellulose 
 Synthesis, antibiofilm activity and molecular docking of N-acylhomoserine lactones containing cinammic moieties.|https://dx.doi.org/10.1016/j.bmcl.2023.129592
 Drug kinetics and antimicrobial properties of quaternary bioactive glasses 81S(81SiO(2)-(16-x)CaO-2P(2)O(5)-1Na(2)O-xMgO); an in-vitro study.|https://dx.doi.org/10.1016/j.bioadv.2023.213729
 Pathological unstable dislocation of shoulder secondary to septic arthritis: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109114
+Analysis and comparison of bioactive phytochemical composition and antibacterial property of two Ethiopian indigenous medicinal plants.|https://dx.doi.org/10.1002/cbdv.202301546
+4-Nitrophenol reduction and antibacterial activity of Ag-doped TiO(2) photocatalysts.|https://dx.doi.org/10.1007/s11356-023-31492-7
+Intermittent alternating magnetic fields diminish metal-associated biofilm in vivo.|https://dx.doi.org/10.1038/s41598-023-49660-7
+Expression characteristics and inhibitory activity of a leucine-rich repeat (LRR)-only protein in the Chinese mitten crab, Eriocheir sinensis.|https://dx.doi.org/10.1016/j.fsi.2023.109300
+Study of pesticidal activity of bioactive compounds of Neowestiellopsis persica strain A1387 in improving the antioxidative and antimicrobial activity of wheat to sunn pest.|https://dx.doi.org/10.1016/j.micpath.2023.106500
+A supersensitive electrochemical sensor based on RCA amplification-assisted "silver chain"-linked gold interdigital electrodes and CRISPR/Cas9 for the detection of Staphylococcus aureus in food.|https://dx.doi.org/10.1016/j.foodchem.2023.138197
+Immunomodulatory and antibacterial effect of red wine concentrate rich in a natural complex of polyphenols under diabetes mellitus.|https://dx.doi.org/10.1016/j.biopha.2023.116023
+Identification of isothiazolones analogues as potent bactericidal agents against antibiotic resistant CRE and MRSA strains.|https://dx.doi.org/10.1186/s13065-023-01100-3
+A photothermally antibacterial Au@Halloysite nanotubes/lignin composite hydrogel for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128704

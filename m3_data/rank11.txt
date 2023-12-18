@@ -54,3 +54,6 @@ Vancomycin-resistant Enterococcus faecium in Japan, 2007-2015: a molecular epide
 IgA coating of vaginal bacteria is reduced in the setting of bacterial vaginosis (BV) and preferentially targets BV-associated species.|https://dx.doi.org/10.1128/iai.00373-23
 Treatment patterns and economic burden of bacterial vaginosis among commercially insured women in the USA.|https://dx.doi.org/10.57264/cer-2023-0079
 Genetic characterization of tetracycline-resistant Staphylococcus aureus with reduced vancomycin susceptibility using whole-genome sequencing.|https://dx.doi.org/10.1007/s00203-023-03760-0
+The Changes in Broad-spectrum Antimicrobial Consumption during the COVID-19 Pandemic in a Japanese Acute Tertiary-care Hospital: An Interrupted Time-series Analysis.|https://dx.doi.org/10.2169/internalmedicine.2868-23
+Non-Cefazolin Antibiotic Prophylaxis is Associated with Higher Rates of Elbow Periprosthetic Joint Infection.|https://dx.doi.org/10.1016/j.jse.2023.10.029
+Fecal metabolite profiling identifies liver transplant recipients at risk for postoperative infection.|https://dx.doi.org/10.1016/j.chom.2023.11.016
