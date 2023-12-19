@@ -291,3 +291,22 @@ Diagnostic accuracy of a point-of-care antigen test for SARS-CoV-2 and influenza
 Efficacy of probiotic treatment as post-exposure prophylaxis for COVID-19: A double-blind, Placebo-Controlled Randomized trial.|https://dx.doi.org/10.1016/j.clnu.2023.11.043
 Non-vaccination of dogs is linked to uncompleted COVID-19 vaccination protocols of owners.|https://dx.doi.org/10.1016/j.prevetmed.2023.106093
 Characterization of a SARS-CoV-2 EG.5.1 clinical isolate in vitro and in vivo.|https://dx.doi.org/10.1016/j.celrep.2023.113580
+Author Correction: Longitudinal study of disease severity and external factors in cognitive failure after COVID-19 among Indonesian population.|https://dx.doi.org/10.1038/s41598-023-48244-9
+Major Update: Masks for Prevention of SARS-CoV-2 in Health Care and Community Settings.|https://dx.doi.org/10.7326/L23-0358
+[After the COVID-19 pandemic-Which new vaccinations for adults are available or coming soon?].|https://dx.doi.org/10.1007/s00108-023-01640-9
+Attitudes towards clinical research in adult patients with hidradenitis suppurativa during the COVID-19 pandemic: Insights from a survey.|https://dx.doi.org/10.1111/jdv.19758
+Postpartum Mental Health and Perceptions of Discrimination among Asian Fathers during the COVID-19 Pandemic.|https://dx.doi.org/10.1097/NMC.0000000000000984
+Impact of COVID-19 on pediatric surgery cancellations: A retrospective study.|https://dx.doi.org/10.1111/ped.15662
+The emergence and successful elimination of SARS-CoV-2 dominant strains with increasing epidemic potential in Taiwan's 2021 outbreak.|https://dx.doi.org/10.1016/j.heliyon.2023.e22436
+Determinants of Pneumothorax Among Mechanically Ventilated COVID-19 Intensive Care Unit Patients, a Single Centre Study.|https://dx.doi.org/10.2147/JMDH.S441798
+Editorial: Self-harm behaviors from young adults to the elderly: prevalence, prevention and treatment following the COVID-19 pandemic.|https://dx.doi.org/10.3389/fpsyt.2023.1331376
+Social media information and its association with the adoption of COVID-19 preventive measures in four Latin American countries.|https://dx.doi.org/10.1080/15358593.2023.2174382
+Temporary impact on medical system and effectiveness of mitigation strategies after COVID-19 policy adjustment in China: a modeling study.|https://dx.doi.org/10.3389/fpubh.2023.1259084
+Cell-Mediated Immunity (CMI) for SARS-CoV-2 Infection Among the General Population of North India: A Cross-Sectional Analysis From a Sub-sample of a Large Sero-Epidemiological Study.|https://dx.doi.org/10.7759/cureus.48824
+Knowledge and Awareness About Risk Factors, Clinical Manifestations, and Prevention of Thyroid Disorders in the Era of COVID-19 and Their Association With Socioeconomic Status Among the General Population in Riyadh, Saudi Arabia.|https://dx.doi.org/10.7759/cureus.48878
+SARS-CoV-2 Variants BA.2.86 and EG.5.1 Alongside Scrub Typhus and Nipah in India During the Ongoing Cricket World Cup 2023: Threat Perceptions and Countermeasures.|https://dx.doi.org/10.7759/cureus.48895
+Influence of COVID-19 pandemic on the epidemiology of Mycoplasma pneumoniae infections among hospitalized children in Henan, China.|https://dx.doi.org/10.1016/j.heliyon.2023.e22213
+Changes in Health Insurance During COVID-19 Among a U.S. National Cohort of Cisgender Gay and Bisexual Men and Transgender Individuals.|https://dx.doi.org/10.1891/lgbtq-2022-0001
+Clinical, Demographic, and Oral Presentations of COVID-19 Associated Mucormycosis from a Tertiary Care Hospital in India: A Cross-Sectional Study.|https://dx.doi.org/10.1007/s12663-023-01970-z
+Practice- and System-Based Interventions to Reduce COVID-19 Transmission in Primary Care Settings: A Qualitative Study.|https://dx.doi.org/10.12927/hcpol.2023.27232
+Interpersonal distance perception during the normalization of an pandemic situation: Effects of mask-wearing and vaccination.|https://dx.doi.org/10.1002/pchj.719

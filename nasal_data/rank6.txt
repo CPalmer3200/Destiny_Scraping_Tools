@@ -13,3 +13,4 @@ Nasal instillation of povidone-iodine ameliorates ongoing mucosal inflammation i
 Antibiotic resistance in patients with liver cirrhosis: Prevalence and current approach to tackle.|https://dx.doi.org/10.12998/wjcc.v11.i31.7530
 Cytomegalovirus and varicella zoster virus coinfection-associated central hypoventilation syndrome (Ondine's Curse).|https://dx.doi.org/10.1016/j.ensci.2023.100488
 DBFasTrac - Transfer your reviewed manuscript to DB for faster publication.|https://dx.doi.org/10.1016/j.ydbio.2023.12.004
+Estimating the Burden of Clinically Significant Staphylococcus aureus Infections and Predictors for Hospitalization for Skin and Soft Tissue Infections, Fulton County, Georgia, 2017.|https://dx.doi.org/10.1093/ofid/ofad601

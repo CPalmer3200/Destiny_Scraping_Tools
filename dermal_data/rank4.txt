@@ -14,3 +14,5 @@ Preparation of berberine hydrochloride-Ag nanoparticle composite antibacterial d
 Transparent silk fibroin film-facilitated infected-wound healing through antibacterial, improved fibroblast adhesion and immune modulation.|https://dx.doi.org/10.1039/d3tb02146g
 Analysis and comparison of bioactive phytochemical composition and antibacterial property of two Ethiopian indigenous medicinal plants.|https://dx.doi.org/10.1002/cbdv.202301546
 A photothermally antibacterial Au@Halloysite nanotubes/lignin composite hydrogel for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128704
+A 4d Printed Adhesive, Thermo-Contractile, and Degradable Hydrogel for Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202303499
+Silver Nanoparticle-Loaded Titanium-Based Metal-Organic Framework for Promoting Antibacterial Performance by Synergistic Chemical-Photodynamic Therapy.|https://dx.doi.org/10.1021/acs.inorgchem.3c03555

@@ -141,3 +141,12 @@ Dietary intakes of community-dwelling adults in the United States across older a
 The science of micronutrients in clinical practice - Report on the ESPEN symposium.|https://dx.doi.org/10.1016/j.clnu.2023.12.006
 Incidence of pre-neoplastic and neoplastic lesions of the cervix before and after the COVID-19 pandemic.|https://dx.doi.org/10.1136/ijgc-2023-004743
 Outcome measures for use in trials of paediatric otorrhoea: A systematic review.|https://dx.doi.org/10.1016/j.ijporl.2023.111820
+Guidelines for best practices in monitoring established coeliac disease in adult patients.|https://dx.doi.org/10.1038/s41575-023-00872-2
+Analytical Validation of Aptamer-Based Serum Vancomycin Monitoring Relative to Automated Immunoassays.|https://dx.doi.org/10.1021/acssensors.3c01868
+Reevaluating Rehabilitation Practice for Patients Who Were Critically Ill after COVID-19 Infection: An Administrative Case Report.|https://dx.doi.org/10.1093/ptj/pzad175
+[Anogenital warts-An update].|https://dx.doi.org/10.1007/s00105-023-05282-8
+Antibiotic prophylaxis in trauma: GAIS, SIS-E, WSIS, AAST, WSES guidelines.|https://dx.doi.org/10.1097/TA.0000000000004233
+Experience With a Vancomycin-sparing Empiric Antibiotic Guideline for Late-onset Sepsis in a Level-4 Neonatal Intensive Care Unit.|https://dx.doi.org/10.1097/INF.0000000000004172
+Using the exploration, preparation, implementation, sustainment (EPIS) framework to assess the cooperative re-engagement controlled trial (CoRECT).|https://dx.doi.org/10.3389/fpubh.2023.1223149
+Potentially Fatal Ludwig's Angina: A Case Report.|https://dx.doi.org/10.7759/cureus.48885
+Successful Treatment of Fishbone-Induced Esophageal Perforation and Mediastinal Abscess: A Case Report and Literature Review.|https://dx.doi.org/10.12659/AJCR.942056

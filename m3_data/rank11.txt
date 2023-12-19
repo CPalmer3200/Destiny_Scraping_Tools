@@ -57,3 +57,9 @@ Genetic characterization of tetracycline-resistant Staphylococcus aureus with re
 The Changes in Broad-spectrum Antimicrobial Consumption during the COVID-19 Pandemic in a Japanese Acute Tertiary-care Hospital: An Interrupted Time-series Analysis.|https://dx.doi.org/10.2169/internalmedicine.2868-23
 Non-Cefazolin Antibiotic Prophylaxis is Associated with Higher Rates of Elbow Periprosthetic Joint Infection.|https://dx.doi.org/10.1016/j.jse.2023.10.029
 Fecal metabolite profiling identifies liver transplant recipients at risk for postoperative infection.|https://dx.doi.org/10.1016/j.chom.2023.11.016
+Analytical Validation of Aptamer-Based Serum Vancomycin Monitoring Relative to Automated Immunoassays.|https://dx.doi.org/10.1021/acssensors.3c01868
+Experience With a Vancomycin-sparing Empiric Antibiotic Guideline for Late-onset Sepsis in a Level-4 Neonatal Intensive Care Unit.|https://dx.doi.org/10.1097/INF.0000000000004172
+A 10-year retrospective study of methicillin-resistant Staphylococcus aureus from burn wound infection in southeast China from 2013 to 2022.|https://dx.doi.org/10.3389/fmicb.2023.1301744
+Successful management of severe generalized tetanus in a 23-year man with phenobarbital adjuvant: A case report.|https://dx.doi.org/10.1002/ccr3.8286
+The Association Between Serum Vancomycin Level and Clinical Outcome in Patients With Peritoneal Dialysis Associated Peritonitis.|https://dx.doi.org/10.1016/j.ekir.2023.09.013
+Prediction of Acute Kidney Injury in Intracerebral Hemorrhage Patients Using Machine Learning.|https://dx.doi.org/10.2147/NDT.S439549

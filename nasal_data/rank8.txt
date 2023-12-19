@@ -250,3 +250,17 @@ Fecal metabolite profiling identifies liver transplant recipients at risk for po
 Persistent urinary incontinence in female Golden Retrievers following laser ablation of intramural ectopic ureters may be associated with the presence of historical urinary tract infection.|https://dx.doi.org/10.2460/javma.23.07.0396
 Lack of Routine Postoperative Labs Not Associated With Complications in Pediatric Perforated Appendicitis.|https://dx.doi.org/10.1016/j.jss.2023.11.027
 Timing of Pediatric Incarcerated Inguinal Hernia Repair: A Review of Nationwide Readmissions Data.|https://dx.doi.org/10.1016/j.jss.2023.11.059
+Cohort study to characterise surgical site infections after open surgery in the UK's National Health Service.|https://dx.doi.org/10.1136/bmjopen-2023-076735
+Intranasal mask for protecting the respiratory tract against viral aerosols.|https://dx.doi.org/10.1038/s41467-023-44134-w
+[Nomogram prediction model of cervical anastomotic leakage after esophageal cancer surgery].|https://dx.doi.org/10.3760/cma.j.cn112152-20201127-01026
+[Efficacy of cytoreductive surgery combined with hyperthermic intraperitoneal chemotherapy for pseudomyxoma peritonei].|https://dx.doi.org/10.3760/cma.j.cn441530-20231018-00139
+Subcuticular skin closure at Cesarean delivery poliglecaprone-25 vs. polyglactin-910: A randomized controlled trial.|https://dx.doi.org/10.1016/j.ajogmf.2023.101256
+Case Report: In Situ and Systemic Immune Response to Mucosal Leishmaniasis in an HIV-Infected Patient.|https://dx.doi.org/10.4269/ajtmh.23-0287
+Magnetic resonance imaging-derived relative cerebral blood volume characteristics in a case of pathologically confirmed neurocysticercosis: illustrative case.|https://dx.doi.org/10.3171/CASE23446
+Coronavirus disease 2019-associated persistent cough and Chiari malformation type I resulting in acute respiratory failure: illustrative case.|https://dx.doi.org/10.3171/CASE23555
+Aortic arch redo surgery: early and mid-term outcomes in 120 patients.|https://dx.doi.org/10.1093/ejcts/ezad419
+Meta-analysis of the survival rate and postoperative infection rate of primary and secondary implants after vascularized fibula transplantation for reconstruction of jaw defects.|https://dx.doi.org/10.1186/s40729-023-00514-x
+EUFOREA/EPOS2020 statement on the clinical considerations for CRSwNP care.|https://dx.doi.org/10.1111/all.15982
+Recent advances in composite hydrogels: synthesis, classification, and application in the treatment of bone defects.|https://dx.doi.org/10.1039/d3bm01795h
+Outcomes of culture-negative or -positive periprosthetic joint infections: A systematic review and meta-analysis.|https://dx.doi.org/10.52312/jdrs.2023.1437
+Treatment of intractable septic ankle arthritis with a continuous closed irrigation system.|https://dx.doi.org/10.52312/jdrs.2023.1224

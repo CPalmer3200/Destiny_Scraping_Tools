@@ -6,3 +6,5 @@ A minimally invasive, field-applicable CRISPR/Cas biosensor to aid in the detect
 Amphotericin B-loaded natural latex dressing for treating Candida albicans wound infections using Galleria mellonella model.|https://dx.doi.org/10.1016/j.jconrel.2023.12.010
 Effects of Poly-L-Lactic Acid on Adipogenesis and Collagen Gene Expression in Cultured Adipocytes Irradiated with Ultraviolet B Rays.|https://dx.doi.org/10.5021/ad.22.177
 Association between culture and the preference for, and perceptions of, 11 routes of medicine administration: A survey in 21 countries and regions.|https://dx.doi.org/10.1016/j.rcsop.2023.100378
+Paradoxical dominant negative activity of an immunodeficiency-associated activating PIK3R1 variant.|https://dx.doi.org/10.1101/2023.11.02.565250
+Development and In-Vitro Evaluation of Eugenol-Based Nanostructured Lipid Carriers for Effectual Topical Treatment Against C. albicans.|https://dx.doi.org/10.1016/j.xphs.2023.11.031
