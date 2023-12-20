@@ -10,3 +10,5 @@ Axillary lymph nodes enlargement after Sars-CoV-2 vaccine in patients undergoing
 Effect of pre-infusion of hypertonic saline on postoperative delirium in geriatric patients undergoing shoulder arthroscopy: a randomized controlled trial.|https://dx.doi.org/10.1186/s12871-023-02340-5
 Global Burden of Cardiovascular Diseases and Risks, 1990-2022.|https://dx.doi.org/10.1016/j.jacc.2023.11.007
 Liver metastasis of breast carcinoma: An unusual presentation and growth pattern.|https://dx.doi.org/10.4103/ijpm.ijpm_1235_21
+Pharmacokinetics of Locally Applied Antibiotic Prophylaxis for Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1001/jamanetworkopen.2023.48414
+Factors affecting the early establishment of neonatal intestinal flora and its intervention measures.|https://dx.doi.org/10.3389/fcimb.2023.1295111

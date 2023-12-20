@@ -12,3 +12,4 @@ Predictive value of methicillin-resistant Staphylococcus aureus (MRSA) nasal swa
 Evaluation of computerized clinical decision support system to reduce unnecessary nasal methicillin-resistant Staphylococcus aureus (MRSA) polymerase chain reaction (PCR) testing.|https://dx.doi.org/10.1017/ice.2023.256
 Incomplete Kawasaki Disease Presenting as Retropharyngeal Abscess: A Case Report and Review of the Literature.|https://dx.doi.org/10.1177/01455613231218140
 Irradiation of human oral mucosa by 233 nm far UV-C LEDs for the safe inactivation of nosocomial pathogens.|https://dx.doi.org/10.1038/s41598-023-49745-3
+Commensal production of a broad-spectrum and short-lived antimicrobial peptide polyene eliminates nasal Staphylococcus aureus.|https://dx.doi.org/10.1038/s41564-023-01544-2

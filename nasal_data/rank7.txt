@@ -310,3 +310,21 @@ Changes in Health Insurance During COVID-19 Among a U.S. National Cohort of Cisg
 Clinical, Demographic, and Oral Presentations of COVID-19 Associated Mucormycosis from a Tertiary Care Hospital in India: A Cross-Sectional Study.|https://dx.doi.org/10.1007/s12663-023-01970-z
 Practice- and System-Based Interventions to Reduce COVID-19 Transmission in Primary Care Settings: A Qualitative Study.|https://dx.doi.org/10.12927/hcpol.2023.27232
 Interpersonal distance perception during the normalization of an pandemic situation: Effects of mask-wearing and vaccination.|https://dx.doi.org/10.1002/pchj.719
+People inflows as a pandemic trigger: Evidence from a quasi-experimental study.|https://dx.doi.org/10.1016/j.ehb.2023.101341
+Risks and challenges in COVID-19 infection prevention and control in a hospital setting: Perspectives of healthcare workers in Thailand.|https://dx.doi.org/10.1371/journal.pone.0267996
+Factors Associated With Levels of Public Engagement in Protective Behaviors During the Early COVID-19 Pandemic: Causal-Comparative Study Based on the Health Belief Model.|https://dx.doi.org/10.2196/49687
+Is antiviral treatment at the acute phase of COVID-19 effective for decreasing the risk of long-COVID? A systematic review.|https://dx.doi.org/10.1007/s15010-023-02154-0
+The potential preventive role of a dietary supplement containing hydroxytyrosol in COVID-19: a multi-center study.|https://dx.doi.org/10.26355/eurrev_202312_34687
+Vaccination and Nutritional Outcomes of Hemodialysis Patients Infected With SARS-CoV-2.|https://dx.doi.org/10.1097/NNR.0000000000000707
+The long-term effects of consecutive COVID-19 waves on mental health.|https://dx.doi.org/10.1192/bjo.2023.620
+Evaluating the accessibility and capacity of SARS-CoV-2 vaccination and analyzing convenience-related factors during the Omicron variant epidemic in Beijing, China.|https://dx.doi.org/10.1080/21645515.2023.2289250
+Nasopharyngeal Viral Load Is the Major Driver of Incident Antibody Immune Response to SARS-CoV-2 Infection.|https://dx.doi.org/10.1093/ofid/ofad598
+Adjustment for collider bias in the hospitalized Covid-19 setting.|https://dx.doi.org/10.1016/j.gloepi.2023.100120
+Willingness to vaccinate among adults, and factors associated with vaccine acceptance of COVID-19 vaccines in a nationwide study in Poland between March 2021 and April 2022.|https://dx.doi.org/10.3389/fpubh.2023.1235585
+Correlation of Diabetic Status and Coronavirus Disease 2019 (COVID-19) in Patients With Mucormycosis: A Retrospective Clinical Study.|https://dx.doi.org/10.7759/cureus.48936
+Comparing the immune response and protective effect of COVID-19 vaccine under different vaccination strategies.|https://dx.doi.org/10.1080/21645515.2023.2273155
+Bilateral Vocal Cord Paralysis Requiring Long-term Tracheostomy After SARS-CoV-2 Infection.|https://dx.doi.org/10.1542/peds.2023-061897
+Characteristic analysis of China's actions against the COVID-19 in schools and comparison with other countries.|https://dx.doi.org/10.1111/phn.13275
+A SARS-CoV-2 Omicron outbreak among crew members on a cruise ship in Germany in early 2022.|https://dx.doi.org/10.5603/imh.96935
+Design and Implementation of a Federal Program to Engage Community Partners to Reduce Disparities in Adult COVID-19 Immunization Uptake, United States, 2021-2022.|https://dx.doi.org/10.1177/00333549231208642
+Safety and immunogenicity of primary vaccination with a SARS-CoV-2 mRNA vaccine (SYS6006) in Chinese participants aged 18 years or more: Two randomized, observer-blinded, placebo-controlled and dose-escalation phase 1 clinical trials.|https://dx.doi.org/10.1080/21645515.2023.2285089

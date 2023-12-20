@@ -264,3 +264,16 @@ A 10-year retrospective study of methicillin-resistant Staphylococcus aureus fro
 Enhancing near-infrared II photodynamic therapy with nitric oxide for eradicating multidrug-resistant biofilms in deep tissues.|https://dx.doi.org/10.1016/j.bioactmat.2023.11.006
 Systematic analysis of antimicrobial activity, phytochemistry, and in silico molecular interaction of selected essential oils and their formulations from different Indian spices against foodborne bacteria.|https://dx.doi.org/10.1016/j.heliyon.2023.e22480
 Synthesis, biological and molecular modelling for 1,3,4-thiadiazole sulfonyl thioureas: bacterial and fungal activity.|https://dx.doi.org/10.1039/d3md00508a
+Biosynthesis of Ag(2)Se nanoparticles as a broad-spectrum antimicrobial agent with excellent biocompatibility.|https://dx.doi.org/10.1016/j.jhazmat.2023.133201
+Red foxes (Vulpes vulpes) as a specific and underappreciated reservoir of resistant and virulent coagulase-positive Staphylococcus spp. strains.|https://dx.doi.org/10.1016/j.rvsc.2023.105111
+7-Year (2015-21) longitudinal surveillance of lefamulin in vitro activity against bacterial pathogens collected worldwide from patients with respiratory tract infections including pneumonia and characterization of resistance mechanisms.|https://dx.doi.org/10.1093/jac/dkad389
+Bacterial pneumonia-induced shedding of epithelial heparan sulfate inhibits the bactericidal activity of cathelicidin in a murine model.|https://dx.doi.org/10.1152/ajplung.00178.2023
+Optimal effective concentration combinations (OPECCs) for binary application of membrane-targeting antiseptics and TMPyP-mediated antimicrobial photodynamic therapy.|https://dx.doi.org/10.1007/s43630-023-00512-3
+Synthesis of Extract-Bacterial Cellulose Composite Using Ageratum conyzoides L. and Chromolaena odorata L., Its Antibacterial Activities, and Biodegradability Properties.|https://dx.doi.org/10.1007/s12010-023-04794-2
+Analysis on Foodborne Pathogen Contamination of Food Samples in Longnan City from 2013 to 2022.|https://dx.doi.org/10.1089/fpd.2023.0036
+Effect of Usnea longissima ethyl acetate extract on acute oxidative and inflammatory lung damage from Staphylococcus aureus infection in rats.|https://dx.doi.org/10.32725/jab.2023.022
+Effects of clinically achievable pulmonary antibiotic concentrations on the recovery of bacteria: in vitro comparison of the BioFire FILMARRAY Pneumonia Panel versus conventional culture methods in bronchoalveolar lavage fluid.|https://dx.doi.org/10.1128/jcm.01133-23
+Methicillin Resistant Staphylococcus aureus: Molecular Mechanisms Underlying Drug Resistance Development and Novel Strategies to Combat.|https://dx.doi.org/10.2147/IDR.S428103
+Phenotypic shifts induced by environmental pre-stressors modify antibiotic resistance in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304509
+Wheel of misfortune: A unique case of MRSA pyomyositis of the adductor muscle group from blunt unicycle trauma.|https://dx.doi.org/10.1002/ccr3.8295
+The tumoral microbiome of pancreatic intraductal papillary mucinous neoplasm: A single-center retrospective cohort study.|https://dx.doi.org/10.1111/jgh.16437

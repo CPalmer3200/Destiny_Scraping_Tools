@@ -15,3 +15,5 @@ Adherence to vascular care guidelines for emergency revascularization of chronic
 Metabolic dysfunction-associated fatty liver disease in the elderly with diabetic foot ulcers: A longitudinal cohort study.|https://dx.doi.org/10.1111/iwj.14586
 Health-related quality of life in people with different diabetes-related foot ulcer health states: a cross-sectional study of healed, non-infected, infected, hospitalised and amputated ulcer states.|https://dx.doi.org/10.1016/j.diabres.2023.111061
 Cefiderocol-associated brown chromaturia.|https://dx.doi.org/10.1136/bcr-2023-258207
+Validation of spectrophotometric and colorimetric methods to quantify clindamycin in skin tissue: application to in vitro release and ex vivo dermatokinetic studies from separable effervescent microarray patch loaded bacterially sensitive microparticle.|https://dx.doi.org/10.1007/s44211-023-00478-3
+Healing Rates and Outcomes Following Closed Transmetatarsal Amputations: A Systematic Review and Random Effects Meta-Analysis of Proportions.|https://dx.doi.org/10.1111/wrr.13143

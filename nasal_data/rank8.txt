@@ -264,3 +264,22 @@ EUFOREA/EPOS2020 statement on the clinical considerations for CRSwNP care.|https
 Recent advances in composite hydrogels: synthesis, classification, and application in the treatment of bone defects.|https://dx.doi.org/10.1039/d3bm01795h
 Outcomes of culture-negative or -positive periprosthetic joint infections: A systematic review and meta-analysis.|https://dx.doi.org/10.52312/jdrs.2023.1437
 Treatment of intractable septic ankle arthritis with a continuous closed irrigation system.|https://dx.doi.org/10.52312/jdrs.2023.1224
+Mucosal SARS-CoV-2 vaccination of rodents elicits superior systemic T central memory function and cross-neutralising antibodies against variants of concern.|https://dx.doi.org/10.1016/j.ebiom.2023.104924
+Systemic ciprofloxacin treatment of multidrug-resistant Aggregatibacter actinomycetemcomitans in severe periodontitis.|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116162
+Synchronous presentation of hepatocellular carcinoma and intrahepatic cholangiocarcinoma: Report of an exceptional case with review of the literature.|https://dx.doi.org/10.1016/j.ijscr.2023.109140
+Prosthetic joint infections: 6 weeks of oral antibiotics results in a low failure rate.|https://dx.doi.org/10.1093/jac/dkad382
+A surgically salvaged case: emergency Root-Commando procedure for infective endocarditis and chronic dissecting aneurysm of the sinus of Valsalva.|https://dx.doi.org/10.1093/icvts/ivad207
+Exploration of wound-related complications post-kidney transplantation.|https://dx.doi.org/10.1111/iwj.14578
+Coexistence of Bloom Syndrome and Kostmann Disease and a Novel Mutation.|https://dx.doi.org/10.1097/MPH.0000000000002798
+Topical Antibiotic Prophylaxis for Preventing Surgical Site Infections of Clean Wounds: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1089/sur.2023.182
+In silico exploration of venlafaxine, a potential non-tricyclic antidepressant in a liposomal formulation for nose-to-brain drug delivery.|https://dx.doi.org/10.1080/03639045.2023.2297238
+Rapid Semiconducting Supramolecular Mg(II)-Metallohydrogel: Exploring Its Potential in Nonvolatile Resistive Switching Applications and Antiseptic Wound Healing Properties.|https://dx.doi.org/10.1021/acs.langmuir.3c02298
+IMMUNITY CHANGES IN PATIENTS WITH ACUTE MAXILLOFACIAL ODONTOGENIC INFECTIONS DURING TREATMENT STAGES: AN ANALYSIS.|https://dx.doi.org/10.36740/WLek202311116
+A Zinc Oxide Nanowire-Modified Mineralized Collagen Scaffold Promotes Infectious Bone Regeneration.|https://dx.doi.org/10.1002/smll.202309230
+Wound complication risk factors following open reduction and internal fixation of ankle fractures.|https://dx.doi.org/10.1111/iwj.14581
+Early versus late removal of the I-Gel in paediatric patients with mild upper respiratory tract symptoms undergoing ambulatory ilioinguinal surgery: A prospective observational study.|https://dx.doi.org/10.1177/17504589231211445
+Extracorporeal membrane oxygenation in obstetric patients: An Israeli nationwide study.|https://dx.doi.org/10.1111/aor.14691
+Assessing postoperative wound infection rates in ultrasound-guided microwave ablation versus conventional surgery for varicose veins.|https://dx.doi.org/10.1111/iwj.14584
+First case report of Candida guilliermondii native left-sided valve endocarditis.|https://dx.doi.org/10.3389/fcvm.2023.1273255
+Fournier gangrene - would you KISS it?|https://dx.doi.org/10.3205/iprs000182
+Factors Affecting the Qualification Rate of Hand Disinfection Among Physicians: A Cross-Sectional Survey.|https://dx.doi.org/10.2147/JMDH.S430604

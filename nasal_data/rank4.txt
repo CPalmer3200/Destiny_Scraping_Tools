@@ -150,3 +150,11 @@ Experience With a Vancomycin-sparing Empiric Antibiotic Guideline for Late-onset
 Using the exploration, preparation, implementation, sustainment (EPIS) framework to assess the cooperative re-engagement controlled trial (CoRECT).|https://dx.doi.org/10.3389/fpubh.2023.1223149
 Potentially Fatal Ludwig's Angina: A Case Report.|https://dx.doi.org/10.7759/cureus.48885
 Successful Treatment of Fishbone-Induced Esophageal Perforation and Mediastinal Abscess: A Case Report and Literature Review.|https://dx.doi.org/10.12659/AJCR.942056
+Concurrent determination of anti-microbial and anti-inflammatory drugs in lachrymal fluid and tissue by LC-MS/MS: A potential treatment for microbial keratitis and its PK-PD evaluation.|https://dx.doi.org/10.1016/j.jpba.2023.115920
+Which alternative well-fit masks can be used in medical procedures?|https://dx.doi.org/10.1016/j.jiph.2023.11.023
+Validation of spectrophotometric and colorimetric methods to quantify clindamycin in skin tissue: application to in vitro release and ex vivo dermatokinetic studies from separable effervescent microarray patch loaded bacterially sensitive microparticle.|https://dx.doi.org/10.1007/s44211-023-00478-3
+The Infectious Diseases Society of America Guidelines on the Diagnosis of Coronavirus Disease 2019 (COVID-19): Molecular Diagnostic Testing.|https://dx.doi.org/10.1093/cid/ciad646
+Risk and management of post-operative infectious complications in inflammatory bowel disease: A systematic review.|https://dx.doi.org/10.4240/wjgs.v15.i11.2579
+Surgical Outcomes After Frontalis Suspension Using Expanded Polytetrafluoroethylene Sling for Congenital Ptosis.|https://dx.doi.org/10.7759/cureus.49020
+Healing Rates and Outcomes Following Closed Transmetatarsal Amputations: A Systematic Review and Random Effects Meta-Analysis of Proportions.|https://dx.doi.org/10.1111/wrr.13143
+Bladder instillation patterns in a cohort of women with interstitial cystitis/bladder pain syndrome.|https://dx.doi.org/10.1097/spv.0000000000001369

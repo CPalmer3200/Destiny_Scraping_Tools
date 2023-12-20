@@ -63,3 +63,12 @@ A 10-year retrospective study of methicillin-resistant Staphylococcus aureus fro
 Successful management of severe generalized tetanus in a 23-year man with phenobarbital adjuvant: A case report.|https://dx.doi.org/10.1002/ccr3.8286
 The Association Between Serum Vancomycin Level and Clinical Outcome in Patients With Peritoneal Dialysis Associated Peritonitis.|https://dx.doi.org/10.1016/j.ekir.2023.09.013
 Prediction of Acute Kidney Injury in Intracerebral Hemorrhage Patients Using Machine Learning.|https://dx.doi.org/10.2147/NDT.S439549
+Systemic ciprofloxacin treatment of multidrug-resistant Aggregatibacter actinomycetemcomitans in severe periodontitis.|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116162
+Selective purification and rapid quantitative detection of spores using a "stepped" magnetic flow device.|https://dx.doi.org/10.1039/d3ay01956j
+Pharmacokinetics of Locally Applied Antibiotic Prophylaxis for Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1001/jamanetworkopen.2023.48414
+Clinical characteristics and antimicrobial susceptibility of Fusobacterium species isolated over 10 years at a Japanese university hospital.|https://dx.doi.org/10.1007/s10096-023-04734-2
+The population structure of vancomycin-resistant and -susceptible Enterococcus faecium in a low-prevalence antimicrobial resistance setting is highly influenced by circulating global hospital-associated clones.|https://dx.doi.org/10.1099/mgen.0.001160
+Effects of clinically achievable pulmonary antibiotic concentrations on the recovery of bacteria: in vitro comparison of the BioFire FILMARRAY Pneumonia Panel versus conventional culture methods in bronchoalveolar lavage fluid.|https://dx.doi.org/10.1128/jcm.01133-23
+Investigating the antidiabetic efficacy of dairy-derived Lacticaseibacillus paracasei probiotic strains: modulating α-amylase and α-glucosidase enzyme functions.|https://dx.doi.org/10.3389/fmicb.2023.1288487
+Phenotypic shifts induced by environmental pre-stressors modify antibiotic resistance in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304509
+Empyema Necessitatis: A Rare Complication of Empyema.|https://dx.doi.org/10.7759/cureus.48973

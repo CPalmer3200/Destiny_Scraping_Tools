@@ -13,3 +13,6 @@ Super-enhancers include classical enhancers and facilitators to fully activate g
 Potential contamination and health risk assessment of heavy metals in Hurghada coastal sediments, Northwestern Red Sea.|https://dx.doi.org/10.1016/j.marpolbul.2023.115924
 Hydrolyzed Hydrated Titanium Oxide on Laser-Induced Graphene as CDI Electrodes for U(VI) Adsorption.|https://dx.doi.org/10.1021/acs.langmuir.3c02927
 Non-carcinogenic and carcinogenic health risk assessment of heavy metals in cooked beans and vegetables in Punjab, North India.|https://dx.doi.org/10.1002/fsn3.3678
+Evaluation of murine renal phagocyte-fungal interactions using intravital confocal microscopy and flow cytometry.|https://dx.doi.org/10.1016/j.xpro.2023.102781
+Design, Synthesis, and Evaluation of Cephamycin-Based Antisporulation Agents targeting Clostridioides difficile.|https://dx.doi.org/10.1021/acs.jmedchem.3c01662
+A comprehensive assessment of the prolonged febrile neutropenia evaluation in pediatric oncology patients.|https://dx.doi.org/10.1002/pbc.30818
