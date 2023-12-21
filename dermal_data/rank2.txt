@@ -17,3 +17,4 @@ Health-related quality of life in people with different diabetes-related foot ul
 Cefiderocol-associated brown chromaturia.|https://dx.doi.org/10.1136/bcr-2023-258207
 Validation of spectrophotometric and colorimetric methods to quantify clindamycin in skin tissue: application to in vitro release and ex vivo dermatokinetic studies from separable effervescent microarray patch loaded bacterially sensitive microparticle.|https://dx.doi.org/10.1007/s44211-023-00478-3
 Healing Rates and Outcomes Following Closed Transmetatarsal Amputations: A Systematic Review and Random Effects Meta-Analysis of Proportions.|https://dx.doi.org/10.1111/wrr.13143
+Increase in antibiotic resistance in diabetic foot infections among peruvian patients: a single-center cross-sectional study.|https://dx.doi.org/10.3389/fendo.2023.1267699

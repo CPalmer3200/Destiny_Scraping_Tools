@@ -4,3 +4,4 @@ GehB Inactivates Lipoproteins to Delay the Healing of Acute Wounds Infected with
 A 10-year retrospective study of methicillin-resistant Staphylococcus aureus from burn wound infection in southeast China from 2013 to 2022.|https://dx.doi.org/10.3389/fmicb.2023.1301744
 Pseudomonas aeruginosa kills Staphylococcus aureus in a polyphosphate-dependent manner.|https://dx.doi.org/10.1101/2023.12.05.570291
 Pharmacokinetics of Locally Applied Antibiotic Prophylaxis for Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1001/jamanetworkopen.2023.48414
+The clinical differentiation of blood culture-positive and -negative sepsis in burn patients: a retrospective cohort study.|https://dx.doi.org/10.1093/burnst/tkad031

@@ -8,3 +8,4 @@ Utilizing the Photodynamic Properties of Curcumin to Disrupt Biofilms in Cutibac
 Liposomal formulation of a new antifungal hybrid compound provides protection against Candida auris in the ex vivo skin colonization model.|https://dx.doi.org/10.1128/aac.00955-23
 Exploring the antibacterial and dermatitis-mitigating properties of chicken egg white-synthesized zinc oxide nano whiskers.|https://dx.doi.org/10.3389/fcimb.2023.1295593
 Treatment of wound infections linked to neurosurgical implants.|https://dx.doi.org/10.1111/iwj.14528
+Proguanil and chlorhexidine augment the antibacterial activities of clarithromycin and rifampicin against Acinetobacter baumannii.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107065

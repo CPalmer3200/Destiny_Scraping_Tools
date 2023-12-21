@@ -158,3 +158,17 @@ Risk and management of post-operative infectious complications in inflammatory b
 Surgical Outcomes After Frontalis Suspension Using Expanded Polytetrafluoroethylene Sling for Congenital Ptosis.|https://dx.doi.org/10.7759/cureus.49020
 Healing Rates and Outcomes Following Closed Transmetatarsal Amputations: A Systematic Review and Random Effects Meta-Analysis of Proportions.|https://dx.doi.org/10.1111/wrr.13143
 Bladder instillation patterns in a cohort of women with interstitial cystitis/bladder pain syndrome.|https://dx.doi.org/10.1097/spv.0000000000001369
+Evaluation and clinical practice of pathogens and antimicrobial resistance genes of BioFire FilmArray Pneumonia panel in lower respiratory tract infections.|https://dx.doi.org/10.1007/s15010-023-02144-2
+Mass Relapse Prevention to Reduce Transmission of Plasmodium vivax-A Systematic Review.|https://dx.doi.org/10.4269/ajtmh.22-0727
+Reducing Malaria Transmission through Reactive Indoor Residual Spraying: A Systematic Review.|https://dx.doi.org/10.4269/ajtmh.22-0745
+Reactive Case Detection and Treatment and Reactive Drug Administration for Reducing Malaria Transmission: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.4269/ajtmh.22-0720
+Pain management in primary care: A review of the updated CDC guideline.|https://dx.doi.org/10.1097/01.NPR.0000000000000136
+Pain management in primary care: A review of the updated CDC guideline.|https://dx.doi.org/10.1097/01.NPR.0000000000000131
+Racial differences in testing for infectious diseases: An analysis of jail intake data.|https://dx.doi.org/10.1371/journal.pone.0288254
+Childcare Disruptions and Parental Stress During the COVID-19 Pandemic.|https://dx.doi.org/10.1097/DBP.0000000000001241
+Cemento-Osseous Dysplasia: A Detailed Comparison of the 2005 and 2017 WHO Classifications and Case Analysis.|https://dx.doi.org/10.7759/cureus.49041
+Effects of pharmacist-driven protocol on naloxone prescribing rates in two primary care clinics.|https://dx.doi.org/10.1016/j.pmedr.2023.102493
+Infectious diseases in Afghanistan: Strategies for health system improvement.|https://dx.doi.org/10.1002/hsr2.1775
+Prophylactic Use of Negative Pressure Wound Therapy in High-risk Patients Undergoing Oncoplastic and Reconstructive Breast Surgery.|https://dx.doi.org/10.1097/GOX.0000000000005488
+COVID-19 vaccine effectiveness against severe COVID-19 requiring oxygen therapy, invasive mechanical ventilation, and death in Japan: A multicenter case-control study (MOTIVATE study).|https://dx.doi.org/10.1016/j.vaccine.2023.12.033
+[Diagnosis and treatment of disorders of laryngeal airway in children and prospect].|https://dx.doi.org/10.13201/j.issn.2096-7993.2023.12.001

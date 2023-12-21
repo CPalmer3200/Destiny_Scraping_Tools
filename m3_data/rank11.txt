@@ -72,3 +72,13 @@ Effects of clinically achievable pulmonary antibiotic concentrations on the reco
 Investigating the antidiabetic efficacy of dairy-derived Lacticaseibacillus paracasei probiotic strains: modulating α-amylase and α-glucosidase enzyme functions.|https://dx.doi.org/10.3389/fmicb.2023.1288487
 Phenotypic shifts induced by environmental pre-stressors modify antibiotic resistance in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304509
 Empyema Necessitatis: A Rare Complication of Empyema.|https://dx.doi.org/10.7759/cureus.48973
+Discovery of a structural class of antibiotics with explainable deep learning.|https://dx.doi.org/10.1038/s41586-023-06887-8
+The first tigecycline resistant Enterococcus faecium in Norway was related to tigecycline exposure.|https://dx.doi.org/10.1016/j.jgar.2023.12.002
+Assessment of antibiotic resistance patterns in Central Taiwan during the COVID-19 pandemic: A retrospective study.|https://dx.doi.org/10.1016/j.jiph.2023.11.026
+Vancomycin Graft Presoaking in Anterior Cruciate Ligament Reconstruction Surgery Is Associated with a Lower Risk of Graft Rerupture as Compared With No Vancomycin Presoaking: Systematic Review and Meta-analysis.|https://dx.doi.org/10.2106/JBJS.RVW.23.00145
+Inter-Hospital Transfer Is an Independent Risk Factor for Hospital-Associated Infection.|https://dx.doi.org/10.1089/sur.2023.077
+Catheter-Associated Vancomycin-Resistant Enterococcus faecium Ventriculitis and Multidrug-Resistant Acinetobacter baumannii Pneumonia With Subsequent Acinetobacter Ventriculitis: A Case Report.|https://dx.doi.org/10.7759/cureus.49058
+A retrospective study of endogenous endophthalmitis-related pyogenic liver abscess: An increasing complication in North Vietnam.|https://dx.doi.org/10.1177/20503121231218897
+Antilisterial activity of raw sheep milk from two native Epirus breeds: Culture-dependent identification, bacteriocin gene detection and primary safety evaluation of the antagonistic LAB biota.|https://dx.doi.org/10.1016/j.crmicr.2023.100209
+Effects of amoxicillin and metronidazole as an adjunct to scaling and root planing on glycemic control in patients with periodontitis and type 2 diabetes: A short-term randomized controlled trial.|https://dx.doi.org/10.1111/jre.13225
+Microbiological profile of patients treated for postoperative peritonitis: temporal trends 1999-2019.|https://dx.doi.org/10.1186/s13017-023-00528-1

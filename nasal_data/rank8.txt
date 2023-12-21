@@ -283,3 +283,16 @@ Assessing postoperative wound infection rates in ultrasound-guided microwave abl
 First case report of Candida guilliermondii native left-sided valve endocarditis.|https://dx.doi.org/10.3389/fcvm.2023.1273255
 Fournier gangrene - would you KISS it?|https://dx.doi.org/10.3205/iprs000182
 Factors Affecting the Qualification Rate of Hand Disinfection Among Physicians: A Cross-Sectional Survey.|https://dx.doi.org/10.2147/JMDH.S430604
+[Analysis of complications and learning curve effects related to deep brain stimulation surgery in 822 Parkinson's disesase patients with the same surgeon].|https://dx.doi.org/10.3760/cma.j.cn112137-20231030-00945
+[The efficacy analysis of neurosurgical robot-assisted DBS in the treatment of elderly Parkinson's disease].|https://dx.doi.org/10.3760/cma.j.cn112137-20231006-00642
+Semaglutide Use Prior to Total Hip Arthroplasty Results in Fewer Postoperative Prosthetic Joint Infections and Readmissions.|https://dx.doi.org/10.1016/j.arth.2023.12.023
+Equine influenza outbreak in Eastern of Algeria in 2021: The first introduction of Florida Clade 1 to Maghreb area.|https://dx.doi.org/10.1016/j.cimid.2023.102109
+A practical definition of pin site infection.|https://dx.doi.org/10.1016/j.injury.2023.111230
+Antibiotic-loaded bone cement combined with negative pressure wound therapy for treating sacrococcygeal wound following sacral chordoma resection: a case report.|https://dx.doi.org/10.25270/wmp.23008
+Inter-Hospital Transfer Is an Independent Risk Factor for Hospital-Associated Infection.|https://dx.doi.org/10.1089/sur.2023.077
+Impact of preoperative chemotherapy on cutaneous wound healing in lung cancer patients: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14518
+Infective Endocarditis caused by Trichosporon spp. which was effectively managed through a combination of voriconazole administration and surgical intervention.|https://dx.doi.org/10.20452/pamw.16635
+Utilization of Antibiotic Bone Cement in Spine Surgery: Pearls, Techniques, and Case Review.|https://dx.doi.org/10.52965/001c.90618
+The Reoperation, Readmission, and Complication Rates at 30 Days Following Lumbar Decompression for Cauda Equina Syndrome.|https://dx.doi.org/10.7759/cureus.49059
+Infective Endocarditis Following Aortic Valve Replacement: A Systematic Review.|https://dx.doi.org/10.7759/cureus.49048
+Safety tests and clinical research on buccal and nasal microneedle swabs for genomic analysis.|https://dx.doi.org/10.3389/fbioe.2023.1296832

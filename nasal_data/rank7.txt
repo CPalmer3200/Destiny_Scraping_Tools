@@ -328,3 +328,23 @@ Characteristic analysis of China's actions against the COVID-19 in schools and c
 A SARS-CoV-2 Omicron outbreak among crew members on a cruise ship in Germany in early 2022.|https://dx.doi.org/10.5603/imh.96935
 Design and Implementation of a Federal Program to Engage Community Partners to Reduce Disparities in Adult COVID-19 Immunization Uptake, United States, 2021-2022.|https://dx.doi.org/10.1177/00333549231208642
 Safety and immunogenicity of primary vaccination with a SARS-CoV-2 mRNA vaccine (SYS6006) in Chinese participants aged 18 years or more: Two randomized, observer-blinded, placebo-controlled and dose-escalation phase 1 clinical trials.|https://dx.doi.org/10.1080/21645515.2023.2285089
+Machine learning identifies risk factors associated with long-term sick leave following COVID-19 in Danish population.|https://dx.doi.org/10.1038/s43856-023-00423-5
+Impact of long COVID on the heart rate variability at rest and during deep breathing maneuver.|https://dx.doi.org/10.1038/s41598-023-50276-0
+SARS-CoV-2 specific sIgA in saliva increases after disease-related video stimulation.|https://dx.doi.org/10.1038/s41598-023-47798-y
+Quantitatively assessing early detection strategies for mitigating COVID-19 and future pandemics.|https://dx.doi.org/10.1038/s41467-023-44199-7
+Real-world effectiveness of full and booster mRNA vaccination for coronavirus disease 2019 against disease severity during the delta- and omicron-dominant phases: A propensity score-matched cohort study using the nationwide registry data in Japan.|https://dx.doi.org/10.1016/j.jmii.2023.12.002
+Assessment of antibiotic resistance patterns in Central Taiwan during the COVID-19 pandemic: A retrospective study.|https://dx.doi.org/10.1016/j.jiph.2023.11.026
+Surviving pandemic control measures: The experiences of female sex workers during COVID-19 in Nairobi, Kenya.|https://dx.doi.org/10.1080/17441692.2023.2290117
+Preparing for the Next Pandemic: Increased Expression of Interferon-Stimulated Genes After Local Administration of Nasalferon or HeberNasvac.|https://dx.doi.org/10.1089/dna.2023.0283
+Stakeholders' perspectives on barriers to and facilitators of school-based HPV vaccination in the context of COVID-19 pandemic-related disruption: a qualitative mixed methods study.|https://dx.doi.org/10.1080/17482631.2023.2295879
+Integrating health belief model and theory of planned behavior to assess COVID-19 vaccine acceptance among urban slum people in Bangladesh.|https://dx.doi.org/10.1371/journal.pone.0290412
+The role of the social sciences and humanities in pandemic preparedness responses: insights gained from COVID-19, HIV and AIDS and related epidemics.|https://dx.doi.org/10.2989/16085906.2023.2262977
+Beyond the discourses of policy and power: HIV, AIDS, and community perspectives on the lived pandemic.|https://dx.doi.org/10.2989/16085906.2023.2289392
+Update on coronavirus disease 2019: Ophthalmic Manifestations and Adverse Reactions to Vaccination.|https://dx.doi.org/10.1097/APO.0000000000000647
+Mesenchymal stem cell therapy for COVID-19 infection.|https://dx.doi.org/10.1007/s10787-023-01394-8
+Musculoskeletal manifestations of COVID-19.|https://dx.doi.org/10.1007/s00256-023-04549-4
+Moral distress among critical care nurses before and during the COVID-19 pandemic: A systematic review.|https://dx.doi.org/10.1177/09697330231221196
+How long can pulmonary resection surgery be performed after SARS-CoV-2 infection? a multicenter retrospective study.|https://dx.doi.org/10.1097/JS9.0000000000000961
+Dual-Signal Imaging Mode Based on Fluorescence and Electrochemiluminescence for Ultrasensitive Visualization of SARS-CoV-2 Spike Protein.|https://dx.doi.org/10.1021/acs.analchem.3c04535
+Designing and Expression of Recombinant Chimeric Spike Protein from SARS-CoV-2 in Escherichia coli and Its Immunogenicity Assessment.|https://dx.doi.org/10.5812/ijpr-137751
+The Efficacy of High-Dose Pulse Therapy vs. Low-Dose Intravenous Methylprednisolone on Severe to Critical COVID-19 Clinical Outcomes: A Randomized Clinical Trial.|https://dx.doi.org/10.5812/ijpr-137838

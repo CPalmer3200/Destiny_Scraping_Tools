@@ -16,3 +16,7 @@ Non-carcinogenic and carcinogenic health risk assessment of heavy metals in cook
 Evaluation of murine renal phagocyte-fungal interactions using intravital confocal microscopy and flow cytometry.|https://dx.doi.org/10.1016/j.xpro.2023.102781
 Design, Synthesis, and Evaluation of Cephamycin-Based Antisporulation Agents targeting Clostridioides difficile.|https://dx.doi.org/10.1021/acs.jmedchem.3c01662
 A comprehensive assessment of the prolonged febrile neutropenia evaluation in pediatric oncology patients.|https://dx.doi.org/10.1002/pbc.30818
+Physics constrained unsupervised deep learning for rapid, high resolution scanning coherent diffraction reconstruction.|https://dx.doi.org/10.1038/s41598-023-48351-7
+The impact of gut microbiome enterotypes on ulcerative colitis: identifying key bacterial species and revealing species co-occurrence networks using machine learning.|https://dx.doi.org/10.1080/19490976.2023.2292254
+Assessing Trace Metal-Based Human Health Risks for Commonly Used Body Soaps in Bangladesh.|https://dx.doi.org/10.1007/s12011-023-04023-1
+A reliable external calibration method for reaction monitoring with benchtop NMR.|https://dx.doi.org/10.1002/mrc.5421

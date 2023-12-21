@@ -16,3 +16,4 @@ Analysis and comparison of bioactive phytochemical composition and antibacterial
 A photothermally antibacterial Au@Halloysite nanotubes/lignin composite hydrogel for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128704
 A 4d Printed Adhesive, Thermo-Contractile, and Degradable Hydrogel for Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202303499
 Silver Nanoparticle-Loaded Titanium-Based Metal-Organic Framework for Promoting Antibacterial Performance by Synergistic Chemical-Photodynamic Therapy.|https://dx.doi.org/10.1021/acs.inorgchem.3c03555
+Stereogenic Harmony Fabricated Mechanoresponsive Homochiral Triphenylalanine Analogues with Synergistic Antibacterial Performances: A Potential Weapon for Dermal Wound Management.|https://dx.doi.org/10.1021/acsabm.3c00926

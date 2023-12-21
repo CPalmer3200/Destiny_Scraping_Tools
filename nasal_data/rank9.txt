@@ -277,3 +277,19 @@ Methicillin Resistant Staphylococcus aureus: Molecular Mechanisms Underlying Dru
 Phenotypic shifts induced by environmental pre-stressors modify antibiotic resistance in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304509
 Wheel of misfortune: A unique case of MRSA pyomyositis of the adductor muscle group from blunt unicycle trauma.|https://dx.doi.org/10.1002/ccr3.8295
 The tumoral microbiome of pancreatic intraductal papillary mucinous neoplasm: A single-center retrospective cohort study.|https://dx.doi.org/10.1111/jgh.16437
+Green synthesis of MnO(2)-embedded Rauvolfia tetraphylla leaves (MnO(2)@RTL) for crystal violet dye removal and as an antibacterial agent.|https://dx.doi.org/10.1007/s11356-023-31442-3
+Synthesis and in-vitro anti-proliferative with antimicrobial activity of new coumarin containing heterocycles hybrids.|https://dx.doi.org/10.1038/s41598-023-50170-9
+Discovery of a structural class of antibiotics with explainable deep learning.|https://dx.doi.org/10.1038/s41586-023-06887-8
+Aldehyde-free and bio-based durable coatings for cellulose fabrics with high flame retardancy, antibacteria and well wearing performance.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128744
+Phenolic constituents with antibacterial activity from Eleutherine bulbosa.|https://dx.doi.org/10.1016/j.fitote.2023.105787
+Bothrops snake venom L-amino acid oxidases impair biofilm formation of clinically relevant bacteria.|https://dx.doi.org/10.1016/j.toxicon.2023.107569
+Specific separation and sensitive detection of foodborne pathogens by phage-derived bacterial-binding protein-nano magnetic beads coupled with smartphone-assisted paper sensor.|https://dx.doi.org/10.1016/j.bios.2023.115911
+A two-stage design enhanced biodegradation of high concentrations of a C16-alkyl quaternary ammonium compound in oxygen-based membrane biofilm reactors.|https://dx.doi.org/10.1016/j.watres.2023.120963
+Genomic characterization of a unique Panton-Valentine leucocidin-positive community-associated methicillin-resistant Staphylococcus aureus lineage increasingly impacting on Australian indigenous communities.|https://dx.doi.org/10.1099/mgen.0.001172
+Structural and Functional Analyses of the Flavoprotein Disulfide Reductase FN0820 of Fusobacterium nucleatum.|https://dx.doi.org/10.1007/s12275-023-00095-9
+A Novel Kunitz-Type Serine Protease Inhibitor (HcKuSPI) is Involved in Antibacterial Defense in Innate Immunity and Participates in Shell Formation of Hyriopsis cumingii.|https://dx.doi.org/10.1007/s10126-023-10275-8
+Molecular identification and safety assessment of the potential probiotic strain Bacillus paralicheniformis HMPM220325 isolated from artisanal fruit dairy products.|https://dx.doi.org/10.1039/d3fo04625g
+Extracellular Proteins Isolated from L. acidophilus as an Osteomicrobiological Therapeutic Agent to Reduce Pathogenic Biofilm Formation, Regulate Chronic Inflammation, and Augment Bone Formation In Vitro.|https://dx.doi.org/10.1002/adhm.202302835
+Stereogenic Harmony Fabricated Mechanoresponsive Homochiral Triphenylalanine Analogues with Synergistic Antibacterial Performances: A Potential Weapon for Dermal Wound Management.|https://dx.doi.org/10.1021/acsabm.3c00926
+In Vitro and In Vivo Antidiabetic, α-Glucosidase Inhibition and Antibacterial Activities of Three Brown Algae, Polycladia myrica, Padina antillarum, and Sargassum boveanum, and a Red Alga, Palisada perforata from the Persian Gulf.|https://dx.doi.org/10.5812/ijpr-133731
+Healing wounds, defeating biofilms: Lactiplantibacillus plantarum in tackling MRSA infections.|https://dx.doi.org/10.3389/fmicb.2023.1284195
