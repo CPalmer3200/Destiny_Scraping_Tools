@@ -172,3 +172,16 @@ Infectious diseases in Afghanistan: Strategies for health system improvement.|ht
 Prophylactic Use of Negative Pressure Wound Therapy in High-risk Patients Undergoing Oncoplastic and Reconstructive Breast Surgery.|https://dx.doi.org/10.1097/GOX.0000000000005488
 COVID-19 vaccine effectiveness against severe COVID-19 requiring oxygen therapy, invasive mechanical ventilation, and death in Japan: A multicenter case-control study (MOTIVATE study).|https://dx.doi.org/10.1016/j.vaccine.2023.12.033
 [Diagnosis and treatment of disorders of laryngeal airway in children and prospect].|https://dx.doi.org/10.13201/j.issn.2096-7993.2023.12.001
+Preventing Aerosol-Transmissible Diseases in Healthcare Settings: The Need for Protective Guidelines and Standards-Workshop Report.|https://dx.doi.org/10.1177/10482911231215498
+Time Playing Outdoors Among Children Aged 3-5 Years: National Survey of Children's Health, 2021.|https://dx.doi.org/10.1016/j.amepre.2023.12.011
+The experience of an antimicrobial stewardship program and antibiotic consumption and resistance trends during the COVID-19 pandemic at a tertiary care center in Beirut.|https://dx.doi.org/10.1016/j.jiph.2023.12.007
+SARS-CoV-2 Rebound With and Without Use of COVID-19 Oral Antivirals.|https://dx.doi.org/10.15585/mmwr.mm7251a1
+Effects of Multi-Month Dispensing on Clinical Outcomes: Retrospective Cohort Analysis Conducted in Kenya.|https://dx.doi.org/10.1007/s10461-023-04247-1
+Large-scale and regional climatic influences on surface temperature and precipitation in the South Shetland Islands, northern Antarctic Peninsula.|https://dx.doi.org/10.1590/0001-3765202320230685
+The consensus guideline of perioperative antiviral therapy for AIDS patients in China based on clinical practice.|https://dx.doi.org/10.3389/fmed.2023.1267236
+Understanding the diagnosis of catheter-related bloodstream infection: real-time monitoring of biofilm growth dynamics using time-lapse optical microscopy.|https://dx.doi.org/10.3389/fcimb.2023.1286527
+Global characteristics and trends in research on Candida auris.|https://dx.doi.org/10.3389/fmicb.2023.1287003
+Predictors of hospital mortality and multidrug-resistant pathogens in hospitalized pneumonia patients residing in the community.|https://dx.doi.org/10.1016/j.heliyon.2023.e22303
+Surgical Resection of Neurogenic Heterotopic Ossification around Hip Joint in Stroke Patients: A Safety and Outcome Report.|https://dx.doi.org/10.5371/hp.2023.35.4.268
+The wide variety of methotrexate dosing regimens for the treatment of atopic dermatitis: a systematic review.|https://dx.doi.org/10.1080/09546634.2023.2292962
+Augmented Safety Profile of Ultrasound-guided Gluteal Fat Transfer: Retrospective Study With 1815 Patients.|https://dx.doi.org/10.1093/asj/sjad377

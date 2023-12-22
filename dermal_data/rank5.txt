@@ -9,3 +9,6 @@ Liposomal formulation of a new antifungal hybrid compound provides protection ag
 Exploring the antibacterial and dermatitis-mitigating properties of chicken egg white-synthesized zinc oxide nano whiskers.|https://dx.doi.org/10.3389/fcimb.2023.1295593
 Treatment of wound infections linked to neurosurgical implants.|https://dx.doi.org/10.1111/iwj.14528
 Proguanil and chlorhexidine augment the antibacterial activities of clarithromycin and rifampicin against Acinetobacter baumannii.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107065
+A machine learning approach to identifying Salmonella stress response genes in isolates from poultry processing.|https://dx.doi.org/10.1016/j.foodres.2023.113635
+Mechanisms of pathogenicity for the emerging fungus Candida auris.|https://dx.doi.org/10.1371/journal.ppat.1011843
+Global characteristics and trends in research on Candida auris.|https://dx.doi.org/10.3389/fmicb.2023.1287003

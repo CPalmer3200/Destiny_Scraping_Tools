@@ -296,3 +296,19 @@ Utilization of Antibiotic Bone Cement in Spine Surgery: Pearls, Techniques, and 
 The Reoperation, Readmission, and Complication Rates at 30 Days Following Lumbar Decompression for Cauda Equina Syndrome.|https://dx.doi.org/10.7759/cureus.49059
 Infective Endocarditis Following Aortic Valve Replacement: A Systematic Review.|https://dx.doi.org/10.7759/cureus.49048
 Safety tests and clinical research on buccal and nasal microneedle swabs for genomic analysis.|https://dx.doi.org/10.3389/fbioe.2023.1296832
+Genetic polymorphisms associated with UTI in children and adults: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.ajog.2023.12.018
+Cemented Total Hip Arthroplasty is Associated with Increased Complications Following Primary Osteoarthritis.|https://dx.doi.org/10.1016/j.arth.2023.12.024
+Clarifying pertussis in Denmark.|https://dx.doi.org/10.1016/S1473-3099(23)00757-0
+Features of infective endocarditis in a contemporary cohort of persons who inject drugs: a matched comparison analysis of long-term prognostic factors.|https://dx.doi.org/10.1007/s11739-023-03502-6
+Automatic irrigation system with a fiber-optic pressure sensor regulating intrapelvic pressure for flexible ureteroscopy.|https://dx.doi.org/10.1038/s41598-023-47373-5
+Higher Blood Glucose Levels on the Day of Surgery Are Associated with an Increased Risk of Periprosthetic Joint Infection After Total Hip Arthroplasty.|https://dx.doi.org/10.2106/JBJS.23.00546
+3D Molybdenum Disulfide Nanospheres Loaded with Metformin to Enhance SCPP Scaffolds for Bone Regeneration.|https://dx.doi.org/10.1021/acsami.3c14229
+Thirty-Day Outcomes After Acute Total Hip Arthroplasty Combined With Internal Fixation of Acetabular Fractures: A Multi-Institutional Database Analysis.|https://dx.doi.org/10.5435/JAAOSGlobal-D-23-00071
+Incidence, factors, and prognostic analyses of challenging cardiopulmonary bypass separation in Chinese cardiac surgical populations.|https://dx.doi.org/10.23736/S0375-9393.23.17727-3
+Efficacy and safety of V-Loc(™) barbed sutures versus conventional suture techniques in gynecological surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00404-023-07291-3
+Comparison of burr hole drainage and craniotomy for acute liquid epidural hematoma in pediatric patients.|https://dx.doi.org/10.1007/s00381-023-06258-8
+Blocking screw (pin) technique to achieve an acceptable reduction in intramedullary of subtrochanteric femoral fractures: indications, techniques, and clinical outcomes.|https://dx.doi.org/10.1007/s00402-023-05156-7
+Trigeminal function in patients with COVID-associated olfactory loss.|https://dx.doi.org/10.1007/s00405-023-08391-1
+CVID With Unusual Peripheral Mononeuropathy and Associated IL-7 Receptor Mutation.|https://dx.doi.org/10.1093/milmed/usad480
+Pediatric thoracoscopic lung resections: a comprehensive analysis of congenital lesion cases.|https://dx.doi.org/10.1080/00015458.2023.2297539
+Infectious endarteritis in aortic coarctation: two spectra of an infrequent disease.|https://dx.doi.org/10.1590/1984-0462/2024/42/2023084

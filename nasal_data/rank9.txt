@@ -293,3 +293,15 @@ Extracellular Proteins Isolated from L. acidophilus as an Osteomicrobiological T
 Stereogenic Harmony Fabricated Mechanoresponsive Homochiral Triphenylalanine Analogues with Synergistic Antibacterial Performances: A Potential Weapon for Dermal Wound Management.|https://dx.doi.org/10.1021/acsabm.3c00926
 In Vitro and In Vivo Antidiabetic, α-Glucosidase Inhibition and Antibacterial Activities of Three Brown Algae, Polycladia myrica, Padina antillarum, and Sargassum boveanum, and a Red Alga, Palisada perforata from the Persian Gulf.|https://dx.doi.org/10.5812/ijpr-133731
 Healing wounds, defeating biofilms: Lactiplantibacillus plantarum in tackling MRSA infections.|https://dx.doi.org/10.3389/fmicb.2023.1284195
+Repurposing ebselen as an inhalable dry powder to treat respiratory tract infections.|https://dx.doi.org/10.1016/j.ejpb.2023.12.010
+Antimicrobial potential of linear low-density polyethylene food packaging with Ag nanoparticles in different carriers (Silica and Hydroxyapatite).|https://dx.doi.org/10.1016/j.mimet.2023.106873
+Humidity-adjustable functional gelatin hydrogel/ethyl cellulose bilayer films for active food packaging application.|https://dx.doi.org/10.1016/j.foodchem.2023.138202
+Rapid detection of Salmonella typhimurium by photonic PCR-LFIS dual mode visualization.|https://dx.doi.org/10.1016/j.talanta.2023.125553
+Hot-pressing Metal Covalent Organic Frameworks as Personal Protection Films.|https://dx.doi.org/10.1002/adma.202311519
+Unveiling Synergistic Potency: Exploring Butyrolactone I to Enhance Gentamicin Efficacy against Methicillin-Resistant Staphylococcus aureus (MRSA) Strain USA300.|https://dx.doi.org/10.1021/acsinfecdis.3c00534
+Frequent microbiological profile changes are seen in subsequent-revision hip and knee arthroplasty for prosthetic joint infection.|https://dx.doi.org/10.5194/jbji-8-229-2023
+Acute Disseminated Encephalomyelitis in a Child with Staphylococcus aureus Bacteremia and Septic Arthritis.|https://dx.doi.org/10.1007/s12098-023-04994-y
+Toward Model-Based Informed Precision Dosing of Vancomycin in Hematologic Cancer Patients: A First Step.|https://dx.doi.org/10.1007/s40262-023-01329-0
+A Methylazanediyl Bisacetamide Derivative Sensitizes Staphylococcus aureus Persisters to a Combination of Gentamicin And Daptomycin.|https://dx.doi.org/10.1002/advs.202306112
+Tapping into Tapajos: antibacterial potential of fungal strains isolated from decaying wood in the Brazilian Amazon.|https://dx.doi.org/10.1590/1519-6984.275573
+Risk Factors for Surgical Site Infection in Patients Undergoing Pediatric Cardiac Surgery.|https://dx.doi.org/10.36660/abc.20220592

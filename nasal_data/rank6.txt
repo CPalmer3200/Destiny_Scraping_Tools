@@ -15,3 +15,6 @@ Cytomegalovirus and varicella zoster virus coinfection-associated central hypove
 DBFasTrac - Transfer your reviewed manuscript to DB for faster publication.|https://dx.doi.org/10.1016/j.ydbio.2023.12.004
 Estimating the Burden of Clinically Significant Staphylococcus aureus Infections and Predictors for Hospitalization for Skin and Soft Tissue Infections, Fulton County, Georgia, 2017.|https://dx.doi.org/10.1093/ofid/ofad601
 TLR4 sensing of IsdB of Staphylococcus aureus induces a proinflammatory cytokine response via the NLRP3-caspase-1 inflammasome cascade.|https://dx.doi.org/10.1128/mbio.00225-23
+Excess resource use and cost of drug-resistant infections for six key pathogens in Europe: a systematic review and Bayesian meta-analysis.|https://dx.doi.org/10.1016/j.cmi.2023.12.013
+Clinical and histological study of follicular helper T-cell lymphomas with indolent evolution.|https://dx.doi.org/10.1016/j.ejca.2023.113479
+News Brief: Serious infections in nursing home residents can be prevented with use of a chlorhexidine cleansing protocol combined with an antiseptic to clean the nose.|https://dx.doi.org/10.1097/01.NAJ.0001004900.11575.4c

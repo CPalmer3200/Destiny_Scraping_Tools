@@ -18,3 +18,7 @@ Cefiderocol-associated brown chromaturia.|https://dx.doi.org/10.1136/bcr-2023-25
 Validation of spectrophotometric and colorimetric methods to quantify clindamycin in skin tissue: application to in vitro release and ex vivo dermatokinetic studies from separable effervescent microarray patch loaded bacterially sensitive microparticle.|https://dx.doi.org/10.1007/s44211-023-00478-3
 Healing Rates and Outcomes Following Closed Transmetatarsal Amputations: A Systematic Review and Random Effects Meta-Analysis of Proportions.|https://dx.doi.org/10.1111/wrr.13143
 Increase in antibiotic resistance in diabetic foot infections among peruvian patients: a single-center cross-sectional study.|https://dx.doi.org/10.3389/fendo.2023.1267699
+[Construction and preliminary validation of a risk prediction model for the recurrence of diabetic foot ulcer in diabetic patients].|https://dx.doi.org/10.3760/cma.j.cn501225-20231101-00166
+Apoptosis recognition receptors regulate skin tissue repair in mice.|https://dx.doi.org/10.7554/eLife.86269
+Histone deacetylase (HDAC) inhibitors- based drugs are effective to control Mycobacterium tuberculosis infection and promote the sensibility for rifampicin in MDR strain.|https://dx.doi.org/10.1590/0074-02760230143
+Associations between specialty care and improved outcomes among patients with diabetic foot ulcers.|https://dx.doi.org/10.1371/journal.pone.0294813

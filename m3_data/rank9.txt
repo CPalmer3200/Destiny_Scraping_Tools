@@ -4,3 +4,4 @@ The role of gut fungi in Clostridioides difficile infection.|https://dx.doi.org/
 Stream food webs in tropical mountains rely on allochthonous carbon regardless of land use.|https://dx.doi.org/10.1371/journal.pone.0295738
 Antimicrobial Prophylaxis with Ampicillin-sulbactam Compared with Cefazolin for Esophagectomy: Nationwide Inpatient Database Study in Japan.|https://dx.doi.org/10.1097/SLA.0000000000006182
 Lack of Routine Postoperative Labs Not Associated With Complications in Pediatric Perforated Appendicitis.|https://dx.doi.org/10.1016/j.jss.2023.11.027
+Structural dynamics of the CROPs domain control stability and toxicity of Paeniclostridium sordellii lethal toxin.|https://dx.doi.org/10.1038/s41467-023-44169-z

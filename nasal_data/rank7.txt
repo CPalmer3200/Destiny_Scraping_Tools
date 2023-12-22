@@ -348,3 +348,21 @@ How long can pulmonary resection surgery be performed after SARS-CoV-2 infection
 Dual-Signal Imaging Mode Based on Fluorescence and Electrochemiluminescence for Ultrasensitive Visualization of SARS-CoV-2 Spike Protein.|https://dx.doi.org/10.1021/acs.analchem.3c04535
 Designing and Expression of Recombinant Chimeric Spike Protein from SARS-CoV-2 in Escherichia coli and Its Immunogenicity Assessment.|https://dx.doi.org/10.5812/ijpr-137751
 The Efficacy of High-Dose Pulse Therapy vs. Low-Dose Intravenous Methylprednisolone on Severe to Critical COVID-19 Clinical Outcomes: A Randomized Clinical Trial.|https://dx.doi.org/10.5812/ijpr-137838
+Dutch GP healthcare consumption in COVID-19 heterogeneous regions: an interregional time-series approach in 2020-2021.|https://dx.doi.org/10.3399/BJGPO.2023.0121
+Health service factors affecting the COVID-19 vaccination campaign in a Ghanaian metropolis: A qualitative exploratory study.|https://dx.doi.org/10.1136/bmjopen-2023-076184
+Early empiric antibiotic use in COVID-19 patients: results from the international VIRUS registry.|https://dx.doi.org/10.1016/j.ijid.2023.12.006
+Effectiveness of a COVID-19 contact tracing app in a simulation model with indirect and informal contact tracing.|https://dx.doi.org/10.1016/j.epidem.2023.100735
+Strategies for the development and approval of COVID-19 vaccines and therapeutics in the post-pandemic period.|https://dx.doi.org/10.1038/s41392-023-01724-w
+Association between anesthesia technique and death after hip fracture repair for patients with COVID-19.|https://dx.doi.org/10.1007/s12630-023-02673-2
+Building the U.S. COVID-19 vaccine effectiveness program: Past successes and future directions.|https://dx.doi.org/10.1016/j.vaccine.2023.12.002
+Effects of the COVID-19 pandemic on life expectancy and premature mortality in the German federal states in 2020 and 2021.|https://dx.doi.org/10.1371/journal.pone.0295763
+Exploring COVID-19 vaccine uptake among healthcare workers in Zimbabwe: A mixed methods study.|https://dx.doi.org/10.1371/journal.pgph.0002256
+Sentiment Analysis of Japanese Twitter Users: Verification in the Early Stages of COVID-19 Infection Spread.|https://dx.doi.org/10.2196/37881
+Front-Line Health Care Workers' COVID-19 Infection Contamination Risks: A Human Factors and Risk Analysis Study of Personal Protective Equipment.|https://dx.doi.org/10.1097/JMQ.0000000000000159
+Exploring the Impact of Bereavement During the COVID-19 Pandemic on Children and Young People: A Scoping Review.|https://dx.doi.org/10.1080/24694193.2023.2292503
+Targeting epidermal growth factor receptor signalling pathway: A promising therapeutic option for COVID-19.|https://dx.doi.org/10.1002/rmv.2500
+Filling the Gaps in the Pandemic Response: Impact of COVID-19 on Telehealth in the Military Health System.|https://dx.doi.org/10.1089/tmj.2023.0478
+Unveiling patenting strategies of therapeutics and vaccines: evergreening in the context of COVID-19 pandemic.|https://dx.doi.org/10.3389/fmed.2023.1287542
+Successful treatment of fulminant myocarditis due to COVID-19 in a 5-year-old girl.|https://dx.doi.org/10.1016/j.jccase.2023.08.009
+Effectiveness of a vaccine recovery plan after the COVID-19 pandemic in the Siracusa Local Health Authority, Italy. Results of one year follow-up.|https://dx.doi.org/10.15167/2421-4248/jpmh2023.64.3.3001
+Impact of the COVID-19 pandemic on the infectious disease epidemiology.|https://dx.doi.org/10.15167/2421-4248/jpmh2023.64.3.2904

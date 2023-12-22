@@ -13,3 +13,6 @@ Evaluation of computerized clinical decision support system to reduce unnecessar
 Incomplete Kawasaki Disease Presenting as Retropharyngeal Abscess: A Case Report and Review of the Literature.|https://dx.doi.org/10.1177/01455613231218140
 Irradiation of human oral mucosa by 233 nm far UV-C LEDs for the safe inactivation of nosocomial pathogens.|https://dx.doi.org/10.1038/s41598-023-49745-3
 Commensal production of a broad-spectrum and short-lived antimicrobial peptide polyene eliminates nasal Staphylococcus aureus.|https://dx.doi.org/10.1038/s41564-023-01544-2
+Comparative genomics of Staphylococcus a ureus strains from wild birds and pig farms elucidates levels of mobilomes, antibiotic pressure and host adaptation.|https://dx.doi.org/10.1016/j.jgar.2023.12.003
+Evaluation of PhenoMATRIX and PhenoMATRIX PLUS for the screening of MRSA from nasal and inguinal/perineal swabs using chromogenic media.|https://dx.doi.org/10.1128/jcm.01152-23
+Dynamics of Staphylococcus aureus in patients and the hospital environment in a tertiary care hospital in the Netherlands.|https://dx.doi.org/10.1186/s13756-023-01349-2

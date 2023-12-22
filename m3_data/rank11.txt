@@ -82,3 +82,11 @@ A retrospective study of endogenous endophthalmitis-related pyogenic liver absce
 Antilisterial activity of raw sheep milk from two native Epirus breeds: Culture-dependent identification, bacteriocin gene detection and primary safety evaluation of the antagonistic LAB biota.|https://dx.doi.org/10.1016/j.crmicr.2023.100209
 Effects of amoxicillin and metronidazole as an adjunct to scaling and root planing on glycemic control in patients with periodontitis and type 2 diabetes: A short-term randomized controlled trial.|https://dx.doi.org/10.1111/jre.13225
 Microbiological profile of patients treated for postoperative peritonitis: temporal trends 1999-2019.|https://dx.doi.org/10.1186/s13017-023-00528-1
+Excess resource use and cost of drug-resistant infections for six key pathogens in Europe: a systematic review and Bayesian meta-analysis.|https://dx.doi.org/10.1016/j.cmi.2023.12.013
+Emergence of vancomycin-resistant enterococci from vancomycin susceptible enterococci in hospitalized patients under antimicrobial therapy.|https://dx.doi.org/10.1016/j.jgar.2023.12.010
+Intestinal dysbiosis as an intraoperative predictor of septic complications: evidence from human surgical cohorts and preclinical models of peritoneal sepsis.|https://dx.doi.org/10.1038/s41598-023-49034-z
+[Clinical efficacy of antibiotic bone cement combined with vacuum sealing drainage in treating diabetes mellitus complicated with necrotizing fasciitis].|https://dx.doi.org/10.3760/cma.j.cn501225-20231030-00151
+Practices and drivers of self-medication with antibiotics among undergraduate medical students in Eastern Uganda: A cross-sectional study.|https://dx.doi.org/10.1371/journal.pone.0293685
+Metronidazole-loaded polydopamine nanomedicine with antioxidant and antibacterial bioactivity for periodontitis.|https://dx.doi.org/10.2217/nnm-2023-0245
+Toward Model-Based Informed Precision Dosing of Vancomycin in Hematologic Cancer Patients: A First Step.|https://dx.doi.org/10.1007/s40262-023-01329-0
+Unraveling the Synergistic Mechanism of Boosted Photocatalytic H(2) O(2) Production over Cyano-g-C(3) N(4) /In(2) S(3) /Ppy Heterostructure and Enhanced Photocatalysis-Self-Fenton Degradation Performance.|https://dx.doi.org/10.1002/smll.202308568

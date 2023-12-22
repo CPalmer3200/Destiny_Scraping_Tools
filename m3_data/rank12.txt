@@ -20,3 +20,5 @@ Physics constrained unsupervised deep learning for rapid, high resolution scanni
 The impact of gut microbiome enterotypes on ulcerative colitis: identifying key bacterial species and revealing species co-occurrence networks using machine learning.|https://dx.doi.org/10.1080/19490976.2023.2292254
 Assessing Trace Metal-Based Human Health Risks for Commonly Used Body Soaps in Bangladesh.|https://dx.doi.org/10.1007/s12011-023-04023-1
 A reliable external calibration method for reaction monitoring with benchtop NMR.|https://dx.doi.org/10.1002/mrc.5421
+Skin involvement in CREST syndrome: not only telangiectasias?|https://dx.doi.org/10.23736/S2784-8671.23.07727-7
+3D grape string-like heterostructures enable high-efficiency sodium ion capture in Ti(3)C(2)T(x) MXene/fungi-derived carbon nanoribbon hybrids.|https://dx.doi.org/10.1039/d3mh01028g
