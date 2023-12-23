@@ -366,3 +366,22 @@ Unveiling patenting strategies of therapeutics and vaccines: evergreening in the
 Successful treatment of fulminant myocarditis due to COVID-19 in a 5-year-old girl.|https://dx.doi.org/10.1016/j.jccase.2023.08.009
 Effectiveness of a vaccine recovery plan after the COVID-19 pandemic in the Siracusa Local Health Authority, Italy. Results of one year follow-up.|https://dx.doi.org/10.15167/2421-4248/jpmh2023.64.3.3001
 Impact of the COVID-19 pandemic on the infectious disease epidemiology.|https://dx.doi.org/10.15167/2421-4248/jpmh2023.64.3.2904
+Risk of 30-Day All-Cause Readmission in Interstitial Lung Disease Patients after COVID-19: National-Level Data.|https://dx.doi.org/10.1513/AnnalsATS.202305-491OC
+The impact of COVID-19 on health literacy among Chinese rural residents.|https://dx.doi.org/10.1093/heapro/daad161
+Effect of Asymptomatic and Symptomatic COVID-19 on Acute Ischemic Stroke Revascularization Outcomes.|https://dx.doi.org/10.1161/STROKEAHA.123.043899
+Optimizing COVID-19 testing strategies on college campuses: Evaluation of the health and economic costs.|https://dx.doi.org/10.1371/journal.pcbi.1011715
+Mental health status and coping strategies of Chinese university students during the COVID-19 pandemic: A rapid review.|https://dx.doi.org/10.1371/journal.pone.0296309
+Infectious virus shedding duration reflects secretory IgA antibody response latency after SARS-CoV-2 infection.|https://dx.doi.org/10.1073/pnas.2314808120
+Using Rasch Wright map to identify hospital employee satisfaction during and before COVID-19.|https://dx.doi.org/10.1097/MD.0000000000036490
+SARS-CoV-2 nucleocapsid protein, rather than spike protein, triggers a cytokine storm originating from lung epithelial cells in patients with COVID-19.|https://dx.doi.org/10.1007/s15010-023-02142-4
+Factors Associated with COVID-19 Vaccination among Racial/Ethnic Minority Groups with HIV in South Florida.|https://dx.doi.org/10.1097/QAI.0000000000003369
+Inter-observer Variability in the Analysis of CO-RADS Classification for COVID-19 Patients.|https://dx.doi.org/10.3390/tropicalmed8120523
+Demographic Characteristics of Unvaccinated Asymptomatic and Symptomatic SARS-CoV-2 Cases in Barwon South West, Victoria, Australia.|https://dx.doi.org/10.3390/pathogens12121420
+The II Brazilian Guidelines for the pharmacological treatment of patients hospitalized with COVID-19 Joint Guidelines of the Associação Brasileira de Medicina de Emergência, Associação de Medicina Intensiva Brasileira, Associação Médica Brasileira, Sociedade Brasileira de Angiologia e Cirurgia Vascular, Sociedade Brasileira de Infectologia, Sociedade Brasileira de Pneumologia e Tisiologia and Sociedade Brasileira de Reumatologia.|https://dx.doi.org/10.5935/2965-2774.20230136-en
+In Vitro Antiviral Activity of Hyperbranched Poly-L-Lysine Modified by L-Arginine against Different SARS-CoV-2 Variants.|https://dx.doi.org/10.3390/nano13243090
+A Characterization of Neurology Consults for Inpatients with SARS-CoV-2 Infection Compared to Other Respiratory Viruses.|https://dx.doi.org/10.3390/neurolint15040089
+The Level of Knowledge, Attitudes, and Practices in a Caribbean Colombian Population That Recovered from COVID-19 during the Pandemic.|https://dx.doi.org/10.3390/healthcare11243119
+Towards the Future of Public Health: Roadmapping Trends and Scenarios in the Post-COVID Healthcare Era.|https://dx.doi.org/10.3390/healthcare11243118
+Nanotechnology Platform for Advancing Vaccine Development against the COVID-19 Virus.|https://dx.doi.org/10.3390/diseases11040177
+Factors Associated with SARS-CoV-2 Infection Evaluated by Antibody Response in a Sample of Workers from the Emilia-Romagna Region, Northern Italy.|https://dx.doi.org/10.3390/antib12040077
+Impact of the COVID-19 Pandemic on Physical Activity among Mostly Older, Overweight Black Women Living in the Rural Alabama Black Belt.|https://dx.doi.org/10.3390/ijerph20247180

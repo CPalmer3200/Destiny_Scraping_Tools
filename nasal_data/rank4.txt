@@ -185,3 +185,7 @@ Predictors of hospital mortality and multidrug-resistant pathogens in hospitaliz
 Surgical Resection of Neurogenic Heterotopic Ossification around Hip Joint in Stroke Patients: A Safety and Outcome Report.|https://dx.doi.org/10.5371/hp.2023.35.4.268
 The wide variety of methotrexate dosing regimens for the treatment of atopic dermatitis: a systematic review.|https://dx.doi.org/10.1080/09546634.2023.2292962
 Augmented Safety Profile of Ultrasound-guided Gluteal Fat Transfer: Retrospective Study With 1815 Patients.|https://dx.doi.org/10.1093/asj/sjad377
+A mapping review of methicillin-resistant Staphylococcus aureus proportions, genetic diversity, and antimicrobial resistance patterns in Cameroon.|https://dx.doi.org/10.1371/journal.pone.0296267
+Isolated renal and urinary tract aspergillosis: a systematic review.|https://dx.doi.org/10.1177/17562872231218621
+"Our [Yao people's] circumcision is of the 'brain' not of the 'penis'": factors behind the resistance to voluntary medical male circumcision among Yao people of Mangochi in Southern Malawi.|https://dx.doi.org/10.4314/mmj.v34i4.9
+Higher cyclosporine-A concentration increases the risk of relapse in AML following allogeneic stem cell transplantation from unrelated donors using anti-thymocyte globulin.|https://dx.doi.org/10.1038/s41598-023-50105-4

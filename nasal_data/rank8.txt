@@ -312,3 +312,21 @@ Trigeminal function in patients with COVID-associated olfactory loss.|https://dx
 CVID With Unusual Peripheral Mononeuropathy and Associated IL-7 Receptor Mutation.|https://dx.doi.org/10.1093/milmed/usad480
 Pediatric thoracoscopic lung resections: a comprehensive analysis of congenital lesion cases.|https://dx.doi.org/10.1080/00015458.2023.2297539
 Infectious endarteritis in aortic coarctation: two spectra of an infrequent disease.|https://dx.doi.org/10.1590/1984-0462/2024/42/2023084
+Healing beyond the joint: Addressing mental health in periprosthetic joint infection in a prospective longitudinal study.|https://dx.doi.org/10.1016/j.jpsychores.2023.111559
+Uncommon presentation of necrotizing fasciitis affecting the breast in a young breastfeeding patient: Case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109147
+Large and bleeding gastroduodenal artery aneurysm: Challenging diagnosis and treatment. A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109105
+Visual outcomes following orbital decompression for orbital infections.|https://dx.doi.org/10.1016/j.ijporl.2023.111824
+Supplementary medial plating in revision surgery for distal femoral fractures: A surgical technique with clinical outcomes.|https://dx.doi.org/10.1016/j.injury.2023.111272
+Delayed mucosal anti-viral responses despite robust peripheral inflammation in fatal COVID-19.|https://dx.doi.org/10.1093/infdis/jiad590
+Surgical Outcomes of Laparoscopic-assisted Distal Gastrectomy Versus Totally Laparoscopic Distal Gastrectomy Billroth I for Gastric Cancer.|https://dx.doi.org/10.1097/SLE.0000000000001255
+Diagnosis, Treatment, and Outcomes of Crystalline Arthropathy in the Setting of Total Knee Arthroplasty: A Critical Analysis Review.|https://dx.doi.org/10.2106/JBJS.RVW.23.00163
+Knowledge, attitude and practices towards surgical wound care and healing among the public in the Jazan Region, Saudi Arabia.|https://dx.doi.org/10.1097/MD.0000000000036776
+A Large Esophageal Leiomyoma: Thoraco-Laparoscopic Enucleation or Esophagectomy and Reconstruction?|https://dx.doi.org/10.12659/AJCR.942371
+The Effects of Reinforcement Techniques in Sleeve Gastrectomy and Roux-en-Y Gastric Bypass: Protocol for a Web-Based Survey, Systematic Review, and Meta-Analysis.|https://dx.doi.org/10.2196/50677
+Etiology and antimicrobial resistance patterns in chronic osteomyelitis of the tibia: an 11-year clinical experience.|https://dx.doi.org/10.1007/s00402-023-05095-3
+Innovative Elastomers with Antimicrobial Activity May Decrease Infection Risks during Milking.|https://dx.doi.org/10.3390/pathogens12121431
+The Therapeutic Monoclonal Antibody Bamlanivimab Does Not Enhance SARS-CoV-2 Infection by FcR-Mediated Mechanisms.|https://dx.doi.org/10.3390/pathogens12121408
+Detection of Cleaved Stx2a in the Blood of STEC-Infected Patients.|https://dx.doi.org/10.3390/toxins15120690
+The Role of Adjuvant Systemic and Intravitreal Corticosteroids in Fungal Endophthalmitis Treatment.|https://dx.doi.org/10.3390/jof9121147
+Perinatal Stressors and Consequences for Neonates with Critical Congenital Heart Disease.|https://dx.doi.org/10.3390/jcdd10120497
+Bone Regeneration Induced by Patient-Adapted Mg Alloy-Based Scaffolds for Bone Defects: Present and Future Perspectives.|https://dx.doi.org/10.3390/biomimetics8080618

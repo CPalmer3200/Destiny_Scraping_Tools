@@ -12,3 +12,4 @@ Global Burden of Cardiovascular Diseases and Risks, 1990-2022.|https://dx.doi.or
 Liver metastasis of breast carcinoma: An unusual presentation and growth pattern.|https://dx.doi.org/10.4103/ijpm.ijpm_1235_21
 Pharmacokinetics of Locally Applied Antibiotic Prophylaxis for Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1001/jamanetworkopen.2023.48414
 Factors affecting the early establishment of neonatal intestinal flora and its intervention measures.|https://dx.doi.org/10.3389/fcimb.2023.1295111
+Impact of the coronavirus disease 2019 pandemic on 20 representative surgical procedures in Japan based on the National Clinical Database: annual surveillance of 2021 by the Japan Surgical Society.|https://dx.doi.org/10.1007/s00595-023-02786-7

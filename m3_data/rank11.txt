@@ -90,3 +90,15 @@ Practices and drivers of self-medication with antibiotics among undergraduate me
 Metronidazole-loaded polydopamine nanomedicine with antioxidant and antibacterial bioactivity for periodontitis.|https://dx.doi.org/10.2217/nnm-2023-0245
 Toward Model-Based Informed Precision Dosing of Vancomycin in Hematologic Cancer Patients: A First Step.|https://dx.doi.org/10.1007/s40262-023-01329-0
 Unraveling the Synergistic Mechanism of Boosted Photocatalytic H(2) O(2) Production over Cyano-g-C(3) N(4) /In(2) S(3) /Ppy Heterostructure and Enhanced Photocatalysis-Self-Fenton Degradation Performance.|https://dx.doi.org/10.1002/smll.202308568
+Antimicrobial use related problems and determinants in surgical ward of Ethiopian tertiary hospital.|https://dx.doi.org/10.1371/journal.pone.0296284
+Etiology and antimicrobial resistance patterns in chronic osteomyelitis of the tibia: an 11-year clinical experience.|https://dx.doi.org/10.1007/s00402-023-05095-3
+Impact of Formulation and Microneedle Length on Transdermal Metronidazole Permeation through Microneedle-Treated Skin.|https://dx.doi.org/10.1007/s11095-023-03640-8
+Metal Organic Framework-Incorporated Three-Dimensional (3D) Bio-Printable Hydrogels to Facilitate Bone Repair: Preparation and In Vitro Bioactivity Analysis.|https://dx.doi.org/10.3390/gels9120923
+Structural Element of Vitamin U-Mimicking Antibacterial Polypeptide with Ultrahigh Selectivity for Effectively Treating MRSA Infections.|https://dx.doi.org/10.1002/anie.202318011
+Population pharmacokinetics of antibacterial agents in the older population: a literature review.|https://dx.doi.org/10.1080/17512433.2023.2295009
+Evaluating the utility of inflammation score in post-cataract surgery endophthalmitis. Results from a prospective study in India. EMS Report #4.|https://dx.doi.org/10.4103/IJO.IJO_997_23
+Munchausen Syndrome by Proxy Presenting as Pharyngeal Dysphagia and Recurrent Mouth Ulcers: A Case Report.|https://dx.doi.org/10.7759/cureus.49154
+Drug-Induced Linear IgA Bullous Dermatosis in an Oncologic Patient.|https://dx.doi.org/10.7759/cureus.49185
+Comparison of Vancomycin Trough-Based and 24-Hour Area Under the Curve Over Minimum Inhibitory Concentration (AUC/MIC)-Based Therapeutic Drug Monitoring in Pediatric Patients.|https://dx.doi.org/10.5863/1551-6776-28.5.430
+Case report: A severe case of generalized tetanus in a young cat.|https://dx.doi.org/10.3389/fvets.2023.1328331
+Efficacy comparison of 7- and 14-day P-CAB based bismuth-containing quadruple regimen with PPI based bismuth-containing quadruple regimen for Helicobacter pylori infection: rationale and design of an open-label, multicenter, randomized controlled trial.|https://dx.doi.org/10.1186/s12876-023-03100-y

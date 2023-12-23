@@ -305,3 +305,19 @@ Toward Model-Based Informed Precision Dosing of Vancomycin in Hematologic Cancer
 A Methylazanediyl Bisacetamide Derivative Sensitizes Staphylococcus aureus Persisters to a Combination of Gentamicin And Daptomycin.|https://dx.doi.org/10.1002/advs.202306112
 Tapping into Tapajos: antibacterial potential of fungal strains isolated from decaying wood in the Brazilian Amazon.|https://dx.doi.org/10.1590/1519-6984.275573
 Risk Factors for Surgical Site Infection in Patients Undergoing Pediatric Cardiac Surgery.|https://dx.doi.org/10.36660/abc.20220592
+The impact of chitosan in experimental resin with different photoinitiator systems.|https://dx.doi.org/10.1016/j.jmbbm.2023.106323
+A computational investigation of potential plant-based bioactive compounds against drug-resistant Staphylococcus aureus of multiple target proteins.|https://dx.doi.org/10.1080/07391102.2023.2297009
+In vitro assessment of antibacterial and antiviral activity of three copper products after 200 rounds of simulated use.|https://dx.doi.org/10.1007/s10534-023-00572-z
+Mineral Phase Reconfiguration Enables the High Enzyme-like Activity of Vermiculite for Antibacterial Application.|https://dx.doi.org/10.1021/acs.nanolett.3c04141
+The Changing Epidemiology and Antimicrobial Susceptibility of Staphylococcus aureus Isolated from Blood Cultures in a University Hospital from Argentina.|https://dx.doi.org/10.1089/mdr.2023.0219
+Pathogenic Biofilm Removal Potential of Wild-Type Lacticaseibacillus rhamnosus Strains.|https://dx.doi.org/10.3390/pathogens12121449
+The Prevalence of Alert Pathogens and Microbial Resistance Mechanisms: A Three-Year Retrospective Study in a General Hospital in Poland.|https://dx.doi.org/10.3390/pathogens12121401
+Multidrug-Resistant Staphylococcus aureus Strains Thrive in Dairy and Beef Production, Processing, and Supply Lines in Five Geographical Areas in Ethiopia.|https://dx.doi.org/10.3390/vetsci10120663
+Preparation and Biotoxicity of Coal-Based Carbon Dot Nanomaterials.|https://dx.doi.org/10.3390/nano13243122
+Comparative Chemical Profiling and Antimicrobial/Anticancer Evaluation of Extracts from Farmed versus Wild Agelas oroides and Sarcotragus foetidus Sponges.|https://dx.doi.org/10.3390/md21120612
+Recent Trends in S. aureus and E. coli-Based Endometritis, and the Therapeutic Evaluation of Sodium Alginate-Based Antibiotics and Nanoparticles.|https://dx.doi.org/10.3390/gels9120955
+Biosynthesis of Peptide Hydrogel-Titania Nanoparticle Composites with Antibacterial Properties.|https://dx.doi.org/10.3390/gels9120940
+Preparation of Citral Oleogel and Antimicrobial Properties.|https://dx.doi.org/10.3390/gels9120930
+Structural Element of Vitamin U-Mimicking Antibacterial Polypeptide with Ultrahigh Selectivity for Effectively Treating MRSA Infections.|https://dx.doi.org/10.1002/anie.202318011
+Infective endocarditis associated with atopic dermatitis.|https://dx.doi.org/10.1002/ccr3.8321
+The antibacterial effectiveness of lavender essential oil against methicillin-resistant Staphylococcus aureus: a systematic review.|https://dx.doi.org/10.3389/fphar.2023.1306003

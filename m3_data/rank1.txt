@@ -5,3 +5,4 @@ A Comparison of the Efficacy of Treatment With Fidaxomicin Versus Vancomycin in 
 Vowst's FDA approval is a boon for the prevention of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1097/MS9.0000000000001410
 Update on Microbiota-derived therapies for recurrent Clostridioides difficile infections, 2023.|https://dx.doi.org/10.1016/j.cmi.2023.12.007
 Microbiome-preserving antibiotics for the treatment of Clostridioides difficile infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s10151-023-02878-z
+Host Immune Responses to Clostridioides difficile Infection and Potential Novel Therapeutic Approaches.|https://dx.doi.org/10.3390/tropicalmed8120506
