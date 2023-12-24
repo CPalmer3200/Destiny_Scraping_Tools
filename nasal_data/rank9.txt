@@ -321,3 +321,21 @@ Preparation of Citral Oleogel and Antimicrobial Properties.|https://dx.doi.org/1
 Structural Element of Vitamin U-Mimicking Antibacterial Polypeptide with Ultrahigh Selectivity for Effectively Treating MRSA Infections.|https://dx.doi.org/10.1002/anie.202318011
 Infective endocarditis associated with atopic dermatitis.|https://dx.doi.org/10.1002/ccr3.8321
 The antibacterial effectiveness of lavender essential oil against methicillin-resistant Staphylococcus aureus: a systematic review.|https://dx.doi.org/10.3389/fphar.2023.1306003
+Comparative Pharmacokinetics of İntravenous Enrofloxacin in One- Six- And Twelve-Month-Old Sheep.|https://dx.doi.org/10.2174/0113892002278220231208072351
+Evaluation of selected natural sesquiterpenes as sensitizing agents of β-lactam-resistant bacterial strains.|https://dx.doi.org/10.1093/jambio/lxad315
+Isolation and Characterization of New Bacteriophages against Staphylococcal Clinical Isolates from Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/v15122287
+Chemical Compositions of Essential Oil Extracted from Eight Thyme Species and Potential Biological Functions.|https://dx.doi.org/10.3390/plants12244164
+Assessment of Chemical Composition and In Vitro Antioxidant, Antidiabetic, Anticholinesterase and Microbial Virulence-Quenching Effects of Salad Burnet (Sanguisorba minor L.) Harvested from Algeria.|https://dx.doi.org/10.3390/plants12244134
+Exploring the Sustainable Exploitation of Bioactive Compounds in Pelargonium sp.: Beyond a Fragrant Plant.|https://dx.doi.org/10.3390/plants12244123
+HPLC- and NMR-Based Chemical Profiling, Wound-Healing Potential, Anti-Inflammatory and Antibacterial Activities of Satureja pilosa (Lamiaceae), a Neglected Medicinal-Aromatic Herb.|https://dx.doi.org/10.3390/plants12244114
+Towards Antibacterial Agents: Synthesis and Biological Activity of Multivalent Amide Derivatives of Thiacalix[4]arene with Hydroxyl and Amine Groups.|https://dx.doi.org/10.3390/pharmaceutics15122731
+Formation Kinetics and Antimicrobial Activity of Silver Nanoparticle Dispersions Based on N-Reacetylated Oligochitosan Solutions for Biomedical Applications.|https://dx.doi.org/10.3390/pharmaceutics15122690
+Plant-Derived Nanocellulose with Antibacterial Activity for Wound Healing Dressing.|https://dx.doi.org/10.3390/pharmaceutics15122672
+The Synthesis and Antibacterial Properties of Pillar[5]arene with Streptocide Fragments.|https://dx.doi.org/10.3390/pharmaceutics15122660
+Development of an In Situ Photo-Crosslinking Antimicrobial Collagen Hydrogel for the Treatment of Infected Wounds.|https://dx.doi.org/10.3390/polym15244701
+Antimicrobial, Anticancer, and Antioxidant Activities of Maize and Clover Pollen Grains Extracts: A Comparative Study with Phytochemical Characterizations.|https://dx.doi.org/10.3390/ph16121731
+HPLC-DAD Analysis and Investigation of Biological Properties of the Leaves of Globularia alypum (L.), Infusion Extract.|https://dx.doi.org/10.3390/ph16121726
+In Vitro Screening of Antimicrobial and Anti-Coagulant Activities, ADME Profiling, and Molecular Docking Study of Citrus limon L. and Citrus paradisi L. Cold-Pressed Volatile Oils.|https://dx.doi.org/10.3390/ph16121669
+Design, Synthesis, and In Vitro and In Vivo Bioactivity Studies of Hydrazide-Hydrazones of 2,4-Dihydroxybenzoic Acid.|https://dx.doi.org/10.3390/ijms242417481
+Comparison of Plasma-Polymerized Thin Films Deposited from 2-Methyl-2-oxazoline and 2-Ethyl-2-oxazoline: I Film Properties.|https://dx.doi.org/10.3390/ijms242417455
+Preparation and Antimicrobial Activity of a Film-Forming Polyhexamethylene Biguanide Teat Disinfectant.|https://dx.doi.org/10.3390/ijms242417444

@@ -19,3 +19,6 @@ Silver Nanoparticle-Loaded Titanium-Based Metal-Organic Framework for Promoting 
 Stereogenic Harmony Fabricated Mechanoresponsive Homochiral Triphenylalanine Analogues with Synergistic Antibacterial Performances: A Potential Weapon for Dermal Wound Management.|https://dx.doi.org/10.1021/acsabm.3c00926
 Humidity-adjustable functional gelatin hydrogel/ethyl cellulose bilayer films for active food packaging application.|https://dx.doi.org/10.1016/j.foodchem.2023.138202
 Biosynthesis of Peptide Hydrogel-Titania Nanoparticle Composites with Antibacterial Properties.|https://dx.doi.org/10.3390/gels9120940
+Plant-Derived Nanocellulose with Antibacterial Activity for Wound Healing Dressing.|https://dx.doi.org/10.3390/pharmaceutics15122672
+Development of an In Situ Photo-Crosslinking Antimicrobial Collagen Hydrogel for the Treatment of Infected Wounds.|https://dx.doi.org/10.3390/polym15244701
+Preparation of a Dual-Functional Active Film Based on Bilayer Hydrogel and Red Cabbage Anthocyanin for Maintaining and Monitoring Pork Freshness.|https://dx.doi.org/10.3390/foods12244520

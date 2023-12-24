@@ -12,3 +12,6 @@ Proguanil and chlorhexidine augment the antibacterial activities of clarithromyc
 A machine learning approach to identifying Salmonella stress response genes in isolates from poultry processing.|https://dx.doi.org/10.1016/j.foodres.2023.113635
 Mechanisms of pathogenicity for the emerging fungus Candida auris.|https://dx.doi.org/10.1371/journal.ppat.1011843
 Global characteristics and trends in research on Candida auris.|https://dx.doi.org/10.3389/fmicb.2023.1287003
+Phloretin Inhibits Quorum Sensing and Biofilm Formation in Serratia marcescens.|https://dx.doi.org/10.3390/molecules28248067
+Comparative Genomic Analysis of Cutibacterium spp. Isolates in Implant-Associated Infections.|https://dx.doi.org/10.3390/microorganisms11122971
+A-Type Natriuretic Peptide Alters the Impact of Azithromycin on Planktonic Culture and on (Monospecies and Binary) Biofilms of Skin Bacteria Kytococcus schroeteri and Staphylococcus aureus.|https://dx.doi.org/10.3390/microorganisms11122965

@@ -24,3 +24,6 @@ Skin involvement in CREST syndrome: not only telangiectasias?|https://dx.doi.org
 3D grape string-like heterostructures enable high-efficiency sodium ion capture in Ti(3)C(2)T(x) MXene/fungi-derived carbon nanoribbon hybrids.|https://dx.doi.org/10.1039/d3mh01028g
 Vonoprazan (Voquezna) for erosive esophagitis.|https://dx.doi.org/10.58347/tml.2023.1692b
 Common and divergent gene regulatory networks control injury-induced and developmental neurogenesis in zebrafish retina.|https://dx.doi.org/10.1038/s41467-023-44142-w
+Calcium and Calmodulin-dependent Inhibition of NMDA Receptor Currents.|https://dx.doi.org/10.1016/j.bpj.2023.12.018
+Implementation of a Scalable Online Weight Management Programme in Clinical Settings: Protocol for the PROPS 2.0 Programme (Partnerships for Reducing Overweight and Obesity with Patient-Centered Strategies 2.0).|https://dx.doi.org/10.1136/bmjopen-2023-077520
+Development of a Pipeline for Removing Allergy Labels in Patients Undergoing Hematopoietic Stem Cell Transplantation.|https://dx.doi.org/10.1016/j.jtct.2023.12.012

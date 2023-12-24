@@ -189,3 +189,13 @@ A mapping review of methicillin-resistant Staphylococcus aureus proportions, gen
 Isolated renal and urinary tract aspergillosis: a systematic review.|https://dx.doi.org/10.1177/17562872231218621
 "Our [Yao people's] circumcision is of the 'brain' not of the 'penis'": factors behind the resistance to voluntary medical male circumcision among Yao people of Mangochi in Southern Malawi.|https://dx.doi.org/10.4314/mmj.v34i4.9
 Higher cyclosporine-A concentration increases the risk of relapse in AML following allogeneic stem cell transplantation from unrelated donors using anti-thymocyte globulin.|https://dx.doi.org/10.1038/s41598-023-50105-4
+BNT162b2 Booster Dose Elicits a Robust Antibody Response in Subjects with Abdominal Obesity and Previous SARS-CoV-2 Infection.|https://dx.doi.org/10.3390/vaccines11121796
+Fish Scale Gelatin Nanofibers with Helichrysum italicum and Lavandula latifolia Essential Oils for Bioactive Wound-Healing Dressings.|https://dx.doi.org/10.3390/pharmaceutics15122692
+Antimicrobial Activity and Mechanisms of Walnut Green Husk Extract.|https://dx.doi.org/10.3390/molecules28247981
+Clonal Flux and Spread of Staphylococcus aureus Isolated from Meat and Its Genetic Relatedness to Staphylococcus aureus Isolated from Patients in Saudi Arabia.|https://dx.doi.org/10.3390/microorganisms11122926
+Antimicrobial Prophylaxis in Robot-Assisted Laparoscopic Radical Prostatectomy: A Systematic Review.|https://dx.doi.org/10.3390/antibiotics12121744
+Which Are the Best Regimens of Broad-Spectrum Beta-Lactam Antibiotics in Burn Patients? A Systematic Review of Evidence from Pharmacology Studies.|https://dx.doi.org/10.3390/antibiotics12121737
+How We Treat Drug-Susceptible Pulmonary Tuberculosis: A Practical Guide for Clinicians.|https://dx.doi.org/10.3390/antibiotics12121733
+Morbidity of Transrectal MRI-Fusion Targeted Prostate Biopsy at a Tertiary Referral Academic Centre: An Audit to Guide the Transition to the Transperineal Approach.|https://dx.doi.org/10.3390/cancers15245798
+Timing Matters: Optimizing the Timeframe for Preoperative Weight Loss to Mitigate Postoperative Infection Risks in Total Knee Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2023.12.028
+The burden of bacterial antimicrobial resistance in the WHO African region in 2019: a cross-country systematic analysis.|https://dx.doi.org/10.1016/S2214-109X(23)00539-9

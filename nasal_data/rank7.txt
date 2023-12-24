@@ -385,3 +385,23 @@ Towards the Future of Public Health: Roadmapping Trends and Scenarios in the Pos
 Nanotechnology Platform for Advancing Vaccine Development against the COVID-19 Virus.|https://dx.doi.org/10.3390/diseases11040177
 Factors Associated with SARS-CoV-2 Infection Evaluated by Antibody Response in a Sample of Workers from the Emilia-Romagna Region, Northern Italy.|https://dx.doi.org/10.3390/antib12040077
 Impact of the COVID-19 Pandemic on Physical Activity among Mostly Older, Overweight Black Women Living in the Rural Alabama Black Belt.|https://dx.doi.org/10.3390/ijerph20247180
+International scientific communication on COVID-19 data: management pitfalls understanding.|https://dx.doi.org/10.1093/pubmed/fdad277
+A pilot recruitment strategy to enhance ethical and equitable access to Covid-19 pediatric vaccine trials.|https://dx.doi.org/10.1177/17407745231217299
+Hygiene Behavior and COVID-19 Pandemic: Opportunities of COVID-19-Imposed Changes in Hygiene Behavior.|https://dx.doi.org/10.1177/00469580231218421
+Clinical utility of quantitative immunoassays and surrogate virus neutralization tests for predicting neutralizing activity against the SARS-CoV-2 Omicron BA.1 and BA.5 variants.|https://dx.doi.org/10.1002/jmv.29329
+Immunogenicity and safety of inactivated SARS-CoV-2 vaccines in people living with HIV: A longitudinal cohort study.|https://dx.doi.org/10.1002/jmv.29334
+Perceived Impact of Virtual Visits on Access to Care in Family Medicine During the COVID-19 Pandemic: A Qualitative Study of Benefits and Challenges.|https://dx.doi.org/10.1177/21501319231220118
+The Antiviral Activity of the Lectin Griffithsin against SARS-CoV-2 Is Enhanced by the Presence of Structural Proteins.|https://dx.doi.org/10.3390/v15122452
+Epidemiologic and Genomic Evidence for Zoonotic Transmission of SARS-CoV-2 among People and Animals on a Michigan Mink Farm, United States, 2020.|https://dx.doi.org/10.3390/v15122436
+Cholesterol 25-Hydroxylase Suppresses Swine Acute Diarrhea Syndrome Coronavirus Infection by Blocking Spike Protein-Mediated Membrane Fusion.|https://dx.doi.org/10.3390/v15122406
+Epidemiological Insights into the Omicron Outbreak via MeltArray-Assisted Real-Time Tracking of SARS-CoV-2 Variants.|https://dx.doi.org/10.3390/v15122397
+The Functional Implications of Broad Spectrum Bioactive Compounds Targeting RNA-Dependent RNA Polymerase (RdRp) in the Context of the COVID-19 Pandemic.|https://dx.doi.org/10.3390/v15122316
+COVID-19 Genomic Surveillance in Bangui (Central African Republic) Reveals a Landscape of Circulating Variants Linked to Validated Antiviral Targets of SARS-CoV-2 Proteome.|https://dx.doi.org/10.3390/v15122309
+Real-World Efficacy of COVID-19 Pre-Exposure Prophylaxis with Tixagevimab/Cilgavimab in People with Multiple Sclerosis.|https://dx.doi.org/10.3390/vaccines11121855
+Impact of SARS-CoV-2 Infection on Humoral and Cellular Immunity in a Cohort of Vaccinated Solid Organ Transplant Recipients.|https://dx.doi.org/10.3390/vaccines11121845
+Effectiveness of Adapted COVID-19 Vaccines and Ability to Establish Herd Immunity against Omicron BA.1 and BA4-5 Variants of SARS-CoV-2.|https://dx.doi.org/10.3390/vaccines11121836
+Geospatial Analyses of Recent Household Surveys to Assess Changes in the Distribution of Zero-Dose Children and Their Associated Factors before and during the COVID-19 Pandemic in Nigeria.|https://dx.doi.org/10.3390/vaccines11121830
+Chinese Americans' Information Sources on, Preferred Types of, and Satisfaction with COVID-19 Vaccination.|https://dx.doi.org/10.3390/vaccines11121823
+Manifestation of Health Denialism in Attitudes toward COVID-19 Vaccination: A Qualitative Study.|https://dx.doi.org/10.3390/vaccines11121822
+Overview of Nucleocapsid-Targeting Vaccines against COVID-19.|https://dx.doi.org/10.3390/vaccines11121810
+Parental Vaccine Literacy: Attitudes towards the COVID-19 Vaccines and Intention to Vaccinate Their Children Aged 5-11 Years against COVID-19 in Thailand.|https://dx.doi.org/10.3390/vaccines11121804

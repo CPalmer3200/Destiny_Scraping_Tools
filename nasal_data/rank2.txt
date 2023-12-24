@@ -16,3 +16,6 @@ Commensal production of a broad-spectrum and short-lived antimicrobial peptide p
 Comparative genomics of Staphylococcus a ureus strains from wild birds and pig farms elucidates levels of mobilomes, antibiotic pressure and host adaptation.|https://dx.doi.org/10.1016/j.jgar.2023.12.003
 Evaluation of PhenoMATRIX and PhenoMATRIX PLUS for the screening of MRSA from nasal and inguinal/perineal swabs using chromogenic media.|https://dx.doi.org/10.1128/jcm.01152-23
 Dynamics of Staphylococcus aureus in patients and the hospital environment in a tertiary care hospital in the Netherlands.|https://dx.doi.org/10.1186/s13756-023-01349-2
+The Impact of MRSA Colonization on Healthcare-Associated Infections in Long-Term Care Facility Residents: A Whole-Genome Sequencing-Based Study.|https://dx.doi.org/10.3390/microorganisms11122842
+Whole-Genome Investigation of Zoonotic Transmission of Livestock-Associated Methicillin-Resistant Staphylococcus aureus Clonal Complex 398 Isolated from Pigs and Humans in Thailand.|https://dx.doi.org/10.3390/antibiotics12121745
+Facile fabrication of diatomite biosilica-based nasal drug delivery vehicle for enhanced treatment of allergic rhinitis.|https://dx.doi.org/10.1016/j.colsurfb.2023.113715

@@ -102,3 +102,17 @@ Drug-Induced Linear IgA Bullous Dermatosis in an Oncologic Patient.|https://dx.d
 Comparison of Vancomycin Trough-Based and 24-Hour Area Under the Curve Over Minimum Inhibitory Concentration (AUC/MIC)-Based Therapeutic Drug Monitoring in Pediatric Patients.|https://dx.doi.org/10.5863/1551-6776-28.5.430
 Case report: A severe case of generalized tetanus in a young cat.|https://dx.doi.org/10.3389/fvets.2023.1328331
 Efficacy comparison of 7- and 14-day P-CAB based bismuth-containing quadruple regimen with PPI based bismuth-containing quadruple regimen for Helicobacter pylori infection: rationale and design of an open-label, multicenter, randomized controlled trial.|https://dx.doi.org/10.1186/s12876-023-03100-y
+Antimicrobial Activity of Ceragenins against Vancomycin-Susceptible and -Resistant Enterococcus spp.|https://dx.doi.org/10.3390/ph16121643
+Staged Treatment of Posttraumatic Tibial Osteomyelitis with Rib Graft and Serratus Anterior Muscle Autografts-Case Report.|https://dx.doi.org/10.3390/jpm13121651
+Solid-State Dewetting of Thin Au Films for Surface Functionalization of Biomedical Implants.|https://dx.doi.org/10.3390/ma16247524
+An Outbreak of Vancomycin-Resistant Enterococci in a City Hospital Intensive Care Unit: Molecular Characterization of Resistance.|https://dx.doi.org/10.3390/medicina59122081
+Role of Probiotics in Preventing Carbapenem-Resistant Enterobacteriaceae Colonization in the Intensive Care Unit: Risk Factors and Microbiome Analysis Study.|https://dx.doi.org/10.3390/microorganisms11122970
+Isolation and Identification of Microorganisms and Antibiotic Resistance Microorganisms from Beehives Located in Palm, Corn and Longan Plantations, Thailand.|https://dx.doi.org/10.3390/microorganisms11122855
+Effect of Vancomycin, Gentamicin and Clindamycin on Cartilage Cells In Vitro.|https://dx.doi.org/10.3390/biomedicines11123143
+Activity of Cinnamic Acid Derivatives with 4-Chloro-2-mercaptobenzenesulfonamide Moiety against Clinical HLAR and VRE Enterococcus spp.|https://dx.doi.org/10.3390/antibiotics12121691
+Evaluation of the Diagnosis and Antibiotic Prescription Pattern in Patients Hospitalized with Urinary Tract Infections: Single-Center Study from a University-Affiliated Hospital.|https://dx.doi.org/10.3390/antibiotics12121689
+Molecular Epidemiology of Methicillin-Resistant Staphylococcus aureus among Patients Diagnosed with Surgical Site Infection at Four Hospitals in Ethiopia.|https://dx.doi.org/10.3390/antibiotics12121681
+Antibiotic Resistance in Helicobacter pylori Isolates from Northwestern and Central Romania Detected by Culture-Based and PCR-Based Methods.|https://dx.doi.org/10.3390/antibiotics12121672
+High Incidence of Multiple-Drug-Resistant Pheromone-Responsive Plasmids and Transmissions of VanA-Type Vancomycin-Resistant Enterococcus faecalis between Livestock and Humans in Taiwan.|https://dx.doi.org/10.3390/antibiotics12121668
+The Outcome of Antibiotic Overuse before and during the COVID-19 Pandemic in a Tertiary Care Hospital in Oman.|https://dx.doi.org/10.3390/antibiotics12121665
+The effects of antibiotic therapy on neonatal sepsis-associated acute kidney injury.|https://dx.doi.org/10.1016/j.lfs.2023.122359

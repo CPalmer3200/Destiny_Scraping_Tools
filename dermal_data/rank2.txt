@@ -23,3 +23,6 @@ Apoptosis recognition receptors regulate skin tissue repair in mice.|https://dx.
 Histone deacetylase (HDAC) inhibitors- based drugs are effective to control Mycobacterium tuberculosis infection and promote the sensibility for rifampicin in MDR strain.|https://dx.doi.org/10.1590/0074-02760230143
 Associations between specialty care and improved outcomes among patients with diabetic foot ulcers.|https://dx.doi.org/10.1371/journal.pone.0294813
 The needs of patients with diabetes for the prevention and treatment of foot complications in Thailand: A qualitative descriptive study.|https://dx.doi.org/10.33546/bnj.2835
+Isolation and Characterization of New Bacteriophages against Staphylococcal Clinical Isolates from Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/v15122287
+State-of-the-Art Features for Early-Stage Detection of Diabetic Foot Ulcers Based on Thermograms.|https://dx.doi.org/10.3390/biomedicines11123209
+Hard-to-Heal Wound Healing: Superiority of Hydrogel EHO-85 (Containing Olea europaea Leaf Extract) vs. a Standard Hydrogel. A Randomized Controlled Trial.|https://dx.doi.org/10.3390/gels9120962

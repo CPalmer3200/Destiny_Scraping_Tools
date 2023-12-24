@@ -330,3 +330,21 @@ Detection of Cleaved Stx2a in the Blood of STEC-Infected Patients.|https://dx.do
 The Role of Adjuvant Systemic and Intravitreal Corticosteroids in Fungal Endophthalmitis Treatment.|https://dx.doi.org/10.3390/jof9121147
 Perinatal Stressors and Consequences for Neonates with Critical Congenital Heart Disease.|https://dx.doi.org/10.3390/jcdd10120497
 Bone Regeneration Induced by Patient-Adapted Mg Alloy-Based Scaffolds for Bone Defects: Present and Future Perspectives.|https://dx.doi.org/10.3390/biomimetics8080618
+A meta-analysis of the risk factors for neurosurgical surgical site infection following craniotomy.|https://dx.doi.org/10.1111/iwj.14542
+Immune Responses to Influenza D Virus in Calves Previously Infected with Bovine Viral Diarrhea Virus 2.|https://dx.doi.org/10.3390/v15122442
+Urgent Hospitalizations Related to Viral Respiratory Disease in Children during Autumn and Winter Seasons 2022/2023.|https://dx.doi.org/10.3390/v15122425
+SARS-CoV-2 Aerosol and Intranasal Exposure Models in Ferrets.|https://dx.doi.org/10.3390/v15122341
+Poly I:C Pre-Treatment Induced the Anti-Viral Interferon Response in Airway Epithelial Cells.|https://dx.doi.org/10.3390/v15122328
+Herpes Virus Infection in Lung Transplantation: Diagnosis, Treatment and Prevention Strategies.|https://dx.doi.org/10.3390/v15122326
+Antiviral Potential of Azelastine against Major Respiratory Viruses.|https://dx.doi.org/10.3390/v15122300
+Comparison of Infectious Bronchitis Virus (IBV) Pathogenesis and Host Responses in Young Male and Female Chickens.|https://dx.doi.org/10.3390/v15122285
+A CTB-SARS-CoV-2-ACE-2 RBD Mucosal Vaccine Protects Against Coronavirus Infection.|https://dx.doi.org/10.3390/vaccines11121865
+Preliminary Study on the Efficacy of a Recombinant, Subunit SARS-CoV-2 Animal Vaccine against Virulent SARS-CoV-2 Challenge in Cats.|https://dx.doi.org/10.3390/vaccines11121831
+Assessment of Immune Responses to a Trivalent Pichinde Virus-Vectored Vaccine Expressing Hemagglutinin Genes from Three Co-Circulating Influenza A Virus Subtypes in Pigs.|https://dx.doi.org/10.3390/vaccines11121806
+A Multi-Center Study Investigating Long COVID-19 in Healthcare Workers from North-Eastern Italy: Prevalence, Risk Factors and the Impact of Pre-Existing Humoral Immunity-ORCHESTRA Project.|https://dx.doi.org/10.3390/vaccines11121769
+PRRSV-Vaccinated, Seronegative Sows and Maternally Derived Antibodies (I): Impact on PRRSV-1 Challenge Outcomes in Piglets.|https://dx.doi.org/10.3390/vaccines11121745
+Uncommon Septic Arthritis of the Hip Joint in an Immunocompetent Adult Patient Due to Bacillus pumilus and Paenibacillus barengoltzii Managed with Long-Term Treatment with Linezolid: A Case Report and Short Literature Review.|https://dx.doi.org/10.3390/ph16121743
+VRAM Flap for Pelvic Floor Reconstruction after Pelvic Exenteration and Abdominoperineal Excision.|https://dx.doi.org/10.3390/jpm13121711
+Cochlear Implantation in Patients with Bilateral Sudden Sensorineural Hearing Loss after COVID-19 Infection.|https://dx.doi.org/10.3390/jpm13121708
+Staged Treatment of Posttraumatic Tibial Osteomyelitis with Rib Graft and Serratus Anterior Muscle Autografts-Case Report.|https://dx.doi.org/10.3390/jpm13121651
+Pregnancy Outcomes in Patients with Urosepsis and Uncomplicated Urinary Tract Infections-A Retrospective Study.|https://dx.doi.org/10.3390/medicina59122129
