@@ -116,3 +116,6 @@ Antibiotic Resistance in Helicobacter pylori Isolates from Northwestern and Cent
 High Incidence of Multiple-Drug-Resistant Pheromone-Responsive Plasmids and Transmissions of VanA-Type Vancomycin-Resistant Enterococcus faecalis between Livestock and Humans in Taiwan.|https://dx.doi.org/10.3390/antibiotics12121668
 The Outcome of Antibiotic Overuse before and during the COVID-19 Pandemic in a Tertiary Care Hospital in Oman.|https://dx.doi.org/10.3390/antibiotics12121665
 The effects of antibiotic therapy on neonatal sepsis-associated acute kidney injury.|https://dx.doi.org/10.1016/j.lfs.2023.122359
+Evaluation of silver nanoparticle-impregnated PMMA loaded with vancomycin or gentamicin against bacterial biofilm formation.|https://dx.doi.org/10.1016/j.injury.2023.02.032
+Vancomycin powder in the prevention of infection in primary knee and hip arthroplasty: Case-control study with 1151 arthroplasties.|https://dx.doi.org/10.1016/j.recot.2023.12.003
+Staphylococcus aureus Surface Attachment Selectively Influences Tolerance Against Charged Antibiotics.|https://dx.doi.org/10.1016/j.actbio.2023.12.029

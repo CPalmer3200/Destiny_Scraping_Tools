@@ -13,3 +13,4 @@ Fish Scale Gelatin Nanofibers with Helichrysum italicum and Lavandula latifolia 
 Evaluation of the Antitumor Activity of Quaternary Ammonium Surfactants.|https://dx.doi.org/10.3390/ijms242417237
 Integrating Fused Deposition Modeling and Melt Electrowriting for Engineering Branched Vasculature.|https://dx.doi.org/10.3390/biomedicines11123139
 Induction of Programmed Cell Death in Acanthamoeba culbertsoni by the Repurposed Compound Nitroxoline.|https://dx.doi.org/10.3390/antiox12122081
+Cold plasma treatment of tannic acid as a green technology for the fabrication of advanced cross-linkers for bioactive collagen/gelatin hydrogels.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128870

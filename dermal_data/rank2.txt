@@ -26,3 +26,4 @@ The needs of patients with diabetes for the prevention and treatment of foot com
 Isolation and Characterization of New Bacteriophages against Staphylococcal Clinical Isolates from Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/v15122287
 State-of-the-Art Features for Early-Stage Detection of Diabetic Foot Ulcers Based on Thermograms.|https://dx.doi.org/10.3390/biomedicines11123209
 Hard-to-Heal Wound Healing: Superiority of Hydrogel EHO-85 (Containing Olea europaea Leaf Extract) vs. a Standard Hydrogel. A Randomized Controlled Trial.|https://dx.doi.org/10.3390/gels9120962
+Which biomarkers predict hard-to-heal diabetic foot ulcers? A scoping review.|https://dx.doi.org/10.5582/ddt.2023.01086
