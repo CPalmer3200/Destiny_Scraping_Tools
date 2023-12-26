@@ -13,3 +13,20 @@ Staphylococcus aureus Surface Attachment Selectively Influences Tolerance Agains
 mprF mutations in methicillin-resistant Staphylococcus aureus confer reduced susceptibility to biocides and daptomycin.|https://dx.doi.org/10.1016/j.cmi.2023.12.021
 Enhanced sensitivity in Staphylococcus aureus detection: Unveiling the impact of lipid composition on the performance of carboxyfluorescein (CF)-Loaded liposome-based assay.|https://dx.doi.org/10.1016/j.talanta.2023.125577
 Enhancing ferryl accumulation in H(2)O(2)-dependent cytochrome P450s.|https://dx.doi.org/10.1016/j.jinorgbio.2023.112458
+All-Natural Injectable Antibacterial Hydrogel Enabled by Chitosan and Borneol.|https://dx.doi.org/10.1021/acs.biomac.3c00874
+Emergence and control of an outbreak of PVL positive MRSA in a UK based maternity setting.|https://dx.doi.org/10.1016/j.jhin.2023.10.026
+2D MOF Based-heterostructure with Hierarchical Architecture as Antibacterial Wound Dressing.|https://dx.doi.org/10.1016/j.ijpharm.2023.123745
+Photodynamic inactivation of methicillin-resistant Staphylococcus aureus by using Giemsa dye as a photosensitizer.|https://dx.doi.org/10.1016/j.pdpdt.2023.103952
+Fucoidan-coated cotton dressing functionalized with biomolecules capped silver nanoparticles (LB-Ag nps-FN-ocg) for rapid healing therapy of infected wounds.|https://dx.doi.org/10.1016/j.envres.2023.118004
+Linezolid and vancomycin for nosocomial infections in pediatric patients: a systematic review.|https://dx.doi.org/10.1016/j.jped.2023.08.011
+Solving polymicrobial puzzles: evolutionary dynamics and future directions.|https://dx.doi.org/10.3389/fcimb.2023.1295063
+Therapeutic Potential of Punica granatum and Isolated Compounds: Evidence-Based Advances to Treat Bacterial Infections.|https://dx.doi.org/10.1155/2023/4026440
+Laccase and dye-decolorizing peroxidase-modified lignin incorporated with keratin-based biodegradable film: An elucidation of structural characterization, antibacterial and antioxidant properties.|https://dx.doi.org/10.1016/j.fochx.2023.101035
+Development of composite electrospun films utilizing soy protein amyloid fibrils and pullulan for food packaging applications.|https://dx.doi.org/10.1016/j.fochx.2023.100995
+Clinical profile and microbiological spectrum of patients with continuous ambulatory peritoneal dialysis-associated peritonitis at a tertiary care center.|https://dx.doi.org/10.1016/j.mjafi.2022.05.001
+Clinical and bacteriological profiles of neonatal sepsis in a tertiary hospital, south-western Nigeria.|https://dx.doi.org/10.18683/germs.2023.1377
+Molecular Characteristics, Antimicrobial Susceptibility, Biofilm-Forming Ability of Clinically Invasive Staphylococcus aureus Isolates.|https://dx.doi.org/10.2147/IDR.S441989
+Polyphenol Fingerprint, Biological Activities, and In Silico Studies of the Medicinal Plant Cistus parviflorus L. Extract.|https://dx.doi.org/10.1021/acsomega.3c07545
+Anti-infective Efficacy of Duloxetine against Catheter-Associated Urinary Tract Infections Caused by Gram-Positive Bacteria.|https://dx.doi.org/10.1021/acsomega.3c07676
+Phytochemical Screening and GC-MS Analysis of Methanolic and Aqueous Extracts of Ocimum kilimandscharicum Leaves.|https://dx.doi.org/10.1021/acsomega.3c05554
+Molecular epidemiological characteristics and genetic evolutionary relationships of methicillin-resistant Staphylococcus aureus of different avian origins in Qingdao, China, using whole-genome sequencing.|https://dx.doi.org/10.2478/jvetres-2023-0035

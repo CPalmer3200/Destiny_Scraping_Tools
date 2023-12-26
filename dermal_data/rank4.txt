@@ -23,3 +23,6 @@ Plant-Derived Nanocellulose with Antibacterial Activity for Wound Healing Dressi
 Development of an In Situ Photo-Crosslinking Antimicrobial Collagen Hydrogel for the Treatment of Infected Wounds.|https://dx.doi.org/10.3390/polym15244701
 Preparation of a Dual-Functional Active Film Based on Bilayer Hydrogel and Red Cabbage Anthocyanin for Maintaining and Monitoring Pork Freshness.|https://dx.doi.org/10.3390/foods12244520
 Constructing a novel humidity sensor using acrylic acid/bagasse cellulose porous hydrogel combining graphene oxide and citral for antibacterial and intelligent fruit preservation.|https://dx.doi.org/10.1016/j.carbpol.2023.121639
+All-Natural Injectable Antibacterial Hydrogel Enabled by Chitosan and Borneol.|https://dx.doi.org/10.1021/acs.biomac.3c00874
+2D MOF Based-heterostructure with Hierarchical Architecture as Antibacterial Wound Dressing.|https://dx.doi.org/10.1016/j.ijpharm.2023.123745
+Fucoidan-coated cotton dressing functionalized with biomolecules capped silver nanoparticles (LB-Ag nps-FN-ocg) for rapid healing therapy of infected wounds.|https://dx.doi.org/10.1016/j.envres.2023.118004

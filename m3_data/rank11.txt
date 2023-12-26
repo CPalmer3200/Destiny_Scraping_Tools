@@ -119,3 +119,13 @@ The effects of antibiotic therapy on neonatal sepsis-associated acute kidney inj
 Evaluation of silver nanoparticle-impregnated PMMA loaded with vancomycin or gentamicin against bacterial biofilm formation.|https://dx.doi.org/10.1016/j.injury.2023.02.032
 Vancomycin powder in the prevention of infection in primary knee and hip arthroplasty: Case-control study with 1151 arthroplasties.|https://dx.doi.org/10.1016/j.recot.2023.12.003
 Staphylococcus aureus Surface Attachment Selectively Influences Tolerance Against Charged Antibiotics.|https://dx.doi.org/10.1016/j.actbio.2023.12.029
+Distribution of vancomycin-resistant Enterococcus on hospital surfaces at southern Brazil.|https://dx.doi.org/10.1016/j.jhin.2023.12.009
+Linezolid and vancomycin for nosocomial infections in pediatric patients: a systematic review.|https://dx.doi.org/10.1016/j.jped.2023.08.011
+Microbiological analysis and antibiotic selection strategy in neck abscesses among patients with diabetes mellitus.|https://dx.doi.org/10.1007/s00405-023-08396-w
+Concomitant Use of Multiple Nephrotoxins including Renal Hypoperfusion Medications Causes Vancomycin-Associated Nephrotoxicity: Combined Retrospective Analyses of Two Real-World Databases.|https://dx.doi.org/10.18926/AMO/66151
+Methicillin resistant Staphylococcus aureus in the United Arab Emirates: a 12-year retrospective analysis of evolving trends.|https://dx.doi.org/10.3389/fpubh.2023.1244351
+VIBES: A consensus subtyping of the vaginal microbiota reveals novel classification criteria.|https://dx.doi.org/10.1016/j.csbj.2023.11.050
+Is Corynebacterium striatum an emerging prosthetic joint infection pathogen and how should it be treated?|https://dx.doi.org/10.18683/germs.2023.1378
+Fatal hemorrhagic bronchopneumonia caused by Bordetella bronchiseptica in an immunocompetent patient.|https://dx.doi.org/10.18683/germs.2023.1381
+Fosfomycin Enhances the Inhibition Ability of Linezolid Against Biofilms of Vancomycin-Resistant Enterococcus faecium in vitro.|https://dx.doi.org/10.2147/IDR.S428485
+A Multifactorial Case of Stevens-Johnson Syndrome With Atypical Features.|https://dx.doi.org/10.7759/cureus.49289

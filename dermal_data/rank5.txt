@@ -16,3 +16,4 @@ Phloretin Inhibits Quorum Sensing and Biofilm Formation in Serratia marcescens.|
 Comparative Genomic Analysis of Cutibacterium spp. Isolates in Implant-Associated Infections.|https://dx.doi.org/10.3390/microorganisms11122971
 A-Type Natriuretic Peptide Alters the Impact of Azithromycin on Planktonic Culture and on (Monospecies and Binary) Biofilms of Skin Bacteria Kytococcus schroeteri and Staphylococcus aureus.|https://dx.doi.org/10.3390/microorganisms11122965
 Hsa_circ_0105040 promotes Cutbacterium acnes biofilm induced inflammation via sponge miR-146a in human keratinocyte.|https://dx.doi.org/10.1016/j.intimp.2023.111424
+Small molecular adjuvants repurpose antibiotics towards Gram-negative bacterial infections and multispecies bacterial biofilms.|https://dx.doi.org/10.1039/d3sc05124b

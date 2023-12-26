@@ -7,3 +7,4 @@ Lack of Routine Postoperative Labs Not Associated With Complications in Pediatri
 Structural dynamics of the CROPs domain control stability and toxicity of Paeniclostridium sordellii lethal toxin.|https://dx.doi.org/10.1038/s41467-023-44169-z
 Analysis of risk factors for community-acquired Clostridioides difficile diarrhea in children: a case-control study in Chenzhou, China.|https://dx.doi.org/10.21037/tp-23-448
 Evaluating Healthcare-Associated Infections in Public Hospitals: A Cross-Sectional Study.|https://dx.doi.org/10.3390/antibiotics12121693
+Outcomes of Clostridioides difficile infection In Acute Heart Failure Hospitalizations: Insights from the National Inpatient Database.|https://dx.doi.org/10.1016/j.jhin.2023.11.022

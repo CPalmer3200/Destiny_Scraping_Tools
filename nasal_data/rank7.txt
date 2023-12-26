@@ -8,3 +8,19 @@ Changes in the global hospitalisation burden of respiratory syncytial virus in y
 How modelling can better support public health policy making: the Lancet Commission on Strengthening the Use of Epidemiological Modelling of Emerging and Pandemic Infectious Diseases.|https://dx.doi.org/10.1016/S0140-6736(23)02758-7
 Incidence and Outcomes Associated with Menopausal Status in COVID-19 Patients: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1055/s-0043-1772595
 Real-world effectiveness of the inactivated COVID-19 vaccines against variant of concerns: meta-analysis.|https://dx.doi.org/10.1016/j.jiph.2023.12.005
+Health care services for older people in COVID-19 pandemic times - A Nordic comparison.|https://dx.doi.org/10.1080/02813432.2023.2296119
+Characteristics and Clinical Outcomes of Vaccine-Eligible US Children Under-5 Years Hospitalized for Acute COVID-19 in a National Network.|https://dx.doi.org/10.1097/INF.0000000000004225
+Obesity and COVID-19 Pandemics: Epidemiology, Mechanisms, and Management.|https://dx.doi.org/10.2147/DMSO.S441762
+Exploring Prognostically Significant Factors in COVID-19-Associated Pulmonary Fibrosis after Adaptive Lung Ventilation.|https://dx.doi.org/10.47176/mjiri.37.118
+The Brazilian primary health care response to the COVID-19 pandemic: individual and collective approaches.|https://dx.doi.org/10.3389/fpubh.2023.1212584
+Anxiety prevalence and associated factors among frontline nurses following the COVID-19 pandemic: a large-scale cross-sectional study.|https://dx.doi.org/10.3389/fpubh.2023.1323303
+Clinical challenge of co-infection of SARS-CoV-2 with influenza during the influenza circulation season: suggestions for prevention.|https://dx.doi.org/10.18683/germs.2023.1384
+Psychological Status, Influencing Factors and Intervention Countermeasures of Hospital Pharmacists in Extreme Working Environments in the Post-Pandemic Era--An Embedded Mixed Study.|https://dx.doi.org/10.2147/PRBM.S431825
+Case Report: Case report: Administration of anticoagulant therapy after neuro-anesthesia procedure for hemorrhagic stroke patients with COVID-19 complications and its ethical and medicolegal consideration.|https://dx.doi.org/10.12688/f1000research.75630.2
+Fear of the unknown, anxiety, and social isolation in Iranian patients with Covid-19, the grounded theory.|https://dx.doi.org/10.4103/jehp.jehp_861_22
+Rural, Regional, Racial Disparities in Telemedicine Use During the COVID-19 Pandemic Among US Adults: 2021 National Health Interview Survey (NHIS).|https://dx.doi.org/10.2147/PPA.S439437
+Incidence of type 2 diabetes before and during the COVID-19 pandemic in Naples, Italy: a longitudinal cohort study.|https://dx.doi.org/10.1016/j.eclinm.2023.102345
+Approaches to pandemic prevention - the chromatin vaccine.|https://dx.doi.org/10.3389/fimmu.2023.1324084
+Examining Food Security, Choices and Barriers among Community Supported Agriculture participants during COVID- 19 in Kentucky.|https://dx.doi.org/10.1080/19320248.2021.1994084
+Healthcare workers' safety compliance behavior in times of COVID-19: The interaction model.|https://dx.doi.org/10.3233/WOR-230522
+Potential adverse effects of face mask use on cardiopulmonary function and thermoregulation in robotic stroke rehabilitation during the covid-19 pandemic.|https://dx.doi.org/10.3233/NRE-230150

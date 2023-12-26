@@ -27,3 +27,5 @@ Isolation and Characterization of New Bacteriophages against Staphylococcal Clin
 State-of-the-Art Features for Early-Stage Detection of Diabetic Foot Ulcers Based on Thermograms.|https://dx.doi.org/10.3390/biomedicines11123209
 Hard-to-Heal Wound Healing: Superiority of Hydrogel EHO-85 (Containing Olea europaea Leaf Extract) vs. a Standard Hydrogel. A Randomized Controlled Trial.|https://dx.doi.org/10.3390/gels9120962
 Which biomarkers predict hard-to-heal diabetic foot ulcers? A scoping review.|https://dx.doi.org/10.5582/ddt.2023.01086
+Formulation and characterization of polyvinyl alcohol/chitosan composite nanofiber co-loaded with silver nanoparticle & luliconazole encapsulated poly lactic-co-glycolic acid nanoparticle for treatment of diabetic foot ulcer.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128978
+The Potential of Sheep or Camel Milk Constituents to Contribute to Novel Dressings for Diabetic Wounds.|https://dx.doi.org/10.3390/ijms242417551
