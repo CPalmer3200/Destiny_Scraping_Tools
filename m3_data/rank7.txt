@@ -5,3 +5,4 @@ Implementation strategies for hospital-based probiotic administration in a stepp
 Patient-reported symptoms and diagnostic journey in Multiple Myeloma.|https://dx.doi.org/10.3389/fonc.2023.1282569
 Efficacy and safety of 48 weeks of guselkumab for patients with Crohn's disease: maintenance results from the phase 2, randomised, double-blind GALAXI-1 trial.|https://dx.doi.org/10.1016/S2468-1253(23)00318-7
 Atypical cutaneous presentation of AOSD with persistent itchy urticaria: A case report.|https://dx.doi.org/10.1097/MD.0000000000036251
+The efficacy and safety of intra-articular dual-acting antibacterial agent (TNP-2092) for implant infection-associated MRSA.|https://dx.doi.org/10.1093/infdis/jiad588

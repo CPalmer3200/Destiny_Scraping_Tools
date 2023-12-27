@@ -29,3 +29,4 @@ Implementation of a Scalable Online Weight Management Programme in Clinical Sett
 Development of a Pipeline for Removing Allergy Labels in Patients Undergoing Hematopoietic Stem Cell Transplantation.|https://dx.doi.org/10.1016/j.jtct.2023.12.012
 Impact of strict isolation measures, surgical activity and antimicrobial use on Clostridioides difficile infection during COVID-19.|https://dx.doi.org/10.1016/j.rceng.2023.12.007
 A community-based child health and parenting intervention to improve child HIV testing, health, and development in rural Lesotho (Early Morning Star): a cluster-randomised, controlled trial.|https://dx.doi.org/10.1016/S2352-3018(23)00265-5
+Synthesis, antiproliferative and antiplasmodial evaluation of new chloroquine and mefloquine-based harmiquins.|https://dx.doi.org/10.2478/acph-2023-0035

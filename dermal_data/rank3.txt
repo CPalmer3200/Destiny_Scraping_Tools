@@ -4,3 +4,4 @@ Identification of types of wound bed tissue as a percentage and total wound area
 Clinical characteristics of Martorell hypertensive ischaemic leg ulcer.|https://dx.doi.org/10.12968/jowc.2023.32.12.797
 Antimicrobial and biocompatibility nature of methanol extract of Lannea coromandelica bark and edible coating film preparation for fruit preservation.|https://dx.doi.org/10.1016/j.envres.2023.117861
 Cost-effectiveness analysis of intra- and perilesional recombinant human epidermal growth factor versus hydrocolloid therapy in venous ulcer treatment in the Colombian context.|https://dx.doi.org/10.1016/j.jvsv.2023.101745
+Development of an explainable artificial intelligence model for Asian vascular wound images.|https://dx.doi.org/10.1111/iwj.14565

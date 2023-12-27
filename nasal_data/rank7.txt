@@ -24,3 +24,21 @@ Approaches to pandemic prevention - the chromatin vaccine.|https://dx.doi.org/10
 Examining Food Security, Choices and Barriers among Community Supported Agriculture participants during COVID- 19 in Kentucky.|https://dx.doi.org/10.1080/19320248.2021.1994084
 Healthcare workers' safety compliance behavior in times of COVID-19: The interaction model.|https://dx.doi.org/10.3233/WOR-230522
 Potential adverse effects of face mask use on cardiopulmonary function and thermoregulation in robotic stroke rehabilitation during the covid-19 pandemic.|https://dx.doi.org/10.3233/NRE-230150
+Sutimlimab suppresses SARS-CoV-2 mRNA vaccine-induced hemolytic crisis in a patient with cold agglutinin disease.|https://dx.doi.org/10.3960/jslrt.23040
+Impact of an Emergency Department Isolation Policy for Patients With Suspected COVID-19 on Door-to-Electrocardiography Time and Clinical Outcomes in Patients With Acute Myocardial Infarction.|https://dx.doi.org/10.3346/jkms.2023.38.e388
+COVID-19 in Dental Practice Is Prevented by Eugenol Responsible for the Ambient Odor Specific to Dental Offices: Possibility and Speculation.|https://dx.doi.org/10.1159/000535966
+Vaccine Effectiveness of BNT162b2 and CoronaVac Against SARS-CoV-2 Omicron BA.2 in CKD.|https://dx.doi.org/10.2215/CJN.0000000000000376
+Implementation of Recommendations on the Use of Corticosteroids in Severe COVID-19.|https://dx.doi.org/10.1001/jamanetworkopen.2023.46502
+Hand and Oral Hygiene Practices of South Korean Adolescents Before and During the COVID-19 Pandemic.|https://dx.doi.org/10.1001/jamanetworkopen.2023.49249
+Socioemotional Development of Infants and Toddlers During the COVID-19 Pandemic.|https://dx.doi.org/10.1001/jamapediatrics.2023.5684
+Nasopharyngeal neutrophilic-retention signatures could predict disease progression in early SARS-CoV-2 infection.|https://dx.doi.org/10.1002/jmv.29328
+Trends in Pediatric Emergency and Inpatient Healthcare Use for Mental and Behavioral Health Among North Carolinians During the Early COVID-19 Pandemic.|https://dx.doi.org/10.1093/jpids/piad092
+Impact of the COVID-19 Pandemic on Pediatric Preventive Health Care Among North Carolina Children Enrolled in Medicaid.|https://dx.doi.org/10.1093/jpids/piad061
+School Absenteeism as a Marker for Community COVID-19 Rates.|https://dx.doi.org/10.1093/jpids/piad072
+How I maximised my training during the COVID-19 pandemic.|https://dx.doi.org/10.1080/01443615.2023.2295030
+Exacerbation of Behcet's Disease and Pyoderma Gangrenosum Following COVID-19 Infection: A Case Report.|https://dx.doi.org/10.7759/cureus.49386
+The Association between Acute Cardiac Injury and Outcomes of Hospitalized Patients with COVID-19: Long-Term Follow-up Results from the Sina Hospital COVID-19 Registry, Iran.|https://dx.doi.org/10.18502/jthc.v18i3.14114
+Prevalence of Thromboembolic Events, Including Venous Thromboembolism and Arterial Thrombosis, in Patients with COVID-19: A Systematic Review with Meta-Analysis.|https://dx.doi.org/10.18502/jthc.v18i3.14110
+Australia and New Zealand consensus position statement: use of COVID-19 therapeutics in patients with haematological malignancies.|https://dx.doi.org/10.1111/imj.16303
+Predicting Support for COVID-19 Policies with Partisan Media Use and Negative Emotion: Evidence from the U.S. and South Korea.|https://dx.doi.org/10.1080/10810730.2023.2236963
+Increased SARS-CoV-2 reactive low avidity T cells producing inflammatory cytokines in pediatric post-acute COVID-19 sequelae (PASC).|https://dx.doi.org/10.1111/pai.14060

@@ -30,3 +30,15 @@ Polyphenol Fingerprint, Biological Activities, and In Silico Studies of the Medi
 Anti-infective Efficacy of Duloxetine against Catheter-Associated Urinary Tract Infections Caused by Gram-Positive Bacteria.|https://dx.doi.org/10.1021/acsomega.3c07676
 Phytochemical Screening and GC-MS Analysis of Methanolic and Aqueous Extracts of Ocimum kilimandscharicum Leaves.|https://dx.doi.org/10.1021/acsomega.3c05554
 Molecular epidemiological characteristics and genetic evolutionary relationships of methicillin-resistant Staphylococcus aureus of different avian origins in Qingdao, China, using whole-genome sequencing.|https://dx.doi.org/10.2478/jvetres-2023-0035
+Biosynthesis of Zinc Oxide-Zerumbone (ZnO-Zer) Nanoflakes Towards Evaluating Its Antibacterial and Reactive Oxygen Species (ROS)-Dependent Cytotoxic Activity.|https://dx.doi.org/10.1007/s10895-023-03560-1
+Botryorhodine J, a new anti-MRSA depsidone isolated from endophytic fungus Alternaria alternata Pas11.|https://dx.doi.org/10.1080/14786419.2023.2298727
+The effect of doxycycline on canine neutrophil functions.|https://dx.doi.org/10.1016/j.vetimm.2023.110701
+Azithromycin-loaded liposomal hydrogel: a step forward for enhanced treatment of MRSA-related skin infections.|https://dx.doi.org/10.2478/acph-2023-0042
+Investigating the bispecific lead compounds against methicillin-resistant Staphylococcus aureus SarA and CrtM using machine learning and molecular dynamics approach.|https://dx.doi.org/10.1080/07391102.2023.2297012
+The efficacy and safety of intra-articular dual-acting antibacterial agent (TNP-2092) for implant infection-associated MRSA.|https://dx.doi.org/10.1093/infdis/jiad588
+3D Printed SiO(2)-Tricalcium Phosphate Scaffolds Loaded with Carvacrol Nanoparticles for Bone Tissue Engineering Application.|https://dx.doi.org/10.1021/acs.jmedchem.3c01884
+Cholic Acid-Derived Gemini Amphiphile Can Eradicate Interkingdom Polymicrobial Biofilms and Wound Infections.|https://dx.doi.org/10.1021/acsinfecdis.3c00369
+UVC-LED-based face mask design and efficacy against common germs.|https://dx.doi.org/10.2478/aiht-2023-74-3766
+Formulation and Evaluation of Herbal-Based Antiacne Gel Preparations.|https://dx.doi.org/10.1155/2023/7838299
+The emergence of multidrug-resistant Gram-positive bloodstream infections in India - a single center prospective cohort study.|https://dx.doi.org/10.18683/germs.2023.1389
+Surgical neonates: A retrospective review of procedures and postoperative outcomes at a quaternary children's hospital.|https://dx.doi.org/10.1111/pan.14827

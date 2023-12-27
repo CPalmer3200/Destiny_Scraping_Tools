@@ -24,3 +24,21 @@ Higher antibody titres against Pseudogymnoascus destructans are associated with 
 A Randomized Controlled Trial Comparing Two Wound Dressings Used in Obstetric and Gynecological Surgeries: Trushield NXT vs. Tegaderm.|https://dx.doi.org/10.7759/cureus.49207
 Case Report: Acute abdomen and large mesenteric mass as another face of multisystem inflammatory syndrome in an adolescent child: measure twice, act once!|https://dx.doi.org/10.3389/fped.2023.1324670
 Risk Factors and Dynamic Nomogram Development for Surgical Site Infection Following Open Wedge High Tibial Osteotomy for Varus Knee Osteoarthritis: A Retrospective Cohort Study.|https://dx.doi.org/10.2147/CIA.S436816
+The unsolved problem of musculoskeletal hydatid disease: two case reports.|https://dx.doi.org/10.1186/s13256-023-04275-4
+Pre-oxygenation with high-flow oxygen through the nasopharyngeal airway compared to facemask on carbon dioxide clearance in emergency adults: a prospective randomized non-blinded clinical trial.|https://dx.doi.org/10.1007/s00068-023-02418-2
+Causal relationship between cigarette smoking behaviors and the risk of hernias: a Mendelian randomization study.|https://dx.doi.org/10.1007/s10029-023-02925-6
+High risk and low prevalence diseases: Flexor tenosynovitis.|https://dx.doi.org/10.1016/j.ajem.2023.12.023
+Emergency laparotomy and perioperative COVID-19: a single-center retrospective cohort study.|https://dx.doi.org/10.1007/s13304-023-01730-1
+Cervical Spinal Cord Stimulation: A Review.|https://dx.doi.org/10.1007/s11916-023-01200-8
+Changes in Hospital Adverse Events and Patient Outcomes Associated With Private Equity Acquisition.|https://dx.doi.org/10.1001/jama.2023.23147
+What is the diagnostic accuracy of neutrophil to lymphocyte ratio and monocyte to lymphocyte ratio in detecting acute periprosthetic joint infections? A gender-specific analysis.|https://dx.doi.org/10.1007/s00402-023-05162-9
+The effect of intraoperative fluoroscopy on acetabular component positioning and patient anatomy restoration during posterior or posterolateral approach total hip arthroplasty: a meta-analysis.|https://dx.doi.org/10.1007/s00402-023-05168-3
+The association between sarcopenia, defined by a simplified screening tool, and long-term outcomes.|https://dx.doi.org/10.1002/ncp.11109
+Comparison of asymmetric Z-plasty and Stallard Z-plasty in correction of epicanthus.|https://dx.doi.org/10.1111/jocd.16114
+Artificial intelligence-based analysis of body composition predicts outcome in patients receiving long-term mechanical circulatory support.|https://dx.doi.org/10.1002/jcsm.13402
+Microbiological Evaluation of Four Different Suture Materials Used for the Surgical Removal of Impacted Lower Third Molars: A Single-Center Prospective Comparative Study.|https://dx.doi.org/10.7759/cureus.49370
+Dual Mobility Cup in Fractures of the Femoral Neck in Neuromuscular Disorders and Cognitive Dysfunction Patients above 60 years-old.|https://dx.doi.org/10.22038/ABJS.2023.65924.3157
+A Retrospective Cohort Study Evaluating the Safety and Efficacy of Sequential versus Concurrent Intrapleural Instillation of Tissue Plasminogen Activator and DNase for Pleural Infection.|https://dx.doi.org/10.1155/2023/6340851
+Immunoinformatics Prediction and Protective Efficacy of Vaccine Candidate PiuA-PlyD4 Against Streptococcus Pneumoniae.|https://dx.doi.org/10.2147/DDDT.S441302
+Descending necrotizing mediastinitis caused by retro-pharyngeal Eggerthia catenaformis infection.|https://dx.doi.org/10.18683/germs.2023.1394
+Diagnosis and Methods of Repair for a Uteroperitoneal Fistula (UPF) Formed After Gynecological Surgeries.|https://dx.doi.org/10.7759/cureus.51064

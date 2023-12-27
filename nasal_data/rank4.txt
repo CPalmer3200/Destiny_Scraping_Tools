@@ -14,3 +14,6 @@ Microbial Profile of Tourniquets Used in Phlebotomy at a Rural Tertiary Care Tea
 Full-Thickness Skin Graft Versus Split-Thickness Skin Graft for Radial Forearm Free Flap Transfer in Oral Cavity Reconstruction: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.49279
 Underestimated Cervical Cancer among Women over 65 Years Old: Is It Time to Revise the Screening Target Age Group?|https://dx.doi.org/10.1055/s-0043-1772477
 Smoking, Alcohol Intake and Torque Teno Virus in Stable Kidney Transplant Recipients.|https://dx.doi.org/10.3390/v15122387
+An Overview of Current Statistical Methods for Implementing Quality Tolerance Limits.|https://dx.doi.org/10.1007/s43441-023-00598-y
+Influence of instrumentation type on outcomes after surgical management of spondylodiscitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00586-023-08065-w
+In silico and in vitro evaluation of newly synthesized pyrazolo-pyridine fused tetrazolo-pyrimidines derivatives as potential anticancer and antimicrobial agents.|https://dx.doi.org/10.1080/07391102.2023.2298731

@@ -26,3 +26,4 @@ Constructing a novel humidity sensor using acrylic acid/bagasse cellulose porous
 All-Natural Injectable Antibacterial Hydrogel Enabled by Chitosan and Borneol.|https://dx.doi.org/10.1021/acs.biomac.3c00874
 2D MOF Based-heterostructure with Hierarchical Architecture as Antibacterial Wound Dressing.|https://dx.doi.org/10.1016/j.ijpharm.2023.123745
 Fucoidan-coated cotton dressing functionalized with biomolecules capped silver nanoparticles (LB-Ag nps-FN-ocg) for rapid healing therapy of infected wounds.|https://dx.doi.org/10.1016/j.envres.2023.118004
+Azithromycin-loaded liposomal hydrogel: a step forward for enhanced treatment of MRSA-related skin infections.|https://dx.doi.org/10.2478/acph-2023-0042
