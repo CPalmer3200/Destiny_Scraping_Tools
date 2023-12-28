@@ -42,3 +42,19 @@ A Retrospective Cohort Study Evaluating the Safety and Efficacy of Sequential ve
 Immunoinformatics Prediction and Protective Efficacy of Vaccine Candidate PiuA-PlyD4 Against Streptococcus Pneumoniae.|https://dx.doi.org/10.2147/DDDT.S441302
 Descending necrotizing mediastinitis caused by retro-pharyngeal Eggerthia catenaformis infection.|https://dx.doi.org/10.18683/germs.2023.1394
 Diagnosis and Methods of Repair for a Uteroperitoneal Fistula (UPF) Formed After Gynecological Surgeries.|https://dx.doi.org/10.7759/cureus.51064
+Robotic Frameless Stereotactic Aspiration with Thrombolysis for Primary Pontine Hemorrhage: A Therapeutic Evaluation of a Retrospective Cohort Study.|https://dx.doi.org/10.1055/a-2235-5453
+Abdominal pseudohernia as an exceptional complication of herpes-zoster.|https://dx.doi.org/10.1016/j.ijscr.2023.109191
+Case Report: Gastrointestinal Basidiobolomycosis in a Young Girl with Cystic Fibrosis and Celiac Disease.|https://dx.doi.org/10.4269/ajtmh.23-0404
+Impact of long-term vs. short-term and single day vs. single dose of antibiotic prophylaxis in reducing infection rates after orthognathic surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.4317/medoral.26368
+Emergent Applications of Machine Learning for Diagnosing and Managing Appendicitis: A State-of-the-Art Review.|https://dx.doi.org/10.1089/sur.2023.201
+Determining the Optimal Technique for Bar Fixation in the Repair of Pectus Excavatum.|https://dx.doi.org/10.1089/lap.2023.0233
+Comparison of surgical site infection (SSI) between negative pressure wound therapy (NPWT) assisted delayed primary closure and conventional delayed primary closure in grossly contaminated emergency abdominal surgeries: a randomized controlled trial.|https://dx.doi.org/10.1007/s00423-023-03202-x
+First molecular identification of the trematode Pulmonicola cochleotrema (Platyhelminthes: Opisthotrematidae) in West Indian manatees (Trichechus manatus, Sirenia: Trichechidae) from Puerto Rico and Florida.|https://dx.doi.org/10.1007/s11230-023-10123-2
+A Prospective, Single-Arm Study to Evaluate the Safety and Efficacy of RD2-Ver.02, an Autologous Blood Clot, in the Treatment of Anal Fistula.|https://dx.doi.org/10.1097/DCR.0000000000003190
+Decreased Risk of Periprosthetic Joint Infection with Concurrent Hardware Removal During Conversion Total Hip Arthroplasty Compared to Staged Removal: A Matched Cohort Analysis.|https://dx.doi.org/10.5435/JAAOSGlobal-D-23-00261
+Risk factors for surgical site infection after percutaneous endoscopic lumbar discectomy.|https://dx.doi.org/10.1111/iwj.14605
+Liver transplantation in patient with Berardinelli-Seip syndrome: A literature review and case report.|https://dx.doi.org/10.1111/petr.14680
+Single-stage versus two-stage bone flap reconstruction in chronic osteomyelitis: Multicenter outcomes comparison.|https://dx.doi.org/10.1002/micr.31139
+Diagnostic efficacy of serum presepsin for postoperative infectious complications: a meta-analysis.|https://dx.doi.org/10.3389/fimmu.2023.1320683
+Optimization of RT-PCR methods for enterovirus detection in groundwater.|https://dx.doi.org/10.1016/j.heliyon.2023.e23028
+Multiple Thrombotic, Infectious, and Cardiopulmonary Complications Following Laparoscopic Converted to Open Colectomy Procedure: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.49384

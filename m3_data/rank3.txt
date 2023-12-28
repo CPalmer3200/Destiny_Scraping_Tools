@@ -1,3 +1,4 @@
 The Infectious Diseases Society of America Guidelines on the Diagnosis of Coronavirus Disease 2019 (COVID-19): Molecular Diagnostic Testing.|https://dx.doi.org/10.1093/cid/ciad646
 Assessing the potential of GPT-4 to perpetuate racial and gender biases in health care: a model evaluation study.|https://dx.doi.org/10.1016/S2589-7500(23)00225-X
 Increased Prevalence of Clostridioides difficile Infection Among Pediatric Oncology Patients: Risk Factors for Infection and Complications.|https://dx.doi.org/10.1097/INF.0000000000004178
+What Is the Ideal Duration for Surgical Antibiotic Prophylaxis?|https://dx.doi.org/10.1089/sur.2023.327

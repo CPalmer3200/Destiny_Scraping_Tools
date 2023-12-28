@@ -42,3 +42,10 @@ UVC-LED-based face mask design and efficacy against common germs.|https://dx.doi
 Formulation and Evaluation of Herbal-Based Antiacne Gel Preparations.|https://dx.doi.org/10.1155/2023/7838299
 The emergence of multidrug-resistant Gram-positive bloodstream infections in India - a single center prospective cohort study.|https://dx.doi.org/10.18683/germs.2023.1389
 Surgical neonates: A retrospective review of procedures and postoperative outcomes at a quaternary children's hospital.|https://dx.doi.org/10.1111/pan.14827
+Extensive perineal ecthyma gangrenosum in leukocyte adhesion deficiency type 1 associated with Staphylococcus hominis bacteremia.|https://dx.doi.org/10.1111/pde.15492
+Photothermal and Photocatalytic Glycol Chitosan and Polydopamine-Grafted Oxygen Vacancy Bismuth Oxyiodide (BiO(1-x) I) Nanoparticles for the Diagnosis and Targeted Therapy of Diabetic Wounds.|https://dx.doi.org/10.1002/adma.202307695
+Do All Prosthetic Joint Infection Clinical Isolates Form Aggregates in Synovial Fluid That Are Resistant to Antibiotic Agents?|https://dx.doi.org/10.1089/sur.2023.242
+Engineering Single-Component Antibacterial Anti-inflammatory Polyitaconate-Based Hydrogel for Promoting Methicillin-Resistant Staphylococcus aureus-Infected Wound Healing and Skin Regeneration.|https://dx.doi.org/10.1021/acsnano.3c07638
+On-Demand Sequential Release of Dual Drug from pH-Responsive Electrospun Janus Nanofiber Membranes toward Wound Healing and Infection Control.|https://dx.doi.org/10.1021/acsami.3c13676
+Double Cross-Linked Hydrogel Dressings Based on Triblock Copolymers Bearing Antifreezing, Antidrying, and Inherent Antibacterial Properties.|https://dx.doi.org/10.1021/acs.biomac.3c01040
+Effect of different etching times on the structural, morphological, electrical, and antimicrobial properties of mesoporous silicon.|https://dx.doi.org/10.1016/j.heliyon.2023.e23105

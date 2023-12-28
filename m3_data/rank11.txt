@@ -131,3 +131,6 @@ Fosfomycin Enhances the Inhibition Ability of Linezolid Against Biofilms of Vanc
 A Multifactorial Case of Stevens-Johnson Syndrome With Atypical Features.|https://dx.doi.org/10.7759/cureus.49289
 The emergence of multidrug-resistant Gram-positive bloodstream infections in India - a single center prospective cohort study.|https://dx.doi.org/10.18683/germs.2023.1389
 Radiology Department: A Potential Source of Multidrug-Resistant Microorganisms: A Cross-Sectional Study at Tertiary Hospital, Palestine.|https://dx.doi.org/10.1155/2023/4441338
+Do All Prosthetic Joint Infection Clinical Isolates Form Aggregates in Synovial Fluid That Are Resistant to Antibiotic Agents?|https://dx.doi.org/10.1089/sur.2023.242
+The Effect of Hydroalcoholic Extract of Quercus brantii and Artemisia aucheri Boiss Against Trichomonas vaginalis In vitro.|https://dx.doi.org/10.4274/tpd.galenos.2023.55264
+Association of Chlamydia trachomatis burden with the vaginal microbiota, bacterial vaginosis, and metronidazole treatment.|https://dx.doi.org/10.3389/fcimb.2023.1289449

@@ -17,3 +17,4 @@ Comparative Genomic Analysis of Cutibacterium spp. Isolates in Implant-Associate
 A-Type Natriuretic Peptide Alters the Impact of Azithromycin on Planktonic Culture and on (Monospecies and Binary) Biofilms of Skin Bacteria Kytococcus schroeteri and Staphylococcus aureus.|https://dx.doi.org/10.3390/microorganisms11122965
 Hsa_circ_0105040 promotes Cutbacterium acnes biofilm induced inflammation via sponge miR-146a in human keratinocyte.|https://dx.doi.org/10.1016/j.intimp.2023.111424
 Small molecular adjuvants repurpose antibiotics towards Gram-negative bacterial infections and multispecies bacterial biofilms.|https://dx.doi.org/10.1039/d3sc05124b
+A surfactant-based dressing can reduce the appearance of Pseudomonas aeruginosa pigments and uncover the dermal extracellular matrix in an ex vivo porcine skin wound model.|https://dx.doi.org/10.1111/iwj.14510
