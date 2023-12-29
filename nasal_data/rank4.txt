@@ -25,3 +25,14 @@ Comparing easywrap with six other adjustable wraps for compression therapy in ve
 Building a Simple Model to Assess the Impact of Case Investigation and Contact Tracing for Sexually Transmitted Diseases: Lessons From COVID-19.|https://dx.doi.org/10.1016/j.focus.2023.100147
 Uropathogens and their antimicrobial-resistant pattern among suspected urinary tract infections patients in eastern Nepal: A hospital inpatients-based study.|https://dx.doi.org/10.1177/20503121231220821
 Omental Abscess after Laparoscopic Proximal Gastrectomy Successfully Treated with Percutaneous Drainage.|https://dx.doi.org/10.18926/AMO/66160
+Chronic Pulmonary Aspergillosis: Clinical Presentation and Management.|https://dx.doi.org/10.1055/s-0043-1776914
+Efficacy and safety of oral probiotic supplementation in mitigating postoperative surgical site infections in patients undergoing colorectal cancer surgery: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14603
+CDC COVID-19 vaccination program: Healthcare provider compliance with COVID-19 vaccine requirements and recommendations.|https://dx.doi.org/10.1016/j.vaccine.2023.12.023
+Prevalence of Testing for Diabetes Among US Adults With Overweight or Obesity, 2016-2019.|https://dx.doi.org/10.5888/pcd20.230173
+Vertebral Candidiasis, the State of the Art: A Systematic Literature Review.|https://dx.doi.org/10.1007/978-3-031-36084-8_36
+Risk factors contributing to postoperative surgical site infections in patients undergoing ankle fracture fixation: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14639
+A Symphony of Challenges: Multi-Drug Resistant Tuberculosis, Pleurocutaneous Fistula, and Empyema Necessitans in Concert.|https://dx.doi.org/10.7759/cureus.49485
+Acute care nurses' experience in providing evidence-based care for patients with laparotomy wounds: A scoping review.|https://dx.doi.org/10.1111/iwj.14591
+The Impact of Hypoalbuminemia on Postoperative Complications in Patients Undergoing Shoulder Arthroplasty: A Meta-Analysis.|https://dx.doi.org/10.1007/s12603-023-2050-6
+Cultural acceptability of STI screening guidelines and sexual positioning assessments among black sexual minority men.|https://dx.doi.org/10.1111/jan.16017
+Profiles of Cognitive Functioning at 6 Months After Traumatic Brain Injury Among Patients in Level I Trauma Centers: A TRACK-TBI Study.|https://dx.doi.org/10.1001/jamanetworkopen.2023.49118

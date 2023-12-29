@@ -30,3 +30,6 @@ Development of a Pipeline for Removing Allergy Labels in Patients Undergoing Hem
 Impact of strict isolation measures, surgical activity and antimicrobial use on Clostridioides difficile infection during COVID-19.|https://dx.doi.org/10.1016/j.rceng.2023.12.007
 A community-based child health and parenting intervention to improve child HIV testing, health, and development in rural Lesotho (Early Morning Star): a cluster-randomised, controlled trial.|https://dx.doi.org/10.1016/S2352-3018(23)00265-5
 Synthesis, antiproliferative and antiplasmodial evaluation of new chloroquine and mefloquine-based harmiquins.|https://dx.doi.org/10.2478/acph-2023-0035
+The diagnostic role of arginine-stimulated copeptin in the differential diagnosis of polyuria-polydipsia syndrome (PPS) in pediatric age.|https://dx.doi.org/10.1007/s12020-023-03671-6
+Future Microbiome Therapeutics for Clostridioides difficile Infection.|https://dx.doi.org/10.14309/ajg.0000000000002576
+The Association between Caring Behavior and Death Anxiety among Iranian Nurses Working in Covid-19 Wards.|https://dx.doi.org/10.1177/23779608231219125

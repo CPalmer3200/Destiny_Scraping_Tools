@@ -29,3 +29,4 @@ Fucoidan-coated cotton dressing functionalized with biomolecules capped silver n
 Azithromycin-loaded liposomal hydrogel: a step forward for enhanced treatment of MRSA-related skin infections.|https://dx.doi.org/10.2478/acph-2023-0042
 Engineering Single-Component Antibacterial Anti-inflammatory Polyitaconate-Based Hydrogel for Promoting Methicillin-Resistant Staphylococcus aureus-Infected Wound Healing and Skin Regeneration.|https://dx.doi.org/10.1021/acsnano.3c07638
 Double Cross-Linked Hydrogel Dressings Based on Triblock Copolymers Bearing Antifreezing, Antidrying, and Inherent Antibacterial Properties.|https://dx.doi.org/10.1021/acs.biomac.3c01040
+Development and biological evaluation of smart powder bandage for wound healing and dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129044

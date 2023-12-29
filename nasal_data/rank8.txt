@@ -58,3 +58,17 @@ Single-stage versus two-stage bone flap reconstruction in chronic osteomyelitis:
 Diagnostic efficacy of serum presepsin for postoperative infectious complications: a meta-analysis.|https://dx.doi.org/10.3389/fimmu.2023.1320683
 Optimization of RT-PCR methods for enterovirus detection in groundwater.|https://dx.doi.org/10.1016/j.heliyon.2023.e23028
 Multiple Thrombotic, Infectious, and Cardiopulmonary Complications Following Laparoscopic Converted to Open Colectomy Procedure: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.49384
+Pre-Operative Chronic Steroid Use is Associated with Increased Incidence of Postoperative Mortality and Limb Loss Following Peripheral Arterial Bypass Surgery for Chronic Limb-Threatening Ischemia.|https://dx.doi.org/10.1016/j.avsg.2023.11.022
+Pathogenicity assessment of a bovine viral diarrhea virus type 1l (BVDV-1l) strain in experimentally infected calves.|https://dx.doi.org/10.1016/j.vetmic.2023.109945
+Predictors for different types of surgical site infection in patients with gastric cancer: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14549
+Poorly controlled diabetes mellitus is strongly associated with descending necrotizing mediastinitis of odontogenic origin.|https://dx.doi.org/10.1016/j.oooo.2023.09.004
+Sepsis in surgical patients: Burn sepsis.|https://dx.doi.org/10.1016/j.surg.2023.11.035
+Early Results of Orthopaedic Trauma and Anemia: Conservative Versus Liberal Transfusion Strategy.|https://dx.doi.org/10.5435/JAAOS-D-23-00235
+Pericardial Closure with Expanded Polytetrafluoroethylene Patch in Left Ventricular Assist Device Surgery.|https://dx.doi.org/10.1097/MAT.0000000000002126
+[Clinical protocol: audiological assessment of infants in Russian Federation. Part II].|https://dx.doi.org/10.17116/otorino20238806181
+National Trends in 30-Day Readmission Following Transoral Robotic Surgery for Oropharyngeal Squamous Cell Carcinoma.|https://dx.doi.org/10.1001/jamaoto.2023.4025
+Rhinocerebral mucormycosis in immunocompetent patients: a case report and review of literature.|https://dx.doi.org/10.1007/s15010-023-02147-z
+Postoperative Morbidity and Interstage Hemodynamics Following Stage I Palliation in Patients with Turner Syndrome and Hypoplastic Left Heart Syndrome.|https://dx.doi.org/10.1007/s00246-023-03395-4
+Minimally Invasive Posterior Cervical Fusion: A Handsome Option.|https://dx.doi.org/10.1007/978-3-031-36084-8_53
+Multilevel Corpectomy for Subaxial Cervical Spondylodiscitis: Literature Review and Role of Navigation, Intraoperative Imaging and Augmented Reality.|https://dx.doi.org/10.1007/978-3-031-36084-8_50
+Combined Transoral Exoscope and OARM-Assisted Approach for Craniovertebral Junction Surgery. New Trends in an Old-Fashioned Approach.|https://dx.doi.org/10.1007/978-3-031-36084-8_37

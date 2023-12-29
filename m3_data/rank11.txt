@@ -134,3 +134,9 @@ Radiology Department: A Potential Source of Multidrug-Resistant Microorganisms: 
 Do All Prosthetic Joint Infection Clinical Isolates Form Aggregates in Synovial Fluid That Are Resistant to Antibiotic Agents?|https://dx.doi.org/10.1089/sur.2023.242
 The Effect of Hydroalcoholic Extract of Quercus brantii and Artemisia aucheri Boiss Against Trichomonas vaginalis In vitro.|https://dx.doi.org/10.4274/tpd.galenos.2023.55264
 Association of Chlamydia trachomatis burden with the vaginal microbiota, bacterial vaginosis, and metronidazole treatment.|https://dx.doi.org/10.3389/fcimb.2023.1289449
+The first vanE-type vancomycin resistant Enterococcus faecalis isolates in Norway - phenotypic and molecular characteristics.|https://dx.doi.org/10.1016/j.jgar.2023.12.021
+Dual stimuli-responsive delivery system for self-regulated colon-targeted delivery of poorly water-soluble drugs.|https://dx.doi.org/10.1016/j.bioadv.2023.213735
+Perioperative Means to Prevent Surgical Site Infections following Elective Craniotomies: A Single-Center Experience.|https://dx.doi.org/10.1055/s-0043-1774720
+Bacteriophage endolysin Ply113 as a potent antibacterial agent against polymicrobial biofilms formed by enterococci and Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304932
+A Deep Learning-Based Approach for Prediction of Vancomycin Treatment Drug Monitoring: Retrospective Data of Critically Ill Patients.|https://dx.doi.org/10.2196/45202
+A meta-analysis examining the impact of intrawound treatment on reducing deep surgical site infections during instrumented spine surgery.|https://dx.doi.org/10.1111/iwj.14554

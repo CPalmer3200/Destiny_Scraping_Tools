@@ -54,3 +54,19 @@ Gut microbiota composition is associated with disease severity and host immune r
 Smartphone-based evaluation of static balance and mobility in long-lasting COVID-19 patients.|https://dx.doi.org/10.3389/fneur.2023.1277408
 Predicting the Persistence of Insomnia Symptoms during the COVID-19 Pandemic.|https://dx.doi.org/10.1080/15402002.2023.2298377
 [Neurological complications after covid-19 vaccination].|https://dx.doi.org/10.17116/jnevro202312312113
+Anxiety symptoms and associated factors among school students after 2 years of the COVID-19 pandemic: a cross-sectional study in Zhejiang Province, China.|https://dx.doi.org/10.1136/bmjopen-2023-079084
+Healthcare resource utilisation and costs of hospitalisation and primary care among adults with COVID-19 in England: a population-based cohort study.|https://dx.doi.org/10.1136/bmjopen-2023-075495
+Perturbations of the T-cell receptor repertoire in response to SARS-CoV-2 in immunocompetent and immunocompromised individuals.|https://dx.doi.org/10.1016/j.jaci.2023.12.011
+Efficacy and safety of ivermectin in patients with mild COVID-19 in Japan and Thailand.|https://dx.doi.org/10.1016/j.jiac.2023.12.012
+The ongoing evolution of UShER during the SARS-CoV-2 pandemic.|https://dx.doi.org/10.1038/s41588-023-01622-5
+Excess mortality in adults from Sao Paulo during the COVID-19 pandemic in 2020: analyses of all-cause and noncommunicable diseases mortality.|https://dx.doi.org/10.1038/s41598-023-50388-7
+Novel sofosbuvir derivatives against SARS-CoV-2 RNA-dependent RNA polymerase: an in silico perspective.|https://dx.doi.org/10.1038/s41598-023-49712-y
+Decreased Seasonal Influenza Rates Detected in a Crowdsourced Influenza-Like Illness Surveillance System During the COVID-19 Pandemic: Prospective Cohort Study.|https://dx.doi.org/10.2196/40216
+Beneficial effects of SARS-CoV-2 vaccination resulting from the COVID-19 pandemic with regard to the uptake of influenza virus, pneumococcal, and herpes zoster adult vaccination - a narrative literature review.|https://dx.doi.org/10.26444/aaem/176747
+COVID-19 Risk Communication and Community Engagement (RCCE) in Malawi: Challenges and Response.|https://dx.doi.org/10.1177/15248399231216725
+Sustainable planning in Wuhan City during COVID-19: an analysis of influential factors, risk profiles, and clustered patterns.|https://dx.doi.org/10.3389/fpubh.2023.1241029
+Effectiveness of Sotrovimab in Preventing COVID-19-Related Hospitalizations or Deaths Among US Veterans During Omicron BA.1.|https://dx.doi.org/10.1093/ofid/ofad605
+Are we ready to face the next wave of RSV surge after the COVID-19 Omicron pandemic in China?|https://dx.doi.org/10.3389/fcimb.2023.1216536
+The Interrelationship Between HIV Infection and COVID-19: A Review of the Literature.|https://dx.doi.org/10.2174/011570162X282739231222062830
+Prevalence of psychological and mental health symptoms among nursing professionals during the COVID-19 pandemic in the Americas: Systematic review and meta-analysis.|https://dx.doi.org/10.1111/inm.13274
+Factors associated with COVID-19 vaccine uptake among people with type 2 diabetes in Kenya and Tanzania: a mixed-methods study.|https://dx.doi.org/10.1136/bmjopen-2023-073668

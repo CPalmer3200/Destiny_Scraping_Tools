@@ -49,3 +49,20 @@ Engineering Single-Component Antibacterial Anti-inflammatory Polyitaconate-Based
 On-Demand Sequential Release of Dual Drug from pH-Responsive Electrospun Janus Nanofiber Membranes toward Wound Healing and Infection Control.|https://dx.doi.org/10.1021/acsami.3c13676
 Double Cross-Linked Hydrogel Dressings Based on Triblock Copolymers Bearing Antifreezing, Antidrying, and Inherent Antibacterial Properties.|https://dx.doi.org/10.1021/acs.biomac.3c01040
 Effect of different etching times on the structural, morphological, electrical, and antimicrobial properties of mesoporous silicon.|https://dx.doi.org/10.1016/j.heliyon.2023.e23105
+Bioresponsive gingerol-loaded alginate-coated niosomal nanoparticles for targeting intracellular bacteria and cancer cells.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128957
+Development and biological evaluation of smart powder bandage for wound healing and dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129044
+Superabsorbent whey protein isolates/chitosan-based antibacterial aerogels: Preparation, characterization and application in chicken meat preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128961
+Genomic Features and Pathophysiological Impact of a Multidrug-Resistant Staphylococcus warneri Variant in Murine Mastitis.|https://dx.doi.org/10.1016/j.micinf.2023.105285
+Etiology of nosocomial infections in intensive care patients in German hospitals: An analysis of trends between 2008 and 2022.|https://dx.doi.org/10.1016/j.ijmm.2023.151594
+Targeting complement hyperactivation: a novel therapeutic approach for severe pneumonia induced by influenza virus/staphylococcus aureus coinfection.|https://dx.doi.org/10.1038/s41392-023-01714-y
+Letter to the Editor: Methicillin-Resistant Staphylococcus aureus Is Carried by Healthcare Providers Engaged in Dressing Orthopedic Patients: A Simple Answer to a Complex Problem.|https://dx.doi.org/10.1089/sur.2023.164
+[Acute purulent otitis media in children].|https://dx.doi.org/10.17116/otorino20238806138
+Hydrogen peroxide preoxidation as a strategy for enhanced antimicrobial photodynamic action against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.2166/wh.2023.245
+Prospective assessment of the frequency of and risk factors for bleeding events in patients treated with cefazolin.|https://dx.doi.org/10.1007/s15010-023-02145-1
+Phytochemical Content of Malus floribunda: In Vitro and Molecular Docking Studies.|https://dx.doi.org/10.1007/s12010-023-04826-x
+Development of fluorescence-linked immunosorbent assay for rapid detection of Staphylococcus aureus.|https://dx.doi.org/10.1007/s00253-023-12836-2
+Loratadine Combats Methicillin-Resistant Staphylococcus aureus by Modulating Virulence, Antibiotic Resistance, and Biofilm Genes.|https://dx.doi.org/10.1021/acsinfecdis.3c00616
+Fabrication of Oleophilic Polypeptide Nanoparticle from Complexing of Cross-Linked Epsilon-poly-l-lysine with Docusate Sodium for Preparation of Bactericidal Thermoplastic Polyurethanes.|https://dx.doi.org/10.1021/acsbiomaterials.3c01644
+Rifampicin does not reduce moxifloxacin concentrations at the site of infection and may not improve treatment outcome of a one-stage exchange surgery protocol of implant-associated osteomyelitis lesions in a porcine model.|https://dx.doi.org/10.1111/apm.13371
+Implementation of amotosalen plus ultraviolet A-mediated pathogen reduction for all platelet concentrates in France: Impact on the risk of transfusion-transmitted infections.|https://dx.doi.org/10.1111/vox.13574
+Bacteriophage endolysin Ply113 as a potent antibacterial agent against polymicrobial biofilms formed by enterococci and Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304932
