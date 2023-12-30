@@ -70,3 +70,17 @@ Are we ready to face the next wave of RSV surge after the COVID-19 Omicron pande
 The Interrelationship Between HIV Infection and COVID-19: A Review of the Literature.|https://dx.doi.org/10.2174/011570162X282739231222062830
 Prevalence of psychological and mental health symptoms among nursing professionals during the COVID-19 pandemic in the Americas: Systematic review and meta-analysis.|https://dx.doi.org/10.1111/inm.13274
 Factors associated with COVID-19 vaccine uptake among people with type 2 diabetes in Kenya and Tanzania: a mixed-methods study.|https://dx.doi.org/10.1136/bmjopen-2023-073668
+Demographic and travel characteristics and self-reported predeparture SARS-CoV-2 testing behavior in air passengers entering the United States from foreign destinations from July to September 2021.|https://dx.doi.org/10.1002/iid3.1019
+Molecular epidemiology of SARS-CoV-2 in Mongolia, first experience with nanopore sequencing in lower- and middle-income countries setting.|https://dx.doi.org/10.1002/iid3.1095
+Knowledge, attitudes, and practices (KAP) toward seasonal influenza vaccine among college students under the COVID-19 pandemic in South China.|https://dx.doi.org/10.1002/iid3.1110
+Vaccination willingness, vaccine hesitancy, and estimated coverage of SARS-CoV-2 vaccine among healthcare workers in Tanzania: A call for action.|https://dx.doi.org/10.1002/iid3.1126
+Microbiological profile of multidrug resistant bacteria before and during COVID-19 in CHU Mohammed VI.|https://dx.doi.org/10.18502/ijm.v15i6.14138
+Impact of the COVID-19 pandemic on the Thai population: Delineating the effects of the pandemic and policy measures.|https://dx.doi.org/10.1017/ash.2023.523
+Impact of intensified prevention measures on the rate of hospital-acquired bloodstream infections among mechanically ventilated COVID-19 patients.|https://dx.doi.org/10.1017/ash.2023.505
+Unpacking COVID-19 Vaccine Attitudes: Exploring Hesitancy and Acceptance Among Undergraduate Students in Bangladesh.|https://dx.doi.org/10.7759/cureus.49576
+An enhanced diabetes prediction amidst COVID-19 using ensemble models.|https://dx.doi.org/10.3389/fpubh.2023.1331517
+Intention and practice on personal preventive measures against COVID-19 among older adults in the Kingdom of Saudi Arabia: an epidemiological study using the Theory of Planned Behaviour.|https://dx.doi.org/10.3389/fpubh.2023.1315443
+Validity and reliability of the Arabic version of knowledge, attitudes, and practices toward COVID-19 preventative behaviors (KAP COVID-19).|https://dx.doi.org/10.3389/fpubh.2023.1131843
+Cross-sectional study of factors related to COVID-19 vaccination uptake among university healthcare students.|https://dx.doi.org/10.3389/fpubh.2023.1325942
+Contrasting mechanistic susceptibilities of hematopoietic and endothelial stem-progenitor cells in respective pathogeneses of HIV-1 and SARS-CoV-2 infections.|https://dx.doi.org/10.3389/fcell.2023.1296986
+Fatigue can influence the development of late-onset pain in post-COVID-19 syndrome: An observational study.|https://dx.doi.org/10.1002/ejp.2228

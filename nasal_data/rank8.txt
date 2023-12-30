@@ -72,3 +72,15 @@ Postoperative Morbidity and Interstage Hemodynamics Following Stage I Palliation
 Minimally Invasive Posterior Cervical Fusion: A Handsome Option.|https://dx.doi.org/10.1007/978-3-031-36084-8_53
 Multilevel Corpectomy for Subaxial Cervical Spondylodiscitis: Literature Review and Role of Navigation, Intraoperative Imaging and Augmented Reality.|https://dx.doi.org/10.1007/978-3-031-36084-8_50
 Combined Transoral Exoscope and OARM-Assisted Approach for Craniovertebral Junction Surgery. New Trends in an Old-Fashioned Approach.|https://dx.doi.org/10.1007/978-3-031-36084-8_37
+Prosthetic Valve Endocarditis After Aortic Valve Replacement With Bovine Versus Porcine Bioprostheses.|https://dx.doi.org/10.1161/JAHA.123.031387
+[Clinical symptoms and signs in hamsters during experimental infection with the SARS-CoV-2 virus (Coronaviridae: Betacoronavirus)].|https://dx.doi.org/10.36233/0507-4088-202
+Post COVID-19 condition and behavioral manifestations in Taiwanese children.|https://dx.doi.org/10.1111/ped.15724
+Applying the standardized infection ratio for reporting surgical site infections in Australian healthcare facilities.|https://dx.doi.org/10.1017/ash.2023.478
+Prevalence of reported penicillin allergy and associations with perioperative complications, length of stay, and cost in patients undergoing elective cancer surgery.|https://dx.doi.org/10.1017/ash.2023.501
+Infantile Fibrosarcoma With Concurrent Infantile Hemangioma: A Case Report.|https://dx.doi.org/10.7759/cureus.49586
+Nasal Herpes Simplex With Infraorbital Neuralgia: A Rare Presentation.|https://dx.doi.org/10.7759/cureus.49584
+Clinical exploration of the international society of limb salvage classification of endoprosthetic failure using Henderson in the application of 3D-printed pelvic tumor prostheses.|https://dx.doi.org/10.3389/fonc.2023.1271077
+Bullosis diabeticorum in a morbidly obese woman in Haiti.|https://dx.doi.org/10.22551/2023.41.1004.10274
+Arthroscopic Procedures Are Performed in 5% of Patients With Knee Osteoarthritis 1 Year Preceding Total Knee Arthroplasty and Are Associated With Increased Stiffness and Increased Costs.|https://dx.doi.org/10.1016/j.asmr.2023.100776
+Increased Platelet Aggregation in Adults After Orthotopic Liver Transplantation Indicates Higher Probability of Early Postoperative Survival.|https://dx.doi.org/10.12659/AOT.941583
+Machine learning application for prediction of surgical site infection after posterior cervical surgery.|https://dx.doi.org/10.1111/iwj.14607

@@ -66,3 +66,12 @@ Fabrication of Oleophilic Polypeptide Nanoparticle from Complexing of Cross-Link
 Rifampicin does not reduce moxifloxacin concentrations at the site of infection and may not improve treatment outcome of a one-stage exchange surgery protocol of implant-associated osteomyelitis lesions in a porcine model.|https://dx.doi.org/10.1111/apm.13371
 Implementation of amotosalen plus ultraviolet A-mediated pathogen reduction for all platelet concentrates in France: Impact on the risk of transfusion-transmitted infections.|https://dx.doi.org/10.1111/vox.13574
 Bacteriophage endolysin Ply113 as a potent antibacterial agent against polymicrobial biofilms formed by enterococci and Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304932
+Sorbent functionalization with vancomycin enhances bacteria killing in extracorporeal hemoadsorption.|https://dx.doi.org/10.1111/aor.14704
+Comparison of culture and PCR-DGGE methods to evaluate the airways of cystic fibrosis patients and determination of their antibiotic resistance profile.|https://dx.doi.org/10.18502/ijm.v15i6.14135
+Clinical reasoning for performance of transesophageal echocardiography in veterans with Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1017/ash.2023.493
+Preventing healthcare-associated MRSA bacteremia: getting to the root of the problem.|https://dx.doi.org/10.1017/ash.2023.518
+Treatment effectiveness of antibiotic therapy in Veterans with multidrug-resistant Acinetobacter spp. bacteremia.|https://dx.doi.org/10.1017/ash.2023.500
+A Comparison of the Minimum Inhibitory Concentration of Antibiotics in Staphylococcus Species Isolated From Orthopedic and Respiratory Medicine Infections.|https://dx.doi.org/10.7759/cureus.49535
+First-Generation Cephalosporins for Treatment of Acute Hematogenous Osteomyelitis in Children: A Study of Efficacy and Adverse Effects.|https://dx.doi.org/10.1093/ofid/ofad610
+Preparation and reverse recycling logistics of a new type of nano-filled antibacterial layer packaging film for dairy products.|https://dx.doi.org/10.3389/fchem.2023.1302198
+Biological Activity and Sterilization Mechanism of Marine Fungi-derived Aromatic Butenolide Asperbutenolide A Against Staphylococcus aureus.|https://dx.doi.org/10.1002/cbdv.202301826
