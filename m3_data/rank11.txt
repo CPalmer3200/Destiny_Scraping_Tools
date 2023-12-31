@@ -140,3 +140,10 @@ Perioperative Means to Prevent Surgical Site Infections following Elective Crani
 Bacteriophage endolysin Ply113 as a potent antibacterial agent against polymicrobial biofilms formed by enterococci and Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1304932
 A Deep Learning-Based Approach for Prediction of Vancomycin Treatment Drug Monitoring: Retrospective Data of Critically Ill Patients.|https://dx.doi.org/10.2196/45202
 A meta-analysis examining the impact of intrawound treatment on reducing deep surgical site infections during instrumented spine surgery.|https://dx.doi.org/10.1111/iwj.14554
+Sorbent functionalization with vancomycin enhances bacteria killing in extracorporeal hemoadsorption.|https://dx.doi.org/10.1111/aor.14704
+Mixed methods evaluation of handshake antimicrobial stewardship on adult inpatient medicine floors.|https://dx.doi.org/10.1017/ash.2023.465
+Association of vancomycin-induced acute kidney injury with trough versus AUC monitoring in patients receiving extended durations of therapy.|https://dx.doi.org/10.1017/ash.2023.490
+Infective Endocarditis Caused by Corynebacterium striatum: Navigating Challenges and Treatment Strategies in an Emerging Threat.|https://dx.doi.org/10.7759/cureus.49526
+A Comparison of the Minimum Inhibitory Concentration of Antibiotics in Staphylococcus Species Isolated From Orthopedic and Respiratory Medicine Infections.|https://dx.doi.org/10.7759/cureus.49535
+Isolation, identification and antimicrobial susceptibility of the bacteria isolated from Hyalomma dromedarii infesting camels in Al-Jouf province, Saudi Arabia.|https://dx.doi.org/10.3389/fvets.2023.1227908
+Antibiotic cement nails manufactured with threaded rods or cannulated intramedullary nails are better than those made with guidewires and do not debond.|https://dx.doi.org/10.1097/OI9.0000000000000298
