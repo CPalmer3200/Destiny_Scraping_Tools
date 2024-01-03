@@ -84,3 +84,21 @@ Validity and reliability of the Arabic version of knowledge, attitudes, and prac
 Cross-sectional study of factors related to COVID-19 vaccination uptake among university healthcare students.|https://dx.doi.org/10.3389/fpubh.2023.1325942
 Contrasting mechanistic susceptibilities of hematopoietic and endothelial stem-progenitor cells in respective pathogeneses of HIV-1 and SARS-CoV-2 infections.|https://dx.doi.org/10.3389/fcell.2023.1296986
 Fatigue can influence the development of late-onset pain in post-COVID-19 syndrome: An observational study.|https://dx.doi.org/10.1002/ejp.2228
+Sexual Networking and HIV/STI Prevention Among Men who have Sex with Men and Identify as Persons of Color in the Era of COVID-19 in Boston, MA: Qualitative Findings from the National HIV Behavioral Surveillance Project.|https://dx.doi.org/10.1007/s10461-023-04238-2
+Epidemiology, pathogenesis, and management of Coronavirus disease 2019-associated stroke.|https://dx.doi.org/10.1007/s11684-023-1041-7
+In vivo delivery of engineered synthetic DNA-encoded SARS-CoV-2 monoclonal antibodies for pre-exposure prophylaxis in non-human primates.|https://dx.doi.org/10.1080/22221751.2023.2294860
+Trauma-Informed Leadership in Quality Improvement: What We Learned From Practicing in a Pandemic.|https://dx.doi.org/10.1542/peds.2023-063424G
+COVID vaccine-induced lupus nephritis: Case report and review of the literature.|https://dx.doi.org/10.1177/09612033231222390
+Bioinformatic analysis identified common pathogenetic processes between epilepsy and COVID-19.|https://dx.doi.org/10.26355/eurrev_202312_34765
+Program of All-Inclusive Care for the Elderly (PACE) Organizations Flip the Script in Response to the COVID-19 Pandemic.|https://dx.doi.org/10.1016/j.jamda.2023.11.019
+Boosting with variant-matched adenovirus-based vaccines promotes neutralizing antibody responses against SARS-CoV-2 Omicron sublineages in mice.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107082
+Resilience and Mental-Health Symptoms in ICU Healthcare Professionals Facing Repeated COVID-19 Waves.|https://dx.doi.org/10.1164/rccm.202305-0806OC
+COVID-19 vaccination prevents a more severe course and treatment with complement inhibitors reduce worsening hemolysis during the Omicron pandemic in patients with PNH: a single-center study.|https://dx.doi.org/10.1080/07853890.2023.2274510
+Proteomic profiling identifies biomarkers of COVID-19 severity.|https://dx.doi.org/10.1016/j.heliyon.2023.e23320
+"if we don't regroup, hunger will kill us…": a qualitative study on measures of physical distancing during covid-19 among internally displaced persons in Burkina Faso.|https://dx.doi.org/10.3389/fsoc.2023.1189235
+The impact of non-pharmaceutical interventions on the spread of COVID-19 in Saudi Arabia: Simulation approach.|https://dx.doi.org/10.1016/j.jsps.2023.101886
+Comparison of Salivary Secretion, pH, and Buffer Capacity Between COVID-19 Vaccinated and Unvaccinated Child Patients Visiting Dental Clinics of University Hospitals in Riyadh City, Saudi Arabia.|https://dx.doi.org/10.2147/IJGM.S437563
+Daily fluctuations in COVID-19 infection rates under Tokyo's epidemic prevention measures - new evidence from adaptive Fourier decomposition.|https://dx.doi.org/10.3389/fpubh.2023.1245572
+Inactivated vaccine effectiveness against symptomatic COVID-19 in Fujian, China during the Omicron BA.2 outbreak.|https://dx.doi.org/10.3389/fpubh.2023.1269194
+A novel protocol for de-isolating moderately and severely immunocompromised COVID-19 patients.|https://dx.doi.org/10.35772/ghm.2023.01053
+Association of COVID-19 information media, providers, and content with vaccine uptake among Tokyo residents.|https://dx.doi.org/10.1016/j.jvacx.2023.100411

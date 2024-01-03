@@ -75,3 +75,19 @@ A Comparison of the Minimum Inhibitory Concentration of Antibiotics in Staphyloc
 First-Generation Cephalosporins for Treatment of Acute Hematogenous Osteomyelitis in Children: A Study of Efficacy and Adverse Effects.|https://dx.doi.org/10.1093/ofid/ofad610
 Preparation and reverse recycling logistics of a new type of nano-filled antibacterial layer packaging film for dairy products.|https://dx.doi.org/10.3389/fchem.2023.1302198
 Biological Activity and Sterilization Mechanism of Marine Fungi-derived Aromatic Butenolide Asperbutenolide A Against Staphylococcus aureus.|https://dx.doi.org/10.1002/cbdv.202301826
+Epidemiological characterization of clinical isolates of meticillin resistant Staphylococcus aureus through multilocus sequence typing and staphylococcal cassette chromosome mec typing in Northwest Iran.|https://dx.doi.org/10.1007/s11033-023-08951-y
+Cognitive and Functional Change Over Time in Cognitively Healthy Individuals According to Alzheimer Disease Biomarker-Defined Subgroups.|https://dx.doi.org/10.1212/WNL.0000000000207978
+N6 methyladenosine eraser FTO suppresses Staphylococcus aureus-induced ferroptosis of bone marrow mesenchymal stem cells to ameliorate osteomyelitis through regulating the MDM2/TLR4/SLC7A11 signaling pathway.|https://dx.doi.org/10.1002/cbin.12115
+Integrated Computational and Experimental Framework for Inverse Screening of Candidate Antibacterial Nanomedicine.|https://dx.doi.org/10.1021/acsnano.3c09128
+RlmQ: A Newly Discovered rRNA Modification Enzyme Bridging RNA Modification and Virulence Traits in Staphylococcus aureus.|https://dx.doi.org/10.1261/rna.079850.123
+Multicenter Antimicrobial Resistance Surveillance of Clinical Isolates from Major Hospitals - China, 2022.|https://dx.doi.org/10.46234/ccdcw2023.217
+Antibacterial Activity of Surfactin and Synergistic Effect with Conventional Antibiotics Against Methicillin-Resistant Staphylococcus Aureus Isolated from Patients with Diabetic Foot Ulcers [Response to Letter].|https://dx.doi.org/10.2147/DMSO.S453962
+Antibiotic resistance monitoring in wastewater in the Nordic countries: A systematic review.|https://dx.doi.org/10.1016/j.envres.2023.118052
+Construction of durable antibacterial cellulose textiles through grafting dynamic disulfide-containing amino-compound and nanosilver deposition.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129085
+A DM9-containing protein from crab Eriocheir sinensis functions as a novel multipotent pattern recognition receptor.|https://dx.doi.org/10.1016/j.fsi.2023.109356
+Diverse ansamycin derivatives from the marine-derived Streptomyces sp. ZYX-F-97 and their antibacterial activities.|https://dx.doi.org/10.1016/j.fitote.2023.105814
+Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders.|https://dx.doi.org/10.1109/TNNLS.2023.3345734
+Optimization of Flavonoid Extraction from Eucommia ulmoides pollen using Respond Surface Methodology and its biological activities.|https://dx.doi.org/10.1002/cbdv.202301308
+One-step silver coating of polypropylene surgical mask with antibacterial and antiviral properties.|https://dx.doi.org/10.1016/j.heliyon.2023.e23196
+Different evolution of S. aureus methicillin-resistant and methicillin-susceptible infections, Argentina.|https://dx.doi.org/10.1016/j.heliyon.2023.e22610
+The prevalence of Staphylococcus aureus and the emergence of livestock-associated MRSA CC398 in pig production in eastern China.|https://dx.doi.org/10.3389/fmicb.2023.1267885

@@ -10,3 +10,5 @@ Circadian Rhythms and Depression in Adolescents: A Comparative Analysis of First
 Development of a Protocol for Anaerobic Preparation and Banking of Fecal Microbiota Transplantation Material: Evaluation of Bacterial Richness in the Cultivated Fraction.|https://dx.doi.org/10.3390/microorganisms11122901
 Efficacy and Practical Implementation of Fecal Microbiota Spores, Live-BRPK: A Novel Approach for Preventing Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.14309/ajg.0000000000002582
 Prescription Microbiome Therapeutic for Recurrent Clostridioides difficile Infection: Fecal Microbiota Live-jslm.|https://dx.doi.org/10.14309/ajg.0000000000002577
+Peritoneal Dialysis-Associated Peritonitis Caused by Achromobacter xylosoxidans: A Case Report and Literature Review.|https://dx.doi.org/10.1177/23247096231220467
+Bacterial microbiome changes after fecal transplantation for recurrent Clostridioides difficile infection in the Brazilian center.|https://dx.doi.org/10.1007/s42770-023-01227-4

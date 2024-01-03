@@ -147,3 +147,17 @@ Infective Endocarditis Caused by Corynebacterium striatum: Navigating Challenges
 A Comparison of the Minimum Inhibitory Concentration of Antibiotics in Staphylococcus Species Isolated From Orthopedic and Respiratory Medicine Infections.|https://dx.doi.org/10.7759/cureus.49535
 Isolation, identification and antimicrobial susceptibility of the bacteria isolated from Hyalomma dromedarii infesting camels in Al-Jouf province, Saudi Arabia.|https://dx.doi.org/10.3389/fvets.2023.1227908
 Antibiotic cement nails manufactured with threaded rods or cannulated intramedullary nails are better than those made with guidewires and do not debond.|https://dx.doi.org/10.1097/OI9.0000000000000298
+Epidemiological characterization of clinical isolates of meticillin resistant Staphylococcus aureus through multilocus sequence typing and staphylococcal cassette chromosome mec typing in Northwest Iran.|https://dx.doi.org/10.1007/s11033-023-08951-y
+Antibiotic resistance monitoring in wastewater in the Nordic countries: A systematic review.|https://dx.doi.org/10.1016/j.envres.2023.118052
+Detection of non-ribosomal and polyketide biosynthetic genes in bacteria from green mud crab Scylla serrata gut microbiome and their antagonistic activities.|https://dx.doi.org/10.1016/j.fsirep.2023.100104
+Impact of CRAMP-34 on Pseudomonas aeruginosa biofilms and extracellular metabolites.|https://dx.doi.org/10.3389/fcimb.2023.1295311
+The use of routinely collected electronic prescribing data to benchmark intravenous antibiotic use between two tertiary paediatric haematology-oncology inpatient units: a retrospective study.|https://dx.doi.org/10.1093/jacamr/dlad142
+Long-term carriage and evolution of VREfmLong-term carriage and evolution of vancomycin-resistant Enterococcus faecium: a genomic study on consecutive isolates.|https://dx.doi.org/10.1093/jacamr/dlad153
+The Cytotoxic Assessment of Antibacterial-Enhanced Mineral Trioxide Aggregate Compared to Commercially Available Bioceramic Cements by Using Methyl-Thiazoldiphenyl-Tetrazolium (MTT) Assay on Human Dental Pulp Stem Cells: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.49691
+Drug-Induced Hidradenitis Suppurativa: A Case Report.|https://dx.doi.org/10.7759/cureus.49637
+Urinary tract infection associated with bacteremia caused by vancomycin-resistant enterococcus following continent urinary diversion.|https://dx.doi.org/10.1002/ccr3.8214
+Biofilms: A developmental niche for vancomycin-intermediate Staphylococcus aureus.|https://dx.doi.org/10.1016/j.meegid.2023.105545
+Occurrence and environmental risks of contaminants of emerging concern across the River Athi Basin, Kenya, in dry and wet seasons.|https://dx.doi.org/10.1016/j.scitotenv.2023.169696
+Antibiotic use among hospitalised patients in Sierra Leone: a national point prevalence survey using the WHO survey methodology.|https://dx.doi.org/10.1136/bmjopen-2023-078367
+Fabrication of poly(β-amino ester) and hyaluronic acid based pH responsive nanocomplex as an antibiotic release system.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129060
+Comparison of the incidence of nausea and vomiting between linezolid and vancomycin using claims database: a retrospective cohort study.|https://dx.doi.org/10.1007/s11096-023-01668-9

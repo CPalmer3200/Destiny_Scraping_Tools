@@ -84,3 +84,18 @@ Bullosis diabeticorum in a morbidly obese woman in Haiti.|https://dx.doi.org/10.
 Arthroscopic Procedures Are Performed in 5% of Patients With Knee Osteoarthritis 1 Year Preceding Total Knee Arthroplasty and Are Associated With Increased Stiffness and Increased Costs.|https://dx.doi.org/10.1016/j.asmr.2023.100776
 Increased Platelet Aggregation in Adults After Orthotopic Liver Transplantation Indicates Higher Probability of Early Postoperative Survival.|https://dx.doi.org/10.12659/AOT.941583
 Machine learning application for prediction of surgical site infection after posterior cervical surgery.|https://dx.doi.org/10.1111/iwj.14607
+Evaluating the complications of adult groin hernia where there is no hernia registry: a systematic review of Nigerian literature.|https://dx.doi.org/10.1007/s10029-023-02938-1
+Utilization of Topical Polysporin and Triamcinolone for the Treatment of Hypergranulation Tissue.|https://dx.doi.org/10.1093/jbcr/irad205
+Non-Surgical Site-Related Complications in Mandibular Fracture Surgery - A Problem of Elderly Patients?|https://dx.doi.org/10.1016/j.joms.2023.10.004
+Is testicular fixation to the scrotum necessary in patients with undescended testis? A comparative study.|https://dx.doi.org/10.26355/eurrev_202312_34783
+UbiNAAT: a multiplexed point-of-care nucleic acid diagnostic platform for rapid at-home pathogen detection.|https://dx.doi.org/10.1039/d3lc00753g
+Enhancement of the immunogenicity of a Mycobacterium tuberculosis fusion protein using ISCOMATRIX and PLUSCOM nano-adjuvants as prophylactic vaccine after nasal administration in mice.|https://dx.doi.org/10.22038/IJBMS.2023.69295.15100
+Gliosis induction on locus coeruleus in a living liver donor experimental model: A brief review.|https://dx.doi.org/10.22038/IJBMS.2023.70847.15389
+Chromoblastomycosis Presenting as a Solitary Lesion in a Non-endemic Region.|https://dx.doi.org/10.7759/cureus.49791
+Squamous Cell Carcinoma Arising in Chronic Osteomyelitis: A Rare Presentation.|https://dx.doi.org/10.7759/cureus.49783
+Lower extremity necrotizing fasciitis with iliopsoas abscess secondary to perforated colon cancer: a diagnosis not to miss.|https://dx.doi.org/10.1093/jscr/rjad685
+Using interprofessional collaboration to reduce reported rates of central-line-associated bloodstream infection in an intensive care setting.|https://dx.doi.org/10.1017/ice.2023.279
+A Comparison of Surgical Techniques and Outcomes for Primary Infected Abdominal Aortic Aneurysms.|https://dx.doi.org/10.1016/j.avsg.2023.11.021
+3D-printed antibiotic-loaded bone cement spacers as adjunctive therapy for hip periprosthetic infection after arthroplasty: a clinical assessment.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107080
+Tophaceous gouty arthritis with spondylolysis: a case report.|https://dx.doi.org/10.1093/jscr/rjad689
+Isolation and Molecular Detection of Mannheimia haemolytica and Pasteurella multocida from Clinically Pneumonic Pasteurellosis Cases of Bonga Sheep Breed and Their Antibiotic Susceptibility Tests in Selected Areas of Southwest Ethiopian Peoples Regional State, Ethiopia.|https://dx.doi.org/10.2147/VMRR.S435932

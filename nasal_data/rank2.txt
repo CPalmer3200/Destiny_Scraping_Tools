@@ -2,3 +2,5 @@ Fabrication and characterization of sodium alginate/blueberry anthocyanins/hinok
 Prevalence, antimicrobial resistance, and genetic lineages of nasal Staphylococcus aureus among medical students at a Spanish University: Detection of the MSSA-CC398-IEC-type-C subclade.|https://dx.doi.org/10.1016/j.resmic.2023.104176
 Risk factors for surgical site infection following cardiac surgery in a region endemic for multidrug resistant organisms.|https://dx.doi.org/10.1016/j.iccn.2023.103612
 Positivity of repeat nasal MRSA PCR screening: a single-center experience.|https://dx.doi.org/10.1017/ash.2023.491
+Enhanced antimicrobial efficacy of chlorhexidine-encapsulated halloysite nanotubes incorporated in presurgical orthopedic appliances: an in vitro, controlled study.|https://dx.doi.org/10.1007/s00784-023-05464-7
+Diversity of Staphylococcus aureus isolated from nares of ruminants.|https://dx.doi.org/10.1093/jambio/lxad304
