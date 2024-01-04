@@ -4,3 +4,6 @@ Risk factors for surgical site infection following cardiac surgery in a region e
 Positivity of repeat nasal MRSA PCR screening: a single-center experience.|https://dx.doi.org/10.1017/ash.2023.491
 Enhanced antimicrobial efficacy of chlorhexidine-encapsulated halloysite nanotubes incorporated in presurgical orthopedic appliances: an in vitro, controlled study.|https://dx.doi.org/10.1007/s00784-023-05464-7
 Diversity of Staphylococcus aureus isolated from nares of ruminants.|https://dx.doi.org/10.1093/jambio/lxad304
+Discontinuation of Contact Precautions for Methicillin-resistant Staphylococcus aureus in a Pediatric Healthcare System.|https://dx.doi.org/10.1093/jpids/piae001
+Polymyxin B and ethylenediaminetetraacetic acid act synergistically against Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.01709-23
+Investigating the relationship between muscle mass and nasal Methicillin-Resistant Staphylococcus aureus (MRSA) colonization: Analysis of the National Health and Nutrition Examination Survey (NHANES).|https://dx.doi.org/10.1371/journal.pone.0294400

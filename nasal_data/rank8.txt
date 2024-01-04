@@ -99,3 +99,18 @@ A Comparison of Surgical Techniques and Outcomes for Primary Infected Abdominal 
 3D-printed antibiotic-loaded bone cement spacers as adjunctive therapy for hip periprosthetic infection after arthroplasty: a clinical assessment.|https://dx.doi.org/10.1016/j.ijantimicag.2023.107080
 Tophaceous gouty arthritis with spondylolysis: a case report.|https://dx.doi.org/10.1093/jscr/rjad689
 Isolation and Molecular Detection of Mannheimia haemolytica and Pasteurella multocida from Clinically Pneumonic Pasteurellosis Cases of Bonga Sheep Breed and Their Antibiotic Susceptibility Tests in Selected Areas of Southwest Ethiopian Peoples Regional State, Ethiopia.|https://dx.doi.org/10.2147/VMRR.S435932
+Biodegradable, Biocompatible, and Implantable Multifunctional Sensing Platform for Cardiac Monitoring.|https://dx.doi.org/10.1021/acssensors.3c01755
+Pediatric Characteristics Associated With Higher Rates of Monitor Alarms.|https://dx.doi.org/10.2345/0899-8205-57.4.171
+Abdominal drainage after elective colorectal surgery: propensity score-matched retrospective analysis of an Italian cohort.|https://dx.doi.org/10.1093/bjsopen/zrad107
+Clinicopathologic Characterization of Kaposi Sarcoma on the Foot and Ankle: Analysis of 11 Patients Seen in Our Clinics.|https://dx.doi.org/10.7547/21-175
+Combined Open and Percutaneous Plating for the Treatment of Pilon Fracture.|https://dx.doi.org/10.7547/21-228
+Sentinel Lymph Node Evaluation in Early-Stage Vulvar Cancer.|https://dx.doi.org/10.1007/s11864-023-01165-1
+Impact of Intra-Operative Shock and Resuscitation on Surgical Site Infections After Trauma Laparotomy.|https://dx.doi.org/10.1089/sur.2023.010
+Non-glycosylated G protein with CpG ODN provides robust protection against respiratory syncytial virus without inducing eosinophilia.|https://dx.doi.org/10.3389/fimmu.2023.1282016
+Transcatheter arterial chemoembolisation combined with lenvatinib plus camrelizumab as conversion therapy for unresectable hepatocellular carcinoma: a single-arm, multicentre, prospective study.|https://dx.doi.org/10.1016/j.eclinm.2023.102367
+Comparing the Efficacy of Povidone-Iodine Versus Normal Saline in Laparotomy Wound Irrigation to Prevent Surgical Site Infections: A Meta-Analysis.|https://dx.doi.org/10.7759/cureus.49853
+Characterization of young and aged ferrets as animal models for SARS-CoV-2 infection with focus on neutrophil extracellular traps.|https://dx.doi.org/10.3389/fimmu.2023.1283595
+Misdiagnosis of a Patient with Hepatic Alveolar Echinococcosis with Hepatapostema: A Case Report.|https://dx.doi.org/10.18502/ijpa.v18i4.14265
+A meta-analysis examining the impact of open surgical therapy versus minimally invasive surgery on wound infection in females with cervical cancer.|https://dx.doi.org/10.1111/iwj.14535
+Discovery of sparse, reliable omic biomarkers with Stabl.|https://dx.doi.org/10.1038/s41587-023-02033-x
+Differences in toll-like receptor ligand-induced cytokine concentrations before and after solid organ transplantation: A prospective, observational cohort study in a clinical setting.|https://dx.doi.org/10.1111/sji.13337

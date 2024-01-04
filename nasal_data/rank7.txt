@@ -102,3 +102,23 @@ Daily fluctuations in COVID-19 infection rates under Tokyo's epidemic prevention
 Inactivated vaccine effectiveness against symptomatic COVID-19 in Fujian, China during the Omicron BA.2 outbreak.|https://dx.doi.org/10.3389/fpubh.2023.1269194
 A novel protocol for de-isolating moderately and severely immunocompromised COVID-19 patients.|https://dx.doi.org/10.35772/ghm.2023.01053
 Association of COVID-19 information media, providers, and content with vaccine uptake among Tokyo residents.|https://dx.doi.org/10.1016/j.jvacx.2023.100411
+Association between perceived stress and history of intimate partner violence throughout life and during the COVID-19 pandemic.|https://dx.doi.org/10.3389/fpubh.2023.1330451
+Are Cisgender Women and Transgender and Nonbinary People Drinking More During the COVID-19 Pandemic? It Depends.|https://dx.doi.org/10.35946/arcr.v43.1.05
+The Influencing Role of Cultural Values on Attitudes of the Chinese Public Towards Traditional Chinese Medicine (TCM) for the Control of COVID-19.|https://dx.doi.org/10.2147/PPA.S443713
+Short-term effectiveness of single-dose intranasal spray COVID-19 vaccine against symptomatic SARS-CoV-2 Omicron infection in healthcare workers: a prospective cohort study.|https://dx.doi.org/10.1016/j.eclinm.2023.102374
+Knowledge about methods of disinfection of dental impression among dentists from Ecuador post SARS-COV-2 pandemic.|https://dx.doi.org/10.1016/j.heliyon.2023.e23280
+Safety, immunogenicity, and efficacy of a modified COVID-19 mRNA vaccine, SW-BIC-213, in healthy people aged 18 years and above: a phase 3 double-blinded, randomized, parallel controlled clinical trial in Lao PDR (Laos).|https://dx.doi.org/10.1016/j.eclinm.2023.102372
+Vaccine effects on COVID-19 infection with bivalent boosting by age group.|https://dx.doi.org/10.1016/j.drup.2023.101039
+Multisystem Inflammatory Syndrome in Children during the COVID-19 Pandemic: A Review of Clinical Manifestations, Cardiac Complications and Medical Management.|https://dx.doi.org/10.1097/CRD.0000000000000565
+Optimum timing of lung resection surgery following SARS-CoV-2 infection for non-small cell lung cancer.|https://dx.doi.org/10.1002/cam4.6891
+Trapping a non-cognate nucleotide upon initial binding for replication fidelity control in SARS-CoV-2 RNA dependent RNA polymerase.|https://dx.doi.org/10.1039/d3cp04410f
+Food Insecurity in Urban American Indian and Alaska Native Populations During the COVID-19 Pandemic.|https://dx.doi.org/10.21203/rs.3.rs-3711655/v1
+Role of dietary supplements in the continuous battle against COVID-19.|https://dx.doi.org/10.1002/ptr.8096
+Integrated multi-omics analyses identify anti-viral host factors and pathways controlling SARS-CoV-2 infection.|https://dx.doi.org/10.1038/s41467-023-44175-1
+Tubeimosides are pan-coronavirus and filovirus inhibitors that can block their fusion protein binding to Niemann-Pick C1.|https://dx.doi.org/10.1038/s41467-023-44504-4
+Rebound of Gonorrhea after Lifting of COVID-19 Preventive Measures, England.|https://dx.doi.org/10.3201/eid3002.231148
+Excess mortality during the COVID-19 pandemic in low-income and lower middle-income countries: protocol for a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2023-079862
+Lessons learnt from COVID-19 to reduce mortality and morbidity in the Global South: addressing global vaccine equity for future pandemics.|https://dx.doi.org/10.1136/bmjgh-2023-013680
+Lockdown life - experiences of partners of individuals with an acquired brain injury during the COVID-19 pandemic: a qualitative study.|https://dx.doi.org/10.1017/BrImp.2023.7
+Nano-carrier DMSN for effective multi-antigen vaccination against SARS-CoV-2.|https://dx.doi.org/10.1186/s12951-023-02271-w
+Factors influencing psychological concerns about COVID-19 in South Korea: direct and indirect damage during the early stages of pandemic.|https://dx.doi.org/10.1186/s12889-023-17476-9

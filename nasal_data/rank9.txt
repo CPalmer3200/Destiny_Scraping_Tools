@@ -91,3 +91,20 @@ Optimization of Flavonoid Extraction from Eucommia ulmoides pollen using Respond
 One-step silver coating of polypropylene surgical mask with antibacterial and antiviral properties.|https://dx.doi.org/10.1016/j.heliyon.2023.e23196
 Different evolution of S. aureus methicillin-resistant and methicillin-susceptible infections, Argentina.|https://dx.doi.org/10.1016/j.heliyon.2023.e22610
 The prevalence of Staphylococcus aureus and the emergence of livestock-associated MRSA CC398 in pig production in eastern China.|https://dx.doi.org/10.3389/fmicb.2023.1267885
+Mesoporous Bioactive Glass-Graphene Oxide Composite Aerogel with Effective Hemostatic and Antibacterial Activities.|https://dx.doi.org/10.1021/acsabm.3c01030
+Structure-Guided Design, Synthesis, and Antivirulence Assessment of Covalent Staphylococcus aureus Sortase A Inhibitors.|https://dx.doi.org/10.1021/acs.jmedchem.3c01615
+SMR peptide antagonizes Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1128/spectrum.02583-23
+Novel small-molecule compound YH7 inhibits the biofilm formation of Staphylococcus aureus in a sarX-dependent manner.|https://dx.doi.org/10.1128/msphere.00564-23
+Revealing bactericidal events on graphene oxide nano films deposited on metal implant surfaces.|https://dx.doi.org/10.1039/d3tb01854g
+A bacterial pigment provides cross-species protection from H(2)O(2)- and neutrophil-mediated killing.|https://dx.doi.org/10.1073/pnas.2312334121
+Staphylococcus aureus induce drug resistance in cancer T cells in Sézary Syndrome.|https://dx.doi.org/10.1182/blood.2023021671
+Quantitative and Qualitative Phytochemical Analysis of Manilkara zapota (Sapodilla) Extract and Its Antibacterial Activity on Some Gram-Positive and Gram-Negative Bacteria.|https://dx.doi.org/10.1155/2023/5967638
+Irisflorentin promotes bacterial phagocytosis and inhibits inflammatory responses in macrophages during bacterial infection.|https://dx.doi.org/10.1016/j.heliyon.2023.e23225
+Unlocking the potential of phenyl boronic acid functionalized-quercetin nanoparticles: Advancing antibacterial efficacy and diabetic wound healing.|https://dx.doi.org/10.1016/j.heliyon.2023.e23452
+Fluorescent bioinspired albumin/polydopamine nanoparticles and their interactions with Escherichia coli cells.|https://dx.doi.org/10.3762/bjnano.14.100
+Evaluation of In-Vitro Activity of Ceftaroline Against Methicillin-Resistant Staphylococcus aureus Clinical Isolates.|https://dx.doi.org/10.7759/cureus.49859
+In vitro and in vivo studies on biodegradable Zn porous scaffolds with a drug-loaded coating for the treatment of infected bone defect.|https://dx.doi.org/10.1016/j.mtbio.2023.100885
+Luteolin attenuates Staphylococcus aureus-induced endometritis through inhibiting ferroptosis and inflammation via activating the Nrf2/GPX4 signaling pathway.|https://dx.doi.org/10.1128/spectrum.03279-23
+"Five birds one stone" tri-modal monitoring driven lab-on-magnetic aptasensor for accurate pathogen detection and enhanced germicidal application.|https://dx.doi.org/10.1016/j.bios.2023.115991
+Red light-triggered release of ROS and carbon monoxide for combinational antibacterial application.|https://dx.doi.org/10.1039/d3tb01829f
+Amphiphilic Janus nanoparticles for nitric oxide synergistic photodynamic eradication of MRSA biofilms.|https://dx.doi.org/10.1039/d3bm01510f

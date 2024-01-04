@@ -44,3 +44,11 @@ Antibiotic use among hospitalised patients in Sierra Leone: a national point pre
 Development of COVID-19 vaccine policy - United States, 2020-2023.|https://dx.doi.org/10.1016/j.vaccine.2023.12.022
 The utility of risk factors to define complicated Staphylococcus aureus bacteremia in a setting with low MRSA prevalence.|https://dx.doi.org/10.1093/cid/ciad784
 Pericardiocentesis for COVID-19 Associated Cardiac Tamponade Using a Central Venous Catheter in Rural Australia: A Case Report.|https://dx.doi.org/10.1016/j.amj.2023.10.002
+Case Review of Tibiotalocalcaneal Arthrodesis with Distal Femoral Locking Plate Through a Lateral Approach.|https://dx.doi.org/10.7547/21-178
+Infective endocarditis after isolated aortic valve replacement: comparison between catheter-interventional and surgical valve replacement.|https://dx.doi.org/10.1007/s00392-023-02356-4
+Sex Differences in Infective Endocarditis: A Systematic Review.|https://dx.doi.org/10.7759/cureus.49815
+Chemical and perfusion markers as predictors of moyamoya disease progression and complication types.|https://dx.doi.org/10.1038/s41598-023-47984-y
+The importance of the bacterial spectrum in the clinical diagnostics and management of patients with spontaneous pyogenic spondylodiscitis and isolated spinal epidural empyema: a 20-year cohort study at a single spine center.|https://dx.doi.org/10.1186/s12879-023-08946-x
+Timing of general anesthesia for pediatric patients recovering from COVID-19: a prospective cohort study.|https://dx.doi.org/10.1186/s12871-023-02390-9
+Predicting Public Cooperation with Face Covering at the Early Phases of COVID-19: Building Public Trust, Confidence, Knowledge Through Governmental Two-Way Symmetrical Communication.|https://dx.doi.org/10.1080/10410236.2023.2297496
+[Endoscopic and morphometric analysis of the reduction of acute inflammatory process in the gastric mucosa after therapy with Regasthym Gastro].|https://dx.doi.org/10.26442/00403660.2023.04.202147

@@ -161,3 +161,12 @@ Occurrence and environmental risks of contaminants of emerging concern across th
 Antibiotic use among hospitalised patients in Sierra Leone: a national point prevalence survey using the WHO survey methodology.|https://dx.doi.org/10.1136/bmjopen-2023-078367
 Fabrication of poly(β-amino ester) and hyaluronic acid based pH responsive nanocomplex as an antibiotic release system.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129060
 Comparison of the incidence of nausea and vomiting between linezolid and vancomycin using claims database: a retrospective cohort study.|https://dx.doi.org/10.1007/s11096-023-01668-9
+Evaluation of In-Vitro Activity of Ceftaroline Against Methicillin-Resistant Staphylococcus aureus Clinical Isolates.|https://dx.doi.org/10.7759/cureus.49859
+Characterization of community-acquired Clostridioides difficile strains in Israel, 2020-2022.|https://dx.doi.org/10.3389/fmicb.2023.1323257
+In vitro and in vivo studies on biodegradable Zn porous scaffolds with a drug-loaded coating for the treatment of infected bone defect.|https://dx.doi.org/10.1016/j.mtbio.2023.100885
+Increased risk of hearing loss associated with macrolide use: a systematic review and meta-analysis.|https://dx.doi.org/10.1038/s41598-023-50774-1
+Successful Conservative Therapy for Infected Penile Implants: A Case Series.|https://dx.doi.org/10.12659/AJCR.941806
+Clinical application of vancomycin TDM in ventilated patients with gastrointestinal cancer: a propensity-matched analysis.|https://dx.doi.org/10.1186/s12879-023-08885-7
+The co-infection of pulmonary hydatid cyst, lophomoniasis and tuberculosis in a patient with resistant respiratory symptoms; a case report study.|https://dx.doi.org/10.1186/s12879-023-08907-4
+Vancomycin-loaded hydrogels with thermal-responsive, self-peeling, and sustainable antibacterial properties for wound dressing.|https://dx.doi.org/10.1039/d3tb02084c
+A prospective observational study of estimating drug related problems and clinical outcomes in subtypes of stroke patients.|https://dx.doi.org/10.1371/journal.pone.0295208
