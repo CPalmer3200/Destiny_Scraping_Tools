@@ -37,3 +37,9 @@ A novel approach to correcting attribution of Clostridioides difficile in a heal
 The iceberg of discrimination based on gender in Hospital Medicine.|https://dx.doi.org/10.1016/j.medcli.2023.10.024
 Antimicrobial and anti-diabetic efficiency of Polyalthia longifolia leaf extracts and major compounds characterization.|https://dx.doi.org/10.1016/j.envres.2023.118061
 Transition to Chronic Fibrosis in an Animal Model of Retinal Detachment With Features of Proliferative Vitreoretinopathy.|https://dx.doi.org/10.1167/iovs.64.15.39
+Non-human Clostridioides difficile Reservoirs and Sources: Animals, Food, Environment.|https://dx.doi.org/10.1007/978-3-031-42108-2_15
+Membrane Vesicles of Clostridioides difficile and Other Clostridial Species.|https://dx.doi.org/10.1007/978-3-031-42108-2_14
+Clostridioides difficile Sporulation.|https://dx.doi.org/10.1007/978-3-031-42108-2_13
+Asymmetric contribution of a selectivity filter gate in triggering inactivation of CaV1.3 channels.|https://dx.doi.org/10.1085/jgp.202313365
+Retraction for Amrane et al., "Clostridium scindens Is Present in the Gut Microbiota during Clostridium difficile Infection: a Metagenomic and Culturomic Analysis".|https://dx.doi.org/10.1128/jcm.01507-23
+Novel phenylthiazoles with a tert-butyl moiety: promising antimicrobial activity against multidrug-resistant pathogens with enhanced ADME properties.|https://dx.doi.org/10.1039/d3ra07619a

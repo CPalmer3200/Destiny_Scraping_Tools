@@ -4,3 +4,4 @@ The association of cysteine to thiomersal attenuates its apoptosis-mediated cyto
 Tailoring polyethylene oxide-modified cross-linked chitosan/PVA nanofibrous membranes: Burn dressing scaffold developed for mupirocin release.|https://dx.doi.org/10.1016/j.ijbiomac.2023.128983
 Circulating NK cells establish tissue residency upon acute infection of skin and mediate accelerated effector responses to secondary infection.|https://dx.doi.org/10.1016/j.immuni.2023.11.018
 Azalomycin F4a targets peptidoglycan synthesis of Gram-positive bacteria revealed by high-throughput CRISPRi-seq analysis.|https://dx.doi.org/10.1016/j.micres.2023.127584
+Proportion of toxin and non-toxin virulence factors of Staphylococcus aureus isolates from diabetic foot infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12866-023-03142-y

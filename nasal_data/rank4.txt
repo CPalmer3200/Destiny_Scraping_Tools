@@ -52,3 +52,19 @@ The importance of the bacterial spectrum in the clinical diagnostics and managem
 Timing of general anesthesia for pediatric patients recovering from COVID-19: a prospective cohort study.|https://dx.doi.org/10.1186/s12871-023-02390-9
 Predicting Public Cooperation with Face Covering at the Early Phases of COVID-19: Building Public Trust, Confidence, Knowledge Through Governmental Two-Way Symmetrical Communication.|https://dx.doi.org/10.1080/10410236.2023.2297496
 [Endoscopic and morphometric analysis of the reduction of acute inflammatory process in the gastric mucosa after therapy with Regasthym Gastro].|https://dx.doi.org/10.26442/00403660.2023.04.202147
+The Centers for Disease Control and Prevention does not recommend race-adjusted thresholds to define anemia.|https://dx.doi.org/10.1016/j.ajcnut.2023.08.028
+The PJI-TNM classification for periprosthetic joint infections.|https://dx.doi.org/10.1302/2046-3758.131.BJR-2023-0012.R2
+Expert panel recommendations for topical hemostatic agent use in varied bleeding sites and situations during neuro-spine surgeries.|https://dx.doi.org/10.1016/j.jocn.2023.12.007
+Mosquito control by abatement programmes in the United States: perspectives and lessons for countries in sub-Saharan Africa.|https://dx.doi.org/10.1186/s12936-023-04829-3
+Intention to vaccinate for Lyme disease using the Health Belief Model.|https://dx.doi.org/10.1111/zph.13107
+American Academy of Orthopaedic Surgeons Clinical Practice Guideline Case Report: Prevention of Surgical Site Infection After Major Extremity Trauma.|https://dx.doi.org/10.5435/JAAOS-D-23-01073
+COVID-19 Vaccination Rates Among North Dakota Residents Who Gave Birth Between April 1, 2021, and July 15, 2022.|https://dx.doi.org/10.2105/AJPH.2023.307500
+Fecal Microbiota Transplantation as Emerging Treatment in European Countries 2.0.|https://dx.doi.org/10.1007/978-3-031-42108-2_5
+Diagnostic Guidance for C. difficile Infections.|https://dx.doi.org/10.1007/978-3-031-42108-2_3
+The Need for European Surveillance of CDI.|https://dx.doi.org/10.1007/978-3-031-42108-2_2
+Drug resistance profile in postbiliary and gastrointestinal surgical-site infection cases from a tertiary care hospital.|https://dx.doi.org/10.4103/ijp.ijp_783_21
+The importance of triple panel testing for hepatitis B and the burden of isolated anti-hepatitis B core antibodies within a community sample.|https://dx.doi.org/10.1016/j.jve.2023.100358
+A rare case of multi-drug resistant Raoultella ornithinolytica-induced sepsis in a healthy young man in Uganda.|https://dx.doi.org/10.1002/ccr3.8402
+Rare oto-tricho-tussia/tinnitus: A case report.|https://dx.doi.org/10.1002/ccr3.8412
+Fibrous topology promoted pBMP2-activated matrix on titanium implants boost osseointegration.|https://dx.doi.org/10.1093/rb/rbad111
+Bioavailability of Orally Administered Drugs After Bariatric Surgery.|https://dx.doi.org/10.1007/s13679-023-00548-7

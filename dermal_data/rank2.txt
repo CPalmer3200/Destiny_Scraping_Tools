@@ -2,3 +2,6 @@
 Effectiveness of continuous home wound care on patients with diabetic foot ulcers.|https://dx.doi.org/10.1111/jan.16039
 Platelet-rich plasma for the treatment of diabetic foot ulcer: a systematic review.|https://dx.doi.org/10.3389/fendo.2023.1256081
 Comorbid status in patients with osteomyelitis is associated with long-term incidence of extremity amputation.|https://dx.doi.org/10.1136/bmjdrc-2023-003611
+Comparative study on the efficacy of PRP gel and UC-MSCs gel as adjuvant therapies in the treatment of DFU wounds.|https://dx.doi.org/10.1111/srt.13549
+P. aeruginosa interactions with other microbes in biofilms during co-infection.|https://dx.doi.org/10.3934/microbiol.2023032
+Proportion of toxin and non-toxin virulence factors of Staphylococcus aureus isolates from diabetic foot infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12866-023-03142-y

@@ -7,3 +7,6 @@ Efficacy and safety of 48 weeks of guselkumab for patients with Crohn's disease:
 Atypical cutaneous presentation of AOSD with persistent itchy urticaria: A case report.|https://dx.doi.org/10.1097/MD.0000000000036251
 The efficacy and safety of intra-articular dual-acting antibacterial agent (TNP-2092) for implant infection-associated MRSA.|https://dx.doi.org/10.1093/infdis/jiad588
 Oral β-lactam pairs for the treatment of Mycobacterium avium complex pulmonary disease.|https://dx.doi.org/10.1093/infdis/jiad591
+High efficacy of the F-ATP synthase inhibitor TBAJ-5307 against non-tuberculous mycobacteria in vitro and in vivo.|https://dx.doi.org/10.1016/j.jbc.2023.105618
+Structural role of K224 in taniborbactam inhibition of NDM-1.|https://dx.doi.org/10.1128/aac.01332-23
+Optimal density-functional theory method for zinc-amino acid complexes determined by analyzing structural and Fourier-transform infrared spectroscopy data.|https://dx.doi.org/10.1039/d3ra07172c

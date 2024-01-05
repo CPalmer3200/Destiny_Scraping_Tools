@@ -170,3 +170,14 @@ Clinical application of vancomycin TDM in ventilated patients with gastrointesti
 The co-infection of pulmonary hydatid cyst, lophomoniasis and tuberculosis in a patient with resistant respiratory symptoms; a case report study.|https://dx.doi.org/10.1186/s12879-023-08907-4
 Vancomycin-loaded hydrogels with thermal-responsive, self-peeling, and sustainable antibacterial properties for wound dressing.|https://dx.doi.org/10.1039/d3tb02084c
 A prospective observational study of estimating drug related problems and clinical outcomes in subtypes of stroke patients.|https://dx.doi.org/10.1371/journal.pone.0295208
+The Effect of Vancomycin and Tobramycin Local Antibiotic Powder on Surgical Site Infections after Open Treatment of Fracture: A Retrospective Propensity-Matched Analysis.|https://dx.doi.org/10.1097/BOT.0000000000002758
+Gut microbiome alpha diversity decreases in relation to body weight, antibiotic exposure, and infection with multidrug-resistant organisms.|https://dx.doi.org/10.1016/j.ajic.2023.12.017
+Cost and availability of selected medicines after implementation of increased import verification fees.|https://dx.doi.org/10.1186/s12913-023-10433-7
+Glycolysis: An early marker for vancomycin-specific T-cell activation.|https://dx.doi.org/10.1111/cea.14423
+High prevalence of heteroresistance in Staphylococcus aureus is caused by a multitude of mutations in core genes.|https://dx.doi.org/10.1371/journal.pbio.3002457
+Antibiotic Resistances of Clostridioides difficile.|https://dx.doi.org/10.1007/978-3-031-42108-2_9
+Ribotypes and New Virulent Strains Across Europe.|https://dx.doi.org/10.1007/978-3-031-42108-2_8
+Probiotics for Prevention and Treatment of Clostridium difficile Infection.|https://dx.doi.org/10.1007/978-3-031-42108-2_6
+In vitro study on the transmission of multidrug-resistant bacteria from textiles to pig skin.|https://dx.doi.org/10.5493/wjem.v13.i5.134
+Ground level utility of Access, Watch, Reserve classification: Insights from a tertiary care center in North India.|https://dx.doi.org/10.5493/wjem.v13.i5.123
+Knowledge and approach towards Helicobacter pylori diagnosis and management among primary care physicians in Cameroon: a cross-sectional study.|https://dx.doi.org/10.1093/trstmh/trad089

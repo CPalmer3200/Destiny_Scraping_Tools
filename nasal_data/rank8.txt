@@ -114,3 +114,16 @@ Misdiagnosis of a Patient with Hepatic Alveolar Echinococcosis with Hepatapostem
 A meta-analysis examining the impact of open surgical therapy versus minimally invasive surgery on wound infection in females with cervical cancer.|https://dx.doi.org/10.1111/iwj.14535
 Discovery of sparse, reliable omic biomarkers with Stabl.|https://dx.doi.org/10.1038/s41587-023-02033-x
 Differences in toll-like receptor ligand-induced cytokine concentrations before and after solid organ transplantation: A prospective, observational cohort study in a clinical setting.|https://dx.doi.org/10.1111/sji.13337
+Use of oxygen-ozone therapy to improve the effectiveness of antibiotic treatment on infected arthroplasty: protocol for a superiority, open-label, multicentre, randomised, parallel trial.|https://dx.doi.org/10.1136/bmjopen-2023-076739
+The Effect of Vancomycin and Tobramycin Local Antibiotic Powder on Surgical Site Infections after Open Treatment of Fracture: A Retrospective Propensity-Matched Analysis.|https://dx.doi.org/10.1097/BOT.0000000000002758
+Comparative evaluation of platelet-rich plasma, autologous blood serum, and umbilical cord serum for corneal healing after penetrating keratoplasty in New Zealand rabbits.|https://dx.doi.org/10.1016/j.exer.2023.109779
+Early predictors of fistula formation following head and neck reconstruction.|https://dx.doi.org/10.1055/a-2238-7591
+The Global Leadership Initiative on Malnutrition criteria for diagnosis of malnutrition and outcomes prediction in emergency abdominal surgery.|https://dx.doi.org/10.1016/j.nut.2023.112298
+Postoperative mediastinitis and sternal osteitis after cardiac surgery caused by Mycoplasma hominis: A case report.|https://dx.doi.org/10.1016/j.diagmicrobio.2023.116170
+Integrated analysis of miRNA-mRNA expression of newly emerging swine H3N2 influenza virus cross-species infection with tree shrews.|https://dx.doi.org/10.1186/s12985-023-02260-3
+Impact of the 4th of August Beirut explosion mass casualty incident on a university hospital microbial Flora.|https://dx.doi.org/10.1186/s12879-023-08818-4
+Health care-associated infections in neonatology.|https://dx.doi.org/10.1016/j.anpede.2023.12.004
+Predictive Performance of Surgical Mortality Risk Scores in Infective Endocarditis.|https://dx.doi.org/10.1093/ejcts/ezad433
+Case 1. Infected postoperative wound on left wrist.|https://dx.doi.org/10.12968/jowc.2023.32.Sup12a.S8
+The Nightmare of Calcaneus: Gustilo-Anderson Type IIIB Fractures.|https://dx.doi.org/10.7547/21-179
+Three cases of recalcitrant Paecilomyces keratitis in Southern California within a short period.|https://dx.doi.org/10.1186/s12348-023-00380-z

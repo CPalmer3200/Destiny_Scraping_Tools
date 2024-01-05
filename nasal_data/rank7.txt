@@ -122,3 +122,23 @@ Lessons learnt from COVID-19 to reduce mortality and morbidity in the Global Sou
 Lockdown life - experiences of partners of individuals with an acquired brain injury during the COVID-19 pandemic: a qualitative study.|https://dx.doi.org/10.1017/BrImp.2023.7
 Nano-carrier DMSN for effective multi-antigen vaccination against SARS-CoV-2.|https://dx.doi.org/10.1186/s12951-023-02271-w
 Factors influencing psychological concerns about COVID-19 in South Korea: direct and indirect damage during the early stages of pandemic.|https://dx.doi.org/10.1186/s12889-023-17476-9
+Repurposing and discovery of transmembrane serine protease 2 (TMPRSS2) inhibitors as prophylactic therapies for new coronavirus disease 2019 (COVID-19).|https://dx.doi.org/10.1691/ph.2023.3578
+Social inequalities in early childhood language development during the COVID-19 pandemic: a descriptive study with data from three consecutive school entry surveys in Germany.|https://dx.doi.org/10.1186/s12939-023-02079-y
+Dental service utilization and the COVID-19 pandemic, a micro-data analysis.|https://dx.doi.org/10.1186/s12903-023-03740-2
+The impact of internet health information seeking on COVID-19 vaccination behavior in China.|https://dx.doi.org/10.1186/s12889-024-17638-3
+Gut microbiota alteration and its association with immune function in post-COVID-19 patients.|https://dx.doi.org/10.1007/s12223-023-01118-z
+The NSP3 protein of SARS-CoV-2 binds fragile X mental retardation proteins to disrupt UBAP2L interactions.|https://dx.doi.org/10.1038/s44319-023-00043-z
+Dynamic predictors of COVID-19 vaccination uptake and their interconnections over two years in Hong Kong.|https://dx.doi.org/10.1038/s41467-023-44650-9
+A stapled lipopeptide platform for preventing and treating highly pathogenic viruses of pandemic potential.|https://dx.doi.org/10.1038/s41467-023-44361-1
+Special issue: Taiwan model against COVID-19.|https://dx.doi.org/10.1016/j.jfma.2024.01.002
+Higher COVID-19 pneumonia risk associated with anti-IFN-α than with anti-IFN-ω auto-Abs in children.|https://dx.doi.org/10.1084/jem.20231353
+ACE2 Receptor-Targeted Inhaled Nanoemulsions Inhibit SARS-CoV-2 and Attenuate Inflammatory Responses.|https://dx.doi.org/10.1002/adma.202311537
+Prevalence of SARS-CoV-2 infection and impact of the COVID-19 pandemic in avocado farmworkers from Mexico.|https://dx.doi.org/10.3389/fpubh.2023.1252530
+Detection of COVID-19 epidemic outbreak using machine learning.|https://dx.doi.org/10.3389/fpubh.2023.1252357
+Racial disparities in COVID-19 and gastrointestinal diseases-related mortality: analysis from CDC-WONDER databases, 2020-2022.|https://dx.doi.org/10.1080/08998280.2023.2264716
+Protective and risk factors associated with substance use coping among healthcare workers during the COVID-19 pandemic.|https://dx.doi.org/10.3389/fpsyg.2023.1228517
+Use of Rapid Antigen Triple Test Nasal Swabs (COVID-VIRO ALL-IN TRIPLEX: Severe Acute Respiratory Syndrome Coronavirus 2, Respiratory Syncytial Virus, and Influenza) in Children With Respiratory Symptoms: A Real-life Prospective Study.|https://dx.doi.org/10.1093/ofid/ofad617
+Factors associated with the use of medicines and self-medication during the COVID-19 pandemic in 12 Latin American countries.|https://dx.doi.org/10.1016/j.heliyon.2023.e22299
+A severe acute respiratory coronavirus virus 2 (SARS-CoV-2) nosocomial cluster with inter-facility spread: Lessons learned.|https://dx.doi.org/10.1017/ice.2023.172
+Occurrences of post-traumatic stress disorder, anxiety, depression, and burnout syndrome in ICU staff workers after two-year of the COVID-19 pandemic: the international PSY-CO in ICU study.|https://dx.doi.org/10.1186/s12991-023-00488-5
+Prevalence of natural feline coronavirus infection in domestic cats in Fujian, China.|https://dx.doi.org/10.1186/s12985-023-02273-y

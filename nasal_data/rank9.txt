@@ -108,3 +108,21 @@ Luteolin attenuates Staphylococcus aureus-induced endometritis through inhibitin
 "Five birds one stone" tri-modal monitoring driven lab-on-magnetic aptasensor for accurate pathogen detection and enhanced germicidal application.|https://dx.doi.org/10.1016/j.bios.2023.115991
 Red light-triggered release of ROS and carbon monoxide for combinational antibacterial application.|https://dx.doi.org/10.1039/d3tb01829f
 Amphiphilic Janus nanoparticles for nitric oxide synergistic photodynamic eradication of MRSA biofilms.|https://dx.doi.org/10.1039/d3bm01510f
+Integrating rapid pathogen identification and antimicrobial susceptibility testing through multiplex TaqMan qPCR assay.|https://dx.doi.org/10.1016/j.mimet.2023.106888
+NIR-triggered bacterial cellulose-based wound dressings for multiple synergistic therapy of infected wound.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129033
+Methylcellulose/chitosan nanofiber-based composites doped with lactoferrin-loaded Ag-MOF nanoparticles for the preservation of fresh apple.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129182
+Curcumin-loaded chitosan-based hydrogels accelerating S. aureus-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129111
+Preparation and characterizations of antibacterial iodine-containing coatings on pure Ti.|https://dx.doi.org/10.1016/j.jmbbm.2023.106366
+Unveiling the fructose metabolism system in Staphylococcus aureus: insights into the regulatory role of FruR and the FruRKT operon in bacterial fitness.|https://dx.doi.org/10.1186/s12866-023-03151-x
+The potentiation activity of β-lactam by phomoidrides and oxasetin against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s41429-023-00691-2
+In vitro evaluation of bactericidal effects of fluorescent light energy on Staphylococcus pseudintermedius and S. aureus.|https://dx.doi.org/10.1111/vde.13235
+Preparation and characterization of gelatin/chitosan nanocomposite reinforced by NiO nanoparticles as an active food packaging.|https://dx.doi.org/10.1038/s41598-023-50260-8
+Prostaglandin E2 accumulation is closely associated with S. aureus-infected bovine endometritis.|https://dx.doi.org/10.1016/j.cyto.2024.156498
+Fabrication of UiO-66/GCN, a Hybrid Photocatalyst, for Effective Degradation of Ciprofloxacin, Toxicity Estimation, and Its Antibacterial Activity.|https://dx.doi.org/10.1021/acs.chemrestox.3c00313
+High prevalence of heteroresistance in Staphylococcus aureus is caused by a multitude of mutations in core genes.|https://dx.doi.org/10.1371/journal.pbio.3002457
+Bioluminescence assay for rapid detection of live Staphylococcus aureus based on the enrichment of egg yolk antibody modified magnetic metal organic framework immunobeads.|https://dx.doi.org/10.1039/d3an01564e
+Biosynthesis of Zinc Oxide Nanoparticles Using Bacillus paramycoides for In Vitro Biological Activities and In Vivo Assessment Against Hepatorenal Injury Induced by CCl(4) in Rats.|https://dx.doi.org/10.1007/s12010-023-04817-y
+Staphylococcal toxic shock syndrome.|https://dx.doi.org/10.1007/s12308-023-00547-6
+Processing of LtaS restricts LTA assembly and YSIRK preprotein trafficking into Staphylococcus aureus cross-walls.|https://dx.doi.org/10.1128/mbio.02852-23
+Target attainment of intravenous lefamulin for treatment of acute bacterial skin and skin structure infections.|https://dx.doi.org/10.1093/jac/dkad401
+Screening and unveiling antibacterial mechanism of dandelion phenolic extracts against Staphylococcus aureus by inhibiting intracellular Na(+)-K(+) ATPase based on molecular docking and molecular dynamics simulation.|https://dx.doi.org/10.1080/07391102.2023.2300123
