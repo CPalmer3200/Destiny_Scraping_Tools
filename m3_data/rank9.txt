@@ -14,3 +14,4 @@ Clostridium difficile infection in pediatric patients (Review).|https://dx.doi.
 An Updated View on the Cellular Uptake and Mode-of-Action of Clostridioides difficile Toxins.|https://dx.doi.org/10.1007/978-3-031-42108-2_11
 A comparison of clinical outcomes associated with dosing metronidazole every 8 hours versus every 12 hours: a systematic review and metaanalysis.|https://dx.doi.org/10.1080/08998280.2023.2282144
 Equine Fecal Microbiota Response to Short Term Antibiotic Administration.|https://dx.doi.org/10.1016/j.jevs.2023.104993
+A randomized study of ceftriaxone for the prevention of infections in hospitalized patients with advanced cirrhosis.|https://dx.doi.org/10.1097/HC9.0000000000000356

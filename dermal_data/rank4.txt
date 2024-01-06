@@ -5,3 +5,5 @@ In vitro and in vivo studies of Syzygium cumini-loaded electrospun PLGA/PMMA/col
 Metal-amplified sonodynamic therapy of Ti-based chitosan-polyvinyl alcohol hybrid hydrogel dressing against subcutaneous Staphylococcus aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129120
 An antibacterial and anti-oxidant hydrogel containing hyperbranched poly-l-lysine and tea polyphenols accelerates healing of infected wound.|https://dx.doi.org/10.1016/j.bioadv.2023.213755
 Self-controllable proteinic antibacterial coating with bacteria-triggered antibiotic release for prevention of periprosthetic infection.|https://dx.doi.org/10.1016/j.biomaterials.2023.122457
+Evaluation of antimicrobial photodynamic action of a pluronic and pectin based film loaded with methylene blue against Methicilin resistant Staphylococcus aureus.|https://dx.doi.org/10.1088/1748-605X/ad1bb3
+A sustainable and self-healable silk fibroin nanocomposite with antibacterial and drug eluting properties for 3D printed wound dressings.|https://dx.doi.org/10.1039/d3tb02363j

@@ -126,3 +126,22 @@ Staphylococcal toxic shock syndrome.|https://dx.doi.org/10.1007/s12308-023-00547
 Processing of LtaS restricts LTA assembly and YSIRK preprotein trafficking into Staphylococcus aureus cross-walls.|https://dx.doi.org/10.1128/mbio.02852-23
 Target attainment of intravenous lefamulin for treatment of acute bacterial skin and skin structure infections.|https://dx.doi.org/10.1093/jac/dkad401
 Screening and unveiling antibacterial mechanism of dandelion phenolic extracts against Staphylococcus aureus by inhibiting intracellular Na(+)-K(+) ATPase based on molecular docking and molecular dynamics simulation.|https://dx.doi.org/10.1080/07391102.2023.2300123
+Evaluation of antimicrobial photodynamic action of a pluronic and pectin based film loaded with methylene blue against Methicilin resistant Staphylococcus aureus.|https://dx.doi.org/10.1088/1748-605X/ad1bb3
+A Review of the Evidence on the Role of Floors and Shoes in the Dissemination of Pathogens in a Healthcare Setting.|https://dx.doi.org/10.1089/sur.2023.194
+LITAF protects against pore-forming protein-induced cell death by promoting membrane repair.|https://dx.doi.org/10.1126/sciimmunol.abq6541
+The Staphylococcus aureus CamS lipoprotein is a repressor of toxin production that shapes host-pathogen interaction.|https://dx.doi.org/10.1371/journal.pbio.3002451
+Understanding staphylococcus aureus internalization and induction of antimicrobial tolerance.|https://dx.doi.org/10.1080/14787210.2024.2303018
+Development of an electrochemical sensitive aptasensor based on a zeolite imidazolate framework-8 and gold nanoparticles for the determination of Staphylococcus aureus bacteria.|https://dx.doi.org/10.1007/s00216-023-05115-6
+Actinoplanes pyxinae sp. nov., a new lichen-derived rare actinobacterium exhibiting antimicrobial and anticancer activity.|https://dx.doi.org/10.1099/ijsem.0.006215
+Metabolic diversity of human macrophages: potential influence on Staphylococcus aureus intracellular survival.|https://dx.doi.org/10.1128/iai.00474-23
+The first complete genome sequence of Staphylococcus aureus ST5477.|https://dx.doi.org/10.1128/mra.01004-23
+A new tetronomycin analog, broad-spectrum and potent antibiotic against drug-resistant Gram-positive bacteria.|https://dx.doi.org/10.1002/cbdv.202301834
+Assessment of Phenolic Composition, Antioxidant Potential, Antimicrobial Properties, and Antidiabetic Activity in Extracts Obtained from Schinus molle L. Leaves and Fruits.|https://dx.doi.org/10.31083/j.fbl2812353
+A sustainable and self-healable silk fibroin nanocomposite with antibacterial and drug eluting properties for 3D printed wound dressings.|https://dx.doi.org/10.1039/d3tb02363j
+Ciprofloxacin enhances the biofilm formation of Staphylococcus aureus via an agrC-dependent mechanism.|https://dx.doi.org/10.3389/fmicb.2023.1328947
+Advances in machine learning-based bacteria analysis for forensic identification: identity, ethnicity, and site of occurrence.|https://dx.doi.org/10.3389/fmicb.2023.1332857
+Aerobic Bacterial Profile of Sepsis and Its Antibiotic Susceptibility Pattern Among Patients in a Rural Tertiary Care Center.|https://dx.doi.org/10.7759/cureus.49942
+Molecular detection of virulence genes in Staphylococcus aureus isolated from wild pigeons (Columba domestica livia) in KwaZulu-Natal in South Africa.|https://dx.doi.org/10.1016/j.onehlt.2023.100656
+A unique binding mode of P1' Leu-containing target sequences for Streptococcus pyogenes sortase A results in alternative cleavage.|https://dx.doi.org/10.1039/d3cb00129f
+Everything but the Kitchen Sink: An Analysis of Bacterial and Chemical Contaminants Found in Syringe Residue From People Who Inject Drugs.|https://dx.doi.org/10.1093/ofid/ofad628
+No Significant Differences in Presepsin Levels According to the Causative Microorganism of Bloodstream Infection.|https://dx.doi.org/10.3947/ic.2023.0066

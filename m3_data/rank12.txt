@@ -43,3 +43,4 @@ Clostridioides difficile Sporulation.|https://dx.doi.org/10.1007/978-3-031-42108
 Asymmetric contribution of a selectivity filter gate in triggering inactivation of CaV1.3 channels.|https://dx.doi.org/10.1085/jgp.202313365
 Retraction for Amrane et al., "Clostridium scindens Is Present in the Gut Microbiota during Clostridium difficile Infection: a Metagenomic and Culturomic Analysis".|https://dx.doi.org/10.1128/jcm.01507-23
 Novel phenylthiazoles with a tert-butyl moiety: promising antimicrobial activity against multidrug-resistant pathogens with enhanced ADME properties.|https://dx.doi.org/10.1039/d3ra07619a
+The dual role for probiotics use in dental practices.|https://dx.doi.org/10.3389/froh.2023.1336565

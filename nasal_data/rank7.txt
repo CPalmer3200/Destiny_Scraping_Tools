@@ -142,3 +142,13 @@ Factors associated with the use of medicines and self-medication during the COVI
 A severe acute respiratory coronavirus virus 2 (SARS-CoV-2) nosocomial cluster with inter-facility spread: Lessons learned.|https://dx.doi.org/10.1017/ice.2023.172
 Occurrences of post-traumatic stress disorder, anxiety, depression, and burnout syndrome in ICU staff workers after two-year of the COVID-19 pandemic: the international PSY-CO in ICU study.|https://dx.doi.org/10.1186/s12991-023-00488-5
 Prevalence of natural feline coronavirus infection in domestic cats in Fujian, China.|https://dx.doi.org/10.1186/s12985-023-02273-y
+Student engagement in voluntary service in response to COVID-19 in Guangzhou, China: Implications for disease control and public health education from a cross-sectional study.|https://dx.doi.org/10.1097/MD.0000000000036553
+COVID-related excess missed HIV diagnoses in the United States in 2021: follow-up to 2020.|https://dx.doi.org/10.1097/QAD.0000000000003829
+Response to: regarding the significance of anti-COVID-IgA antibody response in COVID-19 breakthrough infection.|https://dx.doi.org/10.1007/s12026-023-09452-7
+The mental health of Australians bereaved during the first two years of the COVID-19 pandemic: a latent class analysis.|https://dx.doi.org/10.1017/S0033291723003227
+Relative vaccine effectiveness against COVID-19 hospitalisation in persons aged ≥ 65 years: results from a VEBIS network, Europe, October 2021 to July 2023.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.1.2300670
+Significant burden of post-COVID exertional dyspnoea in a South-Italy region: knowledge of risk factors might prevent further critical overload on the healthcare system.|https://dx.doi.org/10.3389/fpubh.2023.1273853
+Decrease in the number of new cancer diagnoses during the first year of the COVID-19 pandemic - cohort study of 3.5 million individuals in western Poland.|https://dx.doi.org/10.3389/fonc.2023.1230289
+Absence of Type I Interferon Autoantibodies or Significant Interferon Signature Alterations in Adults With Post-COVID-19 Syndrome.|https://dx.doi.org/10.1093/ofid/ofad641
+Use of ivermectin and factors associated with the prevention and/or treatment of COVID-19: a cross-sectional online survey in the province of Chincha, Peru.|https://dx.doi.org/10.12688/f1000research.128675.2
+Saliva-based Proteinase K method: A rapid and reliable diagnostic tool for the detection of SARS-COV-2 in children.|https://dx.doi.org/10.1002/jmv.29361

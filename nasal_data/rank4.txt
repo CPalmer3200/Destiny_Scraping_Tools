@@ -68,3 +68,6 @@ A rare case of multi-drug resistant Raoultella ornithinolytica-induced sepsis in
 Rare oto-tricho-tussia/tinnitus: A case report.|https://dx.doi.org/10.1002/ccr3.8412
 Fibrous topology promoted pBMP2-activated matrix on titanium implants boost osseointegration.|https://dx.doi.org/10.1093/rb/rbad111
 Bioavailability of Orally Administered Drugs After Bariatric Surgery.|https://dx.doi.org/10.1007/s13679-023-00548-7
+Postural fall in systolic blood pressure is a useful warning sign in dengue fever.|https://dx.doi.org/10.12688/f1000research.132714.2
+Comments by opponents on the British Medical Association's guidance on non-therapeutic male circumcision of children seem one-sided and may undermine public health.|https://dx.doi.org/10.5409/wjcp.v12.i5.244
+The important role of whole-process computed tomography guidance for percutaneous gastrostomy in esophageal cancer patients who are unsuitable for or have had unsuccessful attempts with endoscopic and fluoroscopic gastrostomy.|https://dx.doi.org/10.1186/s12876-023-03040-7

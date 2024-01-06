@@ -181,3 +181,6 @@ Probiotics for Prevention and Treatment of Clostridium difficile Infection.|http
 In vitro study on the transmission of multidrug-resistant bacteria from textiles to pig skin.|https://dx.doi.org/10.5493/wjem.v13.i5.134
 Ground level utility of Access, Watch, Reserve classification: Insights from a tertiary care center in North India.|https://dx.doi.org/10.5493/wjem.v13.i5.123
 Knowledge and approach towards Helicobacter pylori diagnosis and management among primary care physicians in Cameroon: a cross-sectional study.|https://dx.doi.org/10.1093/trstmh/trad089
+A new tetronomycin analog, broad-spectrum and potent antibiotic against drug-resistant Gram-positive bacteria.|https://dx.doi.org/10.1002/cbdv.202301834
+A Sixty-Nine-Year-Old Female With Serratia marcescens Infection.|https://dx.doi.org/10.7759/cureus.49985
+Relapsing Peritoneal Dialysis-Associated Peritonitis due to Kocuria rhizophila: A Case Report.|https://dx.doi.org/10.1159/000534765

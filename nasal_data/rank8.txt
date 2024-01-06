@@ -127,3 +127,22 @@ Predictive Performance of Surgical Mortality Risk Scores in Infective Endocardit
 Case 1. Infected postoperative wound on left wrist.|https://dx.doi.org/10.12968/jowc.2023.32.Sup12a.S8
 The Nightmare of Calcaneus: Gustilo-Anderson Type IIIB Fractures.|https://dx.doi.org/10.7547/21-179
 Three cases of recalcitrant Paecilomyces keratitis in Southern California within a short period.|https://dx.doi.org/10.1186/s12348-023-00380-z
+Longer term follow up of outcomes following implantation of a modular rotating hinge knee prosthesis: 53 implants at mean 7.6 year follow up.|https://dx.doi.org/10.1016/j.knee.2023.12.011
+Case report on postoperative coagulation abnormalities.|https://dx.doi.org/10.1097/MD.0000000000036618
+Use total portosystemic shunt to rescue an emergency PNF with intractable hypotension: A case report.|https://dx.doi.org/10.1097/MD.0000000000036687
+Severe disseminated Nocardia brasiliensis pneumonia with normal immune function: A case report.|https://dx.doi.org/10.1097/MD.0000000000036402
+Efficacy and safety of colchicine for the prevention of postoperative atrial fibrillation among patients undergoing major cardiothoracic surgery: a meta-analysis and meta-regression of randomized controlled trials.|https://dx.doi.org/10.1097/FJC.0000000000001533
+Combination-Lock SlipChip Integrating Nucleic Acid Sample Preparation and Isothermal LAMP Amplification for the Detection of SARS-CoV-2.|https://dx.doi.org/10.1021/acssensors.3c01727
+The safety and efficacy of unicompartmental knee arthroplasty in outpatient surgical centers: A systematic review and meta-analysis.|https://dx.doi.org/10.1177/10225536231224829
+Impact of Preoperative Urinary Tract Infection Screening in Asymptomatic Women Undergoing Midurethral Sling.|https://dx.doi.org/10.1007/s00192-023-05716-w
+Treatment of thyroglossal cyst using Koempel's technique: initial experience.|https://dx.doi.org/10.54847/cp.2024.01.09
+Nasal Injuries and Issues in Athletes.|https://dx.doi.org/10.1249/JSR.0000000000001130
+Potential anti-Pythium insidiosum therapeutics identified through screening of agricultural fungicides.|https://dx.doi.org/10.1128/spectrum.01620-23
+Gastric juice analysis in clinical practice: why, how, and when. The experience with EndoFaster.|https://dx.doi.org/10.1097/MEG.0000000000002704
+Transcriptome-Wide Dynamics of m7G-Related LncRNAs during the Progression from HBV Infection to Hepatocellular Carcinoma.|https://dx.doi.org/10.31083/j.fbl2812339
+Listeria monocytogenes, a silent foodborne pathogen in Ecuador.|https://dx.doi.org/10.3389/fmicb.2023.1278860
+Personalized antibiotic selection in periodontal treatment improves clinical and microbiological outputs.|https://dx.doi.org/10.3389/fcimb.2023.1307380
+Transcatheter closure of patent ductus arteriosus in preterm infants: results from a single-center cohort.|https://dx.doi.org/10.3389/fped.2023.1292623
+Necrotising fasciitis presenting as a blister: A case report on improving early recognition of surgical site infection following caesarean delivery.|https://dx.doi.org/10.1016/j.crwh.2023.e00574
+Fusobacterium/Peptostreptococcus - A Case Report of Communityacquired Empyema Resulting in Surgical Decortication with Prolonged Antibiotic Therapy: A Case Series and Review of the Literature.|https://dx.doi.org/10.2174/0118715265255809231107100450
+Subcutaneous infection caused by Mycobacterium abscessus following botulinum toxin injections: A case report and literature review.|https://dx.doi.org/10.1111/jocd.16170
