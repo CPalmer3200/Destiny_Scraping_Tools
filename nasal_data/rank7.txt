@@ -152,3 +152,20 @@ Decrease in the number of new cancer diagnoses during the first year of the COVI
 Absence of Type I Interferon Autoantibodies or Significant Interferon Signature Alterations in Adults With Post-COVID-19 Syndrome.|https://dx.doi.org/10.1093/ofid/ofad641
 Use of ivermectin and factors associated with the prevention and/or treatment of COVID-19: a cross-sectional online survey in the province of Chincha, Peru.|https://dx.doi.org/10.12688/f1000research.128675.2
 Saliva-based Proteinase K method: A rapid and reliable diagnostic tool for the detection of SARS-COV-2 in children.|https://dx.doi.org/10.1002/jmv.29361
+Human iPSC-based model of COPD to investigate disease mechanisms, predict SARS-COV-2 outcome and test preventive immunotherapy.|https://dx.doi.org/10.1093/stmcls/sxad094
+Migrant workers with COVID-19: a major challenge for Gulf Cooperation Council (GCC) countries to curb the spread of infection.|https://dx.doi.org/10.1177/17579759231216108
+The efficacy of tixagevimab/cilgavimab (Evusheld) in prophylaxis and treatment of COVID-19 in immunocompromised patients: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s40001-023-01549-x
+Effects of the COVID-19 pandemic on the outcomes of HIV-exposed neonates: a Zimbabwean tertiary hospital experience.|https://dx.doi.org/10.1186/s12887-023-04473-5
+Volunteering and instrumental support during the first phase of the pandemic in Europe: the significance of COVID-19 exposure and stringent country's COVID-19 policy.|https://dx.doi.org/10.1186/s12889-023-17507-5
+SARS-CoV-2 vaccination and risk of infectious diseases in hospitalized older patients.|https://dx.doi.org/10.1007/s41999-023-00902-x
+Perceived interpersonal distance changes in young Taiwanese pre and post SARS-CoV-2 pandemic.|https://dx.doi.org/10.1038/s41598-024-51278-2
+Association of air pollution and weather conditions during infection course with COVID-19 case fatality rate in the United Kingdom.|https://dx.doi.org/10.1038/s41598-023-50474-w
+Public's perspective on COVID-19 adenovirus vector vaccines after thrombosis with thrombocytopenia syndrome (TTS) reports and associated regulatory actions - A cross-sectional study in six EU member states.|https://dx.doi.org/10.1016/j.vaccine.2023.12.065
+Lingering Impact of COVID-19, Preventive Care Considerations, and US Health System Challenges.|https://dx.doi.org/10.3122/jabfm.2023.230345R0
+Alterations in microbiome of COVID-19 patients and its impact on forensic investigations.|https://dx.doi.org/10.1016/j.scijus.2023.12.002
+A retrospective, observational study analysing effectiveness of sotrovimab in preventing hospitalisation and deaths from COVID-19 and which subgroup of high-risk patients are more likely to benefit due to the absence of COVID-19 spike antibody post vaccination.|https://dx.doi.org/10.7861/clinmed.23-6-s65
+Nursing home wastewater surveillance for early warning of SARS-CoV-2-positive occupants - Insights from a pilot project at eight facilities.|https://dx.doi.org/10.1016/j.ajic.2023.12.016
+Clinical and microbiological profile of healthcare-associated infections in a tertiary hospital: Comparison between a cohort of hospitalized patients during pre-pandemic and COVID-19 pandemic periods.|https://dx.doi.org/10.1016/j.ajic.2023.12.018
+Adapting COVID-19 Contact Tracing Protocols to Accommodate Resource Constraints, Philadelphia, Pennsylvania, USA, 2021.|https://dx.doi.org/10.3201/eid3002.230988
+Public Health Impact of Paxlovid as Treatment for COVID-19, United States.|https://dx.doi.org/10.3201/eid3002.230835
+Olgotrelvir, a dual inhibitor of SARS-CoV-2 M(pro) and cathepsin L, as a standalone antiviral oral intervention candidate for COVID-19.|https://dx.doi.org/10.1016/j.medj.2023.12.004

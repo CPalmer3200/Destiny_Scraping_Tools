@@ -146,3 +146,8 @@ Transcatheter closure of patent ductus arteriosus in preterm infants: results fr
 Necrotising fasciitis presenting as a blister: A case report on improving early recognition of surgical site infection following caesarean delivery.|https://dx.doi.org/10.1016/j.crwh.2023.e00574
 Fusobacterium/Peptostreptococcus - A Case Report of Communityacquired Empyema Resulting in Surgical Decortication with Prolonged Antibiotic Therapy: A Case Series and Review of the Literature.|https://dx.doi.org/10.2174/0118715265255809231107100450
 Subcutaneous infection caused by Mycobacterium abscessus following botulinum toxin injections: A case report and literature review.|https://dx.doi.org/10.1111/jocd.16170
+A predictive nomogram for surgical site infection in patients who received clean orthopedic surgery: a retrospective study.|https://dx.doi.org/10.1186/s13018-023-04473-2
+Surgical site infection after trochanteric and subtrochanteric fractures: a single centre retrospective analysis.|https://dx.doi.org/10.1038/s41598-024-51180-x
+The safety and feasibility of same-day discharge for the management of patients undergoing pulmonary lobectomy.|https://dx.doi.org/10.1016/j.pulmoe.2023.12.001
+Diagnosis of cystic lung diseases: a position statement from the UK Cystic Lung Disease Rare Disease Collaborative Network.|https://dx.doi.org/10.1136/thorax-2022-219738
+DAIR in treating chronic PJI after total knee arthroplasty using continuous local antibiotic perfusion therapy: a case series study.|https://dx.doi.org/10.1186/s12891-024-07165-y

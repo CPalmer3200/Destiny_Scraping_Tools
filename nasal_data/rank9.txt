@@ -145,3 +145,16 @@ Molecular detection of virulence genes in Staphylococcus aureus isolated from wi
 A unique binding mode of P1' Leu-containing target sequences for Streptococcus pyogenes sortase A results in alternative cleavage.|https://dx.doi.org/10.1039/d3cb00129f
 Everything but the Kitchen Sink: An Analysis of Bacterial and Chemical Contaminants Found in Syringe Residue From People Who Inject Drugs.|https://dx.doi.org/10.1093/ofid/ofad628
 No Significant Differences in Presepsin Levels According to the Causative Microorganism of Bloodstream Infection.|https://dx.doi.org/10.3947/ic.2023.0066
+The rumen-derived Lact. mucosae LLK-XR1 exhibited greater free gossypol degradation capacity during solid-state fermentation of cottonseed meal and probiotic potential.|https://dx.doi.org/10.1186/s12866-023-03156-6
+Study of clinical traits and systemic immune inflammation index assessments in patients with endogenous endophthalmitis over the last ten years.|https://dx.doi.org/10.1186/s12886-023-03266-9
+Efficient and safe therapeutic use of paired Cas9-nickases for primary hyperoxaluria type 1.|https://dx.doi.org/10.1038/s44321-023-00008-8
+Time-resolved fluorescence immunoassay based on glucose oxidase-encapsulated metal-organic framework for amplified detection of foodborne pathogen.|https://dx.doi.org/10.1016/j.aca.2023.342111
+Universal Risk Factors for Mortality in Bloodstream Infections (UNIFORM): a systematic review and Delphi survey.|https://dx.doi.org/10.1016/j.cmi.2023.12.030
+Factors affecting risk of recurrence with periprosthetic infection in shoulder arthroplasty.|https://dx.doi.org/10.1016/j.jse.2023.11.013
+Multifunctional polymeric guanidine and hydantoin halamines with broad biocidal activity.|https://dx.doi.org/10.1016/j.ijpharm.2024.123779
+APTES-mediated Cu(2)(OH)(3)(NO(3)) nanomaterials on the surface of silicone catheters for abscess.|https://dx.doi.org/10.1016/j.colsurfb.2023.113734
+Enhancing competency in infection prevention and control: Identifying priorities for clinical nurse educational needs.|https://dx.doi.org/10.1016/j.nedt.2023.106085
+Surface characterization and antibacterial efficiency of well-ordered TiO(2) nanotube surfaces fabricated on titanium foams.|https://dx.doi.org/10.1038/s41598-024-51339-6
+Interplay between Staphylococcus aureus and the vaginal microbiota.|https://dx.doi.org/10.1016/j.tim.2023.12.005
+Chae-type cytochalasans from coculture of Aspergillus flavipes and Chaetomium globosum.|https://dx.doi.org/10.1016/j.phytochem.2023.113961
+A novel designed nanofibrous mat based on hydroxypropyl methyl cellulose incorporating mango peel extract for potential use in wound care system.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129159

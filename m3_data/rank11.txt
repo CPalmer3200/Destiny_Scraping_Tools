@@ -184,3 +184,7 @@ Knowledge and approach towards Helicobacter pylori diagnosis and management amon
 A new tetronomycin analog, broad-spectrum and potent antibiotic against drug-resistant Gram-positive bacteria.|https://dx.doi.org/10.1002/cbdv.202301834
 A Sixty-Nine-Year-Old Female With Serratia marcescens Infection.|https://dx.doi.org/10.7759/cureus.49985
 Relapsing Peritoneal Dialysis-Associated Peritonitis due to Kocuria rhizophila: A Case Report.|https://dx.doi.org/10.1159/000534765
+Time-resolved fluorescence immunoassay based on glucose oxidase-encapsulated metal-organic framework for amplified detection of foodborne pathogen.|https://dx.doi.org/10.1016/j.aca.2023.342111
+Multifunctional polymeric guanidine and hydantoin halamines with broad biocidal activity.|https://dx.doi.org/10.1016/j.ijpharm.2024.123779
+Freeze-thaw Microfluidic System Produces "Themis" Nanocomplex for Cleaning Persisters-infected Macrophages and Enhancing Uninfected Macrophages.|https://dx.doi.org/10.1002/adma.202311436
+Versatile capillary electrophoresis method for the direct chiral separation of aliphatic and aromatic α-hydroxy acids, β-hydroxy acids and polyhydroxy acids using vancomycin as chiral selector.|https://dx.doi.org/10.1016/j.chroma.2023.464611

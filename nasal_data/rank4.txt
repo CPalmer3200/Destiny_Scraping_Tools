@@ -71,3 +71,7 @@ Bioavailability of Orally Administered Drugs After Bariatric Surgery.|https://dx
 Postural fall in systolic blood pressure is a useful warning sign in dengue fever.|https://dx.doi.org/10.12688/f1000research.132714.2
 Comments by opponents on the British Medical Association's guidance on non-therapeutic male circumcision of children seem one-sided and may undermine public health.|https://dx.doi.org/10.5409/wjcp.v12.i5.244
 The important role of whole-process computed tomography guidance for percutaneous gastrostomy in esophageal cancer patients who are unsuitable for or have had unsuccessful attempts with endoscopic and fluoroscopic gastrostomy.|https://dx.doi.org/10.1186/s12876-023-03040-7
+Rethinking Perioperative Antibiotic Prophylaxis for Low-Risk Head and Neck Procedures.|https://dx.doi.org/10.1177/00034894231222690
+Update and Summary of the European Association of Urology/European Society of Paediatric Urology Paediatric Guidelines on Vesicoureteral Reflux in Children.|https://dx.doi.org/10.1016/j.eururo.2023.12.005
+Choosing immunomodulating therapies for the treatment of COVID-19: Recommendations based on placebo-controlled trial evidence.|https://dx.doi.org/10.1016/j.cmi.2023.12.028
+Scalp myiasis associated with soft tissue sarcoma lesion: a case report and review of relevant literature.|https://dx.doi.org/10.1186/s12879-023-08957-8
