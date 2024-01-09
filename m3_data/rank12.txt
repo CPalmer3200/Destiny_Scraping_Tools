@@ -1,0 +1,2 @@
+Leveraging diverse cell-death patterns to predict the clinical outcome of immune checkpoint therapy in lung adenocarcinoma: Based on muti-omics analysis and vitro assay.|https://dx.doi.org/10.32604/or.2023.031134
+Phage transcriptional regulator X (PtrX)-mediated augmentation of toxin production and virulence in Clostridioides difficile strain R20291.|https://dx.doi.org/10.1016/j.micres.2023.127576

@@ -158,3 +158,18 @@ Surface characterization and antibacterial efficiency of well-ordered TiO(2) nan
 Interplay between Staphylococcus aureus and the vaginal microbiota.|https://dx.doi.org/10.1016/j.tim.2023.12.005
 Chae-type cytochalasans from coculture of Aspergillus flavipes and Chaetomium globosum.|https://dx.doi.org/10.1016/j.phytochem.2023.113961
 A novel designed nanofibrous mat based on hydroxypropyl methyl cellulose incorporating mango peel extract for potential use in wound care system.|https://dx.doi.org/10.1016/j.ijbiomac.2023.129159
+Characterization of immunomodulating agents from Staphylococcus aureus for priming immunotherapy in triple-negative breast cancers.|https://dx.doi.org/10.1038/s41598-024-51361-8
+Altered quorum sensing and physiology of Staphylococcus aureus during spaceflight detected by multi-omics data analysis.|https://dx.doi.org/10.1038/s41526-023-00343-7
+A novel detection method based on MIRA-CRISPR/Cas13a-LFD targeting the repeated DNA sequence of Trichomonas vaginalis.|https://dx.doi.org/10.1186/s13071-023-06106-3
+Drug-free and multifunctional sodium bicarbonate/hyaluronic acid hybrid dressing for synergistic healing of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129254
+Expanded Library of Novel 2,3-Pyrrolidinedione Analogues Exhibit Anti-biofilm Activity.|https://dx.doi.org/10.1016/j.bmcl.2024.129609
+Fluorescent aptasensor for highly sensitive detection of Staphylococcus aureus based on dual-amplification strategy by integrating DNA walking and hybridization chain reaction.|https://dx.doi.org/10.1016/j.talanta.2024.125624
+Bioactive mesoporous silica nanoparticle-functionalized titanium implants with controllable antimicrobial peptide release potentiate the regulation of inflammation and osseointegration.|https://dx.doi.org/10.1016/j.biomaterials.2023.122465
+Size-Controlled Synthesis of Gold Nanoparticles Tethering Antimicrobial Peptides with Potent Broad-Spectrum Antimicrobial and Antibiofilm Activities.|https://dx.doi.org/10.1021/acs.molpharmaceut.3c00734
+Screening for antibacterial and cytotoxic activities of Sri Lankan marine sponges through microfractionation: Isolation of bromopyrrole alkaloids from Stylissa massa.|https://dx.doi.org/10.1371/journal.pone.0296404
+Investigation of the molecular basis of halogenated Schiff base derivative by combined crystallographic and computational studies.|https://dx.doi.org/10.1080/07391102.2023.2301512
+Antimicrobial flavonoid: in silico targeting Escherichia coli DNA gyrase adeptly.|https://dx.doi.org/10.1080/14786419.2023.2299320
+Bioactive, antioxidant and antimicrobial properties of chemically fingerprinted essential oils extracted from Eucalyptus globulus: in-vitro and in-silico investigations.|https://dx.doi.org/10.3389/fchem.2023.1287317
+Plectasin: from evolution to truncation, expression, and better druggability.|https://dx.doi.org/10.3389/fmicb.2023.1304825
+Diverse bacteria elicit distinct neutrophil responses in a physiologically relevant model of infection.|https://dx.doi.org/10.1016/j.isci.2023.108627
+Purification, bioactivity and application of maltobionic acid in active films.|https://dx.doi.org/10.1007/s13205-023-03879-3

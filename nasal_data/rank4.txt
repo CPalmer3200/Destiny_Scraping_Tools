@@ -75,3 +75,11 @@ Rethinking Perioperative Antibiotic Prophylaxis for Low-Risk Head and Neck Proce
 Update and Summary of the European Association of Urology/European Society of Paediatric Urology Paediatric Guidelines on Vesicoureteral Reflux in Children.|https://dx.doi.org/10.1016/j.eururo.2023.12.005
 Choosing immunomodulating therapies for the treatment of COVID-19: Recommendations based on placebo-controlled trial evidence.|https://dx.doi.org/10.1016/j.cmi.2023.12.028
 Scalp myiasis associated with soft tissue sarcoma lesion: a case report and review of relevant literature.|https://dx.doi.org/10.1186/s12879-023-08957-8
+Full-endoscopic versus microscopic spinal decompression for lumbar spinal stenosis: a systematic review & meta-analysis.|https://dx.doi.org/10.1016/j.spinee.2023.12.009
+Blood metagenomics next-generation sequencing has advantages in detecting difficult-to-cultivate pathogens, and mixed infections: results from a real-world cohort.|https://dx.doi.org/10.3389/fcimb.2023.1268281
+Multicenter study on the prevalence of colonization due to carbapenem-resistant Enterobacterales strains before and during the first year of COVID-19, Italy 2018-2020.|https://dx.doi.org/10.3389/fpubh.2023.1270924
+Postoperative Complications in Patients With the Preoperative COVID-19 Infection at King Fahad Specialist Hospital: A Retrospective Cohort Study.|https://dx.doi.org/10.7759/cureus.50037
+Bringing Enhanced Recovery After Surgery to the NICU: An Implementation Trial.|https://dx.doi.org/10.1016/j.jpedsurg.2023.11.025
+Clinical role of crosslink augmentation during short-segment posterior lumbar interbody fusion with total facetectomy: A propensity score-matched analysis.|https://dx.doi.org/10.1016/j.jocn.2023.12.023
+Belonging, endurance, and resistance: Black placemaking theory in primary care.|https://dx.doi.org/10.1016/j.socscimed.2023.116509
+Ultrasound-guided puncture drainage versus surgical incision drainage for deep neck space abscesses: a protocol for a systematic review with meta-analysis and trial sequential analysis.|https://dx.doi.org/10.1136/bmjopen-2023-077631

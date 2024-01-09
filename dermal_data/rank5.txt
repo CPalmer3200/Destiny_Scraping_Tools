@@ -1,3 +1,4 @@
 Antifungal efficacy of scorpion derived peptide K1K8 against Candida albicans in vitro and in vivo.|https://dx.doi.org/10.1016/j.toxicon.2023.107593
 Biofilms: A developmental niche for vancomycin-intermediate Staphylococcus aureus.|https://dx.doi.org/10.1016/j.meegid.2023.105545
 Microbial screening of animal skin bags used in traditional cheesemaking.|https://dx.doi.org/10.1016/j.ijfoodmicro.2023.110549
+Investigation of tryptophan to kynurenine degradation in response to interferon-γ in melanoma cell lines.|https://dx.doi.org/10.1016/j.bbrep.2023.101612

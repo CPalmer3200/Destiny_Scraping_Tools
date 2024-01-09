@@ -169,3 +169,23 @@ Clinical and microbiological profile of healthcare-associated infections in a te
 Adapting COVID-19 Contact Tracing Protocols to Accommodate Resource Constraints, Philadelphia, Pennsylvania, USA, 2021.|https://dx.doi.org/10.3201/eid3002.230988
 Public Health Impact of Paxlovid as Treatment for COVID-19, United States.|https://dx.doi.org/10.3201/eid3002.230835
 Olgotrelvir, a dual inhibitor of SARS-CoV-2 M(pro) and cathepsin L, as a standalone antiviral oral intervention candidate for COVID-19.|https://dx.doi.org/10.1016/j.medj.2023.12.004
+Alpha-synuclein dynamics bridge Type-I Interferon response and SARS-CoV-2 replication in peripheral cells.|https://dx.doi.org/10.1186/s40659-023-00482-x
+A regional genomic surveillance program is implemented to monitor the occurrence and emergence of SARS-CoV-2 variants in Yubei District, China.|https://dx.doi.org/10.1186/s12985-023-02279-6
+The effectiveness and efficiency of asymptomatic SARS-CoV-2 testing strategies for patient and healthcare workers within acute NHS hospitals during an omicron-like period.|https://dx.doi.org/10.1186/s12879-023-08948-9
+Evaluation of an outreach programme for patients with COVID-19 in an integrated healthcare delivery system: a retrospective cohort study.|https://dx.doi.org/10.1136/bmjopen-2023-073622
+Trends in inequalities in avoidable hospitalisations across the COVID-19 pandemic: a cohort study of 23.5 million people in England.|https://dx.doi.org/10.1136/bmjopen-2023-077948
+Enhanced immunity against SARS-CoV-2 in returning Chinese individuals.|https://dx.doi.org/10.1080/21645515.2023.2300208
+Video consultation in general practice during COVID-19: a register-based study in Denmark.|https://dx.doi.org/10.3399/BJGPO.2023.0208
+Novel small-molecule inhibitors of SARS-CoV-2 main protease with nanomolar antiviral potency.|https://dx.doi.org/10.1016/j.jinf.2023.12.014
+Childhood obesity and early BMI gains associated with COVID-19 in a large rural health system.|https://dx.doi.org/10.1016/j.acap.2023.12.016
+Short-term effectiveness of the XBB.1.5 updated COVID-19 vaccine against hospitalisation in Denmark: a national cohort study.|https://dx.doi.org/10.1016/S1473-3099(23)00746-6
+Key Challenges for Respiratory Virus Surveillance while Transitioning out of Acute Phase of COVID-19 Pandemic.|https://dx.doi.org/10.3201/eid3002.230768
+"Getting pregnant during COVID-19 was a big risk because getting help from the clinic was not easy": COVID-19 experiences of women and healthcare providers in Harare, Zimbabwe.|https://dx.doi.org/10.1371/journal.pgph.0002317
+Mutations accumulated in the Spike of SARS-CoV-2 Omicron allow for more efficient counteraction of the restriction factor BST2/Tetherin.|https://dx.doi.org/10.1371/journal.ppat.1011912
+Rapid assays of SARS-CoV-2 virus and noble biosensors by nanomaterials.|https://dx.doi.org/10.1186/s40580-023-00408-z
+Correction: Assessing the Implementation of an LGBTQ+ Mental Health Services Training Program to Determine Feasibility and Acceptability During the COVID-19 Pandemic.|https://dx.doi.org/10.1007/s11121-023-01634-x
+COVID-19 vaccination intention and vaccine hesitancy among citizens of the Métis Nation of Ontario.|https://dx.doi.org/10.17269/s41997-023-00836-8
+Association between occupational stress, occupational burnout, and depressive symptoms among medical staff during COVID-19: A cross-sectional study in Chongqing, China.|https://dx.doi.org/10.3233/WOR-230343
+Low-Cost Biosensor Technologies for Rapid Detection of COVID-19 and Future Pandemics.|https://dx.doi.org/10.1021/acsnano.3c01629
+Genome-wide bioinformatics analysis of human protease capacity for proteolytic cleavage of the SARS-CoV-2 spike glycoprotein.|https://dx.doi.org/10.1128/spectrum.03530-23
+How do deer respiratory epithelial cells weather the initial storm of SARS-CoV-2 WA1/2020 strain?|https://dx.doi.org/10.1128/spectrum.02524-23

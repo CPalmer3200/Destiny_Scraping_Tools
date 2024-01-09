@@ -151,3 +151,20 @@ Surgical site infection after trochanteric and subtrochanteric fractures: a sing
 The safety and feasibility of same-day discharge for the management of patients undergoing pulmonary lobectomy.|https://dx.doi.org/10.1016/j.pulmoe.2023.12.001
 Diagnosis of cystic lung diseases: a position statement from the UK Cystic Lung Disease Rare Disease Collaborative Network.|https://dx.doi.org/10.1136/thorax-2022-219738
 DAIR in treating chronic PJI after total knee arthroplasty using continuous local antibiotic perfusion therapy: a case series study.|https://dx.doi.org/10.1186/s12891-024-07165-y
+Rare post-operative intracranial abscess due to Serratia marcescens: what we can learn from it?|https://dx.doi.org/10.1186/s12879-023-08966-7
+Efficacy of single antibiotic therapy versus antibiotic combination in implant-free staphylococcal post-surgical spinal infections: a retrospective observational study.|https://dx.doi.org/10.1186/s12879-024-08977-y
+Congenital Heart Surgery Outcomes in Patients with Positive Respiratory Viral Swabs.|https://dx.doi.org/10.1016/j.jtcvs.2023.12.022
+Small bowel intussusception - aetiology & management.|https://dx.doi.org/10.1097/MOG.0000000000000994
+Activity of a foam in preventing rebound of vancomycin-resistant Enterococcus faecium-containing droplets generated from the toilet bowl.|https://dx.doi.org/10.1007/s00203-023-03775-7
+Predictive Factors for Successful Decannulation in Patients with Tracheostomies and Brain Injuries: A Systematic Review.|https://dx.doi.org/10.1007/s00455-023-10646-2
+Bladder neck contracture following transurethral surgery of prostate: a retrospective single-center study.|https://dx.doi.org/10.1007/s00345-023-04715-2
+Bilateral Combined Rhegmatogenous and Tractional Retinal Detachments Due to Persistent High-Titer Syphilis.|https://dx.doi.org/10.3928/23258160-20231023-01
+ROBOtic Care Outcomes Project (ROBOCOP) for Acute Gallbladder Pathology.|https://dx.doi.org/10.1097/TA.0000000000004240
+Repeat left ventricular-assisted device exchange and upgrade from second- to third-generation devices in a high-volume single center.|https://dx.doi.org/10.1111/aor.14710
+Clinical and technical factors in endoscopic skull base surgery associated with reconstructive success.|https://dx.doi.org/10.4193/Rhin23.267
+Clinical features relating to pneumococcal colony phase variation in hospitalized adults with pneumonia.|https://dx.doi.org/10.1099/jmm.0.001784
+HA N193D substitution in the HPAI H5N1 virus alters receptor binding affinity and enhances virulence in mammalian hosts.|https://dx.doi.org/10.1080/22221751.2024.2302854
+Giant Patent Ductus Arteriosus Aneurysm Compressing the Esophagus.|https://dx.doi.org/10.3400/avd.cr.23-00047
+Septic arthritis in the pediatric hip joint: a systematic review of diagnosis, management, and outcomes.|https://dx.doi.org/10.3389/fped.2023.1311862
+Infantile orbital abscess caused by methicillin-resistant Staphylococcus aureus: a case report and literature review.|https://dx.doi.org/10.3389/fped.2023.1272852
+Parascapular Flap for Severe Hidradenitis Suppurativa.|https://dx.doi.org/10.1159/000533387
