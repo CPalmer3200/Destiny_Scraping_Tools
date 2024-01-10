@@ -173,3 +173,19 @@ Bioactive, antioxidant and antimicrobial properties of chemically fingerprinted 
 Plectasin: from evolution to truncation, expression, and better druggability.|https://dx.doi.org/10.3389/fmicb.2023.1304825
 Diverse bacteria elicit distinct neutrophil responses in a physiologically relevant model of infection.|https://dx.doi.org/10.1016/j.isci.2023.108627
 Purification, bioactivity and application of maltobionic acid in active films.|https://dx.doi.org/10.1007/s13205-023-03879-3
+Large-scale production of myco-fabricated ZnO/MnO nanocomposite using endophytic Colonstachys rosea with its antimicrobial efficacy against human pathogens.|https://dx.doi.org/10.1038/s41598-024-51398-9
+Community-acquired Staphylococcus aureus skin and soft tissue infection risk assessment using hotspot analysis and risk maps: the case of California emergency departments.|https://dx.doi.org/10.1186/s12889-023-17336-6
+Safety and Pharmacokinetics Following Oral or Intravenous Lefamulin in Adults With Cystic Fibrosis.|https://dx.doi.org/10.1016/j.clinthera.2023.12.002
+Development and evaluation of ciprofloxacin local controlled release materials based on molecularly imprinted polymers.|https://dx.doi.org/10.1016/j.ejpb.2024.114178
+Preparation and characterizations of antibacterial poly(methyl methacrylate) bone cement via copolymerization with a quaternary ammonium monomer of dimethylaminotriclosan methacrylate.|https://dx.doi.org/10.1016/j.jmbbm.2023.106367
+The healing effect of Pseudomonas Quinolone Signal (PQS) with co-infection of Staphylococcus aureus and Pseudomonas aeruginosa: A preclinical animal co-infection model.|https://dx.doi.org/10.1016/j.jiph.2023.12.016
+Evaluation of Quatsome Morphology, Composition, and Stability for Pseudomonas aeruginosa Biofilm Eradication.|https://dx.doi.org/10.1021/acs.langmuir.3c02491
+Evaluation of Yield, Chemical Profile, and Antimicrobial Activity of Teucrium polium L. Essential Oil Used in Iranian Folk Medicine.|https://dx.doi.org/10.1007/s12010-023-04847-6
+Biological characterization and genomic analysis of a novel methicillin-resistant Staphylococcus aureus phage, SauPS-28.|https://dx.doi.org/10.1128/spectrum.00295-23
+Identification and optimization of pyridine carboxamide-based scaffold as a drug lead for Mycobacterium tuberculosis.|https://dx.doi.org/10.1128/aac.00766-23
+2D Film-Like Magnetic SERS Tag with Enhanced Capture and Detection Abilities for Immunochromatographic Diagnosis of Multiple Bacteria.|https://dx.doi.org/10.1002/smll.202310014
+Effective disinfecting of negative pressure pipelines of DCUs reduces the risk of cross infection in dental care.|https://dx.doi.org/10.1080/20002297.2023.2299538
+Properties of active packaging of PLA-PCL film integrated with chitosan as an antibacterial agent and syzygium cumini seed extract as an antioxidant agent.|https://dx.doi.org/10.1016/j.heliyon.2023.e23952
+Starch-based antibacterial food packaging with ZnO nanoparticle.|https://dx.doi.org/10.1007/s13197-023-05834-9
+Metagenomic identification of pathogens and antimicrobial-resistant genes in bacterial positive blood cultures by nanopore sequencing.|https://dx.doi.org/10.3389/fcimb.2023.1283094
+Quantification of polyprenyl diphosphates in Escherichia coli cells using high-performance liquid chromatography.|https://dx.doi.org/10.1093/bbb/zbae001

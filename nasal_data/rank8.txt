@@ -168,3 +168,21 @@ Giant Patent Ductus Arteriosus Aneurysm Compressing the Esophagus.|https://dx.do
 Septic arthritis in the pediatric hip joint: a systematic review of diagnosis, management, and outcomes.|https://dx.doi.org/10.3389/fped.2023.1311862
 Infantile orbital abscess caused by methicillin-resistant Staphylococcus aureus: a case report and literature review.|https://dx.doi.org/10.3389/fped.2023.1272852
 Parascapular Flap for Severe Hidradenitis Suppurativa.|https://dx.doi.org/10.1159/000533387
+Clinical outcomes and complications of S53P4 bioactive glass in chronic osteomyelitis and septic non-unions: a retrospective single-center study.|https://dx.doi.org/10.1007/s10096-023-04737-z
+Autogenic splenic implantation versus splenectomy in patients undergoing distal pancreatectomy for benign or low-grade malignant lesions of the distal pancreas: study protocol for a multicentre, open-label, randomized controlled trial (RESTORE).|https://dx.doi.org/10.1186/s13063-023-07714-1
+Increasing ratio of opportunistic infections associated with sunshine exposure and economic level burdening Chinese inflammatory bowel disease hospitalized patients: the first nationwide survey from 2014 to 2019.|https://dx.doi.org/10.1186/s12889-024-17635-6
+Gut Microbiota Alterations and Circulating Imidazole Propionate Levels are Associated with Obstructive Coronary Artery Disease in People Living with HIV.|https://dx.doi.org/10.1093/infdis/jiad604
+Refractory Osteomyelitis in a Military Service Member Resolved With Adjunctive Hyperbaric Oxygen Therapy.|https://dx.doi.org/10.1093/milmed/usad505
+A Cost-Effectiveness Analysis of Wittmann Patch-Assisted Abdominal Closure Compared to Planned Ventral Hernia in Management of the Open Abdomen.|https://dx.doi.org/10.1177/00031348241227214
+Effect of Volatile Anesthesia Versus Intravenous Anesthesia on Postoperative Pulmonary Complications in Patients Undergoing Minimally Invasive Esophagectomy: A Randomized Clinical Trial.|https://dx.doi.org/10.1213/ANE.0000000000006814
+Conversion of monoclonal IgG to dimeric and secretory IgA restores neutralizing ability and prevents infection of Omicron lineages.|https://dx.doi.org/10.1073/pnas.2315354120
+Outcomes of an expedited same-day discharge protocol following cardiac implantable electronic device (CIED) implantation.|https://dx.doi.org/10.1007/s10840-024-01734-w
+Management of first branchial anomalies in children: 20 years of experience.|https://dx.doi.org/10.1007/s00383-023-05615-7
+Mucosal correlates of protection after influenza viral challenge of vaccinated and unvaccinated healthy volunteers.|https://dx.doi.org/10.1128/mbio.02372-23
+Reduced olfactory performance is associated with changed microbial diversity, oralization, and accumulation of dead biomaterial in the nasal olfactory area.|https://dx.doi.org/10.1128/spectrum.01549-23
+A single centre experience on the formation of double barrelled uro-colostomy in pelvic exenteration surgery: a cohort study.|https://dx.doi.org/10.1111/ans.18856
+Outcomes of liver transplantation for hepatocellular carcinoma: Experiences from a Vietnamese center.|https://dx.doi.org/10.14701/ahbps.23-072
+Complications of ankle arthroscopy: frequency, prevention, and treatment.|https://dx.doi.org/10.1530/EOR-22-0144
+Parastomal hernia after radical cystectomy. Incidence, natural history and predictive factors - A single center study.|https://dx.doi.org/10.4081/aiua.2023.12108
+Quadruple valve replacement for patient with infective endocarditis 16 years after Fallot's Tetralogy Repair procedure: A case report.|https://dx.doi.org/10.1016/j.heliyon.2023.e23351
+Survey of exposure to stranded dolphins in Japan to investigate an outbreak of suspected infection with highly pathogenic avian influenza (H5N1) clade 2.3.4.4(b) in humans.|https://dx.doi.org/10.1016/j.nmni.2023.101214

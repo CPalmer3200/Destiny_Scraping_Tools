@@ -1,2 +1,4 @@
 Leveraging diverse cell-death patterns to predict the clinical outcome of immune checkpoint therapy in lung adenocarcinoma: Based on muti-omics analysis and vitro assay.|https://dx.doi.org/10.32604/or.2023.031134
 Phage transcriptional regulator X (PtrX)-mediated augmentation of toxin production and virulence in Clostridioides difficile strain R20291.|https://dx.doi.org/10.1016/j.micres.2023.127576
+Letter to the editor of Perfusion re: Marloes van Hoeven, et al. A comparison of continuous blood gas monitors during cardiopulmonary bypass Liva Nova B-Capta, Terumo CDI 500, Spectrum medical M4.|https://dx.doi.org/10.1177/02676591231226416
+Reduced Lattice Constant in Al-Doped LiMn(2) O(4) Nanoparticles for Boosted Electrochemical Lithium Extraction.|https://dx.doi.org/10.1002/adma.202310657

@@ -189,3 +189,23 @@ Association between occupational stress, occupational burnout, and depressive sy
 Low-Cost Biosensor Technologies for Rapid Detection of COVID-19 and Future Pandemics.|https://dx.doi.org/10.1021/acsnano.3c01629
 Genome-wide bioinformatics analysis of human protease capacity for proteolytic cleavage of the SARS-CoV-2 spike glycoprotein.|https://dx.doi.org/10.1128/spectrum.03530-23
 How do deer respiratory epithelial cells weather the initial storm of SARS-CoV-2 WA1/2020 strain?|https://dx.doi.org/10.1128/spectrum.02524-23
+Prevalence of food insecurity amid COVID-19 lockdowns and sociodemographic indicators of household vulnerability in Harar and Kersa, Ethiopia.|https://dx.doi.org/10.1186/s40795-023-00815-9
+Multiple redox switches of the SARS-CoV-2 main protease in vitro provide opportunities for drug design.|https://dx.doi.org/10.1038/s41467-023-44621-0
+Assessing COVID-related concerns and their impact on antenatal and delivery care among pregnant women living with HIV in Kenya: a brief report.|https://dx.doi.org/10.1186/s12884-023-06216-x
+Immune evasion, infectivity, and fusogenicity of SARS-CoV-2 BA.2.86 and FLip variants.|https://dx.doi.org/10.1016/j.cell.2023.12.026
+The Exercise Right for Active Ageing Study: Participation in Community-Based Exercise Classes by Older Australians During the COVID-19 Pandemic.|https://dx.doi.org/10.1123/japa.2023-0199
+Health protective behaviours during the COVID-19 pandemic: Risk adaptation or habituation?|https://dx.doi.org/10.1016/j.socscimed.2023.116531
+Nanoengineered Red Blood Cells Loaded with TMPRSS2 and Cathepsin L Inhibitors Block SARS-CoV-2 Pseudovirus Entry into Lung ACE2(+) Cells.|https://dx.doi.org/10.1002/adma.202310306
+How the COVID-19 pandemic and the health system's response reduced HIV testing and increased late diagnoses in Mexico.|https://dx.doi.org/10.1097/QAD.0000000000003833
+The Role of Social Media in COVID-19 Prevention Guidelines Knowledge, Perceptions, and Self-Reported Adherence.|https://dx.doi.org/10.2196/44395
+Combining Digital and Molecular Approaches Using Health and Alternate Data Sources in a Next-Generation Surveillance System for Anticipating Outbreaks of Pandemic Potential.|https://dx.doi.org/10.2196/47673
+Remdesivir for the Treatment of COVID-19: A Narrative Review.|https://dx.doi.org/10.1007/s40121-023-00900-3
+Effect of nasal carriage of Bacillus species on COVID-19 severity: a cross-sectional study.|https://dx.doi.org/10.1128/spectrum.01843-23
+COVID-19 and working from home-related changes in physical activity in Sydney, Australia.|https://dx.doi.org/10.1002/hpja.838
+Safety of COVID-19 Vaccination During Pregnancy and Lactation: A VigiBase Analysis.|https://dx.doi.org/10.3346/jkms.2024.39.e3
+Nasal Irrigation as a Complementary Strategy in Preventing COVID-associated Mucormycosis: Standardizing the Technique can have Far-reaching Implications.|https://dx.doi.org/10.5005/jp-journals-10024-3550
+Pediatric humoral immune responses and infection risk after severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and two-dose vaccination during SARS-CoV-2 omicron BA.5 and BN.1 variants predominance in South Korea.|https://dx.doi.org/10.3389/fimmu.2023.1306604
+Therapeutic-dose heparin in preventing COVID-19-associated acute kidney injury: What about bleeding risk?|https://dx.doi.org/10.1016/j.rpth.2023.102246
+Breakthrough infections after COVID-19 vaccinations do not elicit platelet hyperactivation and are associated with high platelet-lymphocyte and low platelet-neutrophil aggregates.|https://dx.doi.org/10.1016/j.rpth.2023.102262
+Mental Health of Healthcare Workers During the Third Wave of the COVID-19 Pandemic: Did We Forget them after the First Wave?|https://dx.doi.org/10.4103/abr.abr_439_22
+Systematic review and meta-analysis of knowledge, attitudes, and practices regarding COVID-19 among chronic disease patients: A global perspective.|https://dx.doi.org/10.1002/hsr2.1793
