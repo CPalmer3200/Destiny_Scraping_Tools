@@ -209,3 +209,16 @@ Therapeutic-dose heparin in preventing COVID-19-associated acute kidney injury: 
 Breakthrough infections after COVID-19 vaccinations do not elicit platelet hyperactivation and are associated with high platelet-lymphocyte and low platelet-neutrophil aggregates.|https://dx.doi.org/10.1016/j.rpth.2023.102262
 Mental Health of Healthcare Workers During the Third Wave of the COVID-19 Pandemic: Did We Forget them after the First Wave?|https://dx.doi.org/10.4103/abr.abr_439_22
 Systematic review and meta-analysis of knowledge, attitudes, and practices regarding COVID-19 among chronic disease patients: A global perspective.|https://dx.doi.org/10.1002/hsr2.1793
+Protective Behaviors Against COVID-19 and Related Factors in Korean Adults With Depressive Symptoms: Results From an Analysis of the 2020 Korean Community Health Survey.|https://dx.doi.org/10.30773/pi.2023.0217
+Mental health self-care during the COVID-19 pandemic: a prospective cohort study in Australia.|https://dx.doi.org/10.1186/s12889-023-17632-1
+Socioeconomic differences in dietary habits in Italy before and during COVID-19 pandemic: secondary analysis of a nationwide cross-sectional study.|https://dx.doi.org/10.1186/s12889-023-17530-6
+Incidence and prognostic significance of newly-diagnosed atrial fibrillation among older U.S. veterans hospitalized with COVID-19.|https://dx.doi.org/10.1038/s41598-024-51177-6
+Coronavirus takeover of host cell translation and intracellular antiviral response: a molecular perspective.|https://dx.doi.org/10.1038/s44318-023-00019-8
+Pathways of depressive symptoms to self-harm and suicide warning signs during COVID-19 pandemic: The role of anxiety and related distress, dysfunction and somatization.|https://dx.doi.org/10.1016/j.jad.2023.12.077
+Breakthrough infections by SARS-CoV-2 variants boost cross-reactive hybrid immune responses in mRNA-vaccinated Golden Syrian hamsters.|https://dx.doi.org/10.1371/journal.ppat.1011805
+Impact of the Covid-19 pandemic and lockdowns on the education and mental health of physiotherapy students in France: a descriptive cross-sectional study with national online survey.|https://dx.doi.org/10.2340/jrm.v56.18463
+Epidemiological characteristics of respiratory syncytial virus infection in pediatric patients before, during the COVID-19 pandemic and after easing of COVID-19 restrictive measures in China.|https://dx.doi.org/10.1002/jmv.29374
+Mucormycosis in COVID-19 patients - A case series from a dental college in South India.|https://dx.doi.org/10.4103/ijdr.ijdr_732_22
+Effectiveness of Drug Repurposing and Natural Products Against SARS-CoV-2: A Comprehensive Review.|https://dx.doi.org/10.2147/CPAA.S429064
+A Qualitative Exploration of Intimate Partner Violence Among HIV/TB Coinfected Persons With Problematic Alcohol Use Participating in an Incentive-Based Alcohol/Medication Adherence Intervention in Uganda During COVID-19.|https://dx.doi.org/10.1177/10778012231225229
+Social support buffers the impact of pregnancy stress on perceptions of parent-infant closeness during the COVID-19 pandemic.|https://dx.doi.org/10.1002/imhj.22096

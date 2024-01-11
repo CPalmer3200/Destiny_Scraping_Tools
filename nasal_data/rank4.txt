@@ -89,3 +89,9 @@ An overview on the types, applications and health implications of fat replacers.
 Rabies experts on demand: A cross-sectional study describing the use of a rabies telehealth service.|https://dx.doi.org/10.1002/puh2.109
 Etiquette of the antibiotic decision-making process for surgical prophylaxis in Ethiopia: a triangulated ethnographic study.|https://dx.doi.org/10.3389/fpubh.2023.1251692
 Clinical Outcomes of Breast-Conserving Surgery with Synchronous 50-kV X-ray Intraoperative Partial Breast Irradiation in Patients Aged 64 Years or Older with Low-Risk Breast Cancer.|https://dx.doi.org/10.1177/11782234231224267
+Attenuation of orthodontically induced inflammatory root resorption by using low-intensity pulsed ultrasound as a therapeutic modality- a systematic review.|https://dx.doi.org/10.1186/s12903-023-03741-1
+Utilization of cannulated screw fixation of Jail and TiRobot-assisted percutaneous indirect reduction technique for AO/OTA type 41B2 tibial plateau fracture treatment.|https://dx.doi.org/10.1016/j.knee.2023.12.013
+Effectiveness of wearing masks during the COVID-19 outbreak in cohort and case-control studies: a systematic review and meta-analysis.|https://dx.doi.org/10.36416/1806-3756/e20230003
+An observational cohort study on the effects of extended postoperative antibiotic prophylaxis on surgical-site infections in low- and middle-income countries.|https://dx.doi.org/10.1093/bjs/znad438
+25-Year fatal workplace suicide trends in North Carolina: 1992-2017.|https://dx.doi.org/10.1002/ajim.23563
+Chikungunya infection in returned travellers: results from the GEOSENTINEL network, 2005-2020.|https://dx.doi.org/10.1093/jtm/taae005

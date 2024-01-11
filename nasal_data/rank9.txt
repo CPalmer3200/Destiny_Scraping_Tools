@@ -189,3 +189,20 @@ Properties of active packaging of PLA-PCL film integrated with chitosan as an an
 Starch-based antibacterial food packaging with ZnO nanoparticle.|https://dx.doi.org/10.1007/s13197-023-05834-9
 Metagenomic identification of pathogens and antimicrobial-resistant genes in bacterial positive blood cultures by nanopore sequencing.|https://dx.doi.org/10.3389/fcimb.2023.1283094
 Quantification of polyprenyl diphosphates in Escherichia coli cells using high-performance liquid chromatography.|https://dx.doi.org/10.1093/bbb/zbae001
+Precezomycin, a novel antibiotic biosynthetic precursor of cezomycin, from actinomycete Kitasatospora putterlickiae 10-13.|https://dx.doi.org/10.1038/s41429-023-00695-y
+Machine learning assisted rational design of antimicrobial peptides based on human endogenous proteins and their applications for cosmetic preservative system optimization.|https://dx.doi.org/10.1038/s41598-023-50832-8
+Determination of the Optimal Concentration of Natural Antimicrobial Agents in Marinade Sauce for Meal Kits.|https://dx.doi.org/10.1016/j.jfp.2024.100218
+Line image sensor-based colony fingerprinting system for rapid pathogenic bacteria identification.|https://dx.doi.org/10.1016/j.bios.2024.116006
+Double phage displayed peptides co-targeting-based biosensor with signal enhancement activity for colorimetric detection of Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bios.2024.116005
+Functionally multifaceted alginate/curdlan/agarose-based bilayer fibro-porous dressings for addressing full-thickness diabetic wounds.|https://dx.doi.org/10.1016/j.bioadv.2023.213757
+Efficacy of EDTA-NS irrigation in eradicating Staphylococcus aureus biofilm-associated infection.|https://dx.doi.org/10.1302/2046-3758.131.BJR-2023-0141.R1
+Biosurfactant-capped CuO nanoparticles coated cotton/polypropylene fabrics toward antimicrobial textile applications.|https://dx.doi.org/10.1088/1361-6528/ad1d15
+Preventing Static Biofilm Formation of Staphylococcus aureus on Different Types of Surfaces Using Microbubbles.|https://dx.doi.org/10.1021/acs.langmuir.3c02773
+Comparative Analysis of Antibacterial and Wound Healing Activities of Chitosan and Povidone-Iodine-Based Hydrogels.|https://dx.doi.org/10.1097/SAP.0000000000003755
+Antimicrobial polyacrylic acid/tannic acid hydrogel wound dressing facilitating full-thickness skin healing.|https://dx.doi.org/10.1080/09205063.2023.2300493
+Lactobacillus reuteri inhibits Staphylococcus aureus-induced mastitis by regulating oxytocin releasing and gut microbiota in mice.|https://dx.doi.org/10.1096/fj.202301961R
+Staphylococcus argenteus bacteremia in the Republic of Korea.|https://dx.doi.org/10.1128/spectrum.02798-23
+Bioactive compounds of honey from different regions of Brazil: the effect of simulated gastrointestinal digestion on antioxidant and antimicrobial properties.|https://dx.doi.org/10.1039/d3fo03620k
+Qualitative and quantitative rapid detection of VOCs differentially released by VAP-associated bacteria using PTR-MS and FGC-PTR-MS.|https://dx.doi.org/10.1039/d3an02011h
+Multifunctional Suture Coating for Combating Surgical Site Infections and Mitigating Associated Complications.|https://dx.doi.org/10.1021/acsabm.3c01060
+Mid term outcomes of a novel metaphyseal porous titanium cone in revision total knee arthroplasty.|https://dx.doi.org/10.1016/j.jcot.2023.102282

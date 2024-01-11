@@ -9,3 +9,5 @@ Polymyxin B and ethylenediaminetetraacetic acid act synergistically against Pseu
 Investigating the relationship between muscle mass and nasal Methicillin-Resistant Staphylococcus aureus (MRSA) colonization: Analysis of the National Health and Nutrition Examination Survey (NHANES).|https://dx.doi.org/10.1371/journal.pone.0294400
 Temperature influences commensal-pathogen dynamics in a nasal epithelial cell co-culture model.|https://dx.doi.org/10.1128/msphere.00589-23
 The risk of multiple sclerosis on the Orkney islands. A review of the search for distinctively Orcadian risks, with a hypothesis for further investigations.|https://dx.doi.org/10.1016/j.msard.2023.105386
+Akt activator SC79 stimulates antibacterial nitric oxide generation in human nasal epithelial cells in vitro.|https://dx.doi.org/10.1002/alr.23318
+Comparison of risk factors for Methicillin Resistant Staphylococcus aureus (MRSA) colonization in healthy newborns, born to mothers with and without MRSA colonization.|https://dx.doi.org/10.12669/pjms.40.1.7703

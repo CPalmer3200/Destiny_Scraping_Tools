@@ -186,3 +186,22 @@ Complications of ankle arthroscopy: frequency, prevention, and treatment.|https:
 Parastomal hernia after radical cystectomy. Incidence, natural history and predictive factors - A single center study.|https://dx.doi.org/10.4081/aiua.2023.12108
 Quadruple valve replacement for patient with infective endocarditis 16 years after Fallot's Tetralogy Repair procedure: A case report.|https://dx.doi.org/10.1016/j.heliyon.2023.e23351
 Survey of exposure to stranded dolphins in Japan to investigate an outbreak of suspected infection with highly pathogenic avian influenza (H5N1) clade 2.3.4.4(b) in humans.|https://dx.doi.org/10.1016/j.nmni.2023.101214
+Infectious complications following major heart surgery from the day of the surgery to hospital discharge.|https://dx.doi.org/10.1186/s12879-023-08972-9
+Minimal-invasive ileal ureter replacement for the management of multiple ureteral polyps: the initial experience.|https://dx.doi.org/10.1007/s11255-023-03850-4
+The Royal College of Ophthalmologists' National Ophthalmology Database Study of Cataract Surgery: Report 13, monitoring post-cataract surgery endophthalmitis rates-the rule of X.|https://dx.doi.org/10.1038/s41433-023-02917-x
+Successful surgical treatment of an intraoperatively ruptured lung abscess rupture using free pericardial fat implantation: a case report.|https://dx.doi.org/10.1186/s40792-024-01814-z
+Single-cell sequencing reveals increased LAMB3-positive basal keratinocytes and ZNF90-positive fibroblasts in autologous cultured epithelium.|https://dx.doi.org/10.1038/s42003-023-05747-5
+Breaking barriers in Candida spp. detection with Electronic Noses and artificial intelligence.|https://dx.doi.org/10.1038/s41598-023-50332-9
+Anterior, Posterior and Anterior-Posterior Approaches for the Treatment of Thoracolumbar Burst Fractures: A Network Meta-Analysis of Randomized Controlled Trials.|https://dx.doi.org/10.1080/08941939.2024.2301794
+Nasal lavage microbiome, but not nasal swab microbiome, correlates with sinonasal inflammation in children with cystic fibrosis.|https://dx.doi.org/10.1016/j.jcf.2023.12.011
+Reducing the incidence of surgical site infection after ventral hernia repair: Outcomes from the RINSE randomized control trial.|https://dx.doi.org/10.1016/j.amjsurg.2024.01.004
+Low-Dose vs Standard-Dose Valganciclovir for Cytomegalovirus Prophylaxis After Kidney Transplantation: A Single-Center Retrospective Analysis.|https://dx.doi.org/10.1016/j.transproceed.2023.11.021
+A 39-Year-Old Man With Refractory Chronic Cough Accompanied by Regurgitation and Belching.|https://dx.doi.org/10.1016/j.chest.2023.07.001
+Assessing the impact of diverse mask types on COPD patients: a randomised controlled trial study protocol.|https://dx.doi.org/10.1136/bmjopen-2023-080721
+Serotype 3 Experimental Human Pneumococcal Challenge (EHPC) study protocol: dose ranging and reproducibility in a healthy volunteer population (challenge 3).|https://dx.doi.org/10.1136/bmjopen-2023-075948
+Update on the Epidemiology, Diagnosis, and Management of Infective Endocarditis: A Review.|https://dx.doi.org/10.1016/j.tcm.2024.01.001
+How to create by your own a customized hip cement mega-spacer for a hip megaprosthesis 2-stage revision surgery after oncologic limb-salvage surgery - Surgical technique and Case Report.|https://dx.doi.org/10.1016/j.recot.2024.01.002
+Information-guided Surgery Centered on Intraoperative Magnetic Resonance Imaging Guarantees Surgical Safety with Low Mortality.|https://dx.doi.org/10.2176/jns-nmc.2022-0340
+Risk Factors for Infection Recurrence After Surgical Resection of Advanced Stage Osteonecrosis of the Mandible.|https://dx.doi.org/10.1016/j.joms.2024.01.001
+Endoscopic endonasal surgery of Rathke's cleft cysts-- preoperative imaging evaluation, personalized removal and multilevel sellar floor reconstruction.|https://dx.doi.org/10.1016/j.clineuro.2023.108111
+Arthroscopically assisted closed reduction for displaced lateral humeral condyle fractures over 4 mm in children.|https://dx.doi.org/10.1016/j.injury.2023.111309

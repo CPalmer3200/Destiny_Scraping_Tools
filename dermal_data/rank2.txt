@@ -5,3 +5,7 @@ Comorbid status in patients with osteomyelitis is associated with long-term inci
 Comparative study on the efficacy of PRP gel and UC-MSCs gel as adjuvant therapies in the treatment of DFU wounds.|https://dx.doi.org/10.1111/srt.13549
 P. aeruginosa interactions with other microbes in biofilms during co-infection.|https://dx.doi.org/10.3934/microbiol.2023032
 Proportion of toxin and non-toxin virulence factors of Staphylococcus aureus isolates from diabetic foot infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12866-023-03142-y
+Smart Nanofibrous Hydrogel Wound Dressings for Dynamic Infection Diagnosis and Control: Soft but Functionally Rigid.|https://dx.doi.org/10.1021/acsabm.3c01000
+Leg dystrophic calcification as a consequence of chronic diabetic foot infection: a case report.|https://dx.doi.org/10.12968/jowc.2024.33.1.66
+An effective treatment for diabetic foot necrosis with traditional Chinese and Western medicine: a case report.|https://dx.doi.org/10.12968/jowc.2024.33.1.22
+The role of bone scintigraphy in the follow-up of patients with dirty bone margins after conservative surgery for diabetes-related foot osteomyelitis.|https://dx.doi.org/10.1111/dme.15284

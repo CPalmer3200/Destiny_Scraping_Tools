@@ -11,3 +11,6 @@ Drug-free and multifunctional sodium bicarbonate/hyaluronic acid hybrid dressing
 In vitro evaluation of nanocomposites of linseed mucilage and k-carrageenan loaded with Achyrocline satureioides nanoemulsion: a gradual-release candidate of antimicrobials for the treatment of bovine mastitis.|https://dx.doi.org/10.1017/S002202992300064X
 Phosvitin-based hydrogels prepared in AmimCl under magnetic field treatment: Structural characteristics, biological functions, and application in skin wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129224
 Preparation and evaluation of blend polymer films for wound dressing using vancomycin-loaded polycaprolactone and carboxymethyl cellulose via crosslinking methods: Effect of mechanical strength, antibacterial activity, and cytotoxicity.|https://dx.doi.org/10.1016/j.jmbbm.2023.106339
+Functionally multifaceted alginate/curdlan/agarose-based bilayer fibro-porous dressings for addressing full-thickness diabetic wounds.|https://dx.doi.org/10.1016/j.bioadv.2023.213757
+Comparative Analysis of Antibacterial and Wound Healing Activities of Chitosan and Povidone-Iodine-Based Hydrogels.|https://dx.doi.org/10.1097/SAP.0000000000003755
+Antimicrobial polyacrylic acid/tannic acid hydrogel wound dressing facilitating full-thickness skin healing.|https://dx.doi.org/10.1080/09205063.2023.2300493
