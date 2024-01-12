@@ -1,2 +1,5 @@
 The Staphylococcus aureus CamS lipoprotein is a repressor of toxin production that shapes host-pathogen interaction.|https://dx.doi.org/10.1371/journal.pbio.3002451
 The importance of the bacterial spectrum in the clinical diagnostics and management of patients with spontaneous pyogenic spondylodiscitis and isolated spinal epidural empyema: a 20-year cohort study at a single spine center.|https://dx.doi.org/10.1186/s12879-023-08946-x
+Metal nanoparticles as inhibitors of enzymes and toxins of multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.imj.2023.11.006
+Molecular Characteristics and Pathogenicity of Staphylococcus aureus Exotoxins.|https://dx.doi.org/10.3390/ijms25010395
+Community-acquired Staphylococcus aureus skin and soft tissue infection risk assessment using hotspot analysis and risk maps: the case of California emergency departments.|https://dx.doi.org/10.1186/s12889-023-17336-6

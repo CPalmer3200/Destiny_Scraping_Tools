@@ -95,3 +95,18 @@ Effectiveness of wearing masks during the COVID-19 outbreak in cohort and case-c
 An observational cohort study on the effects of extended postoperative antibiotic prophylaxis on surgical-site infections in low- and middle-income countries.|https://dx.doi.org/10.1093/bjs/znad438
 25-Year fatal workplace suicide trends in North Carolina: 1992-2017.|https://dx.doi.org/10.1002/ajim.23563
 Chikungunya infection in returned travellers: results from the GEOSENTINEL network, 2005-2020.|https://dx.doi.org/10.1093/jtm/taae005
+A comprehensive guide on the optimal timing of PCI in the setting of acute coronary syndrome: An updated meta-analysis.|https://dx.doi.org/10.1016/j.ijcard.2024.131774
+Advisory Committee on Immunization Practices Recommended Immunization Schedule for Adults Aged 19 Years or Older - United States, 2024.|https://dx.doi.org/10.15585/mmwr.mm7301a3
+Advisory Committee on Immunization Practices Recommended Immunization Schedule for Children and Adolescents Aged 18 Years or Younger - United States, 2024.|https://dx.doi.org/10.15585/mmwr.mm7301a2
+------Topical Antifungal Prescribing for Medicare Part D Beneficiaries - United States, 2021.|https://dx.doi.org/10.15585/mmwr.mm7301a1
+Recommended Adult Immunization Schedule, United States, 2024.|https://dx.doi.org/10.7326/M23-3269
+Birmingham hip resurfacing: a systematic review of outcomes at minimum 10-years follow-up.|https://dx.doi.org/10.52628/89.4.10045
+A scoping review of the management of acute mastoiditis in children: What is the best approach?|https://dx.doi.org/10.24953/turkjped.2023.320
+Development and Regulation of the Extreme Biofilm Formation of Deinococcus radiodurans R1 under Extreme Environmental Conditions.|https://dx.doi.org/10.3390/ijms25010421
+Incretin Therapies for Patients with Type 2 Diabetes and Chronic Kidney Disease.|https://dx.doi.org/10.3390/jcm13010201
+The Therapy of SARS-CoV-2 Infection in Children.|https://dx.doi.org/10.3390/jcm13010120
+B Vitamins, Glucoronolactone and the Immune System: Bioavailability, Doses and Efficiency.|https://dx.doi.org/10.3390/nu16010024
+Regeneration Membranes Loaded with Non-Antibiotic Anti-2 Microbials: A Review.|https://dx.doi.org/10.3390/polym16010095
+Preliminary Psychometric Evaluation of Novel Measures of Therapist Practice Related to LGBTQ+ Clients.|https://dx.doi.org/10.3390/healthcare12010110
+The effect of hospital caseload on perioperative mortality, morbidity and costs in bladder cancer patients undergoing radical cystectomy: results of the German nationwide inpatient data.|https://dx.doi.org/10.1007/s00345-023-04742-z
+Effects of COVID-19 Virus Infection on Pregnancy Outcomes: a Systematic Review and Meta-analysis.|https://dx.doi.org/10.33314/jnhrc.v21i02.4488

@@ -11,3 +11,4 @@ Temperature influences commensal-pathogen dynamics in a nasal epithelial cell co
 The risk of multiple sclerosis on the Orkney islands. A review of the search for distinctively Orcadian risks, with a hypothesis for further investigations.|https://dx.doi.org/10.1016/j.msard.2023.105386
 Akt activator SC79 stimulates antibacterial nitric oxide generation in human nasal epithelial cells in vitro.|https://dx.doi.org/10.1002/alr.23318
 Comparison of risk factors for Methicillin Resistant Staphylococcus aureus (MRSA) colonization in healthy newborns, born to mothers with and without MRSA colonization.|https://dx.doi.org/10.12669/pjms.40.1.7703
+Canine Staphylococcaceae circulating in a Kenyan animal shelter.|https://dx.doi.org/10.1128/spectrum.02924-23

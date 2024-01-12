@@ -2,3 +2,6 @@ Durability and outcomes of fecal microbiota transplantation for recurrent Clostr
 Clostridioides difficile infections, recurrences, and clinical outcomes in real-world settings from 2015-2019: The RECUR England study.|https://dx.doi.org/10.1016/j.ijid.2024.01.002
 Dissecting mechanisms of fecal microbiota transplantation efficacy in disease.|https://dx.doi.org/10.1016/j.molmed.2023.12.005
 Oral Antibiotics for Treatment of Gram-Negative Bacteremia in Solid Organ Transplant Recipients: A Propensity Score Weighted Retrospective Observational Study.|https://dx.doi.org/10.1093/cid/ciae007
+Comparative Effectiveness of Fidaxomicin vs Vancomycin in Populations With Immunocompromising Conditions for the Treatment of Clostridioides difficile Infection: A Single-Center Study.|https://dx.doi.org/10.1093/ofid/ofad622
+Unlocking Bevacizumab's Potential: rCBV(max) as a Predictive Biomarker for Enhanced Survival in Glioblastoma IDH-Wildtype Patients.|https://dx.doi.org/10.3390/cancers16010161
+Clostridioides difficile Infection in Hospitalized Patients-A Retrospective Epidemiological Study.|https://dx.doi.org/10.3390/healthcare12010076

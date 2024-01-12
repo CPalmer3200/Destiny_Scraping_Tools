@@ -222,3 +222,23 @@ Mucormycosis in COVID-19 patients - A case series from a dental college in South
 Effectiveness of Drug Repurposing and Natural Products Against SARS-CoV-2: A Comprehensive Review.|https://dx.doi.org/10.2147/CPAA.S429064
 A Qualitative Exploration of Intimate Partner Violence Among HIV/TB Coinfected Persons With Problematic Alcohol Use Participating in an Incentive-Based Alcohol/Medication Adherence Intervention in Uganda During COVID-19.|https://dx.doi.org/10.1177/10778012231225229
 Social support buffers the impact of pregnancy stress on perceptions of parent-infant closeness during the COVID-19 pandemic.|https://dx.doi.org/10.1002/imhj.22096
+A comprehensive review on immunogen and immune-response proteins of SARS-CoV-2 and their applications in prevention, diagnosis, and treatment of COVID-19.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129284
+TXM peptides inhibit SARS-CoV-2 infection, syncytia formation, and lower inflammatory consequences.|https://dx.doi.org/10.1016/j.antiviral.2024.105806
+First responders during COVID-19: Career calling, PTSD, and work self-efficacy.|https://dx.doi.org/10.1016/j.amepre.2024.01.001
+Accelarated immune ageing is associated with COVID-19 disease severity.|https://dx.doi.org/10.1186/s12979-023-00406-z
+The burden of persistent symptoms after COVID-19 (long COVID): a meta-analysis of controlled studies in children and adults.|https://dx.doi.org/10.1186/s12985-024-02284-3
+Autoimmune disorders reported following COVID-19 vaccination: A disproportionality analysis using the WHO database.|https://dx.doi.org/10.1007/s00228-023-03618-w
+Measurement of IFN-γ and IL-2 for the assessment of the cellular immunity against SARS-CoV-2.|https://dx.doi.org/10.1038/s41598-024-51505-w
+COVID-19 Information, Trust, and Risk Perception Across Diverse Communities in the United States: Initial Findings from a Multistate Community Engagement Alliance (CEAL).|https://dx.doi.org/10.2105/AJPH.2023.307504
+Effectiveness of Community-Engaged Research Strategies in Increasing COVID-19 Vaccinations in Targeted Communities: The Community Engagement Alliance (CEAL) Regional Teams.|https://dx.doi.org/10.2105/AJPH.2023.307517
+The impact of government pandemic policies on the vulnerability of healthcare workers to SARS-CoV-2 infection and mortality in Jakarta Province, Indonesia.|https://dx.doi.org/10.1080/07853890.2023.2293306
+Factors associated with COVID-19 vaccine receipt among mobile phone users in Malawi: Findings from a national mobile-based syndromic surveillance survey, July 2021-April 2022.|https://dx.doi.org/10.1371/journal.pgph.0002722
+Effectiveness of Bivalent mRNA COVID-19 Vaccines in Preventing COVID-19-Related Thromboembolic Events Among Medicare Enrollees Aged ≥65 Years and Those with End Stage Renal Disease - United States, September 2022-March 2023.|https://dx.doi.org/10.15585/mmwr.mm7301a4
+Novel Omicron Variants Enhance Anchored Recognition of TMEM106B: A New Pathway for SARS-CoV-2 Cellular Invasion.|https://dx.doi.org/10.1021/acs.jpclett.3c03296
+The Effect of Telehealth on Patterns of Health Care Utilization and Medication Prescription in Patients with Diabetes or Hypertension During COVID-19: A Nationwide Study.|https://dx.doi.org/10.1089/tmj.2023.0466
+COVID-19 in Female and Male Athletes: Symptoms, Clinical Findings, Outcome, and Prolonged Exercise Intolerance-A Prospective, Observational, Multicenter Cohort Study (CoSmo-S).|https://dx.doi.org/10.1007/s40279-023-01976-0
+NT-proBNP course during MIS-C post-COVID-19: an observational study.|https://dx.doi.org/10.1007/s00431-023-05353-x
+Changes in dental visits and oral health for children by race and ethnicity during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.adaj.2023.11.005
+Harnessing preexisting influenza virus-specific immunity increases antibody responses against SARS-CoV-2.|https://dx.doi.org/10.1128/jvi.01571-23
+Pivoting Continuing Professional Development During the COVID-19 Pandemic: A Narrative Scoping Review of Adaptations and Innovations.|https://dx.doi.org/10.1097/CEH.0000000000000539
+Surveillance for Unexplained Deaths of Possible Infectious Etiologies During the COVID-19 Pandemic-Minnesota, 2020-2021.|https://dx.doi.org/10.1177/00333549231218283

@@ -205,3 +205,20 @@ Information-guided Surgery Centered on Intraoperative Magnetic Resonance Imaging
 Risk Factors for Infection Recurrence After Surgical Resection of Advanced Stage Osteonecrosis of the Mandible.|https://dx.doi.org/10.1016/j.joms.2024.01.001
 Endoscopic endonasal surgery of Rathke's cleft cysts-- preoperative imaging evaluation, personalized removal and multilevel sellar floor reconstruction.|https://dx.doi.org/10.1016/j.clineuro.2023.108111
 Arthroscopically assisted closed reduction for displaced lateral humeral condyle fractures over 4 mm in children.|https://dx.doi.org/10.1016/j.injury.2023.111309
+Long-Term Survivability of Surgical and Non-Surgical Management of Spinal Epidural Abscess.|https://dx.doi.org/10.1016/j.spinee.2023.12.008
+Radiological findings associated with postoperative wound infection after extraction of impacted mandibular third molar: a retrospective study.|https://dx.doi.org/10.1016/j.jormas.2024.101761
+Increased Rate of Complications Following Total Knee Arthroplasty in Patients Who Have Polymyositis.|https://dx.doi.org/10.1016/j.arth.2024.01.006
+Spondylodiscitis following perforated acute appendicitis in a 14-year-old female: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109184
+The diagnostic accuracy of the ID NOW COVID-19 point of care test in acute hospital admissions.|https://dx.doi.org/10.1016/j.jcv.2023.105634
+Increased electrode impedance as an indicator for early detection of deep brain stimulation (DBS) hardware Infection: Clinical experience and in vitro study.|https://dx.doi.org/10.1016/j.jocn.2024.01.004
+Minimally invasive surgery in medial displacement calcaneal osteotomy for acquired flatfoot deformity: a systematic review of the literature.|https://dx.doi.org/10.1007/s00402-023-05188-z
+Outcomes after ventral hernia repair using the extended totally extraperitoneal approach: Initial experience from the Philippines.|https://dx.doi.org/10.1111/ases.13278
+Efficacy and Reliability of T-Cell-Depleted Haploidentical Stem Cell Transplantation in Hematologic Disorders: A Retrospective Study.|https://dx.doi.org/10.1016/j.transproceed.2023.11.003
+Upconversion 3d Bioprinting for Noninvasive In-Vivo Moulding.|https://dx.doi.org/10.1002/adma.202310617
+Retention of Antibiotic Cement Delivery Implants in Orthopedic Infection Associated with United Fractures Does Not Increase Recurrence Risk.|https://dx.doi.org/10.1097/BOT.0000000000002771
+Does Topical Vancomycin Powder Use in Fracture Surgery Change Bacteriology and Antibiotic Susceptibilities? An Analysis of the VANCO Trial.|https://dx.doi.org/10.1097/BOT.0000000000002767
+Benefits of negative pressure wound therapy with fat migration during revisional total hip arthroplasty in an obese patient: A case report.|https://dx.doi.org/10.1097/MD.0000000000036726
+Analysis of postoperative complications in children treated for moderate to severe anal atresia with laparoscopic versus open surgery: A retrospective study.|https://dx.doi.org/10.1097/MD.0000000000036744
+Factors predicting indistinct plane of surgical capsule in patients underwent HoLEP procedures.|https://dx.doi.org/10.1007/s00345-023-04736-x
+Understanding the significance of microbiota recovered from health care surfaces.|https://dx.doi.org/10.1016/j.ajic.2023.11.006
+HBV infection effects prognosis and activates the immune response in intrahepatic cholangiocarcinoma.|https://dx.doi.org/10.1097/HC9.0000000000000360

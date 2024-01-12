@@ -206,3 +206,19 @@ Bioactive compounds of honey from different regions of Brazil: the effect of sim
 Qualitative and quantitative rapid detection of VOCs differentially released by VAP-associated bacteria using PTR-MS and FGC-PTR-MS.|https://dx.doi.org/10.1039/d3an02011h
 Multifunctional Suture Coating for Combating Surgical Site Infections and Mitigating Associated Complications.|https://dx.doi.org/10.1021/acsabm.3c01060
 Mid term outcomes of a novel metaphyseal porous titanium cone in revision total knee arthroplasty.|https://dx.doi.org/10.1016/j.jcot.2023.102282
+Dalbavancin real-life utilization among diabetic patients suffering from infections in Italy and Spain: the DALBADIA retrospective cohort study.|https://dx.doi.org/10.1016/j.jgar.2023.11.015
+Better than being aPARt: S. aureus itches to get close to sensory neurons.|https://dx.doi.org/10.1016/j.chom.2023.12.011
+Supramolecular Assembly Based on Calix[4]arene and Aggregation-Induced Emission Photosensitizer for Phototherapy of Drug-Resistant Bacteria and Skin Flap Transplantation.|https://dx.doi.org/10.1002/adhm.202303336
+Platanosides from Platanus × acerifolia: New molecules, SAR, and target validation of a strong lead for drug-resistant bacterial infections and the associated sepsis.|https://dx.doi.org/10.1016/j.bioorg.2024.107103
+Isothermal titration calorimetry analysis of the binding between the maltodextrin binding protein malE of Staphylococcus aureus with maltodextrins of various lengths.|https://dx.doi.org/10.1016/j.bbrc.2023.149467
+Corrigendum to "Characterization of KMSP1, a newly isolated virulent bacteriophage infecting Staphylococcus aureus, and its application to dairy products" [International Journal of Food Microbiology 394 (2023) 110119].|https://dx.doi.org/10.1016/j.ijfoodmicro.2024.110558
+mRNA-Laden Lipid-Nanoparticle-Enabled in Situ CAR-Macrophage Engineering for the Eradication of Multidrug-Resistant Bacteria in a Sepsis Mouse Model.|https://dx.doi.org/10.1021/acsnano.3c10109
+GSH/pH Cascade-Responsive Nanoparticles Eliminate Methicillin-Resistant Staphylococcus aureus Biofilm via Synergistic Photo-Chemo Therapy.|https://dx.doi.org/10.1021/acsami.3c17198
+Antimicrobial resistance patterns of WHO priority pathogens isolated in hospitalized patients in Japan: A tertiary center observational study.|https://dx.doi.org/10.1371/journal.pone.0294229
+Total Synthesis of Dragmacidins G and H.|https://dx.doi.org/10.1021/acs.orglett.3c04039
+Koningipyridines A and B, two nitrogen-containing polyketides from the fungus Trichoderma koningiopsis SC-5.|https://dx.doi.org/10.1007/s13659-024-00429-z
+Population Analysis of Daptomycin-non-Susceptible Methicillin-Resistant Staphylococcus aureus Reveals the Presence of Variants That Contribute to Daptomycin Resistance.|https://dx.doi.org/10.1007/s00284-023-03579-4
+Inflammatory rebound and postinfectious inflammatory response in children with pleural infection: A single-center retrospective study.|https://dx.doi.org/10.1002/ppul.26859
+Approaches to combating methicillin-resistant staphylococcus aureus (MRSA) biofilm infections.|https://dx.doi.org/10.1080/13543784.2024.2305136
+Antibacterial and osteoinductive properties of wollastonite scaffolds impregnated with propolis produced by additive manufacturing.|https://dx.doi.org/10.1016/j.heliyon.2023.e23955
+Extraction of nano-crystalline cellulose for development of aerogel: Structural, morphological and antibacterial analysis.|https://dx.doi.org/10.1016/j.heliyon.2023.e23846

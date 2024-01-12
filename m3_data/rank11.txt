@@ -15,3 +15,14 @@ Vancomycin Resistant Enterococci Prevalence, Antibiotic Susceptibility Patterns 
 Enterococcus species: insights into antimicrobial resistance and whole-genome features of isolates recovered from livestock and raw meat in Ghana.|https://dx.doi.org/10.3389/fmicb.2023.1254896
 Therapeutic drug monitoring of vancomycin in the case of augmented renal clearance: a case report of a paediatric patient.|https://dx.doi.org/10.1136/ejhpharm-2023-003982
 In-Office Vitreous Biopsy With a Vitreous Cutter and Manual Actuation.|https://dx.doi.org/10.3928/23258160-20231206-04
+Citrobacter koseri, an unusual exogenous endoftalmitis.|https://dx.doi.org/10.1016/j.oftale.2024.01.002
+Clinical and microbiological characteristics of Ruminococcus gnavus bacteremia and intra-abdominal infection.|https://dx.doi.org/10.1016/j.anaerobe.2024.102818
+Spondylodiscitis following perforated acute appendicitis in a 14-year-old female: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109184
+GSH/pH Cascade-Responsive Nanoparticles Eliminate Methicillin-Resistant Staphylococcus aureus Biofilm via Synergistic Photo-Chemo Therapy.|https://dx.doi.org/10.1021/acsami.3c17198
+Antimicrobial resistance patterns of WHO priority pathogens isolated in hospitalized patients in Japan: A tertiary center observational study.|https://dx.doi.org/10.1371/journal.pone.0294229
+Does Topical Vancomycin Powder Use in Fracture Surgery Change Bacteriology and Antibiotic Susceptibilities? An Analysis of the VANCO Trial.|https://dx.doi.org/10.1097/BOT.0000000000002767
+Measuring and improving the timeliness of vancomycin therapeutic drug monitoring and potential patient safety impacts.|https://dx.doi.org/10.1016/j.rcsop.2023.100403
+Absence of Synergism between a Dual-AMP Biogel and Antibiotics Used as Therapeutic Agents for Diabetic Foot Infections.|https://dx.doi.org/10.3390/ijms25010407
+Biotechnological Potential and Safety Evaluation of Dextran- and Riboflavin-Producing Weisella cibaria Strains for Gluten-Free Baking.|https://dx.doi.org/10.3390/foods13010069
+A Real-World Data Derived Pharmacovigilance Assessment on Drug-Induced Nephropathy: Implication on Gaps in Patient Care.|https://dx.doi.org/10.3390/healthcare12010095
+The Impact of Metal and Heavy Metal Concentrations on Vancomycin Resistance in Staphylococcus aureus within Milk Produced by Cattle Farms and the Health Risk Assessment in Kurdistan Province, Iran.|https://dx.doi.org/10.3390/ani14010148
