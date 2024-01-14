@@ -222,3 +222,20 @@ Inflammatory rebound and postinfectious inflammatory response in children with p
 Approaches to combating methicillin-resistant staphylococcus aureus (MRSA) biofilm infections.|https://dx.doi.org/10.1080/13543784.2024.2305136
 Antibacterial and osteoinductive properties of wollastonite scaffolds impregnated with propolis produced by additive manufacturing.|https://dx.doi.org/10.1016/j.heliyon.2023.e23955
 Extraction of nano-crystalline cellulose for development of aerogel: Structural, morphological and antibacterial analysis.|https://dx.doi.org/10.1016/j.heliyon.2023.e23846
+Genetic Determinants in MRSA Carriage and Their Association with Decolonization Outcome.|https://dx.doi.org/10.1007/s00284-023-03581-w
+Defining Bacterial RNA-RNA Interactomes Using CLASH.|https://dx.doi.org/10.1007/978-1-0716-3565-0_17
+Ribosome Profiling Methods Adapted to the Study of RNA-Dependent Translation Regulation in Staphylococcus aureus.|https://dx.doi.org/10.1007/978-1-0716-3565-0_5
+RNA Extraction from Gram-Positive Bacteria Membrane Vesicles Using a Polymer-Based Precipitation Method.|https://dx.doi.org/10.1007/978-1-0716-3565-0_1
+Predictors of Comorbidity of Malaria and Septicemia in Children Living in Malaria-Endemic Communities in Nigeria.|https://dx.doi.org/10.1007/s11686-023-00781-z
+Direct growth control of antibiotic-resistant bacteria using visible-light-responsive novel photoswitchable antibiotics.|https://dx.doi.org/10.1002/chem.202303685
+Phenotypic and genotypic assessment of iron acquisition in diverse bovine-associated non-aureus staphylococcal strains.|https://dx.doi.org/10.1186/s13567-023-01260-z
+Using halofuginone-silver thermosensitive nanohydrogels with antibacterial and anti-inflammatory properties for healing wounds infected with Staphylococcus aureus.|https://dx.doi.org/10.1016/j.lfs.2024.122414
+Near-infrared-guided NO generator for combined NO/photothermal/chemodynamic therapy of bacterial infections.|https://dx.doi.org/10.1016/j.actbio.2024.01.005
+A hydrogen-bonded curdlan-chitosan/polyvinyl alcohol edible dual functional hydrogel bandage against MRSA promotes wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129351
+Levels of indicator bacteria and characteristics of foodborne pathogens from carcasses of cattle slaughterhouses in Korea.|https://dx.doi.org/10.1016/j.jfp.2024.100220
+Azadirachta indica (AI) leaf extract coated ZnO-AI nanocore-shell particles for enhanced antibacterial activity against Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1088/1748-605X/ad1df7
+Additively Manufactured SiO(2) and Cu-Added Ti Implants for Synergistic Enhancement of Bone Formation and Antibacterial Efficacy.|https://dx.doi.org/10.1021/acsami.3c14994
+Staphylococcus aureus mutants resistant to the feed-additive monensin show increased virulence and altered purine metabolism.|https://dx.doi.org/10.1128/mbio.03155-23
+Efficacy of biofilm disrupters against Candida auris and other Candida species in monomicrobial and polymicrobial biofilms.|https://dx.doi.org/10.1111/myc.13684
+Thermal-Driven Curcumin Release Film with Dual-Mode Synergistic Antibacterial Behavior for Efficient Tangerine Preservation.|https://dx.doi.org/10.1021/acs.jafc.3c07572
+Biogenic silver nanoparticles' antibacterial activity and cytotoxicity on human hepatocarcinoma cells (Huh-7).|https://dx.doi.org/10.1039/d3ra07733k

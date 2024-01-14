@@ -222,3 +222,20 @@ Analysis of postoperative complications in children treated for moderate to seve
 Factors predicting indistinct plane of surgical capsule in patients underwent HoLEP procedures.|https://dx.doi.org/10.1007/s00345-023-04736-x
 Understanding the significance of microbiota recovered from health care surfaces.|https://dx.doi.org/10.1016/j.ajic.2023.11.006
 HBV infection effects prognosis and activates the immune response in intrahepatic cholangiocarcinoma.|https://dx.doi.org/10.1097/HC9.0000000000000360
+Risk factors for postoperative complications in preterm infants with surgical necrotizing enterocolitis and associated outcomes.|https://dx.doi.org/10.3233/NPM-230076
+EPOS2020/EUFOREA expert opinion on defining disease states and therapeutic goals in CRSwNP.|https://dx.doi.org/10.4193/Rhin23.415
+Application of Kirschner wire placement guided technology in paediatric supracondylar humerus fractures.|https://dx.doi.org/10.1186/s12891-023-07160-9
+Clinical effect of nice knot-assisted minimally invasive titanium elastic nail fixation to treat Robinson 2B midshaft clavicular fracture.|https://dx.doi.org/10.1186/s12891-024-07197-4
+Preoperative Immunonutrition Significantly Reduced Surgical Site Infection After Urinary Diversion for Invasive Bladder Cancer: A Retrospective Cohort Study.|https://dx.doi.org/10.1016/j.clgc.2023.12.005
+A propensity score-matched analysis of intra- and postoperative penile prosthetic complications in the solid organ transplant population.|https://dx.doi.org/10.1093/sxmrev/qead057
+Metagenomic analysis of the ocular toxoplasmosis in children uveitis from Fayoum governorate, Egypt.|https://dx.doi.org/10.1016/j.meegid.2024.105551
+Maintenance of Surgical Optimization in Total Joint Arthroplasty Patients.|https://dx.doi.org/10.1016/j.arth.2024.01.013
+Platelet-derived extracellular vesicles are associated with kidney injury in patients with urosepsis.|https://dx.doi.org/10.1016/j.mcp.2024.101949
+The safety and accuracy of intratumoral catheter placement to infuse viral immunotherapies in children with malignant brain tumors: a multi-institutional study.|https://dx.doi.org/10.3171/2023.12.PEDS23404
+Microbial Transfer by Intermittent Catheters: An In Vitro Evaluation of Microbial Transfer in Catheter With Variable Protective Features.|https://dx.doi.org/10.1097/WON.0000000000001042
+Evaluation of the prevention effect of high-quality nursing quality control in disinfection supply center on nosocomial infection.|https://dx.doi.org/10.1097/MD.0000000000035459
+The impact of neoadjuvant chemotherapy on the clinical efficacy and serum tumor marker levels in patients undergoing radical surgery for gastric cancer.|https://dx.doi.org/10.1097/MD.0000000000036040
+Screening Candida auris through a multiplex stepwise PCR algorithm directly from clinical samples of patients suspected of otomycosis in south of Iran; Detection of five cases.|https://dx.doi.org/10.1111/myc.13686
+Transoral endoscopic thyroidectomy vestibular approach versus conventional open thyroidectomy for the treatment of benign thyroid tumours: A prospective cohort study.|https://dx.doi.org/10.4103/jmas.jmas_197_23
+Utilization and Outcomes of Roux-en-Y Gastric Bypass Surgery Following the Affordable Care Act in the United States.|https://dx.doi.org/10.1177/00031348241227190
+Intraoperative Difficulties and Postoperative Complications Associated With Cochlear Implantations: A Study From Erbil City.|https://dx.doi.org/10.7759/cureus.52106

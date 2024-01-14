@@ -26,3 +26,10 @@ Absence of Synergism between a Dual-AMP Biogel and Antibiotics Used as Therapeut
 Biotechnological Potential and Safety Evaluation of Dextran- and Riboflavin-Producing Weisella cibaria Strains for Gluten-Free Baking.|https://dx.doi.org/10.3390/foods13010069
 A Real-World Data Derived Pharmacovigilance Assessment on Drug-Induced Nephropathy: Implication on Gaps in Patient Care.|https://dx.doi.org/10.3390/healthcare12010095
 The Impact of Metal and Heavy Metal Concentrations on Vancomycin Resistance in Staphylococcus aureus within Milk Produced by Cattle Farms and the Health Risk Assessment in Kurdistan Province, Iran.|https://dx.doi.org/10.3390/ani14010148
+Detection of oxalyl-CoA decarboxylase (oxc) and formyl-CoA transferase (frc) genes in novel probiotic isolates capable of oxalate degradation in vitro.|https://dx.doi.org/10.1007/s12223-024-01128-5
+Transfer and accumulation of antibiotic resistance genes and bacterial pathogens in the mice gut due to consumption of organic foods.|https://dx.doi.org/10.1016/j.scitotenv.2023.169842
+Ecological prevalence, genetic diversity, and multidrug resistance of Salmonella enteritidis recovered from broiler and layer chicken farms.|https://dx.doi.org/10.1016/j.psj.2023.103320
+Effects of vancomycin and tobramycin on compressive and tensile strengths of antibiotic bone cement: A biomechanical study.|https://dx.doi.org/10.1016/j.jor.2023.11.064
+Prophylaxis Effect of Metronidazole Vaginal Gel in Decreasing the Risk of Surgical Site Infections after Elective Hysterectomy.|https://dx.doi.org/10.4103/jrpp.jrpp_66_21
+Masquelet Procedure for the Treatment of Intra-articular Defects of the Wrist.|https://dx.doi.org/10.1055/s-0042-1760123
+Acute Generalized Exanthematous Pustulosis in a Hemodialysis Patient.|https://dx.doi.org/10.7759/cureus.50354

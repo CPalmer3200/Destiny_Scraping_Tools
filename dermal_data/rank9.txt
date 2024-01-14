@@ -3,3 +3,4 @@ The importance of the bacterial spectrum in the clinical diagnostics and managem
 Metal nanoparticles as inhibitors of enzymes and toxins of multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.imj.2023.11.006
 Molecular Characteristics and Pathogenicity of Staphylococcus aureus Exotoxins.|https://dx.doi.org/10.3390/ijms25010395
 Community-acquired Staphylococcus aureus skin and soft tissue infection risk assessment using hotspot analysis and risk maps: the case of California emergency departments.|https://dx.doi.org/10.1186/s12889-023-17336-6
+Acute Generalized Exanthematous Pustulosis in a Hemodialysis Patient.|https://dx.doi.org/10.7759/cureus.50354

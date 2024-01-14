@@ -14,3 +14,6 @@ Preparation and evaluation of blend polymer films for wound dressing using vanco
 Functionally multifaceted alginate/curdlan/agarose-based bilayer fibro-porous dressings for addressing full-thickness diabetic wounds.|https://dx.doi.org/10.1016/j.bioadv.2023.213757
 Comparative Analysis of Antibacterial and Wound Healing Activities of Chitosan and Povidone-Iodine-Based Hydrogels.|https://dx.doi.org/10.1097/SAP.0000000000003755
 Antimicrobial polyacrylic acid/tannic acid hydrogel wound dressing facilitating full-thickness skin healing.|https://dx.doi.org/10.1080/09205063.2023.2300493
+Using halofuginone-silver thermosensitive nanohydrogels with antibacterial and anti-inflammatory properties for healing wounds infected with Staphylococcus aureus.|https://dx.doi.org/10.1016/j.lfs.2024.122414
+A hydrogen-bonded curdlan-chitosan/polyvinyl alcohol edible dual functional hydrogel bandage against MRSA promotes wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129351
+Azadirachta indica (AI) leaf extract coated ZnO-AI nanocore-shell particles for enhanced antibacterial activity against Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1088/1748-605X/ad1df7

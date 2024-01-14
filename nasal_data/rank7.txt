@@ -242,3 +242,19 @@ Changes in dental visits and oral health for children by race and ethnicity duri
 Harnessing preexisting influenza virus-specific immunity increases antibody responses against SARS-CoV-2.|https://dx.doi.org/10.1128/jvi.01571-23
 Pivoting Continuing Professional Development During the COVID-19 Pandemic: A Narrative Scoping Review of Adaptations and Innovations.|https://dx.doi.org/10.1097/CEH.0000000000000539
 Surveillance for Unexplained Deaths of Possible Infectious Etiologies During the COVID-19 Pandemic-Minnesota, 2020-2021.|https://dx.doi.org/10.1177/00333549231218283
+Perceptions of COVID-19 Risk: How Did People Adapt to the Novel Risk?|https://dx.doi.org/10.1177/0272989X231221448
+Unequal loss: Disparities in relational closeness to a COVID-19 death among U.S. older adults.|https://dx.doi.org/10.1111/jgs.18755
+De novo pemphigus vulgaris and pemphigus foliaceus development following COVID-19 infection and vaccination: Matched case-control study.|https://dx.doi.org/10.1111/jdv.19783
+Population-scale identification of differential adverse events before and during a pandemic.|https://dx.doi.org/10.1038/s43588-021-00138-4
+Comparative analysis of COVID-19 and influenza prevalence among Egyptian pilgrims returning from Hajj and Umrah in 2022: epidemiology, clinical characteristics, and genomic sequencing.|https://dx.doi.org/10.1186/s13690-023-01229-6
+Assessing the Burden and Cost of COVID-19 Across Variants in Commercially Insured Immunocompromised Populations in the United States: Updated Results and Trends from the Ongoing EPOCH-US Study.|https://dx.doi.org/10.1007/s12325-023-02754-0
+Leveraging COVID-19 Vaccine Safety Monitoring in Ethiopia and Pakistan to Enhance System-Wide Safety Surveillance.|https://dx.doi.org/10.9745/GHSP-D-23-00161
+Priority populations' experiences of isolation, quarantine and distancing for COVID-19: protocol for a longitudinal cohort study (Optimise Study).|https://dx.doi.org/10.1136/bmjopen-2023-076907
+Evaluation the efficacy of N-acetylcysteine and bromhexine compared with standard care in preventing hospitalization of outpatients with COVID-19: A double blind randomized clinical trial.|https://dx.doi.org/10.1016/j.rceng.2023.12.011
+Inactivation mechanism of cold plasma combined with 222 nm ultraviolet for spike protein and its application in disinfecting of SARS-CoV-2.|https://dx.doi.org/10.1016/j.jhazmat.2024.133458
+Risk factors for recognized and unrecognized SARS-CoV-2 infection: a seroepidemiologic analysis of the Prospective Urban Rural Epidemiology (PURE) study.|https://dx.doi.org/10.1128/spectrum.01492-23
+Impact of sex and gender on post-COVID-19 syndrome, Switzerland, 2020.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.2.2300200
+Healthcare utilization and associated factors during the first wave of COVID-19 pandemic in Ghana: A cross-sectional survey.|https://dx.doi.org/10.1002/hsr2.1805
+A Case of Nosocomial Coinfection of SARS-CoV-2 and Influenza A Virus in a Hospitalized Patient with Acute Myocardial Infarction.|https://dx.doi.org/10.7754/Clin.Lab.2023.230735
+The dark side of social capital: Geographic differences in COVID-19 preventive behaviors among older adults in South Korea.|https://dx.doi.org/10.1111/ggi.14807
+Distinct roles of vaccine induced SARS-CoV-2-specific neutralizing antibodies and T cells in protection and disease.|https://dx.doi.org/10.1016/j.ymthe.2024.01.007

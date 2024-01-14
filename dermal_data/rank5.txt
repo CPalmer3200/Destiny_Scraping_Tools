@@ -3,3 +3,6 @@ Biofilms: A developmental niche for vancomycin-intermediate Staphylococcus aureu
 Microbial screening of animal skin bags used in traditional cheesemaking.|https://dx.doi.org/10.1016/j.ijfoodmicro.2023.110549
 Investigation of tryptophan to kynurenine degradation in response to interferon-γ in melanoma cell lines.|https://dx.doi.org/10.1016/j.bbrep.2023.101612
 A self-assembling peptide inhibits the growth and function of fungi via a wrapping strategy.|https://dx.doi.org/10.1039/d3bm01845h
+Biofilm-producing antibiotic-resistant bacteria in Indian patients: a comprehensive review.|https://dx.doi.org/10.1080/03007995.2024.2305241
+HOCl-producing electrochemical bandage for treating Pseudomonas aeruginosa-infected murine wounds.|https://dx.doi.org/10.1128/aac.01216-23
+Activity of thonningianin A against Candida albicans in vitro and in vivo.|https://dx.doi.org/10.1007/s00253-023-12996-1
