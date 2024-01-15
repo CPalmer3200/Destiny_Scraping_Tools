@@ -6,3 +6,4 @@ A self-assembling peptide inhibits the growth and function of fungi via a wrappi
 Biofilm-producing antibiotic-resistant bacteria in Indian patients: a comprehensive review.|https://dx.doi.org/10.1080/03007995.2024.2305241
 HOCl-producing electrochemical bandage for treating Pseudomonas aeruginosa-infected murine wounds.|https://dx.doi.org/10.1128/aac.01216-23
 Activity of thonningianin A against Candida albicans in vitro and in vivo.|https://dx.doi.org/10.1007/s00253-023-12996-1
+Chitosan modified magnetic nanocomposite for biofilm destruction and precise photothermal/photodynamic therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129402

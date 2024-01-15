@@ -258,3 +258,15 @@ Healthcare utilization and associated factors during the first wave of COVID-19 
 A Case of Nosocomial Coinfection of SARS-CoV-2 and Influenza A Virus in a Hospitalized Patient with Acute Myocardial Infarction.|https://dx.doi.org/10.7754/Clin.Lab.2023.230735
 The dark side of social capital: Geographic differences in COVID-19 preventive behaviors among older adults in South Korea.|https://dx.doi.org/10.1111/ggi.14807
 Distinct roles of vaccine induced SARS-CoV-2-specific neutralizing antibodies and T cells in protection and disease.|https://dx.doi.org/10.1016/j.ymthe.2024.01.007
+In silico network pharmacology study on Glycyrrhiza glabra: Analyzing the immune-boosting phytochemical properties of Siddha medicinal plant against COVID-19.|https://dx.doi.org/10.1016/bs.apcsb.2023.04.003
+Vegetation net primary productivity in urban areas of China responded positively to the COVID-19 lockdown in spring 2020.|https://dx.doi.org/10.1016/j.scitotenv.2024.169998
+Abnormal Uterine Bleeding Diagnoses and Care following COVID-19 Vaccination.|https://dx.doi.org/10.1016/j.ajog.2024.01.006
+The effectiveness of COVID-19 vaccines to prevent long COVID symptoms: staggered cohort study of data from the UK, Spain, and Estonia.|https://dx.doi.org/10.1016/S2213-2600(23)00414-9
+Simultaneous detection of SARS-CoV-2 S1 protein by using flexible electrochemical and Raman enhancing biochip.|https://dx.doi.org/10.1016/j.bios.2024.116021
+A First-in-Human Randomized Study to Assess the Safety, Tolerability, Pharmacokinetics, and Neutralization Profile of Two Investigational Long-Acting Anti-SARS-CoV-2 Monoclonal Antibodies.|https://dx.doi.org/10.1007/s40121-023-00908-9
+Emerging data in COVID-19 create urgent challengers for health providers: Updates on COVID-19 vaccine and Paxlovid.|https://dx.doi.org/10.1016/j.jnma.2024.01.007
+Telehealth use in maternity care during a pandemic: A lot of bad, some good and possibility.|https://dx.doi.org/10.1016/j.wombi.2023.12.008
+Interpreting COVID-19 data from China: a call for caution - Authors' reply.|https://dx.doi.org/10.1016/S0140-6736(23)01744-0
+The Role of U.S Public Health Agencies in Addressing Long COVID.|https://dx.doi.org/10.1016/j.amepre.2024.01.004
+Impact of the COVID-19 pandemic on infection control nurses: A path analysis of job stress, burnout, and turnover intention.|https://dx.doi.org/10.1016/j.ajic.2024.01.001
+Nutritional status of elderly patients previously ill with COVID-19: Assessment with nutritional risk screening 2002 (NRS-2002) and mini nutritional assessment (MNA-sf).|https://dx.doi.org/10.1016/j.jiph.2023.11.005

@@ -11,3 +11,6 @@ An effective treatment for diabetic foot necrosis with traditional Chinese and W
 The role of bone scintigraphy in the follow-up of patients with dirty bone margins after conservative surgery for diabetes-related foot osteomyelitis.|https://dx.doi.org/10.1111/dme.15284
 Absence of Synergism between a Dual-AMP Biogel and Antibiotics Used as Therapeutic Agents for Diabetic Foot Infections.|https://dx.doi.org/10.3390/ijms25010407
 Minimally invasive offloading osteotomy in the treatment of diabetic foot ulcer: Analysis of 25 patients.|https://dx.doi.org/10.1016/j.medcli.2023.11.024
+Advanced wound healing in a patient with transmetatarsal amputation caused by severe diabetic foot infection: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109180
+Monitoring negative pressure wound therapy for diabetic foot ulcers using WhatsApp.|https://dx.doi.org/10.1016/j.jtv.2024.01.001
+Independent association of history of diabetic foot with all-cause mortality in patients with type 2 diabetes: the Renal Insufficiency And Cardiovascular Events (RIACE) Italian Multicenter Study.|https://dx.doi.org/10.1186/s12933-023-02107-9

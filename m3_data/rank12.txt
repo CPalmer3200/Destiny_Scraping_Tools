@@ -8,3 +8,5 @@ Comparing apples to manzanas and oranges to naranjas: A new measure of English-S
 Bacteroides and related species: The keystone taxa of the human gut microbiota.|https://dx.doi.org/10.1016/j.anaerobe.2024.102819
 Association Between Diverse Cell Death Patterns Related Gene Signature and Prognosis, Drug Sensitivity, and Immune Microenvironment in Glioblastoma.|https://dx.doi.org/10.1007/s12031-023-02181-4
 A coronene diimide based radical anion for detection of picomolar H(2)O(2): a biochemical assay for detection of picomolar glucose in aqueous medium.|https://dx.doi.org/10.1039/d3tb02473c
+Efficacy of probiotics or synbiotics in critically ill patients: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.clnesp.2023.11.003
+Unveiling the autoreactome: Proteome-wide immunological fingerprints reveal the promise of plasma cell depleting therapy.|https://dx.doi.org/10.1101/2023.12.19.23300188

@@ -239,3 +239,20 @@ Screening Candida auris through a multiplex stepwise PCR algorithm directly from
 Transoral endoscopic thyroidectomy vestibular approach versus conventional open thyroidectomy for the treatment of benign thyroid tumours: A prospective cohort study.|https://dx.doi.org/10.4103/jmas.jmas_197_23
 Utilization and Outcomes of Roux-en-Y Gastric Bypass Surgery Following the Affordable Care Act in the United States.|https://dx.doi.org/10.1177/00031348241227190
 Intraoperative Difficulties and Postoperative Complications Associated With Cochlear Implantations: A Study From Erbil City.|https://dx.doi.org/10.7759/cureus.52106
+Impact of pulmonary infection after radical esophagectomy on serum inflammatory markers, pulmonary function indices, and prognosis.|https://dx.doi.org/10.15537/smj.2024.45.1.20230504
+Dexamethasone-Associated Hyperglycemia is not Associated with Infectious Complications After Total Joint Arthroplasty in Diabetic Patients.|https://dx.doi.org/10.1016/j.arth.2024.01.025
+SEPTOSTOMY AND MONROPLASTY IN ISOLATED LATERAL VENTRICLE AFTER REMOVAL OF A III VENTRICLE COLLOID CYST: 2-Dimensional Operative Video.|https://dx.doi.org/10.1016/j.wneu.2024.01.046
+Advanced wound healing in a patient with transmetatarsal amputation caused by severe diabetic foot infection: A case report.|https://dx.doi.org/10.1016/j.ijscr.2023.109180
+Evaluation of systemic inflammation in seizure phenotypes following meningioma resection.|https://dx.doi.org/10.1016/j.jocn.2024.01.003
+Rare complications of infective endocarditis in marfan-like morphotype: diagnosis of multiple mitral valve aneurysms and aortic root abscess using three-dimensional transesophageal echocardiography.|https://dx.doi.org/10.1186/s12872-024-03715-3
+Monitoring negative pressure wound therapy for diabetic foot ulcers using WhatsApp.|https://dx.doi.org/10.1016/j.jtv.2024.01.001
+Comparison of Single-incision Laparoscopic Percutaneous and Cystoscope Forceps Assisted Morgagni Hernia Repair Techniques.|https://dx.doi.org/10.1016/j.jpedsurg.2023.11.015
+Prolonged Systemic Inflammatory Response Syndrome After Cardiac Surgery.|https://dx.doi.org/10.1053/j.jvca.2023.12.017
+Plus moist HS-W(®): a new nasal packing material for the middle meatus in endoscopic sinus surgery.|https://dx.doi.org/10.1007/s00405-023-08437-4
+Incidence of infection in carpal tunnel surgery with and without the use of local antibiotics.|https://dx.doi.org/10.47391/JPMA.6930
+Predictive value of SIRI and SII for metastases in RCC: a prospective clinical study.|https://dx.doi.org/10.1186/s12894-024-01401-2
+Independent association of history of diabetic foot with all-cause mortality in patients with type 2 diabetes: the Renal Insufficiency And Cardiovascular Events (RIACE) Italian Multicenter Study.|https://dx.doi.org/10.1186/s12933-023-02107-9
+Is robotic-assisted vaginectomy a better choice in vaginal high-grade squamous intraepithelial lesions than conventional laparoscopic surgery?|https://dx.doi.org/10.1186/s12905-024-02882-x
+The First Successful Living Donor Liver Transplantation for Acute-on-Chronic Liver Failure Caused by Severe Acute Necrotizing Pancreatitis: A Case Report.|https://dx.doi.org/10.1016/j.transproceed.2023.11.031
+Current trends and outcomes for unilateral groin hernia repairs in the United States using the Abdominal Core Health Quality Collaborative database: A multicenter propensity score matching analysis of 30-day and 1-year outcomes.|https://dx.doi.org/10.1016/j.surg.2023.11.033
+Should All Patients Receive Extended Oral Antibiotic Prophylaxis? Defining its Role in Patients Undergoing Primary and Aseptic Revision Total Joint Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.01.012

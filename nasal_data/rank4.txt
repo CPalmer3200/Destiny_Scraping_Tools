@@ -118,3 +118,8 @@ Framing Chronic Pain in U.S. News Coverage of the Opioid Epidemic (2012-2022).|h
 Optimization of guideline-directed medical therapies in patients with diabetes and chronic kidney disease.|https://dx.doi.org/10.1093/ckj/sfad285
 Enhancing microsurgical skills in neurosurgery residents of low-income countries: A comprehensive guide.|https://dx.doi.org/10.25259/SNI_791_2023
 Open questions on lower urinary tract infections: Results of a Delphi consensus study.|https://dx.doi.org/10.1002/nau.25385
+Trends in Extended Oral Antibiotic Prophylaxis Utilization Following Primary and Revision Total Hip Arthroplasty from 2010 to 2022.|https://dx.doi.org/10.1016/j.arth.2024.01.016
+Successful Liver Retransplantation in a Patient With Disseminated Aspergillosis and Nocardiosis: A Case Report.|https://dx.doi.org/10.1016/j.transproceed.2023.11.005
+Infection prevention - How can we prevent community transmission of CO-MRSA?|https://dx.doi.org/10.1016/j.cmi.2024.01.004
+Inactivation of Listeria monocytogenes and Salmonella spp. During Cooking of Country Ham and Fate of L. monocytogenes and Staphylococcus aureus During Storage of Country Ham Slices.|https://dx.doi.org/10.1016/j.jfp.2024.100222
+Child deaths caused by Klebsiella pneumoniae in sub-Saharan Africa and south Asia: a secondary analysis of Child Health and Mortality Prevention Surveillance (CHAMPS) data.|https://dx.doi.org/10.1016/S2666-5247(23)00290-2

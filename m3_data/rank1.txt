@@ -5,3 +5,4 @@ Oral Antibiotics for Treatment of Gram-Negative Bacteremia in Solid Organ Transp
 Comparative Effectiveness of Fidaxomicin vs Vancomycin in Populations With Immunocompromising Conditions for the Treatment of Clostridioides difficile Infection: A Single-Center Study.|https://dx.doi.org/10.1093/ofid/ofad622
 Unlocking Bevacizumab's Potential: rCBV(max) as a Predictive Biomarker for Enhanced Survival in Glioblastoma IDH-Wildtype Patients.|https://dx.doi.org/10.3390/cancers16010161
 Clostridioides difficile Infection in Hospitalized Patients-A Retrospective Epidemiological Study.|https://dx.doi.org/10.3390/healthcare12010076
+Generalisability of predictive models for Clostridioides difficile infection, severity, and recurrence at an urban safety-net hospital.|https://dx.doi.org/10.1016/j.jhin.2024.01.001

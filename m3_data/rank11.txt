@@ -33,3 +33,8 @@ Effects of vancomycin and tobramycin on compressive and tensile strengths of ant
 Prophylaxis Effect of Metronidazole Vaginal Gel in Decreasing the Risk of Surgical Site Infections after Elective Hysterectomy.|https://dx.doi.org/10.4103/jrpp.jrpp_66_21
 Masquelet Procedure for the Treatment of Intra-articular Defects of the Wrist.|https://dx.doi.org/10.1055/s-0042-1760123
 Acute Generalized Exanthematous Pustulosis in a Hemodialysis Patient.|https://dx.doi.org/10.7759/cureus.50354
+Antibiotic resistance determination using Enterococcus faecium whole-genome sequences: a diagnostic accuracy study using genotypic and phenotypic data.|https://dx.doi.org/10.1016/S2666-5247(23)00297-5
+Seraph 100 Microbind Affinity Blood Filter does not clear antibiotics: an analysis of antibiotic concentration data from PURIFY-OBS.|https://dx.doi.org/10.1159/000531951
+Loss of Mptx2 alters bacteria composition and intestinal homeostasis potentially by impairing autophagy.|https://dx.doi.org/10.1038/s42003-024-05785-7
+The anti-inflammatory and anti-apoptotic effects of Achillea millefolium L. extracts on Clostridioides difficile ribotype 001 in human intestinal epithelial cells.|https://dx.doi.org/10.1186/s12906-024-04335-2
+Simultaneous determination of amphotericin B, tobramycin and vancomycin in rabbit ocular biofluids and tissues by LC-MS/MS: An antimicrobial therapy for keratitis and its PK-PD application.|https://dx.doi.org/10.1016/j.jchromb.2023.123960

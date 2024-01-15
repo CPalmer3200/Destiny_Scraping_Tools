@@ -239,3 +239,18 @@ Staphylococcus aureus mutants resistant to the feed-additive monensin show incre
 Efficacy of biofilm disrupters against Candida auris and other Candida species in monomicrobial and polymicrobial biofilms.|https://dx.doi.org/10.1111/myc.13684
 Thermal-Driven Curcumin Release Film with Dual-Mode Synergistic Antibacterial Behavior for Efficient Tangerine Preservation.|https://dx.doi.org/10.1021/acs.jafc.3c07572
 Biogenic silver nanoparticles' antibacterial activity and cytotoxicity on human hepatocarcinoma cells (Huh-7).|https://dx.doi.org/10.1039/d3ra07733k
+[Pathogenic characteristics and influence factors of bloodstream infection-induced severe sepsis in pediatric intensive care unit].|https://dx.doi.org/10.3760/cma.j.cn112137-20230729-00115
+The biofilm proteome of Staphylococcus aureus and its implications for therapeutic interventions to biofilm-associated infections.|https://dx.doi.org/10.1016/bs.apcsb.2023.08.002
+Photocatalytic chitosan-based bactericidal films incorporated with WO(3)/AgBr/Ag and activated carbon for ethylene removal and application to banana preservation.|https://dx.doi.org/10.1016/j.carbpol.2023.121681
+In vivo and ex vivo studies support the immunostimulant and immunoprotective effect of Damiana (Turnera diffusa Willd) in Almaco Jack (Seriola rivoliana).|https://dx.doi.org/10.1016/j.fsi.2024.109369
+Perichondritis and auricular cellulitis related to piercings as first manifestation of monkeypox.|https://dx.doi.org/10.1016/j.otoeng.2024.01.001
+Staphylococcus aureus Induced Purpura Fulminans.|https://dx.doi.org/10.1016/j.amjms.2024.01.007
+Shared hairpin structure electrochemiluminescence biosensor based on Au@Ni-Co metal organic frameworks for simultaneous detection of Pb(II) and S.aureus.|https://dx.doi.org/10.1016/j.talanta.2024.125660
+In vitro influence of PEG functionalized ZnO-CuO nanocomposites on bacterial growth.|https://dx.doi.org/10.1038/s41598-024-52014-6
+Structure-activity Relationship Study to Develop Peptide Amphiphiles as Species-Specific Antimicrobials.|https://dx.doi.org/10.1002/chem.202303986
+Loss of Mptx2 alters bacteria composition and intestinal homeostasis potentially by impairing autophagy.|https://dx.doi.org/10.1038/s42003-024-05785-7
+Phytofabricated bimetallic synthesis of silver-copper nanoparticles using Aerva lanata extract to evaluate their potential cytotoxic and antimicrobial activities.|https://dx.doi.org/10.1038/s41598-024-51647-x
+Differences in antibiotic exposures and antibiotic exposure risks for methicillin-resistant Staphylococcus aureus between patients in an acute care hospital and residents in its closely-affiliated intermediate- and long-term care facilities.|https://dx.doi.org/10.1016/j.jgar.2023.12.025
+Fabrication and investigation of a pentamerous composite based on calix[4]arene functionalized graphene oxide grafted with silk fibroin, cobalt ferrite, and alginate.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129385
+Exploring sustainable food packaging: Nanocellulose composite films with enhanced mechanical strength, antibacterial performance, and biodegradability.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129200
+Ultrasound assisted electrodeposition of photocatalytic antibacterial MoS(2)-Zn coatings controlled by sodium dodecyl sulfate.|https://dx.doi.org/10.1016/j.ultsonch.2023.106749
