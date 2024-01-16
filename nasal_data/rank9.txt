@@ -254,3 +254,21 @@ Differences in antibiotic exposures and antibiotic exposure risks for methicilli
 Fabrication and investigation of a pentamerous composite based on calix[4]arene functionalized graphene oxide grafted with silk fibroin, cobalt ferrite, and alginate.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129385
 Exploring sustainable food packaging: Nanocellulose composite films with enhanced mechanical strength, antibacterial performance, and biodegradability.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129200
 Ultrasound assisted electrodeposition of photocatalytic antibacterial MoS(2)-Zn coatings controlled by sodium dodecyl sulfate.|https://dx.doi.org/10.1016/j.ultsonch.2023.106749
+Growth of methicillin-resistant Staphylococcus aureus during raw milk soft cheese-production and the inhibitory effect of starter cultures.|https://dx.doi.org/10.1016/j.fm.2023.104451
+Hedscandines A-C, three undescribed indole alkaloids from Hedyotis scandens with their anti-MRSA activity.|https://dx.doi.org/10.1016/j.phytochem.2024.113988
+Anti-adhesion multifunctional poly(lactic-co-glycolic acid)/polydimethylsiloxane wound dressing for bacterial infection monitoring and photodynamic antimicrobial therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129501
+Comparison of microbial molecular diagnosis efficiency within unstable template metagenomic DNA samples between qRT-PCR and chip-based digital PCR platforms.|https://dx.doi.org/10.5808/gi.23068
+Comparison of genotyping methods and toxin gene profiles of Staphylococcus aureus isolates from clinical specimens.|https://dx.doi.org/10.1590/1678-4685-GMB-2022-0321
+The Study of Antistaphylococcal Potential of Omiganan and Retro-Omiganan Under Flow Conditions.|https://dx.doi.org/10.1007/s12602-023-10197-w
+Novel anionic surfactant-modified chlorhexidine and its potent antimicrobial properties.|https://dx.doi.org/10.1039/d3dt02559d
+Evaluation of an Automated, Pharmacist-Driven, Antimicrobial Patient Acuity Scoring System for Hospitalized Bacteremic Patients.|https://dx.doi.org/10.1177/00185787231182567
+Impact of Limiting Vancomycin Loading Doses in Patients With Methicillin-resistant Staphylococcus aureus Infections After Hospital Protocol Revision.|https://dx.doi.org/10.1177/00185787231196435
+Zingiber officinale and thymus vulgaris extracts co-loaded polyvinyl alcohol and chitosan electrospun nanofibers for tackling infection and wound healing promotion.|https://dx.doi.org/10.1016/j.heliyon.2023.e23719
+Genotypic characterization of extended spectrum beta-lactamase in gram negative bacterial contaminants of some door handles in Olabisi Onabanjo University Teaching Hospital, Sagamu, Ogun state.|https://dx.doi.org/10.4314/ahs.v23i2.23
+Insight into the Burden of Antimicrobial Resistance among Bacterial Pathogens Isolated from Patients Admitted in ICUs of a Tertiary Care Hospital in India.|https://dx.doi.org/10.1155/2024/7403044
+Bifunctional Carbosilane Dendrimers for the Design of Multipurpose Hydrogels with Antibacterial Action.|https://dx.doi.org/10.1021/acs.chemmater.3c02027
+Examining the Association of Rare Allelic Variants in Urate Transporters SLC22A11, SLC22A13, and SLC17A1 with Hyperuricemia and Gout.|https://dx.doi.org/10.1155/2024/5930566
+Outstanding Performance of Mg/g-C(3)N(4)-Doped Al(2)O(3) Serving as a Nanocatalyst and Its Bactericidal Behavior: An In Silico Molecular Docking Study.|https://dx.doi.org/10.1021/acsomega.3c08077
+Noncytotoxic WORM Memory Using Lysozyme with Ultrahigh Stability for Transient and Sustainable Electronics Applications.|https://dx.doi.org/10.1021/acsomega.3c06229
+Expression and antimicrobial activity of the recombinant bovine lactoferricin in Pichia pastoris.|https://dx.doi.org/10.1016/j.synbio.2023.12.002
+Impact of the Hydrocarbon Chain Length of Biodegradable Ester-Bonded Cationic Gemini Surfactants on Self-Assembly, In Vitro Gene Transfection, Cytotoxicity, and Antimicrobial Activity.|https://dx.doi.org/10.1021/acs.langmuir.3c03290

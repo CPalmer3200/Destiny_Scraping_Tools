@@ -10,3 +10,5 @@ Association Between Diverse Cell Death Patterns Related Gene Signature and Progn
 A coronene diimide based radical anion for detection of picomolar H(2)O(2): a biochemical assay for detection of picomolar glucose in aqueous medium.|https://dx.doi.org/10.1039/d3tb02473c
 Efficacy of probiotics or synbiotics in critically ill patients: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.clnesp.2023.11.003
 Unveiling the autoreactome: Proteome-wide immunological fingerprints reveal the promise of plasma cell depleting therapy.|https://dx.doi.org/10.1101/2023.12.19.23300188
+Copper hexacyanoferrate/carbon sheet combination with high selectivity and capacity for copper removal by pseudocapacitance.|https://dx.doi.org/10.1016/j.jcis.2024.01.054
+Evaluation of an Automated, Pharmacist-Driven, Antimicrobial Patient Acuity Scoring System for Hospitalized Bacteremic Patients.|https://dx.doi.org/10.1177/00185787231182567

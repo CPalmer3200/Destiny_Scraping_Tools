@@ -256,3 +256,21 @@ Is robotic-assisted vaginectomy a better choice in vaginal high-grade squamous i
 The First Successful Living Donor Liver Transplantation for Acute-on-Chronic Liver Failure Caused by Severe Acute Necrotizing Pancreatitis: A Case Report.|https://dx.doi.org/10.1016/j.transproceed.2023.11.031
 Current trends and outcomes for unilateral groin hernia repairs in the United States using the Abdominal Core Health Quality Collaborative database: A multicenter propensity score matching analysis of 30-day and 1-year outcomes.|https://dx.doi.org/10.1016/j.surg.2023.11.033
 Should All Patients Receive Extended Oral Antibiotic Prophylaxis? Defining its Role in Patients Undergoing Primary and Aseptic Revision Total Joint Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.01.012
+Management of periprosthetic femoral fractures following total knee arthroplasties using locking plates or intramedullary nailing. Comparative study of 567 cases.|https://dx.doi.org/10.1016/j.otsr.2024.103814
+Effectiveness of reducing bacterial air contamination when covering sterile goods in the operating room setting: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jhin.2023.12.014
+Divergent pathogenetic outcomes in BALB/c mice following Omicron Subvariant Infection.|https://dx.doi.org/10.1016/j.virusres.2024.199319
+Debridement, Antibiotics, and Implant Retention (DAIR) Plus Offers Similar Periprosthetic Joint Infection Treatment Success Rates to Two-Stage Revision in Oncologic Megaprosthesis.|https://dx.doi.org/10.1016/j.arth.2024.01.021
+Pediatric intracranial empyema complicating otogenic and sinogenic infection.|https://dx.doi.org/10.1016/j.ijporl.2024.111860
+Periodontitis and postoperative inflammation in gastric cancer patients: Propensity score analysis.|https://dx.doi.org/10.1111/odi.14865
+The association between surgical site infection and postoperative colorectal cancer recurrence and the effect of laparoscopic surgery on prognosis.|https://dx.doi.org/10.1007/s00423-024-03234-x
+Chronic recurrent multifocal osteomyelitis of clavicle: a rare isolated location (a case report).|https://dx.doi.org/10.11604/pamj.2023.46.53.39452
+A Rare Case of Candida glabrata Cervical Spondylodiscitis.|https://dx.doi.org/10.36518/2689-0216.1577
+Hepatic pseudotumor associated with Strongyloides infection: A case report.|https://dx.doi.org/10.4254/wjh.v15.i12.1338
+Comparative analysis of hospitalizations among patients treated with hemodialysis and peritoneal dialysis in European pediatric nephrology centers: results from a prospective EPDWG/ESPN Dialysis Working Group study.|https://dx.doi.org/10.1093/ckj/sfad291
+Cutaneous cryptococcosis in an adult male of sub-saharan origin.|https://dx.doi.org/10.4103/ijstd.ijstd_58_22
+Intestinal Stomas-Current Practice and Challenges: An Institutional Review.|https://dx.doi.org/10.5005/jp-journals-10018-1404
+Penetrating Head Injury Resulting From Wild Boar Attack in Republic of Korea: A Case Report.|https://dx.doi.org/10.13004/kjnt.2023.19.e59
+Secondary central retinal artery occlusion due to rhino-orbital-cerebral mucormycosis in a diabetic patient: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001504
+Prevalence of and risk factors for surgical site infections after pancreaticoduodenectomy: a systematic review and meta-analysis.|https://dx.doi.org/10.1097/MS9.0000000000001455
+A 4-month-old male baby with an orf lesion on his nose: a rare case report.|https://dx.doi.org/10.1097/MS9.0000000000001520
+Rising meningitis in USA and Mexico: insights from the fatal outbreak.|https://dx.doi.org/10.1097/MS9.0000000000001463

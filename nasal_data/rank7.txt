@@ -270,3 +270,19 @@ Interpreting COVID-19 data from China: a call for caution - Authors' reply.|http
 The Role of U.S Public Health Agencies in Addressing Long COVID.|https://dx.doi.org/10.1016/j.amepre.2024.01.004
 Impact of the COVID-19 pandemic on infection control nurses: A path analysis of job stress, burnout, and turnover intention.|https://dx.doi.org/10.1016/j.ajic.2024.01.001
 Nutritional status of elderly patients previously ill with COVID-19: Assessment with nutritional risk screening 2002 (NRS-2002) and mini nutritional assessment (MNA-sf).|https://dx.doi.org/10.1016/j.jiph.2023.11.005
+Effect Modification of COVID-19 Symptoms on the Association between Timing of Surgery and Postoperative Complications in Pediatric Spinal Deformity: A Prospective Cohort Study.|https://dx.doi.org/10.1016/j.wneu.2024.01.053
+Factors associated with extent of COVID-19 outbreaks: a prospective study in a large hospital network.|https://dx.doi.org/10.1016/j.ajic.2024.01.004
+SARS-CoV-2 S protein activates NLRP3 inflammasome and deregulates coagulation factors in endothelial and immune cells.|https://dx.doi.org/10.1186/s12964-023-01397-6
+Stumbling blocks on the path to measles-free Nepal: impact of the COVID-19 pandemic.|https://dx.doi.org/10.1186/s41182-024-00576-6
+The causal relationship between COVID-19 and estimated glomerular filtration rate: a bidirectional Mendelian randomization study.|https://dx.doi.org/10.1186/s12882-023-03443-4
+Changing genomic epidemiology of COVID-19 in long-term care facilities during the 2020-2022 pandemic, Washington State.|https://dx.doi.org/10.1186/s12889-023-17461-2
+Correction: Comparison of clinical characteristics and outcomes of hospitalized patients with seasonal coronavirus Infection and COVID-19: a retrospective cohort study.|https://dx.doi.org/10.1186/s12879-023-08782-z
+Re: Letter to the Editor of Public Health in response to 'Effect of influenza vaccine subsidies for older adults on vaccination coverage and mortality before and during the COVID-19 pandemic: An ecological study in Japan'.|https://dx.doi.org/10.1016/j.puhe.2023.12.011
+The roles of innate and adaptive immunity in inactivated viral vaccination-mediated protection against COVID-19.|https://dx.doi.org/10.1002/ctm2.1530
+What can traditional plant therapy do in the face of Covid-19? Examples from traditional Chinese medicine.|https://dx.doi.org/10.4314/ahs.v23i2.7
+The practice of using repurposed medications as chemoprophylaxis for COVID-19 by healthcare workers in a tertiary hospital in Southern Nigeria.|https://dx.doi.org/10.4314/ahs.v23i2.5
+After action review of the COVID-19 pandemic response in North West province, South Africa.|https://dx.doi.org/10.4102/sajid.v38i1.571
+Continuous Medicaid coverage during the COVID-19 public health emergency reduced churning, but did not eliminate it.|https://dx.doi.org/10.1093/haschl/qxad055
+Moana: Alternate surveillance for COVID-19 in a Unique Population (MASC-UP).|https://dx.doi.org/10.1016/j.conctc.2023.101246
+Pityriasis Rosea and Pityriasis Rosea-Like Eruption Following COVID-19 Vaccination: A Narrative Review.|https://dx.doi.org/10.2147/CCID.S447834
+Spontaneous spinal epidural haematoma following COVID-19 vaccination: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001604

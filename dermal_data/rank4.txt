@@ -18,3 +18,6 @@ Using halofuginone-silver thermosensitive nanohydrogels with antibacterial and a
 A hydrogen-bonded curdlan-chitosan/polyvinyl alcohol edible dual functional hydrogel bandage against MRSA promotes wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129351
 Azadirachta indica (AI) leaf extract coated ZnO-AI nanocore-shell particles for enhanced antibacterial activity against Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1088/1748-605X/ad1df7
 Fabrication and investigation of a pentamerous composite based on calix[4]arene functionalized graphene oxide grafted with silk fibroin, cobalt ferrite, and alginate.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129385
+Anti-adhesion multifunctional poly(lactic-co-glycolic acid)/polydimethylsiloxane wound dressing for bacterial infection monitoring and photodynamic antimicrobial therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129501
+Zingiber officinale and thymus vulgaris extracts co-loaded polyvinyl alcohol and chitosan electrospun nanofibers for tackling infection and wound healing promotion.|https://dx.doi.org/10.1016/j.heliyon.2023.e23719
+Bifunctional Carbosilane Dendrimers for the Design of Multipurpose Hydrogels with Antibacterial Action.|https://dx.doi.org/10.1021/acs.chemmater.3c02027

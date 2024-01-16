@@ -123,3 +123,7 @@ Successful Liver Retransplantation in a Patient With Disseminated Aspergillosis 
 Infection prevention - How can we prevent community transmission of CO-MRSA?|https://dx.doi.org/10.1016/j.cmi.2024.01.004
 Inactivation of Listeria monocytogenes and Salmonella spp. During Cooking of Country Ham and Fate of L. monocytogenes and Staphylococcus aureus During Storage of Country Ham Slices.|https://dx.doi.org/10.1016/j.jfp.2024.100222
 Child deaths caused by Klebsiella pneumoniae in sub-Saharan Africa and south Asia: a secondary analysis of Child Health and Mortality Prevention Surveillance (CHAMPS) data.|https://dx.doi.org/10.1016/S2666-5247(23)00290-2
+Surgical site infections post cesarean section and associated risk factors: a retrospective case-control study at a tertiary hospital in Kenya.|https://dx.doi.org/10.1016/j.infpip.2023.100333
+Naloxone co-prescriptions for surgery patients prescribed opioids: A retrospective cohort study.|https://dx.doi.org/10.1016/j.sipas.2023.100217
+Guidance for assessment of the inflammation etiologic criterion for the GLIM diagnosis of malnutrition: A modified Delphi approach.|https://dx.doi.org/10.1002/jpen.2590
+A meta-analysis and trial sequential analysis comparing nonoperative versus operative management for uncomplicated appendicitis: a focus on randomized controlled trials.|https://dx.doi.org/10.1186/s13017-023-00531-6

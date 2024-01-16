@@ -38,3 +38,11 @@ Seraph 100 Microbind Affinity Blood Filter does not clear antibiotics: an analys
 Loss of Mptx2 alters bacteria composition and intestinal homeostasis potentially by impairing autophagy.|https://dx.doi.org/10.1038/s42003-024-05785-7
 The anti-inflammatory and anti-apoptotic effects of Achillea millefolium L. extracts on Clostridioides difficile ribotype 001 in human intestinal epithelial cells.|https://dx.doi.org/10.1186/s12906-024-04335-2
 Simultaneous determination of amphotericin B, tobramycin and vancomycin in rabbit ocular biofluids and tissues by LC-MS/MS: An antimicrobial therapy for keratitis and its PK-PD application.|https://dx.doi.org/10.1016/j.jchromb.2023.123960
+Off-label oritavancin treatment outcome and molecular characterization of a vancomycin- and linezolid-resistant Enterococcus faecium causing liver abscesses.|https://dx.doi.org/10.1093/jac/dkad410
+Metal-free carbon-based anode for electrochemical degradation of tetracycline and metronidazole in wastewater.|https://dx.doi.org/10.1016/j.chemosphere.2024.141219
+Application of artificial intelligence for the optimization of advanced oxidation processes to improve the water quality polluted with pharmaceutical compounds.|https://dx.doi.org/10.1016/j.chemosphere.2024.141216
+Efficacy of a 2-week therapy with levofloxacin concomitant versus a levofloxacin sequential regimen for Helicobacter pylori infection in the Syrian population: a study protocol for randomized controlled trial.|https://dx.doi.org/10.1186/s13063-024-07906-3
+Impact of Limiting Vancomycin Loading Doses in Patients With Methicillin-resistant Staphylococcus aureus Infections After Hospital Protocol Revision.|https://dx.doi.org/10.1177/00185787231196435
+Antibiotic Stewardship: A Handshaking Strategy Among Physicians and Pharmacists to Improve therapeutic Outcomes in Hematology-Oncology.|https://dx.doi.org/10.1177/00185787231196774
+Insight into the Burden of Antimicrobial Resistance among Bacterial Pathogens Isolated from Patients Admitted in ICUs of a Tertiary Care Hospital in India.|https://dx.doi.org/10.1155/2024/7403044
+Population pharmacokinetics and individualized dosing of vancomycin for critically ill patients receiving continuous renal replacement therapy: the role of residual diuresis.|https://dx.doi.org/10.3389/fphar.2023.1298397
