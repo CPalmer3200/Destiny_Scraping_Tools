@@ -272,3 +272,18 @@ Outstanding Performance of Mg/g-C(3)N(4)-Doped Al(2)O(3) Serving as a Nanocataly
 Noncytotoxic WORM Memory Using Lysozyme with Ultrahigh Stability for Transient and Sustainable Electronics Applications.|https://dx.doi.org/10.1021/acsomega.3c06229
 Expression and antimicrobial activity of the recombinant bovine lactoferricin in Pichia pastoris.|https://dx.doi.org/10.1016/j.synbio.2023.12.002
 Impact of the Hydrocarbon Chain Length of Biodegradable Ester-Bonded Cationic Gemini Surfactants on Self-Assembly, In Vitro Gene Transfection, Cytotoxicity, and Antimicrobial Activity.|https://dx.doi.org/10.1021/acs.langmuir.3c03290
+Treatment challenges in the management of difficult-to-treat gram-positive infections: A consensus view apropos therapeutic role of novel anti-MRSA antibiotics, levonadifloxacin (IV) and alalevonadifloxacin (oral).|https://dx.doi.org/10.1016/j.ijmmb.2024.100528
+Biomedical and ecosafety assessment of marine fish collagen capped silver nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129324
+Bioactive VS(4)-based sonosensitizer for robust chemodynamic, sonodynamic and osteogenic therapy of infected bone defects.|https://dx.doi.org/10.1186/s12951-023-02283-6
+Etiology, clinical manifestations, and management methods of cryptitis beside the preputial frenulum in men.|https://dx.doi.org/10.1186/s12610-024-00219-0
+Semi-synthesis and structure-activity relationship study yield antibacterial vicenistatin derivatives with low cytotoxicity.|https://dx.doi.org/10.1038/s41429-023-00701-3
+Detection of viable oral bacteria of the patient on the surgical mask of dentists.|https://dx.doi.org/10.1038/s41405-023-00182-4
+Efficient magnetic enrichment cascade single-step RPA-CRISPR/Cas12a assay for rapid and ultrasensitive detection of Staphylococcus aureus in food samples.|https://dx.doi.org/10.1016/j.jhazmat.2024.133494
+Histidine transport is essential for the growth of Staphylococcus aureus at low pH.|https://dx.doi.org/10.1371/journal.ppat.1011927
+Synthesis of iron oxide nanoparticles using orange fruit peel extract for efficient remediation of dye pollutant in wastewater.|https://dx.doi.org/10.1007/s10653-023-01781-8
+Açaí (Euterpe oleracea Mart.) green synthesis of silver nanoparticles: antimicrobial efficacy and ecotoxicological assessment.|https://dx.doi.org/10.1007/s11356-024-31949-3
+Janus mesoporous organosilica/platinum nanomotors for active treatment of suppurative otitis media.|https://dx.doi.org/10.1039/d3nr05666j
+Protecting the Antibacterial Coating of Urinal Catheters for Improving Safety.|https://dx.doi.org/10.1021/acsabm.3c00988
+Prevalence, antibiotic resistance and molecular characterization of Staphylococcus aureus in ready-to-eat fruits and vegetables in Shanghai, China.|https://dx.doi.org/10.1016/j.crfs.2023.100669
+A novel adjustable PHBV basement film for enhancing the efficacy of glaucoma surgery by inhibiting scar formation.|https://dx.doi.org/10.1016/j.mtbio.2023.100922
+In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD).|https://dx.doi.org/10.1155/2024/1904763

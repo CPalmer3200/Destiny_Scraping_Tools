@@ -127,3 +127,8 @@ Surgical site infections post cesarean section and associated risk factors: a re
 Naloxone co-prescriptions for surgery patients prescribed opioids: A retrospective cohort study.|https://dx.doi.org/10.1016/j.sipas.2023.100217
 Guidance for assessment of the inflammation etiologic criterion for the GLIM diagnosis of malnutrition: A modified Delphi approach.|https://dx.doi.org/10.1002/jpen.2590
 A meta-analysis and trial sequential analysis comparing nonoperative versus operative management for uncomplicated appendicitis: a focus on randomized controlled trials.|https://dx.doi.org/10.1186/s13017-023-00531-6
+Critical analyses of Latina mortality: disentangling the heterogeneity of ethnic origin, place, nativity, race, and socioeconomic status.|https://dx.doi.org/10.1186/s12889-024-17721-9
+Comparison of HIV prevalence, incidence, and viral load suppression in Zambia population-based HIV impact assessments from 2016 and 2021.|https://dx.doi.org/10.1097/QAD.0000000000003834
+Derotational distal femoral osteotomy improves subjective function and patellar tracking after medial patellofemoral ligament reconstruction in recurrent patellar dislocation patients with increased femoral anteversion: A systematic review and meta-analysis.|https://dx.doi.org/10.1002/ksa.12021
+Outcomes of Guided Personalized Surgery (GPS)-Navigated Reverse Polarity Total Shoulder Joint Replacement in a Low-Volume Hospital.|https://dx.doi.org/10.7759/cureus.50622
+Disturbance of Growth in Pediatric Patients Due to Osteomyelitis Caused by Growth Plate Infection.|https://dx.doi.org/10.7759/cureus.50631

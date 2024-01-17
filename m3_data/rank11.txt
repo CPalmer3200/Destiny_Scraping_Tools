@@ -46,3 +46,9 @@ Impact of Limiting Vancomycin Loading Doses in Patients With Methicillin-resista
 Antibiotic Stewardship: A Handshaking Strategy Among Physicians and Pharmacists to Improve therapeutic Outcomes in Hematology-Oncology.|https://dx.doi.org/10.1177/00185787231196774
 Insight into the Burden of Antimicrobial Resistance among Bacterial Pathogens Isolated from Patients Admitted in ICUs of a Tertiary Care Hospital in India.|https://dx.doi.org/10.1155/2024/7403044
 Population pharmacokinetics and individualized dosing of vancomycin for critically ill patients receiving continuous renal replacement therapy: the role of residual diuresis.|https://dx.doi.org/10.3389/fphar.2023.1298397
+Prophylactic use of vancomycin powder on postoperative infection after total joint arthroplasty.|https://dx.doi.org/10.1186/s12891-023-07024-2
+Efficacy of delafloxacin alone and in combination with cefotaxime against cefotaxime non-susceptible invasive isolates of Streptococcus pneumoniae.|https://dx.doi.org/10.37201/req/107.2023
+Preparation of Nano-Medicine to Eliminate Helicobacter pylori Infection.|https://dx.doi.org/10.32592/ARI.2023.78.4.1313
+Molecular Characterization of Enterococcus faecalis and Enterococcus faecium Isolated from a Meat Source in Shahrekord Local Markets, Iran.|https://dx.doi.org/10.32592/ARI.2023.78.4.1387
+A rapid and simple HPLC-MS/MS method for the therapeutic drug monitoring of six special-grade antimicrobials in pediatric patients.|https://dx.doi.org/10.1016/j.heliyon.2024.e24198
+High Gastrointestinal Colonization Rate of Vancomycin-Resistant Enterococci among Hospitalized Patients: Potential Source for Resistant Gene.|https://dx.doi.org/10.1155/2024/6430026

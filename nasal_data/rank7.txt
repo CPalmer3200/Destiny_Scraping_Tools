@@ -286,3 +286,21 @@ Continuous Medicaid coverage during the COVID-19 public health emergency reduced
 Moana: Alternate surveillance for COVID-19 in a Unique Population (MASC-UP).|https://dx.doi.org/10.1016/j.conctc.2023.101246
 Pityriasis Rosea and Pityriasis Rosea-Like Eruption Following COVID-19 Vaccination: A Narrative Review.|https://dx.doi.org/10.2147/CCID.S447834
 Spontaneous spinal epidural haematoma following COVID-19 vaccination: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001604
+Acute health care use among children during the first 2.5 years of the COVID-19 pandemic in Ontario, Canada: a population-based repeated cross-sectional study.|https://dx.doi.org/10.1503/cmaj.221726
+Viral Pneumonia: From Influenza to COVID-19.|https://dx.doi.org/10.1055/s-0043-1777796
+North Korea's COVID-19 policy dilemma: epidemic prevention conflicting with trade.|https://dx.doi.org/10.1186/s12992-023-01013-9
+Physical activity, screen time and dietary behaviours in New Zealand adolescents prior to and following the onset of the COVID-19 pandemic.|https://dx.doi.org/10.1186/s12889-024-17688-7
+Correction: Durable and enhanced immunity against SARS-CoV-2 elicited by manganese nanoadjuvant formulated subunit vaccine.|https://dx.doi.org/10.1038/s41392-024-01739-x
+[Immunogenicity, safety and immune persistence of the sequential booster with the recombinant protein-based COVID-19 vaccine (CHO cell) in healthy people aged 18-84 years].|https://dx.doi.org/10.3760/cma.j.cn112150-20230423-00317
+Impact of the COVID-19 Pandemic on Medical Expenditures Among Medicare Fee-for-Service Beneficiaries Aged ≥67 Years With Diabetes.|https://dx.doi.org/10.2337/dc23-1679
+Integrated Genomic and Social Network Analyses of Severe Acute Respiratory Syndrome Coronavirus 2 Transmission in the Healthcare Setting.|https://dx.doi.org/10.1093/cid/ciad738
+Excess risk of COVID-19 infection and mental distress in healthcare workers during successive pandemic waves: Analysis of matched cohorts of healthcare workers and community referents in Alberta, Canada.|https://dx.doi.org/10.17269/s41997-023-00848-4
+Comparing positive reappraisal and mindfulness in relation to daily emotions during COVID-19: An experience sampling study.|https://dx.doi.org/10.1111/aphw.12526
+Neutrophil degranulation, endothelial and metabolic dysfunction in unvaccinated long COVID patients.|https://dx.doi.org/10.1111/eci.14155
+Vulnerability and Colorectal screening during the pandemic.|https://dx.doi.org/10.1016/j.pmedr.2023.102570
+The important issue of awareness of disaster response to the COVID-19.|https://dx.doi.org/10.1016/j.heliyon.2023.e23880
+Effects of the COVID-19 pandemic on the mental health of medical students and young physicians in Germany: Gender-specific results of an online survey.|https://dx.doi.org/10.1016/j.heliyon.2023.e23727
+Evaluation of Clinical Manifestations, Pattern of Involvement, and Surgical Outcomes in Patients with Post Covid-19 Head and Neck Mucormycosis Infection among Patients Admitted To Namazi Hospital, Shiraz, Iran (2021-2022).|https://dx.doi.org/10.61186/wjps.12.3.64
+Global burden of sleep disturbances among older adults and the disparities by geographical regions and pandemic periods.|https://dx.doi.org/10.1016/j.ssmph.2023.101588
+Coping profiles and their association with vicarious post-traumatic growth among nurses during the three waves of the COVID-19 pandemic.|https://dx.doi.org/10.1111/jocn.16988
+COVID-19 Mortality and Severity in Cancer Patients and Cancer Survivors.|https://dx.doi.org/10.3346/jkms.2024.39.e6

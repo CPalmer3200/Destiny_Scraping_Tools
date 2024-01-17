@@ -274,3 +274,20 @@ Secondary central retinal artery occlusion due to rhino-orbital-cerebral mucormy
 Prevalence of and risk factors for surgical site infections after pancreaticoduodenectomy: a systematic review and meta-analysis.|https://dx.doi.org/10.1097/MS9.0000000000001455
 A 4-month-old male baby with an orf lesion on his nose: a rare case report.|https://dx.doi.org/10.1097/MS9.0000000000001520
 Rising meningitis in USA and Mexico: insights from the fatal outbreak.|https://dx.doi.org/10.1097/MS9.0000000000001463
+Prophylactic use of vancomycin powder on postoperative infection after total joint arthroplasty.|https://dx.doi.org/10.1186/s12891-023-07024-2
+Modified Bilhaut-Cloquet procedure for Wassel type III-IV polydactyly.|https://dx.doi.org/10.1186/s13018-024-04553-x
+Long-term outcomes of pelvic exenterations for gynecological malignancies: a single-center retrospective cohort study.|https://dx.doi.org/10.1186/s12885-024-11836-3
+Pulmonary cryptococcosis complicated with pulmonary aspergillosis: a series of studies and a literature review.|https://dx.doi.org/10.1186/s12879-024-09014-8
+A case series of prophylactic negative pressure wound therapy use with purse-string closure in stoma closure wounds in infants.|https://dx.doi.org/10.1186/s40792-024-01818-9
+Closure of open window thoracostomy due to MRSA pyothorax by EWS bronchial occlusion and modified extraperiosteal air plombage: a case report.|https://dx.doi.org/10.1186/s40792-024-01815-y
+Median and medial umbilical ligament repositioning for prevention of pelviperineal complications following abdominoperineal resection-a case series and novel technique.|https://dx.doi.org/10.1007/s00423-024-03225-y
+Imaging assessment of spine infection.|https://dx.doi.org/10.1007/s00256-023-04558-3
+Early Outcome after Sublay versus Onlay Polypropylene Mesh Repair for Ventral Midline Incisional Hernia - A Single Center Retrospective Analysis.|https://dx.doi.org/10.21614/chirurgia.2023.v.118.i.6.p.673
+Open and Laparoscopic Surgical Approache in Incisional Hernias: A Descriptive Analysis.|https://dx.doi.org/10.21614/chirurgia.2023.v.118.i.6.p.654
+Navigating Through Surgical Implications of Helicobacter pylori: An Up-to-Date Comprehensive Literature Review.|https://dx.doi.org/10.21614/chirurgia.2023.v.118.i.6.p.568
+Natural compound Sanggenon C inhibits porcine reproductive and respiratory syndrome virus replication in piglets.|https://dx.doi.org/10.1016/j.vetmic.2024.109991
+Case Report: Successful Treatment of Cerebral Phaeohyphomycosis with Voriconazole: A Case Report and Literature Review.|https://dx.doi.org/10.4269/ajtmh.23-0122
+Complications of major lower limb amputations before prosthetic provision at a tertiary care rehabilitation facility.|https://dx.doi.org/10.1097/PXR.0000000000000321
+Pharmacological interventions for the prevention of bleeding in people undergoing elective hip or knee surgery: a systematic review and network meta-analysis.|https://dx.doi.org/10.1002/14651858.CD013295.pub2
+Midline and off-midline wound closure methods after surgical treatment for pilonidal sinus.|https://dx.doi.org/10.1002/14651858.CD015213.pub2
+Next generation meshes for hernia repair: Polypropylene meshes coated with antimicrobial benzalkonium chloride induced proliferative activity of fibroblasts.|https://dx.doi.org/10.1016/j.heliyon.2024.e24237

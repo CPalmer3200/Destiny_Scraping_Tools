@@ -8,3 +8,4 @@ HOCl-producing electrochemical bandage for treating Pseudomonas aeruginosa-infec
 Activity of thonningianin A against Candida albicans in vitro and in vivo.|https://dx.doi.org/10.1007/s00253-023-12996-1
 Chitosan modified magnetic nanocomposite for biofilm destruction and precise photothermal/photodynamic therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129402
 Therapeutic Management of Malignant Wounds: An Update.|https://dx.doi.org/10.1007/s11864-023-01172-2
+Protecting the Antibacterial Coating of Urinal Catheters for Improving Safety.|https://dx.doi.org/10.1021/acsabm.3c00988

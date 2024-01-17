@@ -12,3 +12,4 @@ Efficacy of probiotics or synbiotics in critically ill patients: A systematic re
 Unveiling the autoreactome: Proteome-wide immunological fingerprints reveal the promise of plasma cell depleting therapy.|https://dx.doi.org/10.1101/2023.12.19.23300188
 Copper hexacyanoferrate/carbon sheet combination with high selectivity and capacity for copper removal by pseudocapacitance.|https://dx.doi.org/10.1016/j.jcis.2024.01.054
 Evaluation of an Automated, Pharmacist-Driven, Antimicrobial Patient Acuity Scoring System for Hospitalized Bacteremic Patients.|https://dx.doi.org/10.1177/00185787231182567
+Effect of a Virtual Reality Simulation Modality on Registered Nurse Knowledge and Behavior Related to Clostridioides difficile Prevention: An Experimental, Cluster Randomized Controlled Trial.|https://dx.doi.org/10.1097/NND.0000000000001031

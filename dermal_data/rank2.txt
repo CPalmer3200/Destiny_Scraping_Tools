@@ -16,3 +16,4 @@ Monitoring negative pressure wound therapy for diabetic foot ulcers using WhatsA
 Independent association of history of diabetic foot with all-cause mortality in patients with type 2 diabetes: the Renal Insufficiency And Cardiovascular Events (RIACE) Italian Multicenter Study.|https://dx.doi.org/10.1186/s12933-023-02107-9
 State of the art in the diagnostic evaluation of osteomyelitis: exploring the role of advanced MRI sequences-a narrative review.|https://dx.doi.org/10.21037/qims-23-1138
 Inter-observer reliability of the Onychomycosis Severity Index depending on clinical experience: A review of 50 cases.|https://dx.doi.org/10.1111/myc.13694
+Treatment challenges in the management of difficult-to-treat gram-positive infections: A consensus view apropos therapeutic role of novel anti-MRSA antibiotics, levonadifloxacin (IV) and alalevonadifloxacin (oral).|https://dx.doi.org/10.1016/j.ijmmb.2024.100528
