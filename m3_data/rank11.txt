@@ -52,3 +52,19 @@ Preparation of Nano-Medicine to Eliminate Helicobacter pylori Infection.|https:/
 Molecular Characterization of Enterococcus faecalis and Enterococcus faecium Isolated from a Meat Source in Shahrekord Local Markets, Iran.|https://dx.doi.org/10.32592/ARI.2023.78.4.1387
 A rapid and simple HPLC-MS/MS method for the therapeutic drug monitoring of six special-grade antimicrobials in pediatric patients.|https://dx.doi.org/10.1016/j.heliyon.2024.e24198
 High Gastrointestinal Colonization Rate of Vancomycin-Resistant Enterococci among Hospitalized Patients: Potential Source for Resistant Gene.|https://dx.doi.org/10.1155/2024/6430026
+Cost-effectiveness of linezolid to ventilator-associated pneumonia in Colombia.|https://dx.doi.org/10.1186/s12879-023-08961-y
+Treatment seeking and antibiotic use for urinary tract infection symptoms in the time of COVID-19 in Tanzania and Uganda.|https://dx.doi.org/10.7189/jogh.14.05007
+Complete Biochemical Remission With Oral Vancomycin in a Patient With Primary Sclerosing Cholangitis and High Serum Immunoglobulin G4 Levels.|https://dx.doi.org/10.14309/crj.0000000000001256
+Using whole genome sequencing to characterize Clostridioides difficile isolates at a tertiary center in Melbourne, Australia.|https://dx.doi.org/10.1017/ash.2023.529
+A Systematic Review of the Microbial Landscape of Diabetic Foot Ulcers in Uganda.|https://dx.doi.org/10.2147/IDR.S446838
+Injectable Nano-Micro Composites with Anti-bacterial and Osteogenic Capabilities for Minimally Invasive Treatment of Osteomyelitis.|https://dx.doi.org/10.1002/advs.202306964
+Does the use of antimicrobials in different periodontal treatment strategies result in better treatment outcomes? - A radiographic analysis.|https://dx.doi.org/10.1038/s41432-024-00972-1
+Subacute Neurotoxicity as an Adverse Reaction to Ceftazidime: A Case Report.|https://dx.doi.org/10.2739/kurumemedj.MS6934009
+Nonoperative Treatment of Diverticulitis and Appendicitis: Which Antibiotic Regimen Fails?|https://dx.doi.org/10.1016/j.jss.2023.12.011
+Dextran-Based Injectable Hydrogel Composites for Bone Regeneration.|https://dx.doi.org/10.3390/polym15234501
+Effects of Vancomycin Subtherapeutic Concentration on Staphylococcus aureus Isolated from Hemodialysis Patients with Low Serum Trough Concentrations.|https://dx.doi.org/10.1007/s00284-023-03588-3
+Storage stability of lysostaphin solution and its pulmonary delivery.|https://dx.doi.org/10.1007/s13346-024-01518-9
+Computational Study of Antimicrobial Peptides for Promising Therapeutic Applications Against Methicillin-resistant Staphylococcus Aureus.|https://dx.doi.org/10.2174/0115734099285473240101111303
+Whole-genome long-read sequencing to unveil Enterococcus antimicrobial resistance in dairy cattle farms exposed a widespread occurrence of Enterococcus lactis.|https://dx.doi.org/10.1128/spectrum.03672-23
+Antimicrobial Agent Functional Gold Nanocluster-Mediated Multichannel Sensor Array for Bacteria Sensing.|https://dx.doi.org/10.1021/acs.langmuir.3c03612
+Antibiotic resistance in Helicobacter pylori among children and adolescents in East Asia: A systematic review and meta-analysis.|https://dx.doi.org/10.1097/CM9.0000000000002884

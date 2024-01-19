@@ -132,3 +132,22 @@ Comparison of HIV prevalence, incidence, and viral load suppression in Zambia po
 Derotational distal femoral osteotomy improves subjective function and patellar tracking after medial patellofemoral ligament reconstruction in recurrent patellar dislocation patients with increased femoral anteversion: A systematic review and meta-analysis.|https://dx.doi.org/10.1002/ksa.12021
 Outcomes of Guided Personalized Surgery (GPS)-Navigated Reverse Polarity Total Shoulder Joint Replacement in a Low-Volume Hospital.|https://dx.doi.org/10.7759/cureus.50622
 Disturbance of Growth in Pediatric Patients Due to Osteomyelitis Caused by Growth Plate Infection.|https://dx.doi.org/10.7759/cureus.50631
+Cost-effectiveness of linezolid to ventilator-associated pneumonia in Colombia.|https://dx.doi.org/10.1186/s12879-023-08961-y
+Guidance for assessment of the inflammation etiologic criterion for the global leadership initiative (GLIM) on diagnosis of malnutrition: A modified Delphi approach.|https://dx.doi.org/10.1016/j.clnu.2023.11.026
+Related health burden with the improvement of air quality across China.|https://dx.doi.org/10.1097/CM9.0000000000002974
+The role of funded partnerships in working towards decreasing COVID-19 vaccination disparities, United States, March 2021-December 2022.|https://dx.doi.org/10.1016/j.vaccine.2023.12.061
+The Specialist Treatment of Inpatients: Caring for Diabetes in Surgery (STOIC-D Surgery) Trial: A Randomized Controlled Trial of Early Intervention With an Electronic Specialist-Led Model of Diabetes Care.|https://dx.doi.org/10.2337/dc23-1905
+Machine Learning Approaches for the Image-Based Identification of Surgical Wound Infections: Scoping Review.|https://dx.doi.org/10.2196/52880
+Comparative assessment of a novel fan box trap for collecting Anopheles farauti and culicine mosquitoes alive in tropical north Queensland, Australia.|https://dx.doi.org/10.1093/jme/tjad156
+Inclusion of People With Disabilities in Community Health Needs Assessments in Florida, United States.|https://dx.doi.org/10.1177/15248399231225642
+The effect of COVID-19 vaccination on 30-day mortality after cardiac surgery - Insights from the Israel national registries.|https://dx.doi.org/10.1016/j.infpip.2023.100334
+A Systematic Review of the Microbial Landscape of Diabetic Foot Ulcers in Uganda.|https://dx.doi.org/10.2147/IDR.S446838
+Effect of root immaturity and depth of intrusion on spontaneous re-eruption and healing complications: A retrospective analysis.|https://dx.doi.org/10.1111/edt.12921
+Value of preoperative evaluation of FEV(1) in patients with destroyed lung undergoing pneumonectomy - a 20-year real-world study.|https://dx.doi.org/10.1186/s12890-024-02858-5
+Cost effectiveness of preemptive school closures to mitigate pandemic influenza outbreaks of differing severity in the United States.|https://dx.doi.org/10.1186/s12889-023-17469-8
+Effects of Vancomycin Subtherapeutic Concentration on Staphylococcus aureus Isolated from Hemodialysis Patients with Low Serum Trough Concentrations.|https://dx.doi.org/10.1007/s00284-023-03588-3
+Trust in Machine Learning Driven Clinical Decision Support Tools Among Otolaryngologists.|https://dx.doi.org/10.1002/lary.31260
+Clinical Significance of Preoperative Pyrazinamide-Containing Therapy in Tuberculous Constrictive Pericarditis.|https://dx.doi.org/10.2147/IDR.S445025
+Targeted Infection Control Practices in Japanese Hospitals for Multidrug-Resistant Organisms: Guidance From the Public Health Center.|https://dx.doi.org/10.7759/cureus.50680
+The Increase in Invasive Bacterial Infections With Respiratory Transmission in Germany, 2022/2023.|https://dx.doi.org/10.3238/arztebl.m2023.0261
+Vaccination Guidelines for Pregnant Women: Addressing COVID-19 and the Omicron Variant.|https://dx.doi.org/10.12659/MSM.942799

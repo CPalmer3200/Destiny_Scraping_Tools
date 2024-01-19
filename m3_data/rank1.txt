@@ -6,3 +6,7 @@ Comparative Effectiveness of Fidaxomicin vs Vancomycin in Populations With Immun
 Unlocking Bevacizumab's Potential: rCBV(max) as a Predictive Biomarker for Enhanced Survival in Glioblastoma IDH-Wildtype Patients.|https://dx.doi.org/10.3390/cancers16010161
 Clostridioides difficile Infection in Hospitalized Patients-A Retrospective Epidemiological Study.|https://dx.doi.org/10.3390/healthcare12010076
 Generalisability of predictive models for Clostridioides difficile infection, severity, and recurrence at an urban safety-net hospital.|https://dx.doi.org/10.1016/j.jhin.2024.01.001
+Efficacy and Health-Related Quality of Life Impact of Fecal Microbiota, Live-jslm: A Post Hoc Analysis of PUNCH CD3 Patients at First Recurrence of Clostridioides difficile Infection.|https://dx.doi.org/10.1007/s40121-023-00907-w
+Bezlotoxumab during the first episode of Clostridioides difficile infection in patients at high risk of recurrence.|https://dx.doi.org/10.1007/s10096-024-04762-6
+Efficacy of noncarbapenem therapy for the treatment of ceftriaxone-resistant Enterobacterales outside the urinary tract.|https://dx.doi.org/10.1017/ash.2023.137
+Pyrin Inflammasome Activation Defines Colchicine-Responsive SURF Patients from FMF and Other Recurrent Fevers.|https://dx.doi.org/10.1007/s10875-023-01649-7

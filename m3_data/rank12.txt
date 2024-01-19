@@ -13,3 +13,7 @@ Unveiling the autoreactome: Proteome-wide immunological fingerprints reveal the 
 Copper hexacyanoferrate/carbon sheet combination with high selectivity and capacity for copper removal by pseudocapacitance.|https://dx.doi.org/10.1016/j.jcis.2024.01.054
 Evaluation of an Automated, Pharmacist-Driven, Antimicrobial Patient Acuity Scoring System for Hospitalized Bacteremic Patients.|https://dx.doi.org/10.1177/00185787231182567
 Effect of a Virtual Reality Simulation Modality on Registered Nurse Knowledge and Behavior Related to Clostridioides difficile Prevention: An Experimental, Cluster Randomized Controlled Trial.|https://dx.doi.org/10.1097/NND.0000000000001031
+The transcriptional cofactor Tle3 reciprocally controls effector and central memory CD8(+) T cell fates.|https://dx.doi.org/10.1038/s41590-023-01720-w
+Unpacking the relationship between shared decision-making and decisional quality, decision to screen, and screening completion in lung cancer screening.|https://dx.doi.org/10.1016/j.pec.2024.108143
+Bring it on again: antimicrobial stewardship in transplant infectious diseases: updates and new challenges.|https://dx.doi.org/10.1017/ash.2023.517
+A preliminary attempt at capacitive deionization with PVA/PSS gel coating as an alternative to ion exchange membrane.|https://dx.doi.org/10.1080/09593330.2024.2304657

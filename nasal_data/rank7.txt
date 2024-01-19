@@ -304,3 +304,21 @@ Evaluation of Clinical Manifestations, Pattern of Involvement, and Surgical Outc
 Global burden of sleep disturbances among older adults and the disparities by geographical regions and pandemic periods.|https://dx.doi.org/10.1016/j.ssmph.2023.101588
 Coping profiles and their association with vicarious post-traumatic growth among nurses during the three waves of the COVID-19 pandemic.|https://dx.doi.org/10.1111/jocn.16988
 COVID-19 Mortality and Severity in Cancer Patients and Cancer Survivors.|https://dx.doi.org/10.3346/jkms.2024.39.e6
+"Hospitals respond to demand. Public health needs to respond to risk": health system lessons from a case study of northern Queensland's COVID-19 surveillance and response.|https://dx.doi.org/10.1186/s12913-023-10502-x
+How COVID-19 has changed the utilization of different health care services in Poland.|https://dx.doi.org/10.1186/s12913-024-10554-7
+Peptidyl nitroalkene inhibitors of main protease rationalized by computational and crystallographic investigations as antivirals against SARS-CoV-2.|https://dx.doi.org/10.1038/s42004-024-01104-7
+Social network risk factors and COVID-19 vaccination: A cross-sectional survey study.|https://dx.doi.org/10.1016/j.vaccine.2024.01.012
+Rapidly scalable and low-cost public health surveillance reporting system for COVID-19.|https://dx.doi.org/10.1136/bmjhci-2023-100759
+SARS-CoV-2 infection causes dopaminergic neuron senescence.|https://dx.doi.org/10.1016/j.stem.2023.12.012
+Persistent complement dysregulation with signs of thromboinflammation in active Long Covid.|https://dx.doi.org/10.1126/science.adg7942
+Airborne transmission risks of tuberculosis and COVID-19 in schools in South Africa, Switzerland, and Tanzania: Modeling of environmental data.|https://dx.doi.org/10.1371/journal.pgph.0002800
+Pivoting school health and nutrition programmes during COVID-19 in low- and middle-income countries: A scoping review.|https://dx.doi.org/10.7189/jogh.14.05006
+Web-Based Search Volume for HIV Tests and HIV-Testing Preferences During the COVID-19 Pandemic in Japan: Infodemiology Study.|https://dx.doi.org/10.2196/52306
+Long-lasting effects of COVID-19 pandemic on hospitalizations and severity of bronchiolitis.|https://dx.doi.org/10.1007/s00431-023-05395-1
+An RNA replicon system to investigate promising inhibitors of feline coronavirus.|https://dx.doi.org/10.1128/jvi.01216-23
+The prevalence of obstructive sleep apnea syndrome after COVID-19 infection.|https://dx.doi.org/10.1002/jmv.29392
+One dose versus two doses of COVID-19 vaccine for the prevention of breakthrough infections among people previously infected with SARS-Cov-2.|https://dx.doi.org/10.1002/jmv.29391
+[Late diagnosis of rhinocerebral mucormycosis in patients with COVID-19 (case studies)].|https://dx.doi.org/10.17116/oftalma2023139061110
+T4 apoptosis in the acute phase of SARS-CoV-2 infection predicts long COVID.|https://dx.doi.org/10.3389/fimmu.2023.1335352
+The effect of limited healthcare access on poor outcomes among hospitalized COVID-19 patients in Honduras: A single center cohort study.|https://dx.doi.org/10.1016/j.heliyon.2024.e24015
+In Vitro Antiviral Activity of a New Indol-3-carboxylic Acid Derivative Against SARS-CoV-2.|https://dx.doi.org/10.32607/actanaturae.26623

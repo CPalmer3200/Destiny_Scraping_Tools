@@ -6,3 +6,4 @@ Circulating NK cells establish tissue residency upon acute infection of skin and
 Azalomycin F4a targets peptidoglycan synthesis of Gram-positive bacteria revealed by high-throughput CRISPRi-seq analysis.|https://dx.doi.org/10.1016/j.micres.2023.127584
 Proportion of toxin and non-toxin virulence factors of Staphylococcus aureus isolates from diabetic foot infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12866-023-03142-y
 The Hybrid Antibiotic Thiomarinol A Overcomes Intrinsic Resistance in Escherichia coli Using a Privileged Dithiolopyrrolone Moiety.|https://dx.doi.org/10.1021/acsinfecdis.3c00504
+The characteristics of pre-existing humoral imprint determine efficacy of S. aureus vaccines and support alternative vaccine approaches.|https://dx.doi.org/10.1016/j.xcrm.2023.101360

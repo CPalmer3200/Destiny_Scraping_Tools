@@ -291,3 +291,19 @@ Complications of major lower limb amputations before prosthetic provision at a t
 Pharmacological interventions for the prevention of bleeding in people undergoing elective hip or knee surgery: a systematic review and network meta-analysis.|https://dx.doi.org/10.1002/14651858.CD013295.pub2
 Midline and off-midline wound closure methods after surgical treatment for pilonidal sinus.|https://dx.doi.org/10.1002/14651858.CD015213.pub2
 Next generation meshes for hernia repair: Polypropylene meshes coated with antimicrobial benzalkonium chloride induced proliferative activity of fibroblasts.|https://dx.doi.org/10.1016/j.heliyon.2024.e24237
+Effectiveness of Topical Ozone Gel Application in the Management of Postextraction Wound Healing: An In Vivo Study.|https://dx.doi.org/10.5005/jp-journals-10024-3557
+Application of the New Irrigation Protocol to Reduce Recurrence Rate in the Management Of Periprosthetic Joint Infection.|https://dx.doi.org/10.1111/os.13948
+Visualisation of Droplet Flow Induced by Ultrasonic Dental Cleaning.|https://dx.doi.org/10.1016/j.identj.2023.12.005
+Chronic Anticoagulation is Associated with Increased Risk for Postoperative Complications Following Aseptic Revision Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.01.020
+Extended Prophylactic Antibiotics for Primary and Aseptic Revision Total Joint Arthroplasty: A Meta-Analysis.|https://dx.doi.org/10.1016/j.arth.2024.01.014
+SARS-CoV-2 induces inflammation and intracranial infection through the olfactory epithelium-olfactory bulb pathway in non-human primates.|https://dx.doi.org/10.1016/j.jneuroim.2024.578288
+Intraductal papillary neoplasm of the bile duct: A case report of a rare tumor with a brief review of literature.|https://dx.doi.org/10.1016/j.ijscr.2024.109243
+Reducing patient's perception of postoperative vaginal bleeding after laparoscopic hysterectomy via independent closure of the vaginal cuff angles (RCT).|https://dx.doi.org/10.1016/j.ejogrb.2024.01.019
+Enrichment of SARS-CoV-2 sequence from nasopharyngeal swabs whilst identifying the nasal microbiome.|https://dx.doi.org/10.1016/j.jcv.2023.105620
+Outcomes for expanded polytetrafluoroethylene strip in frontalis suspension surgery.|https://dx.doi.org/10.1080/01676830.2023.2300793
+Safety of perioperative treatment with biologics in patients with inflammatory bowel disease undergoing bowel surgery: Experience from a large urban center.|https://dx.doi.org/10.1371/journal.pone.0290887
+Carbapenem-resistant Klebsiella pneumoniae: the role of plasmids in emergence, dissemination and evolution of a major clinical challenge.|https://dx.doi.org/10.1080/14787210.2024.2305854
+Is a high baseline inflammatory burden the major driver in causing daptomycin-induced eosinophilic pneumonia and muscular toxicity?|https://dx.doi.org/10.1093/cid/ciae017
+Mucosal antibody response and SARS-CoV-2 shedding in patients with COVID-19 related olfactory dysfunction.|https://dx.doi.org/10.1002/jmv.29398
+The swab site of the upper airways influences the diagnostic sensitivity for the omicron variant of SARS-CoV-2.|https://dx.doi.org/10.1002/jmv.29390
+Corticosteroid Injection in the Operative Hand Prior to a Trigger Finger or Carpal Tunnel Release: If It Is Not at the Surgical Site Then What Is the Big Deal?|https://dx.doi.org/10.1177/15589447231221247

@@ -287,3 +287,20 @@ Protecting the Antibacterial Coating of Urinal Catheters for Improving Safety.|h
 Prevalence, antibiotic resistance and molecular characterization of Staphylococcus aureus in ready-to-eat fruits and vegetables in Shanghai, China.|https://dx.doi.org/10.1016/j.crfs.2023.100669
 A novel adjustable PHBV basement film for enhancing the efficacy of glaucoma surgery by inhibiting scar formation.|https://dx.doi.org/10.1016/j.mtbio.2023.100922
 In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD).|https://dx.doi.org/10.1155/2024/1904763
+Evaluating the impact of a SIMPlified LaYered consent process on recruitment of potential participants to the Staphylococcus aureus Network Adaptive Platform trial: study protocol for a multicentre pragmatic nested randomised clinical trial (SIMPLY-SNAP trial).|https://dx.doi.org/10.1136/bmjopen-2023-083239
+Generation of a photothermally responsive antimicrobial, bioadhesive gelatin methacryloyl (GelMA) based hydrogel through 3D printing for infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129372
+Donor respiratory multidrug-resistant bacteria and lung transplantation outcomes.|https://dx.doi.org/10.1016/j.jinf.2023.12.013
+Interleukin-26 potentiates type 2 skin inflammation in presence of interleukin-1β.|https://dx.doi.org/10.1016/j.jid.2023.12.018
+Frequency of potentially pathogenic bacterial and fungal isolates among 28,887 endometrial samples from mares, with an emphasis on multi-drug resistant bacteria in Germany (2018-2022).|https://dx.doi.org/10.1016/j.jevs.2024.105008
+SYNTHESIZED UNIFORM -DIFFERENT SIZES SILVER NANOPARTICLES USING TSC AND SBH SIMULTANEOUSLY FOR ANTIBACTERIAL APPLICATION.|https://dx.doi.org/10.1088/2057-1976/ad201f
+Molecular Characteristics of Staphylococcus aureus Isolates form Food-Poisoning Outbreaks (2011-2022) in Sichuan, China.|https://dx.doi.org/10.1089/fpd.2023.0097
+Bloodstream Infections in Pediatric Oncology Patients: Bacterial Pathogen Distribution and Antimicrobial Susceptibility at the University Hospital Centre Zagreb, Croatia-A 5-year Analysis.|https://dx.doi.org/10.1097/MPH.0000000000002809
+Toxin-neutralizing antibody is associated with improved T cell function following recovery from Staphylococcus aureus infection.|https://dx.doi.org/10.1172/jci.insight.173526
+Unveiling the bioactive potential of Actinomycetota from the Tagus River estuary.|https://dx.doi.org/10.1007/s10123-024-00483-0
+Daptomycin pharmacokinetic/pharmacodynamic target in staphylococcal infections.|https://dx.doi.org/10.1093/cid/ciae018
+Novel antimicrobial peptides identified in legume plant, Medicago truncatula.|https://dx.doi.org/10.1128/spectrum.01827-23
+Staphylococcus aureus senses human neutrophils via PerR to coordinate the expression of the toxin LukAB.|https://dx.doi.org/10.1128/iai.00526-23
+Enhanced Mechanical Properties, Corrosion Resistance, Cytocompatibility, Osteogenesis, and Antibacterial Performance of Biodegradable Mg-2Zn-0.5Ca-0.5Sr/Zr Alloys for Bone-Implant Application.|https://dx.doi.org/10.1002/adhm.202303975
+Silver Nanoparticles from Saudi and Syrian Black Cumin Seed Extracts: Green Synthesis, ADME, Toxicity, Comparative Research, and Biological Appraisal.|https://dx.doi.org/10.4103/jpbs.jpbs_381_23
+An Atypical Presentation of Emphysematous Pyelonephritis Complicated by Methicillin-Resistant Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.7759/cureus.50721
+Controlling of foodborne pathogen biofilms on stainless steel by bacteriophages: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bioflm.2023.100170

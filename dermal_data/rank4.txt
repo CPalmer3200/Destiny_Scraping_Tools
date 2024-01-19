@@ -21,3 +21,9 @@ Fabrication and investigation of a pentamerous composite based on calix[4]arene 
 Anti-adhesion multifunctional poly(lactic-co-glycolic acid)/polydimethylsiloxane wound dressing for bacterial infection monitoring and photodynamic antimicrobial therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129501
 Zingiber officinale and thymus vulgaris extracts co-loaded polyvinyl alcohol and chitosan electrospun nanofibers for tackling infection and wound healing promotion.|https://dx.doi.org/10.1016/j.heliyon.2023.e23719
 Bifunctional Carbosilane Dendrimers for the Design of Multipurpose Hydrogels with Antibacterial Action.|https://dx.doi.org/10.1021/acs.chemmater.3c02027
+Generation of a photothermally responsive antimicrobial, bioadhesive gelatin methacryloyl (GelMA) based hydrogel through 3D printing for infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129372
+Photopolymerized multifunctional sodium alginate-based hydrogel for antibacterial and coagulation dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129428
+Synthesis, characterization, and antibacterial effect of St. John's wort oil loaded chitosan hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129444
+Preparation and Properties of Antibacterial Silk Fibroin Scaffolds.|https://dx.doi.org/10.3390/polym15234581
+Cationic and amphiphilic peptide-based hydrogels with dual activities as anticancer and antibacterial agents.|https://dx.doi.org/10.1039/d3sm01291c
+Berberine-loaded polylactic acid nanofiber scaffold as a drug delivery system: The relationship between chemical characteristics, drug-release behavior, and antibacterial efficiency.|https://dx.doi.org/10.3762/bjnano.15.7
