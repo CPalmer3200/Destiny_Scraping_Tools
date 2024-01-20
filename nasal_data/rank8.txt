@@ -307,3 +307,21 @@ Is a high baseline inflammatory burden the major driver in causing daptomycin-in
 Mucosal antibody response and SARS-CoV-2 shedding in patients with COVID-19 related olfactory dysfunction.|https://dx.doi.org/10.1002/jmv.29398
 The swab site of the upper airways influences the diagnostic sensitivity for the omicron variant of SARS-CoV-2.|https://dx.doi.org/10.1002/jmv.29390
 Corticosteroid Injection in the Operative Hand Prior to a Trigger Finger or Carpal Tunnel Release: If It Is Not at the Surgical Site Then What Is the Big Deal?|https://dx.doi.org/10.1177/15589447231221247
+Clivus Osteomyelitis as a Complication of Retropharyngeal Abscess in an Immunocompetent Adolescent.|https://dx.doi.org/10.1097/INF.0000000000004205
+Identification of a novel genomic variance of BRAF1 in papillary thyroid carcinoma: A case report.|https://dx.doi.org/10.1097/MD.0000000000036978
+Fatigue and Mental Illness Symptoms in Long COVID: Protocol for a Prospective Cohort Multicenter Observational Study.|https://dx.doi.org/10.2196/51820
+Exploring associations between viral titer measurements and disease outcomes in ferrets inoculated with 125 contemporary influenza A viruses.|https://dx.doi.org/10.1128/jvi.01661-23
+Role of single-ring oval disposable wound protecting device in preventing surgical site infection in laparoscopic colorectal resections.|https://dx.doi.org/10.4103/jmas.jmas_110_22
+Is tropical pus in the hand special? A retrospective study comparing hand infection cases in Darwin and Adelaide.|https://dx.doi.org/10.1111/ans.18864
+Phylogenetic analysis of Acanthamoeba isolated from soil samples and nasal cavities of patients with malignancy: a public health concern in the northwest of Iran.|https://dx.doi.org/10.1093/trstmh/trad100
+Epidemiology and antimicrobial resistance trends of Acinetobacter species in the United Arab Emirates: a retrospective analysis of 12 years of national AMR surveillance data.|https://dx.doi.org/10.3389/fpubh.2023.1245131
+A meta-analysis of randomized controlled trials comparing enteral immunonutrition (EIN) and standard enteral nutrition regarding biochemical, immunological, and clinical outcomes in gastrectomy patients with gastric cancer and investigating evidence networks for EIN formulae.|https://dx.doi.org/10.5114/wiitm.2023.133439
+The efficacy of wound edge protectors in reducing the post-operative surgical site infections after abdominal surgery: a meta-analysis of randomized clinical studies.|https://dx.doi.org/10.5114/wiitm.2023.132070
+Endoscopic parathyroidectomy versus open parathyroidectomy for patients with refractory secondary hyperparathyroidism: a meta-analysis.|https://dx.doi.org/10.5114/wiitm.2023.132439
+Physiotherapy Rehabilitation in an Infected Non-union Shaft of Femur Repair Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.50786
+Coronary Artery Bypass Grafting Using the No-Touch Great Saphenous Vein Graft Harvesting Technique: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.50777
+Neurological Complications of Local Anesthesia in Dentistry: A Review.|https://dx.doi.org/10.7759/cureus.50790
+Bilateral Necrotizing Scleritis with Scleral Melt associated with Herpes Simplex Infection: A Case Report.|https://dx.doi.org/10.22336/rjo.2023.64
+Relationship between routine urinary catheterization and postoperative urinary symptoms and urinary tract infections in women undergoing elective caesarean section.|https://dx.doi.org/10.5114/pm.2023.133847
+Viability of the rectus femoris muscle flap for groin wound coverage after ligation of proximal inflow.|https://dx.doi.org/10.1093/jscr/rjad306
+Right coronary artery dissection after aortic valve replacement presenting with refractory ventricular fibrillation.|https://dx.doi.org/10.1093/jscr/rjad717

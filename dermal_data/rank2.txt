@@ -19,3 +19,7 @@ Inter-observer reliability of the Onychomycosis Severity Index depending on clin
 Treatment challenges in the management of difficult-to-treat gram-positive infections: A consensus view apropos therapeutic role of novel anti-MRSA antibiotics, levonadifloxacin (IV) and alalevonadifloxacin (oral).|https://dx.doi.org/10.1016/j.ijmmb.2024.100528
 A Systematic Review of the Microbial Landscape of Diabetic Foot Ulcers in Uganda.|https://dx.doi.org/10.2147/IDR.S446838
 Nanosilver-Functionalized Hybrid Hydrogels of Carboxymethyl Cellulose/Poly(Vinyl Alcohol) with Antibacterial Activity for Prevention and Therapy of Infections of Diabetic Chronic Wounds.|https://dx.doi.org/10.3390/polym15234542
+Outpatient Foot-Sparing Surgery Is Safe in Selected Patients with Diabetic Foot Infections.|https://dx.doi.org/10.1097/ASW.0000000000000097
+Developing a Practical Tool for Predicting Wound Healing Outcomes of Patients with Diabetic Forefoot Ulcers: Focus on Vasculopathy and Infection.|https://dx.doi.org/10.1097/ASW.0000000000000090
+Residential Address Amplifies Health Disparities and Risk of Infection in Individuals With Diabetic Foot Ulcers.|https://dx.doi.org/10.2337/dc23-1787
+Foot Care Prioritization Among Health Care Providers Treating Diabetic Patients in Saudi Arabia: A Survey-Based Study.|https://dx.doi.org/10.7759/cureus.50798

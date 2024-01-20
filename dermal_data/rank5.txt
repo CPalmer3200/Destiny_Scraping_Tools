@@ -10,3 +10,4 @@ Chitosan modified magnetic nanocomposite for biofilm destruction and precise pho
 Therapeutic Management of Malignant Wounds: An Update.|https://dx.doi.org/10.1007/s11864-023-01172-2
 Protecting the Antibacterial Coating of Urinal Catheters for Improving Safety.|https://dx.doi.org/10.1021/acsabm.3c00988
 Oligoribonuclease mediates high adaptability of P. aeruginosa through metabolic conversion.|https://dx.doi.org/10.1186/s12866-023-03175-3
+Gene functions of the Ambystoma altamirani skin microbiome vary across space and time but potential antifungal genes are widespread and prevalent.|https://dx.doi.org/10.1099/mgen.0.001181

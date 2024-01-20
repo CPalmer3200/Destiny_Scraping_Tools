@@ -68,3 +68,5 @@ Computational Study of Antimicrobial Peptides for Promising Therapeutic Applicat
 Whole-genome long-read sequencing to unveil Enterococcus antimicrobial resistance in dairy cattle farms exposed a widespread occurrence of Enterococcus lactis.|https://dx.doi.org/10.1128/spectrum.03672-23
 Antimicrobial Agent Functional Gold Nanocluster-Mediated Multichannel Sensor Array for Bacteria Sensing.|https://dx.doi.org/10.1021/acs.langmuir.3c03612
 Antibiotic resistance in Helicobacter pylori among children and adolescents in East Asia: A systematic review and meta-analysis.|https://dx.doi.org/10.1097/CM9.0000000000002884
+A comparison of antimicrobial regimen outcomes and antibiogram development in microbial keratitis: a prospective cohort study in Alexandria, Egypt.|https://dx.doi.org/10.1007/s00417-023-06362-0
+Nut Cracked? Does the ACORN Trial End the Debate Surrounding Vancomycin and Piperacillin-Tazobactam Combination Therapy and Increased Risk for Acute Kidney Injury?|https://dx.doi.org/10.1093/ofid/ofad645

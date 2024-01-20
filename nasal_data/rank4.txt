@@ -151,3 +151,10 @@ Clinical Significance of Preoperative Pyrazinamide-Containing Therapy in Tubercu
 Targeted Infection Control Practices in Japanese Hospitals for Multidrug-Resistant Organisms: Guidance From the Public Health Center.|https://dx.doi.org/10.7759/cureus.50680
 The Increase in Invasive Bacterial Infections With Respiratory Transmission in Germany, 2022/2023.|https://dx.doi.org/10.3238/arztebl.m2023.0261
 Vaccination Guidelines for Pregnant Women: Addressing COVID-19 and the Omicron Variant.|https://dx.doi.org/10.12659/MSM.942799
+Associations Between Nonanemic Iron Deficiency and Postoperative Outcomes in Cardiac Surgery: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1213/ANE.0000000000006822
+Psychological Health and Ischemic Heart Disease in Women: A Review of Current Evidence and Clinical Considerations across the Healthspan.|https://dx.doi.org/10.1007/s11883-023-01185-0
+Surviving Sepsis Campaign Research Priorities 2023.|https://dx.doi.org/10.1097/CCM.0000000000006135
+Asthma prevalence among US 9th-12th graders who report past 30-day cannabis use in 2019.|https://dx.doi.org/10.1002/ppul.26840
+CDC changes recommendations due to severe nirsevimab shortage during the 2023-2024 RSV season.|https://dx.doi.org/10.1002/ppul.26841
+The harmful effects of overlooking acute bacterial prostatitis.|https://dx.doi.org/10.1111/iju.15390
+A Novel Diagnostic and Treatment Algorithm for Acute Mastoiditis in Children Based on 109 Cases.|https://dx.doi.org/10.1097/MAO.0000000000004089

@@ -304,3 +304,11 @@ Enhanced Mechanical Properties, Corrosion Resistance, Cytocompatibility, Osteoge
 Silver Nanoparticles from Saudi and Syrian Black Cumin Seed Extracts: Green Synthesis, ADME, Toxicity, Comparative Research, and Biological Appraisal.|https://dx.doi.org/10.4103/jpbs.jpbs_381_23
 An Atypical Presentation of Emphysematous Pyelonephritis Complicated by Methicillin-Resistant Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.7759/cureus.50721
 Controlling of foodborne pathogen biofilms on stainless steel by bacteriophages: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bioflm.2023.100170
+Amphiphilic Dendrimer as Potent Antibacterial against Drug-Resistant Bacteria in Mouse Models of Human Infectious Diseases.|https://dx.doi.org/10.1021/acsinfecdis.3c00425
+Trained immunity in recurrent Staphylococcus aureus infection promotes bacterial persistence.|https://dx.doi.org/10.1371/journal.ppat.1011918
+Incidence, pathogens and antimicrobial resistance of blood and cerebrospinal fluid isolates from a tertiary neonatal unit in South Africa: A 10 year retrospective review.|https://dx.doi.org/10.1371/journal.pone.0297371
+Polysaccharide-Based Coating with Excellent Antibiofilm and Repeatable Antifouling-Bactericidal Properties for Treating Infected Hernia.|https://dx.doi.org/10.1021/acs.biomac.3c01175
+Antimicrobial and wound healing potential of naphthoquinones encapsulated in nanochitosan.|https://dx.doi.org/10.3389/fbioe.2023.1284630
+Lithium and cobalt co-doped mesoporous bioactive glass nanoparticles promote osteogenesis and angiogenesis in bone regeneration.|https://dx.doi.org/10.3389/fbioe.2023.1288393
+In vitro virucidal activity of a commercial disinfectant against viruses of domestic animals and poultry.|https://dx.doi.org/10.3389/fvets.2023.1276031
+Characteristics of a lipase ArEstA with lytic activity against drug-resistant pathogen from a novel myxobacterium, Archangium lipolyticum sp. nov.|https://dx.doi.org/10.3389/fmicb.2023.1320827

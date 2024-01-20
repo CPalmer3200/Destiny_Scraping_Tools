@@ -322,3 +322,23 @@ One dose versus two doses of COVID-19 vaccine for the prevention of breakthrough
 T4 apoptosis in the acute phase of SARS-CoV-2 infection predicts long COVID.|https://dx.doi.org/10.3389/fimmu.2023.1335352
 The effect of limited healthcare access on poor outcomes among hospitalized COVID-19 patients in Honduras: A single center cohort study.|https://dx.doi.org/10.1016/j.heliyon.2024.e24015
 In Vitro Antiviral Activity of a New Indol-3-carboxylic Acid Derivative Against SARS-CoV-2.|https://dx.doi.org/10.32607/actanaturae.26623
+Acute or persistent mechanisms of dysphonia in COVID-19 patients.|https://dx.doi.org/10.1016/j.amjoto.2024.104223
+Trends in Otitis Media Ambulatory Visits in American Indian and Alaska Native Children During the Pneumococcal Conjugate Vaccine Period and the COVID-19 Pandemic.|https://dx.doi.org/10.1097/INF.0000000000004207
+Risk Factors for Severe and Critical Coronavirus Disease 2019 in Children.|https://dx.doi.org/10.1097/INF.0000000000004193
+Asthma as a Risk Factor for Hospitalization in Children and Youth With COVID-19: A Retrospective Cohort Study.|https://dx.doi.org/10.1097/INF.0000000000004248
+Racial and Ethnic Differences in Hypertension-Related Telehealth and In-Person Outpatient Visits Before and During the COVID-19 Pandemic Among Medicaid Beneficiaries.|https://dx.doi.org/10.1089/tmj.2023.0516
+PandoGen: Generating complete instances of future SARS-CoV-2 sequences using Deep Learning.|https://dx.doi.org/10.1371/journal.pcbi.1011790
+Mental health status and related factors influencing healthcare workers during the COVID-19 pandemic: A systematic review and meta-analysis.|https://dx.doi.org/10.1371/journal.pone.0289454
+Structural Insights into SARS-CoV-2 Nonstructural Protein 1 Interaction with Human Cyclophilin and FKBP1 to Regulate Interferon Production.|https://dx.doi.org/10.1021/acs.jpclett.3c02959
+Identity leadership and adherence to COVID-19 safety guidance in hospital settings.|https://dx.doi.org/10.1371/journal.pone.0293002
+The association of nursing home infection preventionists' training and credentialing with resident COVID 19 deaths.|https://dx.doi.org/10.1111/jgs.18760
+Exploring the impact of ursodeoxycholic acid therapy on COVID-19 in a real-word setting.|https://dx.doi.org/10.1002/jmv.29418
+An Evaluation of Messages to Promote Parental Intent to Vaccinate Children Aged <12 Years Against COVID-19.|https://dx.doi.org/10.1177/00333549231218725
+Impact of the Covid pandemic on timely cancer diagnosis across European healthcare settings: a scoping review.|https://dx.doi.org/10.7416/ai.2024.2596
+Effectiveness of the adapted bivalent mRNA COVID-19 vaccines against hospitalisation in individuals aged ≥ 60 years during the Omicron XBB lineage-predominant period: VEBIS SARI VE network, Europe, February to August, 2023.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.3.2300708
+A bacterial cellulose-based and low-cost electrochemical biosensor for ultrasensitive detection of SARS-CoV-2.|https://dx.doi.org/10.1016/j.xcrp.2023.101476
+Spatial co-location patterns between early COVID-19 risk and urban facilities: a case study of Wuhan, China.|https://dx.doi.org/10.3389/fpubh.2023.1293888
+The Effects of an Increased Workload in Cataract Surgery Since the Pandemic in a Tertiary Care Clinic.|https://dx.doi.org/10.22336/rjo.2023.56
+Functional Food Consumption and Its Associated Factors among University Students in Malaysia during COVID-19 Pandemic.|https://dx.doi.org/10.21315/mjms2023.30.6.13
+Performance of plant-produced RBDs as SARS-CoV-2 diagnostic reagents: a tale of two plant platforms.|https://dx.doi.org/10.3389/fpls.2023.1325162
+Maternal Exposure to Stress During Covid-19 and Non-Syndromic Orofacial Clefts: A Cohort Retrospective Study.|https://dx.doi.org/10.1177/10556656231224198
