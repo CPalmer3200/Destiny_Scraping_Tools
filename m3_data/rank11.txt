@@ -70,3 +70,7 @@ Antimicrobial Agent Functional Gold Nanocluster-Mediated Multichannel Sensor Arr
 Antibiotic resistance in Helicobacter pylori among children and adolescents in East Asia: A systematic review and meta-analysis.|https://dx.doi.org/10.1097/CM9.0000000000002884
 A comparison of antimicrobial regimen outcomes and antibiogram development in microbial keratitis: a prospective cohort study in Alexandria, Egypt.|https://dx.doi.org/10.1007/s00417-023-06362-0
 Nut Cracked? Does the ACORN Trial End the Debate Surrounding Vancomycin and Piperacillin-Tazobactam Combination Therapy and Increased Risk for Acute Kidney Injury?|https://dx.doi.org/10.1093/ofid/ofad645
+Brain abscess caused by Actinomyces turicensis in a non-immunocompromised adult patient: a case report and systematic review of the literature.|https://dx.doi.org/10.1186/s12879-024-08995-w
+Oral minocycline as systemic therapy for uncomplicated venous access device-related bloodstream infection with coagulase-negative staphylococci after allogeneic hematopoietic cell transplantation.|https://dx.doi.org/10.1016/j.retram.2023.103422
+Broad-spectrum antibiotic prophylaxis in tumor and infected orthopedic surgery-the prospective-randomized, microbiologist-blinded, stratified, superiority trials: BAPTIST Trials.|https://dx.doi.org/10.1186/s13063-023-07605-5
+Double-tube burr hole irrigation in the treatment of subdural empyema following chronic subdural hematoma surgery: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109240

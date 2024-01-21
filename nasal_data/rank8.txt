@@ -325,3 +325,16 @@ Bilateral Necrotizing Scleritis with Scleral Melt associated with Herpes Simplex
 Relationship between routine urinary catheterization and postoperative urinary symptoms and urinary tract infections in women undergoing elective caesarean section.|https://dx.doi.org/10.5114/pm.2023.133847
 Viability of the rectus femoris muscle flap for groin wound coverage after ligation of proximal inflow.|https://dx.doi.org/10.1093/jscr/rjad306
 Right coronary artery dissection after aortic valve replacement presenting with refractory ventricular fibrillation.|https://dx.doi.org/10.1093/jscr/rjad717
+Efficacy and safety of intraoperative partial spray of 50% glucose for patients with spontaneous pneumothorax.|https://dx.doi.org/10.1186/s13019-024-02486-4
+Routine sterile glove and instrument change at the time of abdominal wound closure to prevent surgical site infection (ChEETAh): a model-based cost-effectiveness analysis of a pragmatic, cluster-randomised trial in seven low-income and middle-income countries.|https://dx.doi.org/10.1016/S2214-109X(23)00538-7
+(18)F-FDG PET/CT-derived total lesion glycolysis predicts abscess formation in patients with surgically confirmed infective endocarditis: Results of a retrospective study at a tertiary center.|https://dx.doi.org/10.1007/s12350-023-03285-5
+Occipital Sinus-Sparing Linear Paramedian Dural Incision: A Technical Note and Case Series for Median Suboccipital Approach.|https://dx.doi.org/10.1016/j.wneu.2024.01.070
+Survival rates and patient reported outcomes support the use of custom cement-over megaprosthesis (CCOM) in complex revision lower limb arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.01.028
+UNEXPECTED POSITIVE CULTURES IN HIP AND KNEE PERIPROSTHETIC FRACTURES.|https://dx.doi.org/10.1016/j.arth.2024.01.030
+Surgery under siege: A case study of leg amputation in 18th century Louisbourg, Nova Scotia, Canada.|https://dx.doi.org/10.1016/j.ijpp.2024.01.002
+The value of sequential application of hydrogen peroxide, povidone-iodine and physiological saline in reducing postoperative infections after total knee arthroplasty: A prospective, randomized, controlled study.|https://dx.doi.org/10.1016/j.knee.2023.12.015
+Correction of Rectus Abdominis Diastasis: A Prospective Comparative Study Between a New Suturable Polypropylene Mesh Vs Polypropylene Standard Suture Plication.|https://dx.doi.org/10.1093/asj/sjae006
+Tumescent local anesthesia in geriatric patients with head and neck skin cancer - a retrospective study of 782 patients.|https://dx.doi.org/10.1111/ddg.15287
+Broad-spectrum antibiotic prophylaxis in tumor and infected orthopedic surgery-the prospective-randomized, microbiologist-blinded, stratified, superiority trials: BAPTIST Trials.|https://dx.doi.org/10.1186/s13063-023-07605-5
+Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma.|https://dx.doi.org/10.1007/s00535-023-02069-5
+Detection of Scedosporium spp.: Colonizer or pathogen? A retrospective analysis of clinical significance and management in a large tertiary centre.|https://dx.doi.org/10.1093/mmy/myae002

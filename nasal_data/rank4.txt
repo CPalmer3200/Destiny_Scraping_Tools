@@ -158,3 +158,14 @@ Asthma prevalence among US 9th-12th graders who report past 30-day cannabis use 
 CDC changes recommendations due to severe nirsevimab shortage during the 2023-2024 RSV season.|https://dx.doi.org/10.1002/ppul.26841
 The harmful effects of overlooking acute bacterial prostatitis.|https://dx.doi.org/10.1111/iju.15390
 A Novel Diagnostic and Treatment Algorithm for Acute Mastoiditis in Children Based on 109 Cases.|https://dx.doi.org/10.1097/MAO.0000000000004089
+The outcome of conversion total hip arthroplasty following acetabular fractures: a systematic review and meta-analysis of comparative studies.|https://dx.doi.org/10.1186/s13018-024-04561-x
+Brain abscess caused by Actinomyces turicensis in a non-immunocompromised adult patient: a case report and systematic review of the literature.|https://dx.doi.org/10.1186/s12879-024-08995-w
+Acceptability, cost-effectiveness, and capacity of a facility-based seasonal influenza vaccination among high-risk groups: a study protocol in selected tertiary care hospitals of Bangladesh.|https://dx.doi.org/10.1186/s12889-024-17724-6
+A messaging standard for environmental inspections: is it time?|https://dx.doi.org/10.1093/jamia/ocae003
+International Delphi Study on Wound Closure and Dressing Management in Joint Arthroplasty: Part 1: Total Knee Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2023.12.032
+Comparison of two testing strategies for Mycoplasma genitalium in emergency department patients across a statewide health system.|https://dx.doi.org/10.1016/j.ajem.2024.01.012
+Ultrasound-Guided Venous Axillary Access Versus Standard Fluoroscopic Technique for Cardiac Lead Implantation: ZEROFLUOROAXI Randomized Trial.|https://dx.doi.org/10.1016/j.jacep.2023.11.020
+Ameliorating Gonorrhea: Recent Therapeutic Adaptations and Scope to Improve its Prevailing Condition.|https://dx.doi.org/10.2174/0118715265258305231124105334
+The cutaneous microbiome in skin cancer - A systematic review.|https://dx.doi.org/10.1111/ddg.15294
+Dynamics of malaria vector composition and Plasmodium falciparum infection in mainland Tanzania: 2017-2021 data from the national malaria vector entomological surveillance.|https://dx.doi.org/10.1186/s12936-024-04849-7
+Double-tube burr hole irrigation in the treatment of subdural empyema following chronic subdural hematoma surgery: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109240

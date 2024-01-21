@@ -11,3 +11,4 @@ Therapeutic Management of Malignant Wounds: An Update.|https://dx.doi.org/10.100
 Protecting the Antibacterial Coating of Urinal Catheters for Improving Safety.|https://dx.doi.org/10.1021/acsabm.3c00988
 Oligoribonuclease mediates high adaptability of P. aeruginosa through metabolic conversion.|https://dx.doi.org/10.1186/s12866-023-03175-3
 Gene functions of the Ambystoma altamirani skin microbiome vary across space and time but potential antifungal genes are widespread and prevalent.|https://dx.doi.org/10.1099/mgen.0.001181
+Non-biofilm-forming Staphylococcus epidermidis planktonic cell supernatant induces alterations in osteoblast biological function.|https://dx.doi.org/10.1038/s41598-024-51899-7

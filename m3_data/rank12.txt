@@ -17,3 +17,6 @@ The transcriptional cofactor Tle3 reciprocally controls effector and central mem
 Unpacking the relationship between shared decision-making and decisional quality, decision to screen, and screening completion in lung cancer screening.|https://dx.doi.org/10.1016/j.pec.2024.108143
 Bring it on again: antimicrobial stewardship in transplant infectious diseases: updates and new challenges.|https://dx.doi.org/10.1017/ash.2023.517
 A preliminary attempt at capacitive deionization with PVA/PSS gel coating as an alternative to ion exchange membrane.|https://dx.doi.org/10.1080/09593330.2024.2304657
+Rosin as a Natural Alternative for the effective disinfection of ESKAPE Pathogens and Clostridioides difficile spores.|https://dx.doi.org/10.1093/jambio/lxae008
+Editorial: An anti-inflammatory approach to drug repurposing for Clostridioides difficile infection.|https://dx.doi.org/10.1093/infdis/jiae022
+A monoclonal antibody collection for C. difficile typing ?|https://dx.doi.org/10.1186/s13099-023-00592-7

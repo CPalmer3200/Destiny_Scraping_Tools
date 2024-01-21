@@ -12,3 +12,4 @@ The risk of multiple sclerosis on the Orkney islands. A review of the search for
 Akt activator SC79 stimulates antibacterial nitric oxide generation in human nasal epithelial cells in vitro.|https://dx.doi.org/10.1002/alr.23318
 Comparison of risk factors for Methicillin Resistant Staphylococcus aureus (MRSA) colonization in healthy newborns, born to mothers with and without MRSA colonization.|https://dx.doi.org/10.12669/pjms.40.1.7703
 Canine Staphylococcaceae circulating in a Kenyan animal shelter.|https://dx.doi.org/10.1128/spectrum.02924-23
+Genetic diversity of macrolides resistant Staphylococcus aureus clinical isolates and the potential synergistic effect of vitamins, C and K(3).|https://dx.doi.org/10.1186/s12866-023-03169-1

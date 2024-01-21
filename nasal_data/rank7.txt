@@ -342,3 +342,17 @@ The Effects of an Increased Workload in Cataract Surgery Since the Pandemic in a
 Functional Food Consumption and Its Associated Factors among University Students in Malaysia during COVID-19 Pandemic.|https://dx.doi.org/10.21315/mjms2023.30.6.13
 Performance of plant-produced RBDs as SARS-CoV-2 diagnostic reagents: a tale of two plant platforms.|https://dx.doi.org/10.3389/fpls.2023.1325162
 Maternal Exposure to Stress During Covid-19 and Non-Syndromic Orofacial Clefts: A Cohort Retrospective Study.|https://dx.doi.org/10.1177/10556656231224198
+Explainable artificial intelligence approaches for COVID-19 prognosis prediction using clinical markers.|https://dx.doi.org/10.1038/s41598-024-52428-2
+Dengue vector habitats in Ouagadougou, Burkina Faso, 2020: an unintended consequence of the installation of public handwashing stations for COVID-19 prevention.|https://dx.doi.org/10.1016/S2214-109X(23)00565-X
+Latent viral infections as neglected risk factors for long COVID - Authors' reply.|https://dx.doi.org/10.1016/S2214-109X(23)00595-8
+Online gambling patterns and predictors of problem gambling among Korean adolescents during the COVID-19 pandemic: A cross-sectional study.|https://dx.doi.org/10.1016/j.anr.2024.01.002
+The Tokyo 2020 and Beijing 2022 Olympic Games held during the COVID-19 pandemic: planning, outcomes, and lessons learnt.|https://dx.doi.org/10.1016/S0140-6736(23)02635-1
+Integrating mental health strategies in managing post-COVID-19 fatigue and insomnia: Insights and experiences from Taiwan.|https://dx.doi.org/10.1016/j.jpsychores.2024.111593
+On the impact of surveillance test strategies: a cost-benefit modelling analysis based upon real-world data from SARS-CoV-2.|https://dx.doi.org/10.1016/j.puhe.2023.12.027
+Predicting Factors of Worse Prognosis in COVID-19: Results from a Cross-sectional Study on 52 Inpatients Admitted to the Internal Medicine Department.|https://dx.doi.org/10.2174/0118715303288042240111070057
+Examining potential Long COVID effects through utilization of healthcare resources: a retrospective, population-based, matched cohort study comparing individuals with and without prior SARS-CoV-2 infection.|https://dx.doi.org/10.1093/eurpub/ckae001
+Relationship between infection or close contact with COVID-19 and workplace mistreatment among Japanese workers: A cross-sectional study.|https://dx.doi.org/10.1097/JOM.0000000000003055
+Effectiveness of a specific follow up program for the management of the mental components of Post-ICU Syndrome and Chronic Pain After COVID-19 Infection: Results from the PAIN-COVID Randomized Clinical Trial.|https://dx.doi.org/10.1016/j.redare.2023.12.009
+Successful management of persistent COVID-19 using combination antiviral therapy (nirmatrelvir/ritonavir and remdesivir) and intravenous immunoglobulin transfusion in an immunocompromised host who had received CD20 depleting therapy for follicular lymphoma.|https://dx.doi.org/10.1016/j.jiac.2024.01.008
+Nursing and healthcare-associated pneumonia due to SARS-CoV-2 Omicron variant.|https://dx.doi.org/10.1016/j.resinv.2023.12.014
+Child abuse and neglect during the COVID-19 pandemic: An umbrella review.|https://dx.doi.org/10.1016/j.chiabu.2024.106645

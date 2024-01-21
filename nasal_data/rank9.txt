@@ -312,3 +312,18 @@ Antimicrobial and wound healing potential of naphthoquinones encapsulated in nan
 Lithium and cobalt co-doped mesoporous bioactive glass nanoparticles promote osteogenesis and angiogenesis in bone regeneration.|https://dx.doi.org/10.3389/fbioe.2023.1288393
 In vitro virucidal activity of a commercial disinfectant against viruses of domestic animals and poultry.|https://dx.doi.org/10.3389/fvets.2023.1276031
 Characteristics of a lipase ArEstA with lytic activity against drug-resistant pathogen from a novel myxobacterium, Archangium lipolyticum sp. nov.|https://dx.doi.org/10.3389/fmicb.2023.1320827
+Lead generation of UPPS inhibitors targeting MRSA: Using 3D-QSAR pharmacophore modeling, virtual screening, molecular docking, and molecular dynamic simulations.|https://dx.doi.org/10.1186/s13065-023-01110-1
+Combination antimicrobial therapy: in vitro synergistic effect of anti-staphylococcal drug oxacillin with antimicrobial peptide nisin against Staphylococcus epidermidis clinical isolates and Staphylococcus aureus biofilms.|https://dx.doi.org/10.1186/s12941-024-00667-6
+In vitro antibacterial and anti-biofilm potential of an endophytic Schizophyllum commune.|https://dx.doi.org/10.1186/s13568-024-01663-x
+Non-biofilm-forming Staphylococcus epidermidis planktonic cell supernatant induces alterations in osteoblast biological function.|https://dx.doi.org/10.1038/s41598-024-51899-7
+Effects of extreme precipitation on bacterial communities and bioaerosol composition: Dispersion in urban outdoor environments and health risks.|https://dx.doi.org/10.1016/j.envpol.2024.123406
+Zinc/aluminum-layered double hydroxide-gallic acid doped carboxymethyl cellulose nanocomposite films for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129556
+Efficacy and safety of an early oral switch in low-risk Staphylococcus aureus bloodstream infection (SABATO): an international, open-label, parallel-group, randomised, controlled, non-inferiority trial.|https://dx.doi.org/10.1016/S1473-3099(23)00756-9
+MoO(x)NWs with mechanical damage - oriented synergistic photothermal / photodynamic therapy for highly effective treating wound infections.|https://dx.doi.org/10.1016/j.jcis.2024.01.025
+Fabrication of antimicrobial PCL/EC nanofibrous films containing natamycin and trans-cinnamic acid by microfluidic blow spinning for fruit preservation.|https://dx.doi.org/10.1016/j.foodchem.2024.138436
+Extracellular vesicles from Staphylococcus aureus promote the pathogenicity of Pseudomonas aeruginosa.|https://dx.doi.org/10.1016/j.micres.2024.127612
+Rosin as a Natural Alternative for the effective disinfection of ESKAPE Pathogens and Clostridioides difficile spores.|https://dx.doi.org/10.1093/jambio/lxae008
+Acute Disseminated Encephalomyelitis in a Child with Staphylococcus aureus Bacteremia and Septic Arthritis: Correspondence.|https://dx.doi.org/10.1007/s12098-024-05048-7
+Formulation and Optimization of Solid Lipid Nanoparticle-based Gel for Dermal Delivery of Linezolid Using Taguchi Design.|https://dx.doi.org/10.2174/0127724344280309240103062810
+The application of synthetic antibacterial minerals to combat topical infections: exploring a mouse model of MRSA infection.|https://dx.doi.org/10.1038/s41598-024-52082-8
+Fractionation of the Caspian sand goby epidermal exudates using membrane ultrafiltration and reversed-phase chromatography: an investigation on bioactivities.|https://dx.doi.org/10.1038/s41598-024-52126-z
