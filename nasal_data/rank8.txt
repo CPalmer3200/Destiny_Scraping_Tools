@@ -338,3 +338,9 @@ Tumescent local anesthesia in geriatric patients with head and neck skin cancer 
 Broad-spectrum antibiotic prophylaxis in tumor and infected orthopedic surgery-the prospective-randomized, microbiologist-blinded, stratified, superiority trials: BAPTIST Trials.|https://dx.doi.org/10.1186/s13063-023-07605-5
 Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma.|https://dx.doi.org/10.1007/s00535-023-02069-5
 Detection of Scedosporium spp.: Colonizer or pathogen? A retrospective analysis of clinical significance and management in a large tertiary centre.|https://dx.doi.org/10.1093/mmy/myae002
+The Klebsiella mannose phosphotransferase system promotes proliferation and the production of extracellular polymeric substances from mannose, facilitating adaptation to the host environment.|https://dx.doi.org/10.1016/j.job.2024.01.003
+A rare occurrence of a giant synovial sarcoma in the plantar region of the foot: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109268
+Transfemoral amputation versus knee arthrodesis for failed total knee replacement: A systematic review of outcomes.|https://dx.doi.org/10.1016/j.knee.2023.12.012
+New technique of En bloc vertebral resection in the thoracolumbar region assisted by retroperitoneal laparoscopy in a single prone position: first results.|https://dx.doi.org/10.1007/s00586-023-08121-5
+[Surgical plan selection and efficacy analysis in 32 cases of laryngotracheal stenosis].|https://dx.doi.org/10.3760/cma.j.cn115330-20230203-00045
+Comparative Effectiveness of Open Versus Minimally Invasive Transforaminal Lumbar Interbody Fusion: An Umbrella Review of Meta-Analyses.|https://dx.doi.org/10.1097/BSD.0000000000001561

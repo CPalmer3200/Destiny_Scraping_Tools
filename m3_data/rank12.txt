@@ -20,3 +20,4 @@ A preliminary attempt at capacitive deionization with PVA/PSS gel coating as an 
 Rosin as a Natural Alternative for the effective disinfection of ESKAPE Pathogens and Clostridioides difficile spores.|https://dx.doi.org/10.1093/jambio/lxae008
 Editorial: An anti-inflammatory approach to drug repurposing for Clostridioides difficile infection.|https://dx.doi.org/10.1093/infdis/jiae022
 A monoclonal antibody collection for C. difficile typing ?|https://dx.doi.org/10.1186/s13099-023-00592-7
+MPFL reconstruction with proximal rather than distal femoral tunnel position leads to less favorable short-term results.|https://dx.doi.org/10.1016/j.otsr.2024.103816

@@ -327,3 +327,15 @@ Acute Disseminated Encephalomyelitis in a Child with Staphylococcus aureus Bacte
 Formulation and Optimization of Solid Lipid Nanoparticle-based Gel for Dermal Delivery of Linezolid Using Taguchi Design.|https://dx.doi.org/10.2174/0127724344280309240103062810
 The application of synthetic antibacterial minerals to combat topical infections: exploring a mouse model of MRSA infection.|https://dx.doi.org/10.1038/s41598-024-52082-8
 Fractionation of the Caspian sand goby epidermal exudates using membrane ultrafiltration and reversed-phase chromatography: an investigation on bioactivities.|https://dx.doi.org/10.1038/s41598-024-52126-z
+Investigating enzyme kinetics and fluorescence sensing strategy of CRISPR/Cas12a for foodborne pathogenic bacteria.|https://dx.doi.org/10.1016/j.aca.2024.342203
+Metagenomics reveals differences in the composition of bacterial antimicrobial resistance and antibiotic resistance genes in pasteurized yogurt and probiotic bacteria yogurt from China.|https://dx.doi.org/10.3168/jds.2023-23983
+Fabrication of reversible bacteria-killing and bacteria-releasing cotton fabrics with anti-bacteria adhesion capacity for potential application in reusable medical materials.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129510
+Facile fabrication of adenosine triphosphate/chitosan/polyethyleneimine coating for high flame-retardant lyocell fabrics with outstanding antibacteria.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129599
+Techno-functional properties of active film based on guar gum-propolis and its application for "Nanguo" pears preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129578
+Development and characterization of active poly (3-hydroxybutyrate) based composites with grapeseed oil and MgO nanoparticles for shelf-life extension of white button mushrooms (Agaricus bisporus).|https://dx.doi.org/10.1016/j.ijbiomac.2024.129521
+Alcohol-free synthesis, biological assessment, in vivo toxicological evaluation, and in silico analysis of novel silane quaternary ammonium compounds differing in structure and chain length as promising disinfectants.|https://dx.doi.org/10.1016/j.jhazmat.2024.133470
+Inhibitory effects of citral on the production of virulence factors in Staphylococcus aureus and its potential application in M preservation.|https://dx.doi.org/10.1016/j.ijfoodmicro.2024.110581
+Synthesis, structure, theoretical calculation and antibacterial property of two novel Zn(II)/Ni(II) compounds based on 3, 5-dichlorosalicylaldehyde thiocarbamide ligand.|https://dx.doi.org/10.1016/j.bioorg.2024.107140
+The epidemiology and the pathogen distribution of pediatric dacryocystitis in Chinese population 2017-2022.|https://dx.doi.org/10.1186/s13052-024-01582-4
+Antimicrobial activity and mechanism of anti-MRSA of phloroglucinol derivatives.|https://dx.doi.org/10.1007/s40199-024-00503-4
+[Prevalence and risk factors for methicillin-resistant Staphylococcus aureus infection in children].|https://dx.doi.org/10.37201/req/113.2023

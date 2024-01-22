@@ -74,3 +74,6 @@ Brain abscess caused by Actinomyces turicensis in a non-immunocompromised adult 
 Oral minocycline as systemic therapy for uncomplicated venous access device-related bloodstream infection with coagulase-negative staphylococci after allogeneic hematopoietic cell transplantation.|https://dx.doi.org/10.1016/j.retram.2023.103422
 Broad-spectrum antibiotic prophylaxis in tumor and infected orthopedic surgery-the prospective-randomized, microbiologist-blinded, stratified, superiority trials: BAPTIST Trials.|https://dx.doi.org/10.1186/s13063-023-07605-5
 Double-tube burr hole irrigation in the treatment of subdural empyema following chronic subdural hematoma surgery: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109240
+Multicolor emissive carbon dot-based fluorometric analysis platform for rapid quantification and discrimination of nitroimidazole antibiotic residues.|https://dx.doi.org/10.1016/j.talanta.2024.125679
+Multiple electrolytes imbalances in a patient with inflammatory bowel disease associated with vitamin D deficiency: a case report.|https://dx.doi.org/10.1186/s13256-023-04302-4
+Antimicrobial activity and mechanism of anti-MRSA of phloroglucinol derivatives.|https://dx.doi.org/10.1007/s40199-024-00503-4

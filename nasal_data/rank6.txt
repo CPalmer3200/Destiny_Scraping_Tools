@@ -7,3 +7,4 @@ Azalomycin F4a targets peptidoglycan synthesis of Gram-positive bacteria reveale
 Proportion of toxin and non-toxin virulence factors of Staphylococcus aureus isolates from diabetic foot infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12866-023-03142-y
 The Hybrid Antibiotic Thiomarinol A Overcomes Intrinsic Resistance in Escherichia coli Using a Privileged Dithiolopyrrolone Moiety.|https://dx.doi.org/10.1021/acsinfecdis.3c00504
 The characteristics of pre-existing humoral imprint determine efficacy of S. aureus vaccines and support alternative vaccine approaches.|https://dx.doi.org/10.1016/j.xcrm.2023.101360
+Structural basis for substrate and antibiotic recognition by Helicobacter pylori isoleucyl-tRNA synthetase.|https://dx.doi.org/10.1002/1873-3468.14805

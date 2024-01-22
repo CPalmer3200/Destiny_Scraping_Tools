@@ -356,3 +356,7 @@ Effectiveness of a specific follow up program for the management of the mental c
 Successful management of persistent COVID-19 using combination antiviral therapy (nirmatrelvir/ritonavir and remdesivir) and intravenous immunoglobulin transfusion in an immunocompromised host who had received CD20 depleting therapy for follicular lymphoma.|https://dx.doi.org/10.1016/j.jiac.2024.01.008
 Nursing and healthcare-associated pneumonia due to SARS-CoV-2 Omicron variant.|https://dx.doi.org/10.1016/j.resinv.2023.12.014
 Child abuse and neglect during the COVID-19 pandemic: An umbrella review.|https://dx.doi.org/10.1016/j.chiabu.2024.106645
+Incidence and risk factors of COVID-19 in a tertiary hospital and the effectiveness of booster vaccination among healthcare workers: a retrospective cohort study, January 2020 - June 2022.|https://dx.doi.org/10.1016/j.ajic.2024.01.010
+An intranasally delivered ultra-conserved siRNA prophylactically represses SARS-CoV-2 infection in the lung and nasal cavity.|https://dx.doi.org/10.1016/j.antiviral.2024.105815
+Pediatric endoscopy in times of pandemic: A nationwide retrospective analysis.|https://dx.doi.org/10.1016/j.jiph.2023.12.023
+[The cases of tracing the source of patients infected with Omicron variant of SARS-CoV-2 based on wastewater-based epidemiology in Shenzhen].|https://dx.doi.org/10.3760/cma.j.cn112137-20231016-00766
