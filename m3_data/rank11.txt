@@ -77,3 +77,21 @@ Double-tube burr hole irrigation in the treatment of subdural empyema following 
 Multicolor emissive carbon dot-based fluorometric analysis platform for rapid quantification and discrimination of nitroimidazole antibiotic residues.|https://dx.doi.org/10.1016/j.talanta.2024.125679
 Multiple electrolytes imbalances in a patient with inflammatory bowel disease associated with vitamin D deficiency: a case report.|https://dx.doi.org/10.1186/s13256-023-04302-4
 Antimicrobial activity and mechanism of anti-MRSA of phloroglucinol derivatives.|https://dx.doi.org/10.1007/s40199-024-00503-4
+Role of membrane vesicles in the transmission of vancomycin resistance in Enterococcus faecium.|https://dx.doi.org/10.1038/s41598-024-52310-1
+Implementation of vancomycin AUC/MIC dosing vs traditional trough dosing and incidence of acute kidney injury at a rural community hospital.|https://dx.doi.org/10.1093/ajhp/zxae014
+Vancomycin-Polyguanidino Dendrimer Conjugates Inhibit Growth of Antibiotic-Resistant Gram-Positive and Gram-Negative Bacteria and Eradicate Biofilm-Associated S. aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00168
+Association between piperacillin/tazobactam use and acute kidney injury in critically ill patients: a retrospective multicentre cohort study.|https://dx.doi.org/10.1093/jac/dkae001
+Hematological Adverse Events Associated with Anti-MRSA Agents: A Real-World Analysis Based on FAERS.|https://dx.doi.org/10.1080/14740338.2024.2309225
+Impact of change in vancomycin-resistant Enterococcus infection prevention policy.|https://dx.doi.org/10.1017/ice.2023.297
+Vancomycin AUC-Based Dosing Practices in a Non-Teaching Community Hospital and Associated Outcomes: A One-Year Survey of Uniform Targets for Infections with or without MRSA.|https://dx.doi.org/10.3390/pharmacy12010015
+Microporous Polymer-Modified Glassy Carbon Electrodes for the Electrochemical Detection of Metronidazole: Experimental and Theoretical Insights.|https://dx.doi.org/10.3390/nano14020180
+Photocatalytic Removal of Metronidazole Antibiotics from Water Using Novel Ag-N-SnO(2) Nanohybrid Material.|https://dx.doi.org/10.3390/toxics12010036
+Partial oral versus full intravenous antibiotic treatment of endocarditis in people who inject drugs: A systematic review.|https://dx.doi.org/10.3138/jammi-2023-0013
+Delayed-Onset Endophthalmitis after Intravitreal Aflibercept Injection.|https://dx.doi.org/10.4103/joco.joco_134_22
+Rapid Detection and Identification of Vancomycin-Sensitive Bacteria Using an Electrochemical Apta-Sensor.|https://dx.doi.org/10.1021/acsomega.3c08219
+Model-Informed Precision Dosing Improves Outcomes in Patients Receiving Vancomycin for Gram-Positive Infections.|https://dx.doi.org/10.1093/ofid/ofae002
+Substance use disorder-associated infections' treatment with dalbavancin enabling outpatient transition (SUDDEN OUT) - an investigator-initiated single-arm unblinded prospective cohort study.|https://dx.doi.org/10.1177/20499361231223889
+Comparison of the Effectiveness of Four Different Irrigation Solutions on Postoperative Sequelae in Patients Undergoing Lower Third Molar Surgery: A Prospective Study.|https://dx.doi.org/10.7759/cureus.50816
+Aggregation-Resistant, Turn-On-Off Fluorometric Sensing of Glutathione and Nickel (II) Using Vancomycin-Conjugated Gold Nanoparticles.|https://dx.doi.org/10.3390/bios14010049
+Jugiones A-D: Antibacterial Xanthone-Anthraquinone Heterodimers from Australian Soil-Derived Penicillium shearii CMB-STF067.|https://dx.doi.org/10.3390/antibiotics13010097
+Successful Clinical Avoidance of Colorectal Anastomotic Leakage through Local Decontamination.|https://dx.doi.org/10.3390/antibiotics13010079

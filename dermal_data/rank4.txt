@@ -28,3 +28,6 @@ Preparation and Properties of Antibacterial Silk Fibroin Scaffolds.|https://dx.d
 Cationic and amphiphilic peptide-based hydrogels with dual activities as anticancer and antibacterial agents.|https://dx.doi.org/10.1039/d3sm01291c
 Berberine-loaded polylactic acid nanofiber scaffold as a drug delivery system: The relationship between chemical characteristics, drug-release behavior, and antibacterial efficiency.|https://dx.doi.org/10.3762/bjnano.15.7
 Functionalization of Cotton Nonwoven with Cyclodextrin/Lawsone Inclusion Complex Nanofibrous Coating for Antibacterial Wound Dressing.|https://dx.doi.org/10.1016/j.ijpharm.2024.123815
+Alginate Gel Encapsulated with Enzybiotics Cocktail Is Effective against Multispecies Biofilms.|https://dx.doi.org/10.3390/gels10010060
+Antimicrobial Activity of Artemisia dracunculus Oil-Loaded Agarose/Poly(Vinyl Alcohol) Hydrogel for Bio-Applications.|https://dx.doi.org/10.3390/gels10010026
+Electrospun nylon 6/hyaluronic acid/chitosan bioactive nanofibrous composite as a potential antibacterial wound dressing.|https://dx.doi.org/10.1002/jbm.b.35370

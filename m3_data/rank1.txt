@@ -11,3 +11,4 @@ Bezlotoxumab during the first episode of Clostridioides difficile infection in p
 Efficacy of noncarbapenem therapy for the treatment of ceftriaxone-resistant Enterobacterales outside the urinary tract.|https://dx.doi.org/10.1017/ash.2023.137
 Pyrin Inflammasome Activation Defines Colchicine-Responsive SURF Patients from FMF and Other Recurrent Fevers.|https://dx.doi.org/10.1007/s10875-023-01649-7
 Loratadine is an anti-inflammatory agent against C. difficile toxin B.|https://dx.doi.org/10.1093/infdis/jiae021
+Host-defense piscidin peptides as antibiotic adjuvants against Clostridioides difficile.|https://dx.doi.org/10.1371/journal.pone.0295627

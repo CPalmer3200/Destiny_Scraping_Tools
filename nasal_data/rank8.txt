@@ -344,3 +344,15 @@ Transfemoral amputation versus knee arthrodesis for failed total knee replacemen
 New technique of En bloc vertebral resection in the thoracolumbar region assisted by retroperitoneal laparoscopy in a single prone position: first results.|https://dx.doi.org/10.1007/s00586-023-08121-5
 [Surgical plan selection and efficacy analysis in 32 cases of laryngotracheal stenosis].|https://dx.doi.org/10.3760/cma.j.cn115330-20230203-00045
 Comparative Effectiveness of Open Versus Minimally Invasive Transforaminal Lumbar Interbody Fusion: An Umbrella Review of Meta-Analyses.|https://dx.doi.org/10.1097/BSD.0000000000001561
+Risk, Predictive, and Preventive Factors for Noninfectious Ventriculitis and External Ventricular Drain Infection.|https://dx.doi.org/10.1007/s12028-023-01925-9
+No role for standard imaging workup of patients with clinically evident necrotizing soft tissue infections: a national retrospective multicenter cohort study.|https://dx.doi.org/10.1007/s00068-023-02414-6
+[Translated article] Total hip arthroplasty with shelf acetabuloplasty in dysplastic coxarthrosis, mean follow-up of 7 years.|https://dx.doi.org/10.1016/j.recot.2024.01.018
+Cemented vs Cementless Femoral Fixation for Total Hip Arthroplasty Following Femoral Neck Fracture in Patients Aged 65 and Older.|https://dx.doi.org/10.1016/j.arth.2024.01.034
+Infected pseudoaneurysm of an outflow graft after left ventricular assist device insertion.|https://dx.doi.org/10.1016/j.cjca.2024.01.018
+Specialized proresolving mediator resolvin E1 corrects the altered cystic fibrosis nasal epithelium cilia beating dynamics.|https://dx.doi.org/10.1073/pnas.2313089121
+Prophylactic mesh augmentation in emergency laparotomy closure: a meta-analysis of randomized controlled trials with trial sequential analysis.|https://dx.doi.org/10.1007/s10029-023-02943-4
+Restoring vision after cat bite: a case report on successful diagnostic and therapeutic regimen for Capnocytophaga endophthalmitis.|https://dx.doi.org/10.1186/s12348-023-00378-7
+Imaging characteristics of incidentally detected cosmetic surgery-derived foreign bodies on CT images in the maxillofacial region.|https://dx.doi.org/10.1007/s11282-023-00734-2
+MEDICAL-SURGICAL MANAGEMENT OF INTESTINAL INFECTION BY PROSTHENORCHIS ELEGANS IN NONHUMAN PRIMATES FROM COSTA RICA.|https://dx.doi.org/10.1638/2022-0119
+Erratum for Sazed et al., "Direct Nasal Swab for Rapid Test and Saliva as an Alternative Biological Sample for RT-PCR in COVID-19 Diagnosis".|https://dx.doi.org/10.1128/spectrum.04014-23
+Epidemiology of and Risk Factors for Postoperative Complications from Robotic-Assisted Laparoscopic Radical Prostatectomy (RALP) in Contemporary NSQIP Data.|https://dx.doi.org/10.1089/end.2023.0388

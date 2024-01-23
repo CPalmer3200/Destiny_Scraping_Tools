@@ -360,3 +360,21 @@ Incidence and risk factors of COVID-19 in a tertiary hospital and the effectiven
 An intranasally delivered ultra-conserved siRNA prophylactically represses SARS-CoV-2 infection in the lung and nasal cavity.|https://dx.doi.org/10.1016/j.antiviral.2024.105815
 Pediatric endoscopy in times of pandemic: A nationwide retrospective analysis.|https://dx.doi.org/10.1016/j.jiph.2023.12.023
 [The cases of tracing the source of patients infected with Omicron variant of SARS-CoV-2 based on wastewater-based epidemiology in Shenzhen].|https://dx.doi.org/10.3760/cma.j.cn112137-20231016-00766
+Quality of life and healthcare utilization during the COVID-19 pandemic are more restricted in chronically ill than in healthy children: a tertiary care children's hospital experience.|https://dx.doi.org/10.1007/s00431-023-05382-6
+Satisfaction with remote consultations in primary care during COVID-19: a population survey of UK adults.|https://dx.doi.org/10.3399/BJGP.2023.0092
+Network analysis of mental health problems among adults in Addis Ababa, Ethiopia: a community-based study during the COVID-19 pandemic.|https://dx.doi.org/10.1136/bmjopen-2023-075262
+Immunogenicity and safety of concomitant bivalent COVID-19 and quadrivalent influenza vaccination: Implications of immune imprinting and interference.|https://dx.doi.org/10.1016/j.cmi.2024.01.010
+Does high school health education class satisfaction influence student perceptions of public health and pandemic response?|https://dx.doi.org/10.1016/j.ajic.2024.01.008
+Prevalence of comorbid asthma in Tunisian patients with COVID-19: clinical features and outcomes.|https://dx.doi.org/10.3855/jidc.17485
+Covid19Vaxplorer: A free, online, user-friendly COVID-19 vaccine allocation comparison tool.|https://dx.doi.org/10.1371/journal.pgph.0002136
+Viral Presence and Immunopathology in a Kidney Transplant Recipient with Fatal COVID-19: A Clinical Autopsy Report.|https://dx.doi.org/10.1093/jleuko/qiae016
+Epidemic profile of common respiratory viruses in association SARS CoV-2 among SARI and ARI-two year study.|https://dx.doi.org/10.1007/s11033-023-09084-y
+Improving Compliance with Personal Protective Equipment among anaesthetists through behaviour changing interventions during the COVID-19 Pandemic.|https://dx.doi.org/10.1093/intqhc/mzae003
+The role of HLA genetic variants in COVID-19 susceptibility, severity, and mortality: A global review.|https://dx.doi.org/10.1002/jcla.25005
+Protecting mass-gathering events in a pandemic with testing tracks and transparent information: an experimental study with festival guests.|https://dx.doi.org/10.1080/08870446.2024.2305644
+Trends and predictions of tuberculosis notification in mainland China during and after the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.jinf.2023.10.013
+Pathogen Discovery in the Post-COVID Era.|https://dx.doi.org/10.3390/pathogens13010051
+Epidemiological survey of elderly patients diagnosed with COVID-19 at mobile field hospitals.|https://dx.doi.org/10.3233/THC-230973
+Endemic Human Coronavirus-Specific Nasal Immunoglobulin A and Serum Immunoglobulin G Dynamics in Lower Respiratory Tract Infections.|https://dx.doi.org/10.3390/vaccines12010090
+Exploring Perceptions and Practices Regarding Adult Vaccination against Seasonal Influenza, Tetanus, Pneumococcal Disease, Herpes Zoster and COVID-19: A Mixed-Methods Study in Greece.|https://dx.doi.org/10.3390/vaccines12010080
+The Impact of COVID-19 and Non-COVID-19 Vaccinations in Special Populations.|https://dx.doi.org/10.3390/vaccines12010079

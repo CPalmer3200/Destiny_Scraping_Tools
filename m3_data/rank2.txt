@@ -3,3 +3,4 @@ Risk factors for colonization with multidrug-resistant Gram-negative bacteria an
 Emerging Pathogens in Planetary Health and Lessons from Comparative Genome Analyses of Three Clostridia Species.|https://dx.doi.org/10.1089/omi.2023.0034
 Intestinal bile acids provide a surmountable barrier against C. difficile TcdB-induced disease pathogenesis.|https://dx.doi.org/10.1073/pnas.2301252120
 Epidemiological and microbiome associations of Clostridioides difficile carriage in infancy and early childhood.|https://dx.doi.org/10.1080/19490976.2023.2203969
+Platelets promote human macrophages-mediated macropinocytosis of Clostridioides difficile.|https://dx.doi.org/10.3389/fcimb.2023.1252509

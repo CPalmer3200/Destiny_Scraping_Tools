@@ -339,3 +339,21 @@ Synthesis, structure, theoretical calculation and antibacterial property of two 
 The epidemiology and the pathogen distribution of pediatric dacryocystitis in Chinese population 2017-2022.|https://dx.doi.org/10.1186/s13052-024-01582-4
 Antimicrobial activity and mechanism of anti-MRSA of phloroglucinol derivatives.|https://dx.doi.org/10.1007/s40199-024-00503-4
 [Prevalence and risk factors for methicillin-resistant Staphylococcus aureus infection in children].|https://dx.doi.org/10.37201/req/113.2023
+Acute Disseminated Encephalomyelitis in a Child with Staphylococcus aureus Bacteremia and Septic Arthritis: Authors' Reply.|https://dx.doi.org/10.1007/s12098-024-05049-6
+Assessment of safety and in situ antibacterial activity of Weissella cibaria strains isolated from dairy farms in Minas Gerais State, Brazil, for their food application.|https://dx.doi.org/10.1007/s42770-023-01244-3
+Exploiting the synergistic antibacterial activity of shikimic acid and ceftiofur against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1007/s11274-023-03876-x
+Comparative assessment of phenolic composition profile and biological activities of green extract and conventional extracts of Salvia sclarea.|https://dx.doi.org/10.1038/s41598-024-51661-z
+Inherent Antibacterial Properties of Biodegradable FeMnC(Cu) Alloys for Implant Application.|https://dx.doi.org/10.1021/acsabm.3c00835
+A biodegradable Zn-5Gd alloy with biomechanical compatibility, cytocompatibility, antibacterial ability, and in vitro and in vivo osteogenesis for orthopedic applications.|https://dx.doi.org/10.1016/j.actbio.2024.01.018
+Nanopatterning of beaded poly(lactic acid) nanofibers for highly electroactive, breathable, UV-shielding and antibacterial protective membranes.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129566
+Chitosan‑iodine complexes: Preparation, characterization, and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129598
+Implementation of vancomycin AUC/MIC dosing vs traditional trough dosing and incidence of acute kidney injury at a rural community hospital.|https://dx.doi.org/10.1093/ajhp/zxae014
+Vancomycin-Polyguanidino Dendrimer Conjugates Inhibit Growth of Antibiotic-Resistant Gram-Positive and Gram-Negative Bacteria and Eradicate Biofilm-Associated S. aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00168
+An exposure assessment of 27 quaternary ammonium compounds in pet dogs and cats from New York State, USA.|https://dx.doi.org/10.1016/j.envint.2024.108446
+Enhanced Biofilm Formation by Tetracycline in a Staphylococcus aureus Naturally Lacking ica Operon and atl.|https://dx.doi.org/10.1089/mdr.2023.0186
+Neutrophils for Smart Response in Brain Infection Management.|https://dx.doi.org/10.1002/adma.202311661
+Pregnancy-associated asymptomatic bacteriuria and antibiotic resistance in the Maternity and Children's Hospital, Arar, Saudi Arabia.|https://dx.doi.org/10.3855/jidc.18184
+Essential oil from Citrus depressa peel exhibits antimicrobial, antioxidant and cancer chemopreventive effects.|https://dx.doi.org/10.1002/jsfa.13280
+Epitranscriptional m6A modification of rRNA negatively impacts translation and host colonization in Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.ppat.1011968
+Synthesis and antibacterial properties of fluorinated biodegradable cationic polyesters.|https://dx.doi.org/10.1039/d3tb02578k
+Synergistic antibacterial effect of the pistachio green hull extract-loaded porphysome decorated with 4-nitroimidazole against bacteria.|https://dx.doi.org/10.1080/08982104.2024.2304755

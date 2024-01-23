@@ -21,3 +21,6 @@ Rosin as a Natural Alternative for the effective disinfection of ESKAPE Pathogen
 Editorial: An anti-inflammatory approach to drug repurposing for Clostridioides difficile infection.|https://dx.doi.org/10.1093/infdis/jiae022
 A monoclonal antibody collection for C. difficile typing ?|https://dx.doi.org/10.1186/s13099-023-00592-7
 MPFL reconstruction with proximal rather than distal femoral tunnel position leads to less favorable short-term results.|https://dx.doi.org/10.1016/j.otsr.2024.103816
+A Streamlined Method to Obtain Biologically Active TcdA and TcdB Toxins from Clostridioides difficile.|https://dx.doi.org/10.3390/toxins16010038
+The Chaperonin TRiC/CCT Inhibitor HSF1A Protects Cells from Intoxication with Pertussis Toxin.|https://dx.doi.org/10.3390/toxins16010036
+The Relationship of Rejection Sensitivity to Depressive Symptoms in Adolescence: The Indirect Effect of Perceived Social Acceptance by Peers.|https://dx.doi.org/10.3390/bs14010010
