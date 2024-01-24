@@ -356,3 +356,20 @@ Imaging characteristics of incidentally detected cosmetic surgery-derived foreig
 MEDICAL-SURGICAL MANAGEMENT OF INTESTINAL INFECTION BY PROSTHENORCHIS ELEGANS IN NONHUMAN PRIMATES FROM COSTA RICA.|https://dx.doi.org/10.1638/2022-0119
 Erratum for Sazed et al., "Direct Nasal Swab for Rapid Test and Saliva as an Alternative Biological Sample for RT-PCR in COVID-19 Diagnosis".|https://dx.doi.org/10.1128/spectrum.04014-23
 Epidemiology of and Risk Factors for Postoperative Complications from Robotic-Assisted Laparoscopic Radical Prostatectomy (RALP) in Contemporary NSQIP Data.|https://dx.doi.org/10.1089/end.2023.0388
+Long-term PM(2.5) exposure is associated with asthma prevalence and exhaled nitric oxide levels in children.|https://dx.doi.org/10.1038/s41390-023-02977-5
+Laparoscopic ureteroneocystostomy with bladder flap for benign ureteral stenosis: our initial experience.|https://dx.doi.org/10.1038/s41598-024-52497-3
+Distinguishing sterile inflammation from graft infection.|https://dx.doi.org/10.1186/s13019-024-02504-5
+Nonmalignant tracheal stenosis: presentation, management and outcome in limited resources setting.|https://dx.doi.org/10.1186/s13019-024-02480-w
+A study of rural populations' knowledge, attitude, and practice about brucellosis: a descriptive, cross-sectional, multicenter study.|https://dx.doi.org/10.1186/s13104-024-06691-1
+Cold atmospheric plasma is bactericidal to wound-relevant pathogens and is compatible with burn wound healing.|https://dx.doi.org/10.1016/j.burns.2023.12.012
+Postoperative complications after displaced intra-articular calcaneal fracture operations.|https://dx.doi.org/10.1016/j.fas.2024.01.006
+Reduced mouth opening in patients with head and neck cancer treated with radiation therapy: An analysis of the Clinical Registry of Dental Outcomes in Head and Neck Cancer Patients (OraRad).|https://dx.doi.org/10.1016/j.oooo.2023.11.012
+Caecal malakoplakia: a rare mimic of malignancy.|https://dx.doi.org/10.1136/bcr-2023-257130
+Preoperative Exclusive Enteral Nutrition Is Associated With Reduced Skin and Soft Tissue and Intra-abdominal Infections in Patients With Crohn's Disease Undergoing Intestinal Surgery: Results from a Meta-Analysis.|https://dx.doi.org/10.1093/ibd/izad304
+Subjective Smell Disturbances in Children with Sars-Cov-2 or Other Viral Infections do not Correspond with Olfactory Test Results.|https://dx.doi.org/10.1055/a-2208-6245
+Vulval premalignant lesions: a review article.|https://dx.doi.org/10.5468/ogs.23274
+Bacterial Organisms Colonizing Mohs Surgical Wounds Healing by Second Intention on the Lower Extremities: A Prospective, Controlled Study.|https://dx.doi.org/10.1097/DSS.0000000000004089
+Intestinal Helminths Infections as Infrequent Cause of Emergency Abdominal Surgery: A Retrospective Study in a University Hospital over 20 Years.|https://dx.doi.org/10.1007/s11686-023-00789-5
+A commentary on "Prediction models of surgical site infection after gastrointestinal surgery: a nationwide prospective cohort study".|https://dx.doi.org/10.1097/JS9.0000000000001088
+Biofilm formation is a risk factor for late and delayed complications of filler injection.|https://dx.doi.org/10.3389/fmicb.2023.1297948
+Atypical presentations of UTUC: a case report of three patients.|https://dx.doi.org/10.3389/fonc.2023.1294316

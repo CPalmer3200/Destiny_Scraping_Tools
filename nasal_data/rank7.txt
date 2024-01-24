@@ -378,3 +378,21 @@ Epidemiological survey of elderly patients diagnosed with COVID-19 at mobile fie
 Endemic Human Coronavirus-Specific Nasal Immunoglobulin A and Serum Immunoglobulin G Dynamics in Lower Respiratory Tract Infections.|https://dx.doi.org/10.3390/vaccines12010090
 Exploring Perceptions and Practices Regarding Adult Vaccination against Seasonal Influenza, Tetanus, Pneumococcal Disease, Herpes Zoster and COVID-19: A Mixed-Methods Study in Greece.|https://dx.doi.org/10.3390/vaccines12010080
 The Impact of COVID-19 and Non-COVID-19 Vaccinations in Special Populations.|https://dx.doi.org/10.3390/vaccines12010079
+A novel film spray containing curcumin inhibits SARS-CoV-2 and influenza virus infection and enhances mucosal immunity.|https://dx.doi.org/10.1186/s12985-023-02282-x
+The effects of Chinese proprietary medicine and vaccination on patients with COVID-19: a retrospective study in Macao.|https://dx.doi.org/10.1186/s13020-023-00877-8
+Long-term symptoms after SARS-CoV-2 infection in a cohort of hospital employees: duration and predictive factors.|https://dx.doi.org/10.1186/s12879-023-08710-1
+Mortality in Norway and Sweden during the COVID-19 pandemic 2020-22: A comparative study.|https://dx.doi.org/10.1016/j.jiph.2023.10.033
+Predicting potential SARS-CoV-2 spillover and spillback in animals.|https://dx.doi.org/10.1016/j.jmii.2024.01.002
+Disruption of diabetes and hypertension care during the COVID-19 pandemic and recovery approaches in the Latin America and Caribbean region: a scoping review protocol.|https://dx.doi.org/10.1136/bmjopen-2023-074443
+Trends in forgone medical care and unmet needs among Medicare beneficiaries with a history of depression during the COVID-19 pandemic: a national, repeated cross-sectional study.|https://dx.doi.org/10.1136/bmjopen-2023-078223
+Clinical characteristics and outcomes of vaccinated patients hospitalised with SARS-CoV-2 breakthrough infection: Multi-IPV, a multicentre study in Northern Italy.|https://dx.doi.org/10.1016/j.jiph.2023.12.026
+Characteristics of adults who reported not having had COVID-19 in Spain after the first two years of the pandemic and associated factors.|https://dx.doi.org/10.1016/j.jiph.2023.12.024
+Motivation to participate and attrition factors in a COVID-19 biobank: A qualitative study.|https://dx.doi.org/10.1016/j.jiph.2024.01.004
+COVID-19 test-to-stay program for K-12 schools: Opt-in versus opt-out consent model.|https://dx.doi.org/10.1016/j.isci.2023.108770
+Contact tracing in Austria, Georgia, Kyrgyzstan, Ukraine, and Kosovo† during the COVID-19 pandemic: response review and good practices.|https://dx.doi.org/10.1093/eurpub/ckad217
+The impact of the pandemic on mothers and children, with a focus on syndemic effects on black families: the "Prenatal to Preschool" study protocol.|https://dx.doi.org/10.3389/fpsyt.2023.1281666
+A qualitative study exploring community pharmacists' awareness, attitudes and perceptions about drive-thru community pharmacy service in Malaysia during COVID-19.|https://dx.doi.org/10.1080/20523211.2024.2303752
+Shedding light on the next pandemic path, from outpatient to ICU, the effect of vitamin D deficiency in the SARS-CoV-2 pandemic.|https://dx.doi.org/10.3389/fnut.2023.1268267
+Inequalities in health outcomes of SARS-CoV-2 infection by migration status in Barcelona, Spain.|https://dx.doi.org/10.3389/fpubh.2023.1297025
+The impact of urban spatial environment on COVID-19: a case study in Beijing.|https://dx.doi.org/10.3389/fpubh.2023.1287999
+Prevalence of depressive symptoms and correlates among individuals who self-reported SARS-CoV-2 infection after optimizing the COVID-19 response in China.|https://dx.doi.org/10.3389/fpubh.2023.1268799

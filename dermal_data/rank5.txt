@@ -15,3 +15,8 @@ Non-biofilm-forming Staphylococcus epidermidis planktonic cell supernatant induc
 Biofilm Producing Methicillin-Resistant Staphylococcus aureus (MRSA) Infections in Humans: Clinical Implications and Management.|https://dx.doi.org/10.3390/pathogens13010076
 Chemical profiling and dermatological and anti-aging properties of Syzygium jambos L. (Alston): evidence from molecular docking, molecular dynamics, and in vitro experiments.|https://dx.doi.org/10.3389/fmolb.2023.1331059
 The Antimicrobial Efficacy of Topically Applied Mafenide Acetate, Citric Acid and Wound Irrigation Solutions Lavanox and Prontosan against Pseudomonas aeruginosa.|https://dx.doi.org/10.3390/antibiotics13010042
+Extraction, characterization, and therapeutic potential of Omega-3 fatty acids from Belone belone skin.|https://dx.doi.org/10.1007/s13205-023-03885-5
+Anti-ultraviolet, antibacterial, and biofilm eradication activities against Cutibacterium acnes of melanins and melanin derivatives from Daedaleopsis tricolor and Fomes fomentarius.|https://dx.doi.org/10.3389/fmicb.2023.1305778
+Biofilm formation is a risk factor for late and delayed complications of filler injection.|https://dx.doi.org/10.3389/fmicb.2023.1297948
+Dihydrothiazolo ring-fused 2-pyridone antimicrobial compounds treat Streptococcus pyogenes skin and soft tissue infection.|https://dx.doi.org/10.1101/2024.01.02.573960
+Antibiotics against Pseudomonas aeruginosa on Human Skin Cell Lines: Determination of the Highest Non-Cytotoxic Concentrations with Antibiofilm Capacity for Wound Healing Strategies.|https://dx.doi.org/10.3390/pharmaceutics16010117

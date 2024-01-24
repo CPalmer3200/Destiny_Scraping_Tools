@@ -95,3 +95,21 @@ Comparison of the Effectiveness of Four Different Irrigation Solutions on Postop
 Aggregation-Resistant, Turn-On-Off Fluorometric Sensing of Glutathione and Nickel (II) Using Vancomycin-Conjugated Gold Nanoparticles.|https://dx.doi.org/10.3390/bios14010049
 Jugiones A-D: Antibacterial Xanthone-Anthraquinone Heterodimers from Australian Soil-Derived Penicillium shearii CMB-STF067.|https://dx.doi.org/10.3390/antibiotics13010097
 Successful Clinical Avoidance of Colorectal Anastomotic Leakage through Local Decontamination.|https://dx.doi.org/10.3390/antibiotics13010079
+Investigation of the Effect of Swelling on the Diffusion Properties of Polyethylene Glycol Hydrogel for Wound Healing Applications.|https://dx.doi.org/10.1109/EMBC40787.2023.10340290
+Uncovering the biotechnological capacity of marine and brackish water Planctomycetota.|https://dx.doi.org/10.1007/s10482-023-01923-z
+Risk of fibromyalgia following antibiotic prescriptions: A population-based case-control study.|https://dx.doi.org/10.1002/ejp.2239
+Population Pharmacokinetics and Model-Based Dose Optimization of Vancomycin in Sudanese Adult Patients with Renal Impairment.|https://dx.doi.org/10.2147/DDDT.S432439
+In vitro antibacterial activity of antiretroviral drugs on key commensal bacteria from the human microbiota.|https://dx.doi.org/10.3389/fcimb.2023.1306430
+Correction to: Long-term carriage and evolution of vancomycin-resistant Enterococcus faecium: a genomic study on consecutive isolates.|https://dx.doi.org/10.1093/jacamr/dlae012
+Association of piperacillin and vancomycin exposure on acute kidney injury during combination therapy.|https://dx.doi.org/10.1093/jacamr/dlad157
+Association between multidrug-resistant bacteria and outcomes in intensive care unit patients: a non-interventional study.|https://dx.doi.org/10.3389/fpubh.2023.1297350
+Antibiotic use at planned central line removal in reducing neonatal post-catheter removal sepsis: a systematic review and meta-analysis.|https://dx.doi.org/10.3389/fped.2023.1324242
+DNases improve effectiveness of antibiotic treatment in murine polymicrobial sepsis.|https://dx.doi.org/10.3389/fimmu.2023.1254838
+AgrA directly binds to the promoter of vraSR and downregulates its expression in Staphylococcus aureus.|https://dx.doi.org/10.1128/aac.00893-23
+Comparison of morbidity and mortality after bloodstream infection with vancomycin-resistant versus -susceptible Enterococcus faecium: A nationwide cohort study in Denmark, 2010-2019.|https://dx.doi.org/10.1080/22221751.2024.2309969
+PBPK Modeling Approach to Predict the Behavior of Drugs Cleared by Metabolism in Pregnant Subjects and Fetuses.|https://dx.doi.org/10.3390/pharmaceutics16010096
+Pharmacokinetic Interpretation of Applying Local Drug Delivery System for the Treatment of Deep Surgical Site Infection in the Spine.|https://dx.doi.org/10.3390/pharmaceutics16010094
+Enterococci, Van Gene-Carrying Enterococci, and Vancomycin Concentrations in the Influent of a Wastewater Treatment Plant in Southeast Germany.|https://dx.doi.org/10.3390/microorganisms12010149
+The Prevalence, Epidemiological, and Molecular Characterization of Methicillin-Resistant Staphylococcus aureus (MRSA) in Macau (2017-2022).|https://dx.doi.org/10.3390/microorganisms12010148
+Which Gelatin and Antibiotic Should Be Chosen to Seal a Woven Vascular Graft?|https://dx.doi.org/10.3390/ijms25020965
+Pro-Inflammatory Cytokines Enhanced In Vitro Cytotoxic Activity of Clostridioides difficile Toxin B in Enteric Glial Cells: The Achilles Heel of Clostridioides difficile Infection?|https://dx.doi.org/10.3390/ijms25020958

@@ -185,3 +185,13 @@ Update on therapeutic approaches for invasive fungal infections in adults.|https
 The Knowledge, Attitude, and Perception of Needlestick Injuries Among Dental Students in Riyadh, Kingdom of Saudi Arabia: A Cross-Sectional Survey.|https://dx.doi.org/10.7759/cureus.50939
 Comparison of Minimum Inhibitory Concentrations of Selected Antimicrobials for Non-Aureus Staphylococci, Enterococci, Lactococci, and Streptococci Isolated from Milk Samples of Cows with Clinical Mastitis.|https://dx.doi.org/10.3390/antibiotics13010091
 Innovative Techniques for Infection Control and Surveillance in Hospital Settings and Long-Term Care Facilities: A Scoping Review.|https://dx.doi.org/10.3390/antibiotics13010077
+'Armed kyphoplasty' with posterior stabilization avoids corpectomy in complex thoracolumbar spine fractures: a case series.|https://dx.doi.org/10.1136/jnis-2023-021114
+Characteristics Associated with Pre-Exposure Prophylaxis Discussion and Use Among Transgender Women Without HIV Infection - National HIV Behavioral Surveillance Among Transgender Women, Seven Urban Areas, United States, 2019-2020.|https://dx.doi.org/10.15585/mmwr.su7301a2
+Dynamic Associations Between Centers for Disease Control and Prevention Social Media Contents and Epidemic Measures During COVID-19: Infoveillance Study.|https://dx.doi.org/10.2196/49756
+Assessment of carvacrol-antibiotic combinations' antimicrobial activity against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2023.1349550
+Top 50 Most-Cited Studies about Osteochondritis Dissecans.|https://dx.doi.org/10.1016/j.asmr.2023.100859
+Employee investigation and contact tracing program in a pediatric cancer hospital to mitigate the spread of COVID-19 among the workforce, patients, and caregivers.|https://dx.doi.org/10.3389/fpubh.2023.1304072
+Complications and Outcome of Bone Sarcoma Patients with Limb Salvage using Liquid Nitrogen-treated Bone for Reconstruction.|https://dx.doi.org/10.37029/jcas.v10i1.543
+Intertrochanteric Femoral Fractures: A Comparative Analysis of Clinical and Radiographic Outcomes Between Talon Intramedullary Nail and Intertan Nail.|https://dx.doi.org/10.7759/cureus.50877
+Consensus-Based Guidelines for Management of First-Time Patellar Dislocation in Adolescents.|https://dx.doi.org/10.1097/BPO.0000000000002616
+A qualitative assessment of cleaning and hand hygiene practices at shelters serving people experiencing homelessness during the COVID-19 pandemic, Atlanta, GA - May-June, 2020.|https://dx.doi.org/10.1186/s12889-023-16504-y

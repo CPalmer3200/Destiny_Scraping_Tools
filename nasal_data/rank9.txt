@@ -357,3 +357,22 @@ Essential oil from Citrus depressa peel exhibits antimicrobial, antioxidant and 
 Epitranscriptional m6A modification of rRNA negatively impacts translation and host colonization in Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.ppat.1011968
 Synthesis and antibacterial properties of fluorinated biodegradable cationic polyesters.|https://dx.doi.org/10.1039/d3tb02578k
 Synergistic antibacterial effect of the pistachio green hull extract-loaded porphysome decorated with 4-nitroimidazole against bacteria.|https://dx.doi.org/10.1080/08982104.2024.2304755
+Synthesis and antibacterial evaluation of novel psoralen derivatives against methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1002/cbdv.202302048
+Antirepressor specificity is shaped by highly efficient dimerization of the staphylococcal pathogenicity island regulating repressors: Stl repressor dimerization perturbed by dUTPases.|https://dx.doi.org/10.1038/s41598-024-51260-y
+Green and environmentally friendly synthesis of silver nanoparticles with antibacterial properties from some medicinal plants.|https://dx.doi.org/10.1186/s12896-023-00828-z
+Blood proteins self-assembly, staphylococcal enterotoxins-interaction, antibacterial synergistic activities of biogenic carbon/FeSO(4)/Cu/CuO nanocomposites modified with three antibiotics.|https://dx.doi.org/10.1186/s13065-024-01115-4
+Physicochemical properties and pork preservation effects of lotus seed drill core powder starch-based active packaging films.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129340
+Fabrication of Citrus bergamia essential oil-loaded sodium caseinate/peach gum nanocomplexes: Physicochemical, spectral, and structural characterization.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129475
+A trinuclear Zn (II) schiff base dicyanamide complex attenuates bacterial biofilm formation by ROS generation and membrane damage and exhibits anticancer activity.|https://dx.doi.org/10.1016/j.micpath.2024.106548
+Developing a sorptive material of cadmium from pyrolysis of hen manure.|https://dx.doi.org/10.1016/j.chemosphere.2024.141262
+The potential of Spirulina platensis to substitute antibiotics in Japanese quail diets: impacts on growth, carcass traits, antioxidant status, blood biochemical parameters, and cecal microorganisms.|https://dx.doi.org/10.1016/j.psj.2023.103350
+Smart Bactericidal Capsules Based on Cationic Luminescent Nanoclusters for Controllable Treatment of Drug-resistant Bacterial Infection.|https://dx.doi.org/10.1002/adhm.202303686
+Influenza A virus selectively elevates prostaglandin E(2) formation in pro-resolving macrophages.|https://dx.doi.org/10.1016/j.isci.2023.108775
+Anti-quorum sensing activity of poly-amidoamine dendrimer generation 5 dendrimer loaded kinase inhibitor peptide against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jsps.2023.101932
+Monstera deliciosa mediated single step biosynthesis of gold nanoparticles by bottom-up approach and its non-antimicrobial properties.|https://dx.doi.org/10.1007/s13205-023-03898-0
+In silico investigation of cholesterol-lowering drugs to find potential inhibitors of dehydrosqualene synthase in Staphylococcus aureus.|https://dx.doi.org/10.1007/s13205-023-03862-y
+A tough, antibacterial and antioxidant hydrogel dressing accelerates wound healing and suppresses hypertrophic scar formation in infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2023.12.019
+In vitro study of the antioxidant, sun factor protection, antimicrobial, and antifungal activities with molecular docking of methanolic extracts from leaves and fruit of Phillyrea angustifolia L.|https://dx.doi.org/10.1007/s13205-023-03877-5
+Extraction, characterization, and therapeutic potential of Omega-3 fatty acids from Belone belone skin.|https://dx.doi.org/10.1007/s13205-023-03885-5
+Symmetrical Localized Built-in Electric Field by Induced Polarization Effect in Ionic Covalent Organic Frameworks for Selective Imaging and Killing Bacteria.|https://dx.doi.org/10.1021/acsnano.3c11628
+Iron Sequestration by Murine Calprotectin Induces Starvation Responses in Pseudomonas aeruginosa.|https://dx.doi.org/10.1021/acsinfecdis.3c00539

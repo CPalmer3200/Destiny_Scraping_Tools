@@ -12,3 +12,4 @@ Effects of Neoadjuvant Chemotherapy on Autologous and Implant-Based Breast Recon
 Postoperative Complications Following Lumpectomy With Intraoperative X-Ray Radiation Therapy: A Retrospective Comparative Study.|https://dx.doi.org/10.1016/j.clbc.2023.12.005
 Endoscopy-Assisted Thyroglossal Duct Cyst Resection: A Scoping Review.|https://dx.doi.org/10.1002/lary.31283
 Early Complications in Prepectoral Tissue Expander-Based Breast Reconstruction.|https://dx.doi.org/10.1245/s10434-023-14861-x
+Intratumor injected gold molecular clusters for NIR-II imaging and cancer therapy.|https://dx.doi.org/10.1073/pnas.2318265121

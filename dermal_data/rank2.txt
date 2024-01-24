@@ -26,3 +26,4 @@ Foot Care Prioritization Among Health Care Providers Treating Diabetic Patients 
 Adjuvant effect of antimicrobial photodynamic therapy (aPDT) in the treatment of diabetic foot ulcers: A case series.|https://dx.doi.org/10.1002/jbio.202300412
 Synthesis and Antimicrobial Activity of 3D Micro-Nanostructured Diatom Biosilica Coated by Epitaxially Growing Ag-AgCl Hybrid Nanoparticles.|https://dx.doi.org/10.3390/biomimetics9010005
 Ozonated Sunflower Oil (OSO) alleviates inflammatory responses in oxazolone-induced atopic dermatitis (AD)-like mice and LPS- treated RAW 264.7 cells.|https://dx.doi.org/10.4014/jmb.2310.10037
+Bioactive-Glass-Based Materials with Possible Application in Diabetic Wound Healing: A Systematic Review.|https://dx.doi.org/10.3390/ijms25021152

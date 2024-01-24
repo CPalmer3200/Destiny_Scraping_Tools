@@ -12,3 +12,6 @@ Efficacy of noncarbapenem therapy for the treatment of ceftriaxone-resistant Ent
 Pyrin Inflammasome Activation Defines Colchicine-Responsive SURF Patients from FMF and Other Recurrent Fevers.|https://dx.doi.org/10.1007/s10875-023-01649-7
 Loratadine is an anti-inflammatory agent against C. difficile toxin B.|https://dx.doi.org/10.1093/infdis/jiae021
 Host-defense piscidin peptides as antibiotic adjuvants against Clostridioides difficile.|https://dx.doi.org/10.1371/journal.pone.0295627
+Patients With First-Time or Recurrent Patellar Dislocation Have a Similar High Rate and Extent of Articular Cartilage Injury Observed on Magnetic Resonance Imaging.|https://dx.doi.org/10.1016/j.asmr.2023.100849
+Use of electronic health record data to identify hospital-associated Clostridioides difficile infections: a validation study.|https://dx.doi.org/10.1101/2024.01.10.24301118
+Role of Fecal Microbiota Transplantation in Managing Clostridium Difficile Infection and Inflammatory Bowel Disease: A Narrative Review.|https://dx.doi.org/10.7759/cureus.51004

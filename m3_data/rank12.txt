@@ -24,3 +24,6 @@ MPFL reconstruction with proximal rather than distal femoral tunnel position lea
 A Streamlined Method to Obtain Biologically Active TcdA and TcdB Toxins from Clostridioides difficile.|https://dx.doi.org/10.3390/toxins16010038
 The Chaperonin TRiC/CCT Inhibitor HSF1A Protects Cells from Intoxication with Pertussis Toxin.|https://dx.doi.org/10.3390/toxins16010036
 The Relationship of Rejection Sensitivity to Depressive Symptoms in Adolescence: The Indirect Effect of Perceived Social Acceptance by Peers.|https://dx.doi.org/10.3390/bs14010010
+Robust and Transparent Silver Oxide Coating Fabricated at Room Temperature Kills Clostridioides difficile Spores, MRSA, and Pseudomonas aeruginosa.|https://dx.doi.org/10.3390/microorganisms12010083
+Animal and In Vitro Models as Powerful Tools to Decipher the Effects of Enteric Pathogens on the Human Gut Microbiota.|https://dx.doi.org/10.3390/microorganisms12010067
+Sustainable B(12)-Dependent Dehalogenation of Organohalides in E. coli.|https://dx.doi.org/10.1021/acschembio.3c00585
