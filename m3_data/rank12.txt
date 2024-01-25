@@ -27,3 +27,4 @@ The Relationship of Rejection Sensitivity to Depressive Symptoms in Adolescence:
 Robust and Transparent Silver Oxide Coating Fabricated at Room Temperature Kills Clostridioides difficile Spores, MRSA, and Pseudomonas aeruginosa.|https://dx.doi.org/10.3390/microorganisms12010083
 Animal and In Vitro Models as Powerful Tools to Decipher the Effects of Enteric Pathogens on the Human Gut Microbiota.|https://dx.doi.org/10.3390/microorganisms12010067
 Sustainable B(12)-Dependent Dehalogenation of Organohalides in E. coli.|https://dx.doi.org/10.1021/acschembio.3c00585
+A comprehensive drought index based on spatial principal component analysis and its application in northern China.|https://dx.doi.org/10.1007/s10661-024-12366-y

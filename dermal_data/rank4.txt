@@ -33,3 +33,4 @@ Antimicrobial Activity of Artemisia dracunculus Oil-Loaded Agarose/Poly(Vinyl Al
 Electrospun nylon 6/hyaluronic acid/chitosan bioactive nanofibrous composite as a potential antibacterial wound dressing.|https://dx.doi.org/10.1002/jbm.b.35370
 Smart Bactericidal Capsules Based on Cationic Luminescent Nanoclusters for Controllable Treatment of Drug-resistant Bacterial Infection.|https://dx.doi.org/10.1002/adhm.202303686
 A tough, antibacterial and antioxidant hydrogel dressing accelerates wound healing and suppresses hypertrophic scar formation in infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2023.12.019
+Dehydration-Toughing Dual-Solvent Gels with Viscoelastic Transition for Infectious Wound Treatment.|https://dx.doi.org/10.1002/adhm.202303655

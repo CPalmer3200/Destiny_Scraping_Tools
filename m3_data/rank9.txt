@@ -3,3 +3,4 @@ A Rare Case of Polymerase Chain Reaction-Negative Severe Clostridioides difficil
 Association of metabolic dysfunction-associated fatty liver disease with gastrointestinal infections: insights from National Inpatient Sample Database.|https://dx.doi.org/10.1136/bmjgast-2023-001224
 Approaching pathogenic Clostridia from a One Health perspective.|https://dx.doi.org/10.1101/2024.01.08.574718
 The Efficacy of a Mix of Probiotics (Limosilactobacillus reuteri LMG P-27481 and Lacticaseibacillus rhamnosus GG ATCC 53103) in Preventing Antibiotic-Associated Diarrhea and Clostridium difficile Infection in Hospitalized Patients: Single-Center, Open-Label, Randomized Trial.|https://dx.doi.org/10.3390/microorganisms12010198
+Toxigenic Clostridium perfringens isolated from at-risk pediatric inflammatory bowel disease patients.|https://dx.doi.org/10.1093/ecco-jcc/jjae016

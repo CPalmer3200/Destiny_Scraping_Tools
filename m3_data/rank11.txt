@@ -113,3 +113,10 @@ Enterococci, Van Gene-Carrying Enterococci, and Vancomycin Concentrations in the
 The Prevalence, Epidemiological, and Molecular Characterization of Methicillin-Resistant Staphylococcus aureus (MRSA) in Macau (2017-2022).|https://dx.doi.org/10.3390/microorganisms12010148
 Which Gelatin and Antibiotic Should Be Chosen to Seal a Woven Vascular Graft?|https://dx.doi.org/10.3390/ijms25020965
 Pro-Inflammatory Cytokines Enhanced In Vitro Cytotoxic Activity of Clostridioides difficile Toxin B in Enteric Glial Cells: The Achilles Heel of Clostridioides difficile Infection?|https://dx.doi.org/10.3390/ijms25020958
+Cross-border differences in the prevalence and risk factors for carriage of antimicrobial resistance in children attending daycare centers: a point prevalence study in the Netherlands and Belgium.|https://dx.doi.org/10.1186/s12879-024-08996-9
+Infectious keratitis following corneal transplantation: A long-term cohort study.|https://dx.doi.org/10.1111/ceo.14354
+Endoscopic retrograde cholangiopancreatography-obtained bile culture in acute cholangitis: retrospective analysis of bile cultures and risk factors in a tertiary care center.|https://dx.doi.org/10.1111/jgh.16492
+Evaluation of the antimicrobial efficacy of different nonsteroidal anti-inflammatory drugs alone or in combination with calcium hydroxide intracanal medicament: an in vitro study.|https://dx.doi.org/10.1007/s10266-023-00892-z
+Metronidazole-induced encephalopathy after living donor liver transplantation.|https://dx.doi.org/10.1111/tid.14240
+Drug resistance patterns and genotype associations of Trichomonas gallinae in meat pigeons (Columba livia): insights from Guangdong Province, China.|https://dx.doi.org/10.3389/fvets.2023.1343321
+[Determination of Capsule Types, Antibiotic Resistance Profiles and Phylogenetic Relationships of Group B Streptococcus Isolates Isolated from Patients Followed in Various Clinics and Polyclinics].|https://dx.doi.org/10.5578/mb.20249901

@@ -15,3 +15,4 @@ Host-defense piscidin peptides as antibiotic adjuvants against Clostridioides di
 Patients With First-Time or Recurrent Patellar Dislocation Have a Similar High Rate and Extent of Articular Cartilage Injury Observed on Magnetic Resonance Imaging.|https://dx.doi.org/10.1016/j.asmr.2023.100849
 Use of electronic health record data to identify hospital-associated Clostridioides difficile infections: a validation study.|https://dx.doi.org/10.1101/2024.01.10.24301118
 Role of Fecal Microbiota Transplantation in Managing Clostridium Difficile Infection and Inflammatory Bowel Disease: A Narrative Review.|https://dx.doi.org/10.7759/cureus.51004
+The combined effect of systemic antibiotics and proton pump inhibitors on Clostridioides difficile infection and recurrence.|https://dx.doi.org/10.1093/jac/dkae012

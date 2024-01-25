@@ -6,3 +6,6 @@ Community-acquired Staphylococcus aureus skin and soft tissue infection risk ass
 Acute Generalized Exanthematous Pustulosis in a Hemodialysis Patient.|https://dx.doi.org/10.7759/cureus.50354
 Nanosecond pulsed electric fields increase antibiotic susceptibility in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.02992-23
 Staphylococcus aureus β-hemolysin causes skin inflammation by acting as an agonist of epidermal growth factor receptor.|https://dx.doi.org/10.1128/spectrum.02227-23
+Accuracy of the GeneXpert® MRSA/SA SSTI test to diagnose methicillin-resistant Staphylococcus spp. infection in bone fixation and fusion and management of infected non-unions.|https://dx.doi.org/10.1016/j.otsr.2024.103820
+The cooperation between orf virus and Staphylococcus aureus leads to intractable lesions in skin infection.|https://dx.doi.org/10.3389/fcimb.2023.1213694
+Platanosides from Platanus × acerifolia: New molecules, SAR, and target validation of a strong lead for drug-resistant bacterial infections and the associated sepsis.|https://dx.doi.org/10.1016/j.bioorg.2024.107103
