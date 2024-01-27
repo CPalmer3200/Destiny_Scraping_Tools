@@ -18,3 +18,23 @@ Association between the risk perception of contracting COVID-19 and sociodemogra
 Editorial: COVID-19 booster vaccination: increasing immunity against life-threatening infection.|https://dx.doi.org/10.3389/fpubh.2023.1342118
 A review of the John F. Kennedy Medical Center's response to the COVID-19 pandemic in Liberia.|https://dx.doi.org/10.3389/fpubh.2023.1258938
 Hybrid surgical-catheter epicardial ablation of recurrent ventricular tachycardia in an arrhythmogenic cardiomyopathy patient with pericardial adhesions following COVID-19 infection.|https://dx.doi.org/10.1016/j.hrcr.2023.10.011
+Job Flows Into and Out of Health Care Before and After the COVID-19 Pandemic.|https://dx.doi.org/10.1001/jamahealthforum.2023.4964
+Clinical Risk and Outpatient Therapy Utilization for COVID-19 in the Medicare Population.|https://dx.doi.org/10.1001/jamahealthforum.2023.5044
+A Qualitative Exploration of Prominent Factors Contributing to the Aetiology of Child and Adolescent Eating Disorder Presentations during the COVID-19 Pandemic: The Perspectives of Patients, Parents and Clinicians.|https://dx.doi.org/10.3390/jcm13020615
+Emerging Therapeutic Potential of Polyphenols from Geranium sanguineum L. in Viral Infections, Including SARS-CoV-2.|https://dx.doi.org/10.3390/biom14010130
+Trends in Gastrointestinal Infections during the COVID-19 Pandemic and Concerns of Post-Pandemic Resurgence in Japan.|https://dx.doi.org/10.3390/diseases12010004
+Surgical Treatment of Active Endocarditis Pre- and Post-COVID-19 Pandemic Onset.|https://dx.doi.org/10.3390/biomedicines12010233
+COVID-19 Associated Acute Viral Myocarditis and Thyroid Gland Follicular Neoplasm in a Hemodialysis Patient.|https://dx.doi.org/10.5001/omj.2023.75
+The Effect of Metabolic Control on Diabetes Complication Rates and the Need for Medical Care During COVID-19 Social Isolation in Adjara, Georgia.|https://dx.doi.org/10.7759/cureus.51093
+Immunogenicity and reactogenicity of repeated intradermal mRNA COVID-19 vaccines administered as a second booster dose in a Thai geriatric population.|https://dx.doi.org/10.3389/fimmu.2023.1302041
+Impact of COVID-19 vaccination: a global perspective.|https://dx.doi.org/10.3389/fpubh.2023.1272961
+Beyond SARS-CoV-2: epidemiological surveillance of respiratory viruses in Jalisco, Mexico.|https://dx.doi.org/10.3389/fpubh.2023.1292614
+Resurgence of influenza A after SARS-CoV-2 omicron wave and comparative analysis of hospitalized children with COVID-19 and influenza A virus infection.|https://dx.doi.org/10.3389/fmed.2023.1289487
+Nomogram to predict the incidence of delirium in elderly patients with non-severe SARS-CoV-2 infection.|https://dx.doi.org/10.3389/fpsyt.2023.1288948
+Estimating the return on investment of selected infection prevention and control interventions in healthcare settings for preparing against novel respiratory viruses: modelling the experience from SARS-CoV-2 among health workers.|https://dx.doi.org/10.1016/j.eclinm.2023.102388
+How adolescents' lives were disrupted over the course of the COVID-19 pandemic: A longitudinal investigation in 12 cultural groups in 9 nations from March 2020 to July 2022.|https://dx.doi.org/10.1017/S0954579423001621
+The impact of preoperative coronavirus disease 19 infection on early postoperative mortality during the vaccination era: a nationwide retrospective cohort study.|https://dx.doi.org/10.4097/kja.23761
+SARS-CoV-2 Neutralization by Cell Membrane-Coated Antifouling Nanoparticles.|https://dx.doi.org/10.1021/acsabm.3c00936
+Quercetin inhibits SARS-CoV-2 infection and prevents syncytium formation by cells co-expressing the viral spike protein and human ACE2.|https://dx.doi.org/10.1186/s12985-024-02299-w
+Influence of Community Determinants on Barriers and Facilitators to COVID-19 Vaccine Uptake: Regional Stakeholders' Perspectives.|https://dx.doi.org/10.1016/j.vaccine.2024.01.039
+Self-rated health status and hygienic behaviour of pregnant women in Hungary during the pandemic.|https://dx.doi.org/10.21101/cejph.a7897

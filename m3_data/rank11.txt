@@ -120,3 +120,22 @@ Evaluation of the antimicrobial efficacy of different nonsteroidal anti-inflamma
 Metronidazole-induced encephalopathy after living donor liver transplantation.|https://dx.doi.org/10.1111/tid.14240
 Drug resistance patterns and genotype associations of Trichomonas gallinae in meat pigeons (Columba livia): insights from Guangdong Province, China.|https://dx.doi.org/10.3389/fvets.2023.1343321
 [Determination of Capsule Types, Antibiotic Resistance Profiles and Phylogenetic Relationships of Group B Streptococcus Isolates Isolated from Patients Followed in Various Clinics and Polyclinics].|https://dx.doi.org/10.5578/mb.20249901
+Long-term debridement effect of denervated large sacrococcygeal pressure injury: A case report.|https://dx.doi.org/10.1097/MD.0000000000037012
+Uropathogenic distribution and antibiotic resistance patterns according to multidrug-resistant bacteria colonization status in patients with stroke.|https://dx.doi.org/10.1097/MD.0000000000036980
+Crystal structure of vancomycin bound to the resistance determinant D-alanine-D-serine.|https://dx.doi.org/10.1107/S2052252524000289
+Removal efficiencies of seven frequently detected antibiotics and related physiological responses in three microalgae species.|https://dx.doi.org/10.1007/s11356-024-32026-5
+The Impact of Various Poly(vinylpyrrolidone) Polymers on the Crystallization Process of Metronidazole.|https://dx.doi.org/10.3390/pharmaceutics16010136
+Methicillin-Resistant Staphylococcus aureus (MRSA) in a Tertiary Care Hospital in Kuwait: A Molecular and Genetic Analysis.|https://dx.doi.org/10.3390/microorganisms12010017
+Independent Risk Factors Predicting Eradication Failure of Hybrid Therapy for the First-Line Treatment of Helicobacter pylori Infection.|https://dx.doi.org/10.3390/microorganisms12010006
+Antibacterial Activities of Ag/Cellulose Nanocomposites Derived from Marine Environment Algae against Bacterial Tooth Decay.|https://dx.doi.org/10.3390/microorganisms12010001
+Antibiotic Resistance to Molecules Commonly Prescribed for the Treatment of Antibiotic-Resistant Gram-Positive Pathogens: What Is Relevant for the Clinician?|https://dx.doi.org/10.3390/pathogens13010088
+Selective and Concentrative Enteropancreatic Recirculation of Antibiotics by Pigs.|https://dx.doi.org/10.3390/antibiotics13010012
+Antibiofilm and Antivirulence Properties of 6-Polyaminosteroid Derivatives against Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.3390/antibiotics13010008
+Clinical characteristics and prognosis of pediatric Listeria monocytogenes meningitis based on 10-year data from a large children's hospital in China.|https://dx.doi.org/10.1128/spectrum.03244-23
+Combination of Doxycycline with Metronidazole Protects against Pyroptosis in Rats with Endometritis through the Modulation of TLR4/NF-κB Pathway.|https://dx.doi.org/10.24976/Discov.Med.202436180.13
+Rapid and Effective Treatment of Peritonitis in Peritoneal Dialysis Patients with Intravenous Dalbavancin.|https://dx.doi.org/10.12659/AJCR.942755
+Rapid and ultra-sensitive lateral flow assay for pathogens based on multivalent aptamer and magnetic nanozyme.|https://dx.doi.org/10.1016/j.bios.2024.116044
+Geographical distribution of antimicrobial exposure among very preterm and very low birth weight infants: A nationwide database study in Japan.|https://dx.doi.org/10.1371/journal.pone.0295528
+Early Detection and Intervention for Hirschsprung's Disease: A Key to Successful Outcomes.|https://dx.doi.org/10.1177/11795476241226577
+Vancomycin-variable enterococci in sheep and cattle isolates and whole-genome sequencing analysis of isolates harboring vanM and vanB genes.|https://dx.doi.org/10.22099/IJVR.2023.47465.6855
+Biofilm forming multidrug resistant Staphylococcus aureus of dairy origin: molecular and evolutionary perspectives.|https://dx.doi.org/10.22099/IJVR.2023.43941.6445

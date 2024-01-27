@@ -34,3 +34,6 @@ Electrospun nylon 6/hyaluronic acid/chitosan bioactive nanofibrous composite as 
 Smart Bactericidal Capsules Based on Cationic Luminescent Nanoclusters for Controllable Treatment of Drug-resistant Bacterial Infection.|https://dx.doi.org/10.1002/adhm.202303686
 A tough, antibacterial and antioxidant hydrogel dressing accelerates wound healing and suppresses hypertrophic scar formation in infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2023.12.019
 Dehydration-Toughing Dual-Solvent Gels with Viscoelastic Transition for Infectious Wound Treatment.|https://dx.doi.org/10.1002/adhm.202303655
+Biomimetic Gradient Hydrogels with High Toughness and Antibacterial Properties.|https://dx.doi.org/10.3390/gels10010006
+Multifunctional Wound Curation Dressing Material FemuFrost─An Antioxidant-Loaded Nanoemulsion Frosted Patch of Poly(vinyl alcohol) and Hyaluronic Acid.|https://dx.doi.org/10.1021/acsabm.3c00996
+Versatile Antibacterial and Antioxidant Bacterial Cellulose@Nanoceria Biotextile: Application in Reusable Antimicrobial Face Masks.|https://dx.doi.org/10.1002/adhm.202304156

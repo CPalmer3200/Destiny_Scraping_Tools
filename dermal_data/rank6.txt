@@ -5,3 +5,4 @@ Histological and functional characterization of 3D human skin models mimicking t
 Antioxidant, Antibacterial Properties of Novel Peptide CP by Enzymatic Hydrolysis of Chromis notata By-Products and Its Efficacy on Atopic Dermatitis.|https://dx.doi.org/10.3390/md22010044
 Boesenbergia rotunda and Its Pinostrobin for Atopic Dermatitis: Dual 5-Lipoxygenase and Cyclooxygenase-2 Inhibitor and Its Mechanistic Study through Steady-State Kinetics and Molecular Modeling.|https://dx.doi.org/10.3390/antiox13010074
 An In Vitro Model to Assess Early Immune Markers Following Co-Exposure of Epithelial Cells to Carbon Black (Nano)Particles in the Presence of S. aureus: A Role for Stressed Cells in Toxicological Testing.|https://dx.doi.org/10.3390/biomedicines12010128
+Dupilumab Alters Both the Bacterial and Fungal Skin Microbiomes of Patients with Atopic Dermatitis.|https://dx.doi.org/10.3390/microorganisms12010224

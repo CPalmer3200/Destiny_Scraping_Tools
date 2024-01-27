@@ -1,2 +1,3 @@
 In vivo evaluation of Clostridioides difficile enoyl-ACP reductase II (FabK) inhibition by phenylimidazole unveils a promising narrow-spectrum antimicrobial strategy.|https://dx.doi.org/10.1128/aac.01222-23
 Exposure and resistance to lantibiotics impact microbiota composition and function.|https://dx.doi.org/10.1101/2023.12.30.573728
+A five-year quasi-experimental study to evaluate the impact of empiric antibiotic order sets on antibiotic use metrics among hospitalized adult patients.|https://dx.doi.org/10.1017/ice.2023.293

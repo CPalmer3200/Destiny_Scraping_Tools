@@ -8,3 +8,23 @@ Community perceptions of contributors and solutions related to neighborhood viol
 Percutaneous versus traditional open approaches for the treatment of thoracolumbar fractures in patients without neurologic deficits: a meta-analysis of 35 cohort studies.|https://dx.doi.org/10.1007/s10143-023-02259-y
 Mitigating Cross-Species Viral Infections in Xenotransplantation: Progress, Strategies, and Clinical Outlook.|https://dx.doi.org/10.1177/09636897241226849
 Evaluation of an Infection surveillance program in residential aged care facilities in Victoria, Australia.|https://dx.doi.org/10.1186/s12889-023-17482-x
+Huge uterine abscess after myomectomy: A case report.|https://dx.doi.org/10.1097/MD.0000000000037009
+AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With Inflammatory Bowel Disease: Expert Review.|https://dx.doi.org/10.1053/j.gastro.2023.11.303
+Surgical Antibiotic Prophylaxis: A Proposal for a Global Evidence-Based Bundle.|https://dx.doi.org/10.3390/antibiotics13010100
+Tailored Pre-Operative Antibiotic Prophylaxis to Prevent Post-Operative Surgical Site Infections in General Surgery.|https://dx.doi.org/10.3390/antibiotics13010099
+A Review of the Clinical Utilization of Oral Antibacterial Therapy in the Treatment of Bone Infections in Adults.|https://dx.doi.org/10.3390/antibiotics13010004
+Antibiofilm Activity of Eugenol-Loaded Chitosan Coatings against Common Medical-Device-Contaminating Bacteria.|https://dx.doi.org/10.1021/acsabm.3c00949
+The Level of Awareness Among Surgical Physicians Regarding Surgical Site Infections and the Risks Associated With Wound Infections in Makkah.|https://dx.doi.org/10.7759/cureus.51111
+Pharmacokinetic/pharmacodynamic analysis of cephalothin after intramuscular administration in Thoroughbred horses.|https://dx.doi.org/10.1294/jes.34.111
+Closed Reduction and Percutaneous Fixation of Lisfranc Injury Using Suspensory Fixation.|https://dx.doi.org/10.2106/JBJS.ST.21.00066
+Rapid and Effective Treatment of Peritonitis in Peritoneal Dialysis Patients with Intravenous Dalbavancin.|https://dx.doi.org/10.12659/AJCR.942755
+Inactivation and replantation of the knee joint: an infeasible surgical method.|https://dx.doi.org/10.1186/s12957-024-03311-x
+Effect of salpingectomy versus tubal ligation on postoperative wound infection in patients: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14543
+Wound infection prevention strategies in colorectal endoscopic mucosal resection: A meta-analysis of prophylactic measures.|https://dx.doi.org/10.1111/iwj.14544
+Risk predictions of surgical wound complications based on a machine learning algorithm: A systematic review.|https://dx.doi.org/10.1111/iwj.14665
+Surgical antimicrobial prophylaxis in Japanese hospitals: Real status and challenges.|https://dx.doi.org/10.1016/j.jiac.2024.01.013
+Obesity and Prenatal Intention as Predictors of Meeting Breastfeeding Recommendations in an Urban Birth Cohort.|https://dx.doi.org/10.1089/bfm.2023.0207
+The Reasoning through Evidence versus Advice (EvA) Scale: Scale Development and Validation.|https://dx.doi.org/10.1080/00223891.2023.2297266
+Using intervention mapping to develop an implementation strategy to improve timely uptake of streamlined birth-dose vaccines in the Democratic Republic of the Congo.|https://dx.doi.org/10.1371/journal.pgph.0002641
+Prospective cohort study of surgical site infections following single dose antibiotic prophylaxis in caesarean section at a tertiary care teaching hospital in Medchal, India.|https://dx.doi.org/10.1371/journal.pone.0286165
+Antimicrobial stewardship capacity and antibiotic utilisation practices in the Cape Coast Teaching Hospital, Ghana: A point prevalence survey study.|https://dx.doi.org/10.1371/journal.pone.0297626

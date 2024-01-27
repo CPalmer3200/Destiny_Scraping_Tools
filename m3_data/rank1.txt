@@ -16,3 +16,5 @@ Patients With First-Time or Recurrent Patellar Dislocation Have a Similar High R
 Use of electronic health record data to identify hospital-associated Clostridioides difficile infections: a validation study.|https://dx.doi.org/10.1101/2024.01.10.24301118
 Role of Fecal Microbiota Transplantation in Managing Clostridium Difficile Infection and Inflammatory Bowel Disease: A Narrative Review.|https://dx.doi.org/10.7759/cureus.51004
 The combined effect of systemic antibiotics and proton pump inhibitors on Clostridioides difficile infection and recurrence.|https://dx.doi.org/10.1093/jac/dkae012
+Gut Microbiota-Gut Metabolites and Clostridioides difficile Infection: Approaching Sustainable Solutions for Therapy.|https://dx.doi.org/10.3390/metabo14010074
+Potential underreporting of treated patients using a Clostridioides difficile testing algorithm that screens with a nucleic acid amplification test.|https://dx.doi.org/10.1017/ice.2023.262

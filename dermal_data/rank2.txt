@@ -28,3 +28,6 @@ Synthesis and Antimicrobial Activity of 3D Micro-Nanostructured Diatom Biosilica
 Ozonated Sunflower Oil (OSO) alleviates inflammatory responses in oxazolone-induced atopic dermatitis (AD)-like mice and LPS- treated RAW 264.7 cells.|https://dx.doi.org/10.4014/jmb.2310.10037
 Bioactive-Glass-Based Materials with Possible Application in Diabetic Wound Healing: A Systematic Review.|https://dx.doi.org/10.3390/ijms25021152
 The Effect of Limb Salvage Efforts in Different Age Groups: Relationships Between Major and Minor Amputations.|https://dx.doi.org/10.1053/j.jfas.2024.01.010
+Cholecalciferol Exhibits no Antibacterial Effect on Staphylococcus aureus and Escherichia coli: an in-vitro Study.|https://dx.doi.org/10.2174/0127724344277290231211051800
+Neddylation suppression by a macrophage membrane-coated nanoparticle promotes dual immunomodulatory repair of diabetic wounds.|https://dx.doi.org/10.1016/j.bioactmat.2023.12.025
+Plantar pressure distribution and altered postural control in multibacillary leprosy patients.|https://dx.doi.org/10.1186/s12879-023-08749-0

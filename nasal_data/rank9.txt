@@ -15,3 +15,21 @@ Resistance and virulence in Staphylococcus aureus by whole-genome sequencing: a 
 Efficacy of lysostaphin-coated titanium plates on implant-associated MRSA osteitis in minipigs.|https://dx.doi.org/10.1007/s00068-024-02448-4
 Risk Factors of the Totally Implantable Venous Access Device-Related Infection in Patients With Brain Tumors Undergoing Chemotherapy After Surgery.|https://dx.doi.org/10.1089/sur.2023.266
 Death by community-based methicillin-resistant Staphylococcus aureus: case report.|https://dx.doi.org/10.5935/2965-2774.20230078-en
+Interactions of plumbagin with five common antibiotics against Staphylococcus aureus in vitro.|https://dx.doi.org/10.1371/journal.pone.0297493
+Volatile organic compounds in headspace characterize isolated bacterial strains independent of growth medium or antibiotic sensitivity.|https://dx.doi.org/10.1371/journal.pone.0297086
+Impact of air humidity on the tenacity of different agents in bioaerosols.|https://dx.doi.org/10.1371/journal.pone.0297193
+Antimicrobial activity and properties of de novo design of short synthetic lipopeptides.|https://dx.doi.org/10.1007/s12223-024-01132-9
+Expression and purification of epinecidin-1 variant (Ac-Var-1) by acid cleavage.|https://dx.doi.org/10.1007/s00253-024-13017-5
+Antibacterial effect of red laser-activated silver nanoparticles synthesized with grape seed extract against Staphylococcus aureus and Escherichia coli.|https://dx.doi.org/10.1007/s10103-024-03991-7
+Nine New Antibacterial Diterpenes and Steroids from the South China Sea Soft Coral Lobophytum catalai Tixier-Durivault.|https://dx.doi.org/10.3390/md22010050
+High-Yield Preparation of American Oyster Defensin (AOD) via a Small and Acidic Fusion Tag and Its Functional Characterization.|https://dx.doi.org/10.3390/md22010008
+Cell Staining Microgels Derived from a Natural Phenolic Dye: Hematoxylin Has Intriguing Biomedical Potential.|https://dx.doi.org/10.3390/pharmaceutics16010147
+Lactobacillus johnsonii LJO02 (DSM 33828) Cell-Free Supernatant and Vitamin D Improve Wound Healing and Reduce Interleukin-6 Production in Staphylococcus aureus-Infected Human Keratinocytes.|https://dx.doi.org/10.3390/pharmaceutics16010018
+Fibronectin Conformations after Electrodeposition onto 316L Stainless Steel Substrates Enhanced Early-Stage Osteoblasts' Adhesion but Affected Their Behavior.|https://dx.doi.org/10.3390/jfb15010005
+Antimicrobial Oleogel Containing Sustainably Prepared Silver-Based Nanomaterials for Topical Application.|https://dx.doi.org/10.3390/jfb15010004
+Dupilumab Alters Both the Bacterial and Fungal Skin Microbiomes of Patients with Atopic Dermatitis.|https://dx.doi.org/10.3390/microorganisms12010224
+A Three-Dimensional Model of Bacterial Biofilms and Its Use in Antimicrobial Susceptibility Testing.|https://dx.doi.org/10.3390/microorganisms12010203
+Antibacterial, Resistance Modulation, Anti-Biofilm Formation, and Efflux Pump Inhibition Properties of Loeseneriella africana (Willd.) N. Halle (Celastraceae) Stem Extract and Its Constituents.|https://dx.doi.org/10.3390/microorganisms12010007
+MEndoB, a chimeric lysin featuring a novel domain architecture and superior activity for the treatment of staphylococcal infections.|https://dx.doi.org/10.1128/mbio.02540-23
+Biomimetic Gradient Hydrogels with High Toughness and Antibacterial Properties.|https://dx.doi.org/10.3390/gels10010006
+Biological Properties of Recently Described Wild Bramble Rubus oklejewiczii against the Species from Similar Niches.|https://dx.doi.org/10.3390/foods13020337

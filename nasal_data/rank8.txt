@@ -15,3 +15,17 @@ Small bowel volvulus associated with percutaneous endoscopic gastrojejunostomy t
 SARS-CoV-2 viral clearance and evolution varies by type and severity of immunodeficiency.|https://dx.doi.org/10.1126/scitranslmed.adk1599
 Impact of Metabolic Syndrome on Post-Operative Infection in Patients Undergoing Flexible Ureteroscopy Lithotripsy.|https://dx.doi.org/10.1089/sur.2023.205
 The role of patient positioning in surgical fixation of the calcaneus fractures using the lateral extensile approach.|https://dx.doi.org/10.1007/s00590-023-03829-y
+Ileal perforation involvement in Wegener granulomatosis comorbid with COVID-19 infection: A case report and review of the literature.|https://dx.doi.org/10.1097/MD.0000000000036973
+Laparoscopic total mesorectal excision versus transanal total mesorectal excision for mid and low rectal cancer: A systematic review and meta-analysis.|https://dx.doi.org/10.1097/MD.0000000000036859
+Impact of Preoperative Diabetes Mellitus on Postoperative Outcomes in Elective Pancreatic Surgery and Its Implications for Prehabilitation Practice.|https://dx.doi.org/10.1097/MPA.0000000000002300
+In vivo confocal microscopy evaluation of infiltrated immune cells in corneal stroma treated with cell therapy in advanced keratoconus.|https://dx.doi.org/10.1186/s12348-024-00385-2
+The Impact of Climate Change on Aeromedical Retrieval Services in Remote Northern Australia: Planning for a Hotter Future.|https://dx.doi.org/10.3390/ijerph21010114
+Repair of Infected Bone Defects with Hydrogel Materials.|https://dx.doi.org/10.3390/polym16020281
+Antibody Response Following the Intranasal Administration of SARS-CoV-2 Spike Protein-CpG Oligonucleotide Vaccine.|https://dx.doi.org/10.3390/vaccines12010005
+The Effectiveness of Adipose Tissue-Derived Mesenchymal Stem Cells Mixed with Platelet-Rich Plasma in the Healing of Inflammatory Bowel Anastomoses: A Pre-Clinical Study in Rats.|https://dx.doi.org/10.3390/jpm14010121
+Highlighting New Perspectives on Musculoskeletal Infections.|https://dx.doi.org/10.3390/microorganisms12010226
+Evaluation of a New Standardized Nasal Sampling Method for Detection of SARS-CoV-2 RNA via RT-PCR.|https://dx.doi.org/10.3390/microorganisms12010210
+Antibiotic Resistance to Molecules Commonly Prescribed for the Treatment of Antibiotic-Resistant Gram-Positive Pathogens: What Is Relevant for the Clinician?|https://dx.doi.org/10.3390/pathogens13010088
+The Peri-Implant Microbiome-A Possible Factor Determining the Success of Surgical Peri-Implantitis Treatment?|https://dx.doi.org/10.3390/dj12010020
+The Evolution of Spinal Endoscopy: Design and Image Analysis of a Single-Use Digital Endoscope Versus Traditional Optic Endoscope.|https://dx.doi.org/10.3390/bioengineering11010099
+Performance Evaluation of the STANDARD i-Q COVID-19 Ag Test with Nasal and Oral Swab Specimens from Symptomatic Patients.|https://dx.doi.org/10.3390/diagnostics14020231

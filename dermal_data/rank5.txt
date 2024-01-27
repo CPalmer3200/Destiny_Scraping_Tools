@@ -21,3 +21,5 @@ Biofilm formation is a risk factor for late and delayed complications of filler 
 Dihydrothiazolo ring-fused 2-pyridone antimicrobial compounds treat Streptococcus pyogenes skin and soft tissue infection.|https://dx.doi.org/10.1101/2024.01.02.573960
 Antibiotics against Pseudomonas aeruginosa on Human Skin Cell Lines: Determination of the Highest Non-Cytotoxic Concentrations with Antibiofilm Capacity for Wound Healing Strategies.|https://dx.doi.org/10.3390/pharmaceutics16010117
 Green synthesis of epigallocatechin gallate-ferric complex nanoparticles for photothermal enhanced antibacterial and wound healing.|https://dx.doi.org/10.1016/j.biopha.2024.116175
+Lactobacillus johnsonii LJO02 (DSM 33828) Cell-Free Supernatant and Vitamin D Improve Wound Healing and Reduce Interleukin-6 Production in Staphylococcus aureus-Infected Human Keratinocytes.|https://dx.doi.org/10.3390/pharmaceutics16010018
+Antifungal activity of the repurposed drug disulfiram against Cryptococcus neoformans.|https://dx.doi.org/10.3389/fphar.2023.1268649
