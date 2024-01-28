@@ -36,3 +36,5 @@ Properties of Nanohybrid Dental Composites-A Comparative In Vitro Study.|https:/
 Analysis of intestinal flora in elderly Uygur patients with sarcopenia.|https://dx.doi.org/10.1002/iid3.1097
 Sustained pacifier use is associated with smaller vocabulary sizes at 1 and 2 years of age: A cross-sectional study.|https://dx.doi.org/10.1111/desc.13477
 Clostridioides difficile infection across the lifespan: Estimation using life tables.|https://dx.doi.org/10.1017/ice.2024.2
+Phase variation of flagella and toxins in Clostridioides difficile is mediated by selective Rho-dependent termination.|https://dx.doi.org/10.1016/j.jmb.2024.168456
+Prenatal metal exposures and childhood gut microbial signatures are associated with depression score in late childhood.|https://dx.doi.org/10.1016/j.scitotenv.2024.170361

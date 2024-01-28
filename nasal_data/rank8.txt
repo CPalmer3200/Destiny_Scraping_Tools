@@ -29,3 +29,13 @@ Antibiotic Resistance to Molecules Commonly Prescribed for the Treatment of Anti
 The Peri-Implant Microbiome-A Possible Factor Determining the Success of Surgical Peri-Implantitis Treatment?|https://dx.doi.org/10.3390/dj12010020
 The Evolution of Spinal Endoscopy: Design and Image Analysis of a Single-Use Digital Endoscope Versus Traditional Optic Endoscope.|https://dx.doi.org/10.3390/bioengineering11010099
 Performance Evaluation of the STANDARD i-Q COVID-19 Ag Test with Nasal and Oral Swab Specimens from Symptomatic Patients.|https://dx.doi.org/10.3390/diagnostics14020231
+Dog Bite Injury: Rusk Became a Risk - A Case Report.|https://dx.doi.org/10.2174/0118715265277314231211045515
+Deroofing: A safe, effective and well-tolerated procedure in patients with hidradenitis suppurativa.|https://dx.doi.org/10.1111/jdv.19810
+Allogeneic "Zombie Cell" as Off-The-Shelf Vaccine for Postsurgical Cancer Immunotherapy.|https://dx.doi.org/10.1002/advs.202307030
+Non-surgical rhinoplasty through minimal invasive nose thread procedures: Adverse effects and prevention methods.|https://dx.doi.org/10.1111/srt.13590
+Surgical site infections after glioblastoma surgery: boon or bane?|https://dx.doi.org/10.1007/s00432-023-05528-x
+Surgical treatment for severe pediatric tracheobronchomalacia: the 20-year experience of a single center.|https://dx.doi.org/10.1016/j.jped.2023.10.008
+Infant ustekinumab Clearance, Risk of Infection, and Development after exposure during pregnancy.|https://dx.doi.org/10.1016/j.cgh.2024.01.008
+Oxygen debt as a predictor of high-flow nasal cannula therapy failure in SARS-CoV-2 patients with acute respiratory failure: A retrospective cohort study.|https://dx.doi.org/10.1016/j.hrtlng.2023.10.013
+Conventional and multi-omics assessments of subacute inhalation toxicity due to propylene glycol and vegetable glycerin aerosol produced by electronic cigarettes.|https://dx.doi.org/10.1016/j.ecoenv.2024.116002
+Insights into the role of the respiratory tract microbiome in defense against bacterial pneumonia.|https://dx.doi.org/10.1016/j.mib.2024.102428

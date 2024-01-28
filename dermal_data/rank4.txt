@@ -37,3 +37,6 @@ Dehydration-Toughing Dual-Solvent Gels with Viscoelastic Transition for Infectio
 Biomimetic Gradient Hydrogels with High Toughness and Antibacterial Properties.|https://dx.doi.org/10.3390/gels10010006
 Multifunctional Wound Curation Dressing Material FemuFrost─An Antioxidant-Loaded Nanoemulsion Frosted Patch of Poly(vinyl alcohol) and Hyaluronic Acid.|https://dx.doi.org/10.1021/acsabm.3c00996
 Versatile Antibacterial and Antioxidant Bacterial Cellulose@Nanoceria Biotextile: Application in Reusable Antimicrobial Face Masks.|https://dx.doi.org/10.1002/adhm.202304156
+MXene-based polysaccharide aerogel with multifunctional enduring antimicrobial effects for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129238
+Anti-adhesive and antibacterial chitosan/PEO nanofiber dressings with high breathability for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129668
+A DNA-inspired injectable adhesive hydrogel with dual nitric oxide donors to promote angiogenesis for enhanced wound healing.|https://dx.doi.org/10.1016/j.actbio.2024.01.026

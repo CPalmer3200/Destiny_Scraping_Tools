@@ -33,3 +33,22 @@ Antibacterial, Resistance Modulation, Anti-Biofilm Formation, and Efflux Pump In
 MEndoB, a chimeric lysin featuring a novel domain architecture and superior activity for the treatment of staphylococcal infections.|https://dx.doi.org/10.1128/mbio.02540-23
 Biomimetic Gradient Hydrogels with High Toughness and Antibacterial Properties.|https://dx.doi.org/10.3390/gels10010006
 Biological Properties of Recently Described Wild Bramble Rubus oklejewiczii against the Species from Similar Niches.|https://dx.doi.org/10.3390/foods13020337
+Augmenting Neutrophil Extracellular Traps with Carbonized Polymer Dots: A Potential Treatment for Bacterial Sepsis.|https://dx.doi.org/10.1002/smll.202307210
+Thermophilic PHP Protein Tyrosine Phosphatases (Cap8C and Wzb) from Mesophilic Bacteria.|https://dx.doi.org/10.3390/ijms25021262
+Silver and Antimicrobial Polymer Nanocomplexes to Enhance Biocidal Effects.|https://dx.doi.org/10.3390/ijms25021256
+Prevalence of S. aureus and/or MRSA in hospitalized patients with diabetic foot and establishment of LAMP methods for rapid detection of the SCCmec gene.|https://dx.doi.org/10.1186/s12866-024-03196-6
+Valorization of plant by-products in the biosynthesis of silver nanoparticles with antimicrobial and catalytic properties.|https://dx.doi.org/10.1007/s11356-024-32180-w
+Design of a novel analogue peptide with potent antibiofilm activities against Staphylococcus aureus based upon a sapecin B-derived peptide.|https://dx.doi.org/10.1038/s41598-024-52721-0
+The chronic wound milieu changes essential oils' antibiofilm activity-an in vitro and larval model study.|https://dx.doi.org/10.1038/s41598-024-52424-6
+Riboflavin Crystals with Extremely High Water Solubility.|https://dx.doi.org/10.1021/acsami.3c15853
+Effect of gamma irradiation on pathogenic Staphylococcus aureus in packaged Ready-to-Eat salads treated with biological extracts.|https://dx.doi.org/10.1016/j.jfp.2024.100232
+Antimicrobial, antibiofilm, and antivirulence properties of Eisenia bicyclis-extracts and Eisenia bicyclis-gold nanoparticles towards microbial pathogens.|https://dx.doi.org/10.1016/j.micpath.2024.106546
+MXene-based polysaccharide aerogel with multifunctional enduring antimicrobial effects for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129238
+Preparation and characterization of peach gum/chitosan polyelectrolyte composite films with dual cross-linking networks for antibacterial packaging.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129754
+Anti-adhesive and antibacterial chitosan/PEO nanofiber dressings with high breathability for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129668
+A DNA-inspired injectable adhesive hydrogel with dual nitric oxide donors to promote angiogenesis for enhanced wound healing.|https://dx.doi.org/10.1016/j.actbio.2024.01.026
+Ultrasensitive electrochemiluminescence biosensor based on polymethylene blue nanoparticles and DNA network for Staphylococcus aureus detection.|https://dx.doi.org/10.1016/j.foodchem.2024.138471
+Inhibition of staphylococcal nuclease by benzimidazole-based Ligand: Implications in DNA-Mediated entrapment and uptake of MRSA by Macrophage-like cells.|https://dx.doi.org/10.1016/j.bioorg.2024.107133
+A portable CRISPR-Cas12a triggered photothermal biosensor for sensitive and visual detection of Staphylococcus aureus and Listeria monocytogenes.|https://dx.doi.org/10.1016/j.talanta.2024.125678
+Crystal structure of GTPase YsxC from Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bbrc.2024.149545
+Screening and identification of antibacterial components in Artemisia argyi essential oil by TLC-direct bioautography combined with comprehensive 2D GC × GC-TOFMS.|https://dx.doi.org/10.1016/j.jchromb.2024.124026

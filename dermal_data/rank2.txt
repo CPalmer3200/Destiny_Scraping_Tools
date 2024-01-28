@@ -31,3 +31,4 @@ The Effect of Limb Salvage Efforts in Different Age Groups: Relationships Betwee
 Cholecalciferol Exhibits no Antibacterial Effect on Staphylococcus aureus and Escherichia coli: an in-vitro Study.|https://dx.doi.org/10.2174/0127724344277290231211051800
 Neddylation suppression by a macrophage membrane-coated nanoparticle promotes dual immunomodulatory repair of diabetic wounds.|https://dx.doi.org/10.1016/j.bioactmat.2023.12.025
 Plantar pressure distribution and altered postural control in multibacillary leprosy patients.|https://dx.doi.org/10.1186/s12879-023-08749-0
+Prevalence of S. aureus and/or MRSA in hospitalized patients with diabetic foot and establishment of LAMP methods for rapid detection of the SCCmec gene.|https://dx.doi.org/10.1186/s12866-024-03196-6

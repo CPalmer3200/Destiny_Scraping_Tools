@@ -38,3 +38,7 @@ SARS-CoV-2 Neutralization by Cell Membrane-Coated Antifouling Nanoparticles.|htt
 Quercetin inhibits SARS-CoV-2 infection and prevents syncytium formation by cells co-expressing the viral spike protein and human ACE2.|https://dx.doi.org/10.1186/s12985-024-02299-w
 Influence of Community Determinants on Barriers and Facilitators to COVID-19 Vaccine Uptake: Regional Stakeholders' Perspectives.|https://dx.doi.org/10.1016/j.vaccine.2024.01.039
 Self-rated health status and hygienic behaviour of pregnant women in Hungary during the pandemic.|https://dx.doi.org/10.21101/cejph.a7897
+Prevalence of COVID-19 Among 8000 Patients at a Hospitalized and Mortality in Old Age.|https://dx.doi.org/10.2174/1874609816666230525124934
+The Influence of HLA Polymorphisms on the Severity of COVID-19 in the Romanian Population.|https://dx.doi.org/10.3390/ijms25021326
+Determinants of SARS-CoV-2 IgG response and decay in Canadian healthcare workers: A prospective cohort study.|https://dx.doi.org/10.1016/j.vaccine.2024.01.052
+The Burden of Cardiovascular Disease in the Post-COVID Era.|https://dx.doi.org/10.1016/j.pop.2023.08.001
