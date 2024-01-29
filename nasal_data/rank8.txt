@@ -39,3 +39,19 @@ Infant ustekinumab Clearance, Risk of Infection, and Development after exposure 
 Oxygen debt as a predictor of high-flow nasal cannula therapy failure in SARS-CoV-2 patients with acute respiratory failure: A retrospective cohort study.|https://dx.doi.org/10.1016/j.hrtlng.2023.10.013
 Conventional and multi-omics assessments of subacute inhalation toxicity due to propylene glycol and vegetable glycerin aerosol produced by electronic cigarettes.|https://dx.doi.org/10.1016/j.ecoenv.2024.116002
 Insights into the role of the respiratory tract microbiome in defense against bacterial pneumonia.|https://dx.doi.org/10.1016/j.mib.2024.102428
+The influence of preoperative e intraoperative factors in predicting postoperative morbidity and mortality in perforated diverticulitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s13304-023-01738-7
+Urinary tract dilation classification system for predicting surgical management and urinary tract infection in neonates and young infants: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00247-024-05854-3
+Perinatal colonization with extended-spectrum beta-lactamase-producing and carbapenem-resistant Gram-negative bacteria: a hospital-based cohort study.|https://dx.doi.org/10.1186/s13756-024-01366-9
+Multifaceted surgical approach of combined thoracoretroperitoneal incision and midline abdominal incision for a secondary aortoenteric fistula.|https://dx.doi.org/10.1186/s13019-024-02496-2
+Comparison of percutaneous nephrolithotomy and flexible ureterorenoscopy in the treatment of single upper ureteral calculi measuring 1 to 2 centimeters: a retrospective study.|https://dx.doi.org/10.1186/s12894-024-01408-9
+Results of uretero-ureteral anastomosis in pathological duplex kidney.|https://dx.doi.org/10.1016/j.jpurol.2024.01.008
+Reconstruction of the orbitozygomatic framework: state of the art and perspectives.|https://dx.doi.org/10.1016/j.jormas.2024.101788
+Automated traffic monitoring of Neurosurgical Operating Room.|https://dx.doi.org/10.1016/j.ajic.2024.01.016
+[Standardized risk-based antibiotic prophylaxis and adhesive film dressing for the prevention of wound infection following cochlear implantation].|https://dx.doi.org/10.1007/s00106-024-01423-0
+[Postauricular hairline plus temporal approach gasless full-endoscopic parotidectomy for tumors in deep lobe of parotid gland: a 16-case report].|https://dx.doi.org/10.3760/cma.j.cn112144-20231025-00218
+Prognostic factors after open and endovascular repair for infective native aneurysms of the abdominal aorta and common iliac artery.|https://dx.doi.org/10.1016/j.jvs.2024.01.199
+Endogenous Fungal Endophthalmitis: A Single-Center Retrospective Study and Review of the Literature.|https://dx.doi.org/10.1016/j.ajo.2024.01.018
+Antimicrobial resistance in genital Mycoplasmas infections.|https://dx.doi.org/10.1016/j.ijmmb.2024.100533
+Long-Term Impact of COVID-19 related disruption of NHS Elective services on Emergency Major Lower Limb Amputations.|https://dx.doi.org/10.1016/j.avsg.2023.11.035
+Polyhexanide based contact lens storage fluids frequently exhibit insufficient antifungal activity against Fusarium species.|https://dx.doi.org/10.1016/j.ijmm.2024.151602
+Brachial artery aneurysm after hemodialysis fistula ligation: Case reports and review of literature.|https://dx.doi.org/10.1016/j.ijscr.2024.109306

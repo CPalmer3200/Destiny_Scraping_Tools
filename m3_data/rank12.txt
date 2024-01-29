@@ -38,3 +38,5 @@ Sustained pacifier use is associated with smaller vocabulary sizes at 1 and 2 ye
 Clostridioides difficile infection across the lifespan: Estimation using life tables.|https://dx.doi.org/10.1017/ice.2024.2
 Phase variation of flagella and toxins in Clostridioides difficile is mediated by selective Rho-dependent termination.|https://dx.doi.org/10.1016/j.jmb.2024.168456
 Prenatal metal exposures and childhood gut microbial signatures are associated with depression score in late childhood.|https://dx.doi.org/10.1016/j.scitotenv.2024.170361
+Starvation helps transition to abundance - a ferrosome story.|https://dx.doi.org/10.1016/j.tim.2024.01.006
+Large-scale genomic rearrangements boost SCRaMbLE in Saccharomyces cerevisiae.|https://dx.doi.org/10.1038/s41467-023-44511-5

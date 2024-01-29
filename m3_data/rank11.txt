@@ -139,3 +139,7 @@ Geographical distribution of antimicrobial exposure among very preterm and very 
 Early Detection and Intervention for Hirschsprung's Disease: A Key to Successful Outcomes.|https://dx.doi.org/10.1177/11795476241226577
 Vancomycin-variable enterococci in sheep and cattle isolates and whole-genome sequencing analysis of isolates harboring vanM and vanB genes.|https://dx.doi.org/10.22099/IJVR.2023.47465.6855
 Biofilm forming multidrug resistant Staphylococcus aureus of dairy origin: molecular and evolutionary perspectives.|https://dx.doi.org/10.22099/IJVR.2023.43941.6445
+EFFECT OF MECHANICAL VIBRATION ON KINETICS OF SOLUTE ADSORPTION.|https://dx.doi.org/10.1159/000536412
+Zein and hydroxypropyl methylcellulose acetate succinate microfibers combined with metronidazole benzoate and/or metronidazole-incorporated cellulose nanofibrils for potential periodontal treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129701
+The active ingredients in Chinese peony pods synergize with antibiotics to inhibit MRSA growth and biofilm formation.|https://dx.doi.org/10.1016/j.micres.2024.127625
+Epidemiology of Vancomycin in Combination With Piperacillin/Tazobactam-Associated Acute Kidney Injury in Children: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1177/10600280231220379

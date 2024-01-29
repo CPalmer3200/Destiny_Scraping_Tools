@@ -4,3 +4,4 @@ Association of metabolic dysfunction-associated fatty liver disease with gastroi
 Approaching pathogenic Clostridia from a One Health perspective.|https://dx.doi.org/10.1101/2024.01.08.574718
 The Efficacy of a Mix of Probiotics (Limosilactobacillus reuteri LMG P-27481 and Lacticaseibacillus rhamnosus GG ATCC 53103) in Preventing Antibiotic-Associated Diarrhea and Clostridium difficile Infection in Hospitalized Patients: Single-Center, Open-Label, Randomized Trial.|https://dx.doi.org/10.3390/microorganisms12010198
 Toxigenic Clostridium perfringens isolated from at-risk pediatric inflammatory bowel disease patients.|https://dx.doi.org/10.1093/ecco-jcc/jjae016
+Defined microbial communities and their soluble products protect mice from Clostridioides difficile infection.|https://dx.doi.org/10.1038/s42003-024-05778-6

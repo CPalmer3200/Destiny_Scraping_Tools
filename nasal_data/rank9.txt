@@ -52,3 +52,13 @@ Inhibition of staphylococcal nuclease by benzimidazole-based Ligand: Implication
 A portable CRISPR-Cas12a triggered photothermal biosensor for sensitive and visual detection of Staphylococcus aureus and Listeria monocytogenes.|https://dx.doi.org/10.1016/j.talanta.2024.125678
 Crystal structure of GTPase YsxC from Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bbrc.2024.149545
 Screening and identification of antibacterial components in Artemisia argyi essential oil by TLC-direct bioautography combined with comprehensive 2D GC × GC-TOFMS.|https://dx.doi.org/10.1016/j.jchromb.2024.124026
+Unveiling the Antimicrobial and Larvicidal Potential of Butyrolactones and Orsellinic Acid Derivatives from the Morus alba-derived Fungus Aspergillus terreus via Integrated In-vitro and In-silico Approaches.|https://dx.doi.org/10.1002/cbdv.202301900
+Proteomic Analysis of Staphylococcus aureus Treated with ShangKeHuangShui.|https://dx.doi.org/10.1248/bpb.b23-00471
+Combined analysis of transcriptomics and metabolomics provide insights into the antibacterial mechanism of bacteriocin XJS01 against multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.scitotenv.2024.170412
+Unconventional luminescent CS-PEC-based composite hemostasis sponge with antibacterial activity and visual monitoring for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129735
+Sulfonated cellulose nanocrystal modified with ammonium salt as reinforcement in poly(lactic acid) composite films.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129673
+Elimination of detached Listeria monocytogenes from the biofilm on stainless steel surfaces during milk and cheese processing using natural plant extracts.|https://dx.doi.org/10.1038/s41598-024-52394-9
+Novel Approaches to Multidrug-Resistant Infections in Cystic Fibrosis.|https://dx.doi.org/10.1016/j.idc.2023.12.002
+Evaluating the Stability of Lytic and Lysogenic Bacteriophages in Various Protectants.|https://dx.doi.org/10.1016/j.xphs.2024.01.010
+The active ingredients in Chinese peony pods synergize with antibiotics to inhibit MRSA growth and biofilm formation.|https://dx.doi.org/10.1016/j.micres.2024.127625
+Risk factors for failure after rotational muscle flap coverage for prosthetic knee infections.|https://dx.doi.org/10.1177/10225536241230349

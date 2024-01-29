@@ -40,3 +40,4 @@ Versatile Antibacterial and Antioxidant Bacterial Cellulose@Nanoceria Biotextile
 MXene-based polysaccharide aerogel with multifunctional enduring antimicrobial effects for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129238
 Anti-adhesive and antibacterial chitosan/PEO nanofiber dressings with high breathability for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129668
 A DNA-inspired injectable adhesive hydrogel with dual nitric oxide donors to promote angiogenesis for enhanced wound healing.|https://dx.doi.org/10.1016/j.actbio.2024.01.026
+Unconventional luminescent CS-PEC-based composite hemostasis sponge with antibacterial activity and visual monitoring for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129735

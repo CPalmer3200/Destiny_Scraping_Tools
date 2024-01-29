@@ -1,2 +1,3 @@
 A randomized, double-blind study on the safety and immunogenicity of rTSST-1 variant vaccine: phase 2 results.|https://dx.doi.org/10.1016/j.eclinm.2023.102404
 Virulence genes and antibiotic resistance profiles of Staphylococcus aureus isolated from bovine mastitis milk samples.|https://dx.doi.org/10.22099/IJVR.2023.45279.6652
+Efficacy of novel staphylococcal surface associated protein vaccines against Staphylococcus aureus and non-aureus staphylococcal mastitis in dairy cows.|https://dx.doi.org/10.1016/j.vaccine.2024.01.067

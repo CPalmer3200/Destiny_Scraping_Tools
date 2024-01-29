@@ -42,3 +42,9 @@ Prevalence of COVID-19 Among 8000 Patients at a Hospitalized and Mortality in Ol
 The Influence of HLA Polymorphisms on the Severity of COVID-19 in the Romanian Population.|https://dx.doi.org/10.3390/ijms25021326
 Determinants of SARS-CoV-2 IgG response and decay in Canadian healthcare workers: A prospective cohort study.|https://dx.doi.org/10.1016/j.vaccine.2024.01.052
 The Burden of Cardiovascular Disease in the Post-COVID Era.|https://dx.doi.org/10.1016/j.pop.2023.08.001
+Optimized network based natural language processing approach to reveal disease comorbidities in COVID-19.|https://dx.doi.org/10.1038/s41598-024-52819-5
+Antibody and transcription landscape in peripheral blood mononuclear cells of elderly adults over 70 years of age with third dose of COVID-19 BBIBP-CorV and ZF2001 booster vaccine.|https://dx.doi.org/10.1186/s12979-023-00408-x
+Socio-economic factors associated with post-traumatic stress symptoms among adolescents and young people during the first wave of the COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-023-50333-8
+The U.S. COVID-19 vaccination program: A look back and future directions.|https://dx.doi.org/10.1016/j.vaccine.2024.01.053
+Genomic surveillance of carbapenem-resistant Klebsiella pneumoniae reveals a prolonged outbreak of extensively drug-resistant ST147 NDM-1 during the COVID-19 pandemic in the Apulia region (Southern Italy).|https://dx.doi.org/10.1016/j.jgar.2024.01.015
+An ensemble docking-based virtual screening and molecular dynamics simulation of phytochemical compounds from Malaysian Kelulut Honey (KH) against SARS-CoV-2 target enzyme, human angiotensin-converting enzyme 2 (ACE-2).|https://dx.doi.org/10.1080/07391102.2024.2308762

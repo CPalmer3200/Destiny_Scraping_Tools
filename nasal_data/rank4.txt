@@ -29,3 +29,7 @@ Using intervention mapping to develop an implementation strategy to improve time
 Prospective cohort study of surgical site infections following single dose antibiotic prophylaxis in caesarean section at a tertiary care teaching hospital in Medchal, India.|https://dx.doi.org/10.1371/journal.pone.0286165
 Antimicrobial stewardship capacity and antibiotic utilisation practices in the Cape Coast Teaching Hospital, Ghana: A point prevalence survey study.|https://dx.doi.org/10.1371/journal.pone.0297626
 Are changes in antibiotic prophylaxis recommendations responsible for an increased risk of cefazolin allergy?|https://dx.doi.org/10.1016/j.accpm.2024.101349
+Preoperative antibiotic prophylaxis and the incidence of surgical site infections in elective clean soft tissue surgery of the hand and upper limb: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s10195-024-00748-4
+School Connectedness and Risk for Sexual Intercourse and Nonconsensual Sex in Adolescence.|https://dx.doi.org/10.1007/s11121-023-01635-w
+Ten-year trends of antibiotic prescribing in surgery departments of two private sector hospitals in Central India: a prospective observational study.|https://dx.doi.org/10.1186/s12889-024-17817-2
+Diagnosis and management of complications following pelvic organ prolapse surgery using a synthetic mesh: French national guidelines for clinical practice.|https://dx.doi.org/10.1016/j.ejogrb.2024.01.015
