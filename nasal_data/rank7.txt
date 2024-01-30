@@ -48,3 +48,22 @@ Socio-economic factors associated with post-traumatic stress symptoms among adol
 The U.S. COVID-19 vaccination program: A look back and future directions.|https://dx.doi.org/10.1016/j.vaccine.2024.01.053
 Genomic surveillance of carbapenem-resistant Klebsiella pneumoniae reveals a prolonged outbreak of extensively drug-resistant ST147 NDM-1 during the COVID-19 pandemic in the Apulia region (Southern Italy).|https://dx.doi.org/10.1016/j.jgar.2024.01.015
 An ensemble docking-based virtual screening and molecular dynamics simulation of phytochemical compounds from Malaysian Kelulut Honey (KH) against SARS-CoV-2 target enzyme, human angiotensin-converting enzyme 2 (ACE-2).|https://dx.doi.org/10.1080/07391102.2024.2308762
+Covid 19 and diabetes in children: advances and strategies.|https://dx.doi.org/10.1186/s13098-024-01267-2
+The effect of macronutrient and micronutrient supplements on COVID-19: an umbrella review.|https://dx.doi.org/10.1186/s41043-024-00504-8
+Bivalent mRNA vaccine effectiveness against COVID-19 among older adults in Japan: a test-negative study from the VENUS study.|https://dx.doi.org/10.1186/s12879-024-09035-3
+Disparities and effectiveness of COVID-19 vaccine policies in three representative European countries.|https://dx.doi.org/10.1186/s12939-024-02110-w
+COVID-19 information seeking and individuals' protective behaviors: examining the role of information sources and information content.|https://dx.doi.org/10.1186/s12889-024-17770-0
+Acceptability and tolerability of alcohol-based hand rubs among health workers and concessionaires in Malaysia during the COVID pandemic: a hospital-wide cross-sectional study using a modified WHO protocol.|https://dx.doi.org/10.1080/09603123.2024.2309324
+Necroptosis does not drive disease pathogenesis in a mouse infective model of SARS-CoV-2 in vivo.|https://dx.doi.org/10.1038/s41419-024-06471-6
+Description of maternal and neonatal adverse events in pregnant people immunised with COVID-19 vaccines during pregnancy in the CLAP NETWORK of sentinel sites. Nested case-control analysis of the immunization-associated risk: A study protocol.|https://dx.doi.org/10.1136/bmjopen-2023-073095
+SARS-CoV-2 shedding and evolution in patients who were immunocompromised during the omicron period: a multicentre, prospective analysis.|https://dx.doi.org/10.1016/S2666-5247(23)00336-1
+Prespecified Homeopathic Medicines in the Prevention of Confirmed and Suspected cases of COVID-19: A Community-based, Double-blind, Randomized, Placebo-Controlled Prophylaxis Trial.|https://dx.doi.org/10.1159/000536395
+The Effect of a Video-Assisted Health Education Program Followed by Peer Education on the Health Literacy of COVID-19 and Other Infectious Diseases Among School Children: Quasi-Randomized Controlled Trial.|https://dx.doi.org/10.2196/43943
+The Underlying Structure of Preventive Behaviors and Related Factors During the COVID-19 Pandemic: A Comprehensive Network Analysis.|https://dx.doi.org/10.1093/abm/kaad073
+Redesigning Prehospital Care: Fiji's Response to the COVID-19 Pandemic.|https://dx.doi.org/10.1017/S1049023X24000037
+Flavonoids derived from medicinal plants as a COVID-19 treatment.|https://dx.doi.org/10.1002/ptr.8123
+Association between area deprivation index and concerns to COVID-19: A multi-level analysis of individual and area factors.|https://dx.doi.org/10.1016/j.ssmph.2023.101580
+Association of Type of Vaccination Center With Time to Emergency Department Presentation for Acute COVID-19 Infection: An Exploratory Analysis.|https://dx.doi.org/10.7759/cureus.51229
+Clinical Outcomes of Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers in COVID-19 Patients With Pre-existing Cardiac Comorbidities: A Literature Review.|https://dx.doi.org/10.7759/cureus.51244
+Nebulized glycyrrhizin/enoxolone drug modulates IL-17A in COVID-19 patients: a randomized clinical trial.|https://dx.doi.org/10.3389/fimmu.2023.1282280
+An Analysis of Various Factors Underlying Covid-19 Prevention Practice and Strategy in Jigjiga Town, Northeast Ethiopia.|https://dx.doi.org/10.2147/IDR.S441538

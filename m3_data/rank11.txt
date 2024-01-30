@@ -143,3 +143,10 @@ EFFECT OF MECHANICAL VIBRATION ON KINETICS OF SOLUTE ADSORPTION.|https://dx.doi.
 Zein and hydroxypropyl methylcellulose acetate succinate microfibers combined with metronidazole benzoate and/or metronidazole-incorporated cellulose nanofibrils for potential periodontal treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129701
 The active ingredients in Chinese peony pods synergize with antibiotics to inhibit MRSA growth and biofilm formation.|https://dx.doi.org/10.1016/j.micres.2024.127625
 Epidemiology of Vancomycin in Combination With Piperacillin/Tazobactam-Associated Acute Kidney Injury in Children: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1177/10600280231220379
+Potential public health hazards related to consumption of poultry contaminated with antibiotic resistant Listeria monocytogenes in Egypt.|https://dx.doi.org/10.1186/s12866-024-03183-x
+Association Between Risk of Clostridium difficile Infection and Duration of Proton Pump Inhibitor or H2-Receptor Antagonist Use in Hospitalized Patients.|https://dx.doi.org/10.1007/s40121-024-00922-5
+Antibiotic-induced gut dysbiosis elicits gut-brain axis relevant multi-omic signatures and behavioral and neuroendocrine changes in a nonhuman primate model.|https://dx.doi.org/10.1080/19490976.2024.2305476
+Two Novel Regioisomeric Series of Bis-pyrazolines: Synthesis, In Silico Study, DFT Calculations, and Comparative Antibacterial Potency Profile against Drug-Resistant Bacteria; MSSA, MRSA, and VRSA.|https://dx.doi.org/10.1021/acsomega.3c06348
+A Case of Primary Sclerosing Cholangitis Complicated With Liver Abscess Caused by Hyperviscous Klebsiella pneumoniae.|https://dx.doi.org/10.7759/cureus.51277
+Antimicrobial Resistance Patterns of Staphylococcus Aureus Isolated at a General Hospital in Vietnam Between 2014 and 2021.|https://dx.doi.org/10.2147/IDR.S437920
+Tackling strong biofilm and multi-virulent vancomycin-resistant Staphylococcus aureus via natural alkaloid-based porous nanoparticles: perspective towards near future eradication.|https://dx.doi.org/10.3389/fcimb.2023.1287426

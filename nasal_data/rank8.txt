@@ -55,3 +55,17 @@ Antimicrobial resistance in genital Mycoplasmas infections.|https://dx.doi.org/1
 Long-Term Impact of COVID-19 related disruption of NHS Elective services on Emergency Major Lower Limb Amputations.|https://dx.doi.org/10.1016/j.avsg.2023.11.035
 Polyhexanide based contact lens storage fluids frequently exhibit insufficient antifungal activity against Fusarium species.|https://dx.doi.org/10.1016/j.ijmm.2024.151602
 Brachial artery aneurysm after hemodialysis fistula ligation: Case reports and review of literature.|https://dx.doi.org/10.1016/j.ijscr.2024.109306
+Mucormycosis mimicking portal hypertensive haemorrhage as a complication of alcoholic liver cirrhosis: a case report.|https://dx.doi.org/10.1186/s12879-023-08220-0
+Early encapsulation of peripancreatic fluid/necrosis collections on imaging (CECT) in acute pancreatitis: influential factors and clinical significance for prognosis.|https://dx.doi.org/10.1186/s12876-024-03145-7
+Editorial comment to Lower bleeding volume contributes to decreasing surgical site infection in radical cystectomy: A propensity score-matched comparison of open versus robot-assisted radical cystectomy.|https://dx.doi.org/10.1111/iju.15407
+Surgical treatment of clinically infected mandibular fractures.|https://dx.doi.org/10.1007/s10006-024-01213-6
+Clinical and molecular epidemiological features of critically ill patients with invasive group A Streptococcus infections: a Belgian multicenter case-series.|https://dx.doi.org/10.1186/s13613-024-01249-7
+Protocol for fever control using external cooling in mechanically ventilated patients with septic shock: SEPSISCOOL II randomised controlled trial.|https://dx.doi.org/10.1136/bmjopen-2022-069430
+Blood loss during HPB procedures.|https://dx.doi.org/10.33699/PIS.2023.102.9.356-362
+[Retrospective clinical study of hip replacement in the treatment of traumatic arthritis secondary to acetabular fracture].|https://dx.doi.org/10.12200/j.issn.1003-0034.20221306
+[Meta-analysis of the role of fibular fixation in tibiofibular fractures].|https://dx.doi.org/10.12200/j.issn.1003-0034.20220290
+[Short-term clinical efficacy observation of lesion removal, bone graft fusion, and external brace treatment for late-stage wrist tuberculosis].|https://dx.doi.org/10.12200/j.issn.1003-0034.20230279
+[Retrospective analysis and comparison of total internal disability preservation technique and standardized reconstruction technique].|https://dx.doi.org/10.12200/j.issn.1003-0034.20221282
+Inhibition of multiple SARS-CoV-2 variants entry by Lycium barbarum L. polysaccharides through disruption of spike protein-ACE2 interaction.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129785
+Proposal for a screening protocol for Candida auris colonization.|https://dx.doi.org/10.1016/j.jhin.2023.12.019
+A Multi-Centre, Randomized Controlled Trial Comparing a Second-Generation Uncemented Trabecular Metal-backed versus Cemented Polyethylene Glenoid Component in Total Shoulder Arthroplasty: Five-year Results.|https://dx.doi.org/10.1016/j.jse.2023.12.004

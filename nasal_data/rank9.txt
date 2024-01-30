@@ -62,3 +62,21 @@ Novel Approaches to Multidrug-Resistant Infections in Cystic Fibrosis.|https://d
 Evaluating the Stability of Lytic and Lysogenic Bacteriophages in Various Protectants.|https://dx.doi.org/10.1016/j.xphs.2024.01.010
 The active ingredients in Chinese peony pods synergize with antibiotics to inhibit MRSA growth and biofilm formation.|https://dx.doi.org/10.1016/j.micres.2024.127625
 Risk factors for failure after rotational muscle flap coverage for prosthetic knee infections.|https://dx.doi.org/10.1177/10225536241230349
+Repurposing antibiotic resistance surveillance data to support treatment of recurrent infections in a remote setting.|https://dx.doi.org/10.1038/s41598-023-50008-4
+Antimicrobial, toxicological, and antigenic characteristics of three scorpion venoms from Colombia: Centruroides margaritatus, Tityus pachyurus and Tityus n. sp. aff. metuendus.|https://dx.doi.org/10.1016/j.actatropica.2024.107134
+An evaluation of conventional and nature-based technologies for controlling antibiotic-resistant bacteria and antibiotic-resistant genes in wastewater treatment plants.|https://dx.doi.org/10.1016/j.scitotenv.2024.170433
+The role of staphyloxanthin in the regulation of membrane biophysical properties in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bbamem.2024.184288
+Whole Genome Sequencing reveals two prolonged simultaneous outbreaks involving Pseudomonas aeruginosa high-risk strains ST111 and ST235 with resistance to quaternary ammonium compounds.|https://dx.doi.org/10.1016/j.jhin.2024.01.009
+It's Not a Spider Bite-It's MRSA!|https://dx.doi.org/10.1097/TME.0000000000000496
+Relationship between biofilm-forming microorganisms (BFM:  Staphylococcus aureus and Pseudomonas aeruginosa) and DEFB1 gene variants on β-defensin levels in periprosthetic joint infection (PJI).|https://dx.doi.org/10.1007/s11033-023-09126-5
+Smoke-water obtained via different biotics: a cost-effective and safer approach to biochemically sound banana ripening with prolonged shelf-life.|https://dx.doi.org/10.1007/s11356-024-32042-5
+Strategies to Overcome Antimicrobial Resistance in Nosocomial Infections, A Review and Update.|https://dx.doi.org/10.2174/0118715265276529231214105423
+A natural biogenic fluorapatite as a new biomaterial for orthopedics and dentistry: antibacterial activity of lingula seashell and its use for nanostructured biomimetic coatings.|https://dx.doi.org/10.1039/d3tb02454g
+A comprehensive review on the detection of Staphylococcus aureus enterotoxins in food samples.|https://dx.doi.org/10.1111/1541-4337.13264
+Functional promiscuity of small multidrug resistance transporters from Staphylococcus aureus, Pseudomonas aeruginosa, and Francisella tularensis.|https://dx.doi.org/10.1111/mmi.15231
+Efficacy of Endovascular Repair Using Single Left Common Carotid Artery Stent Combined with Castor Single-Branched Stent-Graft in the Treatment of Regional Diseases of Zone 2 of the Aorta.|https://dx.doi.org/10.1177/15266028231224249
+Two Novel Regioisomeric Series of Bis-pyrazolines: Synthesis, In Silico Study, DFT Calculations, and Comparative Antibacterial Potency Profile against Drug-Resistant Bacteria; MSSA, MRSA, and VRSA.|https://dx.doi.org/10.1021/acsomega.3c06348
+Host-Guest Interactions of Caffeic Acid Phenethyl Ester with β-Cyclodextrins: Preparation, Characterization, and In Vitro Antioxidant and Antibacterial Activity.|https://dx.doi.org/10.1021/acsomega.3c07643
+Moringa oleifera Gum-Assisted Synthesis and Characterization of CoAg(x)Fe(2-x)O(4): Insight into Structural, Magnetic, Optical, and Biomedical Properties.|https://dx.doi.org/10.1021/acsomega.3c06578
+From Simple Palladium(II) Monomers to 2D Heterometallic Sodium-Palladium(II) Coordination Networks with 2-Halonicotinates.|https://dx.doi.org/10.1021/acsomega.3c09497
+Dental Infection Causing Methicillin-Resistant Staphylococcus aureus Bacteremia and Spinal Infection: A Case Report.|https://dx.doi.org/10.7759/cureus.51136
