@@ -48,3 +48,9 @@ Knowledge, attitude, and practices regarding human papilloma virus vaccination a
 Opportunistic Infections Post-Lung Transplantation: Viral, Fungal, and Mycobacterial.|https://dx.doi.org/10.1016/j.idc.2023.12.001
 Early T-cell reconstitution predicts risk of EBV reactivation after allogeneic hematopoietic stem cell transplantation.|https://dx.doi.org/10.1007/s10238-023-01270-3
 Physician's conceptions of the decision-making process when managing febrile infants ≤ 60 days old: a phenomenographic qualitative study.|https://dx.doi.org/10.1186/s12887-024-04548-x
+Giant Sacrococcygeal Teratoma in a Neonate: A Case Report.|https://dx.doi.org/10.31729/jnma.8251
+In Vitro Elution of Gentamicin from CERAMENT® G Has an Antimicrobial Effect on Bacteria With Various Levels of Gentamicin Resistance Found in Fracture-related Infection.|https://dx.doi.org/10.1097/CORR.0000000000002975
+Antibiotic prophylaxis in urologic interventions: Who, when, where?|https://dx.doi.org/10.1177/03915603231226265
+A Systematic Review of the Therapeutic Outcome of Mucormycosis.|https://dx.doi.org/10.1093/ofid/ofad704
+Body Dissatisfaction and Health Risk Behaviors Among Middle School Girls.|https://dx.doi.org/10.1111/josh.13440
+Electrospun fibers based anisotropic silk fibroin film with photodynamic antibacterial therapy for S. aureus infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127685

@@ -18,3 +18,5 @@ Role of Fecal Microbiota Transplantation in Managing Clostridium Difficile Infec
 The combined effect of systemic antibiotics and proton pump inhibitors on Clostridioides difficile infection and recurrence.|https://dx.doi.org/10.1093/jac/dkae012
 Gut Microbiota-Gut Metabolites and Clostridioides difficile Infection: Approaching Sustainable Solutions for Therapy.|https://dx.doi.org/10.3390/metabo14010074
 Potential underreporting of treated patients using a Clostridioides difficile testing algorithm that screens with a nucleic acid amplification test.|https://dx.doi.org/10.1017/ice.2023.262
+Anti-S-layer monoclonal antibodies impact Clostridioides difficile physiology.|https://dx.doi.org/10.1080/19490976.2023.2301147
+Impact of oral vancomycin treatment duration on rate of Clostridioides difficile recurrence in patients requiring concurrent systemic antibiotics.|https://dx.doi.org/10.1017/ice.2024.4

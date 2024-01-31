@@ -36,3 +36,5 @@ Long-Term Impact of COVID-19 related disruption of NHS Elective services on Emer
 A novel diabetic foot ulcer diagnostic model: identification and analysis of genes related to glutamine metabolism and immune infiltration.|https://dx.doi.org/10.1186/s12864-024-10038-2
 Dilute Povidone-Iodine Solution Soaking Is Ineffective in Improving Outcomes of Necrotizing Fasciitis Caused by Diabetic Foot.|https://dx.doi.org/10.1097/SAP.0000000000003773
 The impact of the COVID-19 pandemic and associated disruptions in health-care provision on clinical outcomes in people with diabetes: a systematic review.|https://dx.doi.org/10.1016/S2213-8587(23)00351-0
+Successful wound healing by autologous peripheral blood mononuclear cell therapy in a diabetic patient on hemodialysis with no-option critical limb ischemia: a case report.|https://dx.doi.org/10.1007/s40620-023-01876-6
+Prevalence and Factors Associated With Tinea Pedis Among Diabetic Patients in Saudi Arabia: A Descriptive Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.51210

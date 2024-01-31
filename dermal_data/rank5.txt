@@ -25,3 +25,4 @@ Lactobacillus johnsonii LJO02 (DSM 33828) Cell-Free Supernatant and Vitamin D Im
 Antifungal activity of the repurposed drug disulfiram against Cryptococcus neoformans.|https://dx.doi.org/10.3389/fphar.2023.1268649
 Genome analysis deciphered Chryseobacterium indicum is a distinct species associated with freshwater pufferfish.|https://dx.doi.org/10.1016/j.meegid.2024.105561
 Exfoliation of a Coordination Polymer Based on a Linear π-Conjugated Ligand into an Ultrathin Nanosheet for Glyphosate Sensing.|https://dx.doi.org/10.1021/acs.inorgchem.3c03652
+Preventing Bacterial Contamination of Breast Implants Using Infection Mitigation Techniques: An In Vitro Study.|https://dx.doi.org/10.1093/asj/sjae013

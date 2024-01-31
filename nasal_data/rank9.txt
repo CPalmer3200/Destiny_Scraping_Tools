@@ -80,3 +80,18 @@ Host-Guest Interactions of Caffeic Acid Phenethyl Ester with β-Cyclodextrins: P
 Moringa oleifera Gum-Assisted Synthesis and Characterization of CoAg(x)Fe(2-x)O(4): Insight into Structural, Magnetic, Optical, and Biomedical Properties.|https://dx.doi.org/10.1021/acsomega.3c06578
 From Simple Palladium(II) Monomers to 2D Heterometallic Sodium-Palladium(II) Coordination Networks with 2-Halonicotinates.|https://dx.doi.org/10.1021/acsomega.3c09497
 Dental Infection Causing Methicillin-Resistant Staphylococcus aureus Bacteremia and Spinal Infection: A Case Report.|https://dx.doi.org/10.7759/cureus.51136
+Mycosynthesis of selenium nanoparticles using Penicillium tardochrysogenum as a therapeutic agent and their combination with infrared irradiation against Ehrlich carcinoma.|https://dx.doi.org/10.1038/s41598-024-52982-9
+Structural, dielectric, and antimicrobial evaluation of PMMA/CeO(2) for optoelectronic devices.|https://dx.doi.org/10.1038/s41598-024-52840-8
+Bacteria-targeted magnolol-loaded multifunctional nanocomplexes for antibacterial and anti-inflammatory treatment.|https://dx.doi.org/10.1088/1748-605X/ad2406
+Staphylococcus aureus proteases trigger eosinophil-mediated skin inflammation.|https://dx.doi.org/10.1073/pnas.2309243121
+Effects of Bacillus subtilis as a single strain probiotic on growth, disease resistance and immune response of striped catfish (Pangasius hypophthalmus).|https://dx.doi.org/10.1371/journal.pone.0294949
+Antimicrobial activity of a natural compound and analogs against multi-drug-resistant Gram-positive pathogens.|https://dx.doi.org/10.1128/spectrum.01515-22
+Microsporidia (Encephalitozoon cuniculi) in Patients with Degenerative Hip and Knee Disease, Czech Republic.|https://dx.doi.org/10.3201/eid3003.231263
+Chickpea-Derived Modified Antimicrobial Peptides KTA and KTR Inactivate Staphylococcus aureus via Disrupting Cell Membrane and Interfering with Peptidoglycan Synthesis.|https://dx.doi.org/10.1021/acs.jafc.3c08241
+Discovery of Unique Bis-Substituted Aromatic Amide Derivatives as Novel Highly Potent Antibiotics for Combating Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1021/acs.jmedchem.3c02064
+Characterization of the resistome and predominant genetic lineages of Gram-positive bacteria causing keratitis.|https://dx.doi.org/10.1128/aac.01247-23
+β-Hemolysin, not agrA mutation, inhibits the hemolysis of α-hemolysin in Staphylococcus aureus laboratory and clinical strains.|https://dx.doi.org/10.1128/msphere.00673-23
+Dual-Mechanism-Driven Ratiometric Electrochemiluminescent Biosensor for Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acs.analchem.3c05620
+Effect of Amino Acid Types on the Mechanical and Antimicrobial Properties of Amino Acid-Based Polyionic Liquid Hydrogels.|https://dx.doi.org/10.1002/marc.202300689
+Dynamic Antimicrobial Poly(disulfide) Coatings Exfoliate Biofilms On-Demand via Triggered Depolymerization.|https://dx.doi.org/10.1002/adhm.202303359
+In Vitro Assessment of Bacterial Adhesion and Biofilm Formation on Novel Bioactive, Biodegradable Electrospun Fiber Meshes Intended to Support Tendon Rupture Repair.|https://dx.doi.org/10.1021/acsami.3c15710

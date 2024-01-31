@@ -69,3 +69,20 @@ Blood loss during HPB procedures.|https://dx.doi.org/10.33699/PIS.2023.102.9.356
 Inhibition of multiple SARS-CoV-2 variants entry by Lycium barbarum L. polysaccharides through disruption of spike protein-ACE2 interaction.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129785
 Proposal for a screening protocol for Candida auris colonization.|https://dx.doi.org/10.1016/j.jhin.2023.12.019
 A Multi-Centre, Randomized Controlled Trial Comparing a Second-Generation Uncemented Trabecular Metal-backed versus Cemented Polyethylene Glenoid Component in Total Shoulder Arthroplasty: Five-year Results.|https://dx.doi.org/10.1016/j.jse.2023.12.004
+Role and intervention of PAD4 in NETs in acute respiratory distress syndrome.|https://dx.doi.org/10.1186/s12931-024-02676-7
+Salvage treatment of acute respiratory failure after autogenous tissue flap transplantation for chronic empyema with chest wall sinus: a case report and literature review.|https://dx.doi.org/10.1186/s13019-024-02488-2
+Clinical features and outcomes of influenza and RSV coinfections: a report from Canadian immunization research network serious outcomes surveillance network.|https://dx.doi.org/10.1186/s12879-024-09033-5
+Surgical Versus Dilational Tracheostomy in Patients with Severe Stroke: A SETPOINT2 Post hoc Analysis.|https://dx.doi.org/10.1007/s12028-023-01933-9
+Maximal medical treatment of adenoid hypertrophy: a prospective study of preschool children.|https://dx.doi.org/10.1007/s00405-024-08459-6
+An exploratory prospective phase II study of preoperative neoadjuvant bevacizumab and temozolomide for newly diagnosed glioblastoma.|https://dx.doi.org/10.1007/s11060-023-04544-8
+Omicron Spike confers enhanced infectivity and interferon resistance to SARS-CoV-2 in human nasal tissue.|https://dx.doi.org/10.1038/s41467-024-45075-8
+Alternative therapy for acute appendicitis with appendicolith using traditional Chinese medicine: A case report.|https://dx.doi.org/10.1016/j.explore.2024.01.003
+Hand-sewn gastrojejunal anastomosis reduces delayed gastric emptying after pancreaticoduodenectomy: A single-center retrospective clinical study of 1,077 consecutive patients.|https://dx.doi.org/10.1016/j.surg.2023.12.001
+The Hidden Risks of Perioperative Transfusions in Traumatic Lower Extremity Free Flap Reconstruction.|https://dx.doi.org/10.1055/a-2257-5235
+A case report on the development of sacroiliitis post laparoscopic appendicectomy for acute appendicitis: a rare cause of sacroiliitis in an adult.|https://dx.doi.org/10.1016/j.ijscr.2024.109305
+Risk factors for abdominal surgical infectious complications after distal gastrectomy for gastric cancer: A post-hoc analysis of a randomized controlled trial (JCOG0912).|https://dx.doi.org/10.1016/j.ejso.2024.107982
+IL-17 and IFN-γ-producing respiratory tissue resident memory CD4 T cells persist for decades in adults immunized as children with whole cell pertussis vaccines.|https://dx.doi.org/10.1093/infdis/jiae034
+Peak insulin drip rate associated with decreased infections post-solid organ transplant.|https://dx.doi.org/10.1111/ctr.15239
+Percutaneous Fluoroscopy-guided Retrieval of a Fractured Pelvic Drain after Caesarean Section: A Case Report.|https://dx.doi.org/10.31729/jnma.8310
+Chronic Otitis Media among Patients Visiting Community-Based Static Outreach Clinics.|https://dx.doi.org/10.31729/jnma.8369
+Multidrug Resistance among Patients with Surgical Site Infection in a Tertiary Care Centre.|https://dx.doi.org/10.31729/jnma.8353

@@ -41,3 +41,6 @@ MXene-based polysaccharide aerogel with multifunctional enduring antimicrobial e
 Anti-adhesive and antibacterial chitosan/PEO nanofiber dressings with high breathability for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129668
 A DNA-inspired injectable adhesive hydrogel with dual nitric oxide donors to promote angiogenesis for enhanced wound healing.|https://dx.doi.org/10.1016/j.actbio.2024.01.026
 Unconventional luminescent CS-PEC-based composite hemostasis sponge with antibacterial activity and visual monitoring for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129735
+Injectable hydrogel with antimicrobial and anti-inflammatory properties for postoperative tumor wound care.|https://dx.doi.org/10.1088/1748-605X/ad2408
+Effect of Amino Acid Types on the Mechanical and Antimicrobial Properties of Amino Acid-Based Polyionic Liquid Hydrogels.|https://dx.doi.org/10.1002/marc.202300689
+Methyl cellulose/okra mucilage composite films, functionalized with Hypericum perforatum oil and gentamicin, as a potential wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127757

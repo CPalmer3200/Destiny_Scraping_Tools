@@ -67,3 +67,18 @@ Association of Type of Vaccination Center With Time to Emergency Department Pres
 Clinical Outcomes of Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers in COVID-19 Patients With Pre-existing Cardiac Comorbidities: A Literature Review.|https://dx.doi.org/10.7759/cureus.51244
 Nebulized glycyrrhizin/enoxolone drug modulates IL-17A in COVID-19 patients: a randomized clinical trial.|https://dx.doi.org/10.3389/fimmu.2023.1282280
 An Analysis of Various Factors Underlying Covid-19 Prevention Practice and Strategy in Jigjiga Town, Northeast Ethiopia.|https://dx.doi.org/10.2147/IDR.S441538
+Association of the C allele of rs479200 in the EGLN1 gene with COVID-19 severity in Indian population: a novel finding.|https://dx.doi.org/10.1186/s40246-024-00572-1
+Understanding the impact of chronic diseases on COVID-19 vaccine hesitancy using propensity score matching: Internet-based cross-sectional study.|https://dx.doi.org/10.1111/jocn.16958
+Beneficial effect of temporary methotrexate interruption on B and T cell responses upon SARS-CoV-2 vaccination in patients with rheumatoid arthritis or psoriatic arthritis.|https://dx.doi.org/10.1038/s41541-024-00805-3
+Strengthening the WHO Regional Office for Africa (WHO AFRO) COVID-19 vaccination information system.|https://dx.doi.org/10.1136/bmjgh-2023-014097
+On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic.|https://dx.doi.org/10.1016/j.actpsy.2024.104155
+Aryl hydrocarbon receptor activation alters immune cell populations in the lung and bone marrow during coronavirus infection.|https://dx.doi.org/10.1152/ajplung.00236.2023
+Physical Activity, Sleeping Problems, Weight, Feelings of Social Isolation, and Quality of Life of Older Adults After Coronavirus Infection: A Longitudinal Cohort Study.|https://dx.doi.org/10.1097/EDE.0000000000001693
+The balance between traffic control and economic development in tourist cities under the context of COVID-19: A case study of Xi'an, China.|https://dx.doi.org/10.1371/journal.pone.0295950
+The influence of socioeconomic deprivation on outcomes in transplant patients infected with SARS-CoV-2 in Wales.|https://dx.doi.org/10.1111/ctr.15245
+SARS-CoV-2 and oncolytic EV-D68-encoded proteases differentially regulate pyroptosis.|https://dx.doi.org/10.1128/jvi.01909-23
+Campesterol and dithymoquinone as a potent inhibitors of SARS cov-2 main proteases-promising drug candidates for targeting its novel variants.|https://dx.doi.org/10.1080/07391102.2023.2301684
+Don't say it's over: The perceived epidemic stage and COVID preventive behaviour.|https://dx.doi.org/10.1177/13591053231222338
+The impact of exclusion due to COVID-19 restrictions on partners' satisfaction with Swedish hospital postnatal ward care: A multi-methods approach.|https://dx.doi.org/10.1111/birt.12816
+Managing the unknown or the art of preventing SARS-CoV-2 infection in workplaces in a context of evolving science, precarious employment, and communication barriers. A qualitative situational analysis in Quebec and Ontario.|https://dx.doi.org/10.3389/fpubh.2023.1268996
+Demand for emergency services during the COVID-19 pandemic and disease burden: a case study in Portugal.|https://dx.doi.org/10.3389/fpubh.2023.1294204

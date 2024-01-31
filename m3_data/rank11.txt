@@ -150,3 +150,9 @@ Two Novel Regioisomeric Series of Bis-pyrazolines: Synthesis, In Silico Study, D
 A Case of Primary Sclerosing Cholangitis Complicated With Liver Abscess Caused by Hyperviscous Klebsiella pneumoniae.|https://dx.doi.org/10.7759/cureus.51277
 Antimicrobial Resistance Patterns of Staphylococcus Aureus Isolated at a General Hospital in Vietnam Between 2014 and 2021.|https://dx.doi.org/10.2147/IDR.S437920
 Tackling strong biofilm and multi-virulent vancomycin-resistant Staphylococcus aureus via natural alkaloid-based porous nanoparticles: perspective towards near future eradication.|https://dx.doi.org/10.3389/fcimb.2023.1287426
+Dissecting antibiotic effects on the cell envelope using bacterial cytological profiling: a phenotypic analysis starter kit.|https://dx.doi.org/10.1128/spectrum.03275-23
+Antimicrobial activity of a natural compound and analogs against multi-drug-resistant Gram-positive pathogens.|https://dx.doi.org/10.1128/spectrum.01515-22
+Case 325.|https://dx.doi.org/10.1148/radiol.223334
+Exogenous butyrate inhibits butyrogenic metabolism and alters virulence phenotypes in Clostridioides difficile.|https://dx.doi.org/10.1128/mbio.02535-23
+LiaX is a surrogate marker for cell envelope stress and daptomycin non-susceptibility in Enterococcus faecium.|https://dx.doi.org/10.1128/aac.01069-23
+Letter to editor: effects of vancomycin in primary sclerosing cholangitis with and without inflammatory bowel disease.|https://dx.doi.org/10.1080/00365521.2024.2310168
