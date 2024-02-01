@@ -20,3 +20,4 @@ Gut Microbiota-Gut Metabolites and Clostridioides difficile Infection: Approachi
 Potential underreporting of treated patients using a Clostridioides difficile testing algorithm that screens with a nucleic acid amplification test.|https://dx.doi.org/10.1017/ice.2023.262
 Anti-S-layer monoclonal antibodies impact Clostridioides difficile physiology.|https://dx.doi.org/10.1080/19490976.2023.2301147
 Impact of oral vancomycin treatment duration on rate of Clostridioides difficile recurrence in patients requiring concurrent systemic antibiotics.|https://dx.doi.org/10.1017/ice.2024.4
+Antimicrobial Resistance of Clostridioides difficile in Children from a Tertiary Pediatric Hospital in Shanghai, China.|https://dx.doi.org/10.2147/IDR.S441312

@@ -82,3 +82,23 @@ Don't say it's over: The perceived epidemic stage and COVID preventive behaviour
 The impact of exclusion due to COVID-19 restrictions on partners' satisfaction with Swedish hospital postnatal ward care: A multi-methods approach.|https://dx.doi.org/10.1111/birt.12816
 Managing the unknown or the art of preventing SARS-CoV-2 infection in workplaces in a context of evolving science, precarious employment, and communication barriers. A qualitative situational analysis in Quebec and Ontario.|https://dx.doi.org/10.3389/fpubh.2023.1268996
 Demand for emergency services during the COVID-19 pandemic and disease burden: a case study in Portugal.|https://dx.doi.org/10.3389/fpubh.2023.1294204
+The Efficacy and Safety of Nafamostat Mesylate in the Treatment of COVID-19: A Meta-Analysis.|https://dx.doi.org/10.7883/yoken.JJID.2023.315
+Descriptive analysis to assess seasonal patterns of COVID-19 and influenza in low-income and middle-income countries in Asia, the Middle East and Latin America.|https://dx.doi.org/10.1136/bmjopen-2023-081019
+Effect of safety and security equipment on patient and visitor violence towards nurses in multiple public hospitals of China during the COVID-19 pandemic: a retrospective, difference-in-difference analysis.|https://dx.doi.org/10.1136/bmjopen-2023-078598
+At an intersection of public health crises: drugs, a pandemic, and out-of-hospital cardiac arrest.|https://dx.doi.org/10.1016/j.resuscitation.2024.110127
+Influenza vaccination before and during the COVID-19 pandemic in the elderly in South Korea.|https://dx.doi.org/10.1016/j.jiph.2023.11.030
+Developing a protocol on antimicrobial resistance through WHO's pandemic treaty will protect lives in future pandemics.|https://dx.doi.org/10.1186/s12992-024-01015-1
+Patterns of psychotropic drug prescriptions and general practice consultations among community-dwelling older people with dementia during the first two years of the COVID-19 pandemic.|https://dx.doi.org/10.1186/s12877-024-04708-9
+The necessity of investigations to clarify sex and racial disparities in pathophysiology of Long COVID.|https://dx.doi.org/10.1038/s41440-024-01587-w
+National prevalence and trends in food labeling awareness, comprehension, usage, and COVID-19 pandemic-related factors in South Korea, 2014-2022.|https://dx.doi.org/10.1038/s41598-024-51948-1
+Assessment of lifestyle changes related to quarantine among Saudi population during the early COVID-19 pandemic: pre- and post-analysis.|https://dx.doi.org/10.1186/s42506-023-00149-1
+Flu-COVID combo recombinant protein vaccines elicited protective immune responses against both influenza and SARS-CoV-2 viruses infection.|https://dx.doi.org/10.1016/j.vaccine.2023.12.084
+Effectiveness of environmental surveillance of SARS-CoV-2 as an early-warning system: Update of a systematic review during the second year of the pandemic.|https://dx.doi.org/10.2166/wh.2023.279
+Economic burden of COVID-19 for employers and employees in the United States.|https://dx.doi.org/10.1080/13696998.2024.2309835
+Unpacking the Experiences of Health Care Professionals About the Web-Based Building Resilience At Work Program During the COVID-19 Pandemic: Framework Analysis.|https://dx.doi.org/10.2196/49551
+Ethical Reflection on the "QR code Dilemma" Faced by Older People During COVID-19 in China.|https://dx.doi.org/10.1007/s11673-023-10317-9
+Screening Commercial Tea for Rapid Inactivation of Infectious SARS-CoV-2 in Saliva.|https://dx.doi.org/10.1007/s12560-023-09581-0
+Knowledge, Attitude, and Practices Towards COVID-19 Among Pregnant and Postpartum Women in Rural Bangladesh: A Cross-Sectional Study.|https://dx.doi.org/10.1007/s10995-024-03900-y
+A Case Study on Community Treatment Center for Response to COVID-19 in Korea: Focusing on Surge Capacity 4S Component Analysis and Social Well-Being Perspective.|https://dx.doi.org/10.1080/19371918.2024.2310322
+Relationship between depression, anxiety, stress and smartphone addiction in COVID-19 nursing students.|https://dx.doi.org/10.1590/1518-8345.6764.4056
+Covid-19 pandemic and equity of global human papillomavirus vaccination: descriptive study of World Health Organization-Unicef vaccination coverage estimates.|https://dx.doi.org/10.1136/bmjmed-2023-000726

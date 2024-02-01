@@ -44,3 +44,7 @@ Unconventional luminescent CS-PEC-based composite hemostasis sponge with antibac
 Injectable hydrogel with antimicrobial and anti-inflammatory properties for postoperative tumor wound care.|https://dx.doi.org/10.1088/1748-605X/ad2408
 Effect of Amino Acid Types on the Mechanical and Antimicrobial Properties of Amino Acid-Based Polyionic Liquid Hydrogels.|https://dx.doi.org/10.1002/marc.202300689
 Methyl cellulose/okra mucilage composite films, functionalized with Hypericum perforatum oil and gentamicin, as a potential wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2023.127757
+Gelatin/carboxymethyl chitosan/aloe juice hydrogels with skin-like endurance and quick recovery: Preparation, characterization, and properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129720
+Mussel-inspired "all-in-one" sodium alginate/carboxymethyl chitosan hydrogel patch promotes healing of infected wound.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129828
+Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing.|https://dx.doi.org/10.1038/s41467-024-44968-y
+Self-triggered carboxymethyl chitosan hydrogel for the convenient sustained release of ClO(2) gas with environmental stability and long-term antimicrobial effect.|https://dx.doi.org/10.1039/d3tb02409a

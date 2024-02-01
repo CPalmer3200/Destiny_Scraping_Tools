@@ -86,3 +86,19 @@ Peak insulin drip rate associated with decreased infections post-solid organ tra
 Percutaneous Fluoroscopy-guided Retrieval of a Fractured Pelvic Drain after Caesarean Section: A Case Report.|https://dx.doi.org/10.31729/jnma.8310
 Chronic Otitis Media among Patients Visiting Community-Based Static Outreach Clinics.|https://dx.doi.org/10.31729/jnma.8369
 Multidrug Resistance among Patients with Surgical Site Infection in a Tertiary Care Centre.|https://dx.doi.org/10.31729/jnma.8353
+ALT in combination with triple-rolled TFL for reconstruction of a complex tendoachilles defect: technical details and rehabilitation regime.|https://dx.doi.org/10.1136/bcr-2023-258355
+An unexpected case of thoracic necrotising fasciitis.|https://dx.doi.org/10.1136/bcr-2023-257946
+Tuberculosis of head and neck region, our experience at a tertiary care center in Gujarat.|https://dx.doi.org/10.1016/j.ijtb.2023.03.006
+[Risk factors of cytomegalovirus infection in patients with failed corneal grafts].|https://dx.doi.org/10.3760/cma.j.cn112142-20231120-00242
+[Clinical effect of modified vertical rectus abdominis myocutaneous flap in repairing skin and soft tissue defects after abdominoperineal resection for rectal cancer].|https://dx.doi.org/10.3760/cma.j.cn501225-20231030-00156
+[Properties of gelatin-polyethylene glycol hydrogel loaded with silver nanoparticle Chlorella and its effects on healing of infected full-thickness skin defect wounds in mice].|https://dx.doi.org/10.3760/cma.j.cn501225-20231020-00126
+Higher complication rates following primary total shoulder arthroplasty in patients presenting from areas of higher social deprivation.|https://dx.doi.org/10.1302/0301-620X.106B2.BJJ-2023-0785.R1
+A foreign body that has been left for 20 years causes a pseudoaneurysm of the middle cerebral artery: a case report.|https://dx.doi.org/10.1186/s13256-023-04334-w
+Comparative study on the technique and efficacy of microscope-assisted MI-TLIF and naked-eye MI-TLIF in lumbar revision surgery.|https://dx.doi.org/10.1186/s13018-024-04591-5
+Comparison of the effect between cefazolin/cefuroxime and broad-spectrum antibiotics in preventing post-operative pulmonary infections for smoking patients receiving video-assisted thoracoscopic lung surgery: a propensity score-matched retrospective cohort study.|https://dx.doi.org/10.1186/s12893-024-02329-y
+Do surgical drains reduce the postoperative surgical complications following incisional hernia repair? A systematic meta-analysis.|https://dx.doi.org/10.1007/s10029-024-02961-w
+The impact of opioid versus non-opioid analgesics on postoperative pain level, quality of life, and outcomes in ventral hernia repair.|https://dx.doi.org/10.1007/s10029-024-02968-3
+Subtrochanteric Osteotomy in Direct Anterior Approach Total Hip Arthroplasty for Crowe IV Dysplasia-Surgical Technique and Literature Review.|https://dx.doi.org/10.1111/os.13996
+Case Report: Pericardial Actinomycosis in a 79-Year-Old Man with Poor Dental Hygiene.|https://dx.doi.org/10.4269/ajtmh.23-0618
+A hospital-based asynchronous ENT telehealth service for children with otitis media: Cost-minimisation and improved access.|https://dx.doi.org/10.1177/1357633X231223994
+Skin Antisepsis before Surgical Fixation of Extremity Fractures.|https://dx.doi.org/10.1056/NEJMoa2307679

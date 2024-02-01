@@ -95,3 +95,19 @@ Dual-Mechanism-Driven Ratiometric Electrochemiluminescent Biosensor for Methicil
 Effect of Amino Acid Types on the Mechanical and Antimicrobial Properties of Amino Acid-Based Polyionic Liquid Hydrogels.|https://dx.doi.org/10.1002/marc.202300689
 Dynamic Antimicrobial Poly(disulfide) Coatings Exfoliate Biofilms On-Demand via Triggered Depolymerization.|https://dx.doi.org/10.1002/adhm.202303359
 In Vitro Assessment of Bacterial Adhesion and Biofilm Formation on Novel Bioactive, Biodegradable Electrospun Fiber Meshes Intended to Support Tendon Rupture Repair.|https://dx.doi.org/10.1021/acsami.3c15710
+Global epidemiology of asymptomatic colonisation of methicillin-resistant Staphylococcus aureus in the upper respiratory tract of young children: a systematic review and meta-analysis.|https://dx.doi.org/10.1136/archdischild-2023-326124
+Diverse diterpenoids and a triterpenoid from Euphorbia spinidens Bornm. ex Prokh.|https://dx.doi.org/10.1016/j.fitote.2024.105838
+Gelatin/carboxymethyl chitosan/aloe juice hydrogels with skin-like endurance and quick recovery: Preparation, characterization, and properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129720
+Mussel-inspired "all-in-one" sodium alginate/carboxymethyl chitosan hydrogel patch promotes healing of infected wound.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129828
+Assessment of antimicrobial, antidiabetic, and anti-inflammatory properties of acetone extract of Aerva lanata (L.) by in-vitro approach and bioactive compounds characterization.|https://dx.doi.org/10.1016/j.envres.2024.118348
+Prostaglandin D(2) is involved in the regulation of inflammatory response in Staphylococcus aureus-infected mice macrophages.|https://dx.doi.org/10.1016/j.intimp.2024.111526
+Breaking CHIPS-Mediated immune evasion with tripterin to promote neutrophil chemotaxis against MRSA infection.|https://dx.doi.org/10.1016/j.intimp.2024.111597
+Targeted transcriptomic analysis of synovial tissues from horses with septic arthritis treated with immune-activated mesenchymal stromal cells reveals induction of T-cell response pathways.|https://dx.doi.org/10.2460/javma.23.10.0561
+The changing profile of infective endocarditis: A multi-year retrospective study for dentists.|https://dx.doi.org/10.1111/ipd.13167
+Induction of cervical disc degeneration and discogenic pain by low concentration Propionibacterium acnes infection: an in vivo animal study.|https://dx.doi.org/10.1186/s13075-024-03269-x
+Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing.|https://dx.doi.org/10.1038/s41467-024-44968-y
+Extracellular G-quadruplexes and Z-DNA protect biofilms from DNase I, and G-quadruplexes form a DNAzyme with peroxidase activity.|https://dx.doi.org/10.1093/nar/gkae034
+Application of chitosan films incorporated with Zanthoxylum limonella essential oil for extending shelf life of pork.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129703
+Findaureus: An open-source application for locating Staphylococcus aureus in fluorescence-labelled infected bone tissue slices.|https://dx.doi.org/10.1371/journal.pone.0296854
+Long-term intensive care unit outbreak of carbapenamase-producing organisms associated with contaminated sink drains.|https://dx.doi.org/10.1016/j.jhin.2023.10.010
+Extracellular Vehicles from Commensal Skin Malassezia restricta Inhibit Staphylococcus aureus Proliferation and Biofilm Formation.|https://dx.doi.org/10.1021/acsinfecdis.3c00511

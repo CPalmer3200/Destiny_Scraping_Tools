@@ -156,3 +156,14 @@ Case 325.|https://dx.doi.org/10.1148/radiol.223334
 Exogenous butyrate inhibits butyrogenic metabolism and alters virulence phenotypes in Clostridioides difficile.|https://dx.doi.org/10.1128/mbio.02535-23
 LiaX is a surrogate marker for cell envelope stress and daptomycin non-susceptibility in Enterococcus faecium.|https://dx.doi.org/10.1128/aac.01069-23
 Letter to editor: effects of vancomycin in primary sclerosing cholangitis with and without inflammatory bowel disease.|https://dx.doi.org/10.1080/00365521.2024.2310168
+Breaking CHIPS-Mediated immune evasion with tripterin to promote neutrophil chemotaxis against MRSA infection.|https://dx.doi.org/10.1016/j.intimp.2024.111597
+Targeted transcriptomic analysis of synovial tissues from horses with septic arthritis treated with immune-activated mesenchymal stromal cells reveals induction of T-cell response pathways.|https://dx.doi.org/10.2460/javma.23.10.0561
+Genetic analysis of vancomycin-variable Enterococcus faecium clinical isolates in Italy.|https://dx.doi.org/10.1007/s10096-024-04768-0
+Long-term follow-up of a healthy man with endogenous Streptococcus anginosus endophthalmitis.|https://dx.doi.org/10.1186/s12348-023-00383-w
+Trial of Vancomycin and Cefazolin as Surgical Prophylaxis.|https://dx.doi.org/10.1056/NEJMc2313673
+Comparison table: Some topical drugs for rosacea.|https://dx.doi.org/10.58347/tml.2024.1695c
+Drugs for rosacea.|https://dx.doi.org/10.58347/tml.2024.1695b
+Antimicrobial activity of hydralazine against methicillin-resistant and methicillin-susceptible Staphylococcus aureus.|https://dx.doi.org/10.2217/fmb-2023-0160
+Thrombocytopenic Purpura in a 40-year-old Patient with Rothia dentocariosa-associated Endocarditis.|https://dx.doi.org/10.4103/jgid.jgid_116_22
+Pleural empyema with endobronchial mass due to Rhodococcus equi infection after renal transplantation: A case report and review of literature.|https://dx.doi.org/10.12998/wjcc.v12.i1.224
+Successful Implant Retention in a Chronified Hematogenous Bilateral Periprosthetic Hip Joint Infection With Enterococcus faecalis.|https://dx.doi.org/10.1016/j.artd.2023.101313

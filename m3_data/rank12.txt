@@ -45,3 +45,5 @@ Localized pseudomembranous gastritis associated with hepatic cirrhosis and porta
 On the origins of SARS-CoV-2 main protease inhibitors.|https://dx.doi.org/10.1039/d3md00493g
 Communicative development inventory in type 1 and presymptomatic infants with spinal muscular atrophy: a cohort study.|https://dx.doi.org/10.1136/archdischild-2023-326613
 ONSET OF NONSPECIFIC ULCERATIVE COLITIS POST COVID-19 (CASE STUDY).|https://dx.doi.org/10.36740/WLek202312125
+The contributions of clinical disease activity, functional disability, and illness intrusiveness to depressive symptoms in pediatric inflammatory bowel disease.|https://dx.doi.org/10.1002/jpn3.12056
+The diagnostic performance of copeptin in clinical practice: A prospective study.|https://dx.doi.org/10.1111/cen.15018

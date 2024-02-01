@@ -10,3 +10,4 @@ Accuracy of the GeneXpert® MRSA/SA SSTI test to diagnose methicillin-resistant 
 The cooperation between orf virus and Staphylococcus aureus leads to intractable lesions in skin infection.|https://dx.doi.org/10.3389/fcimb.2023.1213694
 Platanosides from Platanus × acerifolia: New molecules, SAR, and target validation of a strong lead for drug-resistant bacterial infections and the associated sepsis.|https://dx.doi.org/10.1016/j.bioorg.2024.107103
 Histidine transport is essential for the growth of Staphylococcus aureus at low pH.|https://dx.doi.org/10.1371/journal.ppat.1011927
+Repurposing antibiotic resistance surveillance data to support treatment of recurrent infections in a remote setting.|https://dx.doi.org/10.1038/s41598-023-50008-4
