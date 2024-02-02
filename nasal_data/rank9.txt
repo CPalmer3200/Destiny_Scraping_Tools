@@ -111,3 +111,22 @@ Application of chitosan films incorporated with Zanthoxylum limonella essential 
 Findaureus: An open-source application for locating Staphylococcus aureus in fluorescence-labelled infected bone tissue slices.|https://dx.doi.org/10.1371/journal.pone.0296854
 Long-term intensive care unit outbreak of carbapenamase-producing organisms associated with contaminated sink drains.|https://dx.doi.org/10.1016/j.jhin.2023.10.010
 Extracellular Vehicles from Commensal Skin Malassezia restricta Inhibit Staphylococcus aureus Proliferation and Biofilm Formation.|https://dx.doi.org/10.1021/acsinfecdis.3c00511
+Empyema necessitans caused by methicillin-resistant Staphylococcus aureus: a case report and literature review.|https://dx.doi.org/10.1186/s12879-024-09062-0
+Isolation, characterization, and multimodal evaluation of novel glycolipid biosurfactant derived from Bacillus species: A promising Staphylococcus aureus tyrosyl-tRNA synthetase inhibitor through molecular docking and MD simulations.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129848
+Ultrasonic-assisted synthesis of lignin-based ultrasmall silver nanoparticles for photothermal-mediated sterilization.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129827
+Optimization and characterization of chestnut shell pigment extract obtained microwave assisted extraction by response surface methodology.|https://dx.doi.org/10.1016/j.foodchem.2024.138424
+Microbial inactivation of pressure spray combined with high-voltage electrospray and its application in honey raspberry juice.|https://dx.doi.org/10.1016/j.ijfoodmicro.2024.110602
+Bacterial Isolates and Characteristics of Children With Febrile Neutropenia on Treatment for Cancer at a Tertiary Hospital in Western Kenya.|https://dx.doi.org/10.1200/GO.23.00313
+Targeted Screening of Fiber Degrading Bacteria with Probiotic Function in Herbivore Feces.|https://dx.doi.org/10.1007/s12602-024-10215-5
+Effects of extended dietary supplementation with Santalum album essential oil on hemato-biochemical changes, innate immune response, antioxidant status, and expression of related gene in Nile tilapia (Oreochromis niloticus).|https://dx.doi.org/10.1007/s10695-024-01309-6
+Indole alkaloids from endophytic fungus Robillarda sessilis and their antibacterial activity.|https://dx.doi.org/10.1080/14786419.2023.2297853
+Anticorrosion and Antimicrobial Tannic Acid-Functionalized Ti-Metallic Glass Ribbons for Dental Abutment.|https://dx.doi.org/10.1021/acsabm.3c00948
+Glutamate-dependent arginine biosynthesis requires the inactivation of spoVG, sarA, and ahrC in Staphylococcus aureus.|https://dx.doi.org/10.1128/jb.00337-23
+Cathodic voltage-controlled electrical stimulation and betadine decontaminate nosocomial pathogens from implant surfaces.|https://dx.doi.org/10.1128/msphere.00583-23
+Isolation, identification, and in vitro probiotic characterization of forty novel Bifidobacterium strains from neonatal feces in Erzurum province, Türkiye.|https://dx.doi.org/10.1002/jsfa.13298
+Initiating versus delaying treatment-dose anticoagulation in suspected venous thromboembolism (VTE) in post-operative hip and knee arthroplasty patients: Outcomes and risks.|https://dx.doi.org/10.1016/j.jcot.2024.102333
+Staphylococcus aureus biofilm: Formulation, regulatory, and emerging natural products-derived therapeutics.|https://dx.doi.org/10.1016/j.bioflm.2023.100175
+Improved antimicrobial activities of Boswellia sacra essential oils nanoencapsulated into hydroxypropyl-beta-cyclodextrins.|https://dx.doi.org/10.1039/d3na00882g
+Infective Endocarditis in an Intravenous Drug User Leading to Myocardial Rupture and Hemopericardium.|https://dx.doi.org/10.1177/19253621231214442
+Erratum: Molecular Characteristics, Antimicrobial Susceptibility, Biofilm-Forming Ability of Clinically Invasive Staphylococcus aureus Isolates [Corrigendum].|https://dx.doi.org/10.2147/IDR.S461582
+Retracted: Bioinspired Synthesis of Zinc Molybdate Nanoparticles: An Efficient Material for Growth Inhibition of Escherichia coli, Staphylococcus aureus, and Dye Remediation.|https://dx.doi.org/10.1155/2024/9859620

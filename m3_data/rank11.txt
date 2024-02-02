@@ -167,3 +167,11 @@ Antimicrobial activity of hydralazine against methicillin-resistant and methicil
 Thrombocytopenic Purpura in a 40-year-old Patient with Rothia dentocariosa-associated Endocarditis.|https://dx.doi.org/10.4103/jgid.jgid_116_22
 Pleural empyema with endobronchial mass due to Rhodococcus equi infection after renal transplantation: A case report and review of literature.|https://dx.doi.org/10.12998/wjcc.v12.i1.224
 Successful Implant Retention in a Chronified Hematogenous Bilateral Periprosthetic Hip Joint Infection With Enterococcus faecalis.|https://dx.doi.org/10.1016/j.artd.2023.101313
+A probe of new molecularly imprinted solid-phase extraction coupled with HPLC-DAD and atomic absorption spectrophotometry for quantification of tetracycline HCl, metronidazole and bismuth subcitrate in combination with their official impurities: Application in dosage form and human plasma.|https://dx.doi.org/10.1016/j.jchromb.2024.124032
+Bacterial Isolates and Characteristics of Children With Febrile Neutropenia on Treatment for Cancer at a Tertiary Hospital in Western Kenya.|https://dx.doi.org/10.1200/GO.23.00313
+Graphene oxide-encapsulated baghdadite nanocomposite improved physical, mechanical, and biological properties of a vancomycin-loaded PMMA bone cement.|https://dx.doi.org/10.1080/09205063.2024.2308328
+Nephrotoxic drug burden and predictors of exposure among patients with renal impairment in Ethiopia: A multi-center study.|https://dx.doi.org/10.1016/j.heliyon.2024.e24618
+Advanced Erosive Gouty Arthropathy of the Knee.|https://dx.doi.org/10.7759/cureus.51432
+A rare case of Bacillus subtilis variant natto-induced persistent bacteremia with liver and splenic abscesses in an immunocompetent patient.|https://dx.doi.org/10.1016/j.idcr.2024.e01925
+The Purine Biosynthesis Repressor, PurR, Contributes to Vancomycin Susceptibility of Methicillin-resistant Staphylococcus aureus in Experimental Endocarditis.|https://dx.doi.org/10.1093/infdis/jiad577
+Late Recurrence of Prosthetic Valve Endocarditis Due to Candida albicans.|https://dx.doi.org/10.12659/AJCR.942399

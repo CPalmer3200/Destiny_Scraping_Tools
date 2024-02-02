@@ -102,3 +102,21 @@ Knowledge, Attitude, and Practices Towards COVID-19 Among Pregnant and Postpartu
 A Case Study on Community Treatment Center for Response to COVID-19 in Korea: Focusing on Surge Capacity 4S Component Analysis and Social Well-Being Perspective.|https://dx.doi.org/10.1080/19371918.2024.2310322
 Relationship between depression, anxiety, stress and smartphone addiction in COVID-19 nursing students.|https://dx.doi.org/10.1590/1518-8345.6764.4056
 Covid-19 pandemic and equity of global human papillomavirus vaccination: descriptive study of World Health Organization-Unicef vaccination coverage estimates.|https://dx.doi.org/10.1136/bmjmed-2023-000726
+Impact of SARS-CoV-2 Vaccination or Infection on the Safety and Efficacy of Aesthetic Injections: A Systematic Review.|https://dx.doi.org/10.1007/s00266-023-03769-2
+Binding behavior of receptor binding domain of the SARS-CoV-2 virus and ivermectin.|https://dx.doi.org/10.1038/s41598-024-53086-0
+Achieving 400 Living Donor Liver Transplantations Annually During the COVID-19 Pandemic: A Single-Center Experience.|https://dx.doi.org/10.1016/j.transproceed.2023.12.005
+Letter to the Editor: The role of vitamin D in the prevention and treatment of SARS-CoV-2 infection: A meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1016/j.clnu.2024.01.015
+Advancing public health informatics during the COVID-19 pandemic: Lessons learned from a public-private partnership with pharmacies.|https://dx.doi.org/10.1016/j.vaccine.2024.01.092
+Suicide risk, related factors and the impact of COVID-19 amongst suicide prevention helpline callers: A network analysis.|https://dx.doi.org/10.1016/j.jad.2024.01.211
+Disparities in COVID-19 Mortality Amongst the Immunosuppressed: A Systematic Review and Meta-analysis for Enhanced Disease Surveillance.|https://dx.doi.org/10.1016/j.jinf.2024.01.009
+Insights into Covid-19 Mortality: A Comprehensive Study of Cardiovascular Sensitivity, Gender, Race, and Geography Trends in the United States (2020-2023).|https://dx.doi.org/10.1016/j.cpcardiol.2024.102435
+Assessing the impact of COVID-19 on HIV Outcomes in the United States: A modeling study.|https://dx.doi.org/10.1097/OLQ.0000000000001935
+Intolerance of uncertainty and mental health in China "Post-pandemic" age: The mediating role of difficulties in emotion regulation.|https://dx.doi.org/10.1371/journal.pone.0298044
+Prevalence and factors associated with mental illness symptoms among school students post lockdown of the COVID-19 pandemic in the United Arab Emirates: A cross-sectional national study.|https://dx.doi.org/10.1371/journal.pone.0296479
+Estimated excess deaths due to COVID-19 among the urban population of Mainland China, December 2022 to January 2023.|https://dx.doi.org/10.1097/EDE.0000000000001723
+Changes of influenza vaccination rate and associated influencing factors after the COVID-19 pandemic in Shanghai, China.|https://dx.doi.org/10.1080/21645515.2023.2287294
+Estimating Hidden Population Size of COVID-19 Using Respondent- Driven Sampling Method - A Systematic Review.|https://dx.doi.org/10.2174/0118715265277789240110043215
+A mid‑pandemic night's dream: Melatonin, from harbinger of anti‑inflammation to mitochondrial savior in acute and long COVID‑19 (Review).|https://dx.doi.org/10.3892/ijmm.2024.5352
+Preventive behaviors against COVID-19 among health care providers in Iran: A cross-sectional study.|https://dx.doi.org/10.1002/hsr2.1839
+Effectiveness of the severe acute respiratory syndrome coronavirus 2 Omicron BA.5 bivalent vaccine on symptoms in healthcare workers with BA.5 infection.|https://dx.doi.org/10.1016/j.jvacx.2024.100433
+Assessing COVID-19 knowledge, attitudes, and practices among hospital employees: identifying sociodemographic determinants for improved public health strategies.|https://dx.doi.org/10.3389/fpubh.2024.1295566

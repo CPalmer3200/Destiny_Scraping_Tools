@@ -2,3 +2,4 @@ A randomized, double-blind study on the safety and immunogenicity of rTSST-1 var
 Virulence genes and antibiotic resistance profiles of Staphylococcus aureus isolated from bovine mastitis milk samples.|https://dx.doi.org/10.22099/IJVR.2023.45279.6652
 Efficacy of novel staphylococcal surface associated protein vaccines against Staphylococcus aureus and non-aureus staphylococcal mastitis in dairy cows.|https://dx.doi.org/10.1016/j.vaccine.2024.01.067
 Identification of four genes responsible for antimicrobial resistance of MEL-B against S. aureus.|https://dx.doi.org/10.1016/j.bbrc.2024.149566
+SARS-CoV-2 spike-FLIPr fusion protein plus lipidated FLIPr protects against various SARS-CoV-2 variants in hamsters.|https://dx.doi.org/10.1128/jvi.01546-23

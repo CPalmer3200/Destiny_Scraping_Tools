@@ -11,3 +11,4 @@ Injectable hydrogel with antimicrobial and anti-inflammatory properties for post
 Primary Chondrosarcoma of the Right Fourth Rib Resected at the Marginal Margin: A Case Report.|https://dx.doi.org/10.7759/cureus.51251
 Establishing semi-automated infection surveillance in obstetrics and gynaecology.|https://dx.doi.org/10.1016/j.jhin.2024.01.010
 Adipose-derived stem cell exosomes promote tumor characterization and immunosuppressive microenvironment in breast cancer.|https://dx.doi.org/10.1007/s00262-023-03584-3
+Targeted muscle reinnervation: a brief history of a promising procedure for effective management of amputation pain.|https://dx.doi.org/10.25270/wnds/23079

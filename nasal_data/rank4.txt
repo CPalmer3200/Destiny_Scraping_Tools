@@ -65,3 +65,14 @@ Does Perioperative Radiation Affect Implant Survivorship of Primary Total Hip Ar
 The Functional Outcome of Surgical Management of Spondylolisthesis with Posterior Stabilization and Fusion.|https://dx.doi.org/10.13107/jocr.2024.v14.i01.4170
 Central Fracture-Dislocation of the Hip with Ipsilateral Femoral Neck Fracture in an Elderly Patient with Parkinsonism Managed with Dual Mobility Total Hip Arthroplasty: A Case Report and Review of Literature.|https://dx.doi.org/10.13107/jocr.2024.v14.i01.4134
 An observational study on the prevalence of choledochal cyst with pancreatitis: Geographical implications and management.|https://dx.doi.org/10.1002/jpn3.12138
+Optimal Time Window for Initiating Cefuroxime Surgical Antimicrobial Prophylaxis in Spinal Fusion Surgery: A Nested Case-Control Study.|https://dx.doi.org/10.1016/j.spinee.2024.01.013
+Treatment Rates for Chlamydia trachomatis (CT) and Neisseria gonorrhoeae (GC) in a Metropolitan Area: Observational Cohort Analysis.|https://dx.doi.org/10.1097/OLQ.0000000000001930
+Early Estimates of Updated 2023-2024 (Monovalent XBB.1.5) COVID-19 Vaccine Effectiveness Against Symptomatic SARS-CoV-2 Infection Attributable to Co-Circulating Omicron Variants Among Immunocompetent Adults - Increasing Community Access to Testing Program, United States, September 2023-January 2024.|https://dx.doi.org/10.15585/mmwr.mm7304a2
+Management of septic arthritis and prosthetic joint infection.|https://dx.doi.org/10.12968/hmed.2023.0219
+Trusted Information Sources About the COVID-19 Vaccine Vary in Underserved Communities.|https://dx.doi.org/10.1007/s10900-023-01319-0
+Tularemia treatment: experimental and clinical data.|https://dx.doi.org/10.3389/fmicb.2023.1348323
+Editorial: Global Health Concerns as Vaccine-Preventable Infections Including SARS-CoV-2 (JN.1), Influenza, Respiratory Syncytial Virus (RSV), and Measles Continue to Rise.|https://dx.doi.org/10.12659/MSM.943911
+Exebacase in Addition to Standard-of-Care Antibiotics for Staphylococcus aureus Bloodstream Infections and Right-Sided Infective Endocarditis: A Phase 3, Superiority-Design, Placebo-Controlled, Randomized Clinical Trial (DISRUPT).|https://dx.doi.org/10.1093/cid/ciae043
+Cefoxitin for Intraamniotic Infections and Endometritis: A Retrospective Comparison to Traditional Antimicrobial Therapy Regimens within a Health System.|https://dx.doi.org/10.1093/cid/ciae042
+Outcomes of pediatric pilonidal disease treatment: excision with off-midline flap reconstruction versus endoscopic pilonidal sinus treatment.|https://dx.doi.org/10.1007/s00383-023-05629-1
+[The highlights of kidney transplantation in 2023].|https://dx.doi.org/10.1684/ndt.2024.63
