@@ -76,3 +76,19 @@ Exebacase in Addition to Standard-of-Care Antibiotics for Staphylococcus aureus 
 Cefoxitin for Intraamniotic Infections and Endometritis: A Retrospective Comparison to Traditional Antimicrobial Therapy Regimens within a Health System.|https://dx.doi.org/10.1093/cid/ciae042
 Outcomes of pediatric pilonidal disease treatment: excision with off-midline flap reconstruction versus endoscopic pilonidal sinus treatment.|https://dx.doi.org/10.1007/s00383-023-05629-1
 [The highlights of kidney transplantation in 2023].|https://dx.doi.org/10.1684/ndt.2024.63
+Action planning for building public health program sustainability: results from a group-randomized trial.|https://dx.doi.org/10.1186/s13012-024-01340-4
+Use of Temporally Validated Machine Learning Models To Predict Outcomes of Percutaneous Nephrolithotomy Using Data from the British Association of Urological Surgeons Percutaneous Nephrolithotomy Audit.|https://dx.doi.org/10.1016/j.euf.2024.01.011
+Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms.|https://dx.doi.org/10.1016/j.ejvs.2023.11.002
+Effectiveness of Closed Incision Negative Pressure Wound Therapy for Infrainguinal Bypass in the Vascular Quality Initiative.|https://dx.doi.org/10.1016/j.avsg.2023.11.050
+Outcomes following use of bovine pericardium (xenoprosthetic) grafts for reconstruction of mycotic aortic aneurysms and infected aortic grafts: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.avsg.2023.11.037
+One-stage reconstruction of extensive exposed tibia on malnourished patient using single-layer Integra and amino acid supplements: A case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000037098
+Efficacy and clinical potential of phage therapy in treating methicillin-resistant Staphylococcus aureus (MRSA) infections: A review.|https://dx.doi.org/10.1556/1886.2023.00064
+Antibiotics in anesthesia and critical care.|https://dx.doi.org/10.21037/atm-22-5585
+Incidence and Risks of HIV Infection, Medication Options, and Adverse Effects in Accidental Needle Stick Injuries: A Narrative Review.|https://dx.doi.org/10.7759/cureus.51521
+HIV False-Positive Test in the Setting of CD4 Lymphocytopenia.|https://dx.doi.org/10.7759/cureus.51515
+A review on tissue-needle interaction and path planning models for bevel tip type flexible needle minimal intervention.|https://dx.doi.org/10.3934/mbe.2024023
+Efficacy of unregulated minimum risk tick repellent products evaluated with Ixodes scapularis nymphs in a human skin bioassay.|https://dx.doi.org/10.1186/s13071-024-06146-3
+Meta-analysis of elastic versus rigid fixation in the treatment of acute tibiofibular syndesmosis injury.|https://dx.doi.org/10.1186/s13643-023-02448-2
+kdr mutations and deltamethrin resistance in house flies in Abu Dhabi, UAE.|https://dx.doi.org/10.1186/s13071-024-06128-5
+Impact of driving cessation on health-related quality of life trajectories.|https://dx.doi.org/10.1186/s12955-024-02231-4
+Prevalence, risk factors, and antimicrobial resistance of endemic healthcare-associated infections in Africa: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09038-0

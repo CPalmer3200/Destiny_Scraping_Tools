@@ -130,3 +130,17 @@ Improved antimicrobial activities of Boswellia sacra essential oils nanoencapsul
 Infective Endocarditis in an Intravenous Drug User Leading to Myocardial Rupture and Hemopericardium.|https://dx.doi.org/10.1177/19253621231214442
 Erratum: Molecular Characteristics, Antimicrobial Susceptibility, Biofilm-Forming Ability of Clinically Invasive Staphylococcus aureus Isolates [Corrigendum].|https://dx.doi.org/10.2147/IDR.S461582
 Retracted: Bioinspired Synthesis of Zinc Molybdate Nanoparticles: An Efficient Material for Growth Inhibition of Escherichia coli, Staphylococcus aureus, and Dye Remediation.|https://dx.doi.org/10.1155/2024/9859620
+Regulation of the antibiotic elution profile from tricalcium phosphate bone cement by addition of bioactive glass.|https://dx.doi.org/10.1038/s41598-024-53319-2
+Selective depletion of S. aureus restores the skin microbiome and accelerates tissue repair following injury.|https://dx.doi.org/10.1016/j.jid.2024.01.018
+Revealing the spatiotemporal patterns of water vapor and its link to North Atlantic Oscillation over Greenland using GPS and ERA5 data.|https://dx.doi.org/10.1016/j.scitotenv.2024.170596
+Diversity of Staphylococcus aureus associated with mastitis from dairy cows in Rwanda.|https://dx.doi.org/10.1016/j.jgar.2024.01.017
+Chlorella-Loaded Antibacterial Microneedles for Microacupuncture Oxygen Therapy of Diabetic Bacterial Infected Wounds.|https://dx.doi.org/10.1002/adma.202307585
+NIR-responsive micropatterned nanocomposite functionalized implant for sequential antibacterial and osteogenesis.|https://dx.doi.org/10.1016/j.colsurfb.2024.113748
+Magnetically actuated pandanus fruit-like nanorobots for enhanced pH-stimulated drug release and targeted biofilm elimination in wound healing.|https://dx.doi.org/10.1016/j.jcis.2024.01.197
+Participant Diversity in United States Randomized Controlled Trials of Antibacterials for Staphylococcus aureus Infections, 2000-2021.|https://dx.doi.org/10.1093/cid/ciae049
+Antimicrobial Nonisocyanate Polyurethane Foam Derived from Lignin for Wound Healing.|https://dx.doi.org/10.1021/acsabm.3c01257
+Biocompatible N-carbazoleacetic acid decorated Cu(x)O nanoparticles as self-cascading platforms for synergistic single near-infrared triggered phototherapy treating microbial infections.|https://dx.doi.org/10.1039/d3bm01873c
+Silver oxide decorated urchin-like microporous organic polymer composites as versatile antibacterial organic coating materials.|https://dx.doi.org/10.1039/d3tb02619a
+Injectable and self-healable nano-architectured hydrogel for NIR-light responsive chemo- and photothermal bacterial eradication.|https://dx.doi.org/10.1039/d3tb02693k
+mSphere of Influence: Targeting bacterial signaling and metabolism to overcome antimicrobial resistance.|https://dx.doi.org/10.1128/msphere.00632-23
+Development and evaluation of 2,4-disubstituted-5-aryl pyrimidine derivatives as antibacterial agents.|https://dx.doi.org/10.1002/ardp.202300656

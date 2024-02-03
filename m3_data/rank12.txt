@@ -50,3 +50,5 @@ The diagnostic performance of copeptin in clinical practice: A prospective study
 Alterations in the gut microbiota and their metabolites in human intestinal epithelial cells of patients with colorectal cancer.|https://dx.doi.org/10.1007/s11033-024-09273-3
 Ultrathin nitrogen-doped carbon Ti(3)C(2)T(x)-TiN heterostructure derived from ZIF-8 nanoparticles sandwiched MXene for high-performance capacitive deionization.|https://dx.doi.org/10.1016/j.jcis.2024.01.144
 Correction of In-Patient Severe Hypernatremia in an 81-Year-Old Female With Hypopituitarism.|https://dx.doi.org/10.7759/cureus.51474
+Cord Blood Derived-Multipotent Stem Cells Ameliorate In-Vitro/In-Vivo Alloreactive Responses and this Effect is Associated with Exosomal Microvesicles in Vitro.|https://dx.doi.org/10.1016/j.jtct.2024.01.078
+The reunion with my patients: their journey and experience 30 years after their intervention for adolescent idiopathic scoliosis via CD instrumentation.|https://dx.doi.org/10.1007/s43390-023-00814-7

@@ -118,3 +118,16 @@ What Is a Surgical Site Infection After Carpal Tunnel Release?|https://dx.doi.or
 Limitations of antifungal prophylaxis in preventing invasive Candida surgical site infections after liver transplant surgery.|https://dx.doi.org/10.1128/aac.01279-23
 7.5Fr mini flexible ureteroscope in RIRS: initial results from a multi-center randomized controlled trail.|https://dx.doi.org/10.1089/end.2023.0540
 Does Dressing Choice Affect Infection Rate in Percutaneous K-Wiring of the Hand and Wrist? - A Systematic Review.|https://dx.doi.org/10.1142/S2424835524500012
+A unilateral external fixator combined with bone transport and tibio-talar fusion for the treatment of severe postoperative infection of peri-ankle fractures: retrospective analysis of 32 cases.|https://dx.doi.org/10.1186/s13018-024-04586-2
+Phage therapy as a glimmer of hope in the fight against the recurrence or emergence of surgical site bacterial infections.|https://dx.doi.org/10.1007/s15010-024-02178-0
+Comparison between the open and the laparoscopic approach in the primary ventral hernia repair: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00423-024-03241-y
+The Clinical Significance of Unplanned Coronary Artery Bypass Grafting in Aortic Root Replacement.|https://dx.doi.org/10.1053/j.jvca.2024.01.001
+The evolution of Incisional Hernia Repair in Spain A comparative analysis of results from the EVEREG Registry.|https://dx.doi.org/10.1016/j.cireng.2023.11.021
+Prediction Models for Forecasting Risk of Development of Surgical Site Infection After Lower Limb Revascularization Surgery: A Systematic Review.|https://dx.doi.org/10.1016/j.avsg.2023.11.034
+Contemporary Outcomes of Grade-C Postoperative Pancreatic Fistula in a Nationwide Database.|https://dx.doi.org/10.1016/j.jss.2023.12.050
+Lung carcinoma with diffuse cysts repeatedly misdiagnosed as pulmonary infections and lymphoid interstitial pneumonia: A case report.|https://dx.doi.org/10.1097/MD.0000000000037002
+Surgically Induced Scleritis Associated With Suture Hypersensitivity Following Strabismus Surgery.|https://dx.doi.org/10.3928/01913913-20231214-03
+Ventral mesh rectopexy for recurrent rectal prolapse after Altemeier perineal proctosigmoidectomy: feasibility and outcomes.|https://dx.doi.org/10.1007/s00423-024-03227-w
+Results of robotic liver surgery in association with IWATE criteria - the first 100 cases.|https://dx.doi.org/10.1007/s00423-024-03239-6
+Is TAPP the Right alternative for patients undergoing emergency surgery for incarcerated inguinal hernia?|https://dx.doi.org/10.14744/tjtes.2024.63367
+Rates of adverse events in patients with ulcerative colitis undergoing colectomy during treatment with tofacitinib vs biologics: a multicenter observational study.|https://dx.doi.org/10.14309/ajg.0000000000002676

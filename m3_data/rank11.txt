@@ -175,3 +175,13 @@ Advanced Erosive Gouty Arthropathy of the Knee.|https://dx.doi.org/10.7759/cureu
 A rare case of Bacillus subtilis variant natto-induced persistent bacteremia with liver and splenic abscesses in an immunocompetent patient.|https://dx.doi.org/10.1016/j.idcr.2024.e01925
 The Purine Biosynthesis Repressor, PurR, Contributes to Vancomycin Susceptibility of Methicillin-resistant Staphylococcus aureus in Experimental Endocarditis.|https://dx.doi.org/10.1093/infdis/jiad577
 Late Recurrence of Prosthetic Valve Endocarditis Due to Candida albicans.|https://dx.doi.org/10.12659/AJCR.942399
+Ornidazole induced Stevens-Johnson syndrome without body surface involved: A case report.|https://dx.doi.org/10.1097/MD.0000000000037164
+Comment on: Identifying a therapeutic target for vancomycin against staphylococci in young infants.|https://dx.doi.org/10.1093/jac/dkae014
+Antimicrobial use and appropriateness in neutropenic fever: a study of the Hospital National Antimicrobial Prescribing Survey data.|https://dx.doi.org/10.1093/jac/dkae015
+Tobramycin and Vancomycin in an In Vitro Model of Anterior Cruciate Ligament Allograft Decontamination.|https://dx.doi.org/10.1177/03635465231223138
+Development and evaluation of 2,4-disubstituted-5-aryl pyrimidine derivatives as antibacterial agents.|https://dx.doi.org/10.1002/ardp.202300656
+The effect of ciprofloxacin prophylaxis during haematopoietic cell transplantation on infection episodes, exposure to treatment antimicrobials and antimicrobial resistance: a single-centre retrospective cohort study.|https://dx.doi.org/10.1093/jacamr/dlae010
+Tuberculous Meningitis: An Endemic Cause of Intracranial Hypertension.|https://dx.doi.org/10.7759/cureus.51532
+Point-of-Care Coating of Revision Femoral Stems With Antibiotic-Loaded Calcium Sulfate: Reduction in Infection After 2nd Stage Reimplantation but Not With Aseptic Revisions.|https://dx.doi.org/10.1016/j.artd.2023.101302
+Therapeutic drug monitoring of glycopeptide antimicrobials: An overview of liquid chromatography-tandem mass spectrometry methods.|https://dx.doi.org/10.1016/j.jmsacl.2023.12.003
+A case of neonatal tsutsugamushi disease diagnosed with the aid of rickettsial macrogenomic detection.|https://dx.doi.org/10.1186/s12887-024-04561-0

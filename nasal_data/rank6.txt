@@ -3,3 +3,4 @@ Virulence genes and antibiotic resistance profiles of Staphylococcus aureus isol
 Efficacy of novel staphylococcal surface associated protein vaccines against Staphylococcus aureus and non-aureus staphylococcal mastitis in dairy cows.|https://dx.doi.org/10.1016/j.vaccine.2024.01.067
 Identification of four genes responsible for antimicrobial resistance of MEL-B against S. aureus.|https://dx.doi.org/10.1016/j.bbrc.2024.149566
 SARS-CoV-2 spike-FLIPr fusion protein plus lipidated FLIPr protects against various SARS-CoV-2 variants in hamsters.|https://dx.doi.org/10.1128/jvi.01546-23
+Emerging strategies and therapeutic innovations for combating drug resistance in Staphylococcus aureus strains: A comprehensive review.|https://dx.doi.org/10.1002/jobm.202300579

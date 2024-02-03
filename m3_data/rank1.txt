@@ -21,3 +21,5 @@ Potential underreporting of treated patients using a Clostridioides difficile te
 Anti-S-layer monoclonal antibodies impact Clostridioides difficile physiology.|https://dx.doi.org/10.1080/19490976.2023.2301147
 Impact of oral vancomycin treatment duration on rate of Clostridioides difficile recurrence in patients requiring concurrent systemic antibiotics.|https://dx.doi.org/10.1017/ice.2024.4
 Antimicrobial Resistance of Clostridioides difficile in Children from a Tertiary Pediatric Hospital in Shanghai, China.|https://dx.doi.org/10.2147/IDR.S441312
+Navigating the Landscape of Liver Cancer Management: Study Designs in Clinical Trials and Clinical Practices.|https://dx.doi.org/10.1016/j.jhep.2024.01.018
+A Randomized, Double-Blind, Phase 3 Safety and Efficacy Study of Ridinilazole Versus Vancomycin for Treatment of Clostridioides difficile Infection: Clinical Outcomes With Microbiome and Metabolome Correlates of Response.|https://dx.doi.org/10.1093/cid/ciad792

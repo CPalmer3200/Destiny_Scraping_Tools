@@ -120,3 +120,23 @@ A mid‑pandemic night's dream: Melatonin, from harbinger of anti‑inflammatio
 Preventive behaviors against COVID-19 among health care providers in Iran: A cross-sectional study.|https://dx.doi.org/10.1002/hsr2.1839
 Effectiveness of the severe acute respiratory syndrome coronavirus 2 Omicron BA.5 bivalent vaccine on symptoms in healthcare workers with BA.5 infection.|https://dx.doi.org/10.1016/j.jvacx.2024.100433
 Assessing COVID-19 knowledge, attitudes, and practices among hospital employees: identifying sociodemographic determinants for improved public health strategies.|https://dx.doi.org/10.3389/fpubh.2024.1295566
+Multilayer factors associated with excess all-cause mortality during the omicron and non-omicron waves of the COVID-19 pandemic: time series analysis in 29 countries.|https://dx.doi.org/10.1186/s12889-024-17803-8
+Susceptibility of AutoML mortality prediction algorithms to model drift caused by the COVID pandemic.|https://dx.doi.org/10.1186/s12911-024-02428-z
+Listen to the voices of nurses: the role of community chief nurses and registered nurses in the provision of care for older people in Sweden during the COVID-19 pandemic - a cross-sectional study.|https://dx.doi.org/10.1186/s12877-023-04652-0
+Patient Experiences Navigating Care Coordination For Long COVID: A Qualitative Study.|https://dx.doi.org/10.1007/s11606-024-08622-z
+Impact of the COVID-19 pandemic on COPD exacerbations in Japanese patients: a retrospective study.|https://dx.doi.org/10.1038/s41598-024-53389-2
+An intranasal live-attenuated SARS-CoV-2 vaccine limits virus transmission.|https://dx.doi.org/10.1038/s41467-024-45348-2
+A Gamma-adapted subunit vaccine induces broadly neutralizing antibodies against SARS-CoV-2 variants and protects mice from infection.|https://dx.doi.org/10.1038/s41467-024-45180-8
+Loneliness and suicide risks in the general population before and during first-year COVID-19 in Taiwan.|https://dx.doi.org/10.1016/j.jfma.2023.12.014
+High-flow nasal oxygen versus conventional oxygen therapy and noninvasive ventilation in COVID-19 respiratory failure: a systematic review and network meta-analysis of randomised controlled trials.|https://dx.doi.org/10.1016/j.bja.2023.12.022
+Utilizing a university testing program to estimate relative effectiveness of monovalent COVID-19 mRNA booster vaccine versus two-dose primary series against symptomatic SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.vaccine.2024.01.080
+The impact of Covid-19 vaccination in Aotearoa New Zealand: A modelling study.|https://dx.doi.org/10.1016/j.vaccine.2024.01.101
+Longitudinal parental perception of COVID-19 vaccines for children in a multi-site, cohort study.|https://dx.doi.org/10.1016/j.vaccine.2024.01.016
+Effects of the COVID-19 Pandemic on Colectomy Outcomes for Inflammatory Bowel Disease.|https://dx.doi.org/10.14423/SMJ.0000000000001650
+Description of nasopharyngeal bacterial pathogens associated with different SARS-CoV-2 variants.|https://dx.doi.org/10.1016/j.micpath.2024.106561
+Impact of COVID-19 emission reduction on dust aerosols and marine chlorophyll-a concentration.|https://dx.doi.org/10.1016/j.scitotenv.2024.170493
+Sliding Scale Insulin Use in Nursing Homes Before and After Onset of the COVID-19 Pandemic.|https://dx.doi.org/10.1016/j.jamda.2024.01.004
+Reactivation of Kaposi's sarcoma-associated herpesvirus (KSHV) by SARS-CoV-2 in non-hospitalised HIV-infected patients.|https://dx.doi.org/10.1016/j.ebiom.2024.104986
+Reply to: Low Dose Anticoagulation to Prevent Intra-Cranial Hemorrhage in Covid-19 Patients Under ECMO Support.|https://dx.doi.org/10.1164/rccm.202312-2295LE
+Low Dose Anticoagulation to Prevent Intra-Cranial Hemorrhage in Covid-19 Patients Under ECMO Support.|https://dx.doi.org/10.1164/rccm.202311-2090LE
+Using the Theory of Planned Behavior to determine COVID-19 vaccination intentions and behavior among international and domestic college students in the United States.|https://dx.doi.org/10.1371/journal.pone.0293130
