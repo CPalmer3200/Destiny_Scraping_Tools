@@ -92,3 +92,7 @@ Meta-analysis of elastic versus rigid fixation in the treatment of acute tibiofi
 kdr mutations and deltamethrin resistance in house flies in Abu Dhabi, UAE.|https://dx.doi.org/10.1186/s13071-024-06128-5
 Impact of driving cessation on health-related quality of life trajectories.|https://dx.doi.org/10.1186/s12955-024-02231-4
 Prevalence, risk factors, and antimicrobial resistance of endemic healthcare-associated infections in Africa: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09038-0
+To the point: Utility of laparoscopy for operative management of stabbing abdominal trauma.|https://dx.doi.org/10.1016/j.amjsurg.2024.01.028
+Supporting Maternal Efforts to Provide Optimal Infant Nutrition in the Post-Partum Setting.|https://dx.doi.org/10.1016/j.advnut.2024.100183
+Biomimetic ZrO(2)-modified seaweed residue with excellent fluorine/ bacteria removal and uranium extraction properties for wastewater purification.|https://dx.doi.org/10.1016/j.watres.2024.121219
+Audit of adherence to international guidelines (IDSA) in the treatment of infectious meningitis in pediatric patients in Jordan.|https://dx.doi.org/10.1080/03007995.2024.2314738

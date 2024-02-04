@@ -140,3 +140,13 @@ Reactivation of Kaposi's sarcoma-associated herpesvirus (KSHV) by SARS-CoV-2 in 
 Reply to: Low Dose Anticoagulation to Prevent Intra-Cranial Hemorrhage in Covid-19 Patients Under ECMO Support.|https://dx.doi.org/10.1164/rccm.202312-2295LE
 Low Dose Anticoagulation to Prevent Intra-Cranial Hemorrhage in Covid-19 Patients Under ECMO Support.|https://dx.doi.org/10.1164/rccm.202311-2090LE
 Using the Theory of Planned Behavior to determine COVID-19 vaccination intentions and behavior among international and domestic college students in the United States.|https://dx.doi.org/10.1371/journal.pone.0293130
+Telehealth program for symptomatic COVID-19 patients in Mindanao, Philippines: a whole-of-system, pragmatic interventional study on patient monitoring from isolation facilities to community reintegration.|https://dx.doi.org/10.1186/s12939-024-02115-5
+The impact of COVID-19 on the diagnosis and treatment of HCC: analysis of a nationwide registry for advanced liver diseases (REAL).|https://dx.doi.org/10.1038/s41598-024-53199-6
+Possible effect of OAS1 and TMPRSS6 but not DPP4 and ZNF335 polymorphisms on COVID-19 severity in the Czech population.|https://dx.doi.org/10.21101/cejph.a7906
+Assessment of the predictive value of plasma calprotectin in the evolution of SARS-Cov-2 primo-infection.|https://dx.doi.org/10.1016/j.idnow.2024.104860
+Trends and Disparities in Deaths among Young Persons in the US During the COVID-19 Pandemic.|https://dx.doi.org/10.1016/j.annepidem.2024.01.009
+Age dependent discrepancy between SARS-CoV-2 anti-nucleoprotein antibody and anti-RBD spike protein antibody in children reflects vaccine coverage.|https://dx.doi.org/10.1016/j.jiac.2024.01.020
+Motorcycle-related crashes before and during the COVID-19 pandemic: A comparative retrospective observational study from the Middle East.|https://dx.doi.org/10.1016/j.injury.2024.111343
+Investigations of clinical characteristics and inflammatory markers of febrile seizures induced by coronavirus infection.|https://dx.doi.org/10.47665/tb.40.4.009
+Heightened but variable COVID-19 risks for patients with cancer: Multiple studies have underscored certain cancer-associated dangers while reaffirming the protective effects of vaccination and other prevention strategies.|https://dx.doi.org/10.1002/cncy.22791
+Turkish nurses' psychological resilience and burnout levels during the COVID-19 pandemic: A correlational study.|https://dx.doi.org/10.1111/ijn.13239

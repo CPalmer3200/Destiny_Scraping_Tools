@@ -131,3 +131,16 @@ Ventral mesh rectopexy for recurrent rectal prolapse after Altemeier perineal pr
 Results of robotic liver surgery in association with IWATE criteria - the first 100 cases.|https://dx.doi.org/10.1007/s00423-024-03239-6
 Is TAPP the Right alternative for patients undergoing emergency surgery for incarcerated inguinal hernia?|https://dx.doi.org/10.14744/tjtes.2024.63367
 Rates of adverse events in patients with ulcerative colitis undergoing colectomy during treatment with tofacitinib vs biologics: a multicenter observational study.|https://dx.doi.org/10.14309/ajg.0000000000002676
+The outcome of closure of inguinal hernia with laparoscopic percutaneous extraperitoneal closure in young adults.|https://dx.doi.org/10.1002/wjs.12022
+Factors affecting duration of stay in the intensive care unit after coronary artery bypass surgery and its impact on in-hospital mortality: a retrospective study.|https://dx.doi.org/10.1186/s13019-024-02527-y
+Risk factors for prolonged postoperative ICU stay in the patients with Stanford type A aortic dissection.|https://dx.doi.org/10.1186/s13019-024-02548-7
+Using unsupervised machine learning to classify behavioral risk markers of bacterial vaginosis.|https://dx.doi.org/10.1007/s00404-023-07360-7
+[Standard technical specifications for methacholine chloride (Methacholine) bronchial challenge test (2023)].|https://dx.doi.org/10.3760/cma.j.cn112147-20231019-00247
+Diagnosing and Managing Infection in Total Ankle Replacement.|https://dx.doi.org/10.1016/j.fcl.2023.09.002
+Sex differences in surgical site infections following Coronary Artery Bypass Grafting. A retrospective observational study.|https://dx.doi.org/10.1016/j.jhin.2024.01.013
+In adult X-CGD patients, regulatory T cells are expanded while activated T cells display a NOX2-independent ROS increase.|https://dx.doi.org/10.1016/j.imlet.2024.106839
+Current Approaches to Wound Repair in Burns: How far we Have Come From Cover to Close? A Narrative Review.|https://dx.doi.org/10.1016/j.jss.2023.12.043
+Endoscopic combined intrarenal surgery for successful removal of an encrusted ureteral stent and multiple renal stones in solitary kidney: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109324
+Long-term outcome of treatment-naïve patients with mesial temporal lobe epilepsy with hippocampal sclerosis: A retrospective study in a single center.|https://dx.doi.org/10.1016/j.seizure.2024.01.018
+Is transumbilical laparoscopic-assisted appendectomy feasible for complicated appendicitis? A single-center experience.|https://dx.doi.org/10.1007/s00383-023-05624-6
+No increased risk of postoperative adverse events in total joint replacement patients with hidradenitis suppurativa.|https://dx.doi.org/10.1093/ced/llae032

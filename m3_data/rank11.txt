@@ -185,3 +185,7 @@ Tuberculous Meningitis: An Endemic Cause of Intracranial Hypertension.|https://d
 Point-of-Care Coating of Revision Femoral Stems With Antibiotic-Loaded Calcium Sulfate: Reduction in Infection After 2nd Stage Reimplantation but Not With Aseptic Revisions.|https://dx.doi.org/10.1016/j.artd.2023.101302
 Therapeutic drug monitoring of glycopeptide antimicrobials: An overview of liquid chromatography-tandem mass spectrometry methods.|https://dx.doi.org/10.1016/j.jmsacl.2023.12.003
 A case of neonatal tsutsugamushi disease diagnosed with the aid of rickettsial macrogenomic detection.|https://dx.doi.org/10.1186/s12887-024-04561-0
+Conductive hydrogels based on tragacanth and silk fibroin containing dopamine functionalized carboxyl-capped aniline pentamer: Merging hemostasis, antibacterial, and anti-oxidant properties into a multifunctional hydrogel for burn wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129932
+Gardnerella vaginalis ventilatory acquired pneumonia among patients with trauma.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116202
+Inhibition of choline kinase as an antiamoebic approach in Entamoeba histolytica infection.|https://dx.doi.org/10.47665/tb.40.4.008
+The efficacy of vaginal treatment for non-Lactobacillus dominant endometrial microbiota-A case-control study.|https://dx.doi.org/10.1111/jog.15897

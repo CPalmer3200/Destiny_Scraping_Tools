@@ -144,3 +144,15 @@ Silver oxide decorated urchin-like microporous organic polymer composites as ver
 Injectable and self-healable nano-architectured hydrogel for NIR-light responsive chemo- and photothermal bacterial eradication.|https://dx.doi.org/10.1039/d3tb02693k
 mSphere of Influence: Targeting bacterial signaling and metabolism to overcome antimicrobial resistance.|https://dx.doi.org/10.1128/msphere.00632-23
 Development and evaluation of 2,4-disubstituted-5-aryl pyrimidine derivatives as antibacterial agents.|https://dx.doi.org/10.1002/ardp.202300656
+Photodynamic Inactivation of Staphylococcus aureus Using Aloe-emodin as Photosensitizer.|https://dx.doi.org/10.1016/j.foodres.2024.113959
+An innovative fluorescent probe based on dicyanoisoflurone derivatives for differential detection of Hg(2+) and Cu(2+) and its applications in bacteria, cell imaging and food analysis.|https://dx.doi.org/10.1016/j.aca.2024.342259
+Prevalence and factors associated with methicillin-resistant Staphylococcus aureus (MRSA) colonisation on admission to geriatric care units: impact on screening practices.|https://dx.doi.org/10.1016/j.jhin.2024.01.014
+Central venous catheter-related bloodstream infections: Epidemiology and risk factors for hematogenous complications.|https://dx.doi.org/10.1016/j.idnow.2024.104859
+Antibacterial activity and dielectric properties of the PVA/cellulose nanocrystal composite using the synergistic effect of rGO@CuNPs.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129801
+Conductive hydrogels based on tragacanth and silk fibroin containing dopamine functionalized carboxyl-capped aniline pentamer: Merging hemostasis, antibacterial, and anti-oxidant properties into a multifunctional hydrogel for burn wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129932
+Modified cellulose nanocrystals enhanced polycaprolactone multifunctional films with barrier, UV-blocking and antimicrobial properties for food packaging.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129871
+Eligibility of patients with Staphylococcus aureus bacteraemia for early oral switch.|https://dx.doi.org/10.1016/S1473-3099(24)00065-3
+Preparation of edible antibacterial films based on corn starch /carbon nanodots for bioactive food packaging.|https://dx.doi.org/10.1016/j.foodchem.2024.138467
+AgAu-modified quasi-MIL-53 hybrid nanozymes with triple enzyme-like activities for boosting biocatalytic disinfection.|https://dx.doi.org/10.1016/j.jcis.2024.01.190
+Simultaneous Electrochemical Detection of Multiple Bacterial Species Using Metal-Organic Nanohybrids.|https://dx.doi.org/10.1021/acs.analchem.3c04587
+The skin microbiome in pediatric atopic dermatitis and food allergy.|https://dx.doi.org/10.1111/all.16044

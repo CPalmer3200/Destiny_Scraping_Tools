@@ -2,3 +2,4 @@ In vivo evaluation of Clostridioides difficile enoyl-ACP reductase II (FabK) inh
 Exposure and resistance to lantibiotics impact microbiota composition and function.|https://dx.doi.org/10.1101/2023.12.30.573728
 A five-year quasi-experimental study to evaluate the impact of empiric antibiotic order sets on antibiotic use metrics among hospitalized adult patients.|https://dx.doi.org/10.1017/ice.2023.293
 Diagnostic considerations in the clinical management of sudden swelling of the knee: a case report and review of the literature.|https://dx.doi.org/10.1186/s13256-023-04336-8
+Epidemiology of Clostridioides difficile infection at a tertiary care facility in Saudi Arabia: Results of prospective surveillance.|https://dx.doi.org/10.15537/smj.2024.45.2.20230398
