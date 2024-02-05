@@ -13,3 +13,4 @@ Establishing semi-automated infection surveillance in obstetrics and gynaecology
 Adipose-derived stem cell exosomes promote tumor characterization and immunosuppressive microenvironment in breast cancer.|https://dx.doi.org/10.1007/s00262-023-03584-3
 Targeted muscle reinnervation: a brief history of a promising procedure for effective management of amputation pain.|https://dx.doi.org/10.25270/wnds/23079
 Patient-reported outcomes of mesh in minimally invasive (laparoscopic/robot-assisted) immediate subpectoral prosthesis breast reconstruction: a retrospective study.|https://dx.doi.org/10.1007/s12282-023-01529-3
+[A retrospective cohort study of the postoperative prothesis-related complications of single-port endoscopic assisted versus open surgery on nipple sparing mastectomy and immediate prosthesis breast reconstruction].|https://dx.doi.org/10.3760/cma.j.cn112139-20231008-00159

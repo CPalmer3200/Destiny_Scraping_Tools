@@ -150,3 +150,8 @@ Motorcycle-related crashes before and during the COVID-19 pandemic: A comparativ
 Investigations of clinical characteristics and inflammatory markers of febrile seizures induced by coronavirus infection.|https://dx.doi.org/10.47665/tb.40.4.009
 Heightened but variable COVID-19 risks for patients with cancer: Multiple studies have underscored certain cancer-associated dangers while reaffirming the protective effects of vaccination and other prevention strategies.|https://dx.doi.org/10.1002/cncy.22791
 Turkish nurses' psychological resilience and burnout levels during the COVID-19 pandemic: A correlational study.|https://dx.doi.org/10.1111/ijn.13239
+An adenovirus-vectored vaccine based on the N protein of feline coronavirus elicit robust protective immune responses.|https://dx.doi.org/10.1016/j.antiviral.2024.105825
+Results from the SARS-CoV-2 wastewater-based surveillance system in Denmark, July 2021 to June 2022.|https://dx.doi.org/10.1016/j.watres.2024.121223
+Hybrid immunity to SARS-CoV-2 in patients with chronic lymphocytic leukemia.|https://dx.doi.org/10.1111/ejh.14170
+Deciphering the free energy landscapes of SARS-CoV-2 wild type and Omicron variant interacting with human ACE2.|https://dx.doi.org/10.1063/5.0188053
+Epidemiological Features and Outcomes of COVID-19 in Patients With and Without Cardiovascular Disease.|https://dx.doi.org/10.34172/aim.2023.48

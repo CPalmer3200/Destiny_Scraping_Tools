@@ -156,3 +156,13 @@ Preparation of edible antibacterial films based on corn starch /carbon nanodots 
 AgAu-modified quasi-MIL-53 hybrid nanozymes with triple enzyme-like activities for boosting biocatalytic disinfection.|https://dx.doi.org/10.1016/j.jcis.2024.01.190
 Simultaneous Electrochemical Detection of Multiple Bacterial Species Using Metal-Organic Nanohybrids.|https://dx.doi.org/10.1021/acs.analchem.3c04587
 The skin microbiome in pediatric atopic dermatitis and food allergy.|https://dx.doi.org/10.1111/all.16044
+Combined antimicrobial effect of two peptide nucleic acids against Staphylococcus aureus and S. pseudintermedius veterinary isolates.|https://dx.doi.org/10.4142/jvs.23265
+Intramammary preparation of enrofloxacin hydrochloride-dihydrate for bovine mastitis (biofilm-forming Staphylococcus aureus).|https://dx.doi.org/10.4142/jvs.23245
+Fabrication of carvacrol loaded cellulose acetate phthalate/shellac composite film and its application to mackerel fillets preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129904
+Polyphenolic characterization and biological assessment of Acacia nilotica (L.) wild. Ex delilie: An In vitro and In vivo appraisal of wound healing potential.|https://dx.doi.org/10.1016/j.jep.2024.117842
+IMMUNOMETABOLIC REGULATION OF BACTERIAL INFECTION, BIOFILMS, AND ANTIBIOTIC SUSCEPTIBILITY.|https://dx.doi.org/10.1159/000536649
+Transforming polypropylene waste into transparent anti-corrosion weather-resistant and anti-bacterial superhydrophobic films.|https://dx.doi.org/10.1016/j.jhazmat.2024.133597
+Levofloxacin susceptibility of Staphylococci from conjunctiva in patients with atopic dermatitis.|https://dx.doi.org/10.1007/s10384-023-01046-y
+PCR Development for Analysis of Some Type II Toxin-Antitoxin Systems, relJK, mazEF3, and vapBC3 Genes, in Mycobacterium tuberculosis and Mycobacterium bovis.|https://dx.doi.org/10.1007/s00284-023-03599-0
+Improving diagnostic accuracy of blood culture-positive cases in a cancer center via an antimicrobial stewardship program and infectious disease consultations.|https://dx.doi.org/10.1038/s41598-024-53543-w
+Treatment of MRSA Infection: Where are We?|https://dx.doi.org/10.2174/0109298673249381231130111352
