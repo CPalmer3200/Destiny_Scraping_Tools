@@ -150,3 +150,21 @@ Mucormycosis after CD19 chimeric antigen receptor T-cell therapy: results of a U
 Increased risk of periprosthetic joint infection after traumatic injury in joint revision patients.|https://dx.doi.org/10.1186/s42836-024-00235-5
 Association between HbA1c and deep sternal wound infection after coronary artery bypass: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s13019-024-02549-6
 [The application of full-length urethral preservation without anastomosis in single-port laparoscopic radical prostate cancer].|https://dx.doi.org/10.3760/cma.j.cn112139-20230914-00120
+Trends in the mortality of intra-abdominal infections in adults over 25 years in the USA, 1999-2021.|https://dx.doi.org/10.1136/emermed-2023-213478
+Treatment of L5-S1 Floating Calcified Lumbar Disc Herniation with Percutaneous Endoscopic Interlaminar Discectomy.|https://dx.doi.org/10.1111/os.14007
+Methylprednisolone Taper is an Effective Addition to Multimodal Pain Regimens after Total Shoulder Arthroplasty: Results of a Randomized Controlled Trial: 2022 Neer Award Winner.|https://dx.doi.org/10.1016/j.jse.2023.12.016
+Interim Use of Antibiotic-loaded Cement Spacer for Patients with Infected Cervical Fusion.|https://dx.doi.org/10.1016/j.wneu.2024.01.158
+Antibiotic definitive treatment in ventilator associated pneumonia caused by AmpC-producing Enterobacterales in critically ill patients: a prospective multicenter observational study.|https://dx.doi.org/10.1186/s13054-024-04820-7
+Postoperative infectious complications worsen oncologic outcomes following pancreaticoduodenectomy for pancreatic ductal adenocarcinoma.|https://dx.doi.org/10.1002/jso.27595
+Comparative analyses of Netherton syndrome patients and Spink5 conditional knock-out mice uncover disease-relevant pathways.|https://dx.doi.org/10.1038/s42003-024-05780-y
+Safety of limb lengthening after Roux-en-Y gastric bypass: an analysis of the MBSAQIP database.|https://dx.doi.org/10.1016/j.soard.2023.12.018
+Regulation of Immune Inflammation and Promotion of Periodontal Bone Regeneration by Irisin-Loaded Bioactive Glass Nanoparticles.|https://dx.doi.org/10.1021/acs.langmuir.3c02894
+Profiles of Cough and Associated Risk Factors in Nonhospitalized Individuals With SARS-CoV-2 Omicron Variant Infection: Cross-Sectional Online Survey in China.|https://dx.doi.org/10.2196/47453
+Identification of Potentially Modifiable Factors to Improve Recognition and Outcome of Necrotizing Soft-Tissue Infections.|https://dx.doi.org/10.1097/SHK.0000000000002325
+The relationship between posttonsillectomy bleeding to hemogram and coagulation parameters.|https://dx.doi.org/10.1007/s00405-024-08487-2
+Complications after total wrist arthroplasty.|https://dx.doi.org/10.1177/17531934231203297
+Complications of operatively treated distal radial fractures.|https://dx.doi.org/10.1177/17531934231192836
+State of the art review. Complications after carpal tunnel release.|https://dx.doi.org/10.1177/17531934231196407
+Efficacy of a topical formulation containing eprinomectin, esafoxolaner and praziquantel (NexGard(®) Combo) in the treatment of natural respiratory capillariosis of cats.|https://dx.doi.org/10.1051/parasite/2024005
+Tibial fractures treated with mono-lateral fixation: Principles of design and application.|https://dx.doi.org/10.1177/09544119231215998
+Mycobacterium flavescens Infection - An Unusual Case of Prosthetic Joint Infection.|https://dx.doi.org/10.2174/0118715265274138231229070757

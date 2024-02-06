@@ -23,3 +23,4 @@ Impact of oral vancomycin treatment duration on rate of Clostridioides difficile
 Antimicrobial Resistance of Clostridioides difficile in Children from a Tertiary Pediatric Hospital in Shanghai, China.|https://dx.doi.org/10.2147/IDR.S441312
 Navigating the Landscape of Liver Cancer Management: Study Designs in Clinical Trials and Clinical Practices.|https://dx.doi.org/10.1016/j.jhep.2024.01.018
 A Randomized, Double-Blind, Phase 3 Safety and Efficacy Study of Ridinilazole Versus Vancomycin for Treatment of Clostridioides difficile Infection: Clinical Outcomes With Microbiome and Metabolome Correlates of Response.|https://dx.doi.org/10.1093/cid/ciad792
+Concomitant Lymphocytic Colitis With Recurrent Clostridium difficile Infection.|https://dx.doi.org/10.7759/cureus.51606

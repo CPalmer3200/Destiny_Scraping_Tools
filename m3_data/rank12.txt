@@ -54,3 +54,5 @@ Cord Blood Derived-Multipotent Stem Cells Ameliorate In-Vitro/In-Vivo Alloreacti
 The reunion with my patients: their journey and experience 30 years after their intervention for adolescent idiopathic scoliosis via CD instrumentation.|https://dx.doi.org/10.1007/s43390-023-00814-7
 EDTA biodegradability and assisted phytoextraction efficiency in a large-scale field simulation: Is EDTA phasing out justified?|https://dx.doi.org/10.1016/j.jenvman.2024.120133
 A review of chloride ions removal from high chloride industrial wastewater: Sources, hazards, and mechanisms.|https://dx.doi.org/10.1016/j.jenvman.2024.120184
+Gastrointestinal PCR panel results and antibiotic use in acute gastroenteritis cases: How appropriate are we in our usage?|https://dx.doi.org/10.1016/j.ijmmb.2024.100536
+A Retrospective Cohort Study to Evaluate the Outcomes of HIV-Associated High-Grade B-Cell Non-Hodgkin Lymphoma (NHL) Treated with Dose Adjusted EPOCH (+/-R) Regimen.|https://dx.doi.org/10.1007/s12288-023-01652-3

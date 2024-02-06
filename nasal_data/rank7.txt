@@ -155,3 +155,23 @@ Results from the SARS-CoV-2 wastewater-based surveillance system in Denmark, Jul
 Hybrid immunity to SARS-CoV-2 in patients with chronic lymphocytic leukemia.|https://dx.doi.org/10.1111/ejh.14170
 Deciphering the free energy landscapes of SARS-CoV-2 wild type and Omicron variant interacting with human ACE2.|https://dx.doi.org/10.1063/5.0188053
 Epidemiological Features and Outcomes of COVID-19 in Patients With and Without Cardiovascular Disease.|https://dx.doi.org/10.34172/aim.2023.48
+[Gender Inequalities of the COVID-19 Pandemic: A Synthesis of Systematic Reviews with a Focus on Sexual and Gender Minorities].|https://dx.doi.org/10.1055/a-2228-6244
+The shadow pandemic: rising syphilis rates in the wake of coronavirus (COVID-19).|https://dx.doi.org/10.1071/SH23189
+Viral coinfection in hospitalized patients during the COVID-19 pandemic in Southern Brazil: a retrospective cohort study.|https://dx.doi.org/10.1186/s12931-024-02708-2
+Author Correction: Mortality outcomes with hydroxychloroquine and chloroquine in COVID-19 from an international collaborative meta-analysis of randomized trials.|https://dx.doi.org/10.1038/s41467-024-45360-6
+SARS-CoV-2 vaccination may mitigate dysregulation of IL-1/IL-18 and gastrointestinal symptoms of the post-COVID-19 condition.|https://dx.doi.org/10.1038/s41541-024-00815-1
+Comparing the Efficacy and Adverse Events of Available COVID-19 Vaccines Through Randomized Controlled Trials: Updated Systematic Review and Network Meta-analysis.|https://dx.doi.org/10.34172/jrhs.2023.128
+The child's experience of becoming ill with COVID-19.|https://dx.doi.org/10.1590/1980-220X-REEUSP-2023-0165en
+Covid-19 demography in France and South Africa: A comparative study of morbidity and mortality in 2020-2022.|https://dx.doi.org/10.1371/journal.pone.0294870
+Using the Structural Influence Model to Explore U.S. Latina/O/X/E Undocumented Immigrants' COVID-19 Information Acquisition, Perceptions, and Prevention Behaviors.|https://dx.doi.org/10.1080/10410236.2024.2309808
+A Case of Intractable Hypophosphatemia in a Patient with Guillain-Barré Syndrome and Encephalitis after SARS-CoV-2 Infection.|https://dx.doi.org/10.2174/0118715303261924231117055702
+Fear, Stress, Susceptibility, and Problematic Social Media Use Explain Motivation for COVID-19 Preventive Behaviors Among Patients With Stroke and Their Caregivers.|https://dx.doi.org/10.1177/00469580231225030
+COVID-19 vaccination and all-cause and non-COVID-19 mortality. A revaluation of a study carried out in an Italian Province.|https://dx.doi.org/10.19191/EP23.6.A643.075
+The COVID-19 vaccination in 4,772 pregnant women in the province of Trento (North-East Italy). Characteristics of vaccinated women.|https://dx.doi.org/10.19191/EP23.6.A636.082
+Real-world evidence on the efficacy of bivalent booster doses of SARS-CoV-2 vaccine in respect of monovalent boosters or primary cycle of vaccination: a narrative review.|https://dx.doi.org/10.19191/EP23.6.A626.081
+Impact of the COVID-19 Pandemic on Health Check-ups in 2021 and 2022: A Nationwide Follow-up Survey of Healthcare Facilities in Japan Society of Ningen Dock.|https://dx.doi.org/10.31662/jmaj.2023-0126
+COVID-19 vaccination willingness among people living with HIV in Shijiazhuang, China: a cross-sectional survey.|https://dx.doi.org/10.3389/fmed.2024.1322440
+A Retrospective and Comparative Analysis of Clinical Outcomes of Kidney Transplant Recipients During First and Second COVID-19 Waves in North-West India.|https://dx.doi.org/10.7759/cureus.51693
+Mental health: health worker narratives in the context of COVID-19 in Brazil.|https://dx.doi.org/10.47626/1679-4435-2023-1130
+Implementation of a monitoring and contact tracing program to manage COVID-19 by a multinational chemical company.|https://dx.doi.org/10.47626/1679-4435-2023-1109
+Allosteric Signal within the Receptor-Binding Domain of the SARS-CoV-2 Spike Protein Mediated by a Class 3 Monoclonal Antibody Revealed through Molecular Dynamics Simulations and Protein Residue Networks.|https://dx.doi.org/10.1021/acsomega.3c07947

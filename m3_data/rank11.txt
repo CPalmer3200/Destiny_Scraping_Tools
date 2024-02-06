@@ -189,3 +189,14 @@ Conductive hydrogels based on tragacanth and silk fibroin containing dopamine fu
 Gardnerella vaginalis ventilatory acquired pneumonia among patients with trauma.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116202
 Inhibition of choline kinase as an antiamoebic approach in Entamoeba histolytica infection.|https://dx.doi.org/10.47665/tb.40.4.008
 The efficacy of vaginal treatment for non-Lactobacillus dominant endometrial microbiota-A case-control study.|https://dx.doi.org/10.1111/jog.15897
+Impact of effluent parameters and vancomycin concentration on vancomycin resistant Escherichia coli and its host specific bacteriophage lytic activity in hospital effluent.|https://dx.doi.org/10.1016/j.envres.2024.118334
+Minimal impact of low-density lipoprotein apheresis on vancomycin serum concentration: A case report.|https://dx.doi.org/10.1016/j.jiac.2024.01.018
+Role of multidrug-resistant bacteria in weaning from invasive mechanical ventilation.|https://dx.doi.org/10.1186/s12931-024-02694-5
+Microbiological isolates and associated complications of dacryocystitis and canaliculitis in a prominent tertiary ophthalmic teaching hospital in northern China.|https://dx.doi.org/10.1186/s12886-024-03323-x
+Comparative analysis of linezolid, vancomycin, and hyperbaric oxygen therapies in a rat model of ventriculoperitoneal shunt infection.|https://dx.doi.org/10.1007/s00381-024-06305-y
+Bibliometric Insights Into the Evolving Landscape of Antibiotic Resistance Research: Trends, Collaborations, and Key Foci (1965-2023).|https://dx.doi.org/10.7759/cureus.53508
+Staphylococcus hemolyticus: The Most Common and Resistant Coagulase-Negative Staphylococcus Species Causing Bacteremia in North India.|https://dx.doi.org/10.7759/cureus.51680
+Peritoneal Dialysis-Related Peritonitis Caused by Lysinibacillus sphaericus.|https://dx.doi.org/10.1155/2024/2478832
+In vitro Activity of Ceftaroline Against Isolates of Gram-Positive Bacteria from Patients with Bloodstream Infections Collected as a Part of ATLAS Between 2017 and 2020.|https://dx.doi.org/10.2147/IDR.S423004
+Etiology, Microbiological Isolates, and Antibiotic Susceptibilities in Inpatients with Refractory Auricular Perichondritis: A 10-Year Retrospective Study.|https://dx.doi.org/10.2147/IDR.S434522
+Genomic characterization of vancomycin-resistant Enterococcus faecium clonal complex 17 isolated from urine in tertiary hospitals in Northeastern Thailand.|https://dx.doi.org/10.3389/fmicb.2023.1278835

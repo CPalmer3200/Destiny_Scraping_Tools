@@ -166,3 +166,19 @@ Levofloxacin susceptibility of Staphylococci from conjunctiva in patients with a
 PCR Development for Analysis of Some Type II Toxin-Antitoxin Systems, relJK, mazEF3, and vapBC3 Genes, in Mycobacterium tuberculosis and Mycobacterium bovis.|https://dx.doi.org/10.1007/s00284-023-03599-0
 Improving diagnostic accuracy of blood culture-positive cases in a cancer center via an antimicrobial stewardship program and infectious disease consultations.|https://dx.doi.org/10.1038/s41598-024-53543-w
 Treatment of MRSA Infection: Where are We?|https://dx.doi.org/10.2174/0109298673249381231130111352
+Various mutations in icaR, the repressor of the icaADBC locus, occur in mucoid Staphylococcus aureus isolates recovered from the airways of people with cystic fibrosis.|https://dx.doi.org/10.1016/j.micinf.2024.105306
+Low cytotoxicity, antibacterial property, and curcumin delivery performance of toughness-enhanced electrospun composite membranes based on poly(lactic acid) and MAX phase (Ti(3)AlC(2)).|https://dx.doi.org/10.1016/j.ijbiomac.2024.129967
+All-in-One Self-Powered Microneedle Device for Accelerating Infected Diabetic Wound Repair.|https://dx.doi.org/10.1002/adhm.202304365
+Fever-like temperature impacts on Staphylococcus aureus and Pseudomonas aeruginosa interaction, physiology, and virulence both in vitro and in vivo.|https://dx.doi.org/10.1186/s12915-024-01830-3
+Historic methicillin-resistant Staphylococcus aureus: expanding current knowledge using molecular epidemiological characterization of a Swiss legacy collection.|https://dx.doi.org/10.1186/s13073-024-01292-w
+Role of multidrug-resistant bacteria in weaning from invasive mechanical ventilation.|https://dx.doi.org/10.1186/s12931-024-02694-5
+Community-acquired Staphylococcus aureus bacteraemia among people who inject drugs: a national cohort study in England, 2017-2020.|https://dx.doi.org/10.1093/cid/ciae056
+Collagen Scaffolds Functionalized by Cu(2+) -chelated Egcg Nanoparticles with Anti-Inflammatory, Anti-Oxidation, Vascularization And Anti-Bacterial Activities for Accelerating Wound Healing.|https://dx.doi.org/10.1002/adhm.202303297
+Hydrophilic Modification of Polylactic Acid Fiber and the Usage of Natural Dye for Multi-Levered Improvement of the Fabric Staining Depth and the Stability Effect.|https://dx.doi.org/10.1021/acs.langmuir.3c03721
+The Promiscuity of Squalene Synthase-Like Enzyme: Dehydrosqualene Synthase, a Natural Squalene Hyperproducer?|https://dx.doi.org/10.1021/acs.jafc.3c05770
+Enhanced osteogenic and antibacterial properties of titanium implant surface modified with Zn-incorporated nanowires: Preclinical in vitro and in vivo investigations.|https://dx.doi.org/10.1111/clr.14242
+Epidemiology and patterns of empiric antimicrobial therapy practice in patients with community-onset sepsis using data from a Japanese nationwide medical claims database-the Japan Sepsis Alliance (JaSA) study group.|https://dx.doi.org/10.1016/j.ijregi.2024.01.002
+Surgical Management of Congenital Pulmonary Airway Malformations (CPAM) in an Infant and a Toddler: Case Report Depicting Two Distinct Surgical Techniques With Successful Outcomes.|https://dx.doi.org/10.7759/cureus.53526
+Design, synthesis and antibacterial activity of novel 7H-thiazolo[3,2-b]-1,2,4-triazin-7-one derivatives.|https://dx.doi.org/10.1016/j.heliyon.2024.e24589
+In vitro Antimicrobial Activity of Some Extracts of Salvia spp Harvested from the Oltenia Flora Using Different Solvents.|https://dx.doi.org/10.12865/CHSJ.49.03.12
+Antimicrobial potential, GCMS analysis and molecular docking studies of Coelogyne suaveolens extracts: Identification of bioactive compounds with mechanism of action.|https://dx.doi.org/10.1016/j.bbrep.2024.101648
