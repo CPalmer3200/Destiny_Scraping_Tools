@@ -168,3 +168,17 @@ State of the art review. Complications after carpal tunnel release.|https://dx.d
 Efficacy of a topical formulation containing eprinomectin, esafoxolaner and praziquantel (NexGard(®) Combo) in the treatment of natural respiratory capillariosis of cats.|https://dx.doi.org/10.1051/parasite/2024005
 Tibial fractures treated with mono-lateral fixation: Principles of design and application.|https://dx.doi.org/10.1177/09544119231215998
 Mycobacterium flavescens Infection - An Unusual Case of Prosthetic Joint Infection.|https://dx.doi.org/10.2174/0118715265274138231229070757
+Gigantic aneurysmal bone cyst of the scapula in children treated with left total scapulectomy and humeral suspension: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109339
+Mucocutaneous histoplasmosis as the first manifestation of AIDS.|https://dx.doi.org/10.1111/scd.12972
+Laparoscopic polyglycolic acid spacer placement for locally recurrent rectal cancer.|https://dx.doi.org/10.1111/codi.16882
+Safety and efficacy of stoma site selection in CT-guided percutaneous gastrostomy: a retrospective analysis.|https://dx.doi.org/10.1186/s12957-024-03323-7
+Comparison of hand-sewn anterior repair, resection and hand-sewn anastomosis, resection and stapled anastomosis techniques for the reversal of diverting loop ileostomy after low anterior rectal resection: a randomized clinical trial.|https://dx.doi.org/10.1007/s10151-023-02898-9
+Epidemiology and clinical characteristics of patients with healthcare-acquired multidrug-resistant Gram-negative bacilli: a retrospective study from a tertiary care hospital.|https://dx.doi.org/10.1038/s41598-024-53596-x
+Potent and broadly neutralizing antibodies against sarbecoviruses induced by sequential COVID-19 vaccination.|https://dx.doi.org/10.1038/s41421-024-00648-1
+Term neonate born with right upper extremity skin necrosis at Birth: A Case Report.|https://dx.doi.org/10.1093/jbcr/irae017
+Healthcare associated infection management in 62 intensive care units for patients with congenital heart disease in China, a survey study.|https://dx.doi.org/10.1097/JS9.0000000000001138
+Commentary Regarding "Outcomes of Immediate Multistaged Abdominal Wall Reconstruction of Infected Mesh: Predictors of Surgical Site Complications and Hernia Recurrence".|https://dx.doi.org/10.1097/SAP.0000000000003786
+Perioperative quality indicators among neurosurgery patients: A retrospective cohort study of 1142 cases at a tertiary center.|https://dx.doi.org/10.1371/journal.pone.0297167
+Fecal microbiota transplantation before liver transplant in patient colonized with New Delhi metallo-beta-lactamase: Are we ready for a sequential approach?|https://dx.doi.org/10.1111/tid.14248
+Hearing preservation in paediatric cochlear implantation with the Nucleus Slim Straight Electrode - our experience.|https://dx.doi.org/10.1080/14992027.2024.2306191
+A self-activating electron transfer antibacterial strategy: Co(3)O(4)/TiO(2) P-N heterojunctions combined with photothermal therapy.|https://dx.doi.org/10.1039/d3bm01550e

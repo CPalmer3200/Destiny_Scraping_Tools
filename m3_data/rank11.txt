@@ -200,3 +200,10 @@ Peritoneal Dialysis-Related Peritonitis Caused by Lysinibacillus sphaericus.|htt
 In vitro Activity of Ceftaroline Against Isolates of Gram-Positive Bacteria from Patients with Bloodstream Infections Collected as a Part of ATLAS Between 2017 and 2020.|https://dx.doi.org/10.2147/IDR.S423004
 Etiology, Microbiological Isolates, and Antibiotic Susceptibilities in Inpatients with Refractory Auricular Perichondritis: A 10-Year Retrospective Study.|https://dx.doi.org/10.2147/IDR.S434522
 Genomic characterization of vancomycin-resistant Enterococcus faecium clonal complex 17 isolated from urine in tertiary hospitals in Northeastern Thailand.|https://dx.doi.org/10.3389/fmicb.2023.1278835
+Enhanced metronidazole removal in seawater using a single-chamber bioelectrochemical system.|https://dx.doi.org/10.1016/j.watres.2024.121212
+Antibiotic susceptibility in Endophthalmitis Management Study and intravitreal antibiotic practice trend in India-EMS Report #5.|https://dx.doi.org/10.1007/s00417-024-06391-3
+Utility of cystatin C and serum creatinine-based glomerular filtration rate equations in predicting vancomycin clearance: A population pharmacokinetics analysis in elderly Chinese patients.|https://dx.doi.org/10.1002/bdd.2383
+Cervical Facial Actinomycosis Complicated by Bacteremia After 30 Years of Dental Neglect: Successful Treatment With Ceftriaxone and Metronidazole.|https://dx.doi.org/10.7759/cureus.51734
+Transcriptomic analysis of cell envelope inhibition by prodigiosin in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2024.1333526
+Antimicrobial activity of nature-inspired molecules against multidrug-resistant bacteria.|https://dx.doi.org/10.3389/fmicb.2023.1336856
+Detection of linezolid and vancomycin resistant Enterococcus isolates collected from healthy chicken caecum.|https://dx.doi.org/10.1093/jambio/lxae027

@@ -175,3 +175,23 @@ A Retrospective and Comparative Analysis of Clinical Outcomes of Kidney Transpla
 Mental health: health worker narratives in the context of COVID-19 in Brazil.|https://dx.doi.org/10.47626/1679-4435-2023-1130
 Implementation of a monitoring and contact tracing program to manage COVID-19 by a multinational chemical company.|https://dx.doi.org/10.47626/1679-4435-2023-1109
 Allosteric Signal within the Receptor-Binding Domain of the SARS-CoV-2 Spike Protein Mediated by a Class 3 Monoclonal Antibody Revealed through Molecular Dynamics Simulations and Protein Residue Networks.|https://dx.doi.org/10.1021/acsomega.3c07947
+Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study.|https://dx.doi.org/10.1136/bmjopen-2023-075185
+A Randomized Trial of Nafamostat for Covid-19.|https://dx.doi.org/10.1056/EVIDoa2300132
+Vaccine hesitancy and equity: lessons learned from the past and how they affect the COVID-19 countermeasure in Indonesia.|https://dx.doi.org/10.1186/s12992-023-00987-w
+Repurposing phone booths into COVID-19 sampling stations: medical operator experiences.|https://dx.doi.org/10.1186/s12939-024-02113-7
+Being used for the greater good while fighting on the frontline: care staff's experiences of working with older people during the COVID-19 pandemic in Sweden.|https://dx.doi.org/10.1186/s12877-023-04644-0
+A retrospective analysis of malaria deaths in the pre- and intra- COVID 19 pandemic era, Ghana, 2016-2021.|https://dx.doi.org/10.1371/journal.pone.0286212
+Health Communication and Behavioral Change During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/17456916231215272
+Physical Distancing for Gay Men from People Living with HIV During the COVID-19 Pandemic.|https://dx.doi.org/10.1080/00918369.2024.2314031
+High Prevalence of Long COVID in Common Variable Immunodeficiency: An Italian Multicentric Study.|https://dx.doi.org/10.1007/s10875-024-01656-2
+Effectiveness of Bivalent mRNA COVID-19 Vaccines in Preventing SARS-CoV-2 Infection in Children and Adolescents Aged 5 to 17 Years.|https://dx.doi.org/10.1001/jama.2023.27022
+[Clinical and laboratory parameters and pathomorphological features of the lungs in patients who have had COVID-19 viral pneumonia].|https://dx.doi.org/10.17116/patol20248601127
+Pandemic Grief and Suicidal Ideation in Latin American Countries: A Network Analysis.|https://dx.doi.org/10.1177/00332941241231209
+A photocontrolled one-pot isothermal amplification and CRISPR-Cas12a assay for rapid detection of SARS-CoV-2 Omicron variants.|https://dx.doi.org/10.1128/spectrum.03645-23
+Modeling the health impact of increasing vaccine coverage and nonpharmaceutical interventions against coronavirus disease 2019 in Ghana.|https://dx.doi.org/10.1080/20477724.2024.2313787
+Examination of Nursing Staffs' Perceptions of the COVID-19 Vaccine Using the Health Belief Model.|https://dx.doi.org/10.1177/01939459241230383
+Dynamics of serum cross-neutralization capacity against SARS-CoV-2 Delta variant in convalescent COVID-19 patients.|https://dx.doi.org/10.1002/jmv.29448
+Associations of COVID-19 lockdown with birth weight in China.|https://dx.doi.org/10.3389/fped.2024.1336108
+Comparing Therapeutic versus Prophylactic Enoxaparin Therapy in Severe COVID-19 Patients: A Randomized Clinical Trial.|https://dx.doi.org/10.47176/mjiri.37.129
+Assessing the effect of selective serotonin reuptake inhibitors in the prevention of post-acute sequelae of COVID-19.|https://dx.doi.org/10.1016/j.csbj.2023.12.045
+The pediatric gut bacteriome and virome in response to SARS-CoV-2 infection.|https://dx.doi.org/10.3389/fcimb.2024.1335450

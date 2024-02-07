@@ -182,3 +182,21 @@ Surgical Management of Congenital Pulmonary Airway Malformations (CPAM) in an In
 Design, synthesis and antibacterial activity of novel 7H-thiazolo[3,2-b]-1,2,4-triazin-7-one derivatives.|https://dx.doi.org/10.1016/j.heliyon.2024.e24589
 In vitro Antimicrobial Activity of Some Extracts of Salvia spp Harvested from the Oltenia Flora Using Different Solvents.|https://dx.doi.org/10.12865/CHSJ.49.03.12
 Antimicrobial potential, GCMS analysis and molecular docking studies of Coelogyne suaveolens extracts: Identification of bioactive compounds with mechanism of action.|https://dx.doi.org/10.1016/j.bbrep.2024.101648
+Bactericidal, anti-biofilm, anti-oxidant potency and catalytic property of silver nanoparticles embedded into functionalised chitosan gel.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129968
+Should Contact Precautions Be Used for Patients with MRSA Infection and Colonization in Acute Care Settings?|https://dx.doi.org/10.1056/EVIDtt2300302
+Antibacterial, antibiofilm, and anticancer activity of silver-nanoparticles synthesized from the cell-filtrate of Streptomyces enissocaesilis.|https://dx.doi.org/10.1186/s12896-024-00833-w
+MAC-ErrorReads: machine learning-assisted classifier for filtering erroneous NGS reads.|https://dx.doi.org/10.1186/s12859-024-05681-1
+Harnessing the photocatalytic potential of bismuth ferrite-activated carbon nanocomposite (BFO-AC) for Staphylococcus aureus decontamination under visible light.|https://dx.doi.org/10.1007/s11356-024-32261-w
+Staphylococcus aureus exacerbates dermal IL-33-ILC2 axis activation through evoking RIPK3/MLKL-mediated necroptosis of dry skin.|https://dx.doi.org/10.1172/jci.insight.166821
+Enterococcus mundtii A2 biofilm and its anti-adherence potential against pathogenic microorganisms on stainless steel 316L.|https://dx.doi.org/10.1007/s42770-024-01266-5
+Antimicrobial and antibiofilm properties of selenium-chitosan-loaded salicylic acid nanoparticles for the removal of emerging contaminants from bacterial pathogens.|https://dx.doi.org/10.1007/s11274-024-03917-z
+Co-occurrence network analysis reveals the alterations of the skin microbiome and metabolome in adults with mild to moderate atopic dermatitis.|https://dx.doi.org/10.1128/msystems.01119-23
+The role of GpsB in Staphylococcus aureus cell morphogenesis.|https://dx.doi.org/10.1128/mbio.03235-23
+Verification of a method using magnetic bead enrichment and nucleic acid extraction to improve the molecular detection of bacterial contamination in blood components.|https://dx.doi.org/10.1128/spectrum.02760-23
+Coordination of prophage and global regulator leads to high enterotoxin production in staphylococcal food poisoning-associated lineage.|https://dx.doi.org/10.1128/spectrum.02927-23
+In silico and structural investigation of sulfonamides targeting VraSR two component system in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1080/07391102.2024.2309679
+In-vitro antimicrobial activity of AF-DP protein and in-silico approach of cell membrane disruption.|https://dx.doi.org/10.1080/07391102.2024.2308763
+Synthesis and antimicrobial activity of thiophene-based heterocycles derived from thiophene-2-carbohydrazide.|https://dx.doi.org/10.4155/fmc-2023-0304
+Evaluation of Antibacterial, Antioxidant, Anti-inflammatory and Anticancer Efficacy of Titanium-Doped Graphene Oxide Nanoparticles.|https://dx.doi.org/10.7759/cureus.51737
+Effective wound healing on diabetic mice by adhesive antibacterial GNPs-lysine composited hydrogel.|https://dx.doi.org/10.1016/j.isci.2024.108860
+Transcriptomic analysis of cell envelope inhibition by prodigiosin in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2024.1333526

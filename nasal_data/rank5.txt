@@ -16,3 +16,5 @@ Patient-reported outcomes of mesh in minimally invasive (laparoscopic/robot-assi
 [A retrospective cohort study of the postoperative prothesis-related complications of single-port endoscopic assisted versus open surgery on nipple sparing mastectomy and immediate prosthesis breast reconstruction].|https://dx.doi.org/10.3760/cma.j.cn112139-20231008-00159
 Submammary Approach for Harvesting Pectoralis Major Myocutaneous Flap in Females with Oral Cavity Cancers: Report of Technique and Our Experience.|https://dx.doi.org/10.1007/s12663-023-01984-7
 Imaging spectrum in tropical breast infections.|https://dx.doi.org/10.1093/bjr/tqad032
+Outcomes After Implant-Based Breast Reconstruction Following the National Institution of a Ban on Bacitracin Irrigation.|https://dx.doi.org/10.1097/SAP.0000000000003794
+The Value of a Co-surgeon in Microvascular Breast Reconstruction: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1097/GOX.0000000000005624
