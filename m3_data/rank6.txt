@@ -1,4 +1,0 @@
-Multimodal vaccination targeting the receptor binding domains of Clostridioides difficile toxins A and B with an attenuated Salmonella Typhimurium vector (YS1646) protects mice from lethal challenge.|https://dx.doi.org/10.1128/spectrum.03109-22
-Core-genome-mediated promising alternative drug and multi-epitope vaccine targets prioritization against infectious Clostridium difficile.|https://dx.doi.org/10.1371/journal.pone.0293731
-Burden of Medically Attended Diarrhea and Outpatient Clostridioides difficile Infection Among Persons in 2 Large Integrated Healthcare Settings, 2016-2021.|https://dx.doi.org/10.1093/ofid/ofad680
-Clostridioides difficile Infection: A Clinical Review of Pathogenesis, Clinical Considerations, and Treatment Strategies.|https://dx.doi.org/10.7759/cureus.51167
