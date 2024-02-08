@@ -207,3 +207,16 @@ Cervical Facial Actinomycosis Complicated by Bacteremia After 30 Years of Dental
 Transcriptomic analysis of cell envelope inhibition by prodigiosin in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2024.1333526
 Antimicrobial activity of nature-inspired molecules against multidrug-resistant bacteria.|https://dx.doi.org/10.3389/fmicb.2023.1336856
 Detection of linezolid and vancomycin resistant Enterococcus isolates collected from healthy chicken caecum.|https://dx.doi.org/10.1093/jambio/lxae027
+Development of a new antibiotic-induced dysbiosis model of the canine colonic microbiota.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107102
+Dose optimization and target attainment of vancomycin in children.|https://dx.doi.org/10.1016/j.clinbiochem.2024.110728
+Acute kidney injury and risk factors in pediatric patients undergoing hematopoietic stem cell transplantation.|https://dx.doi.org/10.1007/s00467-024-06290-z
+Effects of low-frequency ultrasound combined with anti-MRSA agents on the mouse model of pulmonary infection.|https://dx.doi.org/10.1128/spectrum.01016-23
+Tailored therapy guided by genotypic resistance of clarithromycin and levofloxacin detected by polymerase chain reaction in the first-line treatment of Helicobacter pylori infection.|https://dx.doi.org/10.1111/1751-2980.13250
+Occurrence profiling, risk assessment, and correlations of antimicrobials in surface water and groundwater systems in Southwest Nigeria.|https://dx.doi.org/10.1039/d3em00516j
+Epidemiology and clinical features of Skin and Soft Tissue Infections Caused by PVL-Positive and PVL-Negative Methicillin-Resistant Staphylococcus aureus Isolates in inpatients in China: a single-center retrospective 7-year study.|https://dx.doi.org/10.1080/22221751.2024.2316809
+Consideration of within-patient diversity highlights transmission pathways and antimicrobial resistance gene variability in vancomycin-resistant Enterococcus faecium.|https://dx.doi.org/10.1093/jac/dkae023
+Comparison of daptomycin and glycopeptide efficacy and safety for the treatment of Gram-positive infections: a systematic review and meta-analysis.|https://dx.doi.org/10.1093/jac/dkae026
+[Distribution and Antibiotic Resistance Analysis of Ocular Bacterial Pathogens at a Tertiary Hospital From 2012 to 2021].|https://dx.doi.org/10.12182/20240160103
+Rapid discrimination between clinical Clostridioides difficile infection and colonization by quantitative detection of TcdB toxin using a real-time cell analysis system.|https://dx.doi.org/10.3389/fmicb.2024.1348892
+Antimicrobial Stewardship and Improved Antibiotic Utilization in the Pediatric Cardiac Intensive Care Unit.|https://dx.doi.org/10.1097/pq9.0000000000000710
+Does Intrawound Vancomycin Decrease Postoperative Surgical Site Infection in Spine Surgery: A Retrospective Case-control Study.|https://dx.doi.org/10.1097/BSD.0000000000001578

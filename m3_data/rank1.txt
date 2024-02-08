@@ -25,3 +25,5 @@ Navigating the Landscape of Liver Cancer Management: Study Designs in Clinical T
 A Randomized, Double-Blind, Phase 3 Safety and Efficacy Study of Ridinilazole Versus Vancomycin for Treatment of Clostridioides difficile Infection: Clinical Outcomes With Microbiome and Metabolome Correlates of Response.|https://dx.doi.org/10.1093/cid/ciad792
 Concomitant Lymphocytic Colitis With Recurrent Clostridium difficile Infection.|https://dx.doi.org/10.7759/cureus.51606
 Characterizing the flavodoxin landscape in Clostridioides difficile.|https://dx.doi.org/10.1128/spectrum.01895-23
+Fecal Microbiota Transplantation for Clostridium difficile-associated Diarrhea in Hematopoietic Stem Cell Transplant Recipients: A Single-center Experience from a Tertiary Center in India.|https://dx.doi.org/10.5005/jp-journals-10071-24607
+Antimicrobial Guanidinylate Polycarbonates Show Oral in Vivo Efficacy Against Clostridioides Difficile.|https://dx.doi.org/10.1002/adhm.202303295

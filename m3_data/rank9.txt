@@ -7,3 +7,4 @@ Toxigenic Clostridium perfringens isolated from at-risk pediatric inflammatory b
 Defined microbial communities and their soluble products protect mice from Clostridioides difficile infection.|https://dx.doi.org/10.1038/s42003-024-05778-6
 The geriatric nutritional risk index as a strong predictor of adverse outcomes following total shoulder arthroplasty.|https://dx.doi.org/10.1016/j.jseint.2023.08.022
 Single-Centre Retrospective Audit of Clostridium difficile Infections Post Ileostomy Reversal.|https://dx.doi.org/10.7759/cureus.51674
+Abnormal Amygdala Subregion Functional Connectivity in Patients with Crohn's Disease with or without Anxiety and Depression.|https://dx.doi.org/10.1155/2024/1551807

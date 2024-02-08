@@ -3,3 +3,5 @@ Injectable and self-healable nano-architectured hydrogel for NIR-light responsiv
 Controlled Sr(ii) ion release from in situ crosslinking electroactive hydrogels with potential for the treatment of infections.|https://dx.doi.org/10.1039/d3ra07061a
 Collagen Scaffolds Functionalized by Cu(2+) -chelated Egcg Nanoparticles with Anti-Inflammatory, Anti-Oxidation, Vascularization And Anti-Bacterial Activities for Accelerating Wound Healing.|https://dx.doi.org/10.1002/adhm.202303297
 Effective wound healing on diabetic mice by adhesive antibacterial GNPs-lysine composited hydrogel.|https://dx.doi.org/10.1016/j.isci.2024.108860
+Cowberry extract loaded chitosan hydrogel with photothermal and antioxidant properties promotes infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129988
+Living Antimicrobial Wound Dressings: Using Probiotic-Loaded, Alginate Nanofibers for Protection against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsabm.3c01240

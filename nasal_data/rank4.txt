@@ -123,3 +123,10 @@ CDC Laboratory Recommendations for Syphilis Testing, United States, 2024.|https:
 Barbed sutures and skin adhesives improve wound closure in hip and knee arthroplasty.|https://dx.doi.org/10.1002/ksa.12055
 Treatment of the infected sacral nerve stimulator: A scoping review.|https://dx.doi.org/10.1002/nau.25411
 Incidence of Bacteremia, Infective Endocarditis, or Prosthetic Joint Infection in Dermatologic Surgery: A Systematic Review.|https://dx.doi.org/10.1097/DSS.0000000000004101
+International Delphi Study on Wound Closure and Incision Management in Joint Arthroplasty Part 2: Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.01.047
+An Exploratory and Qualitative Analysis of Self-Reported Evaluations for Fever.|https://dx.doi.org/10.1089/sur.2023.294
+Safety and effectiveness of laparoscopic adult groin hernia repair in Africa: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s10029-023-02931-8
+Postoperative Outcomes Associated with the Timing of Surgery After SARS-CoV-2 Infection.|https://dx.doi.org/10.1097/SLA.0000000000006227
+Case Report: Two cases of multiples and atypical dermal sinus tracts.|https://dx.doi.org/10.3389/fped.2024.1346970
+Risk factors of postoperative delirium following spine surgery: A meta-analysis of 50 cohort studies with 1.1 million participants.|https://dx.doi.org/10.1016/j.heliyon.2024.e24967
+Diminished measles immunity after paediatric liver transplantation-A retrospective, single-centre, cross-sectional analysis.|https://dx.doi.org/10.1371/journal.pone.0296653

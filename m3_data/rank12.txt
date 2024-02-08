@@ -58,3 +58,5 @@ Gastrointestinal PCR panel results and antibiotic use in acute gastroenteritis c
 A Retrospective Cohort Study to Evaluate the Outcomes of HIV-Associated High-Grade B-Cell Non-Hodgkin Lymphoma (NHL) Treated with Dose Adjusted EPOCH (+/-R) Regimen.|https://dx.doi.org/10.1007/s12288-023-01652-3
 Change in Provider Specialty Was Associated With Less Fluoroquinolone Use at a Veterans Affairs Long-Term Care Setting.|https://dx.doi.org/10.1016/j.jamda.2023.12.015
 Synthesis and antimicrobial activity of thiophene-based heterocycles derived from thiophene-2-carbohydrazide.|https://dx.doi.org/10.4155/fmc-2023-0304
+[GPT-4, health data, and GDPR: The challenging equation].|https://dx.doi.org/10.1016/j.jfo.2024.104071
+Perspective into ion storage of pristine metal-organic frameworks in capacitive deionization.|https://dx.doi.org/10.1016/j.cis.2024.103092

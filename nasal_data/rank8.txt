@@ -182,3 +182,19 @@ Perioperative quality indicators among neurosurgery patients: A retrospective co
 Fecal microbiota transplantation before liver transplant in patient colonized with New Delhi metallo-beta-lactamase: Are we ready for a sequential approach?|https://dx.doi.org/10.1111/tid.14248
 Hearing preservation in paediatric cochlear implantation with the Nucleus Slim Straight Electrode - our experience.|https://dx.doi.org/10.1080/14992027.2024.2306191
 A self-activating electron transfer antibacterial strategy: Co(3)O(4)/TiO(2) P-N heterojunctions combined with photothermal therapy.|https://dx.doi.org/10.1039/d3bm01550e
+Procalcitonin for the diagnosis of postoperative bacterial infection after adult cardiac surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s13054-024-04824-3
+Ocular syphilis masquerading as refractory retinal diseases.|https://dx.doi.org/10.1186/s12879-023-08739-2
+Duraplasty using a combination of a pedicled dural flap and collagen matrix in posterior fossa decompression for pediatric Chiari malformation type 1 with syrinx.|https://dx.doi.org/10.1007/s00701-024-05969-4
+Understanding the use and outcomes of high-flow nasal cannula among infants admitted to Canadian hospitals with bronchiolitis (CanFLO): a protocol for a multicentre, retrospective cohort study.|https://dx.doi.org/10.1136/bmjopen-2023-080197
+Plasma Concentration of Antifungal Agent Micafungin for Pediatric Living Donor Liver Transplantation.|https://dx.doi.org/10.1016/j.transproceed.2024.01.020
+Scedosporium boydii finding in an immunocompromised patient and review of the literature.|https://dx.doi.org/10.1016/j.riam.2023.10.001
+[Application of modified urethral separation method in artificial urethral sphincter implantation and its influence on intraoperative urethral pressure profilometry].|https://dx.doi.org/10.3760/cma.j.cn112137-20230926-00559
+On the potential role of naturally occurring carboxylic organic acids as anti-infective agents: opportunities and challenges.|https://dx.doi.org/10.1016/j.ijid.2024.01.011
+[Translated article] Predictors of first-year postoperative complications after fixation of low-energy ankle fractures: A single-center, retrospective cohort study of 663 consecutive fractures.|https://dx.doi.org/10.1016/j.recot.2024.01.029
+A blunt traumatic giant pseudoaneurysm of the brachiocephalic artery: A case report from Somalia.|https://dx.doi.org/10.1016/j.ijscr.2024.109329
+Primary preputial reconstruction following surgical excision of cutaneous mast cell tumours without penile amputation in eight dogs.|https://dx.doi.org/10.1080/00480169.2024.2308807
+IMPACT OF HELICOBACTER PYLORI ON EARLY POSTOPERATIVE COMPLICATIONS AFTER SLEEVE GASTRECTOMY: A SYSTEMATIC REVIEW AND META-ANALYSIS.|https://dx.doi.org/10.1590/0102-672020230070e1788
+LAPAROSCOPIC RIGHT AND LEFT COLECTOMY: WHICH PROVIDES BETTER POSTOPERATIVE RESULTS FOR ONCOLOGY PATIENTS?|https://dx.doi.org/10.1590/0102-672020230074e1792
+Antibiotics prophylaxis at the time of catheter removal after radical prostatectomy: a systematic review of the literature and meta-analysis.|https://dx.doi.org/10.1590/acb390424
+Robotics and Navigation Do Not Affect the Risk of Periprosthetic Joint Infection Following Primary Total Hip Arthroplasty: A Propensity Score-Matched Cohort Analysis.|https://dx.doi.org/10.2106/JBJS.23.00289
+Effect of continuous drainage of cranial arachnoid cysts into the ventricular system by stereotactic placed catheters.|https://dx.doi.org/10.1080/02688697.2024.2312965

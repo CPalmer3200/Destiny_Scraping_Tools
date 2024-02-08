@@ -195,3 +195,22 @@ Associations of COVID-19 lockdown with birth weight in China.|https://dx.doi.org
 Comparing Therapeutic versus Prophylactic Enoxaparin Therapy in Severe COVID-19 Patients: A Randomized Clinical Trial.|https://dx.doi.org/10.47176/mjiri.37.129
 Assessing the effect of selective serotonin reuptake inhibitors in the prevention of post-acute sequelae of COVID-19.|https://dx.doi.org/10.1016/j.csbj.2023.12.045
 The pediatric gut bacteriome and virome in response to SARS-CoV-2 infection.|https://dx.doi.org/10.3389/fcimb.2024.1335450
+Protective role of SARS-CoV-2 anti-S IgG against breakthrough infections among European healthcare workers during pre and post-Omicron surge-ORCHESTRA project.|https://dx.doi.org/10.1007/s15010-024-02189-x
+A study on the evolution of tripartite collaborative prevention and control under public health emergencies using COVID-19 as an example.|https://dx.doi.org/10.1038/s41598-024-53601-3
+Axillary Lymphadenopathy after COVID-19 Vaccination: Follow-up for Enlarged Lymph Nodes on MR Imaging.|https://dx.doi.org/10.2463/mrms.mp.2023-0147
+Causal effects of COVID-19 on the risk of thrombosis: A Two-Sample Mendel Randomization Study.|https://dx.doi.org/10.1055/a-2263-8514
+Long-term trajectories of densely reported depressive symptoms during an extended period of the COVID-19 pandemic in Switzerland: Social worries matter.|https://dx.doi.org/10.1016/j.comppsych.2024.152457
+Association between skin injuries and the importance atributed to prevention by health professionals during the pandemic.|https://dx.doi.org/10.1590/1983-1447.2024.20230114.en
+Self-tests for COVID-19: What is the evidence? A living systematic review and meta-analysis (2020-2023).|https://dx.doi.org/10.1371/journal.pgph.0002336
+The impact of the COVID-19 pandemic on childhood obesity rates, by Health Board area, in Wales, UK.|https://dx.doi.org/10.1093/pubmed/fdae011
+Endothelial dysfunction and cardiovascular risk in post-COVID-19 patients after 6- and 12-months SARS-CoV-2 infection.|https://dx.doi.org/10.1007/s15010-024-02173-5
+Immigrant Origin and Disability Increase Risk for Anxiety Among Youth During COVID-19: The Role of Unmet Needs for Support in Distance Learning and Family Conflicts.|https://dx.doi.org/10.1016/j.jadohealth.2023.12.006
+COVID and cytopathology training: Impact and innovations.|https://dx.doi.org/10.1002/dc.25280
+Innate immune response to SARS-CoV-2 infection contributes to neuronal damage in human iPSC-derived peripheral neurons.|https://dx.doi.org/10.1002/jmv.29455
+Covid-19 pandemic and clinical activity stop: oral health study in a group of children.|https://dx.doi.org/10.23804/ejpd.2024.1889
+Mortality associated with SARS-CoV-2 in nondomestic felids.|https://dx.doi.org/10.1177/03009858231225500
+Influenza vaccine compatibility among hospitalized patients during and after the COVID-19 pandemic.|https://dx.doi.org/10.3389/fmicb.2023.1296179
+SARS-CoV-2 vaccines in China could reduce COVID-19-related respiratory syndromes and deaths: A retrospective cohort study.|https://dx.doi.org/10.1016/j.jvacx.2024.100448
+Smartphone Addiction and its Impacts on Loneliness, Happiness, and Satisfaction with Life in Medical Students with Different Personalities During COVID-19 Pandemic.|https://dx.doi.org/10.34172/ahj.2023.1446
+The impact of COVID-19 on racial and ethnic disparities in presentation with perforated appendicitis in children: A retrospective cohort study.|https://dx.doi.org/10.1016/j.sopen.2024.01.012
+Postacute Sequelae of SARS-CoV-2 in Children.|https://dx.doi.org/10.1542/peds.2023-062570
