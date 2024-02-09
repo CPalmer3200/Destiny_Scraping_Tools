@@ -218,3 +218,19 @@ Effects of low-frequency ultrasound combined with anti-MRSA agents on the mouse 
 Bioactivity and molecular docking studies of selected plant compounds.|https://dx.doi.org/10.1002/jsfa.13327
 Epidemiology and clinical features of Skin and Soft Tissue Infections Caused by PVL-Positive and PVL-Negative Methicillin-Resistant Staphylococcus aureus Isolates in inpatients in China: a single-center retrospective 7-year study.|https://dx.doi.org/10.1080/22221751.2024.2316809
 Investigating the effect of acidic and basic precipitation on the antibacterial activity of ZnO nanoparticles against Gram-negative and Gram-positive bacteria.|https://dx.doi.org/10.1039/d3tb02119j
+Strain-specific features of Pleurotus ostreatus growth in vitro and some of its biological activities.|https://dx.doi.org/10.1186/s12896-024-00834-9
+A retrospective cohort study investigating the association of individual quarter dry-off with udder health, milk production, and culling risk.|https://dx.doi.org/10.3168/jds.2023-24400
+Multicomponent system for development of antimicrobial PLA-based films with enhanced physical characteristics.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129832
+Bacterial Skin Dysbiosis in Darier Disease.|https://dx.doi.org/10.1159/000537714
+Effects of antimicrobial photodynamic therapy with photodithazine® on methicillin-resistant Staphylococcus aureus (MRSA): Studies in biofilms and experimental model with Galleria mellonella.|https://dx.doi.org/10.1016/j.jphotobiol.2024.112860
+Multi-level FeCo/N-doped carbon nanosheet for peroxymonosulfate oxidation and sterilization inactivation.|https://dx.doi.org/10.1016/j.jcis.2024.02.020
+Preparation of amphiphilic polyquaternium nanofiber films with antibacterial activity via environmentally friendly microfluidic-blow-spinning for green food packaging applications.|https://dx.doi.org/10.1016/j.foodchem.2024.138632
+Surface-enhanced Raman spectroscopy for comparison of biochemical profile of bacteriophage sensitive and resistant methicillin-resistant Staphylococcus aureus (MRSA) strains.|https://dx.doi.org/10.1016/j.saa.2024.123968
+Tannic Acid-Based Coatings Containing Zwitterionic Copolymers for Improved Antifouling and Antibacterial Properties.|https://dx.doi.org/10.1021/acs.langmuir.3c03237
+Performance of the 2023 Duke-ISCVID diagnostic criteria for infective endocarditis in relation to the modified Duke criteria and to clinical management- reanalysis of retrospective bacteremia cohorts.|https://dx.doi.org/10.1093/cid/ciae040
+Engineering Sizable and Broad-Spectrum Antibacterial Fabrics through Hydrogen Bonding Interaction and Electrostatic Interaction.|https://dx.doi.org/10.1021/acsami.3c15754
+Distinguishing characteristics of Staphylococcus schleiferi and Staphylococcus coagulans of human and canine origin.|https://dx.doi.org/10.1371/journal.pone.0296850
+Enterobacter cloacae from urinary tract infections: frequency, protein analysis, and antimicrobial resistance.|https://dx.doi.org/10.1186/s13568-024-01675-7
+Dilarmycins A-C, Calcium-Dependent Lipopeptide Antibiotics with a Non-canonical Ca(2+)-Binding Motif.|https://dx.doi.org/10.1021/acs.orglett.3c04195
+Herbal Medicine-Inspired Carbon Quantum Dots with Antibiosis and Hemostasis Effects for Promoting Wound Healing.|https://dx.doi.org/10.1021/acsami.3c18418
+Antimicrobial and anti-biofilm activity of a thiazolidinone derivative against Staphylococcus aureus in vitro and in vivo.|https://dx.doi.org/10.1128/spectrum.02327-23

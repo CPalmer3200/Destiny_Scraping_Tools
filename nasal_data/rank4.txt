@@ -130,3 +130,19 @@ Postoperative Outcomes Associated with the Timing of Surgery After SARS-CoV-2 In
 Case Report: Two cases of multiples and atypical dermal sinus tracts.|https://dx.doi.org/10.3389/fped.2024.1346970
 Risk factors of postoperative delirium following spine surgery: A meta-analysis of 50 cohort studies with 1.1 million participants.|https://dx.doi.org/10.1016/j.heliyon.2024.e24967
 Diminished measles immunity after paediatric liver transplantation-A retrospective, single-centre, cross-sectional analysis.|https://dx.doi.org/10.1371/journal.pone.0296653
+Laparoscopic appendectomy with single port vs conventional access: systematic review and meta-analysis of randomized clinical trials.|https://dx.doi.org/10.1007/s00464-023-10659-w
+Comparative effectiveness of alternative intervals between first and second doses of the mRNA COVID-19 vaccines.|https://dx.doi.org/10.1038/s41467-024-45334-8
+Mycoplasma genitalium: Key Information for the Primary Care Clinician.|https://dx.doi.org/10.1016/j.mcna.2023.07.004
+The Management of Gonorrhea in the Era of Emerging Antimicrobial Resistance: What Primary Care Clinicians Should Know.|https://dx.doi.org/10.1016/j.mcna.2023.08.015
+Association of COVID-19 pandemic societal closures with gestational weight gain among women in South Carolina, 2018-2021.|https://dx.doi.org/10.1016/j.annepidem.2024.02.002
+Parks, Trails, and Greenways for Physical Activity: A Community Guide Systematic Economic Review.|https://dx.doi.org/10.1016/j.amepre.2024.01.021
+Physical Activity According to Diabetes and Metropolitan Status: United States 2020 and 2022.|https://dx.doi.org/10.1016/j.amepre.2024.01.023
+Survival and growth behavior of common foodborne pathogens in falafel paste under different storage temperatures.|https://dx.doi.org/10.1016/j.ijfoodmicro.2024.110609
+Chronic humeral osteomyelitis in an adult with sickle-cell disease.|https://dx.doi.org/10.1016/j.ijscr.2024.109284
+Infectious Myelopathies.|https://dx.doi.org/10.1212/CON.0000000000001393
+Understanding New Recommendations for Respiratory Syncytial Virus Prevention in Pregnancy.|https://dx.doi.org/10.1097/AOG.0000000000005524
+Comparison of vancomycin area under the curve calculated based on Bayesian approach versus equation-based approach.|https://dx.doi.org/10.5414/CP204508
+Comparing the short-term clinical outcomes and therapeutic effects of different colectomies in patients with refractory slow-transit constipation in eastern countries: a network meta-analysis.|https://dx.doi.org/10.1007/s13304-024-01762-1
+Postoperative Immobilization Period for Pediatric Supracondylar Fractures: The Shorter the Better?|https://dx.doi.org/10.1097/BPO.0000000000002636
+Post-operative morbidity after neoadjuvant chemotherapy and resection for gallbladder cancer: A national surgical quality improvement program analysis.|https://dx.doi.org/10.4240/wjgs.v16.i1.95
+Assessment of consumer demographics and food safety risks associated with ready-to-eat (RTE) homemade foods purchased online in the UAE.|https://dx.doi.org/10.1016/j.heliyon.2024.e24624

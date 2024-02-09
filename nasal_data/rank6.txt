@@ -4,3 +4,4 @@ Efficacy of novel staphylococcal surface associated protein vaccines against Sta
 Identification of four genes responsible for antimicrobial resistance of MEL-B against S. aureus.|https://dx.doi.org/10.1016/j.bbrc.2024.149566
 SARS-CoV-2 spike-FLIPr fusion protein plus lipidated FLIPr protects against various SARS-CoV-2 variants in hamsters.|https://dx.doi.org/10.1128/jvi.01546-23
 Emerging strategies and therapeutic innovations for combating drug resistance in Staphylococcus aureus strains: A comprehensive review.|https://dx.doi.org/10.1002/jobm.202300579
+The scientific journey of a novel adjuvant (AS37) from bench to bedside.|https://dx.doi.org/10.1038/s41541-024-00810-6

@@ -214,3 +214,22 @@ SARS-CoV-2 vaccines in China could reduce COVID-19-related respiratory syndromes
 Smartphone Addiction and its Impacts on Loneliness, Happiness, and Satisfaction with Life in Medical Students with Different Personalities During COVID-19 Pandemic.|https://dx.doi.org/10.34172/ahj.2023.1446
 The impact of COVID-19 on racial and ethnic disparities in presentation with perforated appendicitis in children: A retrospective cohort study.|https://dx.doi.org/10.1016/j.sopen.2024.01.012
 Postacute Sequelae of SARS-CoV-2 in Children.|https://dx.doi.org/10.1542/peds.2023-062570
+The effect of perceived social support and health literacy on parental COVID-19 vaccine hesitation in preschool children: a cross-sectional study.|https://dx.doi.org/10.1038/s41598-024-53806-6
+Correction: Association of the C allele of rs479200 in the EGLN1 gene with COVID-19 severity in Indian population: a novel finding.|https://dx.doi.org/10.1186/s40246-024-00584-x
+Association of social vulnerability index and masking adherence among children enrolled in COVID-19 community research partnership study.|https://dx.doi.org/10.1186/s12889-024-17931-1
+"They choke to death in front of your very eyes": nurses' lived experiences and perspectives on end-of-life care during COVID-19.|https://dx.doi.org/10.1186/s12904-024-01352-3
+'A system that is struggling': understanding health protection resilience in England during the COVID-19 pandemic through the experiences of local health protection responders.|https://dx.doi.org/10.1186/s12913-024-10651-7
+TMPRSS2 inhibitors for the treatment of COVID-19 in adults: a systematic review and meta-analysis of nafamostat and camostat mesylate randomised clinical trials.|https://dx.doi.org/10.1016/j.cmi.2024.01.029
+Vaccination and the risk of post-acute sequelae after COVID-19 In the Omicron-predominant period.|https://dx.doi.org/10.1016/j.cmi.2024.01.028
+Long-Term Outcome of Neonates and Infants whose Mothers Tested Positive for SARS-CoV-2 during Pregnancy - a Pilot of the Post-CRONOS Project.|https://dx.doi.org/10.1055/a-2213-9061
+COVID-19 monitoring of school personnel through molecular salivary test and dried blood spot analysis.|https://dx.doi.org/10.7189/jogh.14.05004
+Long-Term Particulate Matter Exposure and Mortality in Hospitalized Patients with COVID-19 in South Korea.|https://dx.doi.org/10.1513/AnnalsATS.202307-607OC
+A longitudinal study examining the associations between prenatal and postnatal maternal distress and toddler socioemotional developmental during the COVID-19 pandemic.|https://dx.doi.org/10.1111/infa.12584
+Influenza-like illness symptoms due to endemic human coronavirus reinfections are not influenced by the length of the interval separating reinfections.|https://dx.doi.org/10.1128/spectrum.03912-23
+Genomic surveillance of omicron B.1.1.529 SARS-CoV-2 and its variants between December 2021 and March 2023 in Tamil Nadu, India-A state-wide prospective longitudinal study.|https://dx.doi.org/10.1002/jmv.29456
+How Do Past Immunization Strategies Compare With the COVID-19 Immunization Rollout: A New Zealand Analysis.|https://dx.doi.org/10.1017/dmp.2024.3
+Facilitators and barriers to the uptake of COVID-19 vaccine precaution dose among adult population: qualitative analysis across six different states of India.|https://dx.doi.org/10.3389/fpubh.2023.1293600
+Review of Israel's action and response during the COVID-19 pandemic and tabletop exercise for the evaluation of readiness and resilience-lessons learned 2020-2021.|https://dx.doi.org/10.3389/fpubh.2023.1308267
+Local public health under threat: Harassment faced by local health department leaders during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.puhip.2024.100468
+Impact of COVID-19 on the mental health of primary schoolchildren during the later phase of the pandemic: A case report of an 18-month longitudinal survey in a Japanese primary school.|https://dx.doi.org/10.1016/j.puhip.2024.100471
+Burnout in residents during the first wave of the COVID-19 pandemic: a systematic review and meta-analysis.|https://dx.doi.org/10.3389/fpsyt.2023.1286101

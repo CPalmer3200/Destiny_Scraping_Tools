@@ -198,3 +198,17 @@ LAPAROSCOPIC RIGHT AND LEFT COLECTOMY: WHICH PROVIDES BETTER POSTOPERATIVE RESUL
 Antibiotics prophylaxis at the time of catheter removal after radical prostatectomy: a systematic review of the literature and meta-analysis.|https://dx.doi.org/10.1590/acb390424
 Robotics and Navigation Do Not Affect the Risk of Periprosthetic Joint Infection Following Primary Total Hip Arthroplasty: A Propensity Score-Matched Cohort Analysis.|https://dx.doi.org/10.2106/JBJS.23.00289
 Effect of continuous drainage of cranial arachnoid cysts into the ventricular system by stereotactic placed catheters.|https://dx.doi.org/10.1080/02688697.2024.2312965
+Incidence and risk factors of stress urinary incontinence after laparoscopic hysterectomy.|https://dx.doi.org/10.1186/s12905-024-02942-2
+Anti-Donor T-Cell Responses Are Not Necessarily Attenuated During Cytomegalovirus Infection in Kidney Transplant Recipients.|https://dx.doi.org/10.1016/j.transproceed.2024.01.039
+Association of Abdominal Aortic Calcification With the Postoperative Metabolic Syndrome Components After Liver Transplantation.|https://dx.doi.org/10.1016/j.transproceed.2024.01.011
+Racial Disparities in Treatment and Outcomes of Patients with Hepatitis C Undergoing Elective Total Joint Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.01.054
+A Multicentre Observational Study to Investigate Feasibility of a Direct Oral Penicillin Challenge in De-labelling 'Low Risk' Patients with Penicillin Allergy by Non-Allergy Healthcare Professionals (SPACE study) - implications for healthcare systems.|https://dx.doi.org/10.1016/j.jinf.2024.01.015
+Coxsackievirus B3 HFMD animal models in Syrian hamster and rhesus monkey.|https://dx.doi.org/10.1016/j.virs.2024.02.001
+Inverted Placement of Endoscopic One-Way Endobronchial Valve Combined with Gelfoam in the Closure of Bronchopleural Fistula with Empyema in a Mechanically Ventilated Patient: A Case Report.|https://dx.doi.org/10.1159/000535478
+Autoantibody profiles assessment in individuals with persistent olfactory impairment following SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.intimp.2024.111599
+Development and Validation of a Novel Nomogram Model for Early Diagnosis of Anastomotic Leakage After Laparoscopic Colorectal Cancer Surgery.|https://dx.doi.org/10.1089/sur.2023.253
+Plasma Microbial Cell-Free DNA Sequencing for Pathogen Detection and Quantification in Children with Musculoskeletal Infections.|https://dx.doi.org/10.1093/jpids/piae012
+Evaluation of the 2023 Duke-ISCVID criteria in a multicenter cohort of patients with suspected infective endocarditis.|https://dx.doi.org/10.1093/cid/ciae039
+Scalp wound management: a narrative review from a neurosurgical perspective.|https://dx.doi.org/10.12968/jowc.2024.33.2.127
+Impact of haemoglobin A1c on wound infection in patients with diabetes with implanted synthetic graft.|https://dx.doi.org/10.12968/jowc.2024.33.2.136
+Drugs for treating infections caused by non-tubercular mycobacteria: a narrative review from the study group on mycobacteria of the Italian Society of Infectious Diseases and Tropical Medicine.|https://dx.doi.org/10.1007/s15010-024-02183-3
