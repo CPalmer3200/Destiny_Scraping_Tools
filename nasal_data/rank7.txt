@@ -233,3 +233,22 @@ Review of Israel's action and response during the COVID-19 pandemic and tabletop
 Local public health under threat: Harassment faced by local health department leaders during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.puhip.2024.100468
 Impact of COVID-19 on the mental health of primary schoolchildren during the later phase of the pandemic: A case report of an 18-month longitudinal survey in a Japanese primary school.|https://dx.doi.org/10.1016/j.puhip.2024.100471
 Burnout in residents during the first wave of the COVID-19 pandemic: a systematic review and meta-analysis.|https://dx.doi.org/10.3389/fpsyt.2023.1286101
+Changes in mortality associated with different hematologic malignancies during the pandemic in the United States.|https://dx.doi.org/10.1002/ijc.34873
+Loneliness and the COVID-19 pandemic: implications for practice.|https://dx.doi.org/10.12968/bjon.2024.33.3.110
+Efficacy and Safety of 5-Day Oral Ensitrelvir for Patients With Mild to Moderate COVID-19: The SCORPIO-SR Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamanetworkopen.2023.54991
+Changes in Outpatient Health Care Use After COVID-19 Infection Among Veterans.|https://dx.doi.org/10.1001/jamanetworkopen.2023.55387
+Intranasal SARS-CoV-2 RBD decorated nanoparticle vaccine enhances viral clearance in the Syrian hamster model.|https://dx.doi.org/10.1128/spectrum.04998-22
+Application of a Biomimetic Nanoparticle-Based Mock Virus to Determine SARS-CoV-2 Neutralizing Antibody Levels in Blood Samples Using a Lateral Flow Assay.|https://dx.doi.org/10.1021/acs.analchem.3c04372
+Local Health Service Response to COVID-19 in Mexico: Notes From an Exploratory Qualitative Study.|https://dx.doi.org/10.1177/10901981241230492
+The relationship of social support to posttraumatic growth in COVID-19 among college students after experiencing campus lockdown: the effects of belief in a just world and meaning in life.|https://dx.doi.org/10.3389/fpsyt.2024.1337030
+The impact of SNS and Covid-19-related stress of Chinese students in Korea based on the transaction theory of stress and coping.|https://dx.doi.org/10.1016/j.heliyon.2024.e24111
+Effects of driving pressure-guided ventilation on postoperative pulmonary complications in patients with COVID-19 undergoing abdominal surgery: A post-hoc propensity score-matched analysis.|https://dx.doi.org/10.1016/j.heliyon.2024.e25533
+The Inter-Relationships Between Depressive Symptoms and Suicidality Among Macau Residents After the "Relatively Static Management" COVID-19 Strategy: A Perspective of Network Analysis.|https://dx.doi.org/10.2147/NDT.S451031
+Predictors of non-recovery from fatigue and cognitive deficits after COVID-19: a prospective, longitudinal, population-based study.|https://dx.doi.org/10.1016/j.eclinm.2024.102456
+Knowledge and Practice of COVID-19 Preventive Strategies among Nurses.|https://dx.doi.org/10.4103/ijnmr.ijnmr_208_21
+Evaluation of Pregnant Woman's Perception of COVID-19 Based on the Health Belief Model in Isfahan.|https://dx.doi.org/10.4103/ijnmr.ijnmr_337_21
+An Agreement Among Nurse Educators on Infection Prevention and Control Practices to Ensure Safe Clinical Training Post-COVID-19.|https://dx.doi.org/10.4103/ijnmr.ijnmr_415_21
+Treatment refractory acute necrotizing myelitis after COVID-19 vaccine injection: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001662
+Utility of telemedicine for providing Obstetrics and Gynecology services during the COVID-19 pandemic-A single center experience from a tertiary care teaching hospital located in South India.|https://dx.doi.org/10.4103/jehp.jehp_595_23
+Economic evaluation of vaccination against COVID-19: A systematic review.|https://dx.doi.org/10.1002/hsr2.1871
+Remdesivir for COVID-19 in Hospitalized Children: A Phase 2/3 Study.|https://dx.doi.org/10.1542/peds.2023-063775

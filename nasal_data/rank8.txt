@@ -212,3 +212,15 @@ Evaluation of the 2023 Duke-ISCVID criteria in a multicenter cohort of patients 
 Scalp wound management: a narrative review from a neurosurgical perspective.|https://dx.doi.org/10.12968/jowc.2024.33.2.127
 Impact of haemoglobin A1c on wound infection in patients with diabetes with implanted synthetic graft.|https://dx.doi.org/10.12968/jowc.2024.33.2.136
 Drugs for treating infections caused by non-tubercular mycobacteria: a narrative review from the study group on mycobacteria of the Italian Society of Infectious Diseases and Tropical Medicine.|https://dx.doi.org/10.1007/s15010-024-02183-3
+Incidence and predictors of acute kidney injury after elective surgery for lumbar degenerative disease: A 13-year analysis of the US Nationwide Inpatient Sample.|https://dx.doi.org/10.1097/JCMA.0000000000001065
+Clinical Outcomes of Protocolized Antibiotic Dosing in Critically Ill Surgical Patients With Bacteremia and Augmented Renal Clearance Compared With Critically Ill Surgical Patients Without Augmented Renal Clearance.|https://dx.doi.org/10.1089/sur.2023.204
+NAA10 gene related Ogden syndrome with obstructive hypertrophic cardiomyopathy: A rare case report.|https://dx.doi.org/10.1097/MD.0000000000036034
+Mucosal and systemic immune correlates of viral control after SARS-CoV-2 infection challenge in seronegative adults.|https://dx.doi.org/10.1126/sciimmunol.adj9285
+The impact of submucosal PRP injection on wound healing after endoscopic sinus surgery: a randomized clinical trial.|https://dx.doi.org/10.1007/s00405-024-08483-6
+The Trajectory of Oral Mucositis in Head and Neck Cancer Patients Undergoing Radiotherapy and its Influencing Factors.|https://dx.doi.org/10.1177/01455613241228211
+Treatments for Morton's neuroma.|https://dx.doi.org/10.1002/14651858.CD014687.pub2
+DETECTION AND PHYLOGENETIC ANALYSIS OF ORF VIRUS AND MUSKOX RHADINOVIRUS 1 FROM MUSKOXEN (OVIBOS MOSCHATUS) IN THE CANADIAN ARCTIC.|https://dx.doi.org/10.7589/JWD-D-22-00170
+Diagnosis and treatment of carotid-left subclavian bypass graft infection complicated with mitral valve aneurysm and perforation following hybrid TEVAR: A case report.|https://dx.doi.org/10.1016/j.heliyon.2024.e25517
+The Global Prevalence of Methicillin-Resistant Staphylococcus Aureus in Patients with Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2147/DMSO.S446911
+Unplanned reoperation is common following intramedullary nailing of open femoral shaft fractures: A retrospective review.|https://dx.doi.org/10.1016/j.jcot.2024.102350
+Bilateral Vocal Cord Palsy Secondary to Rheumatoid Arthritis.|https://dx.doi.org/10.7759/cureus.51958

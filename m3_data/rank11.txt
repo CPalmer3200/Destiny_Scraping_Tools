@@ -4,3 +4,9 @@ Comparison of vancomycin area under the curve calculated based on Bayesian appro
 Dilarmycins A-C, Calcium-Dependent Lipopeptide Antibiotics with a Non-canonical Ca(2+)-Binding Motif.|https://dx.doi.org/10.1021/acs.orglett.3c04195
 Prevalence and antimicrobial resistance of Enterococcus spp. isolated from animal feed in Japan.|https://dx.doi.org/10.3389/fvets.2023.1328552
 A disulfide molecule-vancomycin nanodrug delivery system efficiently eradicates intracellular bacteria.|https://dx.doi.org/10.1039/d3tb02430j
+A case report of refractory amebic colitis and literature review.|https://dx.doi.org/10.1097/MD.0000000000037195
+Triple Gram-negative bacterial endophthalmitis following intravitreal injection.|https://dx.doi.org/10.1186/s12348-023-00376-9
+Nutritional Value and in vitro Antigiardial Activity of Anise (Pimpinella anisum L.) Seeds.|https://dx.doi.org/10.1002/cbdv.202301254
+Vancomycin relieves tacrolimus-induced hyperglycemia by eliminating gut bacterial beta-glucuronidase enzyme activity.|https://dx.doi.org/10.1080/19490976.2024.2310277
+Optimizing Antibiotic Therapy for Intravenous Drug Users: A Narrative Review Unraveling Pharmacokinetics/Pharmacodynamics Challenges.|https://dx.doi.org/10.1007/s13318-024-00882-8
+Heterogeneity in practices to reduce the risk of transmission of Clostridioides difficile in healthcare settings: a survey of ESCMID Study Group for Clostridioides difficile (ESGCD) members.|https://dx.doi.org/10.1007/s10096-024-04767-1

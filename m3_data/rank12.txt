@@ -1,2 +1,6 @@
 The multiplicity of thioredoxin systems meets the specific lifestyles of Clostridia.|https://dx.doi.org/10.1371/journal.ppat.1012001
 Mean Length of Utterance: A study of early language development in four Southern Bantu languages.|https://dx.doi.org/10.1017/S0305000923000685
+The thermoelectric properties of CdBr, CdI, and Janus Cd(2)BrI monolayers with low lattice thermal conductivity.|https://dx.doi.org/10.1039/d3cp05613a
+Culture-independent detection of low-abundant Clostridioides difficile in environmental DNA via PCR.|https://dx.doi.org/10.1128/aem.01278-23
+Isofagomine Inhibits Multiple TcdB Variants and Protects Mice from Clostridioides difficile-Induced Mortality.|https://dx.doi.org/10.1021/acsinfecdis.3c00507
+L'accès à des services d'interprétation appropriés, essentiel pour la santé des enfants.|https://dx.doi.org/10.1093/pch/pxad053

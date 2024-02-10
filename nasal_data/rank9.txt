@@ -234,3 +234,17 @@ Enterobacter cloacae from urinary tract infections: frequency, protein analysis,
 Dilarmycins A-C, Calcium-Dependent Lipopeptide Antibiotics with a Non-canonical Ca(2+)-Binding Motif.|https://dx.doi.org/10.1021/acs.orglett.3c04195
 Herbal Medicine-Inspired Carbon Quantum Dots with Antibiosis and Hemostasis Effects for Promoting Wound Healing.|https://dx.doi.org/10.1021/acsami.3c18418
 Antimicrobial and anti-biofilm activity of a thiazolidinone derivative against Staphylococcus aureus in vitro and in vivo.|https://dx.doi.org/10.1128/spectrum.02327-23
+Multifunctional Injectable Microspheres Containing "Naturally-Derived" Photothermal Transducer for Synergistic Physical and Chemical Treating of Acute Osteomyelitis through Sequential Immunomodulation.|https://dx.doi.org/10.1021/acsnano.3c10697
+Synthesis and characterization of polysiphonia/cerium oxide/nickel oxide nanocomposites for the removal of toxins from contaminated water and antibacterial potential.|https://dx.doi.org/10.1007/s11356-024-32199-z
+Synthesis of Novel Nanocomposite Materials with Enhanced Antimicrobial Activity based on Poly(Ethylene Glycol Methacrylate)s with Ag, TiO(2) or ZnO Nanoparticles.|https://dx.doi.org/10.3390/nano14030291
+Vaginal community state types (CSTs) alter environmental cues and production of the Staphylococcus aureus toxic shock syndrome toxin-1 (TSST-1).|https://dx.doi.org/10.1128/jb.00447-23
+Green synthesis of zinc oxide nano particles using Allium cepa L. waste peel extracts and its antioxidant and antibacterial activities.|https://dx.doi.org/10.1016/j.heliyon.2024.e25430
+Peptidomic analysis of endogenous and bacterial protease activity in human plasma and wound fluids.|https://dx.doi.org/10.1016/j.isci.2024.109005
+Eutypellaolides A-J, Sesquiterpene diversity expansion of the polar fungus Eutypella sp. D-1.|https://dx.doi.org/10.3389/fmicb.2024.1349151
+Diagnostic Accuracy of Cerebrospinal Fluid Multiplex Polymerase Chain Reaction Panel Testing in Patients With Suspected Central Nervous System Infections: A Multi-Center Study in the United Arab Emirates.|https://dx.doi.org/10.7759/cureus.51906
+Hyper-IgE syndrome: a case report.|https://dx.doi.org/10.1097/MS9.0000000000001670
+Co-culturing with Streptococcus anginosus alters Staphylococcus aureus transcriptome when exposed to tonsillar cells.|https://dx.doi.org/10.3389/fcimb.2024.1326730
+Iron-Single-Atom Nanozyme with NIR Enhanced Catalytic Activities for Facilitating MRSA-Infected Wound Therapy.|https://dx.doi.org/10.1002/advs.202308684
+Accelerating the remodeling of collagen in cutaneous full-thickness wound using FIR soldering technology with bio-targeting nanocomposites hydrogel.|https://dx.doi.org/10.1002/jbio.202300429
+Synthesis and Characterization of Cassava Gum Hydrogel Associated with Chlorhexidine and Evaluation of Release and Antimicrobial Activity.|https://dx.doi.org/10.1002/mabi.202300507
+Optimizing Antibiotic Therapy for Intravenous Drug Users: A Narrative Review Unraveling Pharmacokinetics/Pharmacodynamics Challenges.|https://dx.doi.org/10.1007/s13318-024-00882-8

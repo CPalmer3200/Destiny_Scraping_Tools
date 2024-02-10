@@ -1,1 +1,3 @@
 Multicenter evaluation of BioCode GPP for syndromic molecular detection of gastrointestinal pathogens from stool specimens.|https://dx.doi.org/10.1128/jcm.01545-23
+Rethinking Clostridioides difficile infection (CDI) surveillance definitions based on changing healthcare utilisation and a more realistic incubation period: reviewing data from a tertiary-referral hospital, Ireland, 2012 to 2021.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.6.2300335
+Watery Diarrhea Is Not Always Clostridioides difficile: A Case Report of Aeromonas hydrophila Gastroenteritis.|https://dx.doi.org/10.7759/cureus.51940

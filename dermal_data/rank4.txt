@@ -5,3 +5,6 @@ Collagen Scaffolds Functionalized by Cu(2+) -chelated Egcg Nanoparticles with An
 Effective wound healing on diabetic mice by adhesive antibacterial GNPs-lysine composited hydrogel.|https://dx.doi.org/10.1016/j.isci.2024.108860
 Cowberry extract loaded chitosan hydrogel with photothermal and antioxidant properties promotes infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129988
 Living Antimicrobial Wound Dressings: Using Probiotic-Loaded, Alginate Nanofibers for Protection against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsabm.3c01240
+Peptidomic analysis of endogenous and bacterial protease activity in human plasma and wound fluids.|https://dx.doi.org/10.1016/j.isci.2024.109005
+Accelerating the remodeling of collagen in cutaneous full-thickness wound using FIR soldering technology with bio-targeting nanocomposites hydrogel.|https://dx.doi.org/10.1002/jbio.202300429
+Synthesis and Characterization of Cassava Gum Hydrogel Associated with Chlorhexidine and Evaluation of Release and Antimicrobial Activity.|https://dx.doi.org/10.1002/mabi.202300507
