@@ -248,3 +248,21 @@ Iron-Single-Atom Nanozyme with NIR Enhanced Catalytic Activities for Facilitatin
 Accelerating the remodeling of collagen in cutaneous full-thickness wound using FIR soldering technology with bio-targeting nanocomposites hydrogel.|https://dx.doi.org/10.1002/jbio.202300429
 Synthesis and Characterization of Cassava Gum Hydrogel Associated with Chlorhexidine and Evaluation of Release and Antimicrobial Activity.|https://dx.doi.org/10.1002/mabi.202300507
 Optimizing Antibiotic Therapy for Intravenous Drug Users: A Narrative Review Unraveling Pharmacokinetics/Pharmacodynamics Challenges.|https://dx.doi.org/10.1007/s13318-024-00882-8
+An optimized chitosan/alginate-based microencapsulation of lime peel essential oil and its application as an antibacterial textile.|https://dx.doi.org/10.1080/09205063.2024.2313829
+In vitro killing of drug susceptible and multidrug resistant bacteria by amikacin considering pulmonary drug concentrations based on an inhaled formulation.|https://dx.doi.org/10.1080/1120009X.2024.2313908
+Hyperbranched Polymer Induced Antibacterial Tree-like Nanofibrous Membrane for High Effective Air Filtration.|https://dx.doi.org/10.1002/marc.202300685
+Production of Bioactive Porcine Lactoferrin through a Novel Glucose-Inducible Expression System in Pichia pastoris: Unveiling Antimicrobial and Anticancer Functionalities.|https://dx.doi.org/10.3390/ijms25031818
+Antimicrobial Activity of Synthetic Enterocins A, B, P, SEK4, and L50, Alone and in Combinations, against Clostridium perfringens.|https://dx.doi.org/10.3390/ijms25031597
+Abietic Acid as a Novel Agent against Ocular Biofilms: An In Vitro and Preliminary In Vivo Investigation.|https://dx.doi.org/10.3390/ijms25031528
+Antibacterial Effect and Possible Mechanism of Sesamol against Foodborne Pathogens.|https://dx.doi.org/10.3390/foods13030435
+In Vitro Antibacterial and Antioxidative Activity and Polyphenolic Profile of the Extracts of Chokeberry, Blackcurrant, and Rowan Berries and Their Pomaces.|https://dx.doi.org/10.3390/foods13030421
+Biopreservation of Fresh Sardines (Sardina pilchardus) Using Lactiplantibacillus plantarum OV50 Isolated from Traditional Algerian Green Olives Preparations.|https://dx.doi.org/10.3390/foods13030368
+Inhibition of Food-Borne Pathogen Growth and Biogenic Amine Synthesis by Spice Extracts.|https://dx.doi.org/10.3390/foods13030364
+Metabolites from Streptomyces aureus (VTCC43181) and Their Inhibition of Mycobacterium tuberculosis ClpC1 Protein.|https://dx.doi.org/10.3390/molecules29030720
+TLC-Bioautography-Guided Isolation and Assessment of Antibacterial Compounds from Manuka (Leptospermum scoparium) Leaf and Branch Extracts.|https://dx.doi.org/10.3390/molecules29030717
+Physico-Chemical Investigation and Antimicrobial Efficacy of Ozonated Oils: The Case Study of Commercial Ozonated Olive and Sunflower Seed Refined Oils.|https://dx.doi.org/10.3390/molecules29030679
+Biochemical Profiling and Physicochemical and Biological Valorization of Iraqi Honey: A Comprehensive Analysis.|https://dx.doi.org/10.3390/molecules29030671
+Chemical Constituents and Bioactivities of the Plant-Derived Fungus Aspergillus fumigatus.|https://dx.doi.org/10.3390/molecules29030649
+Synthesis and Evaluation of Antimicrobial Activity of the Rearranged Abietane Prattinin A and Its Synthetic Derivatives.|https://dx.doi.org/10.3390/molecules29030650
+Phenolic Compound, Antioxidant, Antibacterial, and In Silico Studies of Extracts from the Aerial Parts of Lactuca saligna L.|https://dx.doi.org/10.3390/molecules29030596
+RETRACTED: Alminderej et al. Antimicrobial and Wound Healing Potential of a New Chemotype from Piper cubeba L. Essential Oil and In Silico Study on S. aureus tyrosyl-tRNA Synthetase Protein. Plants 2021, 10, 205.|https://dx.doi.org/10.3390/plants13030334

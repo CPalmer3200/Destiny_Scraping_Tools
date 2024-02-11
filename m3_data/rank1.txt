@@ -1,3 +1,4 @@
 A rationally designed antimicrobial peptide from structural and functional insights of Clostridioides difficile translation initiation factor 1.|https://dx.doi.org/10.1128/spectrum.02773-23
 Primary clostridium difficile infection in patients with ulcerative colitis: Case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000036693
 Current perspectives on fecal microbiota transplantation in inflammatory bowel disease.|https://dx.doi.org/10.1007/s12664-023-01516-8
+The burden of Clostridioides difficile infections in South-East Asia and the Western Pacific: A narrative review.|https://dx.doi.org/10.1016/j.anaerobe.2024.102821

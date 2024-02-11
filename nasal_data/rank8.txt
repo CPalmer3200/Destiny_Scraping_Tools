@@ -224,3 +224,16 @@ Diagnosis and treatment of carotid-left subclavian bypass graft infection compli
 The Global Prevalence of Methicillin-Resistant Staphylococcus Aureus in Patients with Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2147/DMSO.S446911
 Unplanned reoperation is common following intramedullary nailing of open femoral shaft fractures: A retrospective review.|https://dx.doi.org/10.1016/j.jcot.2024.102350
 Bilateral Vocal Cord Palsy Secondary to Rheumatoid Arthritis.|https://dx.doi.org/10.7759/cureus.51958
+Upward-directed exit-site of the swan-neck catheter and "Easy-to-disinfect the backside area of exit-site" may prevent PD complications.|https://dx.doi.org/10.1007/s10157-023-02454-7
+An infective endocarditis complicated by multiple septic emboli: case report.|https://dx.doi.org/10.1186/s43044-024-00451-z
+The effect of HIV on patients' lives: a phenomenological qualitative study.|https://dx.doi.org/10.1080/17482631.2024.2315634
+A Systematic Review on Clinical and Health-Related Quality of Life Outcomes following Total Gastrectomy in Patients with Hereditary Diffuse Gastric Cancer.|https://dx.doi.org/10.3390/cancers16030473
+Mucus Structure, Viscoelastic Properties, and Composition in Chronic Respiratory Diseases.|https://dx.doi.org/10.3390/ijms25031933
+Mucosal Immunity of Major Gastrointestinal Nematode Infections in Small Ruminants Can Be Harnessed to Develop New Prevention Strategies.|https://dx.doi.org/10.3390/ijms25031409
+In Vitro Assessment of Cortisol Release Inhibition, Bioaccessibility and Bioavailability of a Chemically Characterized Scutellaria lateriflora L. Hydroethanolic Extract.|https://dx.doi.org/10.3390/molecules29030586
+Early Biofilm Formation on the Drain Tip after Total Knee Arthroplasty Is Not Associated with Prosthetic Joint Infection: A Pilot Prospective Case Series Study of a Single Center.|https://dx.doi.org/10.3390/healthcare12030366
+Two-Stage Exchange Arthroplasty for Periprosthetic Reverse Shoulder Arthroplasty Infection Provides Comparable Functional Outcomes to Primary Reverse Shoulder Arthroplasty.|https://dx.doi.org/10.3390/jcm13030904
+Inpatient Outcomes of Patients Undergoing Robot-Assisted versus Laparoscopic Radical Cystectomy for Bladder Cancer: A National Inpatient Sample Database Study.|https://dx.doi.org/10.3390/jcm13030772
+Comparison of the Analgesic Efficacy between Levobupivacaine 0.25% and Ropivacaine 0.375% for PENG (Pericapsular Nerve Group) Block in the Context of Hip Fracture Surgery of Elderly Patients: A Single-Center, Randomized, and Controlled Clinical Trial.|https://dx.doi.org/10.3390/jcm13030770
+Management of Advanced Peri-Implantitis by Guided Bone Regeneration in Combination with Trabecular Metal Fixtures, Two Months after Removal of the Failed Implants: Two-Year Results of a Single-Cohort Clinical Study.|https://dx.doi.org/10.3390/jcm13030713
+Distribution and Clinicopathological Features of Mott Cells (Plasma Cells Containing Russell Bodies) in Gastric Cancer: Presence of Mott Cells Is Associated with Favorable Prognosis.|https://dx.doi.org/10.3390/jcm13030658

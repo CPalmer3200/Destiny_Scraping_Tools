@@ -10,3 +10,12 @@ Nutritional Value and in vitro Antigiardial Activity of Anise (Pimpinella anisum
 Vancomycin relieves tacrolimus-induced hyperglycemia by eliminating gut bacterial beta-glucuronidase enzyme activity.|https://dx.doi.org/10.1080/19490976.2024.2310277
 Optimizing Antibiotic Therapy for Intravenous Drug Users: A Narrative Review Unraveling Pharmacokinetics/Pharmacodynamics Challenges.|https://dx.doi.org/10.1007/s13318-024-00882-8
 Heterogeneity in practices to reduce the risk of transmission of Clostridioides difficile in healthcare settings: a survey of ESCMID Study Group for Clostridioides difficile (ESGCD) members.|https://dx.doi.org/10.1007/s10096-024-04767-1
+Empiric treatment of healthcare-associated central nervous system infections in Denmark: do we need carbapenems?|https://dx.doi.org/10.1080/23744235.2024.2315478
+Characterization of Virulence Factors and Antimicrobial Susceptibility of Streptococcus agalactiae Associated with Bovine Mastitis Cases in Thailand.|https://dx.doi.org/10.3390/ani14030447
+Helicobacter pylori Eradication Therapy in Patients with Decreased Renal Function: A Systematic Review.|https://dx.doi.org/10.3390/jcm13030850
+Features of Changes in the Structure and Properties of a Porous Polymer Material with Antibacterial Activity during Biodegradation in an In Vitro Model.|https://dx.doi.org/10.3390/polym16030379
+Hemodialysis treatment of vancomycin-induced drug reaction with eosinophilia and systemic symptoms/drug-induced hypersensitivity syndrome in a patient undergoing peritoneal dialysis.|https://dx.doi.org/10.1007/s13730-023-00847-x
+Fluorescence detecting glycopeptide antibiotics via a dynamic molecular switch.|https://dx.doi.org/10.1016/j.aca.2024.342309
+Which trial do we need? Empiric Glycopeptides plus clindamycin versus Oxazolidinones for suspected toxic shock and necrotizing soft tissue infections (Toxic EGO).|https://dx.doi.org/10.1016/j.cmi.2024.02.001
+Global distribution of heterogeneous vancomycin-intermediate Staphylococcus aureus strains (1997-2021): a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jgar.2024.02.002
+Biochemical evaluation and ligand binding studies on glycerophosphodiester phosphodiesterase from Staphylococcus aureus using STD-NMR spectroscopy and molecular docking analysis.|https://dx.doi.org/10.1016/j.bioorg.2024.107153

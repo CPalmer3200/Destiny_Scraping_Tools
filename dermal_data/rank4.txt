@@ -8,3 +8,4 @@ Living Antimicrobial Wound Dressings: Using Probiotic-Loaded, Alginate Nanofiber
 Peptidomic analysis of endogenous and bacterial protease activity in human plasma and wound fluids.|https://dx.doi.org/10.1016/j.isci.2024.109005
 Accelerating the remodeling of collagen in cutaneous full-thickness wound using FIR soldering technology with bio-targeting nanocomposites hydrogel.|https://dx.doi.org/10.1002/jbio.202300429
 Synthesis and Characterization of Cassava Gum Hydrogel Associated with Chlorhexidine and Evaluation of Release and Antimicrobial Activity.|https://dx.doi.org/10.1002/mabi.202300507
+Innovative Electrospun Nanofiber Mats Based on Polylactic Acid Composited with Silver Nanoparticles for Medical Applications.|https://dx.doi.org/10.3390/polym16030409

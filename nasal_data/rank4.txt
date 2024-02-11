@@ -152,3 +152,9 @@ Transvaginal Laparoscopic Appendectomy: A Systematic Review.|https://dx.doi.org/
 A Comparison of Chlorhexidine-Alcohol and Povidone-Iodine-Alcohol on the Incidence of Surgical Site Infection.|https://dx.doi.org/10.7759/cureus.51901
 Appendiceal actinomycosis mimicking malignant tumor: a rare case report.|https://dx.doi.org/10.1097/MS9.0000000000001564
 Biocidal Efficacies of Contact Lens Disinfecting Solutions Against International Organization for Standardization (ISO) Compendial Organisms.|https://dx.doi.org/10.2147/OPTH.S445870
+Navigated bedside implantation of external ventricular drains with mobile health guidance: technical note and case series.|https://dx.doi.org/10.1007/s00701-024-05955-w
+Utility and Utilization of Patient-Reported Experience Measures for the Supplementary COVID-19 Protective Actions at the Ovidius Clinical Hospital in Romania.|https://dx.doi.org/10.3390/healthcare12030377
+From Spores to Solutions: A Comprehensive Narrative Review on Mucormycosis.|https://dx.doi.org/10.3390/diagnostics14030314
+Mycological Methods for Routine Air Sampling and Interpretation of Results in Operating Theaters.|https://dx.doi.org/10.3390/diagnostics14030288
+When Is a Two-Stage Surgical Procedure Indicated in the Treatment of Pseudotumors of the Hip? A Retrospective Study of 21 Cases and a Review of the Literature.|https://dx.doi.org/10.3390/jcm13030815
+Infection Rates of an Intraoral Versus Extraoral Approach to Mandibular Fracture Repairs are Equal: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.joms.2024.01.011

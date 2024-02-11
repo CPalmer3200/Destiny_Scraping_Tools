@@ -252,3 +252,22 @@ Treatment refractory acute necrotizing myelitis after COVID-19 vaccine injection
 Utility of telemedicine for providing Obstetrics and Gynecology services during the COVID-19 pandemic-A single center experience from a tertiary care teaching hospital located in South India.|https://dx.doi.org/10.4103/jehp.jehp_595_23
 Economic evaluation of vaccination against COVID-19: A systematic review.|https://dx.doi.org/10.1002/hsr2.1871
 Remdesivir for COVID-19 in Hospitalized Children: A Phase 2/3 Study.|https://dx.doi.org/10.1542/peds.2023-063775
+Evolution of Sleep Duration and Screen Time Between 2018 and 2022 Among Canadian Adolescents: Evidence of Drifts Accompanying the COVID-19 Pandemic.|https://dx.doi.org/10.1016/j.jadohealth.2023.12.023
+Adolescent Suicidal Behaviors During the COVID-19 Pandemic in Australia: Analysis of Acute Harms Assessed via Ambulance Data.|https://dx.doi.org/10.1016/j.jadohealth.2023.12.022
+Guidance for prevention and management of COVID-19 in children and adolescents: A consensus statement from the Pediatric Infectious Diseases Society Pediatric COVID-19 Therapies Taskforce.|https://dx.doi.org/10.1093/jpids/piad116
+Inequalities in access to prenatal care during the COVID-19 pandemic: Analysis of a population-based cohort.|https://dx.doi.org/10.1111/ppe.13050
+Effects of wearing medical gowns at different temperatures on the physiological responses of female healthcare workers during the COVID-19 Pandemic.|https://dx.doi.org/10.3233/WOR-230360
+How Did Breast Cancer Patients Fare during Different Phases of the COVID-19 Pandemic in Norway Compared to Age-Matched Controls?|https://dx.doi.org/10.3390/cancers16030602
+Elevated Arterial Blood Pressure as a Delayed Complication Following COVID-19-A Narrative Review.|https://dx.doi.org/10.3390/ijms25031837
+Systems Are Overstretched from the COVID-19 Pandemic: An Interpretive Description of Disabled People's Access to Healthcare and Disability Support in New Zealand.|https://dx.doi.org/10.3390/healthcare12030387
+Hospitals' Collaborations Strengthen Pandemic Preparedness: Lessons Learnt from COVID-19.|https://dx.doi.org/10.3390/healthcare12030321
+A Prospective Multicenter Longitudinal Analysis of Suicidal Ideation among Long-COVID-19 Patients.|https://dx.doi.org/10.3390/healthcare12030290
+Nursing Students' Perceptions of Factors Influencing Nursing Intentions toward COVID-19 Patients.|https://dx.doi.org/10.3390/healthcare12030285
+Research Advances on Swine Acute Diarrhea Syndrome Coronavirus.|https://dx.doi.org/10.3390/ani14030448
+Negative Association of Lignan and Phytosterol Intake with Stress Perception during the COVID-19 Pandemic-A Polish Study on Young Adults.|https://dx.doi.org/10.3390/nu16030445
+Odimet(®): A Pioneering Tele-Health Tool to Empower Dietary Treatment and the Acute Management of Inborn Errors of Metabolism-An Assessment of Its Effectiveness during the COVID Pandemic.|https://dx.doi.org/10.3390/nu16030423
+Sleep Disturbances as a Consequence of Long COVID-19: Insights from Actigraphy and Clinimetric Examinations-An Uncontrolled Prospective Observational Pilot Study.|https://dx.doi.org/10.3390/jcm13030839
+Impact of Coronavirus Disease 2019 (COVID-19) Pandemic on Surgical Site Infection in Patients with Inflammatory Bowel Disease-A Monocentric, Retrospective Cohort Study.|https://dx.doi.org/10.3390/jcm13030650
+Falsification of home rapid antigen lateral flow tests during the COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-024-53383-8
+Bioactive adrenomedullin and interleukin-6 in COVID-19: potential biomarkers of acute kidney injury and critical illness.|https://dx.doi.org/10.1186/s12882-024-03486-1
+A Systematic Review and Clinical Presentation of Central Nervous System Complications of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospitalized Pediatric Patients During the Coronavirus Disease 2019 Pandemic in Israel.|https://dx.doi.org/10.1016/j.pediatrneurol.2024.01.008

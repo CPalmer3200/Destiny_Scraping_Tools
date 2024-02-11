@@ -4,3 +4,4 @@ Interaction between Sophorolipids and β-glucan in Aqueous Solutions.|https://dx
 Tetraclinis articulata (Vahl) Mast.: Volatile constituents, antioxidant, antidiabetic and wound healing activities of its essential oil.|https://dx.doi.org/10.1016/j.heliyon.2024.e24563
 Antimicrobial and anti-biofilm activity of a thiazolidinone derivative against Staphylococcus aureus in vitro and in vivo.|https://dx.doi.org/10.1128/spectrum.02327-23
 Virulence determinants and antibiotic resistance in staphylococci isolated from the skin of captive bred reptiles.|https://dx.doi.org/10.1007/s11259-024-10328-w
+The role of human extracellular matrix proteins in defining Staphylococcus aureus biofilm infections.|https://dx.doi.org/10.1093/femsre/fuae002
