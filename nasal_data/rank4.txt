@@ -158,3 +158,8 @@ From Spores to Solutions: A Comprehensive Narrative Review on Mucormycosis.|http
 Mycological Methods for Routine Air Sampling and Interpretation of Results in Operating Theaters.|https://dx.doi.org/10.3390/diagnostics14030288
 When Is a Two-Stage Surgical Procedure Indicated in the Treatment of Pseudotumors of the Hip? A Retrospective Study of 21 Cases and a Review of the Literature.|https://dx.doi.org/10.3390/jcm13030815
 Infection Rates of an Intraoral Versus Extraoral Approach to Mandibular Fracture Repairs are Equal: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.joms.2024.01.011
+Common inflammatory markers in the screening of knee arthroprosthesis infections.|https://dx.doi.org/10.17392/1688-23
+Endoscopic peroneus brevis tendon transfer for chronic ruptures of the Achilles tendon: surgical technique.|https://dx.doi.org/10.1186/s13018-024-04534-0
+Analysis and comparison of the therapeutic effects of percutaneous kyphoplasty through single and bilateral approaches in osteoporotic compression fractures.|https://dx.doi.org/10.1016/j.asjsur.2024.01.149
+COVID-19 Vaccine Safety Technical (VaST) Work Group: Enhancing vaccine safety monitoring during the pandemic.|https://dx.doi.org/10.1016/j.vaccine.2023.12.059
+Complication Rates Rise with Age and Haller Index in Minimal Invasive Correction of Pectus Excavatum: A High-volume Single-centre Retrospective Cohort Study.|https://dx.doi.org/10.1016/j.jtcvs.2024.01.047

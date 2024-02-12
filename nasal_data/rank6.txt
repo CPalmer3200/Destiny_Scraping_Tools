@@ -9,3 +9,4 @@ Cutaneous Serratia marcescens infection in two dogs.|https://dx.doi.org/10.1111/
 Photodynamic Inactivation of Foodborne Bacteria: Screening of 32 Potential Photosensitizers.|https://dx.doi.org/10.3390/foods13030453
 Higher baseline heart rate variability in CCHS patients with progestin-associated recovery of hypercapnic ventilatory response.|https://dx.doi.org/10.1186/s12931-023-02625-w
 Gum Arabic assisted the biomass synthesis of bimetallic silver copper oxide nanoparticles using gamma-rays for improving bacterial and viral wound healing: Promising antimicrobial activity against foot and mouth disease.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130010
+Which trial do we need? Percutaneous mechanical aspiration versus medical management alone for treatment of right-sided valvular infective endocarditis.|https://dx.doi.org/10.1016/j.cmi.2024.02.005

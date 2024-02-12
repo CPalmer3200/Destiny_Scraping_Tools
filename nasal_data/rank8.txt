@@ -237,3 +237,14 @@ Inpatient Outcomes of Patients Undergoing Robot-Assisted versus Laparoscopic Rad
 Comparison of the Analgesic Efficacy between Levobupivacaine 0.25% and Ropivacaine 0.375% for PENG (Pericapsular Nerve Group) Block in the Context of Hip Fracture Surgery of Elderly Patients: A Single-Center, Randomized, and Controlled Clinical Trial.|https://dx.doi.org/10.3390/jcm13030770
 Management of Advanced Peri-Implantitis by Guided Bone Regeneration in Combination with Trabecular Metal Fixtures, Two Months after Removal of the Failed Implants: Two-Year Results of a Single-Cohort Clinical Study.|https://dx.doi.org/10.3390/jcm13030713
 Distribution and Clinicopathological Features of Mott Cells (Plasma Cells Containing Russell Bodies) in Gastric Cancer: Presence of Mott Cells Is Associated with Favorable Prognosis.|https://dx.doi.org/10.3390/jcm13030658
+High cervical anastomosis reduce leakage related complications after McKeown esophagectomy.|https://dx.doi.org/10.1093/ejcts/ezae050
+Surgical strategies for benign acquired tracheoesophageal fistula.|https://dx.doi.org/10.1093/ejcts/ezae047
+Immunoglobulin G4-Related Disease Complicating Ruptured Isolated Iliac Artery Aneurysm: A Complex Management Dilemma.|https://dx.doi.org/10.12659/AJCR.942727
+HEAL Africa score to predict failure of surgical repair of obstetric urethro-vaginal fistula in the Democratic Republic of the Congo.|https://dx.doi.org/10.1186/s12905-024-02948-w
+Precise single column resection and reconstruction with femoral head plus total hip replacement for primary malignant peri-acetabulum tumors.|https://dx.doi.org/10.1038/s41598-024-52019-1
+Management of deep sacral and ischial pressure injuries with free-style local perforator flaps: A D+P+DPD model.|https://dx.doi.org/10.1016/j.bjps.2023.03.014
+Exposure to urban particulate matter alters responses of olfactory mucosal cells to SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.envres.2024.118451
+Impact of Telehealth Post-operative Care on Early Outcomes Following Esophagectomy.|https://dx.doi.org/10.1016/j.jtcvs.2024.02.005
+Surgical Management and Outcome of the Planum Sphenoidale Meningioma: A Single-Center STROBE Compliant Study.|https://dx.doi.org/10.1016/j.wneu.2024.02.008
+Tuberculous extensor tenosynovitis of the wrist in a patient with systemic lupus erythematosus mimicking a giant cell tumour: A case report and review of literature.|https://dx.doi.org/10.1016/j.ijscr.2024.109371
+Factors associated with the persistence of human papillomavirus after surgery in patients with cervical cancer.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116201

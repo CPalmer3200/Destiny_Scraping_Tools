@@ -9,3 +9,5 @@ Peptidomic analysis of endogenous and bacterial protease activity in human plasm
 Accelerating the remodeling of collagen in cutaneous full-thickness wound using FIR soldering technology with bio-targeting nanocomposites hydrogel.|https://dx.doi.org/10.1002/jbio.202300429
 Synthesis and Characterization of Cassava Gum Hydrogel Associated with Chlorhexidine and Evaluation of Release and Antimicrobial Activity.|https://dx.doi.org/10.1002/mabi.202300507
 Innovative Electrospun Nanofiber Mats Based on Polylactic Acid Composited with Silver Nanoparticles for Medical Applications.|https://dx.doi.org/10.3390/polym16030409
+PAA-PU Janus Hydrogels Stabilized by JANUS Particles and its Interfacial Performance During Hemostatic Processing.|https://dx.doi.org/10.1002/adhm.202303802
+Dopamine-grafted oxidized hyaluronic acid/gelatin/cordycepin nanofiber membranes modulate the TLR4/NF-kB signaling pathway to promote diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130079

@@ -271,3 +271,9 @@ Impact of Coronavirus Disease 2019 (COVID-19) Pandemic on Surgical Site Infectio
 Falsification of home rapid antigen lateral flow tests during the COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-024-53383-8
 Bioactive adrenomedullin and interleukin-6 in COVID-19: potential biomarkers of acute kidney injury and critical illness.|https://dx.doi.org/10.1186/s12882-024-03486-1
 A Systematic Review and Clinical Presentation of Central Nervous System Complications of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospitalized Pediatric Patients During the Coronavirus Disease 2019 Pandemic in Israel.|https://dx.doi.org/10.1016/j.pediatrneurol.2024.01.008
+A potential bivalent mRNA vaccine candidate protects against both RSV and SARS-CoV-2 infections.|https://dx.doi.org/10.1016/j.ymthe.2024.02.011
+A Systematic Review of Publications on Perceptions and Management of Chronic Medical Conditions Using Telemedicine Remote Consultations by Primary Healthcare Professionals April 2020 to December 2021 During the COVID-19 Pandemic.|https://dx.doi.org/10.12659/MSM.943383
+Association between SARS-CoV-2 infection and select symptoms and conditions 31 to 150 days after testing among children and adults.|https://dx.doi.org/10.1186/s12879-024-09076-8
+Draft of WHO Pandemic Agreement plays down primary prevention.|https://dx.doi.org/10.1016/S0140-6736(24)00066-7
+Evaluation of molecular mechanisms of riboflavin anti-COVID-19 action reveals anti-inflammatory efficacy rather than antiviral activity.|https://dx.doi.org/10.1016/j.bbagen.2024.130582
+Persistent SARS-CoV-2 infection: significance and implications.|https://dx.doi.org/10.1016/S1473-3099(23)00815-0

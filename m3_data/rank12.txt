@@ -6,3 +6,6 @@ Isofagomine Inhibits Multiple TcdB Variants and Protects Mice from Clostridioide
 L'accès à des services d'interprétation appropriés, essentiel pour la santé des enfants.|https://dx.doi.org/10.1093/pch/pxad053
 Ileal Conduit versus Cutaneous Ureterostomy after Open Radical Cystectomy: Comparison of 90-Day Morbidity and Tube Dependence at Intermediate Term Follow-Up.|https://dx.doi.org/10.3390/jcm13030911
 Knee landmarks detection via deep learning for automatic imaging evaluation of trochlear dysplasia and patellar height.|https://dx.doi.org/10.1007/s00330-024-10596-9
+Microscopy methods for Clostridioides difficile.|https://dx.doi.org/10.1016/j.anaerobe.2024.102822
+No correlation exists Between Tibial And Femoral Based Measurements Of Patella Alta In A Population with chronic patellofemoral pain or instability undergoing patella distalisation.|https://dx.doi.org/10.1016/j.arthro.2024.01.036
+C'est difficile: an encounter with infection while taking antibiotics.|https://dx.doi.org/10.1016/S2468-1253(24)00013-X

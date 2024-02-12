@@ -19,3 +19,4 @@ Fluorescence detecting glycopeptide antibiotics via a dynamic molecular switch.|
 Which trial do we need? Empiric Glycopeptides plus clindamycin versus Oxazolidinones for suspected toxic shock and necrotizing soft tissue infections (Toxic EGO).|https://dx.doi.org/10.1016/j.cmi.2024.02.001
 Global distribution of heterogeneous vancomycin-intermediate Staphylococcus aureus strains (1997-2021): a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jgar.2024.02.002
 Biochemical evaluation and ligand binding studies on glycerophosphodiester phosphodiesterase from Staphylococcus aureus using STD-NMR spectroscopy and molecular docking analysis.|https://dx.doi.org/10.1016/j.bioorg.2024.107153
+Sub-MIC vancomycin enhances the antibiotic tolerance of vancomycin-intermediate Staphylococcus aureus through downregulation of protein succinylation.|https://dx.doi.org/10.1016/j.micres.2024.127635
