@@ -163,3 +163,17 @@ Endoscopic peroneus brevis tendon transfer for chronic ruptures of the Achilles 
 Analysis and comparison of the therapeutic effects of percutaneous kyphoplasty through single and bilateral approaches in osteoporotic compression fractures.|https://dx.doi.org/10.1016/j.asjsur.2024.01.149
 COVID-19 Vaccine Safety Technical (VaST) Work Group: Enhancing vaccine safety monitoring during the pandemic.|https://dx.doi.org/10.1016/j.vaccine.2023.12.059
 Complication Rates Rise with Age and Haller Index in Minimal Invasive Correction of Pectus Excavatum: A High-volume Single-centre Retrospective Cohort Study.|https://dx.doi.org/10.1016/j.jtcvs.2024.01.047
+European reference network for rare inherited congenital anomalies (ERNICA) evidence based guideline on the management of gastroschisis.|https://dx.doi.org/10.1186/s13023-024-03062-8
+Postpartum pharmacologic thromboprophylaxis and complications in a US cohort.|https://dx.doi.org/10.1016/j.ajog.2023.11.013
+Comparison of different surgical approaches for treating aortic graft infections.|https://dx.doi.org/10.1055/a-2266-7574
+Global guideline for the diagnosis and management of cryptococcosis: an initiative of the ECMM and ISHAM in cooperation with the ASM.|https://dx.doi.org/10.1016/S1473-3099(23)00731-4
+New Antibiotic Binding Resin Bottles Collected from Children Enhances Rapid Microbial Identification.|https://dx.doi.org/10.7754/Clin.Lab.2023.230341
+A Systematic Review of Technique, Satisfaction, and Complications of Acellular Dermal Matrix in Rhinoplasty.|https://dx.doi.org/10.1097/SCS.0000000000010000
+Investigation of the Antibacterial Properties and Mode of Action of Compounds From Urtica dioica L.|https://dx.doi.org/10.7759/cureus.52083
+The Effect of Double Carbapenem Regimen in the Management of Carbapenem-Resistant Klebsiella pneumoniae Infections: A Report of Five Cases.|https://dx.doi.org/10.7759/cureus.52023
+A survey of dental professionals' opinions around the use of antibiotics in molar 3 extractions and dental implant placement.|https://dx.doi.org/10.15386/mpr-2634
+The management of Clostridioides difficile infection: from empirism to evidence.|https://dx.doi.org/10.15386/mpr-2622
+Consensus on the treatment of second-degree burn wounds (2024 edition).|https://dx.doi.org/10.1093/burnst/tkad061
+Determination of Inducible Clindamycin Resistance and Correlation with Vitek2 Inducible Clindamycin Resistance Test in <em>Staphylococcus aureus</em> Isolated from Clinical Samples.|https://dx.doi.org/10.29271/jcpsp.2024.02.183
+Demographic Characteristics Associated with Intentions to Receive the 2023-2024 COVID-19 Vaccine.|https://dx.doi.org/10.1016/j.amepre.2024.02.005
+Integrity and filtration efficiency of decontaminated N95/PFF2 masks to protect healthcare professionals against COVID-19: a systematic literature review and meta-analysis.|https://dx.doi.org/10.1016/j.ajic.2024.01.020

@@ -8,3 +8,6 @@ Treatment of clinically uninfected diabetic foot ulcers, with and without antibi
 Updated Scenario on Negative Pressure Wound Therapy.|https://dx.doi.org/10.1177/15347346241228788
 The Global Prevalence of Methicillin-Resistant Staphylococcus Aureus in Patients with Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2147/DMSO.S446911
 In vitro inhibition of biofilm and virulence factor production in azole-resistant strains of Candida albicans isolated from diabetic foot by Artemisia vulgaris stabilized tin (IV) oxide nanoparticles.|https://dx.doi.org/10.3389/fcimb.2023.1322778
+Lytic activity of phages against bacterial pathogens infecting diabetic foot ulcers.|https://dx.doi.org/10.1038/s41598-024-53317-4
+Wound, Ischemia, Foot Infection (Wifi) Classification System And Its Predictive Ability Concerning Amputation-Free Survival, Mortality And Major Limb Amputation In A Portuguese Population: A Single Center Experience.|https://dx.doi.org/10.48729/pjctvs.364
+Study of Electrospun Membranes Composed of PCL and Tilapia-Skin Collagen with Tetracycline or Chloramphenicol in Contact with Human Skin Fibroblasts for Wound Dressing Treatment.|https://dx.doi.org/10.1021/acsomega.3c06354

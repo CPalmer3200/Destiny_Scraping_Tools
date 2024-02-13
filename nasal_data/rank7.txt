@@ -277,3 +277,23 @@ Association between SARS-CoV-2 infection and select symptoms and conditions 31 t
 Draft of WHO Pandemic Agreement plays down primary prevention.|https://dx.doi.org/10.1016/S0140-6736(24)00066-7
 Evaluation of molecular mechanisms of riboflavin anti-COVID-19 action reveals anti-inflammatory efficacy rather than antiviral activity.|https://dx.doi.org/10.1016/j.bbagen.2024.130582
 Persistent SARS-CoV-2 infection: significance and implications.|https://dx.doi.org/10.1016/S1473-3099(23)00815-0
+Changes in physical activity and sedentary behavior during the first COVID-19 pandemic- restrictions in Germany: a nationwide survey : Running head: physical activity during the COVID-19 restrictions.|https://dx.doi.org/10.1186/s12889-024-17675-y
+Use of online food retail platforms throughout the COVID-19 pandemic and associated diet-related chronic disease risk factors: A systematic review of emerging evidence.|https://dx.doi.org/10.1111/obr.13720
+Coffee and green tea consumption with the risk of COVID-19 among the vaccine recipients in Japan: a prospective study.|https://dx.doi.org/10.2188/jea.JE20230231
+Structure-Based Discovery of the SARS-CoV-2 Main Protease Noncovalent Inhibitors from Traditional Chinese Medicine.|https://dx.doi.org/10.1021/acs.jcim.3c01327
+Education and pandemic SARS-CoV-2 infections in the German working population - the mediating role of working from home.|https://dx.doi.org/10.5271/sjweh.4144
+Lessons on food security from the COVID-19 pandemic in Bermuda.|https://dx.doi.org/10.1371/journal.pgph.0002837
+Mental health and risk of death and hospitalization in COVID-19 patients. Results from a large-scale population-based study in Spain.|https://dx.doi.org/10.1371/journal.pone.0298195
+Comparison of Xpert Xpress SARS-CoV-2 Assay Compared with Standard M nCoV Real-Time PCR: Prospective Study.|https://dx.doi.org/10.7754/Clin.Lab.2023.230802
+Duration of SARS-CoV-2 Culturable Virus Shedding in Children by Vaccination Status.|https://dx.doi.org/10.1001/jamapediatrics.2023.6604
+Role of the Neanderthal Genome in Genetic Susceptibility to COVID-19: 3p21.31 Locus in the Spotlight.|https://dx.doi.org/10.1007/s10528-024-10669-w
+Effect of COVID-19 protective measures on the epidemiology characteristics of rotavirus, adenovirus, and coinfections among pediatric patients with acute gastroenteritis in Hangzhou, China.|https://dx.doi.org/10.1128/spectrum.04007-23
+Low Percentage of Perforin-Expressing NK Cells during Severe SARS-CoV-2 Infection: Consumption Rather than Primary Deficiency.|https://dx.doi.org/10.4049/jimmunol.2300359
+Ruminations as predictors of post-traumatic stress disorder after hospitalization for Covid-19.|https://dx.doi.org/10.12740/PP/152817
+Social participation mediates the relationship between self-efficacy and loneliness among people with stroke during COVID-19: a cross-sectional study.|https://dx.doi.org/10.1080/10749357.2024.2312639
+Evaluation of Internet Addiction and Relational Variables Among Nursing Students in Turkey During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/10901981241230497
+A prospective cohort study of presenteeism and increased risk of unemployment among Japanese workers during the COVID-19 pandemic.|https://dx.doi.org/10.1093/joccuh/uiad015
+Non-arteritic Anterior Ischemic Optic Neuropathy Sequela From Potential COVID-19-Associated Coagulopathy.|https://dx.doi.org/10.7759/cureus.52158
+Fluctuation in SARS-CoV-2 Environmental Surface Contamination Levels in Homes Where Patients With COVID-19 Stayed for Recuperation.|https://dx.doi.org/10.7759/cureus.52055
+Methicillin-Sensitive Staphylococcus aureus Co-infection in Adolescent Patients With Delta-Variant SARS-CoV-2 Acute Respiratory Failure.|https://dx.doi.org/10.7759/cureus.52164
+The Hidden Impact of Covid-19 on Memory: Disclosing Subjective Complaints.|https://dx.doi.org/10.36131/cnfioritieditore20230604

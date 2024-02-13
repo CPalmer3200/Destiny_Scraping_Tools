@@ -20,3 +20,12 @@ Which trial do we need? Empiric Glycopeptides plus clindamycin versus Oxazolidin
 Global distribution of heterogeneous vancomycin-intermediate Staphylococcus aureus strains (1997-2021): a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jgar.2024.02.002
 Biochemical evaluation and ligand binding studies on glycerophosphodiester phosphodiesterase from Staphylococcus aureus using STD-NMR spectroscopy and molecular docking analysis.|https://dx.doi.org/10.1016/j.bioorg.2024.107153
 Sub-MIC vancomycin enhances the antibiotic tolerance of vancomycin-intermediate Staphylococcus aureus through downregulation of protein succinylation.|https://dx.doi.org/10.1016/j.micres.2024.127635
+Adaptation and validation of a quantitative vanA/vanB DNA screening assay on a high-throughput PCR system.|https://dx.doi.org/10.1038/s41598-024-54037-5
+Adsorption Mass Transfer Zone of Vancomycin in Cartridges With Styrene-Divinylbenzene Sorbent.|https://dx.doi.org/10.1097/MAT.0000000000002166
+New Antibiotic Binding Resin Bottles Collected from Children Enhances Rapid Microbial Identification.|https://dx.doi.org/10.7754/Clin.Lab.2023.230341
+Systemic azithromycin vs. amoxicillin/metronidazole as an adjunct in the treatment of periodontitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1111/adj.13008
+Clinical Disease and Outcomes of Invasive Staphylococcus lugdunensis Infection in a University Hospital in Saudi Arabia.|https://dx.doi.org/10.7759/cureus.52103
+Development of an Advanced Material for Obturation in Primary Teeth Based on the Microbiological Analysis of the Antimicrobial Efficacy of Various Concentrations: An In Vitro Study.|https://dx.doi.org/10.5005/jp-journals-10005-2721
+Electrospun Nanofiber Composite Utilized as an Electrocatalyst for the Detection of Acetaminophen in Multifarious Water Samples.|https://dx.doi.org/10.1021/acsomega.3c08432
+The efficacy of combining adjuvants with non-surgical periodontal therapy in individuals with type 2 diabetes: A Bayesian network meta-analysis.|https://dx.doi.org/10.1111/jcpe.13946
+A preliminary report on critical antimicrobial resistance in Escherichia coli, Enterococcus faecalis, and Enterococcus faecium strains isolated from healthy dogs in Chile during 2021-2022.|https://dx.doi.org/10.1016/j.prevetmed.2024.106139

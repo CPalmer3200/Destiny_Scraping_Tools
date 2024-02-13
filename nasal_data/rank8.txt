@@ -248,3 +248,18 @@ Impact of Telehealth Post-operative Care on Early Outcomes Following Esophagecto
 Surgical Management and Outcome of the Planum Sphenoidale Meningioma: A Single-Center STROBE Compliant Study.|https://dx.doi.org/10.1016/j.wneu.2024.02.008
 Tuberculous extensor tenosynovitis of the wrist in a patient with systemic lupus erythematosus mimicking a giant cell tumour: A case report and review of literature.|https://dx.doi.org/10.1016/j.ijscr.2024.109371
 Factors associated with the persistence of human papillomavirus after surgery in patients with cervical cancer.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116201
+Hip prosthesis and colon surgery, a decade of surveillance on surgical site infections in Italy, a prospective cohort study: rates, trends, and disease burden in DALYs.|https://dx.doi.org/10.1186/s13756-024-01377-6
+The area ratio of Modic changes has predictive value for postoperative surgical site infection in lumbar spine surgery: a retrospective study.|https://dx.doi.org/10.1186/s12891-024-07257-9
+Meta-lasso: new insight on infection prediction after minimally invasive surgery.|https://dx.doi.org/10.1007/s11517-024-03027-w
+Risk factors for early septic failure after two-stage exchange total knee arthroplasty for treatment of periprosthetic joint infection.|https://dx.doi.org/10.1186/s10195-024-00750-w
+A modified ureteroileal anastomosis can reduce ureteroileal anastomotic stricture after ileal conduit.|https://dx.doi.org/10.1007/s11255-024-03965-2
+Development and validation of predictive nomogram for postoperative non-union of closed femoral shaft fracture.|https://dx.doi.org/10.1038/s41598-024-53356-x
+Biocompatibility of mineral trioxide aggregate and biodentine as root-end filling materials: an in vivo study.|https://dx.doi.org/10.1038/s41598-024-53872-w
+Development of Favipiravir Dry Powders for Intranasal Delivery: An Integrated Cocrystal and Particle Engineering Approach via Spray Freeze Drying.|https://dx.doi.org/10.1016/j.ijpharm.2024.123896
+Blepharotomy Versus Levator Recession With Adjustable Sutures for Correction of Upper Eyelid Retraction in Thyroid Eye Disease.|https://dx.doi.org/10.1097/IOP.0000000000002632
+[Clinical evolution of patients with infection associated with orthopedic devices in treatment with continuous negative pressure].|https://dx.doi.org/10.24875/CIRU.23000248
+Risk and protective factors associated with wound infection after neurosurgical procedures: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14699
+ALAR BASE LINING GRAFT (ABLG): A NEW TECHNIQUE TO PREVENT AND CORRECT ALAR RETRACTION IN PRIMARY AND SECONDARY RHINOPLASTY.|https://dx.doi.org/10.1097/PRS.0000000000011353
+Effect of Prophylactic Placement of Percutaneous Endoscopic Gastrostomy on the Surgical Prognosis in Patients With Oral Cancer: A Pilot Study.|https://dx.doi.org/10.1097/SCS.0000000000009995
+Coxiella Burnetii Endocarditis In A Patient With Mycotic Cerebral Aneurysms.|https://dx.doi.org/10.48729/pjctvs.378
+Ventral hernia repair using bioresorbable poly-4-hydroxybutyrate mesh in clean and contaminated surgical fields: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s10029-023-02951-4

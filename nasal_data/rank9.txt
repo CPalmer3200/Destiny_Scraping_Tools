@@ -277,3 +277,19 @@ Integrated extraction, structural characterization, and activity assessment of s
 Sub-MIC vancomycin enhances the antibiotic tolerance of vancomycin-intermediate Staphylococcus aureus through downregulation of protein succinylation.|https://dx.doi.org/10.1016/j.micres.2024.127635
 Antimicrobial susceptibility of mastitis pathogens isolated from North American dairy cattle, 2011-2022.|https://dx.doi.org/10.1016/j.vetmic.2024.110015
 Antimicrobial photodynamic inactivation pH-responsive films based on gelatin/chitosan incorporated with aloe-emodin.|https://dx.doi.org/10.1016/j.foodchem.2024.138686
+Repurposing of non-steroidal anti-inflammatory drugs for combination therapies to combat multidrug-resistant S. aureus of bovine reproductive tract origin.|https://dx.doi.org/10.1007/s11259-024-10322-2
+Whole genome sequencing of methicillin-resistant Staphylococcus aureus clinical isolates from Terengganu, Malaysia, indicates the predominance of the EMRSA-15 (ST22-SCCmec IV) clone.|https://dx.doi.org/10.1038/s41598-024-54182-x
+Lytic activity of phages against bacterial pathogens infecting diabetic foot ulcers.|https://dx.doi.org/10.1038/s41598-024-53317-4
+Synthesis and molecular docking simulations of novel azepines based on quinazolinone moiety as prospective antimicrobial and antitumor hedgehog signaling inhibitors.|https://dx.doi.org/10.1038/s41598-024-53517-y
+Biodegradable bio-film based on Cordyceps militaris and metal-organic frameworks for fruit preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130095
+Nanocellulose-based antimicrobial aerogels with humidity-triggered release of cinnamaldehyde.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130108
+Bleach suit for atopic dermatitis.|https://dx.doi.org/10.1111/pde.15561
+Occurrence and Characteristics of Toxigenic Staphylococcus aureus in Retail Foods in Iran.|https://dx.doi.org/10.1089/fpd.2023.0122
+Ceragenin-mediated disruption of Pseudomonas aeruginosa biofilms.|https://dx.doi.org/10.1371/journal.pone.0298112
+Silver nanoparticle reinforced polylactic acid and gelatin composite films for advanced wound dressing.|https://dx.doi.org/10.1177/08853282241233720
+Antibacterial Sesquiterpene Lactones from Kaunia lasiophthalma.|https://dx.doi.org/10.1002/cbdv.202301379
+Neutrophil Granulopoiesis optimized through Ex vivo Expansion of Hematopoietic Progenitors in Engineered 3D Gelatin Methacrylate Hydrogels.|https://dx.doi.org/10.1002/adhm.202301966
+Carbon dots derived from metformin by electrochemical synthesis with broad-spectrum antibacterial properties.|https://dx.doi.org/10.1039/d3tb02442c
+Dorsal Lytic Lesions: Cancer or Infection?|https://dx.doi.org/10.7759/cureus.51993
+Fabrication and Partial Characterization of Silver Nanoparticles From Mangrove (Avicennia marina) Leaves and Their Antibacterial Efficacy Against Oral Bacteria.|https://dx.doi.org/10.7759/cureus.52131
+A Case of Odontoid Osteomyelitis.|https://dx.doi.org/10.7759/cureus.52012

@@ -9,3 +9,5 @@ Knee landmarks detection via deep learning for automatic imaging evaluation of t
 Microscopy methods for Clostridioides difficile.|https://dx.doi.org/10.1016/j.anaerobe.2024.102822
 No correlation exists Between Tibial And Femoral Based Measurements Of Patella Alta In A Population with chronic patellofemoral pain or instability undergoing patella distalisation.|https://dx.doi.org/10.1016/j.arthro.2024.01.036
 C'est difficile: an encounter with infection while taking antibiotics.|https://dx.doi.org/10.1016/S2468-1253(24)00013-X
+Publisher Correction: The transcriptional cofactor Tle3 reciprocally controls effector and central memory CD8(+)T cell fates.|https://dx.doi.org/10.1038/s41590-024-01780-6
+The pH-responsive SmrR-SmrT system modulates C. difficile antimicrobial resistance, spore formation, and toxin production.|https://dx.doi.org/10.1128/iai.00461-23

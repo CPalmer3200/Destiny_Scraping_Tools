@@ -11,3 +11,7 @@ Synthesis and Characterization of Cassava Gum Hydrogel Associated with Chlorhexi
 Innovative Electrospun Nanofiber Mats Based on Polylactic Acid Composited with Silver Nanoparticles for Medical Applications.|https://dx.doi.org/10.3390/polym16030409
 PAA-PU Janus Hydrogels Stabilized by JANUS Particles and its Interfacial Performance During Hemostatic Processing.|https://dx.doi.org/10.1002/adhm.202303802
 Dopamine-grafted oxidized hyaluronic acid/gelatin/cordycepin nanofiber membranes modulate the TLR4/NF-kB signaling pathway to promote diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130079
+Silver nanoparticle reinforced polylactic acid and gelatin composite films for advanced wound dressing.|https://dx.doi.org/10.1177/08853282241233720
+Neutrophil Granulopoiesis optimized through Ex vivo Expansion of Hematopoietic Progenitors in Engineered 3D Gelatin Methacrylate Hydrogels.|https://dx.doi.org/10.1002/adhm.202301966
+Multi-functional bandage - bioactive glass/metal oxides/alginate composites based regenerative membrane facilitating re-epithelialization in diabetic wounds with sustained drug delivery and anti-bactericidal efficacy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130054
+Inhibition of biofouling by in-situ grown zwitterionic hydrogel nanolayer on membrane surface in ultralow-pressurized ultrafiltration process.|https://dx.doi.org/10.1016/j.watres.2024.121263

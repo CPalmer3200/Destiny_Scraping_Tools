@@ -2,3 +2,4 @@ The skin microbiome in pediatric atopic dermatitis and food allergy.|https://dx.
 Levofloxacin susceptibility of Staphylococci from conjunctiva in patients with atopic dermatitis.|https://dx.doi.org/10.1007/s10384-023-01046-y
 Staphylococcus aureus exacerbates dermal IL-33-ILC2 axis activation through evoking RIPK3/MLKL-mediated necroptosis of dry skin.|https://dx.doi.org/10.1172/jci.insight.166821
 Co-occurrence network analysis reveals the alterations of the skin microbiome and metabolome in adults with mild to moderate atopic dermatitis.|https://dx.doi.org/10.1128/msystems.01119-23
+Bleach suit for atopic dermatitis.|https://dx.doi.org/10.1111/pde.15561
