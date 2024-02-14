@@ -177,3 +177,10 @@ Consensus on the treatment of second-degree burn wounds (2024 edition).|https://
 Determination of Inducible Clindamycin Resistance and Correlation with Vitek2 Inducible Clindamycin Resistance Test in <em>Staphylococcus aureus</em> Isolated from Clinical Samples.|https://dx.doi.org/10.29271/jcpsp.2024.02.183
 Demographic Characteristics Associated with Intentions to Receive the 2023-2024 COVID-19 Vaccine.|https://dx.doi.org/10.1016/j.amepre.2024.02.005
 Integrity and filtration efficiency of decontaminated N95/PFF2 masks to protect healthcare professionals against COVID-19: a systematic literature review and meta-analysis.|https://dx.doi.org/10.1016/j.ajic.2024.01.020
+Epidemiology and outcomes of multidrug-resistant bacterial infection in non-cystic fibrosis bronchiectasis.|https://dx.doi.org/10.1186/s12941-024-00675-6
+ESPEN practical short micronutrient guideline.|https://dx.doi.org/10.1016/j.clnu.2024.01.030
+In Vitro Assessment of Antimicrobial Activity of Novel Fluoroquinolone, Levonadifloxacin (WCK 771) Against Multi-Drug-Resistant Clinical Isolates from Cancer Patients in India.|https://dx.doi.org/10.1089/mdr.2022.0313
+Risk of Early Postoperative Cardiovascular and Cerebrovascular Complication in Patients with Preoperative COVID-19 Undergoing Cancer Surgery.|https://dx.doi.org/10.1097/XCS.0000000000001039
+Isolation and in vitro assessment of chicken gut microbes for probiotic potential.|https://dx.doi.org/10.3389/fmicb.2024.1278439
+Surgical Outcome in Bilateral Inguinal Hernia Repair: Laparoscopic Total Extraperitoneal Approach (TEP) as Best Approach?|https://dx.doi.org/10.26574/maedica.2023.18.4.598
+Outcomes and Complications of Duodenopancreatectomy in Octogenarian Patients: a Review.|https://dx.doi.org/10.26574/maedica.2023.18.4.705

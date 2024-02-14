@@ -293,3 +293,19 @@ Carbon dots derived from metformin by electrochemical synthesis with broad-spect
 Dorsal Lytic Lesions: Cancer or Infection?|https://dx.doi.org/10.7759/cureus.51993
 Fabrication and Partial Characterization of Silver Nanoparticles From Mangrove (Avicennia marina) Leaves and Their Antibacterial Efficacy Against Oral Bacteria.|https://dx.doi.org/10.7759/cureus.52131
 A Case of Odontoid Osteomyelitis.|https://dx.doi.org/10.7759/cureus.52012
+Antimicrobial effects of clindamycin-loaded platelet-rich fibrin (PRF).|https://dx.doi.org/10.1007/s00784-024-05532-6
+Bacterial pathogens and antimicrobial resistance in acute otitis media.|https://dx.doi.org/10.1016/j.anpede.2023.12.013
+Hyaluronidase-Responsive Bactericidal Cryogel for Promoting Healing of Infected Wounds: Inflammatory Attenuation, ROS Scavenging, and Immune Regulation.|https://dx.doi.org/10.1002/advs.202306602
+Diabetic wound healing function of PCL/cellulose acetate nanofiber engineered with chitosan/cerium oxide nanoparticles.|https://dx.doi.org/10.1016/j.ijpharm.2024.123880
+Engineering hybrid lantibiotics yields the highly stable and bacteriocidal peptide cerocin V.|https://dx.doi.org/10.1016/j.micres.2024.127640
+The type IV pilus chemoreceptor PilJ controls chemotaxis of one bacterial species towards another.|https://dx.doi.org/10.1371/journal.pbio.3002488
+Antibiofilm and antivirulence activities of laminarin-gold nanoparticles in standard and host-mimicking media.|https://dx.doi.org/10.1007/s00253-024-13050-4
+Steroid Drugs Inhibit Bacterial Respiratory Oxidases and Are Lethal Toward Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1093/infdis/jiad540
+Garlic-Derived Exosome-like Nanovesicles-Based Wound Dressing for Staphylococcus aureus Infection Visualization and Treatment.|https://dx.doi.org/10.1021/acsabm.3c01256
+Design and synthesis of vancomycin-functionalized ZnFe(2) O(4) nanoparticles as an effective antibacterial agent against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1002/ddr.22148
+Sensitizing methicillin-resistant Staphylococcus aureus (MRSA) to cefuroxime: the synergic effect of bicarbonate and the wall teichoic acid inhibitor ticlopidine.|https://dx.doi.org/10.1128/aac.01627-23
+Injectable Nanocomposite Immune Hydrogel Dressings: Prevention of Tumor Recurrence and Anti-Infection after Melanoma Resection.|https://dx.doi.org/10.1002/smll.202309476
+Anticancer, antioxidant, and antimicrobial studies and molecular docking of a new hexanuclear Zn(II) complex, together with its X-ray crystal analysis.|https://dx.doi.org/10.1039/d3dt03327a
+Endogenous Staphylococcus aureus endophthalmitis: Clinical features, treatments, and visual outcomes.|https://dx.doi.org/10.1111/ceo.14361
+Novel sulfonamide derivatives as a tool to combat methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.4155/fmc-2023-0116
+Prevalence and antimicrobial susceptibility profile of bacteria isolated from the hands of housemaids in Jimma City, Ethiopia.|https://dx.doi.org/10.3389/fpubh.2023.1301685

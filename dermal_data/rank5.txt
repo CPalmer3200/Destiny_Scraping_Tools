@@ -5,3 +5,4 @@ Tetraclinis articulata (Vahl) Mast.: Volatile constituents, antioxidant, antidia
 Antimicrobial and anti-biofilm activity of a thiazolidinone derivative against Staphylococcus aureus in vitro and in vivo.|https://dx.doi.org/10.1128/spectrum.02327-23
 Virulence determinants and antibiotic resistance in staphylococci isolated from the skin of captive bred reptiles.|https://dx.doi.org/10.1007/s11259-024-10328-w
 The role of human extracellular matrix proteins in defining Staphylococcus aureus biofilm infections.|https://dx.doi.org/10.1093/femsre/fuae002
+Topical delivery of insulin using novel organogel formulations: An approach for the management of diabetic wounds.|https://dx.doi.org/10.1016/j.burns.2024.01.008

@@ -297,3 +297,21 @@ Non-arteritic Anterior Ischemic Optic Neuropathy Sequela From Potential COVID-19
 Fluctuation in SARS-CoV-2 Environmental Surface Contamination Levels in Homes Where Patients With COVID-19 Stayed for Recuperation.|https://dx.doi.org/10.7759/cureus.52055
 Methicillin-Sensitive Staphylococcus aureus Co-infection in Adolescent Patients With Delta-Variant SARS-CoV-2 Acute Respiratory Failure.|https://dx.doi.org/10.7759/cureus.52164
 The Hidden Impact of Covid-19 on Memory: Disclosing Subjective Complaints.|https://dx.doi.org/10.36131/cnfioritieditore20230604
+Synthesis of Hybrid Data Consisting of Chest Radiographs and Tabular Clinical Records Using Dual Generative Models for COVID-19 Positive Cases.|https://dx.doi.org/10.1007/s10278-024-01015-y
+Virtual quality improvement collaborative with primary care practices during COVID-19: a case study within a clinically integrated network.|https://dx.doi.org/10.1136/bmjoq-2023-002400
+Disruptions to HIV services due to the COVID pandemic in the USA: a state-level stakeholder perspective.|https://dx.doi.org/10.1186/s12913-024-10609-9
+Economic and social determinants of health care utilization during the first wave of COVID-19 pandemic among adults in Ghana: a population-based cross-sectional study.|https://dx.doi.org/10.1186/s12889-024-17912-4
+COVID-19 vaccines and adverse events of special interest: A multinational Global Vaccine Data Network (GVDN) cohort study of 99 million vaccinated individuals.|https://dx.doi.org/10.1016/j.vaccine.2024.01.100
+Epidemiology of post-COVID conditions beyond 3 years and factors associated with their persistence longer than 2 years: A cross-sectional study.|https://dx.doi.org/10.1016/j.jiac.2024.02.009
+Estimating infection prevalence using the positive predictive value of self-administered rapid antigen diagnostic tests: An exploration of SARS-CoV-2 surveillance data in the Netherlands from May 2021 to April 2022.|https://dx.doi.org/10.1371/journal.pone.0298218
+Effect of distributing locally produced cloth facemasks on COVID-19-like illness and all-cause mortality-a cluster-randomised controlled trial in urban Guinea-Bissau.|https://dx.doi.org/10.1371/journal.pgph.0002901
+Prepandemic Physical Activity and Risk of COVID-19 Diagnosis and Hospitalization in Older Adults.|https://dx.doi.org/10.1001/jamanetworkopen.2023.55808
+Impact of dexamethasone in severe COVID-19-induced acute kidney injury: a multicenter cohort study.|https://dx.doi.org/10.1186/s13613-024-01258-6
+Impact of the novel coronavirus infection on pediatric surgery: an analysis of data from the National Clinical Database.|https://dx.doi.org/10.1007/s00595-024-02792-3
+Assessing the impact of COVID-19 interventions on the hand, foot and mouth disease in Guangdong Province, China: a Bayesian modeling study.|https://dx.doi.org/10.3389/fpubh.2023.1307321
+Association between love breakup and suicidal ideation in Peruvian medical students: a cross-sectional study during the COVID-19 pandemic.|https://dx.doi.org/10.3389/fpsyt.2023.1287036
+Lipschütz ulcers due to SARS-CoV-2 infection: a neglected diagnosis in emergency room.|https://dx.doi.org/10.1097/JW9.0000000000000122
+Vaccines reduced hospital length of stay and fraction of inspired oxygen of COVID-19 patients: A retrospective cohort study.|https://dx.doi.org/10.1016/j.pmedr.2024.102632
+The Intersections of COVID-19 Global Health Governance and Population Health Priorities: Equity-Related Lessons Learned From Canada and Selected G20 Countries.|https://dx.doi.org/10.3389/phrs.2024.1606052
+Successful ablation of Purkinje ectopy-triggered ventricular fibrillation storm in a patient with orthotopic heart transplantation and severe SARS-CoV-2 pneumonia: a case report.|https://dx.doi.org/10.1093/ehjcr/ytae057
+Prevalence, Knowledge, Causes, and Practices of Self-Medication During the COVID-19 Pandemic in Bangladesh: A Cross-Sectional Survey.|https://dx.doi.org/10.7759/cureus.52061

@@ -15,3 +15,5 @@ Silver nanoparticle reinforced polylactic acid and gelatin composite films for a
 Neutrophil Granulopoiesis optimized through Ex vivo Expansion of Hematopoietic Progenitors in Engineered 3D Gelatin Methacrylate Hydrogels.|https://dx.doi.org/10.1002/adhm.202301966
 Multi-functional bandage - bioactive glass/metal oxides/alginate composites based regenerative membrane facilitating re-epithelialization in diabetic wounds with sustained drug delivery and anti-bactericidal efficacy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130054
 Inhibition of biofouling by in-situ grown zwitterionic hydrogel nanolayer on membrane surface in ultralow-pressurized ultrafiltration process.|https://dx.doi.org/10.1016/j.watres.2024.121263
+Diabetic wound healing function of PCL/cellulose acetate nanofiber engineered with chitosan/cerium oxide nanoparticles.|https://dx.doi.org/10.1016/j.ijpharm.2024.123880
+Garlic-Derived Exosome-like Nanovesicles-Based Wound Dressing for Staphylococcus aureus Infection Visualization and Treatment.|https://dx.doi.org/10.1021/acsabm.3c01256

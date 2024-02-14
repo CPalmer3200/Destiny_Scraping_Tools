@@ -29,3 +29,8 @@ Development of an Advanced Material for Obturation in Primary Teeth Based on the
 Electrospun Nanofiber Composite Utilized as an Electrocatalyst for the Detection of Acetaminophen in Multifarious Water Samples.|https://dx.doi.org/10.1021/acsomega.3c08432
 The efficacy of combining adjuvants with non-surgical periodontal therapy in individuals with type 2 diabetes: A Bayesian network meta-analysis.|https://dx.doi.org/10.1111/jcpe.13946
 A preliminary report on critical antimicrobial resistance in Escherichia coli, Enterococcus faecalis, and Enterococcus faecium strains isolated from healthy dogs in Chile during 2021-2022.|https://dx.doi.org/10.1016/j.prevetmed.2024.106139
+Garlic-Derived Exosome-like Nanovesicles-Based Wound Dressing for Staphylococcus aureus Infection Visualization and Treatment.|https://dx.doi.org/10.1021/acsabm.3c01256
+Design and synthesis of vancomycin-functionalized ZnFe(2) O(4) nanoparticles as an effective antibacterial agent against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1002/ddr.22148
+Removal of common antimicrobial agents by sustained low-efficiency dialysis.|https://dx.doi.org/10.1128/aac.01579-23
+Rhodococcus infection: a 10-year retrospective analysis of clinical experience and antimicrobial susceptibility profile.|https://dx.doi.org/10.1128/jcm.01537-23
+Critical Evaluation of Green Synthesized Silver Nanoparticles-Kaempferol for Antibacterial Activity Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.2147/IJN.S431499
