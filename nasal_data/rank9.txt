@@ -309,3 +309,20 @@ Anticancer, antioxidant, and antimicrobial studies and molecular docking of a ne
 Endogenous Staphylococcus aureus endophthalmitis: Clinical features, treatments, and visual outcomes.|https://dx.doi.org/10.1111/ceo.14361
 Novel sulfonamide derivatives as a tool to combat methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.4155/fmc-2023-0116
 Prevalence and antimicrobial susceptibility profile of bacteria isolated from the hands of housemaids in Jimma City, Ethiopia.|https://dx.doi.org/10.3389/fpubh.2023.1301685
+Drug eluting bioactive glass ceramics for fusion in spondylodiscitis: a pilot study.|https://dx.doi.org/10.1007/s10143-024-02317-z
+Nanoengineered chitosan functionalized titanium dioxide biohybrids for bacterial infections and cancer therapy.|https://dx.doi.org/10.1038/s41598-024-52847-1
+Synthesis and in vitro evaluation of antibacterial and antibiofilm activities of novel triphenylphosphonium-functionalized substituted pyrimidines.|https://dx.doi.org/10.1111/cbdd.14483
+Systematic review and meta-analysis on Staphylococcus aureus methicillin resistance detection performance and discrepancy analysis with the BIOFIRE® FILMARRAY® Pneumonia Panel.|https://dx.doi.org/10.1016/j.accpm.2024.101352
+Development of natural cosmetic emulsion using the by-product of Lecythis pisonis seed.|https://dx.doi.org/10.1016/j.tiv.2024.105791
+The antimicrobial property of JY-1, a complex mixture of Traditional Chinese Medicine, is linked to it abilities to suppress biofilm formation and disrupt membrane permeability.|https://dx.doi.org/10.1016/j.micpath.2024.106573
+Commonly associated aerobic microbial pathogens and their antibiotic susceptibility profile in diabetic foot ulcers in tertiary care centre in Western Maharashtra.|https://dx.doi.org/10.1016/j.ijmmb.2024.100538
+Nanofibers of N,N,N-trimethyl chitosan capped bimetallic nanoparticles: Preparation, characterization, wound dressing and in-vivo treatment of MDR microbial infection and tracking by optical and photoacoustic imaging.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130154
+Size-controlled synthesis of La and chitosan doped cobalt selenide nanostructures for catalytic and antibacterial activity with molecular docking analysis.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130096
+Fabrication of antibacterial poly (L-lactic acid)/tea polyphenol blend films via reactive blending using SG copolymer.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130130
+Microbial responses and changes in metabolic products in bovine uteri infected with Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130039
+Humulus lupulus aqueous extract and hydrolate as a potential ingredient for cosmetics: Chemical characterization and in vitro antimicrobial, cytotoxicity, antioxidant, and anti-inflammatory assessment.|https://dx.doi.org/10.1016/j.fitote.2024.105861
+Elevated Levels of Interleukin-18 are Associated with Lymph Node Metastasis in Papillary Thyroid Carcinoma.|https://dx.doi.org/10.1055/a-2255-5718
+Pyrroloquinolones B-F: Five unusual alkaloids from Vernonia glabra (Steetz) Vatke (Asteraceae).|https://dx.doi.org/10.1016/j.phytochem.2024.114010
+Effective ciprofloxacin cationic antibacterial agent against persister bacteria with low hemolytic toxicity.|https://dx.doi.org/10.1016/j.ejmech.2024.116215
+Synthesis and structure-activity relationships of novel 14-membered 2-fluoro ketolides with structural modification at the C11 position.|https://dx.doi.org/10.1016/j.ejmech.2024.116181
+Seamless Integration of Rapid Separation and Ultra-Sensitive Detection for Complex Biological Samples using Multistage Annular Functionalized Carbon Nanotube Arrays.|https://dx.doi.org/10.1002/adma.202312518

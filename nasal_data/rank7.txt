@@ -315,3 +315,23 @@ Vaccines reduced hospital length of stay and fraction of inspired oxygen of COVI
 The Intersections of COVID-19 Global Health Governance and Population Health Priorities: Equity-Related Lessons Learned From Canada and Selected G20 Countries.|https://dx.doi.org/10.3389/phrs.2024.1606052
 Successful ablation of Purkinje ectopy-triggered ventricular fibrillation storm in a patient with orthotopic heart transplantation and severe SARS-CoV-2 pneumonia: a case report.|https://dx.doi.org/10.1093/ehjcr/ytae057
 Prevalence, Knowledge, Causes, and Practices of Self-Medication During the COVID-19 Pandemic in Bangladesh: A Cross-Sectional Survey.|https://dx.doi.org/10.7759/cureus.52061
+Inclusion of deuterated glycopeptides provides increased sequence coverage in hydrogen/deuterium exchange mass spectrometry analysis of SARS-CoV-2 spike glycoprotein.|https://dx.doi.org/10.1002/rcm.9690
+Asialoglycoprotein receptor 1 promotes SARS-CoV-2 infection of human normal hepatocytes.|https://dx.doi.org/10.1038/s41392-024-01754-y
+SARS-CoV-2 infection status in corneal preservation solution and COVID-19 prevalence after corneal transplantation.|https://dx.doi.org/10.1038/s41598-024-53863-x
+Aptamers targeting SARS-CoV-2 nucleocapsid protein exhibit potential anti pan-coronavirus activity.|https://dx.doi.org/10.1038/s41392-024-01748-w
+Impact of COVID-19 on mental health of health care workers in Spain: a mix-methods study.|https://dx.doi.org/10.1186/s12889-024-17979-z
+Optimal resource allocation model for COVID-19: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09007-7
+The role of vaccine status homophily in the COVID-19 pandemic: a cross-sectional survey with modelling.|https://dx.doi.org/10.1186/s12889-024-17957-5
+Reverse shock index multiplied by simplified motor score as a predictor of clinical outcomes for patients with COVID-19.|https://dx.doi.org/10.1186/s12873-024-00948-5
+Predicting subnational incidence of COVID-19 cases and deaths in EU countries.|https://dx.doi.org/10.1186/s12879-024-08986-x
+Experiences and responses of child protection professionals during COVID-19: Lessons learned from professionals around the globe.|https://dx.doi.org/10.1016/j.chiabu.2024.106688
+The impact of time since SARS-Cov-2 vaccination, age, sex and comorbidities on COVID-19 outcome in hospitalized patients with SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.vaccine.2024.02.003
+Did the COVID-19 experience change U.S. parents' attitudes towards HPV vaccination? Results from a national survey.|https://dx.doi.org/10.1016/j.vaccine.2024.01.105
+Profile, performance, and perception of pharmacist preparedness for the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.sapharm.2024.01.011
+Examining associations between social vulnerability indices and COVID-19 incidence and mortality with spatial-temporal Bayesian modeling.|https://dx.doi.org/10.1016/j.sste.2023.100623
+Unfractionated Heparin Safety in COVID-19: Incidence and Risks of Bleeding Complications in Japan.|https://dx.doi.org/10.5551/jat.64448
+Associated factors for fear of COVID-19 scale in long-term care settings in Spain.|https://dx.doi.org/10.1016/j.gerinurse.2024.02.009
+Use of telemedicine in general practice in Europe since the COVID-19 pandemic: A scoping review of patient and practitioner perspectives.|https://dx.doi.org/10.1371/journal.pdig.0000427
+Suicide rates before and during the COVID-19 pandemic: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00127-024-02617-1
+Humoral and cellular immune responses against SARS-CoV-2 post-vaccination in immunocompetent and immunocompromised cancer populations.|https://dx.doi.org/10.1128/spectrum.02050-23
+Nipah: The looming post-covid pandemic.|https://dx.doi.org/10.6026/973206300200001

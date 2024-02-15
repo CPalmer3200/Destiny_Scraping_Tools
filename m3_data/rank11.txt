@@ -34,3 +34,15 @@ Design and synthesis of vancomycin-functionalized ZnFe(2) O(4) nanoparticles as 
 Removal of common antimicrobial agents by sustained low-efficiency dialysis.|https://dx.doi.org/10.1128/aac.01579-23
 Rhodococcus infection: a 10-year retrospective analysis of clinical experience and antimicrobial susceptibility profile.|https://dx.doi.org/10.1128/jcm.01537-23
 Critical Evaluation of Green Synthesized Silver Nanoparticles-Kaempferol for Antibacterial Activity Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.2147/IJN.S431499
+Automated sepsis detection with vancomycin- and allantoin-polydopamine magnetic nanoparticles.|https://dx.doi.org/10.1038/s41598-024-54236-0
+Introduction and spread of vancomycin-resistant Enterococcus faecium (VREfm) at a German tertiary care medical center from 2004 until 2010: a retrospective whole-genome sequencing (WGS) study of the molecular epidemiology of VREfm.|https://dx.doi.org/10.1186/s13756-024-01379-4
+The antimicrobial property of JY-1, a complex mixture of Traditional Chinese Medicine, is linked to it abilities to suppress biofilm formation and disrupt membrane permeability.|https://dx.doi.org/10.1016/j.micpath.2024.106573
+Prevalence and genomic characterization of the Bacillus cereus group strains contamination in food products in Southern China.|https://dx.doi.org/10.1016/j.scitotenv.2024.170903
+Effect of Different Local Antibiotic Regimens on Prevention of Postoperative Infection in Clean Surgical Wounds: A Systematic Review and Network Meta-analysis.|https://dx.doi.org/10.1097/ASW.0000000000000094
+Bacteriophage and antibiotic combination therapy for recurrent Enterococcus faecium bacteremia.|https://dx.doi.org/10.1128/mbio.03396-23
+A Multimodal Intervention to Reduce C. difficile Infections and Stool Testing.|https://dx.doi.org/10.1542/peds.2023-061981
+Predictors of antibiogram performance and antibiotic resistance patterns in the northern Syrian region: A cross-sectional investigation.|https://dx.doi.org/10.1016/j.rcsop.2024.100416
+'The Year of Living Dangerously': Successful Rhodococcus Equi Therapy in an Immunosuppressed Patient with Minimal Toxicity by One Year of Continuous Intravenous Vancomycin Therapy Combined with Oral Levofloxacin And Rifampicin.|https://dx.doi.org/10.12890/2024_004249
+Endophytic fungi of Tradescantia pallida mediated targeting of Multi-Drug resistant human pathogens.|https://dx.doi.org/10.1016/j.sjbs.2024.103937
+Polyether ionophore resistance in a one health perspective.|https://dx.doi.org/10.3389/fmicb.2024.1347490
+Implementation of contact precautions for multidrug-resistant organisms in the post-COVID-19 pandemic era: An updated national Emerging Infections Network (EIN) survey.|https://dx.doi.org/10.1017/ice.2024.11

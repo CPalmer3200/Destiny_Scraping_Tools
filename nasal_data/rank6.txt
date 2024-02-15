@@ -11,3 +11,5 @@ Higher baseline heart rate variability in CCHS patients with progestin-associate
 Gum Arabic assisted the biomass synthesis of bimetallic silver copper oxide nanoparticles using gamma-rays for improving bacterial and viral wound healing: Promising antimicrobial activity against foot and mouth disease.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130010
 Which trial do we need? Percutaneous mechanical aspiration versus medical management alone for treatment of right-sided valvular infective endocarditis.|https://dx.doi.org/10.1016/j.cmi.2024.02.005
 Development of Mupirocin-Impregnated Bacterial Cellulosic Transdermal Patches for the Management of Skin Infection.|https://dx.doi.org/10.1021/acsomega.3c07174
+Effect of Different Local Antibiotic Regimens on Prevention of Postoperative Infection in Clean Surgical Wounds: A Systematic Review and Network Meta-analysis.|https://dx.doi.org/10.1097/ASW.0000000000000094
+Work of breathing: A tool for the respiratory management of severe bronchopulmonary dysplasia.|https://dx.doi.org/10.1002/ppul.26874

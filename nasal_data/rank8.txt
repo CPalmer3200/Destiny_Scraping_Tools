@@ -278,3 +278,17 @@ Safety and efficacy of growth-friendly instrumentation for early-onset scoliosis
 Trigger thumb treatment approach: Results of a survey of EPOS members.|https://dx.doi.org/10.1177/18632521231214312
 Natural products for the treatment of chemotherapy-related cognitive impairment and prospects of nose-to-brain drug delivery.|https://dx.doi.org/10.3389/fphar.2024.1292807
 Regenerative Peripheral Nerve Interface (RPNI) Surgery for Mitigation of Neuroma and Postamputation Pain.|https://dx.doi.org/10.2106/JBJS.ST.23.00009
+Record of strep throat infections in Italy: what is needed to know about penicillin allergy? The point of view from the Italian Society of Pediatric Allergy and Immunology (SIAIP).|https://dx.doi.org/10.1186/s13052-023-01561-1
+Improved early risk stratification of deep sternal wound infection risk after coronary artery bypass grafting.|https://dx.doi.org/10.1186/s13019-024-02570-9
+Risk factors and prognosis of perioperative acute heart failure in elderly patients with hip fracture: case-control studies and cohort study.|https://dx.doi.org/10.1186/s12891-024-07255-x
+Histoplasmosis peritonitis in an immunocompetent patient: case report.|https://dx.doi.org/10.1186/s12879-024-09083-9
+Point-of-Care Ultrasound of a Nasal Septal Abscess.|https://dx.doi.org/10.1097/PEC.0000000000003128
+Diagnosis of Fever Source Following Tonsillectomy and Adenoidectomy in the Pediatric Emergency Department.|https://dx.doi.org/10.1097/PEC.0000000000003122
+Neuraxial anaesthesia in patients with cerebrospinal fluid shunts: A descriptive review.|https://dx.doi.org/10.1016/j.redare.2024.02.010
+Management of urosymphyseal fistula and pubic bone osteomyelitis: Description of a new surgical technique by cystectomy, urinary diversion and pelvic filling flap by unilateral pedicled myocutaneous vertical rectus abdominus muscle flap.|https://dx.doi.org/10.1016/j.fjurol.2024.102589
+Computed tomography-guided cannulated lag screw placement for treatment of ununited anconeal process: surgical technique, clinical outcome, and radiographic healing in 7 dogs.|https://dx.doi.org/10.2460/javma.23.10.0569
+Outcomes After Pseudomonas Prosthetic Joint Infections.|https://dx.doi.org/10.5435/JAAOS-D-23-00704
+Infection Rates After Aseptic Revision Total Hip Arthroplasty With Extended Oral Antibiotic Prophylaxis.|https://dx.doi.org/10.5435/JAAOS-D-23-00750
+A Rare Case of Varicella Zoster Infection in Hemorrhoids in a Patient With Inflammatory Bowel Disease.|https://dx.doi.org/10.1097/DAD.0000000000002626
+Single versus bilateral internal thoracic artery grafting in patients with impaired renal function.|https://dx.doi.org/10.1371/journal.pone.0297194
+Clinical outcome and survival rate of condylar constrained knee prosthesis in revision total knee arthroplasty: an average nine point six year follow-up.|https://dx.doi.org/10.1007/s00264-024-06096-6

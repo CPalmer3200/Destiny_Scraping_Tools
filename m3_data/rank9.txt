@@ -2,3 +2,4 @@ Multicenter evaluation of BioCode GPP for syndromic molecular detection of gastr
 Rethinking Clostridioides difficile infection (CDI) surveillance definitions based on changing healthcare utilisation and a more realistic incubation period: reviewing data from a tertiary-referral hospital, Ireland, 2012 to 2021.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.6.2300335
 Watery Diarrhea Is Not Always Clostridioides difficile: A Case Report of Aeromonas hydrophila Gastroenteritis.|https://dx.doi.org/10.7759/cureus.51940
 Many Hands, Light Work: A Partnership Approach to Reducing Clostridioides difficile Burden on an Oncology Unit.|https://dx.doi.org/10.1016/j.ajic.2024.02.002
+Epidemiology and outcomes of infections during extracorporeal membrane oxygenation in adult patients with COVID-19 ARDS- A single center study.|https://dx.doi.org/10.1016/j.ijmmb.2024.100539

@@ -6,3 +6,4 @@ Antimicrobial and anti-biofilm activity of a thiazolidinone derivative against S
 Virulence determinants and antibiotic resistance in staphylococci isolated from the skin of captive bred reptiles.|https://dx.doi.org/10.1007/s11259-024-10328-w
 The role of human extracellular matrix proteins in defining Staphylococcus aureus biofilm infections.|https://dx.doi.org/10.1093/femsre/fuae002
 Topical delivery of insulin using novel organogel formulations: An approach for the management of diabetic wounds.|https://dx.doi.org/10.1016/j.burns.2024.01.008
+Cytotoxic Polyhydroxy-Isoprenoids from Neodidymelliopsis negundinis.|https://dx.doi.org/10.1021/acs.jnatprod.3c01094

@@ -12,3 +12,6 @@ C'est difficile: an encounter with infection while taking antibiotics.|https://d
 Publisher Correction: The transcriptional cofactor Tle3 reciprocally controls effector and central memory CD8(+)T cell fates.|https://dx.doi.org/10.1038/s41590-024-01780-6
 The pH-responsive SmrR-SmrT system modulates C. difficile antimicrobial resistance, spore formation, and toxin production.|https://dx.doi.org/10.1128/iai.00461-23
 Correlation between choroidal vascularity and retrobulbar ocular blood flow changes and thyroid-associated ophthalmopathy activity: a cross-sectional study.|https://dx.doi.org/10.1186/s12886-024-03308-w
+Usefulness of a new immunochromatographic assay using fluorescent silica nanoparticles for serodiagnosis of Thai patients with amebiasis.|https://dx.doi.org/10.5582/ddt.2023.01102
+Pre-fusion motion state determines the heterogeneity of membrane fusion dynamics for large dense-core vesicles.|https://dx.doi.org/10.1111/apha.14115
+Microbiota encoded fatty-acid metabolism expands tuft cells to protect tissues homeostasis during Clostridioides difficile infection in the large intestine.|https://dx.doi.org/10.1101/2024.01.29.574039

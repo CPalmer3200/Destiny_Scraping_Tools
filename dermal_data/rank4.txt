@@ -17,3 +17,5 @@ Multi-functional bandage - bioactive glass/metal oxides/alginate composites base
 Inhibition of biofouling by in-situ grown zwitterionic hydrogel nanolayer on membrane surface in ultralow-pressurized ultrafiltration process.|https://dx.doi.org/10.1016/j.watres.2024.121263
 Diabetic wound healing function of PCL/cellulose acetate nanofiber engineered with chitosan/cerium oxide nanoparticles.|https://dx.doi.org/10.1016/j.ijpharm.2024.123880
 Garlic-Derived Exosome-like Nanovesicles-Based Wound Dressing for Staphylococcus aureus Infection Visualization and Treatment.|https://dx.doi.org/10.1021/acsabm.3c01256
+Nanofibers of N,N,N-trimethyl chitosan capped bimetallic nanoparticles: Preparation, characterization, wound dressing and in-vivo treatment of MDR microbial infection and tracking by optical and photoacoustic imaging.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130154
+Cannabidiol-loaded microparticles embedded in a porous hydrogel matrix for biomedical applications.|https://dx.doi.org/10.1007/s10856-023-06773-9
