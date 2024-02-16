@@ -326,3 +326,22 @@ Pyrroloquinolones B-F: Five unusual alkaloids from Vernonia glabra (Steetz) Vatk
 Effective ciprofloxacin cationic antibacterial agent against persister bacteria with low hemolytic toxicity.|https://dx.doi.org/10.1016/j.ejmech.2024.116215
 Synthesis and structure-activity relationships of novel 14-membered 2-fluoro ketolides with structural modification at the C11 position.|https://dx.doi.org/10.1016/j.ejmech.2024.116181
 Seamless Integration of Rapid Separation and Ultra-Sensitive Detection for Complex Biological Samples using Multistage Annular Functionalized Carbon Nanotube Arrays.|https://dx.doi.org/10.1002/adma.202312518
+In-vivo and in-vitro wound healing and tissue repair effect of Trametes versicolor polysaccharide extract.|https://dx.doi.org/10.1038/s41598-024-54565-0
+The tunnel infection in PD: Up in the air.|https://dx.doi.org/10.1177/08968608231224615
+Multifunctional Ag(2)O/chitosan nanocomposites synthesized via sol-gel with enhanced antimicrobial, and antioxidant properties: A novel food packaging material.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129990
+Construction of MXene-mediated inorganic-organic quaternary ammonium salt-hybrid coating for fire safety and multi-mode synergistic antibacterial of cotton fabric.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130157
+Visible light-promoted anti-biofouling performance of cellulose acetate membrane for reverse osmosis desalination.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130196
+Zebrafish ANGPT4, member of fibrinogen-related proteins, is an LTA-, LPS- and PGN-binding protein with a bacteriolytic activity.|https://dx.doi.org/10.1016/j.fsi.2024.109451
+Constant Vigilance! Managing Threats to the Skin Barrier.|https://dx.doi.org/10.1016/j.anai.2024.02.004
+Hamamelis virginiana L. extract presents antimicrobial and antibiofilm effects, absence of cytotoxicity, anti-inflammatory action, and potential to fight infections through the nitric oxide production by macrophages.|https://dx.doi.org/10.1590/0001-3765202320200031
+An antibiotic preorganized for ribosomal binding overcomes antimicrobial resistance.|https://dx.doi.org/10.1126/science.adk8013
+Predatory bacteria prevent the proliferation of intraocular Serratia marcescens and fluoroquinolone-resistant Pseudomonas aeruginosa.|https://dx.doi.org/10.1099/mic.0.001433
+The phosphatidylinositol-5' phosphatase synaptojanin1 limits integrin-mediated invasion of Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.02006-23
+The prevalence of adhesion and biofilm genes in Staphylococcus aureus isolates from bovine mastitis: A comprehensive meta-analysis.|https://dx.doi.org/10.1002/vms3.1378
+Cas-based bacterial detection: recent advances and perspectives.|https://dx.doi.org/10.1039/d3an02120c
+Bacteriophage therapy for drug-resistant Staphylococcus aureus infections.|https://dx.doi.org/10.3389/fcimb.2024.1336821
+Microbiological quality and proximate analysis of locally produced soymilk drinks sold in Calabar Metropolis; a public health assessment.|https://dx.doi.org/10.4314/ahs.v23i3.87
+Enhanced antimicrobial efficacy of biogenic ZnO nanoparticles through UV-B activation: A novel approach for textile garment.|https://dx.doi.org/10.1016/j.heliyon.2024.e25580
+Biodegradable film based on barley sprout powder/pectin modified with quercetin and V(2)O(5) nanoparticles: Investigation of physicochemical and structural properties.|https://dx.doi.org/10.1016/j.heliyon.2024.e25448
+Defects oriented hydrothermal synthesis of TiO(2) and MnTiO(2) nanoparticles as photocatalysts for wastewater treatment and antibacterial applications.|https://dx.doi.org/10.1016/j.heliyon.2024.e25579
+ESKAPE in China: epidemiology and characteristics of antibiotic resistance.|https://dx.doi.org/10.1080/22221751.2024.2317915

@@ -292,3 +292,18 @@ Infection Rates After Aseptic Revision Total Hip Arthroplasty With Extended Oral
 A Rare Case of Varicella Zoster Infection in Hemorrhoids in a Patient With Inflammatory Bowel Disease.|https://dx.doi.org/10.1097/DAD.0000000000002626
 Single versus bilateral internal thoracic artery grafting in patients with impaired renal function.|https://dx.doi.org/10.1371/journal.pone.0297194
 Clinical outcome and survival rate of condylar constrained knee prosthesis in revision total knee arthroplasty: an average nine point six year follow-up.|https://dx.doi.org/10.1007/s00264-024-06096-6
+Investigating the efficacy of vacuum sealing drainage versus traditional negative pressure drainage in treating deep incision infections following posterior cervical internal fixation-a retrospective cohort study.|https://dx.doi.org/10.1186/s40001-024-01717-7
+Impact of Early Tracheostomy Following Lung Transplantation: A National Analysis.|https://dx.doi.org/10.1016/j.athoracsur.2024.02.013
+Outcomes of Unicompartmental Knee Arthroplasty in Patients Receiving Long-Term Anticoagulation Therapy: A Propensity-Matched Cohort Study.|https://dx.doi.org/10.1016/j.arth.2024.02.021
+Non-SARS-CoV-2 respiratory viral detection and whole genome sequencing from COVID-19 rapid antigen test devices: a laboratory evaluation study.|https://dx.doi.org/10.1016/S2666-5247(23)00375-0
+Comparison of Surgical Outcomes of Transoral Versus Open Thyroidectomy for Graves Disease.|https://dx.doi.org/10.1097/SLE.0000000000001261
+Assessment of the osteogenic effect after maxillary sinus floor elevation and simultaneous implantation with or without bone grafts by analyzing trabecular bone parameters: a retrospective study.|https://dx.doi.org/10.1590/1678-7757-2023-0406
+What Is the Most Effective Treatment for Periprosthetic Joint Infection After Total Joint Arthroplasty in Patients with Rheumatoid Arthritis?: A Systematic Review.|https://dx.doi.org/10.2106/JBJS.RVW.23.00124
+In vitro differential inhibition of the factor XI activity assay in the setting of a lupus anticoagulant.|https://dx.doi.org/10.1097/MBC.0000000000001287
+Postoperative Care and Outcomes in Solid Organ Transplant Patients undergoing Lower Extremity Fracture Treatment.|https://dx.doi.org/10.1097/BOT.0000000000002788
+Bundle approach in emergency surgery for prevention of surgical site infections: a double-blinded randomized controlled trial.|https://dx.doi.org/10.1007/s00423-024-03243-w
+B-type natriuretic peptide levels at admission predict the prognosis of patients with infective endocarditis undergoing cardiac surgery.|https://dx.doi.org/10.2217/bmm-2023-0590
+Effect of White Noise Intervention Combined with Multi-dimensional Nursing Mode on Sleep Quality and Incidence of Nosocomial Infection in Patients Undergoing Hip Replacement.|https://dx.doi.org/10.4103/nah.nah_32_23
+Hepatitis C virus infection in patients undergoing surgery in a single tertiary academic center.|https://dx.doi.org/10.1111/jgh.16506
+Identification of keystone taxa in root canals and periapical lesions of post-treatment endodontic infections: Next generation microbiome research.|https://dx.doi.org/10.1111/iej.14046
+Revision Surgery for Recurrent Morton Neuroma with Use of a Collagen Conduit.|https://dx.doi.org/10.2106/JBJS.ST.22.00065

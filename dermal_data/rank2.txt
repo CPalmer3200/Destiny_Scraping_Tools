@@ -13,3 +13,4 @@ Wound, Ischemia, Foot Infection (Wifi) Classification System And Its Predictive 
 Study of Electrospun Membranes Composed of PCL and Tilapia-Skin Collagen with Tetracycline or Chloramphenicol in Contact with Human Skin Fibroblasts for Wound Dressing Treatment.|https://dx.doi.org/10.1021/acsomega.3c06354
 Bartter syndrome-like phenotype in a patient with type 2 diabetes mellitus.|https://dx.doi.org/10.1136/bcr-2023-257953
 Commonly associated aerobic microbial pathogens and their antibiotic susceptibility profile in diabetic foot ulcers in tertiary care centre in Western Maharashtra.|https://dx.doi.org/10.1016/j.ijmmb.2024.100538
+Awareness of Diabetic Patients in the Qassim Region About Diabetic Foot and Its Complications.|https://dx.doi.org/10.7759/cureus.52306

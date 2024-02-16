@@ -6,3 +6,4 @@ The management of Clostridioides difficile infection: from empirism to evidence.
 A Systematic Literature Review on Risk Factors for and Timing of Clostridioides difficile Infection in the United States.|https://dx.doi.org/10.1007/s40121-024-00919-0
 Molecular docking, dynamics and in vitro analysis of multi-target inhibitors for Clostridioides difficile.|https://dx.doi.org/10.6026/973206300200039
 Clostridioides difficile -mucus interactions encompass shifts in gene expression, metabolism, and biofilm formation.|https://dx.doi.org/10.1101/2024.02.01.578425
+Rapid Isothermal Detection of Pathogenic Clostridioides difficile Using Recombinase Polymerase Amplification.|https://dx.doi.org/10.1021/acs.analchem.3c02985

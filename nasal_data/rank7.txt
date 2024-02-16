@@ -335,3 +335,22 @@ Use of telemedicine in general practice in Europe since the COVID-19 pandemic: A
 Suicide rates before and during the COVID-19 pandemic: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00127-024-02617-1
 Humoral and cellular immune responses against SARS-CoV-2 post-vaccination in immunocompetent and immunocompromised cancer populations.|https://dx.doi.org/10.1128/spectrum.02050-23
 Nipah: The looming post-covid pandemic.|https://dx.doi.org/10.6026/973206300200001
+Cyclosporine A in hospitalized COVID-19 pneumonia patients to prevent the development of interstitial lung disease: a pilot randomized clinical trial.|https://dx.doi.org/10.1038/s41598-024-54196-5
+New score to predict COVID-19 progression in vaccine and early treatment era: the COVID-19 Sardinian Progression Score (CSPS).|https://dx.doi.org/10.1186/s40001-024-01718-6
+U.S. COVID-19 vaccine distribution strategies, systems, performance, and lessons learned, December 2020 - May 2023.|https://dx.doi.org/10.1016/j.vaccine.2024.02.020
+Cost-based COVID-19 vaccination and willingness to pay: A post-pandemic review.|https://dx.doi.org/10.1080/21645515.2024.2313860
+Changes in prevalence of anxiety and depression among COVID-19 patients during a two-year recovery period: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jpsychores.2024.111602
+[Response to the COVID-19 Health Crisis from a Gender Perspective: Lessons Learned].|https://dx.doi.org/10.1016/j.gaceta.2024.102358
+Influence of self-efficiency beliefs on the health and well-being of university students in COVID-19.|https://dx.doi.org/10.1590/1983-1447.2024.20230117.en
+Text-Mining and Video Analytics of COVID-19 Narratives Shared by Patients on YouTube.|https://dx.doi.org/10.1007/s10916-024-02047-1
+Efficacy, safety, and public attitude toward COVID-19 vaccines: A systematic review.|https://dx.doi.org/10.4103/aam.aam_13_23
+Association Between Social Vulnerability and SARS-CoV-2 Seroprevalence in Specimens Collected From Commercial Laboratories, United States, September 2021-February 2022.|https://dx.doi.org/10.1177/00333549231223140
+Targeting mevalonate pathway by zoledronate ameliorated pulmonary fibrosis in a rat model: Promising therapy against post-COVID-19 pulmonary fibrosis.|https://dx.doi.org/10.1111/fcp.12994
+Risk of Arterial and Venous Thrombotic Events Among Patients with COVID-19: A Multi-National Collaboration of Regulatory Agencies from Canada, Europe, and United States.|https://dx.doi.org/10.2147/CLEP.S448980
+Predictors of in-hospital mortality in elderly unvaccinated patients during SARS-CoV-2 Alpha variants epidemic.|https://dx.doi.org/10.1016/j.infpip.2024.100341
+Humoral immunity trends in a hemodialysis cohort following SARS-CoV-2 mRNA booster: A cohort study.|https://dx.doi.org/10.1002/hsr2.1858
+Suicide attempts in French Polynesia during the era of COVID-19: a prospective analysis over three years.|https://dx.doi.org/10.1016/j.lanwpc.2023.100899
+Reproductive health challenges of an African school girl: a case report on non-bulging imperforate hymen with haematocolpometra during Covid-19 pandemic.|https://dx.doi.org/10.4314/ahs.v23i3.16
+Covid-19 and non-communicable diseases (NCDs) in Africa: a narrative review.|https://dx.doi.org/10.4314/ahs.v23i3.48
+The practice of using repurposed medications as chemoprophylaxis for COVID-19 by healthcare workers in a tertiary hospital in Southern Nigeria.|https://dx.doi.org/10.4314/ahs.v23i3.47
+COVID-19 Testing Trend: A Retrospective Analysis of the Three Major Pandemic Waves in Punjab, Pakistan.|https://dx.doi.org/10.7759/cureus.52309

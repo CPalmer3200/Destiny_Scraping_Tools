@@ -46,3 +46,11 @@ Predictors of antibiogram performance and antibiotic resistance patterns in the 
 Endophytic fungi of Tradescantia pallida mediated targeting of Multi-Drug resistant human pathogens.|https://dx.doi.org/10.1016/j.sjbs.2024.103937
 Polyether ionophore resistance in a one health perspective.|https://dx.doi.org/10.3389/fmicb.2024.1347490
 Implementation of contact precautions for multidrug-resistant organisms in the post-COVID-19 pandemic era: An updated national Emerging Infections Network (EIN) survey.|https://dx.doi.org/10.1017/ice.2024.11
+Vancomycin-resistant Enterococcus faecium - impact of ending screening and isolation in a Danish University hospital.|https://dx.doi.org/10.1016/j.jhin.2024.01.019
+Evaluation of Continuous Infusion Vancomycin in a Pediatric Hematology/Oncology Population.|https://dx.doi.org/10.1097/INF.0000000000004278
+MATRESHCA: Microtesla Apparatus for Transfer of Resonance Enhancement of Spin Hyperpolarization via Chemical Exchange and Addition.|https://dx.doi.org/10.1021/acs.analchem.3c05233
+Development of an on-site therapeutic drug monitoring method using a portable spectrometer.|https://dx.doi.org/10.1007/s44211-024-00513-x
+Faecal microbiota transplantation for multidrug-resistant organism decolonization in spinal cord injury patients: a case series.|https://dx.doi.org/10.1016/j.infpip.2024.100340
+Cobalt-modulated dual emission carbon dots for ratiometric fluorescent vancomycin detection.|https://dx.doi.org/10.1039/d3ra08899e
+Microbiological evaluation of the indigenous fermented condiment okpeye available at various retail markets in the south-eastern region of Nigeria.|https://dx.doi.org/10.1016/j.heliyon.2024.e25493
+Impact of infectious diseases consultation for hospitalized patients with Clostridioides difficile infection.|https://dx.doi.org/10.1017/ice.2024.28
