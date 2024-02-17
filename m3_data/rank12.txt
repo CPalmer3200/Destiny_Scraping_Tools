@@ -15,3 +15,5 @@ Correlation between choroidal vascularity and retrobulbar ocular blood flow chan
 Usefulness of a new immunochromatographic assay using fluorescent silica nanoparticles for serodiagnosis of Thai patients with amebiasis.|https://dx.doi.org/10.5582/ddt.2023.01102
 Pre-fusion motion state determines the heterogeneity of membrane fusion dynamics for large dense-core vesicles.|https://dx.doi.org/10.1111/apha.14115
 Microbiota encoded fatty-acid metabolism expands tuft cells to protect tissues homeostasis during Clostridioides difficile infection in the large intestine.|https://dx.doi.org/10.1101/2024.01.29.574039
+Comparative evaluation of the detection rate, workflow and associated costs of a multiplex PCR panel versus conventional methods in diagnosis of infectious gastroenteritis.|https://dx.doi.org/10.1099/jmm.0.001795
+Effective chromium mitigation using phosphorous doped bio carbon electrode via capacitive deionisation.|https://dx.doi.org/10.1080/09593330.2024.2318669

@@ -345,3 +345,13 @@ Enhanced antimicrobial efficacy of biogenic ZnO nanoparticles through UV-B activ
 Biodegradable film based on barley sprout powder/pectin modified with quercetin and V(2)O(5) nanoparticles: Investigation of physicochemical and structural properties.|https://dx.doi.org/10.1016/j.heliyon.2024.e25448
 Defects oriented hydrothermal synthesis of TiO(2) and MnTiO(2) nanoparticles as photocatalysts for wastewater treatment and antibacterial applications.|https://dx.doi.org/10.1016/j.heliyon.2024.e25579
 ESKAPE in China: epidemiology and characteristics of antibiotic resistance.|https://dx.doi.org/10.1080/22221751.2024.2317915
+Sunlight-Driven Self-Cleaning Ultrafine Particulate Matter Filter with Antibacterial Activity.|https://dx.doi.org/10.1021/acsnano.3c11284
+Staphylococcus aureus AbcA transporter enhances persister formation under β-lactam exposure.|https://dx.doi.org/10.1128/aac.01340-23
+Lemierre-like syndrome after soft tissue infection due to methicillin-resistant Staphylococcus aureus: A case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000037006
+Characterization of a Myeloid Differentiation Factor 2-Derived Peptide that Facilitates THP-1 Macrophage-Mediated Phagocytosis of Gram-Negative Bacteria.|https://dx.doi.org/10.1021/acsinfecdis.3c00274
+Polycaprolactone composite films infused with hyperbranched polyester/reduced graphene oxide: influence on biodegradability, gas/water transport and antimicrobial properties for sustainable packaging.|https://dx.doi.org/10.1039/d3ra08948g
+Aspergillus granulosus femoral osteomyelitis in a cardiac transplant patient: first reported case and literature review.|https://dx.doi.org/10.1177/20499361241231482
+In vitro evaluation of the osteogenic and antimicrobial potential of porous wollastonite scaffolds impregnated with ethanolic extracts of propolis.|https://dx.doi.org/10.3389/fbioe.2024.1321466
+Effects of changing ions on the crystal design, non-covalent interactions, antimicrobial activity, and molecular docking of Cu(II) complexes with a pyridoxal-hydrazone ligand.|https://dx.doi.org/10.3389/fchem.2024.1347370
+Factors Related to the Development of Infective Endocarditis in Hemodialysis Patients in a Third-Level Hospital in Panama.|https://dx.doi.org/10.7759/cureus.52385
+Bridging Flocculation of a Sterically Stabilized Cationic Latex as a Biosensor for the Detection of Microbial DNA after Amplification via PCR.|https://dx.doi.org/10.1021/acs.biomac.3c01187

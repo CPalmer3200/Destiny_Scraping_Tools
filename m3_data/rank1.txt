@@ -7,3 +7,4 @@ A Systematic Literature Review on Risk Factors for and Timing of Clostridioides 
 Molecular docking, dynamics and in vitro analysis of multi-target inhibitors for Clostridioides difficile.|https://dx.doi.org/10.6026/973206300200039
 Clostridioides difficile -mucus interactions encompass shifts in gene expression, metabolism, and biofilm formation.|https://dx.doi.org/10.1101/2024.02.01.578425
 Rapid Isothermal Detection of Pathogenic Clostridioides difficile Using Recombinase Polymerase Amplification.|https://dx.doi.org/10.1021/acs.analchem.3c02985
+Pharmacomicrobiomics: Immunosuppressive Drugs and Microbiome Interactions in Transplantation.|https://dx.doi.org/10.1097/TP.0000000000004926

@@ -5,3 +5,4 @@ Methicillin-resistant Staphylococcus spp. investigation in hospitalized horses a
 Co-colonization of methicillin-resistant Staphylococcus aureus and Candida spp. in children with malignancies.|https://dx.doi.org/10.1186/s13568-024-01667-7
 Reduced Proliferative Capacity and Defense against Staphylococcus aureus in Human Nasal Mucosal Epithelium Lacking ZNF365.|https://dx.doi.org/10.1159/000536106
 In vitro photoinactivation effectiveness of a portable LED device aimed for intranasal photodisinfection and a photosensitizer formulation comprising methylene blue and potassium iodide against bacterial, fungal, and viral respiratory pathogens.|https://dx.doi.org/10.1007/s10103-024-03996-2
+Surveillance of bacterial carriage in the nose and hands of healthcare workers and patients attending maternity and children's hospital.|https://dx.doi.org/10.4103/jfmpc.jfmpc_741_23

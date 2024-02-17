@@ -307,3 +307,20 @@ Effect of White Noise Intervention Combined with Multi-dimensional Nursing Mode 
 Hepatitis C virus infection in patients undergoing surgery in a single tertiary academic center.|https://dx.doi.org/10.1111/jgh.16506
 Identification of keystone taxa in root canals and periapical lesions of post-treatment endodontic infections: Next generation microbiome research.|https://dx.doi.org/10.1111/iej.14046
 Revision Surgery for Recurrent Morton Neuroma with Use of a Collagen Conduit.|https://dx.doi.org/10.2106/JBJS.ST.22.00065
+Robotic-Assisted Laparoscopic Pyeloplasty in Challenging Cases of Ureteropelvic Junction Obstruction in the Pediatric Population: A Multicenter Review.|https://dx.doi.org/10.1089/lap.2023.0205
+Early antiretroviral therapy and its impact on natural killer cell dynamics in HIV-1 infected men who have sex with men: a cross-sectional pilot study evaluating the impact of early ART initiation on NK cell perturbation in HIV infection.|https://dx.doi.org/10.1128/spectrum.03570-23
+Optimal antiseptic skin preparation agents for minimizing surgical site infection following surgery: cost and cost-effectiveness analysis.|https://dx.doi.org/10.1093/bjsopen/zrad160
+Misdiagnosis of eosinophilic cystitis: A case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000036668
+Fully endoscopic microvascular decompression for hemifacial spasm: a clinical study and analysis.|https://dx.doi.org/10.1007/s10143-024-02311-5
+Perioperative outcomes in isolated versus multiligamentous anterior cruciate ligament reconstruction: a retrospective cohort analysis.|https://dx.doi.org/10.1007/s00590-024-03848-3
+Adverse events after surgery for injuries to the subaxial cervical spine: analysis of incidence and risk factors.|https://dx.doi.org/10.1007/s00068-024-02458-2
+Effectiveness of lumbar braces after lumbar surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00402-024-05219-3
+Complications of Cartilage Sparing Otoplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/SCS.0000000000009976
+Delayed sternal Mycobacterium tuberculosis infection after left ventricular assist device implantation: A case report.|https://dx.doi.org/10.1177/03913988241229957
+Canine distemper virus infection of vaccinal origin in a 14-week-old puppy.|https://dx.doi.org/10.1177/10406387241229436
+Experimental pneumococcal carriage in people living with HIV in Malawi: the first controlled human infection model in a key at-risk population.|https://dx.doi.org/10.12688/wellcomeopenres.19949.1
+Proximal Hamstring Repair With All-Suture Anchors and an Accelerated Rehabilitation and Bracing Protocol Demonstrates Good Outcomes at 1-Year Follow-Up.|https://dx.doi.org/10.1016/j.asmr.2024.100891
+Bone union and mobility outcomes for reconstructed open tibial fractures: a plastic surgical experience from a major trauma center.|https://dx.doi.org/10.3389/fsurg.2024.1348991
+[Imaging Evaluation of Early and Long-Term Complications Associated with the Postoperative Spine].|https://dx.doi.org/10.3348/jksr.2023.0147
+Is it possible to predict Surgical Site Infection?|https://dx.doi.org/10.4314/mmj.v35i3.9
+ACE2 and TAS2R38 receptor expression in pediatric and adult patients in the nasal and oral cavity.|https://dx.doi.org/10.1002/lio2.1207

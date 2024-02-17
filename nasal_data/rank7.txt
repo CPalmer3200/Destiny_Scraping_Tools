@@ -354,3 +354,19 @@ Reproductive health challenges of an African school girl: a case report on non-b
 Covid-19 and non-communicable diseases (NCDs) in Africa: a narrative review.|https://dx.doi.org/10.4314/ahs.v23i3.48
 The practice of using repurposed medications as chemoprophylaxis for COVID-19 by healthcare workers in a tertiary hospital in Southern Nigeria.|https://dx.doi.org/10.4314/ahs.v23i3.47
 COVID-19 Testing Trend: A Retrospective Analysis of the Three Major Pandemic Waves in Punjab, Pakistan.|https://dx.doi.org/10.7759/cureus.52309
+Health and Education Services During the COVID-19 Pandemic Among Young Children with Autism Spectrum Disorder and Other Developmental Disabilities.|https://dx.doi.org/10.1097/DBP.0000000000001227
+SARS-CoV-2 infection in brown-headed spider monkeys (Ateles fusciceps) at a wildlife rescue center on the coast of Ecuador-South America.|https://dx.doi.org/10.1128/spectrum.02741-23
+Perceptions around COVID-19 among patients and community members in urban areas in Cameroon: A qualitative perspective.|https://dx.doi.org/10.1371/journal.pgph.0001760
+An updated analysis on myocarditis and pericarditis cases reported following mRNA SARS-CoV-2 vaccination in Singapore.|https://dx.doi.org/10.4103/singaporemedj.SMJ-2023-089
+Factors That Influence Patient Satisfaction With the Service Quality of Home-Based Teleconsultation During the COVID-19 Pandemic: Cross-Sectional Survey Study.|https://dx.doi.org/10.2196/51439
+Health Economic Consequences Associated With COVID-19-Related Delay in Melanoma Diagnosis in Europe.|https://dx.doi.org/10.1001/jamanetworkopen.2023.56479
+Resistance-associated mutations to the anti-SARS-CoV-2 agent nirmatrelvir: Selection not induction.|https://dx.doi.org/10.1002/jmv.29462
+Bias in vaccine effectiveness studies of clinically severe outcomes that are measured with low specificity: the example of COVID-19-related hospitalisation.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.7.2300259
+Effectiveness of BBV152 vaccine and ChAdOx1-S vaccine in preventing severe disease among vaccinated patients admitted to a designated COVID-19 hospital in India.|https://dx.doi.org/10.7774/cevr.2024.13.1.28
+'Family members screaming for help makes it very difficult to don PPE'. A qualitative study on UK ambulance staff experiences of infection prevention and control practices during the COVID-19 pandemic.|https://dx.doi.org/10.1177/17571774231209494
+Efficacy of facemasks in preventing transmission of COVID-19 in non-healthcare settings: A scoping review.|https://dx.doi.org/10.1177/17571774231203387
+The fight against the COVID-19 crisis: What are core factors of a successful low-cost model?|https://dx.doi.org/10.1177/17571774241226588
+Discontinuation of contact precautions in patients with hospital-acquired MRSA and VRE infections during the COVID-19 pandemic: A multi-center experience.|https://dx.doi.org/10.1177/17571774231208312
+What we can and cannot learn from SARS-CoV-2 and animals in metagenomic samples from the Huanan market.|https://dx.doi.org/10.1093/ve/vead077
+Nephrogenic diabetes insipidus in a geriatric patient affected by SARS-CoV-2: complexity of a diagnosis, complexity of a virus.|https://dx.doi.org/10.1099/acmi.0.000598.v4
+The role of SARS-CoV-2 ORF7a in autophagy flux disruption: implications for viral infection and pathogenesis.|https://dx.doi.org/10.1080/15548627.2024.2312787

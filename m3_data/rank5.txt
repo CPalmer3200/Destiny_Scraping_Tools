@@ -1,2 +1,3 @@
 Re: 'The Effect of Antibiotic Therapy for Clostridioides difficile Infection on Mortality and Other Patient-Relevant Outcomes' by Stabholz et al.|https://dx.doi.org/10.1016/j.cmi.2024.01.030
 Prevalence and antimicrobial resistance of bacterial enteropathogens in Crete, Greece, during 2011-2022.|https://dx.doi.org/10.1556/030.2024.02214
+Antibacterial activity of ibezapolstat against antimicrobial-resistant clinical strains of Clostridioides difficile.|https://dx.doi.org/10.1128/aac.01621-23
