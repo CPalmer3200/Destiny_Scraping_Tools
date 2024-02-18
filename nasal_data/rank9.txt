@@ -355,3 +355,22 @@ In vitro evaluation of the osteogenic and antimicrobial potential of porous woll
 Effects of changing ions on the crystal design, non-covalent interactions, antimicrobial activity, and molecular docking of Cu(II) complexes with a pyridoxal-hydrazone ligand.|https://dx.doi.org/10.3389/fchem.2024.1347370
 Factors Related to the Development of Infective Endocarditis in Hemodialysis Patients in a Third-Level Hospital in Panama.|https://dx.doi.org/10.7759/cureus.52385
 Bridging Flocculation of a Sterically Stabilized Cationic Latex as a Biosensor for the Detection of Microbial DNA after Amplification via PCR.|https://dx.doi.org/10.1021/acs.biomac.3c01187
+Chitosan oligosaccharide/pluronic F127 micelles exhibiting anti-biofilm effect to treat bacterial keratitis.|https://dx.doi.org/10.1016/j.carbpol.2024.121818
+Green synthesis of nanocellulose supported cu-bionanocomposites and their profound applicability in the synthesis of amide derivatives and controlling of food-borne pathogens.|https://dx.doi.org/10.1016/j.carbpol.2024.121786
+Staphylococcus aureus enters viable-but-nonculturable state in response to chitooligosaccharide stress by altering metabolic pattern and transmembrane transport function.|https://dx.doi.org/10.1016/j.carbpol.2023.121772
+Sesquiterpenes and α-pyrones from an endophytic fungus Xylaria curta YSJ-5.|https://dx.doi.org/10.1016/j.phytochem.2024.114011
+Influence of dual succinylation and ultrasonication modification on the amino acid content, structural and functional properties of Chickpea (Cicer arietinum L.) protein concentrate.|https://dx.doi.org/10.1016/j.foodchem.2024.138671
+A look at staphylococci from the one health perspective.|https://dx.doi.org/10.1016/j.ijmm.2024.151604
+A Promising Plant-Based Eugenol-Loaded Nano Delivery System (EUG@CMC-PGMA-CS) for Enhanced Antibacterial and Insect Repellent Behavior.|https://dx.doi.org/10.1021/acsabm.3c01100
+Development, characterisation and evaluation of a simple polymicrobial colony biofilm model for testing of antimicrobial wound dressings.|https://dx.doi.org/10.1093/jambio/lxae042
+Multifunctional Prosthesis Surface: Modification of Titanium with Cinnamaldehyde-Loaded Hierarchical Titanium Dioxide Nanotubes.|https://dx.doi.org/10.1002/adhm.202303374
+Psoas abscess: an uncommon disorder.|https://dx.doi.org/10.1093/postmj/qgad110
+High mono-rhamnolipids production by a novel isolate Pseudomonas aeruginosa LP20 from oily sludge: characterization, optimization and potential application.|https://dx.doi.org/10.1093/lambio/ovae016
+In Staphylococcus aureus, the acyl-CoA synthetase MbcS supports branched-chain fatty acid synthesis from carboxylic acid and aldehyde precursors.|https://dx.doi.org/10.1111/mmi.15237
+Multifunctional Sandwich-Structured Super-Hygroscopic Zinc-Based MOF-Overlayed Cooling Wearables for Special Personal Thermal Management.|https://dx.doi.org/10.1002/smll.202311272
+Antibiotic resistance, biofilm formation, and molecular epidemiology of Staphylococcus aureus in a tertiary hospital in Xiangyang, China.|https://dx.doi.org/10.1007/s42770-024-01270-9
+Study of the physicochemical characteristics, antimicrobial activity, and in vitro multiplication of wild blackberry species from the Peruvian highlands.|https://dx.doi.org/10.1038/s41598-024-54058-0
+Antibacterial activities of titanium dioxide (TiO(2)) nanotube with planar titanium silver (TiAg) to prevent orthopedic implant infection.|https://dx.doi.org/10.1186/s13018-024-04596-0
+Genomic characteristics of cfr and fexA carrying Staphylococcus aureus isolated from pig carcasses in Korea.|https://dx.doi.org/10.1186/s13567-024-01278-x
+Development of propolis, hyaluronic acid, and vitamin K nano-emulsion for the treatment of second-degree burns in albino rats.|https://dx.doi.org/10.1186/s12906-024-04377-6
+Chemical composition, anticancer, antimicrobial activity of Aloysia citriodora Palau essential oils from four different locations in Palestine.|https://dx.doi.org/10.1186/s12906-024-04390-9

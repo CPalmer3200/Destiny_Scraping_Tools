@@ -3,3 +3,4 @@ Rethinking Clostridioides difficile infection (CDI) surveillance definitions bas
 Watery Diarrhea Is Not Always Clostridioides difficile: A Case Report of Aeromonas hydrophila Gastroenteritis.|https://dx.doi.org/10.7759/cureus.51940
 Many Hands, Light Work: A Partnership Approach to Reducing Clostridioides difficile Burden on an Oncology Unit.|https://dx.doi.org/10.1016/j.ajic.2024.02.002
 Epidemiology and outcomes of infections during extracorporeal membrane oxygenation in adult patients with COVID-19 ARDS- A single center study.|https://dx.doi.org/10.1016/j.ijmmb.2024.100539
+Diagnostic performance of a multiplexed gastrointestinal PCR panel for identifying diarrheal pathogens in children undergoing hematopoietic stem cell transplant.|https://dx.doi.org/10.1007/s12519-023-00776-w

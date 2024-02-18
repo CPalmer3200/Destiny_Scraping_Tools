@@ -324,3 +324,20 @@ Bone union and mobility outcomes for reconstructed open tibial fractures: a plas
 [Imaging Evaluation of Early and Long-Term Complications Associated with the Postoperative Spine].|https://dx.doi.org/10.3348/jksr.2023.0147
 Is it possible to predict Surgical Site Infection?|https://dx.doi.org/10.4314/mmj.v35i3.9
 ACE2 and TAS2R38 receptor expression in pediatric and adult patients in the nasal and oral cavity.|https://dx.doi.org/10.1002/lio2.1207
+Favorable effects of open surgery on patients with extensive skull base osteoradionecrosis through a personalized sequential approach: A case series.|https://dx.doi.org/10.1016/j.jcms.2024.01.012
+Effect of chronic heavy tobacco smoking on ankle fracture healing.|https://dx.doi.org/10.1016/j.fas.2024.02.003
+Tacrolimus-Associated Terminal Ileitis After Kidney Transplantation, Mimicking Crohn Disease: A Case Report.|https://dx.doi.org/10.1016/j.transproceed.2023.12.015
+Early corticosteroid treatment enhances recovery from SARS-CoV-2 induced loss of smell in hamster.|https://dx.doi.org/10.1016/j.bbi.2024.02.020
+Epidemiology, clinical profile, and outcomes of CSF-diversion catheter-related infections - Prospective cohort study results from a single quaternary neurosurgery referral centre.|https://dx.doi.org/10.1016/j.ijmmb.2024.100534
+Nail dystrophy for the surgeon.|https://dx.doi.org/10.1016/j.hansur.2024.101635
+Hepatic granulomas following liver transplantation: A retrospective survey, and analysis of possible microbiological etiology.|https://dx.doi.org/10.1016/j.prp.2024.155201
+An incidentally diagnosed primary pancreatic body hydatid cyst: A case report and literature review.|https://dx.doi.org/10.1016/j.ijscr.2024.109392
+Complications and management of excessive phallic turgor following gender-affirming phalloplasty.|https://dx.doi.org/10.1016/j.bjps.2024.01.020
+A case of late-onset organizing pneumonia following COVID-19 infection in a post-kidney transplant patient.|https://dx.doi.org/10.1007/s13730-023-00849-9
+Characterization of virulence factors and antimicrobial resistance in Staphylococcus spp. isolated from clinical samples.|https://dx.doi.org/10.1007/s12223-024-01148-1
+Latent infections in conversion total hip arthroplasty following internal fixation of femoral neck fractures: a systematic review and meta-analysis of diagnostic methods.|https://dx.doi.org/10.1007/s00402-024-05216-6
+Presence of SARS-CoV-2 RNA in COVID-19 survivors with post-COVID symptoms: a systematic review of the literature.|https://dx.doi.org/10.1515/cclm-2024-0036
+Fibrosis Management Algorithm in Secondary Liposculpture.|https://dx.doi.org/10.1093/asj/sjae026
+Seasonality, clinical characteristics, and outcomes of respiratory syncytial virus disease by subtype among children less than five years old, New Vaccine Surveillance Network, United States, 2016-2020.|https://dx.doi.org/10.1093/cid/ciae085
+Safety and Efficacy of Outpatient Anterior Cervical Disk Replacement (ACDR) in an Ambulatory Surgery Center Versus Hospital Setting: A 2-year Retrospective Analysis.|https://dx.doi.org/10.1097/BSD.0000000000001591
+Factors associated with prolonged respiratory virus detection from PCR of nasal specimens collected longitudinally in healthy children in a U.S. birth cohort.|https://dx.doi.org/10.1093/jpids/piae009

@@ -213,3 +213,7 @@ Three-Year Point Prevalence Survey of Antimicrobial Use in a Chinese University 
 Surgical Removal of an Orthodontic Mini-Screw Displaced Into the Lateral Pharyngeal Space: A Case Report and Review of Pertinent Literature.|https://dx.doi.org/10.7759/cureus.52343
 Rare diagnosis of an Epstein-Barr virus-positive extracavitary/solid variant of primary effusion lymphoma by duodenal endoscopic biopsy in a human immunodeficiency virus-seronegative and immunocompetent patient: A case report.|https://dx.doi.org/10.4103/ijpm.ijpm_955_22
 Etiopathogenesis, diagnostic evaluation, and management of ovarian tuberculosis: A systematic review.|https://dx.doi.org/10.4103/ijpm.ijpm_6_23
+Autoimmune hepatitis: Brighton Collaboration case definition and guidelines for data collection, analysis, and presentation of immunisation safety data.|https://dx.doi.org/10.1016/j.vaccine.2024.01.021
+A Community Guide Systematic Review: Digital HIV Pre-exposure Prophylaxis Interventions.|https://dx.doi.org/10.1016/j.amepre.2024.02.009
+Epidemiological patterns of bacterial and fungal healthcare-associated infection outbreaks in Ministry of Health hospitals in Saudi Arabia, 2020-2021.|https://dx.doi.org/10.1016/j.jiph.2024.01.016
+Complications and side effects of Wide-Awake Local Anaesthesia No Tourniquet (WALANT) in upper limb surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00264-024-06104-9

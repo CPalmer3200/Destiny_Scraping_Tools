@@ -60,3 +60,9 @@ In vitro conversion of ellagic acid to urolithin A by different gut microbiota o
 Serotype, antibiotic susceptibility and whole-genome characterization of Streptococcus pneumoniae in all age groups living in Southwest China during 2018-2022.|https://dx.doi.org/10.3389/fmicb.2024.1342839
 Discontinuation of contact precautions in patients with hospital-acquired MRSA and VRE infections during the COVID-19 pandemic: A multi-center experience.|https://dx.doi.org/10.1177/17571774231208312
 Endophthalmitis caused by Enterococcus casseliflavus: a systematic review of literature.|https://dx.doi.org/10.18683/germs.2023.1404
+Highly Efficient Solar-Light-Driven Photodegradation of Metronidazole by Nickel Hexacyanoferrate Nanocubes Showing Enhanced Catalytic Performances.|https://dx.doi.org/10.1002/smtd.202301541
+Identification of a capsular polysaccharide from Enterococcus faecium U0317 using a targeted approach to discover immunogenic carbohydrates for vaccine development.|https://dx.doi.org/10.1016/j.carbpol.2023.121731
+Impact of model-informed precision dosing in adults receiving vancomycin via continuous infusion: a randomized, controlled clinical trial.|https://dx.doi.org/10.1186/s13063-024-07965-6
+Developing an intervention package to optimise the management of vancomycin therapy using theory informed co-design.|https://dx.doi.org/10.1016/j.sapharm.2024.01.012
+Real-world utilization of ceftazidime/avibactam among inpatients in the national Veterans Affairs Healthcare System.|https://dx.doi.org/10.1093/ajhp/zxae038
+Deep eutectic solvent-based ferrofluid for highly efficient preconcentration and determination of metronidazole by vortex-assisted liquid-phase microextraction under experimental design optimization.|https://dx.doi.org/10.1016/j.talanta.2024.125705

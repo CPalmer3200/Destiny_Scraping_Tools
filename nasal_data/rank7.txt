@@ -370,3 +370,23 @@ Discontinuation of contact precautions in patients with hospital-acquired MRSA a
 What we can and cannot learn from SARS-CoV-2 and animals in metagenomic samples from the Huanan market.|https://dx.doi.org/10.1093/ve/vead077
 Nephrogenic diabetes insipidus in a geriatric patient affected by SARS-CoV-2: complexity of a diagnosis, complexity of a virus.|https://dx.doi.org/10.1099/acmi.0.000598.v4
 The role of SARS-CoV-2 ORF7a in autophagy flux disruption: implications for viral infection and pathogenesis.|https://dx.doi.org/10.1080/15548627.2024.2312787
+Identification of factors affecting student academic burnout in online education during the COVID-19 pandemic using grey Delphi and grey-DEMATEL techniques.|https://dx.doi.org/10.1038/s41598-024-53233-7
+Global prevalence of intimate partner violence during the COVID-19 pandemic among women: systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12905-023-02845-8
+The Response of the Indonesian Dental Community to the COVID-19 Pandemic.|https://dx.doi.org/10.1016/j.identj.2024.01.004
+Nudging towards COVID-19 and influenza vaccination uptake in medically at-risk children: EPIC study protocol of randomised controlled trials in Australian paediatric outpatient clinics.|https://dx.doi.org/10.1136/bmjopen-2023-076194
+People Living with HIV who have poor immune status are a key population for SARS-CoV-2 prevention.|https://dx.doi.org/10.1016/j.jinf.2024.106122
+Nightmare frequency is a risk factor for suicidal ideation during the COVID-19 pandemic.|https://dx.doi.org/10.1111/jsr.14165
+Exploring Social Work Practitioners' Perspectives on the Contributors to Burnout since the COVID-19 Pandemic.|https://dx.doi.org/10.1093/sw/swae005
+Covid-19 vaccination coverage and associated factors among older hypertensive patients in Hangzhou, China.|https://dx.doi.org/10.1093/inthealth/ihae019
+Congenital anomalies and predisposition to severe COVID-19 among pediatric patients in the United States.|https://dx.doi.org/10.1038/s41390-024-03076-9
+Natural course of post-COVID symptoms in adults and children.|https://dx.doi.org/10.1038/s41598-024-54397-y
+The impact of the first and the second wave of the COVID-19 pandemic on vascular surgery practice in the leading regional center: a comparative, retrospective study.|https://dx.doi.org/10.1186/s40001-024-01720-y
+Bedtime procrastination related to loneliness among Chinese university students during post-pandemic period: a moderated chain mediation model.|https://dx.doi.org/10.1186/s12889-024-18019-6
+SARS-CoV-2 reinfection with Omicron variant in Shaanxi Province, China: December 2022 to February 2023.|https://dx.doi.org/10.1186/s12889-024-17902-6
+A qualitative study examining the impact of COVID-19 on capacity for sustainability of tobacco control programs.|https://dx.doi.org/10.1186/s12913-024-10633-9
+Immunogenicity and safety of a SARS-CoV-2 mRNA vaccine (SYS6006) in healthy Chinese participants: A randomized, observer-blinded, placebo-controlled phase 2 clinical trial.|https://dx.doi.org/10.1016/j.vaccine.2024.01.098
+Vaccine effectiveness against COVID-19: A test negative case-control study in Tunisia, August 2021.|https://dx.doi.org/10.1016/j.vaccine.2024.02.028
+Risk of SARS-CoV-2 breakthrough infection following NVX-CoV2373 and BNT162b2 vaccinations in Korean Adults: A population-based observational study.|https://dx.doi.org/10.1016/j.vaccine.2024.02.021
+COVID-19 vaccine perspectives and uptake among university students three years into the pandemic.|https://dx.doi.org/10.1016/j.vaccine.2024.02.015
+Comparative analysis of asymptomatic infection prevalence in beta, delta, and omicron surges of COVID-19.|https://dx.doi.org/10.1016/j.bjid.2024.103724
+Assessing the temporal and cause-effect relationship between myocarditis and mRNA COVID-19 vaccines. A retrospective observational study.|https://dx.doi.org/10.1016/j.ijid.2024.02.003

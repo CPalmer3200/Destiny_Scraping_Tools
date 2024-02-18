@@ -17,3 +17,4 @@ Pre-fusion motion state determines the heterogeneity of membrane fusion dynamics
 Microbiota encoded fatty-acid metabolism expands tuft cells to protect tissues homeostasis during Clostridioides difficile infection in the large intestine.|https://dx.doi.org/10.1101/2024.01.29.574039
 Comparative evaluation of the detection rate, workflow and associated costs of a multiplex PCR panel versus conventional methods in diagnosis of infectious gastroenteritis.|https://dx.doi.org/10.1099/jmm.0.001795
 Effective chromium mitigation using phosphorous doped bio carbon electrode via capacitive deionisation.|https://dx.doi.org/10.1080/09593330.2024.2318669
+Analysis of risk factors for depression and anxiety related to the degree of asthma control in children according to gender.|https://dx.doi.org/10.1016/j.arcped.2023.09.017
