@@ -390,3 +390,9 @@ Risk of SARS-CoV-2 breakthrough infection following NVX-CoV2373 and BNT162b2 vac
 COVID-19 vaccine perspectives and uptake among university students three years into the pandemic.|https://dx.doi.org/10.1016/j.vaccine.2024.02.015
 Comparative analysis of asymptomatic infection prevalence in beta, delta, and omicron surges of COVID-19.|https://dx.doi.org/10.1016/j.bjid.2024.103724
 Assessing the temporal and cause-effect relationship between myocarditis and mRNA COVID-19 vaccines. A retrospective observational study.|https://dx.doi.org/10.1016/j.ijid.2024.02.003
+Development of a novel dynamic nosocomial infection risk management method for COVID-19 in outpatient settings.|https://dx.doi.org/10.1186/s12879-024-09058-w
+Comparison of the inward leakage rate between N95 filtering facepiece respirators and modified surgical masks during the COVID-19 pandemic.|https://dx.doi.org/10.1265/ehpm.23-00303
+Frailty and health-related quality of life among older people living with HIV pre- and post-COVID-19 pandemic onset: A cross-sectional study.|https://dx.doi.org/10.1016/j.bjid.2024.103723
+Long-Term Effectiveness and Durability of COVID-19 Vaccination among Patients with Inflammatory Bowel Disease.|https://dx.doi.org/10.1016/j.cgh.2024.02.001
+What is the specific role of schools and daycares in COVID-19 transmission? A final report from a living rapid review.|https://dx.doi.org/10.1016/S2352-4642(23)00312-7
+Help-Seeking Preferences and Influencing Factors Among Chinese Nurses Exposed to COVID-19: A Person-Centered Approach.|https://dx.doi.org/10.1080/07370016.2024.2314076

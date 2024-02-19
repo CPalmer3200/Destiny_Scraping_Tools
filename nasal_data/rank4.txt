@@ -217,3 +217,5 @@ Autoimmune hepatitis: Brighton Collaboration case definition and guidelines for 
 A Community Guide Systematic Review: Digital HIV Pre-exposure Prophylaxis Interventions.|https://dx.doi.org/10.1016/j.amepre.2024.02.009
 Epidemiological patterns of bacterial and fungal healthcare-associated infection outbreaks in Ministry of Health hospitals in Saudi Arabia, 2020-2021.|https://dx.doi.org/10.1016/j.jiph.2024.01.016
 Complications and side effects of Wide-Awake Local Anaesthesia No Tourniquet (WALANT) in upper limb surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00264-024-06104-9
+MOTIVATIONS FOR INVESTIGATING HEALTH INEQUITIES IN OBSERVATIONAL EPIDEMIOLOGY: A CONTENT ANALYSIS OF 320 STUDIES.|https://dx.doi.org/10.1016/j.jclinepi.2024.111283
+Insights from an advisory board: Facilitating transition of care into adulthood in brain cancer survivors with acquired pediatric growth hormone deficiency.|https://dx.doi.org/10.1016/j.ghir.2024.101573

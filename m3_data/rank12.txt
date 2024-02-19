@@ -18,3 +18,4 @@ Microbiota encoded fatty-acid metabolism expands tuft cells to protect tissues h
 Comparative evaluation of the detection rate, workflow and associated costs of a multiplex PCR panel versus conventional methods in diagnosis of infectious gastroenteritis.|https://dx.doi.org/10.1099/jmm.0.001795
 Effective chromium mitigation using phosphorous doped bio carbon electrode via capacitive deionisation.|https://dx.doi.org/10.1080/09593330.2024.2318669
 Analysis of risk factors for depression and anxiety related to the degree of asthma control in children according to gender.|https://dx.doi.org/10.1016/j.arcped.2023.09.017
+Lower serum ferritin levels are associated with worse cognitive performance in aging.|https://dx.doi.org/10.1016/j.jnha.2024.100190

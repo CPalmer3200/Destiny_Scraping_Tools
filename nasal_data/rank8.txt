@@ -341,3 +341,10 @@ Fibrosis Management Algorithm in Secondary Liposculpture.|https://dx.doi.org/10.
 Seasonality, clinical characteristics, and outcomes of respiratory syncytial virus disease by subtype among children less than five years old, New Vaccine Surveillance Network, United States, 2016-2020.|https://dx.doi.org/10.1093/cid/ciae085
 Safety and Efficacy of Outpatient Anterior Cervical Disk Replacement (ACDR) in an Ambulatory Surgery Center Versus Hospital Setting: A 2-year Retrospective Analysis.|https://dx.doi.org/10.1097/BSD.0000000000001591
 Factors associated with prolonged respiratory virus detection from PCR of nasal specimens collected longitudinally in healthy children in a U.S. birth cohort.|https://dx.doi.org/10.1093/jpids/piae009
+Relationship Between Types of Warming Devices and Surgical Site Infection in Patients Who Underwent Posterior Fusion Surgery Based on National Data.|https://dx.doi.org/10.14245/ns.2346846.423
+Female bladder dysfunction following Boari bladder flap ureteral reconstruction.|https://dx.doi.org/10.1016/j.urology.2024.01.020
+Early Enteral Nutrition versus Early Supplemental Parenteral Nutrition in Patients Undergoing Major Abdominal Surgery: A Secondary Analysis of Two Randomized Clinical Trials.|https://dx.doi.org/10.1016/j.ajcnut.2024.02.006
+Epidemiology and prevention of surgical site infection in Japan.|https://dx.doi.org/10.1016/j.jhin.2023.10.027
+Suppressive antibiotic therapy for infectious endocarditis.|https://dx.doi.org/10.1016/j.idnow.2024.104867
+Transjugular intrahepatic portosystemic shunt followed by splenectomy for complicated hepatosplenic schistosomiasis: a case report and review of the literature.|https://dx.doi.org/10.1016/S1473-3099(23)00689-8
+Ancient schwannoma of the thoracic spine treated with vertebroplasty: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109273

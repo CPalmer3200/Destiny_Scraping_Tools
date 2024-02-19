@@ -374,3 +374,8 @@ Antibacterial activities of titanium dioxide (TiO(2)) nanotube with planar titan
 Genomic characteristics of cfr and fexA carrying Staphylococcus aureus isolated from pig carcasses in Korea.|https://dx.doi.org/10.1186/s13567-024-01278-x
 Development of propolis, hyaluronic acid, and vitamin K nano-emulsion for the treatment of second-degree burns in albino rats.|https://dx.doi.org/10.1186/s12906-024-04377-6
 Chemical composition, anticancer, antimicrobial activity of Aloysia citriodora Palau essential oils from four different locations in Palestine.|https://dx.doi.org/10.1186/s12906-024-04390-9
+Optimized 3D printed zirconia-reinforced leucite with antibacterial coating for dental applications.|https://dx.doi.org/10.1016/j.dental.2024.02.021
+Gelatin/O-carboxymethyl chitosan injectable self-healing hydrogels for ibuprofen and naproxen dual release.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130266
+Amikacin sulphate loaded chitosan-diopside nanoparticles composite scaffold for infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130217
+Nitric oxide-releasing multifunctional catechol-modified chitosan/oxidized dextran hydrogel with antibacterial, antioxidant, and pro-angiogenic properties for MRSA-infected diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130225
+Manure application amplified the co-selection of quaternary ammonium disinfectant and antibiotic on soil antibiotic resistome.|https://dx.doi.org/10.1016/j.jhazmat.2024.133792
