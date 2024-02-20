@@ -219,3 +219,9 @@ Epidemiological patterns of bacterial and fungal healthcare-associated infection
 Complications and side effects of Wide-Awake Local Anaesthesia No Tourniquet (WALANT) in upper limb surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00264-024-06104-9
 MOTIVATIONS FOR INVESTIGATING HEALTH INEQUITIES IN OBSERVATIONAL EPIDEMIOLOGY: A CONTENT ANALYSIS OF 320 STUDIES.|https://dx.doi.org/10.1016/j.jclinepi.2024.111283
 Insights from an advisory board: Facilitating transition of care into adulthood in brain cancer survivors with acquired pediatric growth hormone deficiency.|https://dx.doi.org/10.1016/j.ghir.2024.101573
+Can the Malnutrition Universal Screening Tool (MUST) Predict Healing Complications Following Microvascular Reconstruction of the Head and Neck?|https://dx.doi.org/10.1177/19433875231160346
+Clinical Outcomes of Intravesical Prostatic Protrusion in Patients With Benign Prostatic Hyperplasia.|https://dx.doi.org/10.7759/cureus.52541
+High-Pressure Injection Damage Caused by a High-Pressure Washer.|https://dx.doi.org/10.7759/cureus.52498
+Impact of nutrition on skin wound healing and aesthetic outcomes: A comprehensive narrative review.|https://dx.doi.org/10.1016/j.jpra.2024.01.006
+Anterolateral Lingual Abscess in a Young Adult: A Comprehensive Case Study.|https://dx.doi.org/10.1177/01455613241233922
+Impact of the COVID-19 pandemic on breast cancer pathological stage at diagnosis in Tunisian patients.|https://dx.doi.org/10.3233/BD-230051

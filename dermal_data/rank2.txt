@@ -16,3 +16,5 @@ Commonly associated aerobic microbial pathogens and their antibiotic susceptibil
 Awareness of Diabetic Patients in the Qassim Region About Diabetic Foot and Its Complications.|https://dx.doi.org/10.7759/cureus.52306
 Epidemiology of Pseudomonas aeruginosa in diabetic foot infections: a global systematic review and meta-analysis.|https://dx.doi.org/10.18683/germs.2023.1406
 Chemical constituents from Agave applanata and its anti-hyperglycemic, anti-inflammatory and antimicrobial activities associated to its tissue repair capability.|https://dx.doi.org/10.1055/a-2270-5527
+Antimicrobial and Anti-Biofilm Activities of Coffea arabica L. Against the Clinical Strains Isolated From Diabetic Foot Ulcers.|https://dx.doi.org/10.7759/cureus.52539
+Are Biodegradable Calcium Sulfate Antibiotic Beads Effective and Safe Adjuvants for Diabetic Foot Osteomyelitis?|https://dx.doi.org/10.7759/cureus.52444

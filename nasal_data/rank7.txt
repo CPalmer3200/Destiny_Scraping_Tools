@@ -396,3 +396,23 @@ Frailty and health-related quality of life among older people living with HIV pr
 Long-Term Effectiveness and Durability of COVID-19 Vaccination among Patients with Inflammatory Bowel Disease.|https://dx.doi.org/10.1016/j.cgh.2024.02.001
 What is the specific role of schools and daycares in COVID-19 transmission? A final report from a living rapid review.|https://dx.doi.org/10.1016/S2352-4642(23)00312-7
 Help-Seeking Preferences and Influencing Factors Among Chinese Nurses Exposed to COVID-19: A Person-Centered Approach.|https://dx.doi.org/10.1080/07370016.2024.2314076
+Use, failure, and non-compliance of respiratory personal protective equipment and risk of upper respiratory tract infections-A longitudinal repeated measurement study during the COVID-19 pandemic among healthcare workers in Denmark.|https://dx.doi.org/10.1093/annweh/wxae008
+Efficacy of behavioral interventions to increase engagement in sexual health services among LatinX youth in the United States: A meta-analysis for post-pandemic implications.|https://dx.doi.org/10.1515/ijamh-2022-0113
+Durability of Protection Against COVID-19 Through the Delta Surge for the NVX-CoV2373 Vaccine.|https://dx.doi.org/10.1093/cid/ciae081
+Excess Mortality During 2020 in Spain: The Most Affected Population, Age, and Educational Group by the COVID-19 Pandemic.|https://dx.doi.org/10.1017/dmp.2024.17
+SARS-CoV-2 vaccine acceptance among caregivers of children younger than five years of age: A cross-sectional survey in Toronto.|https://dx.doi.org/10.14745/ccdr.v49i04a05
+Challenges associated with coronavirus disease (COVID-19)-related self-quarantine in Ghana: lessons for future self-quarantine interventions.|https://dx.doi.org/10.11604/pamj.2024.47.5.41064
+Health and safety in hair salons during the Covid-19 situation: A cross-sectional study in a semi-urban district in Thailand.|https://dx.doi.org/10.1016/j.puhip.2024.100472
+Differences in Report of Post-COVID Conditions Among Adults Tested for SARS-CoV-2 by Race and Ethnicity: 2022 Porter Novelli SummerStyles Survey, U.S.|https://dx.doi.org/10.1016/j.focus.2023.100181
+Serological screening in a large-scale municipal survey in Cascais, Portugal, during the first waves of the COVID-19 pandemic: lessons for future pandemic preparedness efforts.|https://dx.doi.org/10.3389/fpubh.2024.1326125
+Epidemiology, Clinical Profile, and Analysis of Risk Factors in COVID Associated Rhino-orbito-cerebral Mucormycosis Patients - An Observational Study.|https://dx.doi.org/10.4103/ijem.ijem_372_22
+Recurrent Spontaneous Pneumothorax in a Young Male With Duchenne Muscular Dystrophy Following COVID-19 Infection.|https://dx.doi.org/10.7759/cureus.52408
+COVID-19 Vaccination Rates and Predictors of Uptake Among Adults With Coronary Heart Disease: Insight From the 2022 National Health Interview Survey.|https://dx.doi.org/10.7759/cureus.52480
+The Factors Associated With COVID-19 Infection Among Healthcare Workers at a Tertiary Care Institution in North India: A Case-Control Study.|https://dx.doi.org/10.7759/cureus.52475
+Relapse of COVID-19 and Viral Evolution in a Patient With Good Syndrome: A Case Report.|https://dx.doi.org/10.7759/cureus.52592
+Assessment of COVID-19 Morbidity and Mortality Among Patients With Autoimmune Diseases at King Abdulaziz University Hospital.|https://dx.doi.org/10.7759/cureus.52492
+Homebound older adults who live independently in rural Japan: Prevalence and contributing factors during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.pmedr.2024.102640
+Impact of community health workers on diabetes management in an urban United States Community with high diabetes burden through the COVID pandemic.|https://dx.doi.org/10.1016/j.pmedr.2024.102645
+Gap in protective behaviors between Han and minority ethnicities during COVID-19 pandemic in rural western China: A decomposition analysis.|https://dx.doi.org/10.1016/j.pmedr.2024.102617
+Attitudes toward the use of facemasks during the COVID-19 pandemic in the Indian community.|https://dx.doi.org/10.4103/ipj.ipj_201_23
+The effect of the COVID-19 pandemic and lockdown on the psychosocial health of medical students.|https://dx.doi.org/10.4103/ipj.ipj_221_23

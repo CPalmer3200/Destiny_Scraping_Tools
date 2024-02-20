@@ -24,3 +24,5 @@ Hydrogels based on lignin extracted from cashew apple bagasse and its applicatio
 Gelatin/O-carboxymethyl chitosan injectable self-healing hydrogels for ibuprofen and naproxen dual release.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130266
 Amikacin sulphate loaded chitosan-diopside nanoparticles composite scaffold for infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130217
 Nitric oxide-releasing multifunctional catechol-modified chitosan/oxidized dextran hydrogel with antibacterial, antioxidant, and pro-angiogenic properties for MRSA-infected diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130225
+Wearable Magnetoelectric Stimulation for Chronic Wound Healing by Electrospun CoFe(2)O(4)@CTAB/PVDF Dressings.|https://dx.doi.org/10.1021/acsami.3c17963
+Fabrication of Bilayer Nanofibrous-Hydrogel Scaffold from Bacterial Cellulose, PVA, and Gelatin as Advanced Dressing for Wound Healing and Soft Tissue Engineering.|https://dx.doi.org/10.1021/acsomega.3c06613

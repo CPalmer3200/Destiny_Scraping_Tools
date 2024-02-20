@@ -9,3 +9,4 @@ Clostridioides difficile -mucus interactions encompass shifts in gene expression
 Rapid Isothermal Detection of Pathogenic Clostridioides difficile Using Recombinase Polymerase Amplification.|https://dx.doi.org/10.1021/acs.analchem.3c02985
 Pharmacomicrobiomics: Immunosuppressive Drugs and Microbiome Interactions in Transplantation.|https://dx.doi.org/10.1097/TP.0000000000004926
 Estimating excess mortality and economic burden of Clostridioides difficile infections and recurrences during 2015-2019: The RECUR England study.|https://dx.doi.org/10.1016/j.ijid.2024.02.010
+Metagenomic, metabolomic, and lipidomic shifts associated with fecal microbiota transplantation for recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1101/2024.02.07.579219

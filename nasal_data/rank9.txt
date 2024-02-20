@@ -379,3 +379,19 @@ Gelatin/O-carboxymethyl chitosan injectable self-healing hydrogels for ibuprofen
 Amikacin sulphate loaded chitosan-diopside nanoparticles composite scaffold for infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130217
 Nitric oxide-releasing multifunctional catechol-modified chitosan/oxidized dextran hydrogel with antibacterial, antioxidant, and pro-angiogenic properties for MRSA-infected diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130225
 Manure application amplified the co-selection of quaternary ammonium disinfectant and antibiotic on soil antibiotic resistome.|https://dx.doi.org/10.1016/j.jhazmat.2024.133792
+Tracing the Antibacterial Performance of Bis-Imidazolium-based Ionic Liquid Derivatives.|https://dx.doi.org/10.1021/acsabm.3c01040
+Total Synthesis and Antibacterial Evaluation of Lupinifolin and Its Natural Analogues.|https://dx.doi.org/10.1021/acs.jnatprod.4c00008
+Denture Adhesives Associated with Silver Vanadate: Antimicrobial Approach Against Multi- Species Biofilms on Acrylic Resin Surfaces.|https://dx.doi.org/10.1922/EJPRD_2640deCastro09
+Antimicrobial photodynamic therapy with Brazilian green propolis controls intradermal infection induced by methicillin-resistant Staphylococcus aureus and modulates the inflammatory response in a murine model.|https://dx.doi.org/10.1007/s43630-024-00539-0
+Wearable Magnetoelectric Stimulation for Chronic Wound Healing by Electrospun CoFe(2)O(4)@CTAB/PVDF Dressings.|https://dx.doi.org/10.1021/acsami.3c17963
+Chemical Composition, Antioxidant, and Antibacterial Activity of Ruta chalepensis L. Ethanolic Extract.|https://dx.doi.org/10.1002/cbdv.202400026
+Stability, biofunctional, and antimicrobial characteristics of cannabidiol isolate for the design of topical formulations.|https://dx.doi.org/10.1039/d3sm01466e
+Enhancement of antibacterial and UV protection properties of blended wool/acrylic and silk fabrics by dyeing with the extract of Mimusops elengi leaves and metal salts.|https://dx.doi.org/10.1016/j.heliyon.2024.e25273
+Co-Delivery of Naringin and Ciprofloxacin by Oleic Acid Lipid Core Encapsulated in Carboxymethyl Chitosan/Alginate Nanoparticle Composite for Enhanced Antimicrobial Activity.|https://dx.doi.org/10.1021/acsomega.3c08200
+Development of a Near-Zero-Waste Valorization Concept for Waste NdFeB Magnets: Production of Antimicrobial Fe Alginate Beads via Adsorption and Recovery of High-Purity Rare-Earth Elements.|https://dx.doi.org/10.1021/acsomega.3c06178
+Fabrication of Bilayer Nanofibrous-Hydrogel Scaffold from Bacterial Cellulose, PVA, and Gelatin as Advanced Dressing for Wound Healing and Soft Tissue Engineering.|https://dx.doi.org/10.1021/acsomega.3c06613
+Assessment of the Effectiveness of Ultrasound-Guided Needle Aspiration of Lactating Breast Abscesses.|https://dx.doi.org/10.2147/IJGM.S449432
+Resistome, mobilome, and virulome explored in clinical isolates derived from acne patients in Egypt: unveiling unique traits of an emerging coagulase-negative Staphylococcus pathogen.|https://dx.doi.org/10.3389/fcimb.2024.1328390
+Cross-sectional analysis of risk factors associated with Mugil cephalus in retail fish markets concerning methicillin-resistant Staphylococcus aureus and Aeromonas hydrophila.|https://dx.doi.org/10.3389/fcimb.2024.1348973
+Antimicrobial and Anti-Biofilm Activities of Coffea arabica L. Against the Clinical Strains Isolated From Diabetic Foot Ulcers.|https://dx.doi.org/10.7759/cureus.52539
+Androgens at the skin surface regulate S. aureus pathogenesis through the activation of agr quorum sensing.|https://dx.doi.org/10.1101/2024.02.10.579753

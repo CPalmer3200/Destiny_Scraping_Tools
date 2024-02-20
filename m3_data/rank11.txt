@@ -66,3 +66,8 @@ Impact of model-informed precision dosing in adults receiving vancomycin via con
 Developing an intervention package to optimise the management of vancomycin therapy using theory informed co-design.|https://dx.doi.org/10.1016/j.sapharm.2024.01.012
 Real-world utilization of ceftazidime/avibactam among inpatients in the national Veterans Affairs Healthcare System.|https://dx.doi.org/10.1093/ajhp/zxae038
 Deep eutectic solvent-based ferrofluid for highly efficient preconcentration and determination of metronidazole by vortex-assisted liquid-phase microextraction under experimental design optimization.|https://dx.doi.org/10.1016/j.talanta.2024.125705
+Risk factors and outcome associated with the acquisition of MDR linezolid-resistant Enterococcus faecium: a report from tertiary care centre.|https://dx.doi.org/10.1007/s10096-024-04784-0
+Corrigendum: Tranexamic acid in combination with vancomycin or gentamicin has a synergistic effect against staphylococci.|https://dx.doi.org/10.3389/fmicb.2024.1355087
+Near-infrared light responsive gold nanoparticles coating endows polyetheretherketone with enhanced osseointegration and antibacterial properties.|https://dx.doi.org/10.1016/j.mtbio.2024.100982
+A hope for ineffective antibiotics to return to treatment: investigating the anti-biofilm potential of melittin alone and in combination with penicillin and oxacillin against multidrug resistant-MRSA and -VRSA.|https://dx.doi.org/10.3389/fmicb.2023.1269392
+Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome secondary to antimicrobial therapy in pediatric bone and joint infections.|https://dx.doi.org/10.1016/j.waojou.2023.100850

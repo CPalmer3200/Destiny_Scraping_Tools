@@ -348,3 +348,17 @@ Epidemiology and prevention of surgical site infection in Japan.|https://dx.doi.
 Suppressive antibiotic therapy for infectious endocarditis.|https://dx.doi.org/10.1016/j.idnow.2024.104867
 Transjugular intrahepatic portosystemic shunt followed by splenectomy for complicated hepatosplenic schistosomiasis: a case report and review of the literature.|https://dx.doi.org/10.1016/S1473-3099(23)00689-8
 Ancient schwannoma of the thoracic spine treated with vertebroplasty: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109273
+Human papillomavirus genotyping in high-grade vaginal intraepithelial neoplasia: A multicentric Italian study.|https://dx.doi.org/10.1002/jmv.29474
+Stellate cell-specific adhesion molecule protocadherin 7 regulates sinusoidal contraction.|https://dx.doi.org/10.1097/HEP.0000000000000782
+A comparative study in elective repair of large incisional hernias using on-lay mesh vs. sub-lay mesh: a meta-analysis.|https://dx.doi.org/10.1007/s13304-024-01755-0
+Abdominal Wall Tension and Early Outcomes after Posterior Component Separation with Transversus Abdominis Release: Does a "Tension-Free" Closure Really Matter?|https://dx.doi.org/10.1097/XCS.0000000000001049
+Trends in prevalence and complications for smokers who underwent total hip arthroplasty from 2011 to 2019: an analysis of 243,163 patients.|https://dx.doi.org/10.1177/11207000241230272
+Impact of penicillin allergy labels on surgical site infections in a large UK cohort of gastrointestinal surgery patients.|https://dx.doi.org/10.1093/jacamr/dlae022
+Decreased Effective Patellar Tendon Length following Distalization Tibial Tubercle Osteotomy without Patellar Tendon Tenodesis.|https://dx.doi.org/10.1177/23259671241227201
+Epidemiological differences, clinical aspects, and short-term prognosis of patients with healthcare-associated and community-acquired infective endocarditis.|https://dx.doi.org/10.1016/j.infpip.2024.100343
+A young woman with atypical McCune-Albright syndrome and the difficult road to recovery: a case report.|https://dx.doi.org/10.3389/fsurg.2024.1326977
+Inferring the diagnostic potential of 18F-FDG-PET/CT in post-renal transplantation from a unique case harboring multiple rare complications.|https://dx.doi.org/10.3389/fmed.2024.1353466
+Partial Splenectomy and Splenic Wrapping for a High-Grade Splenic Injury: A Case Report.|https://dx.doi.org/10.7759/cureus.54372
+Horrifying Basal Cell Carcinoma Presenting as Progressive Pyoderma Gangrenosum: Case Report.|https://dx.doi.org/10.1159/000536445
+Surgical Strategies for Ingrown Toenails: A Comprehensive Review of Techniques, Outcomes, and Advancements.|https://dx.doi.org/10.7759/cureus.52501
+Chronic Steroid Use Does Not Increase the Risk of Superficial Surgical Site Infection or Wound Dehiscence Following Total Ankle Arthroplasty.|https://dx.doi.org/10.7759/cureus.52569

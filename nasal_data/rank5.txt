@@ -23,3 +23,4 @@ Application of TiLOOP bra in implant-based breast reconstruction is associated w
 Response to the editor: "Perioperative oral care can prevent surgical site infection after colorectal cancer surgery: a multicenter, retrospective study of 1,926 cases analyzed by propensity score matching".|https://dx.doi.org/10.1016/j.surg.2024.01.006
 Microbiologic Profile of Nipple Swab Culture and its Association With Postoperative Complications in Prosthetic Breast Reconstruction.|https://dx.doi.org/10.1093/asj/sjae021
 Abdominal donor-site complications following autologous breast reconstruction: A multi-institutional multisurgeon study.|https://dx.doi.org/10.1016/j.bjps.2024.01.033
+A Case of Thoracic Empyema Caused by Actinomyces naeslundii.|https://dx.doi.org/10.12659/AJCR.943030

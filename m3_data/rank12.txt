@@ -19,3 +19,6 @@ Comparative evaluation of the detection rate, workflow and associated costs of a
 Effective chromium mitigation using phosphorous doped bio carbon electrode via capacitive deionisation.|https://dx.doi.org/10.1080/09593330.2024.2318669
 Analysis of risk factors for depression and anxiety related to the degree of asthma control in children according to gender.|https://dx.doi.org/10.1016/j.arcped.2023.09.017
 Lower serum ferritin levels are associated with worse cognitive performance in aging.|https://dx.doi.org/10.1016/j.jnha.2024.100190
+Impact of penicillin allergy labels on surgical site infections in a large UK cohort of gastrointestinal surgery patients.|https://dx.doi.org/10.1093/jacamr/dlae022
+Decreased Effective Patellar Tendon Length following Distalization Tibial Tubercle Osteotomy without Patellar Tendon Tenodesis.|https://dx.doi.org/10.1177/23259671241227201
+Polynucleotides HPT for Asian Skin Regeneration and Rejuvenation.|https://dx.doi.org/10.2147/CCID.S437942

@@ -4,3 +4,4 @@ Staphylococcus aureus exacerbates dermal IL-33-ILC2 axis activation through evok
 Co-occurrence network analysis reveals the alterations of the skin microbiome and metabolome in adults with mild to moderate atopic dermatitis.|https://dx.doi.org/10.1128/msystems.01119-23
 Bleach suit for atopic dermatitis.|https://dx.doi.org/10.1111/pde.15561
 Constant Vigilance! Managing Threats to the Skin Barrier.|https://dx.doi.org/10.1016/j.anai.2024.02.004
+Association Between Staphylococcus Aureus Colonization and Pediatric Atopic Dermatitis: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.4103/ijd.ijd_453_22
