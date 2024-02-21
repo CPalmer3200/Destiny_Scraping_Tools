@@ -362,3 +362,19 @@ Partial Splenectomy and Splenic Wrapping for a High-Grade Splenic Injury: A Case
 Horrifying Basal Cell Carcinoma Presenting as Progressive Pyoderma Gangrenosum: Case Report.|https://dx.doi.org/10.1159/000536445
 Surgical Strategies for Ingrown Toenails: A Comprehensive Review of Techniques, Outcomes, and Advancements.|https://dx.doi.org/10.7759/cureus.52501
 Chronic Steroid Use Does Not Increase the Risk of Superficial Surgical Site Infection or Wound Dehiscence Following Total Ankle Arthroplasty.|https://dx.doi.org/10.7759/cureus.52569
+Characterizing the association between CSF biomarkers and risk for ventriculoperitoneal shunt following posterior fossa tumor resection in a case-control study.|https://dx.doi.org/10.1016/j.clineuro.2024.108169
+Mismatch rate of empirical antimicrobial treatment in fracture-related infections.|https://dx.doi.org/10.1097/BOT.0000000000002782
+Beyond Endoscopes: Pilot Study of Surgical Instrument Lumen Inspection.|https://dx.doi.org/10.2345/0899-8205-58.1.25
+Amino acid 138 in the HA of a H3N2 subtype influenza A virus increases affinity for the lower respiratory tract and alveolar macrophages in pigs.|https://dx.doi.org/10.1371/journal.ppat.1012026
+Seawater nasal wash to reduce symptom duration and viral load in COVID-19 and upper respiratory tract infections: a randomized controlled multicenter trial.|https://dx.doi.org/10.1007/s00405-024-08518-y
+Psoriasis Is a Risk Factor for Surgical Site Infection After Primary TKA.|https://dx.doi.org/10.1097/CORR.0000000000003011
+Predisposing Factors for Postoperative Complications in the Year Following Fronto-Orbital Advancement and Remodeling: A Single Institution Study of 267 Patients.|https://dx.doi.org/10.1097/PRS.0000000000011364
+The Impact of Preoperative Spinal Injection Timing on Postoperative Complications of Lumbar Decompression Surgery.|https://dx.doi.org/10.1227/neu.0000000000002857
+Ultrasound Mediated Polymerization for Cell Delivery, Drug Delivery, and 3D Printing.|https://dx.doi.org/10.1002/smtd.202301197
+A systematic review of the operative techniques for treating cubitus varus deformity in children.|https://dx.doi.org/10.1097/BPB.0000000000001167
+Urinary tract infections in pediatric orthopedic surgical patients: a Single Institution National Surgical Quality Improvement Program Study.|https://dx.doi.org/10.1097/BPB.0000000000001156
+Conservative versus surgical treatment of Gartland type II supracondylar humeral fractures in children.|https://dx.doi.org/10.1097/BPB.0000000000001170
+Complication Rates Following Adult Spinal Deformity Surgery: Evaluation of the Category of Complication and Chronology.|https://dx.doi.org/10.1097/BRS.0000000000004969
+Suppurative Meningitis Complicated with Arthritis Caused by Streptococcus Suis Infection: A Case Report.|https://dx.doi.org/10.2147/IDR.S416341
+Management of Refractory Post-operative Osteomyelitis and Discitis: A Case Report.|https://dx.doi.org/10.7759/cureus.52620
+Reversal of stoma with biosynthetic mesh fascial reinforcement: a systematic review and meta-analysis.|https://dx.doi.org/10.1111/codi.16913

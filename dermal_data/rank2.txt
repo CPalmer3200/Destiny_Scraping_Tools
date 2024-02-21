@@ -18,3 +18,8 @@ Epidemiology of Pseudomonas aeruginosa in diabetic foot infections: a global sys
 Chemical constituents from Agave applanata and its anti-hyperglycemic, anti-inflammatory and antimicrobial activities associated to its tissue repair capability.|https://dx.doi.org/10.1055/a-2270-5527
 Antimicrobial and Anti-Biofilm Activities of Coffea arabica L. Against the Clinical Strains Isolated From Diabetic Foot Ulcers.|https://dx.doi.org/10.7759/cureus.52539
 Are Biodegradable Calcium Sulfate Antibiotic Beads Effective and Safe Adjuvants for Diabetic Foot Osteomyelitis?|https://dx.doi.org/10.7759/cureus.52444
+Enhancing diabetic wound healing: advances in electrospun scaffolds from pathogenesis to therapeutic applications.|https://dx.doi.org/10.3389/fbioe.2024.1354286
+Effectiveness and safety of dermal matrix used for diabetic foot ulcer: a systematic review and meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1186/s12902-024-01550-3
+Effectiveness of Ya-Samarn-Phlae in diabetic wound healing: Evidence from in vitro studies and a multicenter randomized controlled clinical trial.|https://dx.doi.org/10.1016/j.jep.2024.117929
+Bacteriophage Therapy and Current Delivery Strategies for Orthopedic Infections: A SCOPING Review.|https://dx.doi.org/10.1016/j.jinf.2024.106125
+Studying Microbial Ecology of Diabetic Foot Infections: Significance of PCR Analysis for Prudent Antimicrobial Stewardship.|https://dx.doi.org/10.1177/15347346241230288

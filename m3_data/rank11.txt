@@ -71,3 +71,9 @@ Corrigendum: Tranexamic acid in combination with vancomycin or gentamicin has a 
 Near-infrared light responsive gold nanoparticles coating endows polyetheretherketone with enhanced osseointegration and antibacterial properties.|https://dx.doi.org/10.1016/j.mtbio.2024.100982
 A hope for ineffective antibiotics to return to treatment: investigating the anti-biofilm potential of melittin alone and in combination with penicillin and oxacillin against multidrug resistant-MRSA and -VRSA.|https://dx.doi.org/10.3389/fmicb.2023.1269392
 Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome secondary to antimicrobial therapy in pediatric bone and joint infections.|https://dx.doi.org/10.1016/j.waojou.2023.100850
+Mismatch rate of empirical antimicrobial treatment in fracture-related infections.|https://dx.doi.org/10.1097/BOT.0000000000002782
+Investigating the impact of antibiotic-induced dysbiosis on protection from Clostridium difficile colitis by mouse colonic innate lymphoid cells.|https://dx.doi.org/10.1128/mbio.03338-23
+Beware of the Acute Respiratory Distress Syndrome in a Pulmonary Blastomycosis!|https://dx.doi.org/10.1177/23247096241233042
+The first case report: diagnosis and management of necrotizing fusobacterium lung abscess via BALF next-generation sequencing.|https://dx.doi.org/10.1186/s12879-024-09087-5
+Emergence of multidrug-resistant Bacillus spp. derived from animal feed, food and human diarrhea in South-Eastern Bangladesh.|https://dx.doi.org/10.1186/s12866-024-03199-3
+Studying Microbial Ecology of Diabetic Foot Infections: Significance of PCR Analysis for Prudent Antimicrobial Stewardship.|https://dx.doi.org/10.1177/15347346241230288

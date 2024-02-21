@@ -9,3 +9,4 @@ Topical delivery of insulin using novel organogel formulations: An approach for 
 Cytotoxic Polyhydroxy-Isoprenoids from Neodidymelliopsis negundinis.|https://dx.doi.org/10.1021/acs.jnatprod.3c01094
 In Vitro and In Vivo Anti-Candida albicans Activity of a Scorpion-Derived Peptide.|https://dx.doi.org/10.1007/s12602-024-10233-3
 Resistome, mobilome, and virulome explored in clinical isolates derived from acne patients in Egypt: unveiling unique traits of an emerging coagulase-negative Staphylococcus pathogen.|https://dx.doi.org/10.3389/fcimb.2024.1328390
+Clinical and microbiological features of host-bacterial interplay in chronic venous ulcers versus other types of chronic skin ulcers.|https://dx.doi.org/10.3389/fmicb.2023.1326904

@@ -395,3 +395,21 @@ Resistome, mobilome, and virulome explored in clinical isolates derived from acn
 Cross-sectional analysis of risk factors associated with Mugil cephalus in retail fish markets concerning methicillin-resistant Staphylococcus aureus and Aeromonas hydrophila.|https://dx.doi.org/10.3389/fcimb.2024.1348973
 Antimicrobial and Anti-Biofilm Activities of Coffea arabica L. Against the Clinical Strains Isolated From Diabetic Foot Ulcers.|https://dx.doi.org/10.7759/cureus.52539
 Androgens at the skin surface regulate S. aureus pathogenesis through the activation of agr quorum sensing.|https://dx.doi.org/10.1101/2024.02.10.579753
+Antibacterial Marinopyrroles and Pseudilins Act as Protonophores.|https://dx.doi.org/10.1021/acschembio.3c00773
+Prevalence and antibiogram of Pseudomonas aeruginosa and Staphylococcus aureus clinical isolates from burns and wounds in Duhok City, Iraq.|https://dx.doi.org/10.3855/jidc.18193
+Bacillus subtilis Induces Human Beta Defensin-2 Through its Lipoproteins in Human Intestinal Epithelial Cells.|https://dx.doi.org/10.1007/s12602-024-10224-4
+Liquid chromatography-tandem mass spectrometry profile and antioxidant, antimicrobial, antiproliferative, and enzyme activities of Thymus pectinatus and Thymus convolutus: in vitro and in silico approach.|https://dx.doi.org/10.1002/jsfa.13286
+A novel extraction-free dual HiFi-LAMP assay for detection of methicillin-sensitive and methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.04133-23
+Phage-antibiotic synergy against daptomycin-nonsusceptible MRSA in an ex vivo simulated endocardial pharmacokinetic/pharmacodynamic model.|https://dx.doi.org/10.1128/aac.01388-23
+Insights into the eradication of drug resistant Staphylococcus aureus via compound 6-nitrobenzo[cd]indole-2(1H)-ketone.|https://dx.doi.org/10.1039/d3tb02686h
+A Pd-labile fluoroquinolone prodrug efficiently prevents biofilm formation on coated surfaces.|https://dx.doi.org/10.1039/d4ob00014e
+Antibacterial applications of biologically synthesized Pichia pastoris silver nanoparticles.|https://dx.doi.org/10.1016/j.heliyon.2024.e25664
+Clinical and microbiological features of host-bacterial interplay in chronic venous ulcers versus other types of chronic skin ulcers.|https://dx.doi.org/10.3389/fmicb.2023.1326904
+Microbiome: Role in Inflammatory Skin Diseases.|https://dx.doi.org/10.2147/JIR.S441100
+Skin secretions of Leptodactylidae (Anura) and their potential applications.|https://dx.doi.org/10.1590/1678-9199-JVATITD-2023-0042
+High touch surface bioburden associated with the use of disinfectants with and without continuously active disinfection in ambulatory care settings.|https://dx.doi.org/10.1017/ice.2024.27
+Design and Model-Driven Analysis of Synthetic Circuits with the Staphylococcus aureus Dead-Cas9 (sadCas9) as a Programmable Transcriptional Regulator in Bacteria.|https://dx.doi.org/10.1021/acssynbio.3c00541
+Aspirin is as effective as low molecular weight heparins in preventing symptomatic venous thromboembolism following arthroscopic anterior cruciate ligament reconstruction.|https://dx.doi.org/10.1186/s12891-024-07282-8
+Enhancement of microbicidal efficacy of chemical disinfectants when combined with ultrasound technology.|https://dx.doi.org/10.1093/jambio/lxae043
+Risk Factor Analysis for 30-day Mortality After Surgery for Infective Endocarditis.|https://dx.doi.org/10.1055/s-0044-1779709
+Preparation and characterization of chitosan/ZnO-Ag composite microcapsules and their applications in solar energy harvesting and electromagnetic interference shielding.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130285

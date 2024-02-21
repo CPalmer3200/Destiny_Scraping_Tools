@@ -416,3 +416,23 @@ Impact of community health workers on diabetes management in an urban United Sta
 Gap in protective behaviors between Han and minority ethnicities during COVID-19 pandemic in rural western China: A decomposition analysis.|https://dx.doi.org/10.1016/j.pmedr.2024.102617
 Attitudes toward the use of facemasks during the COVID-19 pandemic in the Indian community.|https://dx.doi.org/10.4103/ipj.ipj_201_23
 The effect of the COVID-19 pandemic and lockdown on the psychosocial health of medical students.|https://dx.doi.org/10.4103/ipj.ipj_221_23
+On coming back, the scaring COVID-19 concern. Addressing indoor microclimates with innovative and straightforward solutions to prevent SARS-CoV2 spreading.|https://dx.doi.org/10.1002/jmv.29490
+Incidence and risk factors of sarcopenia in hospitalized survivors of COVID-19; a retrospective cohort study.|https://dx.doi.org/10.3855/jidc.18287
+Elevated CD4(+) T Cell Senescence Associates with Impaired Immune Responsiveness in Severe COVID-19.|https://dx.doi.org/10.14336/AD.2024.0214-2
+Bisbenzimide compounds inhibit the replication of prototype and pandemic potential poxviruses.|https://dx.doi.org/10.1128/spectrum.04072-23
+Viral and Host Factors Are Associated With Mortality in Hospitalized Patients With COVID-19.|https://dx.doi.org/10.1093/cid/ciad780
+Current management of SARS-CoV-2 infection in solid organ transplant recipients: Experience derived from an ESGICH-ESOT survey.|https://dx.doi.org/10.1111/tid.14252
+Tixagevimab/cilgavimab for the prevention of COVID-19 in solid organ transplant recipients.|https://dx.doi.org/10.1111/ctr.15261
+Cognitive domains affected post-COVID-19; a systematic review and meta-analysis.|https://dx.doi.org/10.1111/ene.16181
+Antiviral responses versus virus-induced cellular shutoff: a game of thrones between influenza A virus NS1 and SARS-CoV-2 Nsp1.|https://dx.doi.org/10.3389/fcimb.2024.1357866
+Exploring indoor and outdoor dust as a potential tool for detection and monitoring of COVID-19 transmission.|https://dx.doi.org/10.1016/j.isci.2024.109043
+Longitudinal experience of food insecurity & cigarette use in the early COVID-19 Pandemic, United States.|https://dx.doi.org/10.1016/j.pmedr.2024.102624
+Multiple disadvantages: class, social capital, and well-being of ethnic minority groups in the UK during the COVID-19 pandemic.|https://dx.doi.org/10.3389/fsoc.2024.1215676
+Sleep quality among non-hospitalized COVID-19 survivors: a national cross-sectional study.|https://dx.doi.org/10.3389/fpubh.2023.1281012
+Cancer screening in Japan 2 years after the COVID-19 pandemic: Changes in participation, 2017-2021.|https://dx.doi.org/10.1016/j.pmedr.2024.102649
+Anemoside B4 inhibits SARS-CoV-2 replication in vitro and in vivo.|https://dx.doi.org/10.1016/j.chmed.2023.09.005
+Effect of COVID-19 Pandemic on Knowledge, Attitude and Practices Towards Antenatal Care Among Antenatal Women: A Study From a Tertiary Care Hospital in Delhi, India.|https://dx.doi.org/10.7759/cureus.52618
+Implementation of a Childcare-Based Obesity Prevention Program for Vulnerable Families During the COVID-19 Pandemic: Lessons for School Nurses.|https://dx.doi.org/10.1177/10598405241228448
+Pneumonia Prevalence Upon Chest Radiography According to Vaccination Status Among Patients Under 50 Years of Age With Coronavirus Disease 2019.|https://dx.doi.org/10.3346/jkms.2024.39.e55
+Author Correction: COVID-19 vaccination coverage for half a million non-EU migrants and refugees in England.|https://dx.doi.org/10.1038/s41562-024-01845-4
+Healthcare-associated infections in patients with severe COVID-19 supported with extracorporeal membrane oxygenation: a nationwide cohort study.|https://dx.doi.org/10.1186/s13054-024-04832-3
