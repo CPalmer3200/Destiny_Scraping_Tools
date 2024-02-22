@@ -436,3 +436,23 @@ Implementation of a Childcare-Based Obesity Prevention Program for Vulnerable Fa
 Pneumonia Prevalence Upon Chest Radiography According to Vaccination Status Among Patients Under 50 Years of Age With Coronavirus Disease 2019.|https://dx.doi.org/10.3346/jkms.2024.39.e55
 Author Correction: COVID-19 vaccination coverage for half a million non-EU migrants and refugees in England.|https://dx.doi.org/10.1038/s41562-024-01845-4
 Healthcare-associated infections in patients with severe COVID-19 supported with extracorporeal membrane oxygenation: a nationwide cohort study.|https://dx.doi.org/10.1186/s13054-024-04832-3
+Synergistic inhibition effects of andrographolide and baicalin on coronavirus mechanisms by downregulation of ACE2 protein level.|https://dx.doi.org/10.1038/s41598-024-54722-5
+Impact of preexisting interstitial lung disease on mortality in COVID-19 patients from the early pandemic to the delta variant epidemic: a nationwide population-based study.|https://dx.doi.org/10.1186/s12931-024-02723-3
+Perspectives and experiences of healthcare providers on the response to the COVID-19 pandemic in three maternal and neonatal referral hospitals in Guinea in 2020: a qualitative study.|https://dx.doi.org/10.1186/s12913-024-10670-4
+Towards prevention of new COVID-19 infections in institutions of higher education: factors influencing compliance with mask-wearing among public university students in Ghana.|https://dx.doi.org/10.1186/s12879-024-09110-9
+Comparative efficacy and safety of COVID-19 vaccines in phase III trials: a network meta-analysis.|https://dx.doi.org/10.1186/s12879-023-08754-3
+Worry perception and its association with work conditions among healthcare workers during the first wave of the COVID-19 pandemic: a web-based multimethod survey at a university hospital in Sweden.|https://dx.doi.org/10.1136/bmjopen-2023-080248
+Non-binary gender, vulnerable populations and mental health during the COVID-19 pandemic: Data from the COVID-19 MEntal health inTernational for the general population (COMET-G) study.|https://dx.doi.org/10.1016/j.jad.2024.02.050
+The impact of COVID-19 vaccination prior to SARS-CoV-2 infection on prevalence of long COVID among a population-based probability sample of Michiganders, 2020-2022.|https://dx.doi.org/10.1016/j.annepidem.2024.02.007
+Vaccine effectiveness in preventing deaths in people with severe acute respiratory syndrome due to COVID-19 in Blumenau, Brazil, 2021.|https://dx.doi.org/10.1590/S2237-96222024v33e2023214.en
+COVID-19 vaccine safety: Background incidence rates of anaphylaxis, myocarditis, pericarditis, Guillain-Barré Syndrome, and mortality in South Korea using a nationwide population-based cohort study.|https://dx.doi.org/10.1371/journal.pone.0297902
+Prevention and Attenuation of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines.|https://dx.doi.org/10.1056/NEJMx210021
+Cardiovascular disease as part of Long COVID: A systematic review.|https://dx.doi.org/10.1093/eurjpc/zwae070
+How interventions to maintain services during the COVID-19 pandemic strengthened systems for delivery of maternal and child health services: a case-study of Wakiso District, Uganda.|https://dx.doi.org/10.1080/16549716.2024.2314345
+The Characteristics of the Influenza Virus Epidemic Around the SARS-CoV-2 Epidemic Period in the Pudong New Area of Shanghai.|https://dx.doi.org/10.1007/s44197-024-00194-9
+A comprehensive molecular analysis of bovine coronavirus strains isolated from Brazil and comparison of a wild-type and cell culture-adapted strain associated with respiratory disease.|https://dx.doi.org/10.1007/s42770-024-01287-0
+Adjunct Acupuncture Improved Respiratory Status and Weaning from Mechanical Ventilation After Severe COVID-19 Pneumonia.|https://dx.doi.org/10.1089/acu.2023.0064
+Genetic characteristics of SARS-CoV-2 virus variants observed upon three waves of the COVID-19 pandemic in Ukraine between February 2021-January 2022.|https://dx.doi.org/10.1016/j.heliyon.2024.e25618
+An in silico approach to develop potential therapies against Middle East Respiratory Syndrome Coronavirus (MERS-CoV).|https://dx.doi.org/10.1016/j.heliyon.2024.e25837
+Inactivated COVID-19 vaccination and SARS-CoV-2 infection among Chinese adults in the "living with COVID" era.|https://dx.doi.org/10.1016/j.heliyon.2024.e25803
+A qualitative exploration of purchasing, stockpiling, and use of drugs during the COVID-19 pandemic in an urban city of Bangladesh.|https://dx.doi.org/10.1016/j.puhip.2024.100477

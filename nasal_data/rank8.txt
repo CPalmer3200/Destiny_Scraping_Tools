@@ -378,3 +378,19 @@ Complication Rates Following Adult Spinal Deformity Surgery: Evaluation of the C
 Suppurative Meningitis Complicated with Arthritis Caused by Streptococcus Suis Infection: A Case Report.|https://dx.doi.org/10.2147/IDR.S416341
 Management of Refractory Post-operative Osteomyelitis and Discitis: A Case Report.|https://dx.doi.org/10.7759/cureus.52620
 Reversal of stoma with biosynthetic mesh fascial reinforcement: a systematic review and meta-analysis.|https://dx.doi.org/10.1111/codi.16913
+Labia Majora Hypertrophy in a Patient Affected by Familial Partial Lipodystrophy Type 5: A Case Report on Diagnosis, Presentation, and Surgical Correction.|https://dx.doi.org/10.1007/s00266-024-03863-z
+Impact of preoperative factors and waiting time on post-appendectomy complications: a retrospective study.|https://dx.doi.org/10.1186/s13741-024-00365-z
+Chinese Additive Anti-inflammatory Action for Aortopathy & Arteriopathy (5A) Registry protocol: rationale, design and methodology.|https://dx.doi.org/10.1186/s12872-024-03760-y
+Outcomes and quality of life of frail patients following elective ventral hernia repair: Retrospective review of a national hernia collaborative.|https://dx.doi.org/10.1016/j.amjsurg.2024.02.011
+Chronic diarrhoea due to trichohepatoenteric syndrome (THES) in an infant.|https://dx.doi.org/10.1136/bcr-2023-257746
+Infective Endocarditis in Patients Addicted to Injected Opioid Drugs.|https://dx.doi.org/10.1016/j.jacc.2023.12.016
+Longitudinal analysis of systemic ventricular function and atrioventricular valve function after the norwood procedure.|https://dx.doi.org/10.1093/ejcts/ezae058
+Prognostic nutritional index and the risk of postoperative complications after spine surgery: a meta-analysis.|https://dx.doi.org/10.1016/j.wneu.2024.02.077
+The Continued Impact of Godina's Principles: Outcomes of Flap Coverage as a Function of Time After Definitive Fixation of Open Lower Extremity Fractures.|https://dx.doi.org/10.1055/a-2273-4075
+IL-1α is required for T cell driven weight loss after respiratory viral infection.|https://dx.doi.org/10.1016/j.mucimm.2024.02.005
+Investigation of patients with new infection of echinococcal cyst in Sardinia, Italy.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116224
+Frailty Influence on Postoperative Surgical Site Infections After Surgery for Degenerative Spine Disease and Adult Spine Deformity. Can a Frailty Index be a Valuable Summary Risk Indicator? A Systematic Review and Metanalysis of the Current Literature.|https://dx.doi.org/10.1177/21925682241235605
+Does Negative Pressure Wound Therapy Impact the Outcome for Patients With Necrotizing Soft Tissue Infection Infected With Anaerobic Bacteria?|https://dx.doi.org/10.1089/sur.2023.300
+Genome-wide association study identifies high-impact susceptibility loci for hepatocellular carcinoma in North America.|https://dx.doi.org/10.1097/HEP.0000000000000800
+Surgical Site Infections-Time to Test Cost-Effective Prevention Strategies?|https://dx.doi.org/10.1001/jamasurg.2023.7979
+Intraoperative Wound Irrigation for the Prevention of Surgical Site Infection After Laparotomy: A Randomized Clinical Trial by CHIR-Net.|https://dx.doi.org/10.1001/jamasurg.2023.7985

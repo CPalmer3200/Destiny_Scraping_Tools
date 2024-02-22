@@ -413,3 +413,18 @@ Aspirin is as effective as low molecular weight heparins in preventing symptomat
 Enhancement of microbicidal efficacy of chemical disinfectants when combined with ultrasound technology.|https://dx.doi.org/10.1093/jambio/lxae043
 Risk Factor Analysis for 30-day Mortality After Surgery for Infective Endocarditis.|https://dx.doi.org/10.1055/s-0044-1779709
 Preparation and characterization of chitosan/ZnO-Ag composite microcapsules and their applications in solar energy harvesting and electromagnetic interference shielding.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130285
+Evaluating the potential of Abelmoschus esculentus, Solanum melongena, and Capsicum annuum spp. for nutrient and microbial reduction from wastewater in hybrid constructed wetland.|https://dx.doi.org/10.1007/s10661-024-12474-9
+Anti-staphylococcal activity of soilless cultivated cannabis across the whole vegetation cycle under various nutritional treatments in relation to cannabinoid content.|https://dx.doi.org/10.1038/s41598-024-54805-3
+Timing and clinical risk factors for early acquisition of gut pathogen colonization with multidrug resistant organisms in the intensive care unit.|https://dx.doi.org/10.1186/s13099-024-00605-z
+Distribution and antimicrobial resistance patterns of urinary pathogens in preoperative midstream urine cultures from Chinese patients with urinary calculi: a meta-analysis.|https://dx.doi.org/10.1186/s12894-024-01415-w
+Trends of antimicrobial susceptibilities and multidrug-resistant colonization rate in patients transferred from long-term care facilities during 2017-2022: a cross-sectional study.|https://dx.doi.org/10.1186/s12879-024-09145-y
+Comparative analysis of the physical, chemical, and microbiological properties of Ti-6Al-4V disks produced by different methods and subjected to surface treatments.|https://dx.doi.org/10.1016/j.prosdent.2024.01.020
+Mussel-inspired near-infrared light-responsive gelatin-based hydrogels for enhancing MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129887
+Gelatin-based multifunctional composite films integrated with dialdehyde carboxymethyl cellulose and coffee leaf extract for active food packaging.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130302
+Study of the antibacterial and cytotoxic activity of chitosan and its derivatives chemically modified with phthalic anhydride and ethylenediamine.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130292
+Design, synthesis and biological evaluation of thiazolyl-halogenated pyrroles or pyrazoles as novel antibacterial and antibiofilm agents.|https://dx.doi.org/10.1016/j.ejmech.2024.116221
+Comparative effectiveness of daptomycin versus vancomycin among patients with methicillin-resistant Staphylococcus aureus (MRSA) bloodstream infections: A systematic literature review and meta-analysis.|https://dx.doi.org/10.1371/journal.pone.0293423
+Enhancement of Visible Light Antibacterial Activities of Cellulose Fibers from Lotus Petiole Decorated ZnO Nanoparticles.|https://dx.doi.org/10.1007/s12010-024-04868-9
+E. globulus leaf EO exhibits anti-inflammatory effects by regulating GSDMD-mediated pyroptosis, thereby alleviating neurological impairment and neuroinflammation in experimental stroke mice.|https://dx.doi.org/10.1016/j.jep.2023.117367
+Evaluation of brushing efficiency in reducing oral microbiota in mechanically ventilated patients admitted to an intensive care unit.|https://dx.doi.org/10.1016/j.infpip.2024.100346
+IgA-Dominant Staphylococcus-Associated Glomerulonephritis: An Uncommon Complication of Intravenous Drug Use.|https://dx.doi.org/10.7759/cureus.52680

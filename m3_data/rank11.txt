@@ -77,3 +77,11 @@ Beware of the Acute Respiratory Distress Syndrome in a Pulmonary Blastomycosis!|
 The first case report: diagnosis and management of necrotizing fusobacterium lung abscess via BALF next-generation sequencing.|https://dx.doi.org/10.1186/s12879-024-09087-5
 Emergence of multidrug-resistant Bacillus spp. derived from animal feed, food and human diarrhea in South-Eastern Bangladesh.|https://dx.doi.org/10.1186/s12866-024-03199-3
 Studying Microbial Ecology of Diabetic Foot Infections: Significance of PCR Analysis for Prudent Antimicrobial Stewardship.|https://dx.doi.org/10.1177/15347346241230288
+Timing and clinical risk factors for early acquisition of gut pathogen colonization with multidrug resistant organisms in the intensive care unit.|https://dx.doi.org/10.1186/s13099-024-00605-z
+Design, synthesis and biological evaluation of thiazolyl-halogenated pyrroles or pyrazoles as novel antibacterial and antibiofilm agents.|https://dx.doi.org/10.1016/j.ejmech.2024.116221
+Comparative effectiveness of daptomycin versus vancomycin among patients with methicillin-resistant Staphylococcus aureus (MRSA) bloodstream infections: A systematic literature review and meta-analysis.|https://dx.doi.org/10.1371/journal.pone.0293423
+Assessment of Zn and Cu in piglets' liver and kidney: impact in fecal Enterococcus spp.?|https://dx.doi.org/10.1007/s11356-024-32495-8
+Polymerized cyclodextrin microparticles for sustained antibiotic delivery in lung infections.|https://dx.doi.org/10.1002/jbm.a.37680
+Daptomycin plus ceftaroline salvage therapy for persistent Staphylococcus epidermidis bacteremia.|https://dx.doi.org/10.1002/ccr3.8486
+The pathogenicity of vancomycin-resistant Enterococcus faecalis to colon cancer cells.|https://dx.doi.org/10.1186/s12879-024-09133-2
+Electro-antibacterial therapy (EAT) to enhance intracellular bacteria clearance in pancreatic cancer cells.|https://dx.doi.org/10.1016/j.bioelechem.2024.108669

@@ -13,3 +13,7 @@ Which trial do we need? Percutaneous mechanical aspiration versus medical manage
 Development of Mupirocin-Impregnated Bacterial Cellulosic Transdermal Patches for the Management of Skin Infection.|https://dx.doi.org/10.1021/acsomega.3c07174
 Effect of Different Local Antibiotic Regimens on Prevention of Postoperative Infection in Clean Surgical Wounds: A Systematic Review and Network Meta-analysis.|https://dx.doi.org/10.1097/ASW.0000000000000094
 Work of breathing: A tool for the respiratory management of severe bronchopulmonary dysplasia.|https://dx.doi.org/10.1002/ppul.26874
+Monophosphoryl lipid A as a co-adjuvant in methicillin-resistant Staphylococcus aureus vaccine development: improvement of immune responses in a mouse model of infection.|https://dx.doi.org/10.1007/s12026-024-09456-x
+Antibiotic resistance: a global crisis, problems and solutions.|https://dx.doi.org/10.1080/1040841X.2024.2313024
+Infectious Diseases Among People Experiencing Homelessness: A Systematic Review of the Literature in the United States and Canada, 2003-2022.|https://dx.doi.org/10.1177/00333549241228525
+Liposomal co-encapsulation of a novel gemini lipopeptide and a CpG-ODN induces a strong Th1 response with the co-activation of a Th2/Th17 profile and high antibody levels.|https://dx.doi.org/10.1016/j.vaccine.2024.02.011

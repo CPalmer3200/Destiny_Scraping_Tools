@@ -23,3 +23,4 @@ Effectiveness and safety of dermal matrix used for diabetic foot ulcer: a system
 Effectiveness of Ya-Samarn-Phlae in diabetic wound healing: Evidence from in vitro studies and a multicenter randomized controlled clinical trial.|https://dx.doi.org/10.1016/j.jep.2024.117929
 Bacteriophage Therapy and Current Delivery Strategies for Orthopedic Infections: A SCOPING Review.|https://dx.doi.org/10.1016/j.jinf.2024.106125
 Studying Microbial Ecology of Diabetic Foot Infections: Significance of PCR Analysis for Prudent Antimicrobial Stewardship.|https://dx.doi.org/10.1177/15347346241230288
+The efficacy and safety of non-surgical treatment of diabetic foot wound infections and ulcers: A systemic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14615

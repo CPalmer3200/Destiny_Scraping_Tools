@@ -228,3 +228,13 @@ Impact of the COVID-19 pandemic on breast cancer pathological stage at diagnosis
 Contemporary management of open extremity fractures: What You Need to Know.|https://dx.doi.org/10.1097/TA.0000000000004288
 Using Preference Cards to Support a Thoughtful, Evidence-based Orthopaedic Surgery Practice.|https://dx.doi.org/10.5435/JAAOS-D-23-00711
 Studying Microbial Ecology of Diabetic Foot Infections: Significance of PCR Analysis for Prudent Antimicrobial Stewardship.|https://dx.doi.org/10.1177/15347346241230288
+Breast Cancer Risk Perceptions Among Underserved, Hispanic Women: Implications for Risk-Based Approaches to Screening.|https://dx.doi.org/10.1007/s40615-024-01949-7
+Evaluation of cesarean delivery rates and factors associated with cesarean delivery among women enrolled in a pregnancy cohort study at two tertiary hospitals in Thailand.|https://dx.doi.org/10.1186/s12884-024-06314-4
+Leveraging artificial intelligence to advance implementation science: potential opportunities and cautions.|https://dx.doi.org/10.1186/s13012-024-01346-y
+Prognostic Factors for Discharge Directly Home in Patients With Thoracoscopic Surgery for Empyema: A Multicenter Retrospective Cohort Study.|https://dx.doi.org/10.1089/sur.2023.193
+The Comparative Effectiveness of Perioperative Antibiotic Regimens to Prevent Surgical Site Infections in Pediatric Liver Transplant Recipients.|https://dx.doi.org/10.1093/cid/ciae095
+Evaluating the therapeutic and reconstructive efficacy of flap transplantation techniques in managing nasal tissue deficiency resulting from post-rhinoplasty surgical infections.|https://dx.doi.org/10.1111/iwj.14566
+Diagnosis, Prevention, and Treatment of Infections in Kidney Transplantation.|https://dx.doi.org/10.1016/j.semnephrol.2023.151486
+XBB.1.5 monovalent mRNA vaccine booster elicits robust neutralizing antibodies against XBB subvariants and JN.1.|https://dx.doi.org/10.1016/j.chom.2024.01.014
+Outcomes after kidney transplant alone in patients with cirrhosis-A case-control study.|https://dx.doi.org/10.1111/ctr.15259
+Coexistence of a fluid responsive state and venous congestion signals in critically ill patients: a multicenter observational proof-of-concept study.|https://dx.doi.org/10.1186/s13054-024-04834-1

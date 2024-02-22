@@ -26,3 +26,4 @@ Abdominal donor-site complications following autologous breast reconstruction: A
 A Case of Thoracic Empyema Caused by Actinomyces naeslundii.|https://dx.doi.org/10.12659/AJCR.943030
 Comparison of Different Acellular Dermal Matrix in Breast Reconstruction: A Skin-to-Skin Study.|https://dx.doi.org/10.1093/asj/sjae035
 Oncoplastic Reconstruction in the Setting of Prior Cosmetic Augmentation.|https://dx.doi.org/10.1097/PRS.0000000000011366
+Superior Pedicle Inverted T-reduction Mammaplasty with Short Horizontal Scar.|https://dx.doi.org/10.1097/GOX.0000000000005625

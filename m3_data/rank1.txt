@@ -13,3 +13,4 @@ Metagenomic, metabolomic, and lipidomic shifts associated with fecal microbiota 
 Identification of Clostridioides difficile mutants with increased daptomycin resistance.|https://dx.doi.org/10.1128/jb.00368-23
 Microbiota-Based Live Biotherapeutic Products for Clostridioides Difficile Infection- The Devil is in the Details.|https://dx.doi.org/10.2147/IDR.S419243
 Assessment of Knowledge and Practice of Healthcare Providers in Saudi Arabia Regarding Clostridioides difficile Infection Diagnosis and Management: A Cross-Sectional Questionnaire-Based Study.|https://dx.doi.org/10.2147/IDR.S450281
+Reduced Vancomycin Susceptibility in Clostridioides difficile is Associated with Lower Rates of Initial Cure and Sustained Clinical Response.|https://dx.doi.org/10.1093/cid/ciae087
