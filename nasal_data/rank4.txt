@@ -238,3 +238,17 @@ Diagnosis, Prevention, and Treatment of Infections in Kidney Transplantation.|ht
 XBB.1.5 monovalent mRNA vaccine booster elicits robust neutralizing antibodies against XBB subvariants and JN.1.|https://dx.doi.org/10.1016/j.chom.2024.01.014
 Outcomes after kidney transplant alone in patients with cirrhosis-A case-control study.|https://dx.doi.org/10.1111/ctr.15259
 Coexistence of a fluid responsive state and venous congestion signals in critically ill patients: a multicenter observational proof-of-concept study.|https://dx.doi.org/10.1186/s13054-024-04834-1
+Does a sign restricting operating room access reduce staff traffic in the surgical department?|https://dx.doi.org/10.1016/j.otsr.2024.103843
+Comparative study of clinical practice guidelines on the management of venereal infection: different periodic screenings, therapeutic approaches, and follow-up care after treatment across the CDC, IUSTI and BASHH guidelines on the most frequent STIs.|https://dx.doi.org/10.1016/j.ad.2024.02.010
+Development and Validation of a GC-FID Method for the Quantitation of Δ 8-Tetrahydrocannabinol and Impurities Found in Synthetic Δ 8-Tetrahydrocannabinol and Vaping Products.|https://dx.doi.org/10.1055/a-2249-7824
+Postoperative antibiotic prophylaxis for percutaneous nephrolithotomy and risk of infection: a systematic review and meta-analysis.|https://dx.doi.org/10.1590/S1677-5538.IBJU.2023.0626
+Allergic Contact Dermatitis to Octyl Cyanoacrylate Skin Glue After Surgical Wound Closure: A Systematic Review.|https://dx.doi.org/10.1089/derm.2023.0342
+Pain management in primary care: A review of the updated CDC guideline: Erratum.|https://dx.doi.org/10.1097/01.NPR.0000000000000157
+Local anesthetics as a tool for Staphylococcus spp. control: a systematic review.|https://dx.doi.org/10.1007/s42770-024-01285-2
+Use of Direct Oral Anticoagulants Among Patients With Hip Fracture Is Not an Indication to Delay Surgical Intervention.|https://dx.doi.org/10.1097/BOT.0000000000002753
+Anatomic Lung Resection Outcomes After Implementation of a Universal Thoracic ERAS Protocol Across a Diverse Healthcare System.|https://dx.doi.org/10.1097/SLA.0000000000006243
+[Influencing factors on effectiveness of reverse total shoulder arthroplasty].|https://dx.doi.org/10.7507/1002-1892.202310088
+Peer review of clinical and translational research manuscripts: Perspectives from statistical collaborators.|https://dx.doi.org/10.1017/cts.2023.707
+Impact of the COVID-19 pandemic on behavioral changes in healthcare workers in Italy.|https://dx.doi.org/10.3389/fpubh.2024.1335953
+The recovery of intestinal barrier function and changes in oral microbiota after radiation therapy injury.|https://dx.doi.org/10.3389/fcimb.2023.1288666
+Diastology in the intensive care unit: Challenges for the assessment and future directions.|https://dx.doi.org/10.1111/echo.15773

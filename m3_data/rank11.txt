@@ -85,3 +85,10 @@ Polymerized cyclodextrin microparticles for sustained antibiotic delivery in lun
 Daptomycin plus ceftaroline salvage therapy for persistent Staphylococcus epidermidis bacteremia.|https://dx.doi.org/10.1002/ccr3.8486
 The pathogenicity of vancomycin-resistant Enterococcus faecalis to colon cancer cells.|https://dx.doi.org/10.1186/s12879-024-09133-2
 Electro-antibacterial therapy (EAT) to enhance intracellular bacteria clearance in pancreatic cancer cells.|https://dx.doi.org/10.1016/j.bioelechem.2024.108669
+Antimicrobial resistance in selected bacteria from food animals in New Zealand 2018-2022.|https://dx.doi.org/10.1016/j.jfp.2024.100245
+Effects of cadmium exposure on gut microbiota and antibiotic resistance genes in Haliotis diversicolor abalone.|https://dx.doi.org/10.1016/j.chemosphere.2024.141507
+Oral Delivery of the Vancomycin Derivative FU002 by a Surface-Modified Liposomal Nanocarrier.|https://dx.doi.org/10.1002/adhm.202303654
+Effect of Antibiotic Spacer Dosing on Treatment Success in Two-Stage Exchange for Periprosthetic Joint Infection.|https://dx.doi.org/10.5435/JAAOSGlobal-D-23-00103
+Compassionate use of contezolid in a toddler with severe community-acquired pneumonia induced by staphylococcus aureus: a case report and follow-up.|https://dx.doi.org/10.3389/fped.2024.1321447
+Conservative Versus Surgical Management of Acute Appendicitis: A Systematic Review.|https://dx.doi.org/10.7759/cureus.52697
+Gut resistome profiling reveals high diversity and fluctuations in pancreatic cancer cohorts.|https://dx.doi.org/10.3389/fcimb.2024.1354234

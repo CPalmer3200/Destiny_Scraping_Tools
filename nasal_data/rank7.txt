@@ -456,3 +456,23 @@ Genetic characteristics of SARS-CoV-2 virus variants observed upon three waves o
 An in silico approach to develop potential therapies against Middle East Respiratory Syndrome Coronavirus (MERS-CoV).|https://dx.doi.org/10.1016/j.heliyon.2024.e25837
 Inactivated COVID-19 vaccination and SARS-CoV-2 infection among Chinese adults in the "living with COVID" era.|https://dx.doi.org/10.1016/j.heliyon.2024.e25803
 A qualitative exploration of purchasing, stockpiling, and use of drugs during the COVID-19 pandemic in an urban city of Bangladesh.|https://dx.doi.org/10.1016/j.puhip.2024.100477
+Age associated susceptibility to SARS-CoV-2 infection in the K18-hACE2 transgenic mouse model.|https://dx.doi.org/10.1007/s11357-024-01102-6
+Signs and symptoms of covid - 19 in patients with a history of coronary artery bypass grafting surgery.|https://dx.doi.org/10.1186/s12879-024-09090-w
+How denialist amplification spread COVID misinformation and undermined the credibility of public health science.|https://dx.doi.org/10.1057/s41271-023-00451-4
+Need for ICU and outcome of critically ill patients with COVID-19 and haematological malignancies: results from the EPICOVIDEHA survey.|https://dx.doi.org/10.1007/s15010-023-02169-7
+COVID-19 and COVID-19 vaccination experiences and perceptions and their predictors among community members during the COVID-19 pandemic in Ebonyi state, Nigeria: an analytical cross-sectional study.|https://dx.doi.org/10.1186/s12889-024-18028-5
+Exploration of the factors influencing the quality of life among adolescents during the COVID-19 pandemic: the data from a cross-sectional study in Shandong.|https://dx.doi.org/10.1186/s12889-024-17981-5
+COVID-19 control measures unexpectedly increased the duration of stay at High Speed Rail stations during the first community outbreak in Taiwan.|https://dx.doi.org/10.1186/s12889-024-17964-6
+SARS-CoV-2 infection during pregnancy and the risk of adverse maternal outcomes in the Republic of Georgia: a national birth registry-based cohort study.|https://dx.doi.org/10.1186/s12884-024-06329-x
+Immune Dysregulation in SARS-CoV-2 patients coinfected with Mycobacterium tuberculosis (Mtb) or HIV in China.|https://dx.doi.org/10.1186/s12889-024-17905-3
+Mortality risk after COVID-19 vaccination: A self-controlled case series study.|https://dx.doi.org/10.1016/j.vaccine.2024.02.032
+Viral shedding of SARS-CoV-2 in body fluids associated with sexual activity: a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2023-073084
+Prevalence and Determinants of Long-term Post-COVID Conditions in the United States: 2022 Behavioral Risk Factor Surveillance System.|https://dx.doi.org/10.1016/j.amjmed.2024.02.010
+Health service and psychotropic medication use for mental health conditions among healthcare workers active during the Spain Covid-19 Pandemic - A prospective cohort study using web-based surveys.|https://dx.doi.org/10.1016/j.psychres.2024.115800
+County-Level Factors Associated With Influenza and COVID-19 Vaccination in Indiana, 2020‒2022.|https://dx.doi.org/10.2105/AJPH.2023.307553
+Loss of socioemotional and occupational roles in individuals with Long COVID according to sociodemographic and clinical factors: Secondary data from a randomized clinical trial.|https://dx.doi.org/10.1371/journal.pone.0296041
+Undiagnosed Cancer Cases in the US During the First 10 Months of the COVID-19 Pandemic.|https://dx.doi.org/10.1001/jamaoncol.2023.6969
+Ending the HIV Epidemic in Black America: Qualitative Insights Following COVID-19.|https://dx.doi.org/10.1007/s40615-024-01925-1
+COVID-19 Immunity in the Cohort of IRCCS San Raffaele Hospital Employees after BNT162b2 Vaccination: A Retrospective Observational Study.|https://dx.doi.org/10.7416/ai.2024.2615
+Impact of COVID-19 pandemic on emergency and elective surgery. A retrospective observational analysis in Apulia, southern Italy.|https://dx.doi.org/10.7416/ai.2024.2612
+A critical review of research methodologies for COVID-19 transmission in indoor built environment.|https://dx.doi.org/10.1080/09603123.2024.2308731

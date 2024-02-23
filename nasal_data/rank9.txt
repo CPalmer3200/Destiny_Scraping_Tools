@@ -428,3 +428,22 @@ Enhancement of Visible Light Antibacterial Activities of Cellulose Fibers from L
 E. globulus leaf EO exhibits anti-inflammatory effects by regulating GSDMD-mediated pyroptosis, thereby alleviating neurological impairment and neuroinflammation in experimental stroke mice.|https://dx.doi.org/10.1016/j.jep.2023.117367
 Evaluation of brushing efficiency in reducing oral microbiota in mechanically ventilated patients admitted to an intensive care unit.|https://dx.doi.org/10.1016/j.infpip.2024.100346
 IgA-Dominant Staphylococcus-Associated Glomerulonephritis: An Uncommon Complication of Intravenous Drug Use.|https://dx.doi.org/10.7759/cureus.52680
+[System analysis of the ecological distribution of bacteriophages in hospital wastewater].|https://dx.doi.org/10.3760/cma.j.cn112150-20230913-00189
+Antibacterial activity in egg samples from small-spotted catshark Scyliorhinus canicula and nursehound Scyliorhinus stellaris: A preliminary investigation.|https://dx.doi.org/10.1111/jfb.15695
+Synthesis and characterization of marine seagrass (Cymodocea serrulata) mediated titanium dioxide nanoparticles for antibacterial, antibiofilm and antioxidant properties.|https://dx.doi.org/10.1016/j.micpath.2024.106595
+In vitro evaluation of the susceptibility of bacterial biofilms to Hecogenin Acetate.|https://dx.doi.org/10.1016/j.actatropica.2024.107157
+Melatonin restores DNFB-induced dysbiosis of skin microbiota in a mouse model of atopic dermatitis.|https://dx.doi.org/10.1016/j.lfs.2024.122513
+Synthesis, antibacterial activity, and 3D-QASR studies of matrine-indole derivatives as potential antibiotics.|https://dx.doi.org/10.1016/j.bmcl.2024.129671
+Effective role of tannic acid in the fabrication of hydrophobic, oleophilic, antibacterial, boron nitride/chlorobutyl rubber nanocomposite for reusable protective clothing and oil-water separation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130341
+Polymer-clay nanofibrous wound dressing materials containing different boron compounds.|https://dx.doi.org/10.1016/j.jtemb.2024.127408
+The antimicrobial potential of adarotene derivatives against Staphylococcus aureus strains.|https://dx.doi.org/10.1016/j.bioorg.2024.107227
+Tripeptides Ghk and GhkCu-modified silver nanoparticles for enhanced antibacterial and wound healing activities.|https://dx.doi.org/10.1016/j.colsurfb.2024.113785
+Feasibility of using bacteriophage therapy to treat Staphylococcal aureus fracture-related infections.|https://dx.doi.org/10.1016/j.injury.2024.111442
+Predicting S. aureus antimicrobial resistance with interpretable genomic space maps.|https://dx.doi.org/10.1002/minf.202300263
+Suppressed distribution of protein A on the surface of Staphylococcus aureus as a morphological characteristic of erythromycin-resistant strain.|https://dx.doi.org/10.1007/s00795-023-00379-4
+Engineering Atomic Ag(1)-N(6) Sites with Enhanced Performance of Eradication Drug-Resistant Bacteria over Visible-Light-Driven Antibacterial Membrane.|https://dx.doi.org/10.1021/acsnano.3c10765
+Promising activity of etomidate against mixed biofilms of fluconazole-resistant Candida albicans and methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1099/jmm.0.001810
+Targeted Light-Induced Immunomodulatory Strategy for Implant-Associated Infections via Reversing Biofilm-Mediated Immunosuppression.|https://dx.doi.org/10.1021/acsnano.3c10172
+Hit-to-Lead Identification and Validation of a Triaromatic Pleuromutilin Antibiotic Candidate.|https://dx.doi.org/10.1021/acs.jmedchem.3c02153
+Oral_voting_transfer: classification of oral microorganisms' function proteins with voting transfer model.|https://dx.doi.org/10.3389/fmicb.2023.1277121
+Compassionate use of contezolid in a toddler with severe community-acquired pneumonia induced by staphylococcus aureus: a case report and follow-up.|https://dx.doi.org/10.3389/fped.2024.1321447

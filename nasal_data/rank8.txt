@@ -394,3 +394,17 @@ Does Negative Pressure Wound Therapy Impact the Outcome for Patients With Necrot
 Genome-wide association study identifies high-impact susceptibility loci for hepatocellular carcinoma in North America.|https://dx.doi.org/10.1097/HEP.0000000000000800
 Surgical Site Infections-Time to Test Cost-Effective Prevention Strategies?|https://dx.doi.org/10.1001/jamasurg.2023.7979
 Intraoperative Wound Irrigation for the Prevention of Surgical Site Infection After Laparotomy: A Randomized Clinical Trial by CHIR-Net.|https://dx.doi.org/10.1001/jamasurg.2023.7985
+Dual-Mode Lateral Flow Immunoassay Based on "Pompon Mum"-Like Fe(3)O(4)@MoS(2)@Pt Nanotags for Sensitive Detection of Viral Pathogens.|https://dx.doi.org/10.1021/acsami.3c15851
+The risk factors associated with post-transplantation BKPyV nephropathy and BKPyV DNAemia: a prospective study in kidney transplant recipients.|https://dx.doi.org/10.1186/s12879-024-09093-7
+Clinical formulation development of Plasmodium falciparum malaria vaccine candidates based on Pfs48/45, Pfs230, and PfCSP.|https://dx.doi.org/10.1016/j.vaccine.2024.02.043
+The immune response to a Coxiella burnetii vaccine in sheep varies according to their natural pre-exposure.|https://dx.doi.org/10.1016/j.vaccine.2024.02.048
+Rare vertebral pathological fracture in primary amyloidosis.|https://dx.doi.org/10.1136/bcr-2023-258973
+Analysis of surgical site infection and tumour-specific survival rate in patients with renal cell carcinoma after laparoscopic radical nephrectomy.|https://dx.doi.org/10.1111/iwj.14711
+Mannitol Reduces Pain and Trismus After Impacted Mandibular Third Molar Surgery.|https://dx.doi.org/10.1016/j.joms.2024.01.019
+Azithromycin-loaded liposomes and niosomes for the treatment of skin infections: Influence of excipients and preparative methods on the functional properties.|https://dx.doi.org/10.1016/j.ejpb.2024.114233
+Characterisation and management of expected and unexpected urgent findings from FDG-PET-CT in cardiovascular disease.|https://dx.doi.org/10.1016/j.nuclcard.2024.101826
+Spontaneous rupture of splenic hilar lymph node metastasis from hepatocellular carcinoma.|https://dx.doi.org/10.1007/s12328-024-01928-9
+Adjunctive hyperbaric oxygen therapy in the management of severe lower limb soft tissue injuries: a systematic review.|https://dx.doi.org/10.1007/s00068-023-02426-2
+Bowel preparation for elective colectomy in Crohn's disease: results from a global cohort study using the NSQIP database.|https://dx.doi.org/10.1111/codi.16918
+Comparative study on wound healing and infection between open and minimally invasive surgical methods in pediatric otolaryngology surgery.|https://dx.doi.org/10.1111/iwj.14728
+Frequency of Complications After Kidney Transplant in the Early Postoperative Period.|https://dx.doi.org/10.6002/ect.MESOT2023.P25
