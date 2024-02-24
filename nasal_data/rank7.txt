@@ -476,3 +476,22 @@ Ending the HIV Epidemic in Black America: Qualitative Insights Following COVID-1
 COVID-19 Immunity in the Cohort of IRCCS San Raffaele Hospital Employees after BNT162b2 Vaccination: A Retrospective Observational Study.|https://dx.doi.org/10.7416/ai.2024.2615
 Impact of COVID-19 pandemic on emergency and elective surgery. A retrospective observational analysis in Apulia, southern Italy.|https://dx.doi.org/10.7416/ai.2024.2612
 A critical review of research methodologies for COVID-19 transmission in indoor built environment.|https://dx.doi.org/10.1080/09603123.2024.2308731
+Secondary infections of COVID-19 in schools and the effectiveness of school-based interventions: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.puhe.2024.01.014
+Protection of prior SARS-CoV-2 infection, COVID-19 boosters, and hybrid immunity against Omicron severe illness: A population-based cohort study of five million residents in Canada.|https://dx.doi.org/10.1371/journal.pone.0299304
+Stem Cell Extracellular Vesicles as Anti-SARS-CoV-2 Immunomodulatory Therapeutics: A Systematic Review of Clinical and Preclinical Studies.|https://dx.doi.org/10.1007/s12015-023-10675-2
+Perspectives on SARS-CoV-2 Cases in Zoological Institutions.|https://dx.doi.org/10.3390/vetsci11020078
+Disruptions in Cancer Care Due to the COVID-19 Pandemic and Fear of Cancer Recurrence in Women with Breast Cancer: A Mixed-Methods Study.|https://dx.doi.org/10.3390/curroncol31020059
+Hierarchical Nanobiosensors at the End of the SARS-CoV-2 Pandemic.|https://dx.doi.org/10.3390/bios14020108
+Correction: Arimori et al. Association between Lifestyle Factors and Weight Gain among University Students in Japan during COVID-19 Mild Lockdown: A Quantitative Study. Healthcare 2023, 11, 2630.|https://dx.doi.org/10.3390/healthcare12040433
+Quality of Life and Emotional Problems of COVID-19 Patients after Discharge: A One-Month Longitudinal Study.|https://dx.doi.org/10.3390/healthcare12040488
+Associations between COVID-19 Pandemic-Related Overtime, Perceived Chronic Stress and Burnout Symptoms in German General Practitioners and Practice Personnel-A Prospective Study.|https://dx.doi.org/10.3390/healthcare12040479
+Development and Implementation of a Mobile-Integrated Simulation for COVID-19 Nursing Practice: A Randomized Controlled Pretest-Posttest Experimental Design.|https://dx.doi.org/10.3390/healthcare12040419
+Bacterial Community- and Hospital-Acquired Pneumonia in Patients with Critical COVID-19-A Prospective Monocentric Cohort Study.|https://dx.doi.org/10.3390/antibiotics13020192
+The Prognostic Role of Diagnostic Criteria for COVID-19-Associated Pulmonary Aspergillosis: A Cross-Sectional Retrospective Study.|https://dx.doi.org/10.3390/antibiotics13020150
+Features Associated with Radiographic Pneumonia in Children with SARS-CoV-2.|https://dx.doi.org/10.1093/jpids/piae015
+Effects of love glove application on vital signs for COVID-19 patients in the intensive care unit.|https://dx.doi.org/10.1002/nop2.2106
+Anti-SARS-CoV-2 Antibody Levels Associated with COVID-19 Protection in Outpatients Tested for SARS-CoV-2, US Flu VE Network, October 2021-June 2022.|https://dx.doi.org/10.1093/infdis/jiae090
+Developmental Impacts of Epigenetics and Metabolism in COVID-19.|https://dx.doi.org/10.3390/jdb12010009
+Excess Mortality Stratified by Age and Sex for Croatia and Croatian Counties during the 2020-2021 COVID-19 Pandemic.|https://dx.doi.org/10.3390/idr16020011
+Respiratory Syncytial Virus, Influenza and SARS-CoV-2 in Homeless People from Urban Shelters: A Systematic Review and Meta-Analysis (2023).|https://dx.doi.org/10.3390/epidemiologia5010004
+Clinical Evidence on the Potential Beneficial Effects of Diet and Dietary Supplements against COVID-19 Infection Risk and Symptoms' Severity.|https://dx.doi.org/10.3390/medsci12010011

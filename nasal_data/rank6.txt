@@ -17,3 +17,4 @@ Monophosphoryl lipid A as a co-adjuvant in methicillin-resistant Staphylococcus 
 Antibiotic resistance: a global crisis, problems and solutions.|https://dx.doi.org/10.1080/1040841X.2024.2313024
 Infectious Diseases Among People Experiencing Homelessness: A Systematic Review of the Literature in the United States and Canada, 2003-2022.|https://dx.doi.org/10.1177/00333549241228525
 Liposomal co-encapsulation of a novel gemini lipopeptide and a CpG-ODN induces a strong Th1 response with the co-activation of a Th2/Th17 profile and high antibody levels.|https://dx.doi.org/10.1016/j.vaccine.2024.02.011
+Impact of age on pneumococcal colonization of the nasopharynx and oral cavity: an ecological perspective.|https://dx.doi.org/10.1093/ismeco/ycae002

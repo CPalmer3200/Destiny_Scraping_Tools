@@ -4,3 +4,5 @@ Watery Diarrhea Is Not Always Clostridioides difficile: A Case Report of Aeromon
 Many Hands, Light Work: A Partnership Approach to Reducing Clostridioides difficile Burden on an Oncology Unit.|https://dx.doi.org/10.1016/j.ajic.2024.02.002
 Epidemiology and outcomes of infections during extracorporeal membrane oxygenation in adult patients with COVID-19 ARDS- A single center study.|https://dx.doi.org/10.1016/j.ijmmb.2024.100539
 Diagnostic performance of a multiplexed gastrointestinal PCR panel for identifying diarrheal pathogens in children undergoing hematopoietic stem cell transplant.|https://dx.doi.org/10.1007/s12519-023-00776-w
+Development of a Prediction Model to Identify the Risk of Clostridioides difficile Infection in Hospitalized Patients Receiving at Least One Dose of Antibiotics.|https://dx.doi.org/10.3390/pharmacy12010037
+A Real-World Study on the Clinical Characteristics, Outcomes, and Relationship between Antibiotic Exposure and Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antibiotics13020144

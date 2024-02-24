@@ -408,3 +408,17 @@ Adjunctive hyperbaric oxygen therapy in the management of severe lower limb soft
 Bowel preparation for elective colectomy in Crohn's disease: results from a global cohort study using the NSQIP database.|https://dx.doi.org/10.1111/codi.16918
 Comparative study on wound healing and infection between open and minimally invasive surgical methods in pediatric otolaryngology surgery.|https://dx.doi.org/10.1111/iwj.14728
 Frequency of Complications After Kidney Transplant in the Early Postoperative Period.|https://dx.doi.org/10.6002/ect.MESOT2023.P25
+Leukocyte- and platelet-rich fibrin in cranial surgery: a single-blinded, prospective, randomized controlled noninferiority trial.|https://dx.doi.org/10.3171/2023.12.JNS232125
+Impact of collagen matrix on reconstructive material selection and postoperative complications in endoscopic endonasal skull base surgery.|https://dx.doi.org/10.3171/2023.12.JNS231406
+Evaluation of short-term adverse events of COVID-19 vaccines: An observational study.|https://dx.doi.org/10.1097/MD.0000000000035549
+An unusual presentation of epidermoid cyst as multiple skin nodules masquerading as neurofibroma.|https://dx.doi.org/10.4103/ijpm.ijpm_331_23
+Diphtheria case detection and carrier study of close contacts: A step towards diphtheria eradication.|https://dx.doi.org/10.4103/ijpm.ijpm_265_23
+Nasal polyp due to Trichoderma harzianum-A case report.|https://dx.doi.org/10.4103/ijpm.ijpm_204_23
+Identifying Risk Factors for Surgical Site Infection After Stoma Closure in Infants for Targeted Implementation of Surgical Site Infection Reduction Bundle.|https://dx.doi.org/10.1089/sur.2023.248
+Conversion therapy with pembrolizumab for a peritoneal metastasis of rectal cancer causing hydronephrosis in a patient with Lynch syndrome.|https://dx.doi.org/10.1007/s12328-024-01931-0
+Orthopedic surgery in Palau-Current capacity, needs, and future directions.|https://dx.doi.org/10.1002/wjs.12111
+Evaluation of the Blood Neutrophil-to-Lymphocyte Ratio (NLR) as a Diagnostic and Prognostic Biomarker in Dogs with Portosystemic Shunt.|https://dx.doi.org/10.3390/vetsci11020080
+First Case of Human Anisakiosis in Greece: Acute Invasive Infection Mimicking Peritoneal Malignancy.|https://dx.doi.org/10.3390/pathogens13020149
+The Role of Mycoplasma bovirhinis in the Development of Singular and Concomitant Respiratory Infections in Dairy Calves from Southern Brazil.|https://dx.doi.org/10.3390/pathogens13020114
+Advancements in Bariatric Surgery: A Comparative Review of Laparoscopic and Robotic Techniques.|https://dx.doi.org/10.3390/jpm14020151
+Perceptions of Clinical Adverse Event Reporting by Nurses and Midwives.|https://dx.doi.org/10.3390/healthcare12040460

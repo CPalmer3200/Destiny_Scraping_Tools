@@ -447,3 +447,22 @@ Targeted Light-Induced Immunomodulatory Strategy for Implant-Associated Infectio
 Hit-to-Lead Identification and Validation of a Triaromatic Pleuromutilin Antibiotic Candidate.|https://dx.doi.org/10.1021/acs.jmedchem.3c02153
 Oral_voting_transfer: classification of oral microorganisms' function proteins with voting transfer model.|https://dx.doi.org/10.3389/fmicb.2023.1277121
 Compassionate use of contezolid in a toddler with severe community-acquired pneumonia induced by staphylococcus aureus: a case report and follow-up.|https://dx.doi.org/10.3389/fped.2024.1321447
+Photo-Responsive Ascorbic Acid-Modified Ag(2)S-ZnS Heteronanostructure Dropping pH to Trigger Synergistic Antibacterial and Bohr Effects for Accelerating Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.3c17424
+Enhanced Cellular Delivery of Tildipirosin by Xanthan Gum-Gelatin Composite Nanogels.|https://dx.doi.org/10.1021/acs.langmuir.3c03559
+Clinically Approved Ferric Maltol: A Potent Nanozyme with Added Effect for High-Efficient Catalytic Disinfection.|https://dx.doi.org/10.1021/acsami.3c17758
+Prospective Randomized Double-Blind Vehicle-Controlled Study of Topical Coconut and Sunflower Seed Oil-Derived Isosorbide Diesters on Atopic Dermatitis.|https://dx.doi.org/10.1089/derm.2023.0329
+A Nanocomposite Dynamic Covalent Cross-Linked Hydrogel Loaded with Fusidic Acid for Treating Antibiotic-Resistant Infected Wounds.|https://dx.doi.org/10.1021/acsabm.3c01293
+Confining the Growth of AgNPs onto Epigallocatechin Gallate-Decorated Zein Nanoparticles for Constructing Potent Protein-Based Antibacterial Nanocomposites.|https://dx.doi.org/10.1021/acs.jafc.3c08029
+One Pot Synthesis and Biological Activity Studies of New Spirooxindoles.|https://dx.doi.org/10.1002/cbdv.202301942
+A Fluorous Peptide Amphiphile with Potent Antimicrobial Activity for the Treatment of MRSA-induced Sepsis and Chronic Wound Infection.|https://dx.doi.org/10.1002/anie.202403140
+Comparative analysis of genes expression involved in type II toxin-antitoxin system in Staphylococcus aureus following persister cell formation.|https://dx.doi.org/10.1007/s11033-023-09179-6
+Synthesis of Novel [{(2-Amino-5-Nitro-N-[(E)-Thiophen-2-yl-Methylidene]Aniline-κ(3)N(1):N(4):S)(Sulphato-κ(2)O(1):O(3))}Zinc(II)] Complex with Physico-Chemical and Biological Perspective Exploration: A Combined Experimental and Computational Studies.|https://dx.doi.org/10.1007/s10895-024-03612-0
+CXCL12+ dermal fibroblasts promote neutrophil recruitment and host defense by recognition of IL-17.|https://dx.doi.org/10.1084/jem.20231425
+Benzalkonium Chloride Poisoning in Pediatric Patients: Report of Case with a Severe Clinical Course and Literature Review.|https://dx.doi.org/10.3390/toxics12020139
+Biopreservative and Anti-Mycotoxigenic Potentials of Lactobacillus paracasei MG847589 and Its Bacteriocin in Soft White Cheese.|https://dx.doi.org/10.3390/toxins16020093
+Pathogens Associated with Bovine Mastitis: The Experience of Bosnia and Herzegovina.|https://dx.doi.org/10.3390/vetsci11020063
+Multidrug-Resistant Commensal and Infection-Causing Staphylococcus spp. Isolated from Companion Animals in the Valencia Region.|https://dx.doi.org/10.3390/vetsci11020054
+Brominated Depsidones with Antibacterial Effects from a Deep-Sea-Derived Fungus Spiromastix sp.|https://dx.doi.org/10.3390/md22020078
+Prodigiosin as an Antibiofilm Agent against the Bacterial Biofilm-Associated Infection of Pseudomonas aeruginosa.|https://dx.doi.org/10.3390/pathogens13020145
+Bacterial Adaptive Memory in Methicillin-Resistant Staphylococcus aureus from Endotracheal Tubes.|https://dx.doi.org/10.3390/pathogens13020144
+The NLRP3 Inflammasome Is Dispensable in Methicillin-Resistant Staphylococcus aureus Urinary Tract Infection.|https://dx.doi.org/10.3390/pathogens13020106

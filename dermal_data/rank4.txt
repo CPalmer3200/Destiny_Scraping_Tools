@@ -28,3 +28,5 @@ Wearable Magnetoelectric Stimulation for Chronic Wound Healing by Electrospun Co
 Fabrication of Bilayer Nanofibrous-Hydrogel Scaffold from Bacterial Cellulose, PVA, and Gelatin as Advanced Dressing for Wound Healing and Soft Tissue Engineering.|https://dx.doi.org/10.1021/acsomega.3c06613
 Mussel-inspired near-infrared light-responsive gelatin-based hydrogels for enhancing MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129887
 Polymer-clay nanofibrous wound dressing materials containing different boron compounds.|https://dx.doi.org/10.1016/j.jtemb.2024.127408
+A Nanocomposite Dynamic Covalent Cross-Linked Hydrogel Loaded with Fusidic Acid for Treating Antibiotic-Resistant Infected Wounds.|https://dx.doi.org/10.1021/acsabm.3c01293
+Carbopol 940-based hydrogels loading synergistic combination of quercetin and luteolin from the herb Euphorbia humifusa to promote Staphylococcus aureus infected wound healing.|https://dx.doi.org/10.1039/d3md00611e

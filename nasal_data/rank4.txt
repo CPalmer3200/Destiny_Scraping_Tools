@@ -252,3 +252,17 @@ Peer review of clinical and translational research manuscripts: Perspectives fro
 Impact of the COVID-19 pandemic on behavioral changes in healthcare workers in Italy.|https://dx.doi.org/10.3389/fpubh.2024.1335953
 The recovery of intestinal barrier function and changes in oral microbiota after radiation therapy injury.|https://dx.doi.org/10.3389/fcimb.2023.1288666
 Diastology in the intensive care unit: Challenges for the assessment and future directions.|https://dx.doi.org/10.1111/echo.15773
+Clinical characteristics and outcomes of acute bacterial meningitis in adults at a tertiary university hospital in Thailand.|https://dx.doi.org/10.1097/MD.0000000000037301
+Pediatric Plastic Surgery in the COVID-19 Era.|https://dx.doi.org/10.1097/SAP.0000000000003810
+Targeting Tularemia: Clinical, Laboratory, and Treatment Outcomes from an 11-year Retrospective Observational Cohort in Northern Sweden.|https://dx.doi.org/10.1093/cid/ciae098
+Surgical Treatment of Persistent Pseudomonas aeruginosa Bacteraemia After n-Butyl-2-cyanoacrylate for Gastric Bleeding Varices.|https://dx.doi.org/10.1007/s40121-024-00930-5
+Medullary-Sparing Antibiotic Cement Articulating Spacer Reduces the Rate of Mechanical Complications in Advanced Septic Hip Arthritis: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/jpm14020162
+Infectious Complications in Laparoscopic Gynecologic Oncology Surgery within an ERAS-Compliant Setting.|https://dx.doi.org/10.3390/jpm14020147
+Medical Misadventures as Errors and Mistakes and Motor Vehicular Accidents in the Disproportionate Burden of Childhood Mortality among Blacks/African Americans in the United States: CDC Dataset, 1968-2015.|https://dx.doi.org/10.3390/healthcare12040477
+Novel Flowchart Guiding the Non-Surgical and Surgical Management of Peri-Implant Complications: A Narrative Review.|https://dx.doi.org/10.3390/bioengineering11020118
+Antibiotic-Prescribing Habits in Dentistry: A Questionnaire-Based Study.|https://dx.doi.org/10.3390/antibiotics13020189
+Catastrophic Streptococcus pyogenes Disease: A Personalized Approach Based on Phenotypes and Treatable Traits.|https://dx.doi.org/10.3390/antibiotics13020187
+Management of Penicillin Allergy in the Perioperative Setting.|https://dx.doi.org/10.3390/antibiotics13020157
+Failure to reduce the risk of postoperative lower genital tract infection with perioperative antibiotic prophylaxis during induced abortion: a real-world study.|https://dx.doi.org/10.3389/fmed.2024.1296910
+Complications after breast augmentation with dermal fillers containing copolyamide: A systematic review.|https://dx.doi.org/10.1016/j.jpra.2024.01.009
+Non-syndromic Parachute Mitral Valve "When the Valve Dives in": Case Report and Review of the Literature.|https://dx.doi.org/10.7759/cureus.52805

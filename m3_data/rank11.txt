@@ -92,3 +92,19 @@ Effect of Antibiotic Spacer Dosing on Treatment Success in Two-Stage Exchange fo
 Compassionate use of contezolid in a toddler with severe community-acquired pneumonia induced by staphylococcus aureus: a case report and follow-up.|https://dx.doi.org/10.3389/fped.2024.1321447
 Conservative Versus Surgical Management of Acute Appendicitis: A Systematic Review.|https://dx.doi.org/10.7759/cureus.52697
 Gut resistome profiling reveals high diversity and fluctuations in pancreatic cancer cohorts.|https://dx.doi.org/10.3389/fcimb.2024.1354234
+Clinical characteristics and outcomes of acute bacterial meningitis in adults at a tertiary university hospital in Thailand.|https://dx.doi.org/10.1097/MD.0000000000037301
+Antimicrobial susceptibility profile of clinically relevant Bacteroides, Phocaeicola, Parabacteroides and Prevotella species, isolated by eight laboratories in the Netherlands.|https://dx.doi.org/10.1093/jac/dkae043
+Comparative analysis of genes expression involved in type II toxin-antitoxin system in Staphylococcus aureus following persister cell formation.|https://dx.doi.org/10.1007/s11033-023-09179-6
+Study of an Enterococcus faecium strain isolated from an artisanal Mexican cheese, whole-genome sequencing, comparative genomics, and bacteriocin expression.|https://dx.doi.org/10.1007/s10482-024-01938-0
+Brominated Depsidones with Antibacterial Effects from a Deep-Sea-Derived Fungus Spiromastix sp.|https://dx.doi.org/10.3390/md22020078
+Comparative Evaluation of the Antibacterial and Antitumor Activities of 9-Phenylfascaplysin and Its Analogs.|https://dx.doi.org/10.3390/md22020053
+Two Cases of Vancomycin-Induced Neutropenia.|https://dx.doi.org/10.3390/pharmacy12010038
+Synthesis of 3-((4-Hydroxyphenyl)amino)propanoic Acid Derivatives as Promising Scaffolds for the Development of Antimicrobial Candidates Targeting Multidrug-Resistant Bacterial and Fungal Pathogens.|https://dx.doi.org/10.3390/antibiotics13020193
+Antimicrobial Resistance and Antibiotic Consumption in a Secondary Care Hospital in Mexico.|https://dx.doi.org/10.3390/antibiotics13020178
+In Vitro Antibacterial Activity of Ceftobiprole and Comparator Compounds against Nation-Wide Bloodstream Isolates and Different Sequence Types of MRSA.|https://dx.doi.org/10.3390/antibiotics13020165
+A Five-Year Analysis of Antibiotic Resistance Trends among Bacteria Identified in Positive Urine Samples in a Tertiary Care Hospital from Bucharest, Romania.|https://dx.doi.org/10.3390/antibiotics13020160
+Is the Use of Monensin Another Trojan Horse for the Spread of Antimicrobial Resistance?|https://dx.doi.org/10.3390/antibiotics13020129
+Bacteriuria in Paediatric Oncology Patients: Clinical Features, Distribution and Antimicrobial Susceptibility of Bacterial Pathogens at University Hospital Centre Zagreb, Croatia over a 4-Year Period.|https://dx.doi.org/10.3390/antibiotics13020118
+Antimicrobial Resistance in Enterococcus spp. Isolates from Red Foxes (Vulpes vulpes) in Latvia.|https://dx.doi.org/10.3390/antibiotics13020114
+Hospital prescribing patterns of antibiotics in Zambia using the WHO prescribing indicators post-COVID-19 pandemic: findings and implications.|https://dx.doi.org/10.1093/jacamr/dlae023
+The prevalence and clinical context of antimicrobial resistance amongst medical inpatients at a referral hospital in Rwanda: a cohort study.|https://dx.doi.org/10.1186/s13756-024-01384-7
