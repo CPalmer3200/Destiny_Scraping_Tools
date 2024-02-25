@@ -6,3 +6,4 @@ Epidemiology and outcomes of infections during extracorporeal membrane oxygenati
 Diagnostic performance of a multiplexed gastrointestinal PCR panel for identifying diarrheal pathogens in children undergoing hematopoietic stem cell transplant.|https://dx.doi.org/10.1007/s12519-023-00776-w
 Development of a Prediction Model to Identify the Risk of Clostridioides difficile Infection in Hospitalized Patients Receiving at Least One Dose of Antibiotics.|https://dx.doi.org/10.3390/pharmacy12010037
 A Real-World Study on the Clinical Characteristics, Outcomes, and Relationship between Antibiotic Exposure and Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antibiotics13020144
+Reviewing the Clostridioides difficile Mouse Model: Insights into Infection Mechanisms.|https://dx.doi.org/10.3390/microorganisms12020273

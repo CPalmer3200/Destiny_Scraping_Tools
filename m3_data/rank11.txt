@@ -108,3 +108,18 @@ Bacteriuria in Paediatric Oncology Patients: Clinical Features, Distribution and
 Antimicrobial Resistance in Enterococcus spp. Isolates from Red Foxes (Vulpes vulpes) in Latvia.|https://dx.doi.org/10.3390/antibiotics13020114
 Hospital prescribing patterns of antibiotics in Zambia using the WHO prescribing indicators post-COVID-19 pandemic: findings and implications.|https://dx.doi.org/10.1093/jacamr/dlae023
 The prevalence and clinical context of antimicrobial resistance amongst medical inpatients at a referral hospital in Rwanda: a cohort study.|https://dx.doi.org/10.1186/s13756-024-01384-7
+Aetiology and use of antibiotics in pregnancy-related infections: results of the WHO Global Maternal Sepsis Study (GLOSS), 1-week inception cohort.|https://dx.doi.org/10.1186/s12941-024-00681-8
+Efficacy of prophylactic use of intraoperative vancomycin powder in preventing surgical site infection in neurological surgeries in Irrua, Nigeria: A randomized controlled study.|https://dx.doi.org/10.1016/j.jocn.2024.02.008
+Subgroup identification-based model selection to improve the predictive performance of individualized dosing.|https://dx.doi.org/10.1007/s10928-024-09909-8
+Effects of Preoperative Quadruple Therapy for Helicobacter pylori on Bariatric Surgery Metabolic Outcomes.|https://dx.doi.org/10.1007/s11695-024-07091-x
+Absorbable antibiotic beads for treatment of LVAD driveline infections.|https://dx.doi.org/10.1111/aor.14721
+Lignocellulosic Membranes Grafted with N-Vinylcaprolactam Using Radiation Chemistry: Load and Release Capacity of Vancomycin.|https://dx.doi.org/10.3390/polym16040551
+Hybrid Molecules of Azithromycin with Chloramphenicol and Metronidazole: Synthesis and Study of Antibacterial Properties.|https://dx.doi.org/10.3390/ph17020187
+The Impact of Mechanical Bowel Preparation and Oral Antibiotics in Colorectal Cancer Surgery (MECCA Study): A Prospective Randomized Clinical Trial.|https://dx.doi.org/10.3390/jcm13041162
+Linear IgA Bullous Dermatosis in Korea Using the Nationwide Health Insurance Database.|https://dx.doi.org/10.3390/jcm13041159
+Lactobacillus crispatus CCFM1339 Inhibits Vaginal Epithelial Barrier Injury Induced by Gardnerella vaginalis in Mice.|https://dx.doi.org/10.3390/biom14020240
+Impact of zinc supplementation on phenotypic antimicrobial resistance of fecal commensal bacteria from pre-weaned dairy calves.|https://dx.doi.org/10.1038/s41598-024-54738-x
+Vancomycin and nisin-modified magnetic Fe(3)O(4)@SiO(2) nanostructures coated with chitosan to enhance antibacterial efficiency against methicillin resistant Staphylococcus aureus (MRSA) infection in a murine superficial wound model.|https://dx.doi.org/10.1186/s13065-024-01129-y
+Clinical and microbiological efficacy of intra-pocket application of diode laser in grade C periodontitis: a randomized controlled clinical trial.|https://dx.doi.org/10.1186/s12903-024-04031-0
+The Impact of Clostridioides Difficile Infection on Outcomes Among Kidney Transplant Recipients.|https://dx.doi.org/10.1016/j.ajic.2024.02.010
+Doxycycline post exposure prophylaxis could theoretically select for resistance to various antimicrobials in 19 pathobionts: an in silico analysis.|https://dx.doi.org/10.1016/j.ijid.2024.02.017

@@ -30,3 +30,9 @@ Mussel-inspired near-infrared light-responsive gelatin-based hydrogels for enhan
 Polymer-clay nanofibrous wound dressing materials containing different boron compounds.|https://dx.doi.org/10.1016/j.jtemb.2024.127408
 A Nanocomposite Dynamic Covalent Cross-Linked Hydrogel Loaded with Fusidic Acid for Treating Antibiotic-Resistant Infected Wounds.|https://dx.doi.org/10.1021/acsabm.3c01293
 Carbopol 940-based hydrogels loading synergistic combination of quercetin and luteolin from the herb Euphorbia humifusa to promote Staphylococcus aureus infected wound healing.|https://dx.doi.org/10.1039/d3md00611e
+PVA-Based Films with Strontium Titanate Nanoparticles Dedicated to Wound Dressing Application.|https://dx.doi.org/10.3390/polym16040484
+Effects of Synthesis Parameters on Structure and Antimicrobial Properties of Bacterial Cellulose/Hydroxyapatite/TiO(2) Polymer-Ceramic Composite Material.|https://dx.doi.org/10.3390/polym16040470
+Enhancing Chitosan Fibers: A Dual Approach with Tripolyphosphate and Ursolic Acid.|https://dx.doi.org/10.3390/polym16040461
+Photodynamic Antibacterial Therapy of Gallic Acid-Derived Carbon-Based Nanoparticles (GACNPs): Synthesis, Characterization, and Hydrogel Formulation.|https://dx.doi.org/10.3390/pharmaceutics16020254
+Synthesis of Starch-Based Ag(2)[Fe (CN)(5)NO] Nanoparticles for Utilization in Antibacterial and Wound-Dressing Applications.|https://dx.doi.org/10.3390/antiox13020154
+Antimicrobial Potency of Fmoc-Phe-Phe Dipeptide Hydrogels with Encapsulated Porphyrin Chromophores Is a Promising Alternative in Antimicrobial Resistance.|https://dx.doi.org/10.3390/biom14020226
