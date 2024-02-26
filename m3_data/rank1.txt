@@ -17,3 +17,4 @@ Reduced Vancomycin Susceptibility in Clostridioides difficile is Associated with
 Clostridioides difficile Infection: Diagnosis and Treatment Challenges.|https://dx.doi.org/10.3390/pathogens13020118
 Faecal microbiota transplantation in children: A systematic review.|https://dx.doi.org/10.1111/apa.17167
 AGA Clinical Practice Guideline on Fecal Microbiota-Based Therapies for Select Gastrointestinal Diseases.|https://dx.doi.org/10.1053/j.gastro.2024.01.008
+Urinary Tract Infection Prevention and Treatment.|https://dx.doi.org/10.1016/j.semnephrol.2023.151468

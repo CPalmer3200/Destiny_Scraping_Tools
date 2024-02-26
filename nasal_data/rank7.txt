@@ -17,3 +17,8 @@ Exploring COVID-19 Vaccination Willingness in Italy: A Focus on Resident Foreign
 Vitamin D Supplementation and Prior Oral Poliovirus Vaccination Decrease Odds of COVID-19 Outcomes among Adults Recently Inoculated with Inactivated Poliovirus Vaccine.|https://dx.doi.org/10.3390/vaccines12020121
 Association between COVID-19 Vaccination and SARS-CoV-2 Infection among Household Contacts of Infected Individuals: A Prospective Household Study in England.|https://dx.doi.org/10.3390/vaccines12020113
 Stabilization of the Metastable Pre-Fusion Conformation of the SARS-CoV-2 Spike Glycoprotein through N-Linked Glycosylation of the S2 Subunit.|https://dx.doi.org/10.3390/v16020223
+Safety, Efficacy and Pharmacokinetics of AZD7442 (Tixagevimab/Cilgavimab) for Treatment of Mild-to-Moderate COVID-19: 15-Month Final Analysis of the TACKLE Trial.|https://dx.doi.org/10.1007/s40121-024-00931-4
+Changes in Place of Death among Patients with Dementia during the COVID-19 Pandemic in Japan: A Time Series Analysis.|https://dx.doi.org/10.2188/jea.JE20230279
+Association analysis of genetic variants in critical patients with COVID-19 and validation in a Chinese population.|https://dx.doi.org/10.1016/j.virs.2024.02.004
+Non-COVID-19 hospitalisation as a negative control outcome in COVID-19 vaccine effectiveness studies - Authors' reply.|https://dx.doi.org/10.1016/S1473-3099(24)00107-5
+The use of interpreter services and its barriers faced by hospital staff when accessing interpreters for patients with low English proficiency during the COVID-19 pandemic.|https://dx.doi.org/10.1002/hpja.850

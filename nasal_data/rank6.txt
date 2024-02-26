@@ -1,2 +1,3 @@
 Vaccination-Route-Dependent Adjuvanticity of Antigen-Carrying Nanoparticles for Enhanced Vaccine Efficacy.|https://dx.doi.org/10.3390/vaccines12020125
 The Rapidly Changing Patterns in Bacterial Co-Infections Reveal Peaks in Limited Gram Negatives during COVID-19 and Their Sharp Drop Post-Vaccination, Implying Potential Evolution of Co-Protection during Vaccine-Virus-Bacterial Interplay.|https://dx.doi.org/10.3390/v16020227
+Defective exercise-related expiratory muscle recruitment in patients with PHOX2B mutations: A clue to neural determinants of the congenital central hypoventilation syndrome.|https://dx.doi.org/10.1016/j.pulmoe.2024.01.005

@@ -13,3 +13,20 @@ Absorbable antibiotic beads for treatment of LVAD driveline infections.|https://
 Herpes Simplex Keratitis as a Complication of Pterygium Surgery.|https://dx.doi.org/10.12659/AJCR.942401
 Genital and Oral HPV Geno-Prevalence Measured through Urine and Saliva Samples in Young Adults in Italy.|https://dx.doi.org/10.3390/vaccines12020205
 A Next-Generation Adenoviral Vaccine Elicits Mucosal and Systemic Immunogenicity and Reduces Viral Shedding after SARS-CoV-2 Challenge in Nonhuman Primates.|https://dx.doi.org/10.3390/vaccines12020132
+Cumulative incidence of and risk factors for BCG infection after adjuvant BCG instillations.|https://dx.doi.org/10.1111/bju.16303
+Magnet ingestion in growing children: a multi-center observational study on single and multiple magnet incidents.|https://dx.doi.org/10.1038/s41598-024-55127-0
+[Progress in antibacterial coatings of titanium implants surfaces].|https://dx.doi.org/10.7507/1001-5515.202209051
+Letter Regarding: "Alcohol-Containing Versus Aqueous-Based Solutions for Skin Preparation in Abdominal Surgery".|https://dx.doi.org/10.1016/j.jss.2024.01.048
+Chest Wall Dermatitis Patterns Following Thoracoscopic Intercostal Nerve Cryoablation for Surgical Correction of Pectus Excavatum.|https://dx.doi.org/10.1016/j.jpedsurg.2024.02.008
+The Septic Elbow Joint: Treatment Approaches for Improved Patient Outcomes.|https://dx.doi.org/10.1016/j.ocl.2023.09.007
+The State of Local Antibiotic Use in Orthopedic Trauma.|https://dx.doi.org/10.1016/j.ocl.2023.07.003
+Articulating Spacers in Total Hip Arthroplasty: Surgical Technique and Outcomes.|https://dx.doi.org/10.1016/j.ocl.2023.06.002
+Innovations in the Isolation and Treatment of Biofilms in Periprosthetic Joint Infection: A Comprehensive Review of Current and Emerging Therapies in Bone and Joint Infection Management.|https://dx.doi.org/10.1016/j.ocl.2023.10.002
+Biofilm and How It Relates to Prosthetic Joint Infection.|https://dx.doi.org/10.1016/j.ocl.2023.10.001
+Arthroscopic Capsular Shift from Inferior to Superior has an Exceptional Safety Profile and Short-Term Outcomes.|https://dx.doi.org/10.1016/j.jisako.2024.02.005
+Intramedullary positive tissue culture increases the risk of re-infection following one-stage septic revision total knee arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.02.053
+Partial Cranial Reconstruction using Titanium Mesh After Craniectomy: An Antiadhesive and Protective Barrier with Improved Aesthetic Outcomes.|https://dx.doi.org/10.1016/j.wneu.2024.02.096
+In Utero Diagnosis of Spinal Dermal Sinus.|https://dx.doi.org/10.1159/000536404
+Single-stage transcutaneous osseointegrated prosthesis for above-knee amputations including an antibiotic-loaded hydrogel. Preliminary results of a new surgical protocol.|https://dx.doi.org/10.1016/j.injury.2024.111424
+What can they expect? Decreased quality of life and increased postoperative complication rate in patients with a fracture-related infection.|https://dx.doi.org/10.1016/j.injury.2024.111425
+A clinical dimple on facial skin related to dental origin: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109415

@@ -10,3 +10,11 @@ A Facile Surface Modification Scheme for Medical-Grade Titanium and Polypropylen
 PVA-Based Films with Strontium Titanate Nanoparticles Dedicated to Wound Dressing Application.|https://dx.doi.org/10.3390/polym16040484
 Enhancing Chitosan Fibers: A Dual Approach with Tripolyphosphate and Ursolic Acid.|https://dx.doi.org/10.3390/polym16040461
 Targeted Isolation of Antibiofilm Compounds from Halophytic Endophyte Bacillus velezensis 7NPB-3B Using LC-HR-MS-Based Metabolomics.|https://dx.doi.org/10.3390/microorganisms12020413
+Green synthesis of tellurium-doped SnO(2) nanoparticles with sulfurized g-C(3) N(4) : Insights into methylene blue photodegradation and antibacterial capability.|https://dx.doi.org/10.1002/bio.4693
+Pattern of Fluid Overload and its Impact on Mortality Among Mechanically Ventilated Children: Secondary Analysis of the ReLiSCh Trial.|https://dx.doi.org/10.1007/s12098-024-05059-4
+Drug-loaded lipid nanoparticles improve the removal rates of the Staphylococcus aureus biofilm.|https://dx.doi.org/10.1002/biot.202300159
+Which Was the Real Guilty Party: Staphylococcus aureus, Staphylococcus pseudintermedius, Pasteurella multocida or All of Them?|https://dx.doi.org/10.1016/j.amjmed.2023.10.038
+Designing of chitosan/gelatin based nanocomposite films integrated with Vachellia nilotica gum carbon dots for smart food packaging applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130208
+Culture dependent analysis of bacterial activity, biofilm-formation and oxidative stress of seawater with the contamination of microplastics under climate change consideration.|https://dx.doi.org/10.1016/j.scitotenv.2024.171103
+Preparation and characterization of carvacrol/ε-polylysine loaded antimicrobial nanobilayer emulsion and its application in mango preservation.|https://dx.doi.org/10.1016/j.foodchem.2024.138831
+TCM formula for trauma treatment screening and its role of promoting infectious wound coalescence investigating.|https://dx.doi.org/10.1016/j.rvsc.2024.105178
