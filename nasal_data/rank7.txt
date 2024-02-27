@@ -22,3 +22,23 @@ Changes in Place of Death among Patients with Dementia during the COVID-19 Pande
 Association analysis of genetic variants in critical patients with COVID-19 and validation in a Chinese population.|https://dx.doi.org/10.1016/j.virs.2024.02.004
 Non-COVID-19 hospitalisation as a negative control outcome in COVID-19 vaccine effectiveness studies - Authors' reply.|https://dx.doi.org/10.1016/S1473-3099(24)00107-5
 The use of interpreter services and its barriers faced by hospital staff when accessing interpreters for patients with low English proficiency during the COVID-19 pandemic.|https://dx.doi.org/10.1002/hpja.850
+Humoral and cellular immune responses to COVID-19 mRNA vaccines in immunosuppressed liver transplant recipients.|https://dx.doi.org/10.1038/s43856-024-00448-4
+Predictors of COVID-19 vaccine uptake among people who use substances: a case study in Tehran.|https://dx.doi.org/10.1186/s13011-024-00596-9
+SARS-CoV-2 incidence monitoring and statistical estimation of the basic and time-varying reproduction number at the early onset of the pandemic in 45 sub-Saharan African countries.|https://dx.doi.org/10.1186/s12889-024-18184-8
+Increase of multidrug-resistant bacteria after the COVID-19 pandemic in a major teaching Hospital in Sicily (2018-2021).|https://dx.doi.org/10.1016/j.ijantimicag.2024.107123
+Self-quarantining, social distancing, and mental health during the COVID-19 pandemic: A multi wave, longitudinal investigation.|https://dx.doi.org/10.1371/journal.pone.0298461
+The impact of COVID-19 on treatment follow-up and medication adherence among patients with epilepsy at a referral hospital in Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0299065
+A Serious Game ("Fight With Virus") for Preventing COVID-19 Health Rumors: Development and Experimental Study.|https://dx.doi.org/10.2196/45546
+Effect of traditional rehabilitation programme versus telerehabilitation in adolescents with idiopathic scoliosis during the COVID-19 pandemic: a cohort study.|https://dx.doi.org/10.2340/jrm.v56.5343
+Comment on: Evaluation of dressings preventing facial medical device-related pressure injury in medical staff during the COVID-19 pandemic: A systematic review and network meta-analysis.|https://dx.doi.org/10.1111/jocn.17077
+Estimates of Incidence and Predictors of Fatiguing Illness after SARS-CoV-2 Infection.|https://dx.doi.org/10.3201/eid3003.231194
+Mother-infant postnatal experience and its association with maternal emotion and coping during the COVID-19 pandemic.|https://dx.doi.org/10.1080/02646838.2024.2314187
+Quarantining From Professional Identity: How Did COVID-19 Impact Professional Identity Formation in Undergraduate Medical Education?|https://dx.doi.org/10.5334/pme.1308
+Exploratory study to characterise the individual types of health literacy and beliefs and their associations with infection prevention behaviours amid the COVID-19 pandemic in Japan: a longitudinal study.|https://dx.doi.org/10.7717/peerj.16905
+Identifying Barriers to Precepting Health Professions Learners During the COVID-19 Pandemic.|https://dx.doi.org/10.22454/PRiMER.2024.453046
+Environmental sampling for SARS-CoV-2 in long term care facilities: lessons from a pilot study.|https://dx.doi.org/10.12688/wellcomeopenres.17047.2
+Unveiling the Clinical Spectrum of Post-COVID-19 Conditions: Assessment and Recommended Strategies.|https://dx.doi.org/10.7759/cureus.52827
+A Broad-Spectrum Multi-Antigen mRNA/LNP-Based Pan-Coronavirus Vaccine Induced Potent Cross-Protective Immunity Against Infection and Disease Caused by Highly Pathogenic and Heavily Spike-Mutated SARS-CoV-2 Variants of Concern in the Syrian Hamster Model.|https://dx.doi.org/10.1101/2024.02.14.580225
+Increased reproductive tract infections among secondary school girls during the COVID-19 pandemic: associations with pandemic related stress, mental health, and domestic safety.|https://dx.doi.org/10.1101/2024.02.17.24302973
+Efficacy of Host Cell Serine Protease Inhibitor MM3122 against SARS-CoV-2 for Treatment and Prevention of COVID-19.|https://dx.doi.org/10.1101/2024.02.09.579701
+An Unprecedented Experience: Personal and Socio-Political Impacts of the COVID-19 Lockdown in Saudi Arabia.|https://dx.doi.org/10.7759/cureus.54857

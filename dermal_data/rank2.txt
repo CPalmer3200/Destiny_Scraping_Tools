@@ -26,3 +26,4 @@ Studying Microbial Ecology of Diabetic Foot Infections: Significance of PCR Anal
 The efficacy and safety of non-surgical treatment of diabetic foot wound infections and ulcers: A systemic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14615
 Fibroblasts in Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/ijms25042172
 The Differentiation Between Infection and Acute Charcot.|https://dx.doi.org/10.1016/j.ocl.2023.08.002
+Methicillin-Resistant Staphylococcus aureus Cellulitis Causing Meningitis From Hematogenous Dissemination: A Case Report.|https://dx.doi.org/10.7759/cureus.52969

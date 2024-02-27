@@ -125,3 +125,14 @@ The Impact of Clostridioides Difficile Infection on Outcomes Among Kidney Transp
 Doxycycline post exposure prophylaxis could theoretically select for resistance to various antimicrobials in 19 pathobionts: an in silico analysis.|https://dx.doi.org/10.1016/j.ijid.2024.02.017
 Antimicrobial Resistance of Streptococcus pneumoniae Clinical Serotypes between 2017 and 2022 in Crete, Greece.|https://dx.doi.org/10.3947/ic.2023.0098
 Single-stage transcutaneous osseointegrated prosthesis for above-knee amputations including an antibiotic-loaded hydrogel. Preliminary results of a new surgical protocol.|https://dx.doi.org/10.1016/j.injury.2024.111424
+Treatment of Helicobacter Pylori İnfection and the Colonization of the Gastrointestinal System by Resistant Bacteria.|https://dx.doi.org/10.4103/njcp.njcp_402_23
+Vagococcus fluvialis isolation from the urine of a bladder cancer patient: a case report.|https://dx.doi.org/10.1186/s12879-024-09082-w
+Applied pharmacokinetics to improve pharmacotherapy in and paediatric intensive care units: focus on correct dose selection.|https://dx.doi.org/10.1136/archdischild-2023-326325
+Novel membrane-targeting isoxanthohumol-amine conjugates for combating methicillin-resistant Staphylococcus aureus (MRSA) infections.|https://dx.doi.org/10.1016/j.ejmech.2024.116274
+Epidemiology and infection control of vancomycin-resistant enterococci at a German university hospital: A three-year retrospective cohort study.|https://dx.doi.org/10.1371/journal.pone.0297866
+16S rDNA-Based Amplicon Analysis Unveiled a Correlation Between the Bacterial Diversity and Antibiotic Resistance Genes of Bacteriome of Commercial Smokeless Tobacco Products.|https://dx.doi.org/10.1007/s12010-024-04857-y
+Factors affecting vancomycin-resistant Enterococcus faecium colonization of in-hospital patients in different wards.|https://dx.doi.org/10.4103/tcmj.tcmj_117_23
+Variability of bile bacterial profiles and drug resistance in patients with choledocholithiasis combined with biliary tract infection: a retrospective study.|https://dx.doi.org/10.1093/gastro/goae010
+Prescribing patterns of antimicrobials according to the WHO AWaRe classification at a tertiary referral hospital in the southern highlands of Tanzania.|https://dx.doi.org/10.1016/j.infpip.2024.100347
+Evaluation Of Anti-Inflammatory Efficacy Of Ascorbic Acid After Third Molar Surgery.|https://dx.doi.org/10.55519/JAMC-03-11901
+Primary Antibiotic Resistance And Effectiveness Of Clarithromycin Vs Metronidazole Based Therapy For Helicobacter Pylori Infection In Children.|https://dx.doi.org/10.55519/JAMC-03-11648

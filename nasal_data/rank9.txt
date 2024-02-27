@@ -18,3 +18,18 @@ Designing of chitosan/gelatin based nanocomposite films integrated with Vachelli
 Culture dependent analysis of bacterial activity, biofilm-formation and oxidative stress of seawater with the contamination of microplastics under climate change consideration.|https://dx.doi.org/10.1016/j.scitotenv.2024.171103
 Preparation and characterization of carvacrol/ε-polylysine loaded antimicrobial nanobilayer emulsion and its application in mango preservation.|https://dx.doi.org/10.1016/j.foodchem.2024.138831
 TCM formula for trauma treatment screening and its role of promoting infectious wound coalescence investigating.|https://dx.doi.org/10.1016/j.rvsc.2024.105178
+Biogenic Ag(2)O nanoparticles with "Hoja Santa" (Piper auritum) extract: characterization and biological capabilities.|https://dx.doi.org/10.1007/s10534-024-00589-y
+A comparative phenotypic and genomic analysis of methicillin-resistant Staphylococcus aureus ST45 isolates from cellulitis and from osteomyelitis in Taiwan.|https://dx.doi.org/10.1093/infdis/jiae096
+Proansamycin B derivatives from the post-PKS modification gene deletion mutant of Amycolatopsis mediterranei S699.|https://dx.doi.org/10.1038/s41429-024-00708-4
+Evolutionary dynamics of the novel ST22-PT MRSA clone co-harbouring Panton-Valentine leucocidin and duplicated toxic shock syndrome toxin 1 genes.|https://dx.doi.org/10.1016/j.cmi.2024.02.020
+Novel membrane-targeting isoxanthohumol-amine conjugates for combating methicillin-resistant Staphylococcus aureus (MRSA) infections.|https://dx.doi.org/10.1016/j.ejmech.2024.116274
+A Versatile Chitosan-based Hydrogel Accelerates Infected Wound Healing via Bacterial Elimination, Antioxidation, Immunoregulation, and Angiogenesis.|https://dx.doi.org/10.1002/adhm.202400318
+Prevalence, Antibiotic Resistance, and Molecular Typing of Staphylococcus aureus Isolated from Ready-to-Eat Foods in Guangdong, South China.|https://dx.doi.org/10.1089/fpd.2023.0116
+Bloodstream infections: trends and evolution of incidence and etiology in a 12-year period (2010-2021).|https://dx.doi.org/10.1080/23744235.2024.2320333
+Methicillin-Resistant Staphylococcus Aureus And Its Antibiotic Sensitivity Pattern In Patients With Vesiculobullous Disorders.|https://dx.doi.org/10.55519/JAMC-04-11896
+Formulation and evaluation of antioxidant and antibacterial activity of a peel-off facial masks moisturizer containing curcumin and Rosa Damascena extract.|https://dx.doi.org/10.1111/jocd.16255
+Hydrogels Containing Chitosan-Modified Gold Nanoparticles Show Significant Efficacy in Healing Diabetic Wounds Infected with Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.2147/IJN.S448282
+Detecting circulating microbial cell-free DNA by next-generation sequencing in patients with Mycobacterium avium complex-lung disease: A pilot study.|https://dx.doi.org/10.4103/tcmj.tcmj_191_23
+Kinship analysis of mecA gene of methicillin-resistant Staphylococcus aureus isolated from milk and risk factors from the farmers in Blitar, Indonesia.|https://dx.doi.org/10.14202/vetworld.2024.216-225
+Development of antibodies against recombinant staphylococcal enterotoxin B from food poisoning cases.|https://dx.doi.org/10.14202/vetworld.2024.131-135
+Establishment and comparison of in situ detection models for foodborne pathogen contamination on mutton based on SWIR-HSI.|https://dx.doi.org/10.3389/fnut.2024.1325934

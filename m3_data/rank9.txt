@@ -7,3 +7,4 @@ Diagnostic performance of a multiplexed gastrointestinal PCR panel for identifyi
 Development of a Prediction Model to Identify the Risk of Clostridioides difficile Infection in Hospitalized Patients Receiving at Least One Dose of Antibiotics.|https://dx.doi.org/10.3390/pharmacy12010037
 A Real-World Study on the Clinical Characteristics, Outcomes, and Relationship between Antibiotic Exposure and Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antibiotics13020144
 Reviewing the Clostridioides difficile Mouse Model: Insights into Infection Mechanisms.|https://dx.doi.org/10.3390/microorganisms12020273
+The multiscale nexus among land use-land cover changes and water quality in the Suquía River Basin, a semi-arid region of Argentina.|https://dx.doi.org/10.1038/s41598-024-53604-0

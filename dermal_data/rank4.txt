@@ -36,3 +36,5 @@ Enhancing Chitosan Fibers: A Dual Approach with Tripolyphosphate and Ursolic Aci
 Photodynamic Antibacterial Therapy of Gallic Acid-Derived Carbon-Based Nanoparticles (GACNPs): Synthesis, Characterization, and Hydrogel Formulation.|https://dx.doi.org/10.3390/pharmaceutics16020254
 Synthesis of Starch-Based Ag(2)[Fe (CN)(5)NO] Nanoparticles for Utilization in Antibacterial and Wound-Dressing Applications.|https://dx.doi.org/10.3390/antiox13020154
 Antimicrobial Potency of Fmoc-Phe-Phe Dipeptide Hydrogels with Encapsulated Porphyrin Chromophores Is a Promising Alternative in Antimicrobial Resistance.|https://dx.doi.org/10.3390/biom14020226
+A Versatile Chitosan-based Hydrogel Accelerates Infected Wound Healing via Bacterial Elimination, Antioxidation, Immunoregulation, and Angiogenesis.|https://dx.doi.org/10.1002/adhm.202400318
+Hydrogels Containing Chitosan-Modified Gold Nanoparticles Show Significant Efficacy in Healing Diabetic Wounds Infected with Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.2147/IJN.S448282

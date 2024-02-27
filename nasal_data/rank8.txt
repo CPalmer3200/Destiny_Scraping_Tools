@@ -30,3 +30,21 @@ In Utero Diagnosis of Spinal Dermal Sinus.|https://dx.doi.org/10.1159/000536404
 Single-stage transcutaneous osseointegrated prosthesis for above-knee amputations including an antibiotic-loaded hydrogel. Preliminary results of a new surgical protocol.|https://dx.doi.org/10.1016/j.injury.2024.111424
 What can they expect? Decreased quality of life and increased postoperative complication rate in patients with a fracture-related infection.|https://dx.doi.org/10.1016/j.injury.2024.111425
 A clinical dimple on facial skin related to dental origin: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109415
+The global burden of cervical cancer requiring surgery: database estimates.|https://dx.doi.org/10.1186/s13027-023-00562-3
+Surgical treatment of acromioclavicular joint dislocation of Rockwood III/IV: a retrospective study on clavicular hook plate versus arthroscopic TightRope loop titanium button.|https://dx.doi.org/10.1186/s12891-024-07269-5
+Minimizing pain in deer antler removal: Local anaesthetics in ZnO nanoparticle based collagen dressings as a promising solution.|https://dx.doi.org/10.1016/j.ejpb.2024.114237
+Infection and Sepsis Trends during United States' Delivery Hospitalizations from 2000 to 2020.|https://dx.doi.org/10.1055/s-0044-1780538
+Characterization of a human H3N8 influenza virus.|https://dx.doi.org/10.1016/j.ebiom.2024.105034
+Enhanced Chemoradiotherapy for MRSA-Infected Osteomyelitis Using Immunomodulatory Polymer-Reinforced Nanotherapeutics.|https://dx.doi.org/10.1002/adma.202304991
+Impact of Anterior and Posterior Vault Distraction Osteogenesis (A-PVDO) and 3D-Printed Positioning/Shaping Templates in Apert Syndrome: A Case Series Study.|https://dx.doi.org/10.1097/SCS.0000000000010070
+Relationship Between Vitamin D Deficiency and Nonalcoholic Fatty Liver Disease in Patients With HIV-1 Infection.|https://dx.doi.org/10.1097/QAI.0000000000003359
+Surgical repair and replacement for native mitral valve infective endocarditis.|https://dx.doi.org/10.2459/JCM.0000000000001599
+Gastric fundic gland polyposis and cancer development after eradication of Helicobacter pylori in patient with gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS).|https://dx.doi.org/10.1007/s10120-024-01473-x
+Inflammatory myofibroblastoma mimicking cavernous hemangioma in the liver.|https://dx.doi.org/10.1111/liv.15884
+Impact of COVID-19 on cardiac surgery outcomes.|https://dx.doi.org/10.5830/CVJA-2023-065
+Percutaneous Endoscopic Unilateral-Approach Bilateral Decompression for Lumbar Spinal Stenosis.|https://dx.doi.org/10.3791/65456
+A Neural Implant Design Toolbox for Nonhuman Primates.|https://dx.doi.org/10.3791/66167
+Biofilm formation by Staphylococcus pseudintermedius on titanium implants.|https://dx.doi.org/10.1080/08927014.2024.2320721
+Salvage skull base surgery after proton beam therapy for recurrent sinonasal malignancies: A retrospective study.|https://dx.doi.org/10.1002/hed.27709
+Risk factors and outcomes in patients with severe Necrotizing fasciitis admitted to surgical intensive Care unit: a retrospective cohort study from pakistan.|https://dx.doi.org/10.55519/JAMC-S4-12426
+Practices Used to Improve Patient Safety Culture Among Healthcare Professionals in a Tertiary Care Hospital.|https://dx.doi.org/10.36401/JQSH-23-10

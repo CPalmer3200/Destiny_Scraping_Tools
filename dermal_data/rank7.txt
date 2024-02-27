@@ -5,3 +5,4 @@ A Glance into the Destiny of Transcriptomic Activity, Embodied by the HOX Genes,
 Portable smartphone-based molecular test for rapid detection of Leishmania spp.|https://dx.doi.org/10.1007/s15010-024-02179-z
 The association between rare complications and the use of acellular dermal matrix in patients undergoing implant-based breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2024.02.014
 Antiseptic, Hemostatic, and Wound Activity of Poly(vinylpyrrolidone)-Iodine Gel with Trimethyl Chitosan.|https://dx.doi.org/10.3390/ijms25042106
+Disseminated Aspergillus citrinoterreus and concurrent localized dermal phaeohyphomycosis in an immunosuppressed dog.|https://dx.doi.org/10.1002/ccr3.7573

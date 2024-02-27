@@ -18,3 +18,4 @@ Human Milk-Derived Enterococcus faecalis HM20: A Potential Alternative Agent of 
 Investigation of Staphylococcus aureus Biofilm-Associated Toxin as a Potential Squamous Cell Carcinoma Therapeutic.|https://dx.doi.org/10.3390/microorganisms12020293
 Sebum Components Dampen the Efficacy of Skin Disinfectants against Cutibacterium acnes Biofilms.|https://dx.doi.org/10.3390/microorganisms12020271
 Inhibition of Biofilm Formation in Cutibacterium acnes, Staphylococcus aureus, and Candida albicans by the Phytopigment Shikonin.|https://dx.doi.org/10.3390/ijms25042426
+Biofilm Microenvironment Activated Antibiotic Adjuvant for Implant-Associated Infections by Systematic Iron Metabolism Interference.|https://dx.doi.org/10.1002/advs.202400862
