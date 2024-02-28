@@ -33,3 +33,22 @@ Detecting circulating microbial cell-free DNA by next-generation sequencing in p
 Kinship analysis of mecA gene of methicillin-resistant Staphylococcus aureus isolated from milk and risk factors from the farmers in Blitar, Indonesia.|https://dx.doi.org/10.14202/vetworld.2024.216-225
 Development of antibodies against recombinant staphylococcal enterotoxin B from food poisoning cases.|https://dx.doi.org/10.14202/vetworld.2024.131-135
 Establishment and comparison of in situ detection models for foodborne pathogen contamination on mutton based on SWIR-HSI.|https://dx.doi.org/10.3389/fnut.2024.1325934
+Preparation and characterization of biodegradable food packaging films using lemon peel pectin and chitosan incorporated with neem leaf extract and its application on apricot fruit.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130358
+Exploring the emulsification potential of chitosan modified with phenolic acids: Emulsifying properties, functional activities, and application in curcumin encapsulation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130450
+Pullulan nanofibrous films incorporated with W/O emulsions via microfluidic solution blow spinning technology.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130437
+Near-infrared laser-assisted Ag@Chi-PB nanocompounds for synergistically eradicating multidrug-resistant bacteria and promoting diabetic abscess healing.|https://dx.doi.org/10.1016/j.biopha.2024.116311
+Phytochemical variations antioxidant, and antibacterial activities among zebaria sumac (Rhus coriaria var. zebaria) populations in Iraq.|https://dx.doi.org/10.1038/s41598-024-53635-7
+Thwarting resistance: MgrA inhibition with methylophiopogonanone a unveils a new battlefront against S. aureus.|https://dx.doi.org/10.1038/s41522-024-00485-w
+Olive oil nanoemulsion containing curcumin: antimicrobial agent against multidrug-resistant bacteria.|https://dx.doi.org/10.1007/s00253-024-13057-x
+Unravelling the complex interplay between antibiotic consumption and adaptive changes in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1093/jac/dkae048
+Repurposing cinacalcet suppresses multidrug-resistant Staphylococcus aureus by disruption of cell membrane and inhibits biofilm by targeting IcaR.|https://dx.doi.org/10.1093/jac/dkae051
+Nanotopology-Enabled On-Site Pathogen Detection for Managing Atopic Dermatitis.|https://dx.doi.org/10.1002/adhm.202303272
+Female Sex and Mortality in Patients with Staphylococcus aureus Bacteremia: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1001/jamanetworkopen.2024.0473
+Sterilization of Human Amniotic Membrane Using an Ozone Hydrodynamic System.|https://dx.doi.org/10.1007/s10439-024-03467-3
+Validation of a new risk stratification system-based management for methicillin-resistant Staphylococcus aureus bacteraemia: analysis of a multicentre prospective study.|https://dx.doi.org/10.1007/s10096-024-04790-2
+Development of Oxadiazolone Activity-Based Probes Targeting FphE for Specific Detection of Staphylococcus aureus Infections.|https://dx.doi.org/10.1021/jacs.3c13974
+The Biologically Active Biopolymer Silk: The Antibacterial Effects of Solubilized Bombyx mori Silk Fibroin with Common Wound Pathogens.|https://dx.doi.org/10.1002/adbi.202300115
+Macrolide antibiotics (including azithromycin) for cystic fibrosis.|https://dx.doi.org/10.1002/14651858.CD002203.pub5
+Synergistic bactericidal effects of phage-enhanced antibiotic therapy against MRSA biofilms.|https://dx.doi.org/10.1128/spectrum.03212-23
+Light, Copper, Action: Visible-Light Illumination Enhances Bactericidal Activity of Copper Particles.|https://dx.doi.org/10.1021/acsbiomaterials.3c01873
+A meta-analysis of the incidence of infections following open tibia fractures and the microorganisms that cause them in high-, middle- and low-income countries.|https://dx.doi.org/10.1177/00494755241232171

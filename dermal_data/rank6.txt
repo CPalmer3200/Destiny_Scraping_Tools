@@ -9,3 +9,4 @@ Microbiome: Role in Inflammatory Skin Diseases.|https://dx.doi.org/10.2147/JIR.S
 Melatonin restores DNFB-induced dysbiosis of skin microbiota in a mouse model of atopic dermatitis.|https://dx.doi.org/10.1016/j.lfs.2024.122513
 Prospective Randomized Double-Blind Vehicle-Controlled Study of Topical Coconut and Sunflower Seed Oil-Derived Isosorbide Diesters on Atopic Dermatitis.|https://dx.doi.org/10.1089/derm.2023.0329
 A Staphylococcus epidermidis strain inhibits the uptake of Staphylococcus aureus derived from atopic dermatitis skin into the keratinocytes.|https://dx.doi.org/10.1016/j.jdermsci.2024.01.006
+Nanotopology-Enabled On-Site Pathogen Detection for Managing Atopic Dermatitis.|https://dx.doi.org/10.1002/adhm.202303272

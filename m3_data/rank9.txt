@@ -8,3 +8,4 @@ Development of a Prediction Model to Identify the Risk of Clostridioides diffici
 A Real-World Study on the Clinical Characteristics, Outcomes, and Relationship between Antibiotic Exposure and Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antibiotics13020144
 Reviewing the Clostridioides difficile Mouse Model: Insights into Infection Mechanisms.|https://dx.doi.org/10.3390/microorganisms12020273
 The multiscale nexus among land use-land cover changes and water quality in the Suquía River Basin, a semi-arid region of Argentina.|https://dx.doi.org/10.1038/s41598-024-53604-0
+Toxic Megacolon: A Sequelae of Clostridioides difficile Infection in a Case of Necrotizing Fasciitis.|https://dx.doi.org/10.7759/cureus.53034

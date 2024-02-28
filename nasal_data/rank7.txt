@@ -42,3 +42,22 @@ A Broad-Spectrum Multi-Antigen mRNA/LNP-Based Pan-Coronavirus Vaccine Induced Po
 Increased reproductive tract infections among secondary school girls during the COVID-19 pandemic: associations with pandemic related stress, mental health, and domestic safety.|https://dx.doi.org/10.1101/2024.02.17.24302973
 Efficacy of Host Cell Serine Protease Inhibitor MM3122 against SARS-CoV-2 for Treatment and Prevention of COVID-19.|https://dx.doi.org/10.1101/2024.02.09.579701
 An Unprecedented Experience: Personal and Socio-Political Impacts of the COVID-19 Lockdown in Saudi Arabia.|https://dx.doi.org/10.7759/cureus.54857
+Access to telehealth and changes in diabetes care patterns during the pandemic: evidence from a large integrated health system in the Southeast USA.|https://dx.doi.org/10.1136/bmjdrc-2023-003882
+The role of Africa Centres for Disease Control and Prevention during response to COVID-19 pandemic in Africa: lessons learnt for future pandemics preparedness, prevention, and response.|https://dx.doi.org/10.1136/bmjgh-2023-014872
+Prescriptions of antidepressants and anxiolytics in France 2012-2022 and changes with the COVID-19 pandemic: interrupted time series analysis.|https://dx.doi.org/10.1136/bmjment-2024-301026
+Longitudinal Assessment of Hair Cortisol as a Predictor of Psychological Symptoms During COVID-19.|https://dx.doi.org/10.1016/j.psyneuen.2024.106991
+COVID-19 vaccination roll-out and uptake among refugees and migrants in Greece: a retrospective analysis of national vaccination routine data.|https://dx.doi.org/10.1016/j.puhe.2024.01.010
+(Over)crowded house: exploring asylum seekers' experiences of the COVID-19 pandemic while living at accommodation centers in Sweden.|https://dx.doi.org/10.1186/s12889-024-18089-6
+Mental health and resilience quotient of patients in primary care units during the widespread COVID-19 pandemic in Thailand: a cross-sectional study.|https://dx.doi.org/10.1186/s13030-023-00298-x
+The Influence of Health-Related Behavior Profiles on College Students' Perceptions of COVID-19 Safety Measures.|https://dx.doi.org/10.1007/s10900-024-01342-9
+Socio-demographic determinants of COVID-19 vaccine uptake in Ontario: Exploring differences across the Health Region model.|https://dx.doi.org/10.1016/j.vaccine.2024.02.045
+Characteristics of Hospitalized COVID-19 Patients at Admission and Factors Associated with Clinical Severity in Low- and Middle-Income Countries: An Observational Study.|https://dx.doi.org/10.4269/ajtmh.23-0456
+Work characteristics, workplace support and mental ill-health in a Canadian cohort of healthcare workers during the COVID-19 pandemic.|https://dx.doi.org/10.1097/JOM.0000000000003074
+An Automated Analysis Framework for Epidemiological Survey on COVID-19.|https://dx.doi.org/10.1109/JBHI.2024.3370253
+Viral RNA Replication Suppression of SARS-CoV-2: Atomistic Insights into Inhibition Mechanisms of RdRp Machinery by ddhCTP.|https://dx.doi.org/10.1021/acs.jcim.3c01919
+Optimization of Screening Strategies for COVID-19: Scoping Review.|https://dx.doi.org/10.2196/44349
+Determinants of COVID-19 Infection Among Employees of an Italian Financial Institution.|https://dx.doi.org/10.23749/mdl.v115i1.14690
+Timing of preventive behavior in the case of a new and evolving health risk: the case of COVID-19 vaccination.|https://dx.doi.org/10.1186/s13561-024-00484-9
+Determinants of health-related quality of life in healthy children and adolescents during the COVID-19 pandemic: Results from a prospective longitudinal cohort study.|https://dx.doi.org/10.1007/s00431-024-05459-w
+Reported need for and access to oral health care services during the COVID-19 pandemic in Canada.|https://dx.doi.org/10.25318/82-003-x202400200002-eng
+Telehealth use during the early COVID-19 public health emergency and subsequent health care costs and utilization.|https://dx.doi.org/10.1093/haschl/qxae001

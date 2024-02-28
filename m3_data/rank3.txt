@@ -3,3 +3,4 @@ Selective Capacitive Removal of Pb(2+) from Wastewater over Biochar Electrodes b
 Anaerobic antibiotic coverage in aspiration pneumonia and the associated benefits and harms: A retrospective cohort study.|https://dx.doi.org/10.1016/j.chest.2024.02.025
 Clostridioides difficile Infection in Kidney Transplant Recipients.|https://dx.doi.org/10.3390/pathogens13020140
 Comparison of Empiric Antibiotic Treatment Regimens for Hospitalized, Non-severe Community-acquired Pneumonia: A Retrospective, Multicenter Cohort Study.|https://dx.doi.org/10.1016/j.clinthera.2024.01.009
+Imaging of chronic thromboembolic pulmonary hypertension before, during and after balloon pulmonary angioplasty.|https://dx.doi.org/10.1016/j.diii.2024.02.005

@@ -27,3 +27,5 @@ The efficacy and safety of non-surgical treatment of diabetic foot wound infecti
 Fibroblasts in Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/ijms25042172
 The Differentiation Between Infection and Acute Charcot.|https://dx.doi.org/10.1016/j.ocl.2023.08.002
 Methicillin-Resistant Staphylococcus aureus Cellulitis Causing Meningitis From Hematogenous Dissemination: A Case Report.|https://dx.doi.org/10.7759/cureus.52969
+Sleep quality and its associated factors among patients with type 2 diabetes mellitus in Hunan, China: a cross-sectional study.|https://dx.doi.org/10.1136/bmjopen-2023-078146
+Implication of Low Plasma Arginine among Patients with Diabetic Foot Ulcer (DFU).|https://dx.doi.org/10.3923/pjbs.2024.46.51

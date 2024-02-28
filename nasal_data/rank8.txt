@@ -48,3 +48,19 @@ Biofilm formation by Staphylococcus pseudintermedius on titanium implants.|https
 Salvage skull base surgery after proton beam therapy for recurrent sinonasal malignancies: A retrospective study.|https://dx.doi.org/10.1002/hed.27709
 Risk factors and outcomes in patients with severe Necrotizing fasciitis admitted to surgical intensive Care unit: a retrospective cohort study from pakistan.|https://dx.doi.org/10.55519/JAMC-S4-12426
 Practices Used to Improve Patient Safety Culture Among Healthcare Professionals in a Tertiary Care Hospital.|https://dx.doi.org/10.36401/JQSH-23-10
+[Modified reverse puncture technique for esophagojejunostomy during totally laparoscopic total gastrectomy for gastric cancer].|https://dx.doi.org/10.3760/cma.j.cn441530-20230820-00058
+Neonatal pyocele originating from a urinary tract infection: a case report.|https://dx.doi.org/10.1186/s13256-024-04416-3
+Comparison of the effectiveness of two adjustable negative pressure ureteral access sheaths combined with flex ureteroscopy for ≤ 2 cm renal stones.|https://dx.doi.org/10.1038/s41598-024-55333-w
+Immunisation efficacy of a stabilised SARS-CoV-2 spike glycoprotein in two geriatric animal models.|https://dx.doi.org/10.1038/s41541-024-00840-0
+A threshold of 100 or more colony-forming units on the anesthesia machine predicts bacterial pathogen detection: a retrospective laboratory-based analysis.|https://dx.doi.org/10.1007/s12630-024-02707-3
+Comparing outcomes of single-use vs reusable ureteroscopes: a systematic review and meta analysis.|https://dx.doi.org/10.1007/s00240-024-01537-8
+Optimizing antibiotic management for patients with acute appendicitis: A quality improvement study.|https://dx.doi.org/10.1016/j.surg.2024.01.010
+Predictive value of C-reactive protein for postoperative liver-specific surgical site infections.|https://dx.doi.org/10.1016/j.surg.2024.01.030
+Exploration of the utility of different doses of Qingfei Dayuan granules: a multicenter, randomized, double-blind, placebo-controlled trial.|https://dx.doi.org/10.18632/aging.205601
+Clinical observation of Otitis Media Secretory during Covid-19.|https://dx.doi.org/10.1097/MAO.0000000000004158
+Balancing the scales: achieving the optimal beta-lactam to beta-lactamase inhibitor ratio with continuous infusion piperacillin/tazobactam against extended spectrum beta-lactamase producing Enterobacterales.|https://dx.doi.org/10.1128/aac.01404-23
+Diagnosis and management of secondary adrenal crisis.|https://dx.doi.org/10.1007/s11154-024-09877-x
+Anosmia or Ageusia Following COVID-19 Vaccination: A Systematic Review.|https://dx.doi.org/10.1177/01455613241233098
+Whole-genome sequencing of SARS-CoV-2 from the initial cases of domestic cat infections in Canada.|https://dx.doi.org/10.1128/mra.01295-23
+Coexisting of Primary Central Nervous System Lymphoma and Talaromyces marneffei Brain Abscess in an AIDS Patient, A Case Report and Review of the Literature.|https://dx.doi.org/10.2147/IDR.S432697
+A rare concomitant ipsilateral hip and knee dislocations: A case report and review of the literature.|https://dx.doi.org/10.1177/2050313X241233199

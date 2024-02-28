@@ -136,3 +136,15 @@ Variability of bile bacterial profiles and drug resistance in patients with chol
 Prescribing patterns of antimicrobials according to the WHO AWaRe classification at a tertiary referral hospital in the southern highlands of Tanzania.|https://dx.doi.org/10.1016/j.infpip.2024.100347
 Evaluation Of Anti-Inflammatory Efficacy Of Ascorbic Acid After Third Molar Surgery.|https://dx.doi.org/10.55519/JAMC-03-11901
 Primary Antibiotic Resistance And Effectiveness Of Clarithromycin Vs Metronidazole Based Therapy For Helicobacter Pylori Infection In Children.|https://dx.doi.org/10.55519/JAMC-03-11648
+Protective effect of microbisporicin (NAI-107) against vancomycin resistant Enterococcus faecium infection in a Galleria mellonella model.|https://dx.doi.org/10.1038/s41598-024-55262-8
+Thwarting resistance: MgrA inhibition with methylophiopogonanone a unveils a new battlefront against S. aureus.|https://dx.doi.org/10.1038/s41522-024-00485-w
+A threshold of 100 or more colony-forming units on the anesthesia machine predicts bacterial pathogen detection: a retrospective laboratory-based analysis.|https://dx.doi.org/10.1007/s12630-024-02707-3
+A man with neurologic symptoms during liver abscess treatment.|https://dx.doi.org/10.1016/j.ejim.2024.02.025
+Unravelling the complex interplay between antibiotic consumption and adaptive changes in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1093/jac/dkae048
+Central Nervous System Antimicrobial Exposure and Proposed Dosing for Anthrax Meningitis.|https://dx.doi.org/10.1093/cid/ciae093
+Management of Primary Sclerosing Cholangitis and Extraintestinal Disorders in Patients with Ileal Pouches: A Systemic Review.|https://dx.doi.org/10.1097/DCR.0000000000003231
+Ethambutol and meropenem/clavulanate synergy promotes enhanced extracellular and intracellular killing of Mycobacterium tuberculosis.|https://dx.doi.org/10.1128/aac.01586-23
+Synergistic bactericidal effects of phage-enhanced antibiotic therapy against MRSA biofilms.|https://dx.doi.org/10.1128/spectrum.03212-23
+A prototrophic suppressor of a Vibrio fischeri D-glutamate auxotroph reveals a member of the periplasmic broad-spectrum racemase family (BsrF).|https://dx.doi.org/10.1128/jb.00333-23
+Intracellular activity and in vivo efficacy in a mouse model of septic arthritis of the novel pseudopeptide Pep16 against Staphylococcus aureus clinical isolates.|https://dx.doi.org/10.1093/jacamr/dlae025
+Dosing and Exposure of Vancomycin With Continuous Infusion: A Retrospective Study.|https://dx.doi.org/10.1002/cpt.3221
