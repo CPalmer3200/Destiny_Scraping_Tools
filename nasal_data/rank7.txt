@@ -61,3 +61,22 @@ Timing of preventive behavior in the case of a new and evolving health risk: the
 Determinants of health-related quality of life in healthy children and adolescents during the COVID-19 pandemic: Results from a prospective longitudinal cohort study.|https://dx.doi.org/10.1007/s00431-024-05459-w
 Reported need for and access to oral health care services during the COVID-19 pandemic in Canada.|https://dx.doi.org/10.25318/82-003-x202400200002-eng
 Telehealth use during the early COVID-19 public health emergency and subsequent health care costs and utilization.|https://dx.doi.org/10.1093/haschl/qxae001
+[Barriers to entry into Ehpad since the Covid-19 crisis: a qualitative study of people over 65 in Marseille].|https://dx.doi.org/10.1016/j.sger.2024.01.006
+Impact and cost-effectiveness of SARS-CoV-2 self-testing strategies in schools: a multicountry modelling analysis.|https://dx.doi.org/10.1136/bmjopen-2023-078674
+Using cardiorespiratory fitness assessment to identify pathophysiology in long COVID - Best practice approaches.|https://dx.doi.org/10.1016/j.pcad.2024.02.005
+Geospatial disparities in youth sexually transmitted infections during COVID-19.|https://dx.doi.org/10.1016/j.amepre.2024.02.016
+Airborne ARGs/MGEs from two sewage types during the COVID-21: Population, microbe interactions, cytotoxicity, formation mechanism, and dispersion.|https://dx.doi.org/10.1016/j.watres.2024.121368
+P80 natural essence spray and lozenges provide respiratory protection against Influenza A, B, and SARS-CoV-2.|https://dx.doi.org/10.1186/s12931-024-02718-0
+Knowledge, risk perception and uptake of COVID-19 vaccination among internally displaced persons in complex humanitarian emergency setting, Northeast Nigeria.|https://dx.doi.org/10.1186/s12889-024-18164-y
+Human biomonitoring without in-person interaction: public health engagements during the COVID-19 pandemic and future implications.|https://dx.doi.org/10.1186/s12874-024-02165-x
+Behavioural determinants shaping infection prevention and control behaviour among healthcare workers in Dutch general practices: a qualitative study reflecting on pre-, during and post-COVID-19 pandemic.|https://dx.doi.org/10.1186/s12875-024-02304-9
+Risk factors and health behaviors associated with loneliness among cancer survivors during the COVID-19 pandemic.|https://dx.doi.org/10.1007/s10865-023-00465-z
+Control of complement-induced inflammatory responses to SARS-CoV-2 infection by anti-SARS-CoV-2 antibodies.|https://dx.doi.org/10.1038/s44318-024-00061-0
+How news reporting exacerbated the monkeypox pandemic in Spain and the US: A corpus-based news values analysis.|https://dx.doi.org/10.1080/17441692.2024.2320422
+Rise in broadly cross-reactive adaptive immunity against human β-coronaviruses in MERS-recovered patients during the COVID-19 pandemic.|https://dx.doi.org/10.1126/sciadv.adk6425
+The prevalence of anxiety and related factors among primary and secondary school teachers in Hanoi, Vietnam, during the COVID-19 pandemic in 2020.|https://dx.doi.org/10.1371/journal.pgph.0002932
+The Impact of COVID-19 Restrictions on Hospital Admissions of Common Head and Neck Infections.|https://dx.doi.org/10.1002/lary.31366
+Recent Patterns and Assessment of Long-term Complications following SARS-CoV-2 Infection and Vaccination in the Context of Diabetes Prevalence among Blood Donors.|https://dx.doi.org/10.2174/0115733998274390231110050809
+The influence of spirituality, religiosity, and self-care on well-being among Thai infection preventionists during the COVID-19 pandemic.|https://dx.doi.org/10.1017/ash.2023.510
+Utility of routine post-admission testing for SARS-CoV-2 in a rehabilitation facility.|https://dx.doi.org/10.1017/ash.2024.14
+Evaluation of community knowledge and attitude toward COVID-19: the case of Hawassa city, Sidama, Ethiopia.|https://dx.doi.org/10.3389/fpubh.2024.1286181

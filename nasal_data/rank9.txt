@@ -52,3 +52,22 @@ Macrolide antibiotics (including azithromycin) for cystic fibrosis.|https://dx.d
 Synergistic bactericidal effects of phage-enhanced antibiotic therapy against MRSA biofilms.|https://dx.doi.org/10.1128/spectrum.03212-23
 Light, Copper, Action: Visible-Light Illumination Enhances Bactericidal Activity of Copper Particles.|https://dx.doi.org/10.1021/acsbiomaterials.3c01873
 A meta-analysis of the incidence of infections following open tibia fractures and the microorganisms that cause them in high-, middle- and low-income countries.|https://dx.doi.org/10.1177/00494755241232171
+[Effects of cerium oxide nanoenzyme-gelatin methacrylate anhydride hydrogel in the repair of infected full-thickness skin defect wounds in mice].|https://dx.doi.org/10.3760/cma.j.cn501225-20231120-00201
+The Effect of Different Antibiotic Combinations in Calcium Sulfate Cement on the Growth of Cutibacterium acnes and Staphylococcus Periprosthetic Shoulder Infection Isolates.|https://dx.doi.org/10.1016/j.jse.2024.01.021
+Chemical components with antibacterial properties found in sanchen powder from traditional Tibetan medicine.|https://dx.doi.org/10.1016/j.jep.2024.117981
+MoO(3)/MIL-125-NH(2) with boosted peroxidase-like activity for electrochemical staphylococcus aureus sensing via specific recognition of bacteriophages.|https://dx.doi.org/10.1016/j.bios.2024.116134
+Sea hedgehog-inspired surface-enhanced Raman scattering biosensor probe for ultrasensitive determination of Staphylococcus aureus in food supplements.|https://dx.doi.org/10.1016/j.bios.2024.116146
+Crown-ether threaded covalent organic polyrotaxane framework (COPF) towards synergistic crown/Zn(2+)/photothermal/photodynamic antibacterial and infected wound healing therapy.|https://dx.doi.org/10.1016/j.bioadv.2024.213814
+[Infective endocarditis : In-hospital mortality predictive factors].|https://dx.doi.org/10.1016/j.ancard.2024.101740
+Confronting the complexities of antimicrobial management for Staphyloccous aureus causing bovine mastitis: an innovative paradigm.|https://dx.doi.org/10.1186/s13620-024-00264-1
+Exploring the phytoconstituents, antimicrobial potency, and cytotoxic effects of essential oil from Origanum punonense from Palestine.|https://dx.doi.org/10.1186/s12906-024-04395-4
+An anti-CRISPR that represses its own transcription while blocking Cas9-target DNA binding.|https://dx.doi.org/10.1038/s41467-024-45987-5
+Evaluation of Drug-Loaded and Surface-Adsorbed DNase/Tween-80 Solid Lipid Nanoparticles against Staphylococcus aureus Biofilms.|https://dx.doi.org/10.1021/acsabm.3c00887
+Oxidized alginate-gelatin (ADA-GEL)/silk fibroin/Cu-Ag doped mesoporous bioactive glass nanoparticle-based hydrogels for potential wound care treatments.|https://dx.doi.org/10.1088/1748-605X/ad2e0f
+Cryo-EM analysis of S. aureus TarL, a polymerase in wall teichoic acid biogenesis central to virulence and antibiotic resistance.|https://dx.doi.org/10.1126/sciadv.adj3864
+Interaction between Acanthamoeba and Staphylococcus.|https://dx.doi.org/10.1002/jobm.202300551
+Chimeric Amphiphilic Disinfectants: Quaternary Ammonium / Quaternary Phosphonium Hybrid Structures.|https://dx.doi.org/10.1002/cmdc.202300718
+Hygiene Measures and Decolonization of Staphylococcus aureus Made Simple for the Pediatric Practitioner.|https://dx.doi.org/10.1097/INF.0000000000004294
+Effect of Potassium Permanganate on Staphylococcal Isolates Derived from the Skin of Patients with Atopic Dermatitis.|https://dx.doi.org/10.2340/actadv.v104.18642
+Preventing biofilm formation and eradicating pathogenic bacteria by Zn doped histidine derived carbon quantum dots.|https://dx.doi.org/10.1039/d3tb02488a
+Identification of Candida albicans and non-MRSA Staphylococcus aureus in free-living amoebae isolated from the hospital wards; an alarm for distribution of nosocomial infections via FLA.|https://dx.doi.org/10.1080/09603123.2024.2323131

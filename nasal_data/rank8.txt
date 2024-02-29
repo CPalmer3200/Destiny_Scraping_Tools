@@ -64,3 +64,19 @@ Anosmia or Ageusia Following COVID-19 Vaccination: A Systematic Review.|https://
 Whole-genome sequencing of SARS-CoV-2 from the initial cases of domestic cat infections in Canada.|https://dx.doi.org/10.1128/mra.01295-23
 Coexisting of Primary Central Nervous System Lymphoma and Talaromyces marneffei Brain Abscess in an AIDS Patient, A Case Report and Review of the Literature.|https://dx.doi.org/10.2147/IDR.S432697
 A rare concomitant ipsilateral hip and knee dislocations: A case report and review of the literature.|https://dx.doi.org/10.1177/2050313X241233199
+[Clinical efficacy of posterior femoral muscle flaps combined with posterior femoral cutaneous nerve nutrient vessel flap and closed lavage in the treatment of stage Ⅳ ischial tuberosity pressure ulcers].|https://dx.doi.org/10.3760/cma.j.cn501225-20231017-00115
+[Perioperative management of wounds associated with secondary sternal osteomyelitis and/or mediastinitis after sternotomy and its clinical effects].|https://dx.doi.org/10.3760/cma.j.cn501225-20231028-00141
+Long-term safety of total knee arthroplasty in patients with chronic kidney disease in Taiwan: a retrospective cohort study.|https://dx.doi.org/10.1016/j.otsr.2024.103847
+Endoscopic Access to Brain abscess due to sinonasal infection.|https://dx.doi.org/10.1016/j.wneu.2024.02.105
+Transoperative Magnetic Resonance Imaging in awake glioma surgery: Experience in a Latin American tertiary-level center.|https://dx.doi.org/10.1016/j.wneu.2024.02.104
+Autologous Blood Patch Pleurodesis and Endobronchial Valves for Management of Persistent Air Leaks in Two Cases of Tuberculosis.|https://dx.doi.org/10.1159/000537992
+Soft-tissue reconstruction with pedicled vertical rectus abdominis myocutaneous flap after total or high sacrectomy for giant sacral tumor.|https://dx.doi.org/10.1016/j.bjps.2024.02.011
+Pragmatic Return to Effective Dental Infection Control through Triage and Testing (PREDICT): an observational, feasibility study to improve dental office safety.|https://dx.doi.org/10.1186/s40814-024-01471-x
+Multifunctional biomimetic hydrogel dressing provides anti-infection treatment and improves immunotherapy by reprogramming the infection-related wound microenvironment.|https://dx.doi.org/10.1186/s12951-024-02337-3
+Negative Pressure Wound Therapy With and Without Instillation in Necrotizing Soft Tissue Infections.|https://dx.doi.org/10.1089/sur.2023.299
+Familial Intraductal Papillary Mucinous Neoplasm Associated With the Germline MSH6 Missense Variant and Progression of Pancreatic cancer.|https://dx.doi.org/10.1097/MPA.0000000000002313
+Reconstruction of Broad Lower Lip Defects Using Karapandzic-Type Flaps.|https://dx.doi.org/10.1097/DSS.0000000000004148
+Herbal Products-powered Thermosensitive Hydrogel with Phototherapy and Microenvironment Reconstruction for Accelerating Multidrug-resistant Bacteria-infected Wound Healing.|https://dx.doi.org/10.1002/adhm.202400049
+Study on the relationship between the fitness of three types of N95 respirators and facial dimensions.|https://dx.doi.org/10.1080/15459624.2024.2311295
+Nationwide Propensity-Matched Comparison of Surgical Site Infections in Safety Net Hospitals.|https://dx.doi.org/10.1001/jamasurg.2023.7863
+Apoptosis and pyroptosis in the nasal mucosa of Syrian hamster during SARS-CoV-2 infection and reinfection.|https://dx.doi.org/10.1007/s10495-024-01940-x

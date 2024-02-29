@@ -35,3 +35,9 @@ Superb Microvascular Imaging in Pediatric Focal Nodular Hyperplasia.|https://dx.
 Optimizing antibiotic management for patients with acute appendicitis: A quality improvement study.|https://dx.doi.org/10.1016/j.surg.2024.01.010
 [Difficult-to-treat depression: an integrative approach to therapeutic resistance.].|https://dx.doi.org/10.1701/4211.42042
 Effect of a Virtual Reality Simulation Modality on Registered Nurse Knowledge and Behavior Related to Clostridioides difficile Prevention.|https://dx.doi.org/10.1097/NND.0000000000001042
+Treating Emotional Disorders in Spanish Children: A Controlled Randomized Trial in a Clinical Setting.|https://dx.doi.org/10.1016/j.beth.2023.07.003
+Real-World Retrospective Analysis of Alemtuzumab Outcomes in Relapsing-Remitting Multiple Sclerosis: The LEMCAM Study.|https://dx.doi.org/10.1007/s40263-024-01066-3
+Therapeutic developments for tuberculosis and nontuberculous mycobacterial lung disease.|https://dx.doi.org/10.1038/s41573-024-00897-5
+Clinical decision support for gastrointestinal panel testing.|https://dx.doi.org/10.1017/ash.2024.15
+Changing the culture: impact of a diagnostic stewardship intervention for urine culture testing and CAUTI prevention in an urban safety-net community hospital.|https://dx.doi.org/10.1017/ash.2024.12
+Long-term clinical outcomes in patients with multiple sclerosis who are initiating disease-modifying therapy with natalizumab compared with BRACETD first-line therapies.|https://dx.doi.org/10.1177/17562864231221331

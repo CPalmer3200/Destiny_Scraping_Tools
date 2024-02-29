@@ -148,3 +148,13 @@ Synergistic bactericidal effects of phage-enhanced antibiotic therapy against MR
 A prototrophic suppressor of a Vibrio fischeri D-glutamate auxotroph reveals a member of the periplasmic broad-spectrum racemase family (BsrF).|https://dx.doi.org/10.1128/jb.00333-23
 Intracellular activity and in vivo efficacy in a mouse model of septic arthritis of the novel pseudopeptide Pep16 against Staphylococcus aureus clinical isolates.|https://dx.doi.org/10.1093/jacamr/dlae025
 Dosing and Exposure of Vancomycin With Continuous Infusion: A Retrospective Study.|https://dx.doi.org/10.1002/cpt.3221
+The Effect of Different Antibiotic Combinations in Calcium Sulfate Cement on the Growth of Cutibacterium acnes and Staphylococcus Periprosthetic Shoulder Infection Isolates.|https://dx.doi.org/10.1016/j.jse.2024.01.021
+Impact of humanized vancomycin infusion on kidney function and kidney injury in a translational rat model.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107118
+Microencapsulated Benzoyl Peroxide for Rosacea in Context: A Review of the Current Treatment Landscape.|https://dx.doi.org/10.1007/s40265-024-02003-w
+Bayesian Vancomycin Model Selection for Therapeutic Drug Monitoring in Neonates.|https://dx.doi.org/10.1007/s40262-024-01353-8
+Primary antibiotic resistance of Helicobacter pylori in India over the past two decades: A systematic review.|https://dx.doi.org/10.1111/hel.13057
+Nephrotoxic Risk Associated With Combination Therapy of Vancomycin and Piperacillin-Tazobactam in Critically Ill Patients With Chronic Kidney Disease.|https://dx.doi.org/10.1177/08850666241234577
+Metronidazole overexposure in children and its association with new-onset Crohn's disease (IBD).|https://dx.doi.org/10.1017/ash.2024.20
+When is vancomycin prophylaxis necessary? Risk factors for MRSA surgical site infection.|https://dx.doi.org/10.1017/ash.2024.7
+Microbiology and Antimicrobial Susceptibility in Adult Dacryocystitis.|https://dx.doi.org/10.2147/OPTH.S452707
+Development of a model to predict vancomycin serum concentration during continuous infusion of vancomycin in critically ill pediatric patients.|https://dx.doi.org/10.4196/kjpp.2024.28.2.121

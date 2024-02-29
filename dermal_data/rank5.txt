@@ -19,3 +19,6 @@ Investigation of Staphylococcus aureus Biofilm-Associated Toxin as a Potential S
 Sebum Components Dampen the Efficacy of Skin Disinfectants against Cutibacterium acnes Biofilms.|https://dx.doi.org/10.3390/microorganisms12020271
 Inhibition of Biofilm Formation in Cutibacterium acnes, Staphylococcus aureus, and Candida albicans by the Phytopigment Shikonin.|https://dx.doi.org/10.3390/ijms25042426
 Biofilm Microenvironment Activated Antibiotic Adjuvant for Implant-Associated Infections by Systematic Iron Metabolism Interference.|https://dx.doi.org/10.1002/advs.202400862
+Effect of Potassium Permanganate on Staphylococcal Isolates Derived from the Skin of Patients with Atopic Dermatitis.|https://dx.doi.org/10.2340/actadv.v104.18642
+Transdermal administration of farnesol-ethosomes enhances the treatment of cutaneous candidiasis induced by Candida albicans in mice.|https://dx.doi.org/10.1128/spectrum.04247-23
+An exploration of mechanisms underlying Desemzia incerta colonization resistance to methicillin-resistant Staphylococcus aureus on the skin.|https://dx.doi.org/10.1128/msphere.00636-23

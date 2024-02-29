@@ -39,3 +39,5 @@ Antimicrobial Potency of Fmoc-Phe-Phe Dipeptide Hydrogels with Encapsulated Porp
 A Versatile Chitosan-based Hydrogel Accelerates Infected Wound Healing via Bacterial Elimination, Antioxidation, Immunoregulation, and Angiogenesis.|https://dx.doi.org/10.1002/adhm.202400318
 Hydrogels Containing Chitosan-Modified Gold Nanoparticles Show Significant Efficacy in Healing Diabetic Wounds Infected with Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.2147/IJN.S448282
 The Biologically Active Biopolymer Silk: The Antibacterial Effects of Solubilized Bombyx mori Silk Fibroin with Common Wound Pathogens.|https://dx.doi.org/10.1002/adbi.202300115
+Oxidized alginate-gelatin (ADA-GEL)/silk fibroin/Cu-Ag doped mesoporous bioactive glass nanoparticle-based hydrogels for potential wound care treatments.|https://dx.doi.org/10.1088/1748-605X/ad2e0f
+Herbal Products-powered Thermosensitive Hydrogel with Phototherapy and Microenvironment Reconstruction for Accelerating Multidrug-resistant Bacteria-infected Wound Healing.|https://dx.doi.org/10.1002/adhm.202400049
