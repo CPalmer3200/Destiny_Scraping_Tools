@@ -158,3 +158,11 @@ Metronidazole overexposure in children and its association with new-onset Crohn'
 When is vancomycin prophylaxis necessary? Risk factors for MRSA surgical site infection.|https://dx.doi.org/10.1017/ash.2024.7
 Microbiology and Antimicrobial Susceptibility in Adult Dacryocystitis.|https://dx.doi.org/10.2147/OPTH.S452707
 Development of a model to predict vancomycin serum concentration during continuous infusion of vancomycin in critically ill pediatric patients.|https://dx.doi.org/10.4196/kjpp.2024.28.2.121
+Costs-effectiveness and cost components of pharmaceutical and non-pharmaceutical interventions affecting antibiotic resistance outcomes in hospital patients: a systematic literature review.|https://dx.doi.org/10.1136/bmjgh-2023-013205
+Antibiotic exposure and risk of new-onset inflammatory bowel disease: a systematic review and dose-response meta-analysis.|https://dx.doi.org/10.1016/j.cgh.2024.02.010
+Cerebrospinal fluid drain infection caused by pandrug-resistant Staphylococcus epidermidis successfully treated with ceftaroline in combination with fosfomycin and vancomycin.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116205
+AMXT-1501 targets membrane phospholipids against Gram-positive and -negative multidrug-resistant bacteria.|https://dx.doi.org/10.1080/22221751.2024.2321981
+Severe Intraocular Inflammation Following Intravitreal Faricimab.|https://dx.doi.org/10.1001/jamaophthalmol.2024.0530
+Intra-articular Vancomycin Reduces Prosthetic Infection in Primary Hip and Knee Arthroplasty.|https://dx.doi.org/10.1016/j.artd.2024.101333
+Unraveling the antimicrobial potential of Lactiplantibacillus plantarum strains TE0907 and TE1809 sourced from Bufo gargarizans: advancing the frontier of probiotic-based therapeutics.|https://dx.doi.org/10.3389/fmicb.2024.1347830
+Novel Ti surface coated with PVA hydrogel and chitosan nanoparticles with antibacterial drug release: An experimental in vitro study.|https://dx.doi.org/10.1111/cid.13305

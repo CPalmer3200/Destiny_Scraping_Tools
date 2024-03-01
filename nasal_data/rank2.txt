@@ -2,3 +2,4 @@ Exhaled Breath Analysis Detects the Clearance of Staphylococcus aureus from the 
 Reduced Glycolysis and Cytotoxicity in Staphylococcus aureus Isolates from Chronic Rhinosinusitis as Strategies for Host Adaptation.|https://dx.doi.org/10.3390/ijms25042229
 An observational study demonstrates human-adapted Staphylococcus aureus strains have a higher frequency of antibiotic resistance compared to cattle-adapted strains isolated from dairy farms making farmstead cheese.|https://dx.doi.org/10.1186/s12917-024-03910-6
 Improving Compliance with Preoperative Nasal Povidone-Iodine to Prevent Surgical Site Infection in Vascular and Neurosurgery Services in a Community Teaching Hospital.|https://dx.doi.org/10.1097/JMQ.0000000000000172
+A Method Based on a Modified Fluorescence In Situ Hybridization (FISH) Approach for the Sensing of Staphylococcus aureus from Nasal Samples.|https://dx.doi.org/10.1007/s12010-024-04892-9

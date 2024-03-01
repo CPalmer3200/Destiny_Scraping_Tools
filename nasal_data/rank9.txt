@@ -71,3 +71,19 @@ Hygiene Measures and Decolonization of Staphylococcus aureus Made Simple for the
 Effect of Potassium Permanganate on Staphylococcal Isolates Derived from the Skin of Patients with Atopic Dermatitis.|https://dx.doi.org/10.2340/actadv.v104.18642
 Preventing biofilm formation and eradicating pathogenic bacteria by Zn doped histidine derived carbon quantum dots.|https://dx.doi.org/10.1039/d3tb02488a
 Identification of Candida albicans and non-MRSA Staphylococcus aureus in free-living amoebae isolated from the hospital wards; an alarm for distribution of nosocomial infections via FLA.|https://dx.doi.org/10.1080/09603123.2024.2323131
+Cyclic Amines Coupled to Indole Derivatives With Improved Efflux Pump Inhibiting Activity in Bacteria and Cancer Cells.|https://dx.doi.org/10.21873/anticanres.16910
+Piperine, a phytochemical prevents the biofilm city of methicillin-resistant Staphylococcus aureus: A biochemical approach to understand the underlying mechanism.|https://dx.doi.org/10.1016/j.micpath.2024.106601
+Bioaerosolization behaviour of potential pathogenic microorganisms from wastewater treatment plants: Occurrence profile, social function and health risks.|https://dx.doi.org/10.1016/j.scitotenv.2024.171300
+Transcriptome analysis reveals the inhibitory mechanism of phloretin on virulence expression of Staphylococcus aureus and its application in cooked chicken.|https://dx.doi.org/10.1016/j.ijfoodmicro.2024.110647
+Comparison of disease and economic burden between MRSA infection and MRSA colonization in a university hospital: a retrospective data integration study.|https://dx.doi.org/10.1186/s13756-024-01383-8
+Antimicrobial and anti-biofilm efficacy of different inorganic and organic zinc forms against multidrug-resistant Escherichia, Klebsiella, Staphylococcus and Pseudomonas.|https://dx.doi.org/10.1007/s11259-024-10339-7
+Synthesis, Structure-Activity Relationship Study, Bioactivity, and Nephrotoxicity Evaluation of the Proposed Structure of the Cyclic Lipodepsipeptide Brevicidine B.|https://dx.doi.org/10.1021/acs.jnatprod.3c00876
+Structures, physical properties and antibacterial activity of silver nanoparticles of Lactiplantibacillus plantarum exopolysaccharide.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130083
+Role of viable but non culturable cells in patients with cystic fibrosis in the era of highly effective modulator therapy.|https://dx.doi.org/10.1016/j.jcf.2024.02.013
+AMXT-1501 targets membrane phospholipids against Gram-positive and -negative multidrug-resistant bacteria.|https://dx.doi.org/10.1080/22221751.2024.2321981
+Chronicity Counts: The Impact of P. aeruginosa, S. aureus, and Co-Infection in Cystic Fibrosis.|https://dx.doi.org/10.1164/rccm.202312-2326LE
+Chemical profile and biological potential of essential oil of Psidium bahianum Landrum & Funch (Myrtaceae).|https://dx.doi.org/10.1590/1519-6984.28048
+Effect of cationic surfactant on the physicochemical and antibacterial properties of colloidal systems (emulsions and microemulsions).|https://dx.doi.org/10.1590/1519-6984.278013
+Characterization of bergamot essential oil: chemical, microbiological and colloidal aspects.|https://dx.doi.org/10.1590/1519-6984.275622
+Granulocytic myeloid-derived suppressor cell activity during biofilm infection is regulated by a glycolysis-HIF1a axis.|https://dx.doi.org/10.1172/JCI174051
+Antimicrobial Activity of Three Italian Strains of Morchella esculenta (Ascomycota).|https://dx.doi.org/10.1615/IntJMedMushrooms.2023051956

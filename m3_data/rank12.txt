@@ -41,3 +41,5 @@ Therapeutic developments for tuberculosis and nontuberculous mycobacterial lung 
 Clinical decision support for gastrointestinal panel testing.|https://dx.doi.org/10.1017/ash.2024.15
 Changing the culture: impact of a diagnostic stewardship intervention for urine culture testing and CAUTI prevention in an urban safety-net community hospital.|https://dx.doi.org/10.1017/ash.2024.12
 Long-term clinical outcomes in patients with multiple sclerosis who are initiating disease-modifying therapy with natalizumab compared with BRACETD first-line therapies.|https://dx.doi.org/10.1177/17562864231221331
+Cation-exchange fibers and silver nanoparticles-modified carbon electrodes for selective removal of hardness ions and simultaneous deactivation of microorganisms in capacitive deionization.|https://dx.doi.org/10.1016/j.scitotenv.2024.171318
+Integrated hierarchical porous lignin-based carbon electrode for boosting membrane-free capacitive deionization areal adsorption capacity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130065

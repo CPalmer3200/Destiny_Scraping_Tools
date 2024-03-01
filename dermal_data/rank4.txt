@@ -41,3 +41,4 @@ Hydrogels Containing Chitosan-Modified Gold Nanoparticles Show Significant Effic
 The Biologically Active Biopolymer Silk: The Antibacterial Effects of Solubilized Bombyx mori Silk Fibroin with Common Wound Pathogens.|https://dx.doi.org/10.1002/adbi.202300115
 Oxidized alginate-gelatin (ADA-GEL)/silk fibroin/Cu-Ag doped mesoporous bioactive glass nanoparticle-based hydrogels for potential wound care treatments.|https://dx.doi.org/10.1088/1748-605X/ad2e0f
 Herbal Products-powered Thermosensitive Hydrogel with Phototherapy and Microenvironment Reconstruction for Accelerating Multidrug-resistant Bacteria-infected Wound Healing.|https://dx.doi.org/10.1002/adhm.202400049
+A Method Based on a Modified Fluorescence In Situ Hybridization (FISH) Approach for the Sensing of Staphylococcus aureus from Nasal Samples.|https://dx.doi.org/10.1007/s12010-024-04892-9

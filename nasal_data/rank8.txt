@@ -80,3 +80,20 @@ Herbal Products-powered Thermosensitive Hydrogel with Phototherapy and Microenvi
 Study on the relationship between the fitness of three types of N95 respirators and facial dimensions.|https://dx.doi.org/10.1080/15459624.2024.2311295
 Nationwide Propensity-Matched Comparison of Surgical Site Infections in Safety Net Hospitals.|https://dx.doi.org/10.1001/jamasurg.2023.7863
 Apoptosis and pyroptosis in the nasal mucosa of Syrian hamster during SARS-CoV-2 infection and reinfection.|https://dx.doi.org/10.1007/s10495-024-01940-x
+No Difference in Revision Rates up to 10 years Following Total Hip Arthroplasty in Patients Who Had Prior Bariatric Surgery When Compared to Patients Who Had Class III Obesity: A Propensity Matched Analysis.|https://dx.doi.org/10.1016/j.arth.2024.02.065
+Development of an Infection Prevention and Control pathway to facilitate high throughput cataract surgery in Scotland.|https://dx.doi.org/10.1016/j.jhin.2024.02.009
+Magnetically driven antegrade intramedullary lengthening nails for tibial lengthening.|https://dx.doi.org/10.1302/0301-620X.106B3.BJJ-2023-0909.R1
+Does the use of surgical face masks reduce postoperative infections in traumatic wounds sutured outside hospital? A randomized study at a Norwegian casualty center.|https://dx.doi.org/10.1080/02813432.2024.2315438
+Registry-based study of survivorship of cemented femoral components versus collared cementless femoral components in total hip arthroplasty in older patients with osteoarthritis.|https://dx.doi.org/10.1302/0301-620X.106B3.BJJ-2023-0771.R1
+Comprehensive functional outcome analysis and importance of bone remodelling on personalized cranioplasty treatment using Poly(methyl methacrylate) bone flaps.|https://dx.doi.org/10.1177/08853282241235884
+Low energy gunshot injuries: Does removal of retained bullet fragmentation at the time of internal fixation reduce the risk of fracture related infection?|https://dx.doi.org/10.1016/j.injury.2024.111423
+Intranasal booster vaccination of beef steers reduces clinical signs following experimental coinfection with BRSV and BHV-1 without reducing shedding of BRD-associated bacteria.|https://dx.doi.org/10.2460/ajvr.23.11.0266
+Current state of neuroprotective therapy using antibiotics in human traumatic brain injury and animal models.|https://dx.doi.org/10.1186/s12868-024-00851-6
+Effect of right internal mammary artery versus radial artery as a second graft vessel in coronary artery bypass grafting on postoperative wound infection in patients: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14592
+Epstein-Barr in a Patient Presenting with Right Upper Quadrant Pain: A Case Report from the Emergency Department.|https://dx.doi.org/10.1016/j.jemermed.2023.10.005
+Contamination of equipment and surfaces in the operating room anesthesia workspace: a cross-sectional study.|https://dx.doi.org/10.1590/1516-3180.2023.0177.R1.291123
+Periprosthetic hip infections caused by Brucella: a rare case report and literature review.|https://dx.doi.org/10.1177/03000605241234050
+Case Management in Prevention of 30-Day Readmission in Post-Coronary Artery Bypass Graft Surgery.|https://dx.doi.org/10.1097/NCM.0000000000000718
+Oritavancin Versus Daptomycin for Osteomyelitis Treatment After Surgical Debridement.|https://dx.doi.org/10.1007/s40121-024-00925-2
+Open versus arthroscopic treatment of the rheumatoid elbow arthritis: a comparison of complications at two years utilizing a nationally representative database.|https://dx.doi.org/10.1007/s00590-024-03842-9
+Cardiac interventions on total knee arthroplasty: a national inpatient sample-based analysis.|https://dx.doi.org/10.1007/s00402-024-05225-5

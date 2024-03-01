@@ -31,3 +31,5 @@ Sleep quality and its associated factors among patients with type 2 diabetes mel
 Implication of Low Plasma Arginine among Patients with Diabetic Foot Ulcer (DFU).|https://dx.doi.org/10.3923/pjbs.2024.46.51
 Exploring the phytoconstituents, antimicrobial potency, and cytotoxic effects of essential oil from Origanum punonense from Palestine.|https://dx.doi.org/10.1186/s12906-024-04395-4
 Population pharmacokinetic rationale for intravenous contezolid acefosamil followed by oral contezolid dosage regimens.|https://dx.doi.org/10.1128/aac.01400-23
+Promising Phytoconstituents in Diabetes-related Wounds: Mechanistic Insights and Implications.|https://dx.doi.org/10.2174/0115733998279112240129074457
+MRSA infection, re-infection and clinical outcomes in diabetic foot infections.|https://dx.doi.org/10.1111/wrr.13164

@@ -34,3 +34,10 @@ MRSA throat carriage in two healthcare workers.|https://dx.doi.org/10.4045/tidss
 Mini-Review on Vitamin D in Pediatric Population and its Role in Respiratory and Atopic Disorders.|https://dx.doi.org/10.2174/0113895575284873240212045431
 When is vancomycin prophylaxis necessary? Risk factors for MRSA surgical site infection.|https://dx.doi.org/10.1017/ash.2024.7
 Assessing the efficacy of Naoxintong capsules on wound healing in post-craniotomy patients: A clinical perspective.|https://dx.doi.org/10.1111/iwj.14806
+Costs-effectiveness and cost components of pharmaceutical and non-pharmaceutical interventions affecting antibiotic resistance outcomes in hospital patients: a systematic literature review.|https://dx.doi.org/10.1136/bmjgh-2023-013205
+Interim Effectiveness of Updated 2023-2024 (Monovalent XBB.1.5) COVID-19 Vaccines Against COVID-19-Associated Emergency Department and Urgent Care Encounters and Hospitalization Among Immunocompetent Adults Aged ≥18 Years - VISION and IVY Networks, September 2023-January 2024.|https://dx.doi.org/10.15585/mmwr.mm7308a5
+Interim Estimates of 2023-24 Seasonal Influenza Vaccine Effectiveness - United States.|https://dx.doi.org/10.15585/mmwr.mm7308a3
+Comparative Complications Associated With BMP Use In Patients Undergoing ACDF for Degenerative Spinal Conditions: Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1177/21925682231166325
+Effectiveness of Tocilizumab in the Treatment of a Recent Kidney Transplant Recipient With COVID-19.|https://dx.doi.org/10.7759/cureus.53163
+Community Screening for High-Risk Human Papilloma Virus Infection using Self-Sampling and 'Point-Of-Care' Test.|https://dx.doi.org/10.31557/APJCP.2024.25.2.653
+Efficacy of SARS-CoV-2 Vaccine Doses in Allogeneic Hemopoietic Stem Cell Recipients: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.31557/APJCP.2024.25.2.393
