@@ -87,3 +87,15 @@ Effect of cationic surfactant on the physicochemical and antibacterial propertie
 Characterization of bergamot essential oil: chemical, microbiological and colloidal aspects.|https://dx.doi.org/10.1590/1519-6984.275622
 Granulocytic myeloid-derived suppressor cell activity during biofilm infection is regulated by a glycolysis-HIF1a axis.|https://dx.doi.org/10.1172/JCI174051
 Antimicrobial Activity of Three Italian Strains of Morchella esculenta (Ascomycota).|https://dx.doi.org/10.1615/IntJMedMushrooms.2023051956
+Staphylococcal scalded skin syndrome in neonate: Another face of CA-MRSA.|https://dx.doi.org/10.4103/ijpm.ijpm_833_23
+High-Density Dynamic Bonds Cross-Linked Hydrogel with Tissue Adhesion, Highly Efficient Self-Healing Behavior, and NIR Photothermal Antibacterial Ability as Dressing for Wound Repair.|https://dx.doi.org/10.1021/acs.biomac.3c01443
+Characterizations of Centrifugal Electrospun Polyvinyl alcohol/Sodium alginate/Tamanu oil/Silver nanoparticles Wound Dressing.|https://dx.doi.org/10.1109/TNB.2024.3371224
+Dalbavancin Sequential Therapy for Gram-Positive Bloodstream Infection: A Multicenter Observational Study.|https://dx.doi.org/10.1007/s40121-024-00933-2
+Experimentally evolved Staphylococcus aureus shows increased survival in the presence of Pseudomonas aeruginosa by acquiring mutations in the amino acid transporter, GltT.|https://dx.doi.org/10.1099/mic.0.001445
+L-arginine supplementation abrogates hypoxia-induced virulence of Staphylococcus aureus in a murine diabetic pressure wound model.|https://dx.doi.org/10.1128/msphere.00774-23
+Effect of Co-Surfactants on Properties and Bactericidal Activity of Cu(2) O and Hybrid Cu(2) O/Ag Particles.|https://dx.doi.org/10.1002/open.202300274
+An alternative peptone preparation using Hermetia illucens (Black soldier fly) hydrolysis: process optimization and performance evaluation.|https://dx.doi.org/10.7717/peerj.16995
+Corrigendum: ESKAPEE pathogens newly released from biofilm residence by a targeted monoclonal are sensitized to killing by traditional antibiotics.|https://dx.doi.org/10.3389/fmicb.2024.1382491
+Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2017-2021.|https://dx.doi.org/10.14745/ccdr.v49i05a09
+Antimicrobial potential of a biosurfactant gel for the prevention of mixed biofilms formed by fluconazole-resistant C. albicans and methicillin-resistant S. aureus in catheters.|https://dx.doi.org/10.1080/08927014.2024.2324028
+Immunoglobulin free light chains in severe asthma patient: Could they be a new biomarker?|https://dx.doi.org/10.1111/all.16082

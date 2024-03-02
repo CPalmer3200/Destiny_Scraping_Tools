@@ -41,3 +41,10 @@ Comparative Complications Associated With BMP Use In Patients Undergoing ACDF fo
 Effectiveness of Tocilizumab in the Treatment of a Recent Kidney Transplant Recipient With COVID-19.|https://dx.doi.org/10.7759/cureus.53163
 Community Screening for High-Risk Human Papilloma Virus Infection using Self-Sampling and 'Point-Of-Care' Test.|https://dx.doi.org/10.31557/APJCP.2024.25.2.653
 Efficacy of SARS-CoV-2 Vaccine Doses in Allogeneic Hemopoietic Stem Cell Recipients: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.31557/APJCP.2024.25.2.393
+Prevalence and Characteristics of Influenza Cases From 2017 to 2019 at a Tertiary Care Teaching Hospital in Karnataka.|https://dx.doi.org/10.7759/cureus.53205
+Separating Out Pulmonary Sequestration.|https://dx.doi.org/10.7759/cureus.53190
+Conservative versus Surgical Treatment of Pneumatosis Intestinalis: Experience from a Multidisciplinary Center.|https://dx.doi.org/10.12659/AJCR.943166
+The Real-World Foundation of Adapting Clinical Guidelines for the Digital Age.|https://dx.doi.org/10.1097/JMQ.0000000000000167
+Systematic scoping review of automated systems for the surveillance of healthcare-associated bloodstream infections related to intravascular catheters.|https://dx.doi.org/10.1186/s13756-024-01380-x
+A Focused Review of Epstein-Barr Virus Infections and PTLD in Pediatric Transplant Recipients: Guidance From the IPTA and ECIL Guidelines.|https://dx.doi.org/10.1093/jpids/piad097
+Pre-Transplantation Strategies for Infectious Disease Mitigation and Prevention.|https://dx.doi.org/10.1093/jpids/piad075

@@ -98,3 +98,15 @@ International and domestic university students' mental health over the course of
 The organization-level and physician-level factors associated with primary care physicians' confidence in pandemic response: A multilevel study in China.|https://dx.doi.org/10.1371/journal.pone.0295570
 Type 2 diabetes post pandemic: enabling your patients to regain control.|https://dx.doi.org/10.12968/bjcn.2024.29.3.124
 Are thoughts and behaviours of individuals with schizophrenia more susceptible to being influenced during pandemic situations? A glimpse provided by the COVID-19 pandemic.|https://dx.doi.org/10.1007/s00406-024-01771-6
+Vaccination impact on impending HIV-COVID-19 dual epidemic with autogenous behavior modification: Hill-type functional response and premeditated optimization technique.|https://dx.doi.org/10.1063/5.0186156
+Emotion regulation moderates the association between COVID-19 stress and mental distress: findings on buffering, exacerbation, and gender differences in a cross-sectional study from Norway.|https://dx.doi.org/10.3389/fpsyg.2023.1121986
+Knowledge, attitudes, and practices toward COVID-19 and its prevention among medical and dental students in an educational institution in Telangana.|https://dx.doi.org/10.4103/ijpm.ijpm_582_23
+Experiences of students on virtual education in Iranian medical science universities during the COVID-19 pandemic: A qualitative study.|https://dx.doi.org/10.3233/WOR-230328
+Dosing of Convalescent Plasma and Hyperimmune Anti-SARS-CoV-2 Immunoglobulins: A Phase I/II Dose-Finding Study.|https://dx.doi.org/10.1007/s40262-024-01351-w
+The relationship between maladaptive health beliefs, pandemic-related stress, and health anxiety during the COVID-19 pandemic.|https://dx.doi.org/10.5114/hpr/169169
+Data resource profile: COVid VAXines effects on the aged (COVVAXAGE).|https://dx.doi.org/10.23889/ijpds.v8i6.2170
+Norovirus in children under 2 years of age: an epidemiological study in Panama during the COVID-19 pandemic.|https://dx.doi.org/10.3389/fped.2024.1292967
+Persistent Critical Illness and Long-Term Outcomes in Patients With COVID-19: A Multicenter Retrospective Cohort Study.|https://dx.doi.org/10.1097/CCE.0000000000001057
+Comprehensive analysis of the potential pathogenesis of COVID-19 infection and liver cancer.|https://dx.doi.org/10.4251/wjgo.v16.i2.436
+Impact of Perceived and Collective Norms on COVID-19 Preventive Behaviors in 23 Countries: A Multi-Level Approach.|https://dx.doi.org/10.1080/10410236.2024.2320412
+Nudging Public Health Behaviors to Prevent COVID-19: A Systematic Review.|https://dx.doi.org/10.1080/10410236.2024.2317567

@@ -43,3 +43,5 @@ Changing the culture: impact of a diagnostic stewardship intervention for urine 
 Long-term clinical outcomes in patients with multiple sclerosis who are initiating disease-modifying therapy with natalizumab compared with BRACETD first-line therapies.|https://dx.doi.org/10.1177/17562864231221331
 Cation-exchange fibers and silver nanoparticles-modified carbon electrodes for selective removal of hardness ions and simultaneous deactivation of microorganisms in capacitive deionization.|https://dx.doi.org/10.1016/j.scitotenv.2024.171318
 Integrated hierarchical porous lignin-based carbon electrode for boosting membrane-free capacitive deionization areal adsorption capacity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130065
+Association Between Smoking Status and the Efficacy and Safety of Tofacitinib in Patients with Ulcerative Colitis.|https://dx.doi.org/10.1093/crocol/otae004
+On the genetic basis of tail-loss evolution in humans and apes.|https://dx.doi.org/10.1038/s41586-024-07095-8

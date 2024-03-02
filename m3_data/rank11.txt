@@ -166,3 +166,5 @@ Severe Intraocular Inflammation Following Intravitreal Faricimab.|https://dx.doi
 Intra-articular Vancomycin Reduces Prosthetic Infection in Primary Hip and Knee Arthroplasty.|https://dx.doi.org/10.1016/j.artd.2024.101333
 Unraveling the antimicrobial potential of Lactiplantibacillus plantarum strains TE0907 and TE1809 sourced from Bufo gargarizans: advancing the frontier of probiotic-based therapeutics.|https://dx.doi.org/10.3389/fmicb.2024.1347830
 Novel Ti surface coated with PVA hydrogel and chitosan nanoparticles with antibacterial drug release: An experimental in vitro study.|https://dx.doi.org/10.1111/cid.13305
+Intestinal Spirochetosis: To Treat or Not to Treat.|https://dx.doi.org/10.7759/cureus.53248
+Analysis of Helicobacter pylori resistance in patients with different gastric diseases.|https://dx.doi.org/10.1038/s41598-024-55589-2

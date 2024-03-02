@@ -97,3 +97,21 @@ Case Management in Prevention of 30-Day Readmission in Post-Coronary Artery Bypa
 Oritavancin Versus Daptomycin for Osteomyelitis Treatment After Surgical Debridement.|https://dx.doi.org/10.1007/s40121-024-00925-2
 Open versus arthroscopic treatment of the rheumatoid elbow arthritis: a comparison of complications at two years utilizing a nationally representative database.|https://dx.doi.org/10.1007/s00590-024-03842-9
 Cardiac interventions on total knee arthroplasty: a national inpatient sample-based analysis.|https://dx.doi.org/10.1007/s00402-024-05225-5
+The impact of anxiety and depression on lumbar spine surgical outcomes: a Michigan Spine Surgery Improvement Collaborative study.|https://dx.doi.org/10.3171/2023.12.SPINE23860
+Seroepidemiology of SARS-CoV-2 in a cohort of pregnant women and their infants in Uganda and Malawi.|https://dx.doi.org/10.1371/journal.pone.0290913
+Primary splenic abscess in an adult female patient: a case report.|https://dx.doi.org/10.1186/s40792-024-01849-2
+S2 alar-iliac screws are superior to traditional iliac screws for spinopelvic fixation in adult spinal deformity: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s43390-024-00834-x
+Residual calcified material volume of β-tricalcium phosphate with platelet-rich fibrin in unilateral alveolar bone graft.|https://dx.doi.org/10.1186/s40902-024-00420-1
+Risk factor analysis for perioperative complications in impacted third molar surgery - a single center experience.|https://dx.doi.org/10.1007/s10006-024-01232-3
+Metatarsal lengthening by distraction osteogenesis for brachymetatarsia in paediatric patients: is it safe and effective?|https://dx.doi.org/10.1007/s00590-024-03860-7
+Leadless pacemakers at 5-year follow-up: the Micra transcatheter pacing system post-approval registry.|https://dx.doi.org/10.1093/eurheartj/ehae101
+Letter to the Editor concerning Akhavan AA et al., Invasive non-Candida fungal infections in acute burns-a 13-year review of a single institution and review of the literature.|https://dx.doi.org/10.1093/jbcr/irae034
+Comparison of perioperative adverse events following suburethral sling placement using synthetic mesh, autologous rectus fascia, and autologous fascia lata in a national surgical registry.|https://dx.doi.org/10.1002/nau.25434
+Feasibility of Goal-Directed Fluid Therapy in Patients with Transcatheter Aortic Valve Replacement - An Ambispective Analysis.|https://dx.doi.org/10.21470/1678-9741-2022-0470
+The infected diabetic foot: Analysis of diabetic and non-diabetic foot infections.|https://dx.doi.org/10.1111/wrr.13162
+Characteristics and outcome of anti-hepatitis D virus positive patients with hepatocellular carcinoma.|https://dx.doi.org/10.1111/liv.15855
+Hydrocele stone: a rare case report.|https://dx.doi.org/10.1093/jscr/rjae098
+Mid- to Long-Term Results of Total Knee Arthroplasty for Charcot Arthropathy of the Knee.|https://dx.doi.org/10.1007/s43465-023-01094-z
+Effect of basic fibroblast growth factor with collagen/gelatin fixture in a rabbit model of nasal septum perforation.|https://dx.doi.org/10.1016/j.reth.2024.02.001
+Successful reimplantation of extruded bone segment in lower limb open fractures: case report and literature review.|https://dx.doi.org/10.3389/fped.2024.1333575
+A Successful Endovascular Treatment of Massive Hematuria Caused by Aorto-Ureteric Fistula: A Report of a Rare Case.|https://dx.doi.org/10.7759/cureus.53215
