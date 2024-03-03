@@ -3,3 +3,4 @@ Prevalence and antimicrobial resistance of bacterial enteropathogens in Crete, G
 Antibacterial activity of ibezapolstat against antimicrobial-resistant clinical strains of Clostridioides difficile.|https://dx.doi.org/10.1128/aac.01621-23
 Activity of Gut-Derived Nisin-like Lantibiotics against Human Gut Pathogens and Commensals.|https://dx.doi.org/10.1021/acschembio.3c00577
 Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2017-2021.|https://dx.doi.org/10.14745/ccdr.v49i05a09
+Increase of healthcare-onset Clostridioides difficile infection in adult population since SARS-CoV-2 pandemic: A retrospective cohort study in a tertiary care hospital from 2019 to 2022.|https://dx.doi.org/10.1016/j.anaerobe.2024.102836

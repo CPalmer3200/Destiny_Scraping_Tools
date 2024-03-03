@@ -48,3 +48,7 @@ The Real-World Foundation of Adapting Clinical Guidelines for the Digital Age.|h
 Systematic scoping review of automated systems for the surveillance of healthcare-associated bloodstream infections related to intravascular catheters.|https://dx.doi.org/10.1186/s13756-024-01380-x
 A Focused Review of Epstein-Barr Virus Infections and PTLD in Pediatric Transplant Recipients: Guidance From the IPTA and ECIL Guidelines.|https://dx.doi.org/10.1093/jpids/piad097
 Pre-Transplantation Strategies for Infectious Disease Mitigation and Prevention.|https://dx.doi.org/10.1093/jpids/piad075
+An overview of the COVID-19 pediatric vaccine program - The U.S. experience vaccinating children ages 6 months through 17 years.|https://dx.doi.org/10.1016/j.vaccine.2024.02.019
+Combined Preoperative Endovascular Embolization and Surgical Excision for Scalp Arteriovenous Malformations: A Systematic Review and Case Illustration.|https://dx.doi.org/10.1016/j.wneu.2024.02.121
+Third International Conference on Crimean-Congo hemorrhagic fever in Thessaloniki, Greece, September 19-21, 2023.|https://dx.doi.org/10.1016/j.antiviral.2024.105844
+Antibiotic treatment of hand wounds in children: contribution of a decision tree.|https://dx.doi.org/10.1016/j.hansur.2024.101678

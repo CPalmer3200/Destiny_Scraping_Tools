@@ -168,3 +168,4 @@ Unraveling the antimicrobial potential of Lactiplantibacillus plantarum strains 
 Novel Ti surface coated with PVA hydrogel and chitosan nanoparticles with antibacterial drug release: An experimental in vitro study.|https://dx.doi.org/10.1111/cid.13305
 Intestinal Spirochetosis: To Treat or Not to Treat.|https://dx.doi.org/10.7759/cureus.53248
 Analysis of Helicobacter pylori resistance in patients with different gastric diseases.|https://dx.doi.org/10.1038/s41598-024-55589-2
+Antibiotic Prescribing Patterns for Urinary Tract Infections and Pneumonia by Prescriber Type and Specialty in Nursing Home Care, 2016-2018.|https://dx.doi.org/10.1016/j.jamda.2024.01.019

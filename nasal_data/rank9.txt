@@ -99,3 +99,18 @@ Corrigendum: ESKAPEE pathogens newly released from biofilm residence by a target
 Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2017-2021.|https://dx.doi.org/10.14745/ccdr.v49i05a09
 Antimicrobial potential of a biosurfactant gel for the prevention of mixed biofilms formed by fluconazole-resistant C. albicans and methicillin-resistant S. aureus in catheters.|https://dx.doi.org/10.1080/08927014.2024.2324028
 Immunoglobulin free light chains in severe asthma patient: Could they be a new biomarker?|https://dx.doi.org/10.1111/all.16082
+Staphylococcus aureus: The Bug Behind the Itch in Atopic Dermatitis.|https://dx.doi.org/10.1016/j.jid.2024.01.001
+Characterization of a Novel Antimicrobial Peptide Bacipeptin against Foodborne Pathogens.|https://dx.doi.org/10.1021/acs.jafc.4c00573
+Antimicrobial carbon dots/pectin-based hydrogel for promoting healing processes in multidrug-resistant bacteria-infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130477
+Active cellulose acetate/purple sweet potato anthocyanins@cyclodextrin metal-organic framework/eugenol colorimetric film for pork preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130523
+Characterization of an antimicrobial peptide family from the venom gland of Heteropoda venatoria.|https://dx.doi.org/10.1016/j.toxicon.2024.107657
+Comparative genomic analysis and multilocus sequence typing of Staphylococcus aureus reveals candidate genes for low-temperature tolerance.|https://dx.doi.org/10.1016/j.scitotenv.2024.171331
+Synthesis and characterization of nanocomposite based polymeric membrane (PES/PVP/GO-TiO(2)) and performance evaluation for the removal of various antibiotics (amoxicillin, azithromycin & ciprofloxacin) from aqueous solution.|https://dx.doi.org/10.1016/j.chemosphere.2024.141542
+Prevalence and spatial distribution of infectious diseases of dairy cattle in Ontario, Canada.|https://dx.doi.org/10.3168/jds.2023-24197
+Decreased lactose percentage in milk associated with quarter health disorder and hyperketolactia, a proxy for negative energy balance, in dairy cows.|https://dx.doi.org/10.3168/jds.2023-24134
+Comparative effectiveness of empirical antibiotic treatments in methicillin-susceptible Staphylococcus aureus infective endocarditis: a post hoc analysis of a prospective French cohort study.|https://dx.doi.org/10.1016/j.ijid.2024.106989
+Significantly enhanced uranium extraction by intelligent light-driven nanorobot catchers with precise controllable moving trajectory.|https://dx.doi.org/10.1016/j.jhazmat.2024.133908
+Hydrocarbon stapled temporin-L analogue as potential antibacterial and antiendotoxin agents with enhanced protease stability.|https://dx.doi.org/10.1016/j.bioorg.2024.107239
+Cu-MSNs and ZnO nanoparticles incorporated poly(ethylene glycol) diacrylate/sodium alginate double network hydrogel for simultaneous enhancement of osteogenic differentiation.|https://dx.doi.org/10.1016/j.colsurfb.2024.113804
+Antibody functionalized capacitance sensor for label-free and real-time detection of bacteria and antibiotic susceptibility.|https://dx.doi.org/10.1016/j.talanta.2024.125831
+Bacterial profiles detected in ventilator-associated pneumonia in Japan: A systematic review.|https://dx.doi.org/10.1016/j.resinv.2024.01.012

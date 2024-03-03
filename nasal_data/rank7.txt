@@ -110,3 +110,18 @@ Persistent Critical Illness and Long-Term Outcomes in Patients With COVID-19: A 
 Comprehensive analysis of the potential pathogenesis of COVID-19 infection and liver cancer.|https://dx.doi.org/10.4251/wjgo.v16.i2.436
 Impact of Perceived and Collective Norms on COVID-19 Preventive Behaviors in 23 Countries: A Multi-Level Approach.|https://dx.doi.org/10.1080/10410236.2024.2320412
 Nudging Public Health Behaviors to Prevent COVID-19: A Systematic Review.|https://dx.doi.org/10.1080/10410236.2024.2317567
+Modification effect of receipt of diabetes care on the association between COVID-19 infection and HbA1c level during the first year of the coronavirus pandemic using a nationwide population-based database.|https://dx.doi.org/10.1111/jdi.14171
+Increased experiences of loneliness during the COVID-19 pandemic, emotional distress and changes in perceived physical and mental health: A structural equation model.|https://dx.doi.org/10.1002/nop2.2125
+Implementation of lockdown, quarantine, and isolation measures in the context of COVID-19 among internally displaced persons in Burkina Faso: a qualitative study.|https://dx.doi.org/10.1186/s13031-024-00579-4
+Text analysis of billboards and infographic graphics advertising COVID-19 on promoting preventive behaviors and taking vaccination against the coronavirus pandemic and investigating the opinions of the Iranian adult population.|https://dx.doi.org/10.1186/s12889-024-18135-3
+Polymorphisms of IFN signaling genes and FOXP4 influence the severity of COVID-19.|https://dx.doi.org/10.1186/s12879-024-09040-6
+State variation in neighborhood COVID-19 burden across the United States.|https://dx.doi.org/10.1038/s43856-024-00459-1
+[Increasing incidence of mastoidectomies in children : Result of reduced antibiotic therapy or late COVID-19 sequela?].|https://dx.doi.org/10.1007/s00106-024-01435-w
+Delineating immune variation between adult and children COVID-19 cases and associations with disease severity.|https://dx.doi.org/10.1038/s41598-024-55148-9
+Author Correction: Contribution of infection and vaccination to population-level seroprevalence through two COVID waves in Tamil Nadu, India.|https://dx.doi.org/10.1038/s41598-024-55994-7
+A qualitative study of pregnant women's perceptions and decision-making regarding COVID-19 vaccination in Thailand.|https://dx.doi.org/10.1038/s41598-024-55867-z
+Projections of the incidence of COVID-19 in Japan and the potential impact of a Fall 2023 COVID-19 vaccine.|https://dx.doi.org/10.1016/j.vaccine.2024.01.093
+Difference in the impact of coinfections and secondary infections on antibiotic use in patients hospitalized with COVID-19 between the Omicron-dominant period and the pre-Omicron period.|https://dx.doi.org/10.1016/j.jiac.2024.02.026
+Evaluating infection risks in buses based on passengers' dynamic temporal and typical spatial scenarios: A case study of COVID-19.|https://dx.doi.org/10.1016/j.scitotenv.2024.171373
+Disparities by social determinants of health: links between Long COVID and cardiovascular disease.|https://dx.doi.org/10.1016/j.cjca.2024.02.017
+Excess suicides in Japan: A three-year post-pandemic assessment of gender and age disparities.|https://dx.doi.org/10.1016/j.psychres.2024.115806

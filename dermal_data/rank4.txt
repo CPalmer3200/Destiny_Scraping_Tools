@@ -1,2 +1,4 @@
 High-Density Dynamic Bonds Cross-Linked Hydrogel with Tissue Adhesion, Highly Efficient Self-Healing Behavior, and NIR Photothermal Antibacterial Ability as Dressing for Wound Repair.|https://dx.doi.org/10.1021/acs.biomac.3c01443
 Characterizations of Centrifugal Electrospun Polyvinyl alcohol/Sodium alginate/Tamanu oil/Silver nanoparticles Wound Dressing.|https://dx.doi.org/10.1109/TNB.2024.3371224
+Antimicrobial carbon dots/pectin-based hydrogel for promoting healing processes in multidrug-resistant bacteria-infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130477
+Cu-MSNs and ZnO nanoparticles incorporated poly(ethylene glycol) diacrylate/sodium alginate double network hydrogel for simultaneous enhancement of osteogenic differentiation.|https://dx.doi.org/10.1016/j.colsurfb.2024.113804

@@ -115,3 +115,16 @@ Mid- to Long-Term Results of Total Knee Arthroplasty for Charcot Arthropathy of 
 Effect of basic fibroblast growth factor with collagen/gelatin fixture in a rabbit model of nasal septum perforation.|https://dx.doi.org/10.1016/j.reth.2024.02.001
 Successful reimplantation of extruded bone segment in lower limb open fractures: case report and literature review.|https://dx.doi.org/10.3389/fped.2024.1333575
 A Successful Endovascular Treatment of Massive Hematuria Caused by Aorto-Ureteric Fistula: A Report of a Rare Case.|https://dx.doi.org/10.7759/cureus.53215
+Two-Year Preclinical Evaluation of Long-Term Absorbable Poly-4-hydroxybutyrate Scaffold for Surgical Correction of Pelvic Organ Prolapse.|https://dx.doi.org/10.1007/s00192-023-05720-0
+Two-stage total joint replacement for hip or knee septic arthritis: post-traumatic etiology and difficult-to-treat infections predict poor outcomes.|https://dx.doi.org/10.1007/s00402-024-05249-x
+Remodeling Microenvironment for Implant-associated Osteomyelitis by Dual Metal Peroxide.|https://dx.doi.org/10.1002/adhm.202303529
+Innovative Biomaterials for Bone Tumor Treatment and Regeneration: Tackling Postoperative Challenges and Charting the Path Forward.|https://dx.doi.org/10.1002/adhm.202304060
+Lentiviral expression of wildtype LAMA3A restores cell adhesion in airway basal cells from children with epidermolysis bullosa.|https://dx.doi.org/10.1016/j.ymthe.2024.02.032
+Pharmacomechanical thrombectomy with Angiojet in acute arterial occlusions: A prospective study among the results and outcomes.|https://dx.doi.org/10.1177/17085381241237559
+Laparoscopic necrosectomy for acute necrotizing pancreatitis: mesocolon-preserving approach and outcomes.|https://dx.doi.org/10.1007/s13304-024-01773-y
+Risk factors analyses associated with postoperative infection in choledochoscopy for intrahepatic bile duct stones (IHDs): a single-center retrospective study in real-world setting.|https://dx.doi.org/10.1007/s00464-024-10737-7
+Neurological manifestations and risk factors associated with poor prognosis in hospitalized children with Omicron variant infection.|https://dx.doi.org/10.1007/s00431-024-05495-6
+Maximizing mesh mileage: evaluating the long-term performance of a novel hybrid mesh for ventral hernia repair.|https://dx.doi.org/10.1007/s10029-024-02995-0
+Predicting hypovitaminosis C with LASSO algorithm in adult critically ill patients in surgical intensive care units: a bi-center prospective cohort study.|https://dx.doi.org/10.1038/s41598-024-54826-y
+Inflammation-suppressing cornea-in-a-syringe with anti-viral GF19 peptide promotes regeneration in HSV-1 infected rabbit corneas.|https://dx.doi.org/10.1038/s41536-024-00355-1
+Multidrug-resistant bacterial infections after liver transplantation: prevalence, impact, and risk factors.|https://dx.doi.org/10.1016/j.jhep.2024.02.023
