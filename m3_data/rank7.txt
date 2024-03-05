@@ -1,2 +1,3 @@
 Maternal histone methyltransferases antagonistically regulate monoallelic expression in C. elegans.|https://dx.doi.org/10.1101/2024.01.22.576748
 Do dietary interventions exert clinically important effects on the bioavailability of β-lactam antibiotics? A systematic review with meta-analyses.|https://dx.doi.org/10.1093/jac/dkae028
+Effect of tebipenem pivoxil hydrobromide on the normal gut microbiota of a healthy adult population in Sweden: a randomised controlled trial.|https://dx.doi.org/10.1016/S2666-5247(23)00360-9

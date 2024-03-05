@@ -114,3 +114,19 @@ Hydrocarbon stapled temporin-L analogue as potential antibacterial and antiendot
 Cu-MSNs and ZnO nanoparticles incorporated poly(ethylene glycol) diacrylate/sodium alginate double network hydrogel for simultaneous enhancement of osteogenic differentiation.|https://dx.doi.org/10.1016/j.colsurfb.2024.113804
 Antibody functionalized capacitance sensor for label-free and real-time detection of bacteria and antibiotic susceptibility.|https://dx.doi.org/10.1016/j.talanta.2024.125831
 Bacterial profiles detected in ventilator-associated pneumonia in Japan: A systematic review.|https://dx.doi.org/10.1016/j.resinv.2024.01.012
+Role of SFGSI, microbial culture and qSOFA as predictive factors in determining the survival rate in Fournier Gangrene patient.|https://dx.doi.org/10.15537/smj.2024.45.3.20230036
+Atopic Dermatitis Phenotypes Impact Expression of Atopic Diseases Despite Similar Mononuclear Cell Cytokine Responses.|https://dx.doi.org/10.1016/j.jaci.2024.02.015
+Assessing the discriminability of PCR-based open reading frame typing versus single-nucleotide polymorphism analysis via draft whole-genome sequencing of methicillin-resistant Staphylococcus aureus in nosocomial transmission analysis.|https://dx.doi.org/10.1016/j.jiac.2024.02.021
+Kommentar zu „Kontaktschutzmaßnahmen für MRSA und VRE: Wann kann man darauf verzichten?“.|https://dx.doi.org/10.1055/a-2204-0185
+Kontaktschutzmaßnahmen für MRSA und VRE: Wann kann man darauf verzichten?|https://dx.doi.org/10.1055/a-2204-0220
+Design, synthesis, characterization, in vitro cytotoxic, antimicrobial, antioxidant studies, DFT, thermal and molecular docking evaluation of biocompatible Co(II) complexes of N(4)O(4)-macrocyclic ligands.|https://dx.doi.org/10.1016/j.compbiolchem.2024.108032
+Staphopain mediated virulence and antibiotic resistance alteration in co-infection of Staphylococcus aureus and Pseudomonas aeruginosa: an animal model.|https://dx.doi.org/10.1186/s12896-024-00840-x
+Combination of a multiplex pneumonia panel and Gram staining for antimicrobial selection to treat lower respiratory tract infection.|https://dx.doi.org/10.1186/s41479-024-00125-z
+Sulfur (S(Ⅵ))-containing heterocyclic hybrids as antibacterial agents against methicillin-resistant Staphylococcus aureus (MRSA) and its SAR.|https://dx.doi.org/10.1016/j.bioorg.2024.107241
+Application of Argon Plasma Technology for the Synthesis of Anti-Infective Copper Nanoparticles.|https://dx.doi.org/10.1021/acsabm.3c01097
+Machine Learning-Based Virtual Screening of Antibacterial Agents against Methicillin-Susceptible and Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acs.jcim.4c00087
+Preclinical characterisation of gallium-68 labeled ferrichrome siderophore stereoisomers for PET imaging applications.|https://dx.doi.org/10.1186/s41181-024-00249-z
+Phage therapy in prosthetic joint infections caused by Staphylococcus aureus - A literature review.|https://dx.doi.org/10.1556/1886.2024.00010
+Predictive and prognostic biomarkers in patients with Mycosis fungoides and Sézary syndrome (BIO-MUSE): Study protocol for a translational study.|https://dx.doi.org/10.2196/55723
+Placental Transmogrification of the Lung in a Patient Without Emphysematous Disease.|https://dx.doi.org/10.7759/cureus.53294
+Assessment of Antimicrobial Activity of Nanocomposites Based on Nano-Hydroxyapatite (HAP), Chitosan, and Vitamin K2.|https://dx.doi.org/10.7759/cureus.53339

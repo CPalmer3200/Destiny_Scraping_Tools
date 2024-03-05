@@ -52,3 +52,18 @@ An overview of the COVID-19 pediatric vaccine program - The U.S. experience vacc
 Combined Preoperative Endovascular Embolization and Surgical Excision for Scalp Arteriovenous Malformations: A Systematic Review and Case Illustration.|https://dx.doi.org/10.1016/j.wneu.2024.02.121
 Third International Conference on Crimean-Congo hemorrhagic fever in Thessaloniki, Greece, September 19-21, 2023.|https://dx.doi.org/10.1016/j.antiviral.2024.105844
 Antibiotic treatment of hand wounds in children: contribution of a decision tree.|https://dx.doi.org/10.1016/j.hansur.2024.101678
+AcumenTM hypotension prediction index guidance for prevention and treatment of hypotension in noncardiac surgery: a prospective, single-arm, multicenter trial.|https://dx.doi.org/10.1186/s13741-024-00369-9
+Comparison of therapeutic effects between big-bubble deep anterior lamellar keratoplasty and penetrating keratoplasty for medically unresponsive Acanthamoeba keratitis.|https://dx.doi.org/10.1186/s12879-024-09147-w
+Assessment of prevalence and risk factors associated with Hepatitis B virus infection among blood donors in Mogadishu Somalia.|https://dx.doi.org/10.1186/s12889-024-18136-2
+A Different Approach for Protruding Earlobe Correction-Modified Fish-tail Technique.|https://dx.doi.org/10.1007/s00266-024-03912-7
+An antimicrobial zinc ion fiber for COVID-19 prevention in nonwoven face coverings for healthcare settings.|https://dx.doi.org/10.1080/15459624.2024.2310675
+Antimicrobial Resistance and the Prevalence of the Panton-Valentine Leukocidin Gene among Clinical Isolates of Staphylococcus aureus in Lithuania.|https://dx.doi.org/10.33073/pjm-2024-003
+Propensity Score-Weighted Analysis of Postoperative Infection in Patients With and Without Preoperative Urine Culture.|https://dx.doi.org/10.1001/jamanetworkopen.2024.0900
+Simulating contamination of the operator and surrounding environment during wound debridement through fluorescent labelling.|https://dx.doi.org/10.1111/iwj.14754
+The Effects of Different Storage Conditions on Leukocytes in Human Breast Milk.|https://dx.doi.org/10.18295/squmj.12.2023.084
+Complications of Aesthetic Liposuction Performed in Isolation: A Systematic Literature Review and Meta-Analysis.|https://dx.doi.org/10.1177/22925503221078693
+The Impact of Preoperative Weight Loss Timing on Surgical Outcomes in Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.02.075
+Assessment of occurrence, partitioning and ecological risk for 144 steroid hormones in Taihu Lake using UPLC-MS/MS with machine learning model.|https://dx.doi.org/10.1016/j.chemosphere.2024.141598
+US CDC plans to relax COVID-19 isolation guidelines.|https://dx.doi.org/10.1016/S2213-2600(24)00075-4
+Perioperative interventions for the prevention of surgical wound infection in adult patients undergoing left ventricular assist devices implantation: A scoping review.|https://dx.doi.org/10.1016/j.iccn.2024.103658
+Waiting one month after an intra-articular corticosteroid injection for performing a knee, shoulder, and hip arthroscopy could minimize the risk for post-operative infection: platelet rich plasma is an alternative.|https://dx.doi.org/10.1016/j.arthro.2024.02.027

@@ -169,3 +169,20 @@ Novel Ti surface coated with PVA hydrogel and chitosan nanoparticles with antiba
 Intestinal Spirochetosis: To Treat or Not to Treat.|https://dx.doi.org/10.7759/cureus.53248
 Analysis of Helicobacter pylori resistance in patients with different gastric diseases.|https://dx.doi.org/10.1038/s41598-024-55589-2
 Antibiotic Prescribing Patterns for Urinary Tract Infections and Pneumonia by Prescriber Type and Specialty in Nursing Home Care, 2016-2018.|https://dx.doi.org/10.1016/j.jamda.2024.01.019
+Treatment failure of Helicobacter Pylori in primary care.|https://dx.doi.org/10.3399/BJGPO.2023.0252
+Rahnella Aquatilis Endophthalmitis after Intravitreal Injection in an Immunocompetent Patient.|https://dx.doi.org/10.1097/ICB.0000000000001567
+Staphopain mediated virulence and antibiotic resistance alteration in co-infection of Staphylococcus aureus and Pseudomonas aeruginosa: an animal model.|https://dx.doi.org/10.1186/s12896-024-00840-x
+Perinatal risk factors associated with acute kidney injury severity and duration among infants born extremely preterm.|https://dx.doi.org/10.1038/s41390-024-03102-w
+Conserved signatures of the canine faecal microbiome are associated with metronidazole treatment and recovery.|https://dx.doi.org/10.1038/s41598-024-51338-7
+Antimicrobial Resistance and the Prevalence of the Panton-Valentine Leukocidin Gene among Clinical Isolates of Staphylococcus aureus in Lithuania.|https://dx.doi.org/10.33073/pjm-2024-003
+A Chemically Inducible Muscle Ablation System for the Zebrafish.|https://dx.doi.org/10.1089/zeb.2023.0102
+[A multi-center epidemiological study on pneumococcal meningitis in children from 2019 to 2020].|https://dx.doi.org/10.7499/j.issn.1008-8830.2308090
+Xenomyrothecium tongaense PTS8: a rare endophyte of Polianthes tuberosa with salient antagonism against multidrug-resistant pathogens.|https://dx.doi.org/10.3389/fmicb.2024.1327190
+Defining the shelf-life of calcium sulfate beads embedded with tobramycin and vancomycin.|https://dx.doi.org/10.1016/j.jor.2024.02.008
+Shock wave assisted intracellular delivery of antibiotics against bone infection with Staphylococcus aureus via P2X7 receptors.|https://dx.doi.org/10.1016/j.jot.2023.10.006
+Biochemical and computational inhibition of α-glucosidase by novel metronidazole-linked 1H-1,2,3-triazole and carboxylate moieties: kinetics and dynamic investigations.|https://dx.doi.org/10.1080/07391102.2024.2322622
+Evaluation of the modified 3Mix-Simvastatin combination in non-instrumental endodontic therapy of necrotic primary molars: A two-arm randomized controlled trial.|https://dx.doi.org/10.1002/cre2.860
+Advancing Outbreak Simulation Training: A Collaborative Pilot Study for Dual-Specialty Medical Trainees and Infection Prevention and Control Professionals.|https://dx.doi.org/10.1016/j.jhin.2024.02.014
+Antimicrobial therapy and outcome of methicillin-resistant Staphylococcus aureus endocarditis: A retrospective multicenter study in Japan.|https://dx.doi.org/10.1016/j.jiac.2024.02.027
+Halicin remains active against Staphylococcus aureus in biofilms grown on orthopaedically relevant substrates.|https://dx.doi.org/10.1302/2046-3758.133.BJR-2023-0038.R2
+Relation of Streptococcus Pyogenes tonsillitis isolate to antimicrobial agents and its infection treatment.|https://dx.doi.org/10.36740/WLek202401122

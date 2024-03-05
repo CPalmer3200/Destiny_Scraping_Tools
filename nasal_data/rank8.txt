@@ -128,3 +128,16 @@ Maximizing mesh mileage: evaluating the long-term performance of a novel hybrid 
 Predicting hypovitaminosis C with LASSO algorithm in adult critically ill patients in surgical intensive care units: a bi-center prospective cohort study.|https://dx.doi.org/10.1038/s41598-024-54826-y
 Inflammation-suppressing cornea-in-a-syringe with anti-viral GF19 peptide promotes regeneration in HSV-1 infected rabbit corneas.|https://dx.doi.org/10.1038/s41536-024-00355-1
 Multidrug-resistant bacterial infections after liver transplantation: prevalence, impact, and risk factors.|https://dx.doi.org/10.1016/j.jhep.2024.02.023
+Importance of the Posterior Plate in Three-Column Tibial Plateau Fractures: A Finite Element Analysis and Clinical Validation.|https://dx.doi.org/10.1111/os.14021
+Comparison of Two Techniques for Proximal Margin Analysis of Toe Amputations: a Retrospective Review.|https://dx.doi.org/10.1053/j.jfas.2024.02.005
+Surgical repair of tetralogy of Fallot in a 78-year-old woman: a case report.|https://dx.doi.org/10.1186/s13256-024-04414-5
+The genetic basis of hydrocephalus: genes, pathways, mechanisms, and global impact.|https://dx.doi.org/10.1186/s12987-024-00513-z
+Intrapapillary hemorrhage with adjacent peripapillary subretinal hemorrhage of both eyes after COVID-19 infection: a case report.|https://dx.doi.org/10.1186/s12886-024-03368-y
+Impact of preoperative antiviral therapy on the prognosis of hepatitis B virus-related hepatocellular carcinoma.|https://dx.doi.org/10.1186/s12885-024-12031-0
+Photobiomodulation preconditioned diabetic adipose derived stem cells with additional photobiomodulation: an additive approach for enhanced wound healing in diabetic rats with a delayed healing wound.|https://dx.doi.org/10.1007/s10103-024-04034-x
+The influence of microbial colonization on inflammatory versus pro-healing trajectories in combat extremity wounds.|https://dx.doi.org/10.1038/s41598-024-52479-5
+Acute large-vessel occlusion due to an infected thrombus formation induced by invasive sphenoid sinus aspergillosis: illustrative case.|https://dx.doi.org/10.3171/CASE23733
+Racial Disparities in 30-day Readmission After Orthopaedic Surgery: A 5-year National Surgical Quality Improvement Program Database Analysis.|https://dx.doi.org/10.5435/JAAOSGlobal-D-24-00013
+Comparison of surgical and oncological outcomes between different surgical approaches for overweight or obese cervical cancer patients.|https://dx.doi.org/10.1007/s11701-024-01863-4
+Establishment and Evaluation of a Risk Prediction Model for Pathological Escalation of Gastric Low-Grade Intraepithelial Neoplasia.|https://dx.doi.org/10.3791/65868
+The impact of bariatric surgery on admissions for gastrointestinal complications and conditions associated with obesity: A nationwide study.|https://dx.doi.org/10.1002/wjs.12013

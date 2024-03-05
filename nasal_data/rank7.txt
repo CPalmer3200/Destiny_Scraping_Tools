@@ -125,3 +125,22 @@ Difference in the impact of coinfections and secondary infections on antibiotic 
 Evaluating infection risks in buses based on passengers' dynamic temporal and typical spatial scenarios: A case study of COVID-19.|https://dx.doi.org/10.1016/j.scitotenv.2024.171373
 Disparities by social determinants of health: links between Long COVID and cardiovascular disease.|https://dx.doi.org/10.1016/j.cjca.2024.02.017
 Excess suicides in Japan: A three-year post-pandemic assessment of gender and age disparities.|https://dx.doi.org/10.1016/j.psychres.2024.115806
+Wastewater-based epidemiological surveillance of SARS-CoV-2 new variants BA.2.86 and offspring JN.1 in south and Southeast Asia.|https://dx.doi.org/10.1093/jtm/taae040
+The relationship between compartment models and their stochastic counterparts: A comparative study with examples of the COVID-19 epidemic modeling.|https://dx.doi.org/10.7555/JBR.37.20230137
+Clinical evaluation of a modified SARS-CoV-2 rapid molecular assay, ID NOW ™ COVID-19 2.0.|https://dx.doi.org/10.1016/j.jiac.2024.02.032
+Effects of the COVID-19 Pandemic on the Medical Use of Elderly Patients with Hypertension: A Nationwide Cohort Study in Korea.|https://dx.doi.org/10.4082/kjfm.23.0129
+The impact of SARS-Cov-2 Omicron infection on short-term outcomes after elective surgery in patients with gastrointestinal cancer.|https://dx.doi.org/10.1007/s13304-024-01781-y
+Effect of information provision on parental intention toward COVID-19 vaccination for children: a nationwide survey experiment.|https://dx.doi.org/10.1038/s41598-024-56116-z
+A register and questionnaire study of long-term general health symptoms following SARS-CoV-2 vaccination in Denmark.|https://dx.doi.org/10.1038/s41541-024-00844-w
+County-Level Mandates Were Generally Effective At Slowing COVID-19 Transmission.|https://dx.doi.org/10.1377/hlthaff.2023.00431
+A Content Analysis of Indoor Tanning Twitter Chatter During COVID-19 Shutdowns: Cross-Sectional Qualitative Study.|https://dx.doi.org/10.2196/54052
+Dietary habits, traveling and the living situation potentially influence the susceptibility to SARS-CoV-2 infection: results from healthcare workers participating in the RisCoin Study.|https://dx.doi.org/10.1007/s15010-024-02201-4
+A Novel Polymer Nanoparticle Polydimethyl Diallyl Ammonium Chloride as An Adjuvant Enhances the Immune Response of SARS-CoV-2 Subunit Vaccine.|https://dx.doi.org/10.1002/adhm.202304575
+Impact of COVID-19 infection during the postoperative period in patients who underwent gastrointestinal surgery: a retrospective study.|https://dx.doi.org/10.4174/astr.2024.106.3.133
+Upper Respiratory Symptoms as Long COVID: Insight from a Multicenter Cohort Study.|https://dx.doi.org/10.1002/oto2.120
+Scenario analysis of COVID-19 dynamical variations by different social environmental factors: a case study in Xinjiang.|https://dx.doi.org/10.3389/fpubh.2024.1297007
+Prevalence, medication adherence, and determinants of type 2 diabetes mellitus during Coronavirus Disease 2019 pandemic among adults in Tanzania.|https://dx.doi.org/10.1177/20503121241234222
+Impact of vitamin D deficiency in relation to the clinical outcomes of hospitalized COVID-19 patients.|https://dx.doi.org/10.12688/f1000research.132214.3
+The experiences of community health workers when communicating with refugees about COVID-19 vaccines in Syracuse, NY: A qualitative study.|https://dx.doi.org/10.1016/j.heliyon.2024.e26136
+Simple virus-free mouse models of COVID-19 pathologies and oral therapeutic intervention.|https://dx.doi.org/10.1016/j.isci.2024.109191
+SARS-CoV-2 infection induces robust mucosal antibody responses in the upper respiratory tract.|https://dx.doi.org/10.1016/j.isci.2024.109210
