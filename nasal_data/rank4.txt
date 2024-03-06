@@ -67,3 +67,10 @@ Assessment of occurrence, partitioning and ecological risk for 144 steroid hormo
 US CDC plans to relax COVID-19 isolation guidelines.|https://dx.doi.org/10.1016/S2213-2600(24)00075-4
 Perioperative interventions for the prevention of surgical wound infection in adult patients undergoing left ventricular assist devices implantation: A scoping review.|https://dx.doi.org/10.1016/j.iccn.2024.103658
 Waiting one month after an intra-articular corticosteroid injection for performing a knee, shoulder, and hip arthroscopy could minimize the risk for post-operative infection: platelet rich plasma is an alternative.|https://dx.doi.org/10.1016/j.arthro.2024.02.027
+Validation of a measure of hospital maternal level of care for the United States.|https://dx.doi.org/10.1186/s12913-024-10754-1
+Medication-related osteonecrosis of the jaw: evolving research for multimodality medical management.|https://dx.doi.org/10.1007/s00520-024-08388-4
+Hygienestandards im OP – führen sie nachhaltig zur Verbesserung der Qualität?|https://dx.doi.org/10.1055/a-2219-4023
+SCCM/IDSA New Fever Guideline Correspondence Letter.|https://dx.doi.org/10.1093/cid/ciae118
+Causes and management of urinary system problems in children on long-term home invasive mechanical ventilation.|https://dx.doi.org/10.1002/ppul.26947
+Perioperative Antibiotic Prophylaxis-Indications and Modalities for the Prevention of Postoperative Wound Infection.|https://dx.doi.org/10.3238/arztebl.m2024.0037
+The shifting impact and response to COVID-19 in Florida.|https://dx.doi.org/10.3389/fpubh.2024.1351690

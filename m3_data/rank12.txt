@@ -48,3 +48,5 @@ On the genetic basis of tail-loss evolution in humans and apes.|https://dx.doi.o
 Neonicotinoid insecticides in waters of the northern Jiangsu segment of the Beijing-Hangzhou Grand Canal: Environmental and health implications.|https://dx.doi.org/10.1016/j.scitotenv.2024.171455
 Gallium Hydride-Catalyzed Selective Hydroboration of Unsaturated Organic Substrates.|https://dx.doi.org/10.1002/cplu.202300737
 Kinetic-Thermodynamic Promotion Engineering toward High-Density Hierarchical and Zn-Doping Activity-Enhancing ZnNiO@CF for High-Capacity Desalination.|https://dx.doi.org/10.1007/s40820-024-01371-y
+Development of a composite drought indicator for operational drought monitoring in the MENA region.|https://dx.doi.org/10.1038/s41598-024-55626-0
+COVID-19 Australia: Epidemiology Report 80: Reporting period ending 22 October 2023.|https://dx.doi.org/10.33321/cdi.2024.48.3

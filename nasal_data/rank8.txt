@@ -141,3 +141,19 @@ Racial Disparities in 30-day Readmission After Orthopaedic Surgery: A 5-year Nat
 Comparison of surgical and oncological outcomes between different surgical approaches for overweight or obese cervical cancer patients.|https://dx.doi.org/10.1007/s11701-024-01863-4
 Establishment and Evaluation of a Risk Prediction Model for Pathological Escalation of Gastric Low-Grade Intraepithelial Neoplasia.|https://dx.doi.org/10.3791/65868
 The impact of bariatric surgery on admissions for gastrointestinal complications and conditions associated with obesity: A nationwide study.|https://dx.doi.org/10.1002/wjs.12013
+[Postoperative outcome of 30 patients with navicular bone fractures-In connection with AOFAS-Score, SF-12 and fracture classifications].|https://dx.doi.org/10.1007/s00113-024-01419-z
+Laparoscopic versus open surgery in obstructive colorectal cancer patients following stents placement: a comprehensive meta-analysis of cohort studies.|https://dx.doi.org/10.1007/s00464-024-10710-4
+Immunotherapy Using Activated Natural Killer Cells Improves Postoperative Neutrophil-to-Lymphocyte Ratio and Long-Term Prognosis of Living Donor Liver Transplant Recipients With Hepatocellular Carcinoma.|https://dx.doi.org/10.1016/j.transproceed.2024.02.002
+Postoperative Herpes Viral Infections in Neurosurgery - An Experience and Arguments for and against the Plausible Hypotheses.|https://dx.doi.org/10.4103/neuroindia.NI_1599_20
+Pantoea agglomerans bacteraemia after uterine artery embolisation: an unusual pathogen.|https://dx.doi.org/10.1136/bcr-2023-258345
+Wunderlich syndrome in a patient with pyelonephritis.|https://dx.doi.org/10.1136/bcr-2023-257325
+[Design and application of a drainage tube dredging umbrella and anti-retrograde infection kit].|https://dx.doi.org/10.3760/cma.j.cn121430-20230528-00401
+Molecular characterization of diffuse large B-cell lymphomas associated with hepatitis C virus infection.|https://dx.doi.org/10.1111/bjh.19378
+BedBiopsy: diagnostic performance of bedside ultrasound-guided bone biopsies for the management of diabetic foot infection.|https://dx.doi.org/10.1016/j.diabet.2024.101525
+RNA cis-regulators are important for Streptococcus pneumoniae in vivo success.|https://dx.doi.org/10.1371/journal.pgen.1011188
+Insulin Delivery to the Brain via the Nasal Route: Unraveling the Potential for Alzheimer's Disease Therapy.|https://dx.doi.org/10.1007/s13346-024-01558-1
+Limb salvage reconstruction of the lower limb with complex ankle arthrodesis and magnetic internal lengthening nail.|https://dx.doi.org/10.1007/s00590-024-03863-4
+Incidence, characteristics, and risk factors of drug-associated muscle adverse reaction: a retrospective real-world study of inpatients.|https://dx.doi.org/10.1007/s00228-024-03662-0
+From hepatitis B virus infection to acute-on-chronic liver failure: The dynamic role of hepatic macrophages.|https://dx.doi.org/10.1111/sji.13349
+Implications of CD45RA and CD45RO T cell subsets in patients of chronic rhinosinusitis with nasal polyposis infected with Aspergillus flavus.|https://dx.doi.org/10.1111/sji.13318
+Anticipating ICU discharge and long-term follow-up.|https://dx.doi.org/10.1097/MCC.0000000000001136

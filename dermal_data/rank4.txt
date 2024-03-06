@@ -7,3 +7,6 @@ A chitosan-based antibacterial hydrogel with injectable and self-healing capabil
 Dandelion-derived vesicles-laden hydrogel dressings capable of neutralizing Staphylococcus aureus exotoxins for the care of invasive wounds.|https://dx.doi.org/10.1016/j.jconrel.2024.02.045
 Multifunctional polysaccharide/metal/polyphenol double-crosslinked hydrogel for infected wound.|https://dx.doi.org/10.1016/j.carbpol.2024.121912
 Facile fabrication of a novel, photodetachable salecan-based hydrogel dressing with self-healing, injectable, and antibacterial properties based on metal coordination.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130551
+Physical characterization, biocompatibility, and antimicrobial activity of polyvinyl alcohol/sodium alginate blend doped with TiO(2) nanoparticles for wound dressing applications.|https://dx.doi.org/10.1038/s41598-024-55818-8
+3D Printing of Alginate/Chitosan-Based Scaffold Empowered by Tyrosol-Loaded Niosome for Wound Healing Applications: In Vitro and In Vivo Performances.|https://dx.doi.org/10.1021/acsabm.3c00814
+Hydrogel Loaded with Peptide-Containing Nanocomplexes: Symphonic Cooperation of Photothermal Antimicrobial Nanoparticles and Prohealing Peptides for the Treatment of Infected Wounds.|https://dx.doi.org/10.1021/acsami.3c16061

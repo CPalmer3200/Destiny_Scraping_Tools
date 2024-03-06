@@ -144,3 +144,23 @@ Impact of vitamin D deficiency in relation to the clinical outcomes of hospitali
 The experiences of community health workers when communicating with refugees about COVID-19 vaccines in Syracuse, NY: A qualitative study.|https://dx.doi.org/10.1016/j.heliyon.2024.e26136
 Simple virus-free mouse models of COVID-19 pathologies and oral therapeutic intervention.|https://dx.doi.org/10.1016/j.isci.2024.109191
 SARS-CoV-2 infection induces robust mucosal antibody responses in the upper respiratory tract.|https://dx.doi.org/10.1016/j.isci.2024.109210
+Association between obtaining injury prevention information and maternal and child health services during COVID-19.|https://dx.doi.org/10.1186/s12913-024-10794-7
+Expressions of pandemic fatigue on digital platforms: a thematic analysis of sentiment and narratives for infodemic insights.|https://dx.doi.org/10.1186/s12889-024-17718-4
+Population mortality before and during the COVID-19 epidemic in two Sudanese settings: a key informant study.|https://dx.doi.org/10.1186/s12889-023-17298-9
+Quality of care in Belgian general practices during the COVID-19 pandemic: results of the cross-sectional PRICOV-19 study.|https://dx.doi.org/10.1186/s12875-024-02305-8
+A Short Update on the Use of Monoclonal Antibodies in COVID-19.|https://dx.doi.org/10.1208/s12248-024-00904-y
+SARS-CoV-2 infection prevalence and associated factors among primary healthcare workers in France after the third COVID-19 wave.|https://dx.doi.org/10.1038/s41598-024-55477-9
+Structure-based design of pan-coronavirus inhibitors targeting host cathepsin L and calpain-1.|https://dx.doi.org/10.1038/s41392-024-01758-8
+Teen dating violence and the COVID-19 pandemic: trends from a longitudinal study in Texas.|https://dx.doi.org/10.1136/ip-2023-045115
+[The experience on the construction of the cluster prevention and control system for COVID-19 infection in designated hospitals during the period of "Category B infectious disease treated as Category A"].|https://dx.doi.org/10.3760/cma.j.cn121430-20231121-00992
+Adverse Events Following COVID-19 Vaccination in Adolescents: Insights From Pharmacovigilance Study of VigiBase.|https://dx.doi.org/10.3346/jkms.2024.39.e76
+Peer Health Navigators to improve equity and access to health care in Australia: Can we build on successes from the COVID-19 pandemic?|https://dx.doi.org/10.1016/j.anzjph.2024.100128
+Trends of type 2 diabetes with pulmonary tuberculosis patients,2013-2022, and changes after the coronavirus disease 2019 (COVID-19) pandemic.|https://dx.doi.org/10.1016/j.tube.2024.102499
+Understanding the Experiences of COVID-19 Public Health Measures and Well-Being: A Qualitative Study Among Older Adults in Quebec, Canada.|https://dx.doi.org/10.1177/10497323241232928
+Endemic coronavirus infections are associated with strong homotypic immunity in a US cohort of children from birth to 4 years.|https://dx.doi.org/10.1093/jpids/piae016
+Safety and health measures compliance during the COVID-19 pandemic for community-based tourism in Nakhon Si Thammarat, Thailand: A cross-sectional descriptive study.|https://dx.doi.org/10.1371/journal.pone.0300030
+Machine Learning-Based Approach for Identifying Research Gaps: COVID-19 as a Case Study.|https://dx.doi.org/10.2196/49411
+Durability of the Effectiveness of Heterologous COVID-19 Vaccine Regimens in Thailand: Retrospective Cohort Study Using National Registration Data.|https://dx.doi.org/10.2196/48255
+Behind the shadows: Bringing the cardiovascular secrets of long COVID into light.|https://dx.doi.org/10.1093/eurjpc/zwae098
+The Impact of the COVID-19 Pandemic on the Incidence of Herpes Zoster: A Narrative Literature Review.|https://dx.doi.org/10.1007/s40121-024-00924-3
+Psychosocial impacts, preventive behaviours, and concerns associated with the COVID-19 pandemic for pregnant and non-pregnant women: A matched analysis from the International iCARE Study.|https://dx.doi.org/10.1007/s00737-024-01451-3

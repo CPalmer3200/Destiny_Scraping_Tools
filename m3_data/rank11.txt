@@ -186,3 +186,10 @@ Advancing Outbreak Simulation Training: A Collaborative Pilot Study for Dual-Spe
 Antimicrobial therapy and outcome of methicillin-resistant Staphylococcus aureus endocarditis: A retrospective multicenter study in Japan.|https://dx.doi.org/10.1016/j.jiac.2024.02.027
 Halicin remains active against Staphylococcus aureus in biofilms grown on orthopaedically relevant substrates.|https://dx.doi.org/10.1302/2046-3758.133.BJR-2023-0038.R2
 Relation of Streptococcus Pyogenes tonsillitis isolate to antimicrobial agents and its infection treatment.|https://dx.doi.org/10.36740/WLek202401122
+[Virulence genes and antimicrobial resistance of Bacillus cereus in prepackaged pastries sold in Taizhou from 2020 to 2022].|https://dx.doi.org/10.19813/j.cnki.weishengyanjiu.2024.01.008
+Metronidazole-induced Encephalopathy.|https://dx.doi.org/10.4103/neurol-india.Neurol-India-D-23-00690
+Comparative analysis of IR-Biotyper, MLST, cgMLST, and WGS for clustering of vancomycin-resistant Enterococcus faecium in a neonatal intensive care unit.|https://dx.doi.org/10.1128/spectrum.04119-23
+Multidrug-resistant Enterococcus faecium strains enter the Norwegian marine environment through treated sewage.|https://dx.doi.org/10.1002/mbo3.1397
+A Prospective Clinical Study of Bacteriological Profile and their Antibiotic Susceptibilty Profile in Patients with Chronic Rhinosinusitis: The Recent Scenario in Northern India.|https://dx.doi.org/10.1007/s12070-023-04242-x
+Prevalence and antimicrobial susceptibility pattern of methicillin-resistant Staphylococcus aureus (MRSA) at a maternity and children hospital in Saudi Arabia: A cross-sectional study.|https://dx.doi.org/10.1016/j.jsps.2024.102001
+Exploring the feasibility of bacteriocins EntK1 and EntEJ97s in treatment of systemic VRE infections in mice.|https://dx.doi.org/10.1093/jambio/lxae054

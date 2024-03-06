@@ -130,3 +130,20 @@ Phage therapy in prosthetic joint infections caused by Staphylococcus aureus - A
 Predictive and prognostic biomarkers in patients with Mycosis fungoides and Sézary syndrome (BIO-MUSE): Study protocol for a translational study.|https://dx.doi.org/10.2196/55723
 Placental Transmogrification of the Lung in a Patient Without Emphysematous Disease.|https://dx.doi.org/10.7759/cureus.53294
 Assessment of Antimicrobial Activity of Nanocomposites Based on Nano-Hydroxyapatite (HAP), Chitosan, and Vitamin K2.|https://dx.doi.org/10.7759/cureus.53339
+FacZ is a GpsB-interacting protein that prevents aberrant division-site placement in Staphylococcus aureus.|https://dx.doi.org/10.1038/s41564-024-01607-y
+Physical characterization, biocompatibility, and antimicrobial activity of polyvinyl alcohol/sodium alginate blend doped with TiO(2) nanoparticles for wound dressing applications.|https://dx.doi.org/10.1038/s41598-024-55818-8
+[Prognostic risk factors of catheter-related bloodstream infection in patients with maintenance hemodialysis].|https://dx.doi.org/10.3760/cma.j.cn121430-20231008-00850
+Effective separation of maslinic acid and oleanolic acid from olive pomace using high-speed shear off-line coupled with high-speed countercurrent chromatography and their antibacterial activity test.|https://dx.doi.org/10.1016/j.jchromb.2024.124069
+Biocompatible formulation of a hydrophobic antimicrobial peptide L30 through nanotechnology principles and its potential role in mouse pneumonia model infected with Staphylococcus aureus.|https://dx.doi.org/10.1016/j.colsurfb.2024.113823
+3D Printing of Alginate/Chitosan-Based Scaffold Empowered by Tyrosol-Loaded Niosome for Wound Healing Applications: In Vitro and In Vivo Performances.|https://dx.doi.org/10.1021/acsabm.3c00814
+Synergistic Augmentation of Beta-Lactams: Exploring Quinoline-Derived Amphipathic Small Molecules as Antimicrobial Potentiators against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00696
+Genomics to detect transmission of livestock-associated methicillin-resistant Staphylococcus aureus from UK pigs in abattoirs during slaughter.|https://dx.doi.org/10.1093/jac/dkae052
+Hydrogel Loaded with Peptide-Containing Nanocomplexes: Symphonic Cooperation of Photothermal Antimicrobial Nanoparticles and Prohealing Peptides for the Treatment of Infected Wounds.|https://dx.doi.org/10.1021/acsami.3c16061
+Antibacterial activity and phytochemical screening of traditional medicinal plants most preferred for treating infectious diseases in Habru District, North Wollo Zone, Amhara Region, Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0300060
+Microbiome modulators for atopic eczema: a systematic review of experimental and investigational therapeutics.|https://dx.doi.org/10.1080/13543784.2024.2326625
+Peptide recovery from chicken feather keratin and their anti-biofilm properties against methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1007/s11274-024-03921-3
+Anti-Staphylococcus aureus effects of natural antimicrobial peptides and the underlying mechanisms.|https://dx.doi.org/10.2217/fmb-2023-0168
+Microbiological Quality Assessment of Skin and Body care Cosmetics by using Challenge test.|https://dx.doi.org/10.1016/j.sjbs.2024.103965
+Crosstalk between keratinocytes and neutrophils shapes skin immunity against S. aureus infection.|https://dx.doi.org/10.3389/fimmu.2024.1275153
+SCCmec transformation requires living donor cells in mixed biofilms.|https://dx.doi.org/10.1016/j.bioflm.2024.100184
+Staphylococcus aureus Bacteremia With Disseminated Multiple Foci and Pyomyositis in an Immunocompetent Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.53483

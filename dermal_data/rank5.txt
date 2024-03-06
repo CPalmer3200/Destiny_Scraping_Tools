@@ -1,1 +1,3 @@
 Borneol serves as an adjuvant agent to promote the cellular uptake of curcumin for enhancing its photodynamic fungicidal efficacy against Candida albicans.|https://dx.doi.org/10.1016/j.jphotobiol.2024.112875
+Microbiome modulators for atopic eczema: a systematic review of experimental and investigational therapeutics.|https://dx.doi.org/10.1080/13543784.2024.2326625
+Antimicrobial activity of cationic water-soluble porphyrin against multidrug-resistant bacteria in biofilms and canine skin samples.|https://dx.doi.org/10.1007/s11274-024-03939-7

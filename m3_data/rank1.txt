@@ -21,3 +21,4 @@ Urinary Tract Infection Prevention and Treatment.|https://dx.doi.org/10.1016/j.s
 Clostridioides difficile recurrence in individuals with and without cancer: a Swedish population-based cohort study.|https://dx.doi.org/10.1007/s15010-024-02193-1
 RelQ-mediated alarmone signaling regulates growth, sporulation, and stress-induced biofilm formation in Clostridioides difficile.|https://dx.doi.org/10.1101/2024.02.14.580318
 Long-term beneficial effect of faecal microbiota transplantation on colonisation of multidrug-resistant bacteria and resistome abundance in patients with recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1186/s13073-024-01306-7
+SER-109 (VOWST(™)): A Review in the Prevention of Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1007/s40265-024-02006-7
