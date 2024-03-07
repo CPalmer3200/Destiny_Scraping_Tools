@@ -157,3 +157,17 @@ Incidence, characteristics, and risk factors of drug-associated muscle adverse r
 From hepatitis B virus infection to acute-on-chronic liver failure: The dynamic role of hepatic macrophages.|https://dx.doi.org/10.1111/sji.13349
 Implications of CD45RA and CD45RO T cell subsets in patients of chronic rhinosinusitis with nasal polyposis infected with Aspergillus flavus.|https://dx.doi.org/10.1111/sji.13318
 Anticipating ICU discharge and long-term follow-up.|https://dx.doi.org/10.1097/MCC.0000000000001136
+[Preliminary clinical application of novel magnetic navigation and ultrasound-guided percutaneous transhepatic cholangiography drainage through the right liver duct for malignant obstructive jaundice].|https://dx.doi.org/10.3760/cma.j.cn112138-20231031-00270
+Genome-based solutions for managing mucormycosis.|https://dx.doi.org/10.1016/bs.apcsb.2023.11.014
+PROPHYLACTIC ANTIBIOTICS DURING THE IMPLANT PROSTHETIC PHASE MAY NOT SUBSTANTIALLY DECREASE THE INCIDENCE OF INFECTIOUS COMPLICATIONS.|https://dx.doi.org/10.1016/j.jebdp.2023.101963
+A combined score for predicting clinically relevant postoperative pancreatic fistula based on inflammatory parameters and drainage fluid culture results on postoperative day 3.|https://dx.doi.org/10.1002/wjs.12131
+Salvage Algorithm for Deep Surgical Site Infections after HTO with Unstable Bone Situation Using a Hexapod System - Primary Results.|https://dx.doi.org/10.1055/a-2249-0129
+Heavily Treatment-Experienced Persons Living with HIV Currently in Care in Italy: characteristics, Risk Factors, and Therapeutic Options - the ICONA Foundation Cohort study.|https://dx.doi.org/10.1016/j.ijid.2024.01.023
+[Arthroscopic Subtalar Distraction Arthrodesis in Post-Traumatic Indications].|https://dx.doi.org/10.55095/achot2024/002
+Ionized jet deposition of silver nanostructured coatings: Assessment of chemico-physical and biological behavior for application in orthopedics.|https://dx.doi.org/10.1016/j.bioadv.2024.213815
+Modified gastro-soleus turn-down flap for chronic or neglected achilles tendon ruptures.|https://dx.doi.org/10.1186/s13018-024-04625-y
+Impact of a multidisciplinary management team on clinical outcome in ICU patients affected by Gram-negative bloodstream infections: a pre-post quasi-experimental study.|https://dx.doi.org/10.1186/s13613-024-01271-9
+Surgical-site infection in multifetal cesarean delivery.|https://dx.doi.org/10.1007/s00404-024-07384-7
+Spondylodiscitis of lumbar complicated with spinal epidural abscess caused by Parvimonas micra: A case report and literature review.|https://dx.doi.org/10.11817/j.issn.1672-7347.2023.230139
+Progression from carriage to bloodstream infection and fatality by different Enterobacterales species, carbapenemases and host settings: deciphering the melting pot.|https://dx.doi.org/10.1093/cid/ciae109
+The effect of omentoplasty in various surgical operations: Systematic review and meta-analysis.|https://dx.doi.org/10.1097/JS9.0000000000001240

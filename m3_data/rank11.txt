@@ -193,3 +193,9 @@ Multidrug-resistant Enterococcus faecium strains enter the Norwegian marine envi
 A Prospective Clinical Study of Bacteriological Profile and their Antibiotic Susceptibilty Profile in Patients with Chronic Rhinosinusitis: The Recent Scenario in Northern India.|https://dx.doi.org/10.1007/s12070-023-04242-x
 Prevalence and antimicrobial susceptibility pattern of methicillin-resistant Staphylococcus aureus (MRSA) at a maternity and children hospital in Saudi Arabia: A cross-sectional study.|https://dx.doi.org/10.1016/j.jsps.2024.102001
 Exploring the feasibility of bacteriocins EntK1 and EntEJ97s in treatment of systemic VRE infections in mice.|https://dx.doi.org/10.1093/jambio/lxae054
+Design, synthesis and antibacterial evaluation of low toxicity amphiphilic-cephalosporin derivatives.|https://dx.doi.org/10.1016/j.ejmech.2024.116293
+Polycystic intrahepatic infection caused by Enterococcus casseliflavus: a case report and literature review.|https://dx.doi.org/10.1186/s12882-024-03531-z
+3Mixtatin versus MTA in pulp therapy of primary teeth: a systematic review and meta-analysis of current randomized controlled trials.|https://dx.doi.org/10.1038/s41432-024-00987-8
+Spondylodiscitis of lumbar complicated with spinal epidural abscess caused by Parvimonas micra: A case report and literature review.|https://dx.doi.org/10.11817/j.issn.1672-7347.2023.230139
+Staphylococcus aureus Pneumonia in Can Tho, Vietnam: Clinical Characteristics, Antimicrobial Resistance Profile and Risk Factors of Mortality.|https://dx.doi.org/10.1007/s41030-024-00254-2
+Incidence of Septic Arthritis After Vancomycin Soaking of the Graft During Arthroscopic Anatomic Anterior Talofibular Ligament and Calcaneofibular Ligament Reconstruction.|https://dx.doi.org/10.1177/23259671241228276

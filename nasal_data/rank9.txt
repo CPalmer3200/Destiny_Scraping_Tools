@@ -147,3 +147,21 @@ Microbiological Quality Assessment of Skin and Body care Cosmetics by using Chal
 Crosstalk between keratinocytes and neutrophils shapes skin immunity against S. aureus infection.|https://dx.doi.org/10.3389/fimmu.2024.1275153
 SCCmec transformation requires living donor cells in mixed biofilms.|https://dx.doi.org/10.1016/j.bioflm.2024.100184
 Staphylococcus aureus Bacteremia With Disseminated Multiple Foci and Pyomyositis in an Immunocompetent Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.53483
+Visible-light photoactivated proanthocyanidin and kappa-carrageenan coating with anti-adhesive properties against clinically relevant bacteria.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130611
+Fabrication of silicon-based nickel nanoflower-encapsulated gelatin microspheres as an active antimicrobial carrier.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130617
+Design, synthesis and antibacterial evaluation of low toxicity amphiphilic-cephalosporin derivatives.|https://dx.doi.org/10.1016/j.ejmech.2024.116293
+Novel silver nanoparticle-antibiotic combinations as promising antibacterial and anti-biofilm candidates against multiple-antibiotic resistant ESKAPE microorganisms.|https://dx.doi.org/10.1016/j.colsurfb.2024.113826
+The potential of therapeutic hyperthermia to eradicate Staphylococcus aureus bacteria; an in vitro study.|https://dx.doi.org/10.1016/j.jtherbio.2024.103812
+Epidemiologic analysis of antimicrobial resistance in hospital departments in China from 2022 to 2023.|https://dx.doi.org/10.1186/s41043-024-00526-2
+Investigating the in vitro antibacterial efficacy of composite bone cement incorporating natural product-based monomers and gentamicin.|https://dx.doi.org/10.1186/s13018-024-04646-7
+Structure-based drug design and characterization of novel pyrazine hydrazinylidene derivatives with a benzenesulfonate scaffold as noncovalent inhibitors of DprE1 tor tuberculosis treatment.|https://dx.doi.org/10.1007/s11030-024-10812-0
+Gut diversity and the resistome as biomarkers of febrile neutropenia outcome in paediatric oncology patients undergoing hematopoietic stem cell transplantation.|https://dx.doi.org/10.1038/s41598-024-56242-8
+Deep learning model for personalized prediction of positive MRSA culture using time-series electronic health records.|https://dx.doi.org/10.1038/s41467-024-46211-0
+Should a minimum Daptomycin AUC24h of 666 mg/L/h be the target in Staphylococcus aureus infections?|https://dx.doi.org/10.1093/cid/ciae086
+Studying mixed-species biofilms of Candida albicans and Staphylococcus aureus using evolutionary game theory.|https://dx.doi.org/10.1371/journal.pone.0297307
+Four New Isocoumarins from the Mangrove Fungus Alternaria malorum with antimicrobial activities.|https://dx.doi.org/10.1002/cbdv.202400327
+Staphylococcus aureus Pneumonia in Can Tho, Vietnam: Clinical Characteristics, Antimicrobial Resistance Profile and Risk Factors of Mortality.|https://dx.doi.org/10.1007/s41030-024-00254-2
+Inhibition of multiple staphylococcal growth states by a small molecule that disrupts membrane fluidity and voltage.|https://dx.doi.org/10.1128/msphere.00772-23
+Deep Eutectic Solvent Eutectogels for Delivery of Broad-Spectrum Antimicrobials.|https://dx.doi.org/10.1021/acsabm.3c00971
+Otitis externa.|https://dx.doi.org/10.61409/V05230339
+Antimicrobial Activity of Zinc Oxide Nanoparticles Synthesized Using Ocimum Tenuiflorum and Ocimum Gratissimum Herbal Formulation Against Oral Pathogens.|https://dx.doi.org/10.7759/cureus.53562

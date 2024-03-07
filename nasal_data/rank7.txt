@@ -164,3 +164,23 @@ Durability of the Effectiveness of Heterologous COVID-19 Vaccine Regimens in Tha
 Behind the shadows: Bringing the cardiovascular secrets of long COVID into light.|https://dx.doi.org/10.1093/eurjpc/zwae098
 The Impact of the COVID-19 Pandemic on the Incidence of Herpes Zoster: A Narrative Literature Review.|https://dx.doi.org/10.1007/s40121-024-00924-3
 Psychosocial impacts, preventive behaviours, and concerns associated with the COVID-19 pandemic for pregnant and non-pregnant women: A matched analysis from the International iCARE Study.|https://dx.doi.org/10.1007/s00737-024-01451-3
+[Analysis of prognostic factors in patients with COVID-19 infection].|https://dx.doi.org/10.3760/cma.j.cn112147-20230822-00096
+Longitudinal association between frequency of Internet use and incident disability among community-dwelling older people during the COVID-19 pandemic.|https://dx.doi.org/10.1265/ehpm.23-00207
+Risk of severe COVID-19 in unvaccinated patients during the period from wild-type to Omicron variant: real-world evidence from Japan.|https://dx.doi.org/10.1265/ehpm.23-00274
+A virus-like particle candidate vaccine based on CRISPR/Cas9 gene editing technology elicits broad-spectrum protection against SARS-CoV-2.|https://dx.doi.org/10.1016/j.antiviral.2024.105854
+Glycan-directed SARS-CoV-2 inhibition by leek extract and lectins with insights into the mode-of-action of Concanavalin A.|https://dx.doi.org/10.1016/j.antiviral.2024.105856
+Prevalence of mental health conditions and brain fog in people with long COVID: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.genhosppsych.2024.02.009
+Impact of the coronavirus disease 2019 pandemic on primary and metastatic lung cancer treatments in Japan: A nationwide study using an interrupted time series analysis.|https://dx.doi.org/10.1016/j.canep.2024.102549
+Assessing the impact of COVID-19 on self-reported levels of depression during the pandemic relative to pre-pandemic among Canadian adults.|https://dx.doi.org/10.1186/s13690-024-01253-0
+Association of COVID-19 preventive behavior and job-related stress with the sleep quality of healthcare workers one year into the COVID-19 outbreak: a Japanese cross-sectional survey.|https://dx.doi.org/10.1186/s13030-024-00304-w
+Disruption of hospital care during the first year of the COVID-19 pandemic impacted socioeconomic groups differently: population based study using routine registration data.|https://dx.doi.org/10.1186/s12913-024-10695-9
+Knowledge, attitude, and practice of dental health professionals toward dental impression disinfection protocol during the COVID-19 pandemic in Saudi Arabia- a cross-sectional study.|https://dx.doi.org/10.1186/s12909-024-05238-z
+Correction: A comprehensive molecular analysis of bovine coronavirus strains isolated from Brazil and comparison of a wild-type and cell culture-adapted strain associated with respiratory disease.|https://dx.doi.org/10.1007/s42770-024-01296-z
+Comparing frequency of booster vaccination to prevent severe COVID-19 by risk group in the United States.|https://dx.doi.org/10.1038/s41467-024-45549-9
+Socioeconomic status and the effect of prolonged pandemic confinement on anthropometric and glycaemic outcomes in adults with type 2 diabetes mellitus.|https://dx.doi.org/10.1016/j.pcd.2024.02.002
+Mitigating the impact of COVID-19 on primary healthcare interventions for the reduction of under-5 mortality in Bangladesh: Lessons learned through implementation research.|https://dx.doi.org/10.1371/journal.pgph.0002997
+The impact of the 2022 spring COVID-19 booster vaccination programme on hospital occupancy in England: An interrupted time series analysis.|https://dx.doi.org/10.1371/journal.pgph.0002046
+Autonomic cardiac function in children and adolescents with long COVID: a case-controlled study.|https://dx.doi.org/10.1007/s00431-024-05503-9
+BPR3P0128, a non-nucleoside RNA-dependent RNA polymerase inhibitor, inhibits SARS-CoV-2 variants of concern and exerts synergistic antiviral activity in combination with remdesivir.|https://dx.doi.org/10.1128/aac.00956-23
+Parental intention on getting children COVID-19 vaccinations: Invariance evaluation across parenting roles and COVID-19-like symptoms experiences among Iranians during the pandemic period.|https://dx.doi.org/10.1080/21645515.2024.2325230
+Redefining pandemic preparedness: Multidisciplinary insights from the CERP modelling workshop in infectious diseases, workshop report.|https://dx.doi.org/10.1016/j.idm.2024.02.008
