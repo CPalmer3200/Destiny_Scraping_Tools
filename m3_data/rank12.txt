@@ -50,3 +50,7 @@ Gallium Hydride-Catalyzed Selective Hydroboration of Unsaturated Organic Substra
 Kinetic-Thermodynamic Promotion Engineering toward High-Density Hierarchical and Zn-Doping Activity-Enhancing ZnNiO@CF for High-Capacity Desalination.|https://dx.doi.org/10.1007/s40820-024-01371-y
 Development of a composite drought indicator for operational drought monitoring in the MENA region.|https://dx.doi.org/10.1038/s41598-024-55626-0
 COVID-19 Australia: Epidemiology Report 80: Reporting period ending 22 October 2023.|https://dx.doi.org/10.33321/cdi.2024.48.3
+Differences in Possible Risk Factors, Treatment Strategies, and Outcomes of Neonatal Pneumothorax in Preterm and Term Infants.|https://dx.doi.org/10.5152/TurkArchPediatr.2024.23124
+Comparing ocrelizumab to interferon/glatiramer acetate in people with multiple sclerosis over age 60.|https://dx.doi.org/10.1136/jnnp-2023-332883
+The Effectiveness of High-dose Intravenous Immunoglobulin for Clostridioides difficile Infection Complicated by Kawasaki Disease: A Pediatric Case Report.|https://dx.doi.org/10.1097/INF.0000000000004307
+A Severe Infection Caused by a White Colony-Producing Strain of Clostridioides difficile RTC41/ST588.|https://dx.doi.org/10.3343/alm.2023.0474

@@ -12,3 +12,4 @@ Physical characterization, biocompatibility, and antimicrobial activity of polyv
 Hydrogel Loaded with Peptide-Containing Nanocomplexes: Symphonic Cooperation of Photothermal Antimicrobial Nanoparticles and Prohealing Peptides for the Treatment of Infected Wounds.|https://dx.doi.org/10.1021/acsami.3c16061
 Fabrication of silicon-based nickel nanoflower-encapsulated gelatin microspheres as an active antimicrobial carrier.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130617
 Deep Eutectic Solvent Eutectogels for Delivery of Broad-Spectrum Antimicrobials.|https://dx.doi.org/10.1021/acsabm.3c00971
+Sustainable whey proteins-nanostructured zinc oxide-based films for the treatment of chronic wounds: New insights from biopharmaceutical studies.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130655

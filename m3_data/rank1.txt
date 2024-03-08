@@ -23,3 +23,4 @@ RelQ-mediated alarmone signaling regulates growth, sporulation, and stress-induc
 Long-term beneficial effect of faecal microbiota transplantation on colonisation of multidrug-resistant bacteria and resistome abundance in patients with recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1186/s13073-024-01306-7
 SER-109 (VOWST(™)): A Review in the Prevention of Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1007/s40265-024-02006-7
 Recurrence of Clostridioides difficile infection and mortality in older inpatients.|https://dx.doi.org/10.1007/s41999-024-00942-x
+Protective effects of fecal microbiota transplantation against ischemic stroke and other neurological disorders: an update.|https://dx.doi.org/10.3389/fimmu.2024.1324018

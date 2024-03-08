@@ -2,3 +2,4 @@ Staphylococcal scalded skin syndrome in neonate: Another face of CA-MRSA.|https:
 Streptococcal toxic shock syndrome and multifocal necrotizing fasciitis secondary to staphylococcal scalded skin syndrome in the same patient.|https://dx.doi.org/10.1016/j.medcli.2023.12.021
 Crosstalk between keratinocytes and neutrophils shapes skin immunity against S. aureus infection.|https://dx.doi.org/10.3389/fimmu.2024.1275153
 Antimicrobial Resistance and the Prevalence of the Panton-Valentine Leukocidin Gene among Clinical Isolates of Staphylococcus aureus in Lithuania.|https://dx.doi.org/10.33073/pjm-2024-003
+Sensitizing methicillin-resistant Staphylococcus aureus (MRSA) to cefuroxime: the synergic effect of bicarbonate and the wall teichoic acid inhibitor ticlopidine.|https://dx.doi.org/10.1128/aac.01627-23

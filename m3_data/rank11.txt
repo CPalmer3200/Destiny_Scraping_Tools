@@ -199,3 +199,17 @@ Polycystic intrahepatic infection caused by Enterococcus casseliflavus: a case r
 Spondylodiscitis of lumbar complicated with spinal epidural abscess caused by Parvimonas micra: A case report and literature review.|https://dx.doi.org/10.11817/j.issn.1672-7347.2023.230139
 Staphylococcus aureus Pneumonia in Can Tho, Vietnam: Clinical Characteristics, Antimicrobial Resistance Profile and Risk Factors of Mortality.|https://dx.doi.org/10.1007/s41030-024-00254-2
 Incidence of Septic Arthritis After Vancomycin Soaking of the Graft During Arthroscopic Anatomic Anterior Talofibular Ligament and Calcaneofibular Ligament Reconstruction.|https://dx.doi.org/10.1177/23259671241228276
+Comparative analysis of characteristics of antibiotic resistomes between Arctic soils and representative contaminated samples using metagenomic approaches.|https://dx.doi.org/10.1016/j.jhazmat.2024.133943
+Management of Acne in Pregnancy.|https://dx.doi.org/10.1007/s40257-024-00851-6
+Vancomycin nephrotoxicity: A comprehensive clinico-pathological study.|https://dx.doi.org/10.1371/journal.pone.0295136
+Ceftaroline for Central Nervous System Infections: Case Report of a Young Infant, and Scoping Review.|https://dx.doi.org/10.1097/INF.0000000000004310
+PEDIATRIC COMMUNITY-ACQUIRED BRAIN ABSCESSES: A Single-center Retrospective Study.|https://dx.doi.org/10.1097/INF.0000000000004308
+Population pharmacokinetics of vancomycin in term neonates with perinatal asphyxia treated with therapeutic hypothermia.|https://dx.doi.org/10.1111/bcp.16026
+Intrawound Vancomycin Powder Reduces Delayed Deep Surgical Site Infections Following Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis.|https://dx.doi.org/10.1097/BRS.0000000000004980
+Drug interactions of carbonic anhydrase inhibitors and activators.|https://dx.doi.org/10.1080/17425255.2024.2328152
+Characteristics and susceptibility pattern of catheter-associated urinary tract infections (CAUTI) bacteria in Indonesia: A study in a national reference hospital of Sumatra region 2020-2021.|https://dx.doi.org/10.52225/narra.v3i3.436
+Distribution and antibacterial susceptibility pattern of isolated bacteria from endotracheal aspirates among ventilator-assisted pneumonia patients in Indonesia.|https://dx.doi.org/10.52225/narra.v3i1.149
+Study on Biofilm Formation Among Enterococcus Isolates and Association With Their Antibiotic Resistance Patterns.|https://dx.doi.org/10.7759/cureus.53594
+Case of Lemierre's Syndrome Presenting With Neuro-Ophthalmologic Complications That Worsened After Stopping Corticosteroids.|https://dx.doi.org/10.7759/cureus.53640
+CRISPR-like sequences association with antibiotic resistance and biofilm formation in Helicobacter pylori clinical isolates.|https://dx.doi.org/10.1016/j.heliyon.2024.e26809
+Anti-Trichomonas vaginalis Activity of Marine Ascidians (Tunicates; Ascidiacea) from the Bushehr Province, Iran.|https://dx.doi.org/10.4274/tpd.galenos.2023.96658

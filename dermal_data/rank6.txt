@@ -1,3 +1,4 @@
 Staphylococcus aureus: The Bug Behind the Itch in Atopic Dermatitis.|https://dx.doi.org/10.1016/j.jid.2024.01.001
 The role of Staphylococcus aureus quorum sensing in cutaneous and systemic infections.|https://dx.doi.org/10.1186/s41232-024-00323-8
 Atopic Dermatitis Phenotypes Impact Expression of Atopic Diseases Despite Similar Mononuclear Cell Cytokine Responses.|https://dx.doi.org/10.1016/j.jaci.2024.02.015
+Staphylococcal superantigen-like protein 3 triggers murine mast cell adhesion by binding to CD43 and augments mast cell activation.|https://dx.doi.org/10.1111/gtc.13111

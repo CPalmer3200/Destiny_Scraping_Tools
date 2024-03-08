@@ -7,3 +7,4 @@ Development and optimization of kaempferol loaded ethosomes using Box-Behnken st
 The effect of traditional Chinese medicine soaking method on the healing of diabetic foot ulcers: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14764
 Association of Demographic Characteristics and Laboratory Values in Diabetic Foot Infections Leading to Lower-Extremity Amputation.|https://dx.doi.org/10.7547/21-187
 Diabetic Foot Infections and Amputations Are All Too Common-Here's What Could Move the Needle.|https://dx.doi.org/10.1001/jama.2024.1016
+VGG19 demonstrates the highest accuracy rate in a nine-class wound classification task among various deep learning networks: a pilot study.|https://dx.doi.org/10.25270/wnds/23066
