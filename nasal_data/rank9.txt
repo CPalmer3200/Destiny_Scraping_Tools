@@ -165,3 +165,18 @@ Inhibition of multiple staphylococcal growth states by a small molecule that dis
 Deep Eutectic Solvent Eutectogels for Delivery of Broad-Spectrum Antimicrobials.|https://dx.doi.org/10.1021/acsabm.3c00971
 Otitis externa.|https://dx.doi.org/10.61409/V05230339
 Antimicrobial Activity of Zinc Oxide Nanoparticles Synthesized Using Ocimum Tenuiflorum and Ocimum Gratissimum Herbal Formulation Against Oral Pathogens.|https://dx.doi.org/10.7759/cureus.53562
+Multifunctional Hydrogel Enhances Inflammatory Control, Antimicrobial Activity, and Oxygenation to Promote Healing in Infectious Wounds.|https://dx.doi.org/10.1021/acs.biomac.3c01386
+Legacy of a magic gene-CCR5-∆32: From discovery to clinical benefit in a generation.|https://dx.doi.org/10.1073/pnas.2321907121
+Photoimmuno-antimicrobial therapy for Staphylococcus aureus implant infection.|https://dx.doi.org/10.1371/journal.pone.0300069
+Refining antimicrobial photodynamic therapy: effect of charge distribution and central metal ion in fluorinated porphyrins on effective control of planktonic and biofilm bacterial forms.|https://dx.doi.org/10.1007/s43630-024-00538-1
+GlcNAc-1,6-anhydro-MurNAc Moiety Affords Unusual Glycosyl Acceptor that Terminates Peptidoglycan Elongation.|https://dx.doi.org/10.1021/jacs.3c12526
+Crosstalk involving two-component systems in Staphylococcus aureus signaling networks.|https://dx.doi.org/10.1128/jb.00418-23
+Isolation and genomic characterization of Staphylococcus aureus bacteriophages from Chennai, India.|https://dx.doi.org/10.1128/mra.01209-23
+Comparable bacterial growth in platelet concentrates suspended in plasma and platelet additive solution and improved detection of bacterial contamination using a new generation automated culture system.|https://dx.doi.org/10.1111/trf.17772
+Potential of using medicinal plant extracts as photosensitizers for antimicrobial photodynamic therapy.|https://dx.doi.org/10.1111/php.13935
+Application of the intramolecular Diels-Alder vinylarene (IMDAV) reaction for the synthesis of benzo-, carbocyclo-, thienothiopheneisoindolecarboxylic acids and its limitations.|https://dx.doi.org/10.1039/d3ob01933k
+Risk factors for therapeutic failure in adults with methicillin-resistant Staphylococcus aureus (MRSA) infection treated with vancomycin in a high-complexity hospital in Cali, Colombia.|https://dx.doi.org/10.53854/liim-3201-6
+Comparative evaluation of antioxidant activity, total phenolic content, anti-inflammatory, and antibacterial potential of Euphorbia-derived functional products.|https://dx.doi.org/10.3389/fphar.2024.1345340
+Breast milk preservation: thermal and non-thermal processes and their effect on microorganism inactivation and the content of bioactive and nutritional compounds.|https://dx.doi.org/10.3389/fnut.2023.1325863
+Identification and evaluation of antimicrobial and anti-arthritis activities of hydroethanolic extract of Rubus ellipticus leaves.|https://dx.doi.org/10.52225/narra.v3i3.152
+Antibacterial and anti-inflammatory activities of Nothopanax scutellarium, Moringa oleifera and Piper betle extracts on staphylococcal mastitis animal model.|https://dx.doi.org/10.52225/narra.v3i2.176

@@ -184,3 +184,23 @@ Autonomic cardiac function in children and adolescents with long COVID: a case-c
 BPR3P0128, a non-nucleoside RNA-dependent RNA polymerase inhibitor, inhibits SARS-CoV-2 variants of concern and exerts synergistic antiviral activity in combination with remdesivir.|https://dx.doi.org/10.1128/aac.00956-23
 Parental intention on getting children COVID-19 vaccinations: Invariance evaluation across parenting roles and COVID-19-like symptoms experiences among Iranians during the pandemic period.|https://dx.doi.org/10.1080/21645515.2024.2325230
 Redefining pandemic preparedness: Multidisciplinary insights from the CERP modelling workshop in infectious diseases, workshop report.|https://dx.doi.org/10.1016/j.idm.2024.02.008
+Prevalence and risk factors associated with multidrug-resistant bacteria in COVID-19 patients.|https://dx.doi.org/10.1097/MD.0000000000037389
+The prevalence of COVID-19 infection, associated risk factors and post-COVID-19 symptoms among vaccinated people, in Anhui Province, China: A cross-sectional study.|https://dx.doi.org/10.1097/MD.0000000000037366
+Surprising Gendered Age Differences in Rural Malawians' Early COVID-19 Pandemic Prevention Efforts.|https://dx.doi.org/10.1093/geronb/gbae031
+Effects of Face Mask Mandates on COVID-19 Transmission in 51 Countries: Retrospective Event Study.|https://dx.doi.org/10.2196/49307
+Morbimortality profile by COVID-19 in telework and on-site work in an oil and gas company in Brazil.|https://dx.doi.org/10.3233/WOR-230114
+Living During COVID-19 While Immunocompromised: A Patient and Physician Perspective from France.|https://dx.doi.org/10.1007/s40121-024-00941-2
+Jerusalem's CoVID-19 Experience-The Effect of Ethnicity on Disease Prevalence and Adherence to Testing.|https://dx.doi.org/10.1007/s40615-024-01965-7
+Intracranial complications of sinogenic and otogenic infections in children: an ESPN survey on their occurrence in the pre-COVID and post-COVID era.|https://dx.doi.org/10.1007/s00381-024-06332-9
+Impact of COVID-19 on pregnancy and fetal outcomes in women with multiple sclerosis.|https://dx.doi.org/10.1177/13524585241232266
+Development of a Novel Multiplex PCR Method for the Rapid Detection of SARS-CoV-2, Influenza A Virus, and Influenza B Virus.|https://dx.doi.org/10.1155/2024/4950391
+Impact of COVID-19 on risks and deaths of non-communicable diseases in the Western Pacific region.|https://dx.doi.org/10.1016/j.lanwpc.2023.100795
+Knowledge, attitudes, and adherence relating to COVID-19 and its prevention measures in high-risk districts of Uganda in 2020.|https://dx.doi.org/10.3389/fepid.2023.1068097
+Use of RT-PCR in conjunction with a respiratory pathogen assay to concurrently determine the prevalence of bacteria and SARS-CoV-2 from the nasopharynx of outpatients.|https://dx.doi.org/10.3389/fepid.2023.1274800
+Evaluating the impact of sickle cell disease on COVID-19 susceptibility and severity: a retrospective cohort study based on electronic health record.|https://dx.doi.org/10.3389/fepid.2023.1241645
+Nirmatrelvir-ritonavir use among adults hospitalized with COVID-19 during the Omicron phase of the COVID-19 pandemic, Canadian Nosocomial Infection Surveillance Program.|https://dx.doi.org/10.14745/ccdr.v49i78a07
+Advances in researches on long coronavirus disease in children: a narrative review.|https://dx.doi.org/10.21037/tp-23-472
+Ginger ring compounds as an inhibitor of spike binding protein of alpha, beta, gamma and delta variants of SARS-CoV-2: An in-silico study.|https://dx.doi.org/10.52225/narra.v3i1.98
+Eosinophilic Gastroenteritis Following Covid-19 MRNA Vaccination.|https://dx.doi.org/10.12890/2024_004316
+Can euglycemic Diabetic Ketoacidosis Caused by SGLT2 Inhibitors be avoided in Covid-19 and other acute Infections?|https://dx.doi.org/10.12890/2024_004282
+Valsalva Manoeuvre-Induced Pneumothorax and Pneumomediastinum in a Covid-19 Patient with ARDS: An Unusual Mechanism for this Complication.|https://dx.doi.org/10.12890/2024_004217

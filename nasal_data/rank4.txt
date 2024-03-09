@@ -85,3 +85,20 @@ Nurses' knowledge regarding recommended practices on using surgical attire in op
 Preparation of an innovative series of respiratory nano-filters using polystyrene fibrous films containing KCC-1 dendrimer and ZnO nanostructures for environmental assessment of SO(2), NO(2) and CO(2).|https://dx.doi.org/10.1039/d4ra00176a
 Ceramic fragmentation after total hip arthroplasty: two case reports and literature review.|https://dx.doi.org/10.3389/fsurg.2024.1357301
 Unveiling the Enigma: Exploring capsular contracture-Unraveling its link with autoimmune disorders and comprehensive examination of predisposing factors.|https://dx.doi.org/10.1016/j.jpra.2024.01.015
+Early Estimate of Nirsevimab Effectiveness for Prevention of Respiratory Syncytial Virus-Associated Hospitalization Among Infants Entering Their First Respiratory Syncytial Virus Season - New Vaccine Surveillance Network, October 2023-February 2024.|https://dx.doi.org/10.15585/mmwr.mm7309a4
+The effect of antibiotic-impregnated calcium sulfate beads and Medical Optimization Clinic attendance on the acute surgical site infection rate in high-risk pediatric neuromuscular and syndromic scoliosis patients.|https://dx.doi.org/10.1007/s43390-024-00837-8
+The impact of stapled compared to handsewn repair on anastomotic outcomes in trauma patients: a systematic review and meta-analysis.|https://dx.doi.org/10.1111/ans.18925
+Outcomes and efficacy of magnetic resonance imaging-compatible sacral nerve stimulator for management of fecal incontinence: A multi-institutional study.|https://dx.doi.org/10.4329/wjr.v16.i2.32
+Pneumonectomy for severe post-tuberculosis bronchiectasis: A successful of case report and review of the long-term outcome.|https://dx.doi.org/10.52225/narra.v3i3.222
+Clinical Use of Tranexamic Acid in High Tibial Osteotomy: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1177/23259671241231761
+Respiratory syncytial virus-associated hospitalizations among children: an Italian retrospective observational study.|https://dx.doi.org/10.1186/s13052-024-01617-w
+Bilateral Nontuberculous Mycobacterial Otitis Media: A Case Report.|https://dx.doi.org/10.5152/iao.2024.231187
+Social and demographic factors associated with receipt of a COVID-19 vaccine initial booster dose and with interval between primary series completion and initial booster dose uptake among persons aged ≥ 12 years, United States, August 2021-October 2022.|https://dx.doi.org/10.1016/j.vaccine.2024.02.089
+Total Hip Arthroplasty in Human Immunodeficiency Virus Positive Patients: A Systematic Review of Outcomes.|https://dx.doi.org/10.1016/j.arth.2024.02.043
+PEDIATRIC COMMUNITY-ACQUIRED BRAIN ABSCESSES: A Single-center Retrospective Study.|https://dx.doi.org/10.1097/INF.0000000000004308
+Prevalence of Self-Reported Hypertension and Antihypertensive Medication Use Among Adults - United States, 2017-2021.|https://dx.doi.org/10.15585/mmwr.mm7309a1
+Catheter-guided anvil insertion for circular stapler esophagojejunal anastomosis: a novel technique in laparoscopic total gastrectomy.|https://dx.doi.org/10.1007/s13304-024-01753-2
+Comparison of scrotal and inguinal orchiopexy for palpable undescended testis: a meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1007/s00383-024-05655-7
+Characteristics and susceptibility pattern of catheter-associated urinary tract infections (CAUTI) bacteria in Indonesia: A study in a national reference hospital of Sumatra region 2020-2021.|https://dx.doi.org/10.52225/narra.v3i3.436
+Antibiotic susceptibility patterns at the Médecins Sans Frontières (MSF) Acute Trauma Hospital in Aden, Yemen: a retrospective study from January 2018 to June 2021.|https://dx.doi.org/10.1093/jacamr/dlae024
+[Multiple pulmonary nodules with cavity formation].|https://dx.doi.org/10.3760/cma.j.cn112147-20230802-00038

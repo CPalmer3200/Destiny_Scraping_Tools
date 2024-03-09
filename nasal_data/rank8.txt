@@ -171,3 +171,18 @@ Surgical-site infection in multifetal cesarean delivery.|https://dx.doi.org/10.1
 Spondylodiscitis of lumbar complicated with spinal epidural abscess caused by Parvimonas micra: A case report and literature review.|https://dx.doi.org/10.11817/j.issn.1672-7347.2023.230139
 Progression from carriage to bloodstream infection and fatality by different Enterobacterales species, carbapenemases and host settings: deciphering the melting pot.|https://dx.doi.org/10.1093/cid/ciae109
 The effect of omentoplasty in various surgical operations: Systematic review and meta-analysis.|https://dx.doi.org/10.1097/JS9.0000000000001240
+Preoperative prescription opioid use as an independent predictor of 90-day mortality and adverse events in craniotomy and craniectomy patients.|https://dx.doi.org/10.3171/2024.1.JNS23615
+Chronic infective arthritis with osteomyelitis of the ankle due to Pseudomonas aeruginosa infection in a middle-age woman: A rare causative pathogen requiring vigilance.|https://dx.doi.org/10.1097/MD.0000000000037344
+Pivotal role of myeloid-derived suppressor cells in infection-related tumor growth.|https://dx.doi.org/10.1002/cam4.6917
+Transanal fistula repair for the treatment of rectovestibular fistula with normal anus in female children: a 5-year single-center experience.|https://dx.doi.org/10.1007/s00383-024-05658-4
+Giant inflamed fibroepithelial scrotal polyp mimicking an anogenital wart.|https://dx.doi.org/10.1177/09564624241237291
+SARS-CoV-2 Omicron infection augments the magnitude and durability of systemic and mucosal immunity in triple-dose CoronaVac recipients.|https://dx.doi.org/10.1128/mbio.02407-23
+Quantifying the Association Between Surgical Spine Approach and Tracheostomy Timing After Traumatic Cervical Spinal Cord Injury.|https://dx.doi.org/10.1227/neu.0000000000002892
+Nanotechnology-based delivery of therapeutics through the intranasal pathway and the blood-brain barrier for Alzheimer's disease treatment.|https://dx.doi.org/10.1039/d3bm02003g
+Ligation of the Intersphincteric Fistula Tract as an Emergency Treatment for Cryptoglandular Anal Fistula.|https://dx.doi.org/10.21315/mjms2024.31.1.5
+Histopathologic and transmission electron microscopic findings in monkeypox cutaneous lesions.|https://dx.doi.org/10.53854/liim-3201-10
+Evaluation of Olfactory Dysfunction Among COVID-19 Patients in Baghdad, Iraq.|https://dx.doi.org/10.7759/cureus.53721
+Comparison of the Effectiveness of a Novel Matrix-Modified Bovine Collagen Membrane With a Conventional Bovine Collagen Membrane for Oral Mucosal Defects: A Single-Center Study.|https://dx.doi.org/10.7759/cureus.53696
+Endovascular Treatment of a Multi-visceral Aortic Conduit Blowout With Parallel Stent Grafts and Coils.|https://dx.doi.org/10.7759/cureus.53707
+Pectoralis Major Pyomyositis in a Patient With Diabetes: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.53689
+Summary of the best evidence for the prevention of nasal injury in preterm infants with nasal noninvasive ventilation.|https://dx.doi.org/10.21037/tp-23-465
