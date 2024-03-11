@@ -12,3 +12,13 @@ Prolonged Bacteroides pyogenes infection in a patient with multiple lung abscess
 Evaluating Enterococcus faecium9 N-2 as a probiotic candidate from traditional village white cheese.|https://dx.doi.org/10.1002/fsn3.3878
 Fungal and bacterial gut microbiota differ between Clostridioides difficile colonization and infection.|https://dx.doi.org/10.20517/mrr.2023.52
 Drug-induced Stevens-Johnson syndrome in Post traumatic facial injury.|https://dx.doi.org/10.4103/ijp.ijp_485_23
+Intraosseous Versus Intravenous Vancomycin in Tourniquetless Primary Total Knee Arthroplasty: A Randomized Trial.|https://dx.doi.org/10.1016/j.arth.2024.02.083
+Exploring novel pyrazole-nitroimidazole hybrids: Synthesis and antiprotozoal activity against the human pathogen trichomonas vaginalis.|https://dx.doi.org/10.1016/j.bmc.2024.117679
+The multicenter real-world report of the efficacies of 14-day esomeprazole-based and rabeprazole-based high-dose dual therapy in first-line Helicobacter pylori eradication in Taiwan.|https://dx.doi.org/10.1016/j.jmii.2024.02.009
+Nutritional strategies to improve VRE control.|https://dx.doi.org/10.1016/j.jtct.2024.03.007
+Addition of vancomycin to cefazolin is often unnecessary for preoperative antibiotic prophylaxis during total joint arthroplasties.|https://dx.doi.org/10.1186/s42836-023-00222-2
+Genome mining of Escherichia coli WG5D from drinking water source: unraveling antibiotic resistance genes, virulence factors, and pathogenicity.|https://dx.doi.org/10.1186/s12864-024-10110-x
+Common and varied molecular responses of Escherichia coli to five different inhibitors of the lipopolysaccharide biosynthetic enzyme LpxC.|https://dx.doi.org/10.1016/j.jbc.2024.107143
+[Potential Nephrotoxicity of Combination of Vancomycin and Piperacillin-Tazobactam: Recommendations from the AG ABS of the DGPI supported by experts of the GPN].|https://dx.doi.org/10.1055/a-2244-7698
+Meropenem versus piperacillin-tazobactam for the treatment of pancreatic necrosis.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116209
+Biophysical library screening using a Thermo-FMN assay to identify and characterize Clostridioides difficile FabK inhibitors.|https://dx.doi.org/10.1016/j.bbrc.2024.149740

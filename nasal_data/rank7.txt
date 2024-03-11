@@ -204,3 +204,18 @@ Ginger ring compounds as an inhibitor of spike binding protein of alpha, beta, g
 Eosinophilic Gastroenteritis Following Covid-19 MRNA Vaccination.|https://dx.doi.org/10.12890/2024_004316
 Can euglycemic Diabetic Ketoacidosis Caused by SGLT2 Inhibitors be avoided in Covid-19 and other acute Infections?|https://dx.doi.org/10.12890/2024_004282
 Valsalva Manoeuvre-Induced Pneumothorax and Pneumomediastinum in a Covid-19 Patient with ARDS: An Unusual Mechanism for this Complication.|https://dx.doi.org/10.12890/2024_004217
+Development and validation of claims-based algorithms for identifying hospitalized patients with COVID-19 and their severity in 2020 and 2021.|https://dx.doi.org/10.2188/jea.JE20230285
+Enteric coronavirus PDCoV evokes a non-Warburg effect by hijacking pyruvic acid as a metabolic hub.|https://dx.doi.org/10.1016/j.redox.2024.103112
+Developing effective strategies to optimize physical activity and cardiorespiratory fitness in the long Covid population- The need for caution and objective assessment.|https://dx.doi.org/10.1016/j.pcad.2024.03.003
+THE TRENDS AND INCIDENCE OF ALCOHOL-ASSOCIATED HEPATITIS HOSPITALIZATIONS FROM 2016-2020 AND THE IMPACT OF THE COVID-19 PANDEMIC.|https://dx.doi.org/10.1016/j.alcohol.2024.03.003
+pGM-CSF as an adjuvant in DNA vaccination against SARS-CoV-2.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130660
+Systems analysis of innate and adaptive immunity in Long COVID.|https://dx.doi.org/10.1016/j.smim.2024.101873
+Change in body weight of older adults before and during the COVID-19 pandemic: longitudinal results from the Berlin Aging Study II.|https://dx.doi.org/10.1016/j.jnha.2024.100206
+Implications of COVID-19 in Parkinson's disease: the purinergic system in a therapeutic-target perspective to diminish neurodegeneration.|https://dx.doi.org/10.1007/s11302-024-09998-7
+The effect of mesenchymal stem cells administration on DNA repair gene expressions in critically ill COVID-19 patients: prospective controlled study.|https://dx.doi.org/10.1080/15257770.2024.2327478
+Impact of SARS-CoV-2 spike stability and RBD exposure on antigenicity and immunogenicity.|https://dx.doi.org/10.1038/s41598-024-56293-x
+Possible temporal relationship between SARS-CoV-2 infection and anti-NMDA receptor encephalitis: a meta-analysis.|https://dx.doi.org/10.1038/s41398-024-02831-0
+Design and conduct of a randomized controlled feeding trial in a residential setting with mitigation for COVID-19.|https://dx.doi.org/10.1016/j.cct.2024.107490
+Mast cell degranulation-triggered by SARS-CoV-2 induces tracheal-bronchial epithelial inflammation and injury.|https://dx.doi.org/10.1016/j.virs.2024.03.001
+CD8(+) T cell memory induced by successive SARS-CoV-2 mRNA vaccinations is characterized by shifts in clonal dominance.|https://dx.doi.org/10.1016/j.celrep.2024.113887
+No vaccine interference between bovine coronavirus and bovine herpesvirus-1 in a randomized trial when coadministrating two intranasal modified-live viral vaccines to neonatal calves.|https://dx.doi.org/10.2460/ajvr.23.12.0281

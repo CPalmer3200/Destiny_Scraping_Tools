@@ -14,3 +14,8 @@ Fabrication of silicon-based nickel nanoflower-encapsulated gelatin microspheres
 Deep Eutectic Solvent Eutectogels for Delivery of Broad-Spectrum Antimicrobials.|https://dx.doi.org/10.1021/acsabm.3c00971
 Sustainable whey proteins-nanostructured zinc oxide-based films for the treatment of chronic wounds: New insights from biopharmaceutical studies.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130655
 Multifunctional Hydrogel Enhances Inflammatory Control, Antimicrobial Activity, and Oxygenation to Promote Healing in Infectious Wounds.|https://dx.doi.org/10.1021/acs.biomac.3c01386
+The essential oil of Melaleuca alternifolia incorporated into hydrogel induces antimicrobial and anti-inflammatory effects on infected wounds by Staphylococcus aureus.|https://dx.doi.org/10.1016/j.biopha.2024.116389
+A novel approach to wound healing: Green synthetic nano-zinc oxide embedded with sodium alginate and polyvinyl alcohol hydrogels for dressings.|https://dx.doi.org/10.1016/j.ijpharm.2024.123968
+Strong, tough, high-release, and antibacterial nanocellulose hydrogel for refrigerated chicken preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130727
+Promoting the healing of diabetic wounds with an antimicrobial gel containing AgNPs with anti-infective and anti-inflammatory properties.|https://dx.doi.org/10.1080/09205063.2024.2324494
+MOF/MXene-loaded PVA/chitosan hydrogel with antimicrobial effect and wound healing promotion under electrical stimulation and improved mechanical properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130625

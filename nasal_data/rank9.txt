@@ -180,3 +180,18 @@ Comparative evaluation of antioxidant activity, total phenolic content, anti-inf
 Breast milk preservation: thermal and non-thermal processes and their effect on microorganism inactivation and the content of bioactive and nutritional compounds.|https://dx.doi.org/10.3389/fnut.2023.1325863
 Identification and evaluation of antimicrobial and anti-arthritis activities of hydroethanolic extract of Rubus ellipticus leaves.|https://dx.doi.org/10.52225/narra.v3i3.152
 Antibacterial and anti-inflammatory activities of Nothopanax scutellarium, Moringa oleifera and Piper betle extracts on staphylococcal mastitis animal model.|https://dx.doi.org/10.52225/narra.v3i2.176
+Green and facile fabrication of multifunctional cellulose nanocrystal and carvacrol together reinforced chitosan bio-nanocomposite coatings for fruit preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130651
+An integrated approach to explore the microbial biodiversity of natural milk cultures for cheesemaking.|https://dx.doi.org/10.3168/jds.2024-24463
+Efficacy of 233 nm LED far UV-C-radiation against clinically relevant bacterial strains in the phase 2/ step 2 in vitro test on basis of EN 14561 and on an epidermis cell model.|https://dx.doi.org/10.1016/j.micinf.2024.105320
+A colorimetry-enhanced tri-functional film with high stability by polyphenol-anthocyanin co-pigmentation/conjugate: New prospect for active intelligent food packaging.|https://dx.doi.org/10.1016/j.foodchem.2024.138927
+The essential oil of Melaleuca alternifolia incorporated into hydrogel induces antimicrobial and anti-inflammatory effects on infected wounds by Staphylococcus aureus.|https://dx.doi.org/10.1016/j.biopha.2024.116389
+Effects of Phomopsidione on the Viability, Virulence, and Metabolites Profile of Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1007/s00284-024-03627-7
+Correction: Confronting the complexities of antimicrobial management for Staphylococcus aureus causing bovine mastitis: an innovative paradigm.|https://dx.doi.org/10.1186/s13620-024-00266-z
+Investigation of physio-mechanical, antioxidant and antimicrobial properties of starch-zinc oxide nanoparticles active films reinforced with Ferula gummosa Boiss essential oil.|https://dx.doi.org/10.1038/s41598-024-56062-w
+Liposomal nanoformulations with trans-caryophyllene and caryophyllene oxide: do they have an inhibitory action on the efflux pumps NorA, Tet(K), MsrA, and MepA?|https://dx.doi.org/10.1016/j.cbi.2024.110945
+A novel approach to wound healing: Green synthetic nano-zinc oxide embedded with sodium alginate and polyvinyl alcohol hydrogels for dressings.|https://dx.doi.org/10.1016/j.ijpharm.2024.123968
+Polydispersity-mediated high efficacy of an in-situ aqueous nanosuspension of PPEF.3HCl in methicillin resistant Staphylococcus aureus sepsis model.|https://dx.doi.org/10.1016/j.ijpharm.2024.123982
+Strong, tough, high-release, and antibacterial nanocellulose hydrogel for refrigerated chicken preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130727
+Polypyridyl ruthenium complexes with benzothiazole moiety as membrane disruptors and anti-resistance agents for Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jinorgbio.2024.112517
+One pot fabrication of diamino naphthalene -AuNPs decorated graphene nanoplatform for the MRSA detection in the biological sample.|https://dx.doi.org/10.1016/j.bioelechem.2024.108674
+Rheumatoid arthritis and risk of osteoarticular infection and death following Staphylococcus aureus bacteraemia: A nationwide cohort study.|https://dx.doi.org/10.1093/rheumatology/keae132

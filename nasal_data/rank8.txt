@@ -186,3 +186,18 @@ Comparison of the Effectiveness of a Novel Matrix-Modified Bovine Collagen Membr
 Endovascular Treatment of a Multi-visceral Aortic Conduit Blowout With Parallel Stent Grafts and Coils.|https://dx.doi.org/10.7759/cureus.53707
 Pectoralis Major Pyomyositis in a Patient With Diabetes: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.53689
 Summary of the best evidence for the prevention of nasal injury in preterm infants with nasal noninvasive ventilation.|https://dx.doi.org/10.21037/tp-23-465
+Recombinase polymerase amplification-lateral flow dipstick (RPA-LFD) designed for rapid detection of canine distemper virus.|https://dx.doi.org/10.1292/jvms.23-0389
+Intraosseous Versus Intravenous Vancomycin in Tourniquetless Primary Total Knee Arthroplasty: A Randomized Trial.|https://dx.doi.org/10.1016/j.arth.2024.02.083
+Preparation and immunogenicity evaluation of C-HapS-P6 fusion protein vaccine against nontypeable Haemophilus influenzae in mice.|https://dx.doi.org/10.1016/j.ijmm.2024.151616
+Peri-implantitis: Knowledge and attitudes of implantology clinicians regarding the disease management: Peri-implantitis knowledge.|https://dx.doi.org/10.1111/idh.12797
+Longitudinal Molecular and Serological Evidence of SARS-CoV-2 Infections and Vaccination Status: Community-Based Surveillance Study (CONTACT).|https://dx.doi.org/10.1007/s40121-024-00923-4
+The role of environmental and seasonal factors in spine deep surgical site infection: the air pollution, a factor that may be underestimated.|https://dx.doi.org/10.1007/s00586-024-08183-z
+An innovative 3D hydroxyapatite patient-specific implant for maxillofacial bone reconstruction: A case series of 13 patients.|https://dx.doi.org/10.1016/j.jcms.2024.02.026
+New approach to AGV implantation with scleral tunnel method by prolene suture: Şimşek Technique.|https://dx.doi.org/10.1177/11206721241231629
+Minimally Invasive Surgery of femoral periprosthetic fractures increases the rate of consolidation and decreases time to bone healing without a higher rate of complications.|https://dx.doi.org/10.1016/j.otsr.2024.103866
+The Effect of Diabetes on Complications After Spinal Fusion: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.wneu.2024.03.008
+Robotic ureter reimplantation after urinary diversion.|https://dx.doi.org/10.1016/j.urology.2024.02.043
+Impact of Prolonged Ischemic Time on Pediatric Heart Transplantation Outcomes: Improved Outcomes in the Most Recent Era.|https://dx.doi.org/10.1016/j.healun.2024.03.002
+Effect of hemoadsorption during cardiac surgery for S. aureus endocarditis - a REMOVE trial post-hoc analysis.|https://dx.doi.org/10.1093/ejcts/ezae093
+Trends and predictors of unplanned hospitalization among oral and oropharyngeal cancer patients; an 8-year population-based study.|https://dx.doi.org/10.1016/j.oraloncology.2024.106742
+Laser excision of urethral mesh erosion: a 10-year experience.|https://dx.doi.org/10.1007/s00345-024-04822-8

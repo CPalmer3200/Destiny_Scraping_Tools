@@ -3,3 +3,4 @@ Streptococcal toxic shock syndrome and multifocal necrotizing fasciitis secondar
 Crosstalk between keratinocytes and neutrophils shapes skin immunity against S. aureus infection.|https://dx.doi.org/10.3389/fimmu.2024.1275153
 Antimicrobial Resistance and the Prevalence of the Panton-Valentine Leukocidin Gene among Clinical Isolates of Staphylococcus aureus in Lithuania.|https://dx.doi.org/10.33073/pjm-2024-003
 Sensitizing methicillin-resistant Staphylococcus aureus (MRSA) to cefuroxime: the synergic effect of bicarbonate and the wall teichoic acid inhibitor ticlopidine.|https://dx.doi.org/10.1128/aac.01627-23
+Neonatal Severe Staphylococcal Scalded Skin Syndrome: Management with Autoadhesive Skin Substitute Dressing (Suprathel(®)).|https://dx.doi.org/10.1007/s12098-024-05092-3
