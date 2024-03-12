@@ -8,3 +8,5 @@ The effect of traditional Chinese medicine soaking method on the healing of diab
 Association of Demographic Characteristics and Laboratory Values in Diabetic Foot Infections Leading to Lower-Extremity Amputation.|https://dx.doi.org/10.7547/21-187
 Diabetic Foot Infections and Amputations Are All Too Common-Here's What Could Move the Needle.|https://dx.doi.org/10.1001/jama.2024.1016
 VGG19 demonstrates the highest accuracy rate in a nine-class wound classification task among various deep learning networks: a pilot study.|https://dx.doi.org/10.25270/wnds/23066
+Hydrogel dressings for diabetic foot ulcer: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/dom.15544
+Successful topical treatment of human biofilms using multiple antibiotic elution from a collagen-rich hydrogel.|https://dx.doi.org/10.1038/s41598-024-54477-z

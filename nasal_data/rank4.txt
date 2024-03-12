@@ -113,3 +113,21 @@ Laparoscopic Adrenal Gland Surgery in Times of COVID - Is a Safety-Interval Befo
 Meropenem versus piperacillin-tazobactam for the treatment of pancreatic necrosis.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116209
 Venous sinus stenting for idiopathic intracranial hypertension: An updated Meta-analysis.|https://dx.doi.org/10.1016/j.jns.2024.122948
 Non-unions and wound infections do not differ following intramedullary nailing and plate osteosynthesis for distal third femur fractures: a meta-analysis.|https://dx.doi.org/10.1530/EOR-22-0140
+Diagnosis and outcome of odontogenic abscesses in client-owned rabbits (Oryctolagus cuniculus): 72 cases (2011-2022).|https://dx.doi.org/10.2460/javma.23.12.0718
+Sprint Team Approach Yields Rapid Improvement in Leapfrog Quality Indicators.|https://dx.doi.org/10.1097/JHM-D-22-00223
+Evaluation of the Safety of Uninterrupted Warfarin Anticoagulation With Tranexamic Acid in Total Joint Arthroplasty.|https://dx.doi.org/10.3928/01477447-20240304-04
+Advancing diagnosis of current HCV infection: A key to hepatitis C elimination in the United States.|https://dx.doi.org/10.1093/infdis/jiae127
+Opioid Prescribing and Outcomes in Patients With Sickle Cell Disease Post-2016 CDC Guideline.|https://dx.doi.org/10.1001/jamainternmed.2023.8538
+(18)F-FDG PET/CT and Radiolabeled Leukocyte SPECT/CT Imaging for the Evaluation of Cardiovascular Infection in the Multimodality Context: ASNC Imaging Indications (ASNC I(2)) Series Expert Consensus Recommendations From ASNC, AATS, ACC, AHA, ASE, EANM, HRS, IDSA, SCCT, SNMMI, and STS.|https://dx.doi.org/10.1016/j.jcmg.2024.01.004
+(18)F-FDG PET/CT and radiolabeled leukocyte SPECT/CT imaging for the evaluation of cardiovascular infection in the multimodality context: ASNC Imaging Indications (ASNC I(2)) Series Expert Consensus Recommendations from ASNC, AATS, ACC, AHA, ASE, EANM, HRS, IDSA, SCCT, SNMMI, and STS.|https://dx.doi.org/10.1016/j.hrthm.2024.01.043
+18F-FDG PET/CT and radiolabeled leukocyte SPECT/CT imaging for the evaluation of cardiovascular infection in the multimodality context: ASNC Imaging Indications (ASNC I2) Series Expert Consensus Recommendations from ASNC, AATS, ACC, AHA, ASE, EANM, HRS, IDSA, SCCT, SNMMI, and STS.|https://dx.doi.org/10.1093/cid/ciae046
+Do HIV Care Outcomes Differ by Provider Type?|https://dx.doi.org/10.1097/QAI.0000000000003410
+Effect of institutional antimicrobial stewardship guidelines on prescription of critically important antimicrobials for dogs and cats.|https://dx.doi.org/10.1111/jvim.17043
+Unveiling a Unique Case of Scimitar Syndrome: Clinical Significance and Multidisciplinary Management Challenges in Pakistan.|https://dx.doi.org/10.7759/cureus.53874
+Comprehensive Review of Urinary Tract Infections in Renal Transplant Recipients: Clinical Insights and Management Strategies.|https://dx.doi.org/10.7759/cureus.53882
+Factors related to serum levels of intercellular adhesion molecule-1 in probable COVID-19 patients in surgical treatment: an observational study.|https://dx.doi.org/10.11604/pamj.2023.46.117.41690
+Complications and clinical outcomes with minimally invasive plate osteosynthesis (MIPO) technique for midshaft clavicle fractures: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jseint.2023.10.007
+Protein and water recovery from tuna defrosting wastewater.|https://dx.doi.org/10.1016/j.heliyon.2024.e26669
+Surgical team member's application of personal protective equipment: an observational study.|https://dx.doi.org/10.1097/MS9.0000000000001765
+A clinical study on gastric cancer patients administered EN and PN versus PN alone in enhanced recovery after surgery.|https://dx.doi.org/10.1097/MS9.0000000000001753
+Knowledge, practice and associated factors towards intravenous cannula-related infection prevention among nurses working at Northwest Amhara Regional State Comprehensive Specialized Hospitals, Ethiopia.|https://dx.doi.org/10.1186/s12912-024-01737-y

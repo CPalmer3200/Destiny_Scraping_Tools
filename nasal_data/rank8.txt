@@ -201,3 +201,14 @@ Impact of Prolonged Ischemic Time on Pediatric Heart Transplantation Outcomes: I
 Effect of hemoadsorption during cardiac surgery for S. aureus endocarditis - a REMOVE trial post-hoc analysis.|https://dx.doi.org/10.1093/ejcts/ezae093
 Trends and predictors of unplanned hospitalization among oral and oropharyngeal cancer patients; an 8-year population-based study.|https://dx.doi.org/10.1016/j.oraloncology.2024.106742
 Laser excision of urethral mesh erosion: a 10-year experience.|https://dx.doi.org/10.1007/s00345-024-04822-8
+Early Surgery for Infective Endocarditis Complicated With Neurologic Injury.|https://dx.doi.org/10.1053/j.jvca.2024.02.011
+Recent Advances in Molecular Pathways and Therapeutic Implications for Peptic Ulcer Management: A Comprehensive Review.|https://dx.doi.org/10.1055/a-2256-6592
+Patients' Experience and Satisfaction Regarding the Pre-Operative Shower: The PRODOUCH Multicenter Descriptive Survey.|https://dx.doi.org/10.1089/sur.2023.329
+Adult patients treated for bladder exstrophy at a young age: What are their current demands?|https://dx.doi.org/10.5489/cuaj.8601
+Early Versus Delayed Definitive Fixation Relative to Fasciotomy Closure in High-Energy Tibial Plateau Fractures with Compartment Syndrome.|https://dx.doi.org/10.1097/BOT.0000000000002802
+High rate of undetected infections in failed osteosynthesis of pertrochanteric fractures.|https://dx.doi.org/10.1097/BOT.0000000000002801
+Urinary tract infection after flexible ureterorenoscopy for urolithiasis in patients with positive treated preoperative urinalysis.|https://dx.doi.org/10.1007/s00240-024-01546-7
+Importance of injury severity in the choice of treatment and its impact on prognosis in gunshot fractures.|https://dx.doi.org/10.1007/s00068-024-02495-x
+Effectiveness of combined local therapy with antibiotics and fibrin vs. vacuum-assisted wound therapy in soft tissue infections: a retrospective study.|https://dx.doi.org/10.1007/s00068-024-02483-1
+Comparative study of retrograde intramedullary nailing versus locking extramedullary plating in complete articular fractures with metaphyseal comminution of the distal femur.|https://dx.doi.org/10.1007/s00402-024-05265-x
+Occupational exposure to Coxiella burnetii during cardiac surgery: A case report and review of the literature.|https://dx.doi.org/10.1556/030.2024.02240

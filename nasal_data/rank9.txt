@@ -195,3 +195,14 @@ Strong, tough, high-release, and antibacterial nanocellulose hydrogel for refrig
 Polypyridyl ruthenium complexes with benzothiazole moiety as membrane disruptors and anti-resistance agents for Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jinorgbio.2024.112517
 One pot fabrication of diamino naphthalene -AuNPs decorated graphene nanoplatform for the MRSA detection in the biological sample.|https://dx.doi.org/10.1016/j.bioelechem.2024.108674
 Rheumatoid arthritis and risk of osteoarticular infection and death following Staphylococcus aureus bacteraemia: A nationwide cohort study.|https://dx.doi.org/10.1093/rheumatology/keae132
+Characterization and antimicrobial activity of endophytic fungi from medicinal plant Agave americana.|https://dx.doi.org/10.1093/lambio/ovae025
+Design and Synthesis of 2-Phenylindolizine Acetamides: Molecular Docking, in Vitro Antimicrobial and Anticancer Activity Evaluation.|https://dx.doi.org/10.1002/cbdv.202400075
+Design, Synthesis, and Biological Evaluation of 5-(5-Iodo-2-isopropyl-4-methoxyphenoxy)pyrimidine-2,4-diamine (AF-353) Derivatives as Novel DHFR Inhibitors against Staphylococcus aureus.|https://dx.doi.org/10.1021/acs.jmedchem.3c02355
+The influence of cationic antiseptics on the processes of light energy conversion in various photosynthetic pigment-protein complexes.|https://dx.doi.org/10.1007/s11120-024-01082-w
+Multiprocessing Substrates Enhanced Ta(2)O(5)/NiCo(2)O(4) Spinel Nanocomposites for Effective Electro-/Photocatalytic and Toxicological Effects via the Caenorhabditis elegans Model.|https://dx.doi.org/10.1021/acs.langmuir.3c02577
+The positioning of ceftobiprole in the treatment of Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1093/cid/ciae126
+The positioning of ceftobiprole in Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1093/cid/ciae123
+Design, synthesis, structure elucidation, antimicrobial, molecular docking, and SAR studies of novel urea derivatives bearing tricyclic aromatic hydrocarbon rings.|https://dx.doi.org/10.1002/ardp.202300738
+Using negative control populations to assess unmeasured confounding and direct effects.|https://dx.doi.org/10.1097/EDE.0000000000001724
+Cost evaluation of continuation of therapy with dalbavancin compared to standard-of-care antibiotics alone in hospitalized persons who inject drugs with severe gram-positive infections.|https://dx.doi.org/10.1093/ajhp/zxae025
+Effect of regional disparities and solvent variations on the phenolic composition, antioxidant activity, and antibacterial efficacy of Cupressus sempervirens extracts.|https://dx.doi.org/10.1080/09603123.2024.2327521

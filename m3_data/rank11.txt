@@ -22,3 +22,9 @@ Common and varied molecular responses of Escherichia coli to five different inhi
 [Potential Nephrotoxicity of Combination of Vancomycin and Piperacillin-Tazobactam: Recommendations from the AG ABS of the DGPI supported by experts of the GPN].|https://dx.doi.org/10.1055/a-2244-7698
 Meropenem versus piperacillin-tazobactam for the treatment of pancreatic necrosis.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116209
 Biophysical library screening using a Thermo-FMN assay to identify and characterize Clostridioides difficile FabK inhibitors.|https://dx.doi.org/10.1016/j.bbrc.2024.149740
+Physicochemical, Structural, and Functional Properties of Fructans from Single-Clove Garlic and Multiclove Garlic: A Comparison.|https://dx.doi.org/10.1021/acs.jafc.3c07898
+Native Aortic Valve Endocarditis Secondary to Gastric Antral Vascular Ectasia Manipulation During Endoscopic Argon Plasma Coagulation.|https://dx.doi.org/10.7759/cureus.53930
+Molecular Docking Analysis of Hydroxyclavicol and Eugenol From Betel Leaves Against Outer Membrane Protein (OmpH) of Dialister pneumosintes.|https://dx.doi.org/10.7759/cureus.53809
+An unusual imaging presentation of pediatric bacterial meningoencephalitis: a case-report study.|https://dx.doi.org/10.1097/MS9.0000000000001749
+Optimized sequential therapy vs 10- and 14-d concomitant therapy for eradicating Helicobacter pylori: A randomized clinical trial.|https://dx.doi.org/10.3748/wjg.v30.i6.556
+Oral vancomycin is associated with improved inflammatory bowel disease clinical outcomes in primary sclerosing cholangitis-associated inflammatory bowel disease (PSC-IBD): A matched analysis from the Paediatric PSC Consortium.|https://dx.doi.org/10.1111/apt.17936

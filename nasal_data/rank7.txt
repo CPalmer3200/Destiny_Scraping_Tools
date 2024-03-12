@@ -219,3 +219,22 @@ Design and conduct of a randomized controlled feeding trial in a residential set
 Mast cell degranulation-triggered by SARS-CoV-2 induces tracheal-bronchial epithelial inflammation and injury.|https://dx.doi.org/10.1016/j.virs.2024.03.001
 CD8(+) T cell memory induced by successive SARS-CoV-2 mRNA vaccinations is characterized by shifts in clonal dominance.|https://dx.doi.org/10.1016/j.celrep.2024.113887
 No vaccine interference between bovine coronavirus and bovine herpesvirus-1 in a randomized trial when coadministrating two intranasal modified-live viral vaccines to neonatal calves.|https://dx.doi.org/10.2460/ajvr.23.12.0281
+Costs and resource utilization patterns in surgical site infections: A pre-COVID-19 perspective from France, Germany, Spain, and the United Kingdom.|https://dx.doi.org/10.1016/j.jhin.2024.02.019
+Predicting consequences of COVID-19 control measure de-escalation on nosocomial transmission and mortality: a modelling study in a French rehabilitation hospital.|https://dx.doi.org/10.1016/j.jhin.2024.02.020
+Molecular detection of SARS-CoV-2 and other respiratory viruses in saliva and classroom air: a two winters tale.|https://dx.doi.org/10.1016/j.cmi.2024.03.002
+[COVID-19 Information Platform for Primary Care: Emergence and Development of a Web-based Knowledge Platform in the COVID-19 Pandemic].|https://dx.doi.org/10.1055/a-2173-8232
+[Health Promotion and Prevention of Non-Communicable Diseases by Public Health Departments in Baden-Württemberg during the COVID-19 Pandemic: Results of an Online Survey].|https://dx.doi.org/10.1055/a-2227-5481
+Physical Activity, Long-COVID, and Inactivity: A Detrimental Endless Loop.|https://dx.doi.org/10.1123/jpah.2024-0057
+Hybrid immunity and SARS-CoV-2 antibodies: results of the HEROES-RECOVER prospective cohort study.|https://dx.doi.org/10.1093/cid/ciae130
+COVID-19 isolation and quarantine orders in Berlin-Reinickendorf (Germany): How many, how long and to whom?|https://dx.doi.org/10.1371/journal.pone.0271848
+Pre-Pandemic and Recent Oral and Medical Health Care Utilization among Young American Indian Children and Their Caregivers.|https://dx.doi.org/10.1007/s10900-024-01345-6
+Loneliness and Subjective Wellbeing During the Covid-19 Pandemic: A Systematic Review.|https://dx.doi.org/10.1080/00223980.2024.2319172
+Host-Directed Virus-Mimicking Particles Interacting with the ACE2 Receptor Competitively Block Coronavirus SARS-CoV-2 Entry.|https://dx.doi.org/10.1021/acs.nanolett.3c04430
+In Silico and In Vitro Screening of Some Pregnane Glycosides Isolated from Certain Caralluma Species as SARS-COV-2 Main Protease Inhibitors.|https://dx.doi.org/10.1002/cbdv.202301786
+TBCRC 057: Survey about willingness to participate in cancer clinical trials during the pandemic.|https://dx.doi.org/10.1002/cam4.7090
+Pre-existing Immunocompromising Conditions and Outcomes of Acute COVID-19 Patients Admitted for Pediatric Intensive Care.|https://dx.doi.org/10.1093/cid/ciae133
+Effectiveness of the 2023-2024 Formulation of the Coronavirus Disease 2019 mRNA Vaccine.|https://dx.doi.org/10.1093/cid/ciae132
+Low antibody levels associated with significantly increased rate of SARS-CoV-2 infection in a highly vaccinated population from the US National Basketball Association.|https://dx.doi.org/10.1002/jmv.29505
+Surveillance of SARS-CoV-2 in wastewater by quantitative PCR and digital PCR: a case study in Shijiazhuang city, Hebei province, China.|https://dx.doi.org/10.1080/22221751.2024.2324502
+Ginseng and ginsenosides on cardiovascular and pulmonary diseases; Pharmacological potentials for the coronavirus (COVID-19).|https://dx.doi.org/10.1016/j.jgr.2023.10.002
+Anatomy education during COVID-19 era: Evaluation of an anatomy blended course for medical students.|https://dx.doi.org/10.4103/jehp.jehp_1378_22

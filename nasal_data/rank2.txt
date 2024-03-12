@@ -13,3 +13,4 @@ Biofilm-producing Bacteria and Quality of Life after Endoscopic Sinus Surgery in
 Delayed neutrophil shedding of CD62L in patients with chronic rhinosinusitis with nasal polyps and asthma: Implications for Staphylococcus aureus colonization and corticosteroid treatment.|https://dx.doi.org/10.1002/clt2.12347
 Unexpected role of pig nostrils in the clonal and plasmidic dissemination of extended-spectrum beta-lactamase-producing Escherichia coli at farm level.|https://dx.doi.org/10.1016/j.ecoenv.2024.116145
 Addition of vancomycin to cefazolin is often unnecessary for preoperative antibiotic prophylaxis during total joint arthroplasties.|https://dx.doi.org/10.1186/s42836-023-00222-2
+Utility of methicillin-resistant Staphylococcus aureus nasal PCR testing in pediatric patients with suspected respiratory infections.|https://dx.doi.org/10.1093/jpids/piae023
