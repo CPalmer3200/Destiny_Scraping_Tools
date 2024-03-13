@@ -238,3 +238,20 @@ Low antibody levels associated with significantly increased rate of SARS-CoV-2 i
 Surveillance of SARS-CoV-2 in wastewater by quantitative PCR and digital PCR: a case study in Shijiazhuang city, Hebei province, China.|https://dx.doi.org/10.1080/22221751.2024.2324502
 Ginseng and ginsenosides on cardiovascular and pulmonary diseases; Pharmacological potentials for the coronavirus (COVID-19).|https://dx.doi.org/10.1016/j.jgr.2023.10.002
 Anatomy education during COVID-19 era: Evaluation of an anatomy blended course for medical students.|https://dx.doi.org/10.4103/jehp.jehp_1378_22
+Contributions of Hyperactive Mutations in M(pro) from SARS-CoV-2 to Drug Resistance.|https://dx.doi.org/10.1021/acsinfecdis.3c00560
+The role of COVID-19 vaccines in preventing post-COVID-19 thromboembolic and cardiovascular complications.|https://dx.doi.org/10.1136/heartjnl-2023-323483
+Dual-Modal Colorimetric and Surface-Enhanced Raman Scattering (SERS)-Based Lateral Flow Immunoassay for Ultrasensitive Detection of SARS-CoV-2 Using a Plasmonic Gold Nanocrown.|https://dx.doi.org/10.1021/acs.analchem.3c04361
+Knowledge, attitudes and practices towards COVID-19 among healthcare workers: A cross-sectional survey from Kiambu County, Kenya.|https://dx.doi.org/10.1371/journal.pone.0297335
+COVID-19 and the Impact on Delirium Care of Hospitalized Older Adults: A Qualitative Study.|https://dx.doi.org/10.1097/NCQ.0000000000000764
+"Meaning in Life" Mediates the Relationship between Loneliness and Depressive Symptoms among Older Adults during the COVID-19 Pandemic.|https://dx.doi.org/10.3390/healthcare12050584
+Characteristics and Outcomes of Stem Cell Transplant Patients during the COVID-19 Era: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/healthcare12050530
+Respiratory syncytial virus incidence and typing in the last six seasons in the north of Spain (Asturias). Genetic characterization during the SARS-CoV-2 pandemic.|https://dx.doi.org/10.1002/jmv.29499
+Willingness to Embrace COVID-19 Vaccination Amongst Residents in a Low-Income Nation: Insights From a Cross-Sectional Study on a Limited Cohort.|https://dx.doi.org/10.1177/00469580241237697
+Lingering Effects of COVID-19 Stressors on Mental Health and Alcohol Use in Middle Aged to Older Adults.|https://dx.doi.org/10.1016/j.ahr.2023.100178
+Advancing shared accountability for meaningful community engagement with socially vulnerable communities: Lessons learned from COVID-19 health education and general outreach in an urban region.|https://dx.doi.org/10.55016/ojs/tsw.v1i1.77548
+Saudi Healthcare Students' General Practices Applied to Protect Against COVID-19 and Their Beliefs Regarding the Use of Herbal Supplements as a Protection Method.|https://dx.doi.org/10.7759/cureus.53959
+Longitudinal immune kinetics of COVID-19 booster versus primary series vaccination: Insight into the annual vaccination strategy.|https://dx.doi.org/10.1016/j.heliyon.2024.e27211
+The Influences of the COVID-19 Pandemic on Haemophilus parainfluenzae Infection in Children, Henan, China, 2016-2021.|https://dx.doi.org/10.1007/s12088-023-01165-7
+The Influences of the COVID-19 Pandemic on Klebsiella pneumoniae Infection in Children, Henan, China, 2018-2022.|https://dx.doi.org/10.1007/s12088-023-01177-3
+Immune response variation in mild and severe COVID-19 patients.|https://dx.doi.org/10.5339/qmj.2024.11
+Development of a time-resolved fluorescence immunoassay kit for detecting canine coronavirus and parvovirus through double labeling.|https://dx.doi.org/10.1186/s12985-024-02302-4

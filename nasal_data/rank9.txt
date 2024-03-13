@@ -206,3 +206,16 @@ Design, synthesis, structure elucidation, antimicrobial, molecular docking, and 
 Using negative control populations to assess unmeasured confounding and direct effects.|https://dx.doi.org/10.1097/EDE.0000000000001724
 Cost evaluation of continuation of therapy with dalbavancin compared to standard-of-care antibiotics alone in hospitalized persons who inject drugs with severe gram-positive infections.|https://dx.doi.org/10.1093/ajhp/zxae025
 Effect of regional disparities and solvent variations on the phenolic composition, antioxidant activity, and antibacterial efficacy of Cupressus sempervirens extracts.|https://dx.doi.org/10.1080/09603123.2024.2327521
+A dual network cross-linked hydrogel with multifunctional Bletilla striata polysaccharide/gelatin/tea polyphenol for wound healing promotion.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130780
+Visible light-activated curcumin-doped zinc oxide nanoparticles integrated into orthodontic adhesive on Micro-tensile bond strength, degree of conversion, and antibacterial effectiveness against Staphylococcus Aureus. An investigation using scanning electron microscopy and energy-dispersive X-ray spectroscopy.|https://dx.doi.org/10.1016/j.jphotobiol.2024.112888
+Insights from a decade of surveillance: Molecular epidemiology of methicillin-resistant Staphylococcus aureus in Norway from 2008 to 2017.|https://dx.doi.org/10.1371/journal.pone.0297333
+A Photochemically Active Cu(2)O Nanoparticle Endows Scaffolds with Good Antibacterial Performance by Efficiently Generating Reactive Oxygen Species.|https://dx.doi.org/10.3390/nano14050452
+Detailed Insight into Photocatalytic Inactivation of Pathogenic Bacteria in the Presence of Visible-Light-Active Multicomponent Photocatalysts.|https://dx.doi.org/10.3390/nano14050409
+Sesquiterpene Acids and Lactones from Inula Confertiflora with Their Antibacterial Activities.|https://dx.doi.org/10.1002/cbdv.202400265
+Comprehensive virulence profiling and evolutionary analysis of specificity determinants in Staphylococcus aureus two-component systems.|https://dx.doi.org/10.1128/msystems.00130-24
+Antibacterial insights into alternariol and its derivative alternariol monomethyl ether produced by a marine fungus.|https://dx.doi.org/10.1128/aem.00058-24
+Wall teichoic acid substitution with glucose governs phage susceptibility of Staphylococcus epidermidis.|https://dx.doi.org/10.1128/mbio.01990-23
+Platinum Nanoparticles Regulated V(2) C MXene Nanoplatforms with NIR-II Enhanced Nanozyme Effect for Photothermal and Chemodynamic Anti-infective Therapy.|https://dx.doi.org/10.1002/adma.202400366
+Establishment and Validation of a Mouse Bacterial Vaginosis Model.|https://dx.doi.org/10.7754/Clin.Lab.2023.230626
+A dynamic nomogram to predict invasive fungal super-infection during healthcare-associated bacterial infection in intensive care unit patients: an ambispective cohort study in China.|https://dx.doi.org/10.3389/fcimb.2024.1281759
+Biodiversity and Bioactive Potential of Actinomycetes from Unexplored High Altitude Regions of Kargil, India.|https://dx.doi.org/10.1007/s12088-023-01133-1

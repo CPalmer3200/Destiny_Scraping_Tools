@@ -212,3 +212,18 @@ Importance of injury severity in the choice of treatment and its impact on progn
 Effectiveness of combined local therapy with antibiotics and fibrin vs. vacuum-assisted wound therapy in soft tissue infections: a retrospective study.|https://dx.doi.org/10.1007/s00068-024-02483-1
 Comparative study of retrograde intramedullary nailing versus locking extramedullary plating in complete articular fractures with metaphyseal comminution of the distal femur.|https://dx.doi.org/10.1007/s00402-024-05265-x
 Occupational exposure to Coxiella burnetii during cardiac surgery: A case report and review of the literature.|https://dx.doi.org/10.1556/030.2024.02240
+Effect of two different surgical modalities for pelvic organ prolapse on postoperative wound infection in patients: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14802
+Effects of clinical nursing pathway on the surgical site wound infection in patients undergoing knee or hip replacement surgery: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14657
+Pseudoparalysis in an infant with otitis media: an evolving presentation of scapular osteomyelitis.|https://dx.doi.org/10.1136/bcr-2023-256833
+Assessing Silver Nanoparticle and Antimicrobial Combinations for Antibacterial Activity and Biofilm Prevention on Surgical Sutures.|https://dx.doi.org/10.1093/jambio/lxae063
+Delayed brain abscess as a complication of cerebral infarction: A rare case report and review of the literature.|https://dx.doi.org/10.1016/j.ijscr.2024.109500
+Safety and efficacy of apixaban vs. enoxaparin in thromboprophylaxis after spinal stenosis and degenerative spine surgery.|https://dx.doi.org/10.1016/j.clineuro.2024.108205
+Comparison of oncological and functional outcomes in Lower-limb osteosarcoma pediatric patient : A large single-center retrospective cohort study.|https://dx.doi.org/10.1097/JS9.0000000000001340
+Uveitic Flare-Ups After Gonioscopy-Assisted Transluminal Trabeculotomy (GATT) in Patients with Uveitic Glaucoma.|https://dx.doi.org/10.1080/09273948.2024.2316760
+Cervicofacial Pediatric Tissue Expansion: Aesthetic Unit-Based Algorithm.|https://dx.doi.org/10.1097/PRS.0000000000011401
+Clinical Course, Laboratory Findings, and Prognosis of SARS-CoV-2 Infection in Infants up to 90 Days of Age: A Single-Center Experience and a Proposal for a Management Pathway.|https://dx.doi.org/10.3390/healthcare12050528
+Purse-string skin closure versus linear skin closure in people undergoing stoma reversal.|https://dx.doi.org/10.1002/14651858.CD014763.pub2
+Patient-reported outcomes in inguinal hernia surgery-Results from the GENESIS study: A multinational multicenter study.|https://dx.doi.org/10.1002/wjs.12118
+Staphylococcus epidermidis bacteriocin A37 kills natural competitors with a unique mechanism of action.|https://dx.doi.org/10.1093/ismejo/wrae044
+Nasal Delivery of Haemophilus haemolyticus Is Safe, Reduces Influenza Severity, and Prevents Development of Otitis Media in Mice.|https://dx.doi.org/10.1093/infdis/jiae069
+SP-CHAP, an endolysin with enhanced activity against biofilm pneumococci and nasopharyngeal colonization.|https://dx.doi.org/10.1128/mbio.00069-24

@@ -131,3 +131,8 @@ Protein and water recovery from tuna defrosting wastewater.|https://dx.doi.org/1
 Surgical team member's application of personal protective equipment: an observational study.|https://dx.doi.org/10.1097/MS9.0000000000001765
 A clinical study on gastric cancer patients administered EN and PN versus PN alone in enhanced recovery after surgery.|https://dx.doi.org/10.1097/MS9.0000000000001753
 Knowledge, practice and associated factors towards intravenous cannula-related infection prevention among nurses working at Northwest Amhara Regional State Comprehensive Specialized Hospitals, Ethiopia.|https://dx.doi.org/10.1186/s12912-024-01737-y
+(18)F-FDG PET/CT and radiolabeled leukocyte SPECT/CT imaging for the evaluation of cardiovascular infection in the multimodality context: ASNC Imaging Indications (ASNC I(2)) Series Expert Consensus Recommendations from ASNC, AATS, ACC, AHA, ASE, EANM, HRS, IDSA, SCCT, SNMMI, and STS.|https://dx.doi.org/10.1016/j.nuclcard.2023.101786
+Assessment of risk-adjusted mortality ratio (RAMR) in bloodstream infections using all-patient refined diagnosis-related groups (APR-DRGs).|https://dx.doi.org/10.1093/jac/dkae065
+Healthcare-Associated Infections and the Use of Antibiotics in German Hospitals—Results of the Point Prevalence Survey of 2022 and Comparison With Earlier Findings.|https://dx.doi.org/10.3238/arztebl.m2024.0033
+Risk Management and Patient Safety in the Artificial Intelligence Era: A Systematic Review.|https://dx.doi.org/10.3390/healthcare12050549
+Do Preoperative Corticosteroid Injections Increase the Risk of Infection after Shoulder Arthroscopy or Shoulder Arthroplasty? A Systematic Review.|https://dx.doi.org/10.3390/healthcare12050543

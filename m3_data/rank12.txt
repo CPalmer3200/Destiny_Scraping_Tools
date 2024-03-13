@@ -5,3 +5,7 @@ Effect of Virtual Reality Simulation Versus Traditional Education on Rates of Cl
 Biocontrol of Escherichia coli O157:H7 by Enterobacter asburiae AEB30 on intact cantaloupe melons.|https://dx.doi.org/10.1111/1751-7915.14437
 Clostridium Difficile Infection in Rectal Cancer Patients after Diverted Loop Ileostomy Closure.|https://dx.doi.org/10.21614/chirurgia.2024.v.119.i.1.p.36
 Endocrinopathies in a Pediatric Patient Post-anatomical Hemispherectomy for Rasmussen's Encephalitis Treatment: A Case Report.|https://dx.doi.org/10.7759/cureus.53894
+Clinical relevance of intracranial hemorrhage after thrombectomy versus medical management for large core infarct: a secondary analysis of the SELECT2 randomized trial.|https://dx.doi.org/10.1136/jnis-2023-021219
+Integration of capacitive deionization and forward osmosis for high water recovery and ultrapure water production: concept, modelling and performance analysis.|https://dx.doi.org/10.1080/09593330.2024.2326798
+Patient Safety Indicators During the Initial COVID-19 Pandemic Surge in the United States.|https://dx.doi.org/10.1097/PTS.0000000000001216
+Enhanced Selective Electrosorption of Nitrate from Wastewater by Controllably Doping Nitrogen into Porous Carbon with Micropores.|https://dx.doi.org/10.1021/acs.langmuir.3c03934
