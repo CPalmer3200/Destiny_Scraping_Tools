@@ -219,3 +219,18 @@ Platinum Nanoparticles Regulated V(2) C MXene Nanoplatforms with NIR-II Enhanced
 Establishment and Validation of a Mouse Bacterial Vaginosis Model.|https://dx.doi.org/10.7754/Clin.Lab.2023.230626
 A dynamic nomogram to predict invasive fungal super-infection during healthcare-associated bacterial infection in intensive care unit patients: an ambispective cohort study in China.|https://dx.doi.org/10.3389/fcimb.2024.1281759
 Biodiversity and Bioactive Potential of Actinomycetes from Unexplored High Altitude Regions of Kargil, India.|https://dx.doi.org/10.1007/s12088-023-01133-1
+Functionalization of sterculia gum for making platform hydrogels via network formation for use in drug delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130814
+Chitosan synergizes with bismuth-based metal-organic frameworks to construct double S-type heterojunctions for enhancing photocatalytic antimicrobial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130797
+Unraveling Multicopper [Cu(3)] and [Cu(6)] Clusters with Rare μ(3)-Sulfato and Linear μ(2)-Oxido-Bridges as Potent Antibiofilm Agents against Multidrug-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsabm.4c00075
+Porphyrin-BODIPY Dyad: Enhancing Photodynamic Inactivation via Antenna Effect.|https://dx.doi.org/10.1002/cbic.202400138
+Bridging drug discovery through hierarchical subtractive genomics against asd, trpG, and secY of pneumonia causing MDR Staphylococcus aureus.|https://dx.doi.org/10.1007/s00438-024-02115-8
+A standardized wound infection model for antimicrobial testing of wound dressings in vitro.|https://dx.doi.org/10.1111/iwj.14811
+Extrusion 3D-printed tricalcium phosphate-polycaprolactone biocomposites for quercetin-KCl delivery in bone tissue engineering.|https://dx.doi.org/10.1002/jbm.a.37692
+Epidemiological insights into seasonal, sex‑specific and age‑related distribution of bacterial pathogens in urinary tract infections.|https://dx.doi.org/10.3892/etm.2024.12428
+Transcriptomic analysis of lipoteichoic acid‑treated undifferentiated and neutrophil‑like differentiated HL‑60 cells.|https://dx.doi.org/10.3892/etm.2024.12446
+The causes of bacterial bloodstream infections and antimicrobial resistance patterns in children attending a secondary care hospital in Bhaktapur, Nepal, 2017-2022: a retrospective study.|https://dx.doi.org/10.1093/jacamr/dlae035
+Effectiveness of Drip Infusion of Lascufloxacin, a Novel Fluoroquinolone Antibiotic, for Patients with Pneumonia Including Chronic Lung Disease Exacerbations and Lung Abscesses.|https://dx.doi.org/10.2147/IDR.S453634
+Pathogens in FRI - Do bugs matter? - An analysis of FRI studies to assess your enemy.|https://dx.doi.org/10.1016/j.jor.2024.02.011
+Severe skin and soft tissue infection in cohort patients admitted in a teaching hospital in Belgium: identification of risk factors for surgery.|https://dx.doi.org/10.1080/23744235.2024.2327518
+Staphylococcus aureus and biofilms: transmission, threats, and promising strategies in animal husbandry.|https://dx.doi.org/10.1186/s40104-024-01007-6
+Electrospun PCL Filtration Membranes Enhanced with an Electrosprayed Lignin Coating to Control Wettability and Anti-Bacterial Properties.|https://dx.doi.org/10.3390/polym16050674

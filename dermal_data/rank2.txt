@@ -10,3 +10,5 @@ Diabetic Foot Infections and Amputations Are All Too Common-Here's What Could Mo
 VGG19 demonstrates the highest accuracy rate in a nine-class wound classification task among various deep learning networks: a pilot study.|https://dx.doi.org/10.25270/wnds/23066
 Hydrogel dressings for diabetic foot ulcer: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/dom.15544
 Successful topical treatment of human biofilms using multiple antibiotic elution from a collagen-rich hydrogel.|https://dx.doi.org/10.1038/s41598-024-54477-z
+Improving Diabetic Wound Healing Outcomes with Topical Growth Factor Therapies: Systematic Review and Network Meta-analysis of Randomised-controlled Trials.|https://dx.doi.org/10.1210/clinem/dgae128
+Can acupuncture increase microcirculation in peripheral artery disease and diabetic foot syndrome? - a pilot study.|https://dx.doi.org/10.3389/fmed.2024.1371056

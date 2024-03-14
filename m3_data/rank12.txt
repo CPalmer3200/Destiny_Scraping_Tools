@@ -9,3 +9,8 @@ Clinical relevance of intracranial hemorrhage after thrombectomy versus medical 
 Integration of capacitive deionization and forward osmosis for high water recovery and ultrapure water production: concept, modelling and performance analysis.|https://dx.doi.org/10.1080/09593330.2024.2326798
 Patient Safety Indicators During the Initial COVID-19 Pandemic Surge in the United States.|https://dx.doi.org/10.1097/PTS.0000000000001216
 Enhanced Selective Electrosorption of Nitrate from Wastewater by Controllably Doping Nitrogen into Porous Carbon with Micropores.|https://dx.doi.org/10.1021/acs.langmuir.3c03934
+Maximizing Adherence and Minimizing Time to Antibiotics: A Multi-Disciplinary Institutional Trauma Bay Protocol for Single Antibiotic Prophylaxis in Open Fractures.|https://dx.doi.org/10.1097/BOT.0000000000002805
+Site-Specific Photocrosslinking to Investigate Toxin Delivery Mediated by the Bacterial β-Barrel Assembly Machine.|https://dx.doi.org/10.1007/978-1-0716-3734-0_8
+A case of fulminant severe Clostridioides difficile colitis managed with faecal microbial transplantation.|https://dx.doi.org/10.1111/imj.16354
+Enhancement of Mass Transfer Process for Photocatalytic Reduction in Cr(VI) by Electric Field Assistance.|https://dx.doi.org/10.3390/ijms25052832
+Cardiac Surgery Patients Have Reduced Vascularity and Structural Defects of the Retina Similar to Persons with Open-Angle Glaucoma.|https://dx.doi.org/10.3390/diagnostics14050515

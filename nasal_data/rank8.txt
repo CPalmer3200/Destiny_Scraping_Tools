@@ -227,3 +227,18 @@ Patient-reported outcomes in inguinal hernia surgery-Results from the GENESIS st
 Staphylococcus epidermidis bacteriocin A37 kills natural competitors with a unique mechanism of action.|https://dx.doi.org/10.1093/ismejo/wrae044
 Nasal Delivery of Haemophilus haemolyticus Is Safe, Reduces Influenza Severity, and Prevents Development of Otitis Media in Mice.|https://dx.doi.org/10.1093/infdis/jiae069
 SP-CHAP, an endolysin with enhanced activity against biofilm pneumococci and nasopharyngeal colonization.|https://dx.doi.org/10.1128/mbio.00069-24
+Another new species of Dibamus Dumril & Bibron, 1839 (Squamata: Dibamidae) from Nui Chua National Park, Ninh Thuan Province, Vietnam.|https://dx.doi.org/10.11646/zootaxa.5406.1.4
+[A Case of Adenocarcinoma, HPV-independent, Mesonephric Type with Significant Response to Neoadjuvant Chemotherapy].|https://dx.doi.org/10.7888/juoeh.46.45
+Meniscus Repair Technique Must be Determined on a Tear-by-Tear Basis: Hybrid Techniques Plus Biologics are Optimal.|https://dx.doi.org/10.1016/j.arthro.2024.03.007
+Explant of an infected, endo-trashed IVC filter in an immunosuppressed patient with chronically occluded iliocaval stents.|https://dx.doi.org/10.1177/17085381241238832
+Effectiveness of HealthTracker for post-caesarean section surgical site infection surveillance: An intervention study.|https://dx.doi.org/10.1111/nhs.13108
+Adverse events associated with device assisted hyoid and tongue base suspension for obstructive sleep apnea.|https://dx.doi.org/10.1016/j.amjoto.2024.104237
+Preoperative hypocoagulative state is an independent risk factor for wound complications and infection in gender-affirming bottom surgeries.|https://dx.doi.org/10.1016/j.bjps.2024.02.054
+Influence of Chewing Rate and Food Composition on in Vivo Aroma Release and Perception of Composite Foods.|https://dx.doi.org/10.1021/acs.jafc.3c09346
+Pediatric cutaneous mucormicosis.|https://dx.doi.org/10.5070/D329662994
+Maximizing Adherence and Minimizing Time to Antibiotics: A Multi-Disciplinary Institutional Trauma Bay Protocol for Single Antibiotic Prophylaxis in Open Fractures.|https://dx.doi.org/10.1097/BOT.0000000000002805
+Divergent Pathogenesis and Transmission of Highly Pathogenic Avian Influenza A(H5N1) in Swine.|https://dx.doi.org/10.3201/eid3004.231141
+Long-term results with biosynthetic absorbable P4HB mesh in ventral abdominal wall repair: a multicentre analysis.|https://dx.doi.org/10.1007/s10029-024-02981-6
+Effects of high tibial osteotomy compared with unicondylar knee arthroplasty on the surgical site wound infection and pain in patients with medial knee osteoarthritis.|https://dx.doi.org/10.1111/iwj.14773
+Early-life respiratory infection: How do we react to this red flag?|https://dx.doi.org/10.1002/ppul.26963
+Pediatric Type I Open Both Bone Forearm Fractures: Predicting Failure of Nonoperative Management.|https://dx.doi.org/10.1097/BPO.0000000000002672

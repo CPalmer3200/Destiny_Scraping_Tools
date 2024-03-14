@@ -255,3 +255,23 @@ The Influences of the COVID-19 Pandemic on Haemophilus parainfluenzae Infection 
 The Influences of the COVID-19 Pandemic on Klebsiella pneumoniae Infection in Children, Henan, China, 2018-2022.|https://dx.doi.org/10.1007/s12088-023-01177-3
 Immune response variation in mild and severe COVID-19 patients.|https://dx.doi.org/10.5339/qmj.2024.11
 Development of a time-resolved fluorescence immunoassay kit for detecting canine coronavirus and parvovirus through double labeling.|https://dx.doi.org/10.1186/s12985-024-02302-4
+Sociodemographic and Occupational Characteristics Associated with Early and Continued COVID-19 Vaccine Uptake Among Healthcare Personnel: Monroe County, NY.|https://dx.doi.org/10.1016/j.vaccine.2024.03.019
+Current challenges in school-based health center care: COVID, mental health care, immigrant youth, expansion of telemedicine.|https://dx.doi.org/10.1016/j.cppeds.2024.101583
+Vitamin D deficiency during the coronavirus disease 2019 (COVID-19) pandemic among healthcare workers.|https://dx.doi.org/10.1016/j.clnesp.2024.02.005
+Alum/CpG adjuvant promotes immunogenicity of inactivated SARS-CoV-2 Omicron vaccine through enhanced humoral and cellular immunity.|https://dx.doi.org/10.1016/j.virol.2024.110050
+The Impact of COVID-19 on Physical Therapy Clinical Education Experiences in Florida.|https://dx.doi.org/10.1097/JTE.0000000000000286
+Emergency preparedness and response sensitive of migrant populations in Chile: post-pandemic perspectives.|https://dx.doi.org/10.5867/medwave.2024.02.2788
+A longitudinal study of the COVID-19 pandemic impact on mental health in ophthalmic personnel and students.|https://dx.doi.org/10.1371/journal.pone.0300144
+Characterization of a pangolin SARS-CoV-2-related virus isolate that uses the human ACE2 receptor.|https://dx.doi.org/10.1007/s11427-023-2484-x
+Mental health of Canadian youth: A systematic review and meta-analysis of studies examining changes in depression, anxiety, and suicide-related outcomes during the COVID-19 pandemic.|https://dx.doi.org/10.17269/s41997-024-00865-x
+SARS-CoV-2 seroprevalence among children in Greece during Omicron variant period.|https://dx.doi.org/10.1007/s00431-024-05486-7
+Immunization against covid-19 and mortality in hospitalized patients: a retrospective cohort.|https://dx.doi.org/10.11606/s1518-8787.2024058005476
+Physical condition and perceived fatigue in post-covid patients: An observational descriptive study.|https://dx.doi.org/10.1590/1516-3180.2023.0167.R1.04122023
+Comparison of SARS-CoV-2 variants of concern in primary human nasal cultures demonstrates Delta as most cytopathic and Omicron as fastest replicating.|https://dx.doi.org/10.1128/mbio.03129-23
+Exploring adolescents' experiences of continuing to wear face masks during COVID-19: A qualitative descriptive study in Barcelona (Spain).|https://dx.doi.org/10.1111/hex.14014
+Hospital antimicrobial stewardship: profiling the oral microbiome after exposure to COVID-19 and antibiotics.|https://dx.doi.org/10.3389/fmicb.2024.1346762
+A Case of an 86-Year-Old Male Survivor with Human Respiratory Syncytial Virus and SARS-CoV-2 Virus Coinfection.|https://dx.doi.org/10.46234/ccdcw2024.030
+Hematological Indices in COVID-19 Patients with Rhinosinusitis Mucormycosis.|https://dx.doi.org/10.22038/IJORL.2024.75276.3525
+Association between risk of obstructive sleep apnea severity and risk of severe COVID-19 symptoms: insights from salivary and serum cytokines.|https://dx.doi.org/10.3389/fpubh.2024.1348441
+The impact of COVID-19 pandemic on air particulate matter exposure and heart attacks: a 5-year retrospective cohort study in Taiwan (2017-2021).|https://dx.doi.org/10.3389/fpubh.2024.1321129
+Impact of normalized COVID-19 prevention and control measures on lower respiratory tract infection pathogenesis in hospitalized children.|https://dx.doi.org/10.3389/fpubh.2024.1367614

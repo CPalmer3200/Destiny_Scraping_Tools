@@ -136,3 +136,15 @@ Assessment of risk-adjusted mortality ratio (RAMR) in bloodstream infections usi
 Healthcare-Associated Infections and the Use of Antibiotics in German Hospitals—Results of the Point Prevalence Survey of 2022 and Comparison With Earlier Findings.|https://dx.doi.org/10.3238/arztebl.m2024.0033
 Risk Management and Patient Safety in the Artificial Intelligence Era: A Systematic Review.|https://dx.doi.org/10.3390/healthcare12050549
 Do Preoperative Corticosteroid Injections Increase the Risk of Infection after Shoulder Arthroscopy or Shoulder Arthroplasty? A Systematic Review.|https://dx.doi.org/10.3390/healthcare12050543
+A systematic review and meta-analysis of antibiotic-loaded bone cement for prevention of deep surgical site infections following primary total joint replacement.|https://dx.doi.org/10.1016/j.jiac.2024.03.003
+Outpatient parenteral antimicrobial therapy (OPAT) in Germany: insights and clinical outcomes from the K-APAT cohort study.|https://dx.doi.org/10.1007/s15010-024-02199-9
+CDC Eases Isolation Guidance for Respiratory Viruses.|https://dx.doi.org/10.1001/jama.2024.2069
+CDC Recommends Additional COVID-19 Booster for Older Adults.|https://dx.doi.org/10.1001/jama.2024.2071
+Improving Diabetic Wound Healing Outcomes with Topical Growth Factor Therapies: Systematic Review and Network Meta-analysis of Randomised-controlled Trials.|https://dx.doi.org/10.1210/clinem/dgae128
+Clinical Utility of Repeat Magnetic Resonance Imaging Studies Among Children With Acute Hematogenous Osteomyelitis.|https://dx.doi.org/10.1097/BPO.0000000000002655
+Short-term versus usual-term antibiotic treatment for uncomplicated Staphylococcus aureus bacteremia: a systematic review and meta-analysis.|https://dx.doi.org/10.1177/20499361241237615
+Medial Collateral Ligament Reconstruction With Autograft Versus Allograft: A Systematic Review.|https://dx.doi.org/10.1177/03635465231225982
+CDC's New Hepatitis C Virus Testing Recommendations for Perinatally Exposed Infants and Children: A Step Towards Hepatitis C Elimination.|https://dx.doi.org/10.1089/jwh.2023.1114
+Advancing the National Immunization Program in an era of achieving universal vaccine coverage in China and beyond.|https://dx.doi.org/10.1186/s40249-024-01192-6
+Cerebrospinal Fluid Biomarkers of Symptomatic Neurosyphilis in People With HIV Compared with Uninfected Individuals.|https://dx.doi.org/10.1007/s13365-024-01199-7
+Close contacts of xenograft recipients: Ethical considerations due to risk of xenozoonosis.|https://dx.doi.org/10.1111/xen.12847

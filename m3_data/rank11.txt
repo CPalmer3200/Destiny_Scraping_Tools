@@ -34,3 +34,11 @@ A Case Report of Corynebacterium Tuberculostearicum Infection.|https://dx.doi.or
 Pangenome Analysis of Helicobacter pylori Isolates from Selected Areas of Africa Indicated Diverse Antibiotic Resistance and Virulence Genes.|https://dx.doi.org/10.1155/2024/5536117
 Vancomycin and Ustekinumab Combination Therapy in Acute Ulcerative Colitis.|https://dx.doi.org/10.14309/crj.0000000000001302
 Editorial: Clostridioides difficile infection.|https://dx.doi.org/10.3389/fmed.2024.1372813
+Unraveling Multicopper [Cu(3)] and [Cu(6)] Clusters with Rare μ(3)-Sulfato and Linear μ(2)-Oxido-Bridges as Potent Antibiofilm Agents against Multidrug-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsabm.4c00075
+High antibiotic resistance rates in Helicobacter pylori strains in Turkey over 20 years: implications for gastric disease treatment.|https://dx.doi.org/10.1097/MEG.0000000000002733
+Opportunistic dried blood spot sampling validates and optimizes a pediatric population pharmacokinetic model of metronidazole.|https://dx.doi.org/10.1128/aac.01533-23
+Prevalence and Molecular Characterization of Vancomycin Variable Enterococcus faecium Isolated From Clinical Specimens.|https://dx.doi.org/10.3343/alm.2023.0430
+The Role of Probiotics in the Prevention of Clostridioides difficile Infection in Patients with Chronic Kidney Disease.|https://dx.doi.org/10.3390/nu16050671
+Bacteriophages for Controlling Staphylococcus spp. Pathogens on Dairy Cattle Farms: In Vitro Assessment.|https://dx.doi.org/10.3390/ani14050683
+Updating the Classification of Chronic Inflammatory Enteropathies in Dogs.|https://dx.doi.org/10.3390/ani14050681
+When will the Glomerular Filtration Rate in Former Preterm Neonates Catch up with Their Term Peers?|https://dx.doi.org/10.1007/s11095-024-03677-3

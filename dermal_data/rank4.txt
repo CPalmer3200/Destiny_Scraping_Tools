@@ -20,3 +20,6 @@ Strong, tough, high-release, and antibacterial nanocellulose hydrogel for refrig
 Promoting the healing of diabetic wounds with an antimicrobial gel containing AgNPs with anti-infective and anti-inflammatory properties.|https://dx.doi.org/10.1080/09205063.2024.2324494
 MOF/MXene-loaded PVA/chitosan hydrogel with antimicrobial effect and wound healing promotion under electrical stimulation and improved mechanical properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130625
 A dual network cross-linked hydrogel with multifunctional Bletilla striata polysaccharide/gelatin/tea polyphenol for wound healing promotion.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130780
+Functionalization of sterculia gum for making platform hydrogels via network formation for use in drug delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130814
+A standardized wound infection model for antimicrobial testing of wound dressings in vitro.|https://dx.doi.org/10.1111/iwj.14811
+Comparison of In Vitro Bacterial Susceptibility to Common and Novel Equine Wound Care Dressings.|https://dx.doi.org/10.3390/ani14050776

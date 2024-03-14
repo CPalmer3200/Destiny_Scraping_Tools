@@ -3,3 +3,5 @@ Antiproliferative and Antimigratory Activity of Poly-gallic Acid in Cancer Cell 
 Monitoring the Long-Term Effectiveness of Miltefosine in Indian Post-Kala-Azar Dermal Leishmaniasis.|https://dx.doi.org/10.4269/ajtmh.23-0197
 Isolation of the entomopathogenic fungus Beauveria bassiana from a skin lesion in a wild Nikolsky's viper (Vipera berus nikolskii).|https://dx.doi.org/10.1016/j.jcpa.2024.02.004
 Improving stability of human three dimensional skin equivalents using plasma surface treatment.|https://dx.doi.org/10.1002/bit.28690
+RNA-sequencing of paired tape-strips and skin biopsies in atopic dermatitis reveals key differences.|https://dx.doi.org/10.1111/all.16086
+Pleurotus ostreatus polysaccharide-mediated modulation of skin damage caused by microcystin-LR in tadpoles.|https://dx.doi.org/10.1016/j.envpol.2024.123440
