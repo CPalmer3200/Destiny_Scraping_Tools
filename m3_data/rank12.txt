@@ -14,3 +14,8 @@ Site-Specific Photocrosslinking to Investigate Toxin Delivery Mediated by the Ba
 A case of fulminant severe Clostridioides difficile colitis managed with faecal microbial transplantation.|https://dx.doi.org/10.1111/imj.16354
 Enhancement of Mass Transfer Process for Photocatalytic Reduction in Cr(VI) by Electric Field Assistance.|https://dx.doi.org/10.3390/ijms25052832
 Cardiac Surgery Patients Have Reduced Vascularity and Structural Defects of the Retina Similar to Persons with Open-Angle Glaucoma.|https://dx.doi.org/10.3390/diagnostics14050515
+Diverse Factors Affect Measurement of Patella Alta: Trochlear Morphology and Sagittal Knee Balance Represent Defining Factors of Patellofemoral Stability.|https://dx.doi.org/10.1016/j.arthro.2024.03.008
+Microbiota insights into pet ownership and human health.|https://dx.doi.org/10.1016/j.rvsc.2024.105220
+Pseudomembranous colitis and Parabacteroides distasonis bacteraemia: a rare clinical presentation.|https://dx.doi.org/10.1007/s12328-024-01939-6
+[Difficult-to-treat rheumatoid arthritis].|https://dx.doi.org/10.53738/REVMED.2024.20.865.541
+Designing and implementing a new icon-based difficult airway cart: a two-phase prospective qualitative improvement project.|https://dx.doi.org/10.1007/s12630-024-02740-2

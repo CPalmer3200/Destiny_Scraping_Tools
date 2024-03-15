@@ -23,3 +23,5 @@ A dual network cross-linked hydrogel with multifunctional Bletilla striata polys
 Functionalization of sterculia gum for making platform hydrogels via network formation for use in drug delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130814
 A standardized wound infection model for antimicrobial testing of wound dressings in vitro.|https://dx.doi.org/10.1111/iwj.14811
 Comparison of In Vitro Bacterial Susceptibility to Common and Novel Equine Wound Care Dressings.|https://dx.doi.org/10.3390/ani14050776
+Influence of chitosan and hydroxyethyl cellulose modifications towards the design of cross-linked double networks hydrogel for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130851
+Scalable and Versatile Metal Ion Solidificated Alginate Hydrogel for Skin Wound Infection Therapy.|https://dx.doi.org/10.1002/adhm.202303688

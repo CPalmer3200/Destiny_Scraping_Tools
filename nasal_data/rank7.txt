@@ -275,3 +275,22 @@ Hematological Indices in COVID-19 Patients with Rhinosinusitis Mucormycosis.|htt
 Association between risk of obstructive sleep apnea severity and risk of severe COVID-19 symptoms: insights from salivary and serum cytokines.|https://dx.doi.org/10.3389/fpubh.2024.1348441
 The impact of COVID-19 pandemic on air particulate matter exposure and heart attacks: a 5-year retrospective cohort study in Taiwan (2017-2021).|https://dx.doi.org/10.3389/fpubh.2024.1321129
 Impact of normalized COVID-19 prevention and control measures on lower respiratory tract infection pathogenesis in hospitalized children.|https://dx.doi.org/10.3389/fpubh.2024.1367614
+Predicting intention to vaccinate against COVID-19 in older Syrian refugees in Lebanon: Findings from a multi-wave study.|https://dx.doi.org/10.1016/j.vaccine.2024.02.054
+Inhaled Nitric Oxide ReDuce postoperatIve pulmoNAry complicaTions in patiEnts with recent COVID-19 infection (INORDINATE): protocol for a randomised controlled trial.|https://dx.doi.org/10.1136/bmjopen-2023-077572
+Epidemiology of COVID-19 outbreaks in aged care facilities during postvaccine period: a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2023-073555
+Subphenotypes of self-reported symptoms and outcomes in long COVID: a prospective cohort study with latent class analysis.|https://dx.doi.org/10.1136/bmjopen-2023-077869
+Estimating the health effects of COVID-19-related immunisation disruptions in 112 countries during 2020-30: a modelling study.|https://dx.doi.org/10.1016/S2214-109X(23)00603-4
+Excess vaccine-preventable disease mortality due to COVID-19.|https://dx.doi.org/10.1016/S2214-109X(24)00046-9
+Cross-sectional study to assess the impact of the COVID-19 pandemic on healthcare services and clinical admissions using statistical analysis and discovering hotspots in three regions of the Greater Toronto Area.|https://dx.doi.org/10.1136/bmjopen-2023-082114
+A Critical Review on the Long-term COVID-19 Impacts on Patients with Diabetes.|https://dx.doi.org/10.1016/j.amjmed.2024.02.029
+Prevalence and risk factors of post-coronavirus disease 2019 condition among children and adolescents in Japan: A matched case-control study in the general population.|https://dx.doi.org/10.1016/j.ijid.2024.107008
+Self-assembled ferritin-based nanoparticles elicit a robust broad-spectrum protective immune response against SARS-CoV-2 variants.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130820
+Tracing the origin of SARS-CoV-2 omicron-like spike sequences detected in an urban sewershed: a targeted, longitudinal surveillance study of a cryptic wastewater lineage.|https://dx.doi.org/10.1016/S2666-5247(23)00372-5
+Prevalence of face mask related complications among healthcare workers during the COVID-19 pandemic in Saudi Arabia.|https://dx.doi.org/10.3855/jidc.18236
+Impact of Covid -19 incidence rate and government-initiated risk communication measures on individual's NPI practices.|https://dx.doi.org/10.1371/journal.pone.0283294
+Developing inhibitory peptides against SARS-CoV-2 envelope protein.|https://dx.doi.org/10.1371/journal.pbio.3002522
+The Health and Safety Experiences of Precariously Employed Bangladeshi Immigrant Workers in Toronto During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/10482911241239263
+Meta-analysis of the SARS-CoV-2 positivity rate in municipal wastewater.|https://dx.doi.org/10.1007/s10653-024-01895-7
+Outpatient COVID-19 convalescent plasma recipient antibody thresholds correlated to reduced hospitalizations within a randomized trial.|https://dx.doi.org/10.1172/jci.insight.178460
+Focus on digital construction of smart cities from COVID-19 epidemic prevention and control.|https://dx.doi.org/10.23736/S0026-4806.23.08845-6
+Changes in self-measured blood pressure monitoring use in 14 states from 2019 to 2021 - Impact of the COVID-19 pandemic.|https://dx.doi.org/10.1093/ajh/hpae031

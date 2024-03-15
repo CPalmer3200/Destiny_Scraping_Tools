@@ -5,3 +5,4 @@ Antimicrobial Resistance and the Prevalence of the Panton-Valentine Leukocidin G
 Sensitizing methicillin-resistant Staphylococcus aureus (MRSA) to cefuroxime: the synergic effect of bicarbonate and the wall teichoic acid inhibitor ticlopidine.|https://dx.doi.org/10.1128/aac.01627-23
 Neonatal Severe Staphylococcal Scalded Skin Syndrome: Management with Autoadhesive Skin Substitute Dressing (Suprathel(®)).|https://dx.doi.org/10.1007/s12098-024-05092-3
 Rapid remission of severe impetigo herpetiformis following combined treatment with secukinumab and corticosteroids.|https://dx.doi.org/10.1684/ejd.2023.4620
+Clinical impact and public health challenges of a PVL-MRSA bacteraemia outbreak amongst people who inject drugs in South Yorkshire, UK.|https://dx.doi.org/10.1099/acmi.0.000642.v3

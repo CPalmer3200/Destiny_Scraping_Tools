@@ -242,3 +242,17 @@ Long-term results with biosynthetic absorbable P4HB mesh in ventral abdominal wa
 Effects of high tibial osteotomy compared with unicondylar knee arthroplasty on the surgical site wound infection and pain in patients with medial knee osteoarthritis.|https://dx.doi.org/10.1111/iwj.14773
 Early-life respiratory infection: How do we react to this red flag?|https://dx.doi.org/10.1002/ppul.26963
 Pediatric Type I Open Both Bone Forearm Fractures: Predicting Failure of Nonoperative Management.|https://dx.doi.org/10.1097/BPO.0000000000002672
+Early predictors of bacterial pneumonia infection in children with congenital heart disease after cardiopulmonary bypass: a single-centre retrospective study.|https://dx.doi.org/10.1136/bmjopen-2023-076483
+Application of Piezosurgery in Revision Surgery through Posterior Approach for Infection after Percutaneous Vertebral Augmentation: Technique Note with Case Series.|https://dx.doi.org/10.1111/os.14030
+Erector spinae plane block (ESPB) for intractable, non-surgical abdominal pain: a scoping review.|https://dx.doi.org/10.15441/ceem.23.171
+Antibacterial efficacy, mode of action, and safety of a novel nano-antibiotic against antibiotic-resistant Escherichia coli strains.|https://dx.doi.org/10.1016/j.scitotenv.2024.171675
+"Sandwich" Structure in Reconstruction of Traumatic Comminuted Anterior Skull Base Fractures: Surgical Technique and Outcomes.|https://dx.doi.org/10.1016/j.wneu.2024.03.021
+Analysis of treatment-related adverse events and wound complications of surgical resection after neoadjuvant chemoimmunotherapy for non-small cell lung cancer.|https://dx.doi.org/10.1111/iwj.14831
+Effectiveness of vancomycin powder for preventing postoperative spinal infection.|https://dx.doi.org/10.1016/j.clineuro.2024.108222
+A nurse-driven penicillin allergy risk score in the preoperative setting was associated with increased cefazolin use perioperatively.|https://dx.doi.org/10.1016/j.jclinane.2024.111443
+Urea to Albumin Ratio Is an Excellent Predictor of Death in Patients With Complicated Intra-Abdominal Infections.|https://dx.doi.org/10.1089/sur.2023.371
+Lung Function Evaluated By Structured Light Plethysmography in Children After Lung Surgery: A Preliminary Analysis.|https://dx.doi.org/10.1089/ped.2023.0069
+Comparative long-term outcomes of natural orifice specimen extraction surgery and conventional laparoscopic colectomy for left-sided colorectal cancer: a propensity score-matched analysis.|https://dx.doi.org/10.1097/JS9.0000000000001043
+'Dumpling suture method' versus traditional suture method of protective loop ileostomy in laparoscopic anterior rectal resection with specimen extraction through stoma incision: a retrospective comparative cohort study.|https://dx.doi.org/10.1097/JS9.0000000000000953
+Reconstruction of Urethral Sphincter With Polyacrylamide Hydrogel.|https://dx.doi.org/10.1097/SPV.0000000000001470
+Obesity and Reconstructive Pelvic Surgery: An ACS NSQIP Study.|https://dx.doi.org/10.1097/SPV.0000000000001468

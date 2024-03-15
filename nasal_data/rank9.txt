@@ -234,3 +234,19 @@ Pathogens in FRI - Do bugs matter? - An analysis of FRI studies to assess your e
 Severe skin and soft tissue infection in cohort patients admitted in a teaching hospital in Belgium: identification of risk factors for surgery.|https://dx.doi.org/10.1080/23744235.2024.2327518
 Staphylococcus aureus and biofilms: transmission, threats, and promising strategies in animal husbandry.|https://dx.doi.org/10.1186/s40104-024-01007-6
 Electrospun PCL Filtration Membranes Enhanced with an Electrosprayed Lignin Coating to Control Wettability and Anti-Bacterial Properties.|https://dx.doi.org/10.3390/polym16050674
+Chemical composition, antioxidant, antimicrobial, and wound healing effects of Trachyspermum roxburghianum (DC.) H. Wolff essential oil: An in vivo and in silico approach.|https://dx.doi.org/10.1016/j.jep.2024.118055
+Influence of chitosan and hydroxyethyl cellulose modifications towards the design of cross-linked double networks hydrogel for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130851
+Rapid diagnostic of multidrug-resistant sepsis pathogens directly from blood culture bottles using MALDI-TOF and the EUCAST RAST.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116247
+Changing trends in clinical characteristics and in-hospital mortality of patients with infective endocarditis over four decades.|https://dx.doi.org/10.1016/j.jiph.2024.02.017
+Antimicrobial resistance prevalence in bloodstream infection in 29 European countries by age and sex: An observational study.|https://dx.doi.org/10.1371/journal.pmed.1004301
+Biofabricated Green Synthesized Hibiscus Silver Nanoparticles Potentiate Antibacterial Activity and Cytotoxicity in Human Lung Cancer Cells.|https://dx.doi.org/10.1007/s12010-024-04901-x
+Eco-friendly green synthesis of AgNPs from Elaeocarpus serratus fruit extract: potential to antibacterial, antioxidant, cytotoxic effects of colon cancerous cells (HT-29) and its toxicity assessments of marine microcrustacean Artemia nauplii.|https://dx.doi.org/10.1007/s11033-024-09335-6
+[Staphylococcus aureus colonization as a risk factor for acute radiation dermatitis].|https://dx.doi.org/10.1007/s00066-024-02227-5
+Construction of a Colorimetric and Fluorescence Dual-Mode Immunoassay Detection of Alpha-Hemolysin in Milk.|https://dx.doi.org/10.1089/fpd.2023.0106
+Effect of weekly vitamin D supplementation on the severity of atopic dermatitis and type 2 immunity biomarkers in children: A randomized controlled trial.|https://dx.doi.org/10.1111/jdv.19959
+Amide Modification of Glycolipid Biosurfactants as Promising Biocompatible Antibacterial Agents.|https://dx.doi.org/10.1021/acs.jafc.3c08765
+Integrated analysis of gut microbiota and metabolomic profiling in colorectal cancer metastasis.|https://dx.doi.org/10.1002/tox.24228
+Chronic Suppurative Otitis Media: A Prospective Descriptive Study of the Microbiology and Antimicrobial Susceptibility Patterns.|https://dx.doi.org/10.1002/ohn.708
+Bioorthogonal Radiolabeling of Azide-Modified Bacteria Using [(18)F]FB-sulfo-DBCO.|https://dx.doi.org/10.1021/acs.bioconjchem.4c00024
+Stime dell'antibiotico-resistenza in Italia e in Europa occidentale nel 2019: un'analisi comparativa basata su MICROBE.|https://dx.doi.org/10.19191/EP24.1.A648.020
+Antibacterial and Antioxidant Efficacies of Secondary Metabolites from the Roots of Cyphostemma adenocaule: A Combined In Vitro and In Silico Study.|https://dx.doi.org/10.1155/2024/1679695

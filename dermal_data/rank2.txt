@@ -12,3 +12,5 @@ Hydrogel dressings for diabetic foot ulcer: A systematic review and meta-analysi
 Successful topical treatment of human biofilms using multiple antibiotic elution from a collagen-rich hydrogel.|https://dx.doi.org/10.1038/s41598-024-54477-z
 Improving Diabetic Wound Healing Outcomes with Topical Growth Factor Therapies: Systematic Review and Network Meta-analysis of Randomised-controlled Trials.|https://dx.doi.org/10.1210/clinem/dgae128
 Can acupuncture increase microcirculation in peripheral artery disease and diabetic foot syndrome? - a pilot study.|https://dx.doi.org/10.3389/fmed.2024.1371056
+The infected diabetic foot: Modulation of traditional biomarkers for osteomyelitis diagnosis in the setting of diabetic foot infection and renal impairment.|https://dx.doi.org/10.1111/iwj.14770
+An Atypical Manifestation of Necrotizing Fasciitis in a Patient With Type II Diabetes.|https://dx.doi.org/10.7759/cureus.54062

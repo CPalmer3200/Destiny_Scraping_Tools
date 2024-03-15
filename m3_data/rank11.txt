@@ -42,3 +42,17 @@ The Role of Probiotics in the Prevention of Clostridioides difficile Infection i
 Bacteriophages for Controlling Staphylococcus spp. Pathogens on Dairy Cattle Farms: In Vitro Assessment.|https://dx.doi.org/10.3390/ani14050683
 Updating the Classification of Chronic Inflammatory Enteropathies in Dogs.|https://dx.doi.org/10.3390/ani14050681
 When will the Glomerular Filtration Rate in Former Preterm Neonates Catch up with Their Term Peers?|https://dx.doi.org/10.1007/s11095-024-03677-3
+Measuring the prevalence of aspiration pneumonia in view of improving the relevance of antibiotic prescription of antibiotics: A retrospective, observational study.|https://dx.doi.org/10.1016/j.idnow.2024.104885
+Effectiveness of vancomycin powder for preventing postoperative spinal infection.|https://dx.doi.org/10.1016/j.clineuro.2024.108222
+A nurse-driven penicillin allergy risk score in the preoperative setting was associated with increased cefazolin use perioperatively.|https://dx.doi.org/10.1016/j.jclinane.2024.111443
+Hydrothermal-assisted synthesis of Sr-doped SnS nanoflower catalysts for photodegradation of metronidazole antibiotic pollutant in wastewater promoted by natural sunlight irradiation.|https://dx.doi.org/10.2166/wst.2024.054
+A Vancomycin-Templated DNA-Encoded Library for Combating Drug-Resistant Bacteria.|https://dx.doi.org/10.1021/acs.jmedchem.3c02197
+Multiple systemic infections caused by Rhodococcus equi: a case report.|https://dx.doi.org/10.1099/acmi.0.000600.v4
+Antimicrobial susceptibility pattern of aerobic bacteria responsible for post-surgical wound infection of the patients admitted into Khulna Medical College Hospital, Bangladesh.|https://dx.doi.org/10.1099/acmi.0.000401
+A Rare Case of Brodie's Abscess in the Tibial Diaphysis Masquerading as a Vaso-occlusive Sickle Crisis.|https://dx.doi.org/10.55729/2000-9666.1299
+An Atypical Manifestation of Necrotizing Fasciitis in a Patient With Type II Diabetes.|https://dx.doi.org/10.7759/cureus.54062
+Efficacy of rifampicin combination therapy against MRSA prosthetic vascular graft infections in a rat model.|https://dx.doi.org/10.1016/j.bioflm.2024.100189
+Novel Colorimetric and Light Scatter Methods to Identify and Manage Peritoneal Dialysis-Associated Peritonitis at the Point-of-Care.|https://dx.doi.org/10.1016/j.ekir.2023.12.021
+Author Correction: Automated sepsis detection with vancomycin- and allantoin-polydopamine magnetic nanoparticles.|https://dx.doi.org/10.1038/s41598-024-55791-2
+Linezolid-Induced Thrombocytopenia in Patients with Renal Impairment: A Case Series, Review and Dose Advice.|https://dx.doi.org/10.1007/s40268-024-00458-6
+Novel Bioresorbable Drug-Eluting Mesh Scaffold for Therapy of Muscle Injury.|https://dx.doi.org/10.1021/acsbiomaterials.3c01669
