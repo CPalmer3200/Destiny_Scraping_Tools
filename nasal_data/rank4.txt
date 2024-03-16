@@ -155,3 +155,12 @@ Postoperative superior anastomotic leakage classification and treatment strategy
 Interprofessional teams with and without nurse practitioners and the level of adherence to best practice guidelines in cardiac surgery: A retrospective study.|https://dx.doi.org/10.1111/jocn.17117
 Adapting prescribing criteria for amyloid-targeted antibodies for adults with Down syndrome.|https://dx.doi.org/10.1002/alz.13778
 Perioperative antibiotic prophylaxis in the setting of cochlear implantation: a retrospective analysis of 700 cases.|https://dx.doi.org/10.1007/s00405-024-08515-1
+Infectious Diseases Society of America Guidelines on the Diagnosis of COVID-19: Serologic Testing.|https://dx.doi.org/10.1093/cid/ciae121
+Machine learning based peri-surgical risk calculator for abdominal related emergency general surgery: a multicenter retrospective study.|https://dx.doi.org/10.1097/JS9.0000000000001276
+Is perioperative COVID-19 really associated with worse surgical outcomes among vaccinated patients?|https://dx.doi.org/10.1007/s13304-024-01800-y
+Offloading systems for the treatment of neuropathic foot ulcers in patients with diabetes mellitus: a meta-analysis of randomized controlled trials for the development of the Italian guidelines for the treatment of diabetic foot syndrome.|https://dx.doi.org/10.1007/s00592-024-02262-9
+Preoperative urine culture with contaminants is not associated with increased risk for urinary tract infection after ureteroscopic stone treatment.|https://dx.doi.org/10.1007/s00345-024-04793-w
+A health literacy analysis of online patient-directed educational materials about mycobacterium avium complex.|https://dx.doi.org/10.1016/j.jctube.2024.100424
+Incidence of Postoperative Infection Following Simultaneous Bilateral Knee Arthroplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.54117
+Refracture-related bone transport of tibia: technical notes and preliminary clinical results in nineteen cases.|https://dx.doi.org/10.1007/s00264-024-06141-4
+Evaluation of Cutoff Point Prostate Specific Antigen (PSA) and Prostate Specific Antigen Density (PSAD) in Patients with Suspected Prostate Cancer.|https://dx.doi.org/10.5455/medarh.2024.78.12-15

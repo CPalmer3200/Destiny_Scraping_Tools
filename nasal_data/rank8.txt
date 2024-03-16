@@ -256,3 +256,15 @@ Comparative long-term outcomes of natural orifice specimen extraction surgery an
 'Dumpling suture method' versus traditional suture method of protective loop ileostomy in laparoscopic anterior rectal resection with specimen extraction through stoma incision: a retrospective comparative cohort study.|https://dx.doi.org/10.1097/JS9.0000000000000953
 Reconstruction of Urethral Sphincter With Polyacrylamide Hydrogel.|https://dx.doi.org/10.1097/SPV.0000000000001470
 Obesity and Reconstructive Pelvic Surgery: An ACS NSQIP Study.|https://dx.doi.org/10.1097/SPV.0000000000001468
+A predictive model for intraabdominal infection after radical gastrectomy in elderly patients.|https://dx.doi.org/10.1097/MD.0000000000037489
+Routine closed-suction drainage reduces seromas following totally extraperitoneal (TEP) inguinal hernia repair: A meta-analysis.|https://dx.doi.org/10.1097/MD.0000000000037412
+Prognostic factors for surgical site infection in patients with spinal metastases and following surgical treatment.|https://dx.doi.org/10.1097/MD.0000000000037503
+Risk factors for intubation and mortality in patients treated with high flow nasal cannula due to COVID-19 infection. Survival Analysis Study in a Northern Mexican Population.|https://dx.doi.org/10.1371/journal.pone.0296931
+Urinary bladder matrix versus dermal regeneration template for lower extremity wound coverage.|https://dx.doi.org/10.1007/s00590-024-03888-9
+A capture-based method of prenatal cell-free DNA screening for autosomal recessive non-syndromic hearing loss.|https://dx.doi.org/10.1002/pd.6550
+Risk Factors for Oronasal Fistula in Primary Palatoplasty: A Case-Control Study From a Reference Center in Medellín, Colombia.|https://dx.doi.org/10.1097/SCS.0000000000010047
+Biologic Therapy in Pediatric Chronic Rhinosinusitis: A Systematic Review.|https://dx.doi.org/10.1002/ohn.717
+Intelligent method to predict intensive care unit admission after drainage operation in patients with deep neck space abscess: A multicenter retrospective study.|https://dx.doi.org/10.1002/hed.27738
+Surveillance of infections of surgical sites and lower respiratory tracts should be combined: experiences from the German surveillance module for operated patients (OP-KISS), 2018 to 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.11.2300416
+Hybrid approach to management for a patient with culture negative infective endocarditis with profunda femoris mycotic pseudoaneurysm: A case report and review of the literature.|https://dx.doi.org/10.1002/ccr3.8664
+A Comparison between Total Abdominal Hysterectomy versus Total Laparoscopic Hysterectomy.|https://dx.doi.org/10.4103/gmit.gmit_72_23

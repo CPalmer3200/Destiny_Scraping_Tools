@@ -19,3 +19,4 @@ Microbiota insights into pet ownership and human health.|https://dx.doi.org/10.1
 Pseudomembranous colitis and Parabacteroides distasonis bacteraemia: a rare clinical presentation.|https://dx.doi.org/10.1007/s12328-024-01939-6
 [Difficult-to-treat rheumatoid arthritis].|https://dx.doi.org/10.53738/REVMED.2024.20.865.541
 Designing and implementing a new icon-based difficult airway cart: a two-phase prospective qualitative improvement project.|https://dx.doi.org/10.1007/s12630-024-02740-2
+Incidence and risk factors of Clostridioides difficile infection in liver transplant recipients: A comprehensive literature review.|https://dx.doi.org/10.1097/CLD.0000000000000131

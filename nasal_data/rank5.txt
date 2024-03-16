@@ -16,3 +16,5 @@ A case of necrotizing fasciitis of the breast following lumpectomy and oncoplast
 Extensive analysis of risk factors associated with surgical site infections post-cardiothoracic open surgery.|https://dx.doi.org/10.1111/iwj.14842
 Reverse abdominoplasty as a salvage procedure for infected bilateral implant-based breast reconstruction.|https://dx.doi.org/10.1016/j.ijscr.2024.109490
 A challenging surgical technique: single-port endoscopic-assisted radical mastectomy in retrograde way and immediate reconstruction using prosthesis implantation.|https://dx.doi.org/10.21037/tcr-23-1771
+Dynamic insights into infection risk over time in two-stage implant-based breast reconstruction: a retrospective cohort study.|https://dx.doi.org/10.1097/JS9.0000000000001235
+Effect of hypothyroidism on short-term outcomes after autologous and implant-based breast reconstruction.|https://dx.doi.org/10.1007/s13304-024-01791-w

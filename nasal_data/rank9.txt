@@ -250,3 +250,15 @@ Chronic Suppurative Otitis Media: A Prospective Descriptive Study of the Microbi
 Bioorthogonal Radiolabeling of Azide-Modified Bacteria Using [(18)F]FB-sulfo-DBCO.|https://dx.doi.org/10.1021/acs.bioconjchem.4c00024
 Stime dell'antibiotico-resistenza in Italia e in Europa occidentale nel 2019: un'analisi comparativa basata su MICROBE.|https://dx.doi.org/10.19191/EP24.1.A648.020
 Antibacterial and Antioxidant Efficacies of Secondary Metabolites from the Roots of Cyphostemma adenocaule: A Combined In Vitro and In Silico Study.|https://dx.doi.org/10.1155/2024/1679695
+A Comparative Analysis of the Antibacterial Spectrum of Ultrasmall Manganese Ferrite Nanozymes with Varied Surface Modifications.|https://dx.doi.org/10.1021/acsami.3c16490
+Expression of Staphylococcus aureus translation elongation factor P is regulated by a stress-inducible promotor.|https://dx.doi.org/10.1007/s10482-024-01954-0
+Design, synthesis, biological evaluation and in silico studies of curcumin pyrrole conjugates.|https://dx.doi.org/10.1002/cbdv.202301605
+Meta-Analysis: Females at Higher Risk of Death From Staph Infection.|https://dx.doi.org/10.1001/jama.2024.2076
+Surgical ventricular reconstruction and intraoperative cryoablation in a patient with drug-refractory ventricular tachycardia and left ventricular thrombus: a case report.|https://dx.doi.org/10.1093/ehjcr/ytae113
+Genotypic diversity and antagonistic activities of enterococci isolated from pastırma.|https://dx.doi.org/10.1007/s13197-023-05895-w
+Daptomycin and Ceftaroline Combination Therapy in Complicated Endovascular Infections Caused by Methicillin-Resistant Staphylococcus epidermidis.|https://dx.doi.org/10.7759/cureus.54134
+Biosynthesis of Zinc Nanoparticles From Actinobacterium Streptomyces Species and Their Biological Potential.|https://dx.doi.org/10.7759/cureus.54124
+Light-sensitive PEG hydrogel with antibacterial performance for pacemaker pocket infection prevention.|https://dx.doi.org/10.1016/j.mtbio.2024.100987
+Pro-angiogenic and antibacterial copper containing nanoparticles in PLGA/amorphous calcium phosphate bone nanocomposites.|https://dx.doi.org/10.1016/j.heliyon.2024.e27267
+DNA methylation haplotype block signatures responding to Staphylococcus aureus subclinical mastitis and association with production and health traits.|https://dx.doi.org/10.1186/s12915-024-01843-y
+Phytoconstituent analysis, anti-inflammatory, antimicrobial and anticancer effects of nano encapsulated Convolvulus arvensis L. extracts.|https://dx.doi.org/10.1186/s12906-024-04420-6

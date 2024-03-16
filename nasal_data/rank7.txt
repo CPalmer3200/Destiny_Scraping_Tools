@@ -294,3 +294,22 @@ Meta-analysis of the SARS-CoV-2 positivity rate in municipal wastewater.|https:/
 Outpatient COVID-19 convalescent plasma recipient antibody thresholds correlated to reduced hospitalizations within a randomized trial.|https://dx.doi.org/10.1172/jci.insight.178460
 Focus on digital construction of smart cities from COVID-19 epidemic prevention and control.|https://dx.doi.org/10.23736/S0026-4806.23.08845-6
 Changes in self-measured blood pressure monitoring use in 14 states from 2019 to 2021 - Impact of the COVID-19 pandemic.|https://dx.doi.org/10.1093/ajh/hpae031
+Emotional burnout, job satisfaction, and intention to leave among pre-hospital emergency healthcare workers during the COVID-19 pandemic.|https://dx.doi.org/10.3233/WOR-230589
+Work ability and mental health at return to work after COVID-19: A descriptive study among healthcare workers.|https://dx.doi.org/10.3233/WOR-230352
+Evolving policies, enduring impacts: Cross-sectional surveys of mental health, risk-related perceptions, and coping behaviors throughout China's U-turn in its stringent zero-COVID policy.|https://dx.doi.org/10.1002/jclp.23676
+Have the effects of Covid-19 been overcome? Levels of Covid-19 fear, Covid-19 anxiety and hopelessness in young adolescents: A structural equation modeling.|https://dx.doi.org/10.1111/jcap.12458
+Bilateral, Sequential Sudden Hearing Loss in a Patient With Multiple COVID-19 Infections and Potential Implications on Subsequent Cochlear Implant Performance.|https://dx.doi.org/10.1177/01455613241239534
+Evaluation of three decades of the burden of low back pain in China before COVID-19: Estimates from the Global Burden of Disease Database 2019.|https://dx.doi.org/10.7189/jogh.14.04006
+Absence of short-term changes in knowledge and attitudes among household contacts of COVID-19 cases during the post-acute phase of the pandemic in Catalonia and Navarre, Spain.|https://dx.doi.org/10.3389/fpubh.2024.1306284
+Predictive factors of coronavirus disease (COVID-19) vaccination series completion: a one-year longitudinal web-based observational study in Japan.|https://dx.doi.org/10.3389/fpubh.2024.1348170
+Estimating sectoral COVID-19 economic losses in the Philippines using nighttime light and electricity consumption data.|https://dx.doi.org/10.3389/fpubh.2024.1308301
+Unveiling Gram-Ghost Cells: A Crucial Aspect of Gram Staining in the COVID-19 Era.|https://dx.doi.org/10.7759/cureus.54118
+Modeling prevention behaviors during the COVID-19 pandemic using Bayesian belief networks and protection motivation theory.|https://dx.doi.org/10.1111/risa.14287
+Risk of encephalitis and meningitis after COVID-19 vaccination in South Korea: a self-controlled case series analysis.|https://dx.doi.org/10.1186/s12916-024-03347-6
+Mental health effects associated with COVID-19 financial assistance in South Korea: a comparison of employment status.|https://dx.doi.org/10.1186/s12889-024-18283-6
+Quantifying the relationship between gardening and health and well-being in the UK: a survey during the covid-19 pandemic.|https://dx.doi.org/10.1186/s12889-024-18249-8
+Burden of alcohol and other substance use and correlates among undergraduate students at Busitema University in rural Eastern Uganda after COVID-19 lockdown.|https://dx.doi.org/10.1038/s41598-024-56861-1
+Decay pattern of SARS-CoV-2 RNA surface contamination in real residences.|https://dx.doi.org/10.1038/s41598-024-54445-7
+Filamentous fungus-produced human monoclonal antibody provides protection against SARS-CoV-2 in hamster and non-human primate models.|https://dx.doi.org/10.1038/s41467-024-46443-0
+Tocilizumab Failed to Reduce Mortality in Severe COVID-19 Patients: Results from a Randomized Controlled Clinical Trial.|https://dx.doi.org/10.18502/ijaai.v23i1.14956
+Prebiotic inulin ameliorates SARS-CoV-2 infection in hamsters by modulating the gut microbiome.|https://dx.doi.org/10.1038/s41538-024-00248-z

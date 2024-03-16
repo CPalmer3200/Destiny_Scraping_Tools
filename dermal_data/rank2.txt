@@ -14,3 +14,4 @@ Improving Diabetic Wound Healing Outcomes with Topical Growth Factor Therapies: 
 Can acupuncture increase microcirculation in peripheral artery disease and diabetic foot syndrome? - a pilot study.|https://dx.doi.org/10.3389/fmed.2024.1371056
 The infected diabetic foot: Modulation of traditional biomarkers for osteomyelitis diagnosis in the setting of diabetic foot infection and renal impairment.|https://dx.doi.org/10.1111/iwj.14770
 An Atypical Manifestation of Necrotizing Fasciitis in a Patient With Type II Diabetes.|https://dx.doi.org/10.7759/cureus.54062
+Offloading systems for the treatment of neuropathic foot ulcers in patients with diabetes mellitus: a meta-analysis of randomized controlled trials for the development of the Italian guidelines for the treatment of diabetic foot syndrome.|https://dx.doi.org/10.1007/s00592-024-02262-9
