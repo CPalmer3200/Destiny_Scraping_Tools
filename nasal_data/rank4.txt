@@ -164,3 +164,13 @@ A health literacy analysis of online patient-directed educational materials abou
 Incidence of Postoperative Infection Following Simultaneous Bilateral Knee Arthroplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.54117
 Refracture-related bone transport of tibia: technical notes and preliminary clinical results in nineteen cases.|https://dx.doi.org/10.1007/s00264-024-06141-4
 Evaluation of Cutoff Point Prostate Specific Antigen (PSA) and Prostate Specific Antigen Density (PSAD) in Patients with Suspected Prostate Cancer.|https://dx.doi.org/10.5455/medarh.2024.78.12-15
+Unraveling Disparities: Probing Gender, Race, and Geographic Inequities in Pulmonary Heart Disease Mortality in the United States: An Extensive Longitudinal Examination (1999-2020) Leveraging CDC WONDER Data.|https://dx.doi.org/10.1016/j.cpcardiol.2024.102527
+Dose regimen optimization of cephalothin for surgical prophylaxis against Staphylococcus aureus and coagulase negative staphylococci in dogs by pharmacokinetic/pharmacodynamic modeling.|https://dx.doi.org/10.1016/j.rvsc.2024.105202
+Symptomatic rib fracture nonunion: a systematic review of the literature.|https://dx.doi.org/10.1007/s00402-024-05264-y
+Delayed debridement affects prognosis in patients with purulent flexor tenosynovitis: a retrospective cohort and multivariate analyses.|https://dx.doi.org/10.1007/s00402-024-05269-7
+Reporting of equity in observational epidemiology: A methodological review.|https://dx.doi.org/10.7189/jogh.14.04046
+High prevalence of ST5-SCCmec II-t311 clone of methicillin-resistant Staphylococcus aureus isolated from bloodstream infections in East China.|https://dx.doi.org/10.1186/s12866-024-03232-5
+Validation of Air Medical Prehospital Triage Score in Determining Resource Utilization at Level 1 Trauma Centers.|https://dx.doi.org/10.1016/j.amj.2023.10.001
+Antimicrobial prophylaxis in companion animal surgery: a scoping review for European Network for Optimization of Antimicrobial Therapy (ENOVAT) guidelines.|https://dx.doi.org/10.1016/j.tvjl.2024.106101
+Guidance for healthcare providers on newest guidelines for over-the-counter drug treatment of mild symptoms of COVID-19. (word count=18; limit=20).|https://dx.doi.org/10.1016/j.amjmed.2024.03.003
+Uncommon diagnosis of multinodular goiter - isolated extrapulmonary manifestation of sarcoidosis in thyroid gland (scientific case reports).|https://dx.doi.org/10.1016/j.prp.2024.155235

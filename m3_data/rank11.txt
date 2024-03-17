@@ -60,3 +60,12 @@ Expression of Staphylococcus aureus translation elongation factor P is regulated
 Spectrum and antibiotic resistance in community- and hospital-acquired urinary tract infections among adults: Experience from a large tertiary care center in a developing country.|https://dx.doi.org/10.1177/03915603241236361
 Daptomycin and Ceftaroline Combination Therapy in Complicated Endovascular Infections Caused by Methicillin-Resistant Staphylococcus epidermidis.|https://dx.doi.org/10.7759/cureus.54134
 Preparation of visible-light active MOFs-Perovskites (ZIF-67/LaFeO(3)) nanocatalysts for exceptional CO(2) conversion, organic pollutants and antibiotics degradation.|https://dx.doi.org/10.1016/j.heliyon.2024.e27378
+Clinical Impact of Vancomycin MIC on Outcomes in Patients With Coagulase-negative Staphylococcal Bacteremia.|https://dx.doi.org/10.1016/j.clinthera.2024.01.012
+Association Between First-Time Neurologic Events and Metronidazole Treatment: A Case-Time Control Study.|https://dx.doi.org/10.1016/j.clinthera.2024.02.003
+Evaluation of two commercial broth microdilution systems for dalbavancin susceptibility testing of MRSA and other resistant Gram-positive cocci.|https://dx.doi.org/10.1016/j.cmi.2024.03.013
+The impact of discontinuing single-room isolation of patients with vancomycin-resistant enterococci: a quasi-experimental single-center study in South Korea.|https://dx.doi.org/10.1016/j.jhin.2024.02.025
+Assessing the Risk of Antimicrobial Resistant Enterococcal Infections in Humans Due to Bacitracin Usage in Poultry.|https://dx.doi.org/10.1016/j.jfp.2024.100267
+Ototoxic and nephrotoxic drugs in neonatal intensive care units: results of a Spanish and Italian survey.|https://dx.doi.org/10.1007/s00431-024-05467-w
+Development of Membrane-Targeting Fluorescent 2-Phenyl-1H-phenanthro[9,10-d]imidazole-Antimicrobial Peptide Mimic Conjugates against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acs.jmedchem.4c00436
+Antimicrobial resistance markers distribution in Staphylococcus aureus from Nsukka, Nigeria.|https://dx.doi.org/10.1186/s12879-024-09126-1
+Potential risk factors for early acute kidney injury in patients treated with vancomycin.|https://dx.doi.org/10.1016/j.jiac.2024.03.010

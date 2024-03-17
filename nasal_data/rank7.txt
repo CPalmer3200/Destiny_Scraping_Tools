@@ -313,3 +313,14 @@ Decay pattern of SARS-CoV-2 RNA surface contamination in real residences.|https:
 Filamentous fungus-produced human monoclonal antibody provides protection against SARS-CoV-2 in hamster and non-human primate models.|https://dx.doi.org/10.1038/s41467-024-46443-0
 Tocilizumab Failed to Reduce Mortality in Severe COVID-19 Patients: Results from a Randomized Controlled Clinical Trial.|https://dx.doi.org/10.18502/ijaai.v23i1.14956
 Prebiotic inulin ameliorates SARS-CoV-2 infection in hamsters by modulating the gut microbiome.|https://dx.doi.org/10.1038/s41538-024-00248-z
+Effects of the COVID-19 pandemic on gestational diabetes in Castilla-La Mancha (Spain).|https://dx.doi.org/10.1016/j.endien.2024.03.005
+A combination of nirmatrelvir and ombitasvir boosts inhibition of SARS-CoV-2 replication.|https://dx.doi.org/10.1016/j.antiviral.2024.105859
+Structural impact of a new spike Y170W mutation detected in early emerging SARS-CoV-2 Omicron variants in France.|https://dx.doi.org/10.1016/j.virusres.2024.199354
+"We could have used a lot more of this before…": A Qualitative Study Understanding barriers and facilitators to implementing a Provincial PPE Safety Coach Program during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.ajic.2024.03.008
+The association between county-level mental health provider shortage areas and suicide rates in the United States during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.genhosppsych.2024.02.012
+The impact of the COVID-19 pandemic on longitudinal trends of surgical mortality and inpatient quality of care in Ontario, Canada.|https://dx.doi.org/10.1111/jan.16136
+Effect of online infographics for enhancing health literacy among patients with type 2 diabetes in primary care unit during the COVID-19 pandemic: a randomized controlled trial.|https://dx.doi.org/10.1186/s12875-024-02335-2
+Transforming post pandemic cancer services.|https://dx.doi.org/10.1038/s41416-024-02596-9
+Global oral health policies and recommendations for children with special health care needs and their applicability and effectiveness during the COVID -19 pandemic: a systematic review.|https://dx.doi.org/10.1038/s41432-024-00992-x
+Picture analysis of billboards and infographic graphics advertising COVID-19 on promoting preventive behaviors and taking vaccination against the Coronavirus disease pandemic.|https://dx.doi.org/10.1038/s41598-024-56758-z
+Multicentre, randomised, double-blind, placebo-controlled, proof of concept study of LSALT peptide as prevention of acute respiratory distress syndrome and acute kidney injury in patients infected with SARS-CoV-2 (COVID-19).|https://dx.doi.org/10.1136/bmjopen-2023-076142

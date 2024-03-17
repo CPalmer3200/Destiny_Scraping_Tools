@@ -20,3 +20,5 @@ Pseudomembranous colitis and Parabacteroides distasonis bacteraemia: a rare clin
 [Difficult-to-treat rheumatoid arthritis].|https://dx.doi.org/10.53738/REVMED.2024.20.865.541
 Designing and implementing a new icon-based difficult airway cart: a two-phase prospective qualitative improvement project.|https://dx.doi.org/10.1007/s12630-024-02740-2
 Incidence and risk factors of Clostridioides difficile infection in liver transplant recipients: A comprehensive literature review.|https://dx.doi.org/10.1097/CLD.0000000000000131
+The impact of the COVID-19 pandemic on longitudinal trends of surgical mortality and inpatient quality of care in Ontario, Canada.|https://dx.doi.org/10.1111/jan.16136
+Akkermansia muciniphila in infectious disease: A new target for this next-generation probiotic?|https://dx.doi.org/10.1177/00368504241231159

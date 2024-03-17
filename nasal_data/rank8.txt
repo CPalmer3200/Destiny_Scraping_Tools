@@ -268,3 +268,19 @@ Intelligent method to predict intensive care unit admission after drainage opera
 Surveillance of infections of surgical sites and lower respiratory tracts should be combined: experiences from the German surveillance module for operated patients (OP-KISS), 2018 to 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.11.2300416
 Hybrid approach to management for a patient with culture negative infective endocarditis with profunda femoris mycotic pseudoaneurysm: A case report and review of the literature.|https://dx.doi.org/10.1002/ccr3.8664
 A Comparison between Total Abdominal Hysterectomy versus Total Laparoscopic Hysterectomy.|https://dx.doi.org/10.4103/gmit.gmit_72_23
+Regional Variation of Infectious Agents Causing Inpatient Endogenous Endophthalmitis in the US: A National Analysis.|https://dx.doi.org/10.1016/j.oret.2024.03.012
+Effectiveness of different tools for malnutrition in the assessment of patients with cirrhosis.|https://dx.doi.org/10.1016/j.amjms.2024.03.015
+Pacing and Defibrillation Consideration in the Era of Transcatheter Tricuspid Valve Replacement.|https://dx.doi.org/10.1007/s11886-024-02032-7
+The effect of surgical time on perioperative complications in adolescent idiopathic scoliosis cases. A propensity score analysis.|https://dx.doi.org/10.1007/s43390-024-00839-6
+Defining the learning curve for robotic pancreaticoduodenectomy for a single surgeon following experience with laparoscopic pancreaticoduodenectomy.|https://dx.doi.org/10.1007/s11701-023-01746-0
+Conservative management by embolization of a ruptured renal arterio-venous malformation (AVM) in Hereditary Hemorrhagic Telangiectasia (HHT).|https://dx.doi.org/10.1186/s42155-024-00444-8
+Postoperative Bisphosphonates Use is Associated with Reduced Adverse Outcomes After Primary Total Joint Arthroplasty of Hip and Knee: A Nationwide Population-Based Cohort Study.|https://dx.doi.org/10.1007/s00223-024-01192-6
+Contemporary trends in choledochal cyst excision: An analysis of the pediatric national surgical quality improvement program.|https://dx.doi.org/10.1002/wjs.12128
+In vitro and in vivo investigation of Argiope bruennichi spider silk-based novel biomaterial for medical use.|https://dx.doi.org/10.1002/bip.23572
+The association of bacterial agents and flagellated protozoans in the etiopathogenesis of subspectacular abscesses in snakes.|https://dx.doi.org/10.1111/vop.13210
+Retrospective Study to Compare the Effectiveness of Minimally Invasive Microscopic Unilateral Laminotomy with Microscopic Bilateral Laminotomy for Bilateral Decompression in the Early Postoperative Period in 142 Patients with Single-Level Lumbar Spinal Stenosis.|https://dx.doi.org/10.12659/MSM.943815
+Decision making of iatrogenic coronary embolism after SAVR: a case report.|https://dx.doi.org/10.1186/s13019-024-02613-1
+Characterization of Omicron BA.4.6, XBB, and BQ.1.1 subvariants in hamsters.|https://dx.doi.org/10.1038/s42003-024-06015-w
+Non-vertebral Mycobacterium avium complex osteomyelitis in an immunocompetent patient.|https://dx.doi.org/10.1136/bcr-2023-257670
+Nodular lesions of the buttock for 20 years: the challenge of chromoblastomycosis in non-endemic settings.|https://dx.doi.org/10.1136/bcr-2023-258097
+Biceps Rerouting Augmentation Technique Restores Biomechanics, Improves Healing, and has Many Advantages for Repair of Large and Massive Rotator Cuff Tears.|https://dx.doi.org/10.1016/j.arthro.2024.03.010

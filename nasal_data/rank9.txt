@@ -262,3 +262,16 @@ Light-sensitive PEG hydrogel with antibacterial performance for pacemaker pocket
 Pro-angiogenic and antibacterial copper containing nanoparticles in PLGA/amorphous calcium phosphate bone nanocomposites.|https://dx.doi.org/10.1016/j.heliyon.2024.e27267
 DNA methylation haplotype block signatures responding to Staphylococcus aureus subclinical mastitis and association with production and health traits.|https://dx.doi.org/10.1186/s12915-024-01843-y
 Phytoconstituent analysis, anti-inflammatory, antimicrobial and anticancer effects of nano encapsulated Convolvulus arvensis L. extracts.|https://dx.doi.org/10.1186/s12906-024-04420-6
+Clinical Impact of Vancomycin MIC on Outcomes in Patients With Coagulase-negative Staphylococcal Bacteremia.|https://dx.doi.org/10.1016/j.clinthera.2024.01.012
+Evaluation of two commercial broth microdilution systems for dalbavancin susceptibility testing of MRSA and other resistant Gram-positive cocci.|https://dx.doi.org/10.1016/j.cmi.2024.03.013
+Synthesis, biological evaluation and molecular docking study of pyrimidine linked thiazolidinedione derivatives as potential antimicrobial and antitubercular agents.|https://dx.doi.org/10.1016/j.bmcl.2024.129707
+Antarctic fungi produce pigment with antimicrobial and antiparasitic activities.|https://dx.doi.org/10.1007/s42770-024-01308-y
+Development of Membrane-Targeting Fluorescent 2-Phenyl-1H-phenanthro[9,10-d]imidazole-Antimicrobial Peptide Mimic Conjugates against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acs.jmedchem.4c00436
+Derivation of a novel antimicrobial peptide from the Red Sea Brine Pools modified to enhance its anticancer activity against U2OS cells.|https://dx.doi.org/10.1186/s12896-024-00835-8
+Antimicrobial resistance markers distribution in Staphylococcus aureus from Nsukka, Nigeria.|https://dx.doi.org/10.1186/s12879-024-09126-1
+Phyto-fabricated ZnO nanoparticles for anticancer, photo-antimicrobial effect on carbapenem-resistant/sensitive Pseudomonas aeruginosa and removal of tetracycline.|https://dx.doi.org/10.1007/s00449-024-02984-8
+Phytochemical composition and in vitro antioxidant and antimicrobial activities of Bersama abyssinica F. seed extracts.|https://dx.doi.org/10.1038/s41598-024-56659-1
+Impact of the implementation of the Intelligent Antimicrobial System (iAMS) on clinical outcomes among patients with bacteraemia caused by methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107142
+Risk of infective endocarditis after hybrid melody mitral valve replacement in infants: the french experience.|https://dx.doi.org/10.1093/icvts/ivae046
+Temporary extracorporeal life support: single-center experience with a new concept.|https://dx.doi.org/10.1093/icvts/ivae043
+16s RNA-based metagenomics reveal previously unreported gut microbiota associated with reactive arthritis and undifferentiated peripheral spondyloarthritis.|https://dx.doi.org/10.1093/rheumatology/keae165
