@@ -284,3 +284,11 @@ Characterization of Omicron BA.4.6, XBB, and BQ.1.1 subvariants in hamsters.|htt
 Non-vertebral Mycobacterium avium complex osteomyelitis in an immunocompetent patient.|https://dx.doi.org/10.1136/bcr-2023-257670
 Nodular lesions of the buttock for 20 years: the challenge of chromoblastomycosis in non-endemic settings.|https://dx.doi.org/10.1136/bcr-2023-258097
 Biceps Rerouting Augmentation Technique Restores Biomechanics, Improves Healing, and has Many Advantages for Repair of Large and Massive Rotator Cuff Tears.|https://dx.doi.org/10.1016/j.arthro.2024.03.010
+The association of hernia-specific and procedural risk factors with early complications in ventral hernia repair: ACHQC analysis.|https://dx.doi.org/10.1016/j.amjsurg.2024.02.028
+Congenital bilio-bronchial fistula in an adult: a review of literature and video demonstration of laparoscopic fistula tract excision.|https://dx.doi.org/10.7602/jmis.2024.27.1.1
+Wound infection and healing in minimally invasive plate osteosynthesis compared with intramedullary nail for distal tibial fractures: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14715
+Experimental testing combined with inverse-FE for mechanical characterisation of penile tissues.|https://dx.doi.org/10.1016/j.actbio.2024.03.013
+Vascular study of decellularized porcine long bones: Characterization of a tissue engineering model.|https://dx.doi.org/10.1016/j.bone.2024.117073
+Robot-assisted vaginal Natural Orifice Transluminal Endoscopic Surgery (RvNOTES) with total hysterectomy for management of stage IV endometriosis with/without complete cul-de-sac obliteration: 23-case pilot feasibility study.|https://dx.doi.org/10.1016/j.jmig.2024.03.006
+The effect of a single dose of nivolumab prior to isolated limb perfusion for patients with in-transit melanoma metastases: An interim analysis of a phase Ib/II randomized double-blind placebo-controlled trial (NivoILP trial).|https://dx.doi.org/10.1016/j.ejso.2024.108265
+Mesh-less laparoscopic extraperitoneal linear suspension treatment of vaginal vault prolapse.|https://dx.doi.org/10.1016/j.ejogrb.2024.02.043

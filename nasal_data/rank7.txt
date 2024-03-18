@@ -324,3 +324,12 @@ Transforming post pandemic cancer services.|https://dx.doi.org/10.1038/s41416-02
 Global oral health policies and recommendations for children with special health care needs and their applicability and effectiveness during the COVID -19 pandemic: a systematic review.|https://dx.doi.org/10.1038/s41432-024-00992-x
 Picture analysis of billboards and infographic graphics advertising COVID-19 on promoting preventive behaviors and taking vaccination against the Coronavirus disease pandemic.|https://dx.doi.org/10.1038/s41598-024-56758-z
 Multicentre, randomised, double-blind, placebo-controlled, proof of concept study of LSALT peptide as prevention of acute respiratory distress syndrome and acute kidney injury in patients infected with SARS-CoV-2 (COVID-19).|https://dx.doi.org/10.1136/bmjopen-2023-076142
+Benefit-risk assessment for the Novavax COVID-19 vaccine (NVX-CoV2373).|https://dx.doi.org/10.1016/j.vaccine.2024.03.036
+Risk of COVID-19 Hospitalization and Protection Associated With mRNA Vaccination Among US Adults With Psychiatric Disorders.|https://dx.doi.org/10.1111/irv.13269
+Incidence of COVID-19 mRNA vaccine symptomatic breakthrough infections during Omicron circulation in adults with or without infection prior to vaccination.|https://dx.doi.org/10.1016/j.idnow.2024.104886
+Nasal delivery of encapsulated recombinant ACE2 as a prophylactic drug for SARS-CoV-2.|https://dx.doi.org/10.1016/j.ijpharm.2024.124009
+Influence of storage solution, temperature, assay time and concentration on RT-qPCR nucleic acid detection for SARS-CoV-2 detection of SARS-CoV-2 by the RT-qPCR.|https://dx.doi.org/10.1016/j.bbrc.2024.149726
+Parent-Child Associations in COVID-19-Related Preventive Behaviors and Efficacy Expectations: A One-Year Longitudinal Survey.|https://dx.doi.org/10.1016/j.jadohealth.2024.02.015
+Coronavirus Disease 2019 Infections Among Emergency Health Care Personnel: Impact on Delivery of United States Emergency Medical Care, 2020.|https://dx.doi.org/10.1016/j.annemergmed.2024.01.023
+Physical activity and sleep changes among children during the COVID-19 pandemic.|https://dx.doi.org/10.1038/s41746-024-01041-8
+Association of interleukin-6, ferritin, and lactate dehydrogenase with venous thromboembolism in COVID-19: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09205-3

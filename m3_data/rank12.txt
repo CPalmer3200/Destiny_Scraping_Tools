@@ -22,3 +22,4 @@ Designing and implementing a new icon-based difficult airway cart: a two-phase p
 Incidence and risk factors of Clostridioides difficile infection in liver transplant recipients: A comprehensive literature review.|https://dx.doi.org/10.1097/CLD.0000000000000131
 The impact of the COVID-19 pandemic on longitudinal trends of surgical mortality and inpatient quality of care in Ontario, Canada.|https://dx.doi.org/10.1111/jan.16136
 Akkermansia muciniphila in infectious disease: A new target for this next-generation probiotic?|https://dx.doi.org/10.1177/00368504241231159
+Tuning mono-divalent cation water composition by the capacitive ion-exchange mechanism.|https://dx.doi.org/10.1016/j.watres.2024.121469

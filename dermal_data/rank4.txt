@@ -26,3 +26,5 @@ Comparison of In Vitro Bacterial Susceptibility to Common and Novel Equine Wound
 Influence of chitosan and hydroxyethyl cellulose modifications towards the design of cross-linked double networks hydrogel for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130851
 Scalable and Versatile Metal Ion Solidificated Alginate Hydrogel for Skin Wound Infection Therapy.|https://dx.doi.org/10.1002/adhm.202303688
 Light-sensitive PEG hydrogel with antibacterial performance for pacemaker pocket infection prevention.|https://dx.doi.org/10.1016/j.mtbio.2024.100987
+Antibacterial adhesive based on oxidized tannic acid-chitosan for rapid hemostasis.|https://dx.doi.org/10.1016/j.carbpol.2024.121973
+Wound Dressing Based on Silver Nanoparticle Embedded Wool Keratin Electrospun Nanofibers Deposited on Cotton Fabric: Preparation, Characterization, Antimicrobial Activity, and Cytocompatibility.|https://dx.doi.org/10.1021/acsabm.3c01111

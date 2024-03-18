@@ -275,3 +275,15 @@ Impact of the implementation of the Intelligent Antimicrobial System (iAMS) on c
 Risk of infective endocarditis after hybrid melody mitral valve replacement in infants: the french experience.|https://dx.doi.org/10.1093/icvts/ivae046
 Temporary extracorporeal life support: single-center experience with a new concept.|https://dx.doi.org/10.1093/icvts/ivae043
 16s RNA-based metagenomics reveal previously unreported gut microbiota associated with reactive arthritis and undifferentiated peripheral spondyloarthritis.|https://dx.doi.org/10.1093/rheumatology/keae165
+Antibacterial adhesive based on oxidized tannic acid-chitosan for rapid hemostasis.|https://dx.doi.org/10.1016/j.carbpol.2024.121973
+An antibacterial biologic patch based on bacterial cellulose for repair of infected hernias.|https://dx.doi.org/10.1016/j.carbpol.2024.121942
+Population pharmacokinetics of prophylactic cefoxitin in elective bariatric surgery patients: A prospective monocentric study.|https://dx.doi.org/10.1016/j.accpm.2024.101376
+Whole Genome Sequencing Identifies MprF Mutations in a Genetically Diverse Population of Daptomycin Non-susceptible Staphylococcus aureus in Australia.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107144
+Ca-doping interfacial engineering and glycolysis enable rapid charge separation for efficient phototherapy of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.actbio.2024.03.010
+Ginkgo biloba L. exocarp petroleum ether extract inhibits methicillin-resistant Staphylococcus aureus by modulating ion transport, virulence, and biofilm formation in vitro and in vivo.|https://dx.doi.org/10.1016/j.jep.2024.117957
+Salinity-mediated enhancement of quaternary ammonium compounds resistance and removal in endophytic bacteria LSE01.|https://dx.doi.org/10.1016/j.envres.2024.118688
+A novel methodology for stabilization of silver nanoparticles on cotton, nylon and cotton/nylon fabrics using chitosan and triethyl orthoformate for enhanced and elongated anti-bacterial performance.|https://dx.doi.org/10.1016/j.ijbiomac.2024.129256
+The mitigation potential of synergistic quorum quenching and antibacterial properties for biofilm proliferation and membrane biofouling.|https://dx.doi.org/10.1016/j.watres.2024.121462
+Ultrasound-driven radical chain reaction and immunoregulation of piezoelectric-based hybrid coating for treating implant infection.|https://dx.doi.org/10.1016/j.biomaterials.2024.122532
+Wound Dressing Based on Silver Nanoparticle Embedded Wool Keratin Electrospun Nanofibers Deposited on Cotton Fabric: Preparation, Characterization, Antimicrobial Activity, and Cytocompatibility.|https://dx.doi.org/10.1021/acsabm.3c01111
+H(2)O(2) self-supplying and GSH-depleting nanosystem for amplified NIR mediated-chemodynamic therapy of MRSA biofilm-associated infections.|https://dx.doi.org/10.1186/s12951-024-02350-6

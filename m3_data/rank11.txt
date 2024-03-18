@@ -69,3 +69,5 @@ Ototoxic and nephrotoxic drugs in neonatal intensive care units: results of a Sp
 Development of Membrane-Targeting Fluorescent 2-Phenyl-1H-phenanthro[9,10-d]imidazole-Antimicrobial Peptide Mimic Conjugates against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acs.jmedchem.4c00436
 Antimicrobial resistance markers distribution in Staphylococcus aureus from Nsukka, Nigeria.|https://dx.doi.org/10.1186/s12879-024-09126-1
 Potential risk factors for early acute kidney injury in patients treated with vancomycin.|https://dx.doi.org/10.1016/j.jiac.2024.03.010
+Protease-induced excitation of dorsal root ganglion neurons in response to acute perturbation of the gut microbiota is associated with visceral and somatic hypersensitivity.|https://dx.doi.org/10.1016/j.jcmgh.2024.03.006
+Longitudinal antimicrobial susceptibility trends of canine Staphylococcus pseudintermedius.|https://dx.doi.org/10.1016/j.prevetmed.2024.106170

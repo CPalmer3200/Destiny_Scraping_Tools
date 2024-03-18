@@ -174,3 +174,8 @@ Validation of Air Medical Prehospital Triage Score in Determining Resource Utili
 Antimicrobial prophylaxis in companion animal surgery: a scoping review for European Network for Optimization of Antimicrobial Therapy (ENOVAT) guidelines.|https://dx.doi.org/10.1016/j.tvjl.2024.106101
 Guidance for healthcare providers on newest guidelines for over-the-counter drug treatment of mild symptoms of COVID-19. (word count=18; limit=20).|https://dx.doi.org/10.1016/j.amjmed.2024.03.003
 Uncommon diagnosis of multinodular goiter - isolated extrapulmonary manifestation of sarcoidosis in thyroid gland (scientific case reports).|https://dx.doi.org/10.1016/j.prp.2024.155235
+Antimicrobial resistance in ocular infection: A review.|https://dx.doi.org/10.1111/ceo.14377
+Peripartum Interventions for People with Class III Obesity: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.ajogmf.2024.101354
+States' investment in recovery support services: An exploratory analysis.|https://dx.doi.org/10.1016/j.josat.2024.209343
+Recovery of measles-containing and HPV vaccine ordering post-COVID-19 pandemic: Trends by public vs. private funding source, urbanicity, and state - United States, January 2018 - December 2022.|https://dx.doi.org/10.1016/j.ypmed.2024.107936
+Insights into optimal surgical fixation for posterior malleolar fractures.|https://dx.doi.org/10.1302/2633-1462.53.BJO-2023-0133.R1
