@@ -333,3 +333,23 @@ Parent-Child Associations in COVID-19-Related Preventive Behaviors and Efficacy 
 Coronavirus Disease 2019 Infections Among Emergency Health Care Personnel: Impact on Delivery of United States Emergency Medical Care, 2020.|https://dx.doi.org/10.1016/j.annemergmed.2024.01.023
 Physical activity and sleep changes among children during the COVID-19 pandemic.|https://dx.doi.org/10.1038/s41746-024-01041-8
 Association of interleukin-6, ferritin, and lactate dehydrogenase with venous thromboembolism in COVID-19: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09205-3
+Longitudinal Outcomes of COVID-19 in Solid Organ Transplant Recipients from 2020 to 2023.|https://dx.doi.org/10.1016/j.ajt.2024.03.011
+Maintaining Vascular Access Response in a Severely COVID-19 Hit Country.|https://dx.doi.org/10.48729/pjctvs.349
+Research Progress on the Weak Immune Response to the COVID-19 Vaccine in Patients with Type 2 Diabetes.|https://dx.doi.org/10.1089/vim.2023.0097
+College leadership decisions and experiences during the COVID-19 pandemic: an elite interview study.|https://dx.doi.org/10.1080/07448481.2024.2328139
+Suppression of the alpha, delta, and omicron variants of SARS-Cov-2 in Taiwan.|https://dx.doi.org/10.1371/journal.pone.0300303
+Experiences of teachers and students on school closures and its consequences during the COVID-19 pandemic in Nyarugusu refugee camp, Tanzania.|https://dx.doi.org/10.1371/journal.pgph.0002917
+Effect of polyphenols against complications of COVID-19: current evidence and potential efficacy.|https://dx.doi.org/10.1007/s43440-024-00585-6
+Socioeconomic Inequalities in SARS-CoV-2 Infection and COVID-19 Health Outcomes in Urban Italy During the COVID-19 Vaccine Rollout, January-November 2021.|https://dx.doi.org/10.1007/s11524-024-00844-0
+Evaluating the Demand for Nucleic Acid Testing in Different Scenarios of COVID-19 Transmission: A Simulation Study.|https://dx.doi.org/10.1007/s40121-024-00954-x
+An Escape Game on University Students' Mental Health During the COVID-19 Pandemic: Cocreation Study.|https://dx.doi.org/10.2196/48545
+Characteristics of neutralizing antibody titers of the SARS-CoV-2 vaccine in maintenance hemodialysis patients.|https://dx.doi.org/10.5414/CN111179
+Prevalence and determinants to COVID-19 vaccine hesitancy among people living with HIV in Bench Sheko zone, Southwest Ethiopia: A multi-center study.|https://dx.doi.org/10.1016/j.heliyon.2024.e27901
+SARS-CoV-2 antibody prevalence by industry, workplace characteristics, and workplace infection prevention and control measures, North Carolina, 2021 to 2022.|https://dx.doi.org/10.1101/2024.03.06.24303821
+Major alteration of Lung Microbiome and the Host Reaction in critically ill COVID-19 Patients with high viral load.|https://dx.doi.org/10.21203/rs.3.rs-3952944/v1
+Meta-analysis of KAP toward COVID-19 in Chinese residents.|https://dx.doi.org/10.3389/fpubh.2024.1279293
+Exposure to urban green spaces and mental health during the COVID-19 pandemic: evidence from two low and lower-middle-income countries.|https://dx.doi.org/10.3389/fpubh.2024.1334425
+Effects of the First Wave of the COVID-19 Pandemic on the Work Readiness of Undergraduate Nursing Students in China: A Mixed-Methods Study.|https://dx.doi.org/10.2147/RMHP.S448965
+A Comparative Analysis of the Incidence of Pediatric Orbital Fractures Before and During the COVID-19 Pandemic in the Japanese Population.|https://dx.doi.org/10.7759/cureus.54166
+Effects of the COVID-19 Pandemic on Breastfeeding Initiation and Duration: A Retrospective Cohort Study.|https://dx.doi.org/10.7759/cureus.54231
+Seroprevalence of SARS-CoV-2 neutralising antibodies and cross-reactivity to JN.1 one year after the BA.5/BF.7 wave in China.|https://dx.doi.org/10.1016/j.lanwpc.2024.101040

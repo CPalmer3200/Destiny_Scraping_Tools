@@ -71,3 +71,11 @@ Antimicrobial resistance markers distribution in Staphylococcus aureus from Nsuk
 Potential risk factors for early acute kidney injury in patients treated with vancomycin.|https://dx.doi.org/10.1016/j.jiac.2024.03.010
 Protease-induced excitation of dorsal root ganglion neurons in response to acute perturbation of the gut microbiota is associated with visceral and somatic hypersensitivity.|https://dx.doi.org/10.1016/j.jcmgh.2024.03.006
 Longitudinal antimicrobial susceptibility trends of canine Staphylococcus pseudintermedius.|https://dx.doi.org/10.1016/j.prevetmed.2024.106170
+The role of centre and country factors on process and outcome indicators in critically ill patients with hospital-acquired bloodstream infections.|https://dx.doi.org/10.1007/s00134-024-07348-0
+Biomimetic Nanovehicle-Enabled Targeted Depletion of Intratumoral Fusobacterium nucleatum Synergizes with PD-L1 Blockade against Breast Cancer.|https://dx.doi.org/10.1021/acsnano.3c12687
+Electrospun Chitosan-Based Nanofibrous Coating for the Local and Sustained Release of Vancomycin.|https://dx.doi.org/10.1021/acsomega.3c08113
+Implants coating strategies for antibacterial treatment in fracture and defect models: A systematic review of animal studies.|https://dx.doi.org/10.1016/j.jot.2023.12.006
+Amoebic colitis-A diagnostic challenge on endoscopy: Case report.|https://dx.doi.org/10.1177/2050313X241235835
+Consumption of non-antibacterial drugs may have negative impact on Helicobacter pylori colonization in the stomach.|https://dx.doi.org/10.1016/j.heliyon.2024.e27327
+Optimization and preparation of a compound cod liver oil film former agent: an orthogonal design.|https://dx.doi.org/10.3389/fphar.2024.1296448
+Correction: Population Pharmacokinetic Analysis of Vancomycin in Patients with Solid or Hematological Malignancy in Relation to the Quick Sequential Organ Failure Assessment Scores.|https://dx.doi.org/10.1007/s13318-024-00890-8

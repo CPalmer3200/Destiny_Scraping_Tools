@@ -287,3 +287,17 @@ The mitigation potential of synergistic quorum quenching and antibacterial prope
 Ultrasound-driven radical chain reaction and immunoregulation of piezoelectric-based hybrid coating for treating implant infection.|https://dx.doi.org/10.1016/j.biomaterials.2024.122532
 Wound Dressing Based on Silver Nanoparticle Embedded Wool Keratin Electrospun Nanofibers Deposited on Cotton Fabric: Preparation, Characterization, Antimicrobial Activity, and Cytocompatibility.|https://dx.doi.org/10.1021/acsabm.3c01111
 H(2)O(2) self-supplying and GSH-depleting nanosystem for amplified NIR mediated-chemodynamic therapy of MRSA biofilm-associated infections.|https://dx.doi.org/10.1186/s12951-024-02350-6
+Pioglitazone reverses alcohol-induced alterations in alveolar macrophage mitochondrial phenotype.|https://dx.doi.org/10.1111/acer.15300
+Functionalization of porous silica with graphene oxide and polyethyleneimine, containing zinc copper ferrite nanoparticles for water treatment and antibacterial application.|https://dx.doi.org/10.1016/j.envpol.2024.123745
+Antimicrobial activity of geranium (Pelargonium graveolens) essential oil and its encapsulation in carioca bean starch ultrafine fibers by electrospinning.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130953
+The Antioxidant, Antibacterial and Cell-Protective Properties of Bioactive Compounds Extracted from Rowanberry (Sorbus aucuparia L.) Fruits In Vitro.|https://dx.doi.org/10.3390/plants13040538
+Assessing the Efficiency of Antimicrobial Plant Extracts from Artemisia afra and Eucalyptus globulus as Coatings for Textiles.|https://dx.doi.org/10.3390/plants13040514
+Unraveling the ligand specificity and promiscuity of the Staphylococcus aureus NorA efflux pump: a computational study.|https://dx.doi.org/10.1080/07391102.2024.2326670
+Synergistic inhibition mechanism of quinazolinone and piperacillin on penicillin-binding protein 2a: a promising approach for combating methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1080/07391102.2024.2330708
+Exploring associations between the teat apex metagenome and Staphylococcus aureus intramammary infections in primiparous cows under organic directives.|https://dx.doi.org/10.1128/aem.02234-23
+Daptomycin Dose Optimization in Pediatric Staphylococcus aureus Bacteremia: A Pharmacokinetic/Pharmacodynamic Investigation.|https://dx.doi.org/10.1002/jcph.2425
+Ginger (Zingiber officinale)-Mediated Green Synthesis of Silver-Doped Tin Oxide Nanoparticles and Evaluation of Its Antimicrobial Activity.|https://dx.doi.org/10.1021/acsomega.3c07855
+Biological Activities of Galanthus fosteri Extracts: First Demonstration of the Interaction between Chlorogenic Acid and DNA Ligase by Molecular Docking.|https://dx.doi.org/10.1021/acsomega.4c00162
+Occurrence of Methicillin-Resistant Staphylococcus aureus (MRSA) in Bovine Bulk Milk and Farm Workers in Smallholder Dairy Farming Systems in Northwestern Ethiopia.|https://dx.doi.org/10.2147/VMRR.S454193
+Strain-level characterization of foodborne pathogens without culture enrichment for outbreak investigation using shotgun metagenomics facilitated with nanopore adaptive sampling.|https://dx.doi.org/10.3389/fmicb.2024.1330814
+Mycotic Pulmonary Artery Aneurysm a Rare Complication of Ventricular Septal Defect With Infective Endocarditis: A Case Report.|https://dx.doi.org/10.1177/11795476241238884

@@ -15,3 +15,5 @@ Unexpected role of pig nostrils in the clonal and plasmidic dissemination of ext
 Addition of vancomycin to cefazolin is often unnecessary for preoperative antibiotic prophylaxis during total joint arthroplasties.|https://dx.doi.org/10.1186/s42836-023-00222-2
 Utility of methicillin-resistant Staphylococcus aureus nasal PCR testing in pediatric patients with suspected respiratory infections.|https://dx.doi.org/10.1093/jpids/piae023
 Does organophosphorus poisoning increase the risk of staphylococcal ventilator associated pneumonia? - a retrospective study.|https://dx.doi.org/10.3855/jidc.18125
+Validation and shortcomings of the most common mouse model of chronic rhinosinusitis with nasal polyps.|https://dx.doi.org/10.4193/Rhin23.331
+The role of proteinaceous toxins secreted by Staphylococcus aureus in interbacterial competition.|https://dx.doi.org/10.1093/femsmc/xtae006

@@ -292,3 +292,17 @@ Vascular study of decellularized porcine long bones: Characterization of a tissu
 Robot-assisted vaginal Natural Orifice Transluminal Endoscopic Surgery (RvNOTES) with total hysterectomy for management of stage IV endometriosis with/without complete cul-de-sac obliteration: 23-case pilot feasibility study.|https://dx.doi.org/10.1016/j.jmig.2024.03.006
 The effect of a single dose of nivolumab prior to isolated limb perfusion for patients with in-transit melanoma metastases: An interim analysis of a phase Ib/II randomized double-blind placebo-controlled trial (NivoILP trial).|https://dx.doi.org/10.1016/j.ejso.2024.108265
 Mesh-less laparoscopic extraperitoneal linear suspension treatment of vaginal vault prolapse.|https://dx.doi.org/10.1016/j.ejogrb.2024.02.043
+In vitro antibiofilm effect of different irradiation doses in infected root canal model.|https://dx.doi.org/10.1016/j.pdpdt.2024.104053
+Infective Endocarditis: A Prospective Registry Of Surgical Lesions.|https://dx.doi.org/10.48729/pjctvs.365
+Coronary Stent Infection: An Unusual Complication After Percutaneous Coronary Intervention.|https://dx.doi.org/10.48729/pjctvs.372
+Mycobacterium xenopi vertebral osteomyelitis in a patient with systemic lupus erythematosus: illustrative case.|https://dx.doi.org/10.3171/CASE23422
+Early and long-term outcomes following redo mitral valve surgery in patients with prior minimally invasive mitral valve surgery.|https://dx.doi.org/10.1093/icvts/ivae042
+Outcome variation and the role of caseload in certified colorectal cancer centers - a retrospective cohort analysis of 90,000 cases.|https://dx.doi.org/10.1097/JS9.0000000000001285
+Clinical manifestations and outcomes of otitis media with effusion in adult patients following Omicron infection in China.|https://dx.doi.org/10.17305/bb.2024.10239
+Long-term outcomes of PGA-TMC absorbable synthetic scaffold in both clean and contaminated ventral hernia repairs.|https://dx.doi.org/10.1007/s00464-024-10777-z
+The role of centre and country factors on process and outcome indicators in critically ill patients with hospital-acquired bloodstream infections.|https://dx.doi.org/10.1007/s00134-024-07348-0
+Arteriovenous Access for Hemodialysis: A Review.|https://dx.doi.org/10.1001/jama.2024.0535
+Omicron breakthrough infected individuals show enhanced nasal antibody responses and preserved T cell responses against the EG.5.1 and BA.2.86.|https://dx.doi.org/10.1002/jmv.29537
+VOC-based detection of prostate cancer using an electronic nose and ion mobility spectrometry: A novel urine-based approach.|https://dx.doi.org/10.1002/pros.24692
+Comparative Analysis of Ultrasound-Assisted Precise Localization vs. Traditional Open Incision in Situ Decompression for the Treatment of Cubital Tunnel Syndrome.|https://dx.doi.org/10.5137/1019-5149.JTN.42971-22.2
+Evaluation of Percutaneous Unilateral Kyphoplasty Results in Osteoporotic Vertebral Compression Fractures Using Individual 3D Printed Guide Template Support.|https://dx.doi.org/10.5137/1019-5149.JTN.43052-22.2
