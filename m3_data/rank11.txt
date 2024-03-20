@@ -79,3 +79,11 @@ Amoebic colitis-A diagnostic challenge on endoscopy: Case report.|https://dx.doi
 Consumption of non-antibacterial drugs may have negative impact on Helicobacter pylori colonization in the stomach.|https://dx.doi.org/10.1016/j.heliyon.2024.e27327
 Optimization and preparation of a compound cod liver oil film former agent: an orthogonal design.|https://dx.doi.org/10.3389/fphar.2024.1296448
 Correction: Population Pharmacokinetic Analysis of Vancomycin in Patients with Solid or Hematological Malignancy in Relation to the Quick Sequential Organ Failure Assessment Scores.|https://dx.doi.org/10.1007/s13318-024-00890-8
+Determining steady-state trough range in vancomycin drug dosing using machine learning.|https://dx.doi.org/10.1016/j.jcrc.2024.154784
+Detection ofClostridioides difficileinfection by assessment of exhaled breath volatile organic compounds.|https://dx.doi.org/10.1088/1752-7163/ad3572
+Development of an ultrafast PCR to detect clinically relevant acquired vancomycin-resistance genes from cultured enterococci.|https://dx.doi.org/10.1093/jac/dkae062
+Gastrointestinal Variant of Lemierre Syndrome due to Fusobacterium nucleatum: A Case Report.|https://dx.doi.org/10.1159/000536619
+Fatal Community-Acquired Clostridioides difficile Infection as a Cause of Listeria Meningitis: A Case Report.|https://dx.doi.org/10.7759/cureus.54371
+Synthesis of 1,2,3-triazole-piperazin-benzo[b][1,4]thiazine 1,1-dioxides: antibacterial, hemolytic and in silico TLR4 protein inhibitory activities.|https://dx.doi.org/10.1039/d3ra07509e
+Characterizing antibiotic prophylaxis practices in pediatric deformity spinal surgery and impact on 30-day postoperative infection: an NSQIP pediatric database study.|https://dx.doi.org/10.1007/s43390-024-00844-9
+Development of New PCR Protocols to Detect Genetic Diversity in the Metronidazole Metabolism Genes in Susceptible and Refractory Clinical Samples of Giardia duodenalis.|https://dx.doi.org/10.1007/s11686-024-00828-9

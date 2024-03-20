@@ -17,3 +17,6 @@ An Atypical Manifestation of Necrotizing Fasciitis in a Patient With Type II Dia
 Offloading systems for the treatment of neuropathic foot ulcers in patients with diabetes mellitus: a meta-analysis of randomized controlled trials for the development of the Italian guidelines for the treatment of diabetic foot syndrome.|https://dx.doi.org/10.1007/s00592-024-02262-9
 Second Metatarsal Length and Transfer Ulcers After First Metatarsal Amputation in Diabetic Foot Infections.|https://dx.doi.org/10.1177/10711007241232970
 Bibliometric analysis of systematic review and meta-analysis on diabetic foot ulcer.|https://dx.doi.org/10.1016/j.heliyon.2024.e27534
+Extended-Spectrum Beta-Lactamase Escherichia coli Diabetic Foot Osteomyelitis Causing Sausage Toe Deformity: Successful Therapy with Ertapenem in the Outpatient Setting.|https://dx.doi.org/10.12659/AJCR.943092
+Do Patients With Insulin-Dependent and Non-Insulin-Dependent Diabetes Have Different Risks for Complications After Total Ankle Arthroplasty?|https://dx.doi.org/10.1177/10711007241235897
+The prevalence of gram-negative bacteria with difficult-to-treat resistance and utilization of novel β-lactam antibiotics in the southeastern United States.|https://dx.doi.org/10.1017/ash.2024.26

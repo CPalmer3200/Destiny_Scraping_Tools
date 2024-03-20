@@ -28,3 +28,4 @@ Scalable and Versatile Metal Ion Solidificated Alginate Hydrogel for Skin Wound 
 Light-sensitive PEG hydrogel with antibacterial performance for pacemaker pocket infection prevention.|https://dx.doi.org/10.1016/j.mtbio.2024.100987
 Antibacterial adhesive based on oxidized tannic acid-chitosan for rapid hemostasis.|https://dx.doi.org/10.1016/j.carbpol.2024.121973
 Wound Dressing Based on Silver Nanoparticle Embedded Wool Keratin Electrospun Nanofibers Deposited on Cotton Fabric: Preparation, Characterization, Antimicrobial Activity, and Cytocompatibility.|https://dx.doi.org/10.1021/acsabm.3c01111
+Ultrasensitive Nanofiber Biosensor: Rapid In Situ Chromatic Detection of Bacteria for Healthcare Innovation.|https://dx.doi.org/10.1021/acsabm.4c00038

@@ -353,3 +353,23 @@ Effects of the First Wave of the COVID-19 Pandemic on the Work Readiness of Unde
 A Comparative Analysis of the Incidence of Pediatric Orbital Fractures Before and During the COVID-19 Pandemic in the Japanese Population.|https://dx.doi.org/10.7759/cureus.54166
 Effects of the COVID-19 Pandemic on Breastfeeding Initiation and Duration: A Retrospective Cohort Study.|https://dx.doi.org/10.7759/cureus.54231
 Seroprevalence of SARS-CoV-2 neutralising antibodies and cross-reactivity to JN.1 one year after the BA.5/BF.7 wave in China.|https://dx.doi.org/10.1016/j.lanwpc.2024.101040
+Changes in fertility intention among married Chinese couples with two children during COVID-19: a cross-sectional study.|https://dx.doi.org/10.1136/bmjsrh-2022-201759
+Frequencies of SARS-CoV-2 Spike Protein-Specific Memory B Cells in Human PBMCs, Quantified by ELISPOT Assay.|https://dx.doi.org/10.1007/978-1-0716-3690-9_10
+Stroke Risk After COVID-19 Bivalent Vaccination Among US Older Adults.|https://dx.doi.org/10.1001/jama.2024.1059
+The CoLab score is associated with SARS-CoV-2 viral load during admission in individuals admitted to the intensive care unit: the CoLaIC cohort study.|https://dx.doi.org/10.1515/cclm-2024-0030
+Functional dissection of the spike glycoprotein S1 subunit and identification of cellular cofactors for regulation of swine acute diarrhea syndrome coronavirus entry.|https://dx.doi.org/10.1128/jvi.00139-24
+Persistent increase of cardiovascular and cerebrovascular events in COVID-19 patients: a 3-year population-based analysis.|https://dx.doi.org/10.1093/cvr/cvae049
+COVID-19: A Challenge to the Safety of Assisted Reproduction.|https://dx.doi.org/10.1016/j.jsmc.2023.06.012
+[Level of knowledge, attitudes and the use of preventive measures among household contacts of COVID-19 cases after the acute phase of the pandemic].|https://dx.doi.org/10.23938/ASSN.1070
+Real-world use of nirmatrelvir-ritonavir in COVID-19 outpatients during BQ.1, BQ.1.1., and XBB.1.5 predominant omicron variants in three U.S. health systems: a retrospective cohort study.|https://dx.doi.org/10.1016/j.lana.2024.100693
+The Association of Anticoagulation Intensity with Outcomes in Hospitalized COVID-19 Patients.|https://dx.doi.org/10.1155/2024/8838308
+High SARS-CoV-2 attack rates in areas with low detection after community transmission established in Port Vila, Vanuatu, April 2022.|https://dx.doi.org/10.5365/wpsar.2024.15.1.1078
+Early changes in health coverage and access to dental care associated with Medicaid expansion under the COVID-19 pandemic.|https://dx.doi.org/10.1093/haschl/qxad032
+Impact of Covid-19 Pandemic on the Utilization and Delivery of Healthcare Services among Outpatients during the Early Phase of the Pandemic in Nigeria.|https://dx.doi.org/10.4081/jphia.2023.2317
+COVID-19: Experiences of Social Workers Supporting Older Adults With Dementia in Nigeria.|https://dx.doi.org/10.1177/00469580241239844
+Changes in frequency of benign convulsions with mild gastroenteritis and their viral causes before and during the COVID-19 pandemic: a single-center study.|https://dx.doi.org/10.3345/cep.2023.01137
+Estimating COVID-19 vaccine acceptance in pregnant and lactating women: a cross-sectional study in Lebanon.|https://dx.doi.org/10.1186/s13690-024-01267-8
+Incidence of new-onset hypertension before, during, and after the COVID-19 pandemic: a 7-year longitudinal cohort study in a large population.|https://dx.doi.org/10.1186/s12916-024-03328-9
+Research highlight: Impact of COVID-19 Disease Control Committee (CDCC) policies on prevention of the disease using Bayes network inference in west of Iran.|https://dx.doi.org/10.1186/s12889-024-17901-7
+From test to rest: evaluating socioeconomic differences along the COVID-19 care pathway in the Netherlands.|https://dx.doi.org/10.1007/s10198-024-01680-4
+Confronting Health Misinformation Surrounding COVID-19 Vaccines in the State of Florida.|https://dx.doi.org/10.1007/s11606-024-08726-6

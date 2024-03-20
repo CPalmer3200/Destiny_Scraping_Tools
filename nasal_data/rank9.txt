@@ -301,3 +301,17 @@ Biological Activities of Galanthus fosteri Extracts: First Demonstration of the 
 Occurrence of Methicillin-Resistant Staphylococcus aureus (MRSA) in Bovine Bulk Milk and Farm Workers in Smallholder Dairy Farming Systems in Northwestern Ethiopia.|https://dx.doi.org/10.2147/VMRR.S454193
 Strain-level characterization of foodborne pathogens without culture enrichment for outbreak investigation using shotgun metagenomics facilitated with nanopore adaptive sampling.|https://dx.doi.org/10.3389/fmicb.2024.1330814
 Mycotic Pulmonary Artery Aneurysm a Rare Complication of Ventricular Septal Defect With Infective Endocarditis: A Case Report.|https://dx.doi.org/10.1177/11795476241238884
+Unlocking bacterial defense: Exploring the potent inhibition of NorA efflux pump by coumarin derivatives in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.micpath.2024.106608
+Bioinspired superhydrophobic surfaces with silver and nitric oxide-releasing capabilities to prevent device-associated infections and thrombosis.|https://dx.doi.org/10.1016/j.jcis.2024.03.082
+Antimicrobial and Antibiofilm Activity of Highly Soluble Polypyrrole Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1093/jambio/lxae072
+Antibacterial, Fatigue-Resistant, and Self-Healing Dressing from Natural-Based Composite Hydrogels for Infected Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.3c01385
+Ultrasensitive Nanofiber Biosensor: Rapid In Situ Chromatic Detection of Bacteria for Healthcare Innovation.|https://dx.doi.org/10.1021/acsabm.4c00038
+Oral Administration of Antimicrobial Peptide NZ2114 Through the Microalgal Bait Tetraselmis subcordiformis (Wille) Butcher for Improving the Immunity and Gut Health in Turbot (Scophthalmus maximus L.).|https://dx.doi.org/10.1007/s10126-024-10289-w
+Disability-adjusted life years from bone and joint infections associated with antimicrobial resistance: an insight from the 2019 Global Burden of Disease Study.|https://dx.doi.org/10.1007/s00264-024-06143-2
+Functionalization of Chlorotonils: Dehalogenil as Promising Lead Compound for In Vivo Application.|https://dx.doi.org/10.1002/anie.202319765
+Biosynthesis of NIR-II Ag(2) Se Quantum Dots with Bacterial Catalase for Photoacoustic Imaging and Alleviating-Hypoxia Photothermal Therapy.|https://dx.doi.org/10.1002/smll.202310795
+Evolutionary dynamics of the accessory genomes of Staphylococcus aureus.|https://dx.doi.org/10.1128/msphere.00751-23
+Differentiation of keratinocytes or exposure to type 2 cytokines diminishes S. aureus internalization.|https://dx.doi.org/10.1128/msphere.00685-23
+Effect of Bacillus subtilis and Bacillus coagulans spores on induced allergic contact dermatitis in dogs.|https://dx.doi.org/10.1002/vms3.1410
+Synthesis of 1,2,3-triazole-piperazin-benzo[b][1,4]thiazine 1,1-dioxides: antibacterial, hemolytic and in silico TLR4 protein inhibitory activities.|https://dx.doi.org/10.1039/d3ra07509e
+Ultrasensitive colorimetric detection of Staphylococcus aureus using wheat germ agglutinin and IgY as a dual-recognition strategy.|https://dx.doi.org/10.1007/s00604-024-06288-2

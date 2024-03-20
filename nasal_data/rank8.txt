@@ -306,3 +306,19 @@ Omicron breakthrough infected individuals show enhanced nasal antibody responses
 VOC-based detection of prostate cancer using an electronic nose and ion mobility spectrometry: A novel urine-based approach.|https://dx.doi.org/10.1002/pros.24692
 Comparative Analysis of Ultrasound-Assisted Precise Localization vs. Traditional Open Incision in Situ Decompression for the Treatment of Cubital Tunnel Syndrome.|https://dx.doi.org/10.5137/1019-5149.JTN.42971-22.2
 Evaluation of Percutaneous Unilateral Kyphoplasty Results in Osteoporotic Vertebral Compression Fractures Using Individual 3D Printed Guide Template Support.|https://dx.doi.org/10.5137/1019-5149.JTN.43052-22.2
+Cerebral Myiasis, an unexpected intraoperative finding - A Case Report and Systematic Review.|https://dx.doi.org/10.1016/j.wneu.2024.03.044
+A nondestructive asymptomatic early disease prediction method employing ROS-induced differential volatile emissions from dry rot-infected potatoes.|https://dx.doi.org/10.1016/j.plaphy.2024.108532
+Aspergillus nodules: Natural history and the effect of antifungals.|https://dx.doi.org/10.1111/myc.13716
+Extended-Spectrum Beta-Lactamase Escherichia coli Diabetic Foot Osteomyelitis Causing Sausage Toe Deformity: Successful Therapy with Ertapenem in the Outpatient Setting.|https://dx.doi.org/10.12659/AJCR.943092
+Vaccine value profile for Klebsiella pneumoniae.|https://dx.doi.org/10.1016/j.vaccine.2024.02.072
+Prospective Outcomes of Noma Facial Reconstructive Surgery in Sokoto, Nigeria.|https://dx.doi.org/10.1089/fpsam.2023.0079
+Outcomes of Autologous Versus Irradiated Homologous Costal Cartilage Graft in Rhinoplasty.|https://dx.doi.org/10.1089/fpsam.2023.0334
+Current Management of Acute and Posttraumatic Critical Bone Defects.|https://dx.doi.org/10.1097/BOT.0000000000002762
+Systematic review and meta-analysis of incidence, indications, and outcomes of early open conversions after EVAR for abdominal aortic aneurysms.|https://dx.doi.org/10.23736/S0392-9590.24.05153-8
+Transcatheter renal arterial embolization for intractable urinary fistula occurring after robot-assisted partial nephrectomy: a case report.|https://dx.doi.org/10.1007/s13730-024-00866-2
+Periprosthetic joint infections in patients with rheumatoid arthritis are associated with higher complication and mortality rates.|https://dx.doi.org/10.1007/s00402-024-05248-y
+Perioperative pancreaticoduodenectomy management strategy focusing on postoperative early drain colonization.|https://dx.doi.org/10.1007/s00595-024-02810-4
+Polymethylmethacrylate (PMMA) Augmentation Enhances the Mechanical Characteristics of Midfoot Beam Constructs in Charcot Neuroarthropathy Cadaver Model.|https://dx.doi.org/10.1177/10711007241237804
+Do Patients With Insulin-Dependent and Non-Insulin-Dependent Diabetes Have Different Risks for Complications After Total Ankle Arthroplasty?|https://dx.doi.org/10.1177/10711007241235897
+Preliminary Experience With Commercially Available Trabecular Metal Tibial Cones Combined With a Retrograde Locked Intramedullary Nail for Bony Defects in Tibiotalocalcaneal Arthrodesis.|https://dx.doi.org/10.1177/19386400241236664
+Irritational Fibroma Mimicking an Odontogenic Infection: A Case Report of a Misdiagnosed Extraoral Fibroma.|https://dx.doi.org/10.7759/cureus.56311
