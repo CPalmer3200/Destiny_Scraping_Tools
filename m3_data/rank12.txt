@@ -28,3 +28,9 @@ The Impact of Antimicrobial Stewardship in Treating Patients with Escherichia co
 Cell division machinery drives cell-specific gene activation during differentiation in Bacillus subtilis.|https://dx.doi.org/10.1073/pnas.2400584121
 Persistent hypernatremia secondary to adipsic central diabetes insipidus in a patient with herpes-induced meningoencephalitis and COVID-19 infection: a case report.|https://dx.doi.org/10.1177/03000605241235747
 Impact of a syndrome-based stewardship intervention on antipseudomonal beta-lactam use, antimicrobial resistance, C. difficile rates, and cost in a safety-net community hospital.|https://dx.doi.org/10.1017/ash.2024.28
+Diverse thermal desorption combined with self-aspirating corona discharge ionization for direct mass spectrometry analysis of complex samples.|https://dx.doi.org/10.1039/d4ay00200h
+Radiomics and Artificial Intelligence in Renal Lesion Assessment.|https://dx.doi.org/10.1615/CritRevOncog.2023051084
+Adoption of AI in Oncological Imaging: Ethical, Regulatory, and Medical-Legal Challenges.|https://dx.doi.org/10.1615/CritRevOncog.2023050584
+Artificial Intelligence in Lung Cancer Imaging: From Data to Therapy.|https://dx.doi.org/10.1615/CritRevOncog.2023050439
+Non-celiac Enteropathy and Olmesartan: An Essential Consideration.|https://dx.doi.org/10.7759/cureus.54373
+Exploring diverse programmed cell-death patterns to develop a novel gene signature for predicting the prognosis of lung adenocarcinoma patients.|https://dx.doi.org/10.21037/jtd-23-1275

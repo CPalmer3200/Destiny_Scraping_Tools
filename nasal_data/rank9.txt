@@ -315,3 +315,18 @@ Differentiation of keratinocytes or exposure to type 2 cytokines diminishes S. a
 Effect of Bacillus subtilis and Bacillus coagulans spores on induced allergic contact dermatitis in dogs.|https://dx.doi.org/10.1002/vms3.1410
 Synthesis of 1,2,3-triazole-piperazin-benzo[b][1,4]thiazine 1,1-dioxides: antibacterial, hemolytic and in silico TLR4 protein inhibitory activities.|https://dx.doi.org/10.1039/d3ra07509e
 Ultrasensitive colorimetric detection of Staphylococcus aureus using wheat germ agglutinin and IgY as a dual-recognition strategy.|https://dx.doi.org/10.1007/s00604-024-06288-2
+Polysaccharide hydrogel containing silver nanoparticle@catechol microspheres with photothermal, antibacterial and anti-inflammatory activities for infected-wounds repair.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130898
+Smart Janus cotton fabrics prepared via mist polymerization for moisture and thermal management.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130929
+Integrative model-based comparison of target site-specific antimicrobial effects: a case study with ceftaroline and lefamulin.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107148
+Lipase and pH-responsive diblock copolymers featuring fluorocarbon and carboxyl betaine for methicillin-resistant staphylococcus aureus infections.|https://dx.doi.org/10.1016/j.jconrel.2024.03.021
+Colletodiol derivatives of the endophytic fungus Trichocladium sp.|https://dx.doi.org/10.1016/j.fitote.2024.105914
+Discovery of novel secondary metabolites from the basidiomycete Lentinus cf. sajor-caju and their inhibitory effects on Staphylococcus aureus biofilms.|https://dx.doi.org/10.1016/j.fitote.2024.105904
+A case of refractory disseminated subcutaneous abscess with intrahousehold transmission by a USA300-LV-like strain of PVL-positive community-acquired MRSA clone.|https://dx.doi.org/10.1016/j.jiac.2024.03.011
+Co-immobilization of Ciprofloxacin and Chlorhexidine as a Broad-Spectrum Antimicrobial Dual-Drug Coating for Poly(vinyl chloride) (PVC)-Based Endotracheal Tubes.|https://dx.doi.org/10.1021/acsami.4c01334
+Omnipolyphilins A and B: Chlorinated Cyclotetrapeptides and Naphtho-α-pyranones from the Plant Nematode-Derived Fungus Polyphilus sieberi.|https://dx.doi.org/10.1021/acs.jafc.4c00572
+Prevalence and antimicrobial resistance of bacterial agents isolated from the cases of dental caries.|https://dx.doi.org/10.5935/0946-5448.20230032
+Population-Level Associations Between Visual Impairment and Functional Difficulties in California.|https://dx.doi.org/10.1080/09286586.2024.2319243
+Relish involved in immunity and larval survival in the willow leaf beetle Plagiodera versicolora.|https://dx.doi.org/10.1002/ps.8084
+Contemporary Management of Staphylococcus aureus Bacteremia: Some Additional Considerations for Clinicians.|https://dx.doi.org/10.1093/cid/ciae080
+Gastrodinol derivatives and prenylated flavones from the flower branch of Gastrodia elata.|https://dx.doi.org/10.1007/s13659-024-00430-6
+Chemodiversity essential oil from three species of Croton (Euphorbiaceae) and assessment of antimicrobial potential.|https://dx.doi.org/10.1080/14786419.2024.2331025

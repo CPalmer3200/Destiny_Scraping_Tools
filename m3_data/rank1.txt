@@ -3,3 +3,5 @@ Low-risk pneumatosis intestinalis in the pediatric surgical population.|https://
 A review of fecal microbiota, live-jslm for the prevention of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/ajhp/zxae066
 Fecal microbiota transplant on Escherichia-Shigella gut composition and its potential role in the treatment of generalized anxiety disorder: A systematic review.|https://dx.doi.org/10.1016/j.jad.2024.03.088
 Outcomes after Fecal Microbiota Transplantation in combination with Bezlotoxumab for Inflammatory Bowel Disease and Recurrent C. difficile Infection.|https://dx.doi.org/10.14309/ajg.0000000000002770
+Management of Clostridioides difficile infection: Diagnosis, Treatment, and Future Perspectives.|https://dx.doi.org/10.1016/j.amjmed.2024.03.024
+In Vitro Activity of Dalbavancin and Fourteen Other Antimicrobial Agents Against Toxigenic Clostridioides Difficile Clinical Isolates in a Greek Tertiary-Care Hospital.|https://dx.doi.org/10.1159/000538414

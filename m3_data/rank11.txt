@@ -87,3 +87,10 @@ Fatal Community-Acquired Clostridioides difficile Infection as a Cause of Lister
 Synthesis of 1,2,3-triazole-piperazin-benzo[b][1,4]thiazine 1,1-dioxides: antibacterial, hemolytic and in silico TLR4 protein inhibitory activities.|https://dx.doi.org/10.1039/d3ra07509e
 Characterizing antibiotic prophylaxis practices in pediatric deformity spinal surgery and impact on 30-day postoperative infection: an NSQIP pediatric database study.|https://dx.doi.org/10.1007/s43390-024-00844-9
 Development of New PCR Protocols to Detect Genetic Diversity in the Metronidazole Metabolism Genes in Susceptible and Refractory Clinical Samples of Giardia duodenalis.|https://dx.doi.org/10.1007/s11686-024-00828-9
+Discovery of novel secondary metabolites from the basidiomycete Lentinus cf. sajor-caju and their inhibitory effects on Staphylococcus aureus biofilms.|https://dx.doi.org/10.1016/j.fitote.2024.105904
+Vancomycin powder in the prevention of infection in primary knee and hip arthroplasty: Case-control study with 1151 arthroplasties.|https://dx.doi.org/10.1016/j.recot.2024.03.007
+Characterization of Weissella Species during a 3-Year Observational Study - An Emerging Threat.|https://dx.doi.org/10.4269/ajtmh.23-0713
+Morbidity After Mechanical Bowel Preparation and Oral Antibiotics Prior to Rectal Resection: The MOBILE2 Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamasurg.2024.0184
+Genomic analysis of inter-hospital transmission of vancomycin-resistant Enterococcus faecium sequence type 80 isolated during an outbreak in Hiroshima, Japan.|https://dx.doi.org/10.1128/aac.01716-23
+Vancomycin heteroresistance caused by unstable tandem amplifications of the vanM gene cluster on linear conjugative plasmids in a clinical Enterococcus faecium.|https://dx.doi.org/10.1128/aac.01159-23
+Carbonic anhydrase and bacterial metabolism: a chance for antibacterial drug discovery.|https://dx.doi.org/10.1080/13543776.2024.2332663

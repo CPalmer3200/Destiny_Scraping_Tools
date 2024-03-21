@@ -17,3 +17,5 @@ Utility of methicillin-resistant Staphylococcus aureus nasal PCR testing in pedi
 Does organophosphorus poisoning increase the risk of staphylococcal ventilator associated pneumonia? - a retrospective study.|https://dx.doi.org/10.3855/jidc.18125
 Validation and shortcomings of the most common mouse model of chronic rhinosinusitis with nasal polyps.|https://dx.doi.org/10.4193/Rhin23.331
 The role of proteinaceous toxins secreted by Staphylococcus aureus in interbacterial competition.|https://dx.doi.org/10.1093/femsmc/xtae006
+Distribution of Staphylococcus aureus carriage among healthcare workers in a Japanese convalescent and rehabilitation hospital.|https://dx.doi.org/10.4265/jmc.29.1_33
+[Acute and chronic rhinosinusitis age characteristics].|https://dx.doi.org/10.17116/otorino20248901164

@@ -20,3 +20,6 @@ Bibliometric analysis of systematic review and meta-analysis on diabetic foot ul
 Extended-Spectrum Beta-Lactamase Escherichia coli Diabetic Foot Osteomyelitis Causing Sausage Toe Deformity: Successful Therapy with Ertapenem in the Outpatient Setting.|https://dx.doi.org/10.12659/AJCR.943092
 Do Patients With Insulin-Dependent and Non-Insulin-Dependent Diabetes Have Different Risks for Complications After Total Ankle Arthroplasty?|https://dx.doi.org/10.1177/10711007241235897
 The prevalence of gram-negative bacteria with difficult-to-treat resistance and utilization of novel β-lactam antibiotics in the southeastern United States.|https://dx.doi.org/10.1017/ash.2024.26
+Risk Factors and Frequency of Foot Ulceration in Patients Receiving Chronic Hemodialysis Treatment.|https://dx.doi.org/10.1097/ASW.0000000000000117
+Erratum: Correlation analysis between foot deformity and diabetic foot with radiographic measurement.|https://dx.doi.org/10.3389/fcdhc.2024.1392508
+Effectiveness of a Multidisciplinary Limb Preservation Program in Reducing Regional Hospitalization Rates for Patients With Diabetes-Related Foot Complications.|https://dx.doi.org/10.1177/15347346241238458

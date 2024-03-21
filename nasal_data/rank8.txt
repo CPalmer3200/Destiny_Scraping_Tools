@@ -322,3 +322,15 @@ Polymethylmethacrylate (PMMA) Augmentation Enhances the Mechanical Characteristi
 Do Patients With Insulin-Dependent and Non-Insulin-Dependent Diabetes Have Different Risks for Complications After Total Ankle Arthroplasty?|https://dx.doi.org/10.1177/10711007241235897
 Preliminary Experience With Commercially Available Trabecular Metal Tibial Cones Combined With a Retrograde Locked Intramedullary Nail for Bony Defects in Tibiotalocalcaneal Arthrodesis.|https://dx.doi.org/10.1177/19386400241236664
 Irritational Fibroma Mimicking an Odontogenic Infection: A Case Report of a Misdiagnosed Extraoral Fibroma.|https://dx.doi.org/10.7759/cureus.56311
+Transgastric drainage for subdiaphragmatic abscess secondary to perforation of the sigmoid colon after cytoreductive surgery for advanced ovarian cancer.|https://dx.doi.org/10.1136/bcr-2023-259172
+Can locking plate fixation and free Vascularised fibular transfer with skin island achieve good functional outcome in the treatment of large bone defects of Tibia ? A study of 26 cases.|https://dx.doi.org/10.1016/j.injury.2024.111465
+ECFS standards of care on CFTR-related disorders: Identification and care of the disorders.|https://dx.doi.org/10.1016/j.jcf.2024.03.008
+Transperineal or Transrectal Magnetic Resonance Imaging-targeted Biopsy for Prostate Cancer Detection.|https://dx.doi.org/10.1016/j.euf.2024.03.003
+Achieving fascial closure with preoperative botulinum toxin injections in abdominal wall reconstruction: outcomes from a high-volume center.|https://dx.doi.org/10.1007/s13304-024-01802-w
+Tunnel ultrasound can guide the use of peritoneal dialysis catheter exit site relocation by external splicing and cuff removal in refractory tunnel infection.|https://dx.doi.org/10.1007/s11255-024-04023-7
+High-intensity focused ultrasound with visually directed power adjustment for focal treatment of localized prostate cancer: systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00345-024-04840-6
+Identifying postoperative complications after inguinal hernia repair with a smartphone application: a comparative cohort study.|https://dx.doi.org/10.1007/s10029-024-03019-7
+Risk of infections related to endovascular catheters and cardiac implantable devices in hemodialysis patients.|https://dx.doi.org/10.1177/11297298241240502
+Morbidity After Mechanical Bowel Preparation and Oral Antibiotics Prior to Rectal Resection: The MOBILE2 Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamasurg.2024.0184
+Salvage of brachiocephalic aneurysmatic fistulas, using ePTFE graft with a minimally invasive approach.|https://dx.doi.org/10.1177/11297298241238783
+Preventing Surgical Site Infections in Geriatric Ankle Fracture Surgery with Closed-Incision Vacuum Therapy: A Pilot Study.|https://dx.doi.org/10.1097/ASW.0000000000000124

@@ -8,3 +8,4 @@ Rapid remission of severe impetigo herpetiformis following combined treatment wi
 Clinical impact and public health challenges of a PVL-MRSA bacteraemia outbreak amongst people who inject drugs in South Yorkshire, UK.|https://dx.doi.org/10.1099/acmi.0.000642.v3
 Clinical Impact of Vancomycin MIC on Outcomes in Patients With Coagulase-negative Staphylococcal Bacteremia.|https://dx.doi.org/10.1016/j.clinthera.2024.01.012
 [Clinical diagnosis and treatment of 14 cases of scar cancer ulcer wound on head and face].|https://dx.doi.org/10.7507/1002-1892.202312020
+Staphylococcus aureus Panton-Valentine Leukocidin worsens acute implant-associated osteomyelitis in humanized BRGSF mice.|https://dx.doi.org/10.1093/jbmrpl/ziad005

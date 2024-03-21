@@ -20,3 +20,5 @@ Dynamic insights into infection risk over time in two-stage implant-based breast
 Effect of hypothyroidism on short-term outcomes after autologous and implant-based breast reconstruction.|https://dx.doi.org/10.1007/s13304-024-01791-w
 In hospital outcomes of autologous and implant-based breast reconstruction in patients with chronic obstructive pulmonary disease.|https://dx.doi.org/10.1002/wjs.12139
 Breast Reconstruction Complications After Postmastectomy Proton Radiation Therapy for Breast Cancer.|https://dx.doi.org/10.1016/j.adro.2023.101385
+"DIEP Flap vs PAP Flap vs LAP Flap: A Propensity Matched Analysis of Aesthetic Outcomes, Complications, and Satisfaction".|https://dx.doi.org/10.1097/PRS.0000000000011405
+Predictors for anaemia, blood transfusion and outcome in plastic surgery patients.|https://dx.doi.org/10.1177/03000605241237720

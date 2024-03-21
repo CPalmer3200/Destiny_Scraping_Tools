@@ -373,3 +373,23 @@ Incidence of new-onset hypertension before, during, and after the COVID-19 pande
 Research highlight: Impact of COVID-19 Disease Control Committee (CDCC) policies on prevention of the disease using Bayes network inference in west of Iran.|https://dx.doi.org/10.1186/s12889-024-17901-7
 From test to rest: evaluating socioeconomic differences along the COVID-19 care pathway in the Netherlands.|https://dx.doi.org/10.1007/s10198-024-01680-4
 Confronting Health Misinformation Surrounding COVID-19 Vaccines in the State of Florida.|https://dx.doi.org/10.1007/s11606-024-08726-6
+Transformative vaccination: A pentavalent shield against COVID-19 and influenza with betulin-based adjuvant for enhanced immunity.|https://dx.doi.org/10.1016/j.vaccine.2023.11.057
+Long COVID in a highly vaccinated but largely unexposed Australian population following the 2022 SARS-CoV-2 Omicron wave: a cross-sectional survey.|https://dx.doi.org/10.5694/mja2.52256
+Monthly Analysis of Infant Mortality Rate in Portugal during the COVID-19 Pandemic: Insights from Continuous Monitoring.|https://dx.doi.org/10.20344/amp.19642
+The impact of COVID-19 on young people's mental health, wellbeing and routine from a European perspective: A co-produced qualitative systematic review.|https://dx.doi.org/10.1371/journal.pone.0299547
+Thrombophilia genetic mutations and their relation to disease severity among patients with COVID-19.|https://dx.doi.org/10.1371/journal.pone.0296668
+A survey of the allocation of scarce resources in Türkiye during the COVID-19 pandemic: Which criteria did healthcare professionals prioritize?|https://dx.doi.org/10.1111/dewb.12448
+Impact of COVID-19-related restricted family presence policies on Canadian pediatric intensive care unit clinicians: a qualitative study.|https://dx.doi.org/10.1007/s12630-024-02742-0
+The Impact of Elective Surgery Postponement during COVID-19 on Emergency Bellwether Procedures in a large tertiary centre in Singapore.|https://dx.doi.org/10.1093/intqhc/mzae022
+Exploring the Experiences of Patients with Autoimmune Skin Diseases During the COVID-19 Pandemic.|https://dx.doi.org/10.1097/ASW.0000000000000119
+Resurgence of human respiratory syncytial virus during COVID-19 pandemic in Southern Brazil.|https://dx.doi.org/10.1002/jmv.29551
+Rapid triage and transfer system for patients with proven Covid-19 at emergency department.|https://dx.doi.org/10.32725/jab.2024.006
+Control of SARS-CoV-2 infection in skilled nursing facilities in Detroit, Michigan: a model for emerging infectious diseases.|https://dx.doi.org/10.1017/ice.2024.35
+Real-world Effectiveness of mRNA COVID-19 Vaccines Among US Nursing Home Residents Aged ≥65 Years in the Pre-Delta and High Delta Periods.|https://dx.doi.org/10.1093/ofid/ofae051
+Ursodeoxycholic acid does not reduce SARS-CoV-2 infection in newly allogeneic hematopoietic stem cell transplantation recipients: a prospective NICHE cohort.|https://dx.doi.org/10.3389/fcimb.2024.1324019
+Impact of COVID-19 Pandemic on Routine Childhood Immunization Programs in Indonesia: Taking Rural and Urban Area into Account.|https://dx.doi.org/10.2147/PPA.S448901
+TVET programme and health-related quality of life among low-income populations during the COVID-19 pandemic in Malaysia.|https://dx.doi.org/10.3389/fpubh.2024.1164056
+Is psychological resilience associated with changes in youth sport participants' health-related quality of life during the COVID-19 pandemic?|https://dx.doi.org/10.2989/17280583.2023.2277759
+COVID-19 Pandemic-Related Stress and Subjective Well-Being Across Age: The Mediating Role of Social Resources.|https://dx.doi.org/10.1177/00914150241240122
+A retrospective cohort study on early antibiotic use in vaccinated and unvaccinated COVID-19 patients.|https://dx.doi.org/10.1002/jmv.29507
+Differences in Cesarean Rates for Nulliparous, Term, Singleton, Vertex Births Among Racial and Ethnic Groups and States Before and After Stay-at-Home Orders During the COVID-19 Pandemic, United States, 2017-2021.|https://dx.doi.org/10.1177/00333549241236629
