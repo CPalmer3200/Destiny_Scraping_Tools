@@ -94,3 +94,15 @@ Morbidity After Mechanical Bowel Preparation and Oral Antibiotics Prior to Recta
 Genomic analysis of inter-hospital transmission of vancomycin-resistant Enterococcus faecium sequence type 80 isolated during an outbreak in Hiroshima, Japan.|https://dx.doi.org/10.1128/aac.01716-23
 Vancomycin heteroresistance caused by unstable tandem amplifications of the vanM gene cluster on linear conjugative plasmids in a clinical Enterococcus faecium.|https://dx.doi.org/10.1128/aac.01159-23
 Carbonic anhydrase and bacterial metabolism: a chance for antibacterial drug discovery.|https://dx.doi.org/10.1080/13543776.2024.2332663
+Exploring the potential of bis(thiazol-5-yl)phenylmethane derivatives as novel candidates against genetically defined multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.pone.0300380
+A decade of neonatal sepsis in Stockholm, Sweden: Gram-positive pathogens were four times as common as Gram-negatives.|https://dx.doi.org/10.1007/s10096-024-04809-8
+Whole genome sequencing and molecular epidemiology of methicillin-resistant Staphylococcus aureus isolated from patients with bacteraemia in Slovenia.|https://dx.doi.org/10.1007/s10096-024-04802-1
+Epidemiology and outcomes associated with enterococcal blood stream infection among liver and kidney transplant recipients.|https://dx.doi.org/10.1111/ctr.15285
+Application of tobramycin benzyl ether as an antibiotic adjuvant capable of sensitizing multidrug-resistant Gram-negative bacteria to rifampicin.|https://dx.doi.org/10.1039/d3md00602f
+Whipple's Disease Presenting With a Chief Complaint of Dyspnea and Cough From Pulmonary Invasion Without Evidence of Gastrointestinal Involvement.|https://dx.doi.org/10.7759/cureus.54554
+Antimicrobial treatment in invasive infections caused by Gordonia bronchialis: systematic review.|https://dx.doi.org/10.3389/fmed.2024.1333663
+Comparative Evaluation of Push-out Bond Strength of Conventional Mineral Trioxide Aggregate, Biodentine, and Two Novel Antibacterial-enhanced Mineral Trioxide Aggregates.|https://dx.doi.org/10.5005/jp-journals-10024-3638
+The effect of topical vancomycin powder application on the rate of intervertebral fusion following lumbar fusion:a retrospective study.|https://dx.doi.org/10.1016/j.wneu.2024.03.059
+Leonurine alleviates vancomycin nephrotoxicity via activating PPARγ and inhibiting the TLR4/NF-κB/TNF-α pathway.|https://dx.doi.org/10.1016/j.intimp.2024.111898
+Mutasynthesis generates nine new pyrroindomycins.|https://dx.doi.org/10.1039/d4ob00239c
+Association between trough serum vancomycin concentration and vancomycin-associated acute kidney injury and 30-day mortality in critically ill elderly adults.|https://dx.doi.org/10.1186/s12879-024-09227-x

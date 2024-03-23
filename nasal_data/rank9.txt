@@ -330,3 +330,18 @@ Relish involved in immunity and larval survival in the willow leaf beetle Plagio
 Contemporary Management of Staphylococcus aureus Bacteremia: Some Additional Considerations for Clinicians.|https://dx.doi.org/10.1093/cid/ciae080
 Gastrodinol derivatives and prenylated flavones from the flower branch of Gastrodia elata.|https://dx.doi.org/10.1007/s13659-024-00430-6
 Chemodiversity essential oil from three species of Croton (Euphorbiaceae) and assessment of antimicrobial potential.|https://dx.doi.org/10.1080/14786419.2024.2331025
+Features of apoptotic and proliferative processes in experimental infected radiation-induced skin ulcer under conditions of photodynamic therapy and the use of platelet-rich plasma.|https://dx.doi.org/10.36740/Merkur202401109
+Exploring the potential of bis(thiazol-5-yl)phenylmethane derivatives as novel candidates against genetically defined multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.pone.0300380
+Improving the Composition and Bioactivity of Cocoa (Theobroma cacao L.) Bean Shell Extract by Choline Chloride-Lactic Acid Natural Deep Eutectic Solvent Extraction Assisted by Pulsed Electric Field Pre-Treatment.|https://dx.doi.org/10.1007/s11130-024-01163-0
+A decade of neonatal sepsis in Stockholm, Sweden: Gram-positive pathogens were four times as common as Gram-negatives.|https://dx.doi.org/10.1007/s10096-024-04809-8
+Whole genome sequencing and molecular epidemiology of methicillin-resistant Staphylococcus aureus isolated from patients with bacteraemia in Slovenia.|https://dx.doi.org/10.1007/s10096-024-04802-1
+Investigating the cause of increased tetracycline-resistant Neisseria gonorrhoeae in England, 2016-20.|https://dx.doi.org/10.1093/jac/dkae073
+Optimization and Validation of an FTIR-based, All-in-one System for Viable MDR Bacteria Detection in Combat-related Wound Infection.|https://dx.doi.org/10.1093/milmed/usae068
+Association between Gut Microbiota and Inflammation: Mediation Analysis Using Waist Circumference.|https://dx.doi.org/10.1089/jir.2024.0020
+Synthesis and structure-activity relationship of novel thiazole aminoguanidines against MRSA and Escherichia coli.|https://dx.doi.org/10.1039/d4md00017j
+Antibiotic resistance of ESKAPE group-microorganisms in health institutions from Hermosillo and Ciudad Obregón, Sonora, México.|https://dx.doi.org/10.3389/fcimb.2024.1348093
+The changing epidemiology of antimicrobial resistance in Fiji: a descriptive analysis of antimicrobial susceptibility and trends of endemic and emerging pathogens, 2019-2022.|https://dx.doi.org/10.1016/j.lanwpc.2024.101036
+Insights into the diversity and survival strategies of soil bacterial isolates from the Atacama Desert.|https://dx.doi.org/10.3389/fmicb.2024.1335989
+Chemical Profiling and Biological Activities on Nepalese Medicinal Plant Extracts and Isolation of Active Fraction of Nyctanthes arbor-tristis.|https://dx.doi.org/10.1155/2024/5080176
+Dual elemental doping activated signaling pathway of angiogenesis and defective heterojunction engineering for effective therapy of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2024.03.011
+Emergence and clonal expansion of a qacA-harbouring sequence type 45 lineage of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s42003-024-06012-z

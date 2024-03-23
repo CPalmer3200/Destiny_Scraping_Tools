@@ -5,3 +5,4 @@ Staphylococcal superantigen-like protein 3 triggers murine mast cell adhesion by
 Effect of weekly vitamin D supplementation on the severity of atopic dermatitis and type 2 immunity biomarkers in children: A randomized controlled trial.|https://dx.doi.org/10.1111/jdv.19959
 Chiral phthalimides against penicillin-binding protein 2a of methicillin-resistant Staphylococcus aureus: molecular docking and in vitro analysis.|https://dx.doi.org/10.3389/fphar.2024.1293458
 Differentiation of keratinocytes or exposure to type 2 cytokines diminishes S. aureus internalization.|https://dx.doi.org/10.1128/msphere.00685-23
+Optimization and Validation of an FTIR-based, All-in-one System for Viable MDR Bacteria Detection in Combat-related Wound Infection.|https://dx.doi.org/10.1093/milmed/usae068

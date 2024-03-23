@@ -30,3 +30,5 @@ Antibacterial adhesive based on oxidized tannic acid-chitosan for rapid hemostas
 Wound Dressing Based on Silver Nanoparticle Embedded Wool Keratin Electrospun Nanofibers Deposited on Cotton Fabric: Preparation, Characterization, Antimicrobial Activity, and Cytocompatibility.|https://dx.doi.org/10.1021/acsabm.3c01111
 Ultrasensitive Nanofiber Biosensor: Rapid In Situ Chromatic Detection of Bacteria for Healthcare Innovation.|https://dx.doi.org/10.1021/acsabm.4c00038
 Polysaccharide hydrogel containing silver nanoparticle@catechol microspheres with photothermal, antibacterial and anti-inflammatory activities for infected-wounds repair.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130898
+GO/AgNW aided sustained release of ciprofloxacin loaded in Starch/PVA nanocomposite mats for wound dressings application.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130977
+Modified in-vitro AATCC-100 procedure to measure viable bacteria from wound dressings.|https://dx.doi.org/10.1371/journal.pone.0298829

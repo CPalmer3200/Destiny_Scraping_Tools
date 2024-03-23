@@ -205,3 +205,23 @@ Clinical outcomes in patients with neurological disorders following periacetabul
 Chest wall resections for sulcus superior tumors.|https://dx.doi.org/10.21037/jtd-23-828
 Analysis of the Federal Section 317 Immunization Program and Routine Adult Immunization Activities, United States, 2022-2023.|https://dx.doi.org/10.1177/00333549241236085
 Safety and Feasibility of Photodynamic Therapy for Percutaneous Image-guided Abdominopelvic Abscess Drainage: Phase 1 Trial.|https://dx.doi.org/10.1148/radiol.232667
+Care of the Pediatric Patient for Ambulatory Tonsillectomy With or Without Adenoidectomy: The Society for Ambulatory Anesthesia Position Statement.|https://dx.doi.org/10.1213/ANE.0000000000006645
+Implant retention in a rabbit model of fracture-related infection.|https://dx.doi.org/10.1302/2046-3758.133.BJR-2023-0077.R2
+Bacterial etiology of community-acquired pneumonia among adult patients in Ethiopia: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.heliyon.2024.e28008
+Laparoscopic vs. Open Approach in Emergent Inguinal Hernia: Our Experience and Review of Literature.|https://dx.doi.org/10.3389/jaws.2023.11242
+Tailored vocational rehabilitation for people with a work disability pension in The Netherlands; an in-depth data analysis of the content and outcomes of vocational rehabilitation trajectories of the Social Security Institute.|https://dx.doi.org/10.1080/09638288.2024.2328335
+Nurses' use of 'wellness' supplements during the COVID-19 pandemic in the United States.|https://dx.doi.org/10.1111/jan.16162
+Zika virus prevention behaviors and knowledge among male partners of pregnant people and lack of condom use as a prevention behavior from the Zika en Embarazadas y Niños (ZEN) prospective cohort study, Colombia.|https://dx.doi.org/10.1186/s13104-024-06702-1
+Reducing Alcohol Use to Prevent Cancer Deaths: Estimated Effects Among U.S. Adults.|https://dx.doi.org/10.1016/j.amepre.2023.12.003
+Postpartum Necrotizing Myositis With Endometrial Prolapse.|https://dx.doi.org/10.1097/AOG.0000000000005556
+Racial and Ethnic Minority Patients Have Increased Complication Risks When Undergoing Surgery While Not Meeting Clinical Guidelines.|https://dx.doi.org/10.2106/JBJS.23.00706
+Surgical site infection following cesarean section and its predictors in Ethiopia: A systematic review and meta-analysis.|https://dx.doi.org/10.1371/journal.pone.0296767
+Surveillance for Coccidioidomycosis, Histoplasmosis, and Blastomycosis During the COVID-19 Pandemic - United States, 2019-2021.|https://dx.doi.org/10.15585/mmwr.mm7311a2
+Influence of urinary tract infections on the incidence of surgical site infections following hip fracture surgery: A systematic review and meta-analysis.|https://dx.doi.org/10.1111/iwj.14823
+Adverse Effects of Deep Brain Stimulation for Treatment-Resistant Depression: A Scoping Review.|https://dx.doi.org/10.1227/neu.0000000000002910
+Preoperative antibiotics reduce early surgical site infections after orthopaedic implant removal: a propensity-matched cohort study.|https://dx.doi.org/10.1016/j.jhin.2023.10.013
+Reducing Sternal Wound Infection Rates in Patients Undergoing Cardiothoracic Surgery with Sternotomy.|https://dx.doi.org/10.1097/01.NAJ.0001010588.95227.5d
+Developing Crowdsourced Clinical Registry Studies.|https://dx.doi.org/10.1097/01.NAJ.0001010572.96486.87
+The kinetics of Torque Teno virus plasma load following calcineurin inhibitor dose change in kidney transplant recipients.|https://dx.doi.org/10.1002/jmv.29554
+Utilization of broad- versus narrow-spectrum antibiotics for the treatment of outpatient community-acquired pneumonia among adults in the United States.|https://dx.doi.org/10.1002/pds.5779
+Fit for Health? Levels of Physical Activity Among Preclinical and Clinical Medical Students.|https://dx.doi.org/10.1177/15598276231161501

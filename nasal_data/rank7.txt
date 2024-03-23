@@ -393,3 +393,23 @@ Is psychological resilience associated with changes in youth sport participants'
 COVID-19 Pandemic-Related Stress and Subjective Well-Being Across Age: The Mediating Role of Social Resources.|https://dx.doi.org/10.1177/00914150241240122
 A retrospective cohort study on early antibiotic use in vaccinated and unvaccinated COVID-19 patients.|https://dx.doi.org/10.1002/jmv.29507
 Differences in Cesarean Rates for Nulliparous, Term, Singleton, Vertex Births Among Racial and Ethnic Groups and States Before and After Stay-at-Home Orders During the COVID-19 Pandemic, United States, 2017-2021.|https://dx.doi.org/10.1177/00333549241236629
+Long COVID's Impact on Patients, Workers, & Society: A review.|https://dx.doi.org/10.1097/MD.0000000000037502
+Risk prediction for severe COVID-19 progressing to critical illness and death in the ICU and efficacy analysis of using traditional Chinese medicine.|https://dx.doi.org/10.1097/MD.0000000000037498
+The seroepidemiology of immunoglobulin G antibodies against pertussis toxin and filamentous hemagglutinin in the east of China during the COVID-19 pandemic.|https://dx.doi.org/10.1080/21645515.2024.2331438
+Heparin-binding protein levels predict unfavorable outcome in COVID-19 pneumonia: A post-hoc analysis of the SAVE trial.|https://dx.doi.org/10.1097/SHK.0000000000002315
+Impact of COVID-19 vaccination status on hospitalization and disease severity: A descriptive study in Nagasaki Prefecture, Japan.|https://dx.doi.org/10.1080/21645515.2024.2322795
+High pre-Delta and early-Omicron SARS-CoV-2 seroprevalence detected in dried blood samples from Kinshasa (D.R. Congo).|https://dx.doi.org/10.1002/jmv.29529
+Use of Inhaled Epoprostenol in Patients With COVID-19 Receiving Humidified, High-Flow Nasal Oxygen Is Associated With Progressive Respiratory Failure.|https://dx.doi.org/10.1016/j.chstcc.2023.100019
+Environmental surveillance of SARS-CoV-2 for COVID-19 outbreak detection in hospital: a single-centre prospective study.|https://dx.doi.org/10.1016/j.infpip.2024.100353
+Suicidal ideation, perception of personal safety, and career regret among emergency medicine residents during the COVID-19 pandemic.|https://dx.doi.org/10.1002/aet2.10955
+Health and illness beliefs in adults with tuberculosis infection during the COVID-19 pandemic in the UK.|https://dx.doi.org/10.1016/j.dialog.2023.100162
+Early treatment with fluvoxamine, bromhexine, cyproheptadine, and niclosamide to prevent clinical deterioration in patients with symptomatic COVID-19: a randomized clinical trial.|https://dx.doi.org/10.1016/j.eclinm.2024.102517
+The collateral damage of the COVID-19 pandemic on homeless people in the Netherlands; a qualitative study on the impact of health and care.|https://dx.doi.org/10.3389/fmed.2024.1305834
+Corrigendum to "The influence of the COVID-19 pandemic on identifying HIV/AIDS cases in China: an interrupted time series study" [The Lancet Regional Health - Western Pacific 36 (2023) 100755].|https://dx.doi.org/10.1016/j.lanwpc.2023.100995
+Understanding the impacts of COVID-19 pandemic on mental health and well-being among university students in Dhaka, Bangladesh: A nested mixed-methods study.|https://dx.doi.org/10.1016/j.heliyon.2024.e27588
+Public perception on active aging after COVID-19: an unsupervised machine learning analysis of 44,343 posts.|https://dx.doi.org/10.3389/fpubh.2024.1329704
+COVID-19 and worker mental distress.|https://dx.doi.org/10.1093/pubmed/fdae032
+Water, soap, and hand-disinfectant exposure during the COVID-19 pandemic and self-reported hand eczema in frontline workers: A cross-sectional study.|https://dx.doi.org/10.1111/cod.14540
+Characteristics of infections with ancestral, Beta and Delta variants of SARS-CoV-2 in the PHIRST-C community cohort study, South Africa, 2020-2021.|https://dx.doi.org/10.1186/s12879-024-09209-z
+How does the SARS-CoV-2 reinfection rate change over time? The global evidence from systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09225-z
+Identification of FasL as a crucial host factor driving COVID-19 pathology and lethality.|https://dx.doi.org/10.1038/s41418-024-01278-6

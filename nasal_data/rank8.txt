@@ -334,3 +334,21 @@ Risk of infections related to endovascular catheters and cardiac implantable dev
 Morbidity After Mechanical Bowel Preparation and Oral Antibiotics Prior to Rectal Resection: The MOBILE2 Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamasurg.2024.0184
 Salvage of brachiocephalic aneurysmatic fistulas, using ePTFE graft with a minimally invasive approach.|https://dx.doi.org/10.1177/11297298241238783
 Preventing Surgical Site Infections in Geriatric Ankle Fracture Surgery with Closed-Incision Vacuum Therapy: A Pilot Study.|https://dx.doi.org/10.1097/ASW.0000000000000124
+Robotic-assisted total knee arthroplasty results in decreased incidence of anterior femoral notching compared to posterior referenced instrumented total knee arthroplasty.|https://dx.doi.org/10.1177/10225536241241122
+The Effect of Preoperative Chlorhexidine Gluconate Cleanse on Lower Extremity Surgical Site Infections: A Retrospective Cohort Study.|https://dx.doi.org/10.1097/DSS.0000000000004169
+The effect of hyperbaric oxygen therapy on hematological indices and biochemical parameters in patients with diabetic foot.|https://dx.doi.org/10.1097/MD.0000000000037493
+A case of deep neck abscess treated with a disposable VSD wound care device: Case report and review of literature.|https://dx.doi.org/10.1097/MD.0000000000037397
+Efficacy and Safety of Anhydrous Ethanol-Assisted Endoscopic Ultrasound-Guided Transluminal Necrosectomy in Infected Necrotizing Pancreatitis.|https://dx.doi.org/10.1007/s10620-024-08389-7
+Extreme Case of Surgical Port Metastasis in Ovarian Cancer.|https://dx.doi.org/10.46883/2024.25921015
+Outcomes of open reduction and internal fixation of calcaneus fractures: A database study comparing patients with and without diabetes.|https://dx.doi.org/10.1111/wrr.13169
+Lactococcus garvieae-associated septicemia in a central bearded dragon.|https://dx.doi.org/10.1177/10406387241239912
+Stereo-electroencephalographic seizure localization in patients with mesial temporal sclerosis: A single center experience.|https://dx.doi.org/10.1016/j.cnp.2024.02.002
+Case Report: Bacterial meningitis due to cerebrospinal fluid leakage following unilateral biportal endoscopic spinal surgery: a cautionary tale.|https://dx.doi.org/10.3389/fsurg.2024.1301905
+Adjunctive dorsal spanning plate fixation for challenging distal radius injuries.|https://dx.doi.org/10.1016/j.jor.2024.03.003
+Should We Use Rifampicin in Periprosthetic Joint Infections Caused by Staphylococci When the Implant Has Been Exchanged? A Multicenter Observational Cohort Study.|https://dx.doi.org/10.1093/ofid/ofae075
+Thighplasty at the Time of Stage-1 Bone-Anchored Osseointegration Surgery.|https://dx.doi.org/10.2106/JBJS.ST.23.00004
+The Predictive Value of a Modified Frailty Index on Perioperative Morbidity and Mortality Following Otologic Surgery.|https://dx.doi.org/10.1097/ONO.0000000000000029
+Management of autoimmune hepatitis induced by hepatitis delta virus.|https://dx.doi.org/10.3748/wjg.v30.i8.799
+Spontaneous bilateral superficial femoral artery pseudoaneurysms and a unilateral posterior tibial artery aneurysm in an immunocompromised patient.|https://dx.doi.org/10.1002/ccr3.8686
+From pandemic to endemic: Divergence of COVID-19 positive-tests and hospitalization numbers from SARS-CoV-2 RNA levels in wastewater of Rochester, Minnesota.|https://dx.doi.org/10.1016/j.heliyon.2024.e27974
+Delayed Surgical Treatment of a CE1 Lung Cyst Resulting in Pericystectomy of CE4 Cyst.|https://dx.doi.org/10.1155/2024/5167805

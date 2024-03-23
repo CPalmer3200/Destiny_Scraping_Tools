@@ -34,3 +34,7 @@ Adoption of AI in Oncological Imaging: Ethical, Regulatory, and Medical-Legal Ch
 Artificial Intelligence in Lung Cancer Imaging: From Data to Therapy.|https://dx.doi.org/10.1615/CritRevOncog.2023050439
 Non-celiac Enteropathy and Olmesartan: An Essential Consideration.|https://dx.doi.org/10.7759/cureus.54373
 Exploring diverse programmed cell-death patterns to develop a novel gene signature for predicting the prognosis of lung adenocarcinoma patients.|https://dx.doi.org/10.21037/jtd-23-1275
+Evaluation of Differences in Patellar Height After Patellar Stabilization Procedures Not Intended to Address Patella Alta: A Multicenter Study.|https://dx.doi.org/10.1177/23259671241235597
+Effect of preservation of Hoffa's fat pad on patellar height in primary total knee arthroplasty procedures.|https://dx.doi.org/10.1007/s00590-024-03880-3
+Detection of Enteropathogens in Human Immunodeficiency Virus and Non-Human Immunodeficiency Virus-Infected Children with Acute Diarrhea in an Indonesian Tertiary Hospital Using Multiplex Real-Time Polymerase Chain Reaction.|https://dx.doi.org/10.5223/pghn.2024.27.2.95
+Exploring osteochondral damage patterns in acute patellar dislocation: insights into morphological associations and risk factors.|https://dx.doi.org/10.1038/s41598-024-57363-w

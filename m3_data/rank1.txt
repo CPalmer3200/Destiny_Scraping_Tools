@@ -5,3 +5,5 @@ Fecal microbiota transplant on Escherichia-Shigella gut composition and its pote
 Outcomes after Fecal Microbiota Transplantation in combination with Bezlotoxumab for Inflammatory Bowel Disease and Recurrent C. difficile Infection.|https://dx.doi.org/10.14309/ajg.0000000000002770
 Management of Clostridioides difficile infection: Diagnosis, Treatment, and Future Perspectives.|https://dx.doi.org/10.1016/j.amjmed.2024.03.024
 In Vitro Activity of Dalbavancin and Fourteen Other Antimicrobial Agents Against Toxigenic Clostridioides Difficile Clinical Isolates in a Greek Tertiary-Care Hospital.|https://dx.doi.org/10.1159/000538414
+Systemic neutrophil degranulation and emergency granulopoiesis in patients with Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.anaerobe.2024.102840
+Enhancing bezlotoxumab binding to C. difficile toxin B2: insights from computational simulations and mutational analyses for antibody design.|https://dx.doi.org/10.1080/07391102.2024.2329785
