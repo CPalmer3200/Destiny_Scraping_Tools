@@ -352,3 +352,21 @@ Management of autoimmune hepatitis induced by hepatitis delta virus.|https://dx.
 Spontaneous bilateral superficial femoral artery pseudoaneurysms and a unilateral posterior tibial artery aneurysm in an immunocompromised patient.|https://dx.doi.org/10.1002/ccr3.8686
 From pandemic to endemic: Divergence of COVID-19 positive-tests and hospitalization numbers from SARS-CoV-2 RNA levels in wastewater of Rochester, Minnesota.|https://dx.doi.org/10.1016/j.heliyon.2024.e27974
 Delayed Surgical Treatment of a CE1 Lung Cyst Resulting in Pericystectomy of CE4 Cyst.|https://dx.doi.org/10.1155/2024/5167805
+The impact of middle meatal steroid-eluting implants on the postoperative outcomes of chronic rhinosinusitis: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.anorl.2024.02.014
+Sex differences, and outcomes in surgical Infective Endocarditis.|https://dx.doi.org/10.1093/ejcts/ezae114
+Quantification of ventricular stress in univentricular hearts during early childhood using age-independent zlog-NT-proBNP.|https://dx.doi.org/10.1016/j.ijcard.2024.131983
+Braided silk sutures coated with photoreduced silver nanoparticles for eradicating Staphylococcus aureus and Streptococcus mutans infections.|https://dx.doi.org/10.1016/j.mimet.2024.106923
+Judicious use of corticosteroid injections prior to shoulder arthroplasty does not compromise outcomes at a minimum of 2-year following surgery.|https://dx.doi.org/10.1016/j.jse.2024.03.006
+Genetic testing in kidney transplantation helped develop a morbidity gene panel for evaluation of kidney transplant recipients.|https://dx.doi.org/10.1016/j.kint.2024.02.021
+Minimum 2-Year Outcomes Of A Modern Monoblock Titanium Fluted Tapered Revision Stem For Complex Primary and Revision Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.03.035
+Risk factors for post-extraction infection of mandibular third molar: A retrospective clinical study.|https://dx.doi.org/10.1016/j.jormas.2024.101841
+Focal resurfacing of the knee - A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.knee.2024.02.013
+Left ventricular assist device temporary explantation as a strategy for infection control in a pediatric patient.|https://dx.doi.org/10.1007/s10047-024-01432-4
+Does local fat thickness correlate with post-operative infection in open reduction and internal fixation of acetabulum fractures?|https://dx.doi.org/10.1007/s00590-024-03892-z
+Research progress of robot and laparoscope in postoperative complications of rectal cancer.|https://dx.doi.org/10.1007/s11701-024-01872-3
+Surgical Management of Diabetic Foot Burns is Associated with Poor Outcomes: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1093/jbcr/irae051
+Early post-operative lactate increase following kidney transplant is associated with delayed graft function: A retrospective cohort study.|https://dx.doi.org/10.1111/ctr.15288
+Early Discharge after Enhanced Recovery Colectomy Does Not Increase Emergency Department Visits and Readmissions: A Single Institution Analysis.|https://dx.doi.org/10.1177/00031348241241653
+Wound Healing and Cosmetic Outcomes in Neonatal Circumcision Using Three Different Techniques.|https://dx.doi.org/10.4103/ajps.ajps_13_23
+Intraocular Parafilaria bovicola infection and surgical removal in a mixed breed heifer.|https://dx.doi.org/10.1111/vop.13211
+Small bites versus large bites during fascial closure of midline laparotomies: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00423-024-03293-0

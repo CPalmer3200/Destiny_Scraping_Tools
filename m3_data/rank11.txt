@@ -106,3 +106,7 @@ The effect of topical vancomycin powder application on the rate of intervertebra
 Leonurine alleviates vancomycin nephrotoxicity via activating PPARγ and inhibiting the TLR4/NF-κB/TNF-α pathway.|https://dx.doi.org/10.1016/j.intimp.2024.111898
 Mutasynthesis generates nine new pyrroindomycins.|https://dx.doi.org/10.1039/d4ob00239c
 Association between trough serum vancomycin concentration and vancomycin-associated acute kidney injury and 30-day mortality in critically ill elderly adults.|https://dx.doi.org/10.1186/s12879-024-09227-x
+Synthesis of new trypanocidal agents from the hybridisation of metronidazole and eugenol analogues.|https://dx.doi.org/10.1016/j.bioorg.2024.107288
+Rapid detection of major enterotoxin genes and antibiotic resistance of Staphylococcus aureus isolated from raw milk in the Yazd province, Iran.|https://dx.doi.org/10.1002/vms3.1407
+Concentration dependent exposure of vancomycin and teicoplanin induces vanG regulon in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijmmb.2024.100563
+Discovery of Gambogic acid as an antibacterial adjuvant against vancomycin-resistant enterococci in vitro and in vivo.|https://dx.doi.org/10.1016/j.phymed.2024.155400

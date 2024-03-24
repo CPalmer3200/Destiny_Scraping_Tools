@@ -225,3 +225,7 @@ Developing Crowdsourced Clinical Registry Studies.|https://dx.doi.org/10.1097/01
 The kinetics of Torque Teno virus plasma load following calcineurin inhibitor dose change in kidney transplant recipients.|https://dx.doi.org/10.1002/jmv.29554
 Utilization of broad- versus narrow-spectrum antibiotics for the treatment of outpatient community-acquired pneumonia among adults in the United States.|https://dx.doi.org/10.1002/pds.5779
 Fit for Health? Levels of Physical Activity Among Preclinical and Clinical Medical Students.|https://dx.doi.org/10.1177/15598276231161501
+Prolonged interval to surgery following neoadjuvant chemoradiotherapy in locally advanced rectal cancer: A meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1016/j.surge.2024.03.001
+Who are vaccine champions and what implementation strategies do they use to improve adolescent HPV vaccination? Findings from a national survey of primary care professionals.|https://dx.doi.org/10.1186/s43058-024-00557-0
+Assessing the potential for improved predictive capacity of antimicrobial resistance in outpatient Staphylococcus aureus isolates using seasonal and spatial antibiograms.|https://dx.doi.org/10.1186/s13756-024-01388-3
+Standards for fecal microbiota transplant: Tools and therapeutic advances.|https://dx.doi.org/10.1016/j.biologicals.2024.101758

@@ -7,3 +7,4 @@ Management of Clostridioides difficile infection: Diagnosis, Treatment, and Futu
 In Vitro Activity of Dalbavancin and Fourteen Other Antimicrobial Agents Against Toxigenic Clostridioides Difficile Clinical Isolates in a Greek Tertiary-Care Hospital.|https://dx.doi.org/10.1159/000538414
 Systemic neutrophil degranulation and emergency granulopoiesis in patients with Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.anaerobe.2024.102840
 Enhancing bezlotoxumab binding to C. difficile toxin B2: insights from computational simulations and mutational analyses for antibody design.|https://dx.doi.org/10.1080/07391102.2024.2329785
+Standards for fecal microbiota transplant: Tools and therapeutic advances.|https://dx.doi.org/10.1016/j.biologicals.2024.101758

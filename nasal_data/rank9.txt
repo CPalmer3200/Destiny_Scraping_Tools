@@ -345,3 +345,17 @@ Insights into the diversity and survival strategies of soil bacterial isolates f
 Chemical Profiling and Biological Activities on Nepalese Medicinal Plant Extracts and Isolation of Active Fraction of Nyctanthes arbor-tristis.|https://dx.doi.org/10.1155/2024/5080176
 Dual elemental doping activated signaling pathway of angiogenesis and defective heterojunction engineering for effective therapy of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2024.03.011
 Emergence and clonal expansion of a qacA-harbouring sequence type 45 lineage of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s42003-024-06012-z
+Discovery of novel dihydronaphthalene-imidazole ligands as potential inhibitors of Staphylococcus aureus multidrug resistant NorA efflux pump: A combination of experimental and in silico molecular docking studies.|https://dx.doi.org/10.1016/j.micpath.2024.106627
+Construction of Ag/CdZnS QDs nanocomposite for enhanced visible light photoinactivation of Staphylococcus aureus.|https://dx.doi.org/10.1016/j.envpol.2024.123749
+A novel C-type lectin protein (BjCTL5) interacts with apoptosis stimulating proteins of p53 (ASPP) to activate NF-κB signaling pathway in primitive chordate.|https://dx.doi.org/10.1016/j.dci.2024.105166
+Zinc caproate: Ecofriendly synthesis, structural characterization, and antibacterial action.|https://dx.doi.org/10.1016/j.ijpharm.2024.124030
+1,25 DIHYDROXYVITAMIN D(3)-MEDIATED EFFECTS ON BOVINE INNATE IMMUNITY AND ON BIOFILM-FORMING Staphylococcus spp. ISOLATED FROM CATTLE WITH MASTITIS.|https://dx.doi.org/10.1016/j.jsbmb.2024.106508
+Lactobacillus bulgaricus-loaded and chia mucilage-rich gum arabic/pullulan nanofiber film: An effective antibacterial film for the preservation of fresh beef.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131000
+Alkaline protease functionalized hydrothermal synthesis of novel gold nanoparticles (ALPs-AuNPs): A new entry in photocatalytic and biological applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131067
+Study on synergistic mechanism of molybdenum disulfide/sodium carboxymethyl cellulose composite nanofiber mats for photothermal/photodynamic antibacterial treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130838
+A novel modified polydopamine based on melanin-like materials for antibacterial, hydrophobic, and ultraviolet protective of textiles.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130983
+Poly-(lactic acid) composite films comprising carvacrol and cellulose nanocrystal-zinc oxide with synergistic antibacterial effects.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130937
+Improving osseointegration and antimicrobial properties of titanium implants with black phosphorus nanosheets-hydroxyapatite composite coatings for vascularized bone regeneration.|https://dx.doi.org/10.1002/jbm.b.35403
+Deciphering the dynamics of methicillin-resistant Staphylococcus aureus biofilm formation: from molecular signaling to nanotherapeutic advances.|https://dx.doi.org/10.1186/s12964-024-01511-2
+Rapid detection of major enterotoxin genes and antibiotic resistance of Staphylococcus aureus isolated from raw milk in the Yazd province, Iran.|https://dx.doi.org/10.1002/vms3.1407
+Modulating the antibacterial effect of the existing antibiotics along with repurposing drug metformin.|https://dx.doi.org/10.1007/s00203-024-03917-5

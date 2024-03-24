@@ -12,3 +12,4 @@ Effect of Polyphenols on Inflammation Induced by Membrane Vesicles from Staphylo
 KGRT peptide incorporated hydrogel with antibacterial activity for wound healing by optimizing cellular functions via ERK/eNOS signaling.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130781
 Risk of infections related to endovascular catheters and cardiac implantable devices in hemodialysis patients.|https://dx.doi.org/10.1177/11297298241240502
 Profiling of Petroselinum sativum (mill.) fuss phytoconstituents and assessment of their biocompatibility, antioxidant, anti-aging, wound healing, and antibacterial activities.|https://dx.doi.org/10.3389/fnut.2024.1338482
+An NIR-II-Enhanced Nanozyme to Promote Wound Healing in Methicillin-resistant Staphylococcus Aureus Infections.|https://dx.doi.org/10.1016/j.actbio.2024.03.014

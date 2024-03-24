@@ -413,3 +413,19 @@ Water, soap, and hand-disinfectant exposure during the COVID-19 pandemic and sel
 Characteristics of infections with ancestral, Beta and Delta variants of SARS-CoV-2 in the PHIRST-C community cohort study, South Africa, 2020-2021.|https://dx.doi.org/10.1186/s12879-024-09209-z
 How does the SARS-CoV-2 reinfection rate change over time? The global evidence from systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09225-z
 Identification of FasL as a crucial host factor driving COVID-19 pathology and lethality.|https://dx.doi.org/10.1038/s41418-024-01278-6
+Multidisciplinary Consensus on the Management of Non-Invasive Respiratory Support in the COVID-19 Patient.|https://dx.doi.org/10.1016/j.arbres.2024.02.017
+Rapid response to a COVID-19 outbreak at a nightclub in Kagoshima prefecture, Japan, in the early phase of the COVID-19 pandemic, June and July 2020: A descriptive epidemiological study.|https://dx.doi.org/10.1016/j.jiac.2024.03.014
+Joint analysis of vaccination effectiveness and antiviral drug effectiveness for COVID-19: a causal inference approach.|https://dx.doi.org/10.1016/j.ijid.2024.107012
+Clinical outcomes for patients with cardiovascular diseases before, during, and after the COVID19 pandemic. A pooled analysis of 600.000 patients.|https://dx.doi.org/10.1016/j.cpcardiol.2024.102540
+Developing the questionnaire of general population knowledge, attitudes and practices towards the COVID-19 outbreak.|https://dx.doi.org/10.1002/nop2.2143
+Systematic review of empiric studies on lockdowns, workplace closures, and other non-pharmaceutical interventions in non-healthcare workplaces during the initial year of the COVID-19 pandemic: benefits and selected unintended consequences.|https://dx.doi.org/10.1186/s12889-024-18377-1
+A Mixed-Methods Analysis of Coercive Control and COVID-19 Stress Among Black Women Experiencing Intimate Partner Violence During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/00333549241238895
+Depression and anxiety among nurses during the COVID-19 pandemic: Longitudinal results over 2 years from the multicentre VOICE-EgePan study.|https://dx.doi.org/10.1111/jocn.17079
+High COVID-19 vaccine uptake following initial hesitancy among people in Australia who inject drugs.|https://dx.doi.org/10.1016/j.vaccine.2024.03.051
+Understanding the mental health impacts of biological disasters: Lessons from Taiwan's experience with COVID-19.|https://dx.doi.org/10.1016/j.jfma.2024.03.015
+Interim safety and immunogenicity of COVID-19 omicron BA.1 variant-containing vaccine in children in the USA: an open-label non-randomised phase 3 trial.|https://dx.doi.org/10.1016/S1473-3099(24)00101-4
+The era of SARS-CoV-2 variants calls for an urgent strategy for COVID-19 vaccination in children.|https://dx.doi.org/10.1016/S1473-3099(24)00157-9
+Exploiting high-energy hydration sites for the discovery of potent peptide aldehyde inhibitors of the SARS-CoV-2 main protease with cellular antiviral activity.|https://dx.doi.org/10.1016/j.bmc.2023.117577
+New insights into three trajectories of omicron-related all-cause death reduced by COVID-19 booster vaccination.|https://dx.doi.org/10.1016/j.jiph.2024.03.006
+Intranasal administration of Escherichia coli Nissle expressing the spike protein of SARS-CoV-2 induces long-term immunization and prevents spike protein-mediated lung injury in mice.|https://dx.doi.org/10.1016/j.biopha.2024.116441
+Breakthrough COVID-19 in people with multiple sclerosis on disease modifying treatments: Is it still a severe disease?|https://dx.doi.org/10.1016/j.msard.2024.105547
