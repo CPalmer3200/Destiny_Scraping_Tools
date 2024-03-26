@@ -110,3 +110,16 @@ Synthesis of new trypanocidal agents from the hybridisation of metronidazole and
 Rapid detection of major enterotoxin genes and antibiotic resistance of Staphylococcus aureus isolated from raw milk in the Yazd province, Iran.|https://dx.doi.org/10.1002/vms3.1407
 Concentration dependent exposure of vancomycin and teicoplanin induces vanG regulon in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijmmb.2024.100563
 Discovery of Gambogic acid as an antibacterial adjuvant against vancomycin-resistant enterococci in vitro and in vivo.|https://dx.doi.org/10.1016/j.phymed.2024.155400
+An improved mouse model of sepsis based on intraperitoneal injections of the enriched culture of cecum slurry.|https://dx.doi.org/10.1016/j.lfs.2024.122584
+A two-step regulatory circuit involving Spo0A-AbrB activates mersacidin biosynthesis in Bacillus subtilis.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107155
+An essential protease, FtsH, influences daptomycin resistance acquisition in Enterococcus faecalis.|https://dx.doi.org/10.1111/mmi.15253
+Facet-dependent activation of oxalic acid over hematite nanocrystals under the irradiation of visible light for efficient degradation of pollutants.|https://dx.doi.org/10.1016/j.jes.2023.07.010
+In vitro anti-Trichomonas gallinae effects of Ziziphus vulgaris L. and Camellia sinensis (L.) Kuntze extracts.|https://dx.doi.org/10.1002/vms3.1432
+Application of the U.S. Food and Drug Administration's Sentinel Routine Querying Tools to the Taiwan Sentinel Data Model-formatted National Health Insurance Research Database.|https://dx.doi.org/10.38212/2224-6614.3482
+Pharmacovigilance of nephrotoxic drugs in neonates: the Pottel method for acute kidney injury detection in ELBW neonates.|https://dx.doi.org/10.1007/s00467-024-06335-3
+A simple solid media assay for detection of synergy between bacteriophages and antibiotics.|https://dx.doi.org/10.1128/spectrum.03221-23
+An Aminoglycoside-Sparing Regimen with Double Beta-Lactam to Successfully Treat Granulicatella adiacens Prosthetic Aortic Valve Endocarditis-Time to Change Paradigm?|https://dx.doi.org/10.3390/idr16020020
+The Prevalence, Risk Factors, and Antimicrobial Resistance Determinants of Helicobacter pylori Detected in Dyspeptic Patients in North-Central Bangladesh.|https://dx.doi.org/10.3390/idr16020014
+Enhancing Antimicrobial Efficacy and Synergistic Effects of Nano-Silica-Based Combinations With Doxycycline, Metronidazole, and Ciprofloxacin Against Enterococcus faecalis Biofilms.|https://dx.doi.org/10.7759/cureus.54668
+Assessment of the Efficiency of Tulsi Extract as a Locally Administered Medication Agent and Its Comparison With Curcumin in the Treatment of Periodontal Pockets.|https://dx.doi.org/10.7759/cureus.54619
+How an Antimicrobial Stewardship Team Treated a Nocardia farcinica-Associated Brain Abscess: A Case Report.|https://dx.doi.org/10.7759/cureus.54605

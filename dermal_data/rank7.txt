@@ -8,3 +8,4 @@ Pleurotus ostreatus polysaccharide-mediated modulation of skin damage caused by 
 Pre-emergence herbicides widely used in urban and farmland soils: fate, and potential human and environmental health risks.|https://dx.doi.org/10.1007/s10653-024-01907-6
 Yeast-Derived Nucleotides Enhance Fibroblast Migration and Proliferation and Provide Clinical Benefits in Atopic Dermatitis.|https://dx.doi.org/10.3390/ijms25052890
 Clinicopathologic Overlap of Vulvar Psoriasis and Candidiasis.|https://dx.doi.org/10.1097/LGT.0000000000000801
+Status of B-Lymphocyte Subsets and Their Homing Markers in Patients With Post-Kala-Azar Dermal Leishmaniasis.|https://dx.doi.org/10.1111/pim.13031

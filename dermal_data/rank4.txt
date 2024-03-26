@@ -33,3 +33,5 @@ Polysaccharide hydrogel containing silver nanoparticle@catechol microspheres wit
 GO/AgNW aided sustained release of ciprofloxacin loaded in Starch/PVA nanocomposite mats for wound dressings application.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130977
 Modified in-vitro AATCC-100 procedure to measure viable bacteria from wound dressings.|https://dx.doi.org/10.1371/journal.pone.0298829
 Study on synergistic mechanism of molybdenum disulfide/sodium carboxymethyl cellulose composite nanofiber mats for photothermal/photodynamic antibacterial treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130838
+Photopolymerizable and Antibacterial Hydrogels Loaded with Metabolites from Lacticaseibacillus rhamnosus GG for Infected Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.4c00124
+Development of Poly(vinyl alcohol)-Chitosan Composite Nanofibers for Dual Drug Therapy of Wounds.|https://dx.doi.org/10.1021/acsomega.3c08856

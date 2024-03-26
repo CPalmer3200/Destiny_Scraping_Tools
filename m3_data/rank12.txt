@@ -39,3 +39,8 @@ Effect of preservation of Hoffa's fat pad on patellar height in primary total kn
 Detection of Enteropathogens in Human Immunodeficiency Virus and Non-Human Immunodeficiency Virus-Infected Children with Acute Diarrhea in an Indonesian Tertiary Hospital Using Multiplex Real-Time Polymerase Chain Reaction.|https://dx.doi.org/10.5223/pghn.2024.27.2.95
 Exploring osteochondral damage patterns in acute patellar dislocation: insights into morphological associations and risk factors.|https://dx.doi.org/10.1038/s41598-024-57363-w
 Tailoring hierarchical structures in cellulose carbon aerogels from sugarcane bagasse using different crosslinking agents for enhancing electrochemical desalination capability.|https://dx.doi.org/10.1016/j.chemosphere.2024.141748
+Clostridioides difficile detection and infection in children: are they just small adults?|https://dx.doi.org/10.1099/jmm.0.001816
+Inappropriate Diagnosis of Pneumonia Among Hospitalized Adults.|https://dx.doi.org/10.1001/jamainternmed.2024.0077
+Assessing the Impact of Comorbid Hypercalcemia on Inpatient Outcomes of Patients With Diffuse Large B-cell Lymphoma During Admission for Chemotherapy.|https://dx.doi.org/10.7759/cureus.54769
+Stress biomarkers and child development in young children in Bangladesh.|https://dx.doi.org/10.1016/j.psyneuen.2024.107023
+[Co-infection of SARS-CoV-2 and Clostridioides difficile in elderly patients treated in a neurosurgery postoperative care unit].|https://dx.doi.org/10.1556/650.2024.32975

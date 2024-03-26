@@ -27,3 +27,5 @@ The effect of hyperbaric oxygen therapy on hematological indices and biochemical
 Objective Evidence that Nerve Decompression Surgery Reduces Neuropathic DFU Recurrence Risk to Less Than 5.|https://dx.doi.org/10.1089/wound.2023.0199
 Podcast on How to Classify Foot Ulcers in People with Diabetes (2023 Update of the IWGDF Guidelines on Classification).|https://dx.doi.org/10.1007/s13300-023-01521-2
 Surgical Management of Diabetic Foot Burns is Associated with Poor Outcomes: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1093/jbcr/irae051
+Triple threat: how diabetes results in worsened bacterial infections.|https://dx.doi.org/10.1128/iai.00509-23
+Pirogoff amputation is a viable option to maintain ambulation in chronic limb-threatening ischemia with extensive midfoot tissue loss: a report of two cases.|https://dx.doi.org/10.1093/jscr/rjae180

@@ -1,2 +1,3 @@
 Fecal microbiota transplantation as an early therapeutic option in treatment refractory Clostridioides difficile infection.|https://dx.doi.org/10.1111/jgh.16535
 Fecal microbiota transplantation stimulates type 2 and tolerogenic immune responses in a mouse model.|https://dx.doi.org/10.1016/j.anaerobe.2024.102841
+Clostridioides difficile infection promotes gastrointestinal dysfunction in human and mice post-acute phase of the disease.|https://dx.doi.org/10.1016/j.anaerobe.2024.102837
