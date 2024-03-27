@@ -29,3 +29,5 @@ Podcast on How to Classify Foot Ulcers in People with Diabetes (2023 Update of t
 Surgical Management of Diabetic Foot Burns is Associated with Poor Outcomes: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1093/jbcr/irae051
 Triple threat: how diabetes results in worsened bacterial infections.|https://dx.doi.org/10.1128/iai.00509-23
 Pirogoff amputation is a viable option to maintain ambulation in chronic limb-threatening ischemia with extensive midfoot tissue loss: a report of two cases.|https://dx.doi.org/10.1093/jscr/rjae180
+Hyperbaric Oxygen Therapy for Diabetic Foot Ulcers Based on Wagner Grading: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1097/GOX.0000000000005692
+Clinical guideline highlights for the hospitalist: Diagnosis and treatment of diabetes-related foot infections.|https://dx.doi.org/10.1002/jhm.13341

@@ -15,3 +15,18 @@ Bioactive coating provides antimicrobial protection through immunomodulation and
 The effect and mechanism of volatile oil emulsion from leaves of Clausena lansium (Lour.) Skeels on Staphylococcus aureus in vitro.|https://dx.doi.org/10.3389/fmicb.2024.1376819
 Identification of phytoconstituents from Dicliptera paniculata and study of antibacterial activity guided by molecular docking.|https://dx.doi.org/10.1007/s40203-024-00196-2
 Diversity and antimicrobial activity of the tropical ant-derived actinomycetes isolated from Thailand.|https://dx.doi.org/10.3934/microbiol.2024005
+Blockade of IL-13 signaling improves skin barrier function and biology in patients with moderate to severe atopic dermatitis.|https://dx.doi.org/10.1093/bjd/ljae138
+ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides.|https://dx.doi.org/10.1093/database/baae022
+Tuberculous pyomyositis presenting as septic arthritis and multiple site pyomyositis.|https://dx.doi.org/10.1136/bcr-2023-258501
+Antibacterial and self-healing sepiolite-based hybrid hydrogel for hemostasis and wound healing.|https://dx.doi.org/10.1016/j.bioadv.2024.213838
+Green Synthesis of Metal-Doped ZnO Nanoparticles Using Bauhinia racemosa Lam. Extract and Evaluation of Their Photocatalysis and Biomedical Applications.|https://dx.doi.org/10.1021/acsabm.4c00132
+Chemically synthesized ciprofloxacin-PEG-FeO nanotherapeutic exhibits strong antibacterial and controlled cytotoxic effects.|https://dx.doi.org/10.2217/nnm-2023-0298
+Adding Fuel to the Fire? The Skin Microbiome in Atopic Dermatitis.|https://dx.doi.org/10.1016/j.jid.2024.01.011
+The Functional Study of Response Regulator ArlR Mutants in Staphylococcus Aureus.|https://dx.doi.org/10.1007/s12010-024-04919-1
+Expanding a peptide-covalent probe hybrid for PET imaging of S. aureus driven focal infections.|https://dx.doi.org/10.1186/s41181-024-00252-4
+Antibacterial Activity of Various Morphologies of Films Based on Guanidine Derivatives of Pillar[5]arene: Influence of the Nature of One Substitute on Self-assembly.|https://dx.doi.org/10.1021/acsami.3c18610
+Altered PBP4 and GdpP functions synergistically mediate MRSA-like high-level, broad-spectrum β-lactam resistance in Staphylococcus aureus.|https://dx.doi.org/10.1128/mbio.02889-23
+Characterization of the skin microbiome in normal and cutaneous squamous cell carcinoma affected cats and dogs.|https://dx.doi.org/10.1128/msphere.00555-23
+Nanoarchitectonics of Bimetallic Cu-/Co-Doped Nitrogen-Carbon Nanozyme-Functionalized Hydrogel with NIR-Responsive Phototherapy for Synergistic Mitigation of Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1021/acsami.4c01783
+Increased rates of hospital-onset Staphylococcus aureus bacteraemia in National Health Service acute trusts in England between June 2020 and March 2021: a national surveillance review.|https://dx.doi.org/10.1016/j.jhin.2023.10.012
+Sonochemically synthesized black phosphorus nanoparticles: a promising candidate for piezocatalytic antibacterial activity with enhanced dielectric properties.|https://dx.doi.org/10.1039/d4dt00166d

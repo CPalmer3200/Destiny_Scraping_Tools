@@ -9,3 +9,4 @@ Systemic neutrophil degranulation and emergency granulopoiesis in patients with 
 Enhancing bezlotoxumab binding to C. difficile toxin B2: insights from computational simulations and mutational analyses for antibody design.|https://dx.doi.org/10.1080/07391102.2024.2329785
 Standards for fecal microbiota transplant: Tools and therapeutic advances.|https://dx.doi.org/10.1016/j.biologicals.2024.101758
 The Strain and the Clinical Outcome of Clostridioides difficile Infection: A Meta-analysis.|https://dx.doi.org/10.1093/ofid/ofae085
+Retrospective subgroup analysis of fecal microbiota, live-jslm (REBYOTA(®)) administered by colonoscopy under enforcement discretion for the prevention of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1177/17562848241239547

@@ -123,3 +123,9 @@ The Prevalence, Risk Factors, and Antimicrobial Resistance Determinants of Helic
 Enhancing Antimicrobial Efficacy and Synergistic Effects of Nano-Silica-Based Combinations With Doxycycline, Metronidazole, and Ciprofloxacin Against Enterococcus faecalis Biofilms.|https://dx.doi.org/10.7759/cureus.54668
 Assessment of the Efficiency of Tulsi Extract as a Locally Administered Medication Agent and Its Comparison With Curcumin in the Treatment of Periodontal Pockets.|https://dx.doi.org/10.7759/cureus.54619
 How an Antimicrobial Stewardship Team Treated a Nocardia farcinica-Associated Brain Abscess: A Case Report.|https://dx.doi.org/10.7759/cureus.54605
+Case Series of Vancomycin-Associated Hemorrhagic Occlusive Retinal Vasculitis.|https://dx.doi.org/10.3928/23258160-20240207-02
+Multidrug-resistant organism bloodstream infection and hospital acquisition among inpatients in three tertiary Greek hospitals during the COVID-19 era.|https://dx.doi.org/10.1007/s10096-024-04806-x
+Therapeutic drug monitoring of vancomycin in surgical patients through a validated HPLC method.|https://dx.doi.org/10.5414/CP204534
+Spectrum and antibiotic sensitivity of bacterial keratitis: a retrospective analysis of eight years in a Tertiary Referral Hospital in Southwest China.|https://dx.doi.org/10.3389/fcimb.2024.1363437
+The Prevalence and Antimicrobial Susceptibility of Methicillin-Resistant Staphylococcus aureus Before and After the COVID-19 Pandemic in a Tertiary Saudi Hospital.|https://dx.doi.org/10.7759/cureus.54809
+LysSYL: a broad-spectrum phage endolysin targeting Staphylococcus species and eradicating S. aureus biofilms.|https://dx.doi.org/10.1186/s12934-024-02359-4

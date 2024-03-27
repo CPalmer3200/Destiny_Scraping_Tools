@@ -10,3 +10,5 @@ Clinical Impact of Vancomycin MIC on Outcomes in Patients With Coagulase-negativ
 [Clinical diagnosis and treatment of 14 cases of scar cancer ulcer wound on head and face].|https://dx.doi.org/10.7507/1002-1892.202312020
 Staphylococcus aureus Panton-Valentine Leukocidin worsens acute implant-associated osteomyelitis in humanized BRGSF mice.|https://dx.doi.org/10.1093/jbmrpl/ziad005
 Features of apoptotic and proliferative processes in experimental infected radiation-induced skin ulcer under conditions of photodynamic therapy and the use of platelet-rich plasma.|https://dx.doi.org/10.36740/Merkur202401109
+Vaccination with staphylococcal protein A protects mice against systemic complications of skin infection recurrences.|https://dx.doi.org/10.3389/fimmu.2024.1355764
+Detection of Staphylococcus aureus virulence gene pvl based on CRISPR strip.|https://dx.doi.org/10.3389/fimmu.2024.1345532

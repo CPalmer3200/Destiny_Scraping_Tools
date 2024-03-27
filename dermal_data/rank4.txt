@@ -35,3 +35,5 @@ Modified in-vitro AATCC-100 procedure to measure viable bacteria from wound dres
 Study on synergistic mechanism of molybdenum disulfide/sodium carboxymethyl cellulose composite nanofiber mats for photothermal/photodynamic antibacterial treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130838
 Photopolymerizable and Antibacterial Hydrogels Loaded with Metabolites from Lacticaseibacillus rhamnosus GG for Infected Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.4c00124
 Development of Poly(vinyl alcohol)-Chitosan Composite Nanofibers for Dual Drug Therapy of Wounds.|https://dx.doi.org/10.1021/acsomega.3c08856
+Antibacterial and self-healing sepiolite-based hybrid hydrogel for hemostasis and wound healing.|https://dx.doi.org/10.1016/j.bioadv.2024.213838
+Nanoarchitectonics of Bimetallic Cu-/Co-Doped Nitrogen-Carbon Nanozyme-Functionalized Hydrogel with NIR-Responsive Phototherapy for Synergistic Mitigation of Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1021/acsami.4c01783

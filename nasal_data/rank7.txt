@@ -17,3 +17,22 @@ Influenza and Covid-19 Vaccination in 2023: a descriptive analysis in two Italia
 An outbreak within an outbreak: The impact of Infection Prevention and Control strategies on hospital-acquired infections and the occurrence of multi-drug resistant organisms during the COVID-19 pandemic.|https://dx.doi.org/10.7196/SAMJ.2023.v113i12.971
 Multilevel perceptions of the virtual delivery of the University of California Diabetes Prevention Program on RE-AIM domains due to COVID-19 mandates.|https://dx.doi.org/10.3389/fpubh.2024.1327429
 Factors influencing public participation behavior relating to government microblogs on COVID-19 updates.|https://dx.doi.org/10.3389/fpubh.2024.1337107
+Leveraging seasonal influenza health worker vaccination programmes for COVID-19 vaccine Introduction: A global qualitative analysis.|https://dx.doi.org/10.1016/j.vaccine.2023.12.044
+Comparative diagnostic utility of SARS-CoV-2 rapid antigen and molecular testing in a community setting.|https://dx.doi.org/10.1093/infdis/jiae150
+The Impact of the COVID-19 Pandemic on the Quality of Examination in Eye Clinics in the Czech Republic - Questionnaire Study.|https://dx.doi.org/10.31348/2024/15
+Association between discrimination and subsequent psychotic experiences in patients with COVID-19: A cohort study.|https://dx.doi.org/10.1016/j.schres.2024.03.027
+SARS-CoV-2 Seroprevalence and Vaccine Uptake among Pregnant Women at First Antenatal Care Visits in Malawi.|https://dx.doi.org/10.4269/ajtmh.23-0726
+Age-Related Differences in Neutralizing Antibody Responses against SARS-CoV-2 Delta and Omicron Variants in 151 SARS-CoV-2-Naïve Metropolitan Residents Boosted with BNT162b2.|https://dx.doi.org/10.1093/jalm/jfae014
+Impact of the COVID-19 Pandemic on the Outcomes of Patients Undergoing Oncological Surgeries: CORONAL Study.|https://dx.doi.org/10.1245/s10434-024-15152-9
+Multidrug-resistant organism bloodstream infection and hospital acquisition among inpatients in three tertiary Greek hospitals during the COVID-19 era.|https://dx.doi.org/10.1007/s10096-024-04806-x
+Household Transmission Dynamics of Asymptomatic SARS-CoV-2-Infected Children: A Multinational, Controlled Case-Ascertained Prospective Study.|https://dx.doi.org/10.1093/cid/ciae069
+The human microbiota is a beneficial reservoir for SARS-CoV-2 mutations.|https://dx.doi.org/10.1128/mbio.03187-23
+Colorectal Cancer Screening Rates at Federally Qualified Health Centers From 2014 to 2022: Incomplete Recovery From COVID-19 and Worsening Disparities.|https://dx.doi.org/10.14309/ajg.0000000000002706
+Immunogenicity and safety of boosting with a recombinant two-component SARS-CoV-2 vaccine: two randomized, parallel-controlled, phase 2 studies.|https://dx.doi.org/10.1080/14760584.2024.2334423
+COVID-19 Outcome and Tobacco Product Use: Case-Control and Retrospective Cohort Studies Using Nationwide Samples.|https://dx.doi.org/10.3346/jkms.2024.39.e103
+The Prevalence and Antimicrobial Susceptibility of Methicillin-Resistant Staphylococcus aureus Before and After the COVID-19 Pandemic in a Tertiary Saudi Hospital.|https://dx.doi.org/10.7759/cureus.54809
+New Insights into the Effects of SARS-CoV-2 on Metabolic Organs: A Narrative Review of COVID-19 Induced Diabetes.|https://dx.doi.org/10.2147/DMSO.S454408
+COVID-19 restrictions promoted the newly occurring loneliness in older people - a prospective study in a memory clinic population.|https://dx.doi.org/10.3389/fpsyt.2024.1340498
+Perceived dilemma between protective measures and social isolation in nursing homes during the COVID-19 pandemic: a mixed methods study among Swiss nursing home directors.|https://dx.doi.org/10.3389/fpubh.2024.1292379
+Early Reconstruction with Locoregional-Free Flaps in Post-COVID-19 Rhino-orbital-cerebral Mucormycosis Craniofacial Deformities: A Single-Center Clinical Experience from India.|https://dx.doi.org/10.1055/s-0043-1778652
+Predictive Power of Self-Efficacy on the Fear of Childbirth in Pregnant Women: Underlying Mechanisms of Social Support as a Mediator and the COVID-19 Fear as a Moderator.|https://dx.doi.org/10.4103/njcp.njcp_471_23

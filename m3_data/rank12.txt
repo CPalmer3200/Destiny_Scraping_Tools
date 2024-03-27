@@ -44,3 +44,4 @@ Inappropriate Diagnosis of Pneumonia Among Hospitalized Adults.|https://dx.doi.o
 Assessing the Impact of Comorbid Hypercalcemia on Inpatient Outcomes of Patients With Diffuse Large B-cell Lymphoma During Admission for Chemotherapy.|https://dx.doi.org/10.7759/cureus.54769
 Stress biomarkers and child development in young children in Bangladesh.|https://dx.doi.org/10.1016/j.psyneuen.2024.107023
 [Co-infection of SARS-CoV-2 and Clostridioides difficile in elderly patients treated in a neurosurgery postoperative care unit].|https://dx.doi.org/10.1556/650.2024.32975
+Reactive Arthritis as a Consequence of Infection by Clostridium difficile in a Pediatric Patient.|https://dx.doi.org/10.7759/cureus.54647
