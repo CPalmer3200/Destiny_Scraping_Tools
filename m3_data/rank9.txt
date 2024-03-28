@@ -2,3 +2,4 @@ CSPG4-dependent cytotoxicity for C. difficile TcdB is influenced by extracellula
 Elevated blood metal ion levels in patients undergoing instrumented spinal surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.spinee.2024.02.019
 The prevalence and impact of psychiatric comorbidities on hospitalized inflammatory bowel disease patients in the United States: insights from the National Inpatient Sample from 2009-2018.|https://dx.doi.org/10.20524/aog.2024.0866
 Infection Control Measure Performance in Long-Term Care Hospitals and Their Relationship to Joint Commission Accreditation.|https://dx.doi.org/10.1016/j.jcjq.2024.02.005
+Predicting Increased Incidence of Common Antibiotic-Resistant and Antibiotic-Associated Pathogens Using Ensemble Species Distribution Modeling.|https://dx.doi.org/10.1093/infdis/jiae145

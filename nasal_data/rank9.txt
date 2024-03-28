@@ -30,3 +30,20 @@ Characterization of the skin microbiome in normal and cutaneous squamous cell ca
 Nanoarchitectonics of Bimetallic Cu-/Co-Doped Nitrogen-Carbon Nanozyme-Functionalized Hydrogel with NIR-Responsive Phototherapy for Synergistic Mitigation of Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1021/acsami.4c01783
 Increased rates of hospital-onset Staphylococcus aureus bacteraemia in National Health Service acute trusts in England between June 2020 and March 2021: a national surveillance review.|https://dx.doi.org/10.1016/j.jhin.2023.10.012
 Sonochemically synthesized black phosphorus nanoparticles: a promising candidate for piezocatalytic antibacterial activity with enhanced dielectric properties.|https://dx.doi.org/10.1039/d4dt00166d
+Chitosan Membranes Stabilized with Varying Acyl Lengths Release Cis-2-Decenoic Acid and Bupivacaine at Controlled Rates and Inhibit Pathogenic Biofilm.|https://dx.doi.org/10.31083/j.fbl2903108
+Infectious aortitis and managing it at a community military hospital.|https://dx.doi.org/10.1136/bcr-2023-257509
+Functional characterization of serine proteinase inhibitor Kazal-Type in the red claw crayfish Cherax quadricarinatus.|https://dx.doi.org/10.1016/j.fsi.2024.109525
+Diversely regio-oxidative degradation of konjac glucomannan by lytic polysaccharide monooxygenase AA10 and generating antibacterial hydrolysate.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131094
+Organic-inorganic hybrid ZIF-8/MXene/cellulose-based textiles with improved antibacterial and electromagnetic interference shielding performance.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131080
+Phage cocktail superimposed disinfection: A ecological strategy for preventing pathogenic bacterial infections in dairy farms.|https://dx.doi.org/10.1016/j.envres.2024.118720
+A novel antimicrobial peptide with broad-spectrum and exceptional stability derived from the natural peptide Brevicidine.|https://dx.doi.org/10.1016/j.ejmech.2024.116337
+Contribution of staphylococcal virulence factors in the pathogenesis of thrombosis.|https://dx.doi.org/10.1016/j.micres.2024.127703
+Preparation of Antibacterial Biobased Fibers by Triaxial Microfluidic Spinning Technology Using Ionic Liquids as the Solvents.|https://dx.doi.org/10.1021/acsami.4c01357
+Ultradense Electrochemical Chips with Arrays of Nanostructured Microelectrodes to Enable Sensitive Diffusion-Limited Bioassays.|https://dx.doi.org/10.1021/acsami.4c01159
+Efficacy of a Novel Antibiotic Drug Combination Toward Multidrug-Resistant Ocular Pathogens.|https://dx.doi.org/10.1097/ICO.0000000000003528
+Uncovering the Power of HSCCC: Separation of Diastereomeric and Regioisomeric Styrylpyrones from the Stem Bark of Goniothalamus leiocarpus.|https://dx.doi.org/10.1021/acs.jnatprod.3c01289
+Wettability and Bactericidal Properties of Bioinspired ZnO Nanopillar Surfaces.|https://dx.doi.org/10.1021/acs.langmuir.3c03537
+Influences of Different Torques on the Size of the Microgap and Bacterial Leakage in Different Implant Systems: An In-vitro Study.|https://dx.doi.org/10.11607/ijp.8903
+Predicting Increased Incidence of Common Antibiotic-Resistant and Antibiotic-Associated Pathogens Using Ensemble Species Distribution Modeling.|https://dx.doi.org/10.1093/infdis/jiae145
+Infections in Disorders of Immune Regulation.|https://dx.doi.org/10.3390/pathogens13030259
+The Influence of L-Lysine-Alpha-Oxidase on the Biofilm Formation of Opportunistic Microorganisms Associated with Inflammatory Diseases of the Urinary Tract.|https://dx.doi.org/10.3390/pathogens13030252

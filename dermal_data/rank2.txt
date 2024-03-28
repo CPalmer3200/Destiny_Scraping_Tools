@@ -31,3 +31,5 @@ Triple threat: how diabetes results in worsened bacterial infections.|https://dx
 Pirogoff amputation is a viable option to maintain ambulation in chronic limb-threatening ischemia with extensive midfoot tissue loss: a report of two cases.|https://dx.doi.org/10.1093/jscr/rjae180
 Hyperbaric Oxygen Therapy for Diabetic Foot Ulcers Based on Wagner Grading: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1097/GOX.0000000000005692
 Clinical guideline highlights for the hospitalist: Diagnosis and treatment of diabetes-related foot infections.|https://dx.doi.org/10.1002/jhm.13341
+Novel design and development of Centella Asiatica extract - loaded poloxamer/ZnO nanocomposite wound closure material to improve anti-bacterial action and enhanced wound healing efficacy in diabetic foot ulcer.|https://dx.doi.org/10.1016/j.reth.2024.03.006
+Diagnostic imaging of the diabetic foot: an EANM evidence-based guidance.|https://dx.doi.org/10.1007/s00259-024-06693-y

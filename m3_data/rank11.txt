@@ -129,3 +129,20 @@ Therapeutic drug monitoring of vancomycin in surgical patients through a validat
 Spectrum and antibiotic sensitivity of bacterial keratitis: a retrospective analysis of eight years in a Tertiary Referral Hospital in Southwest China.|https://dx.doi.org/10.3389/fcimb.2024.1363437
 The Prevalence and Antimicrobial Susceptibility of Methicillin-Resistant Staphylococcus aureus Before and After the COVID-19 Pandemic in a Tertiary Saudi Hospital.|https://dx.doi.org/10.7759/cureus.54809
 LysSYL: a broad-spectrum phage endolysin targeting Staphylococcus species and eradicating S. aureus biofilms.|https://dx.doi.org/10.1186/s12934-024-02359-4
+Surgical Site Infections in Trauma Exploratory Laparotomies Preoperative Ceftriaxone and Metronidazole Versus Cefoxitin.|https://dx.doi.org/10.1177/00031348241241695
+Genomic Insights into Staphylococcus aureus Isolates Exhibiting Diminished Daptomycin Susceptibility.|https://dx.doi.org/10.3390/pathogens13030206
+New Frontier on Antimicrobial Therapy: Long-Acting Lipoglycopeptides.|https://dx.doi.org/10.3390/pathogens13030189
+Antimicrobial Treatment Challenges in the Management of Infective Spondylodiscitis Associated with Hemodialysis: A Comprehensive Review of Literature and Case Series Analysis.|https://dx.doi.org/10.3390/antibiotics13030284
+Equivalence Trial of the Non-Bismuth 10-Day Concomitant and 14-Day Hybrid Therapies for Helicobacter pylori Eradication in High Clarithromycin Resistance Areas.|https://dx.doi.org/10.3390/antibiotics13030280
+The Synthetic Peptide LyeTx I mn∆K, Derived from Lycosa erythrognatha Spider Toxin, Is Active against Methicillin-Resistant Staphylococcus aureus (MRSA) In Vitro and In Vivo.|https://dx.doi.org/10.3390/antibiotics13030248
+Impact of Genital Infections and Antibiotic Use on Incidence of Preterm Birth: A Retrospective Observational Study.|https://dx.doi.org/10.3390/antibiotics13030240
+The Microbiological Profile and Antibiotic Susceptibility of Fracture Related Infections in a Low Resource Setting Differ from High Resource Settings: A Cohort Study from Cameroon.|https://dx.doi.org/10.3390/antibiotics13030236
+The Impact of COVID-19 on Multidrug-Resistant Bacteria at a Slovenian Tertiary Medical Center.|https://dx.doi.org/10.3390/antibiotics13030214
+Proteomics-Based RT-qPCR and Functional Analysis of 18 Genes in Metronidazole Resistance of Bacteroides fragilis.|https://dx.doi.org/10.3390/antibiotics13030207
+Phylogenetic Analysis of Pyruvate-Ferredoxin Oxidoreductase, a Redox Enzyme Involved in the Pharmacological Activation of Nitro-Based Prodrugs in Bacteria and Protozoa.|https://dx.doi.org/10.3390/biology13030178
+One-Step Detection of Vancomycin in Whole Blood Using the Lateral Flow Immunoassay.|https://dx.doi.org/10.3390/bios14030129
+The functional small RNA interactome reveals targets for the vancomycin-responsive sRNA RsaOI in vancomycin-tolerant Staphylococcus aureus.|https://dx.doi.org/10.1128/msystems.00971-23
+Vancomycin AUC(0-24) estimation using first-order pharmacokinetic methods in pediatric patients.|https://dx.doi.org/10.1002/phar.2916
+Harmonising IV Oxycodone with Paediatric Perioperative Medications: A Compatibility Study Through Y-Type Connectors.|https://dx.doi.org/10.2147/DDDT.S444581
+Coexisting Primary Sclerosing Cholangitis and Autoimmune Hepatitis: Overlapping Challenges in Diagnosis and Treatment.|https://dx.doi.org/10.1159/000537798
+Repurposing fusidic acid as an antimicrobial against enterococci with a low probability of resistance development.|https://dx.doi.org/10.1007/s10123-024-00506-w

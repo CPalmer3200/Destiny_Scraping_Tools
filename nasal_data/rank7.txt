@@ -36,3 +36,21 @@ COVID-19 restrictions promoted the newly occurring loneliness in older people - 
 Perceived dilemma between protective measures and social isolation in nursing homes during the COVID-19 pandemic: a mixed methods study among Swiss nursing home directors.|https://dx.doi.org/10.3389/fpubh.2024.1292379
 Early Reconstruction with Locoregional-Free Flaps in Post-COVID-19 Rhino-orbital-cerebral Mucormycosis Craniofacial Deformities: A Single-Center Clinical Experience from India.|https://dx.doi.org/10.1055/s-0043-1778652
 Predictive Power of Self-Efficacy on the Fear of Childbirth in Pregnant Women: Underlying Mechanisms of Social Support as a Mediator and the COVID-19 Fear as a Moderator.|https://dx.doi.org/10.4103/njcp.njcp_471_23
+Anticipatory regulation for pandemic responses: are we there yet?|https://dx.doi.org/10.1016/j.tibtech.2024.02.016
+Modeling assessment of air pollution control measures and COVID-19 pandemic on air quality improvements over Greater Bay Area of China.|https://dx.doi.org/10.1016/j.scitotenv.2024.171951
+Candida auris outbreak at a tertiary care hospital during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.ajic.2024.03.012
+Agonists or positive allosteric modulators of α7 nicotinic acetylcholine receptor prevent interaction of SARS-Cov-2 receptor-binding domain with astrocytoma cells.|https://dx.doi.org/10.1016/j.bbrc.2024.149825
+Enhancing deep vein thrombosis prediction in patients with coronavirus disease 2019 using improved machine learning model.|https://dx.doi.org/10.1016/j.compbiomed.2024.108294
+The association between SARS-CoV-2 seroprevalence and cross-border mobility for visiting family or friends among Dutch residents of a Euregional province.|https://dx.doi.org/10.1016/j.healthpol.2024.105056
+Self-perception of mental health, COVID-19 and associated sociodemographic-contextual factors in Latin America.|https://dx.doi.org/10.1590/0102-311XEN157723
+Keeping university open did not increase the risk of SARS-CoV-2 acquisition: A test negative case-control study among students.|https://dx.doi.org/10.1371/journal.pone.0301215
+Rapid resurgence of syphilis in Japan after the COVID-19 pandemic: A descriptive study.|https://dx.doi.org/10.1371/journal.pone.0298288
+The Impact of a Pandemic on a Military Oral and Maxillofacial Pathology Biopsy Service.|https://dx.doi.org/10.1093/milmed/usae102
+Vaccine Hesitancy, Knowledge, and COVID-19 Vaccination in a Sample of Italian and Albanian Healthcare Students Attending an University in Albania.|https://dx.doi.org/10.3390/tropicalmed9030057
+Associations between Difficulty in Accessing Maternal and Child Health Services and Stress Responses among Mothers Raising Young Children during the COVID-19 Pandemic in Japan.|https://dx.doi.org/10.3390/nursrep14010039
+Indoor Inactivation of SARS-CoV-2 Virus by Liquid Hyperoxygen.|https://dx.doi.org/10.3390/pathogens13030244
+Knowledge, Attitudes, and Practices of Hand Hygiene, Mask Use, and Social Distancing among Public Hospital and Polyclinic Nurses in Barbados during the Coronavirus 2019 Pandemic.|https://dx.doi.org/10.3390/epidemiologia5010008
+COVID-19 Associated Cardiovascular Disease-Risks, Prevention and Management: Heart at Risk Due to COVID-19.|https://dx.doi.org/10.3390/cimb46030124
+Post-Coronavirus Disease 2019 Pandemic Antimicrobial Resistance.|https://dx.doi.org/10.3390/antibiotics13030233
+The Impact of COVID-19 on Multidrug-Resistant Bacteria at a Slovenian Tertiary Medical Center.|https://dx.doi.org/10.3390/antibiotics13030214
+Antimicrobial Resistance in Qatar: Prevalence and Trends before and Amidst the COVID-19 Pandemic.|https://dx.doi.org/10.3390/antibiotics13030203

@@ -45,3 +45,5 @@ Assessing the Impact of Comorbid Hypercalcemia on Inpatient Outcomes of Patients
 Stress biomarkers and child development in young children in Bangladesh.|https://dx.doi.org/10.1016/j.psyneuen.2024.107023
 [Co-infection of SARS-CoV-2 and Clostridioides difficile in elderly patients treated in a neurosurgery postoperative care unit].|https://dx.doi.org/10.1556/650.2024.32975
 Reactive Arthritis as a Consequence of Infection by Clostridium difficile in a Pediatric Patient.|https://dx.doi.org/10.7759/cureus.54647
+Antimicrobial effects of cannabidiol on select agriculturally important Clostridia.|https://dx.doi.org/10.1016/j.anaerobe.2024.102843
+Porcine Monocyte DNA Traps Formed during Infection with Pathogenic Clostridioides difficile Strains.|https://dx.doi.org/10.3390/pathogens13030228

@@ -12,3 +12,7 @@ Staphylococcus aureus Panton-Valentine Leukocidin worsens acute implant-associat
 Features of apoptotic and proliferative processes in experimental infected radiation-induced skin ulcer under conditions of photodynamic therapy and the use of platelet-rich plasma.|https://dx.doi.org/10.36740/Merkur202401109
 Vaccination with staphylococcal protein A protects mice against systemic complications of skin infection recurrences.|https://dx.doi.org/10.3389/fimmu.2024.1355764
 Detection of Staphylococcus aureus virulence gene pvl based on CRISPR strip.|https://dx.doi.org/10.3389/fimmu.2024.1345532
+Contribution of staphylococcal virulence factors in the pathogenesis of thrombosis.|https://dx.doi.org/10.1016/j.micres.2024.127703
+A Web-Based Dynamic Nomogram to Predict the Risk of Methicillin-Resistant Staphylococcal Infection in Patients with Pneumonia.|https://dx.doi.org/10.3390/diagnostics14060633
+Scientific Rationale and Clinical Basis for Clindamycin Use in the Treatment of Dermatologic Disease.|https://dx.doi.org/10.3390/antibiotics13030270
+Prevalence and determinants of impetigo in Ghana: a cross-sectional study.|https://dx.doi.org/10.1186/s12879-024-09242-y

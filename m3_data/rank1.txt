@@ -10,3 +10,4 @@ Enhancing bezlotoxumab binding to C. difficile toxin B2: insights from computati
 Standards for fecal microbiota transplant: Tools and therapeutic advances.|https://dx.doi.org/10.1016/j.biologicals.2024.101758
 The Strain and the Clinical Outcome of Clostridioides difficile Infection: A Meta-analysis.|https://dx.doi.org/10.1093/ofid/ofae085
 Retrospective subgroup analysis of fecal microbiota, live-jslm (REBYOTA(®)) administered by colonoscopy under enforcement discretion for the prevention of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1177/17562848241239547
+The epidemiology and management of Clostridioides difficile infection-A clinical update.|https://dx.doi.org/10.1111/apt.17975

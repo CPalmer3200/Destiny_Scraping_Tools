@@ -21,3 +21,15 @@ Postoperative infection and bone sarcoma survival: systematic review of the role
 Long-Term Outcomes of Birmingham Hip Resurfacing Arthroplasty: A Systematic Review of Independent Series with At Least 10 Years of Follow-up.|https://dx.doi.org/10.2106/JBJS.OA.23.00057
 Clinical guideline highlights for the hospitalist: Diagnosis and treatment of diabetes-related foot infections.|https://dx.doi.org/10.1002/jhm.13341
 [Dealing with early complications in unicondylar knee arthroplasty-what works, what does not?].|https://dx.doi.org/10.1007/s00132-024-04483-w
+Antimicrobial activity of essential oils against biofilms formed in dental acrylic resin: a systematic review of in vitro studies.|https://dx.doi.org/10.1080/08927014.2024.2332709
+Prevalence of antimicrobial use and healthcare-associated infections in the UAE: Results from the first nationwide point-prevalence survey.|https://dx.doi.org/10.1016/j.idnow.2024.104891
+Quality and sustainability of Ethiopia's national surgical indicators.|https://dx.doi.org/10.1371/journal.pgph.0002600
+CDC's Hospital-Onset Clostridioides difficile Prevention Framework in a Regional Hospital Network.|https://dx.doi.org/10.1001/jamanetworkopen.2024.3846
+A Web-Based Dynamic Nomogram to Predict the Risk of Methicillin-Resistant Staphylococcal Infection in Patients with Pneumonia.|https://dx.doi.org/10.3390/diagnostics14060633
+The Microbiological Profile and Antibiotic Susceptibility of Fracture Related Infections in a Low Resource Setting Differ from High Resource Settings: A Cohort Study from Cameroon.|https://dx.doi.org/10.3390/antibiotics13030236
+Antimicrobial Resistance and Sports: The Scope of the Problem, Implications for Athletes' Health and Avenues for Collaborative Public Health Action.|https://dx.doi.org/10.3390/antibiotics13030232
+One-Step Detection of Vancomycin in Whole Blood Using the Lateral Flow Immunoassay.|https://dx.doi.org/10.3390/bios14030129
+Short-term healthcare resource utilization associated with receipt of CDC-informed opioid thresholds among commercially insured new chronic opioid users.|https://dx.doi.org/10.5055/jom.0848
+The primary prevention of pancreatic fistula using a vascularised rectus abdominis muscle flap - A porcine model.|https://dx.doi.org/10.1016/j.jpra.2024.02.005
+An integrative review of home care recommendations for women after caesarean section.|https://dx.doi.org/10.1002/nop2.2145
+Diagnostic imaging of the diabetic foot: an EANM evidence-based guidance.|https://dx.doi.org/10.1007/s00259-024-06693-y

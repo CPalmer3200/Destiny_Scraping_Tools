@@ -27,3 +27,21 @@ Subperiosteal delivery of transforming growth factor beta 1 and human growth ho
 Free flap reconstruction of elbow soft tissue defects: Lessons learned from 15 years of experience.|https://dx.doi.org/10.1002/micr.31163
 Does Recent COVID-19 Infection Impact Safety of Nasal Surgery?|https://dx.doi.org/10.1089/fpsam.2023.0352
 Association of Smokeless Tobacco and Complications Following Ankle and Hindfoot Arthrodesis.|https://dx.doi.org/10.1177/10711007241238213
+Skin grafting on amputated lower limb, norepinephrine-induced ischemic limb necrosis - case report.|https://dx.doi.org/10.48095/ccachp2023150
+Atypical hand foot and mouth disease related Coxsackievirus-A10 infection in an adult patient.|https://dx.doi.org/10.1016/j.tmaid.2024.102716
+Three Differing Methods of Treating Intraoperative Non-Displaced Calcar Fractures Demonstrate Similar Radiographic Stem Subsidence.|https://dx.doi.org/10.1016/j.arth.2024.03.049
+The effect of Unidirectional Airflow ventilation on Surgical Site Infection in Cardiac Surgery: environmental impact as a factor in the choice for Turbulent Mixed Airflow.|https://dx.doi.org/10.1016/j.jhin.2024.03.008
+Surgical Site Infections in Trauma Exploratory Laparotomies Preoperative Ceftriaxone and Metronidazole Versus Cefoxitin.|https://dx.doi.org/10.1177/00031348241241695
+Safety and feasibility of single-port nephroscopy combined with a needle electrode technique to treat dorsal SRCs.|https://dx.doi.org/10.1159/000538381
+Rapid detection of SARS-CoV-2 spike protein using a magnetic-assisted electrochemical biosensor based on functionalized CoFe(2)O(4) magnetic nanomaterials.|https://dx.doi.org/10.1016/j.talanta.2024.125986
+Calcinosis in systemic sclerosis: An update on pathogenesis, related complications, and management: A heavy burden still waiting to be lifted off patients' hands.|https://dx.doi.org/10.1016/j.semarthrit.2024.152431
+Eradication of Staphylococcus aureus in Implant-Associated Osteomyelitis by an Injectable in situ-Forming Depot Antibiotics Delivery System.|https://dx.doi.org/10.1093/infdis/jiae139
+Gut barrier dysfunction and the risk of ICU-acquired bacteremia- a case-control study.|https://dx.doi.org/10.1186/s13613-024-01280-8
+Vacuum-assisted mini-percutaneous nephrolithotomy is associated with lower rates of infectious complications compared to vacuum-cleaner procedure in patients at high risk for infections: a single-center experience.|https://dx.doi.org/10.1007/s00345-024-04897-3
+The Effectiveness of Perioperative Nursing Interventions for Surgical Site Infection Prevention in Orthopedic Surgery.|https://dx.doi.org/10.1002/aorn.14116
+Year-Over-Year Ventral Hernia Recurrence Rates and Risk Factors.|https://dx.doi.org/10.1001/jamasurg.2024.0233
+The real-time analysis of gastric juice (Endofaster) for detection of Helicobacter Pylori: a reliable tool in substitution of histology.|https://dx.doi.org/10.23736/S2724-5985.23.03480-0
+Sustaining the Continued Effectiveness of an Antimicrobial Stewardship Program in Preterm Infants.|https://dx.doi.org/10.3390/tropicalmed9030059
+Correlation between Oxidative Stress Markers and Periodontal Disease in Dogs.|https://dx.doi.org/10.3390/vetsci11030099
+Real-Life Treatment Outcome of Botulinum Toxin A Injection on Overactive Bladder and Voiding Dysfunction in Patients with Central Nervous System Lesions.|https://dx.doi.org/10.3390/toxins16030123
+Brucellar Endocarditis of the Tricuspid Valve: A Case Report and Review of the Literature.|https://dx.doi.org/10.3390/pathogens13030239
