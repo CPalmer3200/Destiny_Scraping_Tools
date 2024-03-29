@@ -16,3 +16,5 @@ Contribution of staphylococcal virulence factors in the pathogenesis of thrombos
 A Web-Based Dynamic Nomogram to Predict the Risk of Methicillin-Resistant Staphylococcal Infection in Patients with Pneumonia.|https://dx.doi.org/10.3390/diagnostics14060633
 Scientific Rationale and Clinical Basis for Clindamycin Use in the Treatment of Dermatologic Disease.|https://dx.doi.org/10.3390/antibiotics13030270
 Prevalence and determinants of impetigo in Ghana: a cross-sectional study.|https://dx.doi.org/10.1186/s12879-024-09242-y
+[Transoral robotic thyroidectomy via vestibular approach: a retrospective study of 107 cases in a single center].|https://dx.doi.org/10.3760/cma.j.cn112139-20230915-00123
+The Staphylococcus aureus regulatory program in a human skin-like environment.|https://dx.doi.org/10.1128/mbio.00453-24

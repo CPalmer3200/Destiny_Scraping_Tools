@@ -33,3 +33,8 @@ Hyperbaric Oxygen Therapy for Diabetic Foot Ulcers Based on Wagner Grading: A Sy
 Clinical guideline highlights for the hospitalist: Diagnosis and treatment of diabetes-related foot infections.|https://dx.doi.org/10.1002/jhm.13341
 Novel design and development of Centella Asiatica extract - loaded poloxamer/ZnO nanocomposite wound closure material to improve anti-bacterial action and enhanced wound healing efficacy in diabetic foot ulcer.|https://dx.doi.org/10.1016/j.reth.2024.03.006
 Diagnostic imaging of the diabetic foot: an EANM evidence-based guidance.|https://dx.doi.org/10.1007/s00259-024-06693-y
+Deap-seated infection and nonunion following internal fixation for Charcot foot deformity correction. A proportional meta-analysis of level 4 evidence.|https://dx.doi.org/10.1016/j.jos.2024.03.004
+Role of Indocyanine Green in Diagnosing Diabetic Ulcer: A Case Report.|https://dx.doi.org/10.7759/cureus.54905
+Therapeutic Effect of Silver Nanoparticles in the Management of Diabetic Ulcers: A Systematic Review and Meta-Analysis on RCTs.|https://dx.doi.org/10.1177/15347346241241836
+Effect of platelet-rich plasma on healing of lower extremity diabetic skin ulcers: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14856
+Antibiotic bone cement accelerates diabetic foot wound healing: Elucidating the role of ROCK1 protein expression.|https://dx.doi.org/10.1111/iwj.14590

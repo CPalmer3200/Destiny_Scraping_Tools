@@ -39,3 +39,6 @@ Antibacterial and self-healing sepiolite-based hybrid hydrogel for hemostasis an
 Nanoarchitectonics of Bimetallic Cu-/Co-Doped Nitrogen-Carbon Nanozyme-Functionalized Hydrogel with NIR-Responsive Phototherapy for Synergistic Mitigation of Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1021/acsami.4c01783
 Reduction in Pathogenic Biofilms by the Photoactive Composite of Bacterial Cellulose and Nanochitosan Dots under Blue and Green Light.|https://dx.doi.org/10.3390/jfb15030072
 Variable effects of exposure to ionic silver in wound-associated bacterial pathogens.|https://dx.doi.org/10.1093/lambio/ovae030
+Vanillin/fungal-derived carboxy methyl chitosan/polyvinyl alcohol hydrogels prepared by freeze-thawing for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130910
+Functional carbon dots-hydrogel complex for selective antibacterial and detection applications.|https://dx.doi.org/10.1016/j.saa.2024.124195
+A Biodegradable Janus Sponge for Negative Pressure Wound Therapy.|https://dx.doi.org/10.1021/acs.biomac.4c00046

@@ -8,3 +8,5 @@ Differentiation of keratinocytes or exposure to type 2 cytokines diminishes S. a
 Optimization and Validation of an FTIR-based, All-in-one System for Viable MDR Bacteria Detection in Combat-related Wound Infection.|https://dx.doi.org/10.1093/milmed/usae068
 Blockade of IL-13 signaling improves skin barrier function and biology in patients with moderate to severe atopic dermatitis.|https://dx.doi.org/10.1093/bjd/ljae138
 Adding Fuel to the Fire? The Skin Microbiome in Atopic Dermatitis.|https://dx.doi.org/10.1016/j.jid.2024.01.011
+State of the Art on the Role of Staphylococcus aureus Extracellular Vesicles in the Pathogenesis of Atopic Dermatitis.|https://dx.doi.org/10.3390/microorganisms12030531
+The Role of Extracellular Vesicles in Atopic Dermatitis.|https://dx.doi.org/10.3390/ijms25063255

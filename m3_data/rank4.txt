@@ -2,3 +2,6 @@ Fecal microbiota transplantation as an early therapeutic option in treatment ref
 Fecal microbiota transplantation stimulates type 2 and tolerogenic immune responses in a mouse model.|https://dx.doi.org/10.1016/j.anaerobe.2024.102841
 Clostridioides difficile infection promotes gastrointestinal dysfunction in human and mice post-acute phase of the disease.|https://dx.doi.org/10.1016/j.anaerobe.2024.102837
 Transplant of microbiota from Crohn's disease patients to germ-free mice results in colitis.|https://dx.doi.org/10.1080/19490976.2024.2333483
+Incidence of Colorectal Cancer After Intestinal Infection Due to Clostridioides difficile.|https://dx.doi.org/10.14740/wjon1802
+Assessment of Faecal Microbiota Transplant Stability in Deep-Freeze Conditions: A 12-Month Ex Vivo Viability Analysis.|https://dx.doi.org/10.1002/jcla.25023
+Gut Microbiome-Colorectal Cancer Relationship.|https://dx.doi.org/10.3390/microorganisms12030484

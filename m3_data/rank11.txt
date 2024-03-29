@@ -146,3 +146,17 @@ Vancomycin AUC(0-24) estimation using first-order pharmacokinetic methods in ped
 Harmonising IV Oxycodone with Paediatric Perioperative Medications: A Compatibility Study Through Y-Type Connectors.|https://dx.doi.org/10.2147/DDDT.S444581
 Coexisting Primary Sclerosing Cholangitis and Autoimmune Hepatitis: Overlapping Challenges in Diagnosis and Treatment.|https://dx.doi.org/10.1159/000537798
 Repurposing fusidic acid as an antimicrobial against enterococci with a low probability of resistance development.|https://dx.doi.org/10.1007/s10123-024-00506-w
+[Analysis of epidemiological characteristics and risk factors of catheter-associated urinary tract infections in patients with perineal and/or hip burns].|https://dx.doi.org/10.3760/cma.j.cn501225-20231027-00138
+Design and development of dual drug-loaded nanofibrous inserts for ophthalmic sustained delivery of AMK and VAN: Pharmacokinetic study in rabbit's eye.|https://dx.doi.org/10.1016/j.ijpharm.2024.124056
+Rapid detection of vanB vancomycin-resistant enterococci by laboratory-developed PCR on enrichment broth.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116233
+Functional carbon dots-hydrogel complex for selective antibacterial and detection applications.|https://dx.doi.org/10.1016/j.saa.2024.124195
+In vitro activity of selected antimicrobials against methicillin-resistant Staphylococcus pseudintermedius of canine origin in Poland.|https://dx.doi.org/10.1002/vms3.1385
+Comparison of Daily versus Admission and Discharge Surveillance Cultures for Multidrug-Resistant Organism Detection in an Intensive Care Unit.|https://dx.doi.org/10.1093/infdis/jiae162
+Squamous cell carcinoma arising from chronic osteomyelitis of the femur: A case report.|https://dx.doi.org/10.3892/br.2024.1759
+One-pot in situ synthesis of an NS-ligand co-doped metal-organic framework for the enhanced adsorption-assisted photocatalytic decontamination of metronidazole.|https://dx.doi.org/10.1039/d4ra00812j
+Clinical Efficacy of Nasal Screening and Methicillin-Resistant Staphylococcusaureus Decolonization in Total Hip Arthroplasty without Chlorhexidine Soap or Vancomycin.|https://dx.doi.org/10.1007/s43465-024-01109-3
+A Novel Regulator PepR Regulates the Expression of Dipeptidase Gene pepV in Bacillus thuringiensis.|https://dx.doi.org/10.3390/microorganisms12030579
+Vancomycin-Resistant Streptococcus thoraltensis: A Case Report of Bacterial Endocarditis and Review of Literature on Infections Caused by This Pathogen.|https://dx.doi.org/10.3390/microorganisms12030566
+Minocycline/Amoxicillin-Based Bismuth Quadruple Therapy for Helicobacter pylori Eradication: A Pilot Study.|https://dx.doi.org/10.3390/microorganisms12030429
+Prophylactic Antibiotics before Gynecologic Surgery: A Comprehensive Review of Guidelines.|https://dx.doi.org/10.3390/jpm14030327
+Promiscuous, persistent and problematic: insights into current enterococcal genomics to guide therapeutic strategy.|https://dx.doi.org/10.1186/s12866-024-03243-2

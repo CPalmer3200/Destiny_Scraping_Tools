@@ -54,3 +54,22 @@ COVID-19 Associated Cardiovascular Disease-Risks, Prevention and Management: Hea
 Post-Coronavirus Disease 2019 Pandemic Antimicrobial Resistance.|https://dx.doi.org/10.3390/antibiotics13030233
 The Impact of COVID-19 on Multidrug-Resistant Bacteria at a Slovenian Tertiary Medical Center.|https://dx.doi.org/10.3390/antibiotics13030214
 Antimicrobial Resistance in Qatar: Prevalence and Trends before and Amidst the COVID-19 Pandemic.|https://dx.doi.org/10.3390/antibiotics13030203
+Associations between neighborhood characteristics and child well-being before and during the COVID-19 pandemic: A repeated cross-sectional study in the environmental influences on child health outcome (ECHO) program.|https://dx.doi.org/10.1016/j.envres.2024.118765
+Hospitalizations and emergency department visits for self-harm in Canada during the first two years of the COVID-19 pandemic: A time series analysis.|https://dx.doi.org/10.1016/j.jad.2024.03.123
+Nanomolar anti-SARS-CoV-2 Omicron activity of the host-directed TMPRSS2 inhibitor N-0385 and synergistic action with direct-acting antivirals.|https://dx.doi.org/10.1016/j.antiviral.2024.105869
+Electrochemical genosensor based on RNA-responsive human telomeric G-quadruplex DNA: A proof-of-concept with SARS-CoV-2 RNA.|https://dx.doi.org/10.1016/j.talanta.2024.125916
+Duration of SARS-CoV-2 shedding: A systematic review.|https://dx.doi.org/10.7189/jogh.14.05005
+The Impacts of COVID-19 Restrictions on Quality Adjusted Life Years (QALY): Heterogeneous effects and post-pandemic recovery.|https://dx.doi.org/10.1371/journal.pone.0300891
+Impact of COVID-19 vaccination on liver transplant recipients. Experience in a reference center in Mexico.|https://dx.doi.org/10.1371/journal.pone.0301198
+The socioeconomic impact of the COVID-19 lockdown on families affected by childhood respiratory illnesses in Cape Town, South Africa.|https://dx.doi.org/10.1371/journal.pgph.0003020
+Changing COVID-19 cases and deaths detection in Florida.|https://dx.doi.org/10.1371/journal.pone.0299143
+Nirmatrelvir/ritonavir and remdesivir against symptomatic treatment in high-risk COVID-19 outpatients to prevent hospitalization or death during the Omicron era: a propensity score-matched study.|https://dx.doi.org/10.1177/20499361241236582
+The Global Impact of COVID-19: A Comprehensive Analysis of Its Effects on Various Aspects of Life.|https://dx.doi.org/10.1093/toxres/tfae045
+Candidemia in critically ill COVID-19 patients: Risk factors and impact on mortality.|https://dx.doi.org/10.1016/j.heliyon.2024.e28033
+Rapid Operationalization of COVID-19 Immunization Clinics With Medical and Physician Assistant Students Serving as Vaccinators.|https://dx.doi.org/10.1016/j.focus.2024.100199
+A Risk Model for 28-Day in-Hospital Mortality in 173 COVID-19 Patients Admission to ICU: A Retrospective Study.|https://dx.doi.org/10.2147/IDR.S447326
+Psychological distress among individuals with a suicide attempt or suicidal ideation and suicide attempts patterns: first two years of the pandemic.|https://dx.doi.org/10.3389/fpsyt.2024.1366191
+Prevalence and factors associated with fear of COVID-19 in military personnel during the second epidemic wave in Peru.|https://dx.doi.org/10.3389/fpsyt.2024.1309957
+COVID-19 vaccines breakthrough infection and adverse reactions in medical students: a nationwide survey in Iran.|https://dx.doi.org/10.3389/fpubh.2024.1348015
+Retrospective study of the impact of diabetes on the severity and prognosis of COVID‑19.|https://dx.doi.org/10.3892/etm.2024.12482
+Editorial: Prophylactic efficacy and safety of COVID-19 vaccines in preventing disease caused by various SARS CoV-2 variants.|https://dx.doi.org/10.3389/fcimb.2024.1384601

@@ -33,3 +33,13 @@ Short-term healthcare resource utilization associated with receipt of CDC-inform
 The primary prevention of pancreatic fistula using a vascularised rectus abdominis muscle flap - A porcine model.|https://dx.doi.org/10.1016/j.jpra.2024.02.005
 An integrative review of home care recommendations for women after caesarean section.|https://dx.doi.org/10.1002/nop2.2145
 Diagnostic imaging of the diabetic foot: an EANM evidence-based guidance.|https://dx.doi.org/10.1007/s00259-024-06693-y
+Clinical and treatment characteristics of infants and toddlers less than two years of age with hemophilia.|https://dx.doi.org/10.1182/bloodadvances.2023012486
+Interim Effectiveness of Updated 2023-2024 (Monovalent XBB.1.5) COVID-19 Vaccines Against COVID-19-Associated Hospitalization Among Adults Aged ≥18 Years with Immunocompromising Conditions - VISION Network, September 2023-February 2024.|https://dx.doi.org/10.15585/mmwr.mm7312a5
+[Congenital pulmonary malformations : Diagnosis and treatment].|https://dx.doi.org/10.1007/s00117-024-01291-3
+Perioperative oxygenation-what's the stress?|https://dx.doi.org/10.1016/j.bjao.2024.100277
+The potential epidemiologic, clinical, and economic value of a universal coronavirus vaccine: a modelling study.|https://dx.doi.org/10.1016/j.eclinm.2023.102369
+Clinical Profile and Prognosis of Patients with Left-Sided Infective Endocarditis with Surgical Indication Who Are Not Operated.|https://dx.doi.org/10.3390/microorganisms12030607
+Prophylactic Antibiotics before Gynecologic Surgery: A Comprehensive Review of Guidelines.|https://dx.doi.org/10.3390/jpm14030327
+A New Cloud-Native Tool for Pharmacogenetic Analysis.|https://dx.doi.org/10.3390/genes15030352
+Evaluation of the Cost-Effectiveness of Evidence-Based Interventions to Increase Female Breast and Cervical Cancer Screens: A Systematic Review.|https://dx.doi.org/10.3390/cancers16061134
+Prevention of postoperative nausea and vomiting after orthognathic surgery: a scoping review.|https://dx.doi.org/10.1186/s12871-024-02510-z

@@ -47,3 +47,21 @@ Influences of Different Torques on the Size of the Microgap and Bacterial Leakag
 Predicting Increased Incidence of Common Antibiotic-Resistant and Antibiotic-Associated Pathogens Using Ensemble Species Distribution Modeling.|https://dx.doi.org/10.1093/infdis/jiae145
 Infections in Disorders of Immune Regulation.|https://dx.doi.org/10.3390/pathogens13030259
 The Influence of L-Lysine-Alpha-Oxidase on the Biofilm Formation of Opportunistic Microorganisms Associated with Inflammatory Diseases of the Urinary Tract.|https://dx.doi.org/10.3390/pathogens13030252
+New pyridine-based chalcones and pyrazolines with anticancer, antibacterial, and antiplasmodial activities.|https://dx.doi.org/10.1002/ardp.202400081
+Antimicrobial fibres derived from aryl-diazonium conjugation of chitosan with Harakeke (Phormium tenax) and Hemp (Cannabis sativa) Hurd.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130840
+Design and development of dual drug-loaded nanofibrous inserts for ophthalmic sustained delivery of AMK and VAN: Pharmacokinetic study in rabbit's eye.|https://dx.doi.org/10.1016/j.ijpharm.2024.124056
+Vanillin/fungal-derived carboxy methyl chitosan/polyvinyl alcohol hydrogels prepared by freeze-thawing for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130910
+Highly flexible carbon nitride-polyethylene glycol-cellulose acetate film with photocatalytic antibacterial activity for fruit preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131161
+Alkaline protease based hydrothermal synthesis of novel Pd/CuO/ZnO nanocomposite: A new entry into photocatalytic and biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131155
+Copper perchlorate catalyzed oxidative cyclisation of a novel bishydrazone ligand, formation of an unusual copper complex and in vitro biological implications.|https://dx.doi.org/10.1016/j.jinorgbio.2024.112538
+Functional carbon dots-hydrogel complex for selective antibacterial and detection applications.|https://dx.doi.org/10.1016/j.saa.2024.124195
+A Biodegradable Janus Sponge for Negative Pressure Wound Therapy.|https://dx.doi.org/10.1021/acs.biomac.4c00046
+The Staphylococcus aureus regulatory program in a human skin-like environment.|https://dx.doi.org/10.1128/mbio.00453-24
+Prevalence and antimicrobial resistance profiles of mastitis causing bacteria isolated from dairy goats in Mukurweini Sub-County, Nyeri County, Kenya.|https://dx.doi.org/10.1002/vms3.1420
+Robust Superhydrophobic Composite Fabric with Self-Healing and Chemical Durability.|https://dx.doi.org/10.1002/smll.202304894
+Effectiveness of hydrogen peroxide wipes for surface disinfection in healthcare facilities.|https://dx.doi.org/10.7416/ai.2024.2621
+In vitro and in silico biopotentials of phytochemical compositions and antistaphylococcal and antipseudomonal activities of volatile compounds of Argania spinosa (L.) seed oil.|https://dx.doi.org/10.3389/fbioe.2024.1348344
+Intramedullary arthrodesis of the knee joint with additional femoral neck screw to prevent periprosthetic fracture of the proximal femur. A case report.|https://dx.doi.org/10.3205/iprs000184
+Evaluation of Staphylococcus Aureus and Pseudomonas Aeruginosa in Saliva of Patients with Acute Myeloid Leukemia.|https://dx.doi.org/10.30476/dentjods.2023.97098.1989
+Silver nanoparticles synthesized from Pseudomonas aeruginosa pyoverdine: Antibiofilm and antivirulence agents.|https://dx.doi.org/10.1016/j.bioflm.2024.100192
+Synthesis of silane- and quaternary ammonium-bearing copolymers and application as a coating resin on cotton fabric.|https://dx.doi.org/10.55730/1300-0527.3616

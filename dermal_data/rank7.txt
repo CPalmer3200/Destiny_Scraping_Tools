@@ -12,3 +12,5 @@ Status of B-Lymphocyte Subsets and Their Homing Markers in Patients With Post-Ka
 Merging Modular Molecular Design with High Throughput Screening of Cell Adhesion on Antimicrobial Supramolecular Biomaterials.|https://dx.doi.org/10.1002/marc.202300638
 Comparative immunohistochemical analysis of inflammatory cytokines in distinct subtypes of Sweet syndrome.|https://dx.doi.org/10.3389/fimmu.2024.1355681
 Ketotifen directly modifies the fibrotic response of human skin fibroblasts.|https://dx.doi.org/10.1038/s41598-024-57776-7
+Optimizing Ideal Thickness of Sections for Epidermis in Intra-Operative Frozen Sections.|https://dx.doi.org/10.31557/APJCP.2024.25.3.735
+Acellular Dermal Matrices as an New Alternative for Treatment in Reproductive Organ Static Disorders: A Pilot Study.|https://dx.doi.org/10.3390/jcm13061550

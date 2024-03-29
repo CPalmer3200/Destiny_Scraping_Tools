@@ -45,3 +45,21 @@ Sustaining the Continued Effectiveness of an Antimicrobial Stewardship Program i
 Correlation between Oxidative Stress Markers and Periodontal Disease in Dogs.|https://dx.doi.org/10.3390/vetsci11030099
 Real-Life Treatment Outcome of Botulinum Toxin A Injection on Overactive Bladder and Voiding Dysfunction in Patients with Central Nervous System Lesions.|https://dx.doi.org/10.3390/toxins16030123
 Brucellar Endocarditis of the Tricuspid Valve: A Case Report and Review of the Literature.|https://dx.doi.org/10.3390/pathogens13030239
+Comparative evaluation of volumetric changes between two pediatric rotary files (Kedo-S plus, Kedo-SG blue) and manual files (hand K-files) during canal preparation of primary mandibular molars: an in-vitro nano-CT analysis.|https://dx.doi.org/10.22514/jocpd.2024.033
+[Application of uniportal video-assisted thoracoscopic surgery in the treatment of tuberculous destroyed lung].|https://dx.doi.org/10.3760/cma.j.cn112139-20230706-00259
+[Technical exploration and early results of two-port total thoracoscopic aortic-mitral double-valve replacement].|https://dx.doi.org/10.3760/cma.j.cn112139-20231110-00221
+Deap-seated infection and nonunion following internal fixation for Charcot foot deformity correction. A proportional meta-analysis of level 4 evidence.|https://dx.doi.org/10.1016/j.jos.2024.03.004
+[Clinical effects of flaps or myocutaneous flaps transplantation after titanium mesh-retaining debridement in repairing the wounds with exposed titanium mesh after cranioplasty].|https://dx.doi.org/10.3760/cma.j.cn501225-20231031-00163
+[Clinical characteristics of 11 patients with Vibrio vulnificus infection and the establishment of a rapid diagnosis procedure for this disease].|https://dx.doi.org/10.3760/cma.j.cn501225-20230803-00036
+How to reduce anterior resection syndrome and post-operative complication after rectosigmoid resection.|https://dx.doi.org/10.1136/ijgc-2024-005306
+Clostridium difficile Infection Prior to Total Hip Arthroplasty Independently Increases the Risk of Periprosthetic Joint Infection.|https://dx.doi.org/10.1016/j.arth.2024.03.058
+Debridement, Antibiotics, and Implant Retention in Unicompartmental Knee Arthroplasty Infection.|https://dx.doi.org/10.1016/j.arth.2024.03.057
+Latent class analysis of chest CT abnormalities to define subphenotypes in patients with MPO-ANCA-positive microscopic polyangiitis.|https://dx.doi.org/10.1016/j.rmed.2024.107613
+Reverse Shoulder Arthroplasty or Nothing for Patients with Displaced Proximal Humeral Fractures. A Randomized Controlled Trial.|https://dx.doi.org/10.1016/j.jse.2024.02.023
+Recent advances towards point-of-care devices for fungal detection: Emphasizing the role of plasmonic nanomaterials in current and future technologies.|https://dx.doi.org/10.1016/j.bios.2024.116243
+Epidemiological and clinical insights into the enterovirus D68 upsurge in Europe 2021/22 and the emergence of novel B3-derived lineages, ENPEN multicentre study.|https://dx.doi.org/10.1093/infdis/jiae154
+Potentiation of Brain Bioavailability Using Thermoreversible Cubosomal Formulation.|https://dx.doi.org/10.1021/acs.molpharmaceut.4c00085
+Clinical and radiological septic joint analysis of spontaneous sternoclavicular joint infections: Achieving the best Outcomes- A systems engineering approach.|https://dx.doi.org/10.1093/ejcts/ezae128
+Update and approach to patients with brain abscess.|https://dx.doi.org/10.1097/QCO.0000000000001014
+OXIDATIVE study: A pilot prospective observational cohort study protocol examining the influence of peri-reperfusion hyperoxemia and immune dysregulation on early allograft dysfunction after orthotopic liver transplantation.|https://dx.doi.org/10.1371/journal.pone.0301281
+A wireless, implantable bioelectronic system for monitoring urinary bladder function following surgical recovery.|https://dx.doi.org/10.1073/pnas.2400868121
