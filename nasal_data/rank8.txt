@@ -63,3 +63,17 @@ Clinical and radiological septic joint analysis of spontaneous sternoclavicular 
 Update and approach to patients with brain abscess.|https://dx.doi.org/10.1097/QCO.0000000000001014
 OXIDATIVE study: A pilot prospective observational cohort study protocol examining the influence of peri-reperfusion hyperoxemia and immune dysregulation on early allograft dysfunction after orthotopic liver transplantation.|https://dx.doi.org/10.1371/journal.pone.0301281
 A wireless, implantable bioelectronic system for monitoring urinary bladder function following surgical recovery.|https://dx.doi.org/10.1073/pnas.2400868121
+The role of diabetic foot treatment in improving left ventricular function: Insights from global longitudinal strain echocardiography.|https://dx.doi.org/10.1371/journal.pone.0299887
+Differential diagnosis between kaposi sarcoma-associated herpesvirus cytokine syndrome and hemophagocytic lymphohistiocytosis.|https://dx.doi.org/10.1007/s15010-024-02252-7
+Energy-Based Devices for the Treatment of Cutaneous Verrucae: A Systematic Review.|https://dx.doi.org/10.1097/DSS.0000000000004069
+Effectiveness and safety of CT-guided drainage of abdominal abscesses with small and extra-small-bore drains: a single-centre observational study.|https://dx.doi.org/10.5114/pjr.2024.136420
+Intranasal boosting with RBD-HR protein vaccine elicits robust mucosal and systemic immune responses.|https://dx.doi.org/10.1016/j.gendis.2023.06.035
+Non-antigen-specific Immunoadsorption Is a Risk Factor for Severe Postoperative Infections in ABO-Incompatible Kidney Transplant Recipients.|https://dx.doi.org/10.3389/ti.2024.12263
+Unveiling a Coalescing Catastrophe: Pre-pyloric Perforation Co-existing With Sigmoid Volvulus in a Middle-Aged Patient.|https://dx.doi.org/10.7759/cureus.55042
+Necrotizing Parasagittal Meningioma in Patient with Systemic Lupus Erythematosus after Treatments with Methotrexate and Hydroxychloroquine.|https://dx.doi.org/10.1055/a-2277-4296
+Basal cell carcinoma-a clinical indicator of immunosuppression.|https://dx.doi.org/10.3389/fmed.2024.1381492
+Surgical Management and Clinical Outcomes of Extracranial Carotid Artery Pseudoaneurysms.|https://dx.doi.org/10.7812/TPP/23.090
+[Minimally invasive removal of dumbbell shaped schwannomas with transforaminal lumbar fusion: a retrospective study with a minimum 3-year follow-up].|https://dx.doi.org/10.17116/neiro20248802147
+Utilizing Video-Assisted Retroperitoneal Debridement for Retroperitoneal Abscess Following Penetrating Trauma.|https://dx.doi.org/10.1177/00031348241241651
+The impact of preoperative biliary drainage on postoperative healthcare-associated infections and clinical outcomes following pancreaticoduodenectomy: a ten-year retrospective analysis.|https://dx.doi.org/10.1186/s12879-024-09246-8
+Impact of Preformed Donor-specific Antibodies in Comparison to ABO Incompatibility in Living Donor Liver Transplantation: A Propensity Score-Matched Analysis.|https://dx.doi.org/10.1097/TP.0000000000005019

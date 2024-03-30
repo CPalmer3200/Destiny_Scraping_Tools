@@ -43,3 +43,10 @@ Prophylactic Antibiotics before Gynecologic Surgery: A Comprehensive Review of G
 A New Cloud-Native Tool for Pharmacogenetic Analysis.|https://dx.doi.org/10.3390/genes15030352
 Evaluation of the Cost-Effectiveness of Evidence-Based Interventions to Increase Female Breast and Cervical Cancer Screens: A Systematic Review.|https://dx.doi.org/10.3390/cancers16061134
 Prevention of postoperative nausea and vomiting after orthognathic surgery: a scoping review.|https://dx.doi.org/10.1186/s12871-024-02510-z
+Enhanced antibacterial properties of polyvinyl alcohol/starch/chitosan films with NiO-CuO nanoparticles for food packaging.|https://dx.doi.org/10.1038/s41598-024-58210-8
+Frequency of drug-resistant bacterial isolates among pregnant women with UTI in maternity and children's hospital, Bisha, Saudi Arabia.|https://dx.doi.org/10.1038/s41598-024-58275-5
+Safety and efficacy of a reduced frequency viral monitoring strategy for Epstein-Barr virus, cytomegalovirus, and BK polyomavirus post-kidney transplant: A quality assurance initiative.|https://dx.doi.org/10.1111/ctr.15292
+Cardiac allograft vasculopathy in heart transplant recipients from hepatitis C viremic donors.|https://dx.doi.org/10.1111/ctr.15294
+Deep Learning-Based Multi-Class Segmentation of the Paranasal Sinuses of Sinusitis Patients Based on Computed Tomographic Images.|https://dx.doi.org/10.3390/s24061933
+Pap Smear Cancer Coverage in Brazilian Capitals including the Pandemic Period Caused by the SARS-CoV-2 Virus: Ecological Study.|https://dx.doi.org/10.3390/ijerph21030303
+Effects of the COVID-19 Pandemic on Everyday Neurosurgical Practice in Alsace, France: Lessons Learned, Current Perspectives, and Future Challenges-Preliminary Results of a Longitudinal Multicentric Study Registry.|https://dx.doi.org/10.3390/medicina60030390

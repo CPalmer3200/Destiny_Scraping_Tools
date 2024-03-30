@@ -18,3 +18,6 @@ Scientific Rationale and Clinical Basis for Clindamycin Use in the Treatment of 
 Prevalence and determinants of impetigo in Ghana: a cross-sectional study.|https://dx.doi.org/10.1186/s12879-024-09242-y
 [Transoral robotic thyroidectomy via vestibular approach: a retrospective study of 107 cases in a single center].|https://dx.doi.org/10.3760/cma.j.cn112139-20230915-00123
 The Staphylococcus aureus regulatory program in a human skin-like environment.|https://dx.doi.org/10.1128/mbio.00453-24
+Allosteric Probe-Based Colorimetric Assay for Direct Identification and Sensitive Analysis of Methicillin Resistance of Staphylococcus aureus.|https://dx.doi.org/10.4014/jmb.2312.12042
+Whole Genome Sequencing and Comparative Genomics of Six Staphylococcus schleiferi and Staphylococcus coagulans Isolates.|https://dx.doi.org/10.3390/genes15030284
+Design, Synthesis, and Biological Evaluation of 5-(5-Iodo-2-isopropyl-4-methoxyphenoxy)pyrimidine-2,4-diamine (AF-353) Derivatives as Novel DHFR Inhibitors against Staphylococcus aureus.|https://dx.doi.org/10.1021/acs.jmedchem.3c02355

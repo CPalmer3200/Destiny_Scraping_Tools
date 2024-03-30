@@ -73,3 +73,21 @@ Prevalence and factors associated with fear of COVID-19 in military personnel du
 COVID-19 vaccines breakthrough infection and adverse reactions in medical students: a nationwide survey in Iran.|https://dx.doi.org/10.3389/fpubh.2024.1348015
 Retrospective study of the impact of diabetes on the severity and prognosis of COVID‑19.|https://dx.doi.org/10.3892/etm.2024.12482
 Editorial: Prophylactic efficacy and safety of COVID-19 vaccines in preventing disease caused by various SARS CoV-2 variants.|https://dx.doi.org/10.3389/fcimb.2024.1384601
+COVID-19 mortality sentinel surveillance at a tertiary referral hospital in Lusaka, Zambia, 2020-2021.|https://dx.doi.org/10.1371/journal.pgph.0003063
+Medical Misinformation in Polish on the World Wide Web During the COVID-19 Pandemic Period: Infodemiology Study.|https://dx.doi.org/10.2196/48130
+Challenges in conducting efficacy trials for new COVID-19 vaccines in developed countries.|https://dx.doi.org/10.1177/17407745241238925
+COVID-19 vaccine effectiveness against symptomatic infection with SARS-CoV-2 BA.1/BA.2 lineages among adults and adolescents in a multicentre primary care study, Europe, December 2021 to June 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.13.2300403
+Editorial: Vaccines and immunization services during the pandemic era and beyond.|https://dx.doi.org/10.3389/frhs.2024.1394381
+The Association between COVID-19 Infection and Gabrin Sign: A Case-Control Study.|https://dx.doi.org/10.4103/idoj.idoj_222_23
+Factors associated with prolonged COVID-related PTSD-like symptoms among adults diagnosed with mild COVID-19 in Poland.|https://dx.doi.org/10.3389/fpsyg.2024.1358979
+Families adapting to COVID-19 in urban Bangladesh: "It felt like the sky fell apart and we were in shock".|https://dx.doi.org/10.3389/fpsyg.2024.1296083
+Study protocol: Project 2VIDA! SARS-CoV-2 vaccine intervention delivery for adults in Southern California.|https://dx.doi.org/10.3389/fpubh.2024.1291332
+Effectiveness of the SARS-CoV-2 Vaccination in Preventing Severe Disease-Related Outcomes: A Population-Based Study in the Italian Province of Bolzano (South Tyrol).|https://dx.doi.org/10.3389/ijph.2024.1606792
+Sleep disorders, stress coping strategies and neurobehavioral aspects: an outlook on the impact of covid‑19 in first‑year resident physicians.|https://dx.doi.org/10.3892/br.2024.1760
+Impact of the SARS-CoV-2 Spike Protein on the Innate Immune System: A Review.|https://dx.doi.org/10.7759/cureus.57008
+Quantifying the Adverse Effects of Long COVID on Individuals' Health After Infection: A Propensity Score Matching Design Study.|https://dx.doi.org/10.2147/RMHP.S446321
+Pooling of samples to optimise SARS-CoV-2 detection in nasopharyngeal swabs and gargle lavage self-samples for covid-19 diagnostics and surveillance.|https://dx.doi.org/10.1080/23744235.2024.2333438
+Treatment of Fanconi anemia patient with synchronous esophageal and tongue cancer in COVID-19 era: a case report.|https://dx.doi.org/10.3857/roj.2023.00654
+COVID-19 outbreaks surveillance through text mining applied to electronic health records.|https://dx.doi.org/10.1186/s12879-024-09250-y
+An effective COVID-19 vaccine hesitancy intervention focused on the relative risks of vaccination and infection.|https://dx.doi.org/10.1038/s41598-024-57841-1
+February 2024 ACIP Meeting Update: Meningococcal, RSV, COVID-19, and Other Vaccines.|https://dx.doi.org/10.1542/peds.2024-066653

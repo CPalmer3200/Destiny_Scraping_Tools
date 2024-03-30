@@ -65,3 +65,15 @@ Intramedullary arthrodesis of the knee joint with additional femoral neck screw 
 Evaluation of Staphylococcus Aureus and Pseudomonas Aeruginosa in Saliva of Patients with Acute Myeloid Leukemia.|https://dx.doi.org/10.30476/dentjods.2023.97098.1989
 Silver nanoparticles synthesized from Pseudomonas aeruginosa pyoverdine: Antibiofilm and antivirulence agents.|https://dx.doi.org/10.1016/j.bioflm.2024.100192
 Synthesis of silane- and quaternary ammonium-bearing copolymers and application as a coating resin on cotton fabric.|https://dx.doi.org/10.55730/1300-0527.3616
+Successful treatment of a unique case of solitary primary iliopsoas abscess caused by Streptococcus dysgalactiae subspecies equisimilis: A case report.|https://dx.doi.org/10.1097/MD.0000000000037602
+Ultralow Loading Copper-Intercalated MoO(3) Nanobelts with High Activity against Antibiotic-Resistant Bacteria.|https://dx.doi.org/10.1021/acsami.3c19062
+Time-Resolved Killing of Individual Bacterial Cells by a Polycationic Antimicrobial Polymer.|https://dx.doi.org/10.1021/acsbiomaterials.4c00263
+Two novel synthetic xanthenodiones as antimicrobial, anti-adhesive and antibiofilm compounds against methicillin resistant Staphylococcus aureus.|https://dx.doi.org/10.1007/s42770-024-01305-1
+Two undescribed compounds from Aspergillus Niger, an endophytic fungus isolated from Camellia flavida.|https://dx.doi.org/10.1080/14786419.2024.2334325
+Design of a Novel Lysine Isopeptide 1018KI11 with Potent Antimicrobial Activity as a Safe and Stable Food Preservative Candidate.|https://dx.doi.org/10.1021/acs.jafc.3c09484
+Bacterial elimination via cell membrane penetration by violet phosphorene peripheral sub-nanoneedles combined with oxidative stress.|https://dx.doi.org/10.1039/d3sc05517e
+Antimicrobial Activity of Silver Nanoparticles Synthesized Using Ocimum tenuiflorum and Ocimum gratissimum Herbal Formulations.|https://dx.doi.org/10.7759/cureus.54994
+Retracted: Divergent Analyses of Genetic Relatedness and Evidence-Based Assessment of Therapeutics of Staphylococcus aureus from Semi-intensive Dairy Systems.|https://dx.doi.org/10.1155/2024/9763963
+Antimicrobial resistance of clinical bacterial isolates in China: current status and trends.|https://dx.doi.org/10.1093/jacamr/dlae052
+The Role of Shear Rates on Amyloid Formation from Biofilm Peptides Phenol Soluble Modulins.|https://dx.doi.org/10.1016/j.bpj.2024.03.036
+In vitro antimicrobial and antibiofilm screening of eighteen Iranian medicinal plants.|https://dx.doi.org/10.1186/s12906-024-04437-x

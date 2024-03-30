@@ -38,3 +38,4 @@ Role of Indocyanine Green in Diagnosing Diabetic Ulcer: A Case Report.|https://d
 Therapeutic Effect of Silver Nanoparticles in the Management of Diabetic Ulcers: A Systematic Review and Meta-Analysis on RCTs.|https://dx.doi.org/10.1177/15347346241241836
 Effect of platelet-rich plasma on healing of lower extremity diabetic skin ulcers: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14856
 Antibiotic bone cement accelerates diabetic foot wound healing: Elucidating the role of ROCK1 protein expression.|https://dx.doi.org/10.1111/iwj.14590
+The role of diabetic foot treatment in improving left ventricular function: Insights from global longitudinal strain echocardiography.|https://dx.doi.org/10.1371/journal.pone.0299887

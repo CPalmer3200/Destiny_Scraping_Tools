@@ -160,3 +160,5 @@ Vancomycin-Resistant Streptococcus thoraltensis: A Case Report of Bacterial Endo
 Minocycline/Amoxicillin-Based Bismuth Quadruple Therapy for Helicobacter pylori Eradication: A Pilot Study.|https://dx.doi.org/10.3390/microorganisms12030429
 Prophylactic Antibiotics before Gynecologic Surgery: A Comprehensive Review of Guidelines.|https://dx.doi.org/10.3390/jpm14030327
 Promiscuous, persistent and problematic: insights into current enterococcal genomics to guide therapeutic strategy.|https://dx.doi.org/10.1186/s12866-024-03243-2
+A Clinico-Epidemiological Study of Fixed Drug Eruption with a Special Focus on the Causative Agent and the Clinical Patterns.|https://dx.doi.org/10.4103/idoj.idoj_599_22
+Antimicrobial resistance of clinical bacterial isolates in China: current status and trends.|https://dx.doi.org/10.1093/jacamr/dlae052
