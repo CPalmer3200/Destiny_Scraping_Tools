@@ -51,3 +51,4 @@ Clostridium difficile Infection Prior to Total Hip Arthroplasty Independently In
 Effect of Acute Ketamine Treatment on Sympathetic Regulation Indexed by Electrodermal Activity in Adolescent Major Depression.|https://dx.doi.org/10.3390/ph17030358
 Exploring the Role of Serum Osteonectin and Hsp27 in Pediatric MAFLD Diagnosis and Cardiometabolic Health.|https://dx.doi.org/10.3390/nu16060866
 Gastrointestinal infections and gastrointestinal haemorrhage are underestimated but serious adverse events in chimeric antigen receptor T-cell recipients: A real-world study.|https://dx.doi.org/10.1038/s41417-024-00752-0
+Comparison of Cefazolin and Ceftriaxone Enterobacterales Susceptibilities for Inpatient Treatment of Urinary Tract Infections and Risk of Hospital-Onset Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.clinthera.2024.02.011

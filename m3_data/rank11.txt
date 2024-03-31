@@ -162,3 +162,7 @@ Prophylactic Antibiotics before Gynecologic Surgery: A Comprehensive Review of G
 Promiscuous, persistent and problematic: insights into current enterococcal genomics to guide therapeutic strategy.|https://dx.doi.org/10.1186/s12866-024-03243-2
 A Clinico-Epidemiological Study of Fixed Drug Eruption with a Special Focus on the Causative Agent and the Clinical Patterns.|https://dx.doi.org/10.4103/idoj.idoj_599_22
 Antimicrobial resistance of clinical bacterial isolates in China: current status and trends.|https://dx.doi.org/10.1093/jacamr/dlae052
+Photocatalytic decomposition of metronidazole by zinc hexaferrite coated with bismuth oxyiodide magnetic nanocomposite: Advanced modelling and optimization with artificial neural network.|https://dx.doi.org/10.1016/j.chemosphere.2024.141770
+Trinitroglycerin-loaded chitosan nanogels: Shedding light on cytotoxicity, antioxidativity, and antibacterial activities.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130654
+When it rains it pours: an increased prevalence of intestinal carriage of vancomycin-resistant Enterococcus faecium related to higher use of oral vancomycin in a tertiary care Hungarian clinical center during the years of the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.jgar.2024.03.004
+Impact of physical build on serum vancomycin concentrations of patients undergoing hemodialysis: A retrospective cohort study at an acute care hospital.|https://dx.doi.org/10.1016/j.jiac.2024.03.016

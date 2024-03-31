@@ -42,3 +42,7 @@ Variable effects of exposure to ionic silver in wound-associated bacterial patho
 Vanillin/fungal-derived carboxy methyl chitosan/polyvinyl alcohol hydrogels prepared by freeze-thawing for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130910
 Functional carbon dots-hydrogel complex for selective antibacterial and detection applications.|https://dx.doi.org/10.1016/j.saa.2024.124195
 A Biodegradable Janus Sponge for Negative Pressure Wound Therapy.|https://dx.doi.org/10.1021/acs.biomac.4c00046
+Examining the wound healing potential of curcumin-infused electrospun nanofibers from polyglutamic acid and gum arabic.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131237
+Enhanced antibacterial activity of porous chitosan-based hydrogels crosslinked with gelatin and metal ions.|https://dx.doi.org/10.1038/s41598-024-58174-9
+A nano-composite hyaluronic acid-based hydrogel efficiently antibacterial and scavenges ROS for promoting infected diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122064
+Insect chitosan/pullulan/gallium photo-crosslinking hydrogels with multiple bioactivities promote MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122045

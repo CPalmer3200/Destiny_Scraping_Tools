@@ -91,3 +91,16 @@ Treatment of Fanconi anemia patient with synchronous esophageal and tongue cance
 COVID-19 outbreaks surveillance through text mining applied to electronic health records.|https://dx.doi.org/10.1186/s12879-024-09250-y
 An effective COVID-19 vaccine hesitancy intervention focused on the relative risks of vaccination and infection.|https://dx.doi.org/10.1038/s41598-024-57841-1
 February 2024 ACIP Meeting Update: Meningococcal, RSV, COVID-19, and Other Vaccines.|https://dx.doi.org/10.1542/peds.2024-066653
+PANoptosis, an indicator of COVID-19 severity and outcomes.|https://dx.doi.org/10.1093/bib/bbae124
+Clinical characteristics and outcomes among hospitalised COVID-19 patients across epidemic waves in Spain: An unCoVer analysis.|https://dx.doi.org/10.1016/j.medcli.2023.12.030
+New conjugates based on N4-hydroxycytidine with more potent antiviral efficacy in vitro than EIDD-2801 against SARS-CoV-2 and other human coronaviruses.|https://dx.doi.org/10.1016/j.antiviral.2024.105871
+Unmasking the triad of burnout, absenteeism, and poor sleep among healthcare workers during the third wave of COVID-19 pandemics. Results from the national AMADEUS study.|https://dx.doi.org/10.1016/j.jad.2024.03.157
+Effectiveness of COVID-19 vaccines against severe outcomes in cancer patients: Real-world evidence from self-controlled risk interval and retrospective cohort studies.|https://dx.doi.org/10.1016/j.jiph.2024.03.015
+Maternal mortality and COVID-19: A nationwide ecological analysis from Ecuador.|https://dx.doi.org/10.1177/17455057231219607
+Multi-country case study on school health policy and its implementation in relation to COVID-19 control in Micronesia Small Islands Developing States.|https://dx.doi.org/10.1186/s41182-024-00590-8
+Preclinical evaluation of the SARS-CoV-2 M(pro) inhibitor RAY1216 shows improved pharmacokinetics compared with nirmatrelvir.|https://dx.doi.org/10.1038/s41564-024-01618-9
+A new DNA aptamer which binds to SARS-CoV-2 spike protein and reduces pro-inflammatory response.|https://dx.doi.org/10.1038/s41598-024-58315-0
+Covid-19 in Parkinson's Disease treated by drugs or brain stimulation.|https://dx.doi.org/10.1016/j.nrleng.2021.07.005
+Safety of cricotracheostomy with skin and tracheal membrane flaps for severe COVID-19 patients.|https://dx.doi.org/10.1016/j.anl.2024.03.003
+Surgical treatment of sacral pressure injury in ambulating patients during the COVID-19 pandemic: A prospective cohort with complications analysis and elaboration of a surgical treatment protocol.|https://dx.doi.org/10.1016/j.bjps.2023.09.021
+Reduced HDL-cholesterol in long COVID-19: A key metabolic risk factor tied to disease severity.|https://dx.doi.org/10.1016/j.clinsp.2024.100344

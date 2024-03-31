@@ -77,3 +77,17 @@ Surgical Management and Clinical Outcomes of Extracranial Carotid Artery Pseudoa
 Utilizing Video-Assisted Retroperitoneal Debridement for Retroperitoneal Abscess Following Penetrating Trauma.|https://dx.doi.org/10.1177/00031348241241651
 The impact of preoperative biliary drainage on postoperative healthcare-associated infections and clinical outcomes following pancreaticoduodenectomy: a ten-year retrospective analysis.|https://dx.doi.org/10.1186/s12879-024-09246-8
 Impact of Preformed Donor-specific Antibodies in Comparison to ABO Incompatibility in Living Donor Liver Transplantation: A Propensity Score-Matched Analysis.|https://dx.doi.org/10.1097/TP.0000000000005019
+The usability and outcomes of self-monitored surgical wound healing using a smartphone based application by patients following neurosurgery.|https://dx.doi.org/10.1016/j.jhin.2024.03.011
+BISHOP FLAP AND SIGMA FLAP TO REPAIR SURGICAL DEFECTS IN HIGH-TENSION ANATOMICAL REGIONS.|https://dx.doi.org/10.1016/j.ad.2024.03.022
+Clinical characteristics and risk factors for septic shock in patients with pyometra: A retrospective multicenter cohort study.|https://dx.doi.org/10.1016/j.jiph.2024.03.019
+Modified FOLFIRINOX (mFOLFIRINOX) as neoadjuvant therapy and 'salvage' in patients with high risk locally advanced rectal cancers - tolerance and early outcomes.|https://dx.doi.org/10.4103/jcrt.jcrt_225_22
+Robotic repair of moderate-sized midline ventral hernias reduced complications, readmissions, and length of hospitalization compared to open techniques.|https://dx.doi.org/10.1007/s11701-024-01909-7
+Utilization of immediate extubation in a multidisciplinary pathway for pediatric liver transplantation associated with improved postoperative outcomes.|https://dx.doi.org/10.1111/petr.14722
+Abdominal abscess caused by Raoultella ornithinolytica secondary to postoperative gastric fistula: case report and review of literature.|https://dx.doi.org/10.1186/s12879-024-09234-y
+Gasdermin D promotes influenza virus-induced mortality through neutrophil amplification of inflammation.|https://dx.doi.org/10.1038/s41467-024-47067-0
+Computed Tomography Angiography After Transcatheter and Surgical Aortic Interventions.|https://dx.doi.org/10.1016/j.rcl.2024.02.002
+Role of Radiology in Assessment of Postoperative Complications of Heart Transplantation.|https://dx.doi.org/10.1016/j.rcl.2023.12.002
+The Role of Microsurgery in Coverage of Defects of the Hand.|https://dx.doi.org/10.1016/j.hcl.2023.10.003
+Protective mucosal SARS-CoV-2 antibodies in the majority of the general population in the Netherlands.|https://dx.doi.org/10.1016/j.mucimm.2024.03.008
+Asthma loss of control after switch from anti-IL5/5R drugs to dupilumab in severe eosinophilic asthma: a case series.|https://dx.doi.org/10.1016/j.jaip.2024.03.037
+Minimally Invasive Approaches to Mitral Valve Surgery: Where Are We Now? A Narrative Review.|https://dx.doi.org/10.1016/j.cjca.2024.03.017

@@ -50,3 +50,7 @@ Cardiac allograft vasculopathy in heart transplant recipients from hepatitis C v
 Deep Learning-Based Multi-Class Segmentation of the Paranasal Sinuses of Sinusitis Patients Based on Computed Tomographic Images.|https://dx.doi.org/10.3390/s24061933
 Pap Smear Cancer Coverage in Brazilian Capitals including the Pandemic Period Caused by the SARS-CoV-2 Virus: Ecological Study.|https://dx.doi.org/10.3390/ijerph21030303
 Effects of the COVID-19 Pandemic on Everyday Neurosurgical Practice in Alsace, France: Lessons Learned, Current Perspectives, and Future Challenges-Preliminary Results of a Longitudinal Multicentric Study Registry.|https://dx.doi.org/10.3390/medicina60030390
+ProjectDRIVE: study protocol for a randomized controlled trial to improve driving practices of high-risk teen drivers with a traffic violation.|https://dx.doi.org/10.1186/s40621-024-00494-5
+Long-Acting Reversible Contraception Use and Unmet Desire among Patients After the Zika Contraception Access Network Program in Puerto Rico.|https://dx.doi.org/10.1016/j.contraception.2024.110441
+The devastating impact of unresectable infectious undifferentiated pleomorphic sarcoma in the gluteal region: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109592
+Group Health & Wellness Coaching: development and validation of the required competencies.|https://dx.doi.org/10.1186/s12913-024-10704-x
