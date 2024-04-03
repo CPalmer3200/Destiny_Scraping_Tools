@@ -166,3 +166,20 @@ Photocatalytic decomposition of metronidazole by zinc hexaferrite coated with bi
 Trinitroglycerin-loaded chitosan nanogels: Shedding light on cytotoxicity, antioxidativity, and antibacterial activities.|https://dx.doi.org/10.1016/j.ijbiomac.2024.130654
 When it rains it pours: an increased prevalence of intestinal carriage of vancomycin-resistant Enterococcus faecium related to higher use of oral vancomycin in a tertiary care Hungarian clinical center during the years of the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.jgar.2024.03.004
 Impact of physical build on serum vancomycin concentrations of patients undergoing hemodialysis: A retrospective cohort study at an acute care hospital.|https://dx.doi.org/10.1016/j.jiac.2024.03.016
+Incidence of Clostridioides difficile Infections in Republic of Korea: A Prospective Study With Active Surveillance vs. National Data From Health Insurance Review & Assessment Service.|https://dx.doi.org/10.3346/jkms.2024.39.e118
+Optimization, validation, and application of a liquid chromatography-tandem mass spectrometry method for the determination of 47 banned drug and related chemical residues in livestock urine using graphitized carboxyl multi-walled carbon nanotubes-based QuEChERS extraction.|https://dx.doi.org/10.1016/j.chroma.2024.464858
+The Epidemiology of Enterococci in a Tertiary Hospital and Primary Healthcare Facilities in Fiji (2019-2022).|https://dx.doi.org/10.1016/j.jgar.2024.03.008
+Correction to "A Vancomycin-Templated DNA-Encoded Library for Combating Drug-Resistant Bacteria".|https://dx.doi.org/10.1021/acs.jmedchem.4c00607
+Safety and Beneficial Properties of Bacteriocinogenic Lactococcus lactis and Pediococcus pentosaceus Strains, and Their Effect Versus Oral Cavity Related and Antibiotic-Resistant Pathogens.|https://dx.doi.org/10.1007/s12602-024-10245-z
+Ceftaroline Fosamil for the Treatment of Methicillin-Resistant Staphylococcus Aureus Bacteremia: A Real-World Comparative Clinical Outcomes Study.|https://dx.doi.org/10.1007/s40801-024-00422-5
+Application of machine learning combined with population pharmacokinetics to improve individual prediction of vancomycin clearance in simulated adult patients.|https://dx.doi.org/10.3389/fphar.2024.1352113
+Managing infectious diarrhea among young children in community pharmacies in Saudi Arabia and the implications for AMR.|https://dx.doi.org/10.3389/fped.2024.1342493
+The Impact of Antibiotic Strategy on Outcomes in Surgically Managed Necrotizing Enterocolitis.|https://dx.doi.org/10.1016/j.jpedsurg.2024.03.019
+Contezolid-Containing Regimen Successfully Treated Multiple Drug Resistance Mycobacterium Abscessus Complex Infection of Skin: A Case Report and Literature Review.|https://dx.doi.org/10.2147/IDR.S453541
+The Effect of Vancomycin and Piperacillin-Tazobactam on Incidence of Acute Kidney Injury in Patients With Obesity.|https://dx.doi.org/10.1177/00185787231172388
+Systematic Review of Piperacillin-Tazobactam and Vancomycin Y-Site Compatibility: Consideration of Concentration and Solution Variability.|https://dx.doi.org/10.1177/00185787231169455
+Early Initiation of Ceftaroline-Based Combination Therapy for Methicillin-resistant Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.21203/rs.3.rs-4095478/v1
+A multicenter clinical epidemiology of pediatric pneumococcal meningitis in China: results from the Chinese Pediatric Bacterial Meningitis Surveillance (CPBMS) 2019-2020.|https://dx.doi.org/10.3389/fcimb.2024.1353433
+COVID-19-Associated Cognitive Biases on Pneumonia Differential Diagnosis.|https://dx.doi.org/10.7759/cureus.55144
+Analysis of Vancomycin Dosage and Plasma Levels in Critically Ill Adult Patients Requiring Extracorporeal Membrane Oxygenation (ECMO).|https://dx.doi.org/10.1177/08850666241243306
+Lack of Synergistic Nephrotoxicity in a Mouse Model of Vancomycin-Induced Acute Kidney Injury with Piperacillin-Tazobactam Co-administration.|https://dx.doi.org/10.34067/KID.0000000000000432

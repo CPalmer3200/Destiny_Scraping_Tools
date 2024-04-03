@@ -104,3 +104,22 @@ Covid-19 in Parkinson's Disease treated by drugs or brain stimulation.|https://d
 Safety of cricotracheostomy with skin and tracheal membrane flaps for severe COVID-19 patients.|https://dx.doi.org/10.1016/j.anl.2024.03.003
 Surgical treatment of sacral pressure injury in ambulating patients during the COVID-19 pandemic: A prospective cohort with complications analysis and elaboration of a surgical treatment protocol.|https://dx.doi.org/10.1016/j.bjps.2023.09.021
 Reduced HDL-cholesterol in long COVID-19: A key metabolic risk factor tied to disease severity.|https://dx.doi.org/10.1016/j.clinsp.2024.100344
+Computational methods in the analysis of SARS-CoV-2 in mammals: A systematic review of the literature.|https://dx.doi.org/10.1016/j.compbiomed.2024.108264
+Concordance between SARS-CoV-2 index individuals and their household contacts on index individual COVID-19 transmission cofactors: a comparison of self-reported and contact-reported information.|https://dx.doi.org/10.1186/s12889-024-18371-7
+Comparison of lifestyle, cognitive function, mental health, and quality of life between hospitalized older adults with COVID-19 and non-COVID-19 in South Korea: a cross-sectional study.|https://dx.doi.org/10.1186/s12877-023-04646-y
+SARS-CoV-2 variant with the spike protein mutation F306L in the southern border provinces of Thailand.|https://dx.doi.org/10.1038/s41598-024-56646-6
+A novel fast hybrid capture sequencing method for high-efficiency common human coronavirus whole-genome acquisition.|https://dx.doi.org/10.1128/msystems.01222-23
+Impact of the COVID-19 pandemic on excess maternal deaths in Brazil: A two-year assessment.|https://dx.doi.org/10.1371/journal.pone.0298822
+COVID-19 Protection Strategies: Lessons Learned About Epidermal Barrier Function and the Significance of Optimized Skin Care.|https://dx.doi.org/10.36849/JDD.7862
+Gastrointestinal microbiota and metabolites possibly contribute to distinct pathogenicity of SARS-CoV-2 proto or its variants in rhesus monkeys.|https://dx.doi.org/10.1080/19490976.2024.2334970
+Screen Time and Child Behavioral Disorders During COVID-19 Pandemic: A Systematic Review.|https://dx.doi.org/10.4103/ijpvm.ijpvm_78_23
+The impact of comorbidities and economic inequality on COVID-19 mortality in Mexico: a machine learning approach.|https://dx.doi.org/10.3389/fdata.2024.1298029
+Comparison of time to negative conversion of SARS-CoV-2 between young and elderly among asymptomatic and mild COVID-19 patients: a cohort study from a national containment center.|https://dx.doi.org/10.3389/fmed.2024.1217849
+Predictors of SARS-CoV-2 transmission in congregate living settings: a multicenter prospective study.|https://dx.doi.org/10.1017/ice.2024.50
+Wastewater Surveillance of US Coast Guard Installations and Seagoing Military Vessels to Mitigate the Risk of COVID-19 Outbreaks, March 2021-August 2022.|https://dx.doi.org/10.1177/00333549241236644
+Understanding and mitigating negative affect in preventive health behaviors: Evidence from the COVID-19 vaccination process.|https://dx.doi.org/10.1177/13591053241242526
+The safety and potential efficacy of exosomes overexpressing CD24 (EXO-CD24) in mild-moderate COVID-19 related ARDS.|https://dx.doi.org/10.1186/s12931-024-02759-5
+Impact of the early phase of the COVID-19 pandemic on emergency department-to-intensive care unit admissions in Korea: an interrupted time-series analysis.|https://dx.doi.org/10.1186/s12873-024-00968-1
+Lessons Learned from Public Health and State Prison Collaborations during COVID-19 Pandemic and Multifacility Tuberculosis Outbreak, Washington, USA.|https://dx.doi.org/10.3201/eid3013.230777
+Lessons Learned from Cross-Systems Approach to COVID-19 Pandemic Response in Juvenile Justice System, Colorado, USA.|https://dx.doi.org/10.3201/eid3013.230782
+Comparing patient-reported outcomes and lifestyle factors before and after the COVID-19 pandemic among Black and Hispanic breast cancer survivors in New Jersey.|https://dx.doi.org/10.1007/s11764-024-01575-6

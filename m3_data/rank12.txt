@@ -52,3 +52,9 @@ Effect of Acute Ketamine Treatment on Sympathetic Regulation Indexed by Electrod
 Exploring the Role of Serum Osteonectin and Hsp27 in Pediatric MAFLD Diagnosis and Cardiometabolic Health.|https://dx.doi.org/10.3390/nu16060866
 Gastrointestinal infections and gastrointestinal haemorrhage are underestimated but serious adverse events in chimeric antigen receptor T-cell recipients: A real-world study.|https://dx.doi.org/10.1038/s41417-024-00752-0
 Comparison of Cefazolin and Ceftriaxone Enterobacterales Susceptibilities for Inpatient Treatment of Urinary Tract Infections and Risk of Hospital-Onset Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.clinthera.2024.02.011
+The Burden of Clostridioides difficile Infection in Korea.|https://dx.doi.org/10.3346/jkms.2024.39.e122
+[A case of disseminated tuberculosis presenting as a metastasizing tumor, complicated by toxic megacolon caused by Clostridium difficile: Difficulties in diagnosis].|https://dx.doi.org/10.1556/1046.2024.10004
+Changes in Patellar Height and Tibial Posterior Slope after Biplanar High Tibial Osteotomy with Computer-Designed Personalized Surgical Guides: A Retrospective Study.|https://dx.doi.org/10.1111/os.14049
+Characterization of feline-originated probiotics Lactobacillus rhamnosus CACC612 and Bifidobacterium animalis subsp. lactis CACC789 and and evaluation of their host response.|https://dx.doi.org/10.1186/s12917-024-03975-3
+Multifunctional host-defense peptides isolated from skin secretions of the banana tree dwelling frog Boana platanera (Hylidae; Hylinae).|https://dx.doi.org/10.1016/j.biochi.2024.03.012
+Identification of a new family of peptidoglycan transpeptidases reveals atypical crosslinking is essential for viability in Clostridioides difficile.|https://dx.doi.org/10.1101/2024.03.14.584917

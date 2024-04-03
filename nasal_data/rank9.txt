@@ -96,3 +96,20 @@ Multifunctional polyaniline modified calcium alginate aerogel membrane with anti
 Antimicrobial activity of eravacycline and other comparative agents on aerobic and anaerobic bacterial pathogens in Taiwan: a clinical microbiological study.|https://dx.doi.org/10.1016/j.jgar.2024.03.014
 Safety Testing of Ovaprene: an Investigational Non-Hormonal Monthly Vaginal Contraceptive.|https://dx.doi.org/10.1016/j.contraception.2024.110440
 Methylene blue@silver nanoprisms conjugates as a strategy against Candida albicans isolated from balanoposthitis using photodynamic inactivation.|https://dx.doi.org/10.1016/j.pdpdt.2024.104066
+Phytochemical characterization, antimicrobial and antioxidant activities of Terminalia catappa methanol and aqueous extracts.|https://dx.doi.org/10.1186/s12906-024-04449-7
+Nanoformulated herbal compounds: enhanced antibacterial efficacy of camphor and thymol-loaded nanogels.|https://dx.doi.org/10.1186/s12906-024-04435-z
+Staphylococcus aureus foldase PrsA contributes to the folding and secretion of protein A.|https://dx.doi.org/10.1186/s12866-024-03268-7
+Antibiotic resistance patterns of Staphylococcus aureus and Enterobacteriaceae isolated from street foods in selected towns of Ethiopia.|https://dx.doi.org/10.1186/s12879-024-09266-4
+Bacteriophages avoid autoimmunity from cognate immune systems as an intrinsic part of their life cycles.|https://dx.doi.org/10.1038/s41564-024-01661-6
+Exploring ex vivo biofilm dynamics: consequences of low ampicillin concentrations on the human oral microbiome.|https://dx.doi.org/10.1038/s41522-024-00507-7
+Logic programming-based Minimal Cut Sets reveal consortium-level therapeutic targets for chronic wound infections.|https://dx.doi.org/10.1038/s41540-024-00360-6
+Enhanced physiochemical, antibacterial, and hemostatic performance of collagen-quaternized chitosan-graphene oxide sponges for promoting infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131277
+Dextran-based antibacterial hydrogel-derived fluorescent sensors for the visual monitoring of AgNPs.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131288
+Advancing Photodynamic Antimicrobial Strategy: Sustainable Fabrication of Novel Lauryl Gallate-Chitosan Hydrophobic Films with Rapid Bacterial Capture and Biofilms Elimination Capabilities for Promoting Wound Healing.|https://dx.doi.org/10.1021/acsami.4c01735
+Methicillin resistance in Staphylococcus pseudintermedius encoded within novel staphylococcal cassette chromosome mec (SCCmec) variants.|https://dx.doi.org/10.1093/jac/dkae096
+Surface modification of a commercial bone plate (Ti6Al4V) implant for improved antibacterial and cytocompatibility via thermal dewetting of a silver thin film.|https://dx.doi.org/10.1088/2057-1976/ad34dc
+ZnO nanoparticles induced biofilm formation in Klebsiella pneumoniae and Staphylococcus aureus at sub-inhibitory concentrations.|https://dx.doi.org/10.1007/s12223-024-01158-z
+Biofilm Formation by Hospital-Acquired Resistant Bacteria Isolated from Respiratory Samples.|https://dx.doi.org/10.1007/s44197-024-00215-7
+Ceftaroline Fosamil for the Treatment of Methicillin-Resistant Staphylococcus Aureus Bacteremia: A Real-World Comparative Clinical Outcomes Study.|https://dx.doi.org/10.1007/s40801-024-00422-5
+Development and Application of Four Foodborne Pathogens by TaqMan Multiplex Real-Time PCR.|https://dx.doi.org/10.1089/fpd.2023.0134
+HOCl-producing Electrochemical Bandage is Active in Murine Polymicrobial Wound Infection.|https://dx.doi.org/10.1101/2024.03.19.585100

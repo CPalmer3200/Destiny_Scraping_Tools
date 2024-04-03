@@ -14,3 +14,6 @@ The epidemiology and management of Clostridioides difficile infection-A clinical
 Live Biotherapeutic Products for the Prevention of Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1177/10600280241239685
 Epidemiological and clinical burden of Clostridioides difficile infections and recurrences between 2015 - 2019: the RECUR Germany study.|https://dx.doi.org/10.1186/s12879-024-09218-y
 The impact of existing total anti-toxin B IgG immunity in outcomes of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.anaerobe.2024.102842
+Cefepime Versus Piperacillin-Tazobactam for the Treatment of Intra-Abdominal Infections Secondary to Potential AmpC Beta-Lactamase-Producing Organisms.|https://dx.doi.org/10.1177/00185787231170384
+Hepatic Sarcoidosis Found Incidentally in a Patient Presenting With Recurrent Clostridium difficile Infections.|https://dx.doi.org/10.7759/cureus.55316
+Clinical Efficacy of Therapeutic Agents for Clostridioides difficile Infection Based on Four Severity Classifications.|https://dx.doi.org/10.7883/yoken.JJID.2023.483

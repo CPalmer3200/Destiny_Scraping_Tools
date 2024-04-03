@@ -5,3 +5,5 @@ In vitro activity of selected antimicrobials against methicillin-resistant Staph
 An overview of risk factors, management and prevention of cochlear implant infections.|https://dx.doi.org/10.1097/QCO.0000000000001011
 A Comparison of the Antioxidant Potential and Metabolite Analysis of Marine Fungi Associated with the Red Algae Pterocladiella capillacea from Northern Taiwan.|https://dx.doi.org/10.3390/antiox13030336
 Phase II Trial of the Impact 0.5% Povidone-Iodine Nasal Spray (Nasodine®) on Shedding of SARS-CoV-2.|https://dx.doi.org/10.1002/lary.31430
+Immunization with a peptide mimicking lipoteichoic acid induces memory B cells in BALB/c mice.|https://dx.doi.org/10.1186/s12879-024-09262-8
+Bacterial etiology and antimicrobial resistance pattern of pediatric bloodstream infections: a 5-year experience in an Iranian referral hospital.|https://dx.doi.org/10.1186/s12879-024-09260-w

@@ -91,3 +91,18 @@ The Role of Microsurgery in Coverage of Defects of the Hand.|https://dx.doi.org/
 Protective mucosal SARS-CoV-2 antibodies in the majority of the general population in the Netherlands.|https://dx.doi.org/10.1016/j.mucimm.2024.03.008
 Asthma loss of control after switch from anti-IL5/5R drugs to dupilumab in severe eosinophilic asthma: a case series.|https://dx.doi.org/10.1016/j.jaip.2024.03.037
 Minimally Invasive Approaches to Mitral Valve Surgery: Where Are We Now? A Narrative Review.|https://dx.doi.org/10.1016/j.cjca.2024.03.017
+Secondary attack rates and determinants of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) household transmission in Pakistan: A case-ascertained prospective, longitudinal study.|https://dx.doi.org/10.1016/j.jiph.2024.03.024
+Arthrodesis of distal interphalangeal and thumb interphalangeal joint: a retrospective cohort study of 149 cases.|https://dx.doi.org/10.1186/s12891-024-07361-w
+The success rates and outcomes of mandibular third molar coronectomy: 167 cases.|https://dx.doi.org/10.1007/s10006-024-01244-z
+Health Disparities in Patients With Musculoskeletal Injuries: Food Insecurity Is a Common and Clinically Challenging Problem.|https://dx.doi.org/10.1097/CORR.0000000000003055
+Mediastinal Nontuberculous Mycobacterial Infection in Children: A Multidisciplinary Approach.|https://dx.doi.org/10.1097/INF.0000000000004315
+Emerging Clinical Features of Acute Mastoiditis in Israel: A Registry Based Cohort.|https://dx.doi.org/10.1097/INF.0000000000004325
+Septic Shock After Endoscopic Sleeve Gastroplasty: A Post-procedural Complication?|https://dx.doi.org/10.1007/s11695-024-07198-1
+Surgical outcomes of endoscopic enucleation of the prostate in community aging males with or without preoperative urinary retention.|https://dx.doi.org/10.1007/s11255-024-04007-7
+Factors affecting graft healing in laryngotracheal reconstruction: a retrospective single-center experience.|https://dx.doi.org/10.1007/s00405-024-08611-2
+Paraspinous Muscle Flaps in Complex Pediatric Spine Surgeries: A 12-Year Single Institution Experience.|https://dx.doi.org/10.1097/SAP.0000000000003888
+Outcomes of Dermal Regeneration Templates in Irradiated and Nonirradiated Scalp Defects.|https://dx.doi.org/10.1097/SCS.0000000000010097
+[Clinical, therapeutic and pathophysiological aspects of Darier's disease].|https://dx.doi.org/10.53738/REVMED.2024.20.867.659
+Early and late outcomes of congenital biliary dilatation in pediatric patients.|https://dx.doi.org/10.1111/ped.15712
+UK national survey on surgical gowning for tonsillectomy.|https://dx.doi.org/10.1017/S0022215124000331
+Bacterial contamination of surgical gloves during clean orthopedic surgery.|https://dx.doi.org/10.1017/ice.2024.49
