@@ -183,3 +183,8 @@ A multicenter clinical epidemiology of pediatric pneumococcal meningitis in Chin
 COVID-19-Associated Cognitive Biases on Pneumonia Differential Diagnosis.|https://dx.doi.org/10.7759/cureus.55144
 Analysis of Vancomycin Dosage and Plasma Levels in Critically Ill Adult Patients Requiring Extracorporeal Membrane Oxygenation (ECMO).|https://dx.doi.org/10.1177/08850666241243306
 Lack of Synergistic Nephrotoxicity in a Mouse Model of Vancomycin-Induced Acute Kidney Injury with Piperacillin-Tazobactam Co-administration.|https://dx.doi.org/10.34067/KID.0000000000000432
+[Fulminant Clostridioides difficile infection during treatment with FLT3 inhibitor for acute myeloid leukemia].|https://dx.doi.org/10.11406/rinketsu.65.153
+Using CHROMagar™ STEC medium exclusively does not recover all clinically relevant Shiga-toxin producing Escherichia coli in Aotearoa, New Zealand.|https://dx.doi.org/10.1093/lambio/ovae033
+High Prevalence of Panton-Valentine Leukocidin Among Staphylococcus aureus Causing Acute Hematogenous Bone and Joint Infections From a Tertiary Children's Hospital in Vietnam.|https://dx.doi.org/10.1097/INF.0000000000004305
+Lusutrombopag as a Repurposing Drug in Combination with Aminoglycosides against Vancomycin-Resistant Enterococcus.|https://dx.doi.org/10.1021/acsinfecdis.3c00737
+A case report of Vancomycin in the treatment of Q fever endocarditis.|https://dx.doi.org/10.3389/fcimb.2024.1323054

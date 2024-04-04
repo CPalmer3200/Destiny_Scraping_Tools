@@ -1,3 +1,6 @@
 Letter: Predictive Value of C-Reactive Protein to Albumin Ratio for Amputation Risk in Diabetic Foot Infection: Reply.|https://dx.doi.org/10.1177/00033197241245495
 16S rRNA seq-identified Corynebacterium promotes pyroptosis to aggravate diabetic foot ulcer.|https://dx.doi.org/10.1186/s12879-024-09235-x
 Efficacy and Safety of Oral and IV Levonadifloxacin Therapy in Management of Bacterial Infections: Findings of a Prospective, Observational, Multi-center, Post-marketing Surveillance Study.|https://dx.doi.org/10.7759/cureus.55178
+Early outcomes and complications of surgically treated diabetic hallucal infection.|https://dx.doi.org/10.1016/j.avsg.2024.01.001
+Topical pravibismane as adjunctive therapy for moderate or severe diabetic foot infections: A phase 1b randomized, multicenter, double-blind, placebo-controlled trial.|https://dx.doi.org/10.1111/iwj.14817
+Update of biomarkers to diagnose diabetic foot osteomyelitis: A meta-analysis and systematic review.|https://dx.doi.org/10.1111/wrr.13174

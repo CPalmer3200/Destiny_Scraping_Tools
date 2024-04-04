@@ -113,3 +113,20 @@ Biofilm Formation by Hospital-Acquired Resistant Bacteria Isolated from Respirat
 Ceftaroline Fosamil for the Treatment of Methicillin-Resistant Staphylococcus Aureus Bacteremia: A Real-World Comparative Clinical Outcomes Study.|https://dx.doi.org/10.1007/s40801-024-00422-5
 Development and Application of Four Foodborne Pathogens by TaqMan Multiplex Real-Time PCR.|https://dx.doi.org/10.1089/fpd.2023.0134
 HOCl-producing Electrochemical Bandage is Active in Murine Polymicrobial Wound Infection.|https://dx.doi.org/10.1101/2024.03.19.585100
+A self-healing crosslinked-xanthan gum/soy protein based film containing halloysite nanotube and propolis with antibacterial and antioxidant activity for wound healing.|https://dx.doi.org/10.1016/j.ijpharm.2024.124073
+Facile construction of sandwich ELISA based on double-nanobody for specific detection of α-hemolysin in food samples.|https://dx.doi.org/10.1016/j.talanta.2024.126021
+Quartz crystal microbalance-based aptasensor integrated with magnetic pre-concentration system for detection of Listeria monocytogenes in food samples.|https://dx.doi.org/10.1007/s00604-024-06307-2
+Insights into betulinic acid as a promising molecule to fight the interkingdom biofilm Staphylococcus aureus-Candida albicans.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107166
+Poly-l-lysine modified MOF nanoparticles with pH/ROS sensitive CIP release and CUR triggered photodynamic therapy against drug-resistant bacterial infection.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131330
+Enhanced protein-metabolite correlation analysis: To investigate the association between Staphylococcus aureus mastitis and metabolic immune pathways.|https://dx.doi.org/10.1096/fj.202302242RR
+Staphylococcus aureus skin colonization is mediated by SasG lectin variation.|https://dx.doi.org/10.1016/j.celrep.2024.114022
+Antimicrobial and antibiofilm effect of cannabinoids from Cannabis sativa against methicillin-resistant Staphylococcus aureus (MRSA) causing bovine mastitis.|https://dx.doi.org/10.1007/s10123-024-00505-x
+Synthesis of biopolymer blends nanocomposites embedded with mono-(Ag, Fe) and bi-(Ag-Fe) metallic nanoparticles using an eco-friendly approach for antimicrobial activities.|https://dx.doi.org/10.1007/s00449-024-03011-6
+High Prevalence of Panton-Valentine Leukocidin Among Staphylococcus aureus Causing Acute Hematogenous Bone and Joint Infections From a Tertiary Children's Hospital in Vietnam.|https://dx.doi.org/10.1097/INF.0000000000004305
+CXCR2 perturbation promotes Staphylococcus aureus implant-associated infection.|https://dx.doi.org/10.1099/jmm.0.001821
+Nanogel-based composites for bacterial antibiofilm activity: advances, challenges, and prospects.|https://dx.doi.org/10.1039/d4ra00410h
+Preparation of a novel antibacterial magnesium carbonate coating on a titanium surface and its in vitro biocompatibility.|https://dx.doi.org/10.1039/d4ra00399c
+Improved antioxidative and antibacterial activity of epigallocatechin gallate derivative complexed by zinc cations and chitosan.|https://dx.doi.org/10.1039/d4ra00255e
+Phenolic Content, Antioxidant Potential, and Antimicrobial Activity of Uvaria chamae (Annonaceae), a Food Plant from Burkina Faso.|https://dx.doi.org/10.1155/2024/1289859
+A case report of Vancomycin in the treatment of Q fever endocarditis.|https://dx.doi.org/10.3389/fcimb.2024.1323054
+Anatomical Factor for Formation of Peritonsillar Abscess in a Tertiary Care Centre.|https://dx.doi.org/10.1007/s12070-023-04401-0

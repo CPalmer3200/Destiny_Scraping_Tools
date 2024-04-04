@@ -123,3 +123,23 @@ Impact of the early phase of the COVID-19 pandemic on emergency department-to-in
 Lessons Learned from Public Health and State Prison Collaborations during COVID-19 Pandemic and Multifacility Tuberculosis Outbreak, Washington, USA.|https://dx.doi.org/10.3201/eid3013.230777
 Lessons Learned from Cross-Systems Approach to COVID-19 Pandemic Response in Juvenile Justice System, Colorado, USA.|https://dx.doi.org/10.3201/eid3013.230782
 Comparing patient-reported outcomes and lifestyle factors before and after the COVID-19 pandemic among Black and Hispanic breast cancer survivors in New Jersey.|https://dx.doi.org/10.1007/s11764-024-01575-6
+Association between the decrease in medical visit frequency and chronic disease worsening in the early stages of COVID-19-A longitudinal study.|https://dx.doi.org/10.2169/internalmedicine.2697-23
+Atypical presentation of Lemierre's syndrome caused by penicillin-susceptible Staphylococcus aureus in a patient with chronic stomatitis and COVID-19.|https://dx.doi.org/10.1136/bcr-2023-258776
+Carrier-free mRNA vaccine induces robust immunity against SARS-CoV-2 in mice and non-human primates without systemic reactogenicity.|https://dx.doi.org/10.1016/j.ymthe.2024.03.022
+Gestational diabetes mellitus in the era of COVID-19: Challenges and opportunities.|https://dx.doi.org/10.1016/j.dsx.2024.102991
+Infectious respiratory pathogens among patients with acute exacerbation of idiopathic pulmonary fibrosis during the coronavirus disease 2019 pandemic in Japan.|https://dx.doi.org/10.1016/j.hrtlng.2024.03.007
+The dynamics of international health system reforms: Evidence of a new wave in response to the 2008 economic crisis and the COVID-19 pandemic?|https://dx.doi.org/10.1016/j.healthpol.2024.105052
+COVID-19 pandemic and impact of universal face mask wear on ocular surface health and risk of infection.|https://dx.doi.org/10.1016/j.jfo.2024.104170
+Quercetin inhibition of porcine intestinal alpha coronavirus in vitro and in vivo.|https://dx.doi.org/10.1186/s12917-024-03984-2
+Analysis of a large SARS-CoV-2 (Alpha) outbreak in a Catalan prison using conventional and genomic epidemiology.|https://dx.doi.org/10.1093/infdis/jiae161
+Immunogenicity and efficacy of VLA2001 vaccine against SARS-CoV-2 infection in male cynomolgus macaques.|https://dx.doi.org/10.1038/s43856-024-00488-w
+Seroepidemiological assessment of SARS-CoV-2 vaccine responsiveness and associated factors in the vaccinated community of the Casablanca-Settat Region, Morocco.|https://dx.doi.org/10.1038/s41598-024-58498-6
+National prevalence of smoking among adolescents at tobacco tax increase and COVID-19 pandemic in South Korea, 2005-2022.|https://dx.doi.org/10.1038/s41598-024-58446-4
+A rigorous theoretical and numerical analysis of a nonlinear reaction-diffusion epidemic model pertaining dynamics of COVID-19.|https://dx.doi.org/10.1038/s41598-024-56469-5
+SARS-CoV-2 nsp15 endoribonuclease antagonizes dsRNA-induced antiviral signaling.|https://dx.doi.org/10.1073/pnas.2320194121
+Trends in SARS-CoV-2 seroprevalence among pregnant women attending first antenatal care visits in Zambia: A repeated cross-sectional survey, 2021-2022.|https://dx.doi.org/10.1371/journal.pgph.0003073
+Factors associated with COVID-19 vaccine uptake among health professionals in Debre Markos town public health facilities, Northwest Ethiopia.|https://dx.doi.org/10.1371/journal.pgph.0002893
+Latin America and the Caribbean: Updated Surveillance Metrics and History of the COVID-19 Pandemic (2020-2023).|https://dx.doi.org/10.2196/44398
+Impact of COVID-19 on People Living with HIV: Data from Five Medical Monitoring Project Sites, 2020-2022.|https://dx.doi.org/10.1097/QAI.0000000000003403
+Attitudes regarding vaccination on the example of COVID-19 prevention.|https://dx.doi.org/10.13075/mp.5893.01522
+SARS-CoV-2 seroprevalence in Nova Scotia blood donors.|https://dx.doi.org/10.3138/jammi-2023-0017

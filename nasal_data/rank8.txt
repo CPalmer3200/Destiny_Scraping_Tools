@@ -106,3 +106,18 @@ Outcomes of Dermal Regeneration Templates in Irradiated and Nonirradiated Scalp 
 Early and late outcomes of congenital biliary dilatation in pediatric patients.|https://dx.doi.org/10.1111/ped.15712
 UK national survey on surgical gowning for tonsillectomy.|https://dx.doi.org/10.1017/S0022215124000331
 Bacterial contamination of surgical gloves during clean orthopedic surgery.|https://dx.doi.org/10.1017/ice.2024.49
+Clinical presentation and treatment of 26 spinal epidural arteriovenous fistulas: a single-center experience.|https://dx.doi.org/10.1136/jnis-2024-021471
+Early Outcomes From a Multicenter Transcatheter Self-Expanding Pulmonary Valve Replacement Registry.|https://dx.doi.org/10.1016/j.jacc.2024.02.010
+Surgeon Preference Regarding Wound Dressing Management in Lumbar Fusion Surgery: An AO Spine Global Cross-Sectional Study.|https://dx.doi.org/10.14245/ns.2347168.584
+Incidence and Risk Factors for Acid-fast Bacillus/Fungal Culture Positivity in Primary, Conversion, and Revision Hip and Knee Arthroplasty.|https://dx.doi.org/10.5435/JAAOS-D-23-00980
+Clinical and ultrasound features of 46 children with suppurative osteoarthritis: experience from two centers.|https://dx.doi.org/10.1186/s13018-024-04563-9
+Next-generation microbiological testing in intraabdominal infections with PCR technology.|https://dx.doi.org/10.1007/s00423-024-03298-9
+Poor association between 13-valent pneumococcal conjugate vaccine-induced serum and mucosal antibody responses with experimental Streptococcus pneumoniae serotype 6B colonisation.|https://dx.doi.org/10.1016/j.vaccine.2024.03.055
+Robot-assisted versus laparoscopic pancreatoduodenectomy: a pan-European multicenter propensity-matched study.|https://dx.doi.org/10.1016/j.surg.2024.02.015
+Two-phase mechanism in the treatment of corneal stromal fibrosis with topical losartan.|https://dx.doi.org/10.1016/j.exer.2024.109884
+Surgical site infection following isolated lumbar discectomy increases odds of revision lumbar surgery within first 6 months, but not beyond.|https://dx.doi.org/10.1016/j.spinee.2024.03.017
+Early outcomes and complications of surgically treated diabetic hallucal infection.|https://dx.doi.org/10.1016/j.avsg.2024.01.001
+Association Between Body Mass Index, Obesity, and Clinical Outcomes Following Coronary Artery Bypass Grafting in Brazil: An Analysis of One Year of Follow-up of BYPASS Registry Patients.|https://dx.doi.org/10.21470/1678-9741-2023-0133
+Maternal outcomes of planned mode of delivery for term breech in nulliparous women.|https://dx.doi.org/10.1371/journal.pone.0297971
+Peritoneal flap technique for abdominal wall expansion in the management of complex ventral hernias: a multicentre study from India.|https://dx.doi.org/10.1007/s10029-024-02993-2
+Chapare virus infection and current perspectives on dentistry.|https://dx.doi.org/10.1007/s00784-023-05399-z
