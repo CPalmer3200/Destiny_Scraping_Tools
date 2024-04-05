@@ -188,3 +188,5 @@ Using CHROMagar™ STEC medium exclusively does not recover all clinically relev
 High Prevalence of Panton-Valentine Leukocidin Among Staphylococcus aureus Causing Acute Hematogenous Bone and Joint Infections From a Tertiary Children's Hospital in Vietnam.|https://dx.doi.org/10.1097/INF.0000000000004305
 Lusutrombopag as a Repurposing Drug in Combination with Aminoglycosides against Vancomycin-Resistant Enterococcus.|https://dx.doi.org/10.1021/acsinfecdis.3c00737
 A case report of Vancomycin in the treatment of Q fever endocarditis.|https://dx.doi.org/10.3389/fcimb.2024.1323054
+An update on antibacterial AlkylGuanidino Ureas: Design of new derivatives, synergism with colistin and data analysis of the whole library.|https://dx.doi.org/10.1016/j.ejmech.2024.116362
+The Efficacy of Different Antibiotic Compounds in Regenerative Treatment of Immature Necrotic Teeth.|https://dx.doi.org/10.18502/fid.v21i1.14638

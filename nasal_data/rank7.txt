@@ -143,3 +143,22 @@ Latin America and the Caribbean: Updated Surveillance Metrics and History of the
 Impact of COVID-19 on People Living with HIV: Data from Five Medical Monitoring Project Sites, 2020-2022.|https://dx.doi.org/10.1097/QAI.0000000000003403
 Attitudes regarding vaccination on the example of COVID-19 prevention.|https://dx.doi.org/10.13075/mp.5893.01522
 SARS-CoV-2 seroprevalence in Nova Scotia blood donors.|https://dx.doi.org/10.3138/jammi-2023-0017
+Universal versus risk-based strategies for vaccinating children against COVID-19: Japan and Korea.|https://dx.doi.org/10.1136/bmjpo-2023-002391
+An unprecedented global challenge, emerging trends and innovations in the fight against COVID-19: A comprehensive review.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131324
+Changing trends in Japanese spotted fever epidemiology in Shimane, Japan: A two-decade retrospective study with emphasis on the COVID-19 pandemic era.|https://dx.doi.org/10.1016/j.jiac.2024.04.003
+Development of a colloidal gold immunochromatographic strip for rapid detection of avian coronavirus infectious bronchitis virus.|https://dx.doi.org/10.1016/j.psj.2024.103648
+Risk factors and early preventive measures for long COVID in non-hospitalized patients: analysis of a large cohort in the United Arab Emirates.|https://dx.doi.org/10.1016/j.puhe.2024.02.031
+Comparison of geographical and individual deprivation index to assess the risk of Sars-CoV-2 infection and disease severity: a retrospective cohort study.|https://dx.doi.org/10.1186/s12942-024-00367-6
+Impact of Neighborhood Social Cohesion and Rodent Sightings on Mental Health among Residents of New York City During the COVID-19 Pandemic.|https://dx.doi.org/10.1007/s11524-024-00847-x
+Democratic quality and excess mortality during the COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-024-55523-6
+Bat species assemblage predicts coronavirus prevalence.|https://dx.doi.org/10.1038/s41467-024-46979-1
+Strategies for prevention and treatment of SARS-COV-2 infection in patients with chronic kidney disease: Literature review.|https://dx.doi.org/10.1016/j.nefroe.2024.03.010
+Children and adolescents weathering the storm: Resilience in the presence of bullying victimization, harassment, and pandemic lockdown in northern Norway.|https://dx.doi.org/10.1111/sjop.13012
+Assessing the emergence time of SARS-CoV-2 zoonotic spillover.|https://dx.doi.org/10.1371/journal.pone.0301195
+Patterns of sex behaviors and factors associated with condomless anal intercourse during the COVID-19 pandemic among men who have sex with men in Hong Kong: A cross-sectional study.|https://dx.doi.org/10.1371/journal.pone.0300988
+Functional Limitations and Exercise Intolerance in Patients With Post-COVID Condition: A Randomized Crossover Clinical Trial.|https://dx.doi.org/10.1001/jamanetworkopen.2024.4386
+Severity of Respiratory Syncytial Virus vs COVID-19 and Influenza Among Hospitalized US Adults.|https://dx.doi.org/10.1001/jamanetworkopen.2024.4954
+Evolving Epidemiology of Pediatric Respiratory Syncytial Virus (RSV) Cases Around COVID-19 Pandemic: Impact and Clinical Insights, Retrospective Cohort Study.|https://dx.doi.org/10.1007/s44197-024-00218-4
+Ursodeoxycholic acid may protect from severe acute respiratory syndrome coronavirus 2 Omicron variant by reducing angiotensin-converting enzyme 2.|https://dx.doi.org/10.1002/prp2.1194
+Inhibition of the RLR signaling pathway by SARS-CoV-2 ORF7b is mediated by MAVS and abrogated by ORF7b-homologous interfering peptide.|https://dx.doi.org/10.1128/jvi.01573-23
+Dexamethasone treatment for COVID-19 is related to increased mortality in hematologic malignancy patients: results from the EPICOVIDEHA Registry.|https://dx.doi.org/10.3324/haematol.2023.284678

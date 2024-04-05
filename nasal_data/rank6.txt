@@ -7,3 +7,5 @@ A Comparison of the Antioxidant Potential and Metabolite Analysis of Marine Fung
 Phase II Trial of the Impact 0.5% Povidone-Iodine Nasal Spray (Nasodine®) on Shedding of SARS-CoV-2.|https://dx.doi.org/10.1002/lary.31430
 Immunization with a peptide mimicking lipoteichoic acid induces memory B cells in BALB/c mice.|https://dx.doi.org/10.1186/s12879-024-09262-8
 Bacterial etiology and antimicrobial resistance pattern of pediatric bloodstream infections: a 5-year experience in an Iranian referral hospital.|https://dx.doi.org/10.1186/s12879-024-09260-w
+Skin dermatoses in the returning traveller; a practical guide.|https://dx.doi.org/10.1093/ced/llae114
+Feasibility of using a combination of staphylococcal superantigen-like proteins 3, 7 and 11 in a fusion vaccine for Staphylococcus aureus.|https://dx.doi.org/10.1111/imcb.12745

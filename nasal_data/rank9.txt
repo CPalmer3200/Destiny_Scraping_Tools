@@ -130,3 +130,20 @@ Improved antioxidative and antibacterial activity of epigallocatechin gallate de
 Phenolic Content, Antioxidant Potential, and Antimicrobial Activity of Uvaria chamae (Annonaceae), a Food Plant from Burkina Faso.|https://dx.doi.org/10.1155/2024/1289859
 A case report of Vancomycin in the treatment of Q fever endocarditis.|https://dx.doi.org/10.3389/fcimb.2024.1323054
 Anatomical Factor for Formation of Peritonsillar Abscess in a Tertiary Care Centre.|https://dx.doi.org/10.1007/s12070-023-04401-0
+Carrageenan/polyvinyl alcohol composite film reinforced with spermidine carbon dots: An active packaging material with dual-mode antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131343
+In vitro degradation and antibacterial activity of bacterial cellulose deposited flax fabric reinforced with polylactic acid and polyhydroxybutyrate.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131199
+Bacterial nanocellulose loaded with bromelain and nisin as a promising bioactive material for wound debridement.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131329
+Ascorbic acid potentiates photodynamic inactivation mediated by octyl gallate and blue light for rapid eradication of planktonic bacteria and biofilms.|https://dx.doi.org/10.1016/j.foodchem.2024.139073
+An update on antibacterial AlkylGuanidino Ureas: Design of new derivatives, synergism with colistin and data analysis of the whole library.|https://dx.doi.org/10.1016/j.ejmech.2024.116362
+Formation mechanism of a novel core-shell with tetradecyl dimethyl benzyl ammonium-modified montmorillonite interlayer nanofibrous membrane and its antimicrobial properties.|https://dx.doi.org/10.1016/j.colsurfb.2024.113889
+Multifunctional fucoidan-loaded Zn-MOF-encapsulated microneedles for MRSA-infected wound healing.|https://dx.doi.org/10.1186/s12951-024-02398-4
+Relapsing bronchopneumonia due to community-associated methicillin-resistant Staphylococcus aureus: a case report.|https://dx.doi.org/10.1186/s12879-024-09268-2
+45 years of tetracycline post exposure prophylaxis for STIs and the risk of tetracycline resistance: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09275-3
+The wound microbiota: microbial mechanisms of impaired wound healing and infection.|https://dx.doi.org/10.1038/s41579-024-01035-z
+Nano-scaled polyacrylonitrile for industrialization of nanofibers with photoluminescence and microbicide performance.|https://dx.doi.org/10.1038/s41598-024-58035-5
+Fabrication and Therapeutic Process of a Green Silver-Nanoparticle-Embedded Mucilage Microsphere for Pathogenic-Bacteria-Infected Second-Degree Burn and Excision Wounds.|https://dx.doi.org/10.1021/acsabm.4c00177
+Synergistic Antimicrobial Glycyrrhizic Acid-based Functional Biosensing composite for Sensitive Glucose Monitoring and Collaborative Wound Healing.|https://dx.doi.org/10.1002/adhm.202400580
+IL-10 Counteracts IFN-γ to Alleviate Acute Lung Injury in a Viral-Bacterial Superinfection Model.|https://dx.doi.org/10.1165/rcmb.2023-0437OC
+Bactericidal Effect and Cytotoxicity of Graphene Oxide/Silver Nanocomposites.|https://dx.doi.org/10.1021/acsami.3c15798
+Self-assembling peptide hydrogel scaffold integrating stem cell-derived exosomes for infected bone defects.|https://dx.doi.org/10.1080/09205063.2024.2336316
+Pathogen group-specific risk factors for intramammary infection in water buffalo.|https://dx.doi.org/10.1371/journal.pone.0299929

@@ -121,3 +121,17 @@ Association Between Body Mass Index, Obesity, and Clinical Outcomes Following Co
 Maternal outcomes of planned mode of delivery for term breech in nulliparous women.|https://dx.doi.org/10.1371/journal.pone.0297971
 Peritoneal flap technique for abdominal wall expansion in the management of complex ventral hernias: a multicentre study from India.|https://dx.doi.org/10.1007/s10029-024-02993-2
 Chapare virus infection and current perspectives on dentistry.|https://dx.doi.org/10.1007/s00784-023-05399-z
+Incidence and associated factors of surgical site infection in patients undergoing foot and ankle surgery: a 7-year cohort study.|https://dx.doi.org/10.1016/j.foot.2024.102092
+Retrospective study on unilateral polyotia combined with microtia utilizing the technique of preserving residual ear tissue.|https://dx.doi.org/10.1016/j.bjps.2024.03.008
+Impact of Whole Genome Sequencing to investigate transmission of Serratia marcescens in Neonatal Intensive Care Unit.|https://dx.doi.org/10.1016/j.jiph.2024.03.025
+Acute invasive fungal sinusitis with orbital tip syndrome in patients on long-term use of ruxolitinib: a case report.|https://dx.doi.org/10.1186/s13256-024-04486-3
+Formulation of Metoclopramide Hydrochloride-Loaded Lipid Carriers by QbD Approach for Combating Nausea: Safety and Bioavailability Evaluation in New Zealand Rabbit.|https://dx.doi.org/10.1208/s12249-024-02791-0
+Transmucosal Delivery of Peptides and Proteins Through Nanofibers: Current Status and Emerging Developments.|https://dx.doi.org/10.1208/s12249-024-02794-x
+Rotavirus vaccine dose-two dropout and its associated factors among children who received rotavirus vaccine dose-one in Sub-Saharan African countries: A multilevel analysis of the recent demographic and health survey.|https://dx.doi.org/10.1080/21645515.2024.2335730
+A Systematic Review and Meta-analysis of the Impact of Local Therapies on Local Event Suppression in Metastatic Hormone-sensitive Prostate Cancer.|https://dx.doi.org/10.1016/j.euo.2024.03.007
+Probiotics-A Promising Novel Therapeutic Approach in the Management of Chronic Liver Diseases.|https://dx.doi.org/10.1089/jmf.2023.K.0129
+Comparison of COVID-19 Symptoms in Correctional Health Care Workers During the Initial and Omicron Surges.|https://dx.doi.org/10.1089/jchc.23.09.0072
+Respiratory syncytial virus vs. Influenza virus infection: mortality and morbidity comparison over 7 epidemic seasons in an elderly population.|https://dx.doi.org/10.1093/infdis/jiae171
+Vitamin D Deficiency Leads to Poorer Health Outcomes and Greater Length of Stay After Total Knee Arthroplasty and Supplementation Improves Outcomes: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2106/JBJS.RVW.23.00150
+Radical sternectomy for osteomyelitis without reconstruction post-coronary artery bypass graft: 10 years on.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4.S22
+Development of postoperative bronchopleural fistula after neoadjuvant immunochemotherapy in non-small cell lung cancer: case reports and review of the literature.|https://dx.doi.org/10.1007/s00432-024-05683-9
