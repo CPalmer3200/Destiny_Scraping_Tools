@@ -7,3 +7,5 @@ A self-healing crosslinked-xanthan gum/soy protein based film containing halloys
 Nano-scaled polyacrylonitrile for industrialization of nanofibers with photoluminescence and microbicide performance.|https://dx.doi.org/10.1038/s41598-024-58035-5
 Bactericidal Effect and Cytotoxicity of Graphene Oxide/Silver Nanocomposites.|https://dx.doi.org/10.1021/acsami.3c15798
 Self-assembling peptide hydrogel scaffold integrating stem cell-derived exosomes for infected bone defects.|https://dx.doi.org/10.1080/09205063.2024.2336316
+Antibacterial wound dressing with cross-linked electrospun surface from reduced graphene oxide doped polyvinyl alcohol/sodium caseinate blends.|https://dx.doi.org/10.1002/bip.23579
+pH-Responsive Co-Assembled Peptide Hydrogel to Inhibit Drug-Resistant Bacterial Infection and Promote Wound Healing.|https://dx.doi.org/10.1021/acsami.3c18436

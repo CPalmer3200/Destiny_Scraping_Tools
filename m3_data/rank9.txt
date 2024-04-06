@@ -5,3 +5,4 @@ Infection Control Measure Performance in Long-Term Care Hospitals and Their Rela
 Predicting Increased Incidence of Common Antibiotic-Resistant and Antibiotic-Associated Pathogens Using Ensemble Species Distribution Modeling.|https://dx.doi.org/10.1093/infdis/jiae145
 Approaching toxigenic Clostridia from a one health perspective.|https://dx.doi.org/10.1016/j.anaerobe.2024.102839
 The National Healthcare Safety Network's digital quality measures: CDC's automated measures for surveillance of patient safety.|https://dx.doi.org/10.1093/jamia/ocae064
+Use of proton pump inhibitors improves outcomes in mild acute pancreatitis: A nationwide cohort study.|https://dx.doi.org/10.1097/MD.0000000000037694

@@ -147,3 +147,19 @@ IL-10 Counteracts IFN-γ to Alleviate Acute Lung Injury in a Viral-Bacterial Sup
 Bactericidal Effect and Cytotoxicity of Graphene Oxide/Silver Nanocomposites.|https://dx.doi.org/10.1021/acsami.3c15798
 Self-assembling peptide hydrogel scaffold integrating stem cell-derived exosomes for infected bone defects.|https://dx.doi.org/10.1080/09205063.2024.2336316
 Pathogen group-specific risk factors for intramammary infection in water buffalo.|https://dx.doi.org/10.1371/journal.pone.0299929
+Modified polymeric biomaterials with antimicrobial and immunomodulating properties.|https://dx.doi.org/10.1038/s41598-024-58730-3
+In vitro immune analysis of serum from the hemolymph of the anomuran crab Albunea symmysta (Linnaeus, 1758) displayed diversified reactions.|https://dx.doi.org/10.1016/j.jip.2024.108098
+Evaluation of the in vitro and in vivo antimicrobial activity of alkaloids prepared from Chelidonium majus L. using MRSA- infected C. elegans as a model host.|https://dx.doi.org/10.1016/j.fitote.2024.105944
+Synergistic stabilization of garlic essential oil nanoemulsions by carboxymethyl chitosan/Tween 80 and application for coating preservation of chilled fresh pork.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131370
+Identification and characterization of silver nanoparticles from Erythrina indica and its antioxidant and Uropathogenic antimicrobial properties.|https://dx.doi.org/10.1016/j.micpath.2024.106635
+Discovery of a novel class of rosmarinic acid derivatives as antibacterial agents: Synthesis, structure-activity relationship and mechanism of action.|https://dx.doi.org/10.1016/j.bioorg.2024.107318
+Remarkable enhancement of cinnamaldehyde antimicrobial activity encapsulated in capped mesoporous nanoparticles: A new "nanokiller" approach in the era of antimicrobial resistance.|https://dx.doi.org/10.1016/j.bioadv.2024.213840
+Efficacy of Gentamicin-Loaded Chitosan Nanoparticles Against Staphylococcus aureus Internalized in Osteoblasts.|https://dx.doi.org/10.1089/mdr.2023.0066
+A platform for predicting mechanism of action based on bacterial transcriptional responses identifies an unusual DNA gyrase inhibitor.|https://dx.doi.org/10.1016/j.celrep.2024.114053
+Secondary Bacterial Infections in Patients with Atopic Dermatitis or Other Common Dermatoses.|https://dx.doi.org/10.1007/s40257-024-00856-1
+Antibacterial activity of a short de novo designed peptide against fish bacterial pathogens.|https://dx.doi.org/10.1007/s00726-024-03388-4
+Successful valve-in-valve transcatheter intervention to treat severe stenosis of a 38-year-old tricuspid bioprosthesis.|https://dx.doi.org/10.1111/echo.15804
+Novel 4-nitroimidazole analogues: synthesis, in vitro biological evaluation, in silico studies, and molecular dynamics simulation.|https://dx.doi.org/10.1515/znc-2023-0146
+Antibacterial wound dressing with cross-linked electrospun surface from reduced graphene oxide doped polyvinyl alcohol/sodium caseinate blends.|https://dx.doi.org/10.1002/bip.23579
+Correlation between inflammatory factors, autophagy protein levels, and infection in granulation tissue of diabetic foot ulcer.|https://dx.doi.org/10.1002/iid3.1233
+Targeting Intracellular Bacteria with Dual Drug-loaded Lactoferrin Nanoparticles.|https://dx.doi.org/10.1021/acsinfecdis.4c00045

@@ -60,3 +60,7 @@ Multifunctional host-defense peptides isolated from skin secretions of the banan
 Identification of a new family of peptidoglycan transpeptidases reveals atypical crosslinking is essential for viability in Clostridioides difficile.|https://dx.doi.org/10.1101/2024.03.14.584917
 Intestinal Colonization by Campylobacter jejuni, Clostridium difficile, and Clostridium perfringens among Commensal Rattus norvegicus in the Urban Areas of Tehran, Iran.|https://dx.doi.org/10.1155/2024/2929315
 It's All in the Interaction: Early Acquired Words Are Both Frequent and Highly Imageable.|https://dx.doi.org/10.1162/opmi_a_00130
+Isolation and characterization of novel 3,3'-iminodipropionitrile biodegrading Paracoccus communis, from an industrial wastewater treatment bioreactor.|https://dx.doi.org/10.1016/j.scitotenv.2024.172099
+Evaluation of a surveillance system for Clostridioides difficile infections for Swiss hospitals.|https://dx.doi.org/10.57187/s.3571
+Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review.|https://dx.doi.org/10.13075/ijomeh.1896.02003
+Novel insights into phage biology of the pathogen Clostridioides difficile based on the active virome.|https://dx.doi.org/10.3389/fmicb.2024.1374708

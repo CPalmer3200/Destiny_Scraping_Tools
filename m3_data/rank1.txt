@@ -17,3 +17,4 @@ The impact of existing total anti-toxin B IgG immunity in outcomes of recurrent 
 Cefepime Versus Piperacillin-Tazobactam for the Treatment of Intra-Abdominal Infections Secondary to Potential AmpC Beta-Lactamase-Producing Organisms.|https://dx.doi.org/10.1177/00185787231170384
 Hepatic Sarcoidosis Found Incidentally in a Patient Presenting With Recurrent Clostridium difficile Infections.|https://dx.doi.org/10.7759/cureus.55316
 Clinical Efficacy of Therapeutic Agents for Clostridioides difficile Infection Based on Four Severity Classifications.|https://dx.doi.org/10.7883/yoken.JJID.2023.483
+Characteristics of Patients With Initial Clostridioides difficile Infection (CDI) That Are Associated With Increased Risk of Multiple CDI Recurrences.|https://dx.doi.org/10.1093/ofid/ofae127

@@ -90,3 +90,14 @@ Unexpected positive culture (UPC) in adults revision spine surgery: a systematic
 Does exposure to polymethyl methacrylate bone cement increase the risk of surgical glove failure?|https://dx.doi.org/10.1111/ans.18927
 Clostridioides difficile infection: a changing treatment paradigm.|https://dx.doi.org/10.5114/pg.2024.136237
 Clinical Experience of Using a Combination of Dexamethasone and Levofloxacin After Cataract Surgery.|https://dx.doi.org/10.5455/medarh.2024.78.127-130
+Cost-effectiveness of an in-development adult-formulated 21-valent pneumococcal conjugate vaccine in US adults aged 50 years or older.|https://dx.doi.org/10.1016/j.vaccine.2024.04.002
+Incomplete sensorimotor paresis after upper abdominal surgery with TEA and spinal epidural lipomatosis: a case report.|https://dx.doi.org/10.1136/rapm-2024-105342
+Management of Humeral Shaft Fracture: A Network Metanalysis of Individual Treatment Modalities.|https://dx.doi.org/10.1097/BOT.0000000000002808
+Minimally invasive pancreatoduodenectomy by junior surgeon: Initial experience of the next generation.|https://dx.doi.org/10.1002/wjs.12178
+COVID-19 Vaccination in Patients with Inborn Errors of Immunity Reduces Hospitalization and Critical Care Needs Related to COVID-19: a USIDNET Report.|https://dx.doi.org/10.1007/s10875-023-01613-5
+Microbiological quality of gluten-free meals, naturally gluten free foods, and gluten free-labelled products.|https://dx.doi.org/10.32394/rpzh.2024.0288
+A Case of Infective Endocarditis Caused by Citrobacter koseri: Unraveling a Rare Pathogen and Dire Outcome.|https://dx.doi.org/10.1177/23247096241239544
+High prevalence of ceftriaxone-resistant and XDR Neisseria gonorrhoeae in several cities of Cambodia, 2022-23: WHO Enhanced Gonococcal Antimicrobial Surveillance Programme (EGASP).|https://dx.doi.org/10.1093/jacamr/dlae053
+Effects of breastfeeding in postoperative complication in pediatric population: a systematic review.|https://dx.doi.org/10.1097/MS9.0000000000001829
+Primary Pulmonary Echinococcosis in the United States: A Case Report and Review of the Literature.|https://dx.doi.org/10.7759/cureus.55591
+Low-risk Staphylococcus aureus bacteremia patients do not require routine diagnostic imaging: A multicenter retrospective cohort study.|https://dx.doi.org/10.1093/cid/ciae187

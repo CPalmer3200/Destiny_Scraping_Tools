@@ -190,3 +190,11 @@ Lusutrombopag as a Repurposing Drug in Combination with Aminoglycosides against 
 A case report of Vancomycin in the treatment of Q fever endocarditis.|https://dx.doi.org/10.3389/fcimb.2024.1323054
 An update on antibacterial AlkylGuanidino Ureas: Design of new derivatives, synergism with colistin and data analysis of the whole library.|https://dx.doi.org/10.1016/j.ejmech.2024.116362
 The Efficacy of Different Antibiotic Compounds in Regenerative Treatment of Immature Necrotic Teeth.|https://dx.doi.org/10.18502/fid.v21i1.14638
+Staphylococcus aureus nasal colonization and susceptibility profile to antimicrobials in hemodialysis patients using a protocol of seven collections.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116295
+Proximal tubular MBD2 promotes autophagy to drive the progression of AKI caused by vancomycin via regulation of miR-597-5p/S1PR1 axis.|https://dx.doi.org/10.1096/fj.202301500R
+Prospective validation of a model-informed precision dosing tool for vancomycin treatment in neonates.|https://dx.doi.org/10.1128/aac.01591-23
+Targeting Intracellular Bacteria with Dual Drug-loaded Lactoferrin Nanoparticles.|https://dx.doi.org/10.1021/acsinfecdis.4c00045
+Antimicrobial Resistance Patterns in Patients with Vaginal Discharge: A 2019-2022 Analysis at the National Health Laboratory in Eritrea.|https://dx.doi.org/10.1155/2024/7193490
+Amebic liver abscess: An update.|https://dx.doi.org/10.4254/wjh.v16.i3.316
+Intraosseous Regional Administration of Vancomycin Prophylaxis for Primary and Revision Total Knee Arthroplasty.|https://dx.doi.org/10.22038/ABJS.2023.71420.3337
+Continuing Medical Education Questions: April 2024.|https://dx.doi.org/10.14309/ajg.0000000000002738

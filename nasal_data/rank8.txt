@@ -135,3 +135,17 @@ Respiratory syncytial virus vs. Influenza virus infection: mortality and morbidi
 Vitamin D Deficiency Leads to Poorer Health Outcomes and Greater Length of Stay After Total Knee Arthroplasty and Supplementation Improves Outcomes: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2106/JBJS.RVW.23.00150
 Radical sternectomy for osteomyelitis without reconstruction post-coronary artery bypass graft: 10 years on.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4.S22
 Development of postoperative bronchopleural fistula after neoadjuvant immunochemotherapy in non-small cell lung cancer: case reports and review of the literature.|https://dx.doi.org/10.1007/s00432-024-05683-9
+The role of vasculature and angiogenesis in respiratory diseases.|https://dx.doi.org/10.1007/s10456-024-09910-2
+CNS Viral Infections-What to Consider for Improving Drug Treatment: A Plea for Using Mathematical Modeling Approaches.|https://dx.doi.org/10.1007/s40263-024-01082-3
+Consensus of the Brazilian association of hematology, hemotherapy and cellular therapy on patient blood management: Assessment and management of postoperative anemia.|https://dx.doi.org/10.1016/j.htct.2024.02.014
+Hepatopancreaticobiliary Resection Arginine Immunomodulation (PRIMe) trial: protocol for a randomised phase II trial of the impact of perioperative immunomodulation on immune function following resection for hepatopancreaticobiliary malignancy.|https://dx.doi.org/10.1136/bmjopen-2023-072159
+Curcumin-loaded mesoporous polydopamine nanoparticles modified by quaternized chitosan against bacterial infection through synergistic effect.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131372
+Immunoglobulin G4-related disease and B-cell malignancy due to an IKZF1 gain-of-function variant.|https://dx.doi.org/10.1016/j.jaci.2024.03.018
+Commentary on ''A Risk Score for Predicting the Necessity of Surgical Necrosectomy in the Treatment of Infected Necrotizing Pancreatitis''.|https://dx.doi.org/10.1016/j.gassur.2024.03.030
+A nursing report on a corneal contact lens wearer receiving keratoplasty due to corneal ulcer and perforation caused by Pythium insidiosum infection: A case report.|https://dx.doi.org/10.1097/MD.0000000000037663
+Microwave ablation for diffuse adenomyosis leading to multiple complications after hysterectomy: A case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000037701
+Chlamydia trachomatis and Neisseria gonorrhoeae rectal infections: Interplay between rectal microbiome, HPV infection and Torquetenovirus.|https://dx.doi.org/10.1371/journal.pone.0301873
+New surgery and hospital-diagnosed infections in elderly patients with inflammatory bowel disease undergoing surgery - a nationwide cohort study.|https://dx.doi.org/10.1093/ecco-jcc/jjae047
+Risk of complications and implant survival of surgical treatment of proximal femoral metastasis: a meta-analysis.|https://dx.doi.org/10.1007/s00590-024-03930-w
+Ultrasonographic findings of fluid accumulation and hyperechogenic spots suggestive of surgical site infection following laparotomy for colic in horses.|https://dx.doi.org/10.1002/vetr.4045
+All-inside endoscopic semiautomatic running locked stitch technique shows favourable outcomes for acute Achilles tendon ruptures.|https://dx.doi.org/10.1002/ksa.12177

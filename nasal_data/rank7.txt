@@ -162,3 +162,22 @@ Evolving Epidemiology of Pediatric Respiratory Syncytial Virus (RSV) Cases Aroun
 Ursodeoxycholic acid may protect from severe acute respiratory syndrome coronavirus 2 Omicron variant by reducing angiotensin-converting enzyme 2.|https://dx.doi.org/10.1002/prp2.1194
 Inhibition of the RLR signaling pathway by SARS-CoV-2 ORF7b is mediated by MAVS and abrogated by ORF7b-homologous interfering peptide.|https://dx.doi.org/10.1128/jvi.01573-23
 Dexamethasone treatment for COVID-19 is related to increased mortality in hematologic malignancy patients: results from the EPICOVIDEHA Registry.|https://dx.doi.org/10.3324/haematol.2023.284678
+Breast cancer (BC) and severe COVID-19 (C-19) outcomes: a matched analysis.|https://dx.doi.org/10.1007/s10549-024-07301-1
+Effectiveness and safety of COVID-19 vaccines on maternal and perinatal outcomes: a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjgh-2023-014247
+Substance use and adolescent mental health during the COVID-19 pandemic in Brazil: a longitudinal approach.|https://dx.doi.org/10.1016/j.jped.2024.01.005
+Potential Convergence of Olfactory Dysfunction in Parkinson's Disease and COVID-19: The Role of Neuroinflammation.|https://dx.doi.org/10.1016/j.arr.2024.102288
+Toll like receptor 4 mediates the inhibitory effect of SARS-CoV-2 spike protein on proximal tubule albumin endocytosis.|https://dx.doi.org/10.1016/j.bbadis.2024.167155
+Soft interface confined DNA walker for sensitive and specific detection of SARS-CoV-2 variants.|https://dx.doi.org/10.1016/j.talanta.2024.126009
+Long-term course of neutralising antibodies against SARS-CoV-2 in vaccinated and unvaccinated staff and residents in a Swiss nursing home: a cohort study 2021-2022.|https://dx.doi.org/10.57187/s.3502
+Use of complementary medicine and its association with SARS-CoV-2 vaccination during the COVID-19 pandemic: a longitudinal cohort study.|https://dx.doi.org/10.57187/s.3505
+Advances in the application of traditional Chinese medicine during the COVID-19 recovery period: A review.|https://dx.doi.org/10.1097/MD.0000000000037683
+Assessing New York City's COVID-19 Vaccine Rollout Strategy: A Case for Risk-Informed Distribution.|https://dx.doi.org/10.1007/s11524-024-00853-z
+An ELISA-Based Method to Measure Mucosal Antibody Responses Against SARS-CoV-2 in Human Saliva.|https://dx.doi.org/10.1002/cpz1.1024
+Nirmatrelvir and ritonavir combination against COVID-19 caused by omicron BA.2.2 in the elderly: A single-center large observational study.|https://dx.doi.org/10.1002/iid3.1232
+The Social Connectedness of Older Adults during the COVID-19 Pandemic: Evidence by Survey Mode and Respondent Dementia.|https://dx.doi.org/10.1093/geronb/gbae044
+Depression and anxiety between nurses and nursing assistants working in long-term care facilities during the COVID-19 pandemic.|https://dx.doi.org/10.1111/inr.12953
+Strategies for expanding childhood vaccination in the Americas following the COVID-19 pandemic.|https://dx.doi.org/10.26633/RPSP.2024.29
+Physical Activity and Psychological Wellbeing Among Healthcare Students During the COVID-19 Pandemic.|https://dx.doi.org/10.7759/cureus.55577
+Assessment of the Knowledge, Attitudes, and Practices of Indian Medical Students Towards Coronavirus Disease 2019 (COVID-19) After Two Doses of Vaccination and Their Approach Towards the Third (Booster) Dose.|https://dx.doi.org/10.7759/cureus.55588
+Management of Renal Cell Carcinoma With Supradiaphragmatic Inferior Vena Cava Thrombus Diagnosed During Acute COVID-19 Infection.|https://dx.doi.org/10.7759/cureus.55565
+Clinical and immunologic features of co-infection in COVID-19 patients, along with potential traditional Chinese medicine treatments.|https://dx.doi.org/10.3389/fimmu.2024.1357638
