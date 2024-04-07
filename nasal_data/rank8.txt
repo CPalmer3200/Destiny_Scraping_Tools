@@ -149,3 +149,6 @@ New surgery and hospital-diagnosed infections in elderly patients with inflammat
 Risk of complications and implant survival of surgical treatment of proximal femoral metastasis: a meta-analysis.|https://dx.doi.org/10.1007/s00590-024-03930-w
 Ultrasonographic findings of fluid accumulation and hyperechogenic spots suggestive of surgical site infection following laparotomy for colic in horses.|https://dx.doi.org/10.1002/vetr.4045
 All-inside endoscopic semiautomatic running locked stitch technique shows favourable outcomes for acute Achilles tendon ruptures.|https://dx.doi.org/10.1002/ksa.12177
+Efficacy analysis of clinical serological indicators in the diagnosis of postoperative periprosthetic joint infection in patients with rheumatoid arthritis or osteoarthritis.|https://dx.doi.org/10.1007/s00264-024-06171-y
+Intranasal Delivery of Carvedilol- and Quercetin-Encapsulated Cationic Nanoliposomes for Cardiovascular Targeting: Formulation and In Vitro and Ex Vivo Studies.|https://dx.doi.org/10.1021/acsabm.4c00102
+Invited commentary: Ileosigmoid knotting-bowel obstruction with confusing clinical picture.|https://dx.doi.org/10.1002/wjs.12176

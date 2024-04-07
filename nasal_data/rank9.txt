@@ -163,3 +163,9 @@ Novel 4-nitroimidazole analogues: synthesis, in vitro biological evaluation, in
 Antibacterial wound dressing with cross-linked electrospun surface from reduced graphene oxide doped polyvinyl alcohol/sodium caseinate blends.|https://dx.doi.org/10.1002/bip.23579
 Correlation between inflammatory factors, autophagy protein levels, and infection in granulation tissue of diabetic foot ulcer.|https://dx.doi.org/10.1002/iid3.1233
 Targeting Intracellular Bacteria with Dual Drug-loaded Lactoferrin Nanoparticles.|https://dx.doi.org/10.1021/acsinfecdis.4c00045
+Endophytes: a uniquely tailored source of potential antibiotic adjuvants.|https://dx.doi.org/10.1007/s00203-024-03891-y
+Discovery of Salifungin as a Repurposed Antibiotic against Methicillin-Resistant Staphylococcus aureus with Limited Resistance Development.|https://dx.doi.org/10.1021/acsinfecdis.3c00611
+UiO-66/AgNPs Coating for Dental Implants in Preventing Bacterial Infections.|https://dx.doi.org/10.1177/00220345241229646
+Chemical sensing of common microorganisms found in biopharmaceutical industries using MIR laser spectroscopy and multivariate analysis.|https://dx.doi.org/10.1002/jbio.202300391
+Intradermal injection of Cutibacterium acnes and staphylococcus: A pustular acne-like murine model.|https://dx.doi.org/10.1111/jocd.16279
+The Transpeptidase Sortase A Binds Nucleic Acids and Mediates Mammalian Cell Labeling.|https://dx.doi.org/10.1002/advs.202305605

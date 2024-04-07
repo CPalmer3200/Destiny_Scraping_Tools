@@ -181,3 +181,5 @@ Physical Activity and Psychological Wellbeing Among Healthcare Students During t
 Assessment of the Knowledge, Attitudes, and Practices of Indian Medical Students Towards Coronavirus Disease 2019 (COVID-19) After Two Doses of Vaccination and Their Approach Towards the Third (Booster) Dose.|https://dx.doi.org/10.7759/cureus.55588
 Management of Renal Cell Carcinoma With Supradiaphragmatic Inferior Vena Cava Thrombus Diagnosed During Acute COVID-19 Infection.|https://dx.doi.org/10.7759/cureus.55565
 Clinical and immunologic features of co-infection in COVID-19 patients, along with potential traditional Chinese medicine treatments.|https://dx.doi.org/10.3389/fimmu.2024.1357638
+DLD is a potential therapeutic target for COVID-19 infection in diffuse large B-cell lymphoma patients.|https://dx.doi.org/10.1007/s10495-024-01959-0
+COVID-19 surveillance in a bone marrow transplantation unit: experience from a Brazilian tertiary-care teaching hospital.|https://dx.doi.org/10.1007/s00520-024-08479-2

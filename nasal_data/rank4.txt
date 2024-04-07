@@ -101,3 +101,6 @@ High prevalence of ceftriaxone-resistant and XDR Neisseria gonorrhoeae in severa
 Effects of breastfeeding in postoperative complication in pediatric population: a systematic review.|https://dx.doi.org/10.1097/MS9.0000000000001829
 Primary Pulmonary Echinococcosis in the United States: A Case Report and Review of the Literature.|https://dx.doi.org/10.7759/cureus.55591
 Low-risk Staphylococcus aureus bacteremia patients do not require routine diagnostic imaging: A multicenter retrospective cohort study.|https://dx.doi.org/10.1093/cid/ciae187
+Antibiotic Prophylaxis and Infective Endocarditis Incidence Following Invasive Dental Procedures: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1001/jamacardio.2024.0873
+Tri-State Evaluation of the Effects of the COVID-19 Pandemic on Routine Vaccine Uptake in Iowa, Minnesota, and North Dakota, 2017-2021.|https://dx.doi.org/10.1007/s10900-024-01355-4
+Evaluating the effectiveness of echocardiographic guidance in diminishing postoperative wound complications for left atrial appendage closure: A clinical retrospective study.|https://dx.doi.org/10.1111/iwj.14742
