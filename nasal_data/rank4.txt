@@ -104,3 +104,12 @@ Low-risk Staphylococcus aureus bacteremia patients do not require routine diagno
 Antibiotic Prophylaxis and Infective Endocarditis Incidence Following Invasive Dental Procedures: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1001/jamacardio.2024.0873
 Tri-State Evaluation of the Effects of the COVID-19 Pandemic on Routine Vaccine Uptake in Iowa, Minnesota, and North Dakota, 2017-2021.|https://dx.doi.org/10.1007/s10900-024-01355-4
 Evaluating the effectiveness of echocardiographic guidance in diminishing postoperative wound complications for left atrial appendage closure: A clinical retrospective study.|https://dx.doi.org/10.1111/iwj.14742
+The Effect of the COVID-19 Pandemic on Pituitary Surgeries.|https://dx.doi.org/10.1016/j.wneu.2024.03.156
+Feasibility, safety, and impact of the RTS,S/AS01(E) malaria vaccine when implemented through national immunisation programmes: evaluation of cluster-randomised introduction of the vaccine in Ghana, Kenya, and Malawi.|https://dx.doi.org/10.1016/S0140-6736(24)00004-7
+Bilateral thoracotomy for horseshoe lung complicated with severe aspergilloma: a case report.|https://dx.doi.org/10.1186/s40792-024-01853-6
+Comparative Study on the Immunogenicity and Efficacy of Different Post-exposure Intramuscular Rabies Vaccination Regimens in China.|https://dx.doi.org/10.3967/bes2024.018
+Efficacy and safety of artemether-lumefantrine for the treatment of uncomplicated falciparum malaria in mainland Tanzania, 2018.|https://dx.doi.org/10.1186/s12936-024-04926-x
+The butterfly effect in oral and maxillofacial surgery: Understanding and applying chaos theory and complex systems principles.|https://dx.doi.org/10.1016/j.jcms.2024.03.009
+Single-stage revision for total shoulder arthroplasty infection. Results at a minimum 2 years follow-up.|https://dx.doi.org/10.1016/j.otsr.2024.103881
+An evaluation of the utility of computed tomography in high-risk endometrial cancer surveillance.|https://dx.doi.org/10.1016/j.ctarc.2024.100812
+COVID-19 vaccination induces distinct T-cell responses in pediatric solid organ transplant recipients and immunocompetent children.|https://dx.doi.org/10.1038/s41541-024-00866-4

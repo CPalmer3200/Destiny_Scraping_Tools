@@ -198,3 +198,9 @@ Antimicrobial Resistance Patterns in Patients with Vaginal Discharge: A 2019-202
 Amebic liver abscess: An update.|https://dx.doi.org/10.4254/wjh.v16.i3.316
 Intraosseous Regional Administration of Vancomycin Prophylaxis for Primary and Revision Total Knee Arthroplasty.|https://dx.doi.org/10.22038/ABJS.2023.71420.3337
 Continuing Medical Education Questions: April 2024.|https://dx.doi.org/10.14309/ajg.0000000000002738
+The 3' UTR of vigR is required for virulence in Staphylococcus aureus and has expanded through STAR sequence repeat insertions.|https://dx.doi.org/10.1016/j.celrep.2024.114082
+Phage-specific immunity impairs efficacy of bacteriophage targeting Vancomycin Resistant Enterococcus in a murine model.|https://dx.doi.org/10.1038/s41467-024-47192-w
+Chemical biology tools to probe bacterial glycans.|https://dx.doi.org/10.1016/j.cbpa.2024.102453
+Bioisosteric replacement strategy leads to novel DNA gyrase B inhibitors with improved potencies and properties.|https://dx.doi.org/10.1016/j.bioorg.2024.107314
+Discovery of Salifungin as a Repurposed Antibiotic against Methicillin-Resistant Staphylococcus aureus with Limited Resistance Development.|https://dx.doi.org/10.1021/acsinfecdis.3c00611
+Refractoriness to anti-Helicobacter pylori treatment attributed to phenotypic resistance patterns in patients with gastroduodenopathy in Guayaquil-Ecuador.|https://dx.doi.org/10.1111/hel.13060

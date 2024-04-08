@@ -64,3 +64,6 @@ Isolation and characterization of novel 3,3'-iminodipropionitrile biodegrading P
 Evaluation of a surveillance system for Clostridioides difficile infections for Swiss hospitals.|https://dx.doi.org/10.57187/s.3571
 Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review.|https://dx.doi.org/10.13075/ijomeh.1896.02003
 Novel insights into phage biology of the pathogen Clostridioides difficile based on the active virome.|https://dx.doi.org/10.3389/fmicb.2024.1374708
+RNA-based regulation in bacteria-phage interactions.|https://dx.doi.org/10.1016/j.anaerobe.2024.102851
+The small acid-soluble proteins of spore-forming organisms: Similarities and differences in function.|https://dx.doi.org/10.1016/j.anaerobe.2024.102844
+Proton pump inhibitors for gastrointestinal bleeding prophylaxis in critically ill patients: A systematic review protocol.|https://dx.doi.org/10.1111/aas.14426

@@ -169,3 +169,17 @@ UiO-66/AgNPs Coating for Dental Implants in Preventing Bacterial Infections.|htt
 Chemical sensing of common microorganisms found in biopharmaceutical industries using MIR laser spectroscopy and multivariate analysis.|https://dx.doi.org/10.1002/jbio.202300391
 Intradermal injection of Cutibacterium acnes and staphylococcus: A pustular acne-like murine model.|https://dx.doi.org/10.1111/jocd.16279
 The Transpeptidase Sortase A Binds Nucleic Acids and Mediates Mammalian Cell Labeling.|https://dx.doi.org/10.1002/advs.202305605
+Bacterial cellulose-based hydrogel with regulated rehydration and enhanced antibacterial activity for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131291
+Novel chitosan-based smart bio-nanocomposite films incorporating TiO(2) nanoparticles for white bread preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131367
+Low molecular weight chitosan from Pleurotus ostreatus waste and its prebiotic potential.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131419
+Silver vanadate nanomaterial incorporated into heat-cured resin and coating in printed resin - antimicrobial activity in two multi-species biofilms and wettability.|https://dx.doi.org/10.1016/j.jdent.2024.104984
+Biofouling mitigation of Nb(2)AlC and Mo(3)AlC(2) MXene-precursors doped polyether sulfone mixed matrix membranes for pathogen microorganisms.|https://dx.doi.org/10.1016/j.scitotenv.2024.172189
+Dimeric peptoids as antibacterial agents.|https://dx.doi.org/10.1016/j.bioorg.2024.107334
+Novel synergistic interactions between monolaurin, a mono-acyl glycerol and β lactam antibiotics against Staphylococcus aureus: an in vitro study.|https://dx.doi.org/10.1186/s12879-024-09261-9
+The 3' UTR of vigR is required for virulence in Staphylococcus aureus and has expanded through STAR sequence repeat insertions.|https://dx.doi.org/10.1016/j.celrep.2024.114082
+Plackett-Burman screening of physico-chemical variables affecting Citrus peel-mediated synthesis of silver nanoparticles and their antimicrobial activity.|https://dx.doi.org/10.1038/s41598-024-58102-x
+Synthesis, antimicrobial activity, antioxidant activity and molecular docking of novel chitosan derivatives containing glycine Schiff bases as potential succinate dehydrogenase inhibitors.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131407
+Bioisosteric replacement strategy leads to novel DNA gyrase B inhibitors with improved potencies and properties.|https://dx.doi.org/10.1016/j.bioorg.2024.107314
+YabJ from Staphylococcus aureus entraps chlorides within its pocket.|https://dx.doi.org/10.1016/j.bbrc.2024.149892
+Combating infections from drug-resistant bacteria: Unleashing synergistic broad-spectrum antibacterial power with high-entropy MXene/CDs.|https://dx.doi.org/10.1016/j.colsurfb.2024.113874
+Antibacterial activity of lysozyme after association with carboxymethyl konjac glucomannan.|https://dx.doi.org/10.1016/j.foodchem.2024.139229
