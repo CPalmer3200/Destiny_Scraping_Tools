@@ -10,3 +10,6 @@ Self-assembling peptide hydrogel scaffold integrating stem cell-derived exosomes
 Antibacterial wound dressing with cross-linked electrospun surface from reduced graphene oxide doped polyvinyl alcohol/sodium caseinate blends.|https://dx.doi.org/10.1002/bip.23579
 pH-Responsive Co-Assembled Peptide Hydrogel to Inhibit Drug-Resistant Bacterial Infection and Promote Wound Healing.|https://dx.doi.org/10.1021/acsami.3c18436
 Bacterial cellulose-based hydrogel with regulated rehydration and enhanced antibacterial activity for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131291
+Metal-based nanoparticles: an alternative treatment for biofilm infection in hard-to-heal wounds.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4a.xcix
+DUAL ACTION ELECTROCHEMICAL BANDAGE OPERATED by a PROGRAMMABLE MULTIMODAL WEARABLE POTENTIOSTAT.|https://dx.doi.org/10.1101/2024.03.22.586346
+Preparation of carboxymethyl chitosan/double-formaldehyde cellulose based hydrogel loaded with ginger essential oil nanoemulsion for meat preservation.|https://dx.doi.org/10.1007/s10068-023-01437-4

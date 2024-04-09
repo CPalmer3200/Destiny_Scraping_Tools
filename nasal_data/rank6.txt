@@ -11,3 +11,4 @@ Skin dermatoses in the returning traveller; a practical guide.|https://dx.doi.or
 Feasibility of using a combination of staphylococcal superantigen-like proteins 3, 7 and 11 in a fusion vaccine for Staphylococcus aureus.|https://dx.doi.org/10.1111/imcb.12745
 Synthesis and characterization of mupirocin-LDH/PVA nanofibrous composite as a dual-carrier drug release system.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131378
 Reverse development of vaccines against antimicrobial-resistant pathogens.|https://dx.doi.org/10.1038/s41541-024-00858-4
+The inflammatory microenvironment of the lung at the time of infection governs innate control of SARS-CoV-2 replication.|https://dx.doi.org/10.1101/2024.03.27.586885

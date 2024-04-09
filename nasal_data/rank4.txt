@@ -113,3 +113,17 @@ The butterfly effect in oral and maxillofacial surgery: Understanding and applyi
 Single-stage revision for total shoulder arthroplasty infection. Results at a minimum 2 years follow-up.|https://dx.doi.org/10.1016/j.otsr.2024.103881
 An evaluation of the utility of computed tomography in high-risk endometrial cancer surveillance.|https://dx.doi.org/10.1016/j.ctarc.2024.100812
 COVID-19 vaccination induces distinct T-cell responses in pediatric solid organ transplant recipients and immunocompetent children.|https://dx.doi.org/10.1038/s41541-024-00866-4
+Diabetic Osteomyelitis: Oral vs Intravenous Antibiotics at a Single Level 1 Academic Medical Trauma Center.|https://dx.doi.org/10.1053/j.jfas.2024.03.003
+Devastating fungal endocarditis involving ascending aorta in a patient with a history of aortic valve replacement: a case report.|https://dx.doi.org/10.1186/s13019-024-02733-8
+Systematic Review of Heel Puncture-Related Osteomyelitis of the Calcaneus in Newborn Infants.|https://dx.doi.org/10.1007/s40121-024-00957-8
+Plasmodium falciparum pfhrp2 and pfhrp3 gene deletions among patients enrolled at 100 health facilities throughout Tanzania: February to July 2021.|https://dx.doi.org/10.1038/s41598-024-58455-3
+Understanding the diagnosis and management of multisystem inflammatory syndrome in adults (MIS-A) in the UK: results of a national Delphi process.|https://dx.doi.org/10.7861/clinmed.2021-0700
+Neurocysticercosis of the third ventricle: illustrative case.|https://dx.doi.org/10.3171/CASE23769
+How Would You Manage HIV Pre-exposure Prophylaxis in This Patient With Medical Comorbidities? : Grand Rounds Discussion From Beth Israel Deaconess Medical Center.|https://dx.doi.org/10.7326/M24-0217
+Behavioral and social drivers of COVID-19 vaccination initiation in the US: a longitudinal study March─ October 2021.|https://dx.doi.org/10.1007/s10865-024-00487-1
+Characterization of the oral microbiota and the relationship of the oral microbiota with the dental and periodontal status in children and adolescents with nonsyndromic cleft lip and palate. Systematic literature review and meta-analysis.|https://dx.doi.org/10.1007/s00784-024-05624-3
+Antibiotic prophylaxis in invasive urodynamics, a Delphi consensus of the Italian Society of Urodynamics (SIUD).|https://dx.doi.org/10.1002/nau.25463
+Post-operative site infections among surgical patients at Southern Ethiopia: A prospective cohort study.|https://dx.doi.org/10.1016/j.heliyon.2024.e28650
+Broad immunogenicity to prior SARS-CoV-2 strains and JN.1 variant elicited by XBB.1.5 vaccination in nursing home residents.|https://dx.doi.org/10.1101/2024.03.21.24303684
+Laminectomy for acute transverse sacral fractures with compression of the cauda equina: A neurosurgical perspective.|https://dx.doi.org/10.1016/j.wnsx.2024.100374
+Perspectives on technology - prostate cancer: is local anaesthetic transperineal prostate biopsy really better than transrectal biopsy?|https://dx.doi.org/10.1111/bju.16349

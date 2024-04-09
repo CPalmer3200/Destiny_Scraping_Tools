@@ -164,3 +164,18 @@ In reply to the Letter to the Editor regarding "Clinical efficacy of cefiderocol
 The use of uncemented stems in femoral neck fractures in elderly patients: A comparative study of 671 cases.|https://dx.doi.org/10.1016/j.otsr.2024.103878
 Factors Associated with Urgent Amputation Status and Its Impact on Mortality.|https://dx.doi.org/10.1016/j.avsg.2023.12.093
 Long-term Tunneled Hemodialysis Catheters: Achieving Efficiency through Tip Position Optimization.|https://dx.doi.org/10.1016/j.avsg.2024.01.018
+Association of empiric antibiotic selection and clinical outcomes in hospitalised children with severe orbital infections: a retrospective cohort study.|https://dx.doi.org/10.1136/archdischild-2023-326175
+Pulmonary mucormycosis diagnosed by ultrasound guided percutaneous biopsy: A case series.|https://dx.doi.org/10.1016/j.ijtb.2023.10.001
+The Management of Aneurysmal Degeneration of Lower Extremity Cryopreserved Saphenous Vein Bypass Grafts.|https://dx.doi.org/10.1016/j.avsg.2024.02.002
+The use of positive deviance approach to improve health service delivery and quality of care: a scoping review.|https://dx.doi.org/10.1186/s12913-024-10850-2
+The efficacy and safety of different does of intravenous tranexamic acid on blood loss in fresh foot and ankle fractures: a prospective, randomized controlled study.|https://dx.doi.org/10.1186/s12891-024-07410-4
+Clinical outcomes of liver transplantation in human immunodeficiency virus/hepatitis B virus coinfected patients in China.|https://dx.doi.org/10.1186/s12879-024-09284-2
+Incipient tuberculosis: a comprehensive overview.|https://dx.doi.org/10.1007/s15010-024-02239-4
+Large-scale phenotyping of patients with long COVID post-hospitalization reveals mechanistic subtypes of disease.|https://dx.doi.org/10.1038/s41590-024-01778-0
+Closed incision negative pressure therapy use as a strategy to reduce sternal wound infection in identified high-risk patients: A multicentre propensity-matched study.|https://dx.doi.org/10.1093/icvts/ivae056
+Surgical Antimicrobial Prophylaxis Compliance in Turkey: Data from the Prospective, Observational, Multicenter Survey Including 7,978 Surgical Patients.|https://dx.doi.org/10.1089/sur.2023.243
+Real-World Evidence of the Impact of a Novel Surgical Irrigant on Surgical Site Infections in Primary Total Knee Arthroplasty Performed at an Ambulatory Surgery Center.|https://dx.doi.org/10.1089/sur.2023.304
+Preoperative nutrition therapy in people undergoing gastrointestinal surgery.|https://dx.doi.org/10.1002/14651858.CD008879.pub3
+Comparison of outcomes in patients with and without neurologic diseases undergoing holmium laser enucleation of the prostate.|https://dx.doi.org/10.5489/cuaj.8683
+Innovative Percutaneous 3 Stitch Suture Technique for Site Closure in Venoarterial Extracorporeal Membrane Oxygenation Decannulation Without Direct Artery Repair: A Case Series.|https://dx.doi.org/10.1097/MAT.0000000000002198
+Surgical Procedures of the Correction of Severe Static Glabellar Lines by Utilizing Resection with Free Dermal Fat Grafting (FDFG).|https://dx.doi.org/10.1007/s00266-024-03984-5

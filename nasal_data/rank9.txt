@@ -183,3 +183,17 @@ Bioisosteric replacement strategy leads to novel DNA gyrase B inhibitors with im
 YabJ from Staphylococcus aureus entraps chlorides within its pocket.|https://dx.doi.org/10.1016/j.bbrc.2024.149892
 Combating infections from drug-resistant bacteria: Unleashing synergistic broad-spectrum antibacterial power with high-entropy MXene/CDs.|https://dx.doi.org/10.1016/j.colsurfb.2024.113874
 Antibacterial activity of lysozyme after association with carboxymethyl konjac glucomannan.|https://dx.doi.org/10.1016/j.foodchem.2024.139229
+Fourth national Japanese antimicrobial susceptibility pattern surveillance program: Bacterial isolates from patients with complicated urinary tract infections.|https://dx.doi.org/10.1016/j.jiac.2024.03.024
+Epigallocatechin-3-gallate derived polymer coated Prussian blue for synergistic ROS elimination and antibacterial therapy.|https://dx.doi.org/10.1016/j.ijpharm.2024.124095
+Alkylated EDTA potentiates antibacterial photodynamic activity of protoporphyrin.|https://dx.doi.org/10.1186/s12951-024-02353-3
+Development and characterization of a topical gel, containing lavender (Lavandula angustifolia) oil loaded solid lipid nanoparticles.|https://dx.doi.org/10.1186/s12906-024-04440-2
+Keratin Formed Bioadhesive Ophthalmic Gel for the Bacterial Conjunctivitis Treatment.|https://dx.doi.org/10.1208/s12249-024-02772-3
+The agreement between bronchoalveolar lavage, bronchial wash and sputum culture: a retrospective study.|https://dx.doi.org/10.1007/s15010-024-02238-5
+Klebsiella pneumoniae peptide hijacks a Streptococcus pneumoniae permease to subvert pneumococcal growth and colonization.|https://dx.doi.org/10.1038/s42003-024-06113-9
+Multifunctional 58S Bioactive Glass/Silver/Cerium Oxide-Based Biocomposites with Effective Antibacterial, Cytocompatibility, and Mechanical Properties.|https://dx.doi.org/10.1021/acsami.3c17400
+Metal-based nanoparticles: an alternative treatment for biofilm infection in hard-to-heal wounds.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4a.xcix
+Triggering antibacterial activity of a common plant by biosorption of selected heavy metals.|https://dx.doi.org/10.1007/s00775-024-02045-1
+Discovery of olimycin E from Streptomyces sp. 11695.|https://dx.doi.org/10.1080/14786419.2024.2337131
+Modified Frailty Index as a Predictor of Adverse Outcomes in Elective Primary Hip and Knee Replacement Surgery Patients at a Tertiary Care Hospital in Pakistan: A Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.55783
+Consecutive Serious Medical Concomitants Associated With Extremely Severe Anorexia Nervosa in a Patient With Body Mass Index of 10.2 Kilograms per Square Meter: A Case Report.|https://dx.doi.org/10.7759/cureus.55749
+Evaluation of Treatment of Methicillin-Resistant Staphylococcus aureus Biofilms with Intermittent Electrochemically-Generated H (2) O (2) or HOCl.|https://dx.doi.org/10.1101/2024.03.22.586337

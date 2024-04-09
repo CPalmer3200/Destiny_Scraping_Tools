@@ -190,3 +190,22 @@ Perspectives on AI-based recommendations for mask-wearing and COVID-19 vaccinati
 A novel KPC-166 in ceftazidime/avibactam resistant ST307 Klebsiella pneumoniae causing an outbreak in intensive care COVID Unit, Italy.|https://dx.doi.org/10.1016/j.jmii.2024.03.004
 Digital technology in maize nutrient management research in northern Nigeria amid COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-024-58740-1
 Adapting care provision in family practice during the COVID-19 pandemic: a qualitative study exploring the impact of primary care reforms in four Canadian regions.|https://dx.doi.org/10.1186/s12875-024-02356-x
+Quality improvement collaborative approach to COVID-19 pandemic preparedness in long-term care homes: a mixed-methods implementation study.|https://dx.doi.org/10.1136/bmjoq-2023-002589
+Swine acute diarrhea syndrome coronavirus nucleocapsid protein antagonizes the IFN response through inhibiting TRIM25 oligomerization and functional activation of RIG-I/TRIM25.|https://dx.doi.org/10.1186/s13567-024-01303-z
+Assessing antiviral treatment efficacy and risk factors for severe COVID-19 in kidney transplant recipients during the Omicron subvariant-dominant period: a retrospective study.|https://dx.doi.org/10.1186/s12882-024-03561-7
+Congenital anomalies during Covid-19: artifact of surveillance or a real TORCH?|https://dx.doi.org/10.1007/s10654-024-01122-8
+The laboratory parameters-derived CoLab score as an indicator of the host response in ICU COVID-19 patients decreases over time: a prospective cohort study.|https://dx.doi.org/10.1038/s41598-024-58727-y
+Impact of COVID-19 first wave on the mental health of healthcare workers in a Front-Line Spanish Tertiary Hospital: lessons learned.|https://dx.doi.org/10.1038/s41598-024-58884-0
+Where now for infection services in the NHS? How lessons from the pandemic should drive long-overdue integration of microbiology and infectious diseases.|https://dx.doi.org/10.7861/clinmed.2022-0251
+Evaluation of the utility of NEWS2 during the COVID-19 pandemic.|https://dx.doi.org/10.7861/clinmed.2022-news-covid
+A practical update on the management of patients with COVID-19.|https://dx.doi.org/10.7861/clinmed.2022-0080
+Long COVID-ACOEM Guidance Statement.|https://dx.doi.org/10.1097/JOM.0000000000003059
+Attitudes Toward COVID-19 Vaccines Among Pregnant and Recently Pregnant Individuals.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5479
+Long-Term Symptoms Associated With SARS-CoV-2 Infection Among Blood Donors.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5611
+Exploring viral aetiology in upper respiratory tract infections: insights from metagenomic next-generation sequencing in Swiss outpatients before and during the SARS-CoV-2 pandemic.|https://dx.doi.org/10.57187/s.3797
+Impact of age on the transmission of SARS-CoV-2 in healthcare workers : Influence of nonoccupational risk factors.|https://dx.doi.org/10.1007/s00508-024-02346-0
+Inhibition of influenza A virus and SARS-CoV-2 infection or co-infection by griffithsin and griffithsin-based bivalent entry inhibitor.|https://dx.doi.org/10.1128/mbio.00741-24
+Health Care Workers' Comfort Ratings for Elastomeric Half Mask Respirators Versus N95(®) Filtering Facepiece Respirators During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/21650799241238755
+Impact of the COVID-19 Pandemic on Blood Lead Testing in Children in the United States.|https://dx.doi.org/10.1089/pop.2023.0298
+Preparedness, response, and preventive behaviors for a pandemic disaster caused by COVID-19 among primary school students in Krabi province, Thailand.|https://dx.doi.org/10.32394/rpzh.2024.0291
+COVID-19 mortality in 1984 Bhopal gas tragedy survivors: implications for chemically exposed populations.|https://dx.doi.org/10.1093/trstmh/trae010
