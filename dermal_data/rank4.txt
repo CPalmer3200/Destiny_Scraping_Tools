@@ -13,3 +13,5 @@ Bacterial cellulose-based hydrogel with regulated rehydration and enhanced antib
 Metal-based nanoparticles: an alternative treatment for biofilm infection in hard-to-heal wounds.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4a.xcix
 DUAL ACTION ELECTROCHEMICAL BANDAGE OPERATED by a PROGRAMMABLE MULTIMODAL WEARABLE POTENTIOSTAT.|https://dx.doi.org/10.1101/2024.03.22.586346
 Preparation of carboxymethyl chitosan/double-formaldehyde cellulose based hydrogel loaded with ginger essential oil nanoemulsion for meat preservation.|https://dx.doi.org/10.1007/s10068-023-01437-4
+Preparation and characterization of chitosan/polyvinyl alcohol antibacterial sponge materials.|https://dx.doi.org/10.1088/1748-605X/ad3c87
+Biochemical Approach to Poly(Lactide)-Copper Composite-Impact on Blood Coagulation Processes.|https://dx.doi.org/10.3390/ma17030608

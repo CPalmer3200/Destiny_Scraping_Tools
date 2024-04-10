@@ -5,3 +5,4 @@ The wound microbiota: microbial mechanisms of impaired wound healing and infecti
 Improved in vitro wound healing in response to a superoxidised solution.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4.S4
 Experience of diagnosis and treatment of hard-to-heal wounds infected with Acinetobacter baumannii: a case study.|https://dx.doi.org/10.12968/jowc.2024.33.4.278
 A Catheter-Related Candida albicans Infection Model in Mouse.|https://dx.doi.org/10.3791/65307
+Unraveling UVB effects: Catalase activity and molecular alterations in the stratum corneum.|https://dx.doi.org/10.1016/j.jcis.2024.03.200

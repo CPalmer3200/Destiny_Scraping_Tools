@@ -127,3 +127,13 @@ Post-operative site infections among surgical patients at Southern Ethiopia: A p
 Broad immunogenicity to prior SARS-CoV-2 strains and JN.1 variant elicited by XBB.1.5 vaccination in nursing home residents.|https://dx.doi.org/10.1101/2024.03.21.24303684
 Laminectomy for acute transverse sacral fractures with compression of the cauda equina: A neurosurgical perspective.|https://dx.doi.org/10.1016/j.wnsx.2024.100374
 Perspectives on technology - prostate cancer: is local anaesthetic transperineal prostate biopsy really better than transrectal biopsy?|https://dx.doi.org/10.1111/bju.16349
+Defining Mild Traumatic Brain Injury: From Research Definition to Clinical Practice.|https://dx.doi.org/10.1016/j.jss.2024.03.006
+Efficacy and safety of artemether-lumefantrine for the treatment of uncomplicated falciparum malaria in mainland Tanzania, 2019.|https://dx.doi.org/10.1186/s12936-024-04931-0
+[Emmert's plastic surgery].|https://dx.doi.org/10.1007/s00064-024-00843-z
+Endometritis after hysteroscopic procedures in Ukraine: results a multicenter study.|https://dx.doi.org/10.36740/WLek202402101
+Severity of Complications after Locking Plate Osteosynthesis in Distal Femur Fractures.|https://dx.doi.org/10.3390/jcm13051492
+Post-Discectomy Infection: A Critical Review and Suggestion of a Management Algorithm.|https://dx.doi.org/10.3390/jcm13051478
+Long-Term Outcomes Following Single-Stage Reamed Intramedullary Exchange Nailing in Apparently Aseptic Femoral Shaft Nonunion with Unsuspected Proof of Bacteria.|https://dx.doi.org/10.3390/jcm13051414
+Adherence to Advisory Committee on Immunization Practices in diabetes mellitus patients in Saudi Arabia: A multicenter retrospective study.|https://dx.doi.org/10.4239/wjd.v15.i3.440
+Consensus recommendation for prenatal, neonatal and postnatal management of congenital cytomegalovirus infection from the European congenital infection initiative (ECCI).|https://dx.doi.org/10.1016/j.lanepe.2024.100892
+[Tomography guided biopsy for the diagnosis of pediatric pulmonary Cryptococcosis].|https://dx.doi.org/10.32641/andespediatr.v95i1.4816

@@ -209,3 +209,23 @@ Health Care Workers' Comfort Ratings for Elastomeric Half Mask Respirators Versu
 Impact of the COVID-19 Pandemic on Blood Lead Testing in Children in the United States.|https://dx.doi.org/10.1089/pop.2023.0298
 Preparedness, response, and preventive behaviors for a pandemic disaster caused by COVID-19 among primary school students in Krabi province, Thailand.|https://dx.doi.org/10.32394/rpzh.2024.0291
 COVID-19 mortality in 1984 Bhopal gas tragedy survivors: implications for chemically exposed populations.|https://dx.doi.org/10.1093/trstmh/trae010
+Transient decline in abusive head trauma in children during the COVID-19 pandemic provides lessons for prevention.|https://dx.doi.org/10.1136/ebnurs-2024-103982
+The COVID-19 vaccination campaign in Switzerland and its impact on disease spread.|https://dx.doi.org/10.1016/j.epidem.2024.100745
+Impact of the COVID-19 outbreak and interventions on hand, foot and mouth disease in Zhengzhou, China, 2014-2022: a retrospective study.|https://dx.doi.org/10.1186/s12879-024-09244-w
+Factors affecting hand hygiene practice during the COVID-19 pandemic in the Zimbabwean population: a qualitative study.|https://dx.doi.org/10.1186/s12879-024-09277-1
+Neglecting students' socio-emotional skills magnified learning losses during the pandemic.|https://dx.doi.org/10.1038/s41539-024-00235-9
+Can communities be mobilised to build capacity to respond to the COVID-19 pandemic? A qualitative process evaluation.|https://dx.doi.org/10.1136/bmjopen-2023-078671
+A survey of state and local practices encouraging pediatric COVID-19 vaccination of children ages 6 months through 11 years.|https://dx.doi.org/10.1016/j.vaccine.2024.03.064
+A comparative analysis of knowledge, attitude, and practice (KAP) towards influenza and influenza vaccination among healthcare workers in Kyrgyzstan prior to and during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.vaccine.2024.04.008
+Risk perceptions and behaviors concerning rural tourism and economic-political drivers of COVID-19 policy in 2020.|https://dx.doi.org/10.1371/journal.pone.0299841
+Prediction of cross-border spread of the COVID-19 pandemic: A predictive model for imported cases outside China.|https://dx.doi.org/10.1371/journal.pone.0301420
+Efficacy of host cell serine protease inhibitor MM3122 against SARS-CoV-2 for treatment and prevention of COVID-19.|https://dx.doi.org/10.1128/jvi.01903-23
+Effectiveness and Implementation of a Text Messaging mHealth Intervention to Prevent Childhood Obesity in Mexico in the COVID-19 Context: Mixed Methods Study.|https://dx.doi.org/10.2196/55509
+Co-Morbidity Clusters in Post-COVID-19 Syndrome.|https://dx.doi.org/10.3390/jcm13051457
+A Longitudinal Study on the Effect of Exercise Habits on Locomotive Syndrome and Quality of Life during the Coronavirus Disease 2019 Pandemic.|https://dx.doi.org/10.3390/jcm13051385
+Prediction of deleterious non-synonymous SNPs of TMPRSS2 protein combined with Molecular Dynamics Simulations and free energy analysis to identify the potential peptide substrates against SARS-CoV-2.|https://dx.doi.org/10.1080/07391102.2024.2330710
+Impact of COVID-19 Infections among Unvaccinated Patients with Congenital Heart Disease: Results of a Nationwide Analysis in the First Phase of the Pandemic.|https://dx.doi.org/10.3390/jcm13051282
+Distinct patterns of SARS-CoV-2 BA.2.87.1 and JN.1 variants in immune evasion, antigenicity, and cell-cell fusion.|https://dx.doi.org/10.1128/mbio.00751-24
+The potentiality of bacteria to drive SARS-CoV-2 mutation.|https://dx.doi.org/10.1128/mbio.00539-24
+Upward trends in eating disorders, self-harm, and suicide attempt emergency admissions in female adolescents after COVID-19 lockdown.|https://dx.doi.org/10.1016/j.sjpmh.2023.09.003
+Real-world experience of Fuzheng Yiqing granule as chemoprophylaxis against COVID-19 infection among close contacts: A prospective cohort study.|https://dx.doi.org/10.1111/jebm.12591

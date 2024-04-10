@@ -179,3 +179,17 @@ Preoperative nutrition therapy in people undergoing gastrointestinal surgery.|ht
 Comparison of outcomes in patients with and without neurologic diseases undergoing holmium laser enucleation of the prostate.|https://dx.doi.org/10.5489/cuaj.8683
 Innovative Percutaneous 3 Stitch Suture Technique for Site Closure in Venoarterial Extracorporeal Membrane Oxygenation Decannulation Without Direct Artery Repair: A Case Series.|https://dx.doi.org/10.1097/MAT.0000000000002198
 Surgical Procedures of the Correction of Severe Static Glabellar Lines by Utilizing Resection with Free Dermal Fat Grafting (FDFG).|https://dx.doi.org/10.1007/s00266-024-03984-5
+Nafamostat mesylate decreases skin flap necrosis in a mouse model of type 2 diabetes by protecting the endothelial glycocalyx.|https://dx.doi.org/10.1016/j.bbrc.2024.149843
+Association of preoperative coronavirus disease 2019 with mortality, respiratory morbidity and extrapulmonary complications after elective, noncardiac surgery: An observational cohort study.|https://dx.doi.org/10.1016/j.jclinane.2024.111467
+Decoding spatiotemporal transcriptional dynamics and epithelial fibroblast crosstalk during gastroesophageal junction development through single cell analysis.|https://dx.doi.org/10.1038/s41467-024-47173-z
+Bartonella henselae Infection May Occasionally Distract Immune Control of Latent Human Herpesviruses.|https://dx.doi.org/10.12788/cutis.0976
+Assessing the utility of natural language processing for detecting postoperative complications from free medical text.|https://dx.doi.org/10.1093/bjsopen/zrae020
+Clinical Outcomes of Maxillary Sinus Floor Perforation by Dental Implants and Sinus Membrane Perforation during Sinus Augmentation: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm13051253
+Pros and Cons of Minimally Invasive Spine Surgery.|https://dx.doi.org/10.1007/978-3-031-53578-9_9
+Integra(®) Dermal Regeneration Template in Complex Scalp Reconstruction.|https://dx.doi.org/10.3390/jcm13051511
+A systematic review and meta-analysis of short-term outcomes comparing the efficacy of robotic versus laparoscopic colorectal surgery in obese patients.|https://dx.doi.org/10.1007/s11701-024-01934-6
+Orchestrating Resilience: How Neuropilin-2 and Macrophages Contribute to Cardiothoracic Disease.|https://dx.doi.org/10.3390/jcm13051446
+Mesh Rectopexy or Resection Rectopexy for Rectal Prolapse; Is There a Gold Standard Method: A Systematic Review, Meta-Analysis and Trial Sequential Analysis.|https://dx.doi.org/10.3390/jcm13051363
+A Prospective Study on the Progression, Recurrence, and Regression of Cervical Lesions: Assessing Various Screening Approaches.|https://dx.doi.org/10.3390/jcm13051368
+Treatment of Schatzker Type VI Tibia Fractures Using Circular External Fixation: State of the Art, Surgical Technique and Results.|https://dx.doi.org/10.3390/jcm13051249
+Home nursing and self-administered outpatient parenteral antimicrobial treatment: a comparison of demographics and outcomes from a large regional hospital in Queensland, Australia.|https://dx.doi.org/10.1111/imj.16394

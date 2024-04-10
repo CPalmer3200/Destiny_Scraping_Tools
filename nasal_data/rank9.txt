@@ -197,3 +197,19 @@ Discovery of olimycin E from Streptomyces sp. 11695.|https://dx.doi.org/10.1080/
 Modified Frailty Index as a Predictor of Adverse Outcomes in Elective Primary Hip and Knee Replacement Surgery Patients at a Tertiary Care Hospital in Pakistan: A Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.55783
 Consecutive Serious Medical Concomitants Associated With Extremely Severe Anorexia Nervosa in a Patient With Body Mass Index of 10.2 Kilograms per Square Meter: A Case Report.|https://dx.doi.org/10.7759/cureus.55749
 Evaluation of Treatment of Methicillin-Resistant Staphylococcus aureus Biofilms with Intermittent Electrochemically-Generated H (2) O (2) or HOCl.|https://dx.doi.org/10.1101/2024.03.22.586337
+Nano polysaccharides derived from aloe vera and guar gum as a potential fat replacer for a promising approach to healthier cake production.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131431
+Preparation and characterization of chitosan/polyvinyl alcohol antibacterial sponge materials.|https://dx.doi.org/10.1088/1748-605X/ad3c87
+A new Eosin Y-based 'turnon' fluorescent sensor for ratiometric sensing of toxic mercury ion (Hg(2+)) offering unaided eye detection and its antibacterial activity.|https://dx.doi.org/10.1016/j.jhazmat.2024.134207
+Poly(amino acid)-based drug delivery nanoparticles eliminate Methicillin resistant Staphylococcus aureus via tunable release of antibiotic.|https://dx.doi.org/10.1016/j.colsurfb.2024.113882
+Antifungal activity of a trypsin inhibitor from Salvia hispanica L. (chia) seeds against fluconazole-resistant strains of Candida spp. and evaluation of its toxicity in vitro.|https://dx.doi.org/10.1007/s42770-024-01337-7
+Identification of small molecules affecting the interaction between human hemoglobin and Staphylococcus aureus IsdB hemophore.|https://dx.doi.org/10.1038/s41598-024-55931-8
+High Incidence of Antibiotic Resistance in the Uropathogenic Bacteria Associated with Different Urological Diseases and Metabolic Complications: A Single Center Cross-Sectional Study.|https://dx.doi.org/10.1089/mdr.2024.0015
+Copper Ion-Inspired Dual Controllable Drug Release Hydrogels for Wound Management: Driven by Hydrogen Bonds.|https://dx.doi.org/10.1002/smll.202401152
+Determining the Young's Modulus of the Bacterial Cell Envelope.|https://dx.doi.org/10.1021/acsbiomaterials.4c00105
+Orange-Red-Emitting Carbon Dots for Bilirubin Detection and Its Antibacterial Activity Against Escherichia coli and Staphylococcus aureus.|https://dx.doi.org/10.1021/acsabm.4c00001
+HPLC-HESI-MS/MS Analysis of Phenolic Compounds from Cynoglossum tubiflorus Leaf Extracts: An Assessment of Their Cytotoxic, Antioxidant, and Antibacterial Properties.|https://dx.doi.org/10.3390/plants13060909
+Eucalypt Extracts Prepared by a No-Waste Method and Their 3D-Printed Dosage Forms Show Antimicrobial and Anti-Inflammatory Activity.|https://dx.doi.org/10.3390/plants13060754
+Antibacterial Property of Silver Nanoparticles Green Synthesized from Stachys schtschegleevii Plant Extract on Urinary Tract Infection Bacteria.|https://dx.doi.org/10.1007/s00284-024-03664-2
+Synthesis, theoretical analysis, and biological properties of a novel tridentate Schiff base palladium (II) complex.|https://dx.doi.org/10.1007/s10534-024-00598-x
+Infective Endocarditis in Belgium: Prospective Data in Adults from the ESC EORP European Endocarditis Registry.|https://dx.doi.org/10.3390/jcm13051371
+Evaluating omadacycline dosing regimens against drug-resistant pathogens including Staphylococcus aureus, Streptococcus pneumoniae and Haemophilus influenzae in adults: a pharmacokinetic/pharmacodynamic analysis using Monte Carlo simulation.|https://dx.doi.org/10.1080/1120009X.2024.2339706
