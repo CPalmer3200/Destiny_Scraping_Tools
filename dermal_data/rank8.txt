@@ -1,3 +1,4 @@
 Synthesis and characterization of mupirocin-LDH/PVA nanofibrous composite as a dual-carrier drug release system.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131378
 Australasian Malignant PLeural Effusion (AMPLE)-4 trial: study protocol for a multi-centre randomised trial of topical antibiotics prophylaxis for infections of indwelling pleural catheters.|https://dx.doi.org/10.1186/s13063-024-08065-1
 [Antiseptics in otorhinolaryngology-a substance overview].|https://dx.doi.org/10.1007/s00106-024-01456-5
+Targeting FTO induces colorectal cancer ferroptotic cell death by decreasing SLC7A11/GPX4 expression.|https://dx.doi.org/10.1186/s13046-024-03032-9

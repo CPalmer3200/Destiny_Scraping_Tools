@@ -213,3 +213,18 @@ Antibacterial Property of Silver Nanoparticles Green Synthesized from Stachys sc
 Synthesis, theoretical analysis, and biological properties of a novel tridentate Schiff base palladium (II) complex.|https://dx.doi.org/10.1007/s10534-024-00598-x
 Infective Endocarditis in Belgium: Prospective Data in Adults from the ESC EORP European Endocarditis Registry.|https://dx.doi.org/10.3390/jcm13051371
 Evaluating omadacycline dosing regimens against drug-resistant pathogens including Staphylococcus aureus, Streptococcus pneumoniae and Haemophilus influenzae in adults: a pharmacokinetic/pharmacodynamic analysis using Monte Carlo simulation.|https://dx.doi.org/10.1080/1120009X.2024.2339706
+Mechanisms of acquisition of vanA operon among vancomycin-resistant Staphylococcus aureus genomes: the tip of the iceberg?|https://dx.doi.org/10.1016/j.ijantimicag.2024.107154
+Adhesion of Klebsiella Oxytoca to Bladder or Lung Epithelial Cells Is Promoted by the Presence of Other Opportunistic Pathogens.|https://dx.doi.org/10.1016/j.micpath.2024.106642
+Antimicrobial and Probiotic Potential of Lactobacilli Associated with Traditional Fermented Beverages.|https://dx.doi.org/10.1007/s00284-024-03656-2
+Cefadroxil and cephalexin pharmacokinetics and pharmacodynamics in children with musculoskeletal infections.|https://dx.doi.org/10.1128/aac.00182-24
+A Single Hospital-Wide Antibiogram is Insufficient to Account for Differences in Antibiotic Resistance Patterns Across Multiple ICUs.|https://dx.doi.org/10.1177/00031348241241636
+An Eco-friendly Approach to ZnO NP Synthesis Using Citrus reticulata Blanco Peel/Extract: Characterization and Antibacterial and Photocatalytic Activity.|https://dx.doi.org/10.1021/acsabm.4c00079
+Small Regulatory RNA RSaX28 Promotes Virulence by Reinforcing the Stability of RNAIII in Community-associated ST398 Clonotype Staphylococcus aureus.|https://dx.doi.org/10.1080/22221751.2024.2341972
+Automatic in situ short-distance deposition of PLGA/PLLA composite nanofibrous membranes for personalized wound dressings.|https://dx.doi.org/10.1039/d3nr06376c
+Free Flap Reconstruction of Sternal Defects after Cardiac Surgery: An Algorithmic Approach for Dealing with Sparse Recipient Vessels.|https://dx.doi.org/10.1097/GOX.0000000000005722
+A Multifunctional Nanozyme Integrating Antioxidant, Antimicrobial and Pro-Vascularity for Skin Wound Management.|https://dx.doi.org/10.2147/IJN.S452216
+An apparent lack of synergy between degradative enzymes against Staphylococcus aureus biofilms.|https://dx.doi.org/10.17912/micropub.biology.001119
+Anti-Staphylococcus aureus potential of compounds from Ganoderma sp.: A comprehensive molecular docking and simulation approaches.|https://dx.doi.org/10.1016/j.heliyon.2024.e28118
+Evaluation of visible light and natural photosensitizers against Staphylococcus epidermidis and Staphylococcus saprophyticus planktonic cells and biofilm.|https://dx.doi.org/10.1016/j.heliyon.2024.e28811
+Antibacterial Efficacy of Mineral Trioxide Aggregate, Bioactive Glass and Epoxy-Resin Based Sealer: An In-Vitro Interventional Study.|https://dx.doi.org/10.4103/jpbs.jpbs_901_23
+Comparison of Different Betadine and Saline Combinations on Microorganisms: An Original Research.|https://dx.doi.org/10.4103/jpbs.jpbs_470_23

@@ -14,3 +14,4 @@ Reverse development of vaccines against antimicrobial-resistant pathogens.|https
 The inflammatory microenvironment of the lung at the time of infection governs innate control of SARS-CoV-2 replication.|https://dx.doi.org/10.1101/2024.03.27.586885
 Australasian Malignant PLeural Effusion (AMPLE)-4 trial: study protocol for a multi-centre randomised trial of topical antibiotics prophylaxis for infections of indwelling pleural catheters.|https://dx.doi.org/10.1186/s13063-024-08065-1
 Identification of kinase modulators as host-directed therapeutics against intracellular methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fcimb.2024.1367938
+Targeting FTO induces colorectal cancer ferroptotic cell death by decreasing SLC7A11/GPX4 expression.|https://dx.doi.org/10.1186/s13046-024-03032-9

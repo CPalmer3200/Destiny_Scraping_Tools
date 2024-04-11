@@ -229,3 +229,23 @@ Distinct patterns of SARS-CoV-2 BA.2.87.1 and JN.1 variants in immune evasion, a
 The potentiality of bacteria to drive SARS-CoV-2 mutation.|https://dx.doi.org/10.1128/mbio.00539-24
 Upward trends in eating disorders, self-harm, and suicide attempt emergency admissions in female adolescents after COVID-19 lockdown.|https://dx.doi.org/10.1016/j.sjpmh.2023.09.003
 Real-world experience of Fuzheng Yiqing granule as chemoprophylaxis against COVID-19 infection among close contacts: A prospective cohort study.|https://dx.doi.org/10.1111/jebm.12591
+Building confidence in the COVID-19 vaccine in a polio-endemic country: strategic communication lessons from Pakistan.|https://dx.doi.org/10.1136/bmjgh-2024-015200
+COVID-19 Vaccine Injury Compensation Program: Lessons Learned From a Review of 10 Implementing Countries.|https://dx.doi.org/10.3346/jkms.2024.39.e121
+Prevalence and Associated Factors of Depression and Anxiety Among Healthcare Workers During the Coronavirus Disease 2019 Pandemic: A Nationwide Study in Korea.|https://dx.doi.org/10.3346/jkms.2024.39.e120
+Design and Validation of a Health Literacy Assessment Tool for COVID-19 Among Iranian Workers.|https://dx.doi.org/10.3928/24748307-20240321-01
+Unmasking the mental health scars of COVID-19: A longitudinal investigation of children and adolescents in post-lockdown China.|https://dx.doi.org/10.1016/j.bbi.2024.04.003
+Association of circulating biomarkers with illness severity measures differentiates myalgic encephalomyelitis/chronic fatigue syndrome and post-COVID-19 condition: a prospective pilot cohort study.|https://dx.doi.org/10.1186/s12967-024-05148-0
+COVID-19 fatality and DALYs, and associated metabolic disorders and ambient air pollutants in pre-Omicron era of the pandemic: an international comparative study.|https://dx.doi.org/10.1265/ehpm.23-00350
+COVID-19 vaccine efficacy in participants with weakened immune systems from four randomized-controlled trials.|https://dx.doi.org/10.1093/cid/ciae192
+Social support and suicidality during the COVID-19 pandemic among Brazilian healthcare workers: a longitudinal assessment of an online repeated cross-sectional survey.|https://dx.doi.org/10.47626/1516-4446-2023-3466
+Race, Ethnicity, and Delayed Time to COVID-19 Testing Among US Health Care Workers.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5697
+Risk of Potentially Preventable Hospitalizations After SARS-CoV-2 Infection.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5786
+Economic Evaluation of COVID-19 Immunization Strategies: A Systematic Review and Narrative Synthesis.|https://dx.doi.org/10.1007/s40258-024-00880-6
+Interstitial macrophages are a focus of viral takeover and inflammation in COVID-19 initiation in human lung.|https://dx.doi.org/10.1084/jem.20232192
+COVID-19 and Atrial Fibrillation: Predicting to Prevent.|https://dx.doi.org/10.36660/abc.20230823
+Workplace interventions to reduce the risk of SARS-CoV-2 infection outside of healthcare settings.|https://dx.doi.org/10.1002/14651858.CD015112.pub3
+Enteric coronavirus nsp2 is a virulence determinant that recruits NBR1 for autophagic targeting of TBK1 to diminish the innate immune response.|https://dx.doi.org/10.1080/15548627.2024.2340420
+Burnout among diabetes specialist registrars across the United Kingdom in the post-pandemic era.|https://dx.doi.org/10.3389/fmed.2024.1367103
+Third-Degree Heart Block in COVID-19 Pneumonia Complicated by Methicillin-Resistant Staphylococcus Aureus (MRSA) Bacteremia. A Case Report and Review of Literature.|https://dx.doi.org/10.55729/2000-9666.1269
+Adaptative Strategy of Immunosuppressive Drugs Dosage Adjustments When Combined With Nirmatrelvir/Ritonavir in Solid Organ Transplant Recipients With COVID-19.|https://dx.doi.org/10.3389/ti.2024.12360
+Potential health risks to disinfection workers from exposure to active substances in COVID-19 biocidal products.|https://dx.doi.org/10.1016/j.heliyon.2024.e28249
