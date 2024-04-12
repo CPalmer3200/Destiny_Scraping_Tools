@@ -16,3 +16,4 @@ Preparation of carboxymethyl chitosan/double-formaldehyde cellulose based hydrog
 Preparation and characterization of chitosan/polyvinyl alcohol antibacterial sponge materials.|https://dx.doi.org/10.1088/1748-605X/ad3c87
 Biochemical Approach to Poly(Lactide)-Copper Composite-Impact on Blood Coagulation Processes.|https://dx.doi.org/10.3390/ma17030608
 Automatic in situ short-distance deposition of PLGA/PLLA composite nanofibrous membranes for personalized wound dressings.|https://dx.doi.org/10.1039/d3nr06376c
+A Multifunctional Nanozyme Integrating Antioxidant, Antimicrobial and Pro-Vascularity for Skin Wound Management.|https://dx.doi.org/10.2147/IJN.S452216

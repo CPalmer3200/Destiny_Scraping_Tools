@@ -1,2 +1,3 @@
 Skin dermatoses in the returning traveller; a practical guide.|https://dx.doi.org/10.1093/ced/llae114
 Identification of kinase modulators as host-directed therapeutics against intracellular methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fcimb.2024.1367938
+Staphylococcus aureus oleate hydratase produces ligands that activate host PPARα.|https://dx.doi.org/10.3389/fcimb.2024.1352810

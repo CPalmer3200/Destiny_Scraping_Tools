@@ -144,3 +144,10 @@ Recurrent UTI in Women-Risk Factors and Management.|https://dx.doi.org/10.1016/j
 Perioperative complications of minor and major reinterventions for peripheral arterial disease.|https://dx.doi.org/10.1177/17085381241246907
 Reducing catheter-associated urinary tract infection in high dependency unit: an eighteen-month quality improvement intervention study period.|https://dx.doi.org/10.1016/j.infpip.2024.100362
 Nationwide Effectiveness and Efficiency of the National Diabetes Prevention Policy Versus the Penny-per-Ounce Excise Tax Policy on Sugar-Sweetened Beverages.|https://dx.doi.org/10.7759/cureus.55866
+Regulating molecular brush structure on cotton textiles for efficient antibacterial properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131486
+Family-based education and follow-up program for patients with burns: A mixed assessment study.|https://dx.doi.org/10.1016/j.burns.2024.03.029
+Design and Modification of COVID-19 Case Investigation and Contact Tracing Interview Scripts Used by Health Departments Throughout the COVID-19 Pandemic.|https://dx.doi.org/10.1097/PHH.0000000000001875
+Longitudinal analysis of 20 Years of external quality assurance schemes for PCR/NAAT-based bacterial genome detection in diagnostic testing.|https://dx.doi.org/10.3389/fmolb.2024.1373114
+Advanced imaging shows extra-articular abscesses in two out of three adult patients with septic arthritis of the native hip joint.|https://dx.doi.org/10.5194/jbji-9-27-2024
+Multiplex PCR test as an intra-operative diagnostic tool for periprosthetic joint infection in presumed aseptic revision hip and knee arthroplasty: a 1-year follow-up study of 200 cases.|https://dx.doi.org/10.5194/jbji-9-9-2024
+Prevention and treatment of infection in patients with an absent or hypofunctional spleen: A British Society for Haematology guideline.|https://dx.doi.org/10.1111/bjh.19361

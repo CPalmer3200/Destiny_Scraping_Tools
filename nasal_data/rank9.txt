@@ -228,3 +228,19 @@ Anti-Staphylococcus aureus potential of compounds from Ganoderma sp.: A comprehe
 Evaluation of visible light and natural photosensitizers against Staphylococcus epidermidis and Staphylococcus saprophyticus planktonic cells and biofilm.|https://dx.doi.org/10.1016/j.heliyon.2024.e28811
 Antibacterial Efficacy of Mineral Trioxide Aggregate, Bioactive Glass and Epoxy-Resin Based Sealer: An In-Vitro Interventional Study.|https://dx.doi.org/10.4103/jpbs.jpbs_901_23
 Comparison of Different Betadine and Saline Combinations on Microorganisms: An Original Research.|https://dx.doi.org/10.4103/jpbs.jpbs_470_23
+A natural inhibitor of diapophytoene desaturase attenuates methicillin-resistant Staphylococcus aureus (MRSA) pathogenicity and overcomes drug-resistance.|https://dx.doi.org/10.1111/bph.16377
+Remediation of acetamiprid pesticide from contaminated water by antibacterial biosorbent based on carboxymethyl tragacanth-grafted-poly(3-aminophenol) decorated with ZnO@Fe(3)O(4).|https://dx.doi.org/10.1016/j.envres.2024.118893
+DIFFERENTIAL SIGNALING EFFECTS OF ESCHERICHIA COLI AND STAPHYLOCOCCUS AUREUS IN HUMAN WHOLE BLOOD INDICATE DISTINCT REGULATION OF THE NRF2 PATHWAY.|https://dx.doi.org/10.1097/SHK.0000000000002305
+Design, synthesis, anti-infective potency and mechanism study of novel Ru-based complexes containing substituted adamantane as antibacterial agents.|https://dx.doi.org/10.1016/j.ejmech.2024.116378
+Discovery of novel Thymol-TPP antibiotics that eradicate MRSA persisters.|https://dx.doi.org/10.1016/j.ejmech.2024.116381
+Staphylococcus aureus acquires resistance to glycopeptide antibiotic vancomycin via CXCL10.|https://dx.doi.org/10.1016/j.intimp.2024.111780
+Nitroreductase-responsive nanoparticles for in situ fluorescence imaging and synergistic antibacterial therapy of bacterial keratitis.|https://dx.doi.org/10.1016/j.biomaterials.2024.122565
+Staphylococcus aureus and Sézary syndrome.|https://dx.doi.org/10.1182/blood.2023023690
+Identification and biological characteristics of Enterococcus casseliflavus TN-47 isolated from Monochamus alternatus.|https://dx.doi.org/10.1099/ijsem.0.006305
+Low-temperature plasma jet suppresses bacterial colonisation and affects wound healing through reactive species.|https://dx.doi.org/10.1111/wrr.13178
+Wastewater treatment from a science faculty during the COVID-19 pandemic by using ammonium-oxidising and heterotrophic bacteria.|https://dx.doi.org/10.1007/s13205-024-03961-4
+Staphylococcus aureus oleate hydratase produces ligands that activate host PPARα.|https://dx.doi.org/10.3389/fcimb.2024.1352810
+Chemical constituents of the roots of Kniphofia schimperi and evaluation of their antimicrobial activity.|https://dx.doi.org/10.1016/j.heliyon.2024.e28927
+Critical view on antimicrobial, antibiofilm and cytotoxic activities of quinazolin-4(3H)-one derived schiff bases and their Cu(II) complexes.|https://dx.doi.org/10.1016/j.heliyon.2024.e29051
+Comparative Bioactivity Analysis of Green-Synthesized Metal (Cobalt, Copper, and Selenium) Nanoparticles.|https://dx.doi.org/10.7759/cureus.55933
+Potential value of a rapid syndromic multiplex PCR for the diagnosis of native and prosthetic joint infections: a real-world evidence study.|https://dx.doi.org/10.5194/jbji-9-87-2024

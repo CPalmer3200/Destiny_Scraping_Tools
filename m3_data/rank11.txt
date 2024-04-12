@@ -22,3 +22,9 @@ Characteristics of Clinical Isolates of Listeria monocytogenes in Sichuan, China
 Purplish Discoloration of Urine in a Patient Receiving Cefiderocol: A Rare Adverse Effect.|https://dx.doi.org/10.55729/2000-9666.1256
 PROJECT PREVENT: a randomized controlled trial of preoperative vaginal metronidazole to decrease patient issues and infections after hysterectomy.|https://dx.doi.org/10.1136/bmjsit-2023-000241
 A Rare Cause of Empyema and Bacteremia Due to Shewanella Species in Alcoholic Cirrhosis Patients: A Case Report and Comprehensive Review of Literature.|https://dx.doi.org/10.12659/AJCR.941952
+Promising effects of 1,8 Cineole to control Giardia lamblia infection: Targeting the inflammation, oxidative stress, and infectivity.|https://dx.doi.org/10.1016/j.actatropica.2024.107201
+Safety Profile of Seven-Day Intra-Articular Antibiotic Irrigation for the Treatment of Chronic Periprosthetic Joint Infection: A Prospective Randomized Phase II Comparative Study.|https://dx.doi.org/10.1016/j.arth.2024.03.069
+Staphylococcus aureus acquires resistance to glycopeptide antibiotic vancomycin via CXCL10.|https://dx.doi.org/10.1016/j.intimp.2024.111780
+Bosutinib Stimulates Macrophage Survival, Phagocytosis, and Intracellular Killing of Bacteria.|https://dx.doi.org/10.1021/acsinfecdis.4c00086
+Critical view on antimicrobial, antibiofilm and cytotoxic activities of quinazolin-4(3H)-one derived schiff bases and their Cu(II) complexes.|https://dx.doi.org/10.1016/j.heliyon.2024.e29051
+A 10-year retrospective study of antibacterial-induced thrombocytopenia in a women and children hospital using China Hospital Pharmacovigilance System and Visual Basic for Applications.|https://dx.doi.org/10.1111/bcp.16041

@@ -7,3 +7,4 @@ Experience of diagnosis and treatment of hard-to-heal wounds infected with Acine
 A Catheter-Related Candida albicans Infection Model in Mouse.|https://dx.doi.org/10.3791/65307
 Unraveling UVB effects: Catalase activity and molecular alterations in the stratum corneum.|https://dx.doi.org/10.1016/j.jcis.2024.03.200
 Exploring the potential and challenges of developing physiologically-based toxicokinetic models to support human health risk assessment of microplastic and nanoplastic particles.|https://dx.doi.org/10.1016/j.envint.2024.108617
+Fabrication and evaluation of ribavirin-loaded electrospun nanofibers as an antimicrobial wound dressing.|https://dx.doi.org/10.1016/j.jsps.2024.102058

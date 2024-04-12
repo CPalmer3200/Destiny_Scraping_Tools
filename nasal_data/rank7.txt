@@ -249,3 +249,22 @@ Burnout among diabetes specialist registrars across the United Kingdom in the po
 Third-Degree Heart Block in COVID-19 Pneumonia Complicated by Methicillin-Resistant Staphylococcus Aureus (MRSA) Bacteremia. A Case Report and Review of Literature.|https://dx.doi.org/10.55729/2000-9666.1269
 Adaptative Strategy of Immunosuppressive Drugs Dosage Adjustments When Combined With Nirmatrelvir/Ritonavir in Solid Organ Transplant Recipients With COVID-19.|https://dx.doi.org/10.3389/ti.2024.12360
 Potential health risks to disinfection workers from exposure to active substances in COVID-19 biocidal products.|https://dx.doi.org/10.1016/j.heliyon.2024.e28249
+Network analysis for inter-relationships of the suboptimal health status with depression and anxiety during the COVID-19 pandemic: A perspective of predictive, preventive, and personalized health.|https://dx.doi.org/10.1016/j.jad.2024.04.032
+Evaluation of the SARS-CoV-2 RNA detection reagent LAMPdirect Genelyzer KIT using nasopharyngeal swab and saliva samples.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116297
+Pre-COVID-19-pandemic RSV epidemiology and clinical burden in pediatric primary care in Italy: a comparative analysis across two regions for the 2019/2020 season.|https://dx.doi.org/10.1186/s12879-024-09229-9
+An RNA-hydrolyzing recombinant minibody prevents both influenza A virus and coronavirus in co-infection models.|https://dx.doi.org/10.1038/s41598-024-52810-0
+Characterization of Brighton Collaboration criteria for myocarditis and pericarditis following COVID-19 vaccine in Korean adolescents.|https://dx.doi.org/10.1016/j.vaccine.2024.04.032
+COVID-19 vaccine uptake among non-US-born populations in the United States, 2020-2022.|https://dx.doi.org/10.1016/j.vaccine.2024.04.029
+Despite mandated primary series, health care personnel still hesitant about COVID-19 vaccine and immunizing children.|https://dx.doi.org/10.1016/j.vaccine.2024.04.028
+Association between household income and mental health among adults during the COVID-19 pandemic in Korea: Insights from a community health survey.|https://dx.doi.org/10.1371/journal.pone.0289230
+Assessing the impact of different contact patterns on disease transmission: Taking COVID-19 as a case.|https://dx.doi.org/10.1371/journal.pone.0300884
+Assessing Patterns of Telehealth Use Among People with Sickle Cell Disease Enrolled in Medicaid During the Start of the COVID-19 Pandemic.|https://dx.doi.org/10.1089/tmj.2023.0422
+Quality early childhood education and care in a time of COVID-19.|https://dx.doi.org/10.1177/1476718X231153105
+Topologies of power in China's grid-style social management during the COVID-19 pandemic.|https://dx.doi.org/10.1177/09670106221134968
+Assessing national action through emergency paid leave to mitigate the impact of COVID-19-related school closures on working families in 182 countries.|https://dx.doi.org/10.1177/14680181221123800
+Associations Between Children's Emotion Regulation, Mindful Parenting, Parent Stress, and Parent Coping During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/10664807221123562
+Quality of COVID-19 information, education and communication materials in India: A content analysis.|https://dx.doi.org/10.1177/00178969231160952
+Adoption of Social Media during Covid-19 Pandemic by African Presidents: A Cross-Sectional Study of Selected Facebook Accounts.|https://dx.doi.org/10.1177/01968599221144314
+COVID-19 and Family Distancing Efforts: Contextual Demographic and Family Conflict Correlates.|https://dx.doi.org/10.1177/0192513X211055123
+COVID-19 Vaccine Uptake and Attitudes Within Two Cohorts of Younger Adult Cannabis Users.|https://dx.doi.org/10.1177/00220426221131488
+Towards digitally mediated social work - the impact of the COVID-19 pandemic on encountering clients in social work.|https://dx.doi.org/10.1177/14733250221075603

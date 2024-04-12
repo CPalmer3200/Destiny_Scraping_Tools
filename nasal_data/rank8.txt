@@ -212,3 +212,21 @@ Contribution of the patient microbiome to surgical site infection and antibiotic
 Radiographic Thigh Muscle Measurements Are a Reliable Predictor of Psoas Area and Sarcopenia.|https://dx.doi.org/10.2106/JBJS.23.01177
 Comparison of two approaches to measuring clean faces as part of the facial cleanliness component of the SAFE trachoma elimination strategy.|https://dx.doi.org/10.1371/journal.pntd.0012090
 Fungal microbiota in newborn infants with and without respiratory distress syndrome.|https://dx.doi.org/10.1371/journal.pone.0302027
+International Nosocomial Infection Control Consortium (INICC) report of healthcare-associated infections, data summary of 25 countries for 2014-2023, Surgical Site Infections Module.|https://dx.doi.org/10.1016/j.ajic.2024.04.007
+Perioperative Intravenous Dexamethasone Use Is Not Associated with Periprosthetic Joint Infection or Wound Healing Complications Following Shoulder Arthroplasty.|https://dx.doi.org/10.1016/j.jse.2024.02.045
+2023 Neer Award for Basic Science: Genetics of Cutibacterium acnes in Revision Shoulder Arthroplasty: A Large-Scale Bacterial Whole-Genome Sequencing Study.|https://dx.doi.org/10.1016/j.jse.2024.02.039
+Comparison of Delphi Consensus Criteria and Musculoskeletal Infection Society Outcome Reporting Tool (MSIS-ORT) Definitions of Successful Surgical Treatment of Periprosthetic Knee Infection.|https://dx.doi.org/10.1016/j.arth.2024.04.007
+Discharge to a Skilled Nursing Facility After Hip Fracture Results in Higher Rates of Periprosthetic Joint Infection.|https://dx.doi.org/10.1016/j.arth.2024.04.002
+Utility of intracranial pressure monitoring as a diagnostic tool in pediatric ventriculomegaly.|https://dx.doi.org/10.1016/j.clineuro.2024.108277
+Postoperative complications in cochlear implant surgery and their possible risk factors.|https://dx.doi.org/10.1016/j.bjorl.2024.101428
+Differential diagnosis of cemento-osseous dysplasia and periapical cyst using texture analysis of CBCT.|https://dx.doi.org/10.1186/s12903-024-04208-7
+Lumbopelvic fixation in the treatment of spinopelvic dissociation: union, complications, and neurologic outcomes of a multicenter case series.|https://dx.doi.org/10.1007/s00590-024-03928-4
+Impact of Intraoperative Allogeneic Platelet Transfusion on Healthcare-Associated Infections in Cardiac Surgery: Insights From a Large Single-Center Cohort Study.|https://dx.doi.org/10.1053/j.jvca.2024.02.031
+Definitive internal fracture fixation followed by staged free flap coverage ("fix followed by flap" protocol) for open Gustilo type IIIB fractures.|https://dx.doi.org/10.1016/j.jos.2024.03.006
+Should a Refluxing Internal Diversion Be Considered a Temporizing Procedure? Extended Follow-Up and Outcomes After Side-to-side Ureterovesicostomy for Primary Obstructive Megaureter in Young Children.|https://dx.doi.org/10.1097/JU.0000000000003966
+Establishment of an intragastric surgical model using C57BL/6 mice to study the vaccine efficacy of OMV-based immunogens against Helicobacter pylori.|https://dx.doi.org/10.1242/bio.060282
+In-vitro external fixation pin-site model proof of concept: A novel approach to studying wound healing in transcutaneous implants.|https://dx.doi.org/10.1177/09544119241234154
+Predictors of postoperative storage symptoms in male patients with lower urinary tract symptoms: A retrospective analysis of prostate surgery for benign prostatic enlargement.|https://dx.doi.org/10.1111/luts.12512
+Case report: A rare case of skin abscess caused by coinfection of Actinobaculum schaalii and Actinomyces turicensis.|https://dx.doi.org/10.3389/fcimb.2024.1378197
+Hospital-acquired pneumonia due to Burkholderia cepacia in a thalassemia pregnancy with postoperative eclampsia: A case report.|https://dx.doi.org/10.1016/j.rmcr.2024.102021
+Empyema Necessitans: A Case Report.|https://dx.doi.org/10.1016/j.idcr.2024.e01939
