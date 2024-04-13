@@ -17,3 +17,6 @@ Preparation and characterization of chitosan/polyvinyl alcohol antibacterial sp
 Biochemical Approach to Poly(Lactide)-Copper Composite-Impact on Blood Coagulation Processes.|https://dx.doi.org/10.3390/ma17030608
 Automatic in situ short-distance deposition of PLGA/PLLA composite nanofibrous membranes for personalized wound dressings.|https://dx.doi.org/10.1039/d3nr06376c
 A Multifunctional Nanozyme Integrating Antioxidant, Antimicrobial and Pro-Vascularity for Skin Wound Management.|https://dx.doi.org/10.2147/IJN.S452216
+Three-Dimensional-Printed GelMA-KerMA Composite Patches as an Innovative Platform for Potential Tissue Engineering of Tympanic Membrane Perforations.|https://dx.doi.org/10.3390/nano14070563
+Film dressings from Thai mango seed kernel extracts versus nanocrystalline silver dressings in antibacterial properties.|https://dx.doi.org/10.3389/jpps.2024.12674
+Antibacterial and antioxidant bifunctional hydrogel based on hyaluronic acid complex MoS(2)-dithiothreitol nanozyme for treatment of infected wounds.|https://dx.doi.org/10.1093/rb/rbae025

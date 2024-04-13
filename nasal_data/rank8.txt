@@ -230,3 +230,20 @@ Predictors of postoperative storage symptoms in male patients with lower urinary
 Case report: A rare case of skin abscess caused by coinfection of Actinobaculum schaalii and Actinomyces turicensis.|https://dx.doi.org/10.3389/fcimb.2024.1378197
 Hospital-acquired pneumonia due to Burkholderia cepacia in a thalassemia pregnancy with postoperative eclampsia: A case report.|https://dx.doi.org/10.1016/j.rmcr.2024.102021
 Empyema Necessitans: A Case Report.|https://dx.doi.org/10.1016/j.idcr.2024.e01939
+Finger Necrotizing Fasciitis and Septicemia Caused by Vibrio vulnificus.|https://dx.doi.org/10.1089/sur.2023.284
+Hybrid Bioactive Hydrogel Promotes Liver Regeneration Through the Activation of Kupffer Cells and ECM Remodeling After Partial Hepatectomy.|https://dx.doi.org/10.1002/adhm.202303828
+Pressure injury risk factors in patients undergoing general anesthesia surgeries.|https://dx.doi.org/10.25270/wmp.23025
+Bi-cruciate retaining total knee arthroplasty is here to stay: A consecutive series transitioning from manual instrumentation to enabling technologies.|https://dx.doi.org/10.3233/THC-231608
+Current Understanding of Marginal Grafts in Liver Transplantation.|https://dx.doi.org/10.14336/AD.2024.0214
+Parastomal hernia repair according to Modified Stapled Mesh Stoma Reinforcement Technique (mSMART): which are the results ?|https://dx.doi.org/10.1007/s10029-024-03005-z
+A case of multidrug-resistant intractable pylephlebitis and intra-abdominal abscess due to perforated appendicitis successfully treated with open abdominal management.|https://dx.doi.org/10.1186/s40792-024-01882-1
+The emerging role of liquid biopsy in oral squamous cell carcinoma detection: advantages and challenges.|https://dx.doi.org/10.1080/14737159.2024.2340997
+Managing incisional wounds with Prevena VAC therapy in lower-extremity vascular surgery: A comparative study.|https://dx.doi.org/10.1177/17085381241247098
+Enrichment, Characterization, and Proteomic Profiling of Small Extracellular Vesicles Derived from Human Limbal Mesenchymal Stromal Cells and Melanocytes.|https://dx.doi.org/10.3390/cells13070623
+Intraventricular haemorrhage treated by extra ventricular drainage with catheter mistakenly penetrating the cisterna ambiens: A case report.|https://dx.doi.org/10.1177/03000605241237680
+Genomic characterization of extended-spectrum β-lactamase-producing Enterobacterales isolated from abdominal surgical patients.|https://dx.doi.org/10.1017/S0950268824000578
+Heart failure and respiratory tract infection: Cause and consequence of acute decompensation?|https://dx.doi.org/10.1002/ejhf.3209
+Cannabis use disorder and perioperative outcomes following complex cancer surgery.|https://dx.doi.org/10.1002/jso.27644
+Reconstruction Strategy for Upper Extremity Defects After Bone Tumor Resection Based on 3D Customized Bone Cement Mold.|https://dx.doi.org/10.1177/15533506241244493
+Johanson-Blizzard Syndrome: A Case Report From Bahrain With a Literature Review.|https://dx.doi.org/10.7759/cureus.55969
+Limb Salvage and Pelvic Reconstruction With Endoprosthesis After Pelvic Tumor Resection: A Narrative Review.|https://dx.doi.org/10.7759/cureus.56043

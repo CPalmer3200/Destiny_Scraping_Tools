@@ -151,3 +151,10 @@ Longitudinal analysis of 20 Years of external quality assurance schemes for PCR
 Advanced imaging shows extra-articular abscesses in two out of three adult patients with septic arthritis of the native hip joint.|https://dx.doi.org/10.5194/jbji-9-27-2024
 Multiplex PCR test as an intra-operative diagnostic tool for periprosthetic joint infection in presumed aseptic revision hip and knee arthroplasty: a 1-year follow-up study of 200 cases.|https://dx.doi.org/10.5194/jbji-9-9-2024
 Prevention and treatment of infection in patients with an absent or hypofunctional spleen: A British Society for Haematology guideline.|https://dx.doi.org/10.1111/bjh.19361
+U.S. Women with Invasive Cervical Cancer: Characteristics and Potential Barriers to Prevention.|https://dx.doi.org/10.1089/jwh.2023.0462
+Lincosamide monotherapy treatment of methicillin-resistant Staphylococcus aureus pneumonia in tropical Australia: a case series.|https://dx.doi.org/10.1007/s10096-024-04816-9
+Daptomycin and ceftaroline combination for the treatment of persistent methicillin-resistant Staphylococcus aureus bloodstream infections: a case series and literature review.|https://dx.doi.org/10.1080/1120009X.2024.2340877
+Assessment and management of constipation in postoperative patients in the spinal surgery ward: a best practice implementation project.|https://dx.doi.org/10.1097/XEB.0000000000000423
+Case Report: Can preoperative implantation of veno-arterial extracorporeal membrane oxygenation lead to embolic events in infective endocarditis?|https://dx.doi.org/10.3389/fcvm.2024.1334457
+The burden of hospital-acquired infections (HAI) in sub-Saharan Africa: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.eclinm.2024.102571
+[Annual progress of interventional diagnosis and treatment of tuberculosis in 2023].|https://dx.doi.org/10.360/cma.j.cn112147-20231114-00308

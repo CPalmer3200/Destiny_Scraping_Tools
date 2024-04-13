@@ -268,3 +268,16 @@ Adoption of Social Media during Covid-19 Pandemic by African Presidents: A Cross
 COVID-19 and Family Distancing Efforts: Contextual Demographic and Family Conflict Correlates.|https://dx.doi.org/10.1177/0192513X211055123
 COVID-19 Vaccine Uptake and Attitudes Within Two Cohorts of Younger Adult Cannabis Users.|https://dx.doi.org/10.1177/00220426221131488
 Towards digitally mediated social work - the impact of the COVID-19 pandemic on encountering clients in social work.|https://dx.doi.org/10.1177/14733250221075603
+Personalized Management of Fatigue in Individuals With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID Using a Smart Digital mHealth Solution: Protocol for a Participatory Design Approach.|https://dx.doi.org/10.2196/50157
+Gut Microbiota: A Potential Player in Psychiatric Symptoms during COVID-19.|https://dx.doi.org/10.1080/15622975.2024.2342846
+Paradigm Shift of Interventional Strategies and Outcomes for Acute Limb Ischemia Post-Pandemic.|https://dx.doi.org/10.1177/15266028241246162
+Mental health impact on healthcare workers from COVID-19 in Vietnam: Suggestions for a preventive program.|https://dx.doi.org/10.1111/inm.13335
+Excess mortality in Europe coincides with peaks of COVID-19, influenza and respiratory syncytial virus (RSV), November 2023 to February 2024.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.15.2400178
+Knowledge, attitude and preventive practice toward Covid-19 and associated factors among outpatients in a rural hospital in Vietnam.|https://dx.doi.org/10.1177/22799036241243269
+Intelligent diagnosis of the severity of disease conditions in COVID-19 patients based on the LASSO method.|https://dx.doi.org/10.3389/fpubh.2024.1302256
+Psychosocial risk profiles to address future health emergencies: a country study during the COVID-19 lockdown period in Colombia.|https://dx.doi.org/10.3389/fpubh.2024.1323490
+One-step and Rapid Identification of SARS-CoV-2 using Real-Time Reverse Transcription Loop-Mediated Isothermal Amplification (RT-LAMP).|https://dx.doi.org/10.18502/ajmb.v16i1.14165
+Evaluating the performance of selected military hospitals in Tehran in response to Covid-19 pandemic: A cross-sectional study.|https://dx.doi.org/10.1002/hsr2.2030
+A mini review of reinfection with the SARS-CoV-2 Omicron variant.|https://dx.doi.org/10.1002/hsr2.2016
+Outcome of lung transplantation in patients with pulmonary alveolar microlithiasis in the era of COVID-19 infection.|https://dx.doi.org/10.1093/jscr/rjae211
+Quality of Life of Chronic Heart Failure Patients During and After COVID-19: Observational Study Using EuroQoL-Visual Analogue Scales.|https://dx.doi.org/10.12659/MSM.943301

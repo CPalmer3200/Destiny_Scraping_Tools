@@ -244,3 +244,19 @@ Chemical constituents of the roots of Kniphofia schimperi and evaluation of thei
 Critical view on antimicrobial, antibiofilm and cytotoxic activities of quinazolin-4(3H)-one derived schiff bases and their Cu(II) complexes.|https://dx.doi.org/10.1016/j.heliyon.2024.e29051
 Comparative Bioactivity Analysis of Green-Synthesized Metal (Cobalt, Copper, and Selenium) Nanoparticles.|https://dx.doi.org/10.7759/cureus.55933
 Potential value of a rapid syndromic multiplex PCR for the diagnosis of native and prosthetic joint infections: a real-world evidence study.|https://dx.doi.org/10.5194/jbji-9-87-2024
+Decoration of Carbon Dots on Oxygen-Vacancy-Enriched S-Scheme TiO(2) Quantum Dots/TiO(2) Oxygen Vacancies Photocatalysts: Impressive Quantum-Dot-Sized Photocatalysts for Remediation of Antibiotics, Bacteria, and Dyes.|https://dx.doi.org/10.1021/acs.langmuir.4c00060
+CYTOTOXICITY AND BIOLOGICAL ACTIVITIES OF GEOPOPOLIS EXTRACT FROM THE STINGLESS BEE (Melipona scutellaris) IN CLINICAL ISOLATES OF Staphylococcus aureus.|https://dx.doi.org/10.1002/cbdv.202301982
+Nanofiber Peptides for Bacterial Trapping: A Novel Approach to Antibiotic Alternatives in Wound Infections.|https://dx.doi.org/10.1002/adhm.202304657
+Enhanced bactericidal, antibiofilm and antioxidative response of Lawsonia inermis leaf extract synthesized ZnO NPs loaded with commercial antibiotic.|https://dx.doi.org/10.1007/s00449-024-03000-9
+Optimizing Antimicrobial Efficacy: Investigating the Impact of Zinc Oxide Nanoparticle Shape and Size.|https://dx.doi.org/10.3390/nano14070638
+Strontium and Zinc Co-Doped Mesoporous Bioactive Glass Nanoparticles for Potential Use in Bone Tissue Engineering Applications.|https://dx.doi.org/10.3390/nano14070575
+Poly(Allylamine Hydrochloride) and ZnO Nanohybrid Coating for the Development of Hydrophobic, Antibacterial, and Biocompatible Textiles.|https://dx.doi.org/10.3390/nano14070570
+Three-Dimensional-Printed GelMA-KerMA Composite Patches as an Innovative Platform for Potential Tissue Engineering of Tympanic Membrane Perforations.|https://dx.doi.org/10.3390/nano14070563
+Providing insight into the mechanism of action of cationic lipidated oligomers using metabolomics.|https://dx.doi.org/10.1128/msystems.00093-24
+Film dressings from Thai mango seed kernel extracts versus nanocrystalline silver dressings in antibacterial properties.|https://dx.doi.org/10.3389/jpps.2024.12674
+GEO dataset mining analysis reveals novel Staphylococcus aureus virulence gene regulatory networks and diagnostic targets in mice.|https://dx.doi.org/10.3389/fmolb.2024.1381334
+Steroid Premedication Might Protect From Postoperative Erythema Nodosum Leprosum in Leprosy: A Case Report.|https://dx.doi.org/10.7759/cureus.55986
+Microbiological Characteristics and Resistance Patterns in a Neonatal Intensive Care Unit: A Retrospective Surveillance Study.|https://dx.doi.org/10.7759/cureus.56027
+Free Radical Scavenging, Anti-inflammatory and Antibacterial Activity of Acorus calamus Leaves Extract Against Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.7759/cureus.55987
+Antibacterial and antioxidant bifunctional hydrogel based on hyaluronic acid complex MoS(2)-dithiothreitol nanozyme for treatment of infected wounds.|https://dx.doi.org/10.1093/rb/rbae025
+Catheter salvage or removal in catheter-related bloodstream infections with Staphylococcus aureus in children with chronic intestinal failure receiving home parenteral nutrition and the use of prophylactic taurolidine catheter lock solution: A descriptive cohort study.|https://dx.doi.org/10.1002/jpen.2630

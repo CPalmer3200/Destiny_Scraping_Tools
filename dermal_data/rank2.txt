@@ -15,3 +15,4 @@ Diabetic Osteomyelitis: Oral vs Intravenous Antibiotics at a Single Level 1 Acad
 An observational study of the pH value during the healing process of diabetic foot ulcer.|https://dx.doi.org/10.1016/j.jtv.2024.03.015
 Advanced multifunctional hydrogels for diabetic foot ulcer healing: Active substances and biological functions.|https://dx.doi.org/10.1111/1753-0407.13537
 Use of biosurgery for the treatment of foot ulcers infected with therapy-resistant bacteria: a case report.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4a.lxxxv
+A purified reconstituted bilayer matrix shows improved outcomes in treatment of non-healing diabetic foot ulcers when compared to the standard of care: Final results and analysis of a prospective, randomized, controlled, multi-centre clinical trial.|https://dx.doi.org/10.1111/iwj.14882

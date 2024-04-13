@@ -28,3 +28,6 @@ Staphylococcus aureus acquires resistance to glycopeptide antibiotic vancomycin 
 Bosutinib Stimulates Macrophage Survival, Phagocytosis, and Intracellular Killing of Bacteria.|https://dx.doi.org/10.1021/acsinfecdis.4c00086
 Critical view on antimicrobial, antibiofilm and cytotoxic activities of quinazolin-4(3H)-one derived schiff bases and their Cu(II) complexes.|https://dx.doi.org/10.1016/j.heliyon.2024.e29051
 A 10-year retrospective study of antibacterial-induced thrombocytopenia in a women and children hospital using China Hospital Pharmacovigilance System and Visual Basic for Applications.|https://dx.doi.org/10.1111/bcp.16041
+Lincosamide monotherapy treatment of methicillin-resistant Staphylococcus aureus pneumonia in tropical Australia: a case series.|https://dx.doi.org/10.1007/s10096-024-04816-9
+Effect modification of dosing strategy (AUC or trough) on AKI associated with vancomycin in combination with piperacillin/tazobactam or cefepime and meropenem.|https://dx.doi.org/10.1128/aac.01085-23
+Daptomycin and ceftaroline combination for the treatment of persistent methicillin-resistant Staphylococcus aureus bloodstream infections: a case series and literature review.|https://dx.doi.org/10.1080/1120009X.2024.2340877
