@@ -247,3 +247,20 @@ Cannabis use disorder and perioperative outcomes following complex cancer surger
 Reconstruction Strategy for Upper Extremity Defects After Bone Tumor Resection Based on 3D Customized Bone Cement Mold.|https://dx.doi.org/10.1177/15533506241244493
 Johanson-Blizzard Syndrome: A Case Report From Bahrain With a Literature Review.|https://dx.doi.org/10.7759/cureus.55969
 Limb Salvage and Pelvic Reconstruction With Endoprosthesis After Pelvic Tumor Resection: A Narrative Review.|https://dx.doi.org/10.7759/cureus.56043
+Life threatening, subclavian artery mycotic aneurysm rupture into a gigantic supraclavicular abscess in an intravenous drug user.|https://dx.doi.org/10.7861/clinmed.2023-0127
+Relocation of polyotia tissue to reconstruct the tragus and fill the preauricular depression.|https://dx.doi.org/10.1016/j.ijporl.2024.111937
+Fungal Prosthetic Joint Infection: A Case Series and Review of the Literature.|https://dx.doi.org/10.1007/s40121-024-00964-9
+Percutaneous intramedullary screw or rush pin fixation of unstable ankle fractures in patients with fragile soft tissue - retrospective study of 80 cases.|https://dx.doi.org/10.1007/s00402-024-05290-w
+Analysis of the associated factors in postoperative wound infection following open reduction and internal fixation for elbow fracture.|https://dx.doi.org/10.1111/iwj.14825
+Virus-Induced Epilepsy vs. Epilepsy Patients Acquiring Viral Infection: Unravelling the Complex Relationship for Precision Treatment.|https://dx.doi.org/10.3390/ijms25073730
+An Update on Myocarditis in Forensic Pathology.|https://dx.doi.org/10.3390/diagnostics14070760
+Modulation of sHLA-G, PD-1, and PD-L1 Expression in Cervical Lesions Following Imiquimod Treatment and Its Association with Treatment Success.|https://dx.doi.org/10.3390/cancers16071272
+The Effect of Preoperative Administration of Glucocorticoids on the Postoperative Complication Rate in Liver Surgery: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.|https://dx.doi.org/10.3390/jcm13072097
+External Scaffold for Venous Graft to Treat Chronic Limb-Threatening Ischemia: Results of the FRAME Vascular Support.|https://dx.doi.org/10.3390/jcm13072095
+The Safety and Effectiveness of Single-Stage, Vessel-Preserving, Laparoscopic Orchiopexy for Intra-Abdominal Testes in Pediatric Patients: A 10-Year Single-Center Experience.|https://dx.doi.org/10.3390/jcm13072045
+Augmentation Rhinoplasty and Centrofacial Lipofilling: Our Experience (ARCL).|https://dx.doi.org/10.3390/jcm13071965
+Reconstruction of Orbital Wall Fractures with a Combination of Resorbable Plates and Antibiotic-Impregnated Collagen Sheets.|https://dx.doi.org/10.3390/jcm13071900
+Knee Arthrodesis for Periprosthetic Knee Infection: Fusion Rate, Complications, and Limb Salvage-A Systematic Review.|https://dx.doi.org/10.3390/healthcare12070804
+Augmented Articulating Spacers in Infected Total Knee Arthroplasty: Surgical Technique.|https://dx.doi.org/10.3390/healthcare12070735
+Treatment of tibial bone defects caused by infection: a retrospective comparative study of bone transport using a combined technique of unilateral external fixation over an intramedullary nail versus circular external fixation over an intramedullary nail.|https://dx.doi.org/10.1186/s12891-024-07377-2
+Survivorship of the fixed-bearing medial unicompartmental knee arthroplasty: mean 14-year follow-up in a single medical center.|https://dx.doi.org/10.1186/s12891-024-07378-1

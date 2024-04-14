@@ -31,3 +31,8 @@ A 10-year retrospective study of antibacterial-induced thrombocytopenia in a wom
 Lincosamide monotherapy treatment of methicillin-resistant Staphylococcus aureus pneumonia in tropical Australia: a case series.|https://dx.doi.org/10.1007/s10096-024-04816-9
 Effect modification of dosing strategy (AUC or trough) on AKI associated with vancomycin in combination with piperacillin/tazobactam or cefepime and meropenem.|https://dx.doi.org/10.1128/aac.01085-23
 Daptomycin and ceftaroline combination for the treatment of persistent methicillin-resistant Staphylococcus aureus bloodstream infections: a case series and literature review.|https://dx.doi.org/10.1080/1120009X.2024.2340877
+Mesoporous cobalt-manganese layered double hydroxides promote the activation of calcium sulfite for degradation and detoxification of metronidazole.|https://dx.doi.org/10.1016/j.jcis.2024.04.056
+Surface-mediated fluorescent sensor array for identification of gut microbiota and monitoring of colorectal cancer.|https://dx.doi.org/10.1016/j.talanta.2024.126081
+Metronidazole may display anti-inflammatory features in periodontitis treatment: A scoping review.|https://dx.doi.org/10.1111/omi.12459
+Monitoring Pharmaceuticals and Personal Care Products in Healthcare Effluent Wastewater Samples and the Effectiveness of Drug Removal in Wastewater Treatment Plants Using the UHPLC-MS/MS Method.|https://dx.doi.org/10.3390/molecules29071480
+The Impact of Colonization by Multi Drug Resistant Bacteria on Graft Survival, Risk of Infection, and Mortality in Recipients of Solid Organ Transplant: Systematic Review and Meta-analysis.|https://dx.doi.org/10.1016/j.cmi.2024.03.036

@@ -260,3 +260,21 @@ Microbiological Characteristics and Resistance Patterns in a Neonatal Intensive 
 Free Radical Scavenging, Anti-inflammatory and Antibacterial Activity of Acorus calamus Leaves Extract Against Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.7759/cureus.55987
 Antibacterial and antioxidant bifunctional hydrogel based on hyaluronic acid complex MoS(2)-dithiothreitol nanozyme for treatment of infected wounds.|https://dx.doi.org/10.1093/rb/rbae025
 Catheter salvage or removal in catheter-related bloodstream infections with Staphylococcus aureus in children with chronic intestinal failure receiving home parenteral nutrition and the use of prophylactic taurolidine catheter lock solution: A descriptive cohort study.|https://dx.doi.org/10.1002/jpen.2630
+Emerging threats of high biofilm formation and antibiotic resistance in clinical methicillin-resistant Staphylococcus aureus (MRSA) isolates from Pakistan.|https://dx.doi.org/10.1016/j.meegid.2024.105592
+The effects of a novel, continuous disinfectant technology on methicillin resistant Staphylococcus aureus (MRSA), fungi and aerobic bacteria in two separate Intensive Care Units in two different states: an experimental design with observed impact on Healthcare Associated Infections (HAIs).|https://dx.doi.org/10.1016/j.ajic.2024.03.013
+Molecular and epidemiological characterization of Staphylococcus aureus causing bovine mastitis in China.|https://dx.doi.org/10.1016/j.micpath.2024.106640
+Physicochemical, structural and biological characterisation of poly(3-hydroxyoctanoate) supplemented with diclofenac acid conjugates - Harnessing the potential in the construction of materials for skin regeneration processes.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131476
+Pickering nanoemulsion loaded with eugenol contributed to the improvement of konjac glucomannan film performance.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131495
+Therapeutic effect of ZnO NPs-polyhexanide-hydrogel on Staphylococcus aureus-induced skin wound infection in mice.|https://dx.doi.org/10.1080/09205063.2024.2340819
+Fabrication and antimicrobial properties of novel meropenem-honey encapsulated chitosan nanoparticles against multiresistant and biofilm-forming Staphylococcus aureus as a new antimicrobial agent.|https://dx.doi.org/10.1002/vms3.1440
+Characteristic volatile components analysis of Camelina sativa (L.) Crantz by GC-MS and their antibacterial and antioxidant activities.|https://dx.doi.org/10.1080/14786419.2024.2334876
+Usefulness and Limitations of PFGE Diagnosis and Nucleotide Sequencing Method in the Analysis of Food Poisoning Pathogens Found in Cooking Employees.|https://dx.doi.org/10.3390/ijms25074123
+Zinc(II) Iminopyridine Complexes as Antibacterial Agents: A Structure-to-Activity Study.|https://dx.doi.org/10.3390/ijms25074011
+Hybrid Materials Obtained by Immobilization of Biosynthesized Ag Nanoparticles with Antioxidant and Antimicrobial Activity.|https://dx.doi.org/10.3390/ijms25074003
+Insights into the Adolescent Cystic Fibrosis Airway Microbiome Using Shotgun Metagenomics.|https://dx.doi.org/10.3390/ijms25073893
+Synthesis of Novel Triazine-Based Chalcones and 8,9-dihydro-7H-pyrimido[4,5-b][1,4]diazepines as Potential Leads in the Search of Anticancer, Antibacterial and Antifungal Agents.|https://dx.doi.org/10.3390/ijms25073623
+Nanoparticles Partially Restore Bacterial Susceptibility to Antibiotics.|https://dx.doi.org/10.3390/ma17071629
+Sputtering-Deposited Ultra-Thin Ag-Cu Films on Non-Woven Fabrics for Face Masks with Antimicrobial Function and Breath NO(x) Response.|https://dx.doi.org/10.3390/ma17071574
+Antimicrobial Activity and Phytochemical Characterization of Baccharis concava Pers., a Native Plant of the Central Chilean Coast.|https://dx.doi.org/10.3390/molecules29071654
+Physicochemical Properties and Biological Activities of Quinoa Polysaccharides.|https://dx.doi.org/10.3390/molecules29071576
+Recovery of Cembratrien-Diols from Waste Tobacco (Nicotiana tabacum L.) Flowers by Microwave-Assisted Deep Eutectic Solvent Extraction: Optimization, Separation, and In Vitro Bioactivity.|https://dx.doi.org/10.3390/molecules29071563

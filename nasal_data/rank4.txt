@@ -158,3 +158,8 @@ Assessment and management of constipation in postoperative patients in the spina
 Case Report: Can preoperative implantation of veno-arterial extracorporeal membrane oxygenation lead to embolic events in infective endocarditis?|https://dx.doi.org/10.3389/fcvm.2024.1334457
 The burden of hospital-acquired infections (HAI) in sub-Saharan Africa: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.eclinm.2024.102571
 [Annual progress of interventional diagnosis and treatment of tuberculosis in 2023].|https://dx.doi.org/10.360/cma.j.cn112147-20231114-00308
+Vaccination Motivators and Deterrents Among Undervaccinated Older Adults in North Dakota.|https://dx.doi.org/10.1007/s10900-024-01351-8
+Insights Into MRI Neuroimaging Patterns of COVID-19 in Children: A Retrospective Comprehensive Analysis.|https://dx.doi.org/10.1016/j.acra.2024.03.018
+Intramyocardial abscess and endoventricular thrombosis: a complex case.|https://dx.doi.org/10.1007/s10554-024-03088-w
+Molecular identification of Proteus mirabilis, Vibrio species leading to CRISPR-Cas9 modification of tcpA and UreC genes causing cholera and UTI.|https://dx.doi.org/10.1038/s41598-024-59340-9
+The Impact of Colonization by Multi Drug Resistant Bacteria on Graft Survival, Risk of Infection, and Mortality in Recipients of Solid Organ Transplant: Systematic Review and Meta-analysis.|https://dx.doi.org/10.1016/j.cmi.2024.03.036

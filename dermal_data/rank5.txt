@@ -9,3 +9,5 @@ Unraveling UVB effects: Catalase activity and molecular alterations in the strat
 Exploring the potential and challenges of developing physiologically-based toxicokinetic models to support human health risk assessment of microplastic and nanoplastic particles.|https://dx.doi.org/10.1016/j.envint.2024.108617
 Fabrication and evaluation of ribavirin-loaded electrospun nanofibers as an antimicrobial wound dressing.|https://dx.doi.org/10.1016/j.jsps.2024.102058
 Polyproline peptide targets Klebsiella pneumoniae polysaccharides to collapse biofilms.|https://dx.doi.org/10.1016/j.xcrp.2024.101869
+Biomarkers for phenotype-endotype relationship in atopic dermatitis: a critical review.|https://dx.doi.org/10.1016/j.ebiom.2024.105121
+Exploration of the Antibacterial and Anti-Inflammatory Activity of a Novel Antimicrobial Peptide Brevinin-1BW.|https://dx.doi.org/10.3390/molecules29071534

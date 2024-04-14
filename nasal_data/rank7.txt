@@ -281,3 +281,21 @@ Evaluating the performance of selected military hospitals in Tehran in response 
 A mini review of reinfection with the SARS-CoV-2 Omicron variant.|https://dx.doi.org/10.1002/hsr2.2016
 Outcome of lung transplantation in patients with pulmonary alveolar microlithiasis in the era of COVID-19 infection.|https://dx.doi.org/10.1093/jscr/rjae211
 Quality of Life of Chronic Heart Failure Patients During and After COVID-19: Observational Study Using EuroQoL-Visual Analogue Scales.|https://dx.doi.org/10.12659/MSM.943301
+A Case Report of Autoimmune Encephalitis after Anti-SARS-CoV-2 Vaccination: The Role of Cognitive Impairments in the Diagnostic Process.|https://dx.doi.org/10.1093/arclin/acae031
+Racial and Ethnic Disparities in Attendance to Well-Child Visit Recommendations during COVID-19.|https://dx.doi.org/10.1016/j.acap.2024.04.003
+Effectiveness of COVID-19 vaccines to prevent long COVID: data from Norway.|https://dx.doi.org/10.1016/S2213-2600(24)00082-1
+COVID-19-associated pulmonary aspergillosis (CAPA) in hematological patients: Could antifungal prophylaxis be necessary? A nationwide study.|https://dx.doi.org/10.1016/j.jiph.2024.04.005
+Religiosity of Latinas Living in the USA Curbs Depression and Anxiety During the COVID-19 Pandemic.|https://dx.doi.org/10.1007/s10943-024-02038-z
+Analyzing the Impact of Concomitant COVID-19 Infection on Outcomes in Trauma Patients.|https://dx.doi.org/10.1177/00031348241246176
+The Association between Lifestyle Factors and COVID-19: Findings from Qatar Biobank.|https://dx.doi.org/10.3390/nu16071037
+Vitamin D Supplementation in Neonatal and Infant MIS-C Following COVID-19 Infection.|https://dx.doi.org/10.3390/ijms25073712
+mRNA-LNP COVID-19 Vaccine Lipids Induce Complement Activation and Production of Proinflammatory Cytokines: Mechanisms, Effects of Complement Inhibitors, and Relevance to Adverse Reactions.|https://dx.doi.org/10.3390/ijms25073595
+COVID-19 and Tuberculosis: Mathematical Modeling of Infection Spread Taking into Account Reduced Screening.|https://dx.doi.org/10.3390/diagnostics14070698
+Pre-Exposure Prophylaxis and Treatment with Tixagevimab/Cilgavimab for COVID-19 among Immunocompromised Pediatric Patients.|https://dx.doi.org/10.3390/jcm13072029
+Impact of Home-Based Work during the COVID-19 Pandemic on Mental and Physical Health in a German Population-Based Sample.|https://dx.doi.org/10.3390/healthcare12070789
+Acceptance of a Future Gonorrhea Vaccine in a Post-Coronavirus Disease 2019 World: Impact of Type of Recommendation and Changing Levels of Trust in Health Institutions and Authorities.|https://dx.doi.org/10.1016/j.mcna.2023.06.010
+Heart Failure, the Global Pandemic: A Call to Action Consensus statement from the global presidential conclave at the Platinum Jubilee Conference of Cardiological Society of India 2023.|https://dx.doi.org/10.1016/j.ihj.2024.04.004
+Food insecurity and mental health among US adults during the COVID-19 pandemic: Results from National Health Interview Survey, 2020-2021.|https://dx.doi.org/10.1016/j.jad.2024.04.043
+Clinical validation of SARS-CoV-2 electrochemical immunosensor based on the spike-ACE2 complex.|https://dx.doi.org/10.1016/j.jviromet.2024.114940
+In vitro pharmacokinetic behavior in lung of harringtonine, an antagonist of SARS-CoV-2 associated proteins: New insights of inhalation therapy for COVID-19.|https://dx.doi.org/10.1016/j.phymed.2024.155582
+Impact of COVID-19 on arthritis with generative AI.|https://dx.doi.org/10.1016/j.intimp.2024.112032

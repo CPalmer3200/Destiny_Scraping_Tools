@@ -20,3 +20,7 @@ A Multifunctional Nanozyme Integrating Antioxidant, Antimicrobial and Pro-Vascul
 Three-Dimensional-Printed GelMA-KerMA Composite Patches as an Innovative Platform for Potential Tissue Engineering of Tympanic Membrane Perforations.|https://dx.doi.org/10.3390/nano14070563
 Film dressings from Thai mango seed kernel extracts versus nanocrystalline silver dressings in antibacterial properties.|https://dx.doi.org/10.3389/jpps.2024.12674
 Antibacterial and antioxidant bifunctional hydrogel based on hyaluronic acid complex MoS(2)-dithiothreitol nanozyme for treatment of infected wounds.|https://dx.doi.org/10.1093/rb/rbae025
+Physicochemical, structural and biological characterisation of poly(3-hydroxyoctanoate) supplemented with diclofenac acid conjugates - Harnessing the potential in the construction of materials for skin regeneration processes.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131476
+Therapeutic effect of ZnO NPs-polyhexanide-hydrogel on Staphylococcus aureus-induced skin wound infection in mice.|https://dx.doi.org/10.1080/09205063.2024.2340819
+Preparation, Characterization, and Evaluation of Enzyme Co-Modified Fish Gelatin-Based Antibacterial Derivatives.|https://dx.doi.org/10.3390/polym16070895
+Preparation of antibacterial hydrogel from poly(aspartic hydrazide) and quaternized N-[3-(dimethylamino) propyl] methylacrylamide copolymer with antioxidant and hemostatic effects for wound repairing.|https://dx.doi.org/10.1016/j.colsurfb.2024.113881
