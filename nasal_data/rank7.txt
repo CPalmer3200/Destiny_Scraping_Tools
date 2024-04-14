@@ -1,301 +1,266 @@
-Disparities in Unmet Health Care Needs Among US Children During the COVID-19 Pandemic.|https://dx.doi.org/10.1370/afm.3079
-Risk of Severe Acute Respiratory Syndrome Coronavirus 2 Transmission in Seoul, Korea.|https://dx.doi.org/10.3947/ic.2022.0167
-Quaternization of cassava starch and determination of antimicrobial activity against bacteria and coronavirus.|https://dx.doi.org/10.1016/j.carres.2024.109098
-Effects of SARS-Cov-2 mRNA vaccine on placental histopathology: Comparison of a population of uncomplicated COVID-19 positive pregnant women.|https://dx.doi.org/10.1016/j.placenta.2024.03.008
-Retinal Changes in Patients With Covid-19 and Different Expressiveness of Metabolic Changes.|https://dx.doi.org/10.31348/2024/12
-Evaluation of Strategies for Transitioning to Annual SARS-CoV-2 Vaccination Campaigns in the United States.|https://dx.doi.org/10.7326/M23-2451
-The effectiveness of community health worker training, equipping, and deployment in reducing COVID-19 infections and deaths in rural Western Kenya: A comparison of two counties.|https://dx.doi.org/10.1371/journal.pgph.0003036
-Quantitative and Standardized Pseudovirus Neutralization Assay for COVID-19.|https://dx.doi.org/10.1007/978-1-0716-3738-8_11
-COVID-19 vaccination affects short-term anti-coagulation levels in warfarin treatment.|https://dx.doi.org/10.1007/s11239-024-02959-2
-The evolution of preexisting primary immune thrombocytopenia after COVID-19 onset: A nationally representative, prospective, multicentre, observational study.|https://dx.doi.org/10.1007/s00277-024-05720-0
-Community Members' Perceptions of a Resource-Rich Well-Being Website in California During the COVID-19 Pandemic: Qualitative Thematic Analysis.|https://dx.doi.org/10.2196/55517
-Use of Sentinel Surveillance Platforms for Monitoring SARS-CoV-2 Activity: Evidence From Analysis of Kenya Influenza Sentinel Surveillance Data.|https://dx.doi.org/10.2196/50799
-Influence of Environmental Factors and Genome Diversity on Cumulative COVID-19 Cases in the Highland Region of China: Comparative Correlational Study.|https://dx.doi.org/10.2196/43585
-Exploring the Efficacy of Noncovalent SARS-CoV-2 Main Protease Inhibitors: A Computational Study Incorporating Design, ADMET, Molecular Dynamics Simulation, and DFT Analysis.|https://dx.doi.org/10.1002/cbdv.202302089
-Melioidosis in Patients with COVID-19 Exposed to Contaminated Tap Water, Thailand, 2021.|https://dx.doi.org/10.3201/eid3004.231476
-Influenza and Covid-19 Vaccination in 2023: a descriptive analysis in two Italian Research and Teaching Hospitals. Is the On-Site strategy effective?|https://dx.doi.org/10.7416/ai.2024.2606
-An outbreak within an outbreak: The impact of Infection Prevention and Control strategies on hospital-acquired infections and the occurrence of multi-drug resistant organisms during the COVID-19 pandemic.|https://dx.doi.org/10.7196/SAMJ.2023.v113i12.971
-Multilevel perceptions of the virtual delivery of the University of California Diabetes Prevention Program on RE-AIM domains due to COVID-19 mandates.|https://dx.doi.org/10.3389/fpubh.2024.1327429
-Factors influencing public participation behavior relating to government microblogs on COVID-19 updates.|https://dx.doi.org/10.3389/fpubh.2024.1337107
-Leveraging seasonal influenza health worker vaccination programmes for COVID-19 vaccine Introduction: A global qualitative analysis.|https://dx.doi.org/10.1016/j.vaccine.2023.12.044
-Comparative diagnostic utility of SARS-CoV-2 rapid antigen and molecular testing in a community setting.|https://dx.doi.org/10.1093/infdis/jiae150
-The Impact of the COVID-19 Pandemic on the Quality of Examination in Eye Clinics in the Czech Republic - Questionnaire Study.|https://dx.doi.org/10.31348/2024/15
-Association between discrimination and subsequent psychotic experiences in patients with COVID-19: A cohort study.|https://dx.doi.org/10.1016/j.schres.2024.03.027
-SARS-CoV-2 Seroprevalence and Vaccine Uptake among Pregnant Women at First Antenatal Care Visits in Malawi.|https://dx.doi.org/10.4269/ajtmh.23-0726
-Age-Related Differences in Neutralizing Antibody Responses against SARS-CoV-2 Delta and Omicron Variants in 151 SARS-CoV-2-Naïve Metropolitan Residents Boosted with BNT162b2.|https://dx.doi.org/10.1093/jalm/jfae014
-Impact of the COVID-19 Pandemic on the Outcomes of Patients Undergoing Oncological Surgeries: CORONAL Study.|https://dx.doi.org/10.1245/s10434-024-15152-9
-Multidrug-resistant organism bloodstream infection and hospital acquisition among inpatients in three tertiary Greek hospitals during the COVID-19 era.|https://dx.doi.org/10.1007/s10096-024-04806-x
-Household Transmission Dynamics of Asymptomatic SARS-CoV-2-Infected Children: A Multinational, Controlled Case-Ascertained Prospective Study.|https://dx.doi.org/10.1093/cid/ciae069
-The human microbiota is a beneficial reservoir for SARS-CoV-2 mutations.|https://dx.doi.org/10.1128/mbio.03187-23
-Colorectal Cancer Screening Rates at Federally Qualified Health Centers From 2014 to 2022: Incomplete Recovery From COVID-19 and Worsening Disparities.|https://dx.doi.org/10.14309/ajg.0000000000002706
-Immunogenicity and safety of boosting with a recombinant two-component SARS-CoV-2 vaccine: two randomized, parallel-controlled, phase 2 studies.|https://dx.doi.org/10.1080/14760584.2024.2334423
-COVID-19 Outcome and Tobacco Product Use: Case-Control and Retrospective Cohort Studies Using Nationwide Samples.|https://dx.doi.org/10.3346/jkms.2024.39.e103
-The Prevalence and Antimicrobial Susceptibility of Methicillin-Resistant Staphylococcus aureus Before and After the COVID-19 Pandemic in a Tertiary Saudi Hospital.|https://dx.doi.org/10.7759/cureus.54809
-New Insights into the Effects of SARS-CoV-2 on Metabolic Organs: A Narrative Review of COVID-19 Induced Diabetes.|https://dx.doi.org/10.2147/DMSO.S454408
-COVID-19 restrictions promoted the newly occurring loneliness in older people - a prospective study in a memory clinic population.|https://dx.doi.org/10.3389/fpsyt.2024.1340498
-Perceived dilemma between protective measures and social isolation in nursing homes during the COVID-19 pandemic: a mixed methods study among Swiss nursing home directors.|https://dx.doi.org/10.3389/fpubh.2024.1292379
-Early Reconstruction with Locoregional-Free Flaps in Post-COVID-19 Rhino-orbital-cerebral Mucormycosis Craniofacial Deformities: A Single-Center Clinical Experience from India.|https://dx.doi.org/10.1055/s-0043-1778652
-Predictive Power of Self-Efficacy on the Fear of Childbirth in Pregnant Women: Underlying Mechanisms of Social Support as a Mediator and the COVID-19 Fear as a Moderator.|https://dx.doi.org/10.4103/njcp.njcp_471_23
-Anticipatory regulation for pandemic responses: are we there yet?|https://dx.doi.org/10.1016/j.tibtech.2024.02.016
-Modeling assessment of air pollution control measures and COVID-19 pandemic on air quality improvements over Greater Bay Area of China.|https://dx.doi.org/10.1016/j.scitotenv.2024.171951
-Candida auris outbreak at a tertiary care hospital during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.ajic.2024.03.012
-Agonists or positive allosteric modulators of α7 nicotinic acetylcholine receptor prevent interaction of SARS-Cov-2 receptor-binding domain with astrocytoma cells.|https://dx.doi.org/10.1016/j.bbrc.2024.149825
-Enhancing deep vein thrombosis prediction in patients with coronavirus disease 2019 using improved machine learning model.|https://dx.doi.org/10.1016/j.compbiomed.2024.108294
-The association between SARS-CoV-2 seroprevalence and cross-border mobility for visiting family or friends among Dutch residents of a Euregional province.|https://dx.doi.org/10.1016/j.healthpol.2024.105056
-Self-perception of mental health, COVID-19 and associated sociodemographic-contextual factors in Latin America.|https://dx.doi.org/10.1590/0102-311XEN157723
-Keeping university open did not increase the risk of SARS-CoV-2 acquisition: A test negative case-control study among students.|https://dx.doi.org/10.1371/journal.pone.0301215
-Rapid resurgence of syphilis in Japan after the COVID-19 pandemic: A descriptive study.|https://dx.doi.org/10.1371/journal.pone.0298288
-The Impact of a Pandemic on a Military Oral and Maxillofacial Pathology Biopsy Service.|https://dx.doi.org/10.1093/milmed/usae102
-Vaccine Hesitancy, Knowledge, and COVID-19 Vaccination in a Sample of Italian and Albanian Healthcare Students Attending an University in Albania.|https://dx.doi.org/10.3390/tropicalmed9030057
-Associations between Difficulty in Accessing Maternal and Child Health Services and Stress Responses among Mothers Raising Young Children during the COVID-19 Pandemic in Japan.|https://dx.doi.org/10.3390/nursrep14010039
-Indoor Inactivation of SARS-CoV-2 Virus by Liquid Hyperoxygen.|https://dx.doi.org/10.3390/pathogens13030244
-Knowledge, Attitudes, and Practices of Hand Hygiene, Mask Use, and Social Distancing among Public Hospital and Polyclinic Nurses in Barbados during the Coronavirus 2019 Pandemic.|https://dx.doi.org/10.3390/epidemiologia5010008
-COVID-19 Associated Cardiovascular Disease-Risks, Prevention and Management: Heart at Risk Due to COVID-19.|https://dx.doi.org/10.3390/cimb46030124
-Post-Coronavirus Disease 2019 Pandemic Antimicrobial Resistance.|https://dx.doi.org/10.3390/antibiotics13030233
-The Impact of COVID-19 on Multidrug-Resistant Bacteria at a Slovenian Tertiary Medical Center.|https://dx.doi.org/10.3390/antibiotics13030214
-Antimicrobial Resistance in Qatar: Prevalence and Trends before and Amidst the COVID-19 Pandemic.|https://dx.doi.org/10.3390/antibiotics13030203
-Associations between neighborhood characteristics and child well-being before and during the COVID-19 pandemic: A repeated cross-sectional study in the environmental influences on child health outcome (ECHO) program.|https://dx.doi.org/10.1016/j.envres.2024.118765
-Hospitalizations and emergency department visits for self-harm in Canada during the first two years of the COVID-19 pandemic: A time series analysis.|https://dx.doi.org/10.1016/j.jad.2024.03.123
-Nanomolar anti-SARS-CoV-2 Omicron activity of the host-directed TMPRSS2 inhibitor N-0385 and synergistic action with direct-acting antivirals.|https://dx.doi.org/10.1016/j.antiviral.2024.105869
-Electrochemical genosensor based on RNA-responsive human telomeric G-quadruplex DNA: A proof-of-concept with SARS-CoV-2 RNA.|https://dx.doi.org/10.1016/j.talanta.2024.125916
-Duration of SARS-CoV-2 shedding: A systematic review.|https://dx.doi.org/10.7189/jogh.14.05005
-The Impacts of COVID-19 Restrictions on Quality Adjusted Life Years (QALY): Heterogeneous effects and post-pandemic recovery.|https://dx.doi.org/10.1371/journal.pone.0300891
-Impact of COVID-19 vaccination on liver transplant recipients. Experience in a reference center in Mexico.|https://dx.doi.org/10.1371/journal.pone.0301198
-The socioeconomic impact of the COVID-19 lockdown on families affected by childhood respiratory illnesses in Cape Town, South Africa.|https://dx.doi.org/10.1371/journal.pgph.0003020
-Changing COVID-19 cases and deaths detection in Florida.|https://dx.doi.org/10.1371/journal.pone.0299143
-Nirmatrelvir/ritonavir and remdesivir against symptomatic treatment in high-risk COVID-19 outpatients to prevent hospitalization or death during the Omicron era: a propensity score-matched study.|https://dx.doi.org/10.1177/20499361241236582
-The Global Impact of COVID-19: A Comprehensive Analysis of Its Effects on Various Aspects of Life.|https://dx.doi.org/10.1093/toxres/tfae045
-Candidemia in critically ill COVID-19 patients: Risk factors and impact on mortality.|https://dx.doi.org/10.1016/j.heliyon.2024.e28033
-Rapid Operationalization of COVID-19 Immunization Clinics With Medical and Physician Assistant Students Serving as Vaccinators.|https://dx.doi.org/10.1016/j.focus.2024.100199
-A Risk Model for 28-Day in-Hospital Mortality in 173 COVID-19 Patients Admission to ICU: A Retrospective Study.|https://dx.doi.org/10.2147/IDR.S447326
-Psychological distress among individuals with a suicide attempt or suicidal ideation and suicide attempts patterns: first two years of the pandemic.|https://dx.doi.org/10.3389/fpsyt.2024.1366191
-Prevalence and factors associated with fear of COVID-19 in military personnel during the second epidemic wave in Peru.|https://dx.doi.org/10.3389/fpsyt.2024.1309957
-COVID-19 vaccines breakthrough infection and adverse reactions in medical students: a nationwide survey in Iran.|https://dx.doi.org/10.3389/fpubh.2024.1348015
-Retrospective study of the impact of diabetes on the severity and prognosis of COVID‑19.|https://dx.doi.org/10.3892/etm.2024.12482
-Editorial: Prophylactic efficacy and safety of COVID-19 vaccines in preventing disease caused by various SARS CoV-2 variants.|https://dx.doi.org/10.3389/fcimb.2024.1384601
-COVID-19 mortality sentinel surveillance at a tertiary referral hospital in Lusaka, Zambia, 2020-2021.|https://dx.doi.org/10.1371/journal.pgph.0003063
-Medical Misinformation in Polish on the World Wide Web During the COVID-19 Pandemic Period: Infodemiology Study.|https://dx.doi.org/10.2196/48130
-Challenges in conducting efficacy trials for new COVID-19 vaccines in developed countries.|https://dx.doi.org/10.1177/17407745241238925
-COVID-19 vaccine effectiveness against symptomatic infection with SARS-CoV-2 BA.1/BA.2 lineages among adults and adolescents in a multicentre primary care study, Europe, December 2021 to June 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.13.2300403
-Editorial: Vaccines and immunization services during the pandemic era and beyond.|https://dx.doi.org/10.3389/frhs.2024.1394381
-The Association between COVID-19 Infection and Gabrin Sign: A Case-Control Study.|https://dx.doi.org/10.4103/idoj.idoj_222_23
-Factors associated with prolonged COVID-related PTSD-like symptoms among adults diagnosed with mild COVID-19 in Poland.|https://dx.doi.org/10.3389/fpsyg.2024.1358979
-Families adapting to COVID-19 in urban Bangladesh: "It felt like the sky fell apart and we were in shock".|https://dx.doi.org/10.3389/fpsyg.2024.1296083
-Study protocol: Project 2VIDA! SARS-CoV-2 vaccine intervention delivery for adults in Southern California.|https://dx.doi.org/10.3389/fpubh.2024.1291332
-Effectiveness of the SARS-CoV-2 Vaccination in Preventing Severe Disease-Related Outcomes: A Population-Based Study in the Italian Province of Bolzano (South Tyrol).|https://dx.doi.org/10.3389/ijph.2024.1606792
-Sleep disorders, stress coping strategies and neurobehavioral aspects: an outlook on the impact of covid‑19 in first‑year resident physicians.|https://dx.doi.org/10.3892/br.2024.1760
-Impact of the SARS-CoV-2 Spike Protein on the Innate Immune System: A Review.|https://dx.doi.org/10.7759/cureus.57008
-Quantifying the Adverse Effects of Long COVID on Individuals' Health After Infection: A Propensity Score Matching Design Study.|https://dx.doi.org/10.2147/RMHP.S446321
-Pooling of samples to optimise SARS-CoV-2 detection in nasopharyngeal swabs and gargle lavage self-samples for covid-19 diagnostics and surveillance.|https://dx.doi.org/10.1080/23744235.2024.2333438
-Treatment of Fanconi anemia patient with synchronous esophageal and tongue cancer in COVID-19 era: a case report.|https://dx.doi.org/10.3857/roj.2023.00654
-COVID-19 outbreaks surveillance through text mining applied to electronic health records.|https://dx.doi.org/10.1186/s12879-024-09250-y
-An effective COVID-19 vaccine hesitancy intervention focused on the relative risks of vaccination and infection.|https://dx.doi.org/10.1038/s41598-024-57841-1
-February 2024 ACIP Meeting Update: Meningococcal, RSV, COVID-19, and Other Vaccines.|https://dx.doi.org/10.1542/peds.2024-066653
-PANoptosis, an indicator of COVID-19 severity and outcomes.|https://dx.doi.org/10.1093/bib/bbae124
-Clinical characteristics and outcomes among hospitalised COVID-19 patients across epidemic waves in Spain: An unCoVer analysis.|https://dx.doi.org/10.1016/j.medcli.2023.12.030
-New conjugates based on N4-hydroxycytidine with more potent antiviral efficacy in vitro than EIDD-2801 against SARS-CoV-2 and other human coronaviruses.|https://dx.doi.org/10.1016/j.antiviral.2024.105871
-Unmasking the triad of burnout, absenteeism, and poor sleep among healthcare workers during the third wave of COVID-19 pandemics. Results from the national AMADEUS study.|https://dx.doi.org/10.1016/j.jad.2024.03.157
-Effectiveness of COVID-19 vaccines against severe outcomes in cancer patients: Real-world evidence from self-controlled risk interval and retrospective cohort studies.|https://dx.doi.org/10.1016/j.jiph.2024.03.015
-Maternal mortality and COVID-19: A nationwide ecological analysis from Ecuador.|https://dx.doi.org/10.1177/17455057231219607
-Multi-country case study on school health policy and its implementation in relation to COVID-19 control in Micronesia Small Islands Developing States.|https://dx.doi.org/10.1186/s41182-024-00590-8
-Preclinical evaluation of the SARS-CoV-2 M(pro) inhibitor RAY1216 shows improved pharmacokinetics compared with nirmatrelvir.|https://dx.doi.org/10.1038/s41564-024-01618-9
-A new DNA aptamer which binds to SARS-CoV-2 spike protein and reduces pro-inflammatory response.|https://dx.doi.org/10.1038/s41598-024-58315-0
-Covid-19 in Parkinson's Disease treated by drugs or brain stimulation.|https://dx.doi.org/10.1016/j.nrleng.2021.07.005
-Safety of cricotracheostomy with skin and tracheal membrane flaps for severe COVID-19 patients.|https://dx.doi.org/10.1016/j.anl.2024.03.003
-Surgical treatment of sacral pressure injury in ambulating patients during the COVID-19 pandemic: A prospective cohort with complications analysis and elaboration of a surgical treatment protocol.|https://dx.doi.org/10.1016/j.bjps.2023.09.021
-Reduced HDL-cholesterol in long COVID-19: A key metabolic risk factor tied to disease severity.|https://dx.doi.org/10.1016/j.clinsp.2024.100344
-Computational methods in the analysis of SARS-CoV-2 in mammals: A systematic review of the literature.|https://dx.doi.org/10.1016/j.compbiomed.2024.108264
-Concordance between SARS-CoV-2 index individuals and their household contacts on index individual COVID-19 transmission cofactors: a comparison of self-reported and contact-reported information.|https://dx.doi.org/10.1186/s12889-024-18371-7
-Comparison of lifestyle, cognitive function, mental health, and quality of life between hospitalized older adults with COVID-19 and non-COVID-19 in South Korea: a cross-sectional study.|https://dx.doi.org/10.1186/s12877-023-04646-y
-SARS-CoV-2 variant with the spike protein mutation F306L in the southern border provinces of Thailand.|https://dx.doi.org/10.1038/s41598-024-56646-6
-A novel fast hybrid capture sequencing method for high-efficiency common human coronavirus whole-genome acquisition.|https://dx.doi.org/10.1128/msystems.01222-23
-Impact of the COVID-19 pandemic on excess maternal deaths in Brazil: A two-year assessment.|https://dx.doi.org/10.1371/journal.pone.0298822
-COVID-19 Protection Strategies: Lessons Learned About Epidermal Barrier Function and the Significance of Optimized Skin Care.|https://dx.doi.org/10.36849/JDD.7862
-Gastrointestinal microbiota and metabolites possibly contribute to distinct pathogenicity of SARS-CoV-2 proto or its variants in rhesus monkeys.|https://dx.doi.org/10.1080/19490976.2024.2334970
-Screen Time and Child Behavioral Disorders During COVID-19 Pandemic: A Systematic Review.|https://dx.doi.org/10.4103/ijpvm.ijpvm_78_23
-The impact of comorbidities and economic inequality on COVID-19 mortality in Mexico: a machine learning approach.|https://dx.doi.org/10.3389/fdata.2024.1298029
-Comparison of time to negative conversion of SARS-CoV-2 between young and elderly among asymptomatic and mild COVID-19 patients: a cohort study from a national containment center.|https://dx.doi.org/10.3389/fmed.2024.1217849
-Predictors of SARS-CoV-2 transmission in congregate living settings: a multicenter prospective study.|https://dx.doi.org/10.1017/ice.2024.50
-Wastewater Surveillance of US Coast Guard Installations and Seagoing Military Vessels to Mitigate the Risk of COVID-19 Outbreaks, March 2021-August 2022.|https://dx.doi.org/10.1177/00333549241236644
-Understanding and mitigating negative affect in preventive health behaviors: Evidence from the COVID-19 vaccination process.|https://dx.doi.org/10.1177/13591053241242526
-The safety and potential efficacy of exosomes overexpressing CD24 (EXO-CD24) in mild-moderate COVID-19 related ARDS.|https://dx.doi.org/10.1186/s12931-024-02759-5
-Impact of the early phase of the COVID-19 pandemic on emergency department-to-intensive care unit admissions in Korea: an interrupted time-series analysis.|https://dx.doi.org/10.1186/s12873-024-00968-1
-Lessons Learned from Public Health and State Prison Collaborations during COVID-19 Pandemic and Multifacility Tuberculosis Outbreak, Washington, USA.|https://dx.doi.org/10.3201/eid3013.230777
-Lessons Learned from Cross-Systems Approach to COVID-19 Pandemic Response in Juvenile Justice System, Colorado, USA.|https://dx.doi.org/10.3201/eid3013.230782
-Comparing patient-reported outcomes and lifestyle factors before and after the COVID-19 pandemic among Black and Hispanic breast cancer survivors in New Jersey.|https://dx.doi.org/10.1007/s11764-024-01575-6
-Association between the decrease in medical visit frequency and chronic disease worsening in the early stages of COVID-19-A longitudinal study.|https://dx.doi.org/10.2169/internalmedicine.2697-23
-Atypical presentation of Lemierre's syndrome caused by penicillin-susceptible Staphylococcus aureus in a patient with chronic stomatitis and COVID-19.|https://dx.doi.org/10.1136/bcr-2023-258776
-Carrier-free mRNA vaccine induces robust immunity against SARS-CoV-2 in mice and non-human primates without systemic reactogenicity.|https://dx.doi.org/10.1016/j.ymthe.2024.03.022
-Gestational diabetes mellitus in the era of COVID-19: Challenges and opportunities.|https://dx.doi.org/10.1016/j.dsx.2024.102991
-Infectious respiratory pathogens among patients with acute exacerbation of idiopathic pulmonary fibrosis during the coronavirus disease 2019 pandemic in Japan.|https://dx.doi.org/10.1016/j.hrtlng.2024.03.007
-The dynamics of international health system reforms: Evidence of a new wave in response to the 2008 economic crisis and the COVID-19 pandemic?|https://dx.doi.org/10.1016/j.healthpol.2024.105052
-COVID-19 pandemic and impact of universal face mask wear on ocular surface health and risk of infection.|https://dx.doi.org/10.1016/j.jfo.2024.104170
-Quercetin inhibition of porcine intestinal alpha coronavirus in vitro and in vivo.|https://dx.doi.org/10.1186/s12917-024-03984-2
-Analysis of a large SARS-CoV-2 (Alpha) outbreak in a Catalan prison using conventional and genomic epidemiology.|https://dx.doi.org/10.1093/infdis/jiae161
-Immunogenicity and efficacy of VLA2001 vaccine against SARS-CoV-2 infection in male cynomolgus macaques.|https://dx.doi.org/10.1038/s43856-024-00488-w
-Seroepidemiological assessment of SARS-CoV-2 vaccine responsiveness and associated factors in the vaccinated community of the Casablanca-Settat Region, Morocco.|https://dx.doi.org/10.1038/s41598-024-58498-6
-National prevalence of smoking among adolescents at tobacco tax increase and COVID-19 pandemic in South Korea, 2005-2022.|https://dx.doi.org/10.1038/s41598-024-58446-4
-A rigorous theoretical and numerical analysis of a nonlinear reaction-diffusion epidemic model pertaining dynamics of COVID-19.|https://dx.doi.org/10.1038/s41598-024-56469-5
-SARS-CoV-2 nsp15 endoribonuclease antagonizes dsRNA-induced antiviral signaling.|https://dx.doi.org/10.1073/pnas.2320194121
-Trends in SARS-CoV-2 seroprevalence among pregnant women attending first antenatal care visits in Zambia: A repeated cross-sectional survey, 2021-2022.|https://dx.doi.org/10.1371/journal.pgph.0003073
-Factors associated with COVID-19 vaccine uptake among health professionals in Debre Markos town public health facilities, Northwest Ethiopia.|https://dx.doi.org/10.1371/journal.pgph.0002893
-Latin America and the Caribbean: Updated Surveillance Metrics and History of the COVID-19 Pandemic (2020-2023).|https://dx.doi.org/10.2196/44398
-Impact of COVID-19 on People Living with HIV: Data from Five Medical Monitoring Project Sites, 2020-2022.|https://dx.doi.org/10.1097/QAI.0000000000003403
-Attitudes regarding vaccination on the example of COVID-19 prevention.|https://dx.doi.org/10.13075/mp.5893.01522
-SARS-CoV-2 seroprevalence in Nova Scotia blood donors.|https://dx.doi.org/10.3138/jammi-2023-0017
-Universal versus risk-based strategies for vaccinating children against COVID-19: Japan and Korea.|https://dx.doi.org/10.1136/bmjpo-2023-002391
-An unprecedented global challenge, emerging trends and innovations in the fight against COVID-19: A comprehensive review.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131324
-Changing trends in Japanese spotted fever epidemiology in Shimane, Japan: A two-decade retrospective study with emphasis on the COVID-19 pandemic era.|https://dx.doi.org/10.1016/j.jiac.2024.04.003
-Development of a colloidal gold immunochromatographic strip for rapid detection of avian coronavirus infectious bronchitis virus.|https://dx.doi.org/10.1016/j.psj.2024.103648
-Risk factors and early preventive measures for long COVID in non-hospitalized patients: analysis of a large cohort in the United Arab Emirates.|https://dx.doi.org/10.1016/j.puhe.2024.02.031
-Comparison of geographical and individual deprivation index to assess the risk of Sars-CoV-2 infection and disease severity: a retrospective cohort study.|https://dx.doi.org/10.1186/s12942-024-00367-6
-Impact of Neighborhood Social Cohesion and Rodent Sightings on Mental Health among Residents of New York City During the COVID-19 Pandemic.|https://dx.doi.org/10.1007/s11524-024-00847-x
-Democratic quality and excess mortality during the COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-024-55523-6
-Bat species assemblage predicts coronavirus prevalence.|https://dx.doi.org/10.1038/s41467-024-46979-1
-Strategies for prevention and treatment of SARS-COV-2 infection in patients with chronic kidney disease: Literature review.|https://dx.doi.org/10.1016/j.nefroe.2024.03.010
-Children and adolescents weathering the storm: Resilience in the presence of bullying victimization, harassment, and pandemic lockdown in northern Norway.|https://dx.doi.org/10.1111/sjop.13012
-Assessing the emergence time of SARS-CoV-2 zoonotic spillover.|https://dx.doi.org/10.1371/journal.pone.0301195
-Patterns of sex behaviors and factors associated with condomless anal intercourse during the COVID-19 pandemic among men who have sex with men in Hong Kong: A cross-sectional study.|https://dx.doi.org/10.1371/journal.pone.0300988
-Functional Limitations and Exercise Intolerance in Patients With Post-COVID Condition: A Randomized Crossover Clinical Trial.|https://dx.doi.org/10.1001/jamanetworkopen.2024.4386
-Severity of Respiratory Syncytial Virus vs COVID-19 and Influenza Among Hospitalized US Adults.|https://dx.doi.org/10.1001/jamanetworkopen.2024.4954
-Evolving Epidemiology of Pediatric Respiratory Syncytial Virus (RSV) Cases Around COVID-19 Pandemic: Impact and Clinical Insights, Retrospective Cohort Study.|https://dx.doi.org/10.1007/s44197-024-00218-4
-Ursodeoxycholic acid may protect from severe acute respiratory syndrome coronavirus 2 Omicron variant by reducing angiotensin-converting enzyme 2.|https://dx.doi.org/10.1002/prp2.1194
-Inhibition of the RLR signaling pathway by SARS-CoV-2 ORF7b is mediated by MAVS and abrogated by ORF7b-homologous interfering peptide.|https://dx.doi.org/10.1128/jvi.01573-23
-Dexamethasone treatment for COVID-19 is related to increased mortality in hematologic malignancy patients: results from the EPICOVIDEHA Registry.|https://dx.doi.org/10.3324/haematol.2023.284678
-Breast cancer (BC) and severe COVID-19 (C-19) outcomes: a matched analysis.|https://dx.doi.org/10.1007/s10549-024-07301-1
-Effectiveness and safety of COVID-19 vaccines on maternal and perinatal outcomes: a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjgh-2023-014247
-Substance use and adolescent mental health during the COVID-19 pandemic in Brazil: a longitudinal approach.|https://dx.doi.org/10.1016/j.jped.2024.01.005
-Potential Convergence of Olfactory Dysfunction in Parkinson's Disease and COVID-19: The Role of Neuroinflammation.|https://dx.doi.org/10.1016/j.arr.2024.102288
-Toll like receptor 4 mediates the inhibitory effect of SARS-CoV-2 spike protein on proximal tubule albumin endocytosis.|https://dx.doi.org/10.1016/j.bbadis.2024.167155
-Soft interface confined DNA walker for sensitive and specific detection of SARS-CoV-2 variants.|https://dx.doi.org/10.1016/j.talanta.2024.126009
-Long-term course of neutralising antibodies against SARS-CoV-2 in vaccinated and unvaccinated staff and residents in a Swiss nursing home: a cohort study 2021-2022.|https://dx.doi.org/10.57187/s.3502
-Use of complementary medicine and its association with SARS-CoV-2 vaccination during the COVID-19 pandemic: a longitudinal cohort study.|https://dx.doi.org/10.57187/s.3505
-Advances in the application of traditional Chinese medicine during the COVID-19 recovery period: A review.|https://dx.doi.org/10.1097/MD.0000000000037683
-Assessing New York City's COVID-19 Vaccine Rollout Strategy: A Case for Risk-Informed Distribution.|https://dx.doi.org/10.1007/s11524-024-00853-z
-An ELISA-Based Method to Measure Mucosal Antibody Responses Against SARS-CoV-2 in Human Saliva.|https://dx.doi.org/10.1002/cpz1.1024
-Nirmatrelvir and ritonavir combination against COVID-19 caused by omicron BA.2.2 in the elderly: A single-center large observational study.|https://dx.doi.org/10.1002/iid3.1232
-The Social Connectedness of Older Adults during the COVID-19 Pandemic: Evidence by Survey Mode and Respondent Dementia.|https://dx.doi.org/10.1093/geronb/gbae044
-Depression and anxiety between nurses and nursing assistants working in long-term care facilities during the COVID-19 pandemic.|https://dx.doi.org/10.1111/inr.12953
-Strategies for expanding childhood vaccination in the Americas following the COVID-19 pandemic.|https://dx.doi.org/10.26633/RPSP.2024.29
-Physical Activity and Psychological Wellbeing Among Healthcare Students During the COVID-19 Pandemic.|https://dx.doi.org/10.7759/cureus.55577
-Assessment of the Knowledge, Attitudes, and Practices of Indian Medical Students Towards Coronavirus Disease 2019 (COVID-19) After Two Doses of Vaccination and Their Approach Towards the Third (Booster) Dose.|https://dx.doi.org/10.7759/cureus.55588
-Management of Renal Cell Carcinoma With Supradiaphragmatic Inferior Vena Cava Thrombus Diagnosed During Acute COVID-19 Infection.|https://dx.doi.org/10.7759/cureus.55565
-Clinical and immunologic features of co-infection in COVID-19 patients, along with potential traditional Chinese medicine treatments.|https://dx.doi.org/10.3389/fimmu.2024.1357638
-DLD is a potential therapeutic target for COVID-19 infection in diffuse large B-cell lymphoma patients.|https://dx.doi.org/10.1007/s10495-024-01959-0
-COVID-19 surveillance in a bone marrow transplantation unit: experience from a Brazilian tertiary-care teaching hospital.|https://dx.doi.org/10.1007/s00520-024-08479-2
-Changes in the utilization of outpatient and visiting dental care and per-attendance care cost by age groups during COVID-19 pandemic waves in Japan: A time-series analysis from LIFE study.|https://dx.doi.org/10.2188/jea.JE20230323
-Approach to Intrapartum Fever During the COVID-19 Pandemic: A New York City Hospital Experience.|https://dx.doi.org/10.1016/j.ajic.2024.04.002
-Viral clearance as a surrogate of clinical efficacy for COVID-19 therapies in outpatients: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/S2666-5247(23)00398-1
-Perspectives on AI-based recommendations for mask-wearing and COVID-19 vaccination for transplant recipients in the post-COVID-19 era.|https://dx.doi.org/10.1080/0886022X.2024.2337291
-A novel KPC-166 in ceftazidime/avibactam resistant ST307 Klebsiella pneumoniae causing an outbreak in intensive care COVID Unit, Italy.|https://dx.doi.org/10.1016/j.jmii.2024.03.004
-Digital technology in maize nutrient management research in northern Nigeria amid COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-024-58740-1
-Adapting care provision in family practice during the COVID-19 pandemic: a qualitative study exploring the impact of primary care reforms in four Canadian regions.|https://dx.doi.org/10.1186/s12875-024-02356-x
-Quality improvement collaborative approach to COVID-19 pandemic preparedness in long-term care homes: a mixed-methods implementation study.|https://dx.doi.org/10.1136/bmjoq-2023-002589
-Swine acute diarrhea syndrome coronavirus nucleocapsid protein antagonizes the IFN response through inhibiting TRIM25 oligomerization and functional activation of RIG-I/TRIM25.|https://dx.doi.org/10.1186/s13567-024-01303-z
-Assessing antiviral treatment efficacy and risk factors for severe COVID-19 in kidney transplant recipients during the Omicron subvariant-dominant period: a retrospective study.|https://dx.doi.org/10.1186/s12882-024-03561-7
-Congenital anomalies during Covid-19: artifact of surveillance or a real TORCH?|https://dx.doi.org/10.1007/s10654-024-01122-8
-The laboratory parameters-derived CoLab score as an indicator of the host response in ICU COVID-19 patients decreases over time: a prospective cohort study.|https://dx.doi.org/10.1038/s41598-024-58727-y
-Impact of COVID-19 first wave on the mental health of healthcare workers in a Front-Line Spanish Tertiary Hospital: lessons learned.|https://dx.doi.org/10.1038/s41598-024-58884-0
-Where now for infection services in the NHS? How lessons from the pandemic should drive long-overdue integration of microbiology and infectious diseases.|https://dx.doi.org/10.7861/clinmed.2022-0251
-Evaluation of the utility of NEWS2 during the COVID-19 pandemic.|https://dx.doi.org/10.7861/clinmed.2022-news-covid
-A practical update on the management of patients with COVID-19.|https://dx.doi.org/10.7861/clinmed.2022-0080
-Long COVID-ACOEM Guidance Statement.|https://dx.doi.org/10.1097/JOM.0000000000003059
-Attitudes Toward COVID-19 Vaccines Among Pregnant and Recently Pregnant Individuals.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5479
-Long-Term Symptoms Associated With SARS-CoV-2 Infection Among Blood Donors.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5611
-Exploring viral aetiology in upper respiratory tract infections: insights from metagenomic next-generation sequencing in Swiss outpatients before and during the SARS-CoV-2 pandemic.|https://dx.doi.org/10.57187/s.3797
-Impact of age on the transmission of SARS-CoV-2 in healthcare workers : Influence of nonoccupational risk factors.|https://dx.doi.org/10.1007/s00508-024-02346-0
-Inhibition of influenza A virus and SARS-CoV-2 infection or co-infection by griffithsin and griffithsin-based bivalent entry inhibitor.|https://dx.doi.org/10.1128/mbio.00741-24
-Health Care Workers' Comfort Ratings for Elastomeric Half Mask Respirators Versus N95(®) Filtering Facepiece Respirators During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/21650799241238755
-Impact of the COVID-19 Pandemic on Blood Lead Testing in Children in the United States.|https://dx.doi.org/10.1089/pop.2023.0298
-Preparedness, response, and preventive behaviors for a pandemic disaster caused by COVID-19 among primary school students in Krabi province, Thailand.|https://dx.doi.org/10.32394/rpzh.2024.0291
-COVID-19 mortality in 1984 Bhopal gas tragedy survivors: implications for chemically exposed populations.|https://dx.doi.org/10.1093/trstmh/trae010
-Transient decline in abusive head trauma in children during the COVID-19 pandemic provides lessons for prevention.|https://dx.doi.org/10.1136/ebnurs-2024-103982
-The COVID-19 vaccination campaign in Switzerland and its impact on disease spread.|https://dx.doi.org/10.1016/j.epidem.2024.100745
-Impact of the COVID-19 outbreak and interventions on hand, foot and mouth disease in Zhengzhou, China, 2014-2022: a retrospective study.|https://dx.doi.org/10.1186/s12879-024-09244-w
-Factors affecting hand hygiene practice during the COVID-19 pandemic in the Zimbabwean population: a qualitative study.|https://dx.doi.org/10.1186/s12879-024-09277-1
-Neglecting students' socio-emotional skills magnified learning losses during the pandemic.|https://dx.doi.org/10.1038/s41539-024-00235-9
-Can communities be mobilised to build capacity to respond to the COVID-19 pandemic? A qualitative process evaluation.|https://dx.doi.org/10.1136/bmjopen-2023-078671
-A survey of state and local practices encouraging pediatric COVID-19 vaccination of children ages 6 months through 11 years.|https://dx.doi.org/10.1016/j.vaccine.2024.03.064
-A comparative analysis of knowledge, attitude, and practice (KAP) towards influenza and influenza vaccination among healthcare workers in Kyrgyzstan prior to and during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.vaccine.2024.04.008
-Risk perceptions and behaviors concerning rural tourism and economic-political drivers of COVID-19 policy in 2020.|https://dx.doi.org/10.1371/journal.pone.0299841
-Prediction of cross-border spread of the COVID-19 pandemic: A predictive model for imported cases outside China.|https://dx.doi.org/10.1371/journal.pone.0301420
-Efficacy of host cell serine protease inhibitor MM3122 against SARS-CoV-2 for treatment and prevention of COVID-19.|https://dx.doi.org/10.1128/jvi.01903-23
-Effectiveness and Implementation of a Text Messaging mHealth Intervention to Prevent Childhood Obesity in Mexico in the COVID-19 Context: Mixed Methods Study.|https://dx.doi.org/10.2196/55509
-Co-Morbidity Clusters in Post-COVID-19 Syndrome.|https://dx.doi.org/10.3390/jcm13051457
-A Longitudinal Study on the Effect of Exercise Habits on Locomotive Syndrome and Quality of Life during the Coronavirus Disease 2019 Pandemic.|https://dx.doi.org/10.3390/jcm13051385
-Prediction of deleterious non-synonymous SNPs of TMPRSS2 protein combined with Molecular Dynamics Simulations and free energy analysis to identify the potential peptide substrates against SARS-CoV-2.|https://dx.doi.org/10.1080/07391102.2024.2330710
-Impact of COVID-19 Infections among Unvaccinated Patients with Congenital Heart Disease: Results of a Nationwide Analysis in the First Phase of the Pandemic.|https://dx.doi.org/10.3390/jcm13051282
-Distinct patterns of SARS-CoV-2 BA.2.87.1 and JN.1 variants in immune evasion, antigenicity, and cell-cell fusion.|https://dx.doi.org/10.1128/mbio.00751-24
-The potentiality of bacteria to drive SARS-CoV-2 mutation.|https://dx.doi.org/10.1128/mbio.00539-24
-Upward trends in eating disorders, self-harm, and suicide attempt emergency admissions in female adolescents after COVID-19 lockdown.|https://dx.doi.org/10.1016/j.sjpmh.2023.09.003
-Real-world experience of Fuzheng Yiqing granule as chemoprophylaxis against COVID-19 infection among close contacts: A prospective cohort study.|https://dx.doi.org/10.1111/jebm.12591
-Building confidence in the COVID-19 vaccine in a polio-endemic country: strategic communication lessons from Pakistan.|https://dx.doi.org/10.1136/bmjgh-2024-015200
-COVID-19 Vaccine Injury Compensation Program: Lessons Learned From a Review of 10 Implementing Countries.|https://dx.doi.org/10.3346/jkms.2024.39.e121
-Prevalence and Associated Factors of Depression and Anxiety Among Healthcare Workers During the Coronavirus Disease 2019 Pandemic: A Nationwide Study in Korea.|https://dx.doi.org/10.3346/jkms.2024.39.e120
-Design and Validation of a Health Literacy Assessment Tool for COVID-19 Among Iranian Workers.|https://dx.doi.org/10.3928/24748307-20240321-01
-Unmasking the mental health scars of COVID-19: A longitudinal investigation of children and adolescents in post-lockdown China.|https://dx.doi.org/10.1016/j.bbi.2024.04.003
-Association of circulating biomarkers with illness severity measures differentiates myalgic encephalomyelitis/chronic fatigue syndrome and post-COVID-19 condition: a prospective pilot cohort study.|https://dx.doi.org/10.1186/s12967-024-05148-0
-COVID-19 fatality and DALYs, and associated metabolic disorders and ambient air pollutants in pre-Omicron era of the pandemic: an international comparative study.|https://dx.doi.org/10.1265/ehpm.23-00350
-COVID-19 vaccine efficacy in participants with weakened immune systems from four randomized-controlled trials.|https://dx.doi.org/10.1093/cid/ciae192
-Social support and suicidality during the COVID-19 pandemic among Brazilian healthcare workers: a longitudinal assessment of an online repeated cross-sectional survey.|https://dx.doi.org/10.47626/1516-4446-2023-3466
-Race, Ethnicity, and Delayed Time to COVID-19 Testing Among US Health Care Workers.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5697
-Risk of Potentially Preventable Hospitalizations After SARS-CoV-2 Infection.|https://dx.doi.org/10.1001/jamanetworkopen.2024.5786
-Economic Evaluation of COVID-19 Immunization Strategies: A Systematic Review and Narrative Synthesis.|https://dx.doi.org/10.1007/s40258-024-00880-6
-Interstitial macrophages are a focus of viral takeover and inflammation in COVID-19 initiation in human lung.|https://dx.doi.org/10.1084/jem.20232192
-COVID-19 and Atrial Fibrillation: Predicting to Prevent.|https://dx.doi.org/10.36660/abc.20230823
-Workplace interventions to reduce the risk of SARS-CoV-2 infection outside of healthcare settings.|https://dx.doi.org/10.1002/14651858.CD015112.pub3
-Enteric coronavirus nsp2 is a virulence determinant that recruits NBR1 for autophagic targeting of TBK1 to diminish the innate immune response.|https://dx.doi.org/10.1080/15548627.2024.2340420
-Burnout among diabetes specialist registrars across the United Kingdom in the post-pandemic era.|https://dx.doi.org/10.3389/fmed.2024.1367103
-Third-Degree Heart Block in COVID-19 Pneumonia Complicated by Methicillin-Resistant Staphylococcus Aureus (MRSA) Bacteremia. A Case Report and Review of Literature.|https://dx.doi.org/10.55729/2000-9666.1269
-Adaptative Strategy of Immunosuppressive Drugs Dosage Adjustments When Combined With Nirmatrelvir/Ritonavir in Solid Organ Transplant Recipients With COVID-19.|https://dx.doi.org/10.3389/ti.2024.12360
-Potential health risks to disinfection workers from exposure to active substances in COVID-19 biocidal products.|https://dx.doi.org/10.1016/j.heliyon.2024.e28249
-Network analysis for inter-relationships of the suboptimal health status with depression and anxiety during the COVID-19 pandemic: A perspective of predictive, preventive, and personalized health.|https://dx.doi.org/10.1016/j.jad.2024.04.032
-Evaluation of the SARS-CoV-2 RNA detection reagent LAMPdirect Genelyzer KIT using nasopharyngeal swab and saliva samples.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116297
-Pre-COVID-19-pandemic RSV epidemiology and clinical burden in pediatric primary care in Italy: a comparative analysis across two regions for the 2019/2020 season.|https://dx.doi.org/10.1186/s12879-024-09229-9
-An RNA-hydrolyzing recombinant minibody prevents both influenza A virus and coronavirus in co-infection models.|https://dx.doi.org/10.1038/s41598-024-52810-0
-Characterization of Brighton Collaboration criteria for myocarditis and pericarditis following COVID-19 vaccine in Korean adolescents.|https://dx.doi.org/10.1016/j.vaccine.2024.04.032
-COVID-19 vaccine uptake among non-US-born populations in the United States, 2020-2022.|https://dx.doi.org/10.1016/j.vaccine.2024.04.029
-Despite mandated primary series, health care personnel still hesitant about COVID-19 vaccine and immunizing children.|https://dx.doi.org/10.1016/j.vaccine.2024.04.028
-Association between household income and mental health among adults during the COVID-19 pandemic in Korea: Insights from a community health survey.|https://dx.doi.org/10.1371/journal.pone.0289230
-Assessing the impact of different contact patterns on disease transmission: Taking COVID-19 as a case.|https://dx.doi.org/10.1371/journal.pone.0300884
-Assessing Patterns of Telehealth Use Among People with Sickle Cell Disease Enrolled in Medicaid During the Start of the COVID-19 Pandemic.|https://dx.doi.org/10.1089/tmj.2023.0422
-Quality early childhood education and care in a time of COVID-19.|https://dx.doi.org/10.1177/1476718X231153105
-Topologies of power in China's grid-style social management during the COVID-19 pandemic.|https://dx.doi.org/10.1177/09670106221134968
-Assessing national action through emergency paid leave to mitigate the impact of COVID-19-related school closures on working families in 182 countries.|https://dx.doi.org/10.1177/14680181221123800
-Associations Between Children's Emotion Regulation, Mindful Parenting, Parent Stress, and Parent Coping During the COVID-19 Pandemic.|https://dx.doi.org/10.1177/10664807221123562
-Quality of COVID-19 information, education and communication materials in India: A content analysis.|https://dx.doi.org/10.1177/00178969231160952
-Adoption of Social Media during Covid-19 Pandemic by African Presidents: A Cross-Sectional Study of Selected Facebook Accounts.|https://dx.doi.org/10.1177/01968599221144314
-COVID-19 and Family Distancing Efforts: Contextual Demographic and Family Conflict Correlates.|https://dx.doi.org/10.1177/0192513X211055123
-COVID-19 Vaccine Uptake and Attitudes Within Two Cohorts of Younger Adult Cannabis Users.|https://dx.doi.org/10.1177/00220426221131488
-Towards digitally mediated social work - the impact of the COVID-19 pandemic on encountering clients in social work.|https://dx.doi.org/10.1177/14733250221075603
-Personalized Management of Fatigue in Individuals With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Long COVID Using a Smart Digital mHealth Solution: Protocol for a Participatory Design Approach.|https://dx.doi.org/10.2196/50157
-Gut Microbiota: A Potential Player in Psychiatric Symptoms during COVID-19.|https://dx.doi.org/10.1080/15622975.2024.2342846
-Paradigm Shift of Interventional Strategies and Outcomes for Acute Limb Ischemia Post-Pandemic.|https://dx.doi.org/10.1177/15266028241246162
-Mental health impact on healthcare workers from COVID-19 in Vietnam: Suggestions for a preventive program.|https://dx.doi.org/10.1111/inm.13335
-Excess mortality in Europe coincides with peaks of COVID-19, influenza and respiratory syncytial virus (RSV), November 2023 to February 2024.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.15.2400178
-Knowledge, attitude and preventive practice toward Covid-19 and associated factors among outpatients in a rural hospital in Vietnam.|https://dx.doi.org/10.1177/22799036241243269
-Intelligent diagnosis of the severity of disease conditions in COVID-19 patients based on the LASSO method.|https://dx.doi.org/10.3389/fpubh.2024.1302256
-Psychosocial risk profiles to address future health emergencies: a country study during the COVID-19 lockdown period in Colombia.|https://dx.doi.org/10.3389/fpubh.2024.1323490
-One-step and Rapid Identification of SARS-CoV-2 using Real-Time Reverse Transcription Loop-Mediated Isothermal Amplification (RT-LAMP).|https://dx.doi.org/10.18502/ajmb.v16i1.14165
-Evaluating the performance of selected military hospitals in Tehran in response to Covid-19 pandemic: A cross-sectional study.|https://dx.doi.org/10.1002/hsr2.2030
-A mini review of reinfection with the SARS-CoV-2 Omicron variant.|https://dx.doi.org/10.1002/hsr2.2016
-Outcome of lung transplantation in patients with pulmonary alveolar microlithiasis in the era of COVID-19 infection.|https://dx.doi.org/10.1093/jscr/rjae211
-Quality of Life of Chronic Heart Failure Patients During and After COVID-19: Observational Study Using EuroQoL-Visual Analogue Scales.|https://dx.doi.org/10.12659/MSM.943301
-A Case Report of Autoimmune Encephalitis after Anti-SARS-CoV-2 Vaccination: The Role of Cognitive Impairments in the Diagnostic Process.|https://dx.doi.org/10.1093/arclin/acae031
-Racial and Ethnic Disparities in Attendance to Well-Child Visit Recommendations during COVID-19.|https://dx.doi.org/10.1016/j.acap.2024.04.003
-Effectiveness of COVID-19 vaccines to prevent long COVID: data from Norway.|https://dx.doi.org/10.1016/S2213-2600(24)00082-1
-COVID-19-associated pulmonary aspergillosis (CAPA) in hematological patients: Could antifungal prophylaxis be necessary? A nationwide study.|https://dx.doi.org/10.1016/j.jiph.2024.04.005
-Religiosity of Latinas Living in the USA Curbs Depression and Anxiety During the COVID-19 Pandemic.|https://dx.doi.org/10.1007/s10943-024-02038-z
-Analyzing the Impact of Concomitant COVID-19 Infection on Outcomes in Trauma Patients.|https://dx.doi.org/10.1177/00031348241246176
-The Association between Lifestyle Factors and COVID-19: Findings from Qatar Biobank.|https://dx.doi.org/10.3390/nu16071037
-Vitamin D Supplementation in Neonatal and Infant MIS-C Following COVID-19 Infection.|https://dx.doi.org/10.3390/ijms25073712
-mRNA-LNP COVID-19 Vaccine Lipids Induce Complement Activation and Production of Proinflammatory Cytokines: Mechanisms, Effects of Complement Inhibitors, and Relevance to Adverse Reactions.|https://dx.doi.org/10.3390/ijms25073595
-COVID-19 and Tuberculosis: Mathematical Modeling of Infection Spread Taking into Account Reduced Screening.|https://dx.doi.org/10.3390/diagnostics14070698
-Pre-Exposure Prophylaxis and Treatment with Tixagevimab/Cilgavimab for COVID-19 among Immunocompromised Pediatric Patients.|https://dx.doi.org/10.3390/jcm13072029
-Impact of Home-Based Work during the COVID-19 Pandemic on Mental and Physical Health in a German Population-Based Sample.|https://dx.doi.org/10.3390/healthcare12070789
-Acceptance of a Future Gonorrhea Vaccine in a Post-Coronavirus Disease 2019 World: Impact of Type of Recommendation and Changing Levels of Trust in Health Institutions and Authorities.|https://dx.doi.org/10.1016/j.mcna.2023.06.010
-Heart Failure, the Global Pandemic: A Call to Action Consensus statement from the global presidential conclave at the Platinum Jubilee Conference of Cardiological Society of India 2023.|https://dx.doi.org/10.1016/j.ihj.2024.04.004
-Food insecurity and mental health among US adults during the COVID-19 pandemic: Results from National Health Interview Survey, 2020-2021.|https://dx.doi.org/10.1016/j.jad.2024.04.043
-Clinical validation of SARS-CoV-2 electrochemical immunosensor based on the spike-ACE2 complex.|https://dx.doi.org/10.1016/j.jviromet.2024.114940
-In vitro pharmacokinetic behavior in lung of harringtonine, an antagonist of SARS-CoV-2 associated proteins: New insights of inhalation therapy for COVID-19.|https://dx.doi.org/10.1016/j.phymed.2024.155582
-Impact of COVID-19 on arthritis with generative AI.|https://dx.doi.org/10.1016/j.intimp.2024.112032
+Extracellular Sombrero Vesicles are Hallmarks of Eosinophilic Cytolytic Degranulation in Tissue Sites of Human Diseases.|https://dx.doi.org/10.1093/jleuko/qiae079
+Off-Pump Coronary Artery Bypass Grafting Does Not Confer Superior Outcomes Among Frail Patients.|https://dx.doi.org/10.1016/j.amjcard.2024.03.017
+Outcomes after surgery for children in Africa (ASOS-Paeds): a 14-day prospective observational cohort study.|https://dx.doi.org/10.1016/S0140-6736(24)00103-X
+An Analysis of the Efficacy of Multilayered Repair and Reconstruction Using Combined Tissue Pedicle Flaps for Abdominal Wall Defects in Adult Bladder Exstrophy Patients.|https://dx.doi.org/10.1097/SAP.0000000000003844
+Quality of Life After Lower Leg Reconstruction With the Latissimus Dorsi Free Flap in Pediatric Patients.|https://dx.doi.org/10.1097/SAP.0000000000003812
+Endotension Following Endovascular Aneurysm Repair: Retrospective Review of Treatment and Clinical Outcome.|https://dx.doi.org/10.5758/vsi.230108
+Perioperative outcomes of ileorectal anastomosis - an analysis of 823 patients.|https://dx.doi.org/10.1111/codi.16958
+The influence of depression on clinical outcomes of total shoulder arthroplasty: a systematic Review.|https://dx.doi.org/10.1007/s00590-024-03911-z
+Ninety-day postoperative mortality and complications in continuous and unselected single-stage revisions for chronic periprosthetic joint infection.|https://dx.doi.org/10.1007/s00264-024-06152-1
+Laparoscopic Sac Disconnection and Peritoneal Closure of Pediatric Inguinal Hernia.|https://dx.doi.org/10.1089/lap.2023.0425
+Perioperative and Post-Hospital Whole-Course nutrition management in patients with pancreatoduodenectomy - a Single-Center prospective randomized controlled trial.|https://dx.doi.org/10.1097/JS9.0000000000001375
+Ocular Dirofilariasis in Migrant from Sri Lanka, Australia.|https://dx.doi.org/10.3201/eid3004.240125
+Prognostic value of poly-microorganisms detected by droplet digital PCR and pathogen load kinetics in sepsis patients: a multi-center prospective cohort study.|https://dx.doi.org/10.1128/spectrum.02558-23
+Acanthamoeba Infection and Nasal Rinsing, United States, 1994-2022.|https://dx.doi.org/10.3201/eid3004.231076
+Case Report of Nasal Rhinosporidiosis in South Africa.|https://dx.doi.org/10.3201/eid3004.240018
+Mycobacterial Endocarditis, A Rare Form of Infective Endocarditis.|https://dx.doi.org/10.24976/Discov.Med.202436182.41
+Comprehensive assessment of risk factors and pathogenic characteristics of wound infections following thoracoscopic radical resection for lung cancer.|https://dx.doi.org/10.1111/iwj.14830
+Effect of platelet-rich plasma on healing of lower extremity diabetic skin ulcers: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14856
+Lower Rates of Re-Operation Following Partial or Complete Revision Arthroplasty Compared to Debridement, Antibiotics, and Implant Retention for Early Postoperative and Acute Hematogenous Periprosthetic Hip Infection.|https://dx.doi.org/10.1016/j.arth.2024.03.054
+Emergency totally laparoscopic surgery for appendicitis in right Amyand's hernia associated to symptomatic left inguinal hernia: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.109542
+Risk of post-tonsillectomy hemorrhage among COVID-19 positive pediatric patients.|https://dx.doi.org/10.1016/j.ijporl.2024.111890
+Supraorbital keyhole approaches in the first 3 years of practice: outcomes and lessons learned. Patient series.|https://dx.doi.org/10.3171/CASE23744
+Use of nebulized liposomal amphotericin B and posaconazole as antifungal prophylaxis in patients with severe SARS-CoV2 infection in intensive care unit.|https://dx.doi.org/10.1007/s15010-024-02234-9
+Nonmetallic tension band fixation is a viable and low-complication surgical technique in patellar fractures: a five-year retrospective study.|https://dx.doi.org/10.1007/s00590-024-03887-w
+Dual and triple modulator therapy for chronic rhinosinusitis in cystic fibrosis patients.|https://dx.doi.org/10.4193/Rhin23.487
+Subperiosteal delivery of transforming growth factor beta 1 and human growth hormone from mineralized PCL films.|https://dx.doi.org/10.1002/jbm.a.37684
+Free flap reconstruction of elbow soft tissue defects: Lessons learned from 15 years of experience.|https://dx.doi.org/10.1002/micr.31163
+Does Recent COVID-19 Infection Impact Safety of Nasal Surgery?|https://dx.doi.org/10.1089/fpsam.2023.0352
+Association of Smokeless Tobacco and Complications Following Ankle and Hindfoot Arthrodesis.|https://dx.doi.org/10.1177/10711007241238213
+Skin grafting on amputated lower limb, norepinephrine-induced ischemic limb necrosis - case report.|https://dx.doi.org/10.48095/ccachp2023150
+Atypical hand foot and mouth disease related Coxsackievirus-A10 infection in an adult patient.|https://dx.doi.org/10.1016/j.tmaid.2024.102716
+Three Differing Methods of Treating Intraoperative Non-Displaced Calcar Fractures Demonstrate Similar Radiographic Stem Subsidence.|https://dx.doi.org/10.1016/j.arth.2024.03.049
+The effect of Unidirectional Airflow ventilation on Surgical Site Infection in Cardiac Surgery: environmental impact as a factor in the choice for Turbulent Mixed Airflow.|https://dx.doi.org/10.1016/j.jhin.2024.03.008
+Surgical Site Infections in Trauma Exploratory Laparotomies Preoperative Ceftriaxone and Metronidazole Versus Cefoxitin.|https://dx.doi.org/10.1177/00031348241241695
+Safety and feasibility of single-port nephroscopy combined with a needle electrode technique to treat dorsal SRCs.|https://dx.doi.org/10.1159/000538381
+Rapid detection of SARS-CoV-2 spike protein using a magnetic-assisted electrochemical biosensor based on functionalized CoFe(2)O(4) magnetic nanomaterials.|https://dx.doi.org/10.1016/j.talanta.2024.125986
+Calcinosis in systemic sclerosis: An update on pathogenesis, related complications, and management: A heavy burden still waiting to be lifted off patients' hands.|https://dx.doi.org/10.1016/j.semarthrit.2024.152431
+Eradication of Staphylococcus aureus in Implant-Associated Osteomyelitis by an Injectable in situ-Forming Depot Antibiotics Delivery System.|https://dx.doi.org/10.1093/infdis/jiae139
+Gut barrier dysfunction and the risk of ICU-acquired bacteremia- a case-control study.|https://dx.doi.org/10.1186/s13613-024-01280-8
+Vacuum-assisted mini-percutaneous nephrolithotomy is associated with lower rates of infectious complications compared to vacuum-cleaner procedure in patients at high risk for infections: a single-center experience.|https://dx.doi.org/10.1007/s00345-024-04897-3
+The Effectiveness of Perioperative Nursing Interventions for Surgical Site Infection Prevention in Orthopedic Surgery.|https://dx.doi.org/10.1002/aorn.14116
+Year-Over-Year Ventral Hernia Recurrence Rates and Risk Factors.|https://dx.doi.org/10.1001/jamasurg.2024.0233
+The real-time analysis of gastric juice (Endofaster) for detection of Helicobacter Pylori: a reliable tool in substitution of histology.|https://dx.doi.org/10.23736/S2724-5985.23.03480-0
+Sustaining the Continued Effectiveness of an Antimicrobial Stewardship Program in Preterm Infants.|https://dx.doi.org/10.3390/tropicalmed9030059
+Correlation between Oxidative Stress Markers and Periodontal Disease in Dogs.|https://dx.doi.org/10.3390/vetsci11030099
+Real-Life Treatment Outcome of Botulinum Toxin A Injection on Overactive Bladder and Voiding Dysfunction in Patients with Central Nervous System Lesions.|https://dx.doi.org/10.3390/toxins16030123
+Brucellar Endocarditis of the Tricuspid Valve: A Case Report and Review of the Literature.|https://dx.doi.org/10.3390/pathogens13030239
+Comparative evaluation of volumetric changes between two pediatric rotary files (Kedo-S plus, Kedo-SG blue) and manual files (hand K-files) during canal preparation of primary mandibular molars: an in-vitro nano-CT analysis.|https://dx.doi.org/10.22514/jocpd.2024.033
+[Application of uniportal video-assisted thoracoscopic surgery in the treatment of tuberculous destroyed lung].|https://dx.doi.org/10.3760/cma.j.cn112139-20230706-00259
+[Technical exploration and early results of two-port total thoracoscopic aortic-mitral double-valve replacement].|https://dx.doi.org/10.3760/cma.j.cn112139-20231110-00221
+Deap-seated infection and nonunion following internal fixation for Charcot foot deformity correction. A proportional meta-analysis of level 4 evidence.|https://dx.doi.org/10.1016/j.jos.2024.03.004
+[Clinical effects of flaps or myocutaneous flaps transplantation after titanium mesh-retaining debridement in repairing the wounds with exposed titanium mesh after cranioplasty].|https://dx.doi.org/10.3760/cma.j.cn501225-20231031-00163
+[Clinical characteristics of 11 patients with Vibrio vulnificus infection and the establishment of a rapid diagnosis procedure for this disease].|https://dx.doi.org/10.3760/cma.j.cn501225-20230803-00036
+How to reduce anterior resection syndrome and post-operative complication after rectosigmoid resection.|https://dx.doi.org/10.1136/ijgc-2024-005306
+Clostridium difficile Infection Prior to Total Hip Arthroplasty Independently Increases the Risk of Periprosthetic Joint Infection.|https://dx.doi.org/10.1016/j.arth.2024.03.058
+Debridement, Antibiotics, and Implant Retention in Unicompartmental Knee Arthroplasty Infection.|https://dx.doi.org/10.1016/j.arth.2024.03.057
+Latent class analysis of chest CT abnormalities to define subphenotypes in patients with MPO-ANCA-positive microscopic polyangiitis.|https://dx.doi.org/10.1016/j.rmed.2024.107613
+Reverse Shoulder Arthroplasty or Nothing for Patients with Displaced Proximal Humeral Fractures. A Randomized Controlled Trial.|https://dx.doi.org/10.1016/j.jse.2024.02.023
+Recent advances towards point-of-care devices for fungal detection: Emphasizing the role of plasmonic nanomaterials in current and future technologies.|https://dx.doi.org/10.1016/j.bios.2024.116243
+Epidemiological and clinical insights into the enterovirus D68 upsurge in Europe 2021/22 and the emergence of novel B3-derived lineages, ENPEN multicentre study.|https://dx.doi.org/10.1093/infdis/jiae154
+Potentiation of Brain Bioavailability Using Thermoreversible Cubosomal Formulation.|https://dx.doi.org/10.1021/acs.molpharmaceut.4c00085
+Clinical and radiological septic joint analysis of spontaneous sternoclavicular joint infections: Achieving the best Outcomes- A systems engineering approach.|https://dx.doi.org/10.1093/ejcts/ezae128
+Update and approach to patients with brain abscess.|https://dx.doi.org/10.1097/QCO.0000000000001014
+OXIDATIVE study: A pilot prospective observational cohort study protocol examining the influence of peri-reperfusion hyperoxemia and immune dysregulation on early allograft dysfunction after orthotopic liver transplantation.|https://dx.doi.org/10.1371/journal.pone.0301281
+A wireless, implantable bioelectronic system for monitoring urinary bladder function following surgical recovery.|https://dx.doi.org/10.1073/pnas.2400868121
+The role of diabetic foot treatment in improving left ventricular function: Insights from global longitudinal strain echocardiography.|https://dx.doi.org/10.1371/journal.pone.0299887
+Differential diagnosis between kaposi sarcoma-associated herpesvirus cytokine syndrome and hemophagocytic lymphohistiocytosis.|https://dx.doi.org/10.1007/s15010-024-02252-7
+Energy-Based Devices for the Treatment of Cutaneous Verrucae: A Systematic Review.|https://dx.doi.org/10.1097/DSS.0000000000004069
+Effectiveness and safety of CT-guided drainage of abdominal abscesses with small and extra-small-bore drains: a single-centre observational study.|https://dx.doi.org/10.5114/pjr.2024.136420
+Intranasal boosting with RBD-HR protein vaccine elicits robust mucosal and systemic immune responses.|https://dx.doi.org/10.1016/j.gendis.2023.06.035
+Non-antigen-specific Immunoadsorption Is a Risk Factor for Severe Postoperative Infections in ABO-Incompatible Kidney Transplant Recipients.|https://dx.doi.org/10.3389/ti.2024.12263
+Unveiling a Coalescing Catastrophe: Pre-pyloric Perforation Co-existing With Sigmoid Volvulus in a Middle-Aged Patient.|https://dx.doi.org/10.7759/cureus.55042
+Necrotizing Parasagittal Meningioma in Patient with Systemic Lupus Erythematosus after Treatments with Methotrexate and Hydroxychloroquine.|https://dx.doi.org/10.1055/a-2277-4296
+Basal cell carcinoma-a clinical indicator of immunosuppression.|https://dx.doi.org/10.3389/fmed.2024.1381492
+Surgical Management and Clinical Outcomes of Extracranial Carotid Artery Pseudoaneurysms.|https://dx.doi.org/10.7812/TPP/23.090
+[Minimally invasive removal of dumbbell shaped schwannomas with transforaminal lumbar fusion: a retrospective study with a minimum 3-year follow-up].|https://dx.doi.org/10.17116/neiro20248802147
+Utilizing Video-Assisted Retroperitoneal Debridement for Retroperitoneal Abscess Following Penetrating Trauma.|https://dx.doi.org/10.1177/00031348241241651
+The impact of preoperative biliary drainage on postoperative healthcare-associated infections and clinical outcomes following pancreaticoduodenectomy: a ten-year retrospective analysis.|https://dx.doi.org/10.1186/s12879-024-09246-8
+Impact of Preformed Donor-specific Antibodies in Comparison to ABO Incompatibility in Living Donor Liver Transplantation: A Propensity Score-Matched Analysis.|https://dx.doi.org/10.1097/TP.0000000000005019
+The usability and outcomes of self-monitored surgical wound healing using a smartphone based application by patients following neurosurgery.|https://dx.doi.org/10.1016/j.jhin.2024.03.011
+BISHOP FLAP AND SIGMA FLAP TO REPAIR SURGICAL DEFECTS IN HIGH-TENSION ANATOMICAL REGIONS.|https://dx.doi.org/10.1016/j.ad.2024.03.022
+Clinical characteristics and risk factors for septic shock in patients with pyometra: A retrospective multicenter cohort study.|https://dx.doi.org/10.1016/j.jiph.2024.03.019
+Modified FOLFIRINOX (mFOLFIRINOX) as neoadjuvant therapy and 'salvage' in patients with high risk locally advanced rectal cancers - tolerance and early outcomes.|https://dx.doi.org/10.4103/jcrt.jcrt_225_22
+Robotic repair of moderate-sized midline ventral hernias reduced complications, readmissions, and length of hospitalization compared to open techniques.|https://dx.doi.org/10.1007/s11701-024-01909-7
+Utilization of immediate extubation in a multidisciplinary pathway for pediatric liver transplantation associated with improved postoperative outcomes.|https://dx.doi.org/10.1111/petr.14722
+Abdominal abscess caused by Raoultella ornithinolytica secondary to postoperative gastric fistula: case report and review of literature.|https://dx.doi.org/10.1186/s12879-024-09234-y
+Gasdermin D promotes influenza virus-induced mortality through neutrophil amplification of inflammation.|https://dx.doi.org/10.1038/s41467-024-47067-0
+Computed Tomography Angiography After Transcatheter and Surgical Aortic Interventions.|https://dx.doi.org/10.1016/j.rcl.2024.02.002
+Role of Radiology in Assessment of Postoperative Complications of Heart Transplantation.|https://dx.doi.org/10.1016/j.rcl.2023.12.002
+The Role of Microsurgery in Coverage of Defects of the Hand.|https://dx.doi.org/10.1016/j.hcl.2023.10.003
+Protective mucosal SARS-CoV-2 antibodies in the majority of the general population in the Netherlands.|https://dx.doi.org/10.1016/j.mucimm.2024.03.008
+Asthma loss of control after switch from anti-IL5/5R drugs to dupilumab in severe eosinophilic asthma: a case series.|https://dx.doi.org/10.1016/j.jaip.2024.03.037
+Minimally Invasive Approaches to Mitral Valve Surgery: Where Are We Now? A Narrative Review.|https://dx.doi.org/10.1016/j.cjca.2024.03.017
+Secondary attack rates and determinants of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) household transmission in Pakistan: A case-ascertained prospective, longitudinal study.|https://dx.doi.org/10.1016/j.jiph.2024.03.024
+Arthrodesis of distal interphalangeal and thumb interphalangeal joint: a retrospective cohort study of 149 cases.|https://dx.doi.org/10.1186/s12891-024-07361-w
+The success rates and outcomes of mandibular third molar coronectomy: 167 cases.|https://dx.doi.org/10.1007/s10006-024-01244-z
+Health Disparities in Patients With Musculoskeletal Injuries: Food Insecurity Is a Common and Clinically Challenging Problem.|https://dx.doi.org/10.1097/CORR.0000000000003055
+Mediastinal Nontuberculous Mycobacterial Infection in Children: A Multidisciplinary Approach.|https://dx.doi.org/10.1097/INF.0000000000004315
+Emerging Clinical Features of Acute Mastoiditis in Israel: A Registry Based Cohort.|https://dx.doi.org/10.1097/INF.0000000000004325
+Septic Shock After Endoscopic Sleeve Gastroplasty: A Post-procedural Complication?|https://dx.doi.org/10.1007/s11695-024-07198-1
+Surgical outcomes of endoscopic enucleation of the prostate in community aging males with or without preoperative urinary retention.|https://dx.doi.org/10.1007/s11255-024-04007-7
+Factors affecting graft healing in laryngotracheal reconstruction: a retrospective single-center experience.|https://dx.doi.org/10.1007/s00405-024-08611-2
+Paraspinous Muscle Flaps in Complex Pediatric Spine Surgeries: A 12-Year Single Institution Experience.|https://dx.doi.org/10.1097/SAP.0000000000003888
+Outcomes of Dermal Regeneration Templates in Irradiated and Nonirradiated Scalp Defects.|https://dx.doi.org/10.1097/SCS.0000000000010097
+[Clinical, therapeutic and pathophysiological aspects of Darier's disease].|https://dx.doi.org/10.53738/REVMED.2024.20.867.659
+Early and late outcomes of congenital biliary dilatation in pediatric patients.|https://dx.doi.org/10.1111/ped.15712
+UK national survey on surgical gowning for tonsillectomy.|https://dx.doi.org/10.1017/S0022215124000331
+Bacterial contamination of surgical gloves during clean orthopedic surgery.|https://dx.doi.org/10.1017/ice.2024.49
+Clinical presentation and treatment of 26 spinal epidural arteriovenous fistulas: a single-center experience.|https://dx.doi.org/10.1136/jnis-2024-021471
+Early Outcomes From a Multicenter Transcatheter Self-Expanding Pulmonary Valve Replacement Registry.|https://dx.doi.org/10.1016/j.jacc.2024.02.010
+Surgeon Preference Regarding Wound Dressing Management in Lumbar Fusion Surgery: An AO Spine Global Cross-Sectional Study.|https://dx.doi.org/10.14245/ns.2347168.584
+Incidence and Risk Factors for Acid-fast Bacillus/Fungal Culture Positivity in Primary, Conversion, and Revision Hip and Knee Arthroplasty.|https://dx.doi.org/10.5435/JAAOS-D-23-00980
+Clinical and ultrasound features of 46 children with suppurative osteoarthritis: experience from two centers.|https://dx.doi.org/10.1186/s13018-024-04563-9
+Next-generation microbiological testing in intraabdominal infections with PCR technology.|https://dx.doi.org/10.1007/s00423-024-03298-9
+Poor association between 13-valent pneumococcal conjugate vaccine-induced serum and mucosal antibody responses with experimental Streptococcus pneumoniae serotype 6B colonisation.|https://dx.doi.org/10.1016/j.vaccine.2024.03.055
+Robot-assisted versus laparoscopic pancreatoduodenectomy: a pan-European multicenter propensity-matched study.|https://dx.doi.org/10.1016/j.surg.2024.02.015
+Two-phase mechanism in the treatment of corneal stromal fibrosis with topical losartan.|https://dx.doi.org/10.1016/j.exer.2024.109884
+Surgical site infection following isolated lumbar discectomy increases odds of revision lumbar surgery within first 6 months, but not beyond.|https://dx.doi.org/10.1016/j.spinee.2024.03.017
+Early outcomes and complications of surgically treated diabetic hallucal infection.|https://dx.doi.org/10.1016/j.avsg.2024.01.001
+Association Between Body Mass Index, Obesity, and Clinical Outcomes Following Coronary Artery Bypass Grafting in Brazil: An Analysis of One Year of Follow-up of BYPASS Registry Patients.|https://dx.doi.org/10.21470/1678-9741-2023-0133
+Maternal outcomes of planned mode of delivery for term breech in nulliparous women.|https://dx.doi.org/10.1371/journal.pone.0297971
+Peritoneal flap technique for abdominal wall expansion in the management of complex ventral hernias: a multicentre study from India.|https://dx.doi.org/10.1007/s10029-024-02993-2
+Chapare virus infection and current perspectives on dentistry.|https://dx.doi.org/10.1007/s00784-023-05399-z
+Incidence and associated factors of surgical site infection in patients undergoing foot and ankle surgery: a 7-year cohort study.|https://dx.doi.org/10.1016/j.foot.2024.102092
+Retrospective study on unilateral polyotia combined with microtia utilizing the technique of preserving residual ear tissue.|https://dx.doi.org/10.1016/j.bjps.2024.03.008
+Impact of Whole Genome Sequencing to investigate transmission of Serratia marcescens in Neonatal Intensive Care Unit.|https://dx.doi.org/10.1016/j.jiph.2024.03.025
+Acute invasive fungal sinusitis with orbital tip syndrome in patients on long-term use of ruxolitinib: a case report.|https://dx.doi.org/10.1186/s13256-024-04486-3
+Formulation of Metoclopramide Hydrochloride-Loaded Lipid Carriers by QbD Approach for Combating Nausea: Safety and Bioavailability Evaluation in New Zealand Rabbit.|https://dx.doi.org/10.1208/s12249-024-02791-0
+Transmucosal Delivery of Peptides and Proteins Through Nanofibers: Current Status and Emerging Developments.|https://dx.doi.org/10.1208/s12249-024-02794-x
+Rotavirus vaccine dose-two dropout and its associated factors among children who received rotavirus vaccine dose-one in Sub-Saharan African countries: A multilevel analysis of the recent demographic and health survey.|https://dx.doi.org/10.1080/21645515.2024.2335730
+A Systematic Review and Meta-analysis of the Impact of Local Therapies on Local Event Suppression in Metastatic Hormone-sensitive Prostate Cancer.|https://dx.doi.org/10.1016/j.euo.2024.03.007
+Probiotics-A Promising Novel Therapeutic Approach in the Management of Chronic Liver Diseases.|https://dx.doi.org/10.1089/jmf.2023.K.0129
+Comparison of COVID-19 Symptoms in Correctional Health Care Workers During the Initial and Omicron Surges.|https://dx.doi.org/10.1089/jchc.23.09.0072
+Respiratory syncytial virus vs. Influenza virus infection: mortality and morbidity comparison over 7 epidemic seasons in an elderly population.|https://dx.doi.org/10.1093/infdis/jiae171
+Vitamin D Deficiency Leads to Poorer Health Outcomes and Greater Length of Stay After Total Knee Arthroplasty and Supplementation Improves Outcomes: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2106/JBJS.RVW.23.00150
+Radical sternectomy for osteomyelitis without reconstruction post-coronary artery bypass graft: 10 years on.|https://dx.doi.org/10.12968/jowc.2024.33.Sup4.S22
+Development of postoperative bronchopleural fistula after neoadjuvant immunochemotherapy in non-small cell lung cancer: case reports and review of the literature.|https://dx.doi.org/10.1007/s00432-024-05683-9
+The role of vasculature and angiogenesis in respiratory diseases.|https://dx.doi.org/10.1007/s10456-024-09910-2
+CNS Viral Infections-What to Consider for Improving Drug Treatment: A Plea for Using Mathematical Modeling Approaches.|https://dx.doi.org/10.1007/s40263-024-01082-3
+Consensus of the Brazilian association of hematology, hemotherapy and cellular therapy on patient blood management: Assessment and management of postoperative anemia.|https://dx.doi.org/10.1016/j.htct.2024.02.014
+Hepatopancreaticobiliary Resection Arginine Immunomodulation (PRIMe) trial: protocol for a randomised phase II trial of the impact of perioperative immunomodulation on immune function following resection for hepatopancreaticobiliary malignancy.|https://dx.doi.org/10.1136/bmjopen-2023-072159
+Curcumin-loaded mesoporous polydopamine nanoparticles modified by quaternized chitosan against bacterial infection through synergistic effect.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131372
+Immunoglobulin G4-related disease and B-cell malignancy due to an IKZF1 gain-of-function variant.|https://dx.doi.org/10.1016/j.jaci.2024.03.018
+Commentary on ''A Risk Score for Predicting the Necessity of Surgical Necrosectomy in the Treatment of Infected Necrotizing Pancreatitis''.|https://dx.doi.org/10.1016/j.gassur.2024.03.030
+A nursing report on a corneal contact lens wearer receiving keratoplasty due to corneal ulcer and perforation caused by Pythium insidiosum infection: A case report.|https://dx.doi.org/10.1097/MD.0000000000037663
+Microwave ablation for diffuse adenomyosis leading to multiple complications after hysterectomy: A case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000037701
+Chlamydia trachomatis and Neisseria gonorrhoeae rectal infections: Interplay between rectal microbiome, HPV infection and Torquetenovirus.|https://dx.doi.org/10.1371/journal.pone.0301873
+New surgery and hospital-diagnosed infections in elderly patients with inflammatory bowel disease undergoing surgery - a nationwide cohort study.|https://dx.doi.org/10.1093/ecco-jcc/jjae047
+Risk of complications and implant survival of surgical treatment of proximal femoral metastasis: a meta-analysis.|https://dx.doi.org/10.1007/s00590-024-03930-w
+Ultrasonographic findings of fluid accumulation and hyperechogenic spots suggestive of surgical site infection following laparotomy for colic in horses.|https://dx.doi.org/10.1002/vetr.4045
+All-inside endoscopic semiautomatic running locked stitch technique shows favourable outcomes for acute Achilles tendon ruptures.|https://dx.doi.org/10.1002/ksa.12177
+Efficacy analysis of clinical serological indicators in the diagnosis of postoperative periprosthetic joint infection in patients with rheumatoid arthritis or osteoarthritis.|https://dx.doi.org/10.1007/s00264-024-06171-y
+Intranasal Delivery of Carvedilol- and Quercetin-Encapsulated Cationic Nanoliposomes for Cardiovascular Targeting: Formulation and In Vitro and Ex Vivo Studies.|https://dx.doi.org/10.1021/acsabm.4c00102
+Invited commentary: Ileosigmoid knotting-bowel obstruction with confusing clinical picture.|https://dx.doi.org/10.1002/wjs.12176
+Prescription opioid use increases resource utilization following ventral hernia repair.|https://dx.doi.org/10.1016/j.gassur.2024.01.030
+Surgical excision of acquired urethral diverticulum and single-stage urethroplasty for a 32-year-old male. Case report and literature review.|https://dx.doi.org/10.1016/j.ijscr.2024.109614
+Acute gastric dilatation with segmented abdominal paresis as a rare manifestation of herpes zoster: a case report and review of the literature.|https://dx.doi.org/10.1186/s13256-024-04487-2
+Giardia telomeres and telomerase.|https://dx.doi.org/10.1007/s00436-024-08200-6
+Chronic stridor in a toddler after ingestion of a discharged button battery: a case report.|https://dx.doi.org/10.1186/s12887-024-04730-1
+Surgical management of multiple coronary artery to coronary sinus fistulas with giant left circumflex artery and multivalvular infective endocarditis.|https://dx.doi.org/10.1186/s13019-024-02657-3
+Radiological follow-up of cemento-osseous dysplasia on cone-beam computed tomography.|https://dx.doi.org/10.1016/j.jcms.2024.03.008
+Lower Insertional Torque of Fixation Screws for Mandibular Angle Fractures Is Associated With Complications.|https://dx.doi.org/10.1016/j.joms.2024.03.012
+In reply to the Letter to the Editor regarding "Clinical efficacy of cefiderocol-based regimens in patients with carbapenem-resistant Acinetobacter baumannii infections: A systematic review with meta-analysis".|https://dx.doi.org/10.1016/j.ijantimicag.2024.107168
+The use of uncemented stems in femoral neck fractures in elderly patients: A comparative study of 671 cases.|https://dx.doi.org/10.1016/j.otsr.2024.103878
+Factors Associated with Urgent Amputation Status and Its Impact on Mortality.|https://dx.doi.org/10.1016/j.avsg.2023.12.093
+Long-term Tunneled Hemodialysis Catheters: Achieving Efficiency through Tip Position Optimization.|https://dx.doi.org/10.1016/j.avsg.2024.01.018
+Association of empiric antibiotic selection and clinical outcomes in hospitalised children with severe orbital infections: a retrospective cohort study.|https://dx.doi.org/10.1136/archdischild-2023-326175
+Pulmonary mucormycosis diagnosed by ultrasound guided percutaneous biopsy: A case series.|https://dx.doi.org/10.1016/j.ijtb.2023.10.001
+The Management of Aneurysmal Degeneration of Lower Extremity Cryopreserved Saphenous Vein Bypass Grafts.|https://dx.doi.org/10.1016/j.avsg.2024.02.002
+The use of positive deviance approach to improve health service delivery and quality of care: a scoping review.|https://dx.doi.org/10.1186/s12913-024-10850-2
+The efficacy and safety of different does of intravenous tranexamic acid on blood loss in fresh foot and ankle fractures: a prospective, randomized controlled study.|https://dx.doi.org/10.1186/s12891-024-07410-4
+Clinical outcomes of liver transplantation in human immunodeficiency virus/hepatitis B virus coinfected patients in China.|https://dx.doi.org/10.1186/s12879-024-09284-2
+Incipient tuberculosis: a comprehensive overview.|https://dx.doi.org/10.1007/s15010-024-02239-4
+Large-scale phenotyping of patients with long COVID post-hospitalization reveals mechanistic subtypes of disease.|https://dx.doi.org/10.1038/s41590-024-01778-0
+Closed incision negative pressure therapy use as a strategy to reduce sternal wound infection in identified high-risk patients: A multicentre propensity-matched study.|https://dx.doi.org/10.1093/icvts/ivae056
+Surgical Antimicrobial Prophylaxis Compliance in Turkey: Data from the Prospective, Observational, Multicenter Survey Including 7,978 Surgical Patients.|https://dx.doi.org/10.1089/sur.2023.243
+Real-World Evidence of the Impact of a Novel Surgical Irrigant on Surgical Site Infections in Primary Total Knee Arthroplasty Performed at an Ambulatory Surgery Center.|https://dx.doi.org/10.1089/sur.2023.304
+Preoperative nutrition therapy in people undergoing gastrointestinal surgery.|https://dx.doi.org/10.1002/14651858.CD008879.pub3
+Comparison of outcomes in patients with and without neurologic diseases undergoing holmium laser enucleation of the prostate.|https://dx.doi.org/10.5489/cuaj.8683
+Innovative Percutaneous 3 Stitch Suture Technique for Site Closure in Venoarterial Extracorporeal Membrane Oxygenation Decannulation Without Direct Artery Repair: A Case Series.|https://dx.doi.org/10.1097/MAT.0000000000002198
+Surgical Procedures of the Correction of Severe Static Glabellar Lines by Utilizing Resection with Free Dermal Fat Grafting (FDFG).|https://dx.doi.org/10.1007/s00266-024-03984-5
+Nafamostat mesylate decreases skin flap necrosis in a mouse model of type 2 diabetes by protecting the endothelial glycocalyx.|https://dx.doi.org/10.1016/j.bbrc.2024.149843
+Association of preoperative coronavirus disease 2019 with mortality, respiratory morbidity and extrapulmonary complications after elective, noncardiac surgery: An observational cohort study.|https://dx.doi.org/10.1016/j.jclinane.2024.111467
+Decoding spatiotemporal transcriptional dynamics and epithelial fibroblast crosstalk during gastroesophageal junction development through single cell analysis.|https://dx.doi.org/10.1038/s41467-024-47173-z
+Bartonella henselae Infection May Occasionally Distract Immune Control of Latent Human Herpesviruses.|https://dx.doi.org/10.12788/cutis.0976
+Assessing the utility of natural language processing for detecting postoperative complications from free medical text.|https://dx.doi.org/10.1093/bjsopen/zrae020
+Clinical Outcomes of Maxillary Sinus Floor Perforation by Dental Implants and Sinus Membrane Perforation during Sinus Augmentation: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm13051253
+Pros and Cons of Minimally Invasive Spine Surgery.|https://dx.doi.org/10.1007/978-3-031-53578-9_9
+Integra(®) Dermal Regeneration Template in Complex Scalp Reconstruction.|https://dx.doi.org/10.3390/jcm13051511
+A systematic review and meta-analysis of short-term outcomes comparing the efficacy of robotic versus laparoscopic colorectal surgery in obese patients.|https://dx.doi.org/10.1007/s11701-024-01934-6
+Orchestrating Resilience: How Neuropilin-2 and Macrophages Contribute to Cardiothoracic Disease.|https://dx.doi.org/10.3390/jcm13051446
+Mesh Rectopexy or Resection Rectopexy for Rectal Prolapse; Is There a Gold Standard Method: A Systematic Review, Meta-Analysis and Trial Sequential Analysis.|https://dx.doi.org/10.3390/jcm13051363
+A Prospective Study on the Progression, Recurrence, and Regression of Cervical Lesions: Assessing Various Screening Approaches.|https://dx.doi.org/10.3390/jcm13051368
+Treatment of Schatzker Type VI Tibia Fractures Using Circular External Fixation: State of the Art, Surgical Technique and Results.|https://dx.doi.org/10.3390/jcm13051249
+Home nursing and self-administered outpatient parenteral antimicrobial treatment: a comparison of demographics and outcomes from a large regional hospital in Queensland, Australia.|https://dx.doi.org/10.1111/imj.16394
+Recent Insights Into Native Valve Infective Endocarditis: JACC Focus Seminar 4/4.|https://dx.doi.org/10.1016/j.jacc.2023.12.043
+The Clinical Challenge of Prosthetic Valve Endocarditis: JACC Focus Seminar 3/4.|https://dx.doi.org/10.1016/j.jacc.2024.01.037
+Intrawound Vancomycin Powder in Primary Total Hip Arthroplasty: A Prospective Quality Control Study.|https://dx.doi.org/10.1016/j.arth.2024.03.063
+Prophylactic Transversely Hemisected Sartorius (THT) flap for high-risk groin dissections in vascular surgery - a case series.|https://dx.doi.org/10.1016/j.avsg.2024.02.009
+Cutdown is Associated with Higher 30-day Unplanned Readmissions and Wound Complications Than Percutaneous Access for EVAR.|https://dx.doi.org/10.1016/j.avsg.2024.02.016
+TREATMENT OF AORTO-ILIAC AND INFRA-INGUINAL VASCULAR INFECTIONS WITH A PREFABRICATED BOVINE PERICARDIAL GRAFT.|https://dx.doi.org/10.1016/j.avsg.2024.01.015
+Outcomes Following Revision Reverse Shoulder Arthroplasty for Infection.|https://dx.doi.org/10.1016/j.jse.2024.02.031
+Interpenetrating nanofibrillar membrane of self-assembled collagen and antimicrobial peptides for enhanced bone regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131480
+50 years of inflatable penile implants : Where do we stand in France?|https://dx.doi.org/10.1016/j.fjurol.2024.102635
+CT-derived vertebral bone mineral density is a useful biomarker to predict COVID-19 outcome.|https://dx.doi.org/10.1016/j.bone.2024.117095
+Tracking the fate of bacteria-derived site-specific immunomodulators by positron emission tomography.|https://dx.doi.org/10.1016/j.nucmedbio.2024.108908
+Electrocochleographic frequency-following responses as a potential marker of age-related cochlear neural degeneration.|https://dx.doi.org/10.1016/j.heares.2024.109005
+A pedicled buccal periosteal flap for the closure of oro-antral fistula.|https://dx.doi.org/10.1186/s12903-024-04217-6
+Application of double plate fixation combined with Masquelet technique for large segmental bone defects of distal tibia: a retrospective study and literature review.|https://dx.doi.org/10.1186/s12893-024-02396-1
+Where do the pathogens that cause surgical site infections come from?|https://dx.doi.org/10.1126/scitranslmed.ado1449
+Contribution of the patient microbiome to surgical site infection and antibiotic prophylaxis failure in spine surgery.|https://dx.doi.org/10.1126/scitranslmed.adk8222
+Radiographic Thigh Muscle Measurements Are a Reliable Predictor of Psoas Area and Sarcopenia.|https://dx.doi.org/10.2106/JBJS.23.01177
+Comparison of two approaches to measuring clean faces as part of the facial cleanliness component of the SAFE trachoma elimination strategy.|https://dx.doi.org/10.1371/journal.pntd.0012090
+Fungal microbiota in newborn infants with and without respiratory distress syndrome.|https://dx.doi.org/10.1371/journal.pone.0302027
+International Nosocomial Infection Control Consortium (INICC) report of healthcare-associated infections, data summary of 25 countries for 2014-2023, Surgical Site Infections Module.|https://dx.doi.org/10.1016/j.ajic.2024.04.007
+Perioperative Intravenous Dexamethasone Use Is Not Associated with Periprosthetic Joint Infection or Wound Healing Complications Following Shoulder Arthroplasty.|https://dx.doi.org/10.1016/j.jse.2024.02.045
+2023 Neer Award for Basic Science: Genetics of Cutibacterium acnes in Revision Shoulder Arthroplasty: A Large-Scale Bacterial Whole-Genome Sequencing Study.|https://dx.doi.org/10.1016/j.jse.2024.02.039
+Comparison of Delphi Consensus Criteria and Musculoskeletal Infection Society Outcome Reporting Tool (MSIS-ORT) Definitions of Successful Surgical Treatment of Periprosthetic Knee Infection.|https://dx.doi.org/10.1016/j.arth.2024.04.007
+Discharge to a Skilled Nursing Facility After Hip Fracture Results in Higher Rates of Periprosthetic Joint Infection.|https://dx.doi.org/10.1016/j.arth.2024.04.002
+Utility of intracranial pressure monitoring as a diagnostic tool in pediatric ventriculomegaly.|https://dx.doi.org/10.1016/j.clineuro.2024.108277
+Postoperative complications in cochlear implant surgery and their possible risk factors.|https://dx.doi.org/10.1016/j.bjorl.2024.101428
+Differential diagnosis of cemento-osseous dysplasia and periapical cyst using texture analysis of CBCT.|https://dx.doi.org/10.1186/s12903-024-04208-7
+Lumbopelvic fixation in the treatment of spinopelvic dissociation: union, complications, and neurologic outcomes of a multicenter case series.|https://dx.doi.org/10.1007/s00590-024-03928-4
+Impact of Intraoperative Allogeneic Platelet Transfusion on Healthcare-Associated Infections in Cardiac Surgery: Insights From a Large Single-Center Cohort Study.|https://dx.doi.org/10.1053/j.jvca.2024.02.031
+Definitive internal fracture fixation followed by staged free flap coverage ("fix followed by flap" protocol) for open Gustilo type IIIB fractures.|https://dx.doi.org/10.1016/j.jos.2024.03.006
+Should a Refluxing Internal Diversion Be Considered a Temporizing Procedure? Extended Follow-Up and Outcomes After Side-to-side Ureterovesicostomy for Primary Obstructive Megaureter in Young Children.|https://dx.doi.org/10.1097/JU.0000000000003966
+Establishment of an intragastric surgical model using C57BL/6 mice to study the vaccine efficacy of OMV-based immunogens against Helicobacter pylori.|https://dx.doi.org/10.1242/bio.060282
+In-vitro external fixation pin-site model proof of concept: A novel approach to studying wound healing in transcutaneous implants.|https://dx.doi.org/10.1177/09544119241234154
+Predictors of postoperative storage symptoms in male patients with lower urinary tract symptoms: A retrospective analysis of prostate surgery for benign prostatic enlargement.|https://dx.doi.org/10.1111/luts.12512
+Case report: A rare case of skin abscess caused by coinfection of Actinobaculum schaalii and Actinomyces turicensis.|https://dx.doi.org/10.3389/fcimb.2024.1378197
+Hospital-acquired pneumonia due to Burkholderia cepacia in a thalassemia pregnancy with postoperative eclampsia: A case report.|https://dx.doi.org/10.1016/j.rmcr.2024.102021
+Empyema Necessitans: A Case Report.|https://dx.doi.org/10.1016/j.idcr.2024.e01939
+Finger Necrotizing Fasciitis and Septicemia Caused by Vibrio vulnificus.|https://dx.doi.org/10.1089/sur.2023.284
+Hybrid Bioactive Hydrogel Promotes Liver Regeneration Through the Activation of Kupffer Cells and ECM Remodeling After Partial Hepatectomy.|https://dx.doi.org/10.1002/adhm.202303828
+Pressure injury risk factors in patients undergoing general anesthesia surgeries.|https://dx.doi.org/10.25270/wmp.23025
+Bi-cruciate retaining total knee arthroplasty is here to stay: A consecutive series transitioning from manual instrumentation to enabling technologies.|https://dx.doi.org/10.3233/THC-231608
+Current Understanding of Marginal Grafts in Liver Transplantation.|https://dx.doi.org/10.14336/AD.2024.0214
+Parastomal hernia repair according to Modified Stapled Mesh Stoma Reinforcement Technique (mSMART): which are the results ?|https://dx.doi.org/10.1007/s10029-024-03005-z
+A case of multidrug-resistant intractable pylephlebitis and intra-abdominal abscess due to perforated appendicitis successfully treated with open abdominal management.|https://dx.doi.org/10.1186/s40792-024-01882-1
+The emerging role of liquid biopsy in oral squamous cell carcinoma detection: advantages and challenges.|https://dx.doi.org/10.1080/14737159.2024.2340997
+Managing incisional wounds with Prevena VAC therapy in lower-extremity vascular surgery: A comparative study.|https://dx.doi.org/10.1177/17085381241247098
+Enrichment, Characterization, and Proteomic Profiling of Small Extracellular Vesicles Derived from Human Limbal Mesenchymal Stromal Cells and Melanocytes.|https://dx.doi.org/10.3390/cells13070623
+Intraventricular haemorrhage treated by extra ventricular drainage with catheter mistakenly penetrating the cisterna ambiens: A case report.|https://dx.doi.org/10.1177/03000605241237680
+Genomic characterization of extended-spectrum β-lactamase-producing Enterobacterales isolated from abdominal surgical patients.|https://dx.doi.org/10.1017/S0950268824000578
+Heart failure and respiratory tract infection: Cause and consequence of acute decompensation?|https://dx.doi.org/10.1002/ejhf.3209
+Cannabis use disorder and perioperative outcomes following complex cancer surgery.|https://dx.doi.org/10.1002/jso.27644
+Reconstruction Strategy for Upper Extremity Defects After Bone Tumor Resection Based on 3D Customized Bone Cement Mold.|https://dx.doi.org/10.1177/15533506241244493
+Johanson-Blizzard Syndrome: A Case Report From Bahrain With a Literature Review.|https://dx.doi.org/10.7759/cureus.55969
+Limb Salvage and Pelvic Reconstruction With Endoprosthesis After Pelvic Tumor Resection: A Narrative Review.|https://dx.doi.org/10.7759/cureus.56043
+Life threatening, subclavian artery mycotic aneurysm rupture into a gigantic supraclavicular abscess in an intravenous drug user.|https://dx.doi.org/10.7861/clinmed.2023-0127
+Relocation of polyotia tissue to reconstruct the tragus and fill the preauricular depression.|https://dx.doi.org/10.1016/j.ijporl.2024.111937
+Fungal Prosthetic Joint Infection: A Case Series and Review of the Literature.|https://dx.doi.org/10.1007/s40121-024-00964-9
+Percutaneous intramedullary screw or rush pin fixation of unstable ankle fractures in patients with fragile soft tissue - retrospective study of 80 cases.|https://dx.doi.org/10.1007/s00402-024-05290-w
+Analysis of the associated factors in postoperative wound infection following open reduction and internal fixation for elbow fracture.|https://dx.doi.org/10.1111/iwj.14825
+Virus-Induced Epilepsy vs. Epilepsy Patients Acquiring Viral Infection: Unravelling the Complex Relationship for Precision Treatment.|https://dx.doi.org/10.3390/ijms25073730
+An Update on Myocarditis in Forensic Pathology.|https://dx.doi.org/10.3390/diagnostics14070760
+Modulation of sHLA-G, PD-1, and PD-L1 Expression in Cervical Lesions Following Imiquimod Treatment and Its Association with Treatment Success.|https://dx.doi.org/10.3390/cancers16071272
+The Effect of Preoperative Administration of Glucocorticoids on the Postoperative Complication Rate in Liver Surgery: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.|https://dx.doi.org/10.3390/jcm13072097
+External Scaffold for Venous Graft to Treat Chronic Limb-Threatening Ischemia: Results of the FRAME Vascular Support.|https://dx.doi.org/10.3390/jcm13072095
+The Safety and Effectiveness of Single-Stage, Vessel-Preserving, Laparoscopic Orchiopexy for Intra-Abdominal Testes in Pediatric Patients: A 10-Year Single-Center Experience.|https://dx.doi.org/10.3390/jcm13072045
+Augmentation Rhinoplasty and Centrofacial Lipofilling: Our Experience (ARCL).|https://dx.doi.org/10.3390/jcm13071965
+Reconstruction of Orbital Wall Fractures with a Combination of Resorbable Plates and Antibiotic-Impregnated Collagen Sheets.|https://dx.doi.org/10.3390/jcm13071900
+Knee Arthrodesis for Periprosthetic Knee Infection: Fusion Rate, Complications, and Limb Salvage-A Systematic Review.|https://dx.doi.org/10.3390/healthcare12070804
+Augmented Articulating Spacers in Infected Total Knee Arthroplasty: Surgical Technique.|https://dx.doi.org/10.3390/healthcare12070735
+Treatment of tibial bone defects caused by infection: a retrospective comparative study of bone transport using a combined technique of unilateral external fixation over an intramedullary nail versus circular external fixation over an intramedullary nail.|https://dx.doi.org/10.1186/s12891-024-07377-2
+Survivorship of the fixed-bearing medial unicompartmental knee arthroplasty: mean 14-year follow-up in a single medical center.|https://dx.doi.org/10.1186/s12891-024-07378-1
