@@ -24,3 +24,4 @@ Physicochemical, structural and biological characterisation of poly(3-hydroxyoct
 Therapeutic effect of ZnO NPs-polyhexanide-hydrogel on Staphylococcus aureus-induced skin wound infection in mice.|https://dx.doi.org/10.1080/09205063.2024.2340819
 Preparation, Characterization, and Evaluation of Enzyme Co-Modified Fish Gelatin-Based Antibacterial Derivatives.|https://dx.doi.org/10.3390/polym16070895
 Preparation of antibacterial hydrogel from poly(aspartic hydrazide) and quaternized N-[3-(dimethylamino) propyl] methylacrylamide copolymer with antioxidant and hemostatic effects for wound repairing.|https://dx.doi.org/10.1016/j.colsurfb.2024.113881
+Drug delivery using reduction-responsive hydrogel based on carboxyethyl-succinoglycan with highly improved rheological, antibacterial, and antioxidant properties.|https://dx.doi.org/10.1016/j.carbpol.2024.122076

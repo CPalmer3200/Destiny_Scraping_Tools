@@ -264,3 +264,5 @@ Knee Arthrodesis for Periprosthetic Knee Infection: Fusion Rate, Complications, 
 Augmented Articulating Spacers in Infected Total Knee Arthroplasty: Surgical Technique.|https://dx.doi.org/10.3390/healthcare12070735
 Treatment of tibial bone defects caused by infection: a retrospective comparative study of bone transport using a combined technique of unilateral external fixation over an intramedullary nail versus circular external fixation over an intramedullary nail.|https://dx.doi.org/10.1186/s12891-024-07377-2
 Survivorship of the fixed-bearing medial unicompartmental knee arthroplasty: mean 14-year follow-up in a single medical center.|https://dx.doi.org/10.1186/s12891-024-07378-1
+Characterization of Genomic, Physiological, and Probiotic Features of Lactiplantibacillus plantarum JS21 Strain Isolated from Traditional Fermented Jiangshui.|https://dx.doi.org/10.3390/foods13071082
+RNAIII is linked with the pentose phosphate pathway through the activation of RpiRc in Staphylococcus aureus.|https://dx.doi.org/10.1128/msphere.00348-23
