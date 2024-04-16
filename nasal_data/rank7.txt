@@ -266,3 +266,6 @@ Treatment of tibial bone defects caused by infection: a retrospective comparativ
 Survivorship of the fixed-bearing medial unicompartmental knee arthroplasty: mean 14-year follow-up in a single medical center.|https://dx.doi.org/10.1186/s12891-024-07378-1
 Characterization of Genomic, Physiological, and Probiotic Features of Lactiplantibacillus plantarum JS21 Strain Isolated from Traditional Fermented Jiangshui.|https://dx.doi.org/10.3390/foods13071082
 RNAIII is linked with the pentose phosphate pathway through the activation of RpiRc in Staphylococcus aureus.|https://dx.doi.org/10.1128/msphere.00348-23
+Gut-Lung Microbiota Characterization in Patients with Non-Small Cell Lung Carcinoma and COVID-19 Coinfection.|https://dx.doi.org/10.34172/aim.2024.11
+A Sodium Oxychlorosene-Based Infection Prevention Protocol Safely Decreases Postoperative Wound Infections in Adult Spinal Deformity Surgery.|https://dx.doi.org/10.7759/cureus.56109
+Evaluation of Mangifera indica, Anacardium occidentale leaf extracts and 0.2% Chlorhexidine gluconate on disinfection of maxillofacial silicone material surface contaminated with microorganisms - An invitro study.|https://dx.doi.org/10.1016/j.jobcr.2024.03.014

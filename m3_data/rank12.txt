@@ -20,3 +20,4 @@ Polyethylene glycol-polyvinylidene fluoride/TiO(2) nanocomposite polymer coating
 The Effects of Encapsulation on the In Vitro Anti-Clostridial Activity of Olive Mill Wastewater Polyphenolic Extracts: A Promising Strategy to Limit Microbial Growth in Food Systems.|https://dx.doi.org/10.3390/molecules29071441
 Effects of supplementing direct-fed microbials on health and growth of pre-weaning Gyr × Holstein dairy calves.|https://dx.doi.org/10.3168/jds.2023-24434
 Clinical outcomes of clostridioides difficile infection in the very elderly.|https://dx.doi.org/10.1007/s11739-024-03580-0
+C. difficile biomarkers, pathogenicity and detection.|https://dx.doi.org/10.1016/j.cca.2024.119674

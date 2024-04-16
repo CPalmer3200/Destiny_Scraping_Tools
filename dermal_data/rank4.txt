@@ -25,3 +25,6 @@ Therapeutic effect of ZnO NPs-polyhexanide-hydrogel on Staphylococcus aureus-ind
 Preparation, Characterization, and Evaluation of Enzyme Co-Modified Fish Gelatin-Based Antibacterial Derivatives.|https://dx.doi.org/10.3390/polym16070895
 Preparation of antibacterial hydrogel from poly(aspartic hydrazide) and quaternized N-[3-(dimethylamino) propyl] methylacrylamide copolymer with antioxidant and hemostatic effects for wound repairing.|https://dx.doi.org/10.1016/j.colsurfb.2024.113881
 Drug delivery using reduction-responsive hydrogel based on carboxyethyl-succinoglycan with highly improved rheological, antibacterial, and antioxidant properties.|https://dx.doi.org/10.1016/j.carbpol.2024.122076
+Turning Polysaccharides into Injectable and Rapid Self-Healing Antibacterial Hydrogels for Antibacterial Treatment and Bacterial-Infected Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.4c00451
+High Tensile, Antibacterial, and Conductive Hydrogel Sensor with Multiple Cross-Linked Networks Based on PVA/Sodium Alginate/Zinc Oxide.|https://dx.doi.org/10.1021/acsomega.4c01860
+Photothermal Hydrogel Composites Featuring G4-Carbon Nanomaterial Networks for Staphylococcus aureus Inhibition.|https://dx.doi.org/10.1021/acsomega.3c07724

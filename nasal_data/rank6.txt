@@ -15,3 +15,5 @@ The inflammatory microenvironment of the lung at the time of infection governs i
 Australasian Malignant PLeural Effusion (AMPLE)-4 trial: study protocol for a multi-centre randomised trial of topical antibiotics prophylaxis for infections of indwelling pleural catheters.|https://dx.doi.org/10.1186/s13063-024-08065-1
 Identification of kinase modulators as host-directed therapeutics against intracellular methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fcimb.2024.1367938
 Targeting FTO induces colorectal cancer ferroptotic cell death by decreasing SLC7A11/GPX4 expression.|https://dx.doi.org/10.1186/s13046-024-03032-9
+Critically ill children with SARS-COV-2 Omicron infection at a national children medical center, Guangdong, China.|https://dx.doi.org/10.1186/s12887-024-04735-w
+Indwelling pleural catheter infection and colonisation: a clinical practice review.|https://dx.doi.org/10.21037/jtd-23-1761
