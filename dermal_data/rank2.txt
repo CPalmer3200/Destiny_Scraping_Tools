@@ -22,3 +22,4 @@ Peripheral Arterial Disease and the Diabetic Foot Syndrome: Neuropathy Makes the
 Peripheral Blood Eosinophilia in Patients with Diabetic Foot Infection Receiving Long-Term Antibiotic Therapy.|https://dx.doi.org/10.3390/jcm13072023
 Diagnostic Performance of Atherogenic Index of Plasma for Predicting Diabetic Foot Osteomyelitis with Peripheral Artery Disease.|https://dx.doi.org/10.3390/jcm13071934
 Prevalence of multidrug-resistant bacterial infections in diabetic foot ulcers: A meta-analysis.|https://dx.doi.org/10.1111/iwj.14864
+Microbiological Distribution, Antimicrobial Susceptibility and Risk Factors of Polymicrobial Infections in Diabetic Foot.|https://dx.doi.org/10.7754/Clin.Lab.2023.231114

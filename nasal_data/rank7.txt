@@ -269,3 +269,6 @@ RNAIII is linked with the pentose phosphate pathway through the activation of Rp
 Gut-Lung Microbiota Characterization in Patients with Non-Small Cell Lung Carcinoma and COVID-19 Coinfection.|https://dx.doi.org/10.34172/aim.2024.11
 A Sodium Oxychlorosene-Based Infection Prevention Protocol Safely Decreases Postoperative Wound Infections in Adult Spinal Deformity Surgery.|https://dx.doi.org/10.7759/cureus.56109
 Evaluation of Mangifera indica, Anacardium occidentale leaf extracts and 0.2% Chlorhexidine gluconate on disinfection of maxillofacial silicone material surface contaminated with microorganisms - An invitro study.|https://dx.doi.org/10.1016/j.jobcr.2024.03.014
+Antimicrobial resistance in bacterial wound, skin, soft tissue and surgical site infections in Central, Eastern, Southern and Western Africa: A systematic review and meta-analysis.|https://dx.doi.org/10.1371/journal.pgph.0003077
+Methicillin-Resistant Staphylococcus aureus Carriage among Neonate Mothers, Healthcare Workers, and Environmental Samples in Neonatal Intensive Care Units: A Systematic Review.|https://dx.doi.org/10.1155/2024/5675786
+Biofilm Inhibition on Medical Devices and Implants Using Carbon Dots: An Updated Review.|https://dx.doi.org/10.1021/acsabm.4c00024

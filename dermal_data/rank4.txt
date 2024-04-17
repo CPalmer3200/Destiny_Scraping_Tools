@@ -28,3 +28,6 @@ Drug delivery using reduction-responsive hydrogel based on carboxyethyl-succinog
 Turning Polysaccharides into Injectable and Rapid Self-Healing Antibacterial Hydrogels for Antibacterial Treatment and Bacterial-Infected Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.4c00451
 High Tensile, Antibacterial, and Conductive Hydrogel Sensor with Multiple Cross-Linked Networks Based on PVA/Sodium Alginate/Zinc Oxide.|https://dx.doi.org/10.1021/acsomega.4c01860
 Photothermal Hydrogel Composites Featuring G4-Carbon Nanomaterial Networks for Staphylococcus aureus Inhibition.|https://dx.doi.org/10.1021/acsomega.3c07724
+Polyvinyl alcohol/chitosan quaternary ammonium salt composite hydrogel with directional macroporous structure for photothermal synergistic antibacterial and wound healing promotion.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131549
+Highly Efficient Photodynamic Hydrogel with AIE-Active Photosensitizers toward Methicillin-Resistant Staphylococcus aureus Ultrafast Imaging and Killing.|https://dx.doi.org/10.1021/acsbiomaterials.4c00056
+Biofilm Inhibition on Medical Devices and Implants Using Carbon Dots: An Updated Review.|https://dx.doi.org/10.1021/acsabm.4c00024

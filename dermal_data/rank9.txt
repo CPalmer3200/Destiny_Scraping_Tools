@@ -4,3 +4,4 @@ Staphylococcus aureus oleate hydratase produces ligands that activate host PPARÎ
 Staphylococcus aureus and SÃ©zary syndrome.|https://dx.doi.org/10.1182/blood.2023023690
 Influence of Thermal Treatment on the Composition of Alpinia officinarum Rhizome.|https://dx.doi.org/10.3390/ijms25073625
 Longitudinal antimicrobial susceptibility trends of canine Staphylococcus pseudintermedius.|https://dx.doi.org/10.1016/j.prevetmed.2024.106170
+A LAMP point-of-care test to guide antimicrobial choice for treatment of Staphylococcus pseudintermedius pyoderma in dogs.|https://dx.doi.org/10.1016/j.tvjl.2024.106105

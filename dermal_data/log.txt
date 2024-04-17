@@ -181,3 +181,4 @@
 09:14 14/04/2024, Rank 1: 1, Rank 2: 5, Rank 3: 0, Rank 4: 4, Rank 5: 2, Rank 6: 0, Rank 7: 0, Rank 8: 0, Rank 9: 0
 08:11 15/04/2024, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 1, Rank 5: 0, Rank 6: 0, Rank 7: 0, Rank 8: 0, Rank 9: 0
 08:15 16/04/2024, Rank 1: 0, Rank 2: 1, Rank 3: 0, Rank 4: 3, Rank 5: 1, Rank 6: 0, Rank 7: 0, Rank 8: 2, Rank 9: 2
+08:16 17/04/2024, Rank 1: 2, Rank 2: 1, Rank 3: 0, Rank 4: 3, Rank 5: 0, Rank 6: 0, Rank 7: 0, Rank 8: 0, Rank 9: 1
