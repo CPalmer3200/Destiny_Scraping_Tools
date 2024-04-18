@@ -21,3 +21,4 @@ The Effects of Encapsulation on the In Vitro Anti-Clostridial Activity of Olive 
 Effects of supplementing direct-fed microbials on health and growth of pre-weaning Gyr × Holstein dairy calves.|https://dx.doi.org/10.3168/jds.2023-24434
 Clinical outcomes of clostridioides difficile infection in the very elderly.|https://dx.doi.org/10.1007/s11739-024-03580-0
 C. difficile biomarkers, pathogenicity and detection.|https://dx.doi.org/10.1016/j.cca.2024.119674
+The incidence of Clostridium difficile infection in children with and without inflammatory bowel diseases: A single-center study in Taiwan from 2006 to 2019.|https://dx.doi.org/10.1016/j.jfma.2024.04.006

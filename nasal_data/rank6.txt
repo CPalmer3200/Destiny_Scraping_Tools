@@ -18,3 +18,4 @@ Targeting FTO induces colorectal cancer ferroptotic cell death by decreasing SLC
 Critically ill children with SARS-COV-2 Omicron infection at a national children medical center, Guangdong, China.|https://dx.doi.org/10.1186/s12887-024-04735-w
 Indwelling pleural catheter infection and colonisation: a clinical practice review.|https://dx.doi.org/10.21037/jtd-23-1761
 Trends, patterns and relationship of antimicrobial use and resistance in bacterial isolates tested between 2015-2020 in a national referral hospital of Zambia.|https://dx.doi.org/10.1371/journal.pone.0302053
+Identifying major histocompatibility complex class II-DR molecules in bovine and swine peripheral blood monocyte-derived macrophages using mAb-L243.|https://dx.doi.org/10.1016/j.vaccine.2024.04.042

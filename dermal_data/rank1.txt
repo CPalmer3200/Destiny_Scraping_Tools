@@ -4,3 +4,4 @@ Copper Ion-Inspired Dual Controllable Drug Release Hydrogels for Wound Managemen
 Copper selenide nanosheets with photothermal therapy-related properties and multienzyme activity for highly effective eradication of drug resistance.|https://dx.doi.org/10.1016/j.jcis.2024.03.176
 Corneal Deposits: A Presentation of Arthrobacter Keratitis.|https://dx.doi.org/10.1159/000538474
 Getting to the heart of the matter-are two agents really better than one for the treatment of staphylococcal infective endocarditis?|https://dx.doi.org/10.1016/j.ijid.2024.02.018
+Rice husk valorisation by in situ grown MoS(2) nanoflowers: a dual-action catalyst for pollutant dye remediation and microbial decontamination.|https://dx.doi.org/10.1039/d4ra00862f

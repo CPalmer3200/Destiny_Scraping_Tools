@@ -272,3 +272,5 @@ Evaluation of Mangifera indica, Anacardium occidentale leaf extracts and 0.2% Ch
 Antimicrobial resistance in bacterial wound, skin, soft tissue and surgical site infections in Central, Eastern, Southern and Western Africa: A systematic review and meta-analysis.|https://dx.doi.org/10.1371/journal.pgph.0003077
 Methicillin-Resistant Staphylococcus aureus Carriage among Neonate Mothers, Healthcare Workers, and Environmental Samples in Neonatal Intensive Care Units: A Systematic Review.|https://dx.doi.org/10.1155/2024/5675786
 Biofilm Inhibition on Medical Devices and Implants Using Carbon Dots: An Updated Review.|https://dx.doi.org/10.1021/acsabm.4c00024
+Proliferation of psychrotrophic bacteria in cold-stored platelet concentrates.|https://dx.doi.org/10.1111/vox.13640
+Lipase and Protease Production Ability of Multi-drug Resistant Bacteria Worsens the Outcomes of Wound Infections.|https://dx.doi.org/10.2174/0113816128302189240402043330
