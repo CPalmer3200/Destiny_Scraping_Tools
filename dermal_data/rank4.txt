@@ -31,3 +31,5 @@ Photothermal Hydrogel Composites Featuring G4-Carbon Nanomaterial Networks for S
 Polyvinyl alcohol/chitosan quaternary ammonium salt composite hydrogel with directional macroporous structure for photothermal synergistic antibacterial and wound healing promotion.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131549
 Highly Efficient Photodynamic Hydrogel with AIE-Active Photosensitizers toward Methicillin-Resistant Staphylococcus aureus Ultrafast Imaging and Killing.|https://dx.doi.org/10.1021/acsbiomaterials.4c00056
 Biofilm Inhibition on Medical Devices and Implants Using Carbon Dots: An Updated Review.|https://dx.doi.org/10.1021/acsabm.4c00024
+3D-printed piezocatalytic hydrogels for effective antibacterial treatment of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131637
+Accelerated Wound Healing by Electrospun Multifunctional Fibers with Self-Powered Performance.|https://dx.doi.org/10.1021/acs.langmuir.4c00545

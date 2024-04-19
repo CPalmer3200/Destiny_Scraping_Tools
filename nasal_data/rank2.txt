@@ -9,3 +9,4 @@ Staphylococcus aureus nasal colonization and susceptibility profile to antimicro
 Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review.|https://dx.doi.org/10.13075/ijomeh.1896.02003
 Anticancer, antioxidant, and antibacterial activity of chemically fingerprinted extract from Cyclamen persicum Mill.|https://dx.doi.org/10.1038/s41598-024-58332-z
 Cystic fibrosis in Iceland and the high prevalence of the N1303K variant.|https://dx.doi.org/10.1002/ppul.27019
+(1)S. aureus biofilm properties correlate with immune B cell subset frequencies and severity of chronic rhinosinusitis.|https://dx.doi.org/10.1016/j.clim.2024.110221

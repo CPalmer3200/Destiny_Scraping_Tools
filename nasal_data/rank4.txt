@@ -164,3 +164,4 @@ Intramyocardial abscess and endoventricular thrombosis: a complex case.|https://
 Molecular identification of Proteus mirabilis, Vibrio species leading to CRISPR-Cas9 modification of tcpA and UreC genes causing cholera and UTI.|https://dx.doi.org/10.1038/s41598-024-59340-9
 The Impact of Colonization by Multi Drug Resistant Bacteria on Graft Survival, Risk of Infection, and Mortality in Recipients of Solid Organ Transplant: Systematic Review and Meta-analysis.|https://dx.doi.org/10.1016/j.cmi.2024.03.036
 Effect of allogeneic hematopoietic stem cell transplantation for chronic granulomatous disease in children: A multicentre, retrospective cohort study in China.|https://dx.doi.org/10.1016/j.clim.2024.109919
+Durability of Original Monovalent mRNA Vaccine Effectiveness Against COVID-19 Omicron-Associated Hospitalization in Children and Adolescents - United States, 2021-2023.|https://dx.doi.org/10.15585/mmwr.mm7315a2

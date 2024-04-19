@@ -25,3 +25,5 @@ Prevalence of multidrug-resistant bacterial infections in diabetic foot ulcers: 
 Microbiological Distribution, Antimicrobial Susceptibility and Risk Factors of Polymicrobial Infections in Diabetic Foot.|https://dx.doi.org/10.7754/Clin.Lab.2023.231114
 Vasculitis and infectious risk in a patient with type 2 diabetes mellitus: A case report.|https://dx.doi.org/10.3892/etm.2024.12522
 Two-year incidence and risk factors of diabetic foot ulcer: second phase report of Ahvaz diabetic foot cohort (ADFC) study.|https://dx.doi.org/10.1186/s12902-024-01572-x
+Selective Delivery of Clindamycin Using a Combination of Bacterially Sensitive Microparticle and Separable Effervescent Microarray Patch on Bacteria Causing Diabetic Foot Infection.|https://dx.doi.org/10.1007/s11095-024-03697-z
+Diabetic management and infection risk in total ankle arthroplasty.|https://dx.doi.org/10.1016/j.fas.2024.04.008

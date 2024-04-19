@@ -274,3 +274,4 @@ Methicillin-Resistant Staphylococcus aureus Carriage among Neonate Mothers, Heal
 Biofilm Inhibition on Medical Devices and Implants Using Carbon Dots: An Updated Review.|https://dx.doi.org/10.1021/acsabm.4c00024
 Proliferation of psychrotrophic bacteria in cold-stored platelet concentrates.|https://dx.doi.org/10.1111/vox.13640
 Lipase and Protease Production Ability of Multi-drug Resistant Bacteria Worsens the Outcomes of Wound Infections.|https://dx.doi.org/10.2174/0113816128302189240402043330
+Antibiotic resistance before, during, and after the COVID-19 pandemic: a retrospective study.|https://dx.doi.org/10.3855/jidc.19071
