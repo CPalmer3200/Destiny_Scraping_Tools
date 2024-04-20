@@ -18,3 +18,5 @@ Oncoplastic breast-conserving surgery (OBCS) vs. mastectomy with reconstruction:
 Acute adverse events of ultra-hypofractionated whole-breast irradiation after breast-conserving surgery for early breast cancer in Japan: an interim analysis of the multi-institutional phase II UPBEAT study.|https://dx.doi.org/10.1007/s12282-024-01577-3
 Immediate breast reconstruction in breast cancer patients with the use of Serasynth and SeragynBR synthetic meshes. Single-oncological center experience, analysis of complications.|https://dx.doi.org/10.5604/01.3001.0016.3172
 Endoscopic thyroidectomy via chest-collarbone approach versus conventional open thyroidectomy: a retrospective comparative study.|https://dx.doi.org/10.1016/j.bjorl.2024.101429
+Stepwise transvenous lead extraction due to pacemaker pocket infection following lactational mastitis complicated with breast abscess.|https://dx.doi.org/10.1186/s13006-024-00633-0
+Society for Immunotherapy of Cancer (SITC) recommendations on intratumoral immunotherapy clinical trials (IICT): from premalignant to metastatic disease.|https://dx.doi.org/10.1136/jitc-2023-008378

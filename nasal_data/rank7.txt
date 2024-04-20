@@ -275,3 +275,8 @@ Biofilm Inhibition on Medical Devices and Implants Using Carbon Dots: An Updated
 Proliferation of psychrotrophic bacteria in cold-stored platelet concentrates.|https://dx.doi.org/10.1111/vox.13640
 Lipase and Protease Production Ability of Multi-drug Resistant Bacteria Worsens the Outcomes of Wound Infections.|https://dx.doi.org/10.2174/0113816128302189240402043330
 Antibiotic resistance before, during, and after the COVID-19 pandemic: a retrospective study.|https://dx.doi.org/10.3855/jidc.19071
+Severe cellulitis from methicillin-resistant Staphylococcus aureus (MRSA) in a couple of preterm twins: a case report.|https://dx.doi.org/10.1186/s13052-024-01659-0
+pH-Responsive antibacterial metal-phenolic network coating on hernia meshes.|https://dx.doi.org/10.1039/d4bm00289j
+Genomic characterization and outbreak investigations of methicillin-resistant Staphylococcus aureus in a county-level hospital in China.|https://dx.doi.org/10.3389/fmicb.2024.1387855
+Utility of paired plasma and drainage fluid mNGS in diagnosing acute intra-abdominal infections with sepsis.|https://dx.doi.org/10.1186/s12879-024-09320-1
+Evaluating the impact of genomic epidemiology of methicillin-resistant Staphylococcus aureus (MRSA) on hospital infection prevention and control decisions.|https://dx.doi.org/10.1099/mgen.0.001235

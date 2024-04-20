@@ -13,3 +13,5 @@ Biomarkers for phenotype-endotype relationship in atopic dermatitis: a critical 
 Exploration of the Antibacterial and Anti-Inflammatory Activity of a Novel Antimicrobial Peptide Brevinin-1BW.|https://dx.doi.org/10.3390/molecules29071534
 Evaluation and activity of new porphyrin-peptide cage-type conjugates for the photoinactivation of Mycobacterium abscessus.|https://dx.doi.org/10.1128/spectrum.00006-24
 Cellular therapeutics and immunotherapies in wound healing - on the pulse of time?|https://dx.doi.org/10.1186/s40779-024-00528-5
+In vitro and in vivo evaluation of the anti-infective potential of the essential oil extracted from the leaves of Plectranthus amboinicus (Lour.) Spreng against Klebsiella pneumoniae and elucidation of its mechanism of action through proteomics approach.|https://dx.doi.org/10.1016/j.jep.2024.118202
+Structure optimizing of flavonoids against both MRSA and VRE.|https://dx.doi.org/10.1016/j.ejmech.2024.116401

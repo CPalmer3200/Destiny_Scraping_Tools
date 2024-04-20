@@ -27,3 +27,5 @@ Vasculitis and infectious risk in a patient with type 2 diabetes mellitus: A cas
 Two-year incidence and risk factors of diabetic foot ulcer: second phase report of Ahvaz diabetic foot cohort (ADFC) study.|https://dx.doi.org/10.1186/s12902-024-01572-x
 Selective Delivery of Clindamycin Using a Combination of Bacterially Sensitive Microparticle and Separable Effervescent Microarray Patch on Bacteria Causing Diabetic Foot Infection.|https://dx.doi.org/10.1007/s11095-024-03697-z
 Diabetic management and infection risk in total ankle arthroplasty.|https://dx.doi.org/10.1016/j.fas.2024.04.008
+Diabetic Foot Infections in the Emergency Department.|https://dx.doi.org/10.1016/j.emc.2024.01.003
+Narrative review on nanoparticles based on current evidence: therapeutic agents for diabetic foot infection.|https://dx.doi.org/10.1007/s00210-024-03094-8

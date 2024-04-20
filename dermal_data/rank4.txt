@@ -33,3 +33,5 @@ Highly Efficient Photodynamic Hydrogel with AIE-Active Photosensitizers toward M
 Biofilm Inhibition on Medical Devices and Implants Using Carbon Dots: An Updated Review.|https://dx.doi.org/10.1021/acsabm.4c00024
 3D-printed piezocatalytic hydrogels for effective antibacterial treatment of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131637
 Accelerated Wound Healing by Electrospun Multifunctional Fibers with Self-Powered Performance.|https://dx.doi.org/10.1021/acs.langmuir.4c00545
+Antioxidant and antibacterial hydrogel formed by protocatechualdehyde-ferric iron complex and aminopolysaccharide for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131642
+Sonochemical synthesis of bioinspired graphene oxide - zinc oxide hydrogel for antibacterial painting on biodegradable polylactide film.|https://dx.doi.org/10.1088/1361-6528/ad40b8

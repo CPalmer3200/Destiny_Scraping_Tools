@@ -21,3 +21,4 @@ Trends, patterns and relationship of antimicrobial use and resistance in bacteri
 Identifying major histocompatibility complex class II-DR molecules in bovine and swine peripheral blood monocyte-derived macrophages using mAb-L243.|https://dx.doi.org/10.1016/j.vaccine.2024.04.042
 Global, regional, and national incidence and mortality burden of non-COVID-19 lower respiratory infections and aetiologies, 1990-2021: a systematic analysis from the Global Burden of Disease Study 2021.|https://dx.doi.org/10.1016/S1473-3099(24)00176-2
 Dry and liquid formulations of IBT-V02, a novel multi-component toxoid vaccine, are effective against Staphylococcus aureus isolates from low-to-middle income countries.|https://dx.doi.org/10.3389/fimmu.2024.1373367
+Global burden associated with 85 pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.|https://dx.doi.org/10.1016/S1473-3099(24)00158-0
