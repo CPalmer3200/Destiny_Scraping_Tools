@@ -282,3 +282,5 @@ Utility of paired plasma and drainage fluid mNGS in diagnosing acute intra-abdom
 Evaluating the impact of genomic epidemiology of methicillin-resistant Staphylococcus aureus (MRSA) on hospital infection prevention and control decisions.|https://dx.doi.org/10.1099/mgen.0.001235
 Understanding limb necrotizing infections: a comprehensive approach.|https://dx.doi.org/10.1016/j.recot.2024.03.012
 Healthcare-associated infections in postoperative patients with intracranial aneurysm in Ukraine.|https://dx.doi.org/10.36740/Merkur202402101
+Modulation of the skin microbiome in cutaneous T-cell lymphoma delays tumour growth and increases survival in the murine EL4 model.|https://dx.doi.org/10.3389/fimmu.2024.1255859
+Antimicrobial and Cytotoxic Effect of Positively Charged Nanosilver-Coated Silk Sutures.|https://dx.doi.org/10.1021/acsomega.4c01257
