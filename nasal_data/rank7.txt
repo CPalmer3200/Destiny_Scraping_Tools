@@ -284,3 +284,9 @@ Understanding limb necrotizing infections: a comprehensive approach.|https://dx.
 Healthcare-associated infections in postoperative patients with intracranial aneurysm in Ukraine.|https://dx.doi.org/10.36740/Merkur202402101
 Modulation of the skin microbiome in cutaneous T-cell lymphoma delays tumour growth and increases survival in the murine EL4 model.|https://dx.doi.org/10.3389/fimmu.2024.1255859
 Antimicrobial and Cytotoxic Effect of Positively Charged Nanosilver-Coated Silk Sutures.|https://dx.doi.org/10.1021/acsomega.4c01257
+Preoperative MRSA screening using a simple questionnaire prior elective total joint replacement.|https://dx.doi.org/10.1007/s00402-024-05315-4
+Enhancing antibacterial properties of titanium implants through a novel Ag-TiO(2)-OTS nanocomposite coating: a comprehensive study on resist-killing-disintegrate approach.|https://dx.doi.org/10.1080/09205063.2024.2344332
+Escalating Surgical Treatment for Left Ventricular Assist Device Infection and Expected Mortality: Clinical Risk Prediction Score.|https://dx.doi.org/10.1097/XCS.0000000000001096
+Ersin Arslan City Hospital, Department of Neurosurgery, Gaziantep, Türkiye.|https://dx.doi.org/10.5137/1019-5149.JTN.43753-23.1
+Unveilling genetic profiles and correlations of biofilm-associated genes, quorum sensing, and antibiotic resistance in Staphylococcus aureus isolated from a Malaysian Teaching Hospital.|https://dx.doi.org/10.1186/s40001-024-01831-6
+Benefit of intrapleural fibrinolytic therapy in the treatment of complicated parapneumonic effusion and empyema.|https://dx.doi.org/10.11604/pamj.2024.47.54.15439

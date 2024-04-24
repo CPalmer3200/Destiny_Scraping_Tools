@@ -2,3 +2,6 @@ Microbiota-Based Therapeutics as New Standard-of-Care Treatment for Recurrent Cl
 Advances in Therapeutic Strategies for the Management of Clostridioides difficile Infection.|https://dx.doi.org/10.3390/jcm13051331
 The use of faecal microbiota transplant as treatment for recurrent or refractory Clostridioides difficile infection and other potential indications: second edition of joint British Society of Gastroenterology (BSG) and Healthcare Infection Society (HIS) guidelines.|https://dx.doi.org/10.1016/j.jhin.2024.03.001
 The use of faecal microbiota transplant as treatment for recurrent or refractory Clostridioides difficile infection and other potential indications: second edition of joint British Society of Gastroenterology (BSG) and Healthcare Infection Society (HIS) guidelines.|https://dx.doi.org/10.1136/gutjnl-2023-331550
+Post-infectious ibs following Clostridioides difficile infection; role of microbiota and implications for treatment.|https://dx.doi.org/10.1016/j.dld.2024.03.008
+Reduction of product composition variability using pooled microbiome ecosystem therapy and consequence in two infectious murine models.|https://dx.doi.org/10.1128/aem.00016-24
+Case Series: Efficacy of Polyclonal Intravenous Immunoglobulin for Refractory Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antib13020026

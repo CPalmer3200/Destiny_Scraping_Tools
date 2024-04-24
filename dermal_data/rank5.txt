@@ -16,3 +16,4 @@ Cellular therapeutics and immunotherapies in wound healing - on the pulse of tim
 In vitro and in vivo evaluation of the anti-infective potential of the essential oil extracted from the leaves of Plectranthus amboinicus (Lour.) Spreng against Klebsiella pneumoniae and elucidation of its mechanism of action through proteomics approach.|https://dx.doi.org/10.1016/j.jep.2024.118202
 Structure optimizing of flavonoids against both MRSA and VRE.|https://dx.doi.org/10.1016/j.ejmech.2024.116401
 Chemo-photothermal therapy of chitosan/gold nanorod clusters for antibacterial treatment against the infection of planktonic and biofilm MRSA.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131673
+The bacillithiol pathway is required for biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.micpath.2024.106657
