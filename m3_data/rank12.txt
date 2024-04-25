@@ -23,3 +23,4 @@ Clinical outcomes of clostridioides difficile infection in the very elderly.|htt
 C. difficile biomarkers, pathogenicity and detection.|https://dx.doi.org/10.1016/j.cca.2024.119674
 The incidence of Clostridium difficile infection in children with and without inflammatory bowel diseases: A single-center study in Taiwan from 2006 to 2019.|https://dx.doi.org/10.1016/j.jfma.2024.04.006
 Gut microbiome changes in mouse, Mongolian gerbil, and hamster models following Clostridioides difficile challenge.|https://dx.doi.org/10.3389/fmicb.2024.1368194
+A retrospective chart review assessing antibiotic treatment of hospitalized patients with discordant Clostridioides difficile assays in an urban hospitalized setting.|https://dx.doi.org/10.1017/ash.2024.60

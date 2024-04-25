@@ -41,3 +41,5 @@ Micro-environment-triggered chemodynamic treatment for boosting bacteria elimina
 Constructing Interfacial Charge Transfer Channels and Electric Field in Violet Phosphorus-Based van der Waals Heterojunction for Phototherapy of Periodontitis.|https://dx.doi.org/10.1021/acsnano.4c02433
 Light-degradable nanocomposite hydrogels for antibacterial wound dressing applications.|https://dx.doi.org/10.1039/d4tb00222a
 Multicomponent Synergistic Antibacterial Hydrogel Based on Gelatin-Oxidized Carboxymethyl Cellulose for Wound Healing of Drug-Resistant Chronic Infection.|https://dx.doi.org/10.1021/acsabm.4c00358
+Evaluation of drug release efficiency and antibacterial property of a pH-responsive dextran-based silver nanocomposite hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131783
+Polydopamine contained hydrogel nanocomposites with combined antimicrobial and antioxidant properties for accelerated wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131700

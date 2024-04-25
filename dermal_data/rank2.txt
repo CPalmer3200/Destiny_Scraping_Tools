@@ -32,3 +32,5 @@ Narrative review on nanoparticles based on current evidence: therapeutic agents 
 Exploring the efficacy of photodynamic antimicrobial chemotherapy on diabetic foot ulcers in rats.|https://dx.doi.org/10.1002/jbio.202300568
 Potassium permanganate in treatment of diabetic foot ulcer: A randomized clinical trial.|https://dx.doi.org/10.1002/hsr2.2073
 The usefulness of quantitative (99m)Tc-HMPAO WBC SPECT/CT for predicting lower extremity amputation in diabetic foot infection.|https://dx.doi.org/10.1038/s41598-024-59764-3
+Association between onychomycosis and ulcerative complications in patients with diabetes: a longitudinal cohort study in Dutch general practice.|https://dx.doi.org/10.1136/bmjopen-2023-076441
+Teicoplanin-decorated Reduced Graphene Oxide Incorporated Silk Protein Hybrid Hydrogel for Accelerating Infectious Diabetic Wound Healing and Preventing Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.1002/adhm.202304572
