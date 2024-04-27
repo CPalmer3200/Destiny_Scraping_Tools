@@ -5,3 +5,7 @@ The use of faecal microbiota transplant as treatment for recurrent or refractory
 Post-infectious ibs following Clostridioides difficile infection; role of microbiota and implications for treatment.|https://dx.doi.org/10.1016/j.dld.2024.03.008
 Reduction of product composition variability using pooled microbiome ecosystem therapy and consequence in two infectious murine models.|https://dx.doi.org/10.1128/aem.00016-24
 Case Series: Efficacy of Polyclonal Intravenous Immunoglobulin for Refractory Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antib13020026
+Management and Outcomes of Patients at a Specialty Clinic for Clostridioides difficile Infection.|https://dx.doi.org/10.1093/ofid/ofae153
+Is shorter also better in the treatment of Clostridioides difficile infection?|https://dx.doi.org/10.1093/jac/dkae119
+Machine Learning-based Prediction Models for C difficile Infection: A Systematic Review.|https://dx.doi.org/10.14309/ctg.0000000000000705
+Derotational distal femur osteotomy with medial patellofemoral ligament reconstruction can get good outcomes in the treatment of recurrent patellar dislocation with excessive TT-TG and increased femoral anteversion.|https://dx.doi.org/10.3389/fsurg.2024.1392947

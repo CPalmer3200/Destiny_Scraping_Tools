@@ -1,2 +1,9 @@
 Local vancomycin administration in Orthopaedic Surgery - A systematic review of comparative studies.|https://dx.doi.org/10.1016/j.jor.2024.03.040
 Antibacterial effect and biocompatibility of silver nanoparticle-coated bone allograft substitutes.|https://dx.doi.org/10.14715/cmb/2024.70.3.10
+Antibiotic Augmentation of Thermal Eradication of Staphylococcus epidermidis Biofilm Infections.|https://dx.doi.org/10.3390/pathogens13040327
+Protecting Orthopaedic Implants from Infection: Antimicrobial Peptide Mel4 Is Non-Toxic to Bone Cells and Reduces Bacterial Colonisation When Bound to Plasma Ion-Implanted 3D-Printed PAEK Polymers.|https://dx.doi.org/10.3390/cells13080656
+Inhibition of Clinical MRSA Isolates by Coagulase Negative Staphylococci of Human Origin.|https://dx.doi.org/10.3390/antibiotics13040338
+New strontium-based coatings show activity against pathogenic bacteria in spine infection.|https://dx.doi.org/10.3389/fbioe.2024.1347811
+Insights into microorganisms, associated factors, and the oral microbiome in infective endocarditis patients.|https://dx.doi.org/10.3389/froh.2024.1270492
+Prevalence and Resistance Patterns of Urinary Tract Infection in Al-Madinah Al-Munawarah, Saudi Arabia: A Retrospective Study.|https://dx.doi.org/10.24976/Discov.Med.202436183.80
+Static Versus Articulating Spacer: Does Infectious Pathogen Type Affect Treatment Success?|https://dx.doi.org/10.1097/CORR.0000000000003075

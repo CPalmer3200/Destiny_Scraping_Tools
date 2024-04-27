@@ -1,1 +1,3 @@
 Topology Regulated Background Extraction (TRBE) method for eye fundus images.|https://dx.doi.org/10.1016/j.mex.2024.102686
+Clinical outcomes and treatment necessity in patients with toxin-negative Clostridioides difficile stool samples.|https://dx.doi.org/10.1186/s12941-024-00696-1
+Scutellaria baicalensis Georgi alleviates Clostridium difficile associated diarrhea and its modulatory effects on the gut microbiota.|https://dx.doi.org/10.1016/j.fitote.2024.105973

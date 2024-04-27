@@ -9,3 +9,4 @@ Exploring associations between the teat apex metagenome and Staphylococcus aureu
 Dry and liquid formulations of IBT-V02, a novel multi-component toxoid vaccine, are effective against Staphylococcus aureus isolates from low-to-middle income countries.|https://dx.doi.org/10.3389/fimmu.2024.1373367
 Severe cellulitis from methicillin-resistant Staphylococcus aureus (MRSA) in a couple of preterm twins: a case report.|https://dx.doi.org/10.1186/s13052-024-01659-0
 QbD Based Formulation Development and Optimisation of Ozenoxacin Topical Nano-Emulgel and Efficacy Evaluation Using Impetigo Mice Model.|https://dx.doi.org/10.1208/s12249-024-02805-x
+Unusual Presentation of Staphylococcal Scalded Skin Syndrome in an Elderly Patient With Acute Kidney Injury: A Case Report.|https://dx.doi.org/10.7759/cureus.56853

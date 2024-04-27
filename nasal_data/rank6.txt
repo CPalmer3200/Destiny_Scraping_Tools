@@ -1,1 +1,4 @@
 A comprehensive synthetic library of poly-N-acetyl glucosamines enabled vaccine against lethal challenges of Staphylococcus aureus.|https://dx.doi.org/10.1038/s41467-024-47457-4
+Staphylococcus aureus Infections and Human Intestinal Microbiota.|https://dx.doi.org/10.3390/pathogens13040276
+Specific and off-target immune responses following COVID-19 vaccination with ChAdOx1-S and BNT162b2 vaccines-an exploratory sub-study of the BRACE trial.|https://dx.doi.org/10.1016/j.ebiom.2024.105100
+A Unique Combination of Mn(2+) and Aluminum Adjuvant Acted the Synergistic Effect.|https://dx.doi.org/10.1155/2024/7502110

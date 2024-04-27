@@ -6,3 +6,5 @@ Corneal Deposits: A Presentation of Arthrobacter Keratitis.|https://dx.doi.org/1
 Getting to the heart of the matter-are two agents really better than one for the treatment of staphylococcal infective endocarditis?|https://dx.doi.org/10.1016/j.ijid.2024.02.018
 Rice husk valorisation by in situ grown MoS(2) nanoflowers: a dual-action catalyst for pollutant dye remediation and microbial decontamination.|https://dx.doi.org/10.1039/d4ra00862f
 A woman in her fifties with a post-operative infection, generalised rash and organ failure.|https://dx.doi.org/10.4045/tidsskr.23.0623
+Repurposing Farnesol for Combating Drug-Resistant and Persistent Single and Polymicrobial Biofilms.|https://dx.doi.org/10.3390/antibiotics13040350
+Specific and off-target immune responses following COVID-19 vaccination with ChAdOx1-S and BNT162b2 vaccines-an exploratory sub-study of the BRACE trial.|https://dx.doi.org/10.1016/j.ebiom.2024.105100

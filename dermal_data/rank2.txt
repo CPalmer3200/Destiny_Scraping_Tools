@@ -34,3 +34,5 @@ Potassium permanganate in treatment of diabetic foot ulcer: A randomized clinica
 The usefulness of quantitative (99m)Tc-HMPAO WBC SPECT/CT for predicting lower extremity amputation in diabetic foot infection.|https://dx.doi.org/10.1038/s41598-024-59764-3
 Association between onychomycosis and ulcerative complications in patients with diabetes: a longitudinal cohort study in Dutch general practice.|https://dx.doi.org/10.1136/bmjopen-2023-076441
 Teicoplanin-decorated Reduced Graphene Oxide Incorporated Silk Protein Hybrid Hydrogel for Accelerating Infectious Diabetic Wound Healing and Preventing Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.1002/adhm.202304572
+Multimodal imaging device to comprehensively assess infection, oxygenation, and wound analytics-A pilot study.|https://dx.doi.org/10.1111/wrr.13187
+The effect of the different waves of COVID-19 pandemic on the outcome of diabetic foot ulcers.|https://dx.doi.org/10.1177/15347346241237284

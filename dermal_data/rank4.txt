@@ -43,3 +43,7 @@ Light-degradable nanocomposite hydrogels for antibacterial wound dressing applic
 Multicomponent Synergistic Antibacterial Hydrogel Based on Gelatin-Oxidized Carboxymethyl Cellulose for Wound Healing of Drug-Resistant Chronic Infection.|https://dx.doi.org/10.1021/acsabm.4c00358
 Evaluation of drug release efficiency and antibacterial property of a pH-responsive dextran-based silver nanocomposite hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131783
 Polydopamine contained hydrogel nanocomposites with combined antimicrobial and antioxidant properties for accelerated wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131700
+A Lignin Silver Nanoparticles/Polyvinyl Alcohol/Sodium Alginate Hybrid Hydrogel with Potent Mechanical Properties and Antibacterial Activity.|https://dx.doi.org/10.3390/gels10040240
+Chitosan-Oxidized Pullulan Hydrogels Loaded with Essential Clove Oil: Synthesis, Characterization, Antioxidant and Antimicrobial Properties.|https://dx.doi.org/10.3390/gels10040227
+Dual-Delivery Temperature-Sensitive Hydrogel with Antimicrobial and Anti-Inflammatory Brevilin A and Nitric Oxide for Wound Healing in Bacterial Infection.|https://dx.doi.org/10.3390/gels10040219
+Transpiration-Inspired Fabric Dressing for Acceleration Healing of Wound Infected with Biofilm.|https://dx.doi.org/10.1002/adhm.202401005

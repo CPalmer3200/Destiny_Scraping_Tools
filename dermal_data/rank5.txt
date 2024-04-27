@@ -17,3 +17,7 @@ In vitro and in vivo evaluation of the anti-infective potential of the essential
 Structure optimizing of flavonoids against both MRSA and VRE.|https://dx.doi.org/10.1016/j.ejmech.2024.116401
 Chemo-photothermal therapy of chitosan/gold nanorod clusters for antibacterial treatment against the infection of planktonic and biofilm MRSA.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131673
 The bacillithiol pathway is required for biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.micpath.2024.106657
+In Vitro/Vivo Mechanisms of Antibacterial Peptide NZ2114 against Staphylococcus pseudintermedius and Its Biofilms.|https://dx.doi.org/10.3390/antibiotics13040341
+Identification and florfenicol-treatment of pseudomonas putida infection in gilthead seabream (Sparus aurata) fed on tilapia-trash-feed.|https://dx.doi.org/10.1186/s12917-024-04004-z
+Prophage-encoded methyltransferase drives adaptation of community-acquired methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1101/2024.04.17.589803
+Bactericidal and biofilm eradication efficacy of a fluorinated benzimidazole derivative, TFBZ, against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fphar.2024.1342821
