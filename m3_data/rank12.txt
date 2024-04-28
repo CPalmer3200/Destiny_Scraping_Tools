@@ -27,3 +27,4 @@ A retrospective chart review assessing antibiotic treatment of hospitalized pati
 COVID-19 and Clostridioides difficile Coinfection Analysis in the Intensive Care Unit.|https://dx.doi.org/10.3390/antibiotics13040367
 Environmental and Nutritional Parameters Modulating Genetic Expression for Virulence Factors of Clostridioides difficile.|https://dx.doi.org/10.3390/antibiotics13040365
 Identifying Contact Time Required for Secondary Transmission of Clostridioides difficile Infections by Using Real-Time Locating System.|https://dx.doi.org/10.3201/eid3005.231588
+Antimicrobial Effects of Some Natural Products on Adhesion and Biofilm Inhibition of Clostridioides difficile.|https://dx.doi.org/10.3390/pharmaceutics16040478

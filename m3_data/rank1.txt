@@ -9,3 +9,4 @@ Management and Outcomes of Patients at a Specialty Clinic for Clostridioides dif
 Is shorter also better in the treatment of Clostridioides difficile infection?|https://dx.doi.org/10.1093/jac/dkae119
 Machine Learning-based Prediction Models for C difficile Infection: A Systematic Review.|https://dx.doi.org/10.14309/ctg.0000000000000705
 Derotational distal femur osteotomy with medial patellofemoral ligament reconstruction can get good outcomes in the treatment of recurrent patellar dislocation with excessive TT-TG and increased femoral anteversion.|https://dx.doi.org/10.3389/fsurg.2024.1392947
+Clostridiodes difficile infection in inflammatory bowel disease: a clinical review.|https://dx.doi.org/10.1080/14787210.2024.2347955

@@ -36,3 +36,6 @@ Association between onychomycosis and ulcerative complications in patients with 
 Teicoplanin-decorated Reduced Graphene Oxide Incorporated Silk Protein Hybrid Hydrogel for Accelerating Infectious Diabetic Wound Healing and Preventing Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.1002/adhm.202304572
 Multimodal imaging device to comprehensively assess infection, oxygenation, and wound analytics-A pilot study.|https://dx.doi.org/10.1111/wrr.13187
 The effect of the different waves of COVID-19 pandemic on the outcome of diabetic foot ulcers.|https://dx.doi.org/10.1177/15347346241237284
+The Potential Role of Presepsin in Predicting Severe Infection in Patients with Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/jcm13082311
+Confronting a New Challenge in Plastic Surgery: MDR Infections in Patients with Chronic Wounds.|https://dx.doi.org/10.3390/life14040444
+Level of Agreement With a Multi-Test Approach to the Diagnosis of Diabetic Foot Osteomyelitis: Methodological Issue.|https://dx.doi.org/10.1053/j.jfas.2023.11.006

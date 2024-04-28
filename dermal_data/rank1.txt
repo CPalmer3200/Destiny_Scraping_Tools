@@ -8,3 +8,4 @@ Rice husk valorisation by in situ grown MoS(2) nanoflowers: a dual-action cataly
 A woman in her fifties with a post-operative infection, generalised rash and organ failure.|https://dx.doi.org/10.4045/tidsskr.23.0623
 Repurposing Farnesol for Combating Drug-Resistant and Persistent Single and Polymicrobial Biofilms.|https://dx.doi.org/10.3390/antibiotics13040350
 Specific and off-target immune responses following COVID-19 vaccination with ChAdOx1-S and BNT162b2 vaccines-an exploratory sub-study of the BRACE trial.|https://dx.doi.org/10.1016/j.ebiom.2024.105100
+Extended Reality Head-Mounted Displays Are Likely to Pose a Significant Risk in Medical Settings While Current Classification Remains as Non-Critical.|https://dx.doi.org/10.3390/microorganisms12040815

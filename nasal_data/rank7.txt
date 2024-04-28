@@ -7,3 +7,9 @@ New strontium-based coatings show activity against pathogenic bacteria in spine 
 Insights into microorganisms, associated factors, and the oral microbiome in infective endocarditis patients.|https://dx.doi.org/10.3389/froh.2024.1270492
 Prevalence and Resistance Patterns of Urinary Tract Infection in Al-Madinah Al-Munawarah, Saudi Arabia: A Retrospective Study.|https://dx.doi.org/10.24976/Discov.Med.202436183.80
 Static Versus Articulating Spacer: Does Infectious Pathogen Type Affect Treatment Success?|https://dx.doi.org/10.1097/CORR.0000000000003075
+Extended Reality Head-Mounted Displays Are Likely to Pose a Significant Risk in Medical Settings While Current Classification Remains as Non-Critical.|https://dx.doi.org/10.3390/microorganisms12040815
+Isolation and Identification of Chicken-Derived Lactic Acid Bacteria: In Vitro Probiotic Properties and Antagonistic Effects against Salmonella pullorum, Staphylococcus aureus, and Escherichia coli.|https://dx.doi.org/10.3390/microorganisms12040795
+Role of Staphylococcus aureus's Buoyant Density in the Development of Biofilm Associated Antibiotic Susceptibility.|https://dx.doi.org/10.3390/microorganisms12040759
+Cell-Free Supernatant from a Strain of Bacillus siamensis Isolated from the Skin Showed a Broad Spectrum of Antimicrobial Activity.|https://dx.doi.org/10.3390/microorganisms12040718
+Injectable nanoparticle-crosslinked xyloglucan/ε-poly-l-lysine composite hydrogel with hemostatic, antimicrobial, and angiogenic properties for infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122102
+Chitosan/starch based unoxidized tannic acid modified microparticles for rapid hemostasis with broad spectrum antibacterial activity.|https://dx.doi.org/10.1016/j.carbpol.2024.122111

@@ -5,3 +5,4 @@ Targeting FTO induces colorectal cancer ferroptotic cell death by decreasing SLC
 Prevalence and genetic characteristics of Staphylococcus aureus isolates from cell phones of medical students from Iran.|https://dx.doi.org/10.1556/030.2024.02193
 Indwelling pleural catheter infection and colonisation: a clinical practice review.|https://dx.doi.org/10.21037/jtd-23-1761
 Hygiene Measures and Decolonization of Staphylococcus aureus Made Simple for the Pediatric Practitioner.|https://dx.doi.org/10.1097/INF.0000000000004294
+Correction: Alhasso et al. Development of a Nanoemulgel for the Topical Application of Mupirocin. Pharmaceutics 2023, 15, 2387.|https://dx.doi.org/10.3390/pharmaceutics16040448

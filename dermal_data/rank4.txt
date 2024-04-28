@@ -47,3 +47,11 @@ A Lignin Silver Nanoparticles/Polyvinyl Alcohol/Sodium Alginate Hybrid Hydrogel 
 Chitosan-Oxidized Pullulan Hydrogels Loaded with Essential Clove Oil: Synthesis, Characterization, Antioxidant and Antimicrobial Properties.|https://dx.doi.org/10.3390/gels10040227
 Dual-Delivery Temperature-Sensitive Hydrogel with Antimicrobial and Anti-Inflammatory Brevilin A and Nitric Oxide for Wound Healing in Bacterial Infection.|https://dx.doi.org/10.3390/gels10040219
 Transpiration-Inspired Fabric Dressing for Acceleration Healing of Wound Infected with Biofilm.|https://dx.doi.org/10.1002/adhm.202401005
+Antibacterial and Hemolytic Activity of Antimicrobial Hydrogels Utilizing Immobilized Antimicrobial Peptides.|https://dx.doi.org/10.3390/ijms25084200
+Electrospun Nanofibers Loaded with Marigold Extract Based on PVP/HPβCD and PCL/PVP Scaffolds for Wound Healing Applications.|https://dx.doi.org/10.3390/ma17081736
+Injectable nanoparticle-crosslinked xyloglucan/ε-poly-l-lysine composite hydrogel with hemostatic, antimicrobial, and angiogenic properties for infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122102
+CDI crosslinked chitosan/poly (vinyl alcohol) electrospun nanofibers loaded with Achillea millefolium and Viola extract: A promising wound dressing.|https://dx.doi.org/10.1016/j.carbpol.2024.122117
+Protamine-grafted carboxymethyl chitosan based hydrogel with adhesive and long-term antibacterial properties for hemostasis and skin wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122125
+Thermosensitive composite based on agarose and chitosan saturated with carbon dioxide. Preliminary study of requirements for production of new CSAG bioink.|https://dx.doi.org/10.1016/j.carbpol.2024.122120
+Hydrogel loaded with thiolated chitosan modified taxifolin liposome promotes osteoblast proliferation and regulates Wnt signaling pathway to repair rat skull defects.|https://dx.doi.org/10.1016/j.carbpol.2024.122115
+A synergistically antimicrobial and antioxidant hyaluronic acid hydrogel for infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131795
