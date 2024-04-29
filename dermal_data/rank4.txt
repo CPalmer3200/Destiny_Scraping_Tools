@@ -55,3 +55,6 @@ Protamine-grafted carboxymethyl chitosan based hydrogel with adhesive and long-t
 Thermosensitive composite based on agarose and chitosan saturated with carbon dioxide. Preliminary study of requirements for production of new CSAG bioink.|https://dx.doi.org/10.1016/j.carbpol.2024.122120
 Hydrogel loaded with thiolated chitosan modified taxifolin liposome promotes osteoblast proliferation and regulates Wnt signaling pathway to repair rat skull defects.|https://dx.doi.org/10.1016/j.carbpol.2024.122115
 A synergistically antimicrobial and antioxidant hyaluronic acid hydrogel for infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131795
+Glycopeptide-based Multifunctional Nanofibrous Hydrogel that Facilitates the Healing of Diabetic Wounds Infected with Methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.actbio.2024.04.035
+Decellularized periosteum and sodium alginate-based photoresponsive dressing with copper selenide nanoparticles for infected-wound healing in diabetic mice.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131895
+CQDs-Cross-Linked Conductive Collagen/PAA-Based Nanocomposite Organohydrogel Coupling Flexibility with Multifunctionality for Dual-Modal Sensing of Human Motions.|https://dx.doi.org/10.1021/acsami.4c00848
