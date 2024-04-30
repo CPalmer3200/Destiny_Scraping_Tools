@@ -13,3 +13,5 @@ Clostridiodes difficile infection in inflammatory bowel disease: a clinical revi
 Fecal microbiota transplantation for recurrent C. difficile infection can be the best therapeutic option in severely immunocompromised patients depending on a case-by-case assessment of the benefit/risk ratio.|https://dx.doi.org/10.1053/j.gastro.2024.04.022
 Donor screening for fecal microbiota transplantation with a direct stool testing-based strategy: a prospective cohort study.|https://dx.doi.org/10.1016/j.micinf.2024.105341
 Clostridioides difficile Colitis.|https://dx.doi.org/10.1016/j.suc.2023.11.005
+Appendectomy versus antibiotic treatment for acute appendicitis.|https://dx.doi.org/10.1002/14651858.CD015038.pub2
+Clostridioides difficile infection is associated with differences in transcriptionally active microbial communities.|https://dx.doi.org/10.3389/fmicb.2024.1398018

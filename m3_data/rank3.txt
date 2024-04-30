@@ -2,3 +2,4 @@ The potential for artificial intelligence to transform healthcare: perspectives 
 Infectious Diseases: What You May Have Missed in 2023.|https://dx.doi.org/10.7326/M24-0679
 Defining predictors of responsiveness to advanced therapies in Crohn's disease and ulcerative colitis: protocol for the IBD-RESPONSE and nested CD-metaRESPONSE prospective, multicentre, observational cohort study in precision medicine.|https://dx.doi.org/10.1136/bmjopen-2023-073639
 The Association Between Duration of Antibiotics and Infectious Complications Following Radical Cystectomy: Analysis of the 2019-2021 NSQIP Database.|https://dx.doi.org/10.1016/j.urology.2024.04.006
+Guideline for the management of Clostridioides difficile infection in pediatric patients with cancer and hematopoietic cell transplantation recipients: 2024 update.|https://dx.doi.org/10.1016/j.eclinm.2024.102604

@@ -22,3 +22,4 @@ Identification and florfenicol-treatment of pseudomonas putida infection in gilt
 Prophage-encoded methyltransferase drives adaptation of community-acquired methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1101/2024.04.17.589803
 Bactericidal and biofilm eradication efficacy of a fluorinated benzimidazole derivative, TFBZ, against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fphar.2024.1342821
 Cell-Free Supernatant from a Strain of Bacillus siamensis Isolated from the Skin Showed a Broad Spectrum of Antimicrobial Activity.|https://dx.doi.org/10.3390/microorganisms12040718
+Safety and effectiveness of an antiseptic wound cleansing and irrigation solution containing polyhexamethylene biguanide.|https://dx.doi.org/10.12968/jowc.2024.33.5.324

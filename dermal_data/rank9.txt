@@ -10,3 +10,4 @@ Dry and liquid formulations of IBT-V02, a novel multi-component toxoid vaccine, 
 Severe cellulitis from methicillin-resistant Staphylococcus aureus (MRSA) in a couple of preterm twins: a case report.|https://dx.doi.org/10.1186/s13052-024-01659-0
 QbD Based Formulation Development and Optimisation of Ozenoxacin Topical Nano-Emulgel and Efficacy Evaluation Using Impetigo Mice Model.|https://dx.doi.org/10.1208/s12249-024-02805-x
 Unusual Presentation of Staphylococcal Scalded Skin Syndrome in an Elderly Patient With Acute Kidney Injury: A Case Report.|https://dx.doi.org/10.7759/cureus.56853
+The evaluation of Staphylococcus aureus and Staphylococcus epidermidis in hospital air, their antibiotic resistance and sensitivity of S. aureus to cefoxitin.|https://dx.doi.org/10.1038/s41598-024-59463-z

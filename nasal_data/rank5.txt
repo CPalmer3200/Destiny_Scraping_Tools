@@ -4,3 +4,5 @@ The Efficacy of Fat Grafting on Treating Post-Mastectomy Pain with and without B
 The persistence of SARS-CoV-2 in tissues and its association with long COVID symptoms: a cross-sectional cohort study in China.|https://dx.doi.org/10.1016/S1473-3099(24)00171-3
 Unraveling Drug Delivery from Cyclodextrin Polymer-Coated Breast Implants: Integrating a Unidirectional Diffusion Mathematical Model with COMSOL Simulations.|https://dx.doi.org/10.3390/pharmaceutics16040486
 Impact of post-operative infection on revision procedures in breast reconstruction: A marketscan database analysis.|https://dx.doi.org/10.1016/j.bjps.2024.04.031
+Postoperative Prophylactic Antibiotic Use in Breast Reduction Mammoplasty: A Single Centre Retrospective Cohort Study.|https://dx.doi.org/10.1177/22925503221107220
+Conversion from Alloplastic to Autologous Breast Reconstruction: What Are the Inciting Factors?|https://dx.doi.org/10.1177/22925503221107214
