@@ -10,3 +10,4 @@ Repurposing Farnesol for Combating Drug-Resistant and Persistent Single and Poly
 Specific and off-target immune responses following COVID-19 vaccination with ChAdOx1-S and BNT162b2 vaccines-an exploratory sub-study of the BRACE trial.|https://dx.doi.org/10.1016/j.ebiom.2024.105100
 Extended Reality Head-Mounted Displays Are Likely to Pose a Significant Risk in Medical Settings While Current Classification Remains as Non-Critical.|https://dx.doi.org/10.3390/microorganisms12040815
 Assessing antibacterial efficacy of a polyhexanide hydrogel versus alginate-based wound dressing in burns.|https://dx.doi.org/10.12968/jowc.2024.33.5.335
+Natural polyphenolic antibacterial bio-adhesives for infected wound healing.|https://dx.doi.org/10.1039/d3bm02122j

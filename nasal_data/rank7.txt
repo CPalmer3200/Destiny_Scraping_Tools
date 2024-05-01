@@ -21,3 +21,6 @@ Exploring the pediatric nasopharyngeal bacterial microbiota with culture-based M
 Short-term Success in Treatment of an Acute Hematogenous Periprosthetic Hip Joint Infection with Debridement, Antibiotics, and Implant Retention.|https://dx.doi.org/10.13107/jocr.2024.v14.i04.4354
 Orthopedic postoperative infection profile and antibiotic sensitivity of 2038 patients across 24 countries - Call for region and institution specific surgical antimicrobial prophylaxis.|https://dx.doi.org/10.1016/j.jor.2024.04.018
 Anatomical, pathological, and histological features of experimental respiratory infection of birds by biofilm-forming bacteria Staphylococcus aureus.|https://dx.doi.org/10.14202/vetworld.2024.612-619
+Delayed infections following polybutylate-coated polyester (Ethibond) suture frontalis suspension surgery for severe blepharoptosis.|https://dx.doi.org/10.1080/01676830.2024.2338789
+Combined electrical-electrochemical phenotypic profiling of antibiotic susceptibility of in vitro biofilm models.|https://dx.doi.org/10.1039/d4an00393d
+A C-type lectin (CTL2) mediated both humoral and cellular immunity against bacterial infection in Tribolium castaneum.|https://dx.doi.org/10.1016/j.pestbp.2024.105852

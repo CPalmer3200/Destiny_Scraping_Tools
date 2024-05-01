@@ -6,3 +6,4 @@ Correction: Alhasso et al. Development of a Nanoemulgel for the Topical Applicat
 Staphylococcus aureus membrane vesicles: an evolving story.|https://dx.doi.org/10.1016/j.tim.2024.04.003
 PDADMAC/Alginate-Coated Gold Nanorod For Eradication of Staphylococcus Aureus Biofilms.|https://dx.doi.org/10.2147/IJN.S452085
 Determination of total phenolics, flavonoids, and testing of antioxidant and antibacterial activities of red ginger (Zingiber officinale var. Rubrum).|https://dx.doi.org/10.5455/javar.2024.k755
+Quorum-sensing agr system of Staphylococcus aureus primes gene expression for protection from lethal oxidative stress.|https://dx.doi.org/10.7554/eLife.89098

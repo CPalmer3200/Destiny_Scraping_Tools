@@ -6,3 +6,5 @@ Unraveling Drug Delivery from Cyclodextrin Polymer-Coated Breast Implants: Integ
 Impact of post-operative infection on revision procedures in breast reconstruction: A marketscan database analysis.|https://dx.doi.org/10.1016/j.bjps.2024.04.031
 Postoperative Prophylactic Antibiotic Use in Breast Reduction Mammoplasty: A Single Centre Retrospective Cohort Study.|https://dx.doi.org/10.1177/22925503221107220
 Conversion from Alloplastic to Autologous Breast Reconstruction: What Are the Inciting Factors?|https://dx.doi.org/10.1177/22925503221107214
+Surgical strategy in lithium-associated hyperparathyroidism: A population-based study.|https://dx.doi.org/10.1002/wjs.12071
+Short- and long-term outcomes after surgical treatment of 5918 patients with splenic flexure colon cancer by extended right colectomy, segmental colectomy and left colectomy: a systematic review and meta-analysis.|https://dx.doi.org/10.3389/fonc.2024.1244693
