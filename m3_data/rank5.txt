@@ -2,3 +2,4 @@ Genetic determinants of resistance to antimicrobial therapeutics are rare in pub
 Impact of the coronavirus disease 2019 pandemic on the incidence of other infectious diseases in the hematology hospital in Korea.|https://dx.doi.org/10.3904/kjim.2023.508
 Efficacy Assessment of the Co-Administration of Vancomycin and Metronidazole in Clostridioides difficile-Infected Mice Based on Changes in Intestinal Ecology.|https://dx.doi.org/10.4014/jmb.2312.12034
 Genotypic and phenotypic antimicrobial resistance of Irish Clostridioides difficile isolates, 2022.|https://dx.doi.org/10.1016/j.anaerobe.2024.102857
+Histidine kinase-mediated cross-regulation of the vancomycin-resistance operon in Clostridioides difficile.|https://dx.doi.org/10.1111/mmi.15273

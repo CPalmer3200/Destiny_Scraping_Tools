@@ -4,3 +4,5 @@ Defining predictors of responsiveness to advanced therapies in Crohn's disease a
 The Association Between Duration of Antibiotics and Infectious Complications Following Radical Cystectomy: Analysis of the 2019-2021 NSQIP Database.|https://dx.doi.org/10.1016/j.urology.2024.04.006
 Guideline for the management of Clostridioides difficile infection in pediatric patients with cancer and hematopoietic cell transplantation recipients: 2024 update.|https://dx.doi.org/10.1016/j.eclinm.2024.102604
 Not So Fast: Extended Oral Antibiotic Prophylaxis Does Not Reduce 90-Day Infection Rate Following Joint Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.04.064
+Fecal microbiota transplantation for irritable bowel syndrome: Current evidence and perspectives.|https://dx.doi.org/10.3748/wjg.v30.i16.2179
+Geospatial quality assessment of locally available ice for heavy metals and metalloids and their potential risks for human health in Karachi, Pakistan.|https://dx.doi.org/10.1016/j.heliyon.2024.e28252

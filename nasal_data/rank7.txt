@@ -24,3 +24,8 @@ Anatomical, pathological, and histological features of experimental respiratory 
 Delayed infections following polybutylate-coated polyester (Ethibond) suture frontalis suspension surgery for severe blepharoptosis.|https://dx.doi.org/10.1080/01676830.2024.2338789
 Combined electrical-electrochemical phenotypic profiling of antibiotic susceptibility of in vitro biofilm models.|https://dx.doi.org/10.1039/d4an00393d
 A C-type lectin (CTL2) mediated both humoral and cellular immunity against bacterial infection in Tribolium castaneum.|https://dx.doi.org/10.1016/j.pestbp.2024.105852
+In situ Photoactivated Antibacterial and Antioxidant Composite Materials to Promote Bone Repair.|https://dx.doi.org/10.1002/mabi.202400079
+Postpartum infections and antimicrobial resistance of responsible pathogens in Ukraine: results a multicenter study (2020-2022).|https://dx.doi.org/10.36740/WLek202403101
+Triggered Release of Ampicillin from Metallic Implant Coatings for Combating Periprosthetic Infections.|https://dx.doi.org/10.1021/acsami.4c06002
+Electroconductive cardiac patch based on bioactive PEDOT:PSS hydrogels.|https://dx.doi.org/10.1002/jbm.a.37729
+Prophylactic Antibiotic Use for Penetrating Trauma in Prolonged Casualty Care: A Review of the Literature and Current Guidelines.|https://dx.doi.org/10.1097/TA.0000000000004355
