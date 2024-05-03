@@ -9,3 +9,4 @@ Conversion from Alloplastic to Autologous Breast Reconstruction: What Are the In
 Surgical strategy in lithium-associated hyperparathyroidism: A population-based study.|https://dx.doi.org/10.1002/wjs.12071
 Short- and long-term outcomes after surgical treatment of 5918 patients with splenic flexure colon cancer by extended right colectomy, segmental colectomy and left colectomy: a systematic review and meta-analysis.|https://dx.doi.org/10.3389/fonc.2024.1244693
 Use of oxazolidinones (linezolid or tedizolid) for the treatment of breast infections. A case series from a tertiary referral hospital.|https://dx.doi.org/10.1007/s15010-024-02269-y
+Precision in Prevention: Tailoring Single-Use Negative Pressure Wound Therapy Utilization Through Artificial Intelligence-Based Surgical Site Complications Risk and Cost Modeling.|https://dx.doi.org/10.1089/sur.2023.274

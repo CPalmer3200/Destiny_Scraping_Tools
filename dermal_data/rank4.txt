@@ -1,2 +1,4 @@
 Preparation and characterization of a polyurethane-based sponge wound dressing with a superhydrophobic layer and an antimicrobial adherent hydrogel layer.|https://dx.doi.org/10.1016/j.actbio.2024.04.042
 Electroconductive cardiac patch based on bioactive PEDOT:PSS hydrogels.|https://dx.doi.org/10.1002/jbm.a.37729
+An injectable, chitosan-based hydrogel prepared by Schiff base reaction for anti-bacterial and sustained release applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.131808
+Silk fibroin sponge impregnated with fish bone collagen: A promising wound healing scaffold and skin tissue regeneration.|https://dx.doi.org/10.1177/03913988241249296

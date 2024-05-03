@@ -29,3 +29,7 @@ Postpartum infections and antimicrobial resistance of responsible pathogens in U
 Triggered Release of Ampicillin from Metallic Implant Coatings for Combating Periprosthetic Infections.|https://dx.doi.org/10.1021/acsami.4c06002
 Electroconductive cardiac patch based on bioactive PEDOT:PSS hydrogels.|https://dx.doi.org/10.1002/jbm.a.37729
 Prophylactic Antibiotic Use for Penetrating Trauma in Prolonged Casualty Care: A Review of the Literature and Current Guidelines.|https://dx.doi.org/10.1097/TA.0000000000004355
+Collaborative Cross mice have diverse phenotypic responses to infection with Methicillin-resistant Staphylococcus aureus USA300.|https://dx.doi.org/10.1371/journal.pgen.1011229
+Eliminate all risks: A call to reexamine the link between canine scabies and rheumatic heart disease.|https://dx.doi.org/10.1371/journal.pntd.0012115
+A study of antibiotic resistance pattern of clinical bacterial pathogens isolated from patients in a tertiary care hospital.|https://dx.doi.org/10.3389/fmicb.2024.1383989
+Clinico-Microbiological Correlates of Hospital-Acquired Pneumonia: A Hospital-Based Prospective Cohort Study.|https://dx.doi.org/10.7759/cureus.50707

@@ -8,3 +8,4 @@ PDADMAC/Alginate-Coated Gold Nanorod For Eradication of Staphylococcus Aureus Bi
 Determination of total phenolics, flavonoids, and testing of antioxidant and antibacterial activities of red ginger (Zingiber officinale var. Rubrum).|https://dx.doi.org/10.5455/javar.2024.k755
 Quorum-sensing agr system of Staphylococcus aureus primes gene expression for protection from lethal oxidative stress.|https://dx.doi.org/10.7554/eLife.89098
 Vascular Organization: Lessons from Development and Disease.|https://dx.doi.org/10.1101/cshperspect.a041160
+Non-antibiotic antimicrobial agents for chronic rhinosinusitis: a narrative review.|https://dx.doi.org/10.1016/j.bjorl.2024.101436
