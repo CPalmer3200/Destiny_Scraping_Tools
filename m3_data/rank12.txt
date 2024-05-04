@@ -30,3 +30,4 @@ Identifying Contact Time Required for Secondary Transmission of Clostridioides d
 Antimicrobial Effects of Some Natural Products on Adhesion and Biofilm Inhibition of Clostridioides difficile.|https://dx.doi.org/10.3390/pharmaceutics16040478
 Effect of Leptin Receptor Q223R Polymorphism on Clostridioides difficile Infection-Induced Macrophage Migration Inhibitory Factor Production.|https://dx.doi.org/10.1093/infdis/jiae141
 Comparison of rectal swabs and fecal samples for the detection of Clostridioides difficile infections with a new in-house PCR assay.|https://dx.doi.org/10.1128/spectrum.00225-24
+Incidence, Clinical Characteristics, and Outcomes of Clostridium difficile Infection in a Tertiary Care Center in Bahrain.|https://dx.doi.org/10.7759/cureus.57381

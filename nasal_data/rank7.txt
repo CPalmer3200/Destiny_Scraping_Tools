@@ -33,3 +33,5 @@ Collaborative Cross mice have diverse phenotypic responses to infection with Met
 Eliminate all risks: A call to reexamine the link between canine scabies and rheumatic heart disease.|https://dx.doi.org/10.1371/journal.pntd.0012115
 A study of antibiotic resistance pattern of clinical bacterial pathogens isolated from patients in a tertiary care hospital.|https://dx.doi.org/10.3389/fmicb.2024.1383989
 Clinico-Microbiological Correlates of Hospital-Acquired Pneumonia: A Hospital-Based Prospective Cohort Study.|https://dx.doi.org/10.7759/cureus.50707
+Human-Derived collagen hydrogel as an antibiotic vehicle for topical treatment of bacterial biofilms.|https://dx.doi.org/10.1371/journal.pone.0303039
+Exploring the mechanism of Huanglian ointment in alleviating wound healing after anal fistula surgery through metabolomics and proteomics.|https://dx.doi.org/10.1016/j.heliyon.2024.e29809

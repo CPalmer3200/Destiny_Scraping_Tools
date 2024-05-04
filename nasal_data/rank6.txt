@@ -9,3 +9,4 @@ Determination of total phenolics, flavonoids, and testing of antioxidant and ant
 Quorum-sensing agr system of Staphylococcus aureus primes gene expression for protection from lethal oxidative stress.|https://dx.doi.org/10.7554/eLife.89098
 Vascular Organization: Lessons from Development and Disease.|https://dx.doi.org/10.1101/cshperspect.a041160
 Non-antibiotic antimicrobial agents for chronic rhinosinusitis: a narrative review.|https://dx.doi.org/10.1016/j.bjorl.2024.101436
+High-parameter phenotypic characterization reveals a subset of human Th17 cells that preferentially produce IL-17 against M. tuberculosis antigen.|https://dx.doi.org/10.3389/fimmu.2024.1378040
