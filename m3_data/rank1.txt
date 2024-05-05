@@ -16,3 +16,4 @@ Clostridioides difficile Colitis.|https://dx.doi.org/10.1016/j.suc.2023.11.005
 Appendectomy versus antibiotic treatment for acute appendicitis.|https://dx.doi.org/10.1002/14651858.CD015038.pub2
 Clostridioides difficile infection is associated with differences in transcriptionally active microbial communities.|https://dx.doi.org/10.3389/fmicb.2024.1398018
 Correction to: A review of fecal microbiota, live-jslm for the prevention of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/ajhp/zxae113
+Clostridioides difficile infection, recurrence and the associated healthcare consumption in Sweden between 2006 and 2019: a population-based cohort study.|https://dx.doi.org/10.1186/s12879-024-09364-3

@@ -4,3 +4,4 @@ An injectable, chitosan-based hydrogel prepared by Schiff base reaction for anti
 Silk fibroin sponge impregnated with fish bone collagen: A promising wound healing scaffold and skin tissue regeneration.|https://dx.doi.org/10.1177/03913988241249296
 Human-Derived collagen hydrogel as an antibiotic vehicle for topical treatment of bacterial biofilms.|https://dx.doi.org/10.1371/journal.pone.0303039
 N-Hydroxyalkanamide Based Organo/hydrogels as Novel Scaffolds for pH-Dependent Metronidazole and Theophylline Release.|https://dx.doi.org/10.1002/cbdv.202400105
+Chemical and physical modification of graphene oxide nano-sheets using casein, Zn-Al layered double hydroxide, alginate hydrogel, and magnetic nanoparticles for biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132047
