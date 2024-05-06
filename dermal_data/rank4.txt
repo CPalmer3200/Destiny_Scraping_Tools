@@ -5,3 +5,5 @@ Silk fibroin sponge impregnated with fish bone collagen: A promising wound heali
 Human-Derived collagen hydrogel as an antibiotic vehicle for topical treatment of bacterial biofilms.|https://dx.doi.org/10.1371/journal.pone.0303039
 N-Hydroxyalkanamide Based Organo/hydrogels as Novel Scaffolds for pH-Dependent Metronidazole and Theophylline Release.|https://dx.doi.org/10.1002/cbdv.202400105
 Chemical and physical modification of graphene oxide nano-sheets using casein, Zn-Al layered double hydroxide, alginate hydrogel, and magnetic nanoparticles for biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132047
+Theranostic antibacterial hydrogel based on biopolymers cross-linked and doped with phytic acid from rice bran for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132080
+Antibacterial polyurethane foams with quaternized-chitosan as a chain extender for nasal packing and hemostasis.|https://dx.doi.org/10.1016/j.actbio.2024.04.041

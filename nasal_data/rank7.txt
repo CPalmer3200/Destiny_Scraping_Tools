@@ -35,3 +35,6 @@ A study of antibiotic resistance pattern of clinical bacterial pathogens isolate
 Clinico-Microbiological Correlates of Hospital-Acquired Pneumonia: A Hospital-Based Prospective Cohort Study.|https://dx.doi.org/10.7759/cureus.50707
 Human-Derived collagen hydrogel as an antibiotic vehicle for topical treatment of bacterial biofilms.|https://dx.doi.org/10.1371/journal.pone.0303039
 Exploring the mechanism of Huanglian ointment in alleviating wound healing after anal fistula surgery through metabolomics and proteomics.|https://dx.doi.org/10.1016/j.heliyon.2024.e29809
+Single-centre observational study of the safety and efficacy of thoracoscopy under local anaesthesia for the management of thoracic infections.|https://dx.doi.org/10.1186/s13104-024-06794-9
+Air dispersal of multidrug-resistant organisms including methicillin-resistant Staphylococcus aureus, carbapenem-resistant Acinetobacter baumannii, and carbapenemase-producing Enterobacterales in general wards: surveillance culture of air grilles.|https://dx.doi.org/10.1016/j.jhin.2024.04.011
+Pyomyositis in the sternocleidomastoid muscle in a previously healthy 36-year-old woman.|https://dx.doi.org/10.61409/V11230750
