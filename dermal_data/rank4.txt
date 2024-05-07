@@ -7,3 +7,6 @@ N-Hydroxyalkanamide Based Organo/hydrogels as Novel Scaffolds for pH-Dependent M
 Chemical and physical modification of graphene oxide nano-sheets using casein, Zn-Al layered double hydroxide, alginate hydrogel, and magnetic nanoparticles for biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132047
 Theranostic antibacterial hydrogel based on biopolymers cross-linked and doped with phytic acid from rice bran for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132080
 Antibacterial polyurethane foams with quaternized-chitosan as a chain extender for nasal packing and hemostasis.|https://dx.doi.org/10.1016/j.actbio.2024.04.041
+Sprayable and self-healing chitosan-based hydrogels for promoting healing of infected wound via anti-bacteria, anti-inflammation and angiogenesis.|https://dx.doi.org/10.1016/j.carbpol.2024.122147
+Hydroxypropyl chitosan/ε-poly-l-lysine based injectable and self-healing hydrogels with antimicrobial and hemostatic activity for wound repair.|https://dx.doi.org/10.1016/j.carbpol.2024.122135
+Efficient drug delivery potential and antimicrobial activity of biocompatible hydrogels of dextrin/Na-alginate/PVA.|https://dx.doi.org/10.1016/j.heliyon.2024.e29854
