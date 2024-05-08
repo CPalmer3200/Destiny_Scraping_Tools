@@ -1,6 +1,0 @@
-Topology Regulated Background Extraction (TRBE) method for eye fundus images.|https://dx.doi.org/10.1016/j.mex.2024.102686
-Clinical outcomes and treatment necessity in patients with toxin-negative Clostridioides difficile stool samples.|https://dx.doi.org/10.1186/s12941-024-00696-1
-Scutellaria baicalensis Georgi alleviates Clostridium difficile associated diarrhea and its modulatory effects on the gut microbiota.|https://dx.doi.org/10.1016/j.fitote.2024.105973
-Critically Evaluating the Role for Postoperative Antibiotics in Patients Undergoing Urethroplasty with Buccal Mucosa Graft: A Claims Database Analysis.|https://dx.doi.org/10.1016/j.urology.2024.03.036
-Impact of time to treatment in first occurrence, non-severe Clostridioides difficile infection for elderly patients: are we waiting too long to treat?|https://dx.doi.org/10.1017/ash.2024.46
-Outcomes and risk factors for mortality in clostridioides difficile infection in patients with NAFLD and NASH.|https://dx.doi.org/10.1016/j.aohep.2024.101510
