@@ -40,3 +40,9 @@ Air dispersal of multidrug-resistant organisms including methicillin-resistant S
 Pyomyositis in the sternocleidomastoid muscle in a previously healthy 36-year-old woman.|https://dx.doi.org/10.61409/V11230750
 Bacterial aetiology, antimicrobial susceptibility patterns, and factors associated with urinary tract infection among under-five children at primary health facility, North-Western Tanzania.|https://dx.doi.org/10.1371/journal.pone.0303369
 Puerperal mastitis caused by limited community-associated methicillin-resistant Staphylococcus aureus (CA-MRSA) clones.|https://dx.doi.org/10.3389/fmed.2024.1378207
+Respiratory pathogen and clinical features of hospitalized patients in acute exacerbation of chronic obstructive pulmonary disease after COVID 19 pandemic.|https://dx.doi.org/10.1038/s41598-024-61360-4
+Effect of 5-aminolevulinic acid-mediated photodynamic therapy against Fusobacterium nucleatum in periodontitis prevention.|https://dx.doi.org/10.1016/j.jphotobiol.2024.112926
+Evaluation of the accuracy of bacterial genome reconstruction with Oxford Nanopore R10.4.1 long-read-only sequencing.|https://dx.doi.org/10.1099/mgen.0.001246
+Clinical and anthropometric evolution of individuals with cystic fibrosis during COVID-19 pandemic: A 24-month cohort study.|https://dx.doi.org/10.1002/ppul.27027
+Race and ethnicity as risk factors for colonization and infection with key bacterial pathogens: a scoping review.|https://dx.doi.org/10.1101/2024.04.24.24306289
+An unusual case of Brodie's abscess in the humerus of an adult female.|https://dx.doi.org/10.1016/j.idcr.2024.e01977

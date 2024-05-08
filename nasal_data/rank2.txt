@@ -5,3 +5,4 @@ Nasal Staphylococcus aureus Carriage and Antimicrobial Resistance Profiles Among
 Detection of multidrug-resistant bacteria in the nasal cavities and evaluation of sinus disorders in patients undergoing Le Fort I osteotomy.|https://dx.doi.org/10.1186/s12903-024-04295-6
 Antibacterial polyurethane foams with quaternized-chitosan as a chain extender for nasal packing and hemostasis.|https://dx.doi.org/10.1016/j.actbio.2024.04.041
 Genomic characterization of Staphylococcus aureus isolated from patients admitted to intensive care units of a tertiary care hospital: epidemiological risk of nasal carriage of virulent clone during admission.|https://dx.doi.org/10.1128/spectrum.02950-23
+Staphylococcus aureus Nasal Carriage is Significantly Less Likely in Solid Organ Transplant Recipients on Post-transplant Antibiotic Prophylaxis.|https://dx.doi.org/10.1097/DSS.0000000000004168

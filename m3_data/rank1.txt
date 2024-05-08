@@ -18,3 +18,4 @@ Clostridioides difficile infection is associated with differences in transcripti
 Correction to: A review of fecal microbiota, live-jslm for the prevention of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/ajhp/zxae113
 Clostridioides difficile infection, recurrence and the associated healthcare consumption in Sweden between 2006 and 2019: a population-based cohort study.|https://dx.doi.org/10.1186/s12879-024-09364-3
 Revealing roles of S-layer protein (SlpA) in Clostridioides difficile pathogenicity by generating the first slpA gene deletion mutant.|https://dx.doi.org/10.1128/spectrum.04005-23
+A Retrospective Budget Impact Analysis of Fidaxomicin Treatment for Clostridioides difficile Infections (CDI) in Germany.|https://dx.doi.org/10.1080/14737167.2024.2352005

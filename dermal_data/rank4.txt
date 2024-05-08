@@ -10,3 +10,6 @@ Antibacterial polyurethane foams with quaternized-chitosan as a chain extender f
 Sprayable and self-healing chitosan-based hydrogels for promoting healing of infected wound via anti-bacteria, anti-inflammation and angiogenesis.|https://dx.doi.org/10.1016/j.carbpol.2024.122147
 Hydroxypropyl chitosan/ε-poly-l-lysine based injectable and self-healing hydrogels with antimicrobial and hemostatic activity for wound repair.|https://dx.doi.org/10.1016/j.carbpol.2024.122135
 Efficient drug delivery potential and antimicrobial activity of biocompatible hydrogels of dextrin/Na-alginate/PVA.|https://dx.doi.org/10.1016/j.heliyon.2024.e29854
+Agar-tragacanth/silk fibroin hydrogel containing Zn-based MOF as a novel nanobiocomposite with biological activity.|https://dx.doi.org/10.1038/s41598-024-61329-3
+An Immune-Regulating Polysaccharide Hybrid Hydrogel with Mild Photothermal Effect and Anti-Inflammatory for Accelerating Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.202400003
+The use of custom-made negative pressure wound therapy to manage acute wound infections: a retrospective outcomes study.|https://dx.doi.org/10.25270/wnds/23102
