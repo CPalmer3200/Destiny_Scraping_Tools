@@ -11,3 +11,5 @@ Vascular Organization: Lessons from Development and Disease.|https://dx.doi.org/
 Non-antibiotic antimicrobial agents for chronic rhinosinusitis: a narrative review.|https://dx.doi.org/10.1016/j.bjorl.2024.101436
 High-parameter phenotypic characterization reveals a subset of human Th17 cells that preferentially produce IL-17 against M. tuberculosis antigen.|https://dx.doi.org/10.3389/fimmu.2024.1378040
 Assessing the stability and sporicidal efficacy of oxidising disinfectants.|https://dx.doi.org/10.1016/j.jhin.2024.04.010
+Microalgae-made human vaccines and therapeutics: A decade of advances.|https://dx.doi.org/10.1002/biot.202400091
+Distinct T cell signatures are associated with Staphylococcus aureus skin infection in pediatric atopic dermatitis.|https://dx.doi.org/10.1172/jci.insight.178789

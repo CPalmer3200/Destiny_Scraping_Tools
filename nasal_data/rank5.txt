@@ -14,3 +14,5 @@ Complications After Prepectoral Versus Subpectoral Breast Reconstruction in Pati
 Impact of the COVID-19 pandemic on breast cancer patient pathways and outcomes in the United Kingdom and the Republic of Ireland - a scoping review.|https://dx.doi.org/10.1038/s41416-024-02703-w
 MAMAS (mastopexy-augmentation made applicable and safer): A standardized template of pre-operative marking and step-by-step surgical procedure.|https://dx.doi.org/10.1016/j.jpra.2024.03.007
 Granulomatous mastitis and pectoralis major muscle defect following polyacrylamide hydrogel injection: a case report and literature review.|https://dx.doi.org/10.21037/acr-23-174
+SNHG15-mediated feedback loop interplays with HNRNPA1/SLC7A11/GPX4 pathway to promote gastric cancer progression.|https://dx.doi.org/10.1111/cas.16181
+Peptide-AIE Nanofibers Functionalized Sutures with Antimicrobial Activity and Subcutaneous Traceability.|https://dx.doi.org/10.1002/adma.202400531

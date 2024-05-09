@@ -46,3 +46,6 @@ Evaluation of the accuracy of bacterial genome reconstruction with Oxford Nanopo
 Clinical and anthropometric evolution of individuals with cystic fibrosis during COVID-19 pandemic: A 24-month cohort study.|https://dx.doi.org/10.1002/ppul.27027
 Race and ethnicity as risk factors for colonization and infection with key bacterial pathogens: a scoping review.|https://dx.doi.org/10.1101/2024.04.24.24306289
 An unusual case of Brodie's abscess in the humerus of an adult female.|https://dx.doi.org/10.1016/j.idcr.2024.e01977
+Influence of Fiber Diameter of Polycaprolactone Nanofibrous Materials on Biofilm Formation and Retention of Bacterial Cells.|https://dx.doi.org/10.1021/acsami.4c03642
+WHAT IS THE EPIDEMIOLOGICAL PROFILE OF ACUTE HAND INFECTIONS AT A HOSPITAL IN SAO PAULO?|https://dx.doi.org/10.1590/1413-785220243201e277229
+Prevalence and predictors of multidrug-resistant bacteremia in liver cirrhosis.|https://dx.doi.org/10.3904/kjim.2023.354
