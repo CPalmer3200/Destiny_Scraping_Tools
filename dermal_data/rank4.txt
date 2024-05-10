@@ -13,3 +13,8 @@ Efficient drug delivery potential and antimicrobial activity of biocompatible hy
 Agar-tragacanth/silk fibroin hydrogel containing Zn-based MOF as a novel nanobiocomposite with biological activity.|https://dx.doi.org/10.1038/s41598-024-61329-3
 An Immune-Regulating Polysaccharide Hybrid Hydrogel with Mild Photothermal Effect and Anti-Inflammatory for Accelerating Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.202400003
 The use of custom-made negative pressure wound therapy to manage acute wound infections: a retrospective outcomes study.|https://dx.doi.org/10.25270/wnds/23102
+Fabrication of sulfobutylether-β-cyclodextrin/glabridin inclusion complex for promoting bioactivities.|https://dx.doi.org/10.1002/ardp.202400082
+Covalently grafting polycation to bacterial cellulose for antibacterial and anti-cell adhesive wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132157
+Lysine-based non-cytotoxic ultrashort self-assembling peptides with antimicrobial activity.|https://dx.doi.org/10.1039/d3ra08883a
+Innovative Vancomycin-Loaded Hydrogel-Based Systems - New Opportunities for the Antibiotic Therapy.|https://dx.doi.org/10.2147/IJN.S443051
+NIR-activated electrospun nanodetonator dressing enhances infected diabetic wound healing with combined photothermal and nitric oxide-based gas therapy.|https://dx.doi.org/10.1186/s12951-024-02474-9

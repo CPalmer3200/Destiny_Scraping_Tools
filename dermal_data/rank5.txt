@@ -2,3 +2,4 @@ A survey of multiple candidate probiotic bacteria reveals specificity in the abi
 The Effects of Ultrasonic Scaling and Air-Abrasive Powders on the Topography of Implant Surfaces: Scanning Electron Analysis and In Vitro Study.|https://dx.doi.org/10.1055/s-0044-1782190
 Hindering the biofilm of microbial pathogens and cancer cell lines development using silver nanoparticles synthesized by epidermal mucus proteins from Clarias gariepinus.|https://dx.doi.org/10.1186/s12896-024-00852-7
 Farnesol repurposing for prevention and treatment of Acinetobacter baumannii biofilms.|https://dx.doi.org/10.1016/j.bioflm.2024.100198
+Ambient Synthesis of Porphyrin-Based Fe-Covalent Organic Frameworks for Efficient Infected Skin Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.4c00261

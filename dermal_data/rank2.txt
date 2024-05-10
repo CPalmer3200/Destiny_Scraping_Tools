@@ -4,3 +4,5 @@ Direct metagenomics investigation of non-surgical hard-to-heal wounds: a review.
 Combining antibiotic-loaded bone cement-based free vastus lateralis muscle-sparing flap with split-thickness skin grafts: A reliable strategy for reconstructing diabetic foot ulcers at non-weight-bearing areas.|https://dx.doi.org/10.1111/iwj.14900
 The Efficacy of Diabetic Foot Treatment in a "TOSF" Pattern: A Five-Year Retrospective Study.|https://dx.doi.org/10.2147/DMSO.S461112
 Subcutaneous phaeohyphomycosis due to Phaeoacremonium venezuelense: The first clinical case report in Costa Rica.|https://dx.doi.org/10.1016/j.mmcr.2024.100650
+Effect of Elevated Blood Glucose on Postoperative Complications Among Diabetic Patients After Surgical Treatment of Torsional Ankle Fracture.|https://dx.doi.org/10.1177/10711007241250005
+Surveillance of Enterobacteriaceae from Diabetic Foot Infections in a Tunisian Hospital: Detection of E. coli-ST131-bla(CTX-M-15) and K. pneumoniae-ST1-bla(NDM-1) Strains.|https://dx.doi.org/10.1089/mdr.2023.0335
