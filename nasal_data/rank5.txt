@@ -16,3 +16,4 @@ MAMAS (mastopexy-augmentation made applicable and safer): A standardized templat
 Granulomatous mastitis and pectoralis major muscle defect following polyacrylamide hydrogel injection: a case report and literature review.|https://dx.doi.org/10.21037/acr-23-174
 SNHG15-mediated feedback loop interplays with HNRNPA1/SLC7A11/GPX4 pathway to promote gastric cancer progression.|https://dx.doi.org/10.1111/cas.16181
 Peptide-AIE Nanofibers Functionalized Sutures with Antimicrobial Activity and Subcutaneous Traceability.|https://dx.doi.org/10.1002/adma.202400531
+Optimizing the Pedicled Latissimus Dorsi Myocutaneous Flap in Breast Reconstruction: Lessons Learned from 110 Consecutive Flaps.|https://dx.doi.org/10.1097/GOX.0000000000005791
