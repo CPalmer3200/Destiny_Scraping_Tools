@@ -59,3 +59,10 @@ Establishment of a Multiplex Detection Method for Common Bacteria in Blood Based
 The microbiological profile of necrotising fasciitis at a secondary level hospital in Gauteng.|https://dx.doi.org/10.4102/sajid.v39i1.542
 Functional dependence as a contributing factor for patient hand contamination by multi-drug resistant organisms (MDROs) in acute care.|https://dx.doi.org/10.1017/ice.2024.70
 Impact of COVID-19 on antimicrobial stewardship activities in Italy: a region-wide assessment.|https://dx.doi.org/10.1186/s13756-024-01407-3
+Cutaneous inflammasome driving ASC / gasdermin-D activation and IL-1β-secreting macrophages in severe atopic dermatitis.|https://dx.doi.org/10.1007/s00403-024-02899-0
+Driveline Infection in Patients With Left Ventricular Assist Devices Implanted as Destination Therapy.|https://dx.doi.org/10.1016/j.transproceed.2024.03.029
+Staphylococcus aureus-specific skin resident memory T cells protect against bacteria colonization but exacerbate atopic dermatitis-like flares in mice.|https://dx.doi.org/10.1016/j.jaci.2024.03.032
+Outcomes Following Different Management of Mycotic Infrarenal Abdominal Aortic Aneurysms.|https://dx.doi.org/10.1177/15266028241253128
+Assessing the Impact of Spraying an Enterococcus faecium-Based Probiotic on Day-Old Broiler Chicks at Hatch on the Incidence of Bacterial Chondronecrosis with Osteomyelitis Lameness Using a Staphylococcus Challenge Model.|https://dx.doi.org/10.3390/ani14091369
+Impact of Povidone Application to Nares in Addition to Chlorhexidine Bath in Critically Ill Patients on Nosocomial Bacteremia and Central Line Blood Stream Infection.|https://dx.doi.org/10.3390/jcm13092647
+Regional Spondylodiscitis Disparities: Impact on Pathogen Spectrum and Patients.|https://dx.doi.org/10.3390/jcm13092557

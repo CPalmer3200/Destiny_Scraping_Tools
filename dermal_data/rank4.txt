@@ -18,3 +18,6 @@ Covalently grafting polycation to bacterial cellulose for antibacterial and anti
 Lysine-based non-cytotoxic ultrashort self-assembling peptides with antimicrobial activity.|https://dx.doi.org/10.1039/d3ra08883a
 Innovative Vancomycin-Loaded Hydrogel-Based Systems - New Opportunities for the Antibiotic Therapy.|https://dx.doi.org/10.2147/IJN.S443051
 NIR-activated electrospun nanodetonator dressing enhances infected diabetic wound healing with combined photothermal and nitric oxide-based gas therapy.|https://dx.doi.org/10.1186/s12951-024-02474-9
+All-in-one hydrogel patches with sprayed bFGF-loaded GelMA microspheres for infected wound healing studies.|https://dx.doi.org/10.1016/j.ijpharm.2024.124205
+Electron Beam-Supported Fabrication of Biocompatible Silver/iota-Carrageenan for Wound Healing Application.|https://dx.doi.org/10.1021/acsabm.3c01110
+A Zn-MOF-GOx-based Cascade Nanoreactor Promotes Diabetic Infected Wound Healing by NO Release and Microenvironment Regulation.|https://dx.doi.org/10.1016/j.actbio.2024.05.015

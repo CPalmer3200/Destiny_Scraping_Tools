@@ -4,3 +4,6 @@ Hindering the biofilm of microbial pathogens and cancer cell lines development u
 Farnesol repurposing for prevention and treatment of Acinetobacter baumannii biofilms.|https://dx.doi.org/10.1016/j.bioflm.2024.100198
 Ambient Synthesis of Porphyrin-Based Fe-Covalent Organic Frameworks for Efficient Infected Skin Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.4c00261
 High-Intensity Blue Light (450-460 nm) Phototherapy for Pseudomonas aeruginosa-Infected Wounds.|https://dx.doi.org/10.1089/pho.2023.0180
+Investigation into the Anti-Acne Effects of Castanea sativa Mill Leaf and Its Pure Ellagitannin Castalagin in HaCaT Cells Infected with Cutibacterium acnes.|https://dx.doi.org/10.3390/ijms25094764
+Antibiofilm Activity of Combretum micranthum G. Don Catechin-Sugar Phytocomplex on Pseudomonas aeruginosa.|https://dx.doi.org/10.3390/molecules29092091
+Acorus calamus L. rhizome extract and its bioactive fraction exhibits antibacterial effect by modulating membrane permeability and fatty acid composition.|https://dx.doi.org/10.1016/j.jep.2024.118323
