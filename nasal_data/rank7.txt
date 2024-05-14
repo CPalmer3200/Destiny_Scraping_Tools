@@ -66,3 +66,4 @@ Outcomes Following Different Management of Mycotic Infrarenal Abdominal Aortic A
 Assessing the Impact of Spraying an Enterococcus faecium-Based Probiotic on Day-Old Broiler Chicks at Hatch on the Incidence of Bacterial Chondronecrosis with Osteomyelitis Lameness Using a Staphylococcus Challenge Model.|https://dx.doi.org/10.3390/ani14091369
 Impact of Povidone Application to Nares in Addition to Chlorhexidine Bath in Critically Ill Patients on Nosocomial Bacteremia and Central Line Blood Stream Infection.|https://dx.doi.org/10.3390/jcm13092647
 Regional Spondylodiscitis Disparities: Impact on Pathogen Spectrum and Patients.|https://dx.doi.org/10.3390/jcm13092557
+SaLTy: a novel Staphylococcus aureus Lineage Typer.|https://dx.doi.org/10.1099/mgen.0.001250

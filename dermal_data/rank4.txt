@@ -21,3 +21,5 @@ NIR-activated electrospun nanodetonator dressing enhances infected diabetic woun
 All-in-one hydrogel patches with sprayed bFGF-loaded GelMA microspheres for infected wound healing studies.|https://dx.doi.org/10.1016/j.ijpharm.2024.124205
 Electron Beam-Supported Fabrication of Biocompatible Silver/iota-Carrageenan for Wound Healing Application.|https://dx.doi.org/10.1021/acsabm.3c01110
 A Zn-MOF-GOx-based Cascade Nanoreactor Promotes Diabetic Infected Wound Healing by NO Release and Microenvironment Regulation.|https://dx.doi.org/10.1016/j.actbio.2024.05.015
+Chitosan-based GOx@Co-MOF composite hydrogel: A promising strategy for enhanced antibacterial and wound healing effects.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132120
+LL37 Microspheres Loaded on Activated Carbon-chitosan Hydrogel: Anti-bacterial and Anti-toxin Wound Dressing for Chronic Wound Infections.|https://dx.doi.org/10.1208/s12249-024-02826-6

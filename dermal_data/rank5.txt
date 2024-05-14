@@ -8,3 +8,5 @@ Investigation into the Anti-Acne Effects of Castanea sativa Mill Leaf and Its Pu
 Antibiofilm Activity of Combretum micranthum G. Don Catechin-Sugar Phytocomplex on Pseudomonas aeruginosa.|https://dx.doi.org/10.3390/molecules29092091
 Acorus calamus L. rhizome extract and its bioactive fraction exhibits antibacterial effect by modulating membrane permeability and fatty acid composition.|https://dx.doi.org/10.1016/j.jep.2024.118323
 Bacterial fluorescence imaging as a predictor of skin graft integration in burn wounds.|https://dx.doi.org/10.1016/j.burns.2024.04.003
+NF-κB-Signaling-Targeted Immunomodulatory Nanoparticle with Photothermal and Quorum-Sensing Inhibition Effects for Efficient Healing of Biofilm-Infected Wounds.|https://dx.doi.org/10.1021/acsami.4c03142
+Comparative virulome analysis of four Staphylococcus epidermidis strains from human skin and platelet concentrates using whole genome sequencing.|https://dx.doi.org/10.1099/acmi.0.000780.v3
