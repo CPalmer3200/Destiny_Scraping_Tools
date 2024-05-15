@@ -14,3 +14,4 @@ Assessing the stability and sporicidal efficacy of oxidising disinfectants.|http
 Microalgae-made human vaccines and therapeutics: A decade of advances.|https://dx.doi.org/10.1002/biot.202400091
 Distinct T cell signatures are associated with Staphylococcus aureus skin infection in pediatric atopic dermatitis.|https://dx.doi.org/10.1172/jci.insight.178789
 LL37 Microspheres Loaded on Activated Carbon-chitosan Hydrogel: Anti-bacterial and Anti-toxin Wound Dressing for Chronic Wound Infections.|https://dx.doi.org/10.1208/s12249-024-02826-6
+Emerging challenges in antimicrobial resistance: implications for pathogenic microorganisms, novel antibiotics, and their impact on sustainability.|https://dx.doi.org/10.3389/fmicb.2024.1403168

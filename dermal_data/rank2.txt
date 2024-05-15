@@ -10,3 +10,4 @@ Gases and gas-releasing materials for the treatment of chronic diabetic wounds.|
 Janus liposozyme for the modulation of redox and immune homeostasis in infected diabetic wounds.|https://dx.doi.org/10.1038/s41565-024-01660-y
 Using 3D Bioprinted Autologous Minimally Manipulated Homologous Adipose Tissue for Limb Salvage in Treating Diabetic Foot Ulcer.|https://dx.doi.org/10.1055/a-2263-7957
 Effects of Recombinant Human Granulocyte/Macrophage Colony-Stimulating Factor on Diabetic Lower Extremity Ulcers: Case Series of Nine Patients.|https://dx.doi.org/10.2147/DMSO.S461349
+GlmS plays a key role in the virulence factor expression and biofilm formation ability of Staphylococcus aureus promoted by advanced glycation end products.|https://dx.doi.org/10.1080/21505594.2024.2352476
