@@ -4,3 +4,4 @@ Validation of clinical risk tools for recurrent Clostridioides difficile infecti
 Clostridioides Difficile: A Concise Review of Best Practices and Updates.|https://dx.doi.org/10.1177/21501319241249645
 Fighting against Clostridioides difficile infection: Current medications.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107198
 Breaking the Cycle of Recurrent Clostridioides difficile Infections: A Narrative Review Exploring Current and Novel Therapeutic Strategies.|https://dx.doi.org/10.1177/08971900241248883
+Rational Design of Live Biotherapeutic Products for the Prevention of Clostridioides difficile Infection.|https://dx.doi.org/10.1101/2024.04.30.591969

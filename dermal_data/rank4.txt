@@ -23,3 +23,7 @@ Electron Beam-Supported Fabrication of Biocompatible Silver/iota-Carrageenan for
 A Zn-MOF-GOx-based Cascade Nanoreactor Promotes Diabetic Infected Wound Healing by NO Release and Microenvironment Regulation.|https://dx.doi.org/10.1016/j.actbio.2024.05.015
 Chitosan-based GOx@Co-MOF composite hydrogel: A promising strategy for enhanced antibacterial and wound healing effects.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132120
 LL37 Microspheres Loaded on Activated Carbon-chitosan Hydrogel: Anti-bacterial and Anti-toxin Wound Dressing for Chronic Wound Infections.|https://dx.doi.org/10.1208/s12249-024-02826-6
+Fabrication and characterization of sodium alginate-silicon nitride-PVA composite biomaterials with damping properties.|https://dx.doi.org/10.1016/j.jmbbm.2024.106579
+Silver-loaded poly(vinyl alcohol)/polycaprolactone polymer scaffold as a biocompatible antibacterial system.|https://dx.doi.org/10.1038/s41598-024-61567-5
+Tannic Acid Incorporated Antibacterial Polyethylene Glycol-Based Hydrogel Sponges for Management of Wound Infections.|https://dx.doi.org/10.1002/mabi.202400101
+Lignin-cellulose complexes derived from agricultural wastes for combined antibacterial and tissue engineering scaffolds for cutaneous leishmaniasis wounds.|https://dx.doi.org/10.1039/d4tb00458b

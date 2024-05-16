@@ -1,2 +1,3 @@
 Comparison of fidaxomicin, thuricin CD, vancomycin and nisin highlights the narrow spectrum nature of thuricin CD.|https://dx.doi.org/10.1080/19490976.2024.2342583
 Perioperative cefazolin prescribing rates following suppression of alerts for non-IgE-mediated penicillin allergies.|https://dx.doi.org/10.1017/ice.2024.80
+Lowering the Acquisition of Multi-drug Resistant Organism (MDROs) with Pulsed-xenon (LAMP) Study: a cluster randomized controlled, double-blinded, interventional crossover trial.|https://dx.doi.org/10.1093/cid/ciae240

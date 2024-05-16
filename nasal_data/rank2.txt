@@ -7,3 +7,5 @@ Antibacterial polyurethane foams with quaternized-chitosan as a chain extender f
 Genomic characterization of Staphylococcus aureus isolated from patients admitted to intensive care units of a tertiary care hospital: epidemiological risk of nasal carriage of virulent clone during admission.|https://dx.doi.org/10.1128/spectrum.02950-23
 Staphylococcus aureus Nasal Carriage is Significantly Less Likely in Solid Organ Transplant Recipients on Post-transplant Antibiotic Prophylaxis.|https://dx.doi.org/10.1097/DSS.0000000000004168
 Prevalence of multi-drug resistant bacteria in intensive care units at Tripoli University Hospital, Tripoli, Libya.|https://dx.doi.org/10.1080/19932820.2024.2348235
+Lipase-mediated detoxification of host-derived antimicrobial fatty acids by Staphylococcus aureus.|https://dx.doi.org/10.1038/s42003-024-06278-3
+Can habits and behaviors predict colonization by community-associated MRSA in patients admitted to a Brazilian hospital?|https://dx.doi.org/10.1590/S1678-9946202466031
