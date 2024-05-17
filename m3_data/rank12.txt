@@ -1,2 +1,3 @@
 Defining the phylogenetics and resistome of the major Clostridioides difficile ribotypes circulating in Australia.|https://dx.doi.org/10.1099/mgen.0.001232
 Influence of Antibiotic Exposure Intensity on the Risk of Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciae259
+Discovery and Structure-Activity Relationship of Cadazolid: A First-In-Class Quinoxolidinone Antibiotic for the Treatment of Clostridioides difficile Infection.|https://dx.doi.org/10.1021/acs.jmedchem.4c00558

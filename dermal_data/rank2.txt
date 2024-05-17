@@ -14,3 +14,8 @@ GlmS plays a key role in the virulence factor expression and biofilm formation a
 Rapid Access From Primary Care to a Multidisciplinary Clinic at Tertiary Care Improves Clinical Outcomes for Patients With Diabetic Foot Ulcers: Results From Diabetic Foot in Primary and Tertiary (DEFINITE) Care's Lower Extremity Amputation Prevention Program (LEAPP) Clinic.|https://dx.doi.org/10.1177/15347346241252200
 A peptide-based pH-sensitive antibacterial hydrogel for healing drug-resistant biofilm-infected diabetic wounds.|https://dx.doi.org/10.1039/d4tb00594e
 Impact of foot ulcer-related factors on quality of life in patients with diabetes: Prospective observational study.|https://dx.doi.org/10.1111/iwj.14895
+Risk factors for malnutrition in patients with diabetic foot ulcer and its association with prolonged length of hospitalization.|https://dx.doi.org/10.1038/s41387-024-00290-6
+Treating chronic wounds in an acute care setting: the forgotten diagnosis.|https://dx.doi.org/10.25270/wmp.22085
+Nanozymes for the Therapeutic Treatment of Diabetic Foot Ulcers.|https://dx.doi.org/10.1021/acsbiomaterials.4c00470
+Rifampicin in the Treatment of Refractory Diabetic Foot Ulcer and Diabetic Foot Osteomyelitis-an Observational Study.|https://dx.doi.org/10.1177/15347346241229890
+Enhancing Wound Healing in Chronic Diabetic Foot Ulcers: A Case Report of Topical Oxygen Therapy with Granulox®.|https://dx.doi.org/10.1177/15347346241251386

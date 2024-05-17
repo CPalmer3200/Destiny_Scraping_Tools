@@ -13,3 +13,6 @@ Comparative virulome analysis of four Staphylococcus epidermidis strains from hu
 Lipase-mediated detoxification of host-derived antimicrobial fatty acids by Staphylococcus aureus.|https://dx.doi.org/10.1038/s42003-024-06278-3
 Biosynthesized silver nanoparticles prevent bacterial infection in chicken egg model and mitigate biofilm formation on medical catheters.|https://dx.doi.org/10.1007/s00775-024-02050-4
 Synergy of lytic phage pB23 and meropenem combination against carbapenem-resistant Acinetobacter baumannii.|https://dx.doi.org/10.1128/aac.00448-24
+Poly-β-(1→6)-N-acetyl-D-glucosamine mediates surface attachment, biofilm formation, and biocide resistance in Cutibacterium acnes.|https://dx.doi.org/10.3389/fmicb.2024.1386017
+In Vitro Evaluation of Mangostanin as an Antimicrobial and Biocompatible Topical Antiseptic for Skin and Oral Tissues.|https://dx.doi.org/10.1021/acsptsci.4c00082
+Anti-MRSA mechanism of spirostane saponin in Rohdea pachynema F.T.Wang & Tang.|https://dx.doi.org/10.1016/j.jep.2024.118327

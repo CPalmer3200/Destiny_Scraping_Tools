@@ -77,3 +77,9 @@ The capsular polysaccharide obstructs wall teichoic acid functions in Staphyloco
 Stingless bee honey: Nutritional, physicochemical, phytochemical and antibacterial validation properties against wound bacterial isolates.|https://dx.doi.org/10.1371/journal.pone.0301201
 Lowering the Acquisition of Multi-drug Resistant Organism (MDROs) with Pulsed-xenon (LAMP) Study: a cluster randomized controlled, double-blinded, interventional crossover trial.|https://dx.doi.org/10.1093/cid/ciae240
 Antiseptic management of critical wounds: differential bacterial response upon exposure to antiseptics and first insights into antiseptic/phage interactions - experimental studies.|https://dx.doi.org/10.1097/JS9.0000000000001605
+Bullet-related bacterial wound infections among injured personnel at emergency site hospitals in Bahir Dar: prevalence, antimicrobial susceptibility and associated factors.|https://dx.doi.org/10.1186/s12866-024-03324-2
+Development of a multiplex Loop-Mediated Isothermal Amplification (LAMP) for the diagnosis of bacterial periprosthetic joint infection.|https://dx.doi.org/10.1371/journal.pone.0302783
+IL-24 promotes atopic dermatitis-like inflammation through driving MRSA-induced allergic responses.|https://dx.doi.org/10.1093/procel/pwae030
+Antimicrobial coatings based on amine-terminated graphene oxide and Nafion with remarkable thermal resistance.|https://dx.doi.org/10.1039/d3na01154b
+Cervical cancer screening practices in HIV positive females - a missing link in health care delivery in Pakistan.|https://dx.doi.org/10.47391/JPMA.8211
+Tissue engineered multifunctional chitosan-modified polypropylene hernia mesh loaded with bioactive phyto-extracts.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132282
