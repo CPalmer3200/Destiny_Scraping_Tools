@@ -16,3 +16,4 @@ Synergy of lytic phage pB23 and meropenem combination against carbapenem-resista
 Poly-β-(1→6)-N-acetyl-D-glucosamine mediates surface attachment, biofilm formation, and biocide resistance in Cutibacterium acnes.|https://dx.doi.org/10.3389/fmicb.2024.1386017
 In Vitro Evaluation of Mangostanin as an Antimicrobial and Biocompatible Topical Antiseptic for Skin and Oral Tissues.|https://dx.doi.org/10.1021/acsptsci.4c00082
 Anti-MRSA mechanism of spirostane saponin in Rohdea pachynema F.T.Wang & Tang.|https://dx.doi.org/10.1016/j.jep.2024.118327
+Effect of Ducrosia anethifolia methanol extract against methicillin resistant Staphylococcus aureus and Pseudomonas aeruginosa biofilms on excision wound in diabetic mice.|https://dx.doi.org/10.3389/fcimb.2024.1386483

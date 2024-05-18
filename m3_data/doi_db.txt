@@ -2362,3 +2362,5 @@ Unknown DOI
 10.1016/j.anaerobe.2024.102864
 10.1038/s41598-024-62136-6
 10.1021/acs.jmedchem.4c00558
+10.1093/ofid/ofae244
+10.1001/jamanetworkopen.2024.12313

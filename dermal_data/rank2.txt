@@ -19,3 +19,7 @@ Treating chronic wounds in an acute care setting: the forgotten diagnosis.|https
 Nanozymes for the Therapeutic Treatment of Diabetic Foot Ulcers.|https://dx.doi.org/10.1021/acsbiomaterials.4c00470
 Rifampicin in the Treatment of Refractory Diabetic Foot Ulcer and Diabetic Foot Osteomyelitis-an Observational Study.|https://dx.doi.org/10.1177/15347346241229890
 Enhancing Wound Healing in Chronic Diabetic Foot Ulcers: A Case Report of Topical Oxygen Therapy with Granulox®.|https://dx.doi.org/10.1177/15347346241251386
+Bacteriological analysis and antibiotic resistance in patients with diabetic foot ulcers in Dhaka.|https://dx.doi.org/10.1371/journal.pone.0301767
+Limb salvage and systemic management of gouty tophi: Case series.|https://dx.doi.org/10.1097/MD.0000000000038137
+A Comparison of Adverse Short-Term Outcomes After Forefoot Amputation Based on Patient Height.|https://dx.doi.org/10.7547/21-257
+Association of Preulcerative Foot Care and Outcomes of Diabetic Foot Ulceration.|https://dx.doi.org/10.7547/22-071
