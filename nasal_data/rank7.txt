@@ -83,3 +83,7 @@ IL-24 promotes atopic dermatitis-like inflammation through driving MRSA-induced 
 Antimicrobial coatings based on amine-terminated graphene oxide and Nafion with remarkable thermal resistance.|https://dx.doi.org/10.1039/d3na01154b
 Cervical cancer screening practices in HIV positive females - a missing link in health care delivery in Pakistan.|https://dx.doi.org/10.47391/JPMA.8211
 Tissue engineered multifunctional chitosan-modified polypropylene hernia mesh loaded with bioactive phyto-extracts.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132282
+Keratinocytes present Staphylococcus aureus enterotoxins and promote malignant and non-malignant T cell proliferation in cutaneous T cell lymphoma.|https://dx.doi.org/10.1016/j.jid.2024.04.018
+Risk factors of periprosthetic joint infection after hemiarthroplasty for displaced femoral neck fracture in the elderly: Analysis of 1619 cases in the multicenter database.|https://dx.doi.org/10.1016/j.injury.2024.111603
+Which trial do we need? Gown and glove use versus standard precautions for patients colonised or infected with MRSA or VRE.|https://dx.doi.org/10.1016/j.cmi.2024.05.009
+After Primary Shoulder Arthroplasty Appropriate Vancomycin Antibiotic Prophylaxis Does Not Lead to Increased Infectious Complications When Compared to Cefazolin.|https://dx.doi.org/10.1016/j.jse.2024.03.059

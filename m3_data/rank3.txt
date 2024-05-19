@@ -2,3 +2,4 @@ Exploring toilet plume bioaerosol exposure dynamics in public toilets using a De
 Preclinical murine models for the testing of antimicrobials against Mycobacterium abscessus pulmonary infections: Current practices and recommendations.|https://dx.doi.org/10.1016/j.tube.2024.102503
 Assessing the quality of antimicrobial prescribing in solid organ transplant recipients: a new frontier in antimicrobial stewardship.|https://dx.doi.org/10.1017/ash.2024.49
 Impact of the Reverse 2-Step Algorithm for Clostridioides difficile Testing in the Microbiology Laboratory on Hospitalized Patients.|https://dx.doi.org/10.1093/ofid/ofae244
+Japanese Society for infection prevention and control guide to Clostridioides difficile infection prevention and control.|https://dx.doi.org/10.1016/j.jiac.2024.03.018

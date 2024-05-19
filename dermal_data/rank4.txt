@@ -31,3 +31,6 @@ Programable sewage-cleaning technology: Regenerating chitosan biofilms with anti
 Synthesis of carboxymethyl chitosan-guar gum-poly(vinylpyrrolidone) ternary blended hydrogels with antibacterial/anticancer efficacy and drug delivery applications.|https://dx.doi.org/10.1080/09205063.2024.2349409
 Injectable Photothermal PDA/Chitosan/β-Glycerophosphate Thermosensitive Hydrogels for Antibacterial and Wound Healing Promotion.|https://dx.doi.org/10.1002/mabi.202400080
 A hydrogel-functionalized silver nanocluster for bacterial-infected wound healing.|https://dx.doi.org/10.1039/d4nr01447b
+Nanocomposite alginate hydrogel loaded with propranolol hydrochloride kolliphor(®) based cerosomes as a repurposed platform for Methicillin-Resistant Staphylococcus aureus-(MRSA)-induced skin infection; in-vitro, ex-vivo, in-silico, and in-vivo evaluation.|https://dx.doi.org/10.1007/s13346-024-01611-z
+Green synthesis of metal nanoparticles and study their anti-pathogenic properties against pathogens effect on plants and animals.|https://dx.doi.org/10.1038/s41598-024-61920-8
+Mussel-inspired antimicrobial hydrogel with cellulose nanocrystals/tannic acid modified silver nanoparticles for enhanced calvarial bone regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132419

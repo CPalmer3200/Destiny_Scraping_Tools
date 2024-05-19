@@ -3,3 +3,4 @@ Atopic Dermatitis Disease Complications.|https://dx.doi.org/10.1007/978-3-031-54
 Cutaneous inflammasome driving ASC / gasdermin-D activation and IL-1β-secreting macrophages in severe atopic dermatitis.|https://dx.doi.org/10.1007/s00403-024-02899-0
 Staphylococcus aureus-specific skin resident memory T cells protect against bacteria colonization but exacerbate atopic dermatitis-like flares in mice.|https://dx.doi.org/10.1016/j.jaci.2024.03.032
 IL-24 promotes atopic dermatitis-like inflammation through driving MRSA-induced allergic responses.|https://dx.doi.org/10.1093/procel/pwae030
+Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification.|https://dx.doi.org/10.1016/j.jaci.2024.04.029

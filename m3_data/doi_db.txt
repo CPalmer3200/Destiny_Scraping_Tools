@@ -2364,3 +2364,5 @@ Unknown DOI
 10.1021/acs.jmedchem.4c00558
 10.1093/ofid/ofae244
 10.1001/jamanetworkopen.2024.12313
+10.1016/j.celrep.2024.114245
+10.1016/j.jiac.2024.03.018
