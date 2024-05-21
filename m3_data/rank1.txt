@@ -7,3 +7,4 @@ Breaking the Cycle of Recurrent Clostridioides difficile Infections: A Narrative
 Rational Design of Live Biotherapeutic Products for the Prevention of Clostridioides difficile Infection.|https://dx.doi.org/10.1101/2024.04.30.591969
 Offline Two-Dimensional Liquid Chromatography-Mass Spectrometry for Deep Annotation of the Fecal Metabolome Following Fecal Microbiota Transplantation.|https://dx.doi.org/10.1021/acs.jproteome.4c00022
 Clostridioides difficile toxin B subverts germinal center and antibody recall responses by stimulating a drug-treatable CXCR4-dependent mechanism.|https://dx.doi.org/10.1016/j.celrep.2024.114245
+Protection against Clostridioides difficile disease by a naturally avirulent C. difficile strain.|https://dx.doi.org/10.1101/2024.05.06.592814

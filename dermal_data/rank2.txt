@@ -25,3 +25,5 @@ A Comparison of Adverse Short-Term Outcomes After Forefoot Amputation Based on P
 Association of Preulcerative Foot Care and Outcomes of Diabetic Foot Ulceration.|https://dx.doi.org/10.7547/22-071
 Definitive single-stage surgery for treating diabetic foot osteomyelitis: a protocolized pathway including antibiotic bone graft substitute use.|https://dx.doi.org/10.1111/ans.19032
 Assessment between antiseptic and normal saline for negative pressure wound therapy with instillation and dwell time in diabetic foot infections.|https://dx.doi.org/10.1038/s41598-024-58900-3
+Decoding the complexity of delayed wound healing following Enterococcus faecalis infection.|https://dx.doi.org/10.7554/eLife.95113
+Efficacy of Huangma Ding or autologous platelet-rich gel for the diabetic lower extremity arterial disease patients with foot ulcers.|https://dx.doi.org/10.4239/wjd.v15.i5.923

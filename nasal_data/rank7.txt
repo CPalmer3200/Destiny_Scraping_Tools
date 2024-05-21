@@ -89,3 +89,11 @@ Which trial do we need? Gown and glove use versus standard precautions for patie
 After Primary Shoulder Arthroplasty Appropriate Vancomycin Antibiotic Prophylaxis Does Not Lead to Increased Infectious Complications When Compared to Cefazolin.|https://dx.doi.org/10.1016/j.jse.2024.03.059
 Wound colonization with methicillin-resistant Staphylococcus aureus and hypotheses about acquisition routes in rural healthcare settings in Sub-Saharan Africa: Perspective from a Center devoted to the treatment of cutaneous neglected tropical diseases.|https://dx.doi.org/10.1016/j.ajic.2024.05.007
 Long-Term Outcomes Associated With β-Lactam Allergies.|https://dx.doi.org/10.1001/jamanetworkopen.2024.12313
+Implications of deduplication on the detection rates of multidrug-resistant organism (MDRO) in various specimens: insights from the hospital infection surveillance program.|https://dx.doi.org/10.1186/s13756-024-01408-2
+Frequency and mortality rate following antimicrobial-resistant bloodstream infections in tertiary-care hospitals compared with secondary-care hospitals.|https://dx.doi.org/10.1371/journal.pone.0303132
+In Silico Elucidation of Key Drivers of Staphyloccocus aureus-Staphyloccocus epidermidis-Induced Skin Damage in Atopic Dermatitis Lesions.|https://dx.doi.org/10.1016/j.xjidi.2024.100269
+Role of STIMULAN in chronic osteomyelitis-A randomised blinded study on 95 patients comparing 3 antibiotic compositions, bead quality, forming & absorption time.|https://dx.doi.org/10.1016/j.jcot.2024.102426
+Microbiota and metabolic adaptation shape Staphylococcus aureus virulence and antimicrobial resistance during intestinal colonization.|https://dx.doi.org/10.1101/2024.05.11.593044
+Impact of postoperative skin disinfection with chlorhexidine on bacterial colonisation following shoulder arthroplasty surgery: a controlled randomised study.|https://dx.doi.org/10.1016/j.infpip.2024.100365
+Vancomycin Flushing Syndrome: A Case Report.|https://dx.doi.org/10.7759/cureus.58487
+Molecular epidemiology and change trend of methicillin-resistant Staphylococcus aureus from invasive infections of a hospital in Hangzhou from 2012 to 2018.|https://dx.doi.org/10.16288/j.yczz.23-166

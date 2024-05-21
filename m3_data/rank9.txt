@@ -4,3 +4,4 @@ Pharmacologic Treatment of Malignant Catatonia Without Electroconvulsive Therapy
 Vascular Access Team Central Line Dressing Changes to Reduce Infection Risk: A Focused Two-Person Approach in High-Risk Patients.|https://dx.doi.org/10.1097/NAN.0000000000000545
 Clostridioides difficile infection in patients with and without COVID-19 during the pandemic: a retrospective cohort study from a tertiary referral hospital.|https://dx.doi.org/10.1016/j.anaerobe.2024.102864
 Positive pathogens in stool could predict the clinical outcomes of sepsis-associated acute kidney injury in critical ill patient.|https://dx.doi.org/10.1038/s41598-024-62136-6
+Multiplexed Gastrointestinal PCR panels for the Evaluation of Diarrhea in HCT Recipients.|https://dx.doi.org/10.1016/j.jtct.2024.05.013

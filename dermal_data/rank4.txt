@@ -34,3 +34,6 @@ A hydrogel-functionalized silver nanocluster for bacterial-infected wound healin
 Nanocomposite alginate hydrogel loaded with propranolol hydrochloride kolliphor(®) based cerosomes as a repurposed platform for Methicillin-Resistant Staphylococcus aureus-(MRSA)-induced skin infection; in-vitro, ex-vivo, in-silico, and in-vivo evaluation.|https://dx.doi.org/10.1007/s13346-024-01611-z
 Green synthesis of metal nanoparticles and study their anti-pathogenic properties against pathogens effect on plants and animals.|https://dx.doi.org/10.1038/s41598-024-61920-8
 Mussel-inspired antimicrobial hydrogel with cellulose nanocrystals/tannic acid modified silver nanoparticles for enhanced calvarial bone regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132419
+Specific delivery of metronidazole using microparticles and thermosensitive in situ hydrogel for intrapocket administration as an alternative in periodontitis treatment.|https://dx.doi.org/10.1080/09205063.2024.2349414
+Laponite/lactoferrin hydrogel loaded with eugenol for methicillin-resistant Staphylococcus aureus-infected chronic skin wound healing.|https://dx.doi.org/10.1016/j.jtv.2024.05.006
+The Effectiveness of Polyhexanide in Treating Wound Infections Due to Methicillin-Resistant Staphylococcus Aureus: A Prospective Analysis.|https://dx.doi.org/10.2147/IDR.S438380

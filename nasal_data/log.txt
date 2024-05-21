@@ -213,3 +213,4 @@
 07:34 18/05/2024, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 0, Rank 5: 2, Rank 6: 0, Rank 7: 0
 07:32 19/05/2024, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 0, Rank 5: 0, Rank 6: 0, Rank 7: 4
 07:35 20/05/2024, Rank 1: 0, Rank 2: 1, Rank 3: 0, Rank 4: 0, Rank 5: 1, Rank 6: 0, Rank 7: 2
+07:34 21/05/2024, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 0, Rank 5: 2, Rank 6: 0, Rank 7: 8

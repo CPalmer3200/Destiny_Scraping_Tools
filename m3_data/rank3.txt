@@ -3,3 +3,4 @@ Preclinical murine models for the testing of antimicrobials against Mycobacteriu
 Assessing the quality of antimicrobial prescribing in solid organ transplant recipients: a new frontier in antimicrobial stewardship.|https://dx.doi.org/10.1017/ash.2024.49
 Impact of the Reverse 2-Step Algorithm for Clostridioides difficile Testing in the Microbiology Laboratory on Hospitalized Patients.|https://dx.doi.org/10.1093/ofid/ofae244
 Japanese Society for infection prevention and control guide to Clostridioides difficile infection prevention and control.|https://dx.doi.org/10.1016/j.jiac.2024.03.018
+Benefits of Accepting Infectious Diseases Pharmacist Recommendations: A 5-Year Outcome Study in a Multihospital System.|https://dx.doi.org/10.1177/00185787231213807
