@@ -37,3 +37,8 @@ Mussel-inspired antimicrobial hydrogel with cellulose nanocrystals/tannic acid m
 Specific delivery of metronidazole using microparticles and thermosensitive in situ hydrogel for intrapocket administration as an alternative in periodontitis treatment.|https://dx.doi.org/10.1080/09205063.2024.2349414
 Laponite/lactoferrin hydrogel loaded with eugenol for methicillin-resistant Staphylococcus aureus-infected chronic skin wound healing.|https://dx.doi.org/10.1016/j.jtv.2024.05.006
 The Effectiveness of Polyhexanide in Treating Wound Infections Due to Methicillin-Resistant Staphylococcus Aureus: A Prospective Analysis.|https://dx.doi.org/10.2147/IDR.S438380
+Tracheal regeneration and mesenchymal stem cell augmenting potential of natural polyphenol-loaded gelatinmethacryloyl bioadhesive.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132506
+Heme-Mimetic Photosensitizer with Iron-Targeting and Internalizing Properties for Enhancing PDT Activity and Promoting Infected Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsabm.4c00427
+Multi-Faceted Antimicrobial Efficacy of a Quinoline-Derived Bidentate Copper(II) Ligand Complex and Its Hydrogel Encapsulated Formulation in Methicillin-Resistant Staphylococcus aureus Inhibition and Wound Management.|https://dx.doi.org/10.1021/acsabm.4c00466
+Silver and Copper Nanoparticle-Loaded Self-Assembled Pseudo-Peptide Thiourea-Based Organic-Inorganic Hybrid Gel with Antibacterial and Superhydrophobic Properties for Antifouling Surfaces.|https://dx.doi.org/10.1021/acsabm.4c00476
+Instant clot forming and antibacterial wound dressings: Achieving hemostasis in trauma injuries with S-nitroso-N-acetylpenicillamine-tranexamic acid-propolis formulation.|https://dx.doi.org/10.1002/jbm.a.37738

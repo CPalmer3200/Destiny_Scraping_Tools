@@ -97,3 +97,6 @@ Microbiota and metabolic adaptation shape Staphylococcus aureus virulence and an
 Impact of postoperative skin disinfection with chlorhexidine on bacterial colonisation following shoulder arthroplasty surgery: a controlled randomised study.|https://dx.doi.org/10.1016/j.infpip.2024.100365
 Vancomycin Flushing Syndrome: A Case Report.|https://dx.doi.org/10.7759/cureus.58487
 Molecular epidemiology and change trend of methicillin-resistant Staphylococcus aureus from invasive infections of a hospital in Hangzhou from 2012 to 2018.|https://dx.doi.org/10.16288/j.yczz.23-166
+Metal-Organic Framework-Based Antimicrobial Touch Surfaces to Prevent Cross-Contamination.|https://dx.doi.org/10.1002/adma.202403813
+Silver and Copper Nanoparticle-Loaded Self-Assembled Pseudo-Peptide Thiourea-Based Organic-Inorganic Hybrid Gel with Antibacterial and Superhydrophobic Properties for Antifouling Surfaces.|https://dx.doi.org/10.1021/acsabm.4c00476
+Biofilm on total joint replacement materials can be reduced through electromagnetic induction heating using a portable device.|https://dx.doi.org/10.1186/s13018-024-04785-x

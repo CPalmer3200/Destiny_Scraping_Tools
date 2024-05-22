@@ -27,3 +27,6 @@ Definitive single-stage surgery for treating diabetic foot osteomyelitis: a prot
 Assessment between antiseptic and normal saline for negative pressure wound therapy with instillation and dwell time in diabetic foot infections.|https://dx.doi.org/10.1038/s41598-024-58900-3
 Decoding the complexity of delayed wound healing following Enterococcus faecalis infection.|https://dx.doi.org/10.7554/eLife.95113
 Efficacy of Huangma Ding or autologous platelet-rich gel for the diabetic lower extremity arterial disease patients with foot ulcers.|https://dx.doi.org/10.4239/wjd.v15.i5.923
+Charcot Neuro-Osteoarthropathy With Superimposed Osteomyelitis in a Nondiabetic Patient, as a Consequence of Cancer Chemotherapy: A MR-Monitored Case Report.|https://dx.doi.org/10.1177/15347346241254999
+Smart diabetic foot ulcer scoring system.|https://dx.doi.org/10.1038/s41598-024-62076-1
+Analysis of Distribution and Drug Susceptibility Test Results of Pathogenic Bacteria in Diabetic Foot Ulcers.|https://dx.doi.org/10.1007/s13300-024-01601-x

@@ -4,3 +4,4 @@ Recombinational exchange of M-fibril and T-pilus genes generates extensive cell 
 Inborn errors of immunity with susceptibility to S. aureus infections.|https://dx.doi.org/10.3389/fped.2024.1389650
 Staphylococcus Scalded Skin Syndrome-Induced Thrombosis Leading to Free Flap Complications: A Case Report and Review.|https://dx.doi.org/10.7759/cureus.58173
 Keratinocytes present Staphylococcus aureus enterotoxins and promote malignant and non-malignant T cell proliferation in cutaneous T cell lymphoma.|https://dx.doi.org/10.1016/j.jid.2024.04.018
+Collaborative Cross mice have diverse phenotypic responses to infection with Methicillin-resistant Staphylococcus aureus USA300.|https://dx.doi.org/10.1371/journal.pgen.1011229
