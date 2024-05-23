@@ -11,3 +11,4 @@ Lipase-mediated detoxification of host-derived antimicrobial fatty acids by Stap
 Can habits and behaviors predict colonization by community-associated MRSA in patients admitted to a Brazilian hospital?|https://dx.doi.org/10.1590/S1678-9946202466031
 Anatomy and function of the canalis sinuosus and its injury prevention and treatment strategies in implant surgery.|https://dx.doi.org/10.3724/zdxbyxb-2023-0502
 Screening of vancomycin resistance-associated genes in methicillin-resistant Staphylococcus aureus isolates from cattle, sheep and goats in northwestern Iran.|https://dx.doi.org/10.30466/vrf.2023.2003964.3902
+Nasal carriage of virulent and multidrug resistant Staphylococcus aureus: a possible comorbidity of COVID-19.|https://dx.doi.org/10.1007/s11033-024-09578-3
