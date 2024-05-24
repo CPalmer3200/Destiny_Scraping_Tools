@@ -103,3 +103,9 @@ Biofilm on total joint replacement materials can be reduced through electromagne
 Assessment of handwashing impact on detection of SARS-CoV-2, Staphylococcus aureus, Escherichia coli on hands in rural and urban settings of Côte d'Ivoire during COVID-19 pandemic.|https://dx.doi.org/10.1186/s12889-024-18838-7
 Supervening Abscess Resulting in Streptococcus pyogenes Toxic Shock Syndrome Complicated by a Recent MRSA Infection in an Active Duty Military Member.|https://dx.doi.org/10.1093/milmed/usae271
 Septic arthritis of the cervical facet joint: Clinical report and review of the literature.|https://dx.doi.org/10.1111/papr.13380
+Graphene Oxide-Silver-Coated Sulfonated Polyetheretherketone (Ag/GO-SPEEK): A Broad-Spectrum Antibacterial Artificial Bone Implants.|https://dx.doi.org/10.1021/acsabm.4c00338
+Intrastromal Corneal Ring Implants Associated Bacterial Infections.|https://dx.doi.org/10.1080/02713683.2024.2354438
+Optimal antibiotics duration following surgical management of septic olecranon bursitis: a 12-year retrospective analysis.|https://dx.doi.org/10.5194/jbji-9-107-2024
+Local delivery of linezolid in the treatment of complex orthopedic bone and joint infections in patients with vancomycin allergy: a case series.|https://dx.doi.org/10.5194/jbji-9-121-2024
+Intraosseous Administration of Medications in Total Knee Arthroplasty: An Opportunity for Improved Outcomes and Superior Compliance.|https://dx.doi.org/10.2106/JBJS.ST.22.00071
+Antibiotic Resistance Profile of Staphylococcus aureus in Cancer Patients at Laquintinie Hospital in Douala, Littoral Region, Cameroon.|https://dx.doi.org/10.1155/2024/5859068

@@ -5,3 +5,4 @@ Impact of the Reverse 2-Step Algorithm for Clostridioides difficile Testing in t
 Japanese Society for infection prevention and control guide to Clostridioides difficile infection prevention and control.|https://dx.doi.org/10.1016/j.jiac.2024.03.018
 Benefits of Accepting Infectious Diseases Pharmacist Recommendations: A 5-Year Outcome Study in a Multihospital System.|https://dx.doi.org/10.1177/00185787231213807
 Application of personalized templates in minimally invasive management of coronal dens invaginatus: a report of two cases.|https://dx.doi.org/10.1186/s12903-024-04377-5
+The clinical effectiveness of Fidaxomicin compared to Vancomycin in the treatment of Clostridioides difficile infection, a single center real-world experience.|https://dx.doi.org/10.1093/infdis/jiae274

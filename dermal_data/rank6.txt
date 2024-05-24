@@ -5,3 +5,4 @@ Staphylococcus aureus-specific skin resident memory T cells protect against bact
 IL-24 promotes atopic dermatitis-like inflammation through driving MRSA-induced allergic responses.|https://dx.doi.org/10.1093/procel/pwae030
 Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification.|https://dx.doi.org/10.1016/j.jaci.2024.04.029
 In Silico Elucidation of Key Drivers of Staphyloccocus aureus-Staphyloccocus epidermidis-Induced Skin Damage in Atopic Dermatitis Lesions.|https://dx.doi.org/10.1016/j.xjidi.2024.100269
+Combined metagenomic- and culture-based approaches to investigate bacterial strain-level associations with medication-controlled mild-moderate atopic dermatitis.|https://dx.doi.org/10.1016/j.jacig.2024.100259
