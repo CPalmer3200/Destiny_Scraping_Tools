@@ -6,3 +6,4 @@ Staphylococcus Scalded Skin Syndrome-Induced Thrombosis Leading to Free Flap Com
 Keratinocytes present Staphylococcus aureus enterotoxins and promote malignant and non-malignant T cell proliferation in cutaneous T cell lymphoma.|https://dx.doi.org/10.1016/j.jid.2024.04.018
 Collaborative Cross mice have diverse phenotypic responses to infection with Methicillin-resistant Staphylococcus aureus USA300.|https://dx.doi.org/10.1371/journal.pgen.1011229
 OTULIN deficiency: focus on innate immune system impairment.|https://dx.doi.org/10.3389/fimmu.2024.1371564
+Characterisation of PVL-Positive Staphylococcus argenteus from the United Arab Emirates.|https://dx.doi.org/10.3390/antibiotics13050401

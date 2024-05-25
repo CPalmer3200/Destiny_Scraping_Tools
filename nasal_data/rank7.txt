@@ -1,0 +1,5 @@
+Phage Therapy for Cardiac Implantable Electronic Devices and Vascular Grafts: A Targeted Literature Review.|https://dx.doi.org/10.3390/pathogens13050424
+Multidrug-Resistant Bacteria in Surgical Intensive Care Units: Antibiotic Susceptibility and β-Lactamase Characterization.|https://dx.doi.org/10.3390/pathogens13050411
+Development of an Antigen Capture Lateral Flow Immunoassay for the Detection of Burkholderia pseudomallei.|https://dx.doi.org/10.3390/diagnostics14101033
+Development and implementation of a nationwide multidrug-resistant organism tracking and alert system for Veterans Affairs medical centers.|https://dx.doi.org/10.1017/ice.2024.79
+Bacterial metabolism-triggered-chemiluminescence-based point-of-care testing platform for sensitive detection and photothermal inactivation of Staphylococcus aureus.|https://dx.doi.org/10.1016/j.aca.2023.341899

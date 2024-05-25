@@ -20,3 +20,4 @@ Effect of Ducrosia anethifolia methanol extract against methicillin resistant St
 Structure-Based Optimization of Novel Sterol 24-C-Methyltransferase Inhibitors for the Treatment of Candida albicans Infections.|https://dx.doi.org/10.1021/acs.jmedchem.4c00470
 High-Intensity Blue Light (450-460 nm) Phototherapy for Pseudomonas aeruginosa-Infected Wounds.|https://dx.doi.org/10.1089/photob.2023.0180
 Ursoricin, a bacteriocin of Streptococcus ursoris, has potent activity against methicillin-resistant Staphylococcus aureus and vancomycin-resistant enterococci.|https://dx.doi.org/10.1128/aem.00162-24
+Medical Device-Associated Biofilm Infections and Multidrug-Resistant Pathogens.|https://dx.doi.org/10.3390/pathogens13050393

@@ -4,3 +4,4 @@ Lowering the Acquisition of Multi-drug Resistant Organism (MDROs) with Pulsed-xe
 Long-Term Outcomes Associated With β-Lactam Allergies.|https://dx.doi.org/10.1001/jamanetworkopen.2024.12313
 Progress on mechanisms of antibiotic resistance in Clostridioides difficile.|https://dx.doi.org/10.16288/j.yczz.23-193
 Toxin genotypes, antibiotic resistance and their correlations in Clostridioides difficile isolated from hospitals in Xi'an, China.|https://dx.doi.org/10.1186/s12866-024-03327-z
+Antimicrobial Resistance and Associated Risk Factors for Clostridium difficile in Patients Attending Tertiary Care Settings.|https://dx.doi.org/10.1155/2024/6613120

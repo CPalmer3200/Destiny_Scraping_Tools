@@ -31,3 +31,6 @@ Charcot Neuro-Osteoarthropathy With Superimposed Osteomyelitis in a Nondiabetic 
 Smart diabetic foot ulcer scoring system.|https://dx.doi.org/10.1038/s41598-024-62076-1
 Analysis of Distribution and Drug Susceptibility Test Results of Pathogenic Bacteria in Diabetic Foot Ulcers.|https://dx.doi.org/10.1007/s13300-024-01601-x
 Does PAD and microcirculation status impact the tissue availability of intravenously administered antibiotics in patients with infected diabetic foot? Results of the DFIATIM substudy.|https://dx.doi.org/10.3389/fendo.2024.1326179
+Changes in daily nursing needs and self-care capability of people with diabetes after in-hospital treatment for foot complications: A descriptive study.|https://dx.doi.org/10.1002/nop2.2186
+Virulence characteristics of Gram-positive bacteria isolated from diabetic foot ulcers.|https://dx.doi.org/10.1093/femsmc/xtae013
+Clinical characteristics of patients with diabetic foot using WIfI classification-A pilot study in Vietnam.|https://dx.doi.org/10.1016/j.endien.2023.10.003
