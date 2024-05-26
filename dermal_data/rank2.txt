@@ -34,3 +34,7 @@ Does PAD and microcirculation status impact the tissue availability of intraveno
 Changes in daily nursing needs and self-care capability of people with diabetes after in-hospital treatment for foot complications: A descriptive study.|https://dx.doi.org/10.1002/nop2.2186
 Virulence characteristics of Gram-positive bacteria isolated from diabetic foot ulcers.|https://dx.doi.org/10.1093/femsmc/xtae013
 Clinical characteristics of patients with diabetic foot using WIfI classification-A pilot study in Vietnam.|https://dx.doi.org/10.1016/j.endien.2023.10.003
+Factors Influencing Wound Healing in Diabetic Foot Patients.|https://dx.doi.org/10.3390/medicina60050723
+Current Knowledge and Perspectives of Phage Therapy for Combating Refractory Wound Infections.|https://dx.doi.org/10.3390/ijms25105465
+Dramatic Wound Closing Effect of a Single Application of an iBTA-Induced Autologous Biosheet on Severe Diabetic Foot Ulcers Involving the Heel Area.|https://dx.doi.org/10.3390/bioengineering11050462
+Therapeutic Effectiveness of Leukocyte- and Platelet-rich Fibrin for Diabetic Foot Ulcers: A Retrospective Study.|https://dx.doi.org/10.1007/s11596-024-2874-2

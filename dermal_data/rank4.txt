@@ -44,3 +44,8 @@ Silver and Copper Nanoparticle-Loaded Self-Assembled Pseudo-Peptide Thiourea-Bas
 Instant clot forming and antibacterial wound dressings: Achieving hemostasis in trauma injuries with S-nitroso-N-acetylpenicillamine-tranexamic acid-propolis formulation.|https://dx.doi.org/10.1002/jbm.a.37738
 Incorporation of Resveratrol-Hydroxypropyl-β-Cyclodextrin Complexes into Hydrogel Formulation for Wound Treatment.|https://dx.doi.org/10.3390/gels10050346
 Antibacterial and Antibiofilm Potential of Bacterial Cellulose Hydrogel Containing Vancomycin against Multidrug-Resistant Staphylococcus aureus and Staphylococcus epidermidis.|https://dx.doi.org/10.3390/biology13050354
+Cotton Fabric-Reinforced Hydrogels with Excellent Mechanical and Broad-Spectrum Photothermal Antibacterial Properties.|https://dx.doi.org/10.3390/polym16101346
+Alternating Current Electrospinning of Polycaprolactone/Chitosan Nanofibers for Wound Healing Applications.|https://dx.doi.org/10.3390/polym16101333
+An Injectable, Self-Healing, Adhesive Multifunctional Hydrogel Promotes Bacteria-Infected Wound Healing.|https://dx.doi.org/10.3390/polym16101316
+Antibacterial, Anti-Biofilm, and Anti-Inflammatory Properties of Gelatin-Chitosan-Moringa-Biopolymer-Based Wound Dressings towards Staphylococcus aureus and Escherichia coli.|https://dx.doi.org/10.3390/ph17050545
+Preparation and characterization of ternary polysaccharide hydrogels based on carboxymethyl cellulose, carboxymethyl chitosan, and carboxymethyl β-cyclodextrin.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132604

@@ -12,3 +12,4 @@ Protection against Clostridioides difficile disease by a naturally avirulent C. 
 "Primum, non nocere": The Epidemiology of Toxigenic Clostridioides difficile Strains in the Antibiotic Era-Insights from a Prospective Study at a Regional Infectious Diseases Hospital in Eastern Europe.|https://dx.doi.org/10.3390/antibiotics13050461
 A Comparison of Currently Available and Investigational Fecal Microbiota Transplant Products for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antibiotics13050436
 Alternative treatment of recurrent Clostridioides difficile infection in adults by fecal transplantation: an overview of phase I-IV studies from Clinicaltrials.gov.|https://dx.doi.org/10.3389/fmicb.2024.1374774
+Exploring the Toxin-Mediated Mechanisms in Clostridioides difficile Infection.|https://dx.doi.org/10.3390/microorganisms12051004

@@ -5,3 +5,4 @@ Vascular Access Team Central Line Dressing Changes to Reduce Infection Risk: A F
 Clostridioides difficile infection in patients with and without COVID-19 during the pandemic: a retrospective cohort study from a tertiary referral hospital.|https://dx.doi.org/10.1016/j.anaerobe.2024.102864
 Positive pathogens in stool could predict the clinical outcomes of sepsis-associated acute kidney injury in critical ill patient.|https://dx.doi.org/10.1038/s41598-024-62136-6
 Multiplexed Gastrointestinal PCR panels for the Evaluation of Diarrhea in HCT Recipients.|https://dx.doi.org/10.1016/j.jtct.2024.05.013
+Retrospective Analysis of Clostridioides difficile Infection Rates and Outcomes in Hospitalized Patients during the COVID-19 Pandemic: A Unicenter Study in Reus, Spain.|https://dx.doi.org/10.3390/jcm13102799
