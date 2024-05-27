@@ -49,3 +49,4 @@ Alternating Current Electrospinning of Polycaprolactone/Chitosan Nanofibers for 
 An Injectable, Self-Healing, Adhesive Multifunctional Hydrogel Promotes Bacteria-Infected Wound Healing.|https://dx.doi.org/10.3390/polym16101316
 Antibacterial, Anti-Biofilm, and Anti-Inflammatory Properties of Gelatin-Chitosan-Moringa-Biopolymer-Based Wound Dressings towards Staphylococcus aureus and Escherichia coli.|https://dx.doi.org/10.3390/ph17050545
 Preparation and characterization of ternary polysaccharide hydrogels based on carboxymethyl cellulose, carboxymethyl chitosan, and carboxymethyl β-cyclodextrin.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132604
+Fabrication and characterization of physically crosslinked alginate/chitosan-based hydrogel loaded with neomycin for the treatment of skin infections caused by Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132577

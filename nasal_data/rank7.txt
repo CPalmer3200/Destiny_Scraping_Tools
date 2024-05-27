@@ -7,3 +7,4 @@ Surfactants' Interplay with Biofilm Development in Staphylococcus and Candida.|h
 Prevalence and Risk Factors for Colonization by Multidrug-Resistant Microorganisms among Long-Term Travelers and Recently Arrived Migrants.|https://dx.doi.org/10.3390/microorganisms12050936
 Analysis of Aetiological Agents in Infectious Endocarditis in the Central Military Emergency University Hospital "Dr. Carol Davila" Bucharest.|https://dx.doi.org/10.3390/microorganisms12050910
 RNA-Seq of an LPS-Induced Inflammation Model Reveals Transcriptional Profile Patterns of Inflammatory Processes.|https://dx.doi.org/10.3390/life14050558
+Molecular characterization of Staphylococcus aureus isolated from hospital-acquired infections in Ilam, Iran.|https://dx.doi.org/10.1007/s11033-024-09580-9
