@@ -8,3 +8,5 @@ Prevalence and Risk Factors for Colonization by Multidrug-Resistant Microorganis
 Analysis of Aetiological Agents in Infectious Endocarditis in the Central Military Emergency University Hospital "Dr. Carol Davila" Bucharest.|https://dx.doi.org/10.3390/microorganisms12050910
 RNA-Seq of an LPS-Induced Inflammation Model Reveals Transcriptional Profile Patterns of Inflammatory Processes.|https://dx.doi.org/10.3390/life14050558
 Molecular characterization of Staphylococcus aureus isolated from hospital-acquired infections in Ilam, Iran.|https://dx.doi.org/10.1007/s11033-024-09580-9
+Implementation of Outpatient Parenteral Antimicrobial Therapy (OPAT) in Patients with Complicated Periprosthetic Joint Infections.|https://dx.doi.org/10.1055/a-2288-7187
+Free Vascularized Fibula Graft as Primary Salvage Procedure for Acute Cervical Osteomyelitis Caused by Epidural Abscess.|https://dx.doi.org/10.1097/GOX.0000000000005837

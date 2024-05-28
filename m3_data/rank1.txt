@@ -13,3 +13,7 @@ Protection against Clostridioides difficile disease by a naturally avirulent C. 
 A Comparison of Currently Available and Investigational Fecal Microbiota Transplant Products for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antibiotics13050436
 Alternative treatment of recurrent Clostridioides difficile infection in adults by fecal transplantation: an overview of phase I-IV studies from Clinicaltrials.gov.|https://dx.doi.org/10.3389/fmicb.2024.1374774
 Exploring the Toxin-Mediated Mechanisms in Clostridioides difficile Infection.|https://dx.doi.org/10.3390/microorganisms12051004
+Estimating Clostridioides difficile infection-associated readmission rates: A systematic review and meta-analysis.|https://dx.doi.org/10.1017/ice.2024.94
+Microbiota restoration therapies for recurrent Clostridioides difficile infection reach an important new milestone.|https://dx.doi.org/10.1177/17562848241253089
+Efficacy of Fecal Microbiota (REBYOTA) in Recurrent Clostridium difficile Infections: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.58862
+Expression of Concern: Clostridium transplantifaecale sp. nov., a new bacterium isolated from patient with recurrent Clostridium difficile infection.|https://dx.doi.org/10.1016/j.nmni.2024.101280
