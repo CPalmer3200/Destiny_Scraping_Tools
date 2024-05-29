@@ -17,3 +17,4 @@ Estimating Clostridioides difficile infection-associated readmission rates: A sy
 Microbiota restoration therapies for recurrent Clostridioides difficile infection reach an important new milestone.|https://dx.doi.org/10.1177/17562848241253089
 Efficacy of Fecal Microbiota (REBYOTA) in Recurrent Clostridium difficile Infections: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.58862
 Expression of Concern: Clostridium transplantifaecale sp. nov., a new bacterium isolated from patient with recurrent Clostridium difficile infection.|https://dx.doi.org/10.1016/j.nmni.2024.101280
+Comparison of fidaxomicin, metronidazole and vancomycin for initial episode and recurrence of Clostridioides difficile infection - An observational cohort study.|https://dx.doi.org/10.1016/j.heliyon.2024.e30742

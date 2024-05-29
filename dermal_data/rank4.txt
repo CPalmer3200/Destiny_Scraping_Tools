@@ -52,3 +52,4 @@ Preparation and characterization of ternary polysaccharide hydrogels based on ca
 Fabrication and characterization of physically crosslinked alginate/chitosan-based hydrogel loaded with neomycin for the treatment of skin infections caused by Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132577
 Fabrication of gelatin-based antibacterial bilayer wound dressing using direct writing and electrospinning methods.|https://dx.doi.org/10.1016/j.ijpharm.2024.124274
 Preparation and Characterization of Carboxymethyl Chitosan/Sodium Alginate Composite Hydrogel Scaffolds Carrying Chlorhexidine and Strontium-Doped Hydroxyapatite.|https://dx.doi.org/10.1021/acsomega.4c01237
+Citrus flavonoids-loaded chitosan derivatives-route nanofilm as drug delivery systems for cutaneous wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132670

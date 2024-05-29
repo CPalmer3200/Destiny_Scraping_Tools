@@ -7,3 +7,5 @@ Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modi
 In Silico Elucidation of Key Drivers of Staphyloccocus aureus-Staphyloccocus epidermidis-Induced Skin Damage in Atopic Dermatitis Lesions.|https://dx.doi.org/10.1016/j.xjidi.2024.100269
 Combined metagenomic- and culture-based approaches to investigate bacterial strain-level associations with medication-controlled mild-moderate atopic dermatitis.|https://dx.doi.org/10.1016/j.jacig.2024.100259
 Fermented Rapeseed and Soybean Alone and in Combination with Macro Algae Inhibit Human and Pig Pathogenic Bacteria In Vitro.|https://dx.doi.org/10.3390/microorganisms12050891
+Methicillin-resistant Staphylococcus aureus and coagulase-negative Staphylococcus produce antimicrobial substances against members of the skin microbiota in children with atopic dermatitis.|https://dx.doi.org/10.1093/femsec/fiae070
+Comprehensive analysis of phenotypes and transcriptome characteristics reveal the best atopic dermatitis mouse model induced by MC903.|https://dx.doi.org/10.1016/j.jdermsci.2024.05.003

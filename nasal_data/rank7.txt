@@ -10,3 +10,7 @@ RNA-Seq of an LPS-Induced Inflammation Model Reveals Transcriptional Profile Pat
 Molecular characterization of Staphylococcus aureus isolated from hospital-acquired infections in Ilam, Iran.|https://dx.doi.org/10.1007/s11033-024-09580-9
 Implementation of Outpatient Parenteral Antimicrobial Therapy (OPAT) in Patients with Complicated Periprosthetic Joint Infections.|https://dx.doi.org/10.1055/a-2288-7187
 Free Vascularized Fibula Graft as Primary Salvage Procedure for Acute Cervical Osteomyelitis Caused by Epidural Abscess.|https://dx.doi.org/10.1097/GOX.0000000000005837
+Methicillin-resistant Staphylococcus aureus and coagulase-negative Staphylococcus produce antimicrobial substances against members of the skin microbiota in children with atopic dermatitis.|https://dx.doi.org/10.1093/femsec/fiae070
+Not just in man's best friend: A review of Staphylococcus pseudintermedius host range and human zoonosis.|https://dx.doi.org/10.1016/j.rvsc.2024.105305
+Infection of Transcatheter Valvular Devices.|https://dx.doi.org/10.1007/s11886-024-02076-9
+Unveiling the landscape of post-keratoplasty keratitis: a comprehensive epidemiological analysis in a tertiary center.|https://dx.doi.org/10.1007/s10792-024-03106-9
