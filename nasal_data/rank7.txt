@@ -14,3 +14,4 @@ Methicillin-resistant Staphylococcus aureus and coagulase-negative Staphylococcu
 Not just in man's best friend: A review of Staphylococcus pseudintermedius host range and human zoonosis.|https://dx.doi.org/10.1016/j.rvsc.2024.105305
 Infection of Transcatheter Valvular Devices.|https://dx.doi.org/10.1007/s11886-024-02076-9
 Unveiling the landscape of post-keratoplasty keratitis: a comprehensive epidemiological analysis in a tertiary center.|https://dx.doi.org/10.1007/s10792-024-03106-9
+Validation of the antibacterial effect of topically applied tranexamic acid using in vitro and in vivo models.|https://dx.doi.org/10.3389/fmicb.2024.1367884

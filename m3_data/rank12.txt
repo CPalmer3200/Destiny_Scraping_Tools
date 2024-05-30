@@ -3,3 +3,4 @@ Influence of Antibiotic Exposure Intensity on the Risk of Clostridioides diffici
 Discovery and Structure-Activity Relationship of Cadazolid: A First-In-Class Quinoxolidinone Antibiotic for the Treatment of Clostridioides difficile Infection.|https://dx.doi.org/10.1021/acs.jmedchem.4c00558
 Metagenome-assembled genomes (MAGs) suggest an acetate-driven protective role in gut microbiota disrupted by Clostridioides difficile.|https://dx.doi.org/10.1016/j.micres.2024.127739
 Usefulness of Capillary Gel Electrophoresis-Based PCR for Detection of Clostridioides difficile Strains with Hypervirulent Ribotypes.|https://dx.doi.org/10.3390/gels10050343
+Levofloxacin prophylaxis for pediatric leukemia patients: monitoring of outcomes for sustained benefit and consequences.|https://dx.doi.org/10.1017/ash.2024.81
