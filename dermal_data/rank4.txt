@@ -53,3 +53,6 @@ Fabrication and characterization of physically crosslinked alginate/chitosan-bas
 Fabrication of gelatin-based antibacterial bilayer wound dressing using direct writing and electrospinning methods.|https://dx.doi.org/10.1016/j.ijpharm.2024.124274
 Preparation and Characterization of Carboxymethyl Chitosan/Sodium Alginate Composite Hydrogel Scaffolds Carrying Chlorhexidine and Strontium-Doped Hydroxyapatite.|https://dx.doi.org/10.1021/acsomega.4c01237
 Citrus flavonoids-loaded chitosan derivatives-route nanofilm as drug delivery systems for cutaneous wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132670
+Genipin crosslinked quaternary ammonium chitosan hydrogels potential for wound dressings.|https://dx.doi.org/10.1088/1748-605X/ad525f
+Biological investigation of a novel nanocomposite based on xanthan gum-alginate hydrogel/PVA, incorporated with ZnMnFe(2)O(4) nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132267
+Herbal small molecule-based low/medium internal phase supramolecular gel emulsion for diabetic wound healing.|https://dx.doi.org/10.1016/j.jcis.2024.05.090

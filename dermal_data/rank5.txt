@@ -22,3 +22,4 @@ High-Intensity Blue Light (450-460 nm) Phototherapy for Pseudomonas aeruginosa
 Ursoricin, a bacteriocin of Streptococcus ursoris, has potent activity against methicillin-resistant Staphylococcus aureus and vancomycin-resistant enterococci.|https://dx.doi.org/10.1128/aem.00162-24
 Medical Device-Associated Biofilm Infections and Multidrug-Resistant Pathogens.|https://dx.doi.org/10.3390/pathogens13050393
 The interplay of Pseudomonas aeruginosa and Staphylococcus aureus in dual-species biofilms impacts development, antibiotic resistance and virulence of biofilms in in vitro wound infection models.|https://dx.doi.org/10.1371/journal.pone.0304491
+Pre-asthma: a useful concept? A EUFOREA paper. Part 2-late onset eosinophilic asthma.|https://dx.doi.org/10.3389/falgy.2024.1404735

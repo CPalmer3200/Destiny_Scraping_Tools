@@ -9,3 +9,4 @@ Combined metagenomic- and culture-based approaches to investigate bacterial stra
 Fermented Rapeseed and Soybean Alone and in Combination with Macro Algae Inhibit Human and Pig Pathogenic Bacteria In Vitro.|https://dx.doi.org/10.3390/microorganisms12050891
 Methicillin-resistant Staphylococcus aureus and coagulase-negative Staphylococcus produce antimicrobial substances against members of the skin microbiota in children with atopic dermatitis.|https://dx.doi.org/10.1093/femsec/fiae070
 Comprehensive analysis of phenotypes and transcriptome characteristics reveal the best atopic dermatitis mouse model induced by MC903.|https://dx.doi.org/10.1016/j.jdermsci.2024.05.003
+Acid-treated Staphylococcus aureus induces acute silkworm hemolymph melanization.|https://dx.doi.org/10.1371/journal.pone.0298502
