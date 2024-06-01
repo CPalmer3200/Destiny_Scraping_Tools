@@ -16,3 +16,7 @@ Infection of Transcatheter Valvular Devices.|https://dx.doi.org/10.1007/s11886-0
 Unveiling the landscape of post-keratoplasty keratitis: a comprehensive epidemiological analysis in a tertiary center.|https://dx.doi.org/10.1007/s10792-024-03106-9
 Validation of the antibacterial effect of topically applied tranexamic acid using in vitro and in vivo models.|https://dx.doi.org/10.3389/fmicb.2024.1367884
 Analysis of risk factors, pathogenic bacteria characteristics, and drug resistance of postoperative surgical site infection in adults with limb fractures.|https://dx.doi.org/10.1016/j.cjtee.2024.04.007
+Uro-pathogens: Multidrug resistance and associated factors of community-acquired UTI among HIV patients attending antiretroviral therapy in Dessie Comprehensive Specialized Hospital, Northeast Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0296480
+Horizontal versus vertical strategies for infection prevention: current practices and controversies.|https://dx.doi.org/10.1097/QCO.0000000000001027
+Clinical outcomes in OPAT patients treated with ceftriaxone 4 g and ceftazidime 6 g extended interval dosing regimens.|https://dx.doi.org/10.1093/jacamr/dlae079
+Clinical Profiles and Outcomes of Prosthesis-Specific Infective Endocarditis Subsequent to Transcatheter Versus Surgical Aortic Valve Replacement: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.59398

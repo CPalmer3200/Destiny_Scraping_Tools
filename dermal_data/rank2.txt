@@ -43,3 +43,5 @@ Predictors of operative management in diabetic foot ulcers.|https://dx.doi.org/1
 Dose-response and efficacy of 904 nm photobiomodulation on diabetic foot ulcers healing: a randomized controlled trial.|https://dx.doi.org/10.1007/s10103-024-04090-3
 Brazilian Society of Angiology and Vascular Surgery 2023 guidelines on the diabetic foot.|https://dx.doi.org/10.1590/1677-5449.202300872
 An overview of diabetes-related foot ulcers.|https://dx.doi.org/10.12968/bjcn.2024.29.Sup6.S30
+Anaerobes in diabetic foot infections: pathophysiology, epidemiology, virulence, and management.|https://dx.doi.org/10.1128/cmr.00143-23
+Clinical outcomes in OPAT patients treated with ceftriaxone 4 g and ceftazidime 6 g extended interval dosing regimens.|https://dx.doi.org/10.1093/jacamr/dlae079
