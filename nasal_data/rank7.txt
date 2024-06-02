@@ -20,3 +20,8 @@ Uro-pathogens: Multidrug resistance and associated factors of community-acquired
 Horizontal versus vertical strategies for infection prevention: current practices and controversies.|https://dx.doi.org/10.1097/QCO.0000000000001027
 Clinical outcomes in OPAT patients treated with ceftriaxone 4 g and ceftazidime 6 g extended interval dosing regimens.|https://dx.doi.org/10.1093/jacamr/dlae079
 Clinical Profiles and Outcomes of Prosthesis-Specific Infective Endocarditis Subsequent to Transcatheter Versus Surgical Aortic Valve Replacement: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.59398
+Borate bonds-containing pH-responsive chitosan hydrogel for postoperative tumor recurrence and wound infection prevention.|https://dx.doi.org/10.1016/j.carbpol.2024.122262
+Nanofiber-reinforced self-healing polysaccharide-based hydrogel dressings for pH discoloration monitoring and treatment of infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2024.122209
+Increased Involvement of Staphylococcus epidermidis in the Rise of Polymicrobial Periprosthetic Joint Infections.|https://dx.doi.org/10.1016/j.arth.2024.05.075
+Antibiotic calcium sulphate beads lower the bacterial burden and prevent infection in a mouse model of periprosthetic joint infection.|https://dx.doi.org/10.1302/0301-620X.106B6.BJJ-2023-1175.R1
+Biological and genomic characterization of 4 novel bacteriophages isolated from sewage or the environment using non-aureus Staphylococci strains.|https://dx.doi.org/10.1016/j.vetmic.2024.110133

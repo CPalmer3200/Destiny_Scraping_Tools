@@ -1,2 +1,4 @@
 Linking S. aureus Immune Evasion Mechanisms to Staphylococcal Vaccine Failures.|https://dx.doi.org/10.3390/antibiotics13050410
 Does adjunctive clindamycin have a role in Staphylococcus aureus bacteremia? A protocol for the adjunctive treatment domain of the S. aureus Network Adaptive Platform (SNAP) randomized controlled trial.|https://dx.doi.org/10.1093/cid/ciae289
+The effects of empiric antibiotic regimens in adults with non-ventilator-associated hospital-acquired pneumonia: A systematic review and network meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1016/j.cmi.2024.05.017
+In vivo expression of an mRNA encoded multi-mechanistic mAb combination against Staphylococcus aureus and protection in disease model.|https://dx.doi.org/10.1016/j.ymthe.2024.05.036
