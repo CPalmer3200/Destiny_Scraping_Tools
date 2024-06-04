@@ -1,3 +1,4 @@
 Borate bonds-containing pH-responsive chitosan hydrogel for postoperative tumor recurrence and wound infection prevention.|https://dx.doi.org/10.1016/j.carbpol.2024.122262
 Nanofiber-reinforced self-healing polysaccharide-based hydrogel dressings for pH discoloration monitoring and treatment of infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2024.122209
 Sodium alginate/gelatin hydrogel spheres loaded with Fructus Ligustri Lucidi essential oil: Preparation, characterization and biological activity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132726
+H(2)O(2)/acid self-supplying double-layer electrospun nanofibers based on ZnO(2) and Fe(3)O(4) nanoparticles for efficient catalytic therapy of wound infection.|https://dx.doi.org/10.1039/d4tb00506f

@@ -20,3 +20,4 @@ Expression of Concern: Clostridium transplantifaecale sp. nov., a new bacterium 
 Comparison of fidaxomicin, metronidazole and vancomycin for initial episode and recurrence of Clostridioides difficile infection - An observational cohort study.|https://dx.doi.org/10.1016/j.heliyon.2024.e30742
 Exploring the therapeutic potential of endolysin CD27L_EAD against Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107222
 Estimating excess mortality and economic burden of Clostridioides difficile infections and recurrences during 2015-2019: the RECUR Germany study.|https://dx.doi.org/10.1186/s12879-024-09422-w
+Fight or flee, a vital choice for Clostridioides difficile.|https://dx.doi.org/10.1002/mlf2.12102

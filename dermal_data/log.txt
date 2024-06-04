@@ -228,3 +228,4 @@
 08:13 01/06/2024, Rank 1: 0, Rank 2: 2, Rank 3: 0, Rank 4: 0, Rank 5: 0, Rank 6: 0, Rank 7: 0, Rank 8: 0, Rank 9: 0
 08:13 02/06/2024, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 3, Rank 5: 2, Rank 6: 0, Rank 7: 0, Rank 8: 0, Rank 9: 0
 08:16 03/06/2024, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 0, Rank 5: 1, Rank 6: 0, Rank 7: 0, Rank 8: 0, Rank 9: 0
+08:16 04/06/2024, Rank 1: 0, Rank 2: 0, Rank 3: 0, Rank 4: 1, Rank 5: 1, Rank 6: 0, Rank 7: 2, Rank 8: 0, Rank 9: 0

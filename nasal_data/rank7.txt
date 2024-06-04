@@ -25,3 +25,7 @@ Nanofiber-reinforced self-healing polysaccharide-based hydrogel dressings for pH
 Increased Involvement of Staphylococcus epidermidis in the Rise of Polymicrobial Periprosthetic Joint Infections.|https://dx.doi.org/10.1016/j.arth.2024.05.075
 Antibiotic calcium sulphate beads lower the bacterial burden and prevent infection in a mouse model of periprosthetic joint infection.|https://dx.doi.org/10.1302/0301-620X.106B6.BJJ-2023-1175.R1
 Biological and genomic characterization of 4 novel bacteriophages isolated from sewage or the environment using non-aureus Staphylococci strains.|https://dx.doi.org/10.1016/j.vetmic.2024.110133
+Antibacterial and Osteogenic Doxycycline Imprinted Bioglass Microspheres to Combat Bone Infection.|https://dx.doi.org/10.1021/acsami.4c03501
+Meta-meta-analysis of the mortality risk associated with MRSA compared to MSSA bacteraemia.|https://dx.doi.org/10.53854/liim-3202-2
+High Efficacy of Oral Tetracyclines in Prosthetic Joint Infection Treated With Debridement, Antibiotics, and Implant Retention (DAIR) or Resection Arthroplasty With Destination Spacer Placement.|https://dx.doi.org/10.7759/cureus.59599
+Fabrication of a Biocompatible Nanoantimicrobial Suture for Rapid Wound Healing after Surgery.|https://dx.doi.org/10.1021/acsomega.3c09484

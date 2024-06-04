@@ -2,3 +2,5 @@ A proactive healing strategy for tackling biofilm-based surgical site complicati
 MUC1-C regulates NEAT1 lncRNA expression and paraspeckle formation in cancer progression.|https://dx.doi.org/10.1038/s41388-024-03068-3
 Associations between prior COVID-19 infection and venous thromboembolism following common plastic surgery operations.|https://dx.doi.org/10.1016/j.bjps.2024.04.013
 Outcomes of Mastectomy and Immediate Reconstruction Managed with Closed-incision Negative Pressure Therapy Applied Over the Whole Breast.|https://dx.doi.org/10.1097/GOX.0000000000005809
+Enhancing skin preparation to mitigate Cutibacterium acnes infections in breast augmentation and reconstruction.|https://dx.doi.org/10.1016/j.bjps.2024.04.026
+Augmentation mastopexy using the "double inner bra technique" (DIB) in post-bariatric surgery.|https://dx.doi.org/10.1016/j.bjps.2024.04.061
