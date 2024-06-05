@@ -29,3 +29,4 @@ Antibacterial and Osteogenic Doxycycline Imprinted Bioglass Microspheres to Comb
 Meta-meta-analysis of the mortality risk associated with MRSA compared to MSSA bacteraemia.|https://dx.doi.org/10.53854/liim-3202-2
 High Efficacy of Oral Tetracyclines in Prosthetic Joint Infection Treated With Debridement, Antibiotics, and Implant Retention (DAIR) or Resection Arthroplasty With Destination Spacer Placement.|https://dx.doi.org/10.7759/cureus.59599
 Fabrication of a Biocompatible Nanoantimicrobial Suture for Rapid Wound Healing after Surgery.|https://dx.doi.org/10.1021/acsomega.3c09484
+Advances in the targeted theragnostics of osteomyelitis caused by Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-024-04015-2
