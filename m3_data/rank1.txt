@@ -21,3 +21,7 @@ Comparison of fidaxomicin, metronidazole and vancomycin for initial episode and 
 Exploring the therapeutic potential of endolysin CD27L_EAD against Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107222
 Estimating excess mortality and economic burden of Clostridioides difficile infections and recurrences during 2015-2019: the RECUR Germany study.|https://dx.doi.org/10.1186/s12879-024-09422-w
 Fight or flee, a vital choice for Clostridioides difficile.|https://dx.doi.org/10.1002/mlf2.12102
+Rise to the Challenge: Master the Management of Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.mayocp.2024.02.022
+Probiotic use in pediatric kidney transplant recipients: What are current practices, and are they evidence-based? A pediatric nephrology research consortium study.|https://dx.doi.org/10.1111/petr.14790
+Clostridioides difficile-mucus interactions encompass shifts in gene expression, metabolism, and biofilm formation.|https://dx.doi.org/10.1128/msphere.00081-24
+Treating Helicobacter pylori and Recurrent Clostridioides difficile Coinfection: A Delicate Balance in Management and a Need for Guidelines.|https://dx.doi.org/10.14309/crj.0000000000001369

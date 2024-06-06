@@ -30,3 +30,6 @@ Meta-meta-analysis of the mortality risk associated with MRSA compared to MSSA b
 High Efficacy of Oral Tetracyclines in Prosthetic Joint Infection Treated With Debridement, Antibiotics, and Implant Retention (DAIR) or Resection Arthroplasty With Destination Spacer Placement.|https://dx.doi.org/10.7759/cureus.59599
 Fabrication of a Biocompatible Nanoantimicrobial Suture for Rapid Wound Healing after Surgery.|https://dx.doi.org/10.1021/acsomega.3c09484
 Advances in the targeted theragnostics of osteomyelitis caused by Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-024-04015-2
+A Shape-Restorable hierarchical polymer membrane composite system for enhanced antibacterial and antiadhesive efficiency.|https://dx.doi.org/10.1016/j.jcis.2024.05.219
+Staphylococcus aureus carriage and prevalence of skin and soft tissue infections among people who inject drugs: a longitudinal study.|https://dx.doi.org/10.1038/s41598-024-63574-y
+Impact of discontinuation of contact precautions on surveillance- and whole genome sequencing-defined methicillin-resistant Staphylococcus aureus healthcare-associated infections.|https://dx.doi.org/10.1017/ash.2024.89

@@ -5,3 +5,4 @@ H(2)O(2)/acid self-supplying double-layer electrospun nanofibers based on ZnO(2)
 Preparation and characterization of PVA/chitosan nanofibers loaded with Dragon's blood or poly helixan as wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132844
 Tannic acid modified keratin/sodium alginate/carboxymethyl chitosan biocomposite hydrogels with good mechanical properties and swelling behavior.|https://dx.doi.org/10.1038/s41598-024-63186-6
 Multifunctional polymeric nanofibrous scaffolds enriched with azilsartan medoxomil for enhanced wound healing.|https://dx.doi.org/10.1007/s13346-024-01637-3
+Functionalized chitosan based antibacterial hydrogel sealant for simultaneous infection eradication and tissue closure in ocular injuries.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132838
