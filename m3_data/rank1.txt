@@ -25,3 +25,5 @@ Rise to the Challenge: Master the Management of Clostridioides difficile Infecti
 Probiotic use in pediatric kidney transplant recipients: What are current practices, and are they evidence-based? A pediatric nephrology research consortium study.|https://dx.doi.org/10.1111/petr.14790
 Clostridioides difficile-mucus interactions encompass shifts in gene expression, metabolism, and biofilm formation.|https://dx.doi.org/10.1128/msphere.00081-24
 Treating Helicobacter pylori and Recurrent Clostridioides difficile Coinfection: A Delicate Balance in Management and a Need for Guidelines.|https://dx.doi.org/10.14309/crj.0000000000001369
+The role of extracellular structures in Clostridioides difficile biofilm formation.|https://dx.doi.org/10.1016/j.anaerobe.2024.102873
+Current and future microbiome-based therapies in inflammatory bowel disease.|https://dx.doi.org/10.1097/MOG.0000000000001027

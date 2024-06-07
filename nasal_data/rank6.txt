@@ -4,3 +4,4 @@ The effects of empiric antibiotic regimens in adults with non-ventilator-associa
 In vivo expression of an mRNA encoded multi-mechanistic mAb combination against Staphylococcus aureus and protection in disease model.|https://dx.doi.org/10.1016/j.ymthe.2024.05.036
 Cell-wall-anchored proteins affect invasive host colonization and biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.micres.2024.127782
 A case report of neonatal incontinentia pigmenti complicated by severe cerebrovascular lesions in one of the male monozygotic twins.|https://dx.doi.org/10.3389/fped.2024.1338054
+Synthesis of Bisindole Alkaloids and Their Mode of Action against Methicillin-Resistant Staphylococcus Aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00657

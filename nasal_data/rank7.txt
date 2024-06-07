@@ -33,3 +33,6 @@ Advances in the targeted theragnostics of osteomyelitis caused by Staphylococcus
 A Shape-Restorable hierarchical polymer membrane composite system for enhanced antibacterial and antiadhesive efficiency.|https://dx.doi.org/10.1016/j.jcis.2024.05.219
 Staphylococcus aureus carriage and prevalence of skin and soft tissue infections among people who inject drugs: a longitudinal study.|https://dx.doi.org/10.1038/s41598-024-63574-y
 Impact of discontinuation of contact precautions on surveillance- and whole genome sequencing-defined methicillin-resistant Staphylococcus aureus healthcare-associated infections.|https://dx.doi.org/10.1017/ash.2024.89
+Deficiency in non-classical major histocompatibility class II-like molecule, H2-O confers protection against Staphylococcus aureus in mice.|https://dx.doi.org/10.1371/journal.ppat.1012306
+Effect of oral multispecies probiotic on wound healing, periodontitis and quality of life on patients with diabetes.|https://dx.doi.org/10.12968/jowc.2023.0302
+Staphylococcus aureus bacteraemia cases at Helen Joseph Hospital.|https://dx.doi.org/10.4102/sajid.v39i1.626

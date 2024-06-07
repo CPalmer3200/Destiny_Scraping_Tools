@@ -1,3 +1,4 @@
 Aggregation-induced emission photosensitizer for antibacterial therapy of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1039/d4cc01022a
 Staphylococcus aureus carriage and prevalence of skin and soft tissue infections among people who inject drugs: a longitudinal study.|https://dx.doi.org/10.1038/s41598-024-63574-y
 Genomic characterization of Staphylococcus aureus isolated from patients admitted to intensive care units of a tertiary care hospital: epidemiological risk of nasal carriage of virulent clone during admission.|https://dx.doi.org/10.1128/spectrum.02950-23
+Coordination-Driven Self-Assembly of Metal Ion-Antisense Oligonucleotide Nanohybrids for Chronic Bacterial Infection Therapy.|https://dx.doi.org/10.1021/acsami.4c01453

@@ -2,3 +2,4 @@ Meeting 24-h movement behavior guidelines is associated with academic engagement
 The State of Patient Reported Outcome Measures in Rheumatology.|https://dx.doi.org/10.3899/jrheum.2023-1073
 Anchorage of H3K9-methylated heterochromatin to the nuclear periphery helps mediate P-cell nuclear migration though constricted spaces in Caenorhabditis elegans.|https://dx.doi.org/10.1101/2024.05.22.595380
 Effect of supplementing lysins and methionine to low-protein diets on growth performance, hepatic antioxidant capacity, immune status, and glycolytic activity of tibetan sheep.|https://dx.doi.org/10.1186/s12864-024-10480-2
+In vitro effects of the new oral β-lactamase inhibitor xeruborbactam in combination with oral β-lactams against clinical Mycobacterium abscessus isolates.|https://dx.doi.org/10.1128/spectrum.00084-24
