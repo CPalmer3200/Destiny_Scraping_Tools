@@ -5,3 +5,4 @@ A membrane-targeting magnolol derivative for the treatment of methicillin-resist
 A rechargeable coating with temporal-sequence antibacterial activity and soft tissue sealing.|https://dx.doi.org/10.1016/j.bioactmat.2024.05.029
 Bisphosphonates synergistically enhance the antifungal activity of azoles in dermatophytes and other pathogenic molds.|https://dx.doi.org/10.1128/msphere.00248-24
 Clinical performance and safety of a debridement pad with abrasive and non-abrasive fibres.|https://dx.doi.org/10.12968/jowc.2024.0162
+Strategic Single-Residue Substitution in the Antimicrobial Peptide Esc(1-21) Confers Activity against Staphylococcus aureus, Including Drug-Resistant and Biofilm Phenotype.|https://dx.doi.org/10.1021/acsinfecdis.4c00130

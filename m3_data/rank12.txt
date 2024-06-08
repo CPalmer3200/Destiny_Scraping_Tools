@@ -4,3 +4,4 @@ Discovery and Structure-Activity Relationship of Cadazolid: A First-In-Class Qui
 Metagenome-assembled genomes (MAGs) suggest an acetate-driven protective role in gut microbiota disrupted by Clostridioides difficile.|https://dx.doi.org/10.1016/j.micres.2024.127739
 Usefulness of Capillary Gel Electrophoresis-Based PCR for Detection of Clostridioides difficile Strains with Hypervirulent Ribotypes.|https://dx.doi.org/10.3390/gels10050343
 Levofloxacin prophylaxis for pediatric leukemia patients: monitoring of outcomes for sustained benefit and consequences.|https://dx.doi.org/10.1017/ash.2024.81
+Association between vedolizumab and risk of clostridium difficile infection in patients with ulcerative colitis: A systematic review and meta-analysis.|https://dx.doi.org/10.4103/sjg.sjg_118_24

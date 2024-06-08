@@ -5,3 +5,4 @@ In vivo expression of an mRNA encoded multi-mechanistic mAb combination against 
 Cell-wall-anchored proteins affect invasive host colonization and biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.micres.2024.127782
 A case report of neonatal incontinentia pigmenti complicated by severe cerebrovascular lesions in one of the male monozygotic twins.|https://dx.doi.org/10.3389/fped.2024.1338054
 Synthesis of Bisindole Alkaloids and Their Mode of Action against Methicillin-Resistant Staphylococcus Aureus.|https://dx.doi.org/10.1021/acsinfecdis.3c00657
+Integrated transcriptomic analysis reveals immune signatures distinguishing persistent versus resolving outcomes in MRSA bacteremia.|https://dx.doi.org/10.3389/fimmu.2024.1373553

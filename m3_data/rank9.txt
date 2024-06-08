@@ -8,3 +8,4 @@ Multiplexed Gastrointestinal PCR panels for the Evaluation of Diarrhea in HCT Re
 Retrospective Analysis of Clostridioides difficile Infection Rates and Outcomes in Hospitalized Patients during the COVID-19 Pandemic: A Unicenter Study in Reus, Spain.|https://dx.doi.org/10.3390/jcm13102799
 Impact of rifaximin use in infections and mortality in patients with decompensated cirrhosis and hepatic encephalopathy.|https://dx.doi.org/10.1177/17562848241254267
 Does the Surgical Approach Affect the Incidence of Post-Hepatectomy Liver Failure in Cirrhotic Patients? An Analysis of the NSQIP Database.|https://dx.doi.org/10.1177/00031348241246175
+Diagnosis of urinary tract infections in the hospitalized older adult population in Alberta.|https://dx.doi.org/10.1371/journal.pone.0300564
