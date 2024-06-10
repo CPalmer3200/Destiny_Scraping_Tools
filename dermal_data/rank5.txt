@@ -6,3 +6,4 @@ A rechargeable coating with temporal-sequence antibacterial activity and soft ti
 Bisphosphonates synergistically enhance the antifungal activity of azoles in dermatophytes and other pathogenic molds.|https://dx.doi.org/10.1128/msphere.00248-24
 Clinical performance and safety of a debridement pad with abrasive and non-abrasive fibres.|https://dx.doi.org/10.12968/jowc.2024.0162
 Strategic Single-Residue Substitution in the Antimicrobial Peptide Esc(1-21) Confers Activity against Staphylococcus aureus, Including Drug-Resistant and Biofilm Phenotype.|https://dx.doi.org/10.1021/acsinfecdis.4c00130
+A 14-amino acid cationic peptide Bolespleenin(334-347) from the marine fish mudskipper Boleophthalmus pectinirostris exhibiting potent antimicrobial activity and therapeutic potential.|https://dx.doi.org/10.1016/j.bcp.2024.116344
