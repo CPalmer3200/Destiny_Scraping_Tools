@@ -45,3 +45,6 @@ Incidence and predictive factors of mortality of infective endocarditis in adult
 Novel antibody-antibiotic conjugate using KRM-1657 as payload eliminates intracellular MRSA in vitro and in vivo.|https://dx.doi.org/10.1016/j.bioorg.2024.107532
 Ceramic conversion treated titanium implant abutments with gold for enhanced antimicrobial activity.|https://dx.doi.org/10.1016/j.dental.2024.05.029
 Bioinspired ferromagnetic NiFe(2)O(4) nanoparticles: Eradication of fungal and drug-resistant bacterial pathogens and their established biofilm.|https://dx.doi.org/10.1016/j.micpath.2024.106729
+Clinical characteristics and outcomes of aortic prosthetic valve endocarditis: comparison between transcatheter and surgical bioprostheses.|https://dx.doi.org/10.1007/s15010-024-02302-0
+Community-acquired pneumonia: The importance of the early detection of drug-resistant organisms.|https://dx.doi.org/10.5492/wjccm.v13.i2.91314
+Development of non-β-Lactam covalent allosteric inhibitors targeting PBP2a in Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1101/2024.05.29.596450

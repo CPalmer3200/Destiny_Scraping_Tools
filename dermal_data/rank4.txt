@@ -9,3 +9,5 @@ Functionalized chitosan based antibacterial hydrogel sealant for simultaneous in
 Fabrication and characteristics of multifunctional hydrogel dressings using dopamine modified hyaluronic acid and phenylboronic acid modified chitosan.|https://dx.doi.org/10.3389/fchem.2024.1402870
 Highly Biocompatible Antibacterial Hydrogel for Wearable Sensing of Macro and Microscale Human Body Motions.|https://dx.doi.org/10.1002/smll.202401201
 Injectable Liposome-Loaded Hydrogel Formulations with Controlled Release of Curcumin and α-Tocopherol for Dental Tissue Engineering.|https://dx.doi.org/10.1002/adhm.202400966
+Iodine/soluble starch cryogel: An iodine-based antiseptic with instant water-solubility, improved stability, and potent bactericidal activity.|https://dx.doi.org/10.1016/j.carbpol.2024.122217
+Development and characterization of polyethylene oxide and guar gum-based hydrogel; a detailed in-vitro analysis of degradation and drug release kinetics.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132824
