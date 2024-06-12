@@ -48,3 +48,6 @@ Bioinspired ferromagnetic NiFe(2)O(4) nanoparticles: Eradication of fungal and d
 Clinical characteristics and outcomes of aortic prosthetic valve endocarditis: comparison between transcatheter and surgical bioprostheses.|https://dx.doi.org/10.1007/s15010-024-02302-0
 Community-acquired pneumonia: The importance of the early detection of drug-resistant organisms.|https://dx.doi.org/10.5492/wjccm.v13.i2.91314
 Development of non-β-Lactam covalent allosteric inhibitors targeting PBP2a in Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1101/2024.05.29.596450
+[Intraosseous vancomycin in total knee arthroplasty].|https://dx.doi.org/10.35366/115812
+Coblation Versus Surgical Debridement Against MRSA Infection in Wounds With Shrapnel: A Preliminary Study.|https://dx.doi.org/10.1093/milmed/usae302
+Bacterial Colonization of Mobile Phones: Myth or Reality.|https://dx.doi.org/10.7759/cureus.60060

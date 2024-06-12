@@ -7,3 +7,4 @@ Nasal carriage rate, associated factors, and antimicrobial susceptibility patter
 Nasal carriage of Staphylococcus aureus in healthy dairy cows in Algeria: antibiotic resistance, enterotoxin genes and biofilm formation.|https://dx.doi.org/10.1186/s12917-024-04103-x
 Characterization of resistance and virulence factors in livestock-associated methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s41598-024-63963-3
 Effectiveness of Pre-Transplant Screening for High-Priority Multidrug-Resistant Pathogens on Pre-Engraftment Infections After Hematopoietic Stem Cell Transplantation.|https://dx.doi.org/10.2147/IDR.S463868
+Superantigen Encoding Genes in Staphylococcus aureus Isolated from Lesional Skin, Non-Lesional Skin, and Nares of Patients with Atopic Dermatitis.|https://dx.doi.org/10.2340/actadv.v104.34882
