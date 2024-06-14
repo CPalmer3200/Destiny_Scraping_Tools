@@ -1,2 +1,3 @@
 Characterization and dynamics of intestinal microbiota in patients with Clostridioides difficile colonization and infection.|https://dx.doi.org/10.1016/j.micinf.2024.105373
 Association between type of index complication and outcomes after noncardiac surgery.|https://dx.doi.org/10.1016/j.surg.2024.04.033
+Genomic and phenotypic studies among Clostridioides difficile isolates show a high prevalence of clade 2 and great diversity in clinical isolates from Mexican adults and children with healthcare-associated diarrhea.|https://dx.doi.org/10.1128/spectrum.03947-23

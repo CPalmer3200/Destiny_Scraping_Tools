@@ -13,3 +13,5 @@ Iodine/soluble starch cryogel: An iodine-based antiseptic with instant water-sol
 Development and characterization of polyethylene oxide and guar gum-based hydrogel; a detailed in-vitro analysis of degradation and drug release kinetics.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132824
 Sponge-like porous polyvinyl alcohol/chitosan-based hydrogel with integrated cushioning, pH-indicating and antibacterial functions.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132904
 Coblation Versus Surgical Debridement Against MRSA Infection in Wounds With Shrapnel: A Preliminary Study.|https://dx.doi.org/10.1093/milmed/usae302
+Innate lymphoid cell-based immunomodulatory hydrogel microspheres containing Cutibacterium acnes extracellular vesicles for the treatment of psoriasis.|https://dx.doi.org/10.1016/j.actbio.2024.06.006
+An injectable chitosan-based hydrogel incorporating carbon dots with dual enzyme-mimic activities for synergistically treatment of bacteria infected wounds.|https://dx.doi.org/10.1016/j.colsurfb.2024.114006

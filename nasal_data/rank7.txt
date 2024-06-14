@@ -51,3 +51,11 @@ Development of non-β-Lactam covalent allosteric inhibitors targeting PBP2a in M
 [Intraosseous vancomycin in total knee arthroplasty].|https://dx.doi.org/10.35366/115812
 Coblation Versus Surgical Debridement Against MRSA Infection in Wounds With Shrapnel: A Preliminary Study.|https://dx.doi.org/10.1093/milmed/usae302
 Bacterial Colonization of Mobile Phones: Myth or Reality.|https://dx.doi.org/10.7759/cureus.60060
+Innate lymphoid cell-based immunomodulatory hydrogel microspheres containing Cutibacterium acnes extracellular vesicles for the treatment of psoriasis.|https://dx.doi.org/10.1016/j.actbio.2024.06.006
+Current Trends in Antimicrobial Resistance of ESKAPEEc Pathogens from Bloodstream Infections - Experience of a Tertiary Care Centre in North India.|https://dx.doi.org/10.1016/j.ijmmb.2024.100647
+Clinical characteristics, treatment and efficacy of calcaneal osteomyelitis: A systematic review with synthesis analysis 1118 reported cases.|https://dx.doi.org/10.1097/JS9.0000000000001815
+Stability of influenza A virus in droplets and aerosols is heightened by the presence of commensal respiratory bacteria.|https://dx.doi.org/10.1128/jvi.00409-24
+An antibacterial, multifunctional nanogel for efficient treatment of neutrophilic asthma.|https://dx.doi.org/10.1016/j.jconrel.2024.06.024
+The strongest protein binder is surprisingly labile.|https://dx.doi.org/10.1002/pro.5030
+Curcumin and resveratrol delivery from multi-functionalized calcium phosphate scaffold enhances biological properties.|https://dx.doi.org/10.1016/j.jddst.2023.105169
+Pharmacotherapies for multidrug-resistant gram-positive infections: current options and beyond.|https://dx.doi.org/10.1080/14656566.2024.2367003
