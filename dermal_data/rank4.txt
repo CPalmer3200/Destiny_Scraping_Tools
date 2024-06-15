@@ -15,3 +15,5 @@ Sponge-like porous polyvinyl alcohol/chitosan-based hydrogel with integrated cus
 Coblation Versus Surgical Debridement Against MRSA Infection in Wounds With Shrapnel: A Preliminary Study.|https://dx.doi.org/10.1093/milmed/usae302
 Innate lymphoid cell-based immunomodulatory hydrogel microspheres containing Cutibacterium acnes extracellular vesicles for the treatment of psoriasis.|https://dx.doi.org/10.1016/j.actbio.2024.06.006
 An injectable chitosan-based hydrogel incorporating carbon dots with dual enzyme-mimic activities for synergistically treatment of bacteria infected wounds.|https://dx.doi.org/10.1016/j.colsurfb.2024.114006
+Dual-Mechanism Peptide SR25 has Broad Antimicrobial Activity and Potential Application for Healing Bacteria-infected Diabetic Wounds.|https://dx.doi.org/10.1002/advs.202401793
+ZIF-8-Modified Black Phosphorus Nanosheets Incorporated into Injectable Dual-Component Hydrogels for Enhanced Photothermal Antibacterial and Osteogenic Activities.|https://dx.doi.org/10.1021/acsami.4c05298

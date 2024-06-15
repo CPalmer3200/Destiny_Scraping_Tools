@@ -10,3 +10,4 @@ Leadless Pacemaker Infective Endocarditis: Case Report and Review of the Literat
 A highly neutralizing human monoclonal antibody targeting a novel linear epitope on staphylococcal enterotoxin B.|https://dx.doi.org/10.1080/21645515.2024.2360338
 Phase 1 study of the iodine absorption, safety, and tolerability of a 0.5% povidone-iodine nasal spray (Nasodine).|https://dx.doi.org/10.1002/alr.23389
 Polyclonal but not monoclonal circulating memory CD4(+) T cells attenuate the severity of Staphylococcus aureus bacteremia.|https://dx.doi.org/10.3389/fimmu.2024.1417220
+Case 16-2024: A 20-Year-Old Man with a Pustular Rash.|https://dx.doi.org/10.1056/NEJMcpc2312737

@@ -59,3 +59,5 @@ An antibacterial, multifunctional nanogel for efficient treatment of neutrophili
 The strongest protein binder is surprisingly labile.|https://dx.doi.org/10.1002/pro.5030
 Curcumin and resveratrol delivery from multi-functionalized calcium phosphate scaffold enhances biological properties.|https://dx.doi.org/10.1016/j.jddst.2023.105169
 Pharmacotherapies for multidrug-resistant gram-positive infections: current options and beyond.|https://dx.doi.org/10.1080/14656566.2024.2367003
+Improving Risk Prediction of Methicillin-Resistant Staphylococcus aureus Using Machine Learning Methods With Network Features: Retrospective Development Study.|https://dx.doi.org/10.2196/48067
+Antimicrobial Resistance Patterns of Outpatient Staphylococcus aureus Isolates.|https://dx.doi.org/10.1001/jamanetworkopen.2024.17199
