@@ -3,3 +3,4 @@ Exploring the potential of isorhapontigenin: attenuating Staphylococcus aureus v
 Diclofenac sodium effectively inhibits the biofilm formation of Staphylococcus epidermidis.|https://dx.doi.org/10.1007/s00203-024-04020-5
 Spiderweb-Shaped Iron-Coordinated Polymeric Network as the Novel Coating on Microneedles for Transdermal Drug Delivery Against Infectious Wounds.|https://dx.doi.org/10.1002/adhm.202401788
 Resveratrol-Ampicillin Dual-Drug Loaded Polyvinylpyrrolidone/Polyvinyl Alcohol Biomimic Electrospun Nanofiber Enriched with Collagen for Efficient Burn Wound Repair.|https://dx.doi.org/10.2147/IJN.S464046
+Multifunctional Adaptable Injectable TiN-Based Hydrogels for Antitumor and Antidrug-Resistant Bacterial Therapy.|https://dx.doi.org/10.1002/adhm.202400297

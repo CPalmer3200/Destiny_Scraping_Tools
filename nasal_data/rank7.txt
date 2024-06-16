@@ -61,3 +61,5 @@ Curcumin and resveratrol delivery from multi-functionalized calcium phosphate sc
 Pharmacotherapies for multidrug-resistant gram-positive infections: current options and beyond.|https://dx.doi.org/10.1080/14656566.2024.2367003
 Improving Risk Prediction of Methicillin-Resistant Staphylococcus aureus Using Machine Learning Methods With Network Features: Retrospective Development Study.|https://dx.doi.org/10.2196/48067
 Antimicrobial Resistance Patterns of Outpatient Staphylococcus aureus Isolates.|https://dx.doi.org/10.1001/jamanetworkopen.2024.17199
+Multifunctional pH-responsive hydrogel dressings based on carboxymethyl chitosan: Synthesis, characterization fostering the wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122348
+Clinical characteristics and analysis of prognostic factors in methicillin-resistant Staphylococcus aureus endocarditis: A retrospective multicenter study in Japan.|https://dx.doi.org/10.1016/j.jiac.2024.06.002
