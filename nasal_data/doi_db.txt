@@ -9603,3 +9603,4 @@ Unknown DOI
 10.1001/jamanetworkopen.2024.17199
 10.1016/j.carbpol.2024.122348
 10.1016/j.jiac.2024.06.002
+10.1016/j.ijbiomac.2024.133094
