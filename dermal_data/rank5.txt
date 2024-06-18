@@ -10,3 +10,4 @@ A 14-amino acid cationic peptide Bolespleenin(334-347) from the marine fish muds
 The pathogenicity and virulence of the opportunistic pathogen Staphylococcus epidermidis.|https://dx.doi.org/10.1080/21505594.2024.2359483
 Fighting fibrin with fibrin: Vancomycin delivery into coagulase-mediated Staphylococcus aureus biofilms via fibrin-based nanoparticle binding.|https://dx.doi.org/10.1002/jbm.a.37760
 Antibacterial toner exhibits bactericidal effect against Cutibacterium acnes via keratin and sebum plug penetration.|https://dx.doi.org/10.4265/jmc.29.2_63
+Caregiver skin infection causing peritoneal dialysis-associated peritonitis.|https://dx.doi.org/10.1016/j.mmcr.2024.100653

@@ -3,3 +3,5 @@ Phenotypic and genotypic characterization of Staphylococcus aureus strains isola
 Chromosomal and plasmid localization of ileS2 in high-level mupirocin-resistant Staphylococcus pseudintermedius and Staphylococcus aureus isolated from canine and feline origins.|https://dx.doi.org/10.1093/jac/dkae172
 In vitro activity of ozenoxacin against Staphylococcus aureus and Streptococcus pyogenes clinical isolates recovered in a worldwide multicentre study (2020-2022).|https://dx.doi.org/10.1093/jacamr/dlae088
 Case 16-2024: A 20-Year-Old Man with a Pustular Rash.|https://dx.doi.org/10.1056/NEJMcpc2312737
+Exploring mechanisms of mupirocin resistance and hyper-resistance.|https://dx.doi.org/10.1042/BST20230581
+Infant age inversely correlates with gut carriage of resistance genes, reflecting modifications in microbial carbohydrate metabolism during early life.|https://dx.doi.org/10.1002/imt2.169

@@ -64,3 +64,5 @@ Antimicrobial Resistance Patterns of Outpatient Staphylococcus aureus Isolates.|
 Multifunctional pH-responsive hydrogel dressings based on carboxymethyl chitosan: Synthesis, characterization fostering the wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122348
 Clinical characteristics and analysis of prognostic factors in methicillin-resistant Staphylococcus aureus endocarditis: A retrospective multicenter study in Japan.|https://dx.doi.org/10.1016/j.jiac.2024.06.002
 Multi-dynamic-bond cross-linked antibacterial and adhesive hydrogel based on boronated chitosan derivative and loaded with peptides from Periplaneta americana with on-demand removability.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133094
+Different Bacteria and their Antibiotic Sensitivity Patterns in Patients of Chronic Otitis Media-Active Mucosal Disease at a Secondary Care Centre in Delhi.|https://dx.doi.org/10.1007/s12070-024-04573-3
+A Clinical Study on Microbiological Profile in Tracheostomy Wounds.|https://dx.doi.org/10.1007/s12070-024-04507-z

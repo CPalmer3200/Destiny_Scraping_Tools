@@ -2,3 +2,4 @@ Characterization and dynamics of intestinal microbiota in patients with Clostrid
 Association between type of index complication and outcomes after noncardiac surgery.|https://dx.doi.org/10.1016/j.surg.2024.04.033
 Genomic and phenotypic studies among Clostridioides difficile isolates show a high prevalence of clade 2 and great diversity in clinical isolates from Mexican adults and children with healthcare-associated diarrhea.|https://dx.doi.org/10.1128/spectrum.03947-23
 Improving Risk Prediction of Methicillin-Resistant Staphylococcus aureus Using Machine Learning Methods With Network Features: Retrospective Development Study.|https://dx.doi.org/10.2196/48067
+The Impact of Gastroesophageal Disease on Clostridium difficile Infection Hospitalization: A Nationwide Analysis From the United States.|https://dx.doi.org/10.7759/cureus.62223

@@ -9,3 +9,5 @@ Characterization of resistance and virulence factors in livestock-associated met
 Effectiveness of Pre-Transplant Screening for High-Priority Multidrug-Resistant Pathogens on Pre-Engraftment Infections After Hematopoietic Stem Cell Transplantation.|https://dx.doi.org/10.2147/IDR.S463868
 Superantigen Encoding Genes in Staphylococcus aureus Isolated from Lesional Skin, Non-Lesional Skin, and Nares of Patients with Atopic Dermatitis.|https://dx.doi.org/10.2340/actadv.v104.34882
 Assessing the Diagnostic Performance and Clinical Utility of Nasal Methicillin Resistant Staphylococcus aureus PCR Testing in Pediatric Orbital Cellulitis.|https://dx.doi.org/10.1093/jpids/piae061
+Exploring mechanisms of mupirocin resistance and hyper-resistance.|https://dx.doi.org/10.1042/BST20230581
+Odontogenic Maxillary Sinusitis Microbiology Compared With Chronic Rhinosinusitis: A Meta-Analysis.|https://dx.doi.org/10.1177/19458924241259333
