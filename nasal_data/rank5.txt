@@ -14,3 +14,7 @@ Increased Patient Age as a Risk Factor Following Free Flap Reconstruction after 
 Multidisciplinary management of necrotizing fasciitis as a postoperative complication after mastectomy in an adult male in a low- and middle-income country.|https://dx.doi.org/10.1093/jscr/rjae412
 Overnight to Outpatient: A Single Institution's Experience With Mastectomy and Reconstruction Before and After the Start of the COVID-19 Pandemic.|https://dx.doi.org/10.1097/SAP.0000000000003922
 Prepectoral Breast Reconstruction with Prosthesis and Acellular Dermal Matrix: A New Technique of ADM Implantation and Fixation.|https://dx.doi.org/10.1097/GOX.0000000000005895
+Translating Evidence into Practice: A Review of Clinical Practice and Outcomes following the Adoption of an Early Post-Mastectomy Discharge Protocol in a Nigerian Hospital.|https://dx.doi.org/10.1159/000536080
+Characterizing the Relationship between Expression Quantitative Trait Loci (eQTLs), DNA Methylation Quantitative Trait Loci (mQTLs), and Breast Cancer Risk Variants.|https://dx.doi.org/10.3390/cancers16112072
+Breast Reconstruction Using the Extended Latissimus Dorsi Myocutaneous Flap-A Long-term Follow-up Utilizing BREAST-Q.|https://dx.doi.org/10.1093/asjof/ojae002
+Impact of Implant Exchange Timing after Post-Mastectomy Radiation in Immediate Tissue Expander Breast Reconstruction: A Systematic Review.|https://dx.doi.org/10.1097/PRS.0000000000011588

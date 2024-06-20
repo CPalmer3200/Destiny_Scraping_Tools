@@ -11,3 +11,5 @@ Superantigen Encoding Genes in Staphylococcus aureus Isolated from Lesional Skin
 Assessing the Diagnostic Performance and Clinical Utility of Nasal Methicillin Resistant Staphylococcus aureus PCR Testing in Pediatric Orbital Cellulitis.|https://dx.doi.org/10.1093/jpids/piae061
 Exploring mechanisms of mupirocin resistance and hyper-resistance.|https://dx.doi.org/10.1042/BST20230581
 Odontogenic Maxillary Sinusitis Microbiology Compared With Chronic Rhinosinusitis: A Meta-Analysis.|https://dx.doi.org/10.1177/19458924241259333
+Hospitalizations for Acute Otitis and Sinusitis in Patients Living with HIV: A Retrospective Analysis of a Tertiary Center in Romania.|https://dx.doi.org/10.3390/jcm13113346
+Multidimensional calibration spaces in Staphylococcus Aureus detection using chitosan-based genosensors and electronic tongue.|https://dx.doi.org/10.1016/j.ijbiomac.2024.132460

@@ -20,3 +20,5 @@ Advances in Chronic Wound Management: From Conventional Treatment to Novel Thera
 Infectious Extensor Tenosynovitis of the Hallucis Longus Tendon: A Case Report.|https://dx.doi.org/10.7759/cureus.60384
 Treatment of Morganella morganii-Associated Non-healing Diabetic Foot Ulcer With Vaporous Hyperoxia Therapy: A Case Report.|https://dx.doi.org/10.7759/cureus.60413
 Dual Drug-Loaded Coaxial Nanofiber Dressings for the Treatment of Diabetic Foot Ulcer.|https://dx.doi.org/10.2147/IJN.S460467
+The risk factors in diabetic foot ulcers and predictive value of prognosis of wound tissue vascular endothelium growth factor.|https://dx.doi.org/10.1038/s41598-024-64009-4
+Variation in Systemic Antibiotic Treatment for Diabetic Foot Osteomyelitis in England and Wales: A Multi-Centre Case Review.|https://dx.doi.org/10.3390/jcm13113083

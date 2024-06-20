@@ -66,3 +66,10 @@ Clinical characteristics and analysis of prognostic factors in methicillin-resis
 Multi-dynamic-bond cross-linked antibacterial and adhesive hydrogel based on boronated chitosan derivative and loaded with peptides from Periplaneta americana with on-demand removability.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133094
 Different Bacteria and their Antibiotic Sensitivity Patterns in Patients of Chronic Otitis Media-Active Mucosal Disease at a Secondary Care Centre in Delhi.|https://dx.doi.org/10.1007/s12070-024-04573-3
 A Clinical Study on Microbiological Profile in Tracheostomy Wounds.|https://dx.doi.org/10.1007/s12070-024-04507-z
+Community MRSA outbreaks in areas of low prevalence.|https://dx.doi.org/10.1016/j.cmi.2024.06.006
+Skin colonization by Staphylococcus aureus in hemodialysis patients with pruritus and the effect of Staphylococcus aureus-secreted α-toxin on filaggrin expression.|https://dx.doi.org/10.1111/1346-8138.17326
+Quorum-Sensing Signal DSF Inhibits the Proliferation of Intestinal Pathogenic Bacteria and Alleviates Inflammatory Response to Suppress DSS-Induced Colitis in Zebrafish.|https://dx.doi.org/10.3390/nu16111562
+Zirconia Dental Implants Surface Electric Stimulation Impact on Staphylococcus aureus.|https://dx.doi.org/10.3390/ijms25115719
+Completed genome and emergence scenario of the multidrug-resistant nosocomial pathogen Staphylococcus epidermidis ST215.|https://dx.doi.org/10.1186/s12866-024-03367-5
+Clinical and surgical outcome in patients with cervical spondylodiscitis-a single-center retrospective case series of 24 patients.|https://dx.doi.org/10.3389/fsurg.2024.1292977
+Severe necrotizing tracheobronchitis caused by influenza B and methicillin-resistant Staphylococcus aureus co-infection in an immunocompetent patient.|https://dx.doi.org/10.1186/s12941-024-00715-1

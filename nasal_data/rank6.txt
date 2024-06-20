@@ -13,3 +13,4 @@ Polyclonal but not monoclonal circulating memory CD4(+) T cells attenuate the se
 Case 16-2024: A 20-Year-Old Man with a Pustular Rash.|https://dx.doi.org/10.1056/NEJMcpc2312737
 Orbital complications of pediatric acute rhinosinusitis in the pneumococcal conjugate vaccine era.|https://dx.doi.org/10.1016/j.pedneo.2023.12.009
 Infant age inversely correlates with gut carriage of resistance genes, reflecting modifications in microbial carbohydrate metabolism during early life.|https://dx.doi.org/10.1002/imt2.169
+Effect of Topical Silver Nanoparticle Formulation on Wound Bacteria Clearance and Healing in Patients With Infected Wounds Compared to Standard Topical Antibiotic Application: A Randomized Open-Label Parallel Clinical Trial.|https://dx.doi.org/10.7759/cureus.60569

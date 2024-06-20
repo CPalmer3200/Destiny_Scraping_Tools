@@ -20,3 +20,6 @@ ZIF-8-Modified Black Phosphorus Nanosheets Incorporated into Injectable Dual-Com
 Multifunctional pH-responsive hydrogel dressings based on carboxymethyl chitosan: Synthesis, characterization fostering the wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122348
 Investigation of a novel bilayered PACL/PVA electrospun nanofiber incorporated Chitosan-LL37 and Chitosan-VEGF nanoparticles as an advanced antibacterial cell growth-promoting wound dressing.|https://dx.doi.org/10.1016/j.ijpharm.2024.124341
 Multi-dynamic-bond cross-linked antibacterial and adhesive hydrogel based on boronated chitosan derivative and loaded with peptides from Periplaneta americana with on-demand removability.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133094
+Hyaluronic Acid/Ellagic Acid as Materials for Potential Medical Application.|https://dx.doi.org/10.3390/ijms25115891
+Synthesis, Characterization, and Evaluation of Silver Nanoparticle-Loaded Carboxymethyl Chitosan with Sulfobetaine Methacrylate Hydrogel Nanocomposites for Biomedical Applications.|https://dx.doi.org/10.3390/polym16111513
+A hybrid structure based on silk fibroin/PVA nanofibers and alginate/gum tragacanth hydrogel embedded with cardamom extract.|https://dx.doi.org/10.1038/s41598-024-63061-4

@@ -11,3 +11,6 @@ The pathogenicity and virulence of the opportunistic pathogen Staphylococcus epi
 Fighting fibrin with fibrin: Vancomycin delivery into coagulase-mediated Staphylococcus aureus biofilms via fibrin-based nanoparticle binding.|https://dx.doi.org/10.1002/jbm.a.37760
 Antibacterial toner exhibits bactericidal effect against Cutibacterium acnes via keratin and sebum plug penetration.|https://dx.doi.org/10.4265/jmc.29.2_63
 Caregiver skin infection causing peritoneal dialysis-associated peritonitis.|https://dx.doi.org/10.1016/j.mmcr.2024.100653
+Antifungal bioactivity of Sarcococca hookeriana var. digyna Franch. against fluconazole-resistant Candida albicans in vitro and in vivo.|https://dx.doi.org/10.1016/j.jep.2024.118473
+Phenotypic and genotypic characteristics of mecA - positive oxacillin-sensitive Staphylococcus aureus isolated from patients with bloodstream infection in a tertiary hospital in Southern Brazil.|https://dx.doi.org/10.1007/s42770-024-01420-z
+Recombinant scFv-Fc Anti-kallikrein 7 Antibody-Loaded Thermosensitive Hydrogels Against Skin Desquamation Disorders.|https://dx.doi.org/10.1021/acsabm.4c00371
