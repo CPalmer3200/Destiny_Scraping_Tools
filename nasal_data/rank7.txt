@@ -73,3 +73,5 @@ Zirconia Dental Implants Surface Electric Stimulation Impact on Staphylococcus a
 Completed genome and emergence scenario of the multidrug-resistant nosocomial pathogen Staphylococcus epidermidis ST215.|https://dx.doi.org/10.1186/s12866-024-03367-5
 Clinical and surgical outcome in patients with cervical spondylodiscitis-a single-center retrospective case series of 24 patients.|https://dx.doi.org/10.3389/fsurg.2024.1292977
 Severe necrotizing tracheobronchitis caused by influenza B and methicillin-resistant Staphylococcus aureus co-infection in an immunocompetent patient.|https://dx.doi.org/10.1186/s12941-024-00715-1
+A semi-automated cell tracking protocol for quantitative analyses of neutrophil swarming to sterile and S. aureus contaminated bone implants in a mouse femur model.|https://dx.doi.org/10.1371/journal.pone.0296140
+Subsequent Complications of Pediatric Patients With Osteomyelitis and Accompanying Subperiosteal Abscess.|https://dx.doi.org/10.1097/INF.0000000000004435

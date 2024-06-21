@@ -14,3 +14,4 @@ Caregiver skin infection causing peritoneal dialysis-associated peritonitis.|htt
 Antifungal bioactivity of Sarcococca hookeriana var. digyna Franch. against fluconazole-resistant Candida albicans in vitro and in vivo.|https://dx.doi.org/10.1016/j.jep.2024.118473
 Phenotypic and genotypic characteristics of mecA - positive oxacillin-sensitive Staphylococcus aureus isolated from patients with bloodstream infection in a tertiary hospital in Southern Brazil.|https://dx.doi.org/10.1007/s42770-024-01420-z
 Recombinant scFv-Fc Anti-kallikrein 7 Antibody-Loaded Thermosensitive Hydrogels Against Skin Desquamation Disorders.|https://dx.doi.org/10.1021/acsabm.4c00371
+Facemask acne attenuation through modulation of indirect microbiome interactions.|https://dx.doi.org/10.1038/s41522-024-00512-w
