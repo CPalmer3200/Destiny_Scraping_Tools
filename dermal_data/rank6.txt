@@ -1,3 +1,4 @@
 Superantigen Encoding Genes in Staphylococcus aureus Isolated from Lesional Skin, Non-Lesional Skin, and Nares of Patients with Atopic Dermatitis.|https://dx.doi.org/10.2340/actadv.v104.34882
 Adhesive Antibacterial Moisturizing Nanostructured Skin Patch for Sustainable Development of Atopic Dermatitis Treatment in Humans.|https://dx.doi.org/10.1021/acsami.4c06662
 The skin barrier and microbiome in infantile atopic dermatitis development: can skin care prevent onset?|https://dx.doi.org/10.1093/intimm/dxae038
+MicroRNA-939 amplifies Staphylococcus aureus-induced matrix metalloproteinase expression in atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2024.1354154

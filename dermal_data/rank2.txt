@@ -24,3 +24,4 @@ The risk factors in diabetic foot ulcers and predictive value of prognosis of wo
 Variation in Systemic Antibiotic Treatment for Diabetic Foot Osteomyelitis in England and Wales: A Multi-Centre Case Review.|https://dx.doi.org/10.3390/jcm13113083
 Antibiotic bone cement accelerates diabetic foot wound healing-Elucidating the role of ROCK1 protein expression.|https://dx.doi.org/10.1111/iwj.14945
 Clinical comprehensive treatment protocol for managing diabetic foot ulcers: A retrospective cohort study.|https://dx.doi.org/10.12998/wjcc.v12.i17.2976
+Application to Quantify Ulcer Areas and Track Their Progress.|https://dx.doi.org/10.1097/GOX.0000000000005922

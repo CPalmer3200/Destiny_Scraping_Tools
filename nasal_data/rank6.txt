@@ -14,3 +14,5 @@ Case 16-2024: A 20-Year-Old Man with a Pustular Rash.|https://dx.doi.org/10.1056
 Orbital complications of pediatric acute rhinosinusitis in the pneumococcal conjugate vaccine era.|https://dx.doi.org/10.1016/j.pedneo.2023.12.009
 Infant age inversely correlates with gut carriage of resistance genes, reflecting modifications in microbial carbohydrate metabolism during early life.|https://dx.doi.org/10.1002/imt2.169
 Effect of Topical Silver Nanoparticle Formulation on Wound Bacteria Clearance and Healing in Patients With Infected Wounds Compared to Standard Topical Antibiotic Application: A Randomized Open-Label Parallel Clinical Trial.|https://dx.doi.org/10.7759/cureus.60569
+Effect of Domain Manipulation in the Staphylococcal Phage Endolysin, Endo88, on Lytic Efficiency and Host Range.|https://dx.doi.org/10.1007/s12033-024-01216-4
+Molecular surveillance of influenza A virus in Saudi Arabia: whole-genome sequencing and metagenomic approaches.|https://dx.doi.org/10.1128/spectrum.00665-24

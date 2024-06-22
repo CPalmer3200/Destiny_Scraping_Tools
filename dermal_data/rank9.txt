@@ -12,3 +12,4 @@ mTOR signaling is required for phagocyte free radical production, GLUT1 expressi
 Rationally designed protein A surface molecularly imprinted magnetic nanoparticles for the capture and detection of Staphylococcus aureus.|https://dx.doi.org/10.1039/d4tb00392f
 Deficiency in non-classical major histocompatibility class II-like molecule, H2-O confers protection against Staphylococcus aureus in mice.|https://dx.doi.org/10.1371/journal.ppat.1012306
 Antimicrobial resistance patterns of Staphylococcus spp. isolated from clinical specimens of companion animals in Northern Portugal, 2021-2023.|https://dx.doi.org/10.1016/j.tvjl.2024.106153
+Negative Pressure Level and Effects on Bacterial Growth Kinetics in an in vitro Wound Model.|https://dx.doi.org/10.33073/pjm-2024-018
