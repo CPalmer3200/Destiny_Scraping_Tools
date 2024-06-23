@@ -77,3 +77,4 @@ A semi-automated cell tracking protocol for quantitative analyses of neutrophil 
 Subsequent Complications of Pediatric Patients With Osteomyelitis and Accompanying Subperiosteal Abscess.|https://dx.doi.org/10.1097/INF.0000000000004435
 Negative Pressure Level and Effects on Bacterial Growth Kinetics in an in vitro Wound Model.|https://dx.doi.org/10.33073/pjm-2024-018
 MicroRNA-939 amplifies Staphylococcus aureus-induced matrix metalloproteinase expression in atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2024.1354154
+Real-life experience with IV dalbavancin in Canada; results from the CLEAR (Canadian LEadership on Antimicrobial Real-life usage) registry.|https://dx.doi.org/10.1016/j.jgar.2024.06.002

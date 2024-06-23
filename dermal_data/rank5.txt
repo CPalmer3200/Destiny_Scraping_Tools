@@ -16,3 +16,5 @@ Phenotypic and genotypic characteristics of mecA - positive oxacillin-sensitive 
 Recombinant scFv-Fc Anti-kallikrein 7 Antibody-Loaded Thermosensitive Hydrogels Against Skin Desquamation Disorders.|https://dx.doi.org/10.1021/acsabm.4c00371
 Facemask acne attenuation through modulation of indirect microbiome interactions.|https://dx.doi.org/10.1038/s41522-024-00512-w
 Potential therapeutic agents of Bombyx mori silk cocoon extracts from agricultural product for inhibition of skin pathogenic bacteria and free radicals.|https://dx.doi.org/10.7717/peerj.17490
+Multifunctional composite soluble microneedle patch based on "one stone, three birds" strategy for promoting the healing of infectious wounds.|https://dx.doi.org/10.1016/j.colsurfb.2024.114049
+Late-Onset Reactions after Hyaluronic Acid Dermal Fillers: A Consensus Recommendation on Etiology, Prevention and Management.|https://dx.doi.org/10.1007/s13555-024-01202-3

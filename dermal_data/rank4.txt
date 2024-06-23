@@ -26,3 +26,4 @@ A hybrid structure based on silk fibroin/PVA nanofibers and alginate/gum tragaca
 A novel biological antibacterial polyvinyl alcohol/polyionic liquid hydrogel for wound dressing.|https://dx.doi.org/10.1177/08853282241264095
 A hydrogel based on Fe(II)-GMP demonstrates tunable emission, self-healing mechanical strength and Fenton chemistry-mediated notable antibacterial properties.|https://dx.doi.org/10.1039/d4nr01011f
 Self-Healing Conductive Hydrogels with Dynamic Dual Network Structure Accelerate Infected Wound Healing via Photothermal Antimicrobial and Regulating Inflammatory Response.|https://dx.doi.org/10.1021/acsami.4c04113
+A Double Network Composite Hydrogel with Self-Regulating Cu(2+)/Luteolin Release and Mechanical Modulation for Enhanced Wound Healing.|https://dx.doi.org/10.1021/acsnano.4c04816
