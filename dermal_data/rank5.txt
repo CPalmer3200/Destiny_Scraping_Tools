@@ -18,3 +18,4 @@ Facemask acne attenuation through modulation of indirect microbiome interactions
 Potential therapeutic agents of Bombyx mori silk cocoon extracts from agricultural product for inhibition of skin pathogenic bacteria and free radicals.|https://dx.doi.org/10.7717/peerj.17490
 Multifunctional composite soluble microneedle patch based on "one stone, three birds" strategy for promoting the healing of infectious wounds.|https://dx.doi.org/10.1016/j.colsurfb.2024.114049
 Late-Onset Reactions after Hyaluronic Acid Dermal Fillers: A Consensus Recommendation on Etiology, Prevention and Management.|https://dx.doi.org/10.1007/s13555-024-01202-3
+Rapid Membrane-Penetrating Hybrid Peptides Achieve Efficient Dual Antimicrobial and Antibiofilm Activity through a Triple Bactericidal Mechanism.|https://dx.doi.org/10.1021/acsomega.4c01577

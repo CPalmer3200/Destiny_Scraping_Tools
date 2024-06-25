@@ -5,3 +5,4 @@ Improving Risk Prediction of Methicillin-Resistant Staphylococcus aureus Using M
 The Impact of Gastroesophageal Disease on Clostridium difficile Infection Hospitalization: A Nationwide Analysis From the United States.|https://dx.doi.org/10.7759/cureus.62223
 A sequence invariable region in TcdB2 is required for toxin escape from Clostridioides difficile.|https://dx.doi.org/10.1128/jb.00096-24
 Mortality in clostridioides difficile infection among patients hospitalized at the university clinical hospital in Wroclaw, Poland - a 3-year observational study.|https://dx.doi.org/10.1186/s12879-024-09495-7
+Impact of colon cancer on outcomes in hospitalized patients with Clostridioides difficile infection: a national inpatient analysis.|https://dx.doi.org/10.1080/08998280.2024.2352817
