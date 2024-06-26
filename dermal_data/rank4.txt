@@ -28,3 +28,4 @@ A hydrogel based on Fe(II)-GMP demonstrates tunable emission, self-healing mecha
 Self-Healing Conductive Hydrogels with Dynamic Dual Network Structure Accelerate Infected Wound Healing via Photothermal Antimicrobial and Regulating Inflammatory Response.|https://dx.doi.org/10.1021/acsami.4c04113
 A Double Network Composite Hydrogel with Self-Regulating Cu(2+)/Luteolin Release and Mechanical Modulation for Enhanced Wound Healing.|https://dx.doi.org/10.1021/acsnano.4c04816
 Thermosensitive curcumin/silver/montmorillonite-F127 hydrogels with synergistic photodynamic/photothermal/silver ions antibacterial activity.|https://dx.doi.org/10.1039/d4tb00431k
+Multifunctional sprayable carboxymethyl chitosan/polyphenol hydrogel for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133303

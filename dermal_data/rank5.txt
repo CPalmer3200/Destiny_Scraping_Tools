@@ -19,3 +19,4 @@ Potential therapeutic agents of Bombyx mori silk cocoon extracts from agricultur
 Multifunctional composite soluble microneedle patch based on "one stone, three birds" strategy for promoting the healing of infectious wounds.|https://dx.doi.org/10.1016/j.colsurfb.2024.114049
 Late-Onset Reactions after Hyaluronic Acid Dermal Fillers: A Consensus Recommendation on Etiology, Prevention and Management.|https://dx.doi.org/10.1007/s13555-024-01202-3
 Rapid Membrane-Penetrating Hybrid Peptides Achieve Efficient Dual Antimicrobial and Antibiofilm Activity through a Triple Bactericidal Mechanism.|https://dx.doi.org/10.1021/acsomega.4c01577
+Carbon source competition within the wound microenvironment can significantly influence infection progression.|https://dx.doi.org/10.1038/s41522-024-00518-4
