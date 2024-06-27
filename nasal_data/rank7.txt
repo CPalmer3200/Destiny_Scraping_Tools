@@ -4,3 +4,5 @@ Neutralizing antibodies after nebulized phage therapy in cystic fibrosis patient
 Temporal trends of skin and soft tissue infections caused by methicillin-resistant Staphylococcus aureus in Gabon.|https://dx.doi.org/10.1186/s13756-024-01426-0
 Evaluation of a multiplex-qPCR for paediatric pleural empyema-An observational study in hospitalised children.|https://dx.doi.org/10.1371/journal.pone.0304861
 A group B streptococcal type VII secreted LXG toxin mediates interbacterial competition and colonization of the female genital tract.|https://dx.doi.org/10.1101/2024.06.10.598350
+Sodium alginate-based multifunctional sandwich-like system for treating wound infections.|https://dx.doi.org/10.1016/j.bioadv.2024.213931
+The Effect of Retained Hardware on Failure Among Prosthetic Joint Infections of the Knee in the Presence and Absence of Staphylococcus aureus.|https://dx.doi.org/10.1093/ofid/ofae306

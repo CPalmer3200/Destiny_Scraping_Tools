@@ -3,3 +3,4 @@ Management of intra-abdominal infections: recommendations by the Italian council
 Assessment of the Clinical Utility of the FilmArrayTM Gastrointestinal Panel for Detecting Gastrointestinal Pathogens.|https://dx.doi.org/10.7754/Clin.Lab.2024.240125
 Proton-Pump Inhibitors to Prevent Gastrointestinal Bleeding - An Updated Meta-Analysis.|https://dx.doi.org/10.1056/EVIDoa2400134
 Continuous vs Intermittent β-Lactam Antibiotic Infusions in Critically Ill Patients With Sepsis: The BLING III Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2024.9779
+Surveillance of adverse events following immunisation in Australia, COVID-19 vaccines, 2021.|https://dx.doi.org/10.33321/cdi.2024.48.2

@@ -6,3 +6,5 @@ The Impact of Gastroesophageal Disease on Clostridium difficile Infection Hospit
 A sequence invariable region in TcdB2 is required for toxin escape from Clostridioides difficile.|https://dx.doi.org/10.1128/jb.00096-24
 Mortality in clostridioides difficile infection among patients hospitalized at the university clinical hospital in Wroclaw, Poland - a 3-year observational study.|https://dx.doi.org/10.1186/s12879-024-09495-7
 Impact of colon cancer on outcomes in hospitalized patients with Clostridioides difficile infection: a national inpatient analysis.|https://dx.doi.org/10.1080/08998280.2024.2352817
+Clostridioides difficile Toxins: Host Cell Interactions and Their Role in Disease Pathogenesis.|https://dx.doi.org/10.3390/toxins16060241
+Borrelia burgdorferi 0755, a Novel Cytotoxin with Unknown Function in Lyme Disease.|https://dx.doi.org/10.3390/toxins16060233

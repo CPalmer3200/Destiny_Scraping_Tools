@@ -29,3 +29,12 @@ Self-Healing Conductive Hydrogels with Dynamic Dual Network Structure Accelerate
 A Double Network Composite Hydrogel with Self-Regulating Cu(2+)/Luteolin Release and Mechanical Modulation for Enhanced Wound Healing.|https://dx.doi.org/10.1021/acsnano.4c04816
 Thermosensitive curcumin/silver/montmorillonite-F127 hydrogels with synergistic photodynamic/photothermal/silver ions antibacterial activity.|https://dx.doi.org/10.1039/d4tb00431k
 Multifunctional sprayable carboxymethyl chitosan/polyphenol hydrogel for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133303
+Fluffy-like amphiphilic graphene oxide and its effects on improving the antibacterial activity and thermal outstanding of ethyl cellulose /polyvinyl alcohol hydrogel film.|https://dx.doi.org/10.1186/s13065-024-01221-3
+Sodium alginate-based multifunctional sandwich-like system for treating wound infections.|https://dx.doi.org/10.1016/j.bioadv.2024.213931
+Antimicrobial Potential of Chitosan Films Incorporated with Alcoholic Extract from Mimosa tenuiflora Leaves.|https://dx.doi.org/10.1002/cbdv.202400645
+An Injectable Living Hydrogel with Embedded Probiotics as a Novel Strategy for Combating Multifaceted Pathogen Wound Infections.|https://dx.doi.org/10.1002/adhm.202400921
+Injectable Self-Healing Antibacterial Hydrogels with Tailored Functions by Loading Peptide Nanofiber-Biomimetic Silver Nanoparticles.|https://dx.doi.org/10.1002/marc.202400173
+Improvement of Alginate Extraction from Brown Seaweed (Laminaria digitata L.) and Valorization of Its Remaining Ethanolic Fraction.|https://dx.doi.org/10.3390/md22060280
+Enhancing Antimicrobial Performance of Gauze via Modification by Ag-Loaded Polydopamine Submicron Particles.|https://dx.doi.org/10.3390/jfb15060152
+Antibacterial Silver Nanoparticle Containing Polydopamine Hydrogels That Enhance Re-Epithelization.|https://dx.doi.org/10.3390/gels10060363
+An injectable magnesium-coordinated phosphate chitosan-based hydrogel loaded with vancomycin for antibacterial and osteogenesis in the treatment of osteomyelitis.|https://dx.doi.org/10.1093/rb/rbae049

@@ -20,3 +20,6 @@ Multifunctional composite soluble microneedle patch based on "one stone, three b
 Late-Onset Reactions after Hyaluronic Acid Dermal Fillers: A Consensus Recommendation on Etiology, Prevention and Management.|https://dx.doi.org/10.1007/s13555-024-01202-3
 Rapid Membrane-Penetrating Hybrid Peptides Achieve Efficient Dual Antimicrobial and Antibiofilm Activity through a Triple Bactericidal Mechanism.|https://dx.doi.org/10.1021/acsomega.4c01577
 Carbon source competition within the wound microenvironment can significantly influence infection progression.|https://dx.doi.org/10.1038/s41522-024-00518-4
+Study of the Structure of Hyperbranched Polyglycerol Coatings and their Anti-Biofouling and Anti-Thrombotic Applications.|https://dx.doi.org/10.1002/adhm.202401545
+Antimicrobial Peptide Reduces Cytotoxicity and Inflammation in Canine Epidermal Keratinocyte Progenitor Cells Induced by Pseudomonas aeruginosa Infection.|https://dx.doi.org/10.3390/vetsci11060235
+Proteomic and transcriptomic analyses of Cutibacterium acnes biofilms and planktonic cultures in presence of epinephrine.|https://dx.doi.org/10.3934/microbiol.2024019
