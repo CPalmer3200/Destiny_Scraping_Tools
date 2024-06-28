@@ -6,3 +6,13 @@ Evaluation of a multiplex-qPCR for paediatric pleural empyema-An observational s
 A group B streptococcal type VII secreted LXG toxin mediates interbacterial competition and colonization of the female genital tract.|https://dx.doi.org/10.1101/2024.06.10.598350
 Sodium alginate-based multifunctional sandwich-like system for treating wound infections.|https://dx.doi.org/10.1016/j.bioadv.2024.213931
 The Effect of Retained Hardware on Failure Among Prosthetic Joint Infections of the Knee in the Presence and Absence of Staphylococcus aureus.|https://dx.doi.org/10.1093/ofid/ofae306
+Long-Lasting Antibacterial PDMS Surfaces Constructed from Photocuring of End-Functionalized Polymers.|https://dx.doi.org/10.1002/marc.202400170
+Recommendations for the Prevention and Management of Deep Brain Stimulation Infections Based on 26-Year Single-Center Experience.|https://dx.doi.org/10.1159/000539188
+Targeting S. aureus Extracellular Vesicles: A New Putative Strategy to Counteract Their Pathogenic Potential.|https://dx.doi.org/10.3390/pharmaceutics16060789
+Formulation and Characterization of Nanoemulsion Incorporating Chamomilla recutita L. Extract Stabilized with Hyaluronic Acid.|https://dx.doi.org/10.3390/pharmaceutics16060701
+Modern Microbiological Methods to Detect Biofilm Formation in Orthopedy and Suggestions for Antibiotic Therapy, with Particular Emphasis on Prosthetic Joint Infection (PJI).|https://dx.doi.org/10.3390/microorganisms12061198
+Oleanolic Acid Promotes the Formation of Probiotic Escherichia coli Nissle 1917 (EcN) Biofilm by Inhibiting Bacterial Motility.|https://dx.doi.org/10.3390/microorganisms12061097
+Early Intervention in Septic Arthritis of the Hand, Optimizing Patient Outcomes in Hand Infections-A Five-Year Retrospective Study.|https://dx.doi.org/10.3390/medicina60060895
+Surgery for Active Infective Endocarditis on Mitral Valve: Anatomical, Surgical, and Disease Factors as Long-Term Outcome Modifiers.|https://dx.doi.org/10.3390/medicina60060879
+Do High Doses of Multiple Antibiotics Loaded into Bone Cement Spacers Improve the Success Rate in Staphylococcal Periprosthetic Joint Infection When Rifampicin Cannot Be Employed?|https://dx.doi.org/10.3390/antibiotics13060538
+The Impact of SARS-CoV-2 Pandemic on Antibiotic Prescriptions and Resistance in a University Hospital from Romania.|https://dx.doi.org/10.3390/antibiotics13060477

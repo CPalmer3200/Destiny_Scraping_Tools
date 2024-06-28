@@ -6,3 +6,5 @@ Dermal TRPV1 innervations engage a macrophage- and fibroblast-containing pathway
 Necrotizing soft-tissue infection of the upper limb: A single-center study of 24 cases.|https://dx.doi.org/10.1016/j.hansur.2024.101718
 Active Community-Based Case Finding of Endemic Leishmaniasis in West Bengal, India.|https://dx.doi.org/10.1007/s44197-024-00260-2
 Efficacy and Safety of Neauvia Intense in Correcting Moderate-to-Severe Nasolabial Folds: A Post-Market, Prospective, Open-Label, Single-Centre Study.|https://dx.doi.org/10.2147/CCID.S460973
+Cytotoxic and Immunomodulatory Effects of Hypericin as a Photosensitizer in Photodynamic Therapy Used on Skin Cell Cultures.|https://dx.doi.org/10.3390/pharmaceutics16060696
+Candida spp. in Cetaceans: Neglected Emerging Challenges in Marine Ecosystems.|https://dx.doi.org/10.3390/microorganisms12061128

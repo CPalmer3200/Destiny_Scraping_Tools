@@ -6,3 +6,4 @@ Case 16-2024: A 20-Year-Old Man with a Pustular Rash.|https://dx.doi.org/10.1056
 Exploring mechanisms of mupirocin resistance and hyper-resistance.|https://dx.doi.org/10.1042/BST20230581
 Infant age inversely correlates with gut carriage of resistance genes, reflecting modifications in microbial carbohydrate metabolism during early life.|https://dx.doi.org/10.1002/imt2.169
 Effect of Topical Silver Nanoparticle Formulation on Wound Bacteria Clearance and Healing in Patients With Infected Wounds Compared to Standard Topical Antibiotic Application: A Randomized Open-Label Parallel Clinical Trial.|https://dx.doi.org/10.7759/cureus.60569
+Review: the spectrum of antimicrobial resistance in bacteria isolated from wounds of patients with epidermolysis bullosa.|https://dx.doi.org/10.1080/09546634.2024.2370424

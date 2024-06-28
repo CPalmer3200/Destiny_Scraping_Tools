@@ -1,3 +1,7 @@
 Use of tcdC gene sequencing to prevent misidentification of Clostridioides difficile ribotype 176 and 027.|https://dx.doi.org/10.17392/1693-21-02
 Island biogeography theory provides a plausible explanation for why larger vertebrates and taller humans have more diverse gut microbiomes.|https://dx.doi.org/10.1093/ismejo/wrae114
 Clostridioides difficile infection epidemiology during the COVID-19 pandemic in Greece.|https://dx.doi.org/10.1080/17460913.2024.2358653
+Impact of an electronic smart order-set for diagnostic stewardship of Clostridiodes difficile infection (CDI) in a community healthcare system in South Florida.|https://dx.doi.org/10.1016/j.ajic.2024.04.181
+Use of PCR Cycle Threshold and Clinical Interventions to Aid in the Management of Pediatric Clostridioides difficile Patients.|https://dx.doi.org/10.3390/microorganisms12061181
+miR-155 and miR-21 as Diagnostic and Therapeutic Biomarkers for Ulcerative Colitis: There Is Still a Long Way to Go.|https://dx.doi.org/10.3390/biomedicines12061315
+Demographic Characteristics and Economic Burden of Clostridioides difficile Infection in Korea: A Nationwide Population-Based Study after Propensity Score Matching.|https://dx.doi.org/10.3390/antibiotics13060542

@@ -17,3 +17,6 @@ Virulence and resistance profiling of Staphylococcus aureus isolated from subcli
 Application of vacuum-sealing drainage in buttonhole-related arteriovenous fistula infection: A case report.|https://dx.doi.org/10.1111/hdi.13164
 Coordinated adaptation of Staphylococcus aureus to calprotectin-dependent metal sequestration.|https://dx.doi.org/10.1128/mbio.01389-24
 Temporal trends of skin and soft tissue infections caused by methicillin-resistant Staphylococcus aureus in Gabon.|https://dx.doi.org/10.1186/s13756-024-01426-0
+Antibiotic Resistance Profiles and MLST Typing of Staphylococcus Aureus Clone Associated with Skin and Soft Tissue Infections in a Hospital of China.|https://dx.doi.org/10.2147/IDR.S465951
+The Clinical Characteristics and Antimicrobial Resistance of Staphylococcus aureus Isolated from Patients with Staphylococcal Scalded Skin Syndrome (SSSS) in Southwestern China.|https://dx.doi.org/10.3390/antibiotics13060516
+Discovery and Optimization of Novel SaFabI Inhibitors as Specific Therapeutic Agents for MRSA Infection.|https://dx.doi.org/10.1021/acs.jmedchem.4c00320

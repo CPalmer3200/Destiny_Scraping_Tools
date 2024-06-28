@@ -2,3 +2,4 @@ Real-world effectiveness of fecal microbiota transplantation for first or second
 Economic and Chronologic Optimization of Fecal Donors Screening Process.|https://dx.doi.org/10.1177/23814683241254809
 Understanding host immune responses in Clostridioides difficile infection: Implications for pathogenesis and immunotherapy.|https://dx.doi.org/10.1002/imt2.200
 Cyclic diguanylate differentially regulates the expression of virulence factors and pathogenesis-related phenotypes in Clostridioides difficile.|https://dx.doi.org/10.1016/j.micres.2024.127811
+Current and Ongoing Developments in Targeting Clostridioides difficile Infection and Recurrence.|https://dx.doi.org/10.3390/microorganisms12061206

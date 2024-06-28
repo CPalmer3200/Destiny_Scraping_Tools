@@ -23,3 +23,5 @@ Carbon source competition within the wound microenvironment can significantly in
 Study of the Structure of Hyperbranched Polyglycerol Coatings and their Anti-Biofouling and Anti-Thrombotic Applications.|https://dx.doi.org/10.1002/adhm.202401545
 Antimicrobial Peptide Reduces Cytotoxicity and Inflammation in Canine Epidermal Keratinocyte Progenitor Cells Induced by Pseudomonas aeruginosa Infection.|https://dx.doi.org/10.3390/vetsci11060235
 Proteomic and transcriptomic analyses of Cutibacterium acnes biofilms and planktonic cultures in presence of epinephrine.|https://dx.doi.org/10.3934/microbiol.2024019
+Biological Activity of Horehound (Marrubium vulgare L.) Herb Grown in Poland and Its Phytochemical Composition.|https://dx.doi.org/10.3390/ph17060780
+Microbiome Modulation in Acne Patients and Clinical Correlations.|https://dx.doi.org/10.3390/life14060688

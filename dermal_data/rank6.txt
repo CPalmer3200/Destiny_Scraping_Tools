@@ -3,3 +3,4 @@ Adhesive Antibacterial Moisturizing Nanostructured Skin Patch for Sustainable De
 The skin barrier and microbiome in infantile atopic dermatitis development: can skin care prevent onset?|https://dx.doi.org/10.1093/intimm/dxae038
 MicroRNA-939 amplifies Staphylococcus aureus-induced matrix metalloproteinase expression in atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2024.1354154
 Induction of acute silkworm hemolymph melanization by Staphylococcus aureus treated with peptidoglycan-degrading enzymes.|https://dx.doi.org/10.5582/ddt.2024.01026
+Targeting S. aureus Extracellular Vesicles: A New Putative Strategy to Counteract Their Pathogenic Potential.|https://dx.doi.org/10.3390/pharmaceutics16060789

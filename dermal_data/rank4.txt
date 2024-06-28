@@ -38,3 +38,7 @@ Improvement of Alginate Extraction from Brown Seaweed (Laminaria digitata L.) an
 Enhancing Antimicrobial Performance of Gauze via Modification by Ag-Loaded Polydopamine Submicron Particles.|https://dx.doi.org/10.3390/jfb15060152
 Antibacterial Silver Nanoparticle Containing Polydopamine Hydrogels That Enhance Re-Epithelization.|https://dx.doi.org/10.3390/gels10060363
 An injectable magnesium-coordinated phosphate chitosan-based hydrogel loaded with vancomycin for antibacterial and osteogenesis in the treatment of osteomyelitis.|https://dx.doi.org/10.1093/rb/rbae049
+Poly(ionic liquid)-Flocculated Chlorella Loading Bactericidal and Antioxidant Hydrogel as a Biological Hydrogen Therapy for Diabetic Wound Dressing.|https://dx.doi.org/10.1021/acsami.4c07104
+A multifunctional chitosan based porous membrane for pH-responsive antibacterial activity and promotion of infected wound healing.|https://dx.doi.org/10.1039/d3tb03067a
+Co-Delivery of Dragon's Blood and Alkanna tinctoria Extracts Using Electrospun Nanofibers: In Vitro and In Vivo Wound Healing Evaluation in Diabetic Rat Model.|https://dx.doi.org/10.3390/pharmaceutics16060704
+Protium spruceanum Extract Enhances Mupirocin Activity When Combined with Nanoemulsion-Based Hydrogel: A Multi-Target Strategy for Treating Skin and Soft Tissue Infections.|https://dx.doi.org/10.3390/pharmaceutics16060700

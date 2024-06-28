@@ -8,3 +8,5 @@ Mortality in clostridioides difficile infection among patients hospitalized at t
 Impact of colon cancer on outcomes in hospitalized patients with Clostridioides difficile infection: a national inpatient analysis.|https://dx.doi.org/10.1080/08998280.2024.2352817
 Clostridioides difficile Toxins: Host Cell Interactions and Their Role in Disease Pathogenesis.|https://dx.doi.org/10.3390/toxins16060241
 Borrelia burgdorferi 0755, a Novel Cytotoxin with Unknown Function in Lyme Disease.|https://dx.doi.org/10.3390/toxins16060233
+Inhibition of Clostridioides difficile toxins TcdA and TcdB by the amiodarone derivative dronedarone.|https://dx.doi.org/10.1007/s00210-024-03248-8
+Serological Responses of Guinea Pigs and Heifers to Eight Different BoAHV-1 Vaccine Formulations.|https://dx.doi.org/10.3390/vaccines12060615
