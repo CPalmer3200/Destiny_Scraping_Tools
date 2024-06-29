@@ -25,3 +25,4 @@ Antimicrobial Peptide Reduces Cytotoxicity and Inflammation in Canine Epidermal 
 Proteomic and transcriptomic analyses of Cutibacterium acnes biofilms and planktonic cultures in presence of epinephrine.|https://dx.doi.org/10.3934/microbiol.2024019
 Biological Activity of Horehound (Marrubium vulgare L.) Herb Grown in Poland and Its Phytochemical Composition.|https://dx.doi.org/10.3390/ph17060780
 Microbiome Modulation in Acne Patients and Clinical Correlations.|https://dx.doi.org/10.3390/life14060688
+Effects of sodium lauryl sulfate and postbiotic toothpaste on oral microecology.|https://dx.doi.org/10.1080/20002297.2024.2372224

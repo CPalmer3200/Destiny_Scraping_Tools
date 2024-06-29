@@ -42,3 +42,4 @@ Poly(ionic liquid)-Flocculated Chlorella Loading Bactericidal and Antioxidant Hy
 A multifunctional chitosan based porous membrane for pH-responsive antibacterial activity and promotion of infected wound healing.|https://dx.doi.org/10.1039/d3tb03067a
 Co-Delivery of Dragon's Blood and Alkanna tinctoria Extracts Using Electrospun Nanofibers: In Vitro and In Vivo Wound Healing Evaluation in Diabetic Rat Model.|https://dx.doi.org/10.3390/pharmaceutics16060704
 Protium spruceanum Extract Enhances Mupirocin Activity When Combined with Nanoemulsion-Based Hydrogel: A Multi-Target Strategy for Treating Skin and Soft Tissue Infections.|https://dx.doi.org/10.3390/pharmaceutics16060700
+Long duration sodium hyaluronate hydrogel with dual functions of both growth prompting and acid-triggered antibacterial activity for bacteria-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133423

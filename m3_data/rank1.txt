@@ -3,3 +3,5 @@ Economic and Chronologic Optimization of Fecal Donors Screening Process.|https:/
 Understanding host immune responses in Clostridioides difficile infection: Implications for pathogenesis and immunotherapy.|https://dx.doi.org/10.1002/imt2.200
 Cyclic diguanylate differentially regulates the expression of virulence factors and pathogenesis-related phenotypes in Clostridioides difficile.|https://dx.doi.org/10.1016/j.micres.2024.127811
 Current and Ongoing Developments in Targeting Clostridioides difficile Infection and Recurrence.|https://dx.doi.org/10.3390/microorganisms12061206
+Integrated Safety and Efficacy Analyses of Phase 3 Trials of a Microbiome Therapeutic for Recurrent CDI.|https://dx.doi.org/10.1007/s40121-024-01007-z
+Exploring novel microbial metabolites and drugs for inhibiting Clostridioides difficile.|https://dx.doi.org/10.1128/msphere.00273-24

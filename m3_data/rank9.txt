@@ -10,3 +10,6 @@ Clostridioides difficile Toxins: Host Cell Interactions and Their Role in Diseas
 Borrelia burgdorferi 0755, a Novel Cytotoxin with Unknown Function in Lyme Disease.|https://dx.doi.org/10.3390/toxins16060233
 Inhibition of Clostridioides difficile toxins TcdA and TcdB by the amiodarone derivative dronedarone.|https://dx.doi.org/10.1007/s00210-024-03248-8
 Serological Responses of Guinea Pigs and Heifers to Eight Different BoAHV-1 Vaccine Formulations.|https://dx.doi.org/10.3390/vaccines12060615
+Differences in enteric pathogens and intestinal microbiota between diarrheic weaned piglets and healthy penmates.|https://dx.doi.org/10.1016/j.vetmic.2024.110162
+AAV gene therapy for hereditary spastic paraplegia type 50: a phase 1 trial in a single patient.|https://dx.doi.org/10.1038/s41591-024-03078-4
+Stress Ulcer Prophylaxis in Mechanically Ventilated Patients With Acute Myocardial Infarction.|https://dx.doi.org/10.1016/j.jacadv.2023.100750

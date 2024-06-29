@@ -16,3 +16,6 @@ Early Intervention in Septic Arthritis of the Hand, Optimizing Patient Outcomes 
 Surgery for Active Infective Endocarditis on Mitral Valve: Anatomical, Surgical, and Disease Factors as Long-Term Outcome Modifiers.|https://dx.doi.org/10.3390/medicina60060879
 Do High Doses of Multiple Antibiotics Loaded into Bone Cement Spacers Improve the Success Rate in Staphylococcal Periprosthetic Joint Infection When Rifampicin Cannot Be Employed?|https://dx.doi.org/10.3390/antibiotics13060538
 The Impact of SARS-CoV-2 Pandemic on Antibiotic Prescriptions and Resistance in a University Hospital from Romania.|https://dx.doi.org/10.3390/antibiotics13060477
+Multiplexed bacterial pathogen detection and clinical characteristics of orthopedic infection in hospitalized patients.|https://dx.doi.org/10.3389/fcimb.2024.1394352
+Microbial Pattern of Neonatal Sepsis in the Neonatal Intensive Care Unit of dr. Ramelan Navy Central Hospital.|https://dx.doi.org/10.1155/2024/6264980
+The function of the complement system remains fully intact throughout the course of allogeneic stem cell transplantation.|https://dx.doi.org/10.3389/fimmu.2024.1422370
