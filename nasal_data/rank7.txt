@@ -19,3 +19,5 @@ The Impact of SARS-CoV-2 Pandemic on Antibiotic Prescriptions and Resistance in 
 Multiplexed bacterial pathogen detection and clinical characteristics of orthopedic infection in hospitalized patients.|https://dx.doi.org/10.3389/fcimb.2024.1394352
 Microbial Pattern of Neonatal Sepsis in the Neonatal Intensive Care Unit of dr. Ramelan Navy Central Hospital.|https://dx.doi.org/10.1155/2024/6264980
 The function of the complement system remains fully intact throughout the course of allogeneic stem cell transplantation.|https://dx.doi.org/10.3389/fimmu.2024.1422370
+Staphylococcus pseudintermedius and Pseudomonas aeruginosa Lubbock Chronic Wound Biofilm (LCWB): a suitable dual-species model for in vitro studies.|https://dx.doi.org/10.1016/j.micinf.2024.105384
+Concordance in bacterial colonization profiles between voice prostheses and oral microbiota post-laryngectomy: An experimental study.|https://dx.doi.org/10.1016/j.anl.2024.06.006
