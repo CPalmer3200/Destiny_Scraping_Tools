@@ -44,3 +44,7 @@ Co-Delivery of Dragon's Blood and Alkanna tinctoria Extracts Using Electrospun N
 Protium spruceanum Extract Enhances Mupirocin Activity When Combined with Nanoemulsion-Based Hydrogel: A Multi-Target Strategy for Treating Skin and Soft Tissue Infections.|https://dx.doi.org/10.3390/pharmaceutics16060700
 Long duration sodium hyaluronate hydrogel with dual functions of both growth prompting and acid-triggered antibacterial activity for bacteria-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133423
 Paper substrate designed with TEMPO-oxidized cellulose nanofibers/cationic guar gum hydrogel and its application in a colorimetric biosensor for rapid bacteria detection.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133497
+Polydopamine-armored zeolitic imidazolate framework-8-incorporated zwitterionic hydrogel with multifunctional properties for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133464
+Designing network structure hydrogels derived from carrageenan- phosphated polymers by covalent and supramolecular interactions for potential biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133527
+Antimicrobial ion-imprinted chitosan-derived hydrogel with quaternary ammonium and thermoresponsive components for UO(2)(2+) adsorption.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133532
+Functional network copolymeric hydrogels derived from moringa gum: Physiochemical, drug delivery and biomedical properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133352

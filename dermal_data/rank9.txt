@@ -20,3 +20,4 @@ Temporal trends of skin and soft tissue infections caused by methicillin-resista
 Antibiotic Resistance Profiles and MLST Typing of Staphylococcus Aureus Clone Associated with Skin and Soft Tissue Infections in a Hospital of China.|https://dx.doi.org/10.2147/IDR.S465951
 The Clinical Characteristics and Antimicrobial Resistance of Staphylococcus aureus Isolated from Patients with Staphylococcal Scalded Skin Syndrome (SSSS) in Southwestern China.|https://dx.doi.org/10.3390/antibiotics13060516
 Discovery and Optimization of Novel SaFabI Inhibitors as Specific Therapeutic Agents for MRSA Infection.|https://dx.doi.org/10.1021/acs.jmedchem.4c00320
+Line-field Confocal Optical Coherence Tomography (LC-OCT) for real-time differential diagnosis of toxic epidermal necrolysis versus staphylococcal scalded skin syndrome leading to an optimal initial management.|https://dx.doi.org/10.1093/ced/llae247

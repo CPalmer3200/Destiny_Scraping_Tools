@@ -26,3 +26,4 @@ Proteomic and transcriptomic analyses of Cutibacterium acnes biofilms and plankt
 Biological Activity of Horehound (Marrubium vulgare L.) Herb Grown in Poland and Its Phytochemical Composition.|https://dx.doi.org/10.3390/ph17060780
 Microbiome Modulation in Acne Patients and Clinical Correlations.|https://dx.doi.org/10.3390/life14060688
 Effects of sodium lauryl sulfate and postbiotic toothpaste on oral microecology.|https://dx.doi.org/10.1080/20002297.2024.2372224
+Laurocapram, a transdermal enhancer, boosts cephalosporin's antibacterial activity against Methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bcp.2024.116404

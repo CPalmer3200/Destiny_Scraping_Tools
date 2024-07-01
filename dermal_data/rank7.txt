@@ -10,3 +10,4 @@ Cytotoxic and Immunomodulatory Effects of Hypericin as a Photosensitizer in Phot
 Candida spp. in Cetaceans: Neglected Emerging Challenges in Marine Ecosystems.|https://dx.doi.org/10.3390/microorganisms12061128
 Case report: Dermatophytic pseudomycetoma in a domestic Korean short hair cat treated with intralesional injection of amphotericin B and oral terbinafine administration.|https://dx.doi.org/10.3389/fvets.2024.1402691
 Miliary osteoma cutis in a climbing mantella frog (Mantella laevigata).|https://dx.doi.org/10.1111/vde.13273
+Battery-free optoelectronic patch for photodynamic and light therapies in treating bacteria-infected wounds.|https://dx.doi.org/10.1016/j.bios.2024.116467
