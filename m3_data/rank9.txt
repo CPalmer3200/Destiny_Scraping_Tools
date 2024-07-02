@@ -13,3 +13,5 @@ Serological Responses of Guinea Pigs and Heifers to Eight Different BoAHV-1 Vacc
 Differences in enteric pathogens and intestinal microbiota between diarrheic weaned piglets and healthy penmates.|https://dx.doi.org/10.1016/j.vetmic.2024.110162
 AAV gene therapy for hereditary spastic paraplegia type 50: a phase 1 trial in a single patient.|https://dx.doi.org/10.1038/s41591-024-03078-4
 Stress Ulcer Prophylaxis in Mechanically Ventilated Patients With Acute Myocardial Infarction.|https://dx.doi.org/10.1016/j.jacadv.2023.100750
+Antibiotic resistance of enteropathogenic bacteria in a teaching hospital in North Khuzestan during a three-year period.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1594_23
+Critical considerations for the management of acute abdomen in transplant patients.|https://dx.doi.org/10.5500/wjt.v14.i2.93944
