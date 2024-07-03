@@ -1,1 +1,3 @@
 Unlocking Wearable Microbial Fuel Cells for Advanced Wound Infection Treatment.|https://dx.doi.org/10.1021/acsami.4c06303
+A carrier-free, injectable, and self-assembling hydrogel based on carvacrol and glycyrrhizin exhibits high antibacterial activity and enhances healing of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.colsurfb.2024.114068
+Self-Adapting Biomass Hydrogel Embodied with miRNA Immunoregulation and Long-Term Bacterial Eradiation for Synergistic Chronic Wound Therapy.|https://dx.doi.org/10.1021/acsnano.4c02736

@@ -15,3 +15,4 @@ AAV gene therapy for hereditary spastic paraplegia type 50: a phase 1 trial in a
 Stress Ulcer Prophylaxis in Mechanically Ventilated Patients With Acute Myocardial Infarction.|https://dx.doi.org/10.1016/j.jacadv.2023.100750
 Antibiotic resistance of enteropathogenic bacteria in a teaching hospital in North Khuzestan during a three-year period.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1594_23
 Critical considerations for the management of acute abdomen in transplant patients.|https://dx.doi.org/10.5500/wjt.v14.i2.93944
+Clostridioides difficile superoxide reductase mitigates oxygen sensitivity.|https://dx.doi.org/10.1128/jb.00175-24

@@ -5,3 +5,6 @@ Cyclic diguanylate differentially regulates the expression of virulence factors 
 Current and Ongoing Developments in Targeting Clostridioides difficile Infection and Recurrence.|https://dx.doi.org/10.3390/microorganisms12061206
 Integrated Safety and Efficacy Analyses of Phase 3 Trials of a Microbiome Therapeutic for Recurrent CDI.|https://dx.doi.org/10.1007/s40121-024-01007-z
 Exploring novel microbial metabolites and drugs for inhibiting Clostridioides difficile.|https://dx.doi.org/10.1128/msphere.00273-24
+Insoluble polysaccharides produced in plant cell cultures protect from Clostridioides difficile colitis.|https://dx.doi.org/10.1016/j.micres.2024.127812
+Epidemiology of Clostridioides difficile infection at one hospital 10 years after an outbreak of the epidemic C. difficile strain BI/027: changing strain prevalence, antimicrobial susceptibilities, and patient antibiotic exposures.|https://dx.doi.org/10.1128/aac.00698-24
+Overcoming donor variability and risks associated with fecal microbiota transplants through bacteriophage-mediated treatments.|https://dx.doi.org/10.1186/s40168-024-01820-1
