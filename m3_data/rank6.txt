@@ -6,3 +6,4 @@ Australian vaccine preventable disease epidemiological review series: Hepatitis 
 Epidemiology of respiratory syncytial virus in Central Queensland, Australia.|https://dx.doi.org/10.33321/cdi.2024.48.45
 Surveillance of adverse events following immunisation in Australia annual report, 2021.|https://dx.doi.org/10.33321/cdi.2024.48.1
 Fasting before Intra-Gastric Dosing with Antigen Improves Intestinal Humoral Responses in Syrian Hamsters.|https://dx.doi.org/10.3390/vaccines12060572
+Splenic marginal zone B cells restrict Mycobacterium tuberculosis infection by shaping the cytokine pattern and cell-mediated immunity.|https://dx.doi.org/10.1016/j.celrep.2024.114426

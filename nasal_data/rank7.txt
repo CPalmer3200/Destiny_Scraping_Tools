@@ -30,3 +30,6 @@ Flexible and transparent nanohole-patterned films with antibacterial properties 
 Adaptation to skin mycobiota promotes antibiotic tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1101/2024.05.03.592489
 Antibacterial effect of Aloe Vera on Bacteria Isolated from Cases of Wound Infection.|https://dx.doi.org/10.2174/0118715265301138240605071106
 Comparative evaluation of culture results and composition of microbiome of removed tonsils due to distant focal disease or other reasons. A prospective pilot study.|https://dx.doi.org/10.1556/030.2024.02279
+"All-in-one" self-healing and injectable cationic guar gum hydrogel dressing functionalized by bioactive complexes composed of natural small molecules.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133517
+Infective endocarditis associated with left atrial appendage occlusion device: a contemporary systematic review.|https://dx.doi.org/10.1007/s10840-024-01838-3
+Off-label use of dalbavancin in children: a case series.|https://dx.doi.org/10.1093/jac/dkae212
