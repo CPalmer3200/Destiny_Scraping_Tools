@@ -4,3 +4,4 @@ Phenotypic and genotypic characterization of commensal staphylococci isolated fr
 Hunting Dynamics and Identification of Potentially Pathogenic Bacteria in European Fallow Deer (Dama dama) across Three Hunting Reserves in Western Romania.|https://dx.doi.org/10.3390/microorganisms12061236
 Efficacy and Safety of Xylitol Nasal Irrigation after Functional Endoscopic Sinus Surgery: A Randomized Controlled Study.|https://dx.doi.org/10.3390/biomedicines12061377
 Swab Testing to Optimize Pneumonia treatment with empiric Vancomycin (STOP-Vanc): study protocol for a randomized controlled trial.|https://dx.doi.org/10.21203/rs.3.rs-4365928/v1
+The hidden link: How oral and respiratory microbiomes affect multiple sclerosis.|https://dx.doi.org/10.1016/j.msard.2024.105742

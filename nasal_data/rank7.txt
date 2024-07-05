@@ -33,3 +33,5 @@ Comparative evaluation of culture results and composition of microbiome of remov
 "All-in-one" self-healing and injectable cationic guar gum hydrogel dressing functionalized by bioactive complexes composed of natural small molecules.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133517
 Infective endocarditis associated with left atrial appendage occlusion device: a contemporary systematic review.|https://dx.doi.org/10.1007/s10840-024-01838-3
 Off-label use of dalbavancin in children: a case series.|https://dx.doi.org/10.1093/jac/dkae212
+Infective endocarditis and spondylodiscitis -impact of sequence of surgical therapy on survival and recurrence rate.|https://dx.doi.org/10.1093/ejcts/ezae246
+Competitive inhibition and mutualistic growth in co-infections: deciphering Staphylococcus aureus-Acinetobacter baumannii interaction dynamics.|https://dx.doi.org/10.1093/ismeco/ycae077

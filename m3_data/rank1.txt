@@ -8,3 +8,4 @@ Exploring novel microbial metabolites and drugs for inhibiting Clostridioides di
 Insoluble polysaccharides produced in plant cell cultures protect from Clostridioides difficile colitis.|https://dx.doi.org/10.1016/j.micres.2024.127812
 Epidemiology of Clostridioides difficile infection at one hospital 10 years after an outbreak of the epidemic C. difficile strain BI/027: changing strain prevalence, antimicrobial susceptibilities, and patient antibiotic exposures.|https://dx.doi.org/10.1128/aac.00698-24
 Overcoming donor variability and risks associated with fecal microbiota transplants through bacteriophage-mediated treatments.|https://dx.doi.org/10.1186/s40168-024-01820-1
+Emerging importance of stool preservation methods in OMICS studies with special focus on cancer biology.|https://dx.doi.org/10.1002/cbf.4063
