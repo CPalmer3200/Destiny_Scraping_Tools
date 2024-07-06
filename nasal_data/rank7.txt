@@ -35,3 +35,6 @@ Infective endocarditis associated with left atrial appendage occlusion device: a
 Off-label use of dalbavancin in children: a case series.|https://dx.doi.org/10.1093/jac/dkae212
 Infective endocarditis and spondylodiscitis -impact of sequence of surgical therapy on survival and recurrence rate.|https://dx.doi.org/10.1093/ejcts/ezae246
 Competitive inhibition and mutualistic growth in co-infections: deciphering Staphylococcus aureus-Acinetobacter baumannii interaction dynamics.|https://dx.doi.org/10.1093/ismeco/ycae077
+Transcriptional markers classifying Escherichia coli and Staphylococcus aureus induced sepsis in adults: A data-driven approach.|https://dx.doi.org/10.1371/journal.pone.0305920
+Selective Tumor Inhibition Effect of Drug-Free Layered Double Hydroxide-Based Films via Responding to Acidic Microenvironment.|https://dx.doi.org/10.1021/acsbiomaterials.4c00780
+Rapid identification and subsequent contextualization of an outbreak of methicillin-resistant Staphylococcus aureus in a neonatal intensive care unit using nanopore sequencing.|https://dx.doi.org/10.1099/mgen.0.001273

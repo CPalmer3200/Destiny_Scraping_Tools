@@ -2,3 +2,4 @@ Review: the spectrum of antimicrobial resistance in bacteria isolated from wound
 Protium spruceanum Extract Enhances Mupirocin Activity When Combined with Nanoemulsion-Based Hydrogel: A Multi-Target Strategy for Treating Skin and Soft Tissue Infections.|https://dx.doi.org/10.3390/pharmaceutics16060700
 The mesenchymal stromal cell secretome promotes tissue regeneration and increases macrophage infiltration in acute and methicillin-resistant Staphylococcus aureus-infected skin wounds in vivo.|https://dx.doi.org/10.1016/j.jcyt.2024.06.007
 Biofilm-producing ability of methicillin-resistant Staphylococcus aureus clinically isolated in China.|https://dx.doi.org/10.1186/s12866-024-03380-8
+Emergence of novel methicillin resistant Staphylococcus pseudintermedius lineages revealed by whole genome sequencing of isolates from companion animals and humans in Scotland.|https://dx.doi.org/10.1371/journal.pone.0305211

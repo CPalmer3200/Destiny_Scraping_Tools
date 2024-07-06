@@ -9699,3 +9699,7 @@ Unknown DOI
 10.1016/j.msard.2024.105742
 10.1093/ejcts/ezae246
 10.1093/ismeco/ycae077
+10.1371/journal.pone.0305211
+10.1371/journal.pone.0305920
+10.1021/acsbiomaterials.4c00780
+10.1099/mgen.0.001273
