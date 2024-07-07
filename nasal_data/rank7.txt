@@ -38,3 +38,8 @@ Competitive inhibition and mutualistic growth in co-infections: deciphering Stap
 Transcriptional markers classifying Escherichia coli and Staphylococcus aureus induced sepsis in adults: A data-driven approach.|https://dx.doi.org/10.1371/journal.pone.0305920
 Selective Tumor Inhibition Effect of Drug-Free Layered Double Hydroxide-Based Films via Responding to Acidic Microenvironment.|https://dx.doi.org/10.1021/acsbiomaterials.4c00780
 Rapid identification and subsequent contextualization of an outbreak of methicillin-resistant Staphylococcus aureus in a neonatal intensive care unit using nanopore sequencing.|https://dx.doi.org/10.1099/mgen.0.001273
+Rare association between spinal epidural abscess and septic arthritis of the hip in pediatric age: Case report.|https://dx.doi.org/10.1016/j.ijscr.2024.110004
+Prevalence, genetic characteristics, and antimicrobial resistance of staphylococcal isolates from oral cavity and skin surface of healthy individuals in northern Japan.|https://dx.doi.org/10.1016/j.jiph.2024.102488
+The prevalence and risk factors of methicillin-resistant Staphylococcus aureus among pediatric populations: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00431-024-05672-7
+Bundle care approach to reduce device associated infections in post-living-donor-liver transplantation in a tertiary care hospital, Egypt.|https://dx.doi.org/10.1186/s12879-024-09525-4
+Risk Factors and Microbiological Profile of Knee Periprosthetic Joint Infections with Sinus Tract.|https://dx.doi.org/10.1016/j.arth.2024.06.062

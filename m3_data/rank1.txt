@@ -9,3 +9,4 @@ Insoluble polysaccharides produced in plant cell cultures protect from Clostridi
 Epidemiology of Clostridioides difficile infection at one hospital 10 years after an outbreak of the epidemic C. difficile strain BI/027: changing strain prevalence, antimicrobial susceptibilities, and patient antibiotic exposures.|https://dx.doi.org/10.1128/aac.00698-24
 Overcoming donor variability and risks associated with fecal microbiota transplants through bacteriophage-mediated treatments.|https://dx.doi.org/10.1186/s40168-024-01820-1
 Emerging importance of stool preservation methods in OMICS studies with special focus on cancer biology.|https://dx.doi.org/10.1002/cbf.4063
+Occurrence and trends of Clostridioides difficile infections in hospitalized patients: a prospective multicentre cohort study in six German university hospitals, 2016-2020.|https://dx.doi.org/10.1016/j.jhin.2024.06.007
