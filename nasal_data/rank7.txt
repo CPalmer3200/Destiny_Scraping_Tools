@@ -43,3 +43,8 @@ Prevalence, genetic characteristics, and antimicrobial resistance of staphylococ
 The prevalence and risk factors of methicillin-resistant Staphylococcus aureus among pediatric populations: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00431-024-05672-7
 Bundle care approach to reduce device associated infections in post-living-donor-liver transplantation in a tertiary care hospital, Egypt.|https://dx.doi.org/10.1186/s12879-024-09525-4
 Risk Factors and Microbiological Profile of Knee Periprosthetic Joint Infections with Sinus Tract.|https://dx.doi.org/10.1016/j.arth.2024.06.062
+Latent Chronic Osteomyelitis Presenting Decades After Initial Trauma: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.61789
+Clinical Presentation and Outcomes Following Infection With Vibrio spp, Aeromonas spp, Chromobacterium violaceum, and Shewanella spp Water-Associated Organisms in Tropical Australia, 2015-2022.|https://dx.doi.org/10.1093/ofid/ofae319
+Clinical prediction for surgical versus nonsurgical interventions in patients with vertebral osteomyelitis and discitis.|https://dx.doi.org/10.21037/jss-23-111
+The myocutaneous gastrocnemius flap for periprosthetic joint infection of the knee.|https://dx.doi.org/10.1002/jeo2.12089
+Epidural spread of surgical site infection from spinal cord stimulation trial.|https://dx.doi.org/10.1080/17581869.2024.2373044

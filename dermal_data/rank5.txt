@@ -5,3 +5,4 @@ Biofilm-producing ability of methicillin-resistant Staphylococcus aureus clinica
 A microRNA focus on acne.|https://dx.doi.org/10.4081/dr.2024.9902
 Genotypic and morphological identification of opportunistic microorganisms in triple-syringe tubing from dental units.|https://dx.doi.org/10.17219/dmp/161187
 Unveiling the synergy: Biocompatible alginate-cellulose hydrogel loaded with silk fibroin and zinc ferrite nanoparticles for enhanced cell adhesion, and anti-biofilm activity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133412
+Determining the dispersion time in Staphylococcus epidermidis biofilm using physical and molecular approaches.|https://dx.doi.org/10.1016/j.heliyon.2024.e32389

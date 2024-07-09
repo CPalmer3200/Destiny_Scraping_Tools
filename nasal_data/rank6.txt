@@ -2,3 +2,5 @@ Characterization of bacterial and viral pathogens in the respiratory tract of ch
 Increase in methicillin-resistant Staphylococcus spp. colonization among pregnant individuals during COVID-19 pandemic.|https://dx.doi.org/10.1038/s41598-024-64422-9
 Autism spectrum disorder in young patients with congenital central hypoventilation syndrome: role of the autonomic nervous system dysfunction.|https://dx.doi.org/10.1186/s13023-024-03257-z
 Staphylococcus aureus Proteases: Orchestrators of Skin Inflammation.|https://dx.doi.org/10.1089/dna.2024.0134
+Nasopharyngeal carriage and antibiotic susceptibility patterns of streptococcus pneumoniae, haemophilus influenzae, moraxella catarrhalis and staphylococcus aureus among urban Ugandan children post-PCV10 introduction: a cross-sectional study.|https://dx.doi.org/10.4314/ahs.v23i4.24
+IL-10 inhibition during immunization improves vaccine-induced protection against Staphylococcus aureus infection.|https://dx.doi.org/10.1172/jci.insight.178216

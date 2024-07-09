@@ -5,3 +5,4 @@ Hunting Dynamics and Identification of Potentially Pathogenic Bacteria in Europe
 Efficacy and Safety of Xylitol Nasal Irrigation after Functional Endoscopic Sinus Surgery: A Randomized Controlled Study.|https://dx.doi.org/10.3390/biomedicines12061377
 Swab Testing to Optimize Pneumonia treatment with empiric Vancomycin (STOP-Vanc): study protocol for a randomized controlled trial.|https://dx.doi.org/10.21203/rs.3.rs-4365928/v1
 The hidden link: How oral and respiratory microbiomes affect multiple sclerosis.|https://dx.doi.org/10.1016/j.msard.2024.105742
+General skin and nasal decolonization with octenisan® set before and after elective orthopedic surgery in selected patients at elevated risk for revision surgery and surgical site infections-a single-center, unblinded, superiority, randomized controlled trial (BALGDEC trial).|https://dx.doi.org/10.1186/s13063-024-08173-y
