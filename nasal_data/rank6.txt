@@ -4,3 +4,5 @@ Autism spectrum disorder in young patients with congenital central hypoventilati
 Staphylococcus aureus Proteases: Orchestrators of Skin Inflammation.|https://dx.doi.org/10.1089/dna.2024.0134
 Nasopharyngeal carriage and antibiotic susceptibility patterns of streptococcus pneumoniae, haemophilus influenzae, moraxella catarrhalis and staphylococcus aureus among urban Ugandan children post-PCV10 introduction: a cross-sectional study.|https://dx.doi.org/10.4314/ahs.v23i4.24
 IL-10 inhibition during immunization improves vaccine-induced protection against Staphylococcus aureus infection.|https://dx.doi.org/10.1172/jci.insight.178216
+A fungal metabolic regulator underlies infectious synergism during Candida albicans-Staphylococcus aureus intra-abdominal co-infection.|https://dx.doi.org/10.1038/s41467-024-50058-w
+Nitric oxide releasing coatings for the prevention of viral and bacterial infections.|https://dx.doi.org/10.1039/d4bm00172a

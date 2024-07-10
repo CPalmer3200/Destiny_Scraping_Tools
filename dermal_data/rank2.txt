@@ -3,3 +3,4 @@ Development of a cellular assay as a personalized model for testing chronic woun
 Low-Level Laser Therapy (LLLT) for Diabetic Foot Ulcer in Uncontrolled Diabetes: A Case Report of Improved Wound Healing.|https://dx.doi.org/10.12659/AJCR.944106
 Molecular characterization of Pseudomonas aeruginosa from diabetic foot infections in Tunisia.|https://dx.doi.org/10.1099/jmm.0.001851
 Risk factors for 30-day hospital readmission in patients with diabetic foot.|https://dx.doi.org/10.1016/j.fas.2024.06.003
+Comprehensive infectious diabetic foot ulcer repair through multiple dressing methods, maggot therapy, and vacuum therapy after amputation: A case report study.|https://dx.doi.org/10.1016/j.ijscr.2024.109970

@@ -48,3 +48,7 @@ Clinical Presentation and Outcomes Following Infection With Vibrio spp, Aeromona
 Clinical prediction for surgical versus nonsurgical interventions in patients with vertebral osteomyelitis and discitis.|https://dx.doi.org/10.21037/jss-23-111
 The myocutaneous gastrocnemius flap for periprosthetic joint infection of the knee.|https://dx.doi.org/10.1002/jeo2.12089
 Epidural spread of surgical site infection from spinal cord stimulation trial.|https://dx.doi.org/10.1080/17581869.2024.2373044
+Long-Term Prevention of Biofilm Formation by Polycatechol-Based Supramolecular Assemblies with Low Molecular Weight Polymers on Surfaces.|https://dx.doi.org/10.1021/acsami.4c02371
+Dual phage-incorporated electrospun polyvinyl alcohol-eudragit nanofiber matrix for rapid healing of diabetic wound infected by Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.1007/s13346-024-01660-4
+Antibacterial potential of Stenotrophomonas maltophilia complex cystic fibrosis isolates.|https://dx.doi.org/10.1128/msphere.00335-24
+Real-World Use and Treatment Outcomes of Ceftaroline Fosamil in Patients with Complicated Skin and Soft Tissue Infection: A Multinational Retrospective Study.|https://dx.doi.org/10.2147/IDR.S455515
