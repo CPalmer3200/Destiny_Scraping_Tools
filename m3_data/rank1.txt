@@ -1,3 +1,4 @@
 [Need for improvement in the care of patients with Clostridioides difficile infections (CDI) - expert opinion in international comparison].|https://dx.doi.org/10.1055/a-2293-7760
 Recurrent Clostridioides difficile Infection and Outcome of Fecal Microbiota Transplantation Use: A Population-Based Assessment.|https://dx.doi.org/10.1093/ofid/ofae309
 Human intestinal microbiome: Role in health and disease.|https://dx.doi.org/10.37201/req/056.2024
+Fecal microbiota composition is a better predictor of recurrent Clostridioides difficile infection than clinical factors in a prospective, multicentre cohort study.|https://dx.doi.org/10.1186/s12879-024-09506-7
