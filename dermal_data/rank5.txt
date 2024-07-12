@@ -7,3 +7,6 @@ Genotypic and morphological identification of opportunistic microorganisms in tr
 Unveiling the synergy: Biocompatible alginate-cellulose hydrogel loaded with silk fibroin and zinc ferrite nanoparticles for enhanced cell adhesion, and anti-biofilm activity.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133412
 Determining the dispersion time in Staphylococcus epidermidis biofilm using physical and molecular approaches.|https://dx.doi.org/10.1016/j.heliyon.2024.e32389
 Cold atmospheric plasma therapy for Malassezia folliculitis: Laboratory investigations and a randomized clinical trial.|https://dx.doi.org/10.1111/srt.13850
+Design and synthesis of unique indole-benzosulfonamide oleanolic acid derivatives as potent antibacterial agents against MRSA.|https://dx.doi.org/10.1016/j.ejmech.2024.116625
+Suppressing the virulence factors of Candida auris with baicalein through multifaceted mechanisms.|https://dx.doi.org/10.1007/s00203-024-04038-9
+Transcriptome Analysis of Human Dermal Cells Infected with Candida auris Identified Unique Pathogenesis/Defensive Mechanisms Particularly Ferroptosis.|https://dx.doi.org/10.1007/s11046-024-00868-9

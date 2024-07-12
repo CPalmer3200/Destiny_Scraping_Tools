@@ -1,2 +1,3 @@
 Staphylococcus aureus Proteases: Orchestrators of Skin Inflammation.|https://dx.doi.org/10.1089/dna.2024.0134
 Sophoricoside ameliorates methicillin-resistant Staphylococcus aureus-induced acute lung injury by inhibiting Bach1/Akt pathway.|https://dx.doi.org/10.1016/j.phymed.2024.155846
+Genomic analysis and identification of a novel superantigen, SargEY, in Staphylococcus argenteus isolated from atopic dermatitis lesions.|https://dx.doi.org/10.1128/msphere.00505-24

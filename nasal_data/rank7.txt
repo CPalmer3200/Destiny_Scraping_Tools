@@ -54,3 +54,8 @@ Antibacterial potential of Stenotrophomonas maltophilia complex cystic fibrosis 
 Real-World Use and Treatment Outcomes of Ceftaroline Fosamil in Patients with Complicated Skin and Soft Tissue Infection: A Multinational Retrospective Study.|https://dx.doi.org/10.2147/IDR.S455515
 Impact of terminal cleaning in rooms previously occupied by patients with healthcare-associated infections.|https://dx.doi.org/10.1371/journal.pone.0305083
 Microbial ecology of protective isolation room: Air and Surfaces.|https://dx.doi.org/10.62438/tunismed.v102i7.4807
+Can Periprosthetic Joint Infection of Tumor Prostheses Be Controlled With Debridement, Antibiotics, and Implant Retention?|https://dx.doi.org/10.1097/CORR.0000000000003184
+The effects of chlorhexidine, povidone-iodine, and vancomycin on growth and biofilms of pathogens that cause prosthetic joint infections: an in vitro model.|https://dx.doi.org/10.1016/j.jhin.2024.06.010
+Prevalence and antimicrobial susceptibility patterns of bacteria colonizing the external ocular surfaces of patients undergoing ocular surgeries at Bugando Medical Center in Mwanza, Tanzania.|https://dx.doi.org/10.1186/s13104-024-06851-3
+Bacillus subtilis-derived peptides disrupt quorum sensing and biofilm assembly in multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1128/msystems.00712-24
+Genomic analysis and identification of a novel superantigen, SargEY, in Staphylococcus argenteus isolated from atopic dermatitis lesions.|https://dx.doi.org/10.1128/msphere.00505-24
