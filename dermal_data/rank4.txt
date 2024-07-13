@@ -8,3 +8,4 @@ A Highly Stable, Multifunctional Janus Dressing for Treating Infected Wounds.|ht
 Chitosan microflower-embedded gelatin sponges for advanced wound management and hemostatic applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133749
 Injectable vancomycin-loaded silk fibroin/methylcellulose containing calcium phosphate-based in situ thermosensitive hydrogel for local treatment of osteomyelitis: Fabrication, characterization, and in vitro performance evaluation.|https://dx.doi.org/10.1002/jbm.a.37772
 Highly Compressible, Superabsorbent, and Biocompatible Hybrid Cryogel Constructs Comprising Functionalized Chitosan and St. John's Wort Extract.|https://dx.doi.org/10.1021/acs.biomac.4c00496
+Bacterial-Infection-Triggered Release of Antibacterial Aldehyde from Triblock Copolyether Hydrogels.|https://dx.doi.org/10.1021/acs.biomac.4c00586

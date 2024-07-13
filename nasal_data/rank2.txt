@@ -7,3 +7,4 @@ Swab Testing to Optimize Pneumonia treatment with empiric Vancomycin (STOP-Vanc)
 The hidden link: How oral and respiratory microbiomes affect multiple sclerosis.|https://dx.doi.org/10.1016/j.msard.2024.105742
 General skin and nasal decolonization with octenisan® set before and after elective orthopedic surgery in selected patients at elevated risk for revision surgery and surgical site infections-a single-center, unblinded, superiority, randomized controlled trial (BALGDEC trial).|https://dx.doi.org/10.1186/s13063-024-08173-y
 Nasal commensals reduce Staphylococcus aureus proliferation by restricting siderophore availability.|https://dx.doi.org/10.1093/ismejo/wrae123
+Prevalence of methicillin sensitive and resistant Staphylococcus aureus carriage among German emergency medical providers.|https://dx.doi.org/10.3205/dgkh000490
