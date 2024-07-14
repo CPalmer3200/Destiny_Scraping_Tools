@@ -59,3 +59,10 @@ The effects of chlorhexidine, povidone-iodine, and vancomycin on growth and biof
 Prevalence and antimicrobial susceptibility patterns of bacteria colonizing the external ocular surfaces of patients undergoing ocular surgeries at Bugando Medical Center in Mwanza, Tanzania.|https://dx.doi.org/10.1186/s13104-024-06851-3
 Bacillus subtilis-derived peptides disrupt quorum sensing and biofilm assembly in multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1128/msystems.00712-24
 Genomic analysis and identification of a novel superantigen, SargEY, in Staphylococcus argenteus isolated from atopic dermatitis lesions.|https://dx.doi.org/10.1128/msphere.00505-24
+Escherichia coli Activate Extraintestinal Antibody Response and Provide Anti-Infective Immunity.|https://dx.doi.org/10.3390/ijms25137450
+Reactive Oxygen Species (ROS)-Mediated Antibacterial Oxidative Therapies: Available Methods to Generate ROS and a Novel Option Proposal.|https://dx.doi.org/10.3390/ijms25137182
+A Label-Free Optical Flow Cytometry Based-Method for Rapid Assay of Disinfectants' Bactericidal Activity.|https://dx.doi.org/10.3390/ijms25137158
+An Exploratory Analysis of the Association between Healthcare Associated Infections & Hospital Financial Performance.|https://dx.doi.org/10.3390/healthcare12131314
+Dynamic Adhesive Behavior and Biofilm Formation of Staphylococcus aureus on Polylactic Acid Surfaces in Diabetic Environments.|https://dx.doi.org/10.3390/ma17133349
+Bi-institutional analysis of microbiological spectrum and therapeutic management of parotid abscesses.|https://dx.doi.org/10.1186/s13005-024-00438-w
+Hemorrhagic shock from gastric pseudoaneurysm post-percutaneous endoscopic gastrostomy: a case report.|https://dx.doi.org/10.1007/s12328-024-02016-8

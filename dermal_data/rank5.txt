@@ -10,3 +10,4 @@ Cold atmospheric plasma therapy for Malassezia folliculitis: Laboratory investig
 Design and synthesis of unique indole-benzosulfonamide oleanolic acid derivatives as potent antibacterial agents against MRSA.|https://dx.doi.org/10.1016/j.ejmech.2024.116625
 Suppressing the virulence factors of Candida auris with baicalein through multifaceted mechanisms.|https://dx.doi.org/10.1007/s00203-024-04038-9
 Transcriptome Analysis of Human Dermal Cells Infected with Candida auris Identified Unique Pathogenesis/Defensive Mechanisms Particularly Ferroptosis.|https://dx.doi.org/10.1007/s11046-024-00868-9
+Synthesis and Evaluation of Gelatin-Chitosan Biofilms Incorporating Zinc Oxide Nanoparticles and 5-Fluorouracil for Cancer Treatment.|https://dx.doi.org/10.3390/ma17133186

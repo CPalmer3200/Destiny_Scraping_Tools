@@ -13,3 +13,6 @@ Effectiveness of extended antibiotic prophylaxis in implant-based breast reconst
 Digestive and breast cancer patients managed during the first wave of COVID-19 pandemic: Short and middle term outcomes.|https://dx.doi.org/10.5662/wjm.v14.i2.92612
 Temporary Declines and Demand Resurgence: Gender-Affirming Surgery Volume and Complication Trends During and After the COVID-19 Pandemic.|https://dx.doi.org/10.1007/s00266-024-04243-3
 A Prospective Study of Sutured Versus Non-sutured Subcutaneous Fat Tissue in Laparotomy Wound Closure.|https://dx.doi.org/10.7759/cureus.62034
+Breast reconstruction through exclusive lipomodeling or in addition to a flap: Current status in Franche-Comté.|https://dx.doi.org/10.1016/j.anplas.2024.06.011
+[Post-mastectomy necrotizing fasciitis and immediate prosthetic breast reconstruction: First case report].|https://dx.doi.org/10.1016/j.anplas.2024.06.008
+A Multi-Center Retrospective Observational Analysis of Three-Year Experience of Our Protocol for Prevention and Monitoring of Surgical Site Infections in Implant-Based Breast Reconstruction.|https://dx.doi.org/10.3390/cancers16132439

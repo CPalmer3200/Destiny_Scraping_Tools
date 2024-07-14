@@ -9,3 +9,4 @@ Nitric oxide releasing coatings for the prevention of viral and bacterial infect
 Diagnosis and management of a herpes nipple infection that resulted in neonatal HSV encephalitis.|https://dx.doi.org/10.1136/bcr-2023-257150
 Evaluation of the efficacy of a new inactivated vaccine against Staphylococcus aureus, Echerchia coli and Mycoplasma bovis mastitis in cows.|https://dx.doi.org/10.12834/VetIt.3083.21855.3
 Metabolic remodeling by RNA polymerase gene mutations is associated with reduced β-lactam susceptibility in oxacillin-susceptible MRSA.|https://dx.doi.org/10.1128/mbio.00339-24
+Efficient synthesis of CRISPR-Cas13a-antimicrobial capsids against MRSA facilitated by silent mutation incorporation.|https://dx.doi.org/10.1038/s41598-024-67193-5
