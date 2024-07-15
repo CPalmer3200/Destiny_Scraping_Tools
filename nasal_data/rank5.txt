@@ -16,3 +16,4 @@ A Prospective Study of Sutured Versus Non-sutured Subcutaneous Fat Tissue in Lap
 Breast reconstruction through exclusive lipomodeling or in addition to a flap: Current status in Franche-Comté.|https://dx.doi.org/10.1016/j.anplas.2024.06.011
 [Post-mastectomy necrotizing fasciitis and immediate prosthetic breast reconstruction: First case report].|https://dx.doi.org/10.1016/j.anplas.2024.06.008
 A Multi-Center Retrospective Observational Analysis of Three-Year Experience of Our Protocol for Prevention and Monitoring of Surgical Site Infections in Implant-Based Breast Reconstruction.|https://dx.doi.org/10.3390/cancers16132439
+Autologous haematopoiesis stem cell transplantation (AHSCT) for treatment-refractory autoimmune diseases in children.|https://dx.doi.org/10.1136/rmdopen-2024-004381
