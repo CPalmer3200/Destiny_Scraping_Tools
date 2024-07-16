@@ -3,3 +3,5 @@ Recurrent Clostridioides difficile Infection and Outcome of Fecal Microbiota Tra
 Human intestinal microbiome: Role in health and disease.|https://dx.doi.org/10.37201/req/056.2024
 Fecal microbiota composition is a better predictor of recurrent Clostridioides difficile infection than clinical factors in a prospective, multicentre cohort study.|https://dx.doi.org/10.1186/s12879-024-09506-7
 Fecal microbiota live - jslm (Rebyota™/RBL) for management of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1080/17460913.2024.2364583
+Management of Clostridioides difficile infection: an Italian Delphi consensus.|https://dx.doi.org/10.1093/jac/dkae179
+Efficacy of Fecal Microbiota, Live-jslm (REBYOTA®), Among Patients Exposed to Non-Clostridioides difficile Infection Antibiotics: Post Hoc Subgroup Analysis of a Phase 2 Open-Label Study.|https://dx.doi.org/10.1093/ofid/ofae341

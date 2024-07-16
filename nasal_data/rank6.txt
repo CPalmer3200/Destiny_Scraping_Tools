@@ -10,3 +10,5 @@ Diagnosis and management of a herpes nipple infection that resulted in neonatal 
 Evaluation of the efficacy of a new inactivated vaccine against Staphylococcus aureus, Echerchia coli and Mycoplasma bovis mastitis in cows.|https://dx.doi.org/10.12834/VetIt.3083.21855.3
 Metabolic remodeling by RNA polymerase gene mutations is associated with reduced β-lactam susceptibility in oxacillin-susceptible MRSA.|https://dx.doi.org/10.1128/mbio.00339-24
 Efficient synthesis of CRISPR-Cas13a-antimicrobial capsids against MRSA facilitated by silent mutation incorporation.|https://dx.doi.org/10.1038/s41598-024-67193-5
+Molecular methods enhance the detection of pyoderma-related Streptococcus pyogenes and emm-type distribution in children.|https://dx.doi.org/10.1093/infdis/jiae359
+Protease shaving of Mycobacterium tuberculosis facilitates vaccine antigen discovery and delivery of novel cargoes to the Mtb surface.|https://dx.doi.org/10.1101/2024.07.02.601718

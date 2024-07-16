@@ -10,3 +10,4 @@ Diabetic Foot Osteomyelitis Undergoing Amputation: Epidemiology and Prognostic F
 Clinic-mycological spectrum of Candida infection in diabetic foot ulcers in a tertiary care hospital.|https://dx.doi.org/10.22034/cmm.2024.345165.1484
 Clinical outcomes in people with diabetes-related foot infections: Analysis from a limb preservation service infection database.|https://dx.doi.org/10.1002/jfa2.12040
 Analysis of Circulating miRNA Expression Profiles in Type 2 Diabetes Patients with Diabetic Foot Complications.|https://dx.doi.org/10.3390/ijms25137078
+Effectiveness of a Glyceryl Trinitrate (GTN) Patch in Preventing Amputation, Improving Pain Control and Reducing the Size of Tissue Loss for a Patient With Critical Limb-Threatening Ischaemia (CLTI).|https://dx.doi.org/10.7759/cureus.62388

@@ -2,3 +2,4 @@ Detection of anaerobic and aerobic bacteria from commercial tattoo and permanent
 Severe Inflammatory and Disseminated Cutaneous Leishmaniasis in a Pregnant Woman: A Case Report from Portoviejo, Ecuador.|https://dx.doi.org/10.12659/AJCR.944422
 ERG regulates lymphatic vessel specification genes and its deficiency impairs wound healing-associated lymphangiogenesis.|https://dx.doi.org/10.1002/art.42944
 Therapeutic effect of NEO400, perillyl alcohol conjugated to linoleic acid, in a mouse model of UV-induced skin damage.|https://dx.doi.org/10.1111/php.13998
+Differences in the Cellular Immune Response during and after Treatment of Sudanese Patients with Post-kala-azar Dermal Leishmaniasis, and Possible Implications for Outcome.|https://dx.doi.org/10.1007/s44197-024-00270-0

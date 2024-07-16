@@ -17,3 +17,6 @@ Breast reconstruction through exclusive lipomodeling or in addition to a flap: C
 [Post-mastectomy necrotizing fasciitis and immediate prosthetic breast reconstruction: First case report].|https://dx.doi.org/10.1016/j.anplas.2024.06.008
 A Multi-Center Retrospective Observational Analysis of Three-Year Experience of Our Protocol for Prevention and Monitoring of Surgical Site Infections in Implant-Based Breast Reconstruction.|https://dx.doi.org/10.3390/cancers16132439
 Autologous haematopoiesis stem cell transplantation (AHSCT) for treatment-refractory autoimmune diseases in children.|https://dx.doi.org/10.1136/rmdopen-2024-004381
+Association Between Membranoproliferative Glomerulonephritis and Colorectal Cancer - A Case Report.|https://dx.doi.org/10.2478/prilozi-2024-0013
+Outcomes of the Electrothermal Bipolar Vessel Sealing Device and Electrocautery in Modified Radical Mastectomy Patients.|https://dx.doi.org/10.7759/cureus.62371
+Comparison of Intraoperative and Postoperative Outcomes With Skin Flaps Raised Using Either Harmonic Scalpels or Electrocautery During Modified Radical Mastectomy.|https://dx.doi.org/10.7759/cureus.62320

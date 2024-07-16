@@ -66,3 +66,6 @@ An Exploratory Analysis of the Association between Healthcare Associated Infecti
 Dynamic Adhesive Behavior and Biofilm Formation of Staphylococcus aureus on Polylactic Acid Surfaces in Diabetic Environments.|https://dx.doi.org/10.3390/ma17133349
 Bi-institutional analysis of microbiological spectrum and therapeutic management of parotid abscesses.|https://dx.doi.org/10.1186/s13005-024-00438-w
 Hemorrhagic shock from gastric pseudoaneurysm post-percutaneous endoscopic gastrostomy: a case report.|https://dx.doi.org/10.1007/s12328-024-02016-8
+Ruthenibacterium lactatiformans isolated from a human blood culture: a first report.|https://dx.doi.org/10.1186/s12879-024-09606-4
+A Rare Case of Broad Ligament Hematoma Following Vaginal Delivery.|https://dx.doi.org/10.7759/cureus.62205
+Case report: pseudoaneurysm of left ventricle secondary to infective endocarditis complicated by cardiac rupture-a multimodality imaging approach.|https://dx.doi.org/10.1093/ehjcr/ytae318
