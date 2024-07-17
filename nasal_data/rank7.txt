@@ -69,3 +69,4 @@ Hemorrhagic shock from gastric pseudoaneurysm post-percutaneous endoscopic gastr
 Ruthenibacterium lactatiformans isolated from a human blood culture: a first report.|https://dx.doi.org/10.1186/s12879-024-09606-4
 A Rare Case of Broad Ligament Hematoma Following Vaginal Delivery.|https://dx.doi.org/10.7759/cureus.62205
 Case report: pseudoaneurysm of left ventricle secondary to infective endocarditis complicated by cardiac rupture-a multimodality imaging approach.|https://dx.doi.org/10.1093/ehjcr/ytae318
+Vancomycin-Loaded Sol-Gel System for In Situ Coating of Artificial Bone to Prevent Surgical Site Infections.|https://dx.doi.org/10.1002/mabi.202400078

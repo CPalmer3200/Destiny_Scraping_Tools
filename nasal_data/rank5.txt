@@ -20,3 +20,7 @@ Autologous haematopoiesis stem cell transplantation (AHSCT) for treatment-refrac
 Association Between Membranoproliferative Glomerulonephritis and Colorectal Cancer - A Case Report.|https://dx.doi.org/10.2478/prilozi-2024-0013
 Outcomes of the Electrothermal Bipolar Vessel Sealing Device and Electrocautery in Modified Radical Mastectomy Patients.|https://dx.doi.org/10.7759/cureus.62371
 Comparison of Intraoperative and Postoperative Outcomes With Skin Flaps Raised Using Either Harmonic Scalpels or Electrocautery During Modified Radical Mastectomy.|https://dx.doi.org/10.7759/cureus.62320
+[Analysis of preoperative assessment of glandular mass in gynecomastia].|https://dx.doi.org/10.7507/1002-1892.202402051
+[Study of heat steam induced skin damage prevention in robotic nipple-sparing mastectomy and immediate breast reconstruction using Da Vinci Robot].|https://dx.doi.org/10.7507/1002-1892.202404067
+[Effectiveness of sequential method pure single-port lumpectomy-breast conserving surgery for early-stage breast cancer in different quadrants].|https://dx.doi.org/10.7507/1002-1892.202403083
+[Clinical application of endoscopic radical mastectomy for breast cancer combined with total pectoral muscle reconstruction with breast implants].|https://dx.doi.org/10.7507/1002-1892.202403102

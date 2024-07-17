@@ -2,3 +2,4 @@ Staphylococcus aureus Proteases: Orchestrators of Skin Inflammation.|https://dx.
 Sophoricoside ameliorates methicillin-resistant Staphylococcus aureus-induced acute lung injury by inhibiting Bach1/Akt pathway.|https://dx.doi.org/10.1016/j.phymed.2024.155846
 Genomic analysis and identification of a novel superantigen, SargEY, in Staphylococcus argenteus isolated from atopic dermatitis lesions.|https://dx.doi.org/10.1128/msphere.00505-24
 Concurrent Presentation of Eczema Herpeticum and Acute Localized Exanthematous Pustulosis in a Patient With Atopic Dermatitis: A Rare Dermatological Convergence.|https://dx.doi.org/10.7759/cureus.62199
+Distinct prophage gene profiles of Staphylococcus aureus strains from atopic dermatitis patients and healthy individuals.|https://dx.doi.org/10.1128/spectrum.00915-24
