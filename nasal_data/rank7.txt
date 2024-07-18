@@ -70,3 +70,10 @@ Ruthenibacterium lactatiformans isolated from a human blood culture: a first rep
 A Rare Case of Broad Ligament Hematoma Following Vaginal Delivery.|https://dx.doi.org/10.7759/cureus.62205
 Case report: pseudoaneurysm of left ventricle secondary to infective endocarditis complicated by cardiac rupture-a multimodality imaging approach.|https://dx.doi.org/10.1093/ehjcr/ytae318
 Vancomycin-Loaded Sol-Gel System for In Situ Coating of Artificial Bone to Prevent Surgical Site Infections.|https://dx.doi.org/10.1002/mabi.202400078
+Experimental colonization with H. hepaticus, S. aureus and R. pneumotropicus does not influence the metabolic response to high-fat diet or incretin-analogues in wildtype SOPF mice.|https://dx.doi.org/10.1016/j.molmet.2024.101992
+Microbiological characteristics of the lower airway in adults with bronchiectasis: a prospective cohort study.|https://dx.doi.org/10.1186/s12931-024-02903-1
+Epidemiological and microbial trends of infective endocarditis in western Norway: a 7-year prospective observational study.|https://dx.doi.org/10.1186/s12879-024-09596-3
+Postbiotic lactobacilli induce cutaneous antimicrobial response and restore the barrier to inhibit the intracellular invasion of Staphylococcus aureus in vitro and ex vivo.|https://dx.doi.org/10.1096/fj.202400054RR
+Mobile genetic element-driven genomic changes in a community-associated methicillin-resistant Staphylococcus aureus clone during its transmission in a regional community outbreak in Japan.|https://dx.doi.org/10.1099/mgen.0.001272
+Crossroads of Care: Navigating Injection Drug Use-Associated Endocarditis.|https://dx.doi.org/10.7759/cureus.62490
+The treatment of bacterial biofilms cultivated on knee arthroplasty implants using the bioelectric effect.|https://dx.doi.org/10.3389/fbioe.2024.1426388

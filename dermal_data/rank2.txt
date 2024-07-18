@@ -12,3 +12,7 @@ Clinical outcomes in people with diabetes-related foot infections: Analysis from
 Analysis of Circulating miRNA Expression Profiles in Type 2 Diabetes Patients with Diabetic Foot Complications.|https://dx.doi.org/10.3390/ijms25137078
 Effectiveness of a Glyceryl Trinitrate (GTN) Patch in Preventing Amputation, Improving Pain Control and Reducing the Size of Tissue Loss for a Patient With Critical Limb-Threatening Ischaemia (CLTI).|https://dx.doi.org/10.7759/cureus.62388
 Microbiological profile of diabetic foot infections in China and worldwide: a 20-year systematic review.|https://dx.doi.org/10.3389/fendo.2024.1368046
+Enhancing diabetic wound healing through anti-bacterial and promoting angiogenesis using dual-functional slow-release microspheres-loaded dermal scaffolds.|https://dx.doi.org/10.1016/j.colsurfb.2024.114095
+Assessing the influence of rural residence and economic distress on lower extremity risk stratification among diabetic foot ulcer patients utilizing the Wound, Ischemia, and Foot Infection (WIfI) classification system.|https://dx.doi.org/10.1016/j.jdiacomp.2024.108814
+The impact of machine learning on the prediction of diabetic foot ulcers - A systematic review.|https://dx.doi.org/10.1016/j.jtv.2024.07.004
+Postbiotic lactobacilli induce cutaneous antimicrobial response and restore the barrier to inhibit the intracellular invasion of Staphylococcus aureus in vitro and ex vivo.|https://dx.doi.org/10.1096/fj.202400054RR

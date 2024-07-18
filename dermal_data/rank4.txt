@@ -14,3 +14,5 @@ Silver nanoparticles loaded triple-layered cellulose-acetate based multifunction
 Stimuli-Responsive Release-Active Dressing: A Promising Solution for Eradicating Biofilm-Mediated Wound Infections.|https://dx.doi.org/10.1021/acsami.4c09820
 Deferiprone and Gallium-Protoporphyrin Chitogel as an antimicrobial treatment: Preclinical studies demonstrating antimicrobial activity for S. aureus infected cutaneous wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133874
 Vancomycin-Loaded Sol-Gel System for In Situ Coating of Artificial Bone to Prevent Surgical Site Infections.|https://dx.doi.org/10.1002/mabi.202400078
+Nanomotor-hydrogel Delivery System with Enhanced Antibacterial Performance for Wound Treatment.|https://dx.doi.org/10.1021/acs.langmuir.4c01539
+Cryogel with Modular and Clickable Building Blocks: Toward the Ultimate Ideal Macroporous Medium for Bacterial Separation.|https://dx.doi.org/10.1021/acs.jafc.4c01285

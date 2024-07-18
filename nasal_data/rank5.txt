@@ -24,3 +24,5 @@ Comparison of Intraoperative and Postoperative Outcomes With Skin Flaps Raised U
 [Study of heat steam induced skin damage prevention in robotic nipple-sparing mastectomy and immediate breast reconstruction using Da Vinci Robot].|https://dx.doi.org/10.7507/1002-1892.202404067
 [Effectiveness of sequential method pure single-port lumpectomy-breast conserving surgery for early-stage breast cancer in different quadrants].|https://dx.doi.org/10.7507/1002-1892.202403083
 [Clinical application of endoscopic radical mastectomy for breast cancer combined with total pectoral muscle reconstruction with breast implants].|https://dx.doi.org/10.7507/1002-1892.202403102
+Reduction Mammoplasties: Risk Factors and Early Complications-About 1442 Cases.|https://dx.doi.org/10.1007/s00266-024-04239-z
+Risk factor analysis and clinical experience of treating capsular contracture after prepectoral implant-based breast reconstruction.|https://dx.doi.org/10.21037/gs-24-70
