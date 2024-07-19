@@ -16,3 +16,4 @@ Deferiprone and Gallium-Protoporphyrin Chitogel as an antimicrobial treatment: P
 Vancomycin-Loaded Sol-Gel System for In Situ Coating of Artificial Bone to Prevent Surgical Site Infections.|https://dx.doi.org/10.1002/mabi.202400078
 Nanomotor-hydrogel Delivery System with Enhanced Antibacterial Performance for Wound Treatment.|https://dx.doi.org/10.1021/acs.langmuir.4c01539
 Cryogel with Modular and Clickable Building Blocks: Toward the Ultimate Ideal Macroporous Medium for Bacterial Separation.|https://dx.doi.org/10.1021/acs.jafc.4c01285
+Facile Preparation of Tough, Puncture-Resistant Antibacterial Polyrotaxane Hydrogel.|https://dx.doi.org/10.1021/acsami.4c07045

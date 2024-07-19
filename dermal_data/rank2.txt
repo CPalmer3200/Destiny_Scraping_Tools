@@ -16,3 +16,4 @@ Enhancing diabetic wound healing through anti-bacterial and promoting angiogenes
 Assessing the influence of rural residence and economic distress on lower extremity risk stratification among diabetic foot ulcer patients utilizing the Wound, Ischemia, and Foot Infection (WIfI) classification system.|https://dx.doi.org/10.1016/j.jdiacomp.2024.108814
 The impact of machine learning on the prediction of diabetic foot ulcers - A systematic review.|https://dx.doi.org/10.1016/j.jtv.2024.07.004
 Postbiotic lactobacilli induce cutaneous antimicrobial response and restore the barrier to inhibit the intracellular invasion of Staphylococcus aureus in vitro and ex vivo.|https://dx.doi.org/10.1096/fj.202400054RR
+Integrated management of diabetic foot ulcers (DFU) using a smartphone - A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.110012

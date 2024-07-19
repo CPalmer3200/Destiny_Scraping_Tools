@@ -6,3 +6,4 @@ Fecal microbiota live - jslm (Rebyota™/RBL) for management of recurrent Clostr
 Management of Clostridioides difficile infection: an Italian Delphi consensus.|https://dx.doi.org/10.1093/jac/dkae179
 Efficacy of Fecal Microbiota, Live-jslm (REBYOTA®), Among Patients Exposed to Non-Clostridioides difficile Infection Antibiotics: Post Hoc Subgroup Analysis of a Phase 2 Open-Label Study.|https://dx.doi.org/10.1093/ofid/ofae341
 Predicting Clostridioides difficile infection outcomes with explainable machine learning.|https://dx.doi.org/10.1016/j.ebiom.2024.105244
+Campylobacter Infection Introduced Following Fecal Microbiota Transplantation.|https://dx.doi.org/10.7759/cureus.62541

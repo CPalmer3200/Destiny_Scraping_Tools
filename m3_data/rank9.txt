@@ -1,2 +1,4 @@
 Comparative genome analyses of clinical and non-clinical Clostridioides difficile strains.|https://dx.doi.org/10.3389/fmicb.2024.1404491
 Clostridioides difficile Infection in the Elderly: Trend Analysis from 2000 to 2019.|https://dx.doi.org/10.3390/jcm13133740
+Duration from start of antibiotic exposure to onset of Clostridioides difficile infection for different antibiotics in a non-outbreak setting.|https://dx.doi.org/10.1080/23744235.2024.2375602
+Healthcare-associated Diarrhea due to Clostridioides difficile in Patients Attending a Tertiary Care Teaching Hospital of North India.|https://dx.doi.org/10.5005/jp-journals-10018-1429

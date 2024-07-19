@@ -11,3 +11,5 @@ Design and synthesis of unique indole-benzosulfonamide oleanolic acid derivative
 Suppressing the virulence factors of Candida auris with baicalein through multifaceted mechanisms.|https://dx.doi.org/10.1007/s00203-024-04038-9
 Transcriptome Analysis of Human Dermal Cells Infected with Candida auris Identified Unique Pathogenesis/Defensive Mechanisms Particularly Ferroptosis.|https://dx.doi.org/10.1007/s11046-024-00868-9
 Synthesis and Evaluation of Gelatin-Chitosan Biofilms Incorporating Zinc Oxide Nanoparticles and 5-Fluorouracil for Cancer Treatment.|https://dx.doi.org/10.3390/ma17133186
+Improving Wound Healing and Infection Control in Long-term Care with Bacterial Fluorescence Imaging.|https://dx.doi.org/10.1097/ASW.0000000000000177
+Staphylococcus aureus in Dairy Industry: Enterotoxin Production, Biofilm Formation, and Use of Lactic Acid Bacteria for Its Biocontrol.|https://dx.doi.org/10.1089/fpd.2023.0170
