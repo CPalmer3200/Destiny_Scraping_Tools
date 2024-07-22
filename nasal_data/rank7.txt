@@ -80,3 +80,4 @@ The treatment of bacterial biofilms cultivated on knee arthroplasty implants usi
 Coagulase-negative staphylococci from bovine milk: Antibiogram profiles and virulent gene detection.|https://dx.doi.org/10.1186/s12866-024-03415-0
 Glioma grade and post-neurosurgical meningitis risk.|https://dx.doi.org/10.1007/s00701-024-06193-w
 Device and surgical procedure-related infections in Canadian acute care hospitals, 2018-2022.|https://dx.doi.org/10.14745/ccdr.v50i06a03
+Infective endocarditis in HIV-infected patients. Analysis of a national cohort.|https://dx.doi.org/10.1080/23744235.2024.2378328

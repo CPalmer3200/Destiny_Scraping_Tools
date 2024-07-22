@@ -18,3 +18,6 @@ The impact of machine learning on the prediction of diabetic foot ulcers - A sys
 Postbiotic lactobacilli induce cutaneous antimicrobial response and restore the barrier to inhibit the intracellular invasion of Staphylococcus aureus in vitro and ex vivo.|https://dx.doi.org/10.1096/fj.202400054RR
 Integrated management of diabetic foot ulcers (DFU) using a smartphone - A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.110012
 Engineered exosomes as a prospective therapy for diabetic foot ulcers.|https://dx.doi.org/10.1093/burnst/tkae023
+Diabetic Foot Osteomyelitis in Patients with and without Peripheral Arterial Disease: Two Different Diseases?|https://dx.doi.org/10.1177/15347346241264383
+Depression as a Prognostic Factor in Lower Extremity Amputation for Diabetic Foot: Insights from a Prospective Study on Wound Healing, Infections, and Early Mortality.|https://dx.doi.org/10.1053/j.jfas.2024.07.005
+(18)F-FDG whole-body PET/CT for the evaluation of suspected native valve infective endocarditis.|https://dx.doi.org/10.1186/s41824-024-00207-7

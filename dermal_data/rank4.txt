@@ -17,3 +17,4 @@ Vancomycin-Loaded Sol-Gel System for In Situ Coating of Artificial Bone to Preve
 Nanomotor-hydrogel Delivery System with Enhanced Antibacterial Performance for Wound Treatment.|https://dx.doi.org/10.1021/acs.langmuir.4c01539
 Cryogel with Modular and Clickable Building Blocks: Toward the Ultimate Ideal Macroporous Medium for Bacterial Separation.|https://dx.doi.org/10.1021/acs.jafc.4c01285
 Facile Preparation of Tough, Puncture-Resistant Antibacterial Polyrotaxane Hydrogel.|https://dx.doi.org/10.1021/acsami.4c07045
+Structural and optical properties of alginate-based antibacterial dressing with calcium phosphate and zinc oxide for biodegradable wound painting applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.133996
