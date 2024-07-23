@@ -81,3 +81,10 @@ Coagulase-negative staphylococci from bovine milk: Antibiogram profiles and viru
 Glioma grade and post-neurosurgical meningitis risk.|https://dx.doi.org/10.1007/s00701-024-06193-w
 Device and surgical procedure-related infections in Canadian acute care hospitals, 2018-2022.|https://dx.doi.org/10.14745/ccdr.v50i06a03
 Infective endocarditis in HIV-infected patients. Analysis of a national cohort.|https://dx.doi.org/10.1080/23744235.2024.2378328
+Bioresorbable Polyester Coatings with Antifouling and Antimicrobial Properties for Prevention of Biofilm Formation in Early Stage Infections on Ti6Al4V Hard-Tissue Implants.|https://dx.doi.org/10.1021/acsabm.4c00832
+SARS-CoV-2 infection predisposes patients to coinfection with Staphylococcus aureus.|https://dx.doi.org/10.1128/mbio.01667-24
+Dual-Layer Nanoengineered Urinary Catheters for Enhanced Antimicrobial Efficacy and Reduced Cytotoxicity.|https://dx.doi.org/10.1002/adhm.202401700
+Invasive Community-Acquired Methicillin-Resistant Staphylococcus aureus With Aortic Aneurysm in a 10-Year-Old Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.62712
+[Clinical, aetiological and therapeutic features of severe sickle cell related vaso-occlusive crisis at the Sylvanus Olympio University Hospital, Lomé].|https://dx.doi.org/10.11604/pamj.2024.47.162.33754
+Hair removal with a clipper and microbial colonisation prior to knee arthroplasty: a randomised controlled trial.|https://dx.doi.org/10.1016/j.infpip.2024.100377
+Exploring the targetome of IsrR, an iron-regulated sRNA controlling the synthesis of iron-containing proteins in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2024.1439352

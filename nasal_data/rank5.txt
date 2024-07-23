@@ -29,3 +29,4 @@ Risk factor analysis and clinical experience of treating capsular contracture af
 Randomized Controlled Trial to Assess Negative Pressure Wound Therapy versus Standard-of-care Dressings in Breast Surgery: A Pilot Study.|https://dx.doi.org/10.1097/GOX.0000000000005799
 Massive Chylous Leakage After Endoscopic Thyroidectomy with Central Lymph Node Dissection: A Case Report.|https://dx.doi.org/10.12659/AJCR.944579
 Short-term versus extended chemoprophylaxis against venous thromboembolism in DIEP flap breast reconstruction: A retrospective study of 424 patients.|https://dx.doi.org/10.1016/j.anplas.2024.07.007
+Identification of Potential Factors Associated with Cellulitis Following Lymphovenous Bypass Surgery in Breast Cancer Survivors.|https://dx.doi.org/10.1055/s-0044-1788345
