@@ -88,3 +88,6 @@ Invasive Community-Acquired Methicillin-Resistant Staphylococcus aureus With Aor
 [Clinical, aetiological and therapeutic features of severe sickle cell related vaso-occlusive crisis at the Sylvanus Olympio University Hospital, Lomé].|https://dx.doi.org/10.11604/pamj.2024.47.162.33754
 Hair removal with a clipper and microbial colonisation prior to knee arthroplasty: a randomised controlled trial.|https://dx.doi.org/10.1016/j.infpip.2024.100377
 Exploring the targetome of IsrR, an iron-regulated sRNA controlling the synthesis of iron-containing proteins in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2024.1439352
+Tumor necrosis factor regulates leukocyte recruitment but not bacterial persistence during Staphylococcus aureus craniotomy infection.|https://dx.doi.org/10.1186/s12974-024-03174-9
+Targeted enhancement of bacteriophage activity against antibiotic-resistant Staphylococcus aureus biofilms through an evolutionary assay.|https://dx.doi.org/10.3389/fmicb.2024.1372325
+Community-acquired necrotizing pneumonia caused by methicillin-resistant Staphylococcus aureus in a healthy pregnant woman after being infected with influenza A: A case report for early warning.|https://dx.doi.org/10.1002/rcr2.1396

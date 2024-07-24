@@ -15,3 +15,4 @@ Improving Wound Healing and Infection Control in Long-term Care with Bacterial F
 Staphylococcus aureus in Dairy Industry: Enterotoxin Production, Biofilm Formation, and Use of Lactic Acid Bacteria for Its Biocontrol.|https://dx.doi.org/10.1089/fpd.2023.0170
 White light-driven enhanced cerium-doped carbon dots activity to combat multidrug-resistant bacterial infection.|https://dx.doi.org/10.1016/j.colsurfb.2024.114086
 Hair removal with a clipper and microbial colonisation prior to knee arthroplasty: a randomised controlled trial.|https://dx.doi.org/10.1016/j.infpip.2024.100377
+Bacterial biofilm formation on headpieces of Cochlear implants.|https://dx.doi.org/10.1007/s00405-024-08835-2
