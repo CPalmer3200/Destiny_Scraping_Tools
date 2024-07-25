@@ -11,3 +11,4 @@ RelQ-mediated alarmone signalling regulates growth, stress-induced biofilm forma
 The state of play of rodent models for the study of Clostridioides difficile infection.|https://dx.doi.org/10.1099/jmm.0.001857
 Clinical Characteristics and Risk Factors for Clostridioides difficile Infection in the Hematopoietic Cell Transplantation Population.|https://dx.doi.org/10.21203/rs.3.rs-4531064/v1
 Washed microbiota transplantation in an elderly patient with lymphocytic leukemia and Clostridioides difficile infection: A case report illustrating a triumph over complexity.|https://dx.doi.org/10.1016/j.heliyon.2024.e32450
+Antimicrobial susceptibility in Clostridioides difficile varies according to European region and isolate source.|https://dx.doi.org/10.1093/jacamr/dlae112
