@@ -1,2 +1,3 @@
 Impact of terminal cleaning in rooms previously occupied by patients with healthcare-associated infections.|https://dx.doi.org/10.1371/journal.pone.0305083
 Clinical characteristics of community-onset Clostridioides difficile infections at a tertiary hospital in mainland China: A fourteen-year (2010-2023) retrospective study.|https://dx.doi.org/10.1016/j.ijmm.2024.151631
+Antimicrobial susceptibilities, resistance mechanisms and molecular characteristics of toxigenic Clostridioides difficile isolates in a large teaching hospital in Chongqing, China.|https://dx.doi.org/10.1016/j.jgar.2024.07.006

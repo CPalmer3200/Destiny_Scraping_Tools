@@ -19,3 +19,6 @@ Bacterial biofilm formation on headpieces of Cochlear implants.|https://dx.doi.o
 Evaluation of chlorogenic acid and carnosol for anti-efflux pump and anti-biofilm activities against extensively drug-resistant strains of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1128/spectrum.03934-23
 Cutibacterium acnes invades submicron osteocyte lacuno-canalicular networks following implant-associated osteomyelitis.|https://dx.doi.org/10.1002/jor.25929
 A new topical biotechnological phytocomplex for truncal mild-moderate acne restores skin microbiota balance.|https://dx.doi.org/10.1111/srt.13806
+Plasma Photoinactivation of Bacterial Isolated from Blood Donors Skin: Potential of Security Barrier in Transfusional Therapy.|https://dx.doi.org/10.3390/pathogens13070577
+A multifunctional nanoplatform for precision-guided therapeutic intervention in bacterial infection.|https://dx.doi.org/10.1039/d4tb01020e
+Efficacy of sodium hypochlorite in overcoming antimicrobial resistance and eradicating biofilms in clinical pathogens from pressure ulcers.|https://dx.doi.org/10.3389/fmicb.2024.1432883

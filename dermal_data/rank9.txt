@@ -4,3 +4,4 @@ A novel MALT1 variant in an Egyptian patient presenting with exfoliative dermati
 Mobile genetic element-driven genomic changes in a community-associated methicillin-resistant Staphylococcus aureus clone during its transmission in a regional community outbreak in Japan.|https://dx.doi.org/10.1099/mgen.0.001272
 A bacterial ghost vaccine against Aeromonas salmonicida infection in turbot (Scophthalmus maximus).|https://dx.doi.org/10.1016/j.fsi.2024.109711
 Panton-Valentine Leukocidin-Positive Staphylococcus aureus in Family and Pet Cat.|https://dx.doi.org/10.3201/eid3008.231255
+Antimicrobial Strategies Proposed for the Treatment of S. pseudintermedius and Other Dermato-Pathogenic Staphylococcus spp. in Companion Animals: A Narrative Review.|https://dx.doi.org/10.3390/vetsci11070311
