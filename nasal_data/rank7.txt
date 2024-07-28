@@ -8,3 +8,11 @@ In Vivo Intra-Articular Antibiotic Concentrations at 24 Hours After TKA Fall Bel
 Assessing the Predictive Value of Methicillin-Resistant Staphylococcus aureus Nares Colonization Among Transplant Recipients and Patients With Neutropenia.|https://dx.doi.org/10.1093/ofid/ofae408
 A biguanide chitosan-based hydrogel adhesive accelerates the healing of bacterial-infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2024.122397
 Bacteriophage-driven emergence and expansion of Staphylococcus aureus in rodent populations.|https://dx.doi.org/10.1371/journal.ppat.1012378
+Polymer-Based Hydroxyapatite-Silver Composite Resin with Enhanced Antibacterial Activity for Dental Applications.|https://dx.doi.org/10.3390/polym16142017
+Isolation and Genomic Analysis of a Case of Staphylococcus argenteus ST2250 Related to Sepsis in Italy.|https://dx.doi.org/10.3390/microorganisms12071485
+Prosthetic Valve Endocarditis: A Retrospective Cohort Study Conducted at "Dr. Carol Davila" Central Military Emergency University Hospital in Bucharest.|https://dx.doi.org/10.3390/microorganisms12071442
+Microbiological and Imaging-Based Evaluations of Photodynamic Therapy Combined with Er:YAG Laser Therapy in the In Vitro Decontamination of Titanium and Zirconia Surfaces.|https://dx.doi.org/10.3390/microorganisms12071345
+The Role of Microbes in Surgical Decision Making for Infective Endocarditis: Mitral Valve Repair or Replacement?|https://dx.doi.org/10.3390/microorganisms12071320
+Mechanical Properties, Drug Release, Biocompatibility, and Antibacterial Activities of Modified Emulsified Gelatin Microsphere Loaded with Gentamicin Composite Calcium Phosphate Bone Cement In Vitro.|https://dx.doi.org/10.3390/ma17143578
+Three-Dimensional Melted Electrowriting Drug Coating Fibers for the Prevention of Device-Associated Infections: A Pilot Study.|https://dx.doi.org/10.3390/bioengineering11070636
+Culex quinquefasciatus Mosquitoes Resist Acquisition of Methicillin-Resistant Staphylococcus aureus: Insights from Field and Laboratory Studies.|https://dx.doi.org/10.3390/antibiotics13070618

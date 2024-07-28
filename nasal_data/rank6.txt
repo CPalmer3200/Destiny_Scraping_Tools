@@ -1,1 +1,4 @@
 Integrated Analysis of Patient Networks and Plasmid Genomes to Investigate a Regional, Multispecies Outbreak of Carbapenemase-Producing Enterobacterales Carrying Both blaIMP and mcr-9 Genes.|https://dx.doi.org/10.1093/infdis/jiae019
+Electrospun Gelatin Scaffolds with Incorporated Antibiotics for Skin Wound Healing.|https://dx.doi.org/10.3390/ph17070851
+Humanized Mouse Models of Bacterial Infections.|https://dx.doi.org/10.3390/antibiotics13070640
+New Insights into Pseudomonas spp.-Produced Antibiotics: Genetic Regulation of Biosynthesis and Implementation in Biotechnology.|https://dx.doi.org/10.3390/antibiotics13070597

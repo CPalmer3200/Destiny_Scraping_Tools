@@ -31,3 +31,6 @@ Sodium-Glucose Transporter 2 Inhibitors in Heart Failure: An Overview of Systema
 Next Steps: Studying Diabetic Foot Infections with Next-Generation Molecular Assays.|https://dx.doi.org/10.1007/s11908-023-00822-8
 Exploring Photobiomodulation Therapy and Regenerative Medicine for Diabetic Foot Ulcers: Pathogenesis and Multidisciplinary Treatment Approach.|https://dx.doi.org/10.34172/jlms.2024.18
 Molecular immunological mechanisms of impaired wound healing in diabetic foot ulcers (DFU), current therapeutic strategies and future directions.|https://dx.doi.org/10.1016/j.intimp.2024.112713
+Oxidized Cholesterol Derivatives in Fraction B Prepared from Gulf Catfish (Arius bilineatus, Val.) Skin Regulate Calcium Response and Neutrophil Extracellular Traps (NETs) Formation.|https://dx.doi.org/10.3390/biomedicines12071380
+Bacterial Profile and Antimicrobial Resistance Patterns of Diabetic Foot Infections in a Major Research Hospital of Turkey.|https://dx.doi.org/10.3390/antibiotics13070599
+Staphylococcus aureus Is the Predominant Pathogen in Hospitalised Patients with Diabetes-Related Foot Infections: An Australian Perspective.|https://dx.doi.org/10.3390/antibiotics13070594

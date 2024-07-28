@@ -26,3 +26,10 @@ Composite with Silver Nanoparticles and Oregano Essential Oil-Loaded Nanoparticl
 A biguanide chitosan-based hydrogel adhesive accelerates the healing of bacterial-infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2024.122397
 Multifunctional chitosan-based hydrogels loaded with iridium nanoenzymes for skin wound repair.|https://dx.doi.org/10.1016/j.carbpol.2024.122325
 Highly stretchable, self-healing, antibacterial, conductive, and amylopectin-enhanced hydrogels with gallium droplets loading as strain sensors.|https://dx.doi.org/10.1016/j.carbpol.2024.122357
+In Vitro Biological Evaluation of an Alginate-Based Hydrogel Loaded with Rifampicin for Wound Care.|https://dx.doi.org/10.3390/ph17070943
+Electrospun Gelatin Scaffolds with Incorporated Antibiotics for Skin Wound Healing.|https://dx.doi.org/10.3390/ph17070851
+Antimicrobial Peptide Screening for Designing Custom Bactericidal Hydrogels.|https://dx.doi.org/10.3390/pharmaceutics16070860
+Nanocellulose/Nanoporous Silicon Composite Films as a Drug Delivery System.|https://dx.doi.org/10.3390/polym16142055
+Mechanical Properties, Drug Release, Biocompatibility, and Antibacterial Activities of Modified Emulsified Gelatin Microsphere Loaded with Gentamicin Composite Calcium Phosphate Bone Cement In Vitro.|https://dx.doi.org/10.3390/ma17143578
+Antiparasitic Activity of Isolated Fractions from Parthenium incanum Kunth against the Hemoflagellate Protozoan Trypanosoma cruzi.|https://dx.doi.org/10.3390/antibiotics13070622
+Preparation and characterization of amidated pectin-gelatin-oxidized tannic acid hydrogel films supplemented with in-situ reduced silver nanoparticles for wound-dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134158

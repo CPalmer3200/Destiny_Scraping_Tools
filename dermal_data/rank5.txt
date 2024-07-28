@@ -22,3 +22,8 @@ A new topical biotechnological phytocomplex for truncal mild-moderate acne resto
 Plasma Photoinactivation of Bacterial Isolated from Blood Donors Skin: Potential of Security Barrier in Transfusional Therapy.|https://dx.doi.org/10.3390/pathogens13070577
 A multifunctional nanoplatform for precision-guided therapeutic intervention in bacterial infection.|https://dx.doi.org/10.1039/d4tb01020e
 Efficacy of sodium hypochlorite in overcoming antimicrobial resistance and eradicating biofilms in clinical pathogens from pressure ulcers.|https://dx.doi.org/10.3389/fmicb.2024.1432883
+Monoolein-Based Wireless Capacitive Sensor for Probing Skin Hydration.|https://dx.doi.org/10.3390/s24144449
+Lentisk (Pistacia lentiscus) Oil Nanoemulsions Loaded with Levofloxacin: Phytochemical Profiles and Antibiofilm Activity against Staphylococcus spp.|https://dx.doi.org/10.3390/pharmaceutics16070927
+Exploring the Surface: Sampling of Potential Skin Cancer Biomarkers Kynurenine and Tryptophan, Studied on 3D Melanocyte and Melanoma Models.|https://dx.doi.org/10.3390/biom14070815
+Medical Device-Associated Infections Caused by Biofilm-Forming Microbial Pathogens and Controlling Strategies.|https://dx.doi.org/10.3390/antibiotics13070623
+Modification and Synergistic Studies of a Novel Frog Antimicrobial Peptide against Pseudomonas aeruginosa Biofilms.|https://dx.doi.org/10.3390/antibiotics13070574

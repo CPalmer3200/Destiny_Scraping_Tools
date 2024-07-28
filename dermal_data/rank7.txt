@@ -4,3 +4,4 @@ ERG regulates lymphatic vessel specification genes and its deficiency impairs wo
 Therapeutic effect of NEO400, perillyl alcohol conjugated to linoleic acid, in a mouse model of UV-induced skin damage.|https://dx.doi.org/10.1111/php.13998
 Differences in the Cellular Immune Response during and after Treatment of Sudanese Patients with Post-kala-azar Dermal Leishmaniasis, and Possible Implications for Outcome.|https://dx.doi.org/10.1007/s44197-024-00270-0
 Evaluation of Ointments with Daldinia eschscholtzii in Wound Healing in an In Vivo Model.|https://dx.doi.org/10.1089/jmf.2023.0008
+Shh Gene Regulates the Proliferation and Apoptosis of Dermal Papilla Cells to Affect Its Differential Expression in Secondary Hair Follicle Growth Cycle of Cashmere Goats.|https://dx.doi.org/10.3390/ani14142049

@@ -13,3 +13,7 @@ Clinical Characteristics and Risk Factors for Clostridioides difficile Infection
 Washed microbiota transplantation in an elderly patient with lymphocytic leukemia and Clostridioides difficile infection: A case report illustrating a triumph over complexity.|https://dx.doi.org/10.1016/j.heliyon.2024.e32450
 Antimicrobial susceptibility in Clostridioides difficile varies according to European region and isolate source.|https://dx.doi.org/10.1093/jacamr/dlae112
 Impact of an Intervention Program on Clostridioides difficile Infections: Comparison of 2 Hospital Cohorts.|https://dx.doi.org/10.1093/ofid/ofae390
+Characterization of Clostridioides difficile Persister Cells and Their Role in Antibiotic Tolerance.|https://dx.doi.org/10.3390/microorganisms12071394
+Evaluation of Bacterial Viability for Fecal Microbiota Transplantation: Impact of Thawing Temperature and Storage Time.|https://dx.doi.org/10.3390/microorganisms12071294
+Comparative Efficacy of Fecal Microbiota Transplantation in Treating Refractory or Recurrent Clostridioides difficile Infection among Patients with and without Inflammatory Bowel Disease: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/biomedicines12071396
+Clostridioides difficile Infections: Prevention and Treatment Strategies.|https://dx.doi.org/10.1007/978-3-031-58572-2_11

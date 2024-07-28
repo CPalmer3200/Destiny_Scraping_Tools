@@ -1,2 +1,3 @@
 Characterising the allergic fungal rhinosinusitis microenvironment using full-length 16S rRNA gene amplicon sequencing and fungal ITS sequencing.|https://dx.doi.org/10.1111/all.16240
 Evaluating the Diagnostic Performance of Nasal Methicillin-Resistant Staphylococcus aureus Polymerase Chain Reaction in Hospital-Acquired Pneumonia Within the Intensive Care Unit. A Retrospective Study.|https://dx.doi.org/10.1177/08850666241264774
+The Oral Cavity-Another Reservoir of Antimicrobial-Resistant Staphylococcus aureus?|https://dx.doi.org/10.3390/antibiotics13070649

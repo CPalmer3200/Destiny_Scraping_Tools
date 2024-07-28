@@ -1,2 +1,4 @@
 Examining the Association Between the COVID-19 Pandemic and the Rate of Diagnostic Tests for Breast, Cervical, and Colorectal Cancer in Manitoba, Canada.|https://dx.doi.org/10.1177/15330338241263616
 BREAST-Q Analysis of Reduction Mammaplasty: Do Postoperative Complications of Breast Reduction Surgery Negatively Affect Patient Satisfaction?|https://dx.doi.org/10.1093/asj/sjae168
+Experience in Post-Bariatric Abdominoplasty for Patients with Significant Weight Loss: A Prospective Study.|https://dx.doi.org/10.3390/jpm14070681
+In Silico Prediction of BRCA1 and BRCA2 Variants with Conflicting Clinical Interpretation in a Cohort of Breast Cancer Patients.|https://dx.doi.org/10.3390/genes15070943
