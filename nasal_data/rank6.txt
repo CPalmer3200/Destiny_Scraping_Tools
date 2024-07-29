@@ -2,3 +2,4 @@ Integrated Analysis of Patient Networks and Plasmid Genomes to Investigate a Reg
 Electrospun Gelatin Scaffolds with Incorporated Antibiotics for Skin Wound Healing.|https://dx.doi.org/10.3390/ph17070851
 Humanized Mouse Models of Bacterial Infections.|https://dx.doi.org/10.3390/antibiotics13070640
 New Insights into Pseudomonas spp.-Produced Antibiotics: Genetic Regulation of Biosynthesis and Implementation in Biotechnology.|https://dx.doi.org/10.3390/antibiotics13070597
+Investigation of cross-opsonic effect leads to the discovery of PPIase-domain containing protein vaccine candidate to prevent infections by Gram-positive ESKAPE pathogens.|https://dx.doi.org/10.1186/s12866-024-03427-w

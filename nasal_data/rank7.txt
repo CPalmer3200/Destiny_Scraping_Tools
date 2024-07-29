@@ -16,3 +16,4 @@ The Role of Microbes in Surgical Decision Making for Infective Endocarditis: Mit
 Mechanical Properties, Drug Release, Biocompatibility, and Antibacterial Activities of Modified Emulsified Gelatin Microsphere Loaded with Gentamicin Composite Calcium Phosphate Bone Cement In Vitro.|https://dx.doi.org/10.3390/ma17143578
 Three-Dimensional Melted Electrowriting Drug Coating Fibers for the Prevention of Device-Associated Infections: A Pilot Study.|https://dx.doi.org/10.3390/bioengineering11070636
 Culex quinquefasciatus Mosquitoes Resist Acquisition of Methicillin-Resistant Staphylococcus aureus: Insights from Field and Laboratory Studies.|https://dx.doi.org/10.3390/antibiotics13070618
+Development of magnesium hydroxide-doped nanofibrous spheres for repairing infected skin wounds.|https://dx.doi.org/10.1016/j.bioadv.2024.213967

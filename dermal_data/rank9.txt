@@ -5,3 +5,4 @@ Mobile genetic element-driven genomic changes in a community-associated methicil
 A bacterial ghost vaccine against Aeromonas salmonicida infection in turbot (Scophthalmus maximus).|https://dx.doi.org/10.1016/j.fsi.2024.109711
 Panton-Valentine Leukocidin-Positive Staphylococcus aureus in Family and Pet Cat.|https://dx.doi.org/10.3201/eid3008.231255
 Antimicrobial Strategies Proposed for the Treatment of S. pseudintermedius and Other Dermato-Pathogenic Staphylococcus spp. in Companion Animals: A Narrative Review.|https://dx.doi.org/10.3390/vetsci11070311
+Glucose transporter 1 is essential for the resolution of methicillin-resistant S. aureus skin and soft tissue infections.|https://dx.doi.org/10.1016/j.celrep.2024.114486
