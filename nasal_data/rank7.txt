@@ -17,3 +17,7 @@ Mechanical Properties, Drug Release, Biocompatibility, and Antibacterial Activit
 Three-Dimensional Melted Electrowriting Drug Coating Fibers for the Prevention of Device-Associated Infections: A Pilot Study.|https://dx.doi.org/10.3390/bioengineering11070636
 Culex quinquefasciatus Mosquitoes Resist Acquisition of Methicillin-Resistant Staphylococcus aureus: Insights from Field and Laboratory Studies.|https://dx.doi.org/10.3390/antibiotics13070618
 Development of magnesium hydroxide-doped nanofibrous spheres for repairing infected skin wounds.|https://dx.doi.org/10.1016/j.bioadv.2024.213967
+Bilateral Facet Joint Septic Arthritis Induced by Acupuncture: A Case Report Highlighting Diagnostic Challenges and the Importance of Early Intervention.|https://dx.doi.org/10.12659/AJCR.944596
+Immunohistopathological analyses of a case of pemphigus vegetans with antibodies against desmoglein 1 and desmocollins 1-3.|https://dx.doi.org/10.1111/1346-8138.17410
+Peking University First Hospital Procedure for Culturing Pathogenic Microorganisms for Bone and Joint Infection.|https://dx.doi.org/10.2147/IDR.S464350
+Evaluation of White Blood Cell Count, Lymphocyte Percentage, Neutrophil Percentage, and Elevated Temperature as Predictors of Wound Infection in Burn Patients.|https://dx.doi.org/10.7759/cureus.63172
