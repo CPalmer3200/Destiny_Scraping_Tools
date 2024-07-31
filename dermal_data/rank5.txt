@@ -28,3 +28,5 @@ Exploring the Surface: Sampling of Potential Skin Cancer Biomarkers Kynurenine a
 Medical Device-Associated Infections Caused by Biofilm-Forming Microbial Pathogens and Controlling Strategies.|https://dx.doi.org/10.3390/antibiotics13070623
 Modification and Synergistic Studies of a Novel Frog Antimicrobial Peptide against Pseudomonas aeruginosa Biofilms.|https://dx.doi.org/10.3390/antibiotics13070574
 Bacterial Biofilm on Tissue Expander and Acellular Dermal Graft After Breast Reconstruction.|https://dx.doi.org/10.1089/sur.2024.156
+Screening of the Global Health Priority BoxⓇ reveals potential new disinfectants against the emerging multidrug-resistant pathogen Candida auris.|https://dx.doi.org/10.1016/j.micpath.2024.106828
+Electroactive composite biofilms integrating Kombucha, Chlorella and synthetic proteinoid Proto-Brains.|https://dx.doi.org/10.1098/rsos.240238

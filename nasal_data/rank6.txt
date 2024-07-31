@@ -3,3 +3,5 @@ Electrospun Gelatin Scaffolds with Incorporated Antibiotics for Skin Wound Heali
 Humanized Mouse Models of Bacterial Infections.|https://dx.doi.org/10.3390/antibiotics13070640
 New Insights into Pseudomonas spp.-Produced Antibiotics: Genetic Regulation of Biosynthesis and Implementation in Biotechnology.|https://dx.doi.org/10.3390/antibiotics13070597
 Investigation of cross-opsonic effect leads to the discovery of PPIase-domain containing protein vaccine candidate to prevent infections by Gram-positive ESKAPE pathogens.|https://dx.doi.org/10.1186/s12866-024-03427-w
+Using contact network dynamics to implement efficient interventions against pathogen spread in hospital settings: A modelling study.|https://dx.doi.org/10.1371/journal.pmed.1004433
+Immunoinformatic prediction to identify Staphylococcus aureus peptides that bind to CD8+ T-cells as potential vaccine candidates.|https://dx.doi.org/10.14202/vetworld.2024.1413-1422

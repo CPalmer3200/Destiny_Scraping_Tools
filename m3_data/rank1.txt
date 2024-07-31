@@ -17,3 +17,4 @@ Characterization of Clostridioides difficile Persister Cells and Their Role in A
 Evaluation of Bacterial Viability for Fecal Microbiota Transplantation: Impact of Thawing Temperature and Storage Time.|https://dx.doi.org/10.3390/microorganisms12071294
 Comparative Efficacy of Fecal Microbiota Transplantation in Treating Refractory or Recurrent Clostridioides difficile Infection among Patients with and without Inflammatory Bowel Disease: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/biomedicines12071396
 Clostridioides difficile Infections: Prevention and Treatment Strategies.|https://dx.doi.org/10.1007/978-3-031-58572-2_11
+Washed microbiota transplantation combined with biological agents promotes histological remission in refractory severe ulcerative colitis with recurrent intestinal infection: A case report.|https://dx.doi.org/10.1016/j.ajg.2024.07.008
