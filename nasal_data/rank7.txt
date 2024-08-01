@@ -25,3 +25,5 @@ Multifunctional piezoelectric surfaces enhanced with layer-by-layer coating for 
 Panton-Valentine leucocidin gene in methicillin resistant Staphylococcus aureus isolated from tertiary care hospital in Nepal.|https://dx.doi.org/10.3855/jidc.17743
 Insights Into Laparoscopic Port Site Complications: A Comprehensive Review.|https://dx.doi.org/10.7759/cureus.63431
 Unveiling the value of C-reactive protein as a severity biomarker and the IL4/IL13 pathway as a therapeutic target in recessive dystrophic epidermolysis bullosa: A multiparametric cross-sectional study.|https://dx.doi.org/10.1111/exd.15146
+Retropharyngeal Abscess complicated by mediastinitis in infants.|https://dx.doi.org/10.1159/000540525
+Antibacterial Iodine-Releasing Coatings of Cross-Linked Poly(N-vinylpyrrolidone) Synthesized by Solvent-Free Initiated Chemical Vapor Deposition.|https://dx.doi.org/10.1021/acsmacrolett.4c00301

@@ -38,3 +38,4 @@ Functional Ankle Reconstruction Technique After Total Calcanectomy.|https://dx.d
 Response to 'Promoting diabetic foot wound healing through antibiotic bone cement: Focus on ROCK1 protein expression'.|https://dx.doi.org/10.1111/iwj.14955
 Common pathogens associated with infected diabetic foot ulcers: A retrospective cohort study in a specialized medical center in Jeddah, Saudi Arabia.|https://dx.doi.org/10.4103/jfmpc.jfmpc_12_24
 Evaluating the Efficacy of Topical Phenytoin in the Healing of Neuropathic Diabetic Foot Ulcers: A Comparative Study.|https://dx.doi.org/10.7759/cureus.63282
+Obstructed vein delivery of ceftriaxone via poly(vinyl-pyrrolidone)-iodine-chitosan nanofibers for the management of diabetic foot infections and burn wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134166
