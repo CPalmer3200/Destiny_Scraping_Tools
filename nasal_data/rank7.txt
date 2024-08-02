@@ -27,3 +27,9 @@ Insights Into Laparoscopic Port Site Complications: A Comprehensive Review.|http
 Unveiling the value of C-reactive protein as a severity biomarker and the IL4/IL13 pathway as a therapeutic target in recessive dystrophic epidermolysis bullosa: A multiparametric cross-sectional study.|https://dx.doi.org/10.1111/exd.15146
 Retropharyngeal Abscess complicated by mediastinitis in infants.|https://dx.doi.org/10.1159/000540525
 Antibacterial Iodine-Releasing Coatings of Cross-Linked Poly(N-vinylpyrrolidone) Synthesized by Solvent-Free Initiated Chemical Vapor Deposition.|https://dx.doi.org/10.1021/acsmacrolett.4c00301
+Antibacterial and mechanism of action studies of boxazomycin A.|https://dx.doi.org/10.1038/s41429-024-00757-9
+Antibacterial properties of photo-crosslinked chitosan/methacrylated hyaluronic acid nanoparticles loaded with bacitracin.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134250
+Staphylococcus aureus/Staphylococcus epidermidis from skin microbiota are balanced by Pomegranate peel extract: An eco-sustainable approach.|https://dx.doi.org/10.1371/journal.pone.0308211
+Wireless Optogenetic Targeting Nociceptors Helps Host Cells Win the Competitive Colonization in Implant-Associated Infections.|https://dx.doi.org/10.1002/smtd.202400216
+Decoding the Decade: Exploring the Efficacy of Platelet-Rich Plasma (PRP) in Complex Wound Management - A Comprehensive Study.|https://dx.doi.org/10.1007/s43465-024-01212-5
+Clinical significance of lower respiratory tract culture within 48 h of admission in patients with viral pneumonia: an observational study.|https://dx.doi.org/10.1186/s12890-024-03162-y

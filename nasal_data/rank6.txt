@@ -6,3 +6,4 @@ Investigation of cross-opsonic effect leads to the discovery of PPIase-domain co
 Using contact network dynamics to implement efficient interventions against pathogen spread in hospital settings: A modelling study.|https://dx.doi.org/10.1371/journal.pmed.1004433
 Immunoinformatic prediction to identify Staphylococcus aureus peptides that bind to CD8+ T-cells as potential vaccine candidates.|https://dx.doi.org/10.14202/vetworld.2024.1413-1422
 A randomized controlled trial on hair follicular-derived microtissue for promoting wound healing and alleviating postoperative complications after hair transplantation.|https://dx.doi.org/10.1016/j.bjps.2024.07.003
+Human milk antibodies to global pathogens reveal geographic and interindividual variations in IgA and IgG.|https://dx.doi.org/10.1172/JCI168789
