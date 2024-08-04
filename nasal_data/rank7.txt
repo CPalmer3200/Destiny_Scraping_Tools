@@ -34,3 +34,4 @@ Wireless Optogenetic Targeting Nociceptors Helps Host Cells Win the Competitive 
 Decoding the Decade: Exploring the Efficacy of Platelet-Rich Plasma (PRP) in Complex Wound Management - A Comprehensive Study.|https://dx.doi.org/10.1007/s43465-024-01212-5
 Clinical significance of lower respiratory tract culture within 48 h of admission in patients with viral pneumonia: an observational study.|https://dx.doi.org/10.1186/s12890-024-03162-y
 Effect of Topical Vancomycin on Surgical Site Infections in Ankle Fractures: A Randomized, Double-Blind, Controlled Trial.|https://dx.doi.org/10.7759/cureus.63694
+Lower abdominal cyst complicated with suspected infection following INFIX internal fixation for pelvic fracture: a report of two rare cases.|https://dx.doi.org/10.1186/s12891-024-07747-w
