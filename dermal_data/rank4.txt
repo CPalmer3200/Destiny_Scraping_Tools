@@ -3,3 +3,5 @@ Electrospun PCL/PVA/PHMB nanofibers incorporating Ziziphus jujuba fruit extract 
 Bacteria-Derived Cellulose Membranes Modified with Graphene Oxide-Silver Nanoparticles for Accelerating Wound Healing.|https://dx.doi.org/10.1021/acsabm.4c00650
 Carbon dots-facilitated on-demand dissolution of Ca-alginate hydrogel via site-specific mineralization for wound healing.|https://dx.doi.org/10.1186/s12951-024-02729-5
 Synthesis and analysis of multifunctional graphene oxide/Ag(2)O-PVA/chitosan hybrid polymeric composite for wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134301
+A novel chlorin derivative Shengtaibufen (STBF) mediated photodynamic therapy combined with iodophor for the treatment of chronic superficial leg wounds infected with methicillin-resistant Staphylococcus aureus: A retrospective clinical study.|https://dx.doi.org/10.1016/j.pdpdt.2024.104300
+Injectable antibacterial hydrogels based on oligolysines for wound healing.|https://dx.doi.org/10.1016/j.bioadv.2024.213981

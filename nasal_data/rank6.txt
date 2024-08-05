@@ -8,3 +8,4 @@ Immunoinformatic prediction to identify Staphylococcus aureus peptides that bind
 A randomized controlled trial on hair follicular-derived microtissue for promoting wound healing and alleviating postoperative complications after hair transplantation.|https://dx.doi.org/10.1016/j.bjps.2024.07.003
 Human milk antibodies to global pathogens reveal geographic and interindividual variations in IgA and IgG.|https://dx.doi.org/10.1172/JCI168789
 The World Needs a Staph Vaccine-New Research Could Bring It a Step Closer.|https://dx.doi.org/10.1001/jama.2024.1015
+Hypoxia-inducible factor-1α/vascular endothelial growth factor signaling pathway-based ulcer-healing mechanism of Astragalus Aqueous extract in diabetic foot rats.|https://dx.doi.org/10.14715/cmb/2024.70.7.11
