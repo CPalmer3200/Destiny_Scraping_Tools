@@ -35,3 +35,6 @@ Decoding the Decade: Exploring the Efficacy of Platelet-Rich Plasma (PRP) in Com
 Clinical significance of lower respiratory tract culture within 48 h of admission in patients with viral pneumonia: an observational study.|https://dx.doi.org/10.1186/s12890-024-03162-y
 Effect of Topical Vancomycin on Surgical Site Infections in Ankle Fractures: A Randomized, Double-Blind, Controlled Trial.|https://dx.doi.org/10.7759/cureus.63694
 Lower abdominal cyst complicated with suspected infection following INFIX internal fixation for pelvic fracture: a report of two rare cases.|https://dx.doi.org/10.1186/s12891-024-07747-w
+Bacteria-responsive functional electrospun membrane: simultaneous on-site visual monitoring and inhibition of bacterial infection.|https://dx.doi.org/10.1039/d4tb00963k
+A case of acute purulent pericarditis due to MRSA treated with daily pericardial lavage for one month followed by pericardial fenestration.|https://dx.doi.org/10.1016/j.jccase.2024.01.008
+Therapy of parapneumonic empyema in children: a protocol for a scoping review of the literature.|https://dx.doi.org/10.12688/f1000research.135295.2

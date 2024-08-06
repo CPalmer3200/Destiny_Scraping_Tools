@@ -2,3 +2,4 @@ Staphylococcus aureus/Staphylococcus epidermidis from skin microbiota are balanc
 Dihydrothiazolo ring-fused 2-pyridone antimicrobial compounds treat Streptococcus pyogenes skin and soft tissue infection.|https://dx.doi.org/10.1126/sciadv.adn7979
 Control of pathogenic bacterial biofilm associated with acne and the anti-inflammatory potential of an essential oil blend.|https://dx.doi.org/10.1016/j.micpath.2024.106834
 New resorcylic acid derivatives of Lysimachia tengyuehensis against MRSA and VRE by interfering with bacterial metabolic imbalance.|https://dx.doi.org/10.1016/j.ejmech.2024.116714
+A Natural deep eutectic solvent as an effective material for dual debridement and antibiofilm effects in chronic wound treatment.|https://dx.doi.org/10.1016/j.ijpharm.2024.124553
