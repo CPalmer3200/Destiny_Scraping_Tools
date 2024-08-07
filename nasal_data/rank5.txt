@@ -14,3 +14,5 @@ Time trend analysis and impacts of the COVID-19 pandemic on mammography and Papa
 Severe capsular contracture in a patient with a history of multiple malignancies - Hematoma or neoplasm recurrence?: A case report.|https://dx.doi.org/10.1097/MD.0000000000039074
 PET/CT Recognition of Costal Cartilage Infection After Breast Implant Surgery.|https://dx.doi.org/10.1097/SAP.0000000000004002
 A Comparative Study on Aesthetic and Pain Outcomes in Flap Versus Implant Breast Reconstruction After Mastectomy.|https://dx.doi.org/10.7759/cureus.63772
+Evaluation of Morphometric Measurements on Preoperative CT Angiograms to Determine Risk of Abdominal Donor Site Complications-A Retrospective Review of 174 Patients.|https://dx.doi.org/10.1177/22925503221128987
+Reduction Mammoplasty in the Pediatric Population: An Analysis of Pediatric NSQIP Data From 2012 to 2019.|https://dx.doi.org/10.1177/22925503221128986

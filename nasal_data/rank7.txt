@@ -38,3 +38,4 @@ Lower abdominal cyst complicated with suspected infection following INFIX intern
 Bacteria-responsive functional electrospun membrane: simultaneous on-site visual monitoring and inhibition of bacterial infection.|https://dx.doi.org/10.1039/d4tb00963k
 A case of acute purulent pericarditis due to MRSA treated with daily pericardial lavage for one month followed by pericardial fenestration.|https://dx.doi.org/10.1016/j.jccase.2024.01.008
 Therapy of parapneumonic empyema in children: a protocol for a scoping review of the literature.|https://dx.doi.org/10.12688/f1000research.135295.2
+Hospitalizations among family members increase the risk of MRSA infection in a household.|https://dx.doi.org/10.1017/ice.2024.106
