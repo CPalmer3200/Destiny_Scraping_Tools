@@ -1,3 +1,0 @@
-Frailty is a predictor for worse outcomes in patients hospitalized with Clostridioides difficile infection.|https://dx.doi.org/10.20524/aog.2024.0898
-Clostridioides difficile Infection Risk Following Different Antibiotics: Insights from Multi-source Medical Data.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107288
-Vonoprazan-associated Clostridioides difficile infection: an analysis of the Japanese Adverse Drug Event Report and the FDA Adverse Event Reporting System.|https://dx.doi.org/10.1177/20420986241260211
