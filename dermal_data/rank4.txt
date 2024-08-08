@@ -6,3 +6,8 @@ Synthesis and analysis of multifunctional graphene oxide/Ag(2)O-PVA/chitosan hyb
 A novel chlorin derivative Shengtaibufen (STBF) mediated photodynamic therapy combined with iodophor for the treatment of chronic superficial leg wounds infected with methicillin-resistant Staphylococcus aureus: A retrospective clinical study.|https://dx.doi.org/10.1016/j.pdpdt.2024.104300
 Injectable antibacterial hydrogels based on oligolysines for wound healing.|https://dx.doi.org/10.1016/j.bioadv.2024.213981
 Design of Scaffolds Based on Zinc-Modified Marine Collagen and Bilberry Leaves Extract-Loaded Silica Nanoparticles as Wound Dressings.|https://dx.doi.org/10.2147/IJN.S466905
+Immobilizing DNase in ternary AuAgCu hydrogels to accelerate biofilm disruption for synergistically enhanced therapy of MRSA infections.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134518
+Cuttlefish ink-derived melanin nanoparticle-embedded tremella fuciformis polysaccharide hydrogels for the treatment of MRSA-infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134342
+Development of pectin/chitosan-based electrospun biomimetic nanofiber membranes loaded with dihydromyricetin inclusion complexes for wound healing application.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134526
+Chitosan/agarose hydrogel dressing: pH response real-time monitoring and chemo-/photodynamic therapy synergistic treatment of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134513
+NIR light-triggered photodynamic antibacterial nanofiber membrane based on polycaprolactone and phthalocyanine derivative for biomedical applications.|https://dx.doi.org/10.1039/d4ra03803g

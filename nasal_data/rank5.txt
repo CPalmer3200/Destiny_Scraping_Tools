@@ -16,3 +16,4 @@ PET/CT Recognition of Costal Cartilage Infection After Breast Implant Surgery.|h
 A Comparative Study on Aesthetic and Pain Outcomes in Flap Versus Implant Breast Reconstruction After Mastectomy.|https://dx.doi.org/10.7759/cureus.63772
 Evaluation of Morphometric Measurements on Preoperative CT Angiograms to Determine Risk of Abdominal Donor Site Complications-A Retrospective Review of 174 Patients.|https://dx.doi.org/10.1177/22925503221128987
 Reduction Mammoplasty in the Pediatric Population: An Analysis of Pediatric NSQIP Data From 2012 to 2019.|https://dx.doi.org/10.1177/22925503221128986
+Development of pectin/chitosan-based electrospun biomimetic nanofiber membranes loaded with dihydromyricetin inclusion complexes for wound healing application.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134526
