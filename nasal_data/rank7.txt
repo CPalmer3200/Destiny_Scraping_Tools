@@ -41,3 +41,6 @@ Therapy of parapneumonic empyema in children: a protocol for a scoping review of
 Hospitalizations among family members increase the risk of MRSA infection in a household.|https://dx.doi.org/10.1017/ice.2024.106
 Clinical features and prognosis of prosthetic valve endocarditis due to Staphylococcus aureus.|https://dx.doi.org/10.1007/s10096-024-04848-1
 A Multidisciplinary Approach to Staphylococcus aureus Triple-Valve Infective Endocarditis With Multi-Organ Involvement.|https://dx.doi.org/10.1177/23247096241265917
+Bioinspired oriented calcium phosphate nanocrystal arrays with bactericidal and osteogenic properties.|https://dx.doi.org/10.1016/j.actbio.2024.08.001
+Structure of biofilm-forming functional amyloid PSMα1 from Staphylococcus aureus.|https://dx.doi.org/10.1073/pnas.2406775121
+A Case of Significant Coagulopathy Due to Vitamin K Deficiency Caused by the Administration of Cefazolin and Rifampicin and Hyponutrition After a Postoperative Infection of the Lumbar Spine.|https://dx.doi.org/10.7759/cureus.64076

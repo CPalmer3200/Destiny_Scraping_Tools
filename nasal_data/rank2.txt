@@ -3,3 +3,5 @@ Evaluating the Diagnostic Performance of Nasal Methicillin-Resistant Staphylococ
 The Oral Cavity-Another Reservoir of Antimicrobial-Resistant Staphylococcus aureus?|https://dx.doi.org/10.3390/antibiotics13070649
 A Rare Occurrence of Methicillin-Resistant Staphylococcus aureus (MRSA) Pneumonia Complicated by Nasal Vestibulitis and Orbital Cellulitis: A Case Report.|https://dx.doi.org/10.7759/cureus.63778
 High toxinogenic potential of Staphylococcus aureus from wild ungulates in Brandenburg, Germany with a low level of antibiotic resistance.|https://dx.doi.org/10.3389/fvets.2024.1445413
+Author Correction: Commensal production of a broad-spectrum and short-lived antimicrobial peptide polyene eliminates nasal Staphylococcus aureus.|https://dx.doi.org/10.1038/s41564-024-01798-4
+Association of Staphylococcus aureus Bacterial Load and Colonization Sites With the Risk of Postoperative S. aureus Infection.|https://dx.doi.org/10.1093/ofid/ofae414
