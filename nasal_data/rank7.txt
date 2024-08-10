@@ -44,3 +44,5 @@ A Multidisciplinary Approach to Staphylococcus aureus Triple-Valve Infective End
 Bioinspired oriented calcium phosphate nanocrystal arrays with bactericidal and osteogenic properties.|https://dx.doi.org/10.1016/j.actbio.2024.08.001
 Structure of biofilm-forming functional amyloid PSMα1 from Staphylococcus aureus.|https://dx.doi.org/10.1073/pnas.2406775121
 A Case of Significant Coagulopathy Due to Vitamin K Deficiency Caused by the Administration of Cefazolin and Rifampicin and Hyponutrition After a Postoperative Infection of the Lumbar Spine.|https://dx.doi.org/10.7759/cureus.64076
+Peripheral white blood cell patterns in children with hydrocephalus as a response to ventriculo-peritoneal shunt infection.|https://dx.doi.org/10.1371/journal.pone.0308131
+Prevalence and risk factors for haematogenous periprosthetic joint infection during Staphylococcus aureus bacteraemia.|https://dx.doi.org/10.1080/23744235.2024.2389482
