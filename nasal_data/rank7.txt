@@ -46,3 +46,10 @@ Structure of biofilm-forming functional amyloid PSMα1 from Staphylococcus aureu
 A Case of Significant Coagulopathy Due to Vitamin K Deficiency Caused by the Administration of Cefazolin and Rifampicin and Hyponutrition After a Postoperative Infection of the Lumbar Spine.|https://dx.doi.org/10.7759/cureus.64076
 Peripheral white blood cell patterns in children with hydrocephalus as a response to ventriculo-peritoneal shunt infection.|https://dx.doi.org/10.1371/journal.pone.0308131
 Prevalence and risk factors for haematogenous periprosthetic joint infection during Staphylococcus aureus bacteraemia.|https://dx.doi.org/10.1080/23744235.2024.2389482
+Mystery of the Passerini Reaction for the Synthesis of the Antimicrobial Peptidomimetics against Nosocomial Pathogenic Bacteria.|https://dx.doi.org/10.3390/ijms25158330
+Photothermal Antibacterial and Osteoinductive Polypyrrole@Cu Implants for Biological Tissue Replacement.|https://dx.doi.org/10.3390/ma17153882
+Dynamical analysis of methicillin-resistant Staphylococcus aureus infection in North Cyprus with optimal control: prevalence and awareness.|https://dx.doi.org/10.1038/s41598-024-68893-8
+Promoting the healing of infected diabetic wound by nanozyme-containing hydrogel with anti-bacterial inflammation suppressing, ROS-scavenging and oxygen-generating properties.|https://dx.doi.org/10.1002/jbm.b.35458
+COMPLICATIONS OF INTRAOSSEOUS ADMINISTRATION OF VANCOMYCIN IN TOTAL HIP ARTHROPLASTY.|https://dx.doi.org/10.1016/j.recot.2024.08.002
+Amorphous TiO2 nano-coating on stainless steel to improve its biological response.|https://dx.doi.org/10.1088/1748-605X/ad6dc4
+Synergistic berberine chloride and Curcumin-Loaded nanofiber therapies against Methicillin-Resistant Staphylococcus aureus Infection: Augmented immune and inflammatory responses in zebrafish wound healing.|https://dx.doi.org/10.1016/j.intimp.2024.112856

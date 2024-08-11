@@ -5,3 +5,5 @@ A Rare Occurrence of Methicillin-Resistant Staphylococcus aureus (MRSA) Pneumoni
 High toxinogenic potential of Staphylococcus aureus from wild ungulates in Brandenburg, Germany with a low level of antibiotic resistance.|https://dx.doi.org/10.3389/fvets.2024.1445413
 Author Correction: Commensal production of a broad-spectrum and short-lived antimicrobial peptide polyene eliminates nasal Staphylococcus aureus.|https://dx.doi.org/10.1038/s41564-024-01798-4
 Association of Staphylococcus aureus Bacterial Load and Colonization Sites With the Risk of Postoperative S. aureus Infection.|https://dx.doi.org/10.1093/ofid/ofae414
+Nasal Microbiome in Granulomatosis with Polyangiitis Compared to Chronic Rhinosinusitis.|https://dx.doi.org/10.3390/diagnostics14151673
+The Impact of a Methicillin-Resistant Staphylococcus Aureus Nasal Polymerase Chain Reaction Protocol on Vancomycin Length of Therapy Among Patients With Skin and Soft Tissue Infections.|https://dx.doi.org/10.1177/08971900241273175
