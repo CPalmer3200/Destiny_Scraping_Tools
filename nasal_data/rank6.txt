@@ -12,3 +12,5 @@ Hypoxia-inducible factor-1α/vascular endothelial growth factor signaling pathwa
 An Integrated Module Performs Selective 'On-Line' Epoxidation in the Biosynthesis of the Antibiotic Mupirocin.|https://dx.doi.org/10.1002/anie.202410502
 Vaccines and monoclonal antibodies to prevent healthcare-associated bacterial infections.|https://dx.doi.org/10.1128/cmr.00160-22
 Potential antivirulence and antibiofilm activities of sub-MIC of oxacillin against MDR S. aureus isolates: an in-vitro and in-vivo study.|https://dx.doi.org/10.1186/s12866-024-03429-8
+Polygonum bistorta Linn. as a green source for synthesis of biocompatible selenium nanoparticles with potent antimicrobial and antioxidant properties.|https://dx.doi.org/10.1007/s10534-024-00622-0
+VacSol-ML(ESKAPE)(:) Machine learning empowering vaccine antigen prediction for ESKAPE pathogens.|https://dx.doi.org/10.1016/j.vaccine.2024.126204
