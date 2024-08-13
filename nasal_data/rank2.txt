@@ -7,3 +7,5 @@ Author Correction: Commensal production of a broad-spectrum and short-lived anti
 Association of Staphylococcus aureus Bacterial Load and Colonization Sites With the Risk of Postoperative S. aureus Infection.|https://dx.doi.org/10.1093/ofid/ofae414
 Nasal Microbiome in Granulomatosis with Polyangiitis Compared to Chronic Rhinosinusitis.|https://dx.doi.org/10.3390/diagnostics14151673
 The Impact of a Methicillin-Resistant Staphylococcus Aureus Nasal Polymerase Chain Reaction Protocol on Vancomycin Length of Therapy Among Patients With Skin and Soft Tissue Infections.|https://dx.doi.org/10.1177/08971900241273175
+The microbiome-derived antibacterial lugdunin acts as a cation ionophore in synergy with host peptides.|https://dx.doi.org/10.1128/mbio.00578-24
+Brief Report: Nasal colonization with Staphylococcus aureus and methicillin resistant Staphylococcus aureus among community-dwelling older adults with comorbidities seeking follow-up medical care in Central Sri Lanka.|https://dx.doi.org/10.1099/acmi.0.000724.v3

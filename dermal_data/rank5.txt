@@ -4,3 +4,5 @@ Control of pathogenic bacterial biofilm associated with acne and the anti-inflam
 New resorcylic acid derivatives of Lysimachia tengyuehensis against MRSA and VRE by interfering with bacterial metabolic imbalance.|https://dx.doi.org/10.1016/j.ejmech.2024.116714
 A Natural deep eutectic solvent as an effective material for dual debridement and antibiofilm effects in chronic wound treatment.|https://dx.doi.org/10.1016/j.ijpharm.2024.124553
 Restriction of arginine induces antibiotic tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1038/s41467-024-51144-9
+A one-stop integrated natural antimicrobial microneedles with anti-inflammatory, pro-angiogenic and long-term moisturizing properties to accelerate diabetic wound healing.|https://dx.doi.org/10.1016/j.ejpb.2024.114448
+Ultrasonic nanotechnology for the effective management of Staphylococcus aureus skin infections: an update.|https://dx.doi.org/10.1039/d4nr02147a

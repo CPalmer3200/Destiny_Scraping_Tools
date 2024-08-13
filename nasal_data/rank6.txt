@@ -14,3 +14,4 @@ Vaccines and monoclonal antibodies to prevent healthcare-associated bacterial in
 Potential antivirulence and antibiofilm activities of sub-MIC of oxacillin against MDR S. aureus isolates: an in-vitro and in-vivo study.|https://dx.doi.org/10.1186/s12866-024-03429-8
 Polygonum bistorta Linn. as a green source for synthesis of biocompatible selenium nanoparticles with potent antimicrobial and antioxidant properties.|https://dx.doi.org/10.1007/s10534-024-00622-0
 VacSol-ML(ESKAPE)(:) Machine learning empowering vaccine antigen prediction for ESKAPE pathogens.|https://dx.doi.org/10.1016/j.vaccine.2024.126204
+Staphylococcus aureus adapts to exploit collagen-derived proline during chronic infection.|https://dx.doi.org/10.1038/s41564-024-01769-9

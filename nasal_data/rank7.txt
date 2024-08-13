@@ -53,3 +53,6 @@ Promoting the healing of infected diabetic wound by nanozyme-containing hydrogel
 COMPLICATIONS OF INTRAOSSEOUS ADMINISTRATION OF VANCOMYCIN IN TOTAL HIP ARTHROPLASTY.|https://dx.doi.org/10.1016/j.recot.2024.08.002
 Amorphous TiO2 nano-coating on stainless steel to improve its biological response.|https://dx.doi.org/10.1088/1748-605X/ad6dc4
 Synergistic berberine chloride and Curcumin-Loaded nanofiber therapies against Methicillin-Resistant Staphylococcus aureus Infection: Augmented immune and inflammatory responses in zebrafish wound healing.|https://dx.doi.org/10.1016/j.intimp.2024.112856
+Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2018-2022.|https://dx.doi.org/10.14745/ccdr.v50i06a02
+REGECEL (an Oxidized Regenerated Cellulose) Provides Superior Bioactivity Effect on Microorganisms.|https://dx.doi.org/10.2147/IDR.S454539
+Association of Helicobacter Pylori in Chronic Tonsillitis.|https://dx.doi.org/10.1007/s12070-024-04569-z
