@@ -57,3 +57,8 @@ Healthcare-associated infections and antimicrobial resistance in Canadian acute 
 REGECEL (an Oxidized Regenerated Cellulose) Provides Superior Bioactivity Effect on Microorganisms.|https://dx.doi.org/10.2147/IDR.S454539
 Association of Helicobacter Pylori in Chronic Tonsillitis.|https://dx.doi.org/10.1007/s12070-024-04569-z
 Bacterial pathogens and antimicrobial susceptibility in ocular infections: A study at Boru-Meda General Hospital, Dessie, Ethiopia.|https://dx.doi.org/10.1186/s12886-024-03544-0
+Genomic characterization of methicillin-resistant Staphylococcus aureus isolated from patients attending regional referral hospitals in Tanzania.|https://dx.doi.org/10.1186/s12920-024-01979-4
+The Commando procedure for mechanical double valve prosthesis endocarditis with destruction of the aortomitral continuity.|https://dx.doi.org/10.1510/mmcts.2024.052
+Purpose-built multicomponent supramolecular silver(I)-hydrogels as membrane-targeting broad-spectrum antibacterial agents against multidrug-resistant pathogens.|https://dx.doi.org/10.1039/d4tb01355g
+Antimicrobial Resistance Patterns of Pathogens Isolated from Patients with Wound Infection at a Teaching Hospital in Vietnam.|https://dx.doi.org/10.2147/IDR.S472025
+High-throughput functional analysis provides novel insight into type VII secretion in Staphylococcus aureus.|https://dx.doi.org/10.1098/rsob.240060

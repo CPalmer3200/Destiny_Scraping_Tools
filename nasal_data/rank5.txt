@@ -20,3 +20,5 @@ Development of pectin/chitosan-based electrospun biomimetic nanofiber membranes 
 Antibiotic Prophylaxis in Breast Cancer Surgery: A Multicontinental Survey Study.|https://dx.doi.org/10.1016/j.jss.2024.07.020
 Addressing Emotional Stress for Men Seeking Gynecological Care: A Call for Inclusivity and Sensitivity.|https://dx.doi.org/10.7759/cureus.64374
 Clinical best practices in interdisciplinary management of human epidermal growth factor receptor 2 antibody-drug conjugates-induced interstitial lung disease/pneumonitis: An expert consensus in China.|https://dx.doi.org/10.1002/cncr.35475
+Minimal Access vs Conventional Nipple-Sparing Mastectomy.|https://dx.doi.org/10.1001/jamasurg.2024.2977
+Low muscle mass-to-fat ratio is an independent factor that predicts worse overall survival and complications in patients with colon cancer: a retrospective single-center cohort study.|https://dx.doi.org/10.4174/astr.2024.107.2.68

@@ -1,2 +1,3 @@
 MicroRNA miR-27a-5p reduces intestinal inflammation induced by Clostridioides difficile flagella by regulating the NF-κB signaling pathway.|https://dx.doi.org/10.1093/infdis/jiae396
 Graft-versus-host disease in patients with bone marrow transplants: A retrospective study analyzing outcomes and healthcare burden in US hospitals.|https://dx.doi.org/10.1111/ejh.14281
+Unplanned 30-Day Readmissions After Hospitalization for Irritable Bowel Syndrome.|https://dx.doi.org/10.7759/cureus.64519

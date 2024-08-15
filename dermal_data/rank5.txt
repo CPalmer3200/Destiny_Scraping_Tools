@@ -6,3 +6,6 @@ A Natural deep eutectic solvent as an effective material for dual debridement an
 Restriction of arginine induces antibiotic tolerance in Staphylococcus aureus.|https://dx.doi.org/10.1038/s41467-024-51144-9
 A one-stop integrated natural antimicrobial microneedles with anti-inflammatory, pro-angiogenic and long-term moisturizing properties to accelerate diabetic wound healing.|https://dx.doi.org/10.1016/j.ejpb.2024.114448
 Ultrasonic nanotechnology for the effective management of Staphylococcus aureus skin infections: an update.|https://dx.doi.org/10.1039/d4nr02147a
+M2 macrophage-polarized anti-inflammatory microneedle patch for accelerating biofilm-infected diabetic wound healing via modulating the insulin pathway.|https://dx.doi.org/10.1186/s12951-024-02731-x
+Microenvironment-Responsive Antibacterial, Anti-Inflammatory, and Antioxidant Pickering Emulsion Stabilized by Curcumin-Loaded Tea Polyphenol Particles for Accelerating Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.4c08717
+Essential Oil Components Incorporated Emulsion Hydrogels for Eradicating Dermatophytosis Caused by Pathogenic Fungi Trichophyton mentagrophytes and Microsporum canis.|https://dx.doi.org/10.1002/adhm.202400811
