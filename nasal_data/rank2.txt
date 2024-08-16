@@ -9,3 +9,5 @@ Nasal Microbiome in Granulomatosis with Polyangiitis Compared to Chronic Rhinosi
 The Impact of a Methicillin-Resistant Staphylococcus Aureus Nasal Polymerase Chain Reaction Protocol on Vancomycin Length of Therapy Among Patients With Skin and Soft Tissue Infections.|https://dx.doi.org/10.1177/08971900241273175
 The microbiome-derived antibacterial lugdunin acts as a cation ionophore in synergy with host peptides.|https://dx.doi.org/10.1128/mbio.00578-24
 Brief Report: Nasal colonization with Staphylococcus aureus and methicillin resistant Staphylococcus aureus among community-dwelling older adults with comorbidities seeking follow-up medical care in Central Sri Lanka.|https://dx.doi.org/10.1099/acmi.0.000724.v3
+Characterization of gelatin-oxidized riclin cryogels and their applications as reusable ice cubes in shrimp preservation.|https://dx.doi.org/10.1016/j.foodres.2024.114766
+Antimicrobial resistance profile of Staphylococcus aureus isolated from patients, healthcare workers, and the environment in a tertiary hospital in Addis Ababa, Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0308615

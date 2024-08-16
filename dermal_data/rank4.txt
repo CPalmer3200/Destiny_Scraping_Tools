@@ -23,3 +23,4 @@ Accelerated healing of intractable biofilm-infected diabetic wounds by trypsin-l
 Dual-Functional Implant Based on Gellan-Xanthan Hydrogel with Diopside, BMP-2 and Lysostaphin for Bone Defect Repair and Control of Staphylococcal Infection.|https://dx.doi.org/10.1002/mabi.202400205
 Purpose-built multicomponent supramolecular silver(I)-hydrogels as membrane-targeting broad-spectrum antibacterial agents against multidrug-resistant pathogens.|https://dx.doi.org/10.1039/d4tb01355g
 Tribovoltaic Effect Strengthened Microwave Catalytic Antibacterial Composite Hydrogel.|https://dx.doi.org/10.1002/adhm.202402266
+Characterization of gelatin-oxidized riclin cryogels and their applications as reusable ice cubes in shrimp preservation.|https://dx.doi.org/10.1016/j.foodres.2024.114766
