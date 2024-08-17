@@ -15,3 +15,6 @@ Potential antivirulence and antibiofilm activities of sub-MIC of oxacillin again
 Polygonum bistorta Linn. as a green source for synthesis of biocompatible selenium nanoparticles with potent antimicrobial and antioxidant properties.|https://dx.doi.org/10.1007/s10534-024-00622-0
 VacSol-ML(ESKAPE)(:) Machine learning empowering vaccine antigen prediction for ESKAPE pathogens.|https://dx.doi.org/10.1016/j.vaccine.2024.126204
 Staphylococcus aureus adapts to exploit collagen-derived proline during chronic infection.|https://dx.doi.org/10.1038/s41564-024-01769-9
+A path forward for Staphylococcus aureus vaccine development.|https://dx.doi.org/10.1084/jem.20240002
+Education program for caregivers in congenital central hypoventilation syndrome: Initiation and experience families.|https://dx.doi.org/10.1002/ppul.27217
+Microbiological analysis of tunneled hemodialysis catheters isolated from patients receiving hemodialysis in Saskatchewan.|https://dx.doi.org/10.1080/17460913.2024.2359879

@@ -62,3 +62,6 @@ The Commando procedure for mechanical double valve prosthesis endocarditis with 
 Purpose-built multicomponent supramolecular silver(I)-hydrogels as membrane-targeting broad-spectrum antibacterial agents against multidrug-resistant pathogens.|https://dx.doi.org/10.1039/d4tb01355g
 Antimicrobial Resistance Patterns of Pathogens Isolated from Patients with Wound Infection at a Teaching Hospital in Vietnam.|https://dx.doi.org/10.2147/IDR.S472025
 High-throughput functional analysis provides novel insight into type VII secretion in Staphylococcus aureus.|https://dx.doi.org/10.1098/rsob.240060
+Ten-year statewide cross-sectional review of pediatric sinogenic intracranial abscess and empyema in Queensland, Australia: microbial profile before and after COVID-19.|https://dx.doi.org/10.3171/2024.6.PEDS24201
+Lower Extremity Amputation in Fracture-Related Infection.|https://dx.doi.org/10.1097/BOT.0000000000002853
+Infective Endocarditis Caused by Carbapenemase-Producing Klebsiella pneumoniae on a Prosthetic Valve: A Case Report and Review of the Literature.|https://dx.doi.org/10.7759/cureus.64639
