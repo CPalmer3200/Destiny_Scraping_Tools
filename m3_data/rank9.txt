@@ -2,3 +2,4 @@ MicroRNA miR-27a-5p reduces intestinal inflammation induced by Clostridioides di
 Graft-versus-host disease in patients with bone marrow transplants: A retrospective study analyzing outcomes and healthcare burden in US hospitals.|https://dx.doi.org/10.1111/ejh.14281
 Unplanned 30-Day Readmissions After Hospitalization for Irritable Bowel Syndrome.|https://dx.doi.org/10.7759/cureus.64519
 Antibiotic use and risk of Clostridioides difficile infection in patients with inflammatory bowel disease.|https://dx.doi.org/10.1111/jgh.16720
+A diagnostic dilemma: cytomegalovirus colitis as an uncommon comorbidity in inflammatory bowel disease: a case report.|https://dx.doi.org/10.1186/s12985-024-02467-y

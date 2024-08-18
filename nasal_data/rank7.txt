@@ -65,3 +65,6 @@ High-throughput functional analysis provides novel insight into type VII secreti
 Ten-year statewide cross-sectional review of pediatric sinogenic intracranial abscess and empyema in Queensland, Australia: microbial profile before and after COVID-19.|https://dx.doi.org/10.3171/2024.6.PEDS24201
 Lower Extremity Amputation in Fracture-Related Infection.|https://dx.doi.org/10.1097/BOT.0000000000002853
 Infective Endocarditis Caused by Carbapenemase-Producing Klebsiella pneumoniae on a Prosthetic Valve: A Case Report and Review of the Literature.|https://dx.doi.org/10.7759/cureus.64639
+Cryo-EM reconstruction of oleate hydratase bound to a phospholipid membrane bilayer.|https://dx.doi.org/10.1016/j.jsb.2024.108116
+A case report of iliopsoas abscess and literature review.|https://dx.doi.org/10.1097/MD.0000000000039356
+Trends in infection incidence and antimicrobial resistance in the US Veterans Affairs Healthcare System: a nationwide retrospective cohort study (2007-22).|https://dx.doi.org/10.1016/S1473-3099(24)00416-X
