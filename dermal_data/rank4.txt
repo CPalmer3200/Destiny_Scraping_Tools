@@ -25,3 +25,6 @@ Purpose-built multicomponent supramolecular silver(I)-hydrogels as membrane-targ
 Tribovoltaic Effect Strengthened Microwave Catalytic Antibacterial Composite Hydrogel.|https://dx.doi.org/10.1002/adhm.202402266
 Characterization of gelatin-oxidized riclin cryogels and their applications as reusable ice cubes in shrimp preservation.|https://dx.doi.org/10.1016/j.foodres.2024.114766
 Bioactive substance contents and therapeutic potential for skin inflammation of an herbal gel containing Derris reticulata and Glycyrrhiza glabra.|https://dx.doi.org/10.1080/13880209.2024.2385456
+Photo-crosslinking methacrylated-amylopectin/polyacrylamide hydrogels loading curcumin for applications as degradable, injectable, and antibacterial wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134692
+Double-network polyphenol chitosan hydrogels with instant aldehyde-β-cyclodextrin-based structure as potential for treating bacterially infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134819
+α-Lactalbumin based scaffolds for infected wound healing and tissue regeneration.|https://dx.doi.org/10.1016/j.ijpharm.2024.124578

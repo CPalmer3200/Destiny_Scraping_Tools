@@ -1,2 +1,4 @@
 Comparative Antimicrobial Resistance and Prevalence of Methicillin Resistance in Coagulase-Positive Staphylococci from Conventional and Organic Dairy Farms in South Korea.|https://dx.doi.org/10.3390/antibiotics13070617
 Genomic profiling of methicillin-sensitive Staphylococcus aureus (MSSA) isolates in Kuwait hospitals.|https://dx.doi.org/10.3389/fmicb.2024.1361217
+ESCMID/EUCIC clinical guidelines on preoperative decolonization and targeted prophylaxis in patients colonized by multidrug-resistant Gram-positive bacteria before surgery.|https://dx.doi.org/10.1016/j.cmi.2024.07.012
+Recurrent skin and soft tissue infections (SSTIs) in three family members caused by methicillin-resistant Staphylococcus aureus (MRSA) with Panton-Valentine leukocidin (PVL) exotoxin.|https://dx.doi.org/10.1136/bcr-2024-261423

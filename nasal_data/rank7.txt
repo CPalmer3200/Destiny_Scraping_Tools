@@ -68,3 +68,7 @@ Infective Endocarditis Caused by Carbapenemase-Producing Klebsiella pneumoniae o
 Cryo-EM reconstruction of oleate hydratase bound to a phospholipid membrane bilayer.|https://dx.doi.org/10.1016/j.jsb.2024.108116
 A case report of iliopsoas abscess and literature review.|https://dx.doi.org/10.1097/MD.0000000000039356
 Trends in infection incidence and antimicrobial resistance in the US Veterans Affairs Healthcare System: a nationwide retrospective cohort study (2007-22).|https://dx.doi.org/10.1016/S1473-3099(24)00416-X
+Vaginal colonization with virulent and methicillin resistant Staphylococcus aureus among Ugandan women in Labour.|https://dx.doi.org/10.1186/s12866-024-03460-9
+Distribution of virulence genes in clinical isolates of hospital-associated and community-associated methicillin-susceptible Staphylococcus aureus from Terengganu, Malaysia.|https://dx.doi.org/10.47665/tb.41.2.003
+Rapid visual detection of Helicobacter pylori and vacA subtypes by Dual-Target RAA-LFD assay.|https://dx.doi.org/10.1016/j.cca.2024.119927
+Organizational and Infrastructural Risk Factors for Healthcare-associated Clostridioides difficile Infections or Methicillin-resistant Staphylococcus aureus in Hospitals.|https://dx.doi.org/10.1016/j.ajic.2024.08.013

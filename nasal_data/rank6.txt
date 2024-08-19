@@ -18,3 +18,4 @@ Staphylococcus aureus adapts to exploit collagen-derived proline during chronic 
 A path forward for Staphylococcus aureus vaccine development.|https://dx.doi.org/10.1084/jem.20240002
 Education program for caregivers in congenital central hypoventilation syndrome: Initiation and experience families.|https://dx.doi.org/10.1002/ppul.27217
 Microbiological analysis of tunneled hemodialysis catheters isolated from patients receiving hemodialysis in Saskatchewan.|https://dx.doi.org/10.1080/17460913.2024.2359879
+A rationally designed antigen elicits protective antibodies against multiple nosocomial Gram-positive pathogens.|https://dx.doi.org/10.1038/s41541-024-00940-x
