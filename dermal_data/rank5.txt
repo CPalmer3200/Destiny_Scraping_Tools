@@ -9,3 +9,4 @@ Ultrasonic nanotechnology for the effective management of Staphylococcus aureus 
 M2 macrophage-polarized anti-inflammatory microneedle patch for accelerating biofilm-infected diabetic wound healing via modulating the insulin pathway.|https://dx.doi.org/10.1186/s12951-024-02731-x
 Microenvironment-Responsive Antibacterial, Anti-Inflammatory, and Antioxidant Pickering Emulsion Stabilized by Curcumin-Loaded Tea Polyphenol Particles for Accelerating Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.4c08717
 Essential Oil Components Incorporated Emulsion Hydrogels for Eradicating Dermatophytosis Caused by Pathogenic Fungi Trichophyton mentagrophytes and Microsporum canis.|https://dx.doi.org/10.1002/adhm.202400811
+Induction of biofilm in extended-spectrum beta-lactamase Staphylococcus aureus with drugs commonly used in pharmacotherapy.|https://dx.doi.org/10.1016/j.micpath.2024.106863

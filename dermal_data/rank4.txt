@@ -28,3 +28,5 @@ Bioactive substance contents and therapeutic potential for skin inflammation of�
 Photo-crosslinking methacrylated-amylopectin/polyacrylamide hydrogels loading curcumin for applications as degradable, injectable, and antibacterial wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134692
 Double-network polyphenol chitosan hydrogels with instant aldehyde-β-cyclodextrin-based structure as potential for treating bacterially infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134819
 α-Lactalbumin based scaffolds for infected wound healing and tissue regeneration.|https://dx.doi.org/10.1016/j.ijpharm.2024.124578
+NH(2)-MXene/OXG nanocomposite hydrogel with efficient photothermal antibacterial activity for potentially removing biofilms.|https://dx.doi.org/10.1016/j.heliyon.2024.e34889
+One-Step Physical and Chemical Dual-Reinforcement with Hydrophobic Drug Delivery in Gelatin Hydrogels for Antibacterial Wound Healing.|https://dx.doi.org/10.1021/acsomega.4c01963

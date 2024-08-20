@@ -4,3 +4,5 @@ Integrating multi-wet laboratory diagnostics to study staphylococci in animals i
 Melaleuca alternifolia essential oil in a natural product-based formulation: Antimicrobial and healing effects in Staphylococcus aureus-infected wounds.|https://dx.doi.org/10.1016/j.ejpb.2024.114416
 Comparative safety and efficacy of autogenous vaccine administrated by different routes against furunculosis caused by Aeromonas salmonicida sub. salmonicida in large Rainbow trout (Oncorhynchus mykiss).|https://dx.doi.org/10.1016/j.fsi.2024.109757
 Vaginal colonization with virulent and methicillin resistant Staphylococcus aureus among Ugandan women in Labour.|https://dx.doi.org/10.1186/s12866-024-03460-9
+Mechanistic insights and in vivo efficacy of thiosemicarbazones against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jbc.2024.107689
+Phenotypic and genomic analysis of the hypervirulent methicillin-resistant Staphylococcus aureus ST630 clone in China.|https://dx.doi.org/10.1128/msystems.00664-24
