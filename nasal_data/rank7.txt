@@ -76,3 +76,6 @@ Shoulder girdle muscle abscess: potential routes of spread and surgical manageme
 Induction of biofilm in extended-spectrum beta-lactamase Staphylococcus aureus with drugs commonly used in pharmacotherapy.|https://dx.doi.org/10.1016/j.micpath.2024.106863
 Unraveling the Challenges: A Compelling Case of Staph Meningitis and Graft Infection in a Bovine Brain Graft Recipient.|https://dx.doi.org/10.7759/cureus.64806
 A higher area under the concentration-time curve/minimum inhibitory concentration target as a potential prognostic factor for vancomycin treatment of methicillin-resistant Staphylococcus aureus meningitis: A case report.|https://dx.doi.org/10.1016/j.idcr.2024.e02035
+Bioactivation of Konjac Glucomannan Films by Tannic Acid and Gluconolactone Addition.|https://dx.doi.org/10.1021/acsami.4c09909
+Selenium Bandages and Cotton Cloth That Kill Microorganisms in Wounds.|https://dx.doi.org/10.1093/milmed/usae069
+Staphylococcus spp. as part of the microbiota and as opportunistic pathogen in free-ranging black-tuffed marmosets (Callithrix penicillata) from urban areas: Epidemiology, antimicrobial resistance, and pathology.|https://dx.doi.org/10.1111/jmp.12732

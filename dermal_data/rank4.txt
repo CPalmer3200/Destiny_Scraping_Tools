@@ -30,3 +30,8 @@ Double-network polyphenol chitosan hydrogels with instant aldehyde-β-cyclodextr
 α-Lactalbumin based scaffolds for infected wound healing and tissue regeneration.|https://dx.doi.org/10.1016/j.ijpharm.2024.124578
 NH(2)-MXene/OXG nanocomposite hydrogel with efficient photothermal antibacterial activity for potentially removing biofilms.|https://dx.doi.org/10.1016/j.heliyon.2024.e34889
 One-Step Physical and Chemical Dual-Reinforcement with Hydrophobic Drug Delivery in Gelatin Hydrogels for Antibacterial Wound Healing.|https://dx.doi.org/10.1021/acsomega.4c01963
+Electrospun nanofibrous wound dressings with enhanced efficiency through carbon quantum dots and citrate incorporation.|https://dx.doi.org/10.1038/s41598-024-70295-9
+Preparation of bacterial cellulose/acrylic acid-based pH-responsive smart dressings by graft copolymerization method.|https://dx.doi.org/10.1080/09205063.2024.2389689
+HOCl-producing electrochemical bandage is active in murine polymicrobial wound infection.|https://dx.doi.org/10.1128/spectrum.00626-24
+Selenium Bandages and Cotton Cloth That Kill Microorganisms in Wounds.|https://dx.doi.org/10.1093/milmed/usae069
+PLGA Nanoparticles Formulations Loaded With Antibiotics Induce Sustained and Controlled Antibiotics Release for Prolonged Antibacterial Action Against MRSA, and Pseudomonas aeruginosa FRD1.|https://dx.doi.org/10.1093/milmed/usae079

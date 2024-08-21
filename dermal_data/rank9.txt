@@ -6,3 +6,4 @@ Comparative safety and efficacy of autogenous vaccine administrated by different
 Vaginal colonization with virulent and methicillin resistant Staphylococcus aureus among Ugandan women in Labour.|https://dx.doi.org/10.1186/s12866-024-03460-9
 Mechanistic insights and in vivo efficacy of thiosemicarbazones against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jbc.2024.107689
 Phenotypic and genomic analysis of the hypervirulent methicillin-resistant Staphylococcus aureus ST630 clone in China.|https://dx.doi.org/10.1128/msystems.00664-24
+Staphylococcus spp. as part of the microbiota and as opportunistic pathogen in free-ranging black-tuffed marmosets (Callithrix penicillata) from urban areas: Epidemiology, antimicrobial resistance, and pathology.|https://dx.doi.org/10.1111/jmp.12732

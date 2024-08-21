@@ -1,2 +1,3 @@
 Animal experiments of a new through-the-scope full-thickness endoscopic suturing device.|https://dx.doi.org/10.1136/gutjnl-2024-333298
 XOL-1 regulates developmental timing by modulating the H3K9 landscape in C. elegans early embryos.|https://dx.doi.org/10.1371/journal.pgen.1011238
+Gut community structure as a risk factor for infection in Klebsiella pneumoniae-colonized patients.|https://dx.doi.org/10.1128/msystems.00786-24

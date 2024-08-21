@@ -4,3 +4,5 @@ Photoprotection-related properties of a raw extract from Gordonia hongkongensis 
 Plasmodium sporozoite shows distinct motility patterns in responses to three-dimensional environments.|https://dx.doi.org/10.1016/j.isci.2024.110463
 Unraveling the Potential of Vitamin B(3)-Derived Salts with a Salicylate Anion as Dermal Active Agents for Acne Treatment.|https://dx.doi.org/10.1021/acs.molpharmaceut.4c00543
 Quality by design driven development of lipid nanoparticles for cutaneous targeting: a preliminary approach.|https://dx.doi.org/10.1007/s13346-024-01685-9
+In-vivo and in-vitro toxicity evaluation of 2,3-dimethylquinoxaline: An antimicrobial found in a traditional herbal medicine.|https://dx.doi.org/10.1371/journal.pone.0300079
+Revolutionizing Treatment for Topical Fungal Infections: Evaluating Penetration-Enhancer-containing Vesicles as a Fluconazole Delivery system. Ex-Vivo and In-Vivo Dermal Testing.|https://dx.doi.org/10.1080/10837450.2024.2394573
