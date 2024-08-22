@@ -1,2 +1,4 @@
 Vaccines and monoclonal antibodies to prevent healthcare-associated bacterial infections.|https://dx.doi.org/10.1128/cmr.00160-22
 Development of two recombinant vaccines against Clostridioides difficile infection and immunogenicity in pregnant sows and neonatal piglets.|https://dx.doi.org/10.1016/j.anaerobe.2024.102896
+Comorbidities and confusion: addressing COVID-19 vaccine access and information challenges.|https://dx.doi.org/10.33321/cdi.2024.48.33
+Differential COVID-19 case ascertainment by age and vaccination status in Victoria, Australia: a serosurveillance and record linkage study.|https://dx.doi.org/10.33321/cdi.2024.48.28

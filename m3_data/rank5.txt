@@ -1,2 +1,3 @@
 Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2018-2022.|https://dx.doi.org/10.14745/ccdr.v50i06a02
 Identification of pathways to high-level vancomycin resistance in Clostridioides difficile that incur high fitness costs in key pathogenicity traits.|https://dx.doi.org/10.1371/journal.pbio.3002741
+Australian Group on Antimicrobial Research surveillance outcome programs - bloodstream infections and antimicrobial resistance patterns from patients less than 18 years of age, January 2020 - December 2021.|https://dx.doi.org/10.33321/cdi.2024.48.32

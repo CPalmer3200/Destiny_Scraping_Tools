@@ -35,3 +35,9 @@ Preparation of bacterial cellulose/acrylic acid-based pH-responsive smart dressi
 HOCl-producing electrochemical bandage is active in murine polymicrobial wound infection.|https://dx.doi.org/10.1128/spectrum.00626-24
 Selenium Bandages and Cotton Cloth That Kill Microorganisms in Wounds.|https://dx.doi.org/10.1093/milmed/usae069
 PLGA Nanoparticles Formulations Loaded With Antibiotics Induce Sustained and Controlled Antibiotics Release for Prolonged Antibacterial Action Against MRSA, and Pseudomonas aeruginosa FRD1.|https://dx.doi.org/10.1093/milmed/usae079
+Polydopamine-assisted smart bacteria-responsive hydrogel: Switchable antimicrobial and antifouling capabilities for accelerated wound healing.|https://dx.doi.org/10.1016/j.jare.2024.08.025
+Multifunctional engineering of Mangifera indica L. peel extract-modified bacterial cellulose hydrogel: Unveiling novel strategies for enhanced heavy metal sequestration and cytotoxicity evaluation.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134874
+Effect of the molar mass of chitosan and film casting solvents on the properties of chitosan films loaded with Mentha spicata essential oil for potential application as wound dressing.|https://dx.doi.org/10.1080/09205063.2024.2390752
+Superhydrophobic Dressing for Singlet Oxygen Delivery in Antimicrobial Photodynamic Therapy against Multidrug-Resistant Bacterial Biofilms.|https://dx.doi.org/10.1021/acsabm.4c00733
+Enhancing the porosity of chitosan sponges with CBD by adding antimicrobial violacein.|https://dx.doi.org/10.1016/j.heliyon.2024.e35389
+Investigating topical delivery of erythromycin laden into lipid nanocarrier for enhancing the anti-bacterial activity.|https://dx.doi.org/10.1016/j.jsps.2024.102152

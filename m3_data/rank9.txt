@@ -3,3 +3,4 @@ Graft-versus-host disease in patients with bone marrow transplants: A retrospect
 Unplanned 30-Day Readmissions After Hospitalization for Irritable Bowel Syndrome.|https://dx.doi.org/10.7759/cureus.64519
 Antibiotic use and risk of Clostridioides difficile infection in patients with inflammatory bowel disease.|https://dx.doi.org/10.1111/jgh.16720
 A diagnostic dilemma: cytomegalovirus colitis as an uncommon comorbidity in inflammatory bowel disease: a case report.|https://dx.doi.org/10.1186/s12985-024-02467-y
+Impact of diabetic ketoacidosis on outcomes in hospitalized diabetic patients with Clostridioides difficile infection: a national inpatient analysis.|https://dx.doi.org/10.1080/08998280.2024.2356782
