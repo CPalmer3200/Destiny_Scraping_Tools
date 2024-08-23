@@ -14,3 +14,4 @@ Antimicrobial resistance profile of Staphylococcus aureus isolated from patients
 The Belgian IgE (BEIgE) study: Staphylococcus aureus toxins in adult severe asthma.|https://dx.doi.org/10.1016/j.jaip.2024.08.016
 Two draft genome assemblies of Staphylococcus aureus strains isolated from a cheek swab of a healthy female participant.|https://dx.doi.org/10.1128/mra.00488-24
 Fecal Proteolytic Bacteria and Staphylococcal Superantigens are Associated with Abdominal Pain Severity in Irritable Bowel Syndrome.|https://dx.doi.org/10.14309/ajg.0000000000003042
+Chlorhexidine gluconate versus povidone-iodine for nasal bacteria decolonization before transsphenoidal surgery in patients with pituitary neuroendocrine tumors: A prospective, randomized, double-blind, non-inferiority trial.|https://dx.doi.org/10.1097/JS9.0000000000002052

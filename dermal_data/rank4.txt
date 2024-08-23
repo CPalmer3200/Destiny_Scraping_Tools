@@ -41,3 +41,8 @@ Effect of the molar mass of chitosan and film casting solvents on the properties
 Superhydrophobic Dressing for Singlet Oxygen Delivery in Antimicrobial Photodynamic Therapy against Multidrug-Resistant Bacterial Biofilms.|https://dx.doi.org/10.1021/acsabm.4c00733
 Enhancing the porosity of chitosan sponges with CBD by adding antimicrobial violacein.|https://dx.doi.org/10.1016/j.heliyon.2024.e35389
 Investigating topical delivery of erythromycin laden into lipid nanocarrier for enhancing the anti-bacterial activity.|https://dx.doi.org/10.1016/j.jsps.2024.102152
+Chitosan/rutin multifunctional hydrogel with tunable adhesion, anti-inflammatory and antibacterial properties for skin wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122492
+The influence of the pectin structure on the properties of hydrogel dressings doped with octenidine-containing antiseptic.|https://dx.doi.org/10.1016/j.carbpol.2024.122463
+Tunicate cellulose nanocrystals strengthened injectable stretchable hydrogel as multi-responsive enhanced antibacterial wound dressing for promoting diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122426
+Synthesis and synergistic antibacterial efficiency of chitosan-copper oxide nanocomposites.|https://dx.doi.org/10.1016/j.heliyon.2024.e35588
+[Bacterial Blocking and Repair of Intestinal Defects With Well-Alighed Lamellar MXene/Polyvinyl Alcohol Hydrogels Prepared by Bidirectional Freezing Method].|https://dx.doi.org/10.12182/20240760103

@@ -83,3 +83,8 @@ Polydopamine-assisted smart bacteria-responsive hydrogel: Switchable antimicrobi
 Biofilm formation of Staphylococcus aureus on various implants used for surgical treatment of destructive spondylodiscitis.|https://dx.doi.org/10.1038/s41598-024-70244-6
 A systematic review of diabetic foot infections: pathogenesis, diagnosis, and management strategies.|https://dx.doi.org/10.3389/fcdhc.2024.1393309
 Microbial infection among SARS-COV-2-infected patients in a COVID-19-dedicated tertiary care hospital of Bangladesh: a cross-sectional study.|https://dx.doi.org/10.1099/acmi.0.000727.v3
+Tunicate cellulose nanocrystals strengthened injectable stretchable hydrogel as multi-responsive enhanced antibacterial wound dressing for promoting diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122426
+Population Pharmacokinetics and Pharmacodynamics of Dalbavancin and C-Reactive Protein in Patients with Staphylococcal Osteoarticular Infections.|https://dx.doi.org/10.1007/s40262-024-01410-2
+Bacterial diversity in Buruli ulcer lesions in Ghana.|https://dx.doi.org/10.1016/j.jctube.2024.100468
+In Vitro Studies Support Clinical Trials Showing Platelet-Rich Fibrin-Mediated Local Delivery of Antibiotics Improves Outcomes in Impacted Mandibular Third Molar Surgery.|https://dx.doi.org/10.1080/1061186X.2024.2396355
+Mucus Mimic Hydrogel Coating for Lubricous, Antibiofouling, and Anti-Inflammatory Urinary Catheters.|https://dx.doi.org/10.1021/acsami.4c13051

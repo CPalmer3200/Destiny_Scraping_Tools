@@ -2,3 +2,6 @@
 Molecular characteristics and antimicrobial resistance profiles of Staphylococcus aureus isolates from burns.|https://dx.doi.org/10.1007/s11033-024-09837-3
 Bacteriophage therapy reduces Staphylococcus aureus in a porcine and human ex vivo burn wound infection model.|https://dx.doi.org/10.1128/aac.00650-24
 Bioactivation of Konjac Glucomannan Films by Tannic Acid and Gluconolactone Addition.|https://dx.doi.org/10.1021/acsami.4c09909
+Nanoarchitectonics of in Situ Antibiotic-Releasing Acicular Nanozymes for Targeting and Inducing Cuproptosis-like Death to Eliminate Drug-Resistant Bacteria.|https://dx.doi.org/10.1021/acsnano.4c06565
+Composite antibacterial hydrogels based on two natural products pullulan and ε-poly-l-lysine for burn wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134208
+Black Phosphorus Nanosheets-Based Hydrogel for Efficient Bacterial Inhibition and Accelerating Wound Healing.|https://dx.doi.org/10.1021/acsami.4c06075

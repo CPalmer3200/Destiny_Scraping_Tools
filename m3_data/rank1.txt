@@ -5,3 +5,5 @@ Symbiotic biofilms formed by Clostridioides difficile and bacteroides thetaiotao
 Is advanced age still a risk factor for recurrence of C. difficile infection in the era of new treatments?|https://dx.doi.org/10.1093/ageing/afae182
 Microbiome modification for personalized treatment of dysbiotic diseases.|https://dx.doi.org/10.1016/j.chom.2024.07.023
 Use of frozen native feces for fecal microbiota transplantation in recurrent Clostridioides difficile infection: a simple way to improve the efficiency of donor feces preparation.|https://dx.doi.org/10.1128/aac.00734-24
+Microbiome and Metabolome Restoration After Administration of Fecal Microbiota, Live-jslm (REBYOTA®) for Preventing Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/infdis/jiae418
+Reduction of Antibiotic-Associated Conditions After Tympanostomy Tube Placement in Children.|https://dx.doi.org/10.1002/lary.31717
