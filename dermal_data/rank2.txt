@@ -15,3 +15,5 @@ A potential therapeutic strategy of an innovative probiotic formulation toward t
 Baicalein-modified chitosan nanofiber membranes with antioxidant and antibacterial activities for chronic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134902
 A systematic review of diabetic foot infections: pathogenesis, diagnosis, and management strategies.|https://dx.doi.org/10.3389/fcdhc.2024.1393309
 Evolving Trends in the Management of Diabetic Foot Ulcers: A Narrative Review.|https://dx.doi.org/10.7759/cureus.65095
+Exploration of predictive risk factors for diabetic foot in patients with diabetes in Beijing: analysis of 5-year follow-up data of patients with diabetes mellitus in a single center in Beijing.|https://dx.doi.org/10.3389/fendo.2024.1441997
+Application of Continuous Care Pattern Based on Information-Motivation-Behavioral Skills Model in out-of-Hospital Rehabilitation of Diabetic Foot Ulceration Patients: A Randomized Controlled Trial.|https://dx.doi.org/10.1177/15347346241275243

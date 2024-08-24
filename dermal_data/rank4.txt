@@ -46,3 +46,4 @@ The influence of the pectin structure on the properties of hydrogel dressings do
 Tunicate cellulose nanocrystals strengthened injectable stretchable hydrogel as multi-responsive enhanced antibacterial wound dressing for promoting diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122426
 Synthesis and synergistic antibacterial efficiency of chitosan-copper oxide nanocomposites.|https://dx.doi.org/10.1016/j.heliyon.2024.e35588
 [Bacterial Blocking and Repair of Intestinal Defects With Well-Alighed Lamellar MXene/Polyvinyl Alcohol Hydrogels Prepared by Bidirectional Freezing Method].|https://dx.doi.org/10.12182/20240760103
+Rational design of self-assembling ultrashort peptides for the shape- and size-tunable synthesis of metal nanostructures.|https://dx.doi.org/10.1002/psc.3651

@@ -88,3 +88,4 @@ Population Pharmacokinetics and Pharmacodynamics of Dalbavancin and C-Reactive P
 Bacterial diversity in Buruli ulcer lesions in Ghana.|https://dx.doi.org/10.1016/j.jctube.2024.100468
 In Vitro Studies Support Clinical Trials Showing Platelet-Rich Fibrin-Mediated Local Delivery of Antibiotics Improves Outcomes in Impacted Mandibular Third Molar Surgery.|https://dx.doi.org/10.1080/1061186X.2024.2396355
 Mucus Mimic Hydrogel Coating for Lubricous, Antibiofouling, and Anti-Inflammatory Urinary Catheters.|https://dx.doi.org/10.1021/acsami.4c13051
+Identification of a genetic region linked to tolerance to MRSA infection using Collaborative Cross mice.|https://dx.doi.org/10.1371/journal.pgen.1011378

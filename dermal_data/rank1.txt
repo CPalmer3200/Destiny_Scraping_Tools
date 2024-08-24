@@ -5,3 +5,4 @@ Bioactivation of Konjac Glucomannan Films by Tannic Acid and Gluconolactone Addi
 Nanoarchitectonics of in Situ Antibiotic-Releasing Acicular Nanozymes for Targeting and Inducing Cuproptosis-like Death to Eliminate Drug-Resistant Bacteria.|https://dx.doi.org/10.1021/acsnano.4c06565
 Composite antibacterial hydrogels based on two natural products pullulan and ε-poly-l-lysine for burn wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134208
 Black Phosphorus Nanosheets-Based Hydrogel for Efficient Bacterial Inhibition and Accelerating Wound Healing.|https://dx.doi.org/10.1021/acsami.4c06075
+Nitric Oxide as an Efficient Antimicrobial Treatment for Second-Degree Burn Wounds.|https://dx.doi.org/10.1093/milmed/usae402

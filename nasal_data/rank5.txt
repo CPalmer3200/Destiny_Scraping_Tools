@@ -31,3 +31,6 @@ Learning curve for robot-assisted nipple-sparing mastectomy: A single institutio
 The Combined Bra-Line Back-Lift Latissimus Flap (BLBL-LAT Flap) for Aesthetic Breast Reconstruction and Simultaneous Back Contouring.|https://dx.doi.org/10.1093/asj/sjae184
 The use of incisional negative pressure wound therapy on high-risk breast cancer mastectomy patients.|https://dx.doi.org/10.1016/j.asjsur.2024.07.333
 Marijuana's Impact On Implant-based Breast Reconstruction: A Retrospective Cohort Study.|https://dx.doi.org/10.1097/GOX.0000000000006082
+Factors associated with the length of breastfeeding during the COVID-19 pandemic: a survival study.|https://dx.doi.org/10.1590/1980-220X-REEUSP-2024-0078en
+Breast cancer patients' postoperative outcomes in nipple-sparing mastectomy and reconstruction with subpectoral implant placement: a single center experience.|https://dx.doi.org/10.21037/gs-24-58
+Early Experience with Mesh Suture for DIEP Flap Abdominal Site Closures.|https://dx.doi.org/10.1097/GOX.0000000000006095
