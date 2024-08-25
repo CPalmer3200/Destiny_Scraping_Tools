@@ -6,3 +6,4 @@ Nanoarchitectonics of in Situ Antibiotic-Releasing Acicular Nanozymes for Target
 Composite antibacterial hydrogels based on two natural products pullulan and ε-poly-l-lysine for burn wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134208
 Black Phosphorus Nanosheets-Based Hydrogel for Efficient Bacterial Inhibition and Accelerating Wound Healing.|https://dx.doi.org/10.1021/acsami.4c06075
 Nitric Oxide as an Efficient Antimicrobial Treatment for Second-Degree Burn Wounds.|https://dx.doi.org/10.1093/milmed/usae402
+Bi(2)Se(3)/PAAS Hydrogels with Photothermal and Antioxidant Properties for Bacterial Infection Wound Therapy by Improving Vascular Function and Regulating Glycolipid Metabolism.|https://dx.doi.org/10.1002/adhm.202401810

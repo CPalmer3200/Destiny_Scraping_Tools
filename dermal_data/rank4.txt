@@ -47,3 +47,6 @@ Tunicate cellulose nanocrystals strengthened injectable stretchable hydrogel as 
 Synthesis and synergistic antibacterial efficiency of chitosan-copper oxide nanocomposites.|https://dx.doi.org/10.1016/j.heliyon.2024.e35588
 [Bacterial Blocking and Repair of Intestinal Defects With Well-Alighed Lamellar MXene/Polyvinyl Alcohol Hydrogels Prepared by Bidirectional Freezing Method].|https://dx.doi.org/10.12182/20240760103
 Rational design of self-assembling ultrashort peptides for the shape- and size-tunable synthesis of metal nanostructures.|https://dx.doi.org/10.1002/psc.3651
+Self-adhesive poly-l-lysine/tannic acid hybrid hydrogel for synergistic antibacterial activity against biofilms.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134961
+Rhamnus prinoides leaf extract loaded polycaprolactone-cellulose acetate nanofibrous scaffold as potential wound dressing: An in vitro study.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134934
+Biocide physically cross-linked hydrogels based on carrageenan and guanidinium polyampholytes for wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134948

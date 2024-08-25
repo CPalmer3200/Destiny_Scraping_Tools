@@ -9,3 +9,6 @@ Microbiome and Metabolome Restoration After Administration of Fecal Microbiota, 
 Reduction of Antibiotic-Associated Conditions After Tympanostomy Tube Placement in Children.|https://dx.doi.org/10.1002/lary.31717
 The end of toxoid vaccine development for preventing Clostridioides difficile infections?|https://dx.doi.org/10.1093/cid/ciae412
 From Hemorrhage to Diarrhea: The Comprehensive Clinical Journey of a Patient With Pseudomembranous Colitis.|https://dx.doi.org/10.7759/cureus.65176
+PUNCH CD3-OLS: a phase 3 prospective observational cohort study to evaluate the safety and efficacy of fecal microbiota, live-jslm (REBYOTA) in adults with recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/cid/ciae437
+CLOVER: A Phase 3 Randomized Trial Investigating the Efficacy and Safety of a Detoxified Toxin A/B Vaccine in Adults 50 Years and Older at Increased Risk of Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciae410
+Targeting the Microbiome to Improve Human Health with the Approach of Personalized Medicine: Latest Aspects and Current Updates.|https://dx.doi.org/10.1016/j.clnesp.2024.08.005
