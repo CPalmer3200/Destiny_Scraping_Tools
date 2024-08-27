@@ -12,3 +12,4 @@ Essential Oil Components Incorporated Emulsion Hydrogels for Eradicating Dermato
 Induction of biofilm in extended-spectrum beta-lactamase Staphylococcus aureus with drugs commonly used in pharmacotherapy.|https://dx.doi.org/10.1016/j.micpath.2024.106863
 Pathogenomic profile and clonal diversity of potential zoonotic MRSA-CC7-ST789-t091-SCCmecV from human skin and soft tissue infections.|https://dx.doi.org/10.1038/s41598-024-67388-w
 Nitrogen Vacancy Modulation of Tungsten Nitride Peroxidase-Mimetic Activity for Bacterial Infection Therapy.|https://dx.doi.org/10.1021/acsnano.4c07856
+Light-activated nanoclusters with tunable ROS for wound infection treatment.|https://dx.doi.org/10.1016/j.bioactmat.2024.07.009
