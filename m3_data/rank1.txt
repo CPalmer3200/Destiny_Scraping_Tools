@@ -13,3 +13,5 @@ PUNCH CD3-OLS: a phase 3 prospective observational cohort study to evaluate the 
 CLOVER: A Phase 3 Randomized Trial Investigating the Efficacy and Safety of a Detoxified Toxin A/B Vaccine in Adults 50 Years and Older at Increased Risk of Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciae410
 Targeting the Microbiome to Improve Human Health with the Approach of Personalized Medicine: Latest Aspects and Current Updates.|https://dx.doi.org/10.1016/j.clnesp.2024.08.005
 Fecal Microbiota, Live-jslm (RBL; REBYOTA®) for Prevention of Recurrent Clostridioides difficile Infection: What Gastroenterology Nurses Need to Know.|https://dx.doi.org/10.1097/SGA.0000000000000847
+Gut microbiome and plasma lipidome analysis reveals a specific impact of Clostridioides difficile infection on intestinal bacterial communities and sterol metabolism.|https://dx.doi.org/10.1128/mbio.01347-24
+Role of glycogen metabolism in Clostridioides difficile virulence.|https://dx.doi.org/10.1128/msphere.00310-24

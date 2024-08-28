@@ -20,3 +20,5 @@ Application of Continuous Care Pattern Based on Information-Motivation-Behaviora
 The Impact of Hearing Impairment on Patient Care and Autonomy.|https://dx.doi.org/10.7759/cureus.65464
 A Case of Recurrent Diabetic Foot Ulcers With Multi-drug Resistant Poly-Microbial Infections.|https://dx.doi.org/10.7759/cureus.65432
 Antibiotic Eluting Bone Void Filler Versus Systemic Antibiotics For Pedal Osteomyelitis.|https://dx.doi.org/10.1053/j.jfas.2024.08.010
+Bilayer hydrogel with a protective film and a regenerative hydrogel for effective diabetic wound treatment.|https://dx.doi.org/10.1039/d4bm00547c
+A Case Report: The Effects of Photobiomodulation Therapy and Amniotic Fluid Gel on a Severe Diabetic Foot Ulcer.|https://dx.doi.org/10.34172/jlms.2024.25

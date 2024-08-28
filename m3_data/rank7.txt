@@ -2,3 +2,4 @@ Animal experiments of a new through-the-scope full-thickness endoscopic suturing
 XOL-1 regulates developmental timing by modulating the H3K9 landscape in C. elegans early embryos.|https://dx.doi.org/10.1371/journal.pgen.1011238
 Gut community structure as a risk factor for infection in Klebsiella pneumoniae-colonized patients.|https://dx.doi.org/10.1128/msystems.00786-24
 Clinical Features and Outcomes of Pediatric and Adult Patients Hospitalized for Coronavirus Disease 2019: A Comparison Across Age Strata.|https://dx.doi.org/10.1093/ofid/ofae443
+Alterations in one‑carbon metabolism and protein synthesis signals due to methionine supplementation and lipopolysaccharide challenge in Holstein fetal liver explants.|https://dx.doi.org/10.1016/j.rvsc.2024.105386

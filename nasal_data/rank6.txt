@@ -1,2 +1,3 @@
 Conserved moonlighting protein pyruvate dehydrogenase induces robust protection against Staphylococcus aureus infection.|https://dx.doi.org/10.1073/pnas.2321939121
 Immunoinformatic approach for multi-epitope vaccine design against Staphylococcus aureus based on hemolysin proteins.|https://dx.doi.org/10.1016/j.jmgm.2024.108848
+Forssman and the staphylococcal hemolysins.|https://dx.doi.org/10.1111/apm.13459

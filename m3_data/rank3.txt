@@ -3,3 +3,4 @@ ESCMID/EUCIC clinical guidelines on preoperative decolonization and targeted pro
 Outbreak investigation of norovirus gastroenteritis in a childcare facility in Central Queensland, Australia: a household level case series analysis.|https://dx.doi.org/10.33321/cdi.2024.48.46
 Respiratory diphtheria in the time of Omicron.|https://dx.doi.org/10.33321/cdi.2024.48.41
 [Guidelines for diagnosis,treatment and prevention of clostridium difficile infection in China(2024)].|https://dx.doi.org/10.3760/cma.j.cn112139-20240528-00259
+[From difficult-to-treat asthma to severe asthma: Step 5].|https://dx.doi.org/10.1016/j.rmr.2024.07.006

@@ -51,3 +51,4 @@ Self-adhesive poly-l-lysine/tannic acid hybrid hydrogel for synergistic antibact
 Rhamnus prinoides leaf extract loaded polycaprolactone-cellulose acetate nanofibrous scaffold as potential wound dressing: An in vitro study.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134934
 Biocide physically cross-linked hydrogels based on carrageenan and guanidinium polyampholytes for wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134948
 Bioassay-guided fractionation of Verbascum thapsus extract and its combination with polyvinyl alcohol in the form electrospun nanofibrous membrane for efficient wound dressing application.|https://dx.doi.org/10.1016/j.heliyon.2024.e32717
+Photothermal-enhanced in situ supramolecular hydrogel promotes bacteria-infected wound healing in diabetes.|https://dx.doi.org/10.1002/SMMD.20230047
