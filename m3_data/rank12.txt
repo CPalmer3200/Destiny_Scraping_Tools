@@ -2,3 +2,4 @@ Importance of underlying mechanisms for interpreting relative risk of Clostridio
 The global burden and trend of Clostridioides difficile and its association with world antibiotic consumption, 1990-2019.|https://dx.doi.org/10.7189/jogh.14.04135
 Prediction of 28-day all-cause mortality in heart failure patients with Clostridioides difficile infection using machine learning models: evidence from the MIMIC-IV database.|https://dx.doi.org/10.1159/000540994
 Organizational and Infrastructural Risk Factors for Healthcare-associated Clostridioides difficile Infections or Methicillin-resistant Staphylococcus aureus in Hospitals.|https://dx.doi.org/10.1016/j.ajic.2024.08.013
+The Incidence of Clostridioides difficile Infection in the Post-COVID-19 Era in a Hospital in Northern Greece.|https://dx.doi.org/10.3390/diseases12080190

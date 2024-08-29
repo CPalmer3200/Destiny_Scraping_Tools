@@ -14,3 +14,4 @@ Pathogenomic profile and clonal diversity of potential zoonotic MRSA-CC7-ST789-t
 Nitrogen Vacancy Modulation of Tungsten Nitride Peroxidase-Mimetic Activity for Bacterial Infection Therapy.|https://dx.doi.org/10.1021/acsnano.4c07856
 Light-activated nanoclusters with tunable ROS for wound infection treatment.|https://dx.doi.org/10.1016/j.bioactmat.2024.07.009
 In vitro antimicrobial and antibiofilm activity of phage cocktail against Mammaliicoccus sciuri, a causative agent of bovine mastitis.|https://dx.doi.org/10.1017/S0022029924000384
+Nanomaterial-based therapeutics for enhanced antifungal therapy.|https://dx.doi.org/10.1039/d4tb01484g

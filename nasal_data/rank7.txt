@@ -14,3 +14,6 @@ A group B streptococcal type VII-secreted LXG toxin mediates interbacterial comp
 Effective Management of Methicillin-Resistant Shoulder Septic Arthritis Using Continuous Local Antibiotic Perfusion: A Case Study and Long-Term Follow-Up.|https://dx.doi.org/10.12659/AJCR.944491
 Vacuum Sealing Drainage against Surgical Site Infection after Intracranial Neurosurgery.|https://dx.doi.org/10.1089/sur.2024.032
 Microbial Diversity of Periprosthetic Joint Infections in Diabetic and Non-Diabetic Patients Following Hip Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2024.08.030
+Infective endocarditis outcomes at a tertiary hospital in Western Australia: a retrospective cohort study from 2016 to 2021.|https://dx.doi.org/10.1111/imj.16508
+Prevalence and impact of multidrug-resistant bacteria in solid cancer patients with bloodstream infection: a 25-year trend analysis.|https://dx.doi.org/10.1128/spectrum.02961-23
+Rate of nosocomial MRSA transmission evaluated via contact screening.|https://dx.doi.org/10.1186/s13756-024-01448-8

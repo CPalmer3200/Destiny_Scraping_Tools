@@ -22,3 +22,6 @@ A Case of Recurrent Diabetic Foot Ulcers With Multi-drug Resistant Poly-Microbia
 Antibiotic Eluting Bone Void Filler Versus Systemic Antibiotics For Pedal Osteomyelitis.|https://dx.doi.org/10.1053/j.jfas.2024.08.010
 Bilayer hydrogel with a protective film and a regenerative hydrogel for effective diabetic wound treatment.|https://dx.doi.org/10.1039/d4bm00547c
 A Case Report: The Effects of Photobiomodulation Therapy and Amniotic Fluid Gel on a Severe Diabetic Foot Ulcer.|https://dx.doi.org/10.34172/jlms.2024.25
+Magnetic Resonance Imaging and 99Tc WBC-SPECT/CT Scanning in Differential Diagnosis between Osteomyelitis and Charcot Neuroarthropathy: A Case Series.|https://dx.doi.org/10.3390/tomography10080098
+Diabetic Foot and Fungal Infections: Etiology and Management from a Dermatologic Perspective.|https://dx.doi.org/10.3390/jof10080577
+Non-surgical interventions for preventing contralateral tissue loss and amputation in dysvascular patients with a primary major lower limb amputation.|https://dx.doi.org/10.1002/14651858.CD013857.pub2
