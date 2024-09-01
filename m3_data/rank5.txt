@@ -2,3 +2,5 @@ Healthcare-associated infections and antimicrobial resistance in Canadian acute 
 Identification of pathways to high-level vancomycin resistance in Clostridioides difficile that incur high fitness costs in key pathogenicity traits.|https://dx.doi.org/10.1371/journal.pbio.3002741
 Australian Group on Antimicrobial Research surveillance outcome programs - bloodstream infections and antimicrobial resistance patterns from patients less than 18 years of age, January 2020 - December 2021.|https://dx.doi.org/10.33321/cdi.2024.48.32
 Best Practices in the Management of Clostridioides difficile Infection in Developing Nations.|https://dx.doi.org/10.3390/tropicalmed9080185
+Protective Effects of Huo Xiang Zheng Qi Liquid on Clostridioides difficile Infection on C57BL/6 Mice.|https://dx.doi.org/10.3390/microorganisms12081602
+A New Convenient Method to Assess Antibiotic Resistance and Antimicrobial Efficacy against Pathogenic Clostridioides difficile Biofilms.|https://dx.doi.org/10.3390/antibiotics13080728

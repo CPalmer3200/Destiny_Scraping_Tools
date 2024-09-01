@@ -1,3 +1,6 @@
 Conserved moonlighting protein pyruvate dehydrogenase induces robust protection against Staphylococcus aureus infection.|https://dx.doi.org/10.1073/pnas.2321939121
 Immunoinformatic approach for multi-epitope vaccine design against Staphylococcus aureus based on hemolysin proteins.|https://dx.doi.org/10.1016/j.jmgm.2024.108848
 Forssman and the staphylococcal hemolysins.|https://dx.doi.org/10.1111/apm.13459
+Reduction of peritoneal dialysis associated infections using a novel exit-site care practice.|https://dx.doi.org/10.1177/08968608241270296
+Antimicrobial Susceptibility and Genomic Profiles of Multidrug-Resistant Staphylococcus aureus from Nasopharynx of Asymptomatic Children in Dhaka, Bangladesh.|https://dx.doi.org/10.3390/life14080971
+Correction: Narongpun et al. Whole-Genome Investigation of Zoonotic Transmission of Livestock-Associated Methicillin-Resistant Staphylococcus aureus Clonal Complex 398 Isolated from Pigs and Humans in Thailand. Antibiotics 2023, 12, 1745.|https://dx.doi.org/10.3390/antibiotics13080681

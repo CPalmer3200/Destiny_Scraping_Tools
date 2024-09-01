@@ -6,3 +6,5 @@ A diagnostic dilemma: cytomegalovirus colitis as an uncommon comorbidity in infl
 Impact of diabetic ketoacidosis on outcomes in hospitalized diabetic patients with Clostridioides difficile infection: a national inpatient analysis.|https://dx.doi.org/10.1080/08998280.2024.2356782
 A high-temperature-triggered crosslinking reaction to achieve excellent intrinsic flame retardancy of organic phase change composites.|https://dx.doi.org/10.1039/d4mh00831f
 Deep learning-based prediction of Clostridioides difficile infection caused by antibiotics using longitudinal electronic health records.|https://dx.doi.org/10.1038/s41746-024-01215-4
+Mortality Attributable to Clostridioides difficile Infection: The Rising Burden of Disease in European Countries.|https://dx.doi.org/10.3390/medicina60081222
+Prevalence of Enteric Pathogens and Antibiotic Resistance: Results of a Six-Year Active Surveillance Study on Patients Admitted to a Teaching Hospital.|https://dx.doi.org/10.3390/antibiotics13080726

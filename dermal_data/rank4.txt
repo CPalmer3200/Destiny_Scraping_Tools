@@ -54,3 +54,17 @@ Bioassay-guided fractionation of Verbascum thapsus extract and its combination w
 Photothermal-enhanced in situ supramolecular hydrogel promotes bacteria-infected wound healing in diabetes.|https://dx.doi.org/10.1002/SMMD.20230047
 Particulate 3D Hydrogels of Silk Fibroin-Pluronic to Deliver Curcumin for Infection-Free Wound Healing.|https://dx.doi.org/10.3390/biomimetics9080483
 Hyaluronic Acid/Gelatin-Based Multifunctional Bioadhesive Hydrogel Loaded with a Broad-Spectrum Bacteriocin for Enhancing Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsami.4c09309
+Antibacterial and antioxidative hydrogel dressings based on tannic acid-gelatin/oxidized sodium alginate loaded with zinc oxide nanoparticles for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135177
+A chitosan-based hydrogel with ultrasound-driven immuno-sonodynamic therapeutic effect for accelerated bacterial infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135180
+Enhanced wound healing properties of biodegradable PCL/alginate core-shell nanofibers containing Salvia abrotanoides essential oil and ZnO nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135152
+A 3D bioprinted antibacterial hydrogel dressing of gelatin/sodium alginate loaded with ciprofloxacin hydrochloride.|https://dx.doi.org/10.1002/biot.202400209
+Combination of bacteriophages and vancomycin in a co-delivery hydrogel for localized treatment of fracture-related infections.|https://dx.doi.org/10.1038/s41522-024-00552-2
+Chitosan-carrageenan microbeads containing nano-encapsulated curcumin: Nano-in-micro hydrogels as alternative-therapeutics for resistant pathogens associated with chronic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2024.134841
+Development of dual-crosslinked Pluronic F127/Chitosan injectable hydrogels incorporating graphene nanosystems for breast cancer photothermal therapy and antibacterial applications.|https://dx.doi.org/10.1016/j.ejpb.2024.114476
+Bioinspired multifunctional cellulose film: In situ bacterial capturing and killing for managing infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2024.06.031
+BrSPR-20-P1 peptide isolated from Brevibacillus sp. developed into liposomal hydrogel as a potential topical antimicrobial agent.|https://dx.doi.org/10.1039/d4ra03722g
+Oral Administration of Berberine Hydrochloride Based on Chitosan/Carboxymethyl-β-Cyclodextrin Hydrogel.|https://dx.doi.org/10.3390/polym16162368
+Biopolymeric Insulin Membranes for Antimicrobial, Antioxidant, and Wound Healing Applications.|https://dx.doi.org/10.3390/pharmaceutics16081012
+Antibacterial and Antibiofilm Properties of Native Australian Plant Endophytes against Wound-Infecting Bacteria.|https://dx.doi.org/10.3390/microorganisms12081710
+The Potential of Fish Oil Components and Manuka Honey in Tackling Chronic Wound Treatment.|https://dx.doi.org/10.3390/microorganisms12081593
+Antimicrobial Properties and Cytotoxicity of LL-37-Derived Synthetic Peptides to Treat Orthopedic Infections.|https://dx.doi.org/10.3390/antibiotics13080764

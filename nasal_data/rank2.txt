@@ -1,2 +1,8 @@
 Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in spring 2020: a prospective cohort study.|https://dx.doi.org/10.1016/S2666-5247(24)00113-7
 Epidemiology and antibiotic resistance of staphylococci on commercial pig farms in Cape Town, South Africa.|https://dx.doi.org/10.1038/s41598-024-70183-2
+Neisseria meningitidis: The Unforeseen Agent of Acute Neonatal Conjunctivitis.|https://dx.doi.org/10.7759/cureus.65681
+Prevalence and Clinical Impact of Viral and Bacterial Coinfections in Hospitalized Children and Adolescents Aged under 18 Years with COVID-19 during the Omicron Wave in Russia.|https://dx.doi.org/10.3390/v16081180
+Pathogenesis, Diagnosis, and Treatment of Infectious Rhinosinusitis.|https://dx.doi.org/10.3390/microorganisms12081690
+Multidrug-Resistant Staphylococcus aureus Colonizing Pigs and Farm Workers in Rio de Janeiro State, Brazil: Potential Interspecies Transmission of Livestock-Associated MRSA (LA-MRSA) ST398.|https://dx.doi.org/10.3390/antibiotics13080767
+Genetic Characterization of Antibiotic-Resistant Staphylococcus spp. and Mammaliicoccus sciuri from Healthy Humans and Poultry in Nigeria.|https://dx.doi.org/10.3390/antibiotics13080733
+Prevalence of Selected Immune Evasion Genes and Clonal Diversity in Methicillin-Susceptible Staphylococcus aureus Isolated from Nasal Carriers and Outpatients with Cut Wound Infections.|https://dx.doi.org/10.3390/antibiotics13080730

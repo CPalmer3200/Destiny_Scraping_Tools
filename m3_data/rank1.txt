@@ -15,3 +15,7 @@ Targeting the Microbiome to Improve Human Health with the Approach of Personaliz
 Fecal Microbiota, Live-jslm (RBL; REBYOTA®) for Prevention of Recurrent Clostridioides difficile Infection: What Gastroenterology Nurses Need to Know.|https://dx.doi.org/10.1097/SGA.0000000000000847
 Gut microbiome and plasma lipidome analysis reveals a specific impact of Clostridioides difficile infection on intestinal bacterial communities and sterol metabolism.|https://dx.doi.org/10.1128/mbio.01347-24
 Role of glycogen metabolism in Clostridioides difficile virulence.|https://dx.doi.org/10.1128/msphere.00310-24
+How to develop a Controlled Human Infection Model for Clostridioides difficile.|https://dx.doi.org/10.1016/j.cmi.2024.08.025
+Correction to: Integrated Safety and Efficacy Analyses of Phase 3 Trials of a Microbiome Therapeutic for Recurrent CDI.|https://dx.doi.org/10.1007/s40121-024-01036-8
+Validation of Lyophilized Human Fecal Microbiota for the Treatment of Clostridioides difficile Infection: A Pilot Study with Pharmacoeconomic Analysis of a Middle-Income Country-Promicrobioma Project.|https://dx.doi.org/10.3390/microorganisms12081741
+Retrospective, Propensity Score Matched Study Examining Relationship between Frailty and Clostridioides difficile Infection in a National Cohort of United States Veterans.|https://dx.doi.org/10.1016/j.ajic.2024.08.020

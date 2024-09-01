@@ -25,3 +25,4 @@ A Case Report: The Effects of Photobiomodulation Therapy and Amniotic Fluid Gel 
 Magnetic Resonance Imaging and 99Tc WBC-SPECT/CT Scanning in Differential Diagnosis between Osteomyelitis and Charcot Neuroarthropathy: A Case Series.|https://dx.doi.org/10.3390/tomography10080098
 Diabetic Foot and Fungal Infections: Etiology and Management from a Dermatologic Perspective.|https://dx.doi.org/10.3390/jof10080577
 Non-surgical interventions for preventing contralateral tissue loss and amputation in dysvascular patients with a primary major lower limb amputation.|https://dx.doi.org/10.1002/14651858.CD013857.pub2
+Classification of Diabetic Foot Ulcers from Images Using Machine Learning Approach.|https://dx.doi.org/10.3390/diagnostics14161807

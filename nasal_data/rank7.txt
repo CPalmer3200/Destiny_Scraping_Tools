@@ -17,3 +17,17 @@ Microbial Diversity of Periprosthetic Joint Infections in Diabetic and Non-Diabe
 Infective endocarditis outcomes at a tertiary hospital in Western Australia: a retrospective cohort study from 2016 to 2021.|https://dx.doi.org/10.1111/imj.16508
 Prevalence and impact of multidrug-resistant bacteria in solid cancer patients with bloodstream infection: a 25-year trend analysis.|https://dx.doi.org/10.1128/spectrum.02961-23
 Rate of nosocomial MRSA transmission evaluated via contact screening.|https://dx.doi.org/10.1186/s13756-024-01448-8
+A Foundation Model Identifies Broad-Spectrum Antimicrobial Peptides against Drug-Resistant Bacterial Infection.|https://dx.doi.org/10.1038/s41467-024-51933-2
+Antibacterial and antioxidative hydrogel dressings based on tannic acid-gelatin/oxidized sodium alginate loaded with zinc oxide nanoparticles for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135177
+The circulation of methicillin-resistant Staphylococcus aureus between humans, horses and the environment at the equine clinic.|https://dx.doi.org/10.1093/jac/dkae303
+Oxacillin-resistant Staphylococcus spp.: Impacts on fatality in a NICU in Brazil - confronting the perfect storm.|https://dx.doi.org/10.1016/j.biopha.2024.117373
+Tissue resident cells differentiate S. aureus from S. epidermidis via IL-1β following barrier disruption in healthy human skin.|https://dx.doi.org/10.1371/journal.ppat.1012056
+Methicillin-resistant Staphylococcus aureus outbreak in a Dutch equine referral clinic.|https://dx.doi.org/10.1099/jmm.0.001873
+Enhanced Antibacterial Efficacy of Bioceramic Implants Functionalized with Ciprofloxacin: An In Silico and In Vitro Study.|https://dx.doi.org/10.3390/pharmaceutics16080998
+Prevalence of Staphylococcus aureus Infections in the Implantation of Orthopedic Devices in a Third-Level Hospital: An Observational Cohort Study.|https://dx.doi.org/10.3390/pathogens13080620
+Clinical Characterization of Pathogens, Risk Factors and Quality of Life in an Observational Study of Native vs. Prosthetic Aortic Valve Endocarditis Surgery.|https://dx.doi.org/10.3390/life14081029
+Degree of Contamination of Gutta-Percha Points by Staphylococcus aureus (MRSA/MSSA) Strains.|https://dx.doi.org/10.3390/ijms25168566
+Open Surgical Conversion of Popliteal Endograft Infection: Case Reports and Literature Review.|https://dx.doi.org/10.3390/biomedicines12081855
+Antimicrobial Properties and Cytotoxicity of LL-37-Derived Synthetic Peptides to Treat Orthopedic Infections.|https://dx.doi.org/10.3390/antibiotics13080764
+Novel insights into vancomycin-loaded calcium sulfate and negative pressure wound therapy in preventing infections in open fractures.|https://dx.doi.org/10.1186/s13018-024-04931-5
+Systematic Review and Meta-analysis on Antimicrobial Resistance and Drug Resistance in Saudi Arabia.|https://dx.doi.org/10.1016/j.jgar.2024.07.013

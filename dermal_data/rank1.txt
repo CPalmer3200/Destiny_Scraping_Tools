@@ -8,3 +8,5 @@ Black Phosphorus Nanosheets-Based Hydrogel for Efficient Bacterial Inhibition an
 Nitric Oxide as an Efficient Antimicrobial Treatment for Second-Degree Burn Wounds.|https://dx.doi.org/10.1093/milmed/usae402
 Bi(2)Se(3)/PAAS Hydrogels with Photothermal and Antioxidant Properties for Bacterial Infection Wound Therapy by Improving Vascular Function and Regulating Glycolipid Metabolism.|https://dx.doi.org/10.1002/adhm.202401810
 Multifunctional silver nanoparticle embedded eri silk cocoon scaffolds against burn wounds-associated infection.|https://dx.doi.org/10.1039/d4ra05029k
+Farnesol Emulsion as an Effective Broad-Spectrum Agent against ESKAPE Biofilms.|https://dx.doi.org/10.3390/antibiotics13080778
+Coaxial electrospun nanofiber accelerates infected wound healing via engineered probiotic biofilm.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135100
