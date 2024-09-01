@@ -1,6 +1,0 @@
-Correction to: Methicillin-resistant Staphylococcus aureus and coagulase-negative Staphylococcus produce antimicrobial substances against members of the skin microbiota in children with atopic dermatitis.|https://dx.doi.org/10.1093/femsec/fiae107
-The Clinical, Mechanistic, and Social Impacts of Air Pollution on Atopic Dermatitis.|https://dx.doi.org/10.1016/j.jaci.2024.07.027
-Genomic and functional divergence of Staphylococcus aureus strains from atopic dermatitis patients and healthy individuals: insights from global and local scales.|https://dx.doi.org/10.1128/spectrum.00571-24
-A Typical Case of Atypical Disease: "Three Noes" Infective Endocarditis.|https://dx.doi.org/10.7759/cureus.65325
-Antibacterial and Immunosuppressive Effects of a Novel Marine Brown Alga-Derived Ester in Atopic Dermatitis.|https://dx.doi.org/10.3390/md22080354
-Two-sample Mendelian randomization analysis identifies a causal association between atopic dermatitis and impetigo.|https://dx.doi.org/10.1111/ijd.17314
