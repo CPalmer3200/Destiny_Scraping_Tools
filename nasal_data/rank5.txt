@@ -3,3 +3,4 @@ Monitored Anesthesia Care (MAC) as an Alternative to General Anesthesia (GA): Pr
 Endoscopic resection of benign breast tumors via a single axillary incision using the insufflation method: a preliminary summary report.|https://dx.doi.org/10.1007/s13304-024-01972-7
 Clinical features and outcomes in kidney transplant recipients with COVID-19 pneumonia: a single center retrospective cohort study.|https://dx.doi.org/10.3389/fcimb.2024.1392491
 The Impact of Tamoxifen Usage in Breast Cancer Patients on the Development of Histopathological Lesions in the Cervix Uteri.|https://dx.doi.org/10.3390/medicina60081268
+Early post-operative outcome of pre-pectoral implant-based immediate total breast reconstruction with Polyglactin 910 (Vicryl™) mesh - low cost solution for a low-middle income country.|https://dx.doi.org/10.1186/s12893-024-02540-x
