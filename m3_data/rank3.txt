@@ -5,3 +5,4 @@ Respiratory diphtheria in the time of Omicron.|https://dx.doi.org/10.33321/cdi.2
 [Guidelines for diagnosis,treatment and prevention of clostridium difficile infection in China(2024)].|https://dx.doi.org/10.3760/cma.j.cn112139-20240528-00259
 [From difficult-to-treat asthma to severe asthma: Step 5].|https://dx.doi.org/10.1016/j.rmr.2024.07.006
 Impact of Helicobacter pylori Eradication on Inflammatory Bowel Disease Onset and Disease Activity: To Eradicate or Not to Eradicate?|https://dx.doi.org/10.3390/diseases12080179
+Preferences for a Clostridioides difficile vaccine among adults in the United States.|https://dx.doi.org/10.1016/j.vaccine.2024.126261

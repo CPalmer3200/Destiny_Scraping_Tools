@@ -6,3 +6,4 @@ Pathogenesis, Diagnosis, and Treatment of Infectious Rhinosinusitis.|https://dx.
 Multidrug-Resistant Staphylococcus aureus Colonizing Pigs and Farm Workers in Rio de Janeiro State, Brazil: Potential Interspecies Transmission of Livestock-Associated MRSA (LA-MRSA) ST398.|https://dx.doi.org/10.3390/antibiotics13080767
 Genetic Characterization of Antibiotic-Resistant Staphylococcus spp. and Mammaliicoccus sciuri from Healthy Humans and Poultry in Nigeria.|https://dx.doi.org/10.3390/antibiotics13080733
 Prevalence of Selected Immune Evasion Genes and Clonal Diversity in Methicillin-Susceptible Staphylococcus aureus Isolated from Nasal Carriers and Outpatients with Cut Wound Infections.|https://dx.doi.org/10.3390/antibiotics13080730
+Combining Network Pharmacology and Transcriptomics to Investigate the Mechanisms of Yujiang Paidu Decoction in the Treatment of Chronic Rhinosinusitis with Nasal Polyps.|https://dx.doi.org/10.2147/DDDT.S461769

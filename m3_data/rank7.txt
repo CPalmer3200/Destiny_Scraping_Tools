@@ -4,3 +4,5 @@ Gut community structure as a risk factor for infection in Klebsiella pneumoniae-
 Clinical Features and Outcomes of Pediatric and Adult Patients Hospitalized for Coronavirus Disease 2019: A Comparison Across Age Strata.|https://dx.doi.org/10.1093/ofid/ofae443
 Alterations in one‑carbon metabolism and protein synthesis signals due to methionine supplementation and lipopolysaccharide challenge in Holstein fetal liver explants.|https://dx.doi.org/10.1016/j.rvsc.2024.105386
 Association Between Falls and Social Frailty in Community-Dwelling Older Japanese Adults.|https://dx.doi.org/10.1093/geronb/gbae127
+Substitutional/positional disorder of biguanide and guanylurea in the structure of a decavanadate complex [(Bg)(HV(10)O(28)(5-))](0.4)[(HGU(+))(V(10)O(28)(6-))](0.6)(H(2)Met(2+))(2)(H(3)O(+))·8H(2)O.|https://dx.doi.org/10.1107/S2052520624006929
+Rumen-protected methionine supplementation improves lactation performance and alleviates inflammation during a subclinical mastitis challenge in lactating dairy cows.|https://dx.doi.org/10.3168/jds.2024-25028
