@@ -34,3 +34,5 @@ Systematic Review and Meta-analysis on Antimicrobial Resistance and Drug Resista
 Assessment of patients' baseline cystic fibrosis knowledge levels following translation and adaptation of the CF R.I.S.E translation program into Turkish.|https://dx.doi.org/10.1002/ppul.27235
 Positive-Charge-Based Small Molecule Dyes for Gut Microbiota Fluorescent Imaging.|https://dx.doi.org/10.1021/acsomega.4c03727
 Antimicrobial Tolerance in Cross-Kingdom Dual-Species Biofilms Formed by Fungi and Bacteria.|https://dx.doi.org/10.3314/mmj.24.004
+Evaluation of the long-term protection conferred by an organosilicon-based disinfectant formulation against bacterial contamination of surfaces.|https://dx.doi.org/10.1093/jambio/lxae210
+Detection of Staphylococcal Enterotoxins A and E and Methicillin Resistance in Staphylococcus aureus Strains From Moroccan Broiler Chicken Meat.|https://dx.doi.org/10.1155/2024/2790180

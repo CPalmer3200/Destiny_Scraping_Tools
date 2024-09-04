@@ -4,3 +4,5 @@ Forssman and the staphylococcal hemolysins.|https://dx.doi.org/10.1111/apm.13459
 Reduction of peritoneal dialysis associated infections using a novel exit-site care practice.|https://dx.doi.org/10.1177/08968608241270296
 Antimicrobial Susceptibility and Genomic Profiles of Multidrug-Resistant Staphylococcus aureus from Nasopharynx of Asymptomatic Children in Dhaka, Bangladesh.|https://dx.doi.org/10.3390/life14080971
 Correction: Narongpun et al. Whole-Genome Investigation of Zoonotic Transmission of Livestock-Associated Methicillin-Resistant Staphylococcus aureus Clonal Complex 398 Isolated from Pigs and Humans in Thailand. Antibiotics 2023, 12, 1745.|https://dx.doi.org/10.3390/antibiotics13080681
+Integrated epigenomic exposure signature discovery.|https://dx.doi.org/10.1080/17501911.2024.2375187
+QSAR Studies on a Class of Benzofuranene Cyanide Derivatives as Potential Inhibitors Targeting Staphylococcus aureus Sortase A.|https://dx.doi.org/10.2174/0109298673300334240821041349
