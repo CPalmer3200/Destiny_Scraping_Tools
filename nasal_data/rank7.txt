@@ -36,3 +36,5 @@ Positive-Charge-Based Small Molecule Dyes for Gut Microbiota Fluorescent Imaging
 Antimicrobial Tolerance in Cross-Kingdom Dual-Species Biofilms Formed by Fungi and Bacteria.|https://dx.doi.org/10.3314/mmj.24.004
 Evaluation of the long-term protection conferred by an organosilicon-based disinfectant formulation against bacterial contamination of surfaces.|https://dx.doi.org/10.1093/jambio/lxae210
 Detection of Staphylococcal Enterotoxins A and E and Methicillin Resistance in Staphylococcus aureus Strains From Moroccan Broiler Chicken Meat.|https://dx.doi.org/10.1155/2024/2790180
+Effective surgical drainage of a massive retropharyngeal abscess via an incision in the posterior wall of the oropharynx under local anesthesia.|https://dx.doi.org/10.1016/j.ijscr.2024.110234
+Clinical profile, microbiology and outcomes in infective endocarditis treated with aortic valve replacement: a multicenter case-control study.|https://dx.doi.org/10.1186/s12879-024-09782-3

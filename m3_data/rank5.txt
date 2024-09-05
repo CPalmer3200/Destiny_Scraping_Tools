@@ -4,3 +4,5 @@ Australian Group on Antimicrobial Research surveillance outcome programs - blood
 Best Practices in the Management of Clostridioides difficile Infection in Developing Nations.|https://dx.doi.org/10.3390/tropicalmed9080185
 Protective Effects of Huo Xiang Zheng Qi Liquid on Clostridioides difficile Infection on C57BL/6 Mice.|https://dx.doi.org/10.3390/microorganisms12081602
 A New Convenient Method to Assess Antibiotic Resistance and Antimicrobial Efficacy against Pathogenic Clostridioides difficile Biofilms.|https://dx.doi.org/10.3390/antibiotics13080728
+Virulence factors, antibiotic susceptibility and sequence type distribution of hospital-associated Clostridioides difficile isolates in Israel, 2020-2022.|https://dx.doi.org/10.1038/s41598-024-71492-2
+Potential effectiveness of parenteral nemonoxacin in the treatment of Clostridioides difficile infections: in vitro, ex vivo, and mouse studies.|https://dx.doi.org/10.3389/fmicb.2024.1418817

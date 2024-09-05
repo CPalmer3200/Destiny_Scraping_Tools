@@ -8,3 +8,4 @@ Genetic Characterization of Antibiotic-Resistant Staphylococcus spp. and Mammali
 Prevalence of Selected Immune Evasion Genes and Clonal Diversity in Methicillin-Susceptible Staphylococcus aureus Isolated from Nasal Carriers and Outpatients with Cut Wound Infections.|https://dx.doi.org/10.3390/antibiotics13080730
 Combining Network Pharmacology and Transcriptomics to Investigate the Mechanisms of Yujiang Paidu Decoction in the Treatment of Chronic Rhinosinusitis with Nasal Polyps.|https://dx.doi.org/10.2147/DDDT.S461769
 Investigating genomic diversity of Staphylococcus aureus associated with pediatric atopic dermatitis in South Africa.|https://dx.doi.org/10.3389/fmicb.2024.1422902
+Pediatric Clinical Outcomes of Nasal Methicillin-resistant Staphylococcus aureus Polymerase Chain Reaction Utilization.|https://dx.doi.org/10.1097/INF.0000000000004533

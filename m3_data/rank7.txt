@@ -8,3 +8,4 @@ Substitutional/positional disorder of biguanide and guanylurea in the structure 
 Rumen-protected methionine supplementation improves lactation performance and alleviates inflammation during a subclinical mastitis challenge in lactating dairy cows.|https://dx.doi.org/10.3168/jds.2024-25028
 Reliability of CT Enterography for Describing Fibrostenosing Crohn Disease.|https://dx.doi.org/10.1148/radiol.233038
 Reliability of MR Enterography Features for Describing Fibrostenosing Crohn Disease.|https://dx.doi.org/10.1148/radiol.233039
+Evaluation of Factors Predictive of Efficacy Among Patients With Complicated Urinary Tract Infection and/or Acute Pyelonephritis.|https://dx.doi.org/10.1093/ofid/ofae375

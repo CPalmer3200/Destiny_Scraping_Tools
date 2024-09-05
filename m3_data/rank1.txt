@@ -20,3 +20,5 @@ Correction to: Integrated Safety and Efficacy Analyses of Phase 3 Trials of a M
 Validation of Lyophilized Human Fecal Microbiota for the Treatment of Clostridioides difficile Infection: A Pilot Study with Pharmacoeconomic Analysis of a Middle-Income Country-Promicrobioma Project.|https://dx.doi.org/10.3390/microorganisms12081741
 Retrospective, Propensity Score Matched Study Examining Relationship between Frailty and Clostridioides difficile Infection in a National Cohort of United States Veterans.|https://dx.doi.org/10.1016/j.ajic.2024.08.020
 Bile acids impact the microbiota, host, and C. difficile dynamics providing insight into mechanisms of efficacy of FMTs and microbiota-focused therapeutics.|https://dx.doi.org/10.1080/19490976.2024.2393766
+Human microbiome: Impact of newly approved treatments on C. difficile infection.|https://dx.doi.org/10.1093/ajhp/zxae249
+Diagnosis and management of Clostridioides difficile in inflammatory bowel disease.|https://dx.doi.org/10.14309/ajg.0000000000003076

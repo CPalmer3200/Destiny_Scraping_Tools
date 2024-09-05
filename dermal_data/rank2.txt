@@ -2,3 +2,5 @@ Endogenous electric field coupling Mxene sponge for diabetic wound management: h
 Novel Supramolecular Hydrogel for Infected Diabetic Foot Ulcer Treatment.|https://dx.doi.org/10.1002/adhm.202402092
 [Establishment and evaluation of a nomogram model for predicting the risk of sepsis in diabetic foot patients].|https://dx.doi.org/10.3760/cma.j.cn121430-20240327-00294
 Exploring the Changes in IL-6 and Related Cytokines in Angiogenesis after Tibial Transverse Transplantation in Diabetic Foot Ulcers.|https://dx.doi.org/10.1111/os.14221
+Antibiotic Resistance Profiles of Extended-Spectrum β-Lactamase (ESBL)- and Metallo-β-Lactamase (MBL)-Producing Klebsiella pneumoniae Isolates From Diabetic Foot Ulcers: Implications for Treatment Strategies.|https://dx.doi.org/10.7759/cureus.66089
+Conservative surgery in the management of diabetic foot complications (excluding Charcot). The role of the orthopedic surgeon.|https://dx.doi.org/10.1016/j.jcot.2024.102513
