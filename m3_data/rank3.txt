@@ -7,3 +7,5 @@ Respiratory diphtheria in the time of Omicron.|https://dx.doi.org/10.33321/cdi.2
 Impact of Helicobacter pylori Eradication on Inflammatory Bowel Disease Onset and Disease Activity: To Eradicate or Not to Eradicate?|https://dx.doi.org/10.3390/diseases12080179
 Preferences for a Clostridioides difficile vaccine among adults in the United States.|https://dx.doi.org/10.1016/j.vaccine.2024.126261
 Reassessing the management of uncomplicated urinary tract infection: A retrospective analysis using machine learning causal inference.|https://dx.doi.org/10.1101/2024.08.18.24312104
+Interventional antibiotic treatment replacing antibiotic prophylaxis during allogeneic hematopoietic stem cell transplantation is safe and leads to a reduction of antibiotic administration.|https://dx.doi.org/10.1007/s00277-024-05986-4
+Biological Mechanisms of Polyphenols against Clostridium Difficile: A Systematic Review.|https://dx.doi.org/10.2174/0118715265313944240726115600

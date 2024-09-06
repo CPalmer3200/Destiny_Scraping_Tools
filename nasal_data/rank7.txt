@@ -38,3 +38,7 @@ Evaluation of the long-term protection conferred by an organosilicon-based disin
 Detection of Staphylococcal Enterotoxins A and E and Methicillin Resistance in Staphylococcus aureus Strains From Moroccan Broiler Chicken Meat.|https://dx.doi.org/10.1155/2024/2790180
 Effective surgical drainage of a massive retropharyngeal abscess via an incision in the posterior wall of the oropharynx under local anesthesia.|https://dx.doi.org/10.1016/j.ijscr.2024.110234
 Clinical profile, microbiology and outcomes in infective endocarditis treated with aortic valve replacement: a multicenter case-control study.|https://dx.doi.org/10.1186/s12879-024-09782-3
+Evaluation of virulence determinants and cell surface properties associated with biofilm formation in Methicillin-Resistant Staphylococcus aureus (MRSA) and Extended Spectrum Beta-Lactamase (ESBL) Escherichia coli from livestock and poultry origin.|https://dx.doi.org/10.1016/j.micpath.2024.106905
+Isolation of the novel phage SAP71 and its potential use against Staphylococcus aureus in an atopic dermatitis mouse model.|https://dx.doi.org/10.1007/s11262-024-02106-2
+Crosslinked hybrid polymer/ceramic composite coatings for the controlled release of clindamycin.|https://dx.doi.org/10.1039/d4bm00055b
+Rapid and sensitive detection of methicillin-resistant Staphylococcus aureus through the RPA-PfAgo system.|https://dx.doi.org/10.3389/fmicb.2024.1422574

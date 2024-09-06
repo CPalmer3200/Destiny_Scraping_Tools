@@ -9,3 +9,4 @@ Rumen-protected methionine supplementation improves lactation performance and al
 Reliability of CT Enterography for Describing Fibrostenosing Crohn Disease.|https://dx.doi.org/10.1148/radiol.233038
 Reliability of MR Enterography Features for Describing Fibrostenosing Crohn Disease.|https://dx.doi.org/10.1148/radiol.233039
 Evaluation of Factors Predictive of Efficacy Among Patients With Complicated Urinary Tract Infection and/or Acute Pyelonephritis.|https://dx.doi.org/10.1093/ofid/ofae375
+Endometrial carcinomas with ambiguous histology often harbor TP53 mutations.|https://dx.doi.org/10.1007/s00428-024-03912-7

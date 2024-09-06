@@ -1,3 +1,9 @@
 Antibacterial efficacy of antimicrobial peptide-functionalized hydrogel particles combined with vancomycin and oxacillin antibiotics.|https://dx.doi.org/10.1016/j.ijpharm.2024.124630
 Tough polyacrylic acid hydrogels with stable swelling and active functionalities enabled by quaternized cellulose nanofibrils and iron ions for absorbent pad interlayers.|https://dx.doi.org/10.1016/j.carbpol.2024.122491
 The Effect of Immobilization Methods of P9-4 Antimicrobial Peptide Onto Gelatin Methacrylate on Multidrug-Resistant Bacteria: A Comparative Study.|https://dx.doi.org/10.1002/mabi.202400324
+Synergistic nanocoating with layer-by-layer functionalized PCL membranes enhanced by manuka honey and essential oils for advanced wound healing.|https://dx.doi.org/10.1038/s41598-024-71466-4
+Development of a cationic bacterial cellulose film loaded with anionic liposomes for prolonged release of oxacillin in wound dressing applications.|https://dx.doi.org/10.1016/j.ijpharm.2024.124649
+Sandwich-Structured Nanofiber Dressings Containing MgB(2) and Metformin Hydrochloride With ROS Scavenging and Antibacterial Properties for Wound Healing in Diabetic Infections.|https://dx.doi.org/10.1002/adhm.202402452
+Engineering Ag-Decorated Graphene Oxide Nano-Photothermal Platforms with Enhanced Antibacterial Properties for Promoting Infectious Wound Healing.|https://dx.doi.org/10.2147/IJN.S474536
+A modified hyaluronic acid hydrogel with strong bacterial capture and killing capabilities for drug-resistant bacteria-infected diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135301
+Alginate-based injectable probiotic/squid ink composite hydrogels for accelerated wound healing of MRSA infected abscess through photothermally synergized probiotic therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135302
