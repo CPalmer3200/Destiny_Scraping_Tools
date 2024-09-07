@@ -9,3 +9,6 @@ Prevalence of Selected Immune Evasion Genes and Clonal Diversity in Methicillin-
 Combining Network Pharmacology and Transcriptomics to Investigate the Mechanisms of Yujiang Paidu Decoction in the Treatment of Chronic Rhinosinusitis with Nasal Polyps.|https://dx.doi.org/10.2147/DDDT.S461769
 Investigating genomic diversity of Staphylococcus aureus associated with pediatric atopic dermatitis in South Africa.|https://dx.doi.org/10.3389/fmicb.2024.1422902
 Pediatric Clinical Outcomes of Nasal Methicillin-resistant Staphylococcus aureus Polymerase Chain Reaction Utilization.|https://dx.doi.org/10.1097/INF.0000000000004533
+Quercetin Alleviates the Progression of Chronic Rhinosinusitis Without Nasal Polyps by Inhibiting Nasal Mucosal Inflammation and Epithelial Apoptosis.|https://dx.doi.org/10.1007/s12033-024-01269-5
+Orbital Complication in the Setting of Cocaine Use: A Case Report and Review of Literature.|https://dx.doi.org/10.1097/IOP.0000000000002695
+Rhino-orbital-cerebral mucormycosis with Klebsiella and MRSA co-infection in a diabetic patient: a case report.|https://dx.doi.org/10.1097/MS9.0000000000002416

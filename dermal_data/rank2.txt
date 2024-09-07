@@ -5,3 +5,6 @@ Exploring the Changes in IL-6 and Related Cytokines in Angiogenesis after Tibial
 Antibiotic Resistance Profiles of Extended-Spectrum β-Lactamase (ESBL)- and Metallo-β-Lactamase (MBL)-Producing Klebsiella pneumoniae Isolates From Diabetic Foot Ulcers: Implications for Treatment Strategies.|https://dx.doi.org/10.7759/cureus.66089
 Conservative surgery in the management of diabetic foot complications (excluding Charcot). The role of the orthopedic surgeon.|https://dx.doi.org/10.1016/j.jcot.2024.102513
 Osteomyelitis and Septic Arthritis of the Foot and Ankle: Imaging Update.|https://dx.doi.org/10.1016/j.cpm.2024.04.007
+Development of a Core Outcome Set for Studies Assessing Interventions for Diabetes-Related Foot Ulceration.|https://dx.doi.org/10.2337/dc24-1112
+Walking Bike as an Effective Tool to Reduce Plantar Peak Pressure in Diabetes Mellitus.|https://dx.doi.org/10.7547/22-127
+Joint Preserving Limb Salvage Secondary to Septic Nonunion Following Placement of a Fibular Intramedullary Nail: A Case Report.|https://dx.doi.org/10.7547/22-079

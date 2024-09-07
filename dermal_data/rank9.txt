@@ -2,3 +2,4 @@ Microbial mysteries: Staphylococcus aureus and the enigma of carcinogenesis.|htt
 Unraveling the unphosphorylated STAT3-unphosphorylated NF-κB pathway in loss of function STAT3 Hyper IgE syndrome.|https://dx.doi.org/10.3389/fimmu.2024.1332817
 Assessment of pharmacokinetics-pharmacodynamics to support omadacycline dosing regimens for the treatment of patients with acute bacterial skin and skin structure infections.|https://dx.doi.org/10.1128/aac.01281-23
 Hydrogel-Based Dressings and Multidisciplinary Care in Severe Pediatric Burns: A Case Report of Successful Healing and Hypertrophic Scar Prevention.|https://dx.doi.org/10.12659/AJCR.944021
+A nanoscale visual exploration of the pathogenic effects of bacterial extracellular vesicles on host cells.|https://dx.doi.org/10.1186/s12951-024-02817-6
