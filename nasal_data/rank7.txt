@@ -42,3 +42,4 @@ Evaluation of virulence determinants and cell surface properties associated with
 Isolation of the novel phage SAP71 and its potential use against Staphylococcus aureus in an atopic dermatitis mouse model.|https://dx.doi.org/10.1007/s11262-024-02106-2
 Crosslinked hybrid polymer/ceramic composite coatings for the controlled release of clindamycin.|https://dx.doi.org/10.1039/d4bm00055b
 Rapid and sensitive detection of methicillin-resistant Staphylococcus aureus through the RPA-PfAgo system.|https://dx.doi.org/10.3389/fmicb.2024.1422574
+Clinical presentations and diagnostic approaches of pediatric necrotizing tracheobronchitis with influenza A virus and Staphylococcus aureus co-infections.|https://dx.doi.org/10.1038/s41598-024-71867-5
