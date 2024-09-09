@@ -43,3 +43,5 @@ Isolation of the novel phage SAP71 and its potential use against Staphylococcus 
 Crosslinked hybrid polymer/ceramic composite coatings for the controlled release of clindamycin.|https://dx.doi.org/10.1039/d4bm00055b
 Rapid and sensitive detection of methicillin-resistant Staphylococcus aureus through the RPA-PfAgo system.|https://dx.doi.org/10.3389/fmicb.2024.1422574
 Clinical presentations and diagnostic approaches of pediatric necrotizing tracheobronchitis with influenza A virus and Staphylococcus aureus co-infections.|https://dx.doi.org/10.1038/s41598-024-71867-5
+Ferrous sulfate remodels the properties of sodium alginate-based hydrogel and facilitates the healing of wound infection caused by MRSA.|https://dx.doi.org/10.1016/j.carbpol.2024.122554
+Does NexoBrid® have antimicrobial properties?|https://dx.doi.org/10.1016/j.burns.2024.06.005

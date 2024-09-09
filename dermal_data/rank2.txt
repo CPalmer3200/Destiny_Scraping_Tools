@@ -8,3 +8,5 @@ Osteomyelitis and Septic Arthritis of the Foot and Ankle: Imaging Update.|https:
 Development of a Core Outcome Set for Studies Assessing Interventions for Diabetes-Related Foot Ulceration.|https://dx.doi.org/10.2337/dc24-1112
 Walking Bike as an Effective Tool to Reduce Plantar Peak Pressure in Diabetes Mellitus.|https://dx.doi.org/10.7547/22-127
 Joint Preserving Limb Salvage Secondary to Septic Nonunion Following Placement of a Fibular Intramedullary Nail: A Case Report.|https://dx.doi.org/10.7547/22-079
+Three versus six weeks of post-amputation antibiotic therapy in diabetic forefoot osteomyelitis with positive culture for residual infected bone.|https://dx.doi.org/10.1016/j.idnow.2024.104975
+Characterising the role of enolase in a stable Small Colony Variant of Staphylococcus aureus isolated from a diabetic foot infection patient with osteomyelitis.|https://dx.doi.org/10.1016/j.micpath.2024.106918
