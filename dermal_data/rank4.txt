@@ -13,3 +13,4 @@ Copper doped carbon dots modified bacterial cellulose with enhanced antibacteria
 Ionically-crosslinked carboxymethyl chitosan scaffolds by additive manufacturing for antimicrobial wound dressing applications.|https://dx.doi.org/10.1016/j.carbpol.2024.122640
 Formulation and evaluation of n-acetyl cysteine loaded bi-polymeric physically crosslinked hydrogel with antibacterial and antioxidant activity for diabetic wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135418
 Biosynthesis of positively charged bacterial cellulose hydrogel with antibacterial and anti-inflammatory function for efficient wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135263
+Novel chitosan-based hydrogels as promising wound dressing materials with advanced properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135423

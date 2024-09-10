@@ -12,3 +12,8 @@ Pediatric Clinical Outcomes of Nasal Methicillin-resistant Staphylococcus aureus
 Quercetin Alleviates the Progression of Chronic Rhinosinusitis Without Nasal Polyps by Inhibiting Nasal Mucosal Inflammation and Epithelial Apoptosis.|https://dx.doi.org/10.1007/s12033-024-01269-5
 Orbital Complication in the Setting of Cocaine Use: A Case Report and Review of Literature.|https://dx.doi.org/10.1097/IOP.0000000000002695
 Rhino-orbital-cerebral mucormycosis with Klebsiella and MRSA co-infection in a diabetic patient: a case report.|https://dx.doi.org/10.1097/MS9.0000000000002416
+Inducible clindamycin-resistant and biofilm formation in the Staphylococcus aureus isolated from healthcare worker's anterior nasal carriage.|https://dx.doi.org/10.1186/s13104-024-06926-1
+Genomic approach to determine sources of neonatal Staphylococcus aureus infection from carriage in the Gambia.|https://dx.doi.org/10.1186/s12879-024-09837-5
+Unveiling the multitargeted potential of deprodone and control comparison with linezolid against hydrolase and transferase enzymes of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135459
+Genome-based model for differentiating between infection and carriage Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.00493-24
+Challenges in Managing Newly Diagnosed Granulomatosis With Polyangiitis and Concurrent Respiratory Infections: A Retrospective Case Series.|https://dx.doi.org/10.7759/cureus.66412

@@ -2,3 +2,6 @@ Zn@TA assisted dual cross-linked 3D printable glycol grafted chitosan hydrogels 
 Investigating genomic diversity of Staphylococcus aureus associated with pediatric atopic dermatitis in South Africa.|https://dx.doi.org/10.3389/fmicb.2024.1422902
 Design and Evaluation of Microemulsion-Based Drug Delivery Systems for Biofilm-Based Infection in Burns.|https://dx.doi.org/10.1208/s12249-024-02909-4
 Clinical presentation and microbiological characteristics of community-acquired Staphylococcus aureus bacteraemia at a tertiary hospital in Costa Rica.|https://dx.doi.org/10.1099/jmm.0.001883
+Diterpenoids of Caryopteris trichosphaera W. W. Sm. inhibiting MRSA and VRE in vitro and in vivo.|https://dx.doi.org/10.1016/j.jep.2024.118805
+A poly-δ-decalactone (PDL) based nanoemulgel for topical delivery of ketoconazole and eugenol against Candida albicans.|https://dx.doi.org/10.1039/d4na00176a
+The prebiotic effects of fructooligosaccharides enhance the growth characteristics of Staphylococcus epidermidis and enhance the inhibition of Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1111/ics.13020
