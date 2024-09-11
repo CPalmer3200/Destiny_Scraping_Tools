@@ -47,3 +47,6 @@ Ferrous sulfate remodels the properties of sodium alginate-based hydrogel and fa
 Does NexoBrid® have antimicrobial properties?|https://dx.doi.org/10.1016/j.burns.2024.06.005
 Penicillin susceptibility among Staphylococcus aureus skin and soft tissue infections at a children's hospital.|https://dx.doi.org/10.1128/spectrum.00869-24
 ESKAPE Pathogens: Antimicrobial Resistance Patterns, Risk Factors, and Outcomes a Retrospective Cross-Sectional Study of Hospitalized Patients in Palestine.|https://dx.doi.org/10.2147/IDR.S471645
+Bacteriophage therapy as an innovative strategy for the treatment of Periprosthetic Joint Infection: a systematic review.|https://dx.doi.org/10.1007/s00264-024-06295-1
+The occurrence of Aerococcus urinaeequi and non-aureus staphylococci in raw milk negatively correlates with Escherichia coli clinical mastitis.|https://dx.doi.org/10.1128/msystems.00362-24
+Intracellular bactericidal activity and action mechanism of MDP1 antimicrobial peptide against VRSA and MRSA in human endothelial cells.|https://dx.doi.org/10.3389/fmicb.2024.1416995

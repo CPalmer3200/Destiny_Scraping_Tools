@@ -17,3 +17,4 @@ Genomic approach to determine sources of neonatal Staphylococcus aureus infectio
 Unveiling the multitargeted potential of deprodone and control comparison with linezolid against hydrolase and transferase enzymes of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135459
 Genome-based model for differentiating between infection and carriage Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.00493-24
 Challenges in Managing Newly Diagnosed Granulomatosis With Polyangiitis and Concurrent Respiratory Infections: A Retrospective Case Series.|https://dx.doi.org/10.7759/cureus.66412
+Prevalence and risk factors associated with nasal carriage of methicillin-resistant staphylococci in horses and their caregivers.|https://dx.doi.org/10.1186/s13567-024-01364-0

@@ -14,3 +14,6 @@ Ionically-crosslinked carboxymethyl chitosan scaffolds by additive manufacturing
 Formulation and evaluation of n-acetyl cysteine loaded bi-polymeric physically crosslinked hydrogel with antibacterial and antioxidant activity for diabetic wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135418
 Biosynthesis of positively charged bacterial cellulose hydrogel with antibacterial and anti-inflammatory function for efficient wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135263
 Novel chitosan-based hydrogels as promising wound dressing materials with advanced properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135423
+Exploring the potential of nanoparticles-based polydopamine for effective treatment of refractory keratitis: Mild photothermal loop therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135479
+Phytotherapeutic Hierarchical PCL-Based Scaffolds as a Multifunctional Wound Dressing: Combining 3D Printing and Electrospinning.|https://dx.doi.org/10.1002/mabi.202400253
+Prevalence and risk factors associated with nasal carriage of methicillin-resistant staphylococci in horses and their caregivers.|https://dx.doi.org/10.1186/s13567-024-01364-0
