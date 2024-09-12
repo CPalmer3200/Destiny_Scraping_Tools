@@ -6,3 +6,4 @@ Diterpenoids of Caryopteris trichosphaera W. W. Sm. inhibiting MRSA and VRE in v
 A poly-δ-decalactone (PDL) based nanoemulgel for topical delivery of ketoconazole and eugenol against Candida albicans.|https://dx.doi.org/10.1039/d4na00176a
 The prebiotic effects of fructooligosaccharides enhance the growth characteristics of Staphylococcus epidermidis and enhance the inhibition of Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1111/ics.13020
 The influence of marine fungal meroterpenoid meroantarctine A toward HaCaT keratinocytes infected with Staphylococcus aureus.|https://dx.doi.org/10.1038/s41429-024-00771-x
+Antibacterial and Anti-Inflammatory Activity of Branched Peptides Derived from Natural Host Defense Sequences.|https://dx.doi.org/10.1021/acs.jmedchem.4c00810

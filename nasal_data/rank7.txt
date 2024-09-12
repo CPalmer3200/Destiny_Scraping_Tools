@@ -50,3 +50,5 @@ ESKAPE Pathogens: Antimicrobial Resistance Patterns, Risk Factors, and Outcomes 
 Bacteriophage therapy as an innovative strategy for the treatment of Periprosthetic Joint Infection: a systematic review.|https://dx.doi.org/10.1007/s00264-024-06295-1
 The occurrence of Aerococcus urinaeequi and non-aureus staphylococci in raw milk negatively correlates with Escherichia coli clinical mastitis.|https://dx.doi.org/10.1128/msystems.00362-24
 Intracellular bactericidal activity and action mechanism of MDP1 antimicrobial peptide against VRSA and MRSA in human endothelial cells.|https://dx.doi.org/10.3389/fmicb.2024.1416995
+Peritonitis caused by Mycoplasma hominis after laparoscopic total hysterectomy: A case report.|https://dx.doi.org/10.1016/j.crwh.2024.e00645
+Prevalence and anti-microbial resistance of Staphylococcus spp. isolated from the environment and veterinary personnel in a Spanish veterinary teaching hospital.|https://dx.doi.org/10.30466/vrf.2024.2016107.4086

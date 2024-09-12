@@ -17,3 +17,6 @@ Novel chitosan-based hydrogels as promising wound dressing materials with advanc
 Exploring the potential of nanoparticles-based polydopamine for effective treatment of refractory keratitis: Mild photothermal loop therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135479
 Phytotherapeutic Hierarchical PCL-Based Scaffolds as a Multifunctional Wound Dressing: Combining 3D Printing and Electrospinning.|https://dx.doi.org/10.1002/mabi.202400253
 Prevalence and risk factors associated with nasal carriage of methicillin-resistant staphylococci in horses and their caregivers.|https://dx.doi.org/10.1186/s13567-024-01364-0
+Insights into the fabrication and antibacterial effect of fibrinogen hydrolysate-carrageenan loading apigenin and quercetin composite hydrogels.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135517
+An Integrated All-Natural Conductive Supramolecular Hydrogel Wearable Biosensor with Enhanced Biocompatibility and Antibacterial Properties.|https://dx.doi.org/10.1021/acsami.4c08690
+Effect of Tetrapropylammonium Chloride Quaternary Ammonium Salt on Characterization, Cytotoxicity, and Antibacterial Properties of PLA/PEG Electrospun Mat.|https://dx.doi.org/10.1002/bip.23626
