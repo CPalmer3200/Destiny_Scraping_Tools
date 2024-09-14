@@ -13,3 +13,6 @@ Characterising the role of enolase in a stable Small Colony Variant of Staphyloc
 Photothermal and Antibacterial PDA@Ag/SerMA Microneedles for Promoting Diabetic Wound Repair.|https://dx.doi.org/10.1021/acsabm.4c00793
 Evaluating diagnostic tools, outcome measures and antibiotic approach in diabetic foot osteomyelitis: a scoping review and narrative synthesis.|https://dx.doi.org/10.1080/14787210.2024.2403145
 Application of self-assembled antibacterial nanofiber loaded oriented artificial skin in infected diabetic-related wound regeneration.|https://dx.doi.org/10.1177/08853282241270963
+SwinDFU-Net: Deep learning transformer network for infection identification in diabetic foot ulcer.|https://dx.doi.org/10.3233/THC-241444
+Methicillin-resistant Staphylococcus aureus in diabetic and non-diabetic foot infections.|https://dx.doi.org/10.1111/iwj.70039
+Antibiotic susceptibility and biofilm forming ability of Staphylococcus aureus isolated from Jordanian patients with diabetic foot ulcer.|https://dx.doi.org/10.18502/ijm.v16i4.16303

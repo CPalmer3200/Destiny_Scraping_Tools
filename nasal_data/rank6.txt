@@ -8,3 +8,4 @@ Integrated epigenomic exposure signature discovery.|https://dx.doi.org/10.1080/1
 QSAR Studies on a Class of Benzofuranene Cyanide Derivatives as Potential Inhibitors Targeting Staphylococcus aureus Sortase A.|https://dx.doi.org/10.2174/0109298673300334240821041349
 Mycobacterium abscessus Cutaneous Infection in the Immunosuppressed: A Case Report on an Atypical Pathogen.|https://dx.doi.org/10.7547/23-134
 Astodrimer sodium nasal spray forms a barrier to SARS-CoV-2 in vitro and preserves normal mucociliary function in human nasal epithelium.|https://dx.doi.org/10.1038/s41598-024-72262-w
+Washing Illness Away: A Systematic Review of the Impact of Nasal Irrigation and Spray on COVID-19.|https://dx.doi.org/10.1002/lary.31761
