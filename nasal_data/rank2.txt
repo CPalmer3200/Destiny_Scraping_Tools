@@ -20,3 +20,5 @@ Challenges in Managing Newly Diagnosed Granulomatosis With Polyangiitis and Conc
 Prevalence and risk factors associated with nasal carriage of methicillin-resistant staphylococci in horses and their caregivers.|https://dx.doi.org/10.1186/s13567-024-01364-0
 A New Method for Obtaining Monospecies and Binary Cultures of Staphylococcus spp. in Alginate Gel and the Study of the Action of Active Compounds on These Cultures on the Example of Catecholamines.|https://dx.doi.org/10.1007/s10517-024-06217-6
 Successful use of daptomycin and cefazolin in a case of persistent bacteremia caused by community acquired-methicillin resistant Staphylococcus aureus in a pregnant woman. Case report.|https://dx.doi.org/10.4067/s0034-98872023001201631
+Transcriptional Profiling of Staphylococcus aureus during the Transition from Asymptomatic Nasal Colonization to Skin Colonization/Infection in Patients with Atopic Dermatitis.|https://dx.doi.org/10.3390/ijms25179165
+Type 1 interferons promote Staphylococcus aureus nasal colonization by inducing phagocyte apoptosis.|https://dx.doi.org/10.1038/s41420-024-02173-2

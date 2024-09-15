@@ -10,3 +10,5 @@ Antibacterial and Anti-Inflammatory Activity of Branched Peptides Derived from N
 Surface modification of medical grade biomaterials by using a low-temperature-processed dual functional Ag-TiO(2) coating for preventing biofilm formation.|https://dx.doi.org/10.1039/d4tb00701h
 Pathophysiology and Prevention of Ventriculostomy-Related Infections: A Review.|https://dx.doi.org/10.1227/neu.0000000000003181
 Cord Blood Serum Levels of IL-31 and CCL17, Cutaneous Markers, and Development of Atopic Dermatitis.|https://dx.doi.org/10.1001/jamadermatol.2024.3178
+Microenvironmental host-microbe interactions in chronic inflammatory skin diseases.|https://dx.doi.org/10.1111/apm.13464
+Nanoscale fluconazole-constructed metal-organic frameworks with smart drug release for eradication of Candida biofilms in vulvovaginitis infection.|https://dx.doi.org/10.1016/j.colsurfb.2024.114238

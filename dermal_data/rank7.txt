@@ -2,3 +2,5 @@ NLRP1-dependent activation of Gasdermin D in neutrophils controls cutaneous leis
 A review of artificial sebum formulations, their compositions, uses and physicochemical characteristics.|https://dx.doi.org/10.1111/ics.13022
 Successful Treatment of Cryptococcus gattii in an Immunocompetent Adult Rhesus Macaque (Macaca mulatta).|https://dx.doi.org/10.1111/jmp.12733
 Staphylococcus aureus exacerbates dermal IL-33/ILC2 axis activation through evoking RIPK3/MLKL-mediated necroptosis of dry skin.|https://dx.doi.org/10.1172/jci.insight.185878
+Design, Synthesis, and Anticancer and Antibacterial Activities of Quinoline-5-Sulfonamides.|https://dx.doi.org/10.3390/molecules29174044
+A Spironolactone-Based Prototype of an Innovative Biomedical Patch for Wound Dressing Applications.|https://dx.doi.org/10.3390/ijms25179608
