@@ -4,3 +4,4 @@ Challenges in Liver Transplantation for Hepatocellular Carcinoma: A Review of Cu
 Significant drop in serum C-reactive protein in patients with solid neoplasia and bacterial infection is associated with a better prognosis and identifies candidates for short-course antibiotic therapy.|https://dx.doi.org/10.1186/s12879-024-09544-1
 A randomized controlled trial of efficacy and safety of Fecal Microbiota Transplant for preventing recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/cid/ciae467
 Déjà vu: Unanswered Questions about Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciae468
+[Advances in the treatment of Clostridium difficile infection in children].|https://dx.doi.org/10.7499/j.issn.1008-8830.2405055

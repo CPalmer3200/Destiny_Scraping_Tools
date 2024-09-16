@@ -4,3 +4,4 @@ Successful Treatment of Cryptococcus gattii in an Immunocompetent Adult Rhesus M
 Staphylococcus aureus exacerbates dermal IL-33/ILC2 axis activation through evoking RIPK3/MLKL-mediated necroptosis of dry skin.|https://dx.doi.org/10.1172/jci.insight.185878
 Design, Synthesis, and Anticancer and Antibacterial Activities of Quinoline-5-Sulfonamides.|https://dx.doi.org/10.3390/molecules29174044
 A Spironolactone-Based Prototype of an Innovative Biomedical Patch for Wound Dressing Applications.|https://dx.doi.org/10.3390/ijms25179608
+Fiber/hydrogel hybrid wound dressing based on eggshell membrane containing postbiotic ingredients.|https://dx.doi.org/10.1016/j.bioadv.2024.214004

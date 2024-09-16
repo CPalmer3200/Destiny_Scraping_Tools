@@ -16,3 +16,4 @@ Application of self-assembled antibacterial nanofiber loaded oriented artificial
 SwinDFU-Net: Deep learning transformer network for infection identification in diabetic foot ulcer.|https://dx.doi.org/10.3233/THC-241444
 Methicillin-resistant Staphylococcus aureus in diabetic and non-diabetic foot infections.|https://dx.doi.org/10.1111/iwj.70039
 Antibiotic susceptibility and biofilm forming ability of Staphylococcus aureus isolated from Jordanian patients with diabetic foot ulcer.|https://dx.doi.org/10.18502/ijm.v16i4.16303
+Wound cleansing solutions versus normal saline in the treatment of diabetic foot ulcers - A systematic review.|https://dx.doi.org/10.1016/j.jtv.2024.08.010

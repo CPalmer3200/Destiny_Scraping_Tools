@@ -59,3 +59,6 @@ Endophytic fungal diversity and bioactive potentials: investigating antimicrobia
 Phenotypic and genotypic characterization of methicillin resistant Staphylococcus aureus associated with pyogenic infections.|https://dx.doi.org/10.18502/ijm.v16i4.16302
 Synthesis, Characterization and Application of Advanced Antimicrobial Electrospun Polymers.|https://dx.doi.org/10.3390/polym16172443
 Biofilm inhibition of Staphylococcus aureus by silver nanoparticles derived from Hellenia speciosa rhizome extract.|https://dx.doi.org/10.1016/j.micpath.2024.106933
+Longitudinal two-years comparative genomic analysis of respiratory Staphylococcus aureus isolates from ICU mechanically ventilated patients.|https://dx.doi.org/10.1016/j.jhin.2024.09.004
+Critical Chest Wall Necrotizing Fasciitis Triggered by Herpes Zoster: A Case Report.|https://dx.doi.org/10.12659/AJCR.944186
+The aetiology and antimicrobial resistance of bacterial maternal infections in Sub-Saharan Africa-a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09855-3

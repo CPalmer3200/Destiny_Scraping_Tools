@@ -12,3 +12,4 @@ Pathophysiology and Prevention of Ventriculostomy-Related Infections: A Review.|
 Cord Blood Serum Levels of IL-31 and CCL17, Cutaneous Markers, and Development of Atopic Dermatitis.|https://dx.doi.org/10.1001/jamadermatol.2024.3178
 Microenvironmental host-microbe interactions in chronic inflammatory skin diseases.|https://dx.doi.org/10.1111/apm.13464
 Nanoscale fluconazole-constructed metal-organic frameworks with smart drug release for eradication of Candida biofilms in vulvovaginitis infection.|https://dx.doi.org/10.1016/j.colsurfb.2024.114238
+Synthesis of chitosan/Fe(2)O(3)/CuO-nanocomposite and their role as inhibitor for some biological disorders in vitro with molecular docking interactions studies.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135664

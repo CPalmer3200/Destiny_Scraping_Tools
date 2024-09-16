@@ -23,3 +23,5 @@ Effect of Tetrapropylammonium Chloride Quaternary Ammonium Salt on Characterizat
 Hydrogel microspheres encapsulating lysozyme/MXene for photothermally enhanced antibacterial activity and infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135527
 Chitin-Assisted Synthesis of CuS Composite Sponge for Bacterial Capture and Near-Infrared-Promoted Healing of Infected Diabetic Wounds.|https://dx.doi.org/10.1021/acsami.4c07586
 On-Demand Removable Chitosan Based Self-Healing and Antibacterial Hydrogel for Delivery of Tetracycline and Curcumin As Potential Wound Dressing Material.|https://dx.doi.org/10.1021/acsabm.4c00680
+Chitosan-based hydrogel incorporated with polydopamine and protoporphyrin for photothermal-oxidation sterilization of bacteria-infected wound therapy.|https://dx.doi.org/10.1016/j.jcis.2024.09.098
+Critical Chest Wall Necrotizing Fasciitis Triggered by Herpes Zoster: A Case Report.|https://dx.doi.org/10.12659/AJCR.944186

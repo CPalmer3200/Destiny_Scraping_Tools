@@ -1,2 +1,4 @@
 The Role of the Gut, Urine, and Vaginal Microbiomes in the Pathogenesis of Urinary Tract Infection in Women and Consideration of Microbiome Therapeutics.|https://dx.doi.org/10.1093/ofid/ofae471
 Brain mitochondrial damage attenuation by quercetin and N-acetyl cysteine: peripheral and central antiemetic effects.|https://dx.doi.org/10.1093/toxres/tfae139
+The DAV132 colon-targeted adsorbent does not interfere with plasma concentrations of antibiotics but prevents antibiotic-related dysbiosis: a randomized phase I trial in healthy volunteers.|https://dx.doi.org/10.1038/s41467-024-52373-8
+6-PPD quinone at environmentally relevant concentrations induced damage on longevity in C. elegans: Mechanistic insight from inhibition in mitochondrial UPR response.|https://dx.doi.org/10.1016/j.scitotenv.2024.176275

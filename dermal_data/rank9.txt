@@ -8,3 +8,4 @@ Primary Cutaneous Herpes Simplex Virus Infection of the Cheek.|https://dx.doi.or
 YjbH contributes to Staphylococcus aureus skin pathology and immune response through Agr-mediated α-toxin regulation.|https://dx.doi.org/10.1080/21505594.2024.2399798
 Green synthesis of polyethylene glycol coated, ciprofloxacin loaded CuO nanoparticles and its antibacterial activity against Staphylococcus aureus.|https://dx.doi.org/10.1038/s41598-024-72322-1
 Tissue resident cells differentiate S. aureus from S. epidermidis via IL-1β following barrier disruption in healthy human skin.|https://dx.doi.org/10.1371/journal.ppat.1012056
+Crystal structure of exfoliative toxin D from Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bbrc.2024.150689
