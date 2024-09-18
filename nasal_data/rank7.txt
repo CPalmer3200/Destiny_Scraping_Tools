@@ -62,3 +62,14 @@ Biofilm inhibition of Staphylococcus aureus by silver nanoparticles derived from
 Longitudinal two-years comparative genomic analysis of respiratory Staphylococcus aureus isolates from ICU mechanically ventilated patients.|https://dx.doi.org/10.1016/j.jhin.2024.09.004
 Critical Chest Wall Necrotizing Fasciitis Triggered by Herpes Zoster: A Case Report.|https://dx.doi.org/10.12659/AJCR.944186
 The aetiology and antimicrobial resistance of bacterial maternal infections in Sub-Saharan Africa-a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-024-09855-3
+Comparison of bloodstream infections due to Corynebacterium striatum, MRSA, and MRSE.|https://dx.doi.org/10.1186/s12879-024-09883-z
+Study on hand disinfection in inpatient geriatric care on the superiority of cold plasma aerosol versus alcohol-based disinfection methods in a parallel group design.|https://dx.doi.org/10.1038/s41598-024-72524-7
+Antibiofilm activity of truncated Staphylococcus aureus phenol soluble modulin α2 (SaΔ1Δ2PSMα2) against Candida auris in vitro and in an animal model of catheter-associated infection.|https://dx.doi.org/10.1016/j.micpath.2024.106943
+Central venous catheter-related infection: does insertion site still matter? A French multicentric cohort study.|https://dx.doi.org/10.1007/s00134-024-07615-0
+Gentamicin and clindamycin antibiotic-eluting depot technology eradicates S. aureus in an implant-associated osteomyelitis pig model without systemic antibiotics.|https://dx.doi.org/10.1128/aac.00691-24
+The Complicated Case of Staphylococcus aureus Bacteremia Associated With Delayed-Onset Prosthetic Joint Infection: A Case Report and Review of Management Strategies.|https://dx.doi.org/10.7759/cureus.66854
+An immunotherapeutic hydrogel booster inhibits tumor recurrence and promotes wound healing for postoperative management of melanoma.|https://dx.doi.org/10.1016/j.bioactmat.2024.08.028
+Enhanced Antimicrobial Properties of Polymeric Denture Materials Modified with Zein-Coated Inorganic Nanoparticles.|https://dx.doi.org/10.2147/IJN.S476261
+Prevalence and Antibiotic Resistance Patterns of Methicillin-Resistant Staphylococcus aureus (MRSA) in a Hospital Setting: A Retrospective Study from 2018 to 2022.|https://dx.doi.org/10.1007/s12088-024-01228-3
+The attributable mortality, length of stay, and health care costs of methicillin-resistant Staphylococcus aureus infections in Singapore.|https://dx.doi.org/10.1016/j.ijregi.2024.100427
+Unravelling the physicochemical and antimicrobial mechanisms of human serum albumin/tannic acid coatings for medical-grade polycaprolactone scaffolds.|https://dx.doi.org/10.1016/j.bioactmat.2024.08.023

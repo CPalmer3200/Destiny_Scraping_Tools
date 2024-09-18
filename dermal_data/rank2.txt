@@ -17,3 +17,7 @@ SwinDFU-Net: Deep learning transformer network for infection identification in d
 Methicillin-resistant Staphylococcus aureus in diabetic and non-diabetic foot infections.|https://dx.doi.org/10.1111/iwj.70039
 Antibiotic susceptibility and biofilm forming ability of Staphylococcus aureus isolated from Jordanian patients with diabetic foot ulcer.|https://dx.doi.org/10.18502/ijm.v16i4.16303
 Wound cleansing solutions versus normal saline in the treatment of diabetic foot ulcers - A systematic review.|https://dx.doi.org/10.1016/j.jtv.2024.08.010
+Antibiotic Treatment Practices and Microbial Profile in Diabetic Foot Ulcers: A Retrospective Cohort Study.|https://dx.doi.org/10.7759/cureus.67084
+Role of microRNAs in diabetic foot ulcers: Mechanisms and possible interventions.|https://dx.doi.org/10.1016/j.diabres.2024.111858
+Percentage area reduction at week 4 as a prognostic indicator of complete healing in patients treated with standard of care: a post hoc analysis.|https://dx.doi.org/10.12968/jowc.2024.0141
+Environmental Influence on Bacterial Lipid Composition: Insights from Pathogenic and Probiotic Strains.|https://dx.doi.org/10.1021/acsomega.4c03778

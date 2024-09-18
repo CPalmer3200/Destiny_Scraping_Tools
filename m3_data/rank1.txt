@@ -6,3 +6,5 @@ A randomized controlled trial of efficacy and safety of Fecal Microbiota Transpl
 Déjà vu: Unanswered Questions about Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciae468
 [Advances in the treatment of Clostridium difficile infection in children].|https://dx.doi.org/10.7499/j.issn.1008-8830.2405055
 Medial Patellofemoral Ligament Reconstruction Improves Patella Alta.|https://dx.doi.org/10.1097/BPO.0000000000002816
+Clostridioides difficile infection: an update.|https://dx.doi.org/10.53854/liim-3203-3
+Therapeutics involved in managing initial and recurrent Clostridium difficile infection: An updated literature review.|https://dx.doi.org/10.4292/wjgpt.v15.i5.95467

@@ -11,3 +11,4 @@ Astodrimer sodium nasal spray forms a barrier to SARS-CoV-2 in vitro and preserv
 Washing Illness Away: A Systematic Review of the Impact of Nasal Irrigation and Spray on COVID-19.|https://dx.doi.org/10.1002/lary.31761
 Fabrication of Mupirocin-Loaded PEGylated Chitosan Nanoparticulate Films for Enhanced Wound Healing.|https://dx.doi.org/10.3390/ijms25179188
 Phagemid-based capsid system for CRISPR-Cas13a antimicrobials targeting methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s42003-024-06754-w
+Strategy against super-resistant bacteria: Curdlan-induced trained immunity combined with multi-epitope subunit vaccine.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135663

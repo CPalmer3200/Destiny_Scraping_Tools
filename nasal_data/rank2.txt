@@ -22,3 +22,5 @@ A New Method for Obtaining Monospecies and Binary Cultures of Staphylococcus spp
 Successful use of daptomycin and cefazolin in a case of persistent bacteremia caused by community acquired-methicillin resistant Staphylococcus aureus in a pregnant woman. Case report.|https://dx.doi.org/10.4067/s0034-98872023001201631
 Transcriptional Profiling of Staphylococcus aureus during the Transition from Asymptomatic Nasal Colonization to Skin Colonization/Infection in Patients with Atopic Dermatitis.|https://dx.doi.org/10.3390/ijms25179165
 Type 1 interferons promote Staphylococcus aureus nasal colonization by inducing phagocyte apoptosis.|https://dx.doi.org/10.1038/s41420-024-02173-2
+The developing pig respiratory microbiome harbors strains antagonistic to common respiratory pathogens.|https://dx.doi.org/10.1128/msystems.00626-24
+Nasal Carriage, Antimicrobial Susceptibility Profile, and Enterotoxin Genes of Staphylococcus aureus Isolated from Children with Asthma.|https://dx.doi.org/10.1007/s12088-024-01272-z

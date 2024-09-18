@@ -25,3 +25,11 @@ Chitin-Assisted Synthesis of CuS Composite Sponge for Bacterial Capture and Near
 On-Demand Removable Chitosan Based Self-Healing and Antibacterial Hydrogel for Delivery of Tetracycline and Curcumin As Potential Wound Dressing Material.|https://dx.doi.org/10.1021/acsabm.4c00680
 Chitosan-based hydrogel incorporated with polydopamine and protoporphyrin for photothermal-oxidation sterilization of bacteria-infected wound therapy.|https://dx.doi.org/10.1016/j.jcis.2024.09.098
 Critical Chest Wall Necrotizing Fasciitis Triggered by Herpes Zoster: A Case Report.|https://dx.doi.org/10.12659/AJCR.944186
+Amoxicillin-laded sodium alginate/cellulose nanocrystals/polyvinyl alcohol composite nanonetwork sponges with enhanced wound healing and antibacterial performance.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135701
+Injectable mineralized Sr-hydroxyapatite nanoparticles-loaded ɛ-polylysine-hyaluronic acid composite hydrogels for bone regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135703
+Bacterial-responsive biodegradable silver nanoclusters composite hydrogel for infected wound therapy.|https://dx.doi.org/10.1016/j.colsurfb.2024.114213
+Engineered Bacteriophage-Polymer Nanoassemblies for Treatment of Wound Biofilm Infections.|https://dx.doi.org/10.1021/acsnano.4c08671
+Enhanced exploration of the mode of action of a five-layer foam dressing: critical properties to support wound healing.|https://dx.doi.org/10.12968/jowc.2024.0255
+An immunotherapeutic hydrogel booster inhibits tumor recurrence and promotes wound healing for postoperative management of melanoma.|https://dx.doi.org/10.1016/j.bioactmat.2024.08.028
+C-di-GMP@ZIF-8 nanocomposite injectable hydrogel based on modified chitosan and hyaluronic acid for infected wound healing by activating STING signaling.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135660
+Janus Structure Construction of Polyester-Cotton Fabrics for Achieving Excellent Moisture, Moisture-Permeability, and Antibacterial Capability.|https://dx.doi.org/10.1002/marc.202400556

@@ -9,3 +9,5 @@ YjbH contributes to Staphylococcus aureus skin pathology and immune response thr
 Green synthesis of polyethylene glycol coated, ciprofloxacin loaded CuO nanoparticles and its antibacterial activity against Staphylococcus aureus.|https://dx.doi.org/10.1038/s41598-024-72322-1
 Tissue resident cells differentiate S. aureus from S. epidermidis via IL-1β following barrier disruption in healthy human skin.|https://dx.doi.org/10.1371/journal.ppat.1012056
 Crystal structure of exfoliative toxin D from Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bbrc.2024.150689
+The developing pig respiratory microbiome harbors strains antagonistic to common respiratory pathogens.|https://dx.doi.org/10.1128/msystems.00626-24
+Identification of a genetic region linked to tolerance to MRSA infection using Collaborative Cross mice.|https://dx.doi.org/10.1371/journal.pgen.1011378

@@ -13,3 +13,8 @@ Cord Blood Serum Levels of IL-31 and CCL17, Cutaneous Markers, and Development o
 Microenvironmental host-microbe interactions in chronic inflammatory skin diseases.|https://dx.doi.org/10.1111/apm.13464
 Nanoscale fluconazole-constructed metal-organic frameworks with smart drug release for eradication of Candida biofilms in vulvovaginitis infection.|https://dx.doi.org/10.1016/j.colsurfb.2024.114238
 Synthesis of chitosan/Fe(2)O(3)/CuO-nanocomposite and their role as inhibitor for some biological disorders in vitro with molecular docking interactions studies.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135664
+Impact of continuous topical oxygen therapy on biofilm gene expression in a porcine tissue model.|https://dx.doi.org/10.12968/jowc.2024.0213
+Dual osmotic controlled release platform for antibiotics to overcome antimicrobial-resistant infections and promote wound healing.|https://dx.doi.org/10.1016/j.jconrel.2024.09.022
+Effect of Saponin on Methylene Blue (MB) Photo-Antimicrobial Activity Against Planktonic and Biofilm Form of Bacteria.|https://dx.doi.org/10.1007/s12088-024-01245-2
+Presence and mRNA Expression of the sar Family Genes in Clinical and Non-clinical (Healthy Conjunctiva and Healthy Skin) Isolates of Staphylococcus epidermidis.|https://dx.doi.org/10.1007/s12088-024-01339-x
+Protracted Course of Staphylococcus lugdunensis Septic Arthritis in Native Knee Joint.|https://dx.doi.org/10.7759/cureus.66848
