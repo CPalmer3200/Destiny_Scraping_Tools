@@ -73,3 +73,6 @@ Enhanced Antimicrobial Properties of Polymeric Denture Materials Modified with Z
 Prevalence and Antibiotic Resistance Patterns of Methicillin-Resistant Staphylococcus aureus (MRSA) in a Hospital Setting: A Retrospective Study from 2018 to 2022.|https://dx.doi.org/10.1007/s12088-024-01228-3
 The attributable mortality, length of stay, and health care costs of methicillin-resistant Staphylococcus aureus infections in Singapore.|https://dx.doi.org/10.1016/j.ijregi.2024.100427
 Unravelling the physicochemical and antimicrobial mechanisms of human serum albumin/tannic acid coatings for medical-grade polycaprolactone scaffolds.|https://dx.doi.org/10.1016/j.bioactmat.2024.08.023
+Pediatric calcaneal osteomyelitis: an analysis of literature-reported 128 cases.|https://dx.doi.org/10.1186/s12879-024-09887-9
+Antimicrobial Resistance in Bacterial Species Causing Orthopaedic Surgical Site Infections at a National Trauma Center, Kathmandu, Nepal.|https://dx.doi.org/10.4269/ajtmh.24-0038
+Trends and outcomes in community-onset and hospital-onset Staphylococcus bacteremia among hospitals in the United States from 2015 to 2020.|https://dx.doi.org/10.1017/ash.2024.402

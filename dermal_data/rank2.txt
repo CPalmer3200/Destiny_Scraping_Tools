@@ -21,3 +21,5 @@ Antibiotic Treatment Practices and Microbial Profile in Diabetic Foot Ulcers: A 
 Role of microRNAs in diabetic foot ulcers: Mechanisms and possible interventions.|https://dx.doi.org/10.1016/j.diabres.2024.111858
 Percentage area reduction at week 4 as a prognostic indicator of complete healing in patients treated with standard of care: a post hoc analysis.|https://dx.doi.org/10.12968/jowc.2024.0141
 Environmental Influence on Bacterial Lipid Composition: Insights from Pathogenic and Probiotic Strains.|https://dx.doi.org/10.1021/acsomega.4c03778
+Advances in stem cell therapy for diabetic foot.|https://dx.doi.org/10.3389/fgene.2024.1427205
+Diagnostic Accuracy of Dermatoscopy Versus Microbiological Culture and Polymerase Chain Reaction in the Diagnosis of Onychomycosis: A Cross-Sectional Study.|https://dx.doi.org/10.1111/myc.13799

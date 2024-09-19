@@ -18,3 +18,5 @@ Dual osmotic controlled release platform for antibiotics to overcome antimicrobi
 Effect of Saponin on Methylene Blue (MB) Photo-Antimicrobial Activity Against Planktonic and Biofilm Form of Bacteria.|https://dx.doi.org/10.1007/s12088-024-01245-2
 Presence and mRNA Expression of the sar Family Genes in Clinical and Non-clinical (Healthy Conjunctiva and Healthy Skin) Isolates of Staphylococcus epidermidis.|https://dx.doi.org/10.1007/s12088-024-01339-x
 Protracted Course of Staphylococcus lugdunensis Septic Arthritis in Native Knee Joint.|https://dx.doi.org/10.7759/cureus.66848
+PCL-gelatin honey scaffolds promote Staphylococcus aureus agrA expression in biofilms with Pseudomonas aeruginosa.|https://dx.doi.org/10.3389/fmicb.2024.1440658
+Antibacterial effect and mechanism of theaflavin against Listeria monocytogenes and its application on apple skins.|https://dx.doi.org/10.1111/1750-3841.17321

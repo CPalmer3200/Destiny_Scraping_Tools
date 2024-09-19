@@ -1,2 +1,3 @@
 Dysbiosis of the gut microbiota is associated with in-hospital mortality in patients with antibiotic-associated diarrhoea: a metagenomic analysis.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107330
 Adaptation mechanisms of Clostridioides difficile to auranofin and its impact on human gut microbiota.|https://dx.doi.org/10.1038/s41522-024-00551-3
+Comprehensive analyses of a large human gut Bacteroidales culture collection reveal species- and strain-level diversity and evolution.|https://dx.doi.org/10.1016/j.chom.2024.08.016

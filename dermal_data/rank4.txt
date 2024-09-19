@@ -33,3 +33,5 @@ Enhanced exploration of the mode of action of a five-layer foam dressing: critic
 An immunotherapeutic hydrogel booster inhibits tumor recurrence and promotes wound healing for postoperative management of melanoma.|https://dx.doi.org/10.1016/j.bioactmat.2024.08.028
 C-di-GMP@ZIF-8 nanocomposite injectable hydrogel based on modified chitosan and hyaluronic acid for infected wound healing by activating STING signaling.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135660
 Janus Structure Construction of Polyester-Cotton Fabrics for Achieving Excellent Moisture, Moisture-Permeability, and Antibacterial Capability.|https://dx.doi.org/10.1002/marc.202400556
+3D-printed porous titanium rods equipped with vancomycin-loaded hydrogels and polycaprolactone membranes for intelligent antibacterial drug release.|https://dx.doi.org/10.1038/s41598-024-72457-1
+Phloretin@cyclodextrin/natural silk protein/polycaprolactone nanofiber wound dressing with antioxidant and antibacterial activities promotes diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135724

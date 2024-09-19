@@ -24,3 +24,5 @@ Transcriptional Profiling of Staphylococcus aureus during the Transition from As
 Type 1 interferons promote Staphylococcus aureus nasal colonization by inducing phagocyte apoptosis.|https://dx.doi.org/10.1038/s41420-024-02173-2
 The developing pig respiratory microbiome harbors strains antagonistic to common respiratory pathogens.|https://dx.doi.org/10.1128/msystems.00626-24
 Nasal Carriage, Antimicrobial Susceptibility Profile, and Enterotoxin Genes of Staphylococcus aureus Isolated from Children with Asthma.|https://dx.doi.org/10.1007/s12088-024-01272-z
+Evaluation of methicillin-resistant Staphylococcus aureus nasal swab screening at a large comprehensive cancer center.|https://dx.doi.org/10.1017/ash.2024.370
+Diagnostic utility of nasal methicillin-resistant Staphylococcus aureus polymerase chain reaction testing in head and neck infection.|https://dx.doi.org/10.1017/ash.2024.376
