@@ -35,3 +35,7 @@ C-di-GMP@ZIF-8 nanocomposite injectable hydrogel based on modified chitosan and 
 Janus Structure Construction of Polyester-Cotton Fabrics for Achieving Excellent Moisture, Moisture-Permeability, and Antibacterial Capability.|https://dx.doi.org/10.1002/marc.202400556
 3D-printed porous titanium rods equipped with vancomycin-loaded hydrogels and polycaprolactone membranes for intelligent antibacterial drug release.|https://dx.doi.org/10.1038/s41598-024-72457-1
 Phloretin@cyclodextrin/natural silk protein/polycaprolactone nanofiber wound dressing with antioxidant and antibacterial activities promotes diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135724
+A photo-modulated nitric oxide delivering hydrogel for the accelerated healing of biofilm infected chronic wounds.|https://dx.doi.org/10.1016/j.actbio.2024.09.017
+Multifunctional Nanofiber Membranes Constructed by Microfluidic Blow-Spinning to Inhibit Scar Formation at Early Intervention Stage.|https://dx.doi.org/10.1021/acsami.4c13561
+Near-Infrared Carbon Dots With Antibacterial and Osteogenic Activities for Sonodynamic Therapy of Infected Bone Defects.|https://dx.doi.org/10.1002/smll.202404900
+Vanillin loaded-physically crosslinked PVA/chitosan/itaconic membranes for topical wound healing applications.|https://dx.doi.org/10.1177/22808000241281273

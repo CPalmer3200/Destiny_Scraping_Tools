@@ -26,3 +26,4 @@ The developing pig respiratory microbiome harbors strains antagonistic to common
 Nasal Carriage, Antimicrobial Susceptibility Profile, and Enterotoxin Genes of Staphylococcus aureus Isolated from Children with Asthma.|https://dx.doi.org/10.1007/s12088-024-01272-z
 Evaluation of methicillin-resistant Staphylococcus aureus nasal swab screening at a large comprehensive cancer center.|https://dx.doi.org/10.1017/ash.2024.370
 Diagnostic utility of nasal methicillin-resistant Staphylococcus aureus polymerase chain reaction testing in head and neck infection.|https://dx.doi.org/10.1017/ash.2024.376
+The added value of perineal swabs when screening for asymptomatic methicillin-resistant Staphylococcus aureus colonization and risk factors for perineal carriage.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116537

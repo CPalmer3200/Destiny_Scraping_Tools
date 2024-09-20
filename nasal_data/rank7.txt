@@ -76,3 +76,9 @@ Unravelling the physicochemical and antimicrobial mechanisms of human serum albu
 Pediatric calcaneal osteomyelitis: an analysis of literature-reported 128 cases.|https://dx.doi.org/10.1186/s12879-024-09887-9
 Antimicrobial Resistance in Bacterial Species Causing Orthopaedic Surgical Site Infections at a National Trauma Center, Kathmandu, Nepal.|https://dx.doi.org/10.4269/ajtmh.24-0038
 Trends and outcomes in community-onset and hospital-onset Staphylococcus bacteremia among hospitals in the United States from 2015 to 2020.|https://dx.doi.org/10.1017/ash.2024.402
+A Systematic Review of Distinction of Colonization and Infection in Studies that Address C. Acnes and Shoulder Surgery.|https://dx.doi.org/10.1016/j.jse.2024.07.038
+Study on the Synergistic Effects of Cu and Sr on Biodegradable Zn Alloys.|https://dx.doi.org/10.1021/acsami.4c13841
+Antimicrobial resistance among migrants in Europe: a systematic review and meta-analysis - update from 2017 to 2023.|https://dx.doi.org/10.1016/j.eclinm.2024.102801
+Urinary tract infection among people living with human immunodeficiency virus attending selected hospitals in Addis Ababa and Adama, central Ethiopia.|https://dx.doi.org/10.3389/fpubh.2024.1394842
+Analysis of the Pathogen Distribution and Antimicrobial Resistance after Plastic Surgery of the Urogenital System.|https://dx.doi.org/10.1097/GOX.0000000000006165
+The infectious capacity of Enterococcus faecalis, Staphylococcus aureus, and Staphylococcus saprophyticus in a porcine model of urinary tract infection.|https://dx.doi.org/10.1111/apm.13469
