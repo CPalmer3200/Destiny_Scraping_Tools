@@ -82,3 +82,4 @@ Antimicrobial resistance among migrants in Europe: a systematic review and meta-
 Urinary tract infection among people living with human immunodeficiency virus attending selected hospitals in Addis Ababa and Adama, central Ethiopia.|https://dx.doi.org/10.3389/fpubh.2024.1394842
 Analysis of the Pathogen Distribution and Antimicrobial Resistance after Plastic Surgery of the Urogenital System.|https://dx.doi.org/10.1097/GOX.0000000000006165
 The infectious capacity of Enterococcus faecalis, Staphylococcus aureus, and Staphylococcus saprophyticus in a porcine model of urinary tract infection.|https://dx.doi.org/10.1111/apm.13469
+Effect of Staphylococcus aureus colonization and immune defects on the pathogenesis of atopic dermatitis.|https://dx.doi.org/10.1007/s00203-024-04134-w

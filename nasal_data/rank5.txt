@@ -20,3 +20,4 @@ Clinical outcomes of breast reconstruction using omental flaps: A systematic rev
 Is Oncoplastic Surgery Safe in High-Risk Breast Cancer Phenotypes?|https://dx.doi.org/10.1002/jso.27899
 Clinical study of ultrasound-guided minimally invasive catheterization combined with compound cortex phellodendri fluid in the treatment of lactational breast abscess.|https://dx.doi.org/10.1371/journal.pone.0308548
 Comprehensive analysis of risk factors for postoperative wound infection following open reduction and internal fixation of Rib fractures.|https://dx.doi.org/10.1186/s12879-024-09946-1
+Risk Factors for Early Postoperative Morbidity and Mortality following Extremity Metastatic Pathologic or Impending Fracture Fixation.|https://dx.doi.org/10.1155/2024/3565134
