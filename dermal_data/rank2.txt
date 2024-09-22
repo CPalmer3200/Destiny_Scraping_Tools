@@ -23,3 +23,4 @@ Percentage area reduction at week 4 as a prognostic indicator of complete healin
 Environmental Influence on Bacterial Lipid Composition: Insights from Pathogenic and Probiotic Strains.|https://dx.doi.org/10.1021/acsomega.4c03778
 Advances in stem cell therapy for diabetic foot.|https://dx.doi.org/10.3389/fgene.2024.1427205
 Diagnostic Accuracy of Dermatoscopy Versus Microbiological Culture and Polymerase Chain Reaction in the Diagnosis of Onychomycosis: A Cross-Sectional Study.|https://dx.doi.org/10.1111/myc.13799
+Global, regional, and national burden of stroke and its risk factors, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.|https://dx.doi.org/10.1016/S1474-4422(24)00369-7

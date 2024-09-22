@@ -22,3 +22,5 @@ PCL-gelatin honey scaffolds promote Staphylococcus aureus agrA expression in bio
 Antibacterial effect and mechanism of theaflavin against Listeria monocytogenes and its application on apple skins.|https://dx.doi.org/10.1111/1750-3841.17321
 Acinetobacter pittii thrombophlebitis complicating cyanoacrylate closure procedure.|https://dx.doi.org/10.1016/j.jvscit.2024.101454
 The Use of Polyhexanide and Betaine Combined Preparation in Adult Burn Care in Sri Lanka.|https://dx.doi.org/10.7759/cureus.67274
+Comparative in vitro activity of Delafloxacin and other antimicrobials against isolates from patients with acute bacterial skin, skin-structure infection and osteomyelitis.|https://dx.doi.org/10.1016/j.bjid.2024.103867
+Response of bacterial and fungal communities in natural biofilms to bioavailable heavy metals in a mining-affected river.|https://dx.doi.org/10.1016/j.watres.2024.122470

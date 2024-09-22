@@ -21,3 +21,6 @@ Is Oncoplastic Surgery Safe in High-Risk Breast Cancer Phenotypes?|https://dx.do
 Clinical study of ultrasound-guided minimally invasive catheterization combined with compound cortex phellodendri fluid in the treatment of lactational breast abscess.|https://dx.doi.org/10.1371/journal.pone.0308548
 Comprehensive analysis of risk factors for postoperative wound infection following open reduction and internal fixation of Rib fractures.|https://dx.doi.org/10.1186/s12879-024-09946-1
 Risk Factors for Early Postoperative Morbidity and Mortality following Extremity Metastatic Pathologic or Impending Fracture Fixation.|https://dx.doi.org/10.1155/2024/3565134
+Is the combination of interfascial plane blocks sufficient for awake breast cancer surgery? An observational, prospective, proof-of-concept study.|https://dx.doi.org/10.1186/s12871-024-02725-0
+Preventive Paradox? Postoperative Outcomes After Risk-Reducing Mastectomy and Direct-to-Implant Breast Reconstruction.|https://dx.doi.org/10.1016/j.clbc.2024.08.023
+Global, regional, and national burden of stroke and its risk factors, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.|https://dx.doi.org/10.1016/S1474-4422(24)00369-7

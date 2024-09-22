@@ -39,3 +39,4 @@ A photo-modulated nitric oxide delivering hydrogel for the accelerated healing o
 Multifunctional Nanofiber Membranes Constructed by Microfluidic Blow-Spinning to Inhibit Scar Formation at Early Intervention Stage.|https://dx.doi.org/10.1021/acsami.4c13561
 Near-Infrared Carbon Dots With Antibacterial and Osteogenic Activities for Sonodynamic Therapy of Infected Bone Defects.|https://dx.doi.org/10.1002/smll.202404900
 Vanillin loaded-physically crosslinked PVA/chitosan/itaconic membranes for topical wound healing applications.|https://dx.doi.org/10.1177/22808000241281273
+Enhanced antibacterial activity of starch-alginate beads by a synergistic effect between Cu(2+) and Zn(2+) ions with a potential wound dressing application.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135798
