@@ -24,3 +24,4 @@ Acinetobacter pittii thrombophlebitis complicating cyanoacrylate closure procedu
 The Use of Polyhexanide and Betaine Combined Preparation in Adult Burn Care in Sri Lanka.|https://dx.doi.org/10.7759/cureus.67274
 Comparative in vitro activity of Delafloxacin and other antimicrobials against isolates from patients with acute bacterial skin, skin-structure infection and osteomyelitis.|https://dx.doi.org/10.1016/j.bjid.2024.103867
 Response of bacterial and fungal communities in natural biofilms to bioavailable heavy metals in a mining-affected river.|https://dx.doi.org/10.1016/j.watres.2024.122470
+Ume6-dependent pathways of morphogenesis and biofilm formation in Candida auris.|https://dx.doi.org/10.1128/spectrum.01531-24

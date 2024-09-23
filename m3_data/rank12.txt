@@ -1,2 +1,3 @@
 Evaluating the antibacterial, antibiofilm, and anti-toxigenic effects of postbiotics from lactic acid bacteria on Clostridium difficile.|https://dx.doi.org/10.18502/ijm.v16i4.16309
 Purified CDT toxins and a clean deletion within the CDT locus provide novel insights into the contribution of binary toxin in cellular inflammation and Clostridioides difficile infection.|https://dx.doi.org/10.1371/journal.ppat.1012568
+Data for action: the crucial role of hospitals in controlling Clostridioides difficile infection in England.|https://dx.doi.org/10.1016/j.lanmic.2024.100991
