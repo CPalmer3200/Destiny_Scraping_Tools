@@ -83,3 +83,6 @@ Urinary tract infection among people living with human immunodeficiency virus at
 Analysis of the Pathogen Distribution and Antimicrobial Resistance after Plastic Surgery of the Urogenital System.|https://dx.doi.org/10.1097/GOX.0000000000006165
 The infectious capacity of Enterococcus faecalis, Staphylococcus aureus, and Staphylococcus saprophyticus in a porcine model of urinary tract infection.|https://dx.doi.org/10.1111/apm.13469
 Effect of Staphylococcus aureus colonization and immune defects on the pathogenesis of atopic dermatitis.|https://dx.doi.org/10.1007/s00203-024-04134-w
+Incidence of infection rate for shunt implantation: the zero % rate is always a myth.|https://dx.doi.org/10.1007/s00381-024-06569-4
+Ticagrelor alters the membrane of Staphylococcus aureus and enhances the activity of vancomycin and daptomycin without eliciting cross-resistance.|https://dx.doi.org/10.1128/mbio.01322-24
+Fracture-related infections after osteosynthesis for hip fracture are associated with higher mortality: A retrospective single-center cohort study.|https://dx.doi.org/10.2340/17453674.2024.41980

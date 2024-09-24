@@ -25,3 +25,5 @@ The Use of Polyhexanide and Betaine Combined Preparation in Adult Burn Care in S
 Comparative in vitro activity of Delafloxacin and other antimicrobials against isolates from patients with acute bacterial skin, skin-structure infection and osteomyelitis.|https://dx.doi.org/10.1016/j.bjid.2024.103867
 Response of bacterial and fungal communities in natural biofilms to bioavailable heavy metals in a mining-affected river.|https://dx.doi.org/10.1016/j.watres.2024.122470
 Ume6-dependent pathways of morphogenesis and biofilm formation in Candida auris.|https://dx.doi.org/10.1128/spectrum.01531-24
+Insights into small-molecule compound CY-158-11 antibacterial activity against Staphylococcus aureus.|https://dx.doi.org/10.1128/msphere.00643-24
+Functional Study of desKR: a Lineage-Specific Two-Component System Positively Regulating Staphylococcus aureus Biofilm Formation.|https://dx.doi.org/10.2147/IDR.S485049

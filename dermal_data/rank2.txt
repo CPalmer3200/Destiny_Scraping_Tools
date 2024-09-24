@@ -25,3 +25,5 @@ Advances in stem cell therapy for diabetic foot.|https://dx.doi.org/10.3389/fgen
 Diagnostic Accuracy of Dermatoscopy Versus Microbiological Culture and Polymerase Chain Reaction in the Diagnosis of Onychomycosis: A Cross-Sectional Study.|https://dx.doi.org/10.1111/myc.13799
 Global, regional, and national burden of stroke and its risk factors, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.|https://dx.doi.org/10.1016/S1474-4422(24)00369-7
 Application of self-assembled antibacterial nanofiber loaded oriented artificial skin in infected diabetic-related wound regeneration.|https://dx.doi.org/10.1177/08853282241267253
+Lifestyle Medicine Approach to Wound Management.|https://dx.doi.org/10.1177/15598276241242026
+Electrospun nanofibrous membranes meet antibacterial nanomaterials: From preparation strategies to biomedical applications.|https://dx.doi.org/10.1016/j.bioactmat.2024.09.003

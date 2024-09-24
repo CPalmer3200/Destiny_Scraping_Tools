@@ -27,3 +27,4 @@ Nasal Carriage, Antimicrobial Susceptibility Profile, and Enterotoxin Genes of S
 Evaluation of methicillin-resistant Staphylococcus aureus nasal swab screening at a large comprehensive cancer center.|https://dx.doi.org/10.1017/ash.2024.370
 Diagnostic utility of nasal methicillin-resistant Staphylococcus aureus polymerase chain reaction testing in head and neck infection.|https://dx.doi.org/10.1017/ash.2024.376
 The added value of perineal swabs when screening for asymptomatic methicillin-resistant Staphylococcus aureus colonization and risk factors for perineal carriage.|https://dx.doi.org/10.1016/j.diagmicrobio.2024.116537
+Functional Study of desKR: a Lineage-Specific Two-Component System Positively Regulating Staphylococcus aureus Biofilm Formation.|https://dx.doi.org/10.2147/IDR.S485049

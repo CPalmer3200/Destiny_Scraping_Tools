@@ -40,3 +40,5 @@ Multifunctional Nanofiber Membranes Constructed by Microfluidic Blow-Spinning to
 Near-Infrared Carbon Dots With Antibacterial and Osteogenic Activities for Sonodynamic Therapy of Infected Bone Defects.|https://dx.doi.org/10.1002/smll.202404900
 Vanillin loaded-physically crosslinked PVA/chitosan/itaconic membranes for topical wound healing applications.|https://dx.doi.org/10.1177/22808000241281273
 Enhanced antibacterial activity of starch-alginate beads by a synergistic effect between Cu(2+) and Zn(2+) ions with a potential wound dressing application.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135798
+MOF@platelet-rich plasma antimicrobial GelMA dressing: structural characterization, bio-compatibility, and effect on wound healing efficacy.|https://dx.doi.org/10.1039/d4ra04546g
+Antimicrobial hydrogel foam dressing with controlled release of gallium maltolate for infection control in chronic wounds.|https://dx.doi.org/10.1016/j.bioactmat.2024.08.044
