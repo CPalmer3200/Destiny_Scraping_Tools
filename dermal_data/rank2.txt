@@ -27,3 +27,5 @@ Global, regional, and national burden of stroke and its risk factors, 1990-2021:
 Application of self-assembled antibacterial nanofiber loaded oriented artificial skin in infected diabetic-related wound regeneration.|https://dx.doi.org/10.1177/08853282241267253
 Lifestyle Medicine Approach to Wound Management.|https://dx.doi.org/10.1177/15598276241242026
 Electrospun nanofibrous membranes meet antibacterial nanomaterials: From preparation strategies to biomedical applications.|https://dx.doi.org/10.1016/j.bioactmat.2024.09.003
+A 3D radially aligned nanofiber scaffold co-loaded with LL37 mimetic peptide and PDGF-BB for the management of infected chronic wounds.|https://dx.doi.org/10.1016/j.mtbio.2024.101237
+Healthcare workers' perspectives on diabetic foot complications among type 2 diabetes mellitus patients in Fiji.|https://dx.doi.org/10.1371/journal.pone.0307972

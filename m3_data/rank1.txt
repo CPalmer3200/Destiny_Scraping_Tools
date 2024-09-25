@@ -10,3 +10,5 @@ Clostridioides difficile infection: an update.|https://dx.doi.org/10.53854/liim-
 Therapeutics involved in managing initial and recurrent Clostridium difficile infection: An updated literature review.|https://dx.doi.org/10.4292/wjgpt.v15.i5.95467
 End-to-end donor screening and manufacturing controls: complementary quality-based strategies to minimize patient risk for donor-derived microbiome therapeutics.|https://dx.doi.org/10.1080/19490976.2024.2402550
 Real-world effectiveness of fidaxomicin in patients at high risk of Clostridioides difficile recurrence.|https://dx.doi.org/10.1017/ash.2024.381
+Dysbiosis and fecal microbiota transplant: Contemplating progress in health, neurodegeneration and longevity.|https://dx.doi.org/10.1007/s10522-024-10136-4
+Rational Design of Live Biotherapeutic Products for the Prevention of Clostridioides difficile Infection.|https://dx.doi.org/10.1093/infdis/jiae470
