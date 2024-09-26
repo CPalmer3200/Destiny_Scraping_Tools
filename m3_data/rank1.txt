@@ -12,3 +12,6 @@ End-to-end donor screening and manufacturing controls: complementary quality-bas
 Real-world effectiveness of fidaxomicin in patients at high risk of Clostridioides difficile recurrence.|https://dx.doi.org/10.1017/ash.2024.381
 Dysbiosis and fecal microbiota transplant: Contemplating progress in health, neurodegeneration and longevity.|https://dx.doi.org/10.1007/s10522-024-10136-4
 Rational Design of Live Biotherapeutic Products for the Prevention of Clostridioides difficile Infection.|https://dx.doi.org/10.1093/infdis/jiae470
+Identification and preclinical evaluation of MMV676558 as a promising therapeutic candidate against Clostridioides difficile.|https://dx.doi.org/10.1016/j.biopha.2024.117469
+Fecal microbiota spores, live-brpk (VOWST™/VOS) for prevention of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1080/17460913.2024.2403892
+Gut Microbial and Metabolic Features Associated With Clostridioides difficile Infection Recurrence in Children.|https://dx.doi.org/10.1093/ofid/ofae506

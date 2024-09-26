@@ -29,3 +29,6 @@ Lifestyle Medicine Approach to Wound Management.|https://dx.doi.org/10.1177/1559
 Electrospun nanofibrous membranes meet antibacterial nanomaterials: From preparation strategies to biomedical applications.|https://dx.doi.org/10.1016/j.bioactmat.2024.09.003
 A 3D radially aligned nanofiber scaffold co-loaded with LL37 mimetic peptide and PDGF-BB for the management of infected chronic wounds.|https://dx.doi.org/10.1016/j.mtbio.2024.101237
 Healthcare workers' perspectives on diabetic foot complications among type 2 diabetes mellitus patients in Fiji.|https://dx.doi.org/10.1371/journal.pone.0307972
+Study on the mechanism of activating SIRT1/Nrf2/p62 pathway to mediate autophagy-dependent ferroptosis to promote healing of diabetic foot ulcers.|https://dx.doi.org/10.1007/s00210-024-03400-4
+E-DFu-Net: An efficient deep convolutional neural network models for Diabetic Foot Ulcer classification.|https://dx.doi.org/10.17305/bb.2024.11117
+Vitabiotic: An alternative approach to diabetic foot.|https://dx.doi.org/10.1111/wrr.13222

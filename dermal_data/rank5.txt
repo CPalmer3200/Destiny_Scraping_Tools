@@ -27,3 +27,6 @@ Response of bacterial and fungal communities in natural biofilms to bioavailable
 Ume6-dependent pathways of morphogenesis and biofilm formation in Candida auris.|https://dx.doi.org/10.1128/spectrum.01531-24
 Insights into small-molecule compound CY-158-11 antibacterial activity against Staphylococcus aureus.|https://dx.doi.org/10.1128/msphere.00643-24
 Functional Study of desKR: a Lineage-Specific Two-Component System Positively Regulating Staphylococcus aureus Biofilm Formation.|https://dx.doi.org/10.2147/IDR.S485049
+Dialdehyde cellulose nanofibrils/polyquaternium stabilized ultra-fine silver nanoparticles for synergistic antibacterial therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135971
+Staphylococcus epidermidis biofilm in inflammatory breast cancer and its treatment strategies.|https://dx.doi.org/10.1016/j.bioflm.2024.100220
+Synergistic effect of essential oils and chlorhexidine against planktonic and biofilm-forming cells of Malassezia pachydermatis.|https://dx.doi.org/10.1016/j.vas.2024.100397

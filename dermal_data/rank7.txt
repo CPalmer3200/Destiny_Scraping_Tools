@@ -7,3 +7,4 @@ A Spironolactone-Based Prototype of an Innovative Biomedical Patch for Wound Dre
 Fiber/hydrogel hybrid wound dressing based on eggshell membrane containing postbiotic ingredients.|https://dx.doi.org/10.1016/j.bioadv.2024.214004
 Probing Dermal Immunity to Mycobacteria through a Controlled Human Infection Model.|https://dx.doi.org/10.4049/immunohorizons.2400053
 Mycophenolate mofetil directly modulates myeloid viability and pro-fibrotic activation of human macrophages.|https://dx.doi.org/10.1093/rheumatology/keae517
+Exploring 2-mercapto-N-arylacetamide analogs as promising anti-melanogenic agents: in vitro and in vivo evaluation.|https://dx.doi.org/10.1039/d4ob01225a

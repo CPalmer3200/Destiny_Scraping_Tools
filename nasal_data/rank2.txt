@@ -1,2 +1,4 @@
 Predictive values of methicillin-resistant Staphylococcus aureus nasal swabs for pneumonia in burn ICU patients.|https://dx.doi.org/10.1016/j.burns.2024.08.025
 Radiological examination of greater palatine canal medial wall dehiscence.|https://dx.doi.org/10.1007/s00276-024-03488-6
+Colonisation by multidrug-resistant organisms in health workers in primary care: narrow spectrum oral antimicrobials are a risk factor.|https://dx.doi.org/10.1007/s10096-024-04953-1
+Rapid de-escalation of anti-MRSA therapy guided by S. aureus nares screening for patients with pneumonia: protocol of a randomized controlled trial (SNAP study).|https://dx.doi.org/10.3389/fmed.2024.1416904
