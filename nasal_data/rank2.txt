@@ -2,3 +2,5 @@ Predictive values of methicillin-resistant Staphylococcus aureus nasal swabs for
 Radiological examination of greater palatine canal medial wall dehiscence.|https://dx.doi.org/10.1007/s00276-024-03488-6
 Colonisation by multidrug-resistant organisms in health workers in primary care: narrow spectrum oral antimicrobials are a risk factor.|https://dx.doi.org/10.1007/s10096-024-04953-1
 Rapid de-escalation of anti-MRSA therapy guided by S. aureus nares screening for patients with pneumonia: protocol of a randomized controlled trial (SNAP study).|https://dx.doi.org/10.3389/fmed.2024.1416904
+The transmission risk of multidrug-resistant organisms between hospital patients and their pets - a case-control study, Germany, 2019 to 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.39.2300714
+Mupirocin Ointment Effect on Polyposis Recurrence After Sinus Surgery.|https://dx.doi.org/10.22038/ijorl.2024.70685.3405

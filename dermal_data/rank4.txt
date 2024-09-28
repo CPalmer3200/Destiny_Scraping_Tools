@@ -44,3 +44,7 @@ MOF@platelet-rich plasma antimicrobial GelMA dressing: structural characterizati
 Antimicrobial hydrogel foam dressing with controlled release of gallium maltolate for infection control in chronic wounds.|https://dx.doi.org/10.1016/j.bioactmat.2024.08.044
 Lignosulfonate-doped polyaniline-reinforced poly(vinyl alcohol) hydrogels as highly sensitive, antimicrobial, and UV-resistant multifunctional sensors.|https://dx.doi.org/10.1016/j.ijbiomac.2024.135959
 Optimized Incorporation of Silver Nanoparticles onto Cotton Fabric Using k-Carrageenan Coatings for Enhanced Antimicrobial Properties.|https://dx.doi.org/10.1021/acsabm.4c01002
+A three-dimensional printable conductive composite dressing for accelerating wound healing under electrical stimulation.|https://dx.doi.org/10.1016/j.colsurfb.2024.114264
+Synthesis and Characterization of a Novel Chitosan-Based Nanoparticle-Hydrogel Composite System Promising for Skin Wound Drug Delivery.|https://dx.doi.org/10.3390/md22090428
+In Vitro Wound-Healing Potential of Phenolic and Polysaccharide Extracts of Aloe vera Gel.|https://dx.doi.org/10.3390/jfb15090266
+Antibacterial Properties of Grape Seed Extract-Enriched Cellulose Hydrogels for Potential Dental Application: In Vitro Assay, Cytocompatibility, and Biocompatibility.|https://dx.doi.org/10.3390/gels10090606

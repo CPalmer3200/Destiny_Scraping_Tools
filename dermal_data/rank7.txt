@@ -8,3 +8,5 @@ Fiber/hydrogel hybrid wound dressing based on eggshell membrane containing postb
 Probing Dermal Immunity to Mycobacteria through a Controlled Human Infection Model.|https://dx.doi.org/10.4049/immunohorizons.2400053
 Mycophenolate mofetil directly modulates myeloid viability and pro-fibrotic activation of human macrophages.|https://dx.doi.org/10.1093/rheumatology/keae517
 Exploring 2-mercapto-N-arylacetamide analogs as promising anti-melanogenic agents: in vitro and in vivo evaluation.|https://dx.doi.org/10.1039/d4ob01225a
+Antibacterial and therapeutic potential of historic deposits of Silesian healing clay - terra sigillata Silesiaca.|https://dx.doi.org/10.1016/j.jep.2024.118853
+Microneedle-based arrays - breakthrough strategy for the treatment of bacterial and fungal skin infections.|https://dx.doi.org/10.1016/j.micinf.2024.105426

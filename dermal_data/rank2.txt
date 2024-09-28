@@ -32,3 +32,4 @@ Healthcare workers' perspectives on diabetic foot complications among type 2 dia
 Study on the mechanism of activating SIRT1/Nrf2/p62 pathway to mediate autophagy-dependent ferroptosis to promote healing of diabetic foot ulcers.|https://dx.doi.org/10.1007/s00210-024-03400-4
 E-DFu-Net: An efficient deep convolutional neural network models for Diabetic Foot Ulcer classification.|https://dx.doi.org/10.17305/bb.2024.11117
 Vitabiotic: An alternative approach to diabetic foot.|https://dx.doi.org/10.1111/wrr.13222
+Prevalence and Antibiotic Resistance of Klebsiella pneumoniae in Diabetic Foot Ulcer.|https://dx.doi.org/10.7759/cureus.67824

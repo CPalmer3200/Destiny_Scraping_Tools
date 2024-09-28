@@ -4,3 +4,7 @@ Bacterial infections and outcomes of inpatients with COVID-19 in the intensive c
 MRI Findings of Acute on Chronic Osteomyelitis of Tibia in a 12-Year-Old Child.|https://dx.doi.org/10.7759/cureus.67679
 Global Antimicrobial Susceptibility Patterns of Staphylococcus aureus in Atopic Dermatitis: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1001/jamadermatol.2024.3360
 Antimicrobial Susceptibility Profile of Methicillin-Resistant Staphylococcus Aureus Isolated from Clinical Samples at Bac Ninh Provincial General Hospital, Vietnam.|https://dx.doi.org/10.2147/IDR.S477031
+Enhancing Dental Alginate with Syzygium aromaticum, Zingiber officinale and Green Silver Nanoparticles: A Nature-Enhanced Approach for Superior Infection Control.|https://dx.doi.org/10.3390/gels10090600
+Methicillin-resistant Staphylococcus aureus prevalence in food-producing animals and food products in Saudi Arabia: A review.|https://dx.doi.org/10.14202/vetworld.2024.1753-1764
+High mortality rate and restricted mobility in above knee amputation following periprosthetic joint infection after total knee arthroplasty: A systematic review.|https://dx.doi.org/10.1007/s00402-024-05578-x
+Bacterial Profile, Susceptibility Patterns, and Factors Associated with Culture-Positive Sputum Among HIV Patients Presenting with a Cough in Northern Uganda.|https://dx.doi.org/10.2147/HIV.S477096
