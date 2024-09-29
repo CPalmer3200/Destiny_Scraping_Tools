@@ -33,3 +33,6 @@ Study on the mechanism of activating SIRT1/Nrf2/p62 pathway to mediate autophagy
 E-DFu-Net: An efficient deep convolutional neural network models for Diabetic Foot Ulcer classification.|https://dx.doi.org/10.17305/bb.2024.11117
 Vitabiotic: An alternative approach to diabetic foot.|https://dx.doi.org/10.1111/wrr.13222
 Prevalence and Antibiotic Resistance of Klebsiella pneumoniae in Diabetic Foot Ulcer.|https://dx.doi.org/10.7759/cureus.67824
+Hospitalization and Health Resource Utilization in Emergency Department Cases of Diabetic Foot Infections in the U.S. from 2012 to 2021: A Nationally Representative Analysis.|https://dx.doi.org/10.3390/jcm13185361
+Computer-aided drug design to generate a unique antibiotic family.|https://dx.doi.org/10.1038/s41467-024-52797-2
+Microenvironment-responsive, multimodulated herbal polysaccharide hydrogel for diabetic foot ulcer healing.|https://dx.doi.org/10.1038/s41598-024-72972-1

@@ -32,3 +32,7 @@ Staphylococcus epidermidis biofilm in inflammatory breast cancer and its treatme
 Synergistic effect of essential oils and chlorhexidine against planktonic and biofilm-forming cells of Malassezia pachydermatis.|https://dx.doi.org/10.1016/j.vas.2024.100397
 Reactive oxygen species-inducing itraconazole and its anti-biofilm activity against resistant Candida parapsilosis sensu lato biofilm cells isolated from patients with recalcitrant onychomycosis.|https://dx.doi.org/10.1007/s00403-024-03382-6
 Thermo-responsive cascade antimicrobial platform for precise biofilm removal and enhanced wound healing.|https://dx.doi.org/10.1093/burnst/tkae038
+Emerging Trends in Dissolving-Microneedle Technology for Antimicrobial Skin-Infection Therapies.|https://dx.doi.org/10.3390/pharmaceutics16091188
+Production and Antibacterial Activity of Atypical Siderophore from Pseudomonas sp. QCS59 Recovered from Harpachene schimperi.|https://dx.doi.org/10.3390/ph17091126
+Formulation and optimization of surfactant-modified chitosan nanoparticles loaded with cefdinir for novel topical drug delivery: Elevating wound healing efficacy with enhanced antibacterial properties.|https://dx.doi.org/10.1016/j.ijpharm.2024.124763
+Curcumin-loaded gold nanoparticles with enhanced antibacterial efficacy and wound healing properties in diabetic rats.|https://dx.doi.org/10.1016/j.ijpharm.2024.124761

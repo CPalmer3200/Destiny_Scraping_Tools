@@ -4,3 +4,4 @@ Intraoperative Transient Central Diabetes Insipidus Status Post-Cerebellopontine
 Oncologic outcomes of neoadjuvant chemotherapy and lymph node dissection with partial cystectomy for muscle-invasive bladder cancer.|https://dx.doi.org/10.21037/tau-24-165
 New risk classification adapting SCAI shock stages to patients with pulmonary embolism (RISA-PE).|https://dx.doi.org/10.23736/S2724-5683.24.06609-2
 Outpatient use of antibiotics in uncomplicated diverticulitis decreases hospital admissions.|https://dx.doi.org/10.1002/iid3.70031
+Hand and environmental hygiene: respective roles for MRSA, multi-resistant gram negatives, Clostridioides difficile, and Candida spp.|https://dx.doi.org/10.1186/s13756-024-01461-x

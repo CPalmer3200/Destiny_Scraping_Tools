@@ -48,3 +48,6 @@ A three-dimensional printable conductive composite dressing for accelerating wou
 Synthesis and Characterization of a Novel Chitosan-Based Nanoparticle-Hydrogel Composite System Promising for Skin Wound Drug Delivery.|https://dx.doi.org/10.3390/md22090428
 In Vitro Wound-Healing Potential of Phenolic and Polysaccharide Extracts of Aloe vera Gel.|https://dx.doi.org/10.3390/jfb15090266
 Antibacterial Properties of Grape Seed Extract-Enriched Cellulose Hydrogels for Potential Dental Application: In Vitro Assay, Cytocompatibility, and Biocompatibility.|https://dx.doi.org/10.3390/gels10090606
+Antimicrobial Hydroxyethyl-Cellulose-Based Composite Films with Zinc Oxide and Mesoporous Silica Loaded with Cinnamon Essential Oil.|https://dx.doi.org/10.3390/pharmaceutics16091225
+Exploring the Antibacterial and Regenerative Properties of a Two-Stage Alginate Wound Dressing in a Rat Model of Purulent Wounds.|https://dx.doi.org/10.3390/biomedicines12092122
+Three in One with Dual-Functional Hydrogel of Lactoferrin/NZ2114/LMSH Promoting Staphylococcus aureus-Infected Wound Healing.|https://dx.doi.org/10.3390/antibiotics13090889
