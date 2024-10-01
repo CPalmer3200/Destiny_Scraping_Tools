@@ -51,3 +51,10 @@ Antibacterial Properties of Grape Seed Extract-Enriched Cellulose Hydrogels for 
 Antimicrobial Hydroxyethyl-Cellulose-Based Composite Films with Zinc Oxide and Mesoporous Silica Loaded with Cinnamon Essential Oil.|https://dx.doi.org/10.3390/pharmaceutics16091225
 Exploring the Antibacterial and Regenerative Properties of a Two-Stage Alginate Wound Dressing in a Rat Model of Purulent Wounds.|https://dx.doi.org/10.3390/biomedicines12092122
 Three in One with Dual-Functional Hydrogel of Lactoferrin/NZ2114/LMSH Promoting Staphylococcus aureus-Infected Wound Healing.|https://dx.doi.org/10.3390/antibiotics13090889
+A multifunctional hydrogel dressing loaded with antibiotics for healing of infected wound.|https://dx.doi.org/10.1016/j.ijpharm.2024.124770
+Electrospun Carvacrol-Loaded Polyacrylonitrile/Poly(ethylene oxide) Nanofibrous Films as Wound Dressings.|https://dx.doi.org/10.1021/acsomega.4c03140
+A chitosan-α-naphthaldehyde hydrogel film containing pineapple leaf fibers for wound dressing applications.|https://dx.doi.org/10.1039/d4tb01318b
+Optimization of chitosan-gelatin-based 3D-printed scaffolds for tissue engineering and drug delivery applications.|https://dx.doi.org/10.1016/j.ijpharm.2024.124776
+Vanillic Acid-based Pro-coagulant Hemostatic Shape Memory Polymer Foams with Antimicrobial Properties against Drug-resistant Bacteria.|https://dx.doi.org/10.1016/j.actbio.2024.09.036
+Dual action electrochemical bandage operated by a programmable multimodal wearable potentiostat.|https://dx.doi.org/10.1016/j.bios.2024.116791
+Precise Clearance of Intracellular MRSA via Internally and Externally Mediated Bioorthogonal Activation of Micro/Nano Hydrogel Microspheres.|https://dx.doi.org/10.1002/advs.202402370

@@ -36,3 +36,5 @@ Emerging Trends in Dissolving-Microneedle Technology for Antimicrobial Skin-Infe
 Production and Antibacterial Activity of Atypical Siderophore from Pseudomonas sp. QCS59 Recovered from Harpachene schimperi.|https://dx.doi.org/10.3390/ph17091126
 Formulation and optimization of surfactant-modified chitosan nanoparticles loaded with cefdinir for novel topical drug delivery: Elevating wound healing efficacy with enhanced antibacterial properties.|https://dx.doi.org/10.1016/j.ijpharm.2024.124763
 Curcumin-loaded gold nanoparticles with enhanced antibacterial efficacy and wound healing properties in diabetic rats.|https://dx.doi.org/10.1016/j.ijpharm.2024.124761
+Preventing bacterial adhesion to skin by altering their physicochemical cell surface properties specifically.|https://dx.doi.org/10.1038/s41522-024-00568-8
+Treatment effects of two pharmaceutical skin care creams for xerotic feet among persons with diabetes: Rationale and design of a two-armed double blind randomized controlled trial.|https://dx.doi.org/10.1016/j.conctc.2024.101372

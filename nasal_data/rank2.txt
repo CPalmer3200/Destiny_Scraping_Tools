@@ -5,3 +5,5 @@ Rapid de-escalation of anti-MRSA therapy guided by S. aureus nares screening for
 The transmission risk of multidrug-resistant organisms between hospital patients and their pets - a case-control study, Germany, 2019 to 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.39.2300714
 Mupirocin Ointment Effect on Polyposis Recurrence After Sinus Surgery.|https://dx.doi.org/10.22038/ijorl.2024.70685.3405
 "One Health" Perspective on Prevalence of ESKAPE Pathogens in Africa: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/pathogens13090787
+MRSA nasal screening predictive values assessment in patients with osteomyelitis.|https://dx.doi.org/10.1017/ash.2024.368
+Prevalence of the cefazolin inoculum effect (CzIE) in nasal colonizing methicillin-susceptible Staphylococcus aureus in patients from intensive care units in Colombia and use of a modified rapid nitrocefin test for detection.|https://dx.doi.org/10.1128/aac.00898-24

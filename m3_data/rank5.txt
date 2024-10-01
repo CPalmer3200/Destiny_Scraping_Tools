@@ -4,3 +4,4 @@ Comprehensive analyses of a large human gut Bacteroidales culture collection rev
 [Molecular characteristics and antibiotic resistance of Clostridioides difficile isolated from children in China].|https://dx.doi.org/10.3760/cma.j.cn112338-20240530-00315
 Which trials do we need? Fidaxomicin plus either intravenous metronidazole or tigecycline versus vancomycin plus either intravenous metronidazole or tigecycline for fulminant Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.cmi.2024.09.017
 Identification of Antimicrobial-Resistant Zoonotic Bacteria in Swine Production: Implications from the One Health Perspective.|https://dx.doi.org/10.3390/antibiotics13090883
+Evaluation of an automated far ultraviolet-C light technology for decontamination of surfaces and aerosolized viruses in bathrooms.|https://dx.doi.org/10.1186/s13756-024-01473-7

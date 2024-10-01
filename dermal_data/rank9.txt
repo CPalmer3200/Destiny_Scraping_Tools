@@ -13,3 +13,4 @@ The developing pig respiratory microbiome harbors strains antagonistic to common
 Identification of a genetic region linked to tolerance to MRSA infection using Collaborative Cross mice.|https://dx.doi.org/10.1371/journal.pgen.1011378
 Comparison of bloodstream infections due to Corynebacterium striatum, MRSA, and MRSE.|https://dx.doi.org/10.1186/s12879-024-09883-z
 TRPA1 Influences Staphylococcus aureus Skin Infection in Mice and Associates with HIF-1a and MAPK Pathway Modulation.|https://dx.doi.org/10.3390/ijms25189933
+A case of exudative pleuritis caused by Staphylococcus warneri.|https://dx.doi.org/10.26444/aaem/174906

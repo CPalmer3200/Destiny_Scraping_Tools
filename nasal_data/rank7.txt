@@ -19,3 +19,10 @@ Real-World Clinical Characteristics and Outcomes with Daptomycin Use in Pediatri
 Microbiological Profile of Instrumented Spinal Infections: 10-Year Study at a French Spine Center.|https://dx.doi.org/10.3390/antibiotics13090791
 Hand and environmental hygiene: respective roles for MRSA, multi-resistant gram negatives, Clostridioides difficile, and Candida spp.|https://dx.doi.org/10.1186/s13756-024-01461-x
 Standardized treatment of infection after anterior cruciate ligament reconstruction.|https://dx.doi.org/10.1038/s41598-024-65546-8
+Clinical, demographic characteristics and antimicrobial resistance profile of Staphylococcus aureus isolated in clinical samples from pediatric patients in a tertiary hospital in Rio de Janeiro: 7-year longitudinal study.|https://dx.doi.org/10.1186/s12879-024-09986-7
+Preventing bacterial adhesion to skin by altering their physicochemical cell surface properties specifically.|https://dx.doi.org/10.1038/s41522-024-00568-8
+Staphylococcus aureus infection disparities among Hispanics and non-Hispanics in Yuma, Arizona.|https://dx.doi.org/10.1017/ash.2024.390
+Nonabsorbable Barbed Sutures for Diastasis Recti. A Useful Device with Unexpected Risk: Two Case Reports.|https://dx.doi.org/10.1055/a-2181-8382
+Combining Multiple Spectroscopic Techniques to Reveal the Effects of Staphylococcus aureus Infection on Human Bone Tissues.|https://dx.doi.org/10.1177/00037028241278903
+Genome-wide comparative analysis of CC1 Staphylococcus aureus between colonization and infection.|https://dx.doi.org/10.1186/s40001-024-02076-z
+Vanillic Acid-based Pro-coagulant Hemostatic Shape Memory Polymer Foams with Antimicrobial Properties against Drug-resistant Bacteria.|https://dx.doi.org/10.1016/j.actbio.2024.09.036

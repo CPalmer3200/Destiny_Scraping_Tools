@@ -3,3 +3,4 @@ Purified CDT toxins and a clean deletion within the CDT locus provide novel insi
 Data for action: the crucial role of hospitals in controlling Clostridioides difficile infection in England.|https://dx.doi.org/10.1016/j.lanmic.2024.100991
 Clostridioides difficile Infections in Children: What Is the Optimal Laboratory Diagnostic Method?|https://dx.doi.org/10.3390/microorganisms12091785
 Crystal structure of a Clostridioides difficile multiple antibiotic resistance regulator (MarR) CD0473 suggests a potential redox-regulated function.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136036
+Progranulin protects against Clostridioides difficile infection by enhancing IL-22 production.|https://dx.doi.org/10.1080/19490976.2024.2409220

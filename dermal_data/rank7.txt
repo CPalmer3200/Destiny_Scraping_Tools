@@ -12,3 +12,4 @@ Antibacterial and therapeutic potential of historic deposits of Silesian healing
 Microneedle-based arrays - breakthrough strategy for the treatment of bacterial and fungal skin infections.|https://dx.doi.org/10.1016/j.micinf.2024.105426
 Evaluation of Biotechnological Active Peptides Secreted by Saccharomyces cerevisiae with Potential Skin Benefits.|https://dx.doi.org/10.3390/antibiotics13090881
 Discovery of two new actinobacteria, Micromonospora palythoicola sp. nov. and Streptomyces poriticola sp. nov., isolated from marine invertebrates.|https://dx.doi.org/10.1038/s41598-024-73040-4
+Wound Healing and Acute Dermal Toxicity Studies of Ludwigia octovalvis (Jacq.) P. H. Raven (Onagraceae) in Sprague-Dawley Rats.|https://dx.doi.org/10.1155/2024/9576349
