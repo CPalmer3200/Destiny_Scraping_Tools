@@ -9,3 +9,4 @@ Postoperative pancytopenia in a patient with giant parathyroid adenoma and brown
 Efficacy of Closed-Incision Negative Pressure Wound Therapy in Reducing Postoperative Complications in Breast Reconstruction After Radiotherapy: A Propensity Score Analysis.|https://dx.doi.org/10.1093/asjof/ojae073
 Impact of Neoadjuvant Chemotherapy and Preoperative Irradiation on Early Complications in Direct-to-Implant Breast Reconstruction.|https://dx.doi.org/10.1055/a-2358-8864
 Advancing Reduction Mammaplasty Surgery: Advancements and Outcomes with Tumescent Local Anaesthesia.|https://dx.doi.org/10.1007/s00266-024-04412-4
+Development and validation of a model for early survival prediction following liver transplantation based on donor and recipient characteristics.|https://dx.doi.org/10.1080/07853890.2024.2410404

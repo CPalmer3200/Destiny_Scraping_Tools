@@ -1,2 +1,3 @@
 Insights into Gut Dysbiosis: Inflammatory Diseases, Obesity, and Restoration Approaches.|https://dx.doi.org/10.3390/ijms25179715
 Diagnostic and therapeutic management of Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.medcli.2024.06.004
+'Does this fecal microbiota transplant work?' Quality assurance of capsule based fecal microbiota transplant production.|https://dx.doi.org/10.1080/00365521.2024.2401460
