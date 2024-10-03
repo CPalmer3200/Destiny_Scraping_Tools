@@ -28,3 +28,6 @@ Genome-wide comparative analysis of CC1 Staphylococcus aureus between colonizati
 Vanillic Acid-based Pro-coagulant Hemostatic Shape Memory Polymer Foams with Antimicrobial Properties against Drug-resistant Bacteria.|https://dx.doi.org/10.1016/j.actbio.2024.09.036
 Associations between respiratory pathogens and lung function in primary ciliary dyskinesia: cross-sectional analysis from the PROVALF-PCD cohort.|https://dx.doi.org/10.1183/23120541.00253-2024
 Case 3: Shock after Gluteal Abscess Incision and Drainage in a 15-month-old Girl.|https://dx.doi.org/10.1542/pir.2023-006019
+Brodie's abscess of the calcaneus due to Serratia marcescens.|https://dx.doi.org/10.1136/bcr-2024-260739
+Therapeutic Indices of Topical Antiseptics in Wound Care: A Systematic Review.|https://dx.doi.org/10.1097/ASW.0000000000000233
+Intraspecific cooperation allows the survival of Staphylococcus aureus staff: a novel strategy for disease relapse.|https://dx.doi.org/10.1186/s12879-024-10001-2

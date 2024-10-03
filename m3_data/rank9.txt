@@ -6,3 +6,4 @@ Management of C2 fractures following multiple classifications, a narrative revie
 Comparison of toxin gene expression levels and molecular typing of Clostridioides difficile strains isolated from patients with diarrhea.|https://dx.doi.org/10.22037/ghfbb.v17i3.2982
 Impact of Clostridium difficile Infection Versus Colonization on Postoperative Outcomes After Oncological Colorectal Surgery: An Observational Single-Center Study With Propensity Score Analysis.|https://dx.doi.org/10.1002/jso.27923
 Incubation period of Clostridioides difficile infection in hospitalized patients and long-term care facility residents: a prospective cohort study.|https://dx.doi.org/10.1017/ash.2024.392
+De novo design of mini-protein binders broadly neutralizing Clostridioides difficile toxin B variants.|https://dx.doi.org/10.1038/s41467-024-52582-1
