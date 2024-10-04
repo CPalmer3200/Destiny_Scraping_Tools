@@ -1,2 +1,8 @@
 Systematic review and meta-analysis of the diagnostic accuracy of inflammatory markers for infected diabetic foot ulcer.|https://dx.doi.org/10.1016/j.jtv.2024.09.007
 Impact of the COVID-19 pandemic on patients with peripheral arterial disease in China: a multicenter cross-sectional study.|https://dx.doi.org/10.1038/s41598-024-71247-z
+Does the use of DACC-coated dressings improve clinical outcomes for hard to heal wounds: A systematic review.|https://dx.doi.org/10.1111/iwj.70053
+Mechanical Force on Hydrogel Implication on Enhanced Drug Release, Antibacterial, and M2 Macrophage Polarization: New Insights Alleviate Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsami.4c13633
+Serum Pharmacokinetics and Bone Penetration of Novel Broad-Spectrum Anti-MRSA Agent Levonadifloxacin in Wistar Rats.|https://dx.doi.org/10.1089/mdr.2024.0118
+Recurrence rates after healing in patients with neuroischemic diabetic foot ulcers healed with and without sucrose octasulfate-impregnated dressings: A 1-year comparative prospective study.|https://dx.doi.org/10.1111/iwj.70028
+COX-2 targeted therapy for diabetic foot ulcers using T7-enhanced CS-PVA membranes.|https://dx.doi.org/10.1016/j.intimp.2024.113206
+Dysbiosis and diabetic foot ulcers: A metabolic perspective of Staphylococcus aureus infection.|https://dx.doi.org/10.1016/j.biopha.2024.117498

@@ -31,3 +31,8 @@ Case 3: Shock after Gluteal Abscess Incision and Drainage in a 15-month-old Girl
 Brodie's abscess of the calcaneus due to Serratia marcescens.|https://dx.doi.org/10.1136/bcr-2024-260739
 Therapeutic Indices of Topical Antiseptics in Wound Care: A Systematic Review.|https://dx.doi.org/10.1097/ASW.0000000000000233
 Intraspecific cooperation allows the survival of Staphylococcus aureus staff: a novel strategy for disease relapse.|https://dx.doi.org/10.1186/s12879-024-10001-2
+A Consensus on Staphylococcus aureus Exacerbated Atopic Dermatitis and the Need for a Novel Treatment.|https://dx.doi.org/10.36849/JDD.2024.8240
+Occurrence, genetic diversity, and antimicrobial resistance of methicillin-resistant Staphylococcus spp. in hospitalized and non-hospitalized cats in Brazil.|https://dx.doi.org/10.1371/journal.pone.0309711
+Efficacy and safety of vancomycin for local application in the prevention of surgical site infection after joint arthroplasty: a systematic review and meta-analysis.|https://dx.doi.org/10.1530/EOR-23-0023
+Hand eczema and changes in the skin microbiome after 2 weeks of topical corticosteroid treatment.|https://dx.doi.org/10.1111/jdv.20366
+Comparative Evaluation of the Antibiotic Resistance Profile of Staphylococcus aureus Isolated From Breeders and Livestock.|https://dx.doi.org/10.3389/ijph.2024.1607603

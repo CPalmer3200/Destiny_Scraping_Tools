@@ -1,2 +1,7 @@
 Photoresponsive Hydrogel Dressing Containing Nanoparticles with Excellent Synergetic Photodynamic, Photothermal, and Chemodynamic Therapies for Effective Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.4c01063
 Oral delivery of Sunitinib malate using carboxymethyl cellulose/poly(acrylic acid-itaconic acid)/Cloisite 30B nanocomposite hydrogel as a pH-responsive carrier.|https://dx.doi.org/10.1186/s12896-024-00883-0
+3D Printing of Biocompatible and Antibacterial Silica-Silk-Chitosan-Based Hybrid Aerogel Scaffolds Loaded with Propolis.|https://dx.doi.org/10.1021/acsabm.4c00697
+A Janus Adhesive Hydrogel with Integrated Attack and Defense for Bacteria Killing and Antifouling.|https://dx.doi.org/10.34133/bmef.0059
+Injectable Hydrogel With Glycyrrhizic Acid and Asiaticoside-Loaded Liposomes for Wound Healing.|https://dx.doi.org/10.1111/jocd.16606
+Antimicrobial effects of a multimodal wound matrix against methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa in an in vitro and an in vivo porcine wound model.|https://dx.doi.org/10.1111/iwj.70059
+Crosslinking gelatin with robust inherent antibacterial natural polymer for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136144

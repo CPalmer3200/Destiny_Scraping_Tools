@@ -17,3 +17,4 @@ Fecal microbiota spores, live-brpk (VOWST™/VOS) for prevention of recurrent Cl
 Gut Microbial and Metabolic Features Associated With Clostridioides difficile Infection Recurrence in Children.|https://dx.doi.org/10.1093/ofid/ofae506
 Clostridium difficile infection following colon subtotal resection in a patient with gallstones: A case report and review of literature.|https://dx.doi.org/10.4240/wjgs.v16.i9.3048
 A Retrospective Assessment of Guideline Adherence and Treatment Outcomes From Clostridioides difficile Infection Following the IDSA 2021 Clinical Guideline Update: Clostridioides difficile Infection.|https://dx.doi.org/10.1093/ofid/ofae524
+A multivalent mRNA-LNP vaccine protects against Clostridioides difficile infection.|https://dx.doi.org/10.1126/science.adn4955
