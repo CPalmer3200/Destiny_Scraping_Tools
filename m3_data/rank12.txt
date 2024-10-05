@@ -4,3 +4,4 @@ Data for action: the crucial role of hospitals in controlling Clostridioides dif
 Clostridioides difficile Infections in Children: What Is the Optimal Laboratory Diagnostic Method?|https://dx.doi.org/10.3390/microorganisms12091785
 Crystal structure of a Clostridioides difficile multiple antibiotic resistance regulator (MarR) CD0473 suggests a potential redox-regulated function.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136036
 Progranulin protects against Clostridioides difficile infection by enhancing IL-22 production.|https://dx.doi.org/10.1080/19490976.2024.2409220
+Postoperative outcomes after receipt of ertapenem antimicrobial prophylaxis for colon surgery: a multicenter retrospective cohort study.|https://dx.doi.org/10.1017/ice.2024.99

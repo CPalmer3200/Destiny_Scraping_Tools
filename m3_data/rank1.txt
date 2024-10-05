@@ -18,3 +18,4 @@ Gut Microbial and Metabolic Features Associated With Clostridioides difficile In
 Clostridium difficile infection following colon subtotal resection in a patient with gallstones: A case report and review of literature.|https://dx.doi.org/10.4240/wjgs.v16.i9.3048
 A Retrospective Assessment of Guideline Adherence and Treatment Outcomes From Clostridioides difficile Infection Following the IDSA 2021 Clinical Guideline Update: Clostridioides difficile Infection.|https://dx.doi.org/10.1093/ofid/ofae524
 A multivalent mRNA-LNP vaccine protects against Clostridioides difficile infection.|https://dx.doi.org/10.1126/science.adn4955
+Fidaxomicin versus oral vancomycin for Clostridioides difficile infection among patients at high risk for recurrence based on real-world experience.|https://dx.doi.org/10.1017/ice.2024.145

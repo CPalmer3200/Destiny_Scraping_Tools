@@ -36,3 +36,6 @@ Occurrence, genetic diversity, and antimicrobial resistance of methicillin-resis
 Efficacy and safety of vancomycin for local application in the prevention of surgical site infection after joint arthroplasty: a systematic review and meta-analysis.|https://dx.doi.org/10.1530/EOR-23-0023
 Hand eczema and changes in the skin microbiome after 2 weeks of topical corticosteroid treatment.|https://dx.doi.org/10.1111/jdv.20366
 Comparative Evaluation of the Antibiotic Resistance Profile of Staphylococcus aureus Isolated From Breeders and Livestock.|https://dx.doi.org/10.3389/ijph.2024.1607603
+Persistent bloodstream infection in children: examining the role for repeat blood cultures.|https://dx.doi.org/10.1128/jcm.00998-24
+Clinical impact of the use of chronic suppressive antibiotics against recurrent ventricular assist device infections.|https://dx.doi.org/10.1128/spectrum.00398-24
+Deep infections after low-velocity ballistic tibia fractures are frequently polymicrobial and recalcitrant.|https://dx.doi.org/10.1097/OI9.0000000000000345

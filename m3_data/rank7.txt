@@ -7,3 +7,4 @@ The Precision Resuscitation With Crystalloids in Sepsis (PRECISE) Trial: A Trial
 Clinical Effectiveness of Genetic Testing Guidelines in Patients with Thoracic Aortic Aneurysms.|https://dx.doi.org/10.1016/j.jtcvs.2024.09.026
 Neutrophil-to-Lymphocyte Ratio Predicts Sepsis in Adult Patients Meeting Two or More Systemic Inflammatory Response Syndrome Criteria.|https://dx.doi.org/10.5811/westjem.18466
 A real-world study of persistence and adherence to prescription medications in patients with chronic idiopathic constipation in the United States.|https://dx.doi.org/10.18553/jmcp.2024.30.10.1136
+Driver gene alterations in NSCLC patients in southern China and their correlation with clinicopathologic characteristics.|https://dx.doi.org/10.3389/fgene.2024.1455502
