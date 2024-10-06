@@ -5,3 +5,4 @@ Oncologic outcomes of neoadjuvant chemotherapy and lymph node dissection with pa
 New risk classification adapting SCAI shock stages to patients with pulmonary embolism (RISA-PE).|https://dx.doi.org/10.23736/S2724-5683.24.06609-2
 Outpatient use of antibiotics in uncomplicated diverticulitis decreases hospital admissions.|https://dx.doi.org/10.1002/iid3.70031
 Hand and environmental hygiene: respective roles for MRSA, multi-resistant gram negatives, Clostridioides difficile, and Candida spp.|https://dx.doi.org/10.1186/s13756-024-01461-x
+Spatiotemporal evolution and driving factors of the coupling coordination of the population‒land‒water‒industry system in the lower Yellow River.|https://dx.doi.org/10.1038/s41598-024-73802-0

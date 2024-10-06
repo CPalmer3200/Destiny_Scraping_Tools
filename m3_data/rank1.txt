@@ -19,3 +19,5 @@ Clostridium difficile infection following colon subtotal resection in a patient 
 A Retrospective Assessment of Guideline Adherence and Treatment Outcomes From Clostridioides difficile Infection Following the IDSA 2021 Clinical Guideline Update: Clostridioides difficile Infection.|https://dx.doi.org/10.1093/ofid/ofae524
 A multivalent mRNA-LNP vaccine protects against Clostridioides difficile infection.|https://dx.doi.org/10.1126/science.adn4955
 Fidaxomicin versus oral vancomycin for Clostridioides difficile infection among patients at high risk for recurrence based on real-world experience.|https://dx.doi.org/10.1017/ice.2024.145
+Early treatment for Clostridioides difficile infection: retrospective cohort study.|https://dx.doi.org/10.1007/s11739-024-03779-1
+Safety and Tolerability of CP101, a full spectrum, oral microbiome therapeutic for the prevention of recurrent C. difficile infection: A Phase 2 Randomized Controlled Trial.|https://dx.doi.org/10.1053/j.gastro.2024.09.030

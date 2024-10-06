@@ -8,3 +8,4 @@ Impact of Clostridium difficile Infection Versus Colonization on Postoperative O
 Incubation period of Clostridioides difficile infection in hospitalized patients and long-term care facility residents: a prospective cohort study.|https://dx.doi.org/10.1017/ash.2024.392
 De novo design of mini-protein binders broadly neutralizing Clostridioides difficile toxin B variants.|https://dx.doi.org/10.1038/s41467-024-52582-1
 Development of an Electronic Clinical Surveillance Measure for Unnecessary Rapid Antibiotic Administration in Suspected Sepsis.|https://dx.doi.org/10.1093/cid/ciae445
+Real world evidence on the effectiveness and safety of tofacitinib in ulcerative colitis in Lebanon.|https://dx.doi.org/10.1186/s12876-024-03341-5
