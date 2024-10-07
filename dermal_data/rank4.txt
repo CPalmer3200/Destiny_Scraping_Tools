@@ -5,3 +5,4 @@ A Janus Adhesive Hydrogel with Integrated Attack and Defense for Bacteria Killin
 Injectable Hydrogel With Glycyrrhizic Acid and Asiaticoside-Loaded Liposomes for Wound Healing.|https://dx.doi.org/10.1111/jocd.16606
 Antimicrobial effects of a multimodal wound matrix against methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa in an in vitro and an in vivo porcine wound model.|https://dx.doi.org/10.1111/iwj.70059
 Crosslinking gelatin with robust inherent antibacterial natural polymer for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136144
+Poly (lactic acid) electrospun nanofiber membranes: Advanced characterization for biomedical applications with drug loading performance studies.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136188

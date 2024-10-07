@@ -41,3 +41,5 @@ Clinical impact of the use of chronic suppressive antibiotics against recurrent 
 Deep infections after low-velocity ballistic tibia fractures are frequently polymicrobial and recalcitrant.|https://dx.doi.org/10.1097/OI9.0000000000000345
 Parasitological prevalence of scabies and secondary bacterial infections among scabies suspected patients at Borumeda General Hospital, Northeast Ethiopia.|https://dx.doi.org/10.1186/s12879-024-09977-8
 Biofilm infections of endobronchial valves in COPD patients after endoscopic lung volume reduction: a pilot study with FISHseq.|https://dx.doi.org/10.1038/s41598-024-73950-3
+Parotid abscess causing facial palsy in a child: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.110419
+Deciphering microbiome and fungi-bacteria interactions in chronic wound infections using metagenomic sequencing.|https://dx.doi.org/10.1007/s10096-024-04955-z

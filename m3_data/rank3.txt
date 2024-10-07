@@ -6,3 +6,4 @@ New risk classification adapting SCAI shock stages to patients with pulmonary em
 Outpatient use of antibiotics in uncomplicated diverticulitis decreases hospital admissions.|https://dx.doi.org/10.1002/iid3.70031
 Hand and environmental hygiene: respective roles for MRSA, multi-resistant gram negatives, Clostridioides difficile, and Candida spp.|https://dx.doi.org/10.1186/s13756-024-01461-x
 Spatiotemporal evolution and driving factors of the coupling coordination of the population‒land‒water‒industry system in the lower Yellow River.|https://dx.doi.org/10.1038/s41598-024-73802-0
+Hospitalized Patients on Proton Pump Inhibitors for Stress Ulcer Prophylaxis Have a Higher Risk of Clostridioides difficile Infection Compared to Those on Histamine-2 Receptor Antagonists.|https://dx.doi.org/10.1016/j.jhin.2024.09.016
