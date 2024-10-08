@@ -13,3 +13,5 @@ Development and validation of a model for early survival prediction following li
 The Effects of the COVID-19 Mask Mandate on Complication Rates in Postmastectomy Tissue Expansion.|https://dx.doi.org/10.1097/SAP.0000000000004109
 Nature and Determinants of Fear of Cancer Recurrence After Endoscopic Submucosal Dissection for Early Gastric Cancer: A Cross-Sectional Study.|https://dx.doi.org/10.1097/SGA.0000000000000812
 The waist-to-hip ratio is a superior predictor of complications in breast reconstruction: A prospective pilot study.|https://dx.doi.org/10.1016/j.bjps.2024.09.076
+Evaluation of preoperative antibiotic prophylaxis in clean-wound general surgery procedures: a propensity score-matched cohort study at a regional hospital.|https://dx.doi.org/10.1186/s12893-024-02616-8
+Gas gangrene with Clostridium septicum in a neutropenic patient.|https://dx.doi.org/10.1007/s15010-024-02401-y

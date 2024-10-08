@@ -1,2 +1,3 @@
 Three-dimensional printed polyelectrolyte construct containing mupirocin-loaded quaternized chitosan nanoparticles for skin repair.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136214
 Preliminary in vivo investigation of the mesenchymal stromal cell secretome as a novel treatment for methicillin-resistant Staphylococcus aureus in equine skin wounds.|https://dx.doi.org/10.1111/vsu.14170
+Molecular diversity in fusidic acid-resistant Methicillin Susceptible Staphylococcus aureus.|https://dx.doi.org/10.1093/jacamr/dlae154

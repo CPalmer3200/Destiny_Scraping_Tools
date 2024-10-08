@@ -43,3 +43,5 @@ Parasitological prevalence of scabies and secondary bacterial infections among s
 Biofilm infections of endobronchial valves in COPD patients after endoscopic lung volume reduction: a pilot study with FISHseq.|https://dx.doi.org/10.1038/s41598-024-73950-3
 Parotid abscess causing facial palsy in a child: A case report.|https://dx.doi.org/10.1016/j.ijscr.2024.110419
 Deciphering microbiome and fungi-bacteria interactions in chronic wound infections using metagenomic sequencing.|https://dx.doi.org/10.1007/s10096-024-04955-z
+Disinfectants efficacy in reducing pathogens related to health-care infection associated in universities hospitals of Gorgan, North of Iran.|https://dx.doi.org/10.1186/s12879-024-09985-8
+Streptococcus pneumoniae Spinal Epidural Abscess in an Immunocompetent Patient.|https://dx.doi.org/10.7759/cureus.68710
