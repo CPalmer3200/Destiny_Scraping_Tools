@@ -2,3 +2,4 @@ Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of
 In Vivo Effect of Halicin on Methicillin-Resistant Staphylococcus aureus-Infected Caenorhabditis elegans and Its Clinical Potential.|https://dx.doi.org/10.3390/antibiotics13090906
 Sono-Triggered Biomimetically Nanoantibiotics Mediate Precise Sequential Therapy of MRSA-Induced Lung Infection.|https://dx.doi.org/10.1002/adma.202403612
 Three-dimensional printed polyelectrolyte construct containing mupirocin-loaded quaternized chitosan nanoparticles for skin repair.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136214
+Enhanced Staphylococcus aureus protection by uncoupling of the α-toxin-ADAM10 interaction during murine neonatal vaccination.|https://dx.doi.org/10.1038/s41467-024-52714-7

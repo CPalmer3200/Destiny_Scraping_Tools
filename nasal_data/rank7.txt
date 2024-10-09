@@ -45,3 +45,6 @@ Parotid abscess causing facial palsy in a child: A case report.|https://dx.doi.o
 Deciphering microbiome and fungi-bacteria interactions in chronic wound infections using metagenomic sequencing.|https://dx.doi.org/10.1007/s10096-024-04955-z
 Disinfectants efficacy in reducing pathogens related to health-care infection associated in universities hospitals of Gorgan, North of Iran.|https://dx.doi.org/10.1186/s12879-024-09985-8
 Streptococcus pneumoniae Spinal Epidural Abscess in an Immunocompetent Patient.|https://dx.doi.org/10.7759/cureus.68710
+Increase in PVC-BSI during the second COVID-19 pandemic year: analysis of catheter and patient characteristics.|https://dx.doi.org/10.1186/s13756-024-01476-4
+Acute Hematogenous Osteomyelitis in Pediatric Patients.|https://dx.doi.org/10.3928/19382359-20240811-08
+Healthcare-associated infections in Japanese hospitals: results from a large-scale multicenter point-prevalence survey in Aichi, 2020.|https://dx.doi.org/10.1017/ice.2024.130
