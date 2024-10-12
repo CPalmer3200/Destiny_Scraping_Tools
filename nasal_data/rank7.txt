@@ -48,3 +48,9 @@ Streptococcus pneumoniae Spinal Epidural Abscess in an Immunocompetent Patient.|
 Increase in PVC-BSI during the second COVID-19 pandemic year: analysis of catheter and patient characteristics.|https://dx.doi.org/10.1186/s13756-024-01476-4
 Acute Hematogenous Osteomyelitis in Pediatric Patients.|https://dx.doi.org/10.3928/19382359-20240811-08
 Healthcare-associated infections in Japanese hospitals: results from a large-scale multicenter point-prevalence survey in Aichi, 2020.|https://dx.doi.org/10.1017/ice.2024.130
+The influence of maggot debridement therapy on the bacterial flora of hard-to-heal wounds.|https://dx.doi.org/10.12968/jowc.2020.0168
+Analysis of genetic requirements and nutrient availability for Staphylococcus aureus growth in cystic fibrosis sputum.|https://dx.doi.org/10.1101/2024.09.24.614743
+Multidrug-resistant organism bloodstream infections in solid organ transplant recipients and impact on mortality: a systematic review.|https://dx.doi.org/10.1093/jacamr/dlae152
+Exploring diflunisal as a synergistic agent against Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.3389/fmicb.2024.1399996
+Infection following mini-open rotator cuff repair: a single surgeon experience.|https://dx.doi.org/10.1016/j.jse.2024.08.021
+Staphylococcus aureus colonizing the skin microbiota of adults with severe atopic dermatitis exhibits genomic diversity and convergence in biofilm traits.|https://dx.doi.org/10.1016/j.bioflm.2024.100222

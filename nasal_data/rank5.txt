@@ -16,3 +16,9 @@ The waist-to-hip ratio is a superior predictor of complications in breast recons
 Evaluation of preoperative antibiotic prophylaxis in clean-wound general surgery procedures: a propensity score-matched cohort study at a regional hospital.|https://dx.doi.org/10.1186/s12893-024-02616-8
 Gas gangrene with Clostridium septicum in a neutropenic patient.|https://dx.doi.org/10.1007/s15010-024-02401-y
 Intraoperative Hypothermia Versus Normothermia in Breast Reconstruction: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1089/ther.2024.0038
+Meta analysis of 2059 patients assessing early discharge after DIEP flap breast reconstruction: Comprehensive outcomes before post-operative day 5.|https://dx.doi.org/10.1016/j.bjps.2024.09.081
+Current approaches to diagnosing and treating idiopathic granulomatous mastitis: A summary from in-depth clinician interviews.|https://dx.doi.org/10.1016/j.heliyon.2024.e38345
+Impact of infectious complications after gastrectomy on non‑gastric cancer‑related deaths.|https://dx.doi.org/10.3892/ol.2024.14695
+Surgical complications after immediate implant-based breast reconstruction for breast cancer in women over 65 years.|https://dx.doi.org/10.1093/bjsopen/zrae095
+Immediate prepectoral versus submuscular breast reconstruction in nipple-sparing mastectomy: a retrospective cohort analysis.|https://dx.doi.org/10.61622/rbgo/2024rbgo76
+The impact of topical tranexamic acid on drain duration and seroma volume in axillary lymph node dissection for breast cancer: A randomized controlled trial.|https://dx.doi.org/10.1002/wjs.12355
