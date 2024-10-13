@@ -54,3 +54,5 @@ Multidrug-resistant organism bloodstream infections in solid organ transplant re
 Exploring diflunisal as a synergistic agent against Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.3389/fmicb.2024.1399996
 Infection following mini-open rotator cuff repair: a single surgeon experience.|https://dx.doi.org/10.1016/j.jse.2024.08.021
 Staphylococcus aureus colonizing the skin microbiota of adults with severe atopic dermatitis exhibits genomic diversity and convergence in biofilm traits.|https://dx.doi.org/10.1016/j.bioflm.2024.100222
+Males are at Higher Risk for Colonizations and Infections with Multidrug Resistant Organisms than Females.|https://dx.doi.org/10.1016/j.jhin.2024.07.021
+Aortic Homografts in Surgical Management of Prosthetic Valve Endocarditis: A Case Series from Greece.|https://dx.doi.org/10.12659/AJCR.945030

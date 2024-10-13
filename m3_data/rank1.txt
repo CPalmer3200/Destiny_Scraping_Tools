@@ -4,3 +4,4 @@ Internet Parent-Child Interaction Therapy for Maternal Guilt in a Child Abuse Ca
 Systematic review of the orally administered microbiome therapeutic, fecal microbiota spores, live-brpk, to prevent recurrence of Clostridioides difficile infection in adults.|https://dx.doi.org/10.1177/20503121241274192
 Cerebral salt wasting syndrome in a child with central diabetes insipidus following surgery for recurrent craniopharyngioma: A case report.|https://dx.doi.org/10.1177/2050313X241275445
 Microbiota restoration for recurrent Clostridioides difficile infection.|https://dx.doi.org/10.23736/S0031-0808.24.05111-5
+Fecal microbiota transplantation through colonoscopy in the treatment of recurrent Clostridioides difficile: Experience at a university center.|https://dx.doi.org/10.1016/j.rgmxen.2024.03.004

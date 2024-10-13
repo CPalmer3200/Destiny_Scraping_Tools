@@ -15,3 +15,4 @@ Residual diabetic foot osteomyelitis after surgery leads to poor clinical outcom
 Efficacy of combined hyperbaric oxygen therapy and topical haemoglobin spray in treating hard-to-heal sloughy wounds.|https://dx.doi.org/10.12968/jowc.2024.0026
 DFUCare: deep learning platform for diabetic foot ulcer detection, analysis, and monitoring.|https://dx.doi.org/10.3389/fendo.2024.1386613
 The Microbial Diversity and Antimicrobial Susceptibility Profile Underlying Diabetic Foot Osteomyelitis: A Retrospective Study Conducted in North Queensland, Australia.|https://dx.doi.org/10.1177/24730114241281503
+Interactions between Helcococcus kunzii and Staphylococcus aureus: How a commensal bacterium modulates the virulence and metabolism of a pathogen in a chronic wound in vitro model.|https://dx.doi.org/10.1186/s12866-024-03520-0

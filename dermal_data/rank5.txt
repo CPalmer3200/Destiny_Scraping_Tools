@@ -5,3 +5,5 @@ Structure and function of skin barrier lipids: Effects of hydration and natural 
 A greener side of health care: Revisiting phytomedicine against the human fungal pathogen Malassezia.|https://dx.doi.org/10.1016/j.fitote.2024.106243
 Molecular characterization and genotype of multi-drug resistant Staphylococcus epidermidis in nasal carriage of young population, Mahasarakham, Thailand.|https://dx.doi.org/10.17305/bb.2024.11116
 Staphylococcus aureus colonizing the skin microbiota of adults with severe atopic dermatitis exhibits genomic diversity and convergence in biofilm traits.|https://dx.doi.org/10.1016/j.bioflm.2024.100222
+Indwelling urological device biofilm composition and characteristics in the presence and absence of infection.|https://dx.doi.org/10.1016/j.urology.2024.10.021
+Staphylococcus pseudintermedius ST2660 isolated from a cat has strong biofilm-forming ability and increases biofilm formation at cat's normal body temperature.|https://dx.doi.org/10.1038/s41598-024-75165-y
