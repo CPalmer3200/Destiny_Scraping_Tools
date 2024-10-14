@@ -15,3 +15,4 @@ Case Report: "Navigating the Narrow Path: Unveiling a Nasal Septal Abscess in a 
 Nasal microbionts differentially colonize and elicit cytokines in human nasal epithelial organoids.|https://dx.doi.org/10.1101/2024.09.25.614934
 Staphylococcus aureus Phenol-Soluble Modulins Mediate Interspecies Competition with Upper Respiratory Commensal Bacteria.|https://dx.doi.org/10.1101/2024.09.24.614779
 Unmasking Nasal Septal Hematoma/Abscess: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1002/oto2.174
+Exeporfinium chloride (XF-73) nasal gel significantly reduces Staphylococcus aureus nasal carriage in cardiac surgery patients throughout surgery and the early recovery period: results from a randomized placebo-controlled Phase 2 study.|https://dx.doi.org/10.1017/ice.2024.122

@@ -15,3 +15,4 @@ Dynamic polysaccharide/platelet-rich plasma hydrogels with synergistic antibacte
 Electrically conductive and antimicrobial Pluronic-based hydrogels.|https://dx.doi.org/10.1016/j.jcis.2024.10.005
 Enhancing refrigerated chicken breasts preservation: Novel composite hydrogels incorporated with antimicrobial peptides, bacterial cellulose, and polyvinyl alcohol.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136505
 Preparation of biocompatible Zein/Gelatin/Chitosan/PVA based nanofibers loaded with vitamin E-TPGS via dual-opposite electrospinning method.|https://dx.doi.org/10.1038/s41598-024-74865-9
+A Multifunctional Self-Reinforced Injectable Hydrogel for Enhancing Repair of Infected Bone Defects by Simultaneously Targeting Macrophages, Bacteria, and Bone Marrow Stromal Cells.|https://dx.doi.org/10.1016/j.actbio.2024.10.014

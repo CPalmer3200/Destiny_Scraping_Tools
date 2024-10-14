@@ -5,3 +5,5 @@ Systematic review of the orally administered microbiome therapeutic, fecal micro
 Cerebral salt wasting syndrome in a child with central diabetes insipidus following surgery for recurrent craniopharyngioma: A case report.|https://dx.doi.org/10.1177/2050313X241275445
 Microbiota restoration for recurrent Clostridioides difficile infection.|https://dx.doi.org/10.23736/S0031-0808.24.05111-5
 Fecal microbiota transplantation through colonoscopy in the treatment of recurrent Clostridioides difficile: Experience at a university center.|https://dx.doi.org/10.1016/j.rgmxen.2024.03.004
+Impact of Clinical and Pharmacological Parameters on Faecal Microbiota Transplantation Outcome in Clostridioides difficile Infections: Results of a 5-Year French National Survey.|https://dx.doi.org/10.1111/apt.18330
+Risk of rehospitalization due to Clostridioides difficile infection among hospitalized patients with Clostridioides difficile: a cohort study.|https://dx.doi.org/10.1017/ice.2024.155
