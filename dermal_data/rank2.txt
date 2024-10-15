@@ -16,3 +16,7 @@ Efficacy of combined hyperbaric oxygen therapy and topical haemoglobin spray in 
 DFUCare: deep learning platform for diabetic foot ulcer detection, analysis, and monitoring.|https://dx.doi.org/10.3389/fendo.2024.1386613
 The Microbial Diversity and Antimicrobial Susceptibility Profile Underlying Diabetic Foot Osteomyelitis: A Retrospective Study Conducted in North Queensland, Australia.|https://dx.doi.org/10.1177/24730114241281503
 Interactions between Helcococcus kunzii and Staphylococcus aureus: How a commensal bacterium modulates the virulence and metabolism of a pathogen in a chronic wound in vitro model.|https://dx.doi.org/10.1186/s12866-024-03520-0
+Managing drug therapy-related problems and assessment of chronic diabetic wounds.|https://dx.doi.org/10.1080/03007995.2024.2414893
+The Value of Pressure Indexes in Predicting the Outcome of Diabetic Foot Ulcers as a Guide to Further Management.|https://dx.doi.org/10.7759/cureus.69164
+Effect of Compound Xuejie Powder combined with negative pressure wound therapy on diabetic foot ulcers and blood flow in the dorsal foot artery.|https://dx.doi.org/10.62347/XSXY3749
+Comparative Study of Single and Coaxial Electrospun Antimicrobial Cross-Linked Scaffolds Enriched with Aloe Vera: Characterization, Antimicrobial Activity, Drug Delivery, Cytotoxicity, and Cell Proliferation on Adipose Stem Cells and Human Skin Fibroblast.|https://dx.doi.org/10.1021/acsomega.4c01016

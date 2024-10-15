@@ -16,3 +16,4 @@ Nasal microbionts differentially colonize and elicit cytokines in human nasal ep
 Staphylococcus aureus Phenol-Soluble Modulins Mediate Interspecies Competition with Upper Respiratory Commensal Bacteria.|https://dx.doi.org/10.1101/2024.09.24.614779
 Unmasking Nasal Septal Hematoma/Abscess: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1002/oto2.174
 Exeporfinium chloride (XF-73) nasal gel significantly reduces Staphylococcus aureus nasal carriage in cardiac surgery patients throughout surgery and the early recovery period: results from a randomized placebo-controlled Phase 2 study.|https://dx.doi.org/10.1017/ice.2024.122
+Anti-inflammatory effects in LPS-induced macrophages and antibiofilm activity of the mannose-rich exopolysaccharide produced by Bacillus licheniformis B3-15.|https://dx.doi.org/10.1016/j.heliyon.2024.e38367

@@ -7,3 +7,5 @@ Microbiota restoration for recurrent Clostridioides difficile infection.|https:/
 Fecal microbiota transplantation through colonoscopy in the treatment of recurrent Clostridioides difficile: Experience at a university center.|https://dx.doi.org/10.1016/j.rgmxen.2024.03.004
 Impact of Clinical and Pharmacological Parameters on Faecal Microbiota Transplantation Outcome in Clostridioides difficile Infections: Results of a 5-Year French National Survey.|https://dx.doi.org/10.1111/apt.18330
 Risk of rehospitalization due to Clostridioides difficile infection among hospitalized patients with Clostridioides difficile: a cohort study.|https://dx.doi.org/10.1017/ice.2024.155
+Comparing rates of recurrent infection for first occurrence of Clostridioides difficile between tapered oral vancomycin and standard vancomycin: a retrospective, propensity matched cohort study.|https://dx.doi.org/10.1017/ice.2024.117
+Successful Use of Fecal Microbiota Transplantation in Management of Nonobstructive Recurrent Cholangitis Following Total Pancreatectomy and Islet Autotransplant.|https://dx.doi.org/10.14309/crj.0000000000001527
