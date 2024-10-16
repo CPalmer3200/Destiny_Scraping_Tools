@@ -20,3 +20,4 @@ Managing drug therapy-related problems and assessment of chronic diabetic wounds
 The Value of Pressure Indexes in Predicting the Outcome of Diabetic Foot Ulcers as a Guide to Further Management.|https://dx.doi.org/10.7759/cureus.69164
 Effect of Compound Xuejie Powder combined with negative pressure wound therapy on diabetic foot ulcers and blood flow in the dorsal foot artery.|https://dx.doi.org/10.62347/XSXY3749
 Comparative Study of Single and Coaxial Electrospun Antimicrobial Cross-Linked Scaffolds Enriched with Aloe Vera: Characterization, Antimicrobial Activity, Drug Delivery, Cytotoxicity, and Cell Proliferation on Adipose Stem Cells and Human Skin Fibroblast.|https://dx.doi.org/10.1021/acsomega.4c01016
+Antimicrobial Activity of Cold Atmospheric Plasma on Bacterial Strains Derived from Patients with Diabetic Foot Ulcers.|https://dx.doi.org/10.4014/jmb.2407.07035
