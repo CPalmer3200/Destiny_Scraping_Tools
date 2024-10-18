@@ -62,3 +62,10 @@ Evaluation of Surgical Site Infection Rates in Traumatic Surgical Fixation and A
 Methicillin resistant staphylococcus aureus infection in neonates- a major concern and a call for action.|https://dx.doi.org/10.60787/nmj-v65i3-496
 Homograft implant for prosthetic aortic endocarditis with paravalvular abscess in a patient with persistent left superior vena cava.|https://dx.doi.org/10.1510/mmcts.2024.042
 Berberine Inhibits the Inflammatory Response Induced by Staphylococcus aureus Isolated from Atopic Eczema Patients via the TNF-α/Inflammation/RAGE Pathways.|https://dx.doi.org/10.3390/cells13191639
+A Rapidly Deteriorating Case of Bivalvular Endocarditis in a Hemodialysis Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.69530
+Current Trends in Clinico-Bacteriological Profile and Antimicrobial Susceptibility Pattern in Active Chronic Suppurative Otitis Media (Safe and Unsafe) at a Tertiary Care Center in Uttarakhand: An Observational Study.|https://dx.doi.org/10.7759/cureus.69525
+Global practice variation of suppressive antimicrobial treatment for prosthetic joint infections: A cross-sectional survey study.|https://dx.doi.org/10.1016/j.jinf.2024.106316
+2'3'-cGAMP interactome identifies 2'3'-cGAMP/Rab18/FosB signaling in cell migration control independent of innate immunity.|https://dx.doi.org/10.1126/sciadv.ado7024
+In silico testing to identify compounds that inhibit ClfA and ClfB binding to the host for the formulation of future drugs against Staphylococcus aureus colonization and infection.|https://dx.doi.org/10.3389/fcimb.2024.1422500
+Recurrent colonization with methicillin-susceptible Staphylococcus aureus after successful decolonization in a neonatal intensive care unit.|https://dx.doi.org/10.1017/ice.2024.110
+d-[5-(11)C]-Glutamine Positron Emission Tomography Imaging for Diagnosis and Therapeutic Monitoring of Orthopedic Implant Infections.|https://dx.doi.org/10.1021/acsinfecdis.4c00487

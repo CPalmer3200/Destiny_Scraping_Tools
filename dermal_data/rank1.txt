@@ -3,3 +3,4 @@ Pseudomonas aeruginosa kills Staphylococcus aureus in a polyphosphate-dependent 
 Investigating antimicrobial and antioxidant activity of liquid smoke and physical-chemical stability of bacon subjected to liquid smoke and conventional smoking.|https://dx.doi.org/10.1111/1750-3841.17379
 Nanoemulsion is an effective antimicrobial for methicillin-resistant Staphylococcus aureus in infected swine skin burn wounds.|https://dx.doi.org/10.1128/spectrum.01378-24
 Formulation and characterization of tea tree and jojoba oils nano-emulgel for in-vivo wound healing assessment.|https://dx.doi.org/10.1016/j.colsurfb.2024.114312
+Flexible and antibacterial conductive hydrogels based on silk fibroin/polyaniline/AgNPs for motion sensing and wound healing promotion under electrical stimulation.|https://dx.doi.org/10.1039/d4tb01505c

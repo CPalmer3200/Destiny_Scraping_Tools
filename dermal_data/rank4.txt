@@ -19,3 +19,11 @@ A Multifunctional Self-Reinforced Injectable Hydrogel for Enhancing Repair of In
 Photothermal-Induced Multimodal Antibacterial Dressing Comprising N-Halamine Hydrogel Loaded with Cow Dung Biochar for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.4c09552
 Silk fibroin/chitosan thiourea hydrogel scaffold with vancomycin and quercetin-loaded PLGA nanoparticles for treating chronic MRSA osteomyelitis in rats.|https://dx.doi.org/10.1016/j.ijpharm.2024.124826
 Vat Photopolymerization 3D Printing of Hydrogels Embedding Metal-Organic Frameworks for Photodynamic Antimicrobial Therapy.|https://dx.doi.org/10.1021/acsami.4c15168
+Designing injectable dermal matrix hydrogel combined with silver nanoparticles for methicillin-resistant Staphylococcus aureus infected wounds healing.|https://dx.doi.org/10.1186/s40580-024-00447-0
+Natural polysaccharide hydrogel with bioadhesion characters to synergistically enhance berberine's antibacterial effect by regulating the PTS system of Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136605
+Injectable hydrogel microsphere-bomb for MRSA-infected chronic osteomyelitis.|https://dx.doi.org/10.1016/j.jconrel.2024.10.021
+Engineering Cyborg Pathogens through Intracellular Hydrogelation.|https://dx.doi.org/10.1021/acssynbio.4c00420
+Icariin-loaded chitosan/β-glycerophosphate thermosensitive hydrogel enhanced infection control and bone regeneration in canine with infectious bone defects.|https://dx.doi.org/10.1177/08853282241288323
+Design and Characterization of an Antimicrobial Biocomposite for Wound Dressings.|https://dx.doi.org/10.3390/ma17194705
+Copper Nanoparticle Loaded Electrospun Patches for Infected Wound Treatment: From Development to In-Vivo Application.|https://dx.doi.org/10.3390/polym16192733
+Composite Hydrogels with Rapid Self-Healing, Stretchable, Moldable and Antibacterial Properties Based on PVA/ε-Poly-l-lysine/Hyaluronic Acid.|https://dx.doi.org/10.3390/molecules29194666

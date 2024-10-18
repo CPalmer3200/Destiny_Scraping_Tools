@@ -1,3 +1,5 @@
 Role of Xpert PCR kit in assessing MRSA colonization in medical and surgical units of a tertiary care teaching hospital.|https://dx.doi.org/10.1186/s12879-024-09710-5
 Penicillin susceptibility among Staphylococcus aureus skin and soft tissue infections at a children's hospital.|https://dx.doi.org/10.1128/spectrum.00869-24
 A new antibacterial with anti-inflammatory properties promotes wound healing through inhibiting cGAS/STING/NF-κB/IRF3 pathway.|https://dx.doi.org/10.1016/j.intimp.2024.113303
+Understanding host's response to staphylococcal scalded skin syndrome.|https://dx.doi.org/10.1111/apa.17462
+Trimodal skin health programme for childhood impetigo control in remote Western Australia (SToP): a cluster randomised, stepped-wedge trial.|https://dx.doi.org/10.1016/S2352-4642(24)00229-3

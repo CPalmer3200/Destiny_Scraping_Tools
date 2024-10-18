@@ -7,3 +7,7 @@ Molecular characterization and genotype of multi-drug resistant Staphylococcus e
 Staphylococcus aureus colonizing the skin microbiota of adults with severe atopic dermatitis exhibits genomic diversity and convergence in biofilm traits.|https://dx.doi.org/10.1016/j.bioflm.2024.100222
 Indwelling urological device biofilm composition and characteristics in the presence and absence of infection.|https://dx.doi.org/10.1016/j.urology.2024.10.021
 Staphylococcus pseudintermedius ST2660 isolated from a cat has strong biofilm-forming ability and increases biofilm formation at cat's normal body temperature.|https://dx.doi.org/10.1038/s41598-024-75165-y
+Riboflavin for women's health and emerging microbiome strategies.|https://dx.doi.org/10.1038/s41522-024-00579-5
+The chronic wound characterisation study and biobank: a study protocol for a prospective observational cohort investigation of bacterial community composition, inflammatory responses and wound-healing trajectories in non-healing wounds.|https://dx.doi.org/10.1136/bmjopen-2024-084081
+Transcriptomic Analysis of the Effect of Glabridin on Biofilm Formation in Staphylococcus Aureus.|https://dx.doi.org/10.1089/fpd.2024.0038
+Antibiotic biocompatibility assay and anti-biofilm strategies for Pseudomonas aeruginosa infection in bioengineered artificial skin substitutes.|https://dx.doi.org/10.1093/jac/dkae365
