@@ -4,3 +4,5 @@ Investigating antimicrobial and antioxidant activity of liquid smoke and physica
 Nanoemulsion is an effective antimicrobial for methicillin-resistant Staphylococcus aureus in infected swine skin burn wounds.|https://dx.doi.org/10.1128/spectrum.01378-24
 Formulation and characterization of tea tree and jojoba oils nano-emulgel for in-vivo wound healing assessment.|https://dx.doi.org/10.1016/j.colsurfb.2024.114312
 Flexible and antibacterial conductive hydrogels based on silk fibroin/polyaniline/AgNPs for motion sensing and wound healing promotion under electrical stimulation.|https://dx.doi.org/10.1039/d4tb01505c
+Polyurethane infused with heparin capped silver nanoparticles dressing for wound healing application: Synthesis, characterization and antimicrobial studies.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136557
+Evaluation of the Feasibility of Using Commercial Wound Coatings as a Carrier Matrix for Bacteriophages.|https://dx.doi.org/10.17691/stm2024.16.1.05

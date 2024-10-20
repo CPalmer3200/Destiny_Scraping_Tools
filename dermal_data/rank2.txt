@@ -21,3 +21,7 @@ The Value of Pressure Indexes in Predicting the Outcome of Diabetic Foot Ulcers 
 Effect of Compound Xuejie Powder combined with negative pressure wound therapy on diabetic foot ulcers and blood flow in the dorsal foot artery.|https://dx.doi.org/10.62347/XSXY3749
 Comparative Study of Single and Coaxial Electrospun Antimicrobial Cross-Linked Scaffolds Enriched with Aloe Vera: Characterization, Antimicrobial Activity, Drug Delivery, Cytotoxicity, and Cell Proliferation on Adipose Stem Cells and Human Skin Fibroblast.|https://dx.doi.org/10.1021/acsomega.4c01016
 Antimicrobial Activity of Cold Atmospheric Plasma on Bacterial Strains Derived from Patients with Diabetic Foot Ulcers.|https://dx.doi.org/10.4014/jmb.2407.07035
+Glucose and pH dual-responsive hydrogels with antibacterial, reactive oxygen species scavenging, and angiogenesis properties for promoting the healing of infected diabetic foot ulcers.|https://dx.doi.org/10.1016/j.actbio.2024.10.020
+NIR-II Image-Guided Wound Healing in Hypoxic Diabetic Foot Ulcers: The Potential of Ergothioneine-Luteolin-Chitin Hydrogels.|https://dx.doi.org/10.1002/marc.202400528
+Targeting Matrix Metalloproteinase-9 for Therapeutic Intervention in Diabetic Foot Ulcers.|https://dx.doi.org/10.1021/acsptsci.4c00263
+Prospective Observational Study of Microbiology of Infected Diabetic Foot Ulcers in a Tertiary-Care Hospital.|https://dx.doi.org/10.7759/cureus.71705

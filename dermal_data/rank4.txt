@@ -27,3 +27,6 @@ Icariin-loaded chitosan/β-glycerophosphate thermosensitive hydrogel enhanced in
 Design and Characterization of an Antimicrobial Biocomposite for Wound Dressings.|https://dx.doi.org/10.3390/ma17194705
 Copper Nanoparticle Loaded Electrospun Patches for Infected Wound Treatment: From Development to In-Vivo Application.|https://dx.doi.org/10.3390/polym16192733
 Composite Hydrogels with Rapid Self-Healing, Stretchable, Moldable and Antibacterial Properties Based on PVA/ε-Poly-l-lysine/Hyaluronic Acid.|https://dx.doi.org/10.3390/molecules29194666
+An Andrias davidianus derived composite hydrogel with enhanced antibacterial and bone repair properties for osteomyelitis treatment.|https://dx.doi.org/10.1038/s41598-024-75997-8
+Edible thermosensitive chitosan/hydroxypropyl β-cyclodextrin hydrogel with natural licoricidin for enhancing oral health: Biofilm disruption and demineralization prevention.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136647
+Ag quantum dots doped poly (vinyl alcohol)/chitosan hydrogel coatings to prevent catheter-associated urinary tract infections.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136405

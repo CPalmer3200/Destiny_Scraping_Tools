@@ -69,3 +69,13 @@ Global practice variation of suppressive antimicrobial treatment for prosthetic 
 In silico testing to identify compounds that inhibit ClfA and ClfB binding to the host for the formulation of future drugs against Staphylococcus aureus colonization and infection.|https://dx.doi.org/10.3389/fcimb.2024.1422500
 Recurrent colonization with methicillin-susceptible Staphylococcus aureus after successful decolonization in a neonatal intensive care unit.|https://dx.doi.org/10.1017/ice.2024.110
 d-[5-(11)C]-Glutamine Positron Emission Tomography Imaging for Diagnosis and Therapeutic Monitoring of Orthopedic Implant Infections.|https://dx.doi.org/10.1021/acsinfecdis.4c00487
+Single-cell profiling reveals a conserved role for hypoxia-inducible factor signaling during human craniotomy infection.|https://dx.doi.org/10.1016/j.xcrm.2024.101790
+A systematic review of pelvic infective osteomyelitis in children: current state of evidence.|https://dx.doi.org/10.1093/tropej/fmae043
+Taurolidine irrigation reduces relapse and recurrence of hemodialysis access infection.|https://dx.doi.org/10.1016/j.avsg.2024.09.058
+Encapsulation nanoarchitectonics of glabridin with sophorolipid micelles for addressing biofilm hazards via extracellular polymeric substance permeation and srtA gene suppression.|https://dx.doi.org/10.1016/j.ecoenv.2024.117150
+Adsorption of Staphylococcus aureus biofilm associated compounds on silica probed with molecular dynamics simulations.|https://dx.doi.org/10.1116/6.0003870
+Evaluation of the Feasibility of Using Commercial Wound Coatings as a Carrier Matrix for Bacteriophages.|https://dx.doi.org/10.17691/stm2024.16.1.05
+Occurrence and characterization of ESKAPE organisms on the hands of veterinary students before patient contact at a veterinary academic hospital, South Africa.|https://dx.doi.org/10.1186/s12917-024-04322-2
+Tissue niche influences immune and metabolic profiles to Staphylococcus aureus biofilm infection.|https://dx.doi.org/10.1038/s41467-024-53353-8
+Bloodstream infections: mechanisms of pathogenesis and opportunities for intervention.|https://dx.doi.org/10.1038/s41579-024-01105-2
+Development of bacteriostatic central venous port using photobiomodulation: a comparative in vitro study.|https://dx.doi.org/10.1007/s10103-024-04206-9
