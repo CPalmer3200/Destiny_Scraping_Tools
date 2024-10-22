@@ -11,3 +11,4 @@ Comparing rates of recurrent infection for first occurrence of Clostridioides di
 Successful Use of Fecal Microbiota Transplantation in Management of Nonobstructive Recurrent Cholangitis Following Total Pancreatectomy and Islet Autotransplant.|https://dx.doi.org/10.14309/crj.0000000000001527
 Fecal microbiota transplantation in a patient with chronic diarrhea and primary and secondary immunodeficiency (common variable immunodeficiency and splenectomy).|https://dx.doi.org/10.3389/fcimb.2024.1456672
 Treatment outcomes of mild to moderate Clostridioides difficile infection in inflammatory bowel disease: an Australian experience.|https://dx.doi.org/10.1111/imj.16545
+Multicenter study on Clostridioides difficile infections in Mexico: exploring the landscape.|https://dx.doi.org/10.1017/ice.2024.153

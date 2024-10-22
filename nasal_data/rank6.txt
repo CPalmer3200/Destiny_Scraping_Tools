@@ -4,3 +4,4 @@ Sono-Triggered Biomimetically Nanoantibiotics Mediate Precise Sequential Therapy
 Three-dimensional printed polyelectrolyte construct containing mupirocin-loaded quaternized chitosan nanoparticles for skin repair.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136214
 Enhanced Staphylococcus aureus protection by uncoupling of the α-toxin-ADAM10 interaction during murine neonatal vaccination.|https://dx.doi.org/10.1038/s41467-024-52714-7
 Trimodal skin health programme for childhood impetigo control in remote Western Australia (SToP): a cluster randomised, stepped-wedge trial.|https://dx.doi.org/10.1016/S2352-4642(24)00229-3
+Etiology of septic arthritis in children of Qatar.|https://dx.doi.org/10.1002/emp2.13313

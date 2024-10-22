@@ -79,3 +79,12 @@ Occurrence and characterization of ESKAPE organisms on the hands of veterinary s
 Tissue niche influences immune and metabolic profiles to Staphylococcus aureus biofilm infection.|https://dx.doi.org/10.1038/s41467-024-53353-8
 Bloodstream infections: mechanisms of pathogenesis and opportunities for intervention.|https://dx.doi.org/10.1038/s41579-024-01105-2
 Development of bacteriostatic central venous port using photobiomodulation: a comparative in vitro study.|https://dx.doi.org/10.1007/s10103-024-04206-9
+In Vitro Assessment of Gallium Nanoalloy Hydrogels for Antimicrobial and Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.4c01182
+Preclinical Positron Emission Tomography (PET) of Prosthetic Joint Infection Using a Nitro-Prodrug of 2-[(18)F]F-p-Aminobenzoic Acid ([(18)F]F-PABA).|https://dx.doi.org/10.1021/acsinfecdis.4c00075
+Surveillance of surgical site infections in orthopedic prosthetic surgery: a tool for identifying risk factors and improving clinical practice.|https://dx.doi.org/10.15167/2421-4248/jpmh2024.65.2.3141
+Persistent Fever in Bilateral Septic Cavernous Sinus Thrombosis: A Case Report.|https://dx.doi.org/10.7759/cureus.69800
+Hidden Threat: Unveiling the Dangers of Cervical Epidural Abscess.|https://dx.doi.org/10.7759/cureus.69807
+Time-Dependent Electrical Active and Ultrasound-Responsive Calcium Titanate Implant Coating with Immunomodulation, Osteogenesis, and Customized Antibacterial Activity.|https://dx.doi.org/10.1002/smll.202403298
+[Analysis of the changes of bacterial spectrum and drug resistance in sputum culture of ICU children in a hospital of pediatric in Jiangsu Province from 2017 to 2022].|https://dx.doi.org/10.3760/cma.j.cn112150-20240514-00386
+Preoperative, Intraoperative & Postoperative Concepts to Prevent Infection for Unicompartmental Knee Arthroplasty.|https://dx.doi.org/10.1016/j.jisako.2024.100345
+Enhancing antibacterial performance and stability of implant materials through surface modification with polydopamine/silver nanoparticles.|https://dx.doi.org/10.1016/j.colsurfb.2024.114327

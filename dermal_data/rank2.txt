@@ -25,3 +25,4 @@ Glucose and pH dual-responsive hydrogels with antibacterial, reactive oxygen spe
 NIR-II Image-Guided Wound Healing in Hypoxic Diabetic Foot Ulcers: The Potential of Ergothioneine-Luteolin-Chitin Hydrogels.|https://dx.doi.org/10.1002/marc.202400528
 Targeting Matrix Metalloproteinase-9 for Therapeutic Intervention in Diabetic Foot Ulcers.|https://dx.doi.org/10.1021/acsptsci.4c00263
 Prospective Observational Study of Microbiology of Infected Diabetic Foot Ulcers in a Tertiary-Care Hospital.|https://dx.doi.org/10.7759/cureus.71705
+Unusual Verrucous Skin Lesion in Diabetic Neuropathy Following Toe Amputation and Skin Grafting.|https://dx.doi.org/10.7759/cureus.69695
