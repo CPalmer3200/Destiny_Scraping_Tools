@@ -12,3 +12,4 @@ Successful Use of Fecal Microbiota Transplantation in Management of Nonobstructi
 Fecal microbiota transplantation in a patient with chronic diarrhea and primary and secondary immunodeficiency (common variable immunodeficiency and splenectomy).|https://dx.doi.org/10.3389/fcimb.2024.1456672
 Treatment outcomes of mild to moderate Clostridioides difficile infection in inflammatory bowel disease: an Australian experience.|https://dx.doi.org/10.1111/imj.16545
 Multicenter study on Clostridioides difficile infections in Mexico: exploring the landscape.|https://dx.doi.org/10.1017/ice.2024.153
+Gonococcal infections and risk factors for reinfection: a descriptive and case-case analysis of notifications in the Australian Capital Territory, 2017-2022.|https://dx.doi.org/10.33321/cdi.2024.48.51

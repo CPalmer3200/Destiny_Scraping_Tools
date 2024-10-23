@@ -34,3 +34,4 @@ In Vitro Assessment of Gallium Nanoalloy Hydrogels for Antimicrobial and Wound H
 Recombinant Keratin-Chitosan Cryogel Decorated with Gallic Acid-Reduced Silver Nanoparticles for Wound Healing.|https://dx.doi.org/10.2147/IJN.S479637
 Preoperative, Intraoperative & Postoperative Concepts to Prevent Infection for Unicompartmental Knee Arthroplasty.|https://dx.doi.org/10.1016/j.jisako.2024.100345
 Water-soluble polysaccharides extracted from Enteromorpha prolifera/PVA composite film functionalized as ε-polylysine with improved mechanical and antibacterial properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136697
+Fabrication of injectable, adhesive, self-healing, superabsorbent hydrogels based on quaternary ammonium chitosan and oxidized pullulan.|https://dx.doi.org/10.1016/j.heliyon.2024.e38577

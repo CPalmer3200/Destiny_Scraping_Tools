@@ -26,3 +26,4 @@ NIR-II Image-Guided Wound Healing in Hypoxic Diabetic Foot Ulcers: The Potential
 Targeting Matrix Metalloproteinase-9 for Therapeutic Intervention in Diabetic Foot Ulcers.|https://dx.doi.org/10.1021/acsptsci.4c00263
 Prospective Observational Study of Microbiology of Infected Diabetic Foot Ulcers in a Tertiary-Care Hospital.|https://dx.doi.org/10.7759/cureus.71705
 Unusual Verrucous Skin Lesion in Diabetic Neuropathy Following Toe Amputation and Skin Grafting.|https://dx.doi.org/10.7759/cureus.69695
+Genetic identification of methicillin resistant Staphylococcus aureus (MRSA) isolated from diabetic foot ulcers and evaluating the inhibition activity of reuterin against this bacteria.|https://dx.doi.org/10.47391/JPMA-BAGH-16-29
