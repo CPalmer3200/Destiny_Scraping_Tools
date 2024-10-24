@@ -4,3 +4,4 @@ A new antibacterial with anti-inflammatory properties promotes wound healing thr
 Understanding host's response to staphylococcal scalded skin syndrome.|https://dx.doi.org/10.1111/apa.17462
 Trimodal skin health programme for childhood impetigo control in remote Western Australia (SToP): a cluster randomised, stepped-wedge trial.|https://dx.doi.org/10.1016/S2352-4642(24)00229-3
 Lactobacillus rhamnosus GG and Bifidobacterium animalis subsp. lactis BB-12 promote infected wound healing via regulation of the wound microenvironment.|https://dx.doi.org/10.1111/1751-7915.70031
+The Staphylococcus aureus-antagonizing human nasal commensal Staphylococcus lugdunensis depends on siderophore piracy.|https://dx.doi.org/10.1186/s40168-024-01913-x

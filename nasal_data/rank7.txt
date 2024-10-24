@@ -89,3 +89,4 @@ Time-Dependent Electrical Active and Ultrasound-Responsive Calcium Titanate Impl
 Preoperative, Intraoperative & Postoperative Concepts to Prevent Infection for Unicompartmental Knee Arthroplasty.|https://dx.doi.org/10.1016/j.jisako.2024.100345
 Enhancing antibacterial performance and stability of implant materials through surface modification with polydopamine/silver nanoparticles.|https://dx.doi.org/10.1016/j.colsurfb.2024.114327
 Features Associated With the Presence of Specific Bacterial Strains in Pediatric Tracheostomy.|https://dx.doi.org/10.4187/respcare.11733
+Antibacterial activity of green synthesized copper oxide nanoparticles against multidrug-resistant bacteria.|https://dx.doi.org/10.1038/s41598-024-75147-0

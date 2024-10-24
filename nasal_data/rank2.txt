@@ -18,3 +18,5 @@ Unmasking Nasal Septal Hematoma/Abscess: A Systematic Review and Meta-analysis.|
 Exeporfinium chloride (XF-73) nasal gel significantly reduces Staphylococcus aureus nasal carriage in cardiac surgery patients throughout surgery and the early recovery period: results from a randomized placebo-controlled Phase 2 study.|https://dx.doi.org/10.1017/ice.2024.122
 Anti-inflammatory effects in LPS-induced macrophages and antibiofilm activity of the mannose-rich exopolysaccharide produced by Bacillus licheniformis B3-15.|https://dx.doi.org/10.1016/j.heliyon.2024.e38367
 Impact of CCR5Δ32 on the risk of infection, Staphylococcus aureus carriage, and plasma concentrations of chemokines in Danish blood donors.|https://dx.doi.org/10.1016/j.ebiom.2024.105406
+Effects of Clausena lansium leaves volatile oil emulsion against Staphylococcus aureus in mice via autophagy modulation.|https://dx.doi.org/10.1016/j.phymed.2024.156159
+The Staphylococcus aureus-antagonizing human nasal commensal Staphylococcus lugdunensis depends on siderophore piracy.|https://dx.doi.org/10.1186/s40168-024-01913-x

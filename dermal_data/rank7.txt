@@ -3,3 +3,4 @@ Evaluation of bacteriophages for the alleviation of potential bacterial contamin
 Quaternized Curcumin Derivative-Synthesis, Physicochemical Characteristics, and Photocytotoxicity, Including Antibacterial Activity after Irradiation with Blue Light.|https://dx.doi.org/10.3390/molecules29194536
 EPHB4-RASA1 Inhibition of PIEZO1 Ras Activation Drives Lymphatic Valvulogenesis.|https://dx.doi.org/10.1161/CIRCRESAHA.124.325383
 Oral Administration of Taurodeoxycholate, A GPCR19 Agonist, Effectively Ameliorates Atopic Dermatitis in A Mouse Model.|https://dx.doi.org/10.1111/exd.15193
+Curcumin-Loaded Nanocomposite Hydrogel Dressings for Promoting Infected Wound Healing and Tissue Regeneration.|https://dx.doi.org/10.2147/IJN.S479330

@@ -1,2 +1,4 @@
 Opportunistic infections changed before and after SARS-CoV-2 infection in inflammatory bowel disease patients: a retrospective single-center study in China.|https://dx.doi.org/10.3389/fmed.2024.1461801
 Community-led diphtheria vaccination campaign to manage a diphtheria outbreak in a remote Aboriginal community.|https://dx.doi.org/10.33321/cdi.2024.48.49
+Comparative safety of different antibiotic regimens for the treatment of outpatient community-acquired pneumonia among otherwise healthy adults.|https://dx.doi.org/10.1093/cid/ciae519
+Inno4Vac Workshop Report Part 2: RSV-Controlled Human Infection Model (CHIM) Strain Selection and Immune Assays for RSV CHIM Studies, November 2021, MHRA, UK.|https://dx.doi.org/10.1111/irv.70013
