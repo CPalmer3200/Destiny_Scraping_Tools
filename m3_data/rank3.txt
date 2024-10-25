@@ -3,3 +3,4 @@ Encapsulated donor faeces for faecal microbiota transplantation: the Glyprotect 
 Whole-genome sequencing of toxigenic Clostridioides difficile reveals multidrug resistance and virulence genes in strains of environmental and animal origin.|https://dx.doi.org/10.1186/s12917-024-04332-0
 Persistent varices in cured patients: Understanding the role of hepatic venous pressure gradient.|https://dx.doi.org/10.1016/j.jhepr.2024.101170
 Public health rapid response in managing COVID-19 outbreaks in residential aged care facilities: a regional public health unit perspective.|https://dx.doi.org/10.33321/cdi.2024.48.36
+Predicting clinical trial success for Clostridium difficile infections based on preclinical data.|https://dx.doi.org/10.3389/frai.2024.1487335
