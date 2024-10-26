@@ -28,3 +28,4 @@ Prospective Observational Study of Microbiology of Infected Diabetic Foot Ulcers
 Unusual Verrucous Skin Lesion in Diabetic Neuropathy Following Toe Amputation and Skin Grafting.|https://dx.doi.org/10.7759/cureus.69695
 Genetic identification of methicillin resistant Staphylococcus aureus (MRSA) isolated from diabetic foot ulcers and evaluating the inhibition activity of reuterin against this bacteria.|https://dx.doi.org/10.47391/JPMA-BAGH-16-29
 Diabetic Deformities of the Lesser Toes.|https://dx.doi.org/10.1016/j.fcl.2023.12.005
+Assessment of Microvascular Function Based on Flowmotion Monitored by the Flow-Mediated Skin Fluorescence Technique.|https://dx.doi.org/10.3390/bios14100459

@@ -7,3 +7,5 @@ Flexible and antibacterial conductive hydrogels based on silk fibroin/polyanilin
 Polyurethane infused with heparin capped silver nanoparticles dressing for wound healing application: Synthesis, characterization and antimicrobial studies.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136557
 Evaluation of the Feasibility of Using Commercial Wound Coatings as a Carrier Matrix for Bacteriophages.|https://dx.doi.org/10.17691/stm2024.16.1.05
 Influence of copper ion cross-linked CMC-PVA film on cell viability and cell proliferation study.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136645
+Hydrogels Associated with Photodynamic Therapy Have Antimicrobial Effect against Staphylococcus aureus: A Systematic Review.|https://dx.doi.org/10.3390/gels10100635
+Sepsis-Inducing Leukocytoclastic Vasculitis Resistant to Steroid Therapy: A Case Report.|https://dx.doi.org/10.7759/cureus.70051

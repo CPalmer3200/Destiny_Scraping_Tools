@@ -37,3 +37,6 @@ Water-soluble polysaccharides extracted from Enteromorpha prolifera/PVA composit
 Fabrication of injectable, adhesive, self-healing, superabsorbent hydrogels based on quaternary ammonium chitosan and oxidized pullulan.|https://dx.doi.org/10.1016/j.heliyon.2024.e38577
 A multi-purpose dressing based on resveratrol-loaded ionic liquids/gelatin methacryloyl hydrogel for enhancing diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136773
 Encapsulation of the PHMB with nanoliposome and attachment to wound dressing for long-term antibacterial activity and biocompatibility.|https://dx.doi.org/10.1007/s11274-024-04170-0
+Shear-Thinning Extrudable Hydrogels Based on Star Polypeptides with Antimicrobial Properties.|https://dx.doi.org/10.3390/gels10100652
+Photopolymerization of Chlorpromazine-Loaded Gelatin Methacryloyl Hydrogels: Characterization and Antimicrobial Applications.|https://dx.doi.org/10.3390/gels10100632
+Assessment of the Antibiofilm Performance of Silver-Containing Wound Dressings: A Dual-Species Biofilm Model.|https://dx.doi.org/10.7759/cureus.70086

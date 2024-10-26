@@ -3,3 +3,6 @@ Risk of Intestinal Complications, Extraintestinal Morbidity, and Mortality in Pa
 Impact of Gut Microbiota and SCFAs in the Pathogenesis of PCOS and the Effect of Metformin Therapy.|https://dx.doi.org/10.3390/ijms251910636
 Genetic insight into the relationship between inflammatory bowel disease and Clostridioides difficile infection.|https://dx.doi.org/10.1128/msphere.00567-24
 Post-Discharge Outcomes of Elderly Patients Hospitalized for Inflammatory Bowel Disease Flare Complicated by Clostridioides difficile Infection.|https://dx.doi.org/10.1093/ecco-jcc/jjae161
+A Review of Epithelial Ion Transporters and Their Roles in Equine Infectious Colitis.|https://dx.doi.org/10.3390/vetsci11100480
+Gut Microbiota and New Microbiome-Targeted Drugs for Clostridioides difficile Infections.|https://dx.doi.org/10.3390/antibiotics13100995
+Risk of Clostridioides difficile infection in inflammatory bowel disease patients undergoing vedolizumab treatment: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12876-024-03460-z

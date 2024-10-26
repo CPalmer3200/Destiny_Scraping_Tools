@@ -2,3 +2,4 @@ TcdB from Hypervirulent Clostridioides difficile Induces Neuronal Loss and Neuro
 Informing estimates of probability of Clostridioides difficile infection for testing and treatment: expert consensus from a modified-Delphi procedure.|https://dx.doi.org/10.1017/ash.2024.387
 Validation of electronic health record data to identify hospital-associated Clostridioides difficile infections for retrospective research.|https://dx.doi.org/10.1017/ice.2024.140
 Examining the impact of the COVID-19 pandemic on hospital-associated Clostridioides difficile infection.|https://dx.doi.org/10.1017/ice.2024.128
+The Impact of Clinical Pharmacist-Driven Weekend Antimicrobial Stewardship Coverage at a Quaternary Hospital.|https://dx.doi.org/10.3390/antibiotics13100974

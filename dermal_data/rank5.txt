@@ -19,3 +19,5 @@ The Candida auris Hog1 MAP kinase is essential for the colonization of murine sk
 In-vitro anti-acne activity of Teucrium oliverianum methanolic extract against Cutibacterium acnes.|https://dx.doi.org/10.3389/fphar.2024.1388625
 [Mechanism of cold atmospheric plasma in treatment of chronic skin ulcer].|https://dx.doi.org/10.7507/1002-1892.202404027
 In Vitro Antibacterial and Antibiofilm Activities of Piper betle L. Ethanolic Leaf Extract on Staphylococcus aureus ATCC 29213.|https://dx.doi.org/10.47895/amp.vi0.6412
+Managing Complicated Nontuberculous Mycobacteria Infections in Plastic Surgery.|https://dx.doi.org/10.1097/GOX.0000000000006254
+Biofilm Microenvironment-Sensitive Anti-Virulent and Immunomodulatory Nano-on-Nanodroplets to Combat Refractory Biofilm Infection Through Toxin Neutralization and Phagocytosis.|https://dx.doi.org/10.1002/adhm.202403528

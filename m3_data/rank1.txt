@@ -13,3 +13,4 @@ Fecal microbiota transplantation in a patient with chronic diarrhea and primary 
 Treatment outcomes of mild to moderate Clostridioides difficile infection in inflammatory bowel disease: an Australian experience.|https://dx.doi.org/10.1111/imj.16545
 Multicenter study on Clostridioides difficile infections in Mexico: exploring the landscape.|https://dx.doi.org/10.1017/ice.2024.153
 Gonococcal infections and risk factors for reinfection: a descriptive and case-case analysis of notifications in the Australian Capital Territory, 2017-2022.|https://dx.doi.org/10.33321/cdi.2024.48.51
+Epidemiology and Outcomes of Recurrent C Difficile Infection Among Hematopoietic Cell Transplant Recipients: A Single-center, Retrospective 10-year Study.|https://dx.doi.org/10.1093/ofid/ofae570
