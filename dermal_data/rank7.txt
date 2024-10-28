@@ -4,3 +4,6 @@ Quaternized Curcumin Derivative-Synthesis, Physicochemical Characteristics, and 
 EPHB4-RASA1 Inhibition of PIEZO1 Ras Activation Drives Lymphatic Valvulogenesis.|https://dx.doi.org/10.1161/CIRCRESAHA.124.325383
 Oral Administration of Taurodeoxycholate, A GPCR19 Agonist, Effectively Ameliorates Atopic Dermatitis in A Mouse Model.|https://dx.doi.org/10.1111/exd.15193
 Curcumin-Loaded Nanocomposite Hydrogel Dressings for Promoting Infected Wound Healing and Tissue Regeneration.|https://dx.doi.org/10.2147/IJN.S479330
+Experimental infection of ringtail possums (Pseudocheirus peregrinus) with Mycobacterium ulcerans, the agent of Buruli ulcer.|https://dx.doi.org/10.1038/s41598-024-76857-1
+Detection of Ophidiomyces and Nannizziopsis spp. in the dermal lesions of free roaming native snakes in Taiwan.|https://dx.doi.org/10.1093/mmy/myae103
+Electrically-driven drug delivery into deep cutaneous tissue by conductive microneedles for fungal infection eradication and protective immunity.|https://dx.doi.org/10.1016/j.biomaterials.2024.122908

@@ -29,3 +29,6 @@ Unusual Verrucous Skin Lesion in Diabetic Neuropathy Following Toe Amputation an
 Genetic identification of methicillin resistant Staphylococcus aureus (MRSA) isolated from diabetic foot ulcers and evaluating the inhibition activity of reuterin against this bacteria.|https://dx.doi.org/10.47391/JPMA-BAGH-16-29
 Diabetic Deformities of the Lesser Toes.|https://dx.doi.org/10.1016/j.fcl.2023.12.005
 Assessment of Microvascular Function Based on Flowmotion Monitored by the Flow-Mediated Skin Fluorescence Technique.|https://dx.doi.org/10.3390/bios14100459
+Machine Learning Algorithm-Aided Determination of Predictors of Mortality from Diabetic Foot Sepsis at a Regional Hospital in South Africa During the COVID-19 Pandemic.|https://dx.doi.org/10.3390/medicina60101718
+Management of Foot Ulcers and Chronic Wounds with Amniotic Membrane in Comorbid Patients: A Successful Experience.|https://dx.doi.org/10.3390/biomedicines12102380
+Living without pain: A 10-year study of congenital insensitivity to pain with anhidrosis.|https://dx.doi.org/10.1038/s41390-024-03565-x

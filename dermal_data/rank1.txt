@@ -9,3 +9,4 @@ Evaluation of the Feasibility of Using Commercial Wound Coatings as a Carrier Ma
 Influence of copper ion cross-linked CMC-PVA film on cell viability and cell proliferation study.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136645
 Hydrogels Associated with Photodynamic Therapy Have Antimicrobial Effect against Staphylococcus aureus: A Systematic Review.|https://dx.doi.org/10.3390/gels10100635
 Sepsis-Inducing Leukocytoclastic Vasculitis Resistant to Steroid Therapy: A Case Report.|https://dx.doi.org/10.7759/cureus.70051
+The Effects of Marine Fungal Asterripeptides A-C on In Vitro and In Vivo Staphylococcus aureus Skin Infection.|https://dx.doi.org/10.3390/ph17101345

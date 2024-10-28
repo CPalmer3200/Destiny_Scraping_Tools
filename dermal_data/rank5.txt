@@ -21,3 +21,7 @@ In-vitro anti-acne activity of Teucrium oliverianum methanolic extract against C
 In Vitro Antibacterial and Antibiofilm Activities of Piper betle L. Ethanolic Leaf Extract on Staphylococcus aureus ATCC 29213.|https://dx.doi.org/10.47895/amp.vi0.6412
 Managing Complicated Nontuberculous Mycobacteria Infections in Plastic Surgery.|https://dx.doi.org/10.1097/GOX.0000000000006254
 Biofilm Microenvironment-Sensitive Anti-Virulent and Immunomodulatory Nano-on-Nanodroplets to Combat Refractory Biofilm Infection Through Toxin Neutralization and Phagocytosis.|https://dx.doi.org/10.1002/adhm.202403528
+RF pulsed plasma modified composite scaffold for enhanced anti-microbial activity and accelerated wound healing.|https://dx.doi.org/10.1016/j.ijpharm.2024.124864
+Isolation and Antibiofilm Activity of Bacteriophages against Cutibacterium acnes from Patients with Periprosthetic Joint Infection.|https://dx.doi.org/10.3390/v16101592
+Antibiofilm and Antimicrobial Potentials of Novel Synthesized Sulfur Camphor Derivatives.|https://dx.doi.org/10.3390/ijms252010895
+The regulatory T cell-selective interleukin-2 receptor agonist rezpegaldesleukin in the treatment of inflammatory skin diseases: two randomized, double-blind, placebo-controlled phase 1b trials.|https://dx.doi.org/10.1038/s41467-024-53384-1

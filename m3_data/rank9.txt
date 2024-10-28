@@ -6,3 +6,4 @@ Post-Discharge Outcomes of Elderly Patients Hospitalized for Inflammatory Bowel 
 A Review of Epithelial Ion Transporters and Their Roles in Equine Infectious Colitis.|https://dx.doi.org/10.3390/vetsci11100480
 Gut Microbiota and New Microbiome-Targeted Drugs for Clostridioides difficile Infections.|https://dx.doi.org/10.3390/antibiotics13100995
 Risk of Clostridioides difficile infection in inflammatory bowel disease patients undergoing vedolizumab treatment: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12876-024-03460-z
+Therapy of Aspiration: Out-of-Hospital and In-Hospital-Acquired.|https://dx.doi.org/10.1055/s-0044-1791826

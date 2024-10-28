@@ -8,3 +8,7 @@ Far-UVC light (222 nm) efficiently inactivates clinically significant antibiotic
 Single-cell Sequencing of Circulating Human Plasmablasts during Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.4049/jimmunol.2300858
 Central Skull Base Osteomyelitis in Queensland, Australia, 2010-2020.|https://dx.doi.org/10.1093/ofid/ofae614
 Assessment of the Antibiofilm Performance of Silver-Containing Wound Dressings: A Dual-Species Biofilm Model.|https://dx.doi.org/10.7759/cureus.70086
+Arthroscopic Debridement Enhanced by Intra-Articular Antibiotic-Loaded Calcium Sulphate Beads for Septic Arthritis of a Native Knee Following Iatrogenic Joint Injection: A Case Report.|https://dx.doi.org/10.3390/medicina60101636
+The Effect of Aloe vera on Skin and Its Commensals: Contribution of Acemannan in Curing Acne Caused by Propionibacterium acnes.|https://dx.doi.org/10.3390/microorganisms12102070
+Assessing the Effects of Surgical Irrigation Solutions on Human Neutrophil Interactions with Nascent Staphylococcus aureus Biofilms.|https://dx.doi.org/10.3390/microorganisms12101951
+Living without pain: A 10-year study of congenital insensitivity to pain with anhidrosis.|https://dx.doi.org/10.1038/s41390-024-03565-x
