@@ -32,3 +32,4 @@ Assessment of Microvascular Function Based on Flowmotion Monitored by the Flow-M
 Machine Learning Algorithm-Aided Determination of Predictors of Mortality from Diabetic Foot Sepsis at a Regional Hospital in South Africa During the COVID-19 Pandemic.|https://dx.doi.org/10.3390/medicina60101718
 Management of Foot Ulcers and Chronic Wounds with Amniotic Membrane in Comorbid Patients: A Successful Experience.|https://dx.doi.org/10.3390/biomedicines12102380
 Living without pain: A 10-year study of congenital insensitivity to pain with anhidrosis.|https://dx.doi.org/10.1038/s41390-024-03565-x
+Multifactorial analysis of risk factors for foot ulcers in patients with neurovascular complications of diabetes.|https://dx.doi.org/10.3389/fendo.2024.1399924
