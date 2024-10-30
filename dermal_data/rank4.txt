@@ -45,3 +45,4 @@ MOF-Enhanced Phototherapeutic Wound Dressings Against Drug-Resistant Bacteria.|h
 Hydrogel Containing Propolis: Physical Characterization and Evaluation of Biological Activities for Potential Use in the Treatment of Skin Lesions.|https://dx.doi.org/10.3390/ph17101400
 Fabrication and Properties of Hydrogel Dressings Based on Genipin Crosslinked Chondroitin Sulfate and Chitosan.|https://dx.doi.org/10.3390/polym16202876
 Gallic acid functionalized silk fibroin/gelatin composite wound dressing for enhanced wound healing.|https://dx.doi.org/10.1088/1748-605X/ad8c09
+3D printed personalized wound dressings using a hydrophobic deep eutectic solvent (HDES)-formulated emulgel.|https://dx.doi.org/10.1039/d4ra05456c

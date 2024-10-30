@@ -16,3 +16,6 @@ The impact of femoral/internal jugular vein selection on postoperative infection
 Bacteriological profile and antibiotic sensitivity pattern of bloodstream infections from a teaching institution in Eastern Uttar Pradesh, North India.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1994_23
 Prevalence of Methicillin-Resistant Staphylococcus aureus in Saudi Arabia: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.70230
 Impact of Biofilms on Surface Properties of Polymethyl Methacrylate (PMMA) Resins.|https://dx.doi.org/10.1002/jobm.202400460
+Biofilm-mediated antibiotic tolerance in Staphylococcus aureus from spinal cord stimulation device-related infections.|https://dx.doi.org/10.1128/spectrum.01683-24
+Decade-long analysis of postoperative endophthalmitis in Sweden: Insights from insurance and national quality registers.|https://dx.doi.org/10.1016/j.heliyon.2024.e38878
+Antimicrobial surface coating in the emergency department as protective technology for infection control (ASEPTIC): a pilot randomized controlled trial.|https://dx.doi.org/10.1186/s13756-024-01481-7

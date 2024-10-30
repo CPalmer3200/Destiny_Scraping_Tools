@@ -7,3 +7,4 @@ Curcumin-Loaded Nanocomposite Hydrogel Dressings for Promoting Infected Wound He
 Experimental infection of ringtail possums (Pseudocheirus peregrinus) with Mycobacterium ulcerans, the agent of Buruli ulcer.|https://dx.doi.org/10.1038/s41598-024-76857-1
 Detection of Ophidiomyces and Nannizziopsis spp. in the dermal lesions of free roaming native snakes in Taiwan.|https://dx.doi.org/10.1093/mmy/myae103
 Electrically-driven drug delivery into deep cutaneous tissue by conductive microneedles for fungal infection eradication and protective immunity.|https://dx.doi.org/10.1016/j.biomaterials.2024.122908
+Increased splicing of CXCR3 isoform B (CXCR3B) by impaired NRF2 signaling leads to melanocyte apoptosis in active vitiligo.|https://dx.doi.org/10.1016/j.freeradbiomed.2024.10.303

@@ -4,3 +4,4 @@ Validation of electronic health record data to identify hospital-associated Clos
 Examining the impact of the COVID-19 pandemic on hospital-associated Clostridioides difficile infection.|https://dx.doi.org/10.1017/ice.2024.128
 The Impact of Clinical Pharmacist-Driven Weekend Antimicrobial Stewardship Coverage at a Quaternary Hospital.|https://dx.doi.org/10.3390/antibiotics13100974
 A Mouse Model of Mild Clostridioides difficile Infection for the Characterization of Natural Immune Responses.|https://dx.doi.org/10.3390/microorganisms12101933
+Mice colonized with the defined microbial community OMM19.1 are susceptible to Clostridioides difficile infection without prior antibiotic treatment.|https://dx.doi.org/10.1128/msphere.00718-24

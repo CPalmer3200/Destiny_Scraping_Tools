@@ -7,3 +7,5 @@ Lactobacillus rhamnosus GG and Bifidobacterium animalis subsp. lactis BB-12 prom
 The Staphylococcus aureus-antagonizing human nasal commensal Staphylococcus lugdunensis depends on siderophore piracy.|https://dx.doi.org/10.1186/s40168-024-01913-x
 The Opportunistic Pathogen Staphylococcus warneri: Virulence and Antibiotic Resistance, Clinical Features, Association with Orthopedic Implants and Other Medical Devices, and a Glance at Industrial Applications.|https://dx.doi.org/10.3390/antibiotics13100972
 Pulmonary manifestations in hyper IgE syndrome: A case series and review of Indian literature.|https://dx.doi.org/10.4103/lungindia.lungindia_332_24
+Monocyte-regulated interleukin 12 production drives clearance of Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.ppat.1012648
+Rational computational design and development of an immunogenic multiepitope vaccine incorporating transmembrane proteins of Staphylococcus lugdunensis.|https://dx.doi.org/10.1016/j.intimp.2024.113345
