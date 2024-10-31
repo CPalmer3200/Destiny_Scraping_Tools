@@ -33,3 +33,5 @@ Machine Learning Algorithm-Aided Determination of Predictors of Mortality from D
 Management of Foot Ulcers and Chronic Wounds with Amniotic Membrane in Comorbid Patients: A Successful Experience.|https://dx.doi.org/10.3390/biomedicines12102380
 Living without pain: A 10-year study of congenital insensitivity to pain with anhidrosis.|https://dx.doi.org/10.1038/s41390-024-03565-x
 Multifactorial analysis of risk factors for foot ulcers in patients with neurovascular complications of diabetes.|https://dx.doi.org/10.3389/fendo.2024.1399924
+Modelling the cost-effectiveness of a chloramine gel in treating infected, non-healing diabetic foot ulcers.|https://dx.doi.org/10.1002/hsr2.70076
+Large Spontaneous Subcutaneous Abscess Formation due to Finegoldia magna in a Diabetic Patient: A Case Report.|https://dx.doi.org/10.1159/000540636

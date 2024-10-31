@@ -19,3 +19,10 @@ Impact of Biofilms on Surface Properties of Polymethyl Methacrylate (PMMA) Resin
 Biofilm-mediated antibiotic tolerance in Staphylococcus aureus from spinal cord stimulation device-related infections.|https://dx.doi.org/10.1128/spectrum.01683-24
 Decade-long analysis of postoperative endophthalmitis in Sweden: Insights from insurance and national quality registers.|https://dx.doi.org/10.1016/j.heliyon.2024.e38878
 Antimicrobial surface coating in the emergency department as protective technology for infection control (ASEPTIC): a pilot randomized controlled trial.|https://dx.doi.org/10.1186/s13756-024-01481-7
+Chronic co-infection with Pseudomonas aeruginosa and normal colony Staphylococcus aureus causes lung structural damage in the cystic fibrosis rat.|https://dx.doi.org/10.1016/j.ajpath.2024.09.008
+Development and validation of a preclinical canine model for early onset fracture-related infections.|https://dx.doi.org/10.1016/j.injury.2024.111957
+Antimicrobial and antifouling hyaluronic acid-cobalt nanogel coatings built sonochemically on contact lenses.|https://dx.doi.org/10.1016/j.ultsonch.2024.107131
+A natural killer cell mimic against intracellular pathogen infections.|https://dx.doi.org/10.1126/sciadv.adp3976
+Polydopamine-Mediated Antimicrobial Lipopeptide Surface Coating for Medical Devices.|https://dx.doi.org/10.1021/acsabm.4c01132
+Milk Fat Globules: 2024 Updates.|https://dx.doi.org/10.5005/jp-journals-11002-0085
+Surgical site infection and antimicrobial use following caesarean section at QECH in Blantyre, Malawi: a prospective cohort study.|https://dx.doi.org/10.1186/s13756-024-01483-5

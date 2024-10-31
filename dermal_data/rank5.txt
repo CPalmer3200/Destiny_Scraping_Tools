@@ -26,3 +26,4 @@ Isolation and Antibiofilm Activity of Bacteriophages against Cutibacterium acnes
 Antibiofilm and Antimicrobial Potentials of Novel Synthesized Sulfur Camphor Derivatives.|https://dx.doi.org/10.3390/ijms252010895
 The regulatory T cell-selective interleukin-2 receptor agonist rezpegaldesleukin in the treatment of inflammatory skin diseases: two randomized, double-blind, placebo-controlled phase 1b trials.|https://dx.doi.org/10.1038/s41467-024-53384-1
 Case Report: Pan-Drug Resistant Pseudomonas aeruginosa from a Child with an Infected Burn Wound at the University Teaching Hospital of Kigali, Rwanda.|https://dx.doi.org/10.2147/IDR.S486519
+Polydopamine-Mediated Antimicrobial Lipopeptide Surface Coating for Medical Devices.|https://dx.doi.org/10.1021/acsabm.4c01132

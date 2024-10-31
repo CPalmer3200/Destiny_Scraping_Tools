@@ -8,3 +8,4 @@ Experimental infection of ringtail possums (Pseudocheirus peregrinus) with Mycob
 Detection of Ophidiomyces and Nannizziopsis spp. in the dermal lesions of free roaming native snakes in Taiwan.|https://dx.doi.org/10.1093/mmy/myae103
 Electrically-driven drug delivery into deep cutaneous tissue by conductive microneedles for fungal infection eradication and protective immunity.|https://dx.doi.org/10.1016/j.biomaterials.2024.122908
 Increased splicing of CXCR3 isoform B (CXCR3B) by impaired NRF2 signaling leads to melanocyte apoptosis in active vitiligo.|https://dx.doi.org/10.1016/j.freeradbiomed.2024.10.303
+No Difference in Prognosis between Atypical Intradermal Smooth Muscle Neoplasms and Dermal Leiomyosarcoma: Local Recurrence, Metastasis, and Overall Survival in a Nationwide Cohort of 423 Patients.|https://dx.doi.org/10.1016/j.jaad.2024.10.033
