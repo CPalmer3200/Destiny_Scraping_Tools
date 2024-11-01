@@ -27,3 +27,6 @@ Antibiofilm and Antimicrobial Potentials of Novel Synthesized Sulfur Camphor Der
 The regulatory T cell-selective interleukin-2 receptor agonist rezpegaldesleukin in the treatment of inflammatory skin diseases: two randomized, double-blind, placebo-controlled phase 1b trials.|https://dx.doi.org/10.1038/s41467-024-53384-1
 Case Report: Pan-Drug Resistant Pseudomonas aeruginosa from a Child with an Infected Burn Wound at the University Teaching Hospital of Kigali, Rwanda.|https://dx.doi.org/10.2147/IDR.S486519
 Polydopamine-Mediated Antimicrobial Lipopeptide Surface Coating for Medical Devices.|https://dx.doi.org/10.1021/acsabm.4c01132
+Effect of novel non-coding small RNA111 of Pseudomonas aeruginosa on bacterial virulence.|https://dx.doi.org/10.1016/j.micpath.2024.107077
+Microemulsion-based topical hydrogels containing lemongrass leaf essential oil (Cymbopogon citratus (DC.) Stapf) and mango seed kernel extract (Mangifera indica Linn) for acne treatment: Preparation and in-vitro evaluations.|https://dx.doi.org/10.1371/journal.pone.0312841
+A wearable and stretchable dual-wavelength LED device for home care of chronic infected wounds.|https://dx.doi.org/10.1038/s41467-024-53579-6

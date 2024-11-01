@@ -2,3 +2,5 @@ Differential Nasal Recolonization and Microbial Profiles in Chronic Rhinosinusit
 Methicillin-Resistant Staphylococcus aureus among Students: Nasal Carriage Rate, Contributing Factors, and Antimicrobial Susceptibility.|https://dx.doi.org/10.3390/medicina60101590
 Co-adjuvanting Nod2-stimulating bacteria with a TLR7 agonist elicits potent protective immunity against respiratory virus infection.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107369
 Most Common Pathogens Causing Rhinosinusitis in Patients Who Underwent Endoscopic Sinus Surgery Before, During, and After the COVID-19 Pandemic.|https://dx.doi.org/10.1177/19160216241291808
+Molecular detection of Staphylococcus aureus in urine in patients with S. aureus bacteremia: an exploratory study.|https://dx.doi.org/10.1007/s10096-024-04969-7
+Analysis of olfactory function in patients with chronic rhinosinusitis and Staphylococcus aureus enterotoxin positivity.|https://dx.doi.org/10.1038/s41598-024-77459-7

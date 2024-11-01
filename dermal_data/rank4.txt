@@ -46,3 +46,6 @@ Hydrogel Containing Propolis: Physical Characterization and Evaluation of Biolog
 Fabrication and Properties of Hydrogel Dressings Based on Genipin Crosslinked Chondroitin Sulfate and Chitosan.|https://dx.doi.org/10.3390/polym16202876
 Gallic acid functionalized silk fibroin/gelatin composite wound dressing for enhanced wound healing.|https://dx.doi.org/10.1088/1748-605X/ad8c09
 3D printed personalized wound dressings using a hydrophobic deep eutectic solvent (HDES)-formulated emulgel.|https://dx.doi.org/10.1039/d4ra05456c
+Antibacterial properties enhancement tropical fruit waste biopolymer hydrogel loaded Nephelium Lappaceum leaf extract for sanitizing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.136297
+Multifunctional SEBS/AgNWs Nanocomposite Films with Antimicrobial, Antioxidant, and Anti-Inflammatory Properties Promote Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.4c15649
+Construction and Performance Study of an Injectable Dual-Network Hydrogel Dressing with Inherent Drainage Function.|https://dx.doi.org/10.1021/acsami.4c09483

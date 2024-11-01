@@ -13,3 +13,4 @@ The Effects of Marine Fungal Asterripeptides A-C on In Vitro and In Vivo Staphyl
 Polysaccharide-Based Injectable Hydrogel Loaded with Quercetin Promotes Scarless Healing of Burn Wounds by Reducing Inflammation.|https://dx.doi.org/10.1021/acs.biomac.4c01276
 Polylactic acid-based dressing with oxygen generation and enzyme-like activity for accelerating both light-driven biofilm elimination and wound healing.|https://dx.doi.org/10.1093/burnst/tkae041
 Biological and Biophysical Methods for Evaluation of Inhibitors of Sortase A in Staphylococcus aureus: An Overview.|https://dx.doi.org/10.1002/cbf.70002
+Development of a porcine model of skin and soft-tissue infection caused by Staphylococcus aureus, including methicillin-resistant strains suitable for testing topical antimicrobial agents.|https://dx.doi.org/10.1002/ame2.12495

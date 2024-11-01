@@ -26,3 +26,6 @@ A natural killer cell mimic against intracellular pathogen infections.|https://d
 Polydopamine-Mediated Antimicrobial Lipopeptide Surface Coating for Medical Devices.|https://dx.doi.org/10.1021/acsabm.4c01132
 Milk Fat Globules: 2024 Updates.|https://dx.doi.org/10.5005/jp-journals-11002-0085
 Surgical site infection and antimicrobial use following caesarean section at QECH in Blantyre, Malawi: a prospective cohort study.|https://dx.doi.org/10.1186/s13756-024-01483-5
+Efficacy of a saline wash plus vancomycin/tobramycin-doped PVA composite (PVA-VAN/TOB-P) in a mouse pouch infection model implanted with 3D-printed porous titanium cylinders.|https://dx.doi.org/10.1302/2046-3758.1311.BJR-2023-0334.R2
+Microbial burden on environmental surfaces in long-term care facilities: a quantitative analysis.|https://dx.doi.org/10.1017/ice.2024.129
+Awareness of infection care terms among outpatients and carers in a public health facility: a cross-sectional survey.|https://dx.doi.org/10.12688/wellcomeopenres.20162.2

@@ -7,3 +7,4 @@ Predicting clinical trial success for Clostridium difficile infections based on 
 Pneumatosis Intestinalis and Pneumoperitoneum After Lung Transplantation: Single-Center Experience and Systematic Review.|https://dx.doi.org/10.1155/2024/8867932
 Cardiovascular Computed Tomography and Magnetic Resonance Imaging Guideline of the Brazilian Society of Cardiology and the Brazilian College of Radiology - 2024.|https://dx.doi.org/10.36660/abc.20240608
 Large Clostridial Toxins: A Brief Review and Insights into Antigen Design for Veterinary Vaccine Development.|https://dx.doi.org/10.1007/s12033-024-01303-6
+When and What to Test for Diarrhea: Focus on Stool Testing.|https://dx.doi.org/10.14309/ajg.0000000000003175

@@ -9,3 +9,4 @@ The Opportunistic Pathogen Staphylococcus warneri: Virulence and Antibiotic Resi
 Pulmonary manifestations in hyper IgE syndrome: A case series and review of Indian literature.|https://dx.doi.org/10.4103/lungindia.lungindia_332_24
 Monocyte-regulated interleukin 12 production drives clearance of Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.ppat.1012648
 Rational computational design and development of an immunogenic multiepitope vaccine incorporating transmembrane proteins of Staphylococcus lugdunensis.|https://dx.doi.org/10.1016/j.intimp.2024.113345
+Peptide Cy (RL-QN15) accelerates hair regeneration in diabetic mice by binding to the Frizzled-7 receptor.|https://dx.doi.org/10.24272/j.issn.2095-8137.2024.134
