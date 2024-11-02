@@ -17,3 +17,4 @@ Epidemiology and Outcomes of Recurrent C Difficile Infection Among Hematopoietic
 Improved health-related quality of life in patients with recurrent Clostridioides difficile infection after treatment with faecal microbiota transplantation.|https://dx.doi.org/10.1080/23744235.2024.2415694
 Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infections in a Cystic Fibrosis Child Previously Screen Positive, Inconclusive Diagnosis (CFSPID): A Case Report.|https://dx.doi.org/10.3390/microorganisms12102059
 Epidemiology of Clostridioides difficile PCR ribotype 181 after the COVID-19 pandemic in Northern Greece.|https://dx.doi.org/10.1556/030.2024.02401
+Comparative effectiveness of treatments for recurrent Clostridioides difficile infection: a network meta-analysis of randomized controlled trials.|https://dx.doi.org/10.3389/fphar.2024.1430724

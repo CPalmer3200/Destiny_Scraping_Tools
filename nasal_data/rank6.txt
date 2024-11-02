@@ -3,3 +3,4 @@ Cutaneous Manifestations of Langerhans Cell Histiocytosis in Pediatric Age: A Ca
 Antimicrobial resistance in Staphylococcus aureus and Enterococci spp. isolates from bloodstream infections in Australian children, 2013 - 2021.|https://dx.doi.org/10.1093/jpids/piae110
 Rational computational design and development of an immunogenic multiepitope vaccine incorporating transmembrane proteins of Staphylococcus lugdunensis.|https://dx.doi.org/10.1016/j.intimp.2024.113345
 Analysis of invasive group A streptococcal puerperal sepsis in Calgary, Alberta: clinical consequences and policy implications.|https://dx.doi.org/10.1017/ice.2024.154
+A quasi-experimental analysis comparing antimicrobial usage on COVID-19 and non-COVID-19 wards.|https://dx.doi.org/10.1017/ash.2024.417
