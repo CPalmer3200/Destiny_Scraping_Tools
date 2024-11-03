@@ -11,3 +11,5 @@ The impact of cosmetic tourism across one year on an NHS breast surgery unit.|ht
 An outreach strategy to increase uptake of vaginal self-sampling for cervical cancer screening in older French women: The RIDECA interventional research protocol.|https://dx.doi.org/10.1177/17455057241292693
 The Preferential Use of Subcutaneous Arteries (SCIA-SB and SIEA) in Abdominal-based Autologous Breast Reconstruction with a Modified Flap Design.|https://dx.doi.org/10.1097/GOX.0000000000006252
 Incidence and risk factors of pain following breast cancer surgery: a retrospective national inpatient sample database study.|https://dx.doi.org/10.1186/s12905-024-03430-3
+The negative impact of the COVID-19 pandemic on breast cancer tackle in Brazil's public and private healthcare system: time series study between 2014 and 2022.|https://dx.doi.org/10.1186/s12913-024-11769-4
+Rapidly Progressive Glomerulonephritis Associated With IgA Nephropathy and C3 Deposits in a Patient With Chronic Hepatitis B.|https://dx.doi.org/10.7759/cureus.70619

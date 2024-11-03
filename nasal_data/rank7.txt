@@ -29,3 +29,5 @@ Surgical site infection and antimicrobial use following caesarean section at QEC
 Efficacy of a saline wash plus vancomycin/tobramycin-doped PVA composite (PVA-VAN/TOB-P) in a mouse pouch infection model implanted with 3D-printed porous titanium cylinders.|https://dx.doi.org/10.1302/2046-3758.1311.BJR-2023-0334.R2
 Microbial burden on environmental surfaces in long-term care facilities: a quantitative analysis.|https://dx.doi.org/10.1017/ice.2024.129
 Awareness of infection care terms among outpatients and carers in a public health facility: a cross-sectional survey.|https://dx.doi.org/10.12688/wellcomeopenres.20162.2
+Genetic characteristics and antimicrobial resistance of Staphylococcus aureus isolates from pig farms in Korea: emergence of cfr-positive CC398 lineage.|https://dx.doi.org/10.1186/s12917-024-04360-w
+Biofilm formation and antibiogram profile of bacteria from infected wounds in a general hospital in southern Ethiopia.|https://dx.doi.org/10.1038/s41598-024-78283-9
