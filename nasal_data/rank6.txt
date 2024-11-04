@@ -4,3 +4,4 @@ Antimicrobial resistance in Staphylococcus aureus and Enterococci spp. isolates 
 Rational computational design and development of an immunogenic multiepitope vaccine incorporating transmembrane proteins of Staphylococcus lugdunensis.|https://dx.doi.org/10.1016/j.intimp.2024.113345
 Analysis of invasive group A streptococcal puerperal sepsis in Calgary, Alberta: clinical consequences and policy implications.|https://dx.doi.org/10.1017/ice.2024.154
 A quasi-experimental analysis comparing antimicrobial usage on COVID-19 and non-COVID-19 wards.|https://dx.doi.org/10.1017/ash.2024.417
+Antibacterial and wound healing stimulant nanofibrous dressing consisting of soluplus and soy protein isolate loaded with mupirocin.|https://dx.doi.org/10.1038/s41598-024-78161-4
