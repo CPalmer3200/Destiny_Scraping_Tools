@@ -13,3 +13,6 @@ The Preferential Use of Subcutaneous Arteries (SCIA-SB and SIEA) in Abdominal-ba
 Incidence and risk factors of pain following breast cancer surgery: a retrospective national inpatient sample database study.|https://dx.doi.org/10.1186/s12905-024-03430-3
 The negative impact of the COVID-19 pandemic on breast cancer tackle in Brazil's public and private healthcare system: time series study between 2014 and 2022.|https://dx.doi.org/10.1186/s12913-024-11769-4
 Rapidly Progressive Glomerulonephritis Associated With IgA Nephropathy and C3 Deposits in a Patient With Chronic Hepatitis B.|https://dx.doi.org/10.7759/cureus.70619
+Unplanned 180-day Readmissions and Healthcare Utilization After Immediate Breast Reconstruction for Breast Cancer.|https://dx.doi.org/10.1055/a-2460-4821
+Breast tumor with giant borderline phyllodes: Case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000037260
+The optimal timing of breast cancer surgery after COVID-19 infection: an observational study.|https://dx.doi.org/10.1186/s12885-024-13080-1

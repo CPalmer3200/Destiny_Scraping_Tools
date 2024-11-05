@@ -5,3 +5,5 @@ Inno4Vac Workshop Report Part 2: RSV-Controlled Human Infection Model (CHIM) Str
 Challenges of Infectious Diseases in Older Adults: From Immunosenescence and Inflammaging Through Antibiotic Resistance to Management Strategies.|https://dx.doi.org/10.1016/j.mad.2024.111998
 Safety and Immunogenicity of an Adjuvanted Clostridioides difficile Vaccine Candidate in Healthy Adults: A Randomized Placebo-Controlled Phase 1 Study.|https://dx.doi.org/10.1093/infdis/jiae466
 Multivalent vaccine tackles C. difficile.|https://dx.doi.org/10.1038/d41573-024-00174-5
+Novel coenzyme Q6 genetic variant increases susceptibility to pneumococcal disease.|https://dx.doi.org/10.1038/s41590-024-01998-4
+Inno4Vac Workshop Report Part 1: Controlled Human Influenza Virus Infection Model (CHIVIM) Strain Selection and Immune Assays for CHIVIM Studies, November 2021, MHRA, UK.|https://dx.doi.org/10.1111/irv.70014
