@@ -10,3 +10,7 @@ Gellan gum-based multifunctional hydrogel with enduring sterilization and ROS sc
 Development and characterization of antibacterial marine extract-infused cellulose acetate nanofibers as wound dressings for combatting multidrug-resistant wound infections.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137142
 Facile fabrication of a starch-based wood adhesive showcasing water resistance, flame retardancy, and antibacterial properties via a dual crosslinking strategy.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137180
 Antibacterial and wound healing stimulant nanofibrous dressing consisting of soluplus and soy protein isolate loaded with mupirocin.|https://dx.doi.org/10.1038/s41598-024-78161-4
+Formulation, Characterization and Evaluation of Minocycline Hydrochloride Loaded Polyurethane/Collagen Nanofibers via Electrospinning as Wound Dressings.|https://dx.doi.org/10.1080/03639045.2024.2426581
+Characterization and Performance Evaluation of Magnesium Chloride-Enriched Polyurethane Nanofiber Patches for Wound Dressings.|https://dx.doi.org/10.2147/IJN.S460921
+A functional dual responsive CMC/OHA/SA/TOB hydrogel as wound dressing to enhance wound healing.|https://dx.doi.org/10.1038/s41598-024-78044-8
+Chiral helix amplification and enhanced bioadhesion of two-component low molecular weight hydrogels regulated by OH to eradicate MRSA biofilms.|https://dx.doi.org/10.1039/d4mh01213e

@@ -10,3 +10,4 @@ Large Clostridial Toxins: A Brief Review and Insights into Antigen Design for Ve
 When and What to Test for Diarrhea: Focus on Stool Testing.|https://dx.doi.org/10.14309/ajg.0000000000003175
 Human Health Risk Assessment and Water Quality Index of piped water supply system in Gulshan-e-Iqbal Town, Karachi (A Preliminary Town level study).|https://dx.doi.org/10.1007/s10661-024-13346-y
 Necrotizing Gallstone Pancreatitis in a Pediatric Patient: A Case Report and Review of Diagnostic and Management Challenges.|https://dx.doi.org/10.7759/cureus.70802
+Fidaxomicin resistance in Clostridioides difficile: a systematic review and predictive modeling with RNA polymerase binding sites.|https://dx.doi.org/10.1128/aac.01206-24

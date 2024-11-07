@@ -4,3 +4,4 @@ Sterility in the offspring of spr-5; met-2 mutants may be caused by inherited H3
 International expert guidance for defining and monitoring small bowel strictures in Crohn's disease on intestinal ultrasound: a consensus statement.|https://dx.doi.org/10.1016/S2468-1253(24)00265-6
 Antioxidant and Pro-Oxidant Properties of Selected Clinically Applied Antibiotics: Therapeutic Insights.|https://dx.doi.org/10.3390/ph17101257
 Trends in COVID-19-Attributable Hospitalizations Among Adults With Laboratory-Confirmed SARS-CoV-2-COVID-NET, June 2020 to September 2023.|https://dx.doi.org/10.1111/irv.70021
+SQ31f is a potent non-tuberculous mycobacteria antibiotic by specifically targeting the mycobacterial F-ATP synthase.|https://dx.doi.org/10.1093/jac/dkae406

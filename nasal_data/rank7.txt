@@ -36,3 +36,9 @@ Risk of Infective Endocarditis in Patients with Spinal Surgical Site Infection a
 Antibiotic Use in Medical-Surgical Intensive Care Units and General Wards in Latin American Hospitals.|https://dx.doi.org/10.1093/ofid/ofae620
 Knowledge, attitudes, and practices of Jamaican healthcare workers on nosocomial infection control.|https://dx.doi.org/10.1177/17571774241245430
 Organisms Causing Postoperative Implant Infection in Orthopedic Patients Presenting at a Tertiary Care Hospital.|https://dx.doi.org/10.7759/cureus.70821
+Exploring Drug Resistance: Microbial Profiles, Antibiotic Sensitivity, and Biofilm Development in Orthopedic Implant Infections.|https://dx.doi.org/10.7759/cureus.70938
+Incidence and Risk Factors of Infection After Fracture Fixation: A Multicenter Cohort Study.|https://dx.doi.org/10.1111/os.14278
+Nanoparticle ultrasonication: a promising approach for reducing bacterial biofilm in total joint infection-an in vivo rat model investigation.|https://dx.doi.org/10.1186/s42836-024-00279-7
+A functional dual responsive CMC/OHA/SA/TOB hydrogel as wound dressing to enhance wound healing.|https://dx.doi.org/10.1038/s41598-024-78044-8
+Neonatal Colonization With Antibiotic-Resistant Pathogens in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1001/jamanetworkopen.2024.41596
+Non-tuberculous mycobacteria enhance the tryptophan-kynurenine pathway to induce immunosuppression and facilitate pulmonary colonization.|https://dx.doi.org/10.3389/fcimb.2024.1455605

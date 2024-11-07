@@ -5,3 +5,6 @@ Rational computational design and development of an immunogenic multiepitope vac
 Analysis of invasive group A streptococcal puerperal sepsis in Calgary, Alberta: clinical consequences and policy implications.|https://dx.doi.org/10.1017/ice.2024.154
 A quasi-experimental analysis comparing antimicrobial usage on COVID-19 and non-COVID-19 wards.|https://dx.doi.org/10.1017/ash.2024.417
 Antibacterial and wound healing stimulant nanofibrous dressing consisting of soluplus and soy protein isolate loaded with mupirocin.|https://dx.doi.org/10.1038/s41598-024-78161-4
+Use of intranasal povidone-iodine packing in the management of infectious rhinosinusitis in three cats.|https://dx.doi.org/10.1177/20551169241275303
+Identifying WHO global priority endemic pathogens for vaccine research and development (R&D) using multi-criteria decision analysis (MCDA): an objective of the Immunization Agenda 2030.|https://dx.doi.org/10.1016/j.ebiom.2024.105424
+Antiseptics: An expeditious third force in the prevention and management of coronavirus diseases.|https://dx.doi.org/10.1016/j.crmicr.2024.100293
