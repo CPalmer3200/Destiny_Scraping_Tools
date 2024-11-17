@@ -42,3 +42,16 @@ Nanoparticle ultrasonication: a promising approach for reducing bacterial biofil
 A functional dual responsive CMC/OHA/SA/TOB hydrogel as wound dressing to enhance wound healing.|https://dx.doi.org/10.1038/s41598-024-78044-8
 Neonatal Colonization With Antibiotic-Resistant Pathogens in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1001/jamanetworkopen.2024.41596
 Non-tuberculous mycobacteria enhance the tryptophan-kynurenine pathway to induce immunosuppression and facilitate pulmonary colonization.|https://dx.doi.org/10.3389/fcimb.2024.1455605
+Microorganisms isolated from thermoplastic masks and storage racks in head and neck cancer patients with radiation dermatitis.|https://dx.doi.org/10.1038/s41598-024-78691-x
+Exploring divalent metal ion coordination. Unraveling binding modes in Staphylococcus aureus MntH fragments.|https://dx.doi.org/10.1016/j.jinorgbio.2024.112769
+Epidemiology of surgical site infection after abdominal surgery in Ukraine: results a multicenter study (2021-2023).|https://dx.doi.org/10.36740/WLek/193762
+[Etiologic features of nosocomial sinusitis].|https://dx.doi.org/10.17116/otorino20248905135
+The significance of monitoring respiratory sample cultures and polymerase chain reaction tests for detecting bacterial pathogens in severely and critically ill patients with COVID-19.|https://dx.doi.org/10.7196/AJTCCM.2024.v30i1.1293
+Extent of abscess development in cervical abscesses and pathogenic bacteria related to swallowing function.|https://dx.doi.org/10.1080/00016489.2024.2425764
+The antibiotic therapy containing contezolid successfully treated methicillin-sensitive Staphylococcus aureus infective endocarditis accompanied with cerebrovascular complications.|https://dx.doi.org/10.1186/s12879-024-10157-x
+Staphylococcal superantigens evoke temporary and reversible T cell anergy, but fail to block the development of a bacterium specific cellular immune response.|https://dx.doi.org/10.1038/s41467-024-54074-8
+Formulation of Asiatic acid-loaded polymeric chitosan-based hydrogel for effective MRSA infection control and enhanced wound healing in zebrafish models.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137425
+Dhvar5- and MSI78-coated titanium are bactericidal against methicillin-resistant Staphylococcus aureus, immunomodulatory and osteogenic.|https://dx.doi.org/10.1016/j.actbio.2024.11.016
+A biocompatible cellulose gum based CMC/PVA/SBA-15 film as a colloidal antibacterial agent against MRSA.|https://dx.doi.org/10.1039/d4ra07129h
+A Study of Clinico-Microbiological Profile and Treatment Outcomes of Infectious Keratitis.|https://dx.doi.org/10.7759/cureus.71160
+The antimicrobial potential of traditional remedies of Indigenous peoples from Canada against MRSA planktonic and biofilm bacteria in wound infection mimetic conditions.|https://dx.doi.org/10.1128/spectrum.02341-24

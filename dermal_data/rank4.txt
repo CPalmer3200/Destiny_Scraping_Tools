@@ -14,3 +14,18 @@ Formulation, Characterization and Evaluation of Minocycline Hydrochloride Loaded
 Characterization and Performance Evaluation of Magnesium Chloride-Enriched Polyurethane Nanofiber Patches for Wound Dressings.|https://dx.doi.org/10.2147/IJN.S460921
 A functional dual responsive CMC/OHA/SA/TOB hydrogel as wound dressing to enhance wound healing.|https://dx.doi.org/10.1038/s41598-024-78044-8
 Chiral helix amplification and enhanced bioadhesion of two-component low molecular weight hydrogels regulated by OH to eradicate MRSA biofilms.|https://dx.doi.org/10.1039/d4mh01213e
+LysSYL-Loaded pH-Switchable Self-Assembling Peptide Hydrogels Promote Methicillin-Resistant Staphylococcus Aureus Elimination and Wound Healing.|https://dx.doi.org/10.1002/adma.202412154
+Magnetic hydrogel scaffold based on hyaluronic acid/chitosan and gelatin natural polymers.|https://dx.doi.org/10.1038/s41598-024-78696-6
+Thermosensitive Injectable Dual Drug-Loaded Chitosan-Based Hydrogels for Treating Bacterial Endometritis.|https://dx.doi.org/10.1021/acsbiomaterials.4c01729
+In vitro Analysis of XLAsp-P2 Peptide Loaded Cellulose Acetate Nanofiber for Wound Healing.|https://dx.doi.org/10.1016/j.xphs.2024.10.050
+Formulation of Asiatic acid-loaded polymeric chitosan-based hydrogel for effective MRSA infection control and enhanced wound healing in zebrafish models.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137425
+Cellulosic schiff base hydrogel biosensor for bacterial detection with pH/thermo-responsitivity: DFT calculations and molecular docking.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137389
+Rapidly in situ forming antibiotic-free injectable hydrogel wound dressing for eradicating drug-resistant bacterial infections in human skin organoids.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137542
+Controlled Nitric Oxide-Releasing Nanovehicles for Enhanced Infected Wound Healing: A Study on PDA@BNN6 Encapsulated in GelMA Hydrogel.|https://dx.doi.org/10.2147/IJN.S486640
+Nitric oxide-releasing self-healing hydrogel for antibacterial and antibiofilm efficacy against polymicrobial infection.|https://dx.doi.org/10.1080/17460913.2024.2411817
+Antimicrobial Peptide SAAP-148-Functionalized Hydrogels from Photocrosslinkable Polymers with Broad Antibacterial Activity.|https://dx.doi.org/10.1002/marc.202400785
+Licochalcone A loaded multifunctional chitosan hyaluronic acid hydrogel with antibacterial and inflammatory regulating effects to promote wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137458
+Synthesis of Carboxylate-Dialdehyde Cellulose to Use as a Component in Composite Thin Films for an Antibacterial Material in Wound Dressing.|https://dx.doi.org/10.1021/acsomega.4c08298
+Enhancing Wound Healing with Nanohydrogel-Entrapped Plant Extracts and Nanosilver: An In Vitro Investigation.|https://dx.doi.org/10.3390/molecules29215004
+Hybrid poly(lactide-co-glycolide) membranes incorporated with doxycycline-loaded copper-based metal-organic nanosheets as antibacterial platforms.|https://dx.doi.org/10.1088/1748-605X/ad906b
+A novel polyurethane-based silver foam dressing with superior antimicrobial action for management of infected chronic wounds.|https://dx.doi.org/10.1088/1748-605X/ad8fe8

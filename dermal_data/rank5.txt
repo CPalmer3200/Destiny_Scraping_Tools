@@ -6,3 +6,15 @@ Multifunctional poloxamer-based thermo-responsive hydrogel loaded with human lac
 A peptide targeting outer membrane protein A of Acinetobacter baumannii exhibits antibacterial activity by reducing bacterial pathogenicity.|https://dx.doi.org/10.1128/aac.00565-24
 Evaluation of biofilm formation and antimicrobial susceptibility (drug resistance) of Candida albicans isolates.|https://dx.doi.org/10.1007/s42770-024-01558-w
 Rumex japonicus Houtt. Leaves: The chemical composition and anti-fungal activity.|https://dx.doi.org/10.1016/j.mycmed.2024.101513
+Radical formation in skin and preclinical characterization of a novel medical plasma device for dermatology after single application.|https://dx.doi.org/10.1016/j.freeradbiomed.2024.11.026
+Metal-phenolic nanoparticles enhance low temperature photothermal therapy for bacterial biofilm in superficial infections.|https://dx.doi.org/10.1186/s12951-024-02985-5
+Pullulan nanoparticles inhibit the pathogenicity of Candida albicans by regulating hypha-related gene expression.|https://dx.doi.org/10.1128/spectrum.01048-24
+Emergence of rifampicin-resistant staphylococci on the skin and nose of rifampicin-treated patients with an orthopaedic-device-related infection.|https://dx.doi.org/10.5194/jbji-9-191-2024
+Antifungal peptide-loaded alginate microfiber wound dressing evaluated against Candida albicans in vitro and ex vivo.|https://dx.doi.org/10.1016/j.ejpb.2024.114578
+The antimicrobial potential of traditional remedies of Indigenous peoples from Canada against MRSA planktonic and biofilm bacteria in wound infection mimetic conditions.|https://dx.doi.org/10.1128/spectrum.02341-24
+Dissecting the genetic features and evolution of Staphylococcus aureus sequence type 88: a global perspective.|https://dx.doi.org/10.1128/msystems.01142-24
+Diverse antifungal potency of terbinafine as a therapeutic agent against Exophiala dermatitidis in vitro.|https://dx.doi.org/10.1038/s41598-024-78815-3
+Vesicular phospholipid gels: A new strategy to improve topical antimicrobial dermatotherapy.|https://dx.doi.org/10.1016/j.ijpharm.2024.124931
+Phenotypic and genetic characterization of daptomycin non-susceptible Staphylococcus aureus strains selected by adaptive laboratory evolution.|https://dx.doi.org/10.3389/fcimb.2024.1453233
+Chemical analysis, antibacterial and anti-inflammatory effect of Achillea fragrantissima essential oil growing wild in Egypt.|https://dx.doi.org/10.1186/s12906-024-04633-9
+Impacts of microplastics on ecosystem services and their microbial degradation: a systematic review of the recent state of the art and future prospects.|https://dx.doi.org/10.1007/s11356-024-35472-3

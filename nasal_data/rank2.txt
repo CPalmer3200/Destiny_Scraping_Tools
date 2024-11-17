@@ -6,3 +6,13 @@ Molecular detection of Staphylococcus aureus in urine in patients with S. aureus
 Analysis of olfactory function in patients with chronic rhinosinusitis and Staphylococcus aureus enterotoxin positivity.|https://dx.doi.org/10.1038/s41598-024-77459-7
 High-density lipoprotein cholesterol and nasal colonization of Staphylococcus aureus: results from the 2001-2004 National Health and Nutrition Examination Survey (NHANES).|https://dx.doi.org/10.1186/s12879-024-10125-5
 Clindamycin and bacterial load reduction as prophylaxis for surgical site infection after below-knee flap and graft procedures: A trial protocol.|https://dx.doi.org/10.31128/AJGP-06-23-6881
+Response to the letter to the editor regarding "The efficacy of an alcohol-based nasal antiseptic versus mupirocin or an iodophor for preventing SSIs using a meta-analysis".|https://dx.doi.org/10.1016/j.ajic.2024.08.017
+Impact of Methicillin-Resistant Staphylococcus aureus Nasal Polymerase Chain Reaction Screening Tests on Duration of Vancomycin Therapy for Skin and Soft Tissue Infections.|https://dx.doi.org/10.1177/00185787241289281
+Association of Neonatal and Maternal Nasal Microbiome Among Neonates in the Intensive Care Unit.|https://dx.doi.org/10.1093/ofid/ofae644
+Effects of seasonal, geographical and demographic factors on otitis externa microbiota in Queensland, Australia.|https://dx.doi.org/10.31128/AJGP-02-24-7152
+Emergence of rifampicin-resistant staphylococci on the skin and nose of rifampicin-treated patients with an orthopaedic-device-related infection.|https://dx.doi.org/10.5194/jbji-9-191-2024
+Increased incidence of methicillin resistant Staphylococcus aureus and methicillin resistant Staphylococcus epidermidis in the skin and nasal carriage among healthcare workers and inanimate hospital surfaces after the COVID-19 pandemic.|https://dx.doi.org/10.18502/ijm.v16i5.16791
+Hops bitter β-acids have antibacterial effects against sinonasal Staphylococcus aureus but also induce sinonasal cilia and mitochondrial dysfunction.|https://dx.doi.org/10.1002/alr.23487
+Postoperative rhinosinusitis and microbiological outcomes following endoscopic endonasal approaches: A retrospective analysis of 300 patients.|https://dx.doi.org/10.1097/JCMA.0000000000001192
+Molecular characterization of Staphylococcus aureus from nasal samples of healthy pet cats.|https://dx.doi.org/10.1093/lambio/ovae108
+Evaluation of mucosal barrier disruption due to Staphylococcus lugdunensis and Staphylococcus epidermidis exoproteins in patients with chronic rhinosinusitis.|https://dx.doi.org/10.1002/alr.23481

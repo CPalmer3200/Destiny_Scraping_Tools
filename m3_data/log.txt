@@ -373,3 +373,4 @@
 07:40 04/11/2024, Rank 1: 0RUN FAILED
 08:01 05/11/2024, Rank 1: 0, Rank 2: 0, Rank 3: 2, Rank 4: 0, Rank 5: 0, Rank 6: 2, Rank 7: 1, Rank 8: 0, Rank 9: 2, Rank 10: 1, Rank 11: 0, Rank 12: 0
 08:00 07/11/2024, Rank 1: 1, Rank 2: 0, Rank 3: 1, Rank 4: 0, Rank 5: 2, Rank 6: 0, Rank 7: 1, Rank 8: 0, Rank 9: 0, Rank 10: 0, Rank 11: 0, Rank 12: 0
+08:05 17/11/2024, Rank 1: 4, Rank 2: 0, Rank 3: 7, Rank 4: 1, Rank 5: 3, Rank 6: 1, Rank 7: 1, Rank 8: 0, Rank 9: 1, Rank 10: 0, Rank 11: 0, Rank 12: 3

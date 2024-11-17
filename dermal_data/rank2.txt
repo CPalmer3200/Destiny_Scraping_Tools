@@ -8,3 +8,17 @@ Wireless matrix metalloproteinase-9 sensing by smart wound dressing with control
 Correlating Climate Conditions With Pseudomonas aeruginosa Prevalence in Diabetic Foot Infections Within the United States.|https://dx.doi.org/10.1093/ofid/ofae621
 High Prescription Rate of Medications With Rifampin Drug-drug Interactions in Patients With Diabetic Foot Osteomyelitis: Should Rifabutin Be Included in Clinical Trials for Adjunctive Therapy?|https://dx.doi.org/10.1093/ofid/ofae582
 Evaluation of Antibiotic-Loaded Bone Cement in Treatment of Infected Diabetic Foot: Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1002/dmrr.70002
+Role and applications of (18)F-FDG PET/CT in the assessment of osteoarticular infection and inflammation - Part I.|https://dx.doi.org/10.1016/j.remnie.2024.500073
+The antimicrobial and antibiofilm effects of gentamicin, imipenem, and fucoidan combinations against dual-species biofilms of Staphylococcus aureus and Acinetobacter baumannii isolated from diabetic foot ulcers.|https://dx.doi.org/10.1186/s12941-024-00760-w
+Transarticular versus Transosseous Amputations in Diabetic Foot Osteomyelitis: A Retrospective Comparative Study.|https://dx.doi.org/10.7547/21-205
+Metatarsal Osteotomy versus Metatarsal Head Resection for Distal Diabetic Foot Ulcers.|https://dx.doi.org/10.7547/20-090
+[Cellulitis : management recommendations].|https://dx.doi.org/10.53738/REVMED.2024.20.895.2131
+Machine learning-driven discovery of novel therapeutic targets in diabetic foot ulcers.|https://dx.doi.org/10.1186/s10020-024-00955-z
+New nano-chemotherapeutic chitosans-garlic oil-antibiotics against diabetic foot virulent Proteus spp.|https://dx.doi.org/10.18502/ijm.v16i5.16802
+The healing process of diabetic ulcers correlates with changes in the cutaneous microbiota.|https://dx.doi.org/10.1038/s41598-024-77987-2
+The Infected Diabetic Foot: Does Negative Pressure Wound Therapy with Irrigation Reduce Bioburden and Improve Wound Healing?|https://dx.doi.org/10.1177/15347346241292125
+Hypoxic culture enhances the antimicrobial activity of amnion-derived mesenchymal stem cells, thereby reducing bacterial load and promoting wound healing in diabetic mice.|https://dx.doi.org/10.1016/j.bbrc.2024.150903
+[Translated article] Reamputation prevalence after minor feet amputations in patients with diabetic foot, a cross sectional study.|https://dx.doi.org/10.1016/j.recot.2024.11.012
+Microbial profile of diabetic foot osteomyelitis from the northwest of England.|https://dx.doi.org/10.1186/s40842-024-00193-6
+Increased risk of major adverse cardiovascular events in patients with deep and infected diabetes-related foot ulcers.|https://dx.doi.org/10.1007/s00125-024-06316-z
+Risk Factors for Multidrug-Resistant Bacterial Infection in Diabetic Foot Ulcers.|https://dx.doi.org/10.7754/Clin.Lab.2024.240408
