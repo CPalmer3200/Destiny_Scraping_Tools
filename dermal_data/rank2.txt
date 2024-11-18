@@ -22,3 +22,4 @@ Hypoxic culture enhances the antimicrobial activity of amnion-derived mesenchyma
 Microbial profile of diabetic foot osteomyelitis from the northwest of England.|https://dx.doi.org/10.1186/s40842-024-00193-6
 Increased risk of major adverse cardiovascular events in patients with deep and infected diabetes-related foot ulcers.|https://dx.doi.org/10.1007/s00125-024-06316-z
 Risk Factors for Multidrug-Resistant Bacterial Infection in Diabetic Foot Ulcers.|https://dx.doi.org/10.7754/Clin.Lab.2024.240408
+Self-healing Ppy-hydrogel promotes diabetic skin wound healing through enhanced sterilization and macrophage orchestration triggered by NIR.|https://dx.doi.org/10.1016/j.biomaterials.2024.122964

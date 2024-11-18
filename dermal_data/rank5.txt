@@ -18,3 +18,5 @@ Vesicular phospholipid gels: A new strategy to improve topical antimicrobial der
 Phenotypic and genetic characterization of daptomycin non-susceptible Staphylococcus aureus strains selected by adaptive laboratory evolution.|https://dx.doi.org/10.3389/fcimb.2024.1453233
 Chemical analysis, antibacterial and anti-inflammatory effect of Achillea fragrantissima essential oil growing wild in Egypt.|https://dx.doi.org/10.1186/s12906-024-04633-9
 Impacts of microplastics on ecosystem services and their microbial degradation: a systematic review of the recent state of the art and future prospects.|https://dx.doi.org/10.1007/s11356-024-35472-3
+Coagulase-Negative Staphylococci phages panorama: Genomic diversity and in vitro studies for a therapeutic use.|https://dx.doi.org/10.1016/j.micres.2024.127944
+Application of a novel phage vB_CjeM_WX1 to control Campylobacter jejuni in foods.|https://dx.doi.org/10.1016/j.ijfoodmicro.2024.110975
