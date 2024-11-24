@@ -1,3 +1,6 @@
 A Critical Review of Postbiotics as Promising Novel Therapeutic Agents for Clostridial Infections.|https://dx.doi.org/10.1007/s12602-024-10406-0
 Clostridioides difficile infection increases in-hospital mortality, length of stay, and hospital cost but not 30-day mortality in cirrhotic patients.|https://dx.doi.org/10.1111/jgh.16807
 Antimicrobial Combinations as Novel Indicators for Clostridioides difficile infection development: Population-Based, Nested Case-Controlled Study in Japan-The Shizuoka Kokuho Database Study.|https://dx.doi.org/10.1016/j.jiac.2024.11.002
+Complete genome sequences of toxigenic Clostridioides difficile isolated from Australian feral horses.|https://dx.doi.org/10.1128/mra.01086-24
+Meta-analysis of predictors of healthcare-associated Clostridioides difficile infection.|https://dx.doi.org/10.1017/ash.2024.413
+Impacts of perR on oxygen sensitivity, gene expression, and murine infection in Clostridioides difficile 630Δ erm.|https://dx.doi.org/10.1101/2024.10.30.621113

@@ -20,3 +20,7 @@ Chemical analysis, antibacterial and anti-inflammatory effect of Achillea fragra
 Impacts of microplastics on ecosystem services and their microbial degradation: a systematic review of the recent state of the art and future prospects.|https://dx.doi.org/10.1007/s11356-024-35472-3
 Coagulase-Negative Staphylococci phages panorama: Genomic diversity and in vitro studies for a therapeutic use.|https://dx.doi.org/10.1016/j.micres.2024.127944
 Application of a novel phage vB_CjeM_WX1 to control Campylobacter jejuni in foods.|https://dx.doi.org/10.1016/j.ijfoodmicro.2024.110975
+De novo design of Na(+)-activated lipopeptides with selective antifungal activity: A promising strategy for antifungal drug discovery.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137894
+Smart drug delivery and responsive microneedles for wound healing.|https://dx.doi.org/10.1016/j.mtbio.2024.101321
+Novel Tree Shrew-Derived Antimicrobial Peptide with Broad-Spectrum Antibacterial Activity.|https://dx.doi.org/10.1021/acsomega.4c06857
+Detection of biofilm formation and antibiotics resistance of Staphylococcus spp. isolated from humans' and birds' oral cavities.|https://dx.doi.org/10.5455/OVJ.2024.v14.i9.9

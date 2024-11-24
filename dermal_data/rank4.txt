@@ -29,3 +29,16 @@ Synthesis of Carboxylate-Dialdehyde Cellulose to Use as a Component in Composite
 Enhancing Wound Healing with Nanohydrogel-Entrapped Plant Extracts and Nanosilver: An In Vitro Investigation.|https://dx.doi.org/10.3390/molecules29215004
 Hybrid poly(lactide-co-glycolide) membranes incorporated with doxycycline-loaded copper-based metal-organic nanosheets as antibacterial platforms.|https://dx.doi.org/10.1088/1748-605X/ad906b
 A novel polyurethane-based silver foam dressing with superior antimicrobial action for management of infected chronic wounds.|https://dx.doi.org/10.1088/1748-605X/ad8fe8
+Phytochemical screening of an essential oil-loaded PVA/GA hydrogel membrane for potential wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137711
+Poly(thioctic acid) Hydrogels Integrated with Self-Healing, Bioadhesion, Antioxidation, and Antibiosis for Infected Wound Treatment.|https://dx.doi.org/10.1021/acsami.4c14752
+Glucose-activated self-cascade antibacterial and pro-angiogenesis nanozyme-functionalized chitosan-arginine thermosensitive hydrogel for chronic diabetic wounds healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122894
+Natural cellulose reinforced multifunctional eutectogels for wearable sensors and epidermal electrodes.|https://dx.doi.org/10.1016/j.carbpol.2024.122939
+Self-assembled near-infrared-photothermal antibacterial Hericium erinaceus β-glucan/tannic acid/Fe (III) hydrogel for accelerating infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122898
+Quaternized chitosan-based biomimetic nanozyme hydrogels with ROS scavenging, oxygen generating, and antibacterial capabilities for diabetic wound repair.|https://dx.doi.org/10.1016/j.carbpol.2024.122865
+Tissue adhesive hyaluronan-quercetin (Ag(o))@halloysite-fungal carboxymethyl chitosan nanocomposite hydrogels for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137849
+Injectable self-healing alginate/PEG hydrogels cross-linked via thiol-Michael addition bonds for hemostasis and wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.122864
+Medicated tri-layer fibers based on cellulose acetate and polyvinylpyrrolidone for enhanced antibacterial and wound healing properties.|https://dx.doi.org/10.1016/j.carbpol.2024.122856
+Carboxymethyl chitosan/dialdehyde quaternized pullulan self-healing hydrogel loaded with tranexamic acid for rapid hemostasis.|https://dx.doi.org/10.1016/j.carbpol.2024.122817
+Bioadhesive supramolecular polymer/hyaluronic acid hydrogel with zinc ion and dexamethasone slow release for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137752
+Multifunctional hydrogel based on polyvinyl alcohol/chitosan/metal polyphenols for facilitating acute and infected wound healing.|https://dx.doi.org/10.1016/j.mtbio.2024.101315
+Multifunctional Polysaccharide Self-Healing Wound Dressing: NIR-Responsive Carboxymethyl Chitosan / Quercetin Hydrogel.|https://dx.doi.org/10.1002/adhm.202403267

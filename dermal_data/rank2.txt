@@ -23,3 +23,9 @@ Microbial profile of diabetic foot osteomyelitis from the northwest of England.|
 Increased risk of major adverse cardiovascular events in patients with deep and infected diabetes-related foot ulcers.|https://dx.doi.org/10.1007/s00125-024-06316-z
 Risk Factors for Multidrug-Resistant Bacterial Infection in Diabetic Foot Ulcers.|https://dx.doi.org/10.7754/Clin.Lab.2024.240408
 Self-healing Ppy-hydrogel promotes diabetic skin wound healing through enhanced sterilization and macrophage orchestration triggered by NIR.|https://dx.doi.org/10.1016/j.biomaterials.2024.122964
+Photo-controlled multifunctional hydrogel for photothermal sterilization and microenvironment amelioration of infected diabetic wounds.|https://dx.doi.org/10.1016/j.jconrel.2024.11.047
+Atypical Manifestation of Enterobius vermicularis Infestation in Adults: A Report of a Rare Case.|https://dx.doi.org/10.7759/cureus.72074
+Evaluation of wound temperature monitoring at various anatomical sites in the management of patients with diabetic foot undergoing microcirculation reconstruction.|https://dx.doi.org/10.1186/s13018-024-05278-7
+Re-infection after treatment for moderate and severe diabetic foot infections.|https://dx.doi.org/10.1111/iwj.70123
+Guided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers.|https://dx.doi.org/10.1109/OJEMB.2024.3453060
+Evaluation of empirical antibiotic use in diabetic foot infections at a tertiary hospital in Vietnam: A retrospective study.|https://dx.doi.org/10.1097/MD.0000000000040597

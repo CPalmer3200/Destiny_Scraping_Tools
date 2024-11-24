@@ -2,3 +2,4 @@ Superiority of Frailty Over Age in Predicting Outcomes Among Clostridium Diffici
 Gangrenous cholecystitis due to rare actinomyces odontolyticus infection in patient with pancreatic adenocarcinoma: A case report.|https://dx.doi.org/10.1016/j.idcr.2024.e02093
 Distribution of Clostridioides difficile ribotypes and sequence types across humans, animals and food in thirteen European countries.|https://dx.doi.org/10.1080/22221751.2024.2427804
 Bioengineered Probiotics for Clostridioides difficile Infection: An Overview of the Challenges and Potential for This New Treatment Approach.|https://dx.doi.org/10.1007/s12602-024-10398-x
+Fecal Microbiota Transplantation: Indications, Methods, and Challenges.|https://dx.doi.org/10.1007/s12275-024-00184-3

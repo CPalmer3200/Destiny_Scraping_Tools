@@ -14,3 +14,8 @@ An antimicrobial blue light prototype device controls infected wounds in a precl
 Pemphigus Vulgaris Mimicking Seborrheic Dermatitis: A Case Report.|https://dx.doi.org/10.7759/cureus.71357
 Unlocking marine microbial treasures: new PBP2a-targeted antibiotics elicited by metals and enhanced by RSM-driven transcriptomics and chemoinformatics.|https://dx.doi.org/10.1186/s12934-024-02573-0
 Antimicrobial resistance among refugees and asylum seekers: a global systematic review and meta-analysis.|https://dx.doi.org/10.1016/S1473-3099(24)00578-4
+Expert consensus on antimicrobial resistance research priorities to focus development and implementation of antibacterial vaccines and monoclonal antibodies.|https://dx.doi.org/10.2807/1560-7917.ES.2024.29.47.2400212
+Efficacy Analysis of Endoscopic Type 1 Tympanoplasty for Chronic Suppurative Otitis Media with Otomycosis.|https://dx.doi.org/10.1177/01455613241300891
+Long Term Ventilation in Pediatric Central Apnea: Etiologies and Therapeutic Approach over a Decade.|https://dx.doi.org/10.1002/ppul.27400
+PCV13 vaccine prevents pneumococcal biofilms without affecting Staphylococcus aureus population within the polymicrobial biofilm.|https://dx.doi.org/10.3389/fimmu.2024.1495932
+Oro-faecal transmission of SARS-CoV-2: A systematic review of studies employing viral culture from gastrointestinal and other potential oro-faecal sources and evidence for transmission to humans.|https://dx.doi.org/10.1017/S0950268824001481

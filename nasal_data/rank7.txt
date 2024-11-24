@@ -55,3 +55,20 @@ Dhvar5- and MSI78-coated titanium are bactericidal against methicillin-resistant
 A biocompatible cellulose gum based CMC/PVA/SBA-15 film as a colloidal antibacterial agent against MRSA.|https://dx.doi.org/10.1039/d4ra07129h
 A Study of Clinico-Microbiological Profile and Treatment Outcomes of Infectious Keratitis.|https://dx.doi.org/10.7759/cureus.71160
 The antimicrobial potential of traditional remedies of Indigenous peoples from Canada against MRSA planktonic and biofilm bacteria in wound infection mimetic conditions.|https://dx.doi.org/10.1128/spectrum.02341-24
+Peripherally inserted central venous catheter in outpatient antibiotic spinal infection treatment is safe, effective and leads to significant reduction in healthcare expenses.|https://dx.doi.org/10.1007/s10143-024-03127-z
+Atomic Interaction S. aureus/Machined and Additive Manufacturing Ti-6Al-4V and Ti-35Nb-7Zr-5Ta Disks for Dental Implants.|https://dx.doi.org/10.1002/jbm.b.35508
+Skin microbiome dynamics in patients with polymorphic light eruption in response to UV radiations.|https://dx.doi.org/10.1093/bjd/ljae464
+Two-Month Duration of Esophageal Button Battery Impaction in a 23-Month-Old Boy: A Case Report.|https://dx.doi.org/10.7759/cureus.74134
+An mRNA Display Approach for Covalent Targeting of a Staphylococcus aureus Virulence Factor.|https://dx.doi.org/10.1101/2024.11.06.622387
+Development of triple-helical recombinant collagen-silver hybrid nanofibers for anti-methicillin-resistant Staphylococcus aureus (MRSA) applications.|https://dx.doi.org/10.1088/1748-605X/ad95d3
+Erosive bilateral glenohumeral osteoarthritis caused by urosepsis-induced septic arthritis.|https://dx.doi.org/10.1097/01.JAA.0000000000000139
+Efflux pumps: gatekeepers of antibiotic resistance in Staphylococcus aureus biofilms.|https://dx.doi.org/10.15698/mic2024.11.839
+Temporal control of Staphylococcus aureus intracellular pH by sodium and potassium.|https://dx.doi.org/10.1093/femsle/fnae100
+Antibacterial potency of mid-polar extracts obtained from Malaysian plant Parkia speciosa against human pathogenic bacteria.|https://dx.doi.org/10.1016/j.micpath.2024.107134
+Antibiotic Treatment for 7 versus 14 Days in Patients with Bloodstream Infections.|https://dx.doi.org/10.1056/NEJMoa2404991
+Mid-term Results of 1-stage Revision Total Knee Arthroplasty for Periprosthetic Joint Infection With a Sinus Tract.|https://dx.doi.org/10.1177/15563316241228267
+A Case of Left-Sided Infective Endocarditis Secondary to Intravenous Drug Use Resulting in Septic Renal Emboli.|https://dx.doi.org/10.7759/cureus.71797
+Adolescent Hip Pain Due to Iliopsoas Abscess.|https://dx.doi.org/10.7759/cureus.71761
+Transcatheter aortic valve implantation (TAVI) prostheses in vitro - biofilm formation and antibiotic effects.|https://dx.doi.org/10.1016/j.bioflm.2024.100236
+Spread of livestock-associated methicillin-resistant Staphylococcus aureus in poultry and its risks to public health: A comprehensive review.|https://dx.doi.org/10.5455/OVJ.2024.v14.i9.1
+A 10-year Retrospective Review of Patient-to-Patient Transmitted Pathogens in Culture-Positive Burn Wounds at a Tertiary Burn Center.|https://dx.doi.org/10.1177/22925503241249760

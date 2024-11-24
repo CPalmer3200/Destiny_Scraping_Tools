@@ -16,3 +16,5 @@ Hops bitter β-acids have antibacterial effects against sinonasal Staphylococcus
 Postoperative rhinosinusitis and microbiological outcomes following endoscopic endonasal approaches: A retrospective analysis of 300 patients.|https://dx.doi.org/10.1097/JCMA.0000000000001192
 Molecular characterization of Staphylococcus aureus from nasal samples of healthy pet cats.|https://dx.doi.org/10.1093/lambio/ovae108
 Evaluation of mucosal barrier disruption due to Staphylococcus lugdunensis and Staphylococcus epidermidis exoproteins in patients with chronic rhinosinusitis.|https://dx.doi.org/10.1002/alr.23481
+Effects of intranasal administration with a symbiotic strain of Bacillus velezensis NSV2 on nasal cavity mucosal barrier in lambs.|https://dx.doi.org/10.1007/s11259-024-10596-6
+Diversity analysis of livestock-associated Staphylococcus aureus nasal strains between animal and humans.|https://dx.doi.org/10.5455/OVJ.2024.v14.i9.13
