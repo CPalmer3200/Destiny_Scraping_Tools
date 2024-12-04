@@ -1,0 +1,3 @@
+Detection of HPV 16 and 18 L1 genes by a nucleic acid amplification-free electrochemical biosensor powered by CRISPR/Cas9.|https://dx.doi.org/10.1016/j.bioelechem.2024.108861
+Biofilm and Its Characteristics in Venous Ulcers.|https://dx.doi.org/10.1097/WON.0000000000001123
+Inflammatory and vaso-occlusive ulcers: Part II - Management.|https://dx.doi.org/10.1016/j.jaad.2023.12.077

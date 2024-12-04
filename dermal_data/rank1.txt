@@ -1,0 +1,5 @@
+Free DNA partially clarifies discrepancies between qPCR and the conventional phage quantification method.|https://dx.doi.org/10.1371/journal.pone.0313774
+Unveiling the antibacterial action of ambroxol against Staphylococcus aureus bacteria: in vitro, in vivo, and in silico investigation.|https://dx.doi.org/10.1186/s12866-024-03666-x
+Preparation and Characterization of Essential oil from Lavandula spica Plant and its Antimicrobial Activity against Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.1016/j.micpath.2024.107157
+Poly(Vinyl Alcohol) Drug and PVA-Drug-Surfactant Complex Organogel with Dimethyl Sulfoxide as a Drug Delivery System.|https://dx.doi.org/10.3390/gels10110753
+Investigating the antibacterial potential of thiophene derivatives against wound infections: a combined DFT, molecular docking, and ADMET study targeting Staphylococcus aureus, Pseudomonas aeruginosa, and Escherichia coli resistant genes.|https://dx.doi.org/10.1007/s40203-024-00279-0

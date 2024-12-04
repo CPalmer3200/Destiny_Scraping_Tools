@@ -6,3 +6,5 @@ Exclusion of echo-lucent plaque using superb micro-vascular imaging: A case repo
 The always evolving diagnosis and management of Clostridioides difficile colitis: What you need to know.|https://dx.doi.org/10.1097/TA.0000000000004474
 A study protocol for a mixed-method environmental scan of contextual factors that influence lung cancer screening adherence.|https://dx.doi.org/10.1186/s43058-024-00658-w
 Catheter-directed interventions in acute pulmonary embolism. Position statement of SEC-Interventional Cardiology Association/SEC-Ischemic Heart Disease and Acute Cardiovascular Care Association/SEC-GT Pulmonary Hypertension Working Group.|https://dx.doi.org/10.1016/j.rec.2024.09.011
+Diagnosis of Clostridioides difficile infection and impact of testing.|https://dx.doi.org/10.1099/jmm.0.001939
+Comparison of the STANDARD M10 C. difficile, Xpert C. difficile, and BD MAX Cdiff assays as confirmatory tests in a two-step algorithm for diagnosing Clostridioides difficile infection.|https://dx.doi.org/10.1128/spectrum.01662-24

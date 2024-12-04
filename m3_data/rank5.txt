@@ -3,3 +3,6 @@ Investigating surface area and recovery efficiency of healthcare-associated path
 Reduced Vancomycin Susceptibility in Clostridioides difficile Is Associated With Specific Ribotypes.|https://dx.doi.org/10.1093/ofid/ofae588
 [Clostridiodes difficile bacteraemia. First mexican case report].|https://dx.doi.org/10.5281/zenodo.13306825
 Clinical decision support in the electronic health record: a primer for antimicrobial stewards and infection preventionists: work smarter so end users don't work harder.|https://dx.doi.org/10.1017/ash.2024.448
+Is there an association between colonisation of vancomycin resistant Enterococci, methicillin resistant Staphylococcus Aureus, or Clostridiodes Difficile and mortality in sepsis?|https://dx.doi.org/10.1016/j.infpip.2024.100413
+Successfully Managed Toxic Megacolon Due to Clostridium difficile Infection in a Pheochromocytoma Patient Complicated by Cardiogenic and Septic Shock: A Case Report.|https://dx.doi.org/10.7759/cureus.72750
+Clostridium difficile Bacteremia in an Elderly Patient with Multiple Comorbidities: A Case Report.|https://dx.doi.org/10.1089/sur.2024.223

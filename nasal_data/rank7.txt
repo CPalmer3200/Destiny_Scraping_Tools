@@ -1,0 +1,16 @@
+Bactogram: Spatial Analysis of Bacterial Colonisation in Epidermal Wounds.|https://dx.doi.org/10.1111/exd.70018
+Establishment of a programmatic detection method for Trichomonas vaginalis based on double antibody sandwich ELISA targeting TvCP39 antigen.|https://dx.doi.org/10.1016/j.actatropica.2024.107489
+Contamination of Dental Surgical Masks by Aerosols Generated During Different Dental Treatments.|https://dx.doi.org/10.3290/j.ohpd.b5866891
+Is there an association between colonisation of vancomycin resistant Enterococci, methicillin resistant Staphylococcus Aureus, or Clostridiodes Difficile and mortality in sepsis?|https://dx.doi.org/10.1016/j.infpip.2024.100413
+Bloodstream infections caused by Staphylococcus aureus in patients admitted to King Abdulaziz University Hospital, Jeddah, Saudi Arabia.|https://dx.doi.org/10.26355/eurrev_202411_36956
+GARRE'S OSTEOMYELITIS OF LONG BONE IN ADULT.|https://dx.doi.org/10.55519/JAMC-03-13309
+PREVALENCE OF POST-OPERATIVE WOUND INFECTIONS AMONG ORTHOPAEDICS PATIENTS WITH SURGICAL IMPLANT TERTIARY CARE HOSPITAL.|https://dx.doi.org/10.55519/JAMC-03-13820
+A first case of subdural empyema due to Staphylococcus saccharolyticus.|https://dx.doi.org/10.1016/j.idcr.2024.e02109
+Comprehensive pathogen identification and antimicrobial resistance prediction from positive blood cultures using nanopore sequencing technology.|https://dx.doi.org/10.1186/s13073-024-01416-2
+Prevalence and antibiotic resistance of Staphylococcus aureus in wound infections: a hospital study in Hawassa, Ethiopia.|https://dx.doi.org/10.3855/jidc.19023
+Prevalence of nosocomial infections and their influencing factors in a tertiary general hospital in Qingdao.|https://dx.doi.org/10.3855/jidc.19825
+In vivo reduction of biofilm seeded on orthopaedic implants.|https://dx.doi.org/10.1302/2046-3758.1312.BJR-2024-0111.R2
+The impact of the COVID-19 pandemic on hospital-acquired infections and multi-drug resistant organisms, in comparison to seasonal influenza.|https://dx.doi.org/10.1186/s12879-024-09240-0
+Prevalence and Socio-Demographic and Hygiene Factors Influencing Impetigo in Saudi Arabian Children: A Cross-Sectional Investigation.|https://dx.doi.org/10.2147/CCID.S472228
+Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.|https://dx.doi.org/10.1038/s41598-024-80660-3
+Efficacy of pH-Responsive Surface Functionalized Titanium Screws in Treating Implant-associated S. aureus Osteomyelitis with Biofilms Formation.|https://dx.doi.org/10.1002/adhm.202403261
