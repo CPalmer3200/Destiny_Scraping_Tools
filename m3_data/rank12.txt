@@ -1,0 +1,2 @@
+A Simple Prediction Model for Clostridioides difficile Infection: A Hospital-Based Administrative Database Study.|https://dx.doi.org/10.1111/jgh.16851
+Differential gene expression analysis shows that cephalosporin resistance is intrinsic to Clostridioides difficile strain 630.|https://dx.doi.org/10.1038/s41429-024-00795-3

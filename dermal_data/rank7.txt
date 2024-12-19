@@ -4,3 +4,6 @@ Fibrillin-1 G234D mutation in the hybrid1 domain causes tight skin associated wi
 Trifluoromethylcinnamanilides - Effective dual inhibitors of Mycobacterium smegmatis and Plasmodium falciparum.|https://dx.doi.org/10.1016/j.bioorg.2024.107957
 Nasal, dermal, oral and indoor dust microbe and their interrelationship in children with allergic rhinitis.|https://dx.doi.org/10.1186/s12866-024-03668-9
 The ribotoxic stress response drives acute inflammation, cell death, and epidermal thickening in UV-irradiated skin in vivo.|https://dx.doi.org/10.1016/j.molcel.2024.10.044
+The AxBioTick study - immune gene expression signatures in human skin bitten by Borrelia-infected versus non-infected ticks.|https://dx.doi.org/10.1186/s12879-024-10279-2
+Deep Fungal Infections of Skin and Role of Histopathology in Diagnosis.|https://dx.doi.org/10.4103/ijd.ijd_419_23
+Lower limb nodules with angioinvasive Phaeoacremonium spp. fungus in an immunocompetent host.|https://dx.doi.org/10.1111/ajd.14398

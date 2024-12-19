@@ -8,3 +8,17 @@ From Burst to Sustained Release: The Effect of Antibiotic Structure Incorporated
 Characterization of Serratia marcescens (OK482790)' prodigiosin along with in vitro and in silico validation for its medicinal bioactivities.|https://dx.doi.org/10.1186/s12866-024-03634-5
 "On-demand" nanosystem-integrated microneedles for amplified triple therapy against recalcitrant bacteria and biofilm growth.|https://dx.doi.org/10.1016/j.mtbio.2024.101327
 Long-term oritavancin therapy for shoulder prosthetic joint infection: A case guided by therapeutic drug monitoring (TDM).|https://dx.doi.org/10.1016/j.idcr.2024.e02105
+Tracing Staphylococcus capitis and Staphylococcus epidermidis strains causing septicemia in extremely preterm infants to the skin, mouth, and gut microbiota.|https://dx.doi.org/10.1128/aem.00980-24
+Biocompatibility Analysis of the Silver-Coated Microporous Titanium Implants Manufactured with 3D-Printing Technology.|https://dx.doi.org/10.3390/nano14231876
+Silver nanoparticles loaded with pomegranate peel extract and hyaluronic acid mediate recovery of cutaneous wounds infected with Candida albicans.|https://dx.doi.org/10.3389/fcimb.2024.1469493
+Novel benzothiazole derivatives target the Gac/Rsm two-component system as antibacterial synergists against Pseudomonas aeruginosa infections.|https://dx.doi.org/10.1016/j.apsb.2024.08.002
+Cutibacterium acnes strains associated with bone prosthesis infections cannot evade the host immune system.|https://dx.doi.org/10.3389/fimmu.2024.1468709
+Relationship between the strength of biofilm production and the presence of pvl and mecA genes in Staphylococcus aureus isolated from skin and soft tissue infections.|https://dx.doi.org/10.1016/j.heliyon.2024.e40524
+Corrole-based photothermal nanocomposite hydrogel with nitric oxide release for diabetic wound healing.|https://dx.doi.org/10.1016/j.actbio.2024.12.020
+A comparison of super-resolution microscopy techniques for imaging tightly packed microcolonies of an obligate intracellular bacterium.|https://dx.doi.org/10.1111/jmi.13376
+Enhancing Photothermal Therapy for Antibiofilm Wound Healing: Insights from Graphene Oxide-Cranberry Nanosheet Loaded Hydrogel in vitro, in silico, and in vivo Evaluation.|https://dx.doi.org/10.2147/IJN.S482836
+The Prevalence and Comparative Analysis of Adhesion and Biofilm-Related Genes in Staphylococcus aureus Isolates: A Network Meta-Analysis.|https://dx.doi.org/10.1111/1348-0421.13189
+Rapid release of high-valent silver ions from water-soluble porphyrin complexes to enhance the direct killing of Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.actbio.2024.12.004
+Imidazolium, pyridinium and pyrazinium based ionic liquids with octyl side chains as potential antibacterial agents against multidrug resistant uropathogenic E. coli.|https://dx.doi.org/10.1016/j.heliyon.2024.e39829
+Time-kill curve analysis of fucoidan combination with conventional antibiotics against biofilms formation of methicillin-resistant Staphylococcus aureus and Acinetobacter baumannii clinical isolates.|https://dx.doi.org/10.1159/000542826
+Characterization of Staphylococcus lugdunensis biofilms through ethyl methanesulfonate mutagenesis.|https://dx.doi.org/10.3934/microbiol.2024038

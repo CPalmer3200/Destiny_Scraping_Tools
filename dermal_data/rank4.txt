@@ -15,3 +15,21 @@ Novel, Speedy, and Eco-Friendly Carboxymethyl Cellulose-Nitrogen Doped Carbon Do
 Microneedles Constructed by Swellable Hydrogels Loaded with Celastrol for Efficient Treatment of Skin Infections Induced by Drug-Resistant Bacterial Strains.|https://dx.doi.org/10.1021/acs.langmuir.4c03593
 Fluorescent antimicrobial hydrogel based on fluorophore N-doped carbon dots originated from cellulose nanocrystals.|https://dx.doi.org/10.1038/s41598-024-80222-7
 An Asymmetric Bacterial Cellulose Membrane Incorporating CuPt Nanozymes and Curcumin for Accelerating Wound Healing.|https://dx.doi.org/10.1021/acsami.4c10720
+Glucose-Activated Janus Wound Dressing for Enhanced Management of Infected and Exudative Diabetic Wounds.|https://dx.doi.org/10.1021/acsami.4c18298
+The efficacy of a nitric oxide-releasing formulation on nares isolated Methicillin-Resistant Staphylococcus aureus in porcine wound infection model.|https://dx.doi.org/10.3389/fcimb.2024.1501360
+Lauric acid-mediated gelatin/hyaluronic acid composite hydrogel with effective antibacterial and immune regulation for accelerating MRSA-infected diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.138792
+A Taguchi Approach for Optimization of Antimicrobial Effect of Whey Protein Based Edible Film Fermented by Bacillus clausii.|https://dx.doi.org/10.3390/polym16233375
+Bifunctional Electrospun Nanocomposite Dressing: Integrating Antibacterial Efficacy and Controllable Antioxidant Properties for Expedited Wound Healing.|https://dx.doi.org/10.1021/acsami.4c14837
+Prodigiosin hydrogel to promote healing of trauma-infected multidrug-resistant Staphylococcus aureus mice wounds.|https://dx.doi.org/10.1016/j.ijpx.2024.100306
+Copper peroxide-loaded lignin-based non-isocyanate polyurethane foam for wound repair applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.138733
+Efficacy of a Topical Nitric Oxide-Releasing Gel on Polymicrobial Wound Infections.|https://dx.doi.org/10.1093/milmed/usae551
+Antibacterial and safe chitosan-graphene hydrogel films: a promising nanotherapeutic for Staphylococcus aureus wound infections.|https://dx.doi.org/10.1039/d4bm01276c
+Mupirocin-Doped α-Cellulose Nanopaper for Wound Dressing: Development, In Vitro Characterization and Antimicrobial Studies.|https://dx.doi.org/10.1208/s12249-024-03013-3
+Preparation and Antibacterial Activity Evaluation of Daphnetin-Loaded Poloxamers/Polyvinylpyrrolidone Thermosensitive Hydrogels.|https://dx.doi.org/10.1021/acsabm.4c01348
+Functionalized cellulose nanocrystals reinforced PLA-gelatin electrospun fibers for potential antibacterial wound dressing and coating applications.|https://dx.doi.org/10.1016/j.ijbiomac.2024.138389
+Trojan Horse Bioheterojunction Empowers Adhesive Hydrogel with Robust Antibacterial Activity and Sensing Capacity for Infected Cutaneous Regeneration.|https://dx.doi.org/10.1021/acs.nanolett.4c05560
+Dual-Functionalized Injectable pH-Responsive Hydrogels Loaded with Magnesium Peroxide for the Treatment of Implant-Associated Infection.|https://dx.doi.org/10.1021/acsami.4c10912
+Chitosan and gelatin based sprayable hydrogels incorporating photothermal and long-acting antibiotic sterilization for infected wound management with shape adaptability.|https://dx.doi.org/10.1016/j.carbpol.2024.123046
+High-performance conductive double-network hydrogel base on sodium carboxymethyl cellulose for multifunctional wearable sensors.|https://dx.doi.org/10.1016/j.carbpol.2024.122943
+Dermatological Nanotechnology: Gelatin films with O/W emulsions for skin lesion repair.|https://dx.doi.org/10.1016/j.ejpb.2024.114602
+Near-field coupling resonance enhancement with AuNiO Heterostructure nanosheets for high-performance photodynamic/photothermal Hybrid antibacterial & imaging tracking.|https://dx.doi.org/10.1016/j.bios.2024.117034

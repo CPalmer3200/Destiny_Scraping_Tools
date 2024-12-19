@@ -3,3 +3,10 @@ Unveiling the antibacterial action of ambroxol against Staphylococcus aureus bac
 Preparation and Characterization of Essential oil from Lavandula spica Plant and its Antimicrobial Activity against Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.1016/j.micpath.2024.107157
 Poly(Vinyl Alcohol) Drug and PVA-Drug-Surfactant Complex Organogel with Dimethyl Sulfoxide as a Drug Delivery System.|https://dx.doi.org/10.3390/gels10110753
 Investigating the antibacterial potential of thiophene derivatives against wound infections: a combined DFT, molecular docking, and ADMET study targeting Staphylococcus aureus, Pseudomonas aeruginosa, and Escherichia coli resistant genes.|https://dx.doi.org/10.1007/s40203-024-00279-0
+Development of a pH-Responsive Antimicrobial and Potent Antioxidant Hydrogel for Accelerated Wound Healing: A Game Changer in Drug Delivery.|https://dx.doi.org/10.1002/adbi.202400358
+Green synthesis of propolis mediated silver nanoparticles with antioxidant, antibacterial, anti-inflammatory properties and their burn wound healing efficacy in animal model.|https://dx.doi.org/10.1088/2057-1976/ad9dee
+Antibacterial chitosan/organic rectorite nanocomposite-conjugated gelatin/β-cyclodextrin hydrogels with improved hemostasis performance for wound repair.|https://dx.doi.org/10.1016/j.carbpol.2024.122961
+Oral switch vs continued intravenous antibiotic therapy in patients with bacteraemia and sepsis: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.cmi.2024.11.035
+Preparation and properties of thermal responsive 2,3-diethyl-5-methylpyrazine fragrance microcapsules with β-CD/CS as wall materials.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137853
+Adhesive, Stretchable, and Photothermal Antibacterial Hydrogel Dressings for Wound Healing of Infected Skin Burn at Joints.|https://dx.doi.org/10.1021/acs.biomac.4c01023
+One-pot rapid preparation of long-term antioxidant and antibacterial biomedical gels based on lipoic acid and eugenol for accelerating cutaneous wound healing.|https://dx.doi.org/10.1039/d4tb01844c
