@@ -34,3 +34,5 @@ Efficacy of Cold Atmospheric Plasma in Chronic Diabetic Foot Ulcer Management: A
 Linezolid induced acute toxic leukoencephalopathy and severe thrombocytopenia presenting as stroke mimic-a case report.|https://dx.doi.org/10.1093/omcr/omae150
 Regenerative Nanofat Membrane Development Process.|https://dx.doi.org/10.1007/s00266-024-04562-5
 Healing of diabetic neuropathic foot ulcers receiving standard treatment in randomised controlled trials: A random effects meta-analysis.|https://dx.doi.org/10.1111/wrr.13237
+Impact of Timing of Minor Amputations After Revascularization on Patient Outcomes.|https://dx.doi.org/10.7759/cureus.73947
+Unravelling the cardio-renal-metabolic-foot connection in people with diabetes-related foot ulceration: a narrative review.|https://dx.doi.org/10.1186/s12933-024-02527-1

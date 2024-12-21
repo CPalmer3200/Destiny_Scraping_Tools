@@ -30,3 +30,7 @@ Bacteriophage Therapy for Acute Fracture-Related Infections: An Effective Treatm
 Periannular extension of infective endocarditis with atrioventricular block successfully treated with antibiotic therapy after transcatheter aortic valve implantation: a case report.|https://dx.doi.org/10.1093/ehjcr/ytae633
 Staphylococcus aureus δ-Toxin Induces Ca(2+) Influx-Independent Degranulation of Murine Cultured Mast Cells.|https://dx.doi.org/10.1248/bpb.b24-00689
 The epidemiology and management of spontaneous spinal epidural abscesses in children: a single-center experience.|https://dx.doi.org/10.3171/2024.9.PEDS24396
+Bacterial meningitis in a quaternary NICU: A multiyear retrospective study.|https://dx.doi.org/10.1097/MD.0000000000040978
+Airway Corynebacterium interfere with Streptococcus pneumoniae and Staphylococcus aureus infection and express secreted factors selectively targeting each pathogen.|https://dx.doi.org/10.1128/iai.00445-24
+Long-term Risk of Infection Among Patients Colonized With Antimicrobial-Resistant Pathogens: A Population-wide Cohort Study.|https://dx.doi.org/10.1093/ofid/ofae712
+Differences in microorganism profile in periprosthetic joint infections of the hip in patients affected by chronic kidney disease.|https://dx.doi.org/10.1186/s10195-024-00806-x

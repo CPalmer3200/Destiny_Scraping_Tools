@@ -9,3 +9,4 @@ Biological and hardware-related spinal cord stimulation complications and their 
 Atomic Zn-N(4) Site-Regulated Donor-Acceptor Catalyst for Boosting Photocatalytic Bactericidal Activity.|https://dx.doi.org/10.1021/acs.nanolett.4c03853
 Hyaluronan Scaffold Decorated with Bifunctional Peptide Promotes Wound Healing via Antibacterial and Anti-Inflammatory.|https://dx.doi.org/10.1021/acs.biomac.4c01130
 Beta-lactamase production among different agr groups of Staphylococcus pseudintermedius isolates from broilers.|https://dx.doi.org/10.1016/j.micpath.2024.107125
+Revealing inducible clindamycin resistance in methicillin-resistant S aureus : A vital diagnostic imperative for effective treatment.|https://dx.doi.org/10.4103/jpgm.jpgm_271_24

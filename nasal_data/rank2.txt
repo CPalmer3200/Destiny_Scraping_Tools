@@ -19,3 +19,5 @@ When Can a MRSA Nares Swab Guide Antibiotic Stewardship?: What the Nose Knows.|h
 Zoonotic transmission of asymptomatic carriage Staphylococcus aureus on dairy farms in Canterbury, New Zealand.|https://dx.doi.org/10.1099/mgen.0.001318
 Methicillin-Resistant Staphylococcus aureus Nasal Screening With Polymerase Chain Reaction for Early De-escalation of Empiric Vancomycin in the Treatment of Suspected/Confirmed Respiratory Infection in Critically Ill Patients.|https://dx.doi.org/10.1097/MJT.0000000000001809
 Comparison of the bacterial microbiome in the pharynx and nasal cavity of persistent, intermittent carriers and non-carriers of Staphylococcus aureus.|https://dx.doi.org/10.1099/jmm.0.001940
+PCR-based characterization of nasal and ocular surface flora and functional analysis of bacterial metabolic pathways in congenital nasolacrimal duct obstruction.|https://dx.doi.org/10.1007/s10792-024-03386-1
+A prospective cohort study to investigate the transmission and burden of Staphylococcus aureus in Sri Lanka.|https://dx.doi.org/10.1099/mgen.0.001336

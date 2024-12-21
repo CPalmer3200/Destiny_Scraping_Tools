@@ -22,3 +22,4 @@ Rapid release of high-valent silver ions from water-soluble porphyrin complexes 
 Imidazolium, pyridinium and pyrazinium based ionic liquids with octyl side chains as potential antibacterial agents against multidrug resistant uropathogenic E. coli.|https://dx.doi.org/10.1016/j.heliyon.2024.e39829
 Time-kill curve analysis of fucoidan combination with conventional antibiotics against biofilms formation of methicillin-resistant Staphylococcus aureus and Acinetobacter baumannii clinical isolates.|https://dx.doi.org/10.1159/000542826
 Characterization of Staphylococcus lugdunensis biofilms through ethyl methanesulfonate mutagenesis.|https://dx.doi.org/10.3934/microbiol.2024038
+Blue light-activated 5,10,15,20-tetrakis(4-bromophenyl)porphyrin for photodynamic eradication of drug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1039/d4ra07666d

@@ -33,3 +33,6 @@ Chitosan and gelatin based sprayable hydrogels incorporating photothermal and lo
 High-performance conductive double-network hydrogel base on sodium carboxymethyl cellulose for multifunctional wearable sensors.|https://dx.doi.org/10.1016/j.carbpol.2024.122943
 Dermatological Nanotechnology: Gelatin films with O/W emulsions for skin lesion repair.|https://dx.doi.org/10.1016/j.ejpb.2024.114602
 Near-field coupling resonance enhancement with AuNiO Heterostructure nanosheets for high-performance photodynamic/photothermal Hybrid antibacterial & imaging tracking.|https://dx.doi.org/10.1016/j.bios.2024.117034
+Dressing membrane composites of PVA/chitosan/MgO nanoparticles for wound healing applications in rat model.|https://dx.doi.org/10.1007/s00210-024-03716-1
+A Microenvironment-Responsive Graphdiyne-Iron Nanozyme Hydrogel with Antibacterial and Anti-Inflammatory Effect for Periodontitis Treatment.|https://dx.doi.org/10.1002/adhm.202403683
+A multi-functional oxidative konjac glucomannan/ε-poly-l-lysine hydrogel with antibacterial, haemostatic, and chronic diabetic wound-treating properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.138859

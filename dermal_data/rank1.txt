@@ -10,3 +10,5 @@ Oral switch vs continued intravenous antibiotic therapy in patients with bactera
 Preparation and properties of thermal responsive 2,3-diethyl-5-methylpyrazine fragrance microcapsules with β-CD/CS as wall materials.|https://dx.doi.org/10.1016/j.ijbiomac.2024.137853
 Adhesive, Stretchable, and Photothermal Antibacterial Hydrogel Dressings for Wound Healing of Infected Skin Burn at Joints.|https://dx.doi.org/10.1021/acs.biomac.4c01023
 One-pot rapid preparation of long-term antioxidant and antibacterial biomedical gels based on lipoic acid and eugenol for accelerating cutaneous wound healing.|https://dx.doi.org/10.1039/d4tb01844c
+Bacteria-activated macrophage membrane coated ROS-responsive nanoparticle for targeted delivery of antibiotics to infected wounds.|https://dx.doi.org/10.1186/s12951-024-03056-5
+Health associated quality of life impairment in People who inject drugs (PWID) after blood stream infection.|https://dx.doi.org/10.1016/j.jinf.2024.106375
