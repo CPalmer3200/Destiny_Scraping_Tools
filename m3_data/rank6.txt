@@ -1,2 +1,3 @@
-Letter to the Editor: A comparison of post-COVID vaccine myocarditis classification using the Brighton Collaboration criteria versus (United States) Centers for Disease Control criteria: an update.|https://dx.doi.org/10.33321/cdi.2024.48.18
-Understanding the influence of the microbiome on childhood infections.|https://dx.doi.org/10.1080/14787210.2024.2340664
+Gastrointestinal bacteria growth inhibition by a toilet sanitary good for disaster shelter.|https://dx.doi.org/10.1016/j.jiac.2024.12.010
+Enhanced immunogenicity of a Clostridioides difficile TcdB vaccine adjuvanted with a synthetic dual-TLR ligand adjuvant.|https://dx.doi.org/10.1101/2024.11.25.625229
+Reading the repertoire: Progress in adaptive immune receptor analysis using machine learning.|https://dx.doi.org/10.1016/j.cels.2024.11.006
