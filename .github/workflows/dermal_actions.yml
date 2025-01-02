@@ -1,4 +1,4 @@
-name: run daily_scrape
+name: run daily_dermal_scrape
 
 on:
   workflow_dispatch:

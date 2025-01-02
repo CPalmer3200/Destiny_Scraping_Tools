@@ -1,4 +1,4 @@
-name: run daily_scrape
+name: run daily_nasal_scrape
 
 on:
   workflow_dispatch:

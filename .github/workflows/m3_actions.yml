@@ -1,4 +1,4 @@
-name: run daily_scrape
+name: run daily_m3_scrape
 
 on:
   workflow_dispatch:
