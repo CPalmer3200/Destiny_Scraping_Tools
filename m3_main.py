@@ -241,7 +241,7 @@ def main():
         print(f'Performing Pubmed search for "rank {rank}" topics...')
 
         try:
-            bot_search = pubmed_scrape(query, bot_email, 20)
+            bot_search = pubmed_scrape(query, bot_email, 10)
 
             # Check DOI for duplicate or non-dupe
             for doi, info in bot_search.items():
@@ -279,7 +279,7 @@ def main():
             # Sleep to prevent spam
             time.sleep(10)
 
-        except (ValueError, RuntimeError):
+        except Exception as e:
             fail = True
             break
 

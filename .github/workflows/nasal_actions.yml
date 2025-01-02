@@ -3,7 +3,7 @@ name: run daily_scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 07 * * *' # At 07:15 UTC every day
+    - cron: '15 06 * * *' # At 06:15 UTC every day
 
 jobs:
   build:
@@ -25,16 +25,6 @@ jobs:
         env:
           SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
         run: python nasal_main.py
-
-      - name: execute m3 script # run m3_main.py
-        env:
-          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
-        run: python m3_main.py
-
-      - name: execute dermal script # run dermal_main.py
-        env:
-          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
-        run: python dermal_main.py
           
       - name: commit files
         run: |
