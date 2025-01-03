@@ -5,3 +5,4 @@ Deciphering pathogenicity and virulence of the first Staphylococcus debuckii iso
 Digital Papillary Adenocarcinoma at the Site of 5 Years of Recurrent Paronychia: Case Report and Literature Review.|https://dx.doi.org/10.1155/crom/9910470
 Epidemiological Profile of Bacterial Infections in Burn Patients Over a Five-Year Period.|https://dx.doi.org/10.7759/cureus.74848
 Electrophoretic Deposition of Gentamicin Into Titania Nanotubes Prevents Evidence of Infection in a Mouse Model of Periprosthetic Joint Infection.|https://dx.doi.org/10.1002/jor.26029
+[Healthcare-Associated Infections in Pediatric Patients: A Decade of Experience in an Intensive Care Unit].|https://dx.doi.org/10.20344/amp.22279
