@@ -10,3 +10,10 @@ Partial biochemical response of adrenal artery embolization for pheochromocytoma
 Loop Ileostomy With Colonic Lavage: Case Report of an Alternative to Total Colectomy in the Setting of Fulminant Clostridium difficile Colitis.|https://dx.doi.org/10.7759/cureus.73141
 FMT Restores Colonic Protein Biosynthesis and Cell Proliferation in Patients with Recurrent Clostridioides difficile Disease.|https://dx.doi.org/10.1101/2024.11.28.24318101
 Case report: Fecal microbiota transplant for Clostridium difficile infection in a pregnant patient with acute severe ulcerative colitis.|https://dx.doi.org/10.3389/fimmu.2024.1417003
+Assessing live microbial therapeutic transmission.|https://dx.doi.org/10.1080/19490976.2024.2447836
+Clostridioides difficile Infections and Factors Associated with Recurrence.|https://dx.doi.org/10.36519/idcm.2024.380
+Predicting recurrent Clostridioides difficile infection by assessing antimicrobial treatment based on days of antibiotic spectrum coverage and ATLAS scores.|https://dx.doi.org/10.1016/j.jiac.2024.102603
+Allogenic faecal microbiota transplantation for antibiotic-associated diarrhoea in critically ill patients (FEBATRICE)-Study protocol for a multi-centre randomised controlled trial (phase II).|https://dx.doi.org/10.1371/journal.pone.0310180
+Fecal microbiota transplantation for glaucoma; a potential emerging treatment strategy.|https://dx.doi.org/10.1016/j.crmicr.2024.100314
+Preventing Clostridioides difficile Infection Recurrence.|https://dx.doi.org/10.1097/01.NAJ.0001094820.16262.70
+Clostridioides difficile Infection and Testing Rates in South Africa: A multicentre study, 2017-2020.|https://dx.doi.org/10.1016/j.anaerobe.2024.102937
