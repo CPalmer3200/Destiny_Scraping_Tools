@@ -17,3 +17,4 @@ Allogenic faecal microbiota transplantation for antibiotic-associated diarrhoea 
 Fecal microbiota transplantation for glaucoma; a potential emerging treatment strategy.|https://dx.doi.org/10.1016/j.crmicr.2024.100314
 Preventing Clostridioides difficile Infection Recurrence.|https://dx.doi.org/10.1097/01.NAJ.0001094820.16262.70
 Clostridioides difficile Infection and Testing Rates in South Africa: A multicentre study, 2017-2020.|https://dx.doi.org/10.1016/j.anaerobe.2024.102937
+Multi-omic profiling a defined bacterial consortium for treatment of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1038/s41591-024-03337-4

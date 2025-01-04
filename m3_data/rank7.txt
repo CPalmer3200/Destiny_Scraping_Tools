@@ -8,3 +8,4 @@ Durlobactam in combination with β-lactams to combat Mycobacterium abscessus.|ht
 FL058, a novel β-lactamase inhibitor, increases the anti-Mycobacterium abscessus activity of imipenem.|https://dx.doi.org/10.1016/j.ijantimicag.2024.107414
 Hepatitis B Care and Treatment in Zanzibar, Tanzania: A Demonstration Project Following 2015 WHO Treatment Guidelines, 2017-2021.|https://dx.doi.org/10.1111/jvh.14051
 Guselkumab in patients with moderately to severely active ulcerative colitis (QUASAR): phase 3 double-blind, randomised, placebo-controlled induction and maintenance studies.|https://dx.doi.org/10.1016/S0140-6736(24)01927-5
+Clinical Manifestations.|https://dx.doi.org/10.1002/alz.092400
