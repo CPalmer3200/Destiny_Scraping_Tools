@@ -11,3 +11,4 @@ Probiotic Bacillus licheniformis DSMZ 28710 improves sow milk microbiota and enh
 A thermosensitive chitin hydrogel with mild photothermal-chemotherapy for facilitating multidrug-resistant bacteria infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2024.139428
 Carboxymethyl hemicellulose hydrogel as a fluorescent biosensor for bacterial and fungal detection with DFT and molecular docking studies.|https://dx.doi.org/10.1038/s41598-024-83157-1
 Development of Antibacterial Hydrogels Based on Biopolymer Aloe Vera/Gelatin/Sodium Alginate Composited With SM-AgNPs Loaded Curcumin-Nanoliposomes.|https://dx.doi.org/10.1002/mabi.202400504
+Preparation of Ag-Metal organic frameworks-loaded Sodium Alginate Hydrogel for the treatment of periodontitis.|https://dx.doi.org/10.1038/s41598-025-85123-x

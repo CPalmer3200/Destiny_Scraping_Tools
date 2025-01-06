@@ -1,3 +1,4 @@
 [Coagulase-negative staphylococci as a significant fact of generalization of infection in persons with a burdened comorbid background].|https://dx.doi.org/10.26442/00403660.2024.11.202994
 Identification of Potential Drug Targets for the Treatment of Severe Burn Wounds from a Multi-Omics Perspective.|https://dx.doi.org/10.2147/JIR.S496429
 Unravelling turbot (Scophthalmus maximus) resistance to Aeromonas salmonicida: transcriptomic insights from two full-sibling families with divergent susceptibility.|https://dx.doi.org/10.3389/fimmu.2024.1522666
+Flavuside B exhibits antioxidant and anti-inflammatory properties in Staphylococcus aureus infected skin wound and affect the expression of genes controlling bacterial quorum sensing.|https://dx.doi.org/10.1093/jambio/lxae318
