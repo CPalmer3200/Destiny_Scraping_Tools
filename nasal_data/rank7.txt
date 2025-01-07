@@ -7,3 +7,11 @@ Epidemiological Profile of Bacterial Infections in Burn Patients Over a Five-Yea
 Electrophoretic Deposition of Gentamicin Into Titania Nanotubes Prevents Evidence of Infection in a Mouse Model of Periprosthetic Joint Infection.|https://dx.doi.org/10.1002/jor.26029
 [Healthcare-Associated Infections in Pediatric Patients: A Decade of Experience in an Intensive Care Unit].|https://dx.doi.org/10.20344/amp.22279
 Impact of Multidrug-Resistant Bacterial Colonization on Clinical Characteristics, Antibiotic Treatment, and Clinical Outcomes of Hospital-Acquired Pneumonia.|https://dx.doi.org/10.1007/s00408-024-00762-7
+Prevalence and Antimicrobial Susceptibility of Wound Pathogens in a Tertiary Care Hospital in Kashmir: A Cross-sectional Study.|https://dx.doi.org/10.3947/ic.2024.0083
+Mechanisms of Staphylococcus aureus Antibiotics Resistance Revealed by Adaptive Laboratory Evolution.|https://dx.doi.org/10.1007/s00284-024-03980-7
+Construction and validation of a nomogram predictive model for assessing the risk of surgical site infections following posterior lumbar fusion surgery.|https://dx.doi.org/10.1038/s41598-024-84174-w
+Presence of multidrug-resistant bacteria on ready-to-use laryngoscope blades and handles: a cross-sectional study.|https://dx.doi.org/10.1016/j.ajic.2024.12.018
+The anti-MRSA resource: a comprehensive archive of anti-MRSA peptides and essential oils.|https://dx.doi.org/10.1080/07391102.2024.2446670
+[Influencing factors analysis and prediction model establishment of toe-amputation in patients with diabetic foot].|https://dx.doi.org/10.3760/cma.j.cn112137-20240814-01866
+Characteristics, risk factors and clinical impact of penicillin and other antibiotic allergies in adults in the UK General Practice: a population-based cohort study.|https://dx.doi.org/10.1016/j.jinf.2024.106367
+Nasopharyngeal carriage of Staphylococcus aureus in a rural population, Sierra Leone.|https://dx.doi.org/10.1016/j.ijmm.2024.151643
