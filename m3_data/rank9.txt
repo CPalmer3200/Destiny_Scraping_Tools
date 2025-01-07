@@ -7,3 +7,4 @@ Effects of probiotics in elderly hospitalized tube-fed patients with antibiotics
 SLC26A3 (DRA, the Congenital Chloride Diarrhea Gene): A Novel Therapeutic Target for Diarrheal Diseases.|https://dx.doi.org/10.1016/j.jcmgh.2024.101452
 The Use of Gel Electrophoresis to Separate Multiplex Polymerase Chain Reaction Amplicons Allows for the Easy Identification and Assessment of the Spread of Toxigenic Clostridioides difficile Strains.|https://dx.doi.org/10.3390/gels10120818
 Bifidobacteria antagonize the life cycle of Clostridioides difficile.|https://dx.doi.org/10.1016/j.micpath.2024.107250
+Tackling Clostridioides difficile (CD): current evidences and future directions in the treatment of CD infections.|https://dx.doi.org/10.1016/j.lanepe.2024.101174

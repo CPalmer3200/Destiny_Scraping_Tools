@@ -3,3 +3,5 @@ Differential gene expression analysis shows that cephalosporin resistance is int
 Commensal-pathogen dynamics structure disease outcomes during Clostridioides difficile colonization.|https://dx.doi.org/10.1016/j.chom.2024.12.002
 A Three-Year Analysis of Mortality in Clostridioides difficile Patients in a Tertiary Center.|https://dx.doi.org/10.7759/cureus.74291
 Fulminant Clostridioides (Costridium) difficile infection caused by a rare strain of PCR-ribotype 153 in Japan: A case report.|https://dx.doi.org/10.1016/j.anaerobe.2024.102936
+Incidence and Risk Factors of Clostridium difficile Infection Among Adult Patients Admitted to the Inpatient Department of a Tertiary Care Hospital: A Hospital-Based Observational Study.|https://dx.doi.org/10.7759/cureus.75071
+Incidence, healthcare and out-of-pocket costs, and mortality of Clostridioides difficile infection among US adults aged 18 to 64 years.|https://dx.doi.org/10.1017/ash.2024.400

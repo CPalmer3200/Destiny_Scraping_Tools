@@ -4,3 +4,4 @@ Detection, characterization and antimicrobial susceptibility of Clostridioides d
 Facing Clostridioides difficile infection in a resource - Limiting setting.|https://dx.doi.org/10.17235/reed.2024.10883/2024
 [Prediction of the course of antibiotic-associated diarrhea caused by Clostridioides difficile based on clinical and laboratory characteristics of the disease].|https://dx.doi.org/10.26442/00403660.2024.11.203040
 Clostridioides difficile binary toxin CDT induces biofilm-like persisting microcolonies.|https://dx.doi.org/10.1080/19490976.2024.2444411
+Impact of prescribing vancomycin capsules vs liquid at discharge on readmissions for C. difficile infection.|https://dx.doi.org/10.1093/ajhp/zxae409
