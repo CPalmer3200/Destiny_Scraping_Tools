@@ -12,3 +12,7 @@ A thermosensitive chitin hydrogel with mild photothermal-chemotherapy for facili
 Carboxymethyl hemicellulose hydrogel as a fluorescent biosensor for bacterial and fungal detection with DFT and molecular docking studies.|https://dx.doi.org/10.1038/s41598-024-83157-1
 Development of Antibacterial Hydrogels Based on Biopolymer Aloe Vera/Gelatin/Sodium Alginate Composited With SM-AgNPs Loaded Curcumin-Nanoliposomes.|https://dx.doi.org/10.1002/mabi.202400504
 Preparation of Ag-Metal organic frameworks-loaded Sodium Alginate Hydrogel for the treatment of periodontitis.|https://dx.doi.org/10.1038/s41598-025-85123-x
+Self-Assembled Nanoflowers from Natural Building Blocks with Antioxidant, Antibacterial, and Antibiofilm Properties.|https://dx.doi.org/10.1021/acsabm.4c00788
+In Situ Formation of Hydrogels Loaded with ZnO Nanoparticles Promotes Healing of Diabetic Wounds in Rats.|https://dx.doi.org/10.1021/acsomega.4c08537
+Regulating Supramolecular Assembly and Disassembly of Chitosan toward Efficiently Antibacterial Lubricous and Biodegradable Hydrogel Urinary Catheters.|https://dx.doi.org/10.1002/adhm.202404856
+3D printed sodium Alginate-Gelatin hydrogel loaded with Santalum album oil as an antibacterial Full-Thickness wound healing and scar reduction Scaffold: In vitro and in vivo study.|https://dx.doi.org/10.1016/j.ijpharm.2024.125164

@@ -9,3 +9,7 @@ Photoresponsive nitric oxide photocage/photodynamic integrated prodrug for advan
 Medical Treatment of Osteomyelitis due to Carbapenemase-Producing Klebsiella pneumoniae in Diabetes-Related Foot Disease.|https://dx.doi.org/10.20344/amp.22152
 Multidisciplinary team-led management of Wagner grade 3 diabetic foot ulcer with MRSA infection, guided by wound care specialists: A case report.|https://dx.doi.org/10.1016/j.cpsurg.2024.101672
 First report on comprehensive genomic analysis of a multidrug-resistant Enterobacter asburiae isolated from diabetic foot infection from Bangladesh.|https://dx.doi.org/10.1038/s41598-024-84870-7
+In vitro efficacy of levonadifloxacin against methicillin-resistant Staphylococcus aureus (MRSA) including hVISA isolates collected across India.|https://dx.doi.org/10.1016/j.ijmmb.2025.100788
+Novel antimicrobial strategies for diabetic foot infections: addressing challenges and resistance.|https://dx.doi.org/10.1007/s00592-024-02438-3
+Identification and treatment of Enterococcus avium-induced diabetic foot ulcer: a case report and microbiome analysis.|https://dx.doi.org/10.3389/fmed.2024.1502337
+[Influencing factors analysis and prediction model establishment of toe-amputation in patients with diabetic foot].|https://dx.doi.org/10.3760/cma.j.cn112137-20240814-01866
