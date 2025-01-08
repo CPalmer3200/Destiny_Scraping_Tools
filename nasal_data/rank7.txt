@@ -15,3 +15,4 @@ The anti-MRSA resource: a comprehensive archive of anti-MRSA peptides and essent
 [Influencing factors analysis and prediction model establishment of toe-amputation in patients with diabetic foot].|https://dx.doi.org/10.3760/cma.j.cn112137-20240814-01866
 Characteristics, risk factors and clinical impact of penicillin and other antibiotic allergies in adults in the UK General Practice: a population-based cohort study.|https://dx.doi.org/10.1016/j.jinf.2024.106367
 Nasopharyngeal carriage of Staphylococcus aureus in a rural population, Sierra Leone.|https://dx.doi.org/10.1016/j.ijmm.2024.151643
+Evolution of community-associated MRSA: a 20-year genomic and epidemiological study in Region Örebro County, Sweden.|https://dx.doi.org/10.3389/fmicb.2024.1504860

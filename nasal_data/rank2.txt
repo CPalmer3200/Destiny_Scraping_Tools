@@ -5,3 +5,5 @@ Risk Identification and Mitigation of Skin and Soft Tissue Infections in Militar
 Impact of stewardship pharmacist driven MRSA nasal surveillance and de-escalation of anti-MRSA therapy (STEW PHARM MRSA NASAL SURVEILLANCE).|https://dx.doi.org/10.1017/ash.2024.443
 Fabrication of novel pullulan/carboxymethyl chitosan-based edible film incorporated with ultrasonically equipped aqueous zein/turmeric essential oil nanoemulsion for effective preservation of mango fruits.|https://dx.doi.org/10.1016/j.ijbiomac.2024.139330
 Microbiological Profiles and Patterns of Resistance in Patients With Sinus Infections After Endoscopic Sinus Surgery.|https://dx.doi.org/10.1002/ohn.1122
+Longitudinal prevalence and co-carriage of pathogens associated with nursing home acquired pneumonia in three long-term care facilities.|https://dx.doi.org/10.1101/2024.12.19.629505
+Sex-dependent gastrointestinal colonization resistance to MRSA is microbiota and Th17 dependent.|https://dx.doi.org/10.1101/2024.07.17.603994
