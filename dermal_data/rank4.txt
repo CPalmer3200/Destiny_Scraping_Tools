@@ -16,3 +16,4 @@ Self-Assembled Nanoflowers from Natural Building Blocks with Antioxidant, Antiba
 In Situ Formation of Hydrogels Loaded with ZnO Nanoparticles Promotes Healing of Diabetic Wounds in Rats.|https://dx.doi.org/10.1021/acsomega.4c08537
 Regulating Supramolecular Assembly and Disassembly of Chitosan toward Efficiently Antibacterial Lubricous and Biodegradable Hydrogel Urinary Catheters.|https://dx.doi.org/10.1002/adhm.202404856
 3D printed sodium Alginate-Gelatin hydrogel loaded with Santalum album oil as an antibacterial Full-Thickness wound healing and scar reduction Scaffold: In vitro and in vivo study.|https://dx.doi.org/10.1016/j.ijpharm.2024.125164
+One-step fabrication of dual-network cellulose-based hydrogel sensors with high flexibility and conductivity under ZnCl(2) solvent method for flexible sensing properties.|https://dx.doi.org/10.1016/j.ijbiomac.2024.139440
