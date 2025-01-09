@@ -8,3 +8,11 @@ Development and evaluation of Amikacin-loaded carbopol hydrogel for topical trea
 Repurposing pinaverium bromide against Staphylococcus and its biofilms with new mechanisms.|https://dx.doi.org/10.1186/s13568-024-01809-x
 Assessment of the Antimicrobial Effect of Momordica charantia (Bitter Gourd Oil) on Periodontal Pathogens: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.75209
 Effects of Commonly Used Vegetable Oils on Skin Barrier Function and Staphylococcus aureus Biofilm.|https://dx.doi.org/10.5650/jos.ess24032
+Cinnamaldehyde nanoemulsion decorated with rhamnolipid for inhibition of methicillin-resistant Staphylococcus aureus biofilm formation: in vitro and in vivo assessment.|https://dx.doi.org/10.3389/fmicb.2024.1514659
+Antibiofilm, Anti-Inflammatory, and Regenerative Properties of a New Stable Ozone-Gel Formulation.|https://dx.doi.org/10.3390/pharmaceutics16121580
+Targeted Antibacterial Endolysin to Treat Infected Wounds on 3D Full-Thickness Skin Model: XZ.700 Efficacy.|https://dx.doi.org/10.3390/pharmaceutics16121539
+Gram Negative Biofilms: Structural and Functional Responses to Destruction by Antibiotic-Loaded Mixed Polymeric Micelles.|https://dx.doi.org/10.3390/microorganisms12122670
+Facultatively Anaerobic Staphylococci Enable Anaerobic Cutibacterium Species to Grow and Form Biofilms Under Aerobic Conditions.|https://dx.doi.org/10.3390/microorganisms12122601
+Investigating the Antibacterial, Antioxidant, and Anti-Inflammatory Properties of a Lycopene Selenium Nano-Formulation: An In Vitro and In Vivo Study.|https://dx.doi.org/10.3390/ph17121600
+Microbial Colonization, Biofilm Formation, and Malodour of Washing Machine Surfaces and Fabrics and the Evolution of Detergents in Response to Consumer Demands and Environmental Concerns.|https://dx.doi.org/10.3390/antibiotics13121227
+Effect of Alkanna tinctoria Root Against MRSA and MDR-Pseudomonas aeruginosa Biofilms on Excision Wound in Diabetic Mice: Comparative Study Between Methanolic Extract and Traditional Hydrophobic Preparation.|https://dx.doi.org/10.3390/biology13120991

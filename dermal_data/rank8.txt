@@ -2,3 +2,4 @@ Response to the letter to the editor regarding "The efficacy of an alcohol-based
 Letter to the editor regarding the article: The efficacy of an alcohol-based nasal antiseptic versus mupirocin or iodophor for preventing surgical site infections: A meta-analysis.|https://dx.doi.org/10.1016/j.ajic.2024.09.009
 Enhancing transdermal delivery of chrysomycin A for the treatment of cutaneous melanoma and MRSA infections using Skin-Penetrating Peptide-Functionalized deformable liposomes.|https://dx.doi.org/10.1016/j.ijpharm.2024.125130
 Identification of an antibiotic from an HTS targeting EF-Tu:tRNA interaction: a prospective topical treatment for MRSA skin infections.|https://dx.doi.org/10.1128/aem.02046-24
+Development of a Stringent Ex Vivo-Burned Porcine Skin Wound Model to Screen Topical Antimicrobial Agents.|https://dx.doi.org/10.3390/antibiotics13121159
