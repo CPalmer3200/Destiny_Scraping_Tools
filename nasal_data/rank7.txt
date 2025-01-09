@@ -16,3 +16,13 @@ The anti-MRSA resource: a comprehensive archive of anti-MRSA peptides and essent
 Characteristics, risk factors and clinical impact of penicillin and other antibiotic allergies in adults in the UK General Practice: a population-based cohort study.|https://dx.doi.org/10.1016/j.jinf.2024.106367
 Nasopharyngeal carriage of Staphylococcus aureus in a rural population, Sierra Leone.|https://dx.doi.org/10.1016/j.ijmm.2024.151643
 Evolution of community-associated MRSA: a 20-year genomic and epidemiological study in Region Örebro County, Sweden.|https://dx.doi.org/10.3389/fmicb.2024.1504860
+Antibacterial properties and biological activity of 3D-printed titanium alloy implants with a near-infrared photoresponsive surface.|https://dx.doi.org/10.1186/s40729-024-00587-2
+Minimally invasive management of cervical spondylodiscitis. A multicenter experience.|https://dx.doi.org/10.1007/s10143-025-03191-z
+Early Removal of the Abdominal Patch is Superior to Late Removal in Children With Congenital Diaphragmatic Hernia.|https://dx.doi.org/10.1016/j.jpedsurg.2024.162124
+Multiple introductions of NRCS-A Staphylococcus capitis to the neonatal intensive care unit drive neonatal bloodstream infections: a case-control and environmental genomic survey.|https://dx.doi.org/10.1099/mgen.0.001340
+The Microbiology, Management and Outcomes of Native Joint Septic Arthritis of the Hand in Adults of Southeast Queensland.|https://dx.doi.org/10.1142/S2424835525500201
+Antibiotic candidates for Gram-positive bacterial infections induce multidrug resistance.|https://dx.doi.org/10.1126/scitranslmed.adl2103
+Elimination of Methicillin-Resistant Staphylococcus aureus from Mammary Glands of Dairy Cows by an Additional Antibiotic Treatment Prior to Dry Cow Treatment.|https://dx.doi.org/10.3390/microorganisms12122651
+Facultatively Anaerobic Staphylococci Enable Anaerobic Cutibacterium Species to Grow and Form Biofilms Under Aerobic Conditions.|https://dx.doi.org/10.3390/microorganisms12122601
+Advancements and Challenges in the Management of Prosthetic Valve Endocarditis: A Review.|https://dx.doi.org/10.3390/pathogens13121039
+Development and Prevention of Biofilm on Cochlear Implants: A Systematic Review.|https://dx.doi.org/10.3390/medicina60121959

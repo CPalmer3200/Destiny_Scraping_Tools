@@ -9,3 +9,6 @@ Factors associated with morbidity of a totally implantable venous access device 
 [Endoscopic surgical treatment for primary hyperthyroidism with thyroid enlargement-10 years' experience at a single center].|https://dx.doi.org/10.3760/cma.j.cn115330-20240424-00231
 Author Correction: π-HuB: the proteomic navigator of the human body.|https://dx.doi.org/10.1038/s41586-024-08555-x
 The Age-Old Question in Nipple-Sparing Mastectomy: Is Older Age a Contraindication?|https://dx.doi.org/10.1245/s10434-024-16741-4
+Correlation analysis of DLG5 and PD-L1 expression in triple-negative breast cancer.|https://dx.doi.org/10.1186/s12885-025-13428-1
+An approach to COVID‑19 and oncology: From impact, staging and management to vaccine outcomes in cancer patients: A systematic review and meta‑analysis.|https://dx.doi.org/10.3892/etm.2024.12787
+Unveiling the Hidden Burden: A Systematic Review on the Prevalence and Clinical Implications of Calcified Brain Metastases.|https://dx.doi.org/10.3390/biom14121585
