@@ -16,3 +16,4 @@ Facultatively Anaerobic Staphylococci Enable Anaerobic Cutibacterium Species to 
 Investigating the Antibacterial, Antioxidant, and Anti-Inflammatory Properties of a Lycopene Selenium Nano-Formulation: An In Vitro and In Vivo Study.|https://dx.doi.org/10.3390/ph17121600
 Microbial Colonization, Biofilm Formation, and Malodour of Washing Machine Surfaces and Fabrics and the Evolution of Detergents in Response to Consumer Demands and Environmental Concerns.|https://dx.doi.org/10.3390/antibiotics13121227
 Effect of Alkanna tinctoria Root Against MRSA and MDR-Pseudomonas aeruginosa Biofilms on Excision Wound in Diabetic Mice: Comparative Study Between Methanolic Extract and Traditional Hydrophobic Preparation.|https://dx.doi.org/10.3390/biology13120991
+Transcriptome of capsular contracture around breast implants mimics allograft rejection: a matched case-control study.|https://dx.doi.org/10.1097/PRS.0000000000011938

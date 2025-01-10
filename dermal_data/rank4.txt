@@ -25,3 +25,5 @@ Biocompatible dually reinforced gellan gum hydrogels with selective antibacteria
 Atelocollagen-based hydrogel loaded withCotinus coggygria's extract for treatment of type 2 diabetic wounds.|https://dx.doi.org/10.1088/1748-605X/ada7b5
 Development of Antimicrobial Blends of Bacteria Nanocellulose Derived from Plastic Waste and Polyhydroxybutyrate Enhanced with Essential Oils.|https://dx.doi.org/10.3390/polym16243490
 Microparticles Loaded with Bursera microphylla A. Gray Fruit Extract with Anti-Inflammatory and Antimicrobial Activity.|https://dx.doi.org/10.3390/ph17121565
+Multifunctional Hydrogel with Photothermal ROS Scavenging and Antibacterial Activity Accelerates Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202402236
+Combining antibacterial and wound healing features: Xanthan gum/guar gum 3D-printed scaffold tuned with hydroxypropyl-β-cyclodextrin/thymol and Zn(2).|https://dx.doi.org/10.1016/j.carbpol.2024.123069
