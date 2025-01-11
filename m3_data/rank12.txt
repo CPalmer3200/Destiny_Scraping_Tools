@@ -1,2 +1,3 @@
 Acetaminophen administration reduces acute kidney injury risk in critically ill patients with Clostridium difficile infection: A cohort study.|https://dx.doi.org/10.1371/journal.pone.0314902
 Whole-Genome Sequencing-Based Characterization of Clostridioides difficile Infection Cases at the University Hospital Centre Zagreb.|https://dx.doi.org/10.3390/microorganisms12122434
+Investigating the Effects of Nosocomial Clostridioides difficile Infection Among Acute Leukemia Patients: Insights From the 2020 National Inpatient Sample.|https://dx.doi.org/10.36518/2689-0216.1748
