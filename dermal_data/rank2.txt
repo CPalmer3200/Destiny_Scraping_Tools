@@ -28,3 +28,5 @@ Randomized Controlled Trial to Compare AmnioExcel Human Amniotic Allograft in We
 A Case of Euglycemic Diabetic Ketoacidosis in a Patient with Diabetic Foot Syndrome.|https://dx.doi.org/10.1177/15347346241308120
 Assessment of Risk Factors Leading to Amputation Among Diabetic Septic Foot Patients in Khartoum, Sudan.|https://dx.doi.org/10.7759/cureus.75517
 Deep Red-Light-Mediated Nitric Oxide and Photodynamic Synergistic Antibacterial Therapy for the Treatment of Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1002/smll.202408759
+Fungal Osteomyelitis of a Diabetic Foot Infection Caused by Trichosporon asahii: A Case Report.|https://dx.doi.org/10.1097/ASW.0000000000000223
+[18F]FDG PET/CT in Necrotizing Fasciitis: A Case Series Investigating the Clinical Utility in a Challenging and Rare Condition.|https://dx.doi.org/10.4103/ijnm.ijnm_7_24
