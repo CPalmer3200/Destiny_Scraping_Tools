@@ -33,3 +33,5 @@ A generalisable risk factor: Socioeconomic status and multi-resistant organism c
 Study on Time Distribution and Pathogenic Bacteria of Infection After Auricular Reconstruction With Tissue Expansion for Microtia.|https://dx.doi.org/10.1097/SCS.0000000000011055
 Antimicrobial Silicon Rubber Crosslinked with Bornyl-Siloxane.|https://dx.doi.org/10.1002/marc.202400930
 Novel antibiotics against Staphylococcus aureus without detectable resistance by targeting proton motive force and FtsH.|https://dx.doi.org/10.1002/mco2.70046
+Temporal Relationships Between Staphylococcus aureus Colonization, Filaggrin Expression, and Pediatric Atopic Dermatitis-Correspondence.|https://dx.doi.org/10.1111/1756-185X.70071
+A prospective study to evaluate high dose daptomycin pharmacokinetics and pharmacodynamics in Staphylococcus spp. infective endocarditis.|https://dx.doi.org/10.1177/20499361241296232

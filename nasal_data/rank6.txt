@@ -3,3 +3,5 @@ Bacillus safensis from Sauerkraut Alleviates Acute Lung Injury Induced by Methic
 Single versus double stapled anastomosis in natural orifice specimen extraction (NOSE) laparoscopic anterior resection.|https://dx.doi.org/10.1111/ans.19387
 Effect of Antimicrobial Wipes on Hospital-Associated Bacterial and Fungal Strains.|https://dx.doi.org/10.3947/ic.2024.0097
 Development of a Stringent Ex Vivo-Burned Porcine Skin Wound Model to Screen Topical Antimicrobial Agents.|https://dx.doi.org/10.3390/antibiotics13121159
+Long, Synthetic Staphylococcus aureus Type 8 Capsular Oligosaccharides Reveal Structural Epitopes for Effective Immune Recognition.|https://dx.doi.org/10.1021/jacs.4c16118
+Vaccine Specifically for Immunocompromised Individuals against Superbugs.|https://dx.doi.org/10.1021/acsnano.4c12203
