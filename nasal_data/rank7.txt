@@ -35,3 +35,6 @@ Antimicrobial Silicon Rubber Crosslinked with Bornyl-Siloxane.|https://dx.doi.or
 Novel antibiotics against Staphylococcus aureus without detectable resistance by targeting proton motive force and FtsH.|https://dx.doi.org/10.1002/mco2.70046
 Temporal Relationships Between Staphylococcus aureus Colonization, Filaggrin Expression, and Pediatric Atopic Dermatitis-Correspondence.|https://dx.doi.org/10.1111/1756-185X.70071
 A prospective study to evaluate high dose daptomycin pharmacokinetics and pharmacodynamics in Staphylococcus spp. infective endocarditis.|https://dx.doi.org/10.1177/20499361241296232
+Nosocomial Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, and Staphylococcus aureus: Sensitivity to Chlorhexidine-Based Biocides and Prevalence of Efflux Pump Genes.|https://dx.doi.org/10.3390/ijms26010355
+Current Strategies in Developing Antibacterial Surfaces for Joint Arthroplasty Implant Applications.|https://dx.doi.org/10.3390/ma18010173
+Covalent Grafting of Quaternary Ammonium Salt-Containing Polyurethane onto Silicone Substrates to Enhance Bacterial Contact-Killing Ability.|https://dx.doi.org/10.3390/polym17010017

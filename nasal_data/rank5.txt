@@ -13,3 +13,4 @@ Correlation analysis of DLG5 and PD-L1 expression in triple-negative breast canc
 An approach to COVID‑19 and oncology: From impact, staging and management to vaccine outcomes in cancer patients: A systematic review and meta‑analysis.|https://dx.doi.org/10.3892/etm.2024.12787
 Unveiling the Hidden Burden: A Systematic Review on the Prevalence and Clinical Implications of Calcified Brain Metastases.|https://dx.doi.org/10.3390/biom14121585
 Nomogram-based Approach for Predicting Complication Risks Following Prepectoral Direct-to-Implant Breast Reconstruction.|https://dx.doi.org/10.1097/PRS.0000000000011937
+Size Matters: Predicting Surgical Site Infection After Whole Breast Radiotherapy in the Era of Hypofractionation.|https://dx.doi.org/10.3390/jcm14010184
