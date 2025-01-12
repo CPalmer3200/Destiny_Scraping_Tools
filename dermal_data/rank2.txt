@@ -30,3 +30,8 @@ Assessment of Risk Factors Leading to Amputation Among Diabetic Septic Foot Pati
 Deep Red-Light-Mediated Nitric Oxide and Photodynamic Synergistic Antibacterial Therapy for the Treatment of Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1002/smll.202408759
 Fungal Osteomyelitis of a Diabetic Foot Infection Caused by Trichosporon asahii: A Case Report.|https://dx.doi.org/10.1097/ASW.0000000000000223
 [18F]FDG PET/CT in Necrotizing Fasciitis: A Case Series Investigating the Clinical Utility in a Challenging and Rare Condition.|https://dx.doi.org/10.4103/ijnm.ijnm_7_24
+The provision of wound care and management in a community healthcare setting: an exploratory study.|https://dx.doi.org/10.12968/jowc.2024.0108
+Nutritional Status in a Group of Patients with Wounds Due to Diabetic Foot Disease and Chronic Venous Insufficiency.|https://dx.doi.org/10.3390/jcm14010043
+Microbiology and Antimicrobial Resistance Profile in Patients with Diabetic Foot Sepsis at a Central Hospital in Johannesburg, South Africa.|https://dx.doi.org/10.3390/diagnostics15010032
+Predictive models and determinants of mortality among T2DM patients in a tertiary hospital in Ghana, how do machine learning techniques perform?|https://dx.doi.org/10.1186/s12902-025-01831-5
+Negative-pressure wound therapy compared with advanced moist wound therapy: A comparative study on healing efficacy in diabetic foot ulcers.|https://dx.doi.org/10.1016/j.surg.2024.109098

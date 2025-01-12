@@ -27,3 +27,6 @@ Development of Antimicrobial Blends of Bacteria Nanocellulose Derived from Plast
 Microparticles Loaded with Bursera microphylla A. Gray Fruit Extract with Anti-Inflammatory and Antimicrobial Activity.|https://dx.doi.org/10.3390/ph17121565
 Multifunctional Hydrogel with Photothermal ROS Scavenging and Antibacterial Activity Accelerates Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202402236
 Combining antibacterial and wound healing features: Xanthan gum/guar gum 3D-printed scaffold tuned with hydroxypropyl-β-cyclodextrin/thymol and Zn(2).|https://dx.doi.org/10.1016/j.carbpol.2024.123069
+CMCS-PVA@CA hydrogel dressing: A promoter of wound healing with MRSA virulence attenuation function.|https://dx.doi.org/10.1016/j.ijbiomac.2025.139614
+Construction of GOx-loaded metal organic frameworks antibacterial composite hydrogels for skin wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.139655
+Injectable Antibacterial Drug-Free Hydrogel Dressing Enabled by a Bioactive Peptide-Mimicking Synthetic Peptidyl Polymer.|https://dx.doi.org/10.1016/j.actbio.2025.01.008
