@@ -35,3 +35,6 @@ Nutritional Status in a Group of Patients with Wounds Due to Diabetic Foot Disea
 Microbiology and Antimicrobial Resistance Profile in Patients with Diabetic Foot Sepsis at a Central Hospital in Johannesburg, South Africa.|https://dx.doi.org/10.3390/diagnostics15010032
 Predictive models and determinants of mortality among T2DM patients in a tertiary hospital in Ghana, how do machine learning techniques perform?|https://dx.doi.org/10.1186/s12902-025-01831-5
 Negative-pressure wound therapy compared with advanced moist wound therapy: A comparative study on healing efficacy in diabetic foot ulcers.|https://dx.doi.org/10.1016/j.surg.2024.109098
+Early experience on injectable micronized putty type human-derived acellular dermal matrix (ADM) in management of diabetic foot wounds in Singapore.|https://dx.doi.org/10.1111/iwj.70127
+RETRACTION: A Meta-Analysis of the Effectiveness of Antibacterial Bone Cement in the Treatment of Diabetic Foot Skin Wound Infections.|https://dx.doi.org/10.1111/iwj.70185
+Healing of diabetic foot ulcer in an amputation candidate with below-knee cellulitis using combination of negative pressure wound therapy and platelet-rich plasma injection: A case report study.|https://dx.doi.org/10.1016/j.ijscr.2025.110838

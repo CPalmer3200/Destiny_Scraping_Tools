@@ -19,3 +19,4 @@ Effect of Alkanna tinctoria Root Against MRSA and MDR-Pseudomonas aeruginosa Bio
 Transcriptome of capsular contracture around breast implants mimics allograft rejection: a matched case-control study.|https://dx.doi.org/10.1097/PRS.0000000000011938
 Lactams Exhibit Potent Antifungal Activity Against Monospecies and Multispecies Interkingdom Biofilms on a Novel Hydrogel Skin Model.|https://dx.doi.org/10.1111/apm.13510
 Challenges and considerations in liposomal hydrogels for the treatment of infection.|https://dx.doi.org/10.1080/17425247.2025.2451620
+Life stage impact on the human skin ecosystem: lipids and the microbial community.|https://dx.doi.org/10.1038/s41522-025-00652-7
