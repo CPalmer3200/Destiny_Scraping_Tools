@@ -38,3 +38,5 @@ A prospective study to evaluate high dose daptomycin pharmacokinetics and pharma
 Nosocomial Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, and Staphylococcus aureus: Sensitivity to Chlorhexidine-Based Biocides and Prevalence of Efflux Pump Genes.|https://dx.doi.org/10.3390/ijms26010355
 Current Strategies in Developing Antibacterial Surfaces for Joint Arthroplasty Implant Applications.|https://dx.doi.org/10.3390/ma18010173
 Covalent Grafting of Quaternary Ammonium Salt-Containing Polyurethane onto Silicone Substrates to Enhance Bacterial Contact-Killing Ability.|https://dx.doi.org/10.3390/polym17010017
+Peripheral Vascular Emboli in Patients with Infective Endocarditis are Common.|https://dx.doi.org/10.1016/j.jvs.2025.01.005
+Intra-articular procedures and associated septic arthritis: A mini-review.|https://dx.doi.org/10.1016/j.idnow.2025.105023
