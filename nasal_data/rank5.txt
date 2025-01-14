@@ -17,3 +17,6 @@ Size Matters: Predicting Surgical Site Infection After Whole Breast Radiotherapy
 Delayed two stage breast reconstruction with acellular dermal matrix.|https://dx.doi.org/10.48095/ccachp2024104
 Doing Less Later: Seniorization of General Surgery Resident Operative Experience in the Entrustable Professional Activities at Veterans Affairs Hospitals.|https://dx.doi.org/10.1016/j.jsurg.2024.103403
 Obstetric outcomes in breastfeeding women in the first hour of delivery before and during the COVID-19 pandemic.|https://dx.doi.org/10.1186/s12884-024-06975-1
+Silicone Breast Implant Rupture Triggered by Infection Leading to Skin Ulceration: A Case Report.|https://dx.doi.org/10.7759/cureus.75556
+Treatment Considerations for Pyoderma Gangrenosum After Reduction Mammoplasty in an Unsuspecting Patient Demographic.|https://dx.doi.org/10.1097/GOX.0000000000006448
+Innovations in Nipple-areolar Complex Reconstruction: Evaluation of a New Prosthesis.|https://dx.doi.org/10.1097/GOX.0000000000006410
