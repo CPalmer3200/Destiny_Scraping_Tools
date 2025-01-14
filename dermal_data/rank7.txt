@@ -5,3 +5,4 @@ Decellularized Green and Brown Macroalgae as Cellulose Matrices for Tissue Engin
 Ketoconazole-Fumaric Acid Pharmaceutical Cocrystal: From Formulation Design for Bioavailability Improvement to Biocompatibility Testing and Antifungal Efficacy Evaluation.|https://dx.doi.org/10.3390/ijms252413346
 A Simplified Model of Adenine-Induced Chronic Kidney Disease Using SKH1 Mice.|https://dx.doi.org/10.3390/cells13242117
 The impact of Aureobasidium melanogenum cells and extracellular vesicles on human cell lines.|https://dx.doi.org/10.1038/s41598-024-84189-3
+Bifidobacterium longum RAPO Attenuates Dermal and Pulmonary Fibrosis in a Mouse Model of Systemic Sclerosis through Macrophage Modulation and Growth of Short-Chain Fatty Acid Producers.|https://dx.doi.org/10.4110/in.2024.24.e41
