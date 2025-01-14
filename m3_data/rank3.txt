@@ -2,3 +2,4 @@ Education strategies are the most commonly used in pediatric rehabilitation impl
 Micronutrient Status in Patients with Severe Obesity Before and After Laparoscopic Sleeve Gastrectomy.|https://dx.doi.org/10.3390/nu16244386
 Evaluating Harms Associated with Prolonged Antibiotic Duration of Therapy in Community Dwelling Older Adults: A Cohort Study using Instrumental Variable Analysis.|https://dx.doi.org/10.1093/cid/ciae629
 Impact of Clindamycin on the Oral-Gut Axis: Gastrointestinal Side Effects and Clostridium difficile Infection in 45 Patients.|https://dx.doi.org/10.7759/cureus.75381
+A Comprehensive Approach to Reducing Patient Safety Indicators (PSI-90).|https://dx.doi.org/10.1097/PTS.0000000000001312
