@@ -45,3 +45,5 @@ Immune Checkpoint Molecules as Biomarkers of Staphylococcus aureus Bone Infectio
 Rare Coexistence: Giant Cell Tumor Recurrence and Infection in the Proximal Tibia - A Case Report.|https://dx.doi.org/10.13107/jocr.2025.v15.i01.5112
 An uncommon cause of osteomyelitis: Serratia fonticola A rare pathogen in human infections.|https://dx.doi.org/10.1016/j.idcr.2024.e02131
 Roles of oolong tea extracts in the protection against Staphylococcus aureus infection in Caenorhabditis elegans.|https://dx.doi.org/10.1111/1750-3841.17651
+Factors associated with multidrug-resistant organism (MDRO) mortality: an analysis from the national surveillance of multidrug-resistant organism, 2018-2022.|https://dx.doi.org/10.1186/s12879-024-10338-8
+The endothelium at the interface between tissues and Staphylococcus aureus in the bloodstream.|https://dx.doi.org/10.1128/cmr.00098-24
