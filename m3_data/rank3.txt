@@ -3,3 +3,5 @@ Micronutrient Status in Patients with Severe Obesity Before and After Laparoscop
 Evaluating Harms Associated with Prolonged Antibiotic Duration of Therapy in Community Dwelling Older Adults: A Cohort Study using Instrumental Variable Analysis.|https://dx.doi.org/10.1093/cid/ciae629
 Impact of Clindamycin on the Oral-Gut Axis: Gastrointestinal Side Effects and Clostridium difficile Infection in 45 Patients.|https://dx.doi.org/10.7759/cureus.75381
 A Comprehensive Approach to Reducing Patient Safety Indicators (PSI-90).|https://dx.doi.org/10.1097/PTS.0000000000001312
+Oral vancomycin induced flushing syndrome in a multiple myeloma patient: A case report and review of the literature.|https://dx.doi.org/10.1097/MD.0000000000040640
+Clinical impacts of utilizing ceftriaxone and metronidazole versus piperacillin/tazobactam in patients diagnosed with complicated diverticulitis.|https://dx.doi.org/10.1016/j.amjsurg.2025.116195
