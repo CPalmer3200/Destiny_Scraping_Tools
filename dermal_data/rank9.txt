@@ -3,3 +3,5 @@ Identification of Potential Drug Targets for the Treatment of Severe Burn Wounds
 Unravelling turbot (Scophthalmus maximus) resistance to Aeromonas salmonicida: transcriptomic insights from two full-sibling families with divergent susceptibility.|https://dx.doi.org/10.3389/fimmu.2024.1522666
 Flavuside B exhibits antioxidant and anti-inflammatory properties in Staphylococcus aureus infected skin wound and affect the expression of genes controlling bacterial quorum sensing.|https://dx.doi.org/10.1093/jambio/lxae318
 The mutational landscape of Staphylococcus aureus during colonisation.|https://dx.doi.org/10.1038/s41467-024-55186-x
+Study on metabolic disorders in rat liver induced by different times after scalds.|https://dx.doi.org/10.1016/j.bbrep.2024.101904
+What are the general public's expectations about the likely duration of common acute infections? A cross-sectional survey of Australian residents.|https://dx.doi.org/10.1136/bmjopen-2024-090190
