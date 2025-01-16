@@ -47,3 +47,6 @@ An uncommon cause of osteomyelitis: Serratia fonticola A rare pathogen in human 
 Roles of oolong tea extracts in the protection against Staphylococcus aureus infection in Caenorhabditis elegans.|https://dx.doi.org/10.1111/1750-3841.17651
 Factors associated with multidrug-resistant organism (MDRO) mortality: an analysis from the national surveillance of multidrug-resistant organism, 2018-2022.|https://dx.doi.org/10.1186/s12879-024-10338-8
 The endothelium at the interface between tissues and Staphylococcus aureus in the bloodstream.|https://dx.doi.org/10.1128/cmr.00098-24
+Preparation of nano(micro)particles from Cotinus coggygria Scop. extracts and investigation of their antimicrobial effects in vivo Caenorhabditis elegans model.|https://dx.doi.org/10.1016/j.micpath.2025.107303
+Antimicrobial and Cytotoxic Potential of Endophytic Aspergillus versicolor Isolate from the Medicinal Plant Plectranthus amboinicus.|https://dx.doi.org/10.1007/s00284-024-04050-8
+Not All Antiseptic Solutions Are Equivalent in Removing Biofilm: A Comparison Across Different Orthopaedic Surfaces.|https://dx.doi.org/10.2106/JBJS.23.01118

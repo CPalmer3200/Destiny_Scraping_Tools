@@ -11,3 +11,4 @@ Effect of Skin-to-Skin Care on the Day of Birth on Skin Colonization in Preterm 
 Evaluation of a Pharmacist-Led Methicillin-Resistant Staphylococcus aureus Nasal PCR Testing Protocol.|https://dx.doi.org/10.3390/antibiotics13121195
 Asymptomatic carriage and molecular characterization of Staphylococcus aureus in pre-clinical and clinical medical students.|https://dx.doi.org/10.1007/s12223-024-01237-1
 The mutational landscape of Staphylococcus aureus during colonisation.|https://dx.doi.org/10.1038/s41467-024-55186-x
+Nasal microbiota predictors for methicillin resistant Staphylococcus colonization in critically ill children.|https://dx.doi.org/10.1371/journal.pone.0316460
