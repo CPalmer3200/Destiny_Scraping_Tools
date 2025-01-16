@@ -5,3 +5,4 @@ Impact of Clindamycin on the Oral-Gut Axis: Gastrointestinal Side Effects and Cl
 A Comprehensive Approach to Reducing Patient Safety Indicators (PSI-90).|https://dx.doi.org/10.1097/PTS.0000000000001312
 Oral vancomycin induced flushing syndrome in a multiple myeloma patient: A case report and review of the literature.|https://dx.doi.org/10.1097/MD.0000000000040640
 Clinical impacts of utilizing ceftriaxone and metronidazole versus piperacillin/tazobactam in patients diagnosed with complicated diverticulitis.|https://dx.doi.org/10.1016/j.amjsurg.2025.116195
+Impact of order set implementation on appropriate treatment of community-acquired pneumonia (CAP).|https://dx.doi.org/10.1017/ash.2024.467
