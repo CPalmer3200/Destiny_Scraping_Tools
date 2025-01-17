@@ -1,3 +1,5 @@
 Nutritional optimization of fecal microbiota transplantation in humans: a scoping review.|https://dx.doi.org/10.1080/19490976.2024.2446378
 Factors for Treatment Failure After Fecal Microbiota Transplantation in Clostridioides difficile Infection.|https://dx.doi.org/10.3390/microorganisms12122539
 Pilot study of Clostridioides difficile infection (CDI) in hospitals, Italy, September to December 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2025.30.1.2400206
+Clostridioides difficile infection and recurrence in cancer patients (CIRCA): a multicentre, international study.|https://dx.doi.org/10.1016/j.ijid.2025.107785
+Synergistic and off-target effects of bacteriocins in a simplified human intestinal microbiome: implications for Clostridioides difficile infection control.|https://dx.doi.org/10.1080/19490976.2025.2451081
