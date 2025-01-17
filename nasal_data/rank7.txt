@@ -50,3 +50,5 @@ The endothelium at the interface between tissues and Staphylococcus aureus in th
 Preparation of nano(micro)particles from Cotinus coggygria Scop. extracts and investigation of their antimicrobial effects in vivo Caenorhabditis elegans model.|https://dx.doi.org/10.1016/j.micpath.2025.107303
 Antimicrobial and Cytotoxic Potential of Endophytic Aspergillus versicolor Isolate from the Medicinal Plant Plectranthus amboinicus.|https://dx.doi.org/10.1007/s00284-024-04050-8
 Not All Antiseptic Solutions Are Equivalent in Removing Biofilm: A Comparison Across Different Orthopaedic Surfaces.|https://dx.doi.org/10.2106/JBJS.23.01118
+Bacterial burden and drug-resistant bacteria in healthcare workers' mobile phones: a study in Puerto Rican outpatient clinics.|https://dx.doi.org/10.1016/j.infpip.2024.100432
+Prevalence, antimicrobial susceptibility profiles and resistant gene identification of bovine subclinical mastitis pathogens in Bangladesh.|https://dx.doi.org/10.1016/j.heliyon.2024.e34567

@@ -8,3 +8,4 @@ Vaccine Specifically for Immunocompromised Individuals against Superbugs.|https:
 Multifunctional electrospun nanofiber films of polyacrylonitrile and polyvinyl alcohol incorporating rhamnose and therapeutic agents for enhanced healing of infected burn wounds.|https://dx.doi.org/10.1080/09205063.2024.2449297
 Probiotic viability in the gastrointestinal tract in a randomised placebo controlled trial: combining molecular biology and novel cultivation techniques.|https://dx.doi.org/10.1163/18762891-bja00055
 A novel broad-spectrum bacteriophage cocktail against methicillin-resistant Staphylococcus aureus: Isolation, characterization, and therapeutic potential in a mastitis mouse model.|https://dx.doi.org/10.1371/journal.pone.0316157
+Transient comparison of techniques to counter multi-drug resistant bacteria: prime modules in curation of bacterial infections.|https://dx.doi.org/10.3389/frabi.2023.1309107
