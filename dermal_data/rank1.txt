@@ -7,3 +7,4 @@ Multifunctional electrospun nanofiber films of polyacrylonitrile and polyvinyl a
 The global, regional, and national patterns of change in the burden of bacterial pyoderma from 1990 to 2019 and the forecast for the next decade.|https://dx.doi.org/10.1038/s41598-025-85995-z
 Preparation of nano(micro)particles from Cotinus coggygria Scop. extracts and investigation of their antimicrobial effects in vivo Caenorhabditis elegans model.|https://dx.doi.org/10.1016/j.micpath.2025.107303
 Multiple crosslinked, self-healing, and shape-adaptable hydrogel laden with pain-relieving chitosan@borneol nanoparticles for infected burn wound healing.|https://dx.doi.org/10.7150/thno.102569
+Bacteria in hypertrophic scars promote scar formation through HSBP1-mediated autophagy.|https://dx.doi.org/10.1111/wrr.13253
