@@ -5,3 +5,4 @@ Identification of an antibiotic from an HTS targeting EF-Tu:tRNA interaction: a 
 Development of a Stringent Ex Vivo-Burned Porcine Skin Wound Model to Screen Topical Antimicrobial Agents.|https://dx.doi.org/10.3390/antibiotics13121159
 Corrigendum to "Targeted mupirocin-based decolonization for Staphylococcus aureus carriers and the subsequent risk of mupirocin resistance in haemodialysis patients - a longitudinal study over 20 years" [J Hosp Infect 135 (2023) 55-58].|https://dx.doi.org/10.1016/j.jhin.2024.12.007
 Probiotic viability in the gastrointestinal tract in a randomised placebo controlled trial: combining molecular biology and novel cultivation techniques.|https://dx.doi.org/10.1163/18762891-bja00055
+Betaine combined with traditional Chinese medicine ointment to treat skin wounds in microbially infected diabetic mice.|https://dx.doi.org/10.4239/wjd.v16.i1.99745

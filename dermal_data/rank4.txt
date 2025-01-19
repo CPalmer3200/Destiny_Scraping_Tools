@@ -37,3 +37,5 @@ Adhesive transparent antimicrobial quaternized chitosan/oxidized dextran/polydop
 Quantitative Assessment of Microbial Transmission onto Environmental Surfaces Using Thermoresponsive Gelatin Hydrogels as a Finger Mimetic under In Situ-Mimicking Conditions.|https://dx.doi.org/10.1002/adhm.202403790
 The immunoglobulin of yolk and cerium oxide-based fibrous poly(L-lactide-co-glycolide)/gelatin dressings enable skin regeneration in an infectious wound model.|https://dx.doi.org/10.1016/j.mtbio.2024.101408
 In situ growth of ZIF-8 nanoparticles on pure chitosan nanofibrous membranes for efficient antimicrobial wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2025.139921
+Polyvinyl alcohol/chitosan hydrogel based on deep eutectic solvent for promoting methicillin-resistant Staphylococcus aureus-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.139916
+Intelligent response agarose/chitosan hydrogel wound dressing: Synergistic chemotherapy, PDT and PTT effects against bacterial infection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.139927

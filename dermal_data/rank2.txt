@@ -40,3 +40,5 @@ RETRACTION: A Meta-Analysis of the Effectiveness of Antibacterial Bone Cement in
 Healing of diabetic foot ulcer in an amputation candidate with below-knee cellulitis using combination of negative pressure wound therapy and platelet-rich plasma injection: A case report study.|https://dx.doi.org/10.1016/j.ijscr.2025.110838
 In Situ Self-Assembled Naringin/ZIF-8 Nanoparticle-Embedded Bacterial Cellulose Sponges for Infected Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsami.4c20399
 Kyphoplasty in the setting of corynebacterium striatum septicemia with postoperative osteomyelitis requiring salvage vertebrectomy: a case report.|https://dx.doi.org/10.21037/jss-24-31
+Diabetic foot ulcer in the Western Pacific Region: Current data on ulceration rates and microbial profiles, gaps and charting strategies.|https://dx.doi.org/10.1016/j.pcd.2024.12.012
+Ghrelin Promotes Chronic Diabetic Wound Healing by Regulating Keratinocyte Proliferation and Migration Through the ERK1/2 Pathway.|https://dx.doi.org/10.1016/j.peptides.2025.171350
