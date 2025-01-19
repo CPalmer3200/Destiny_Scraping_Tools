@@ -13,3 +13,4 @@ Asymptomatic carriage and molecular characterization of Staphylococcus aureus in
 The mutational landscape of Staphylococcus aureus during colonisation.|https://dx.doi.org/10.1038/s41467-024-55186-x
 Nasal microbiota predictors for methicillin resistant Staphylococcus colonization in critically ill children.|https://dx.doi.org/10.1371/journal.pone.0316460
 Listeria monocytogenes and Staphylococcus aureus coinfection in a patient with multiple myeloma: Case report.|https://dx.doi.org/10.1016/j.heliyon.2024.e40901
+Response to Response-Letter to Editor. Nasal Decolonization in Congregate Settings: Reducing Infection Spread, Cutting Costs and Improving Operational Readiness.|https://dx.doi.org/10.1093/milmed/usae476
