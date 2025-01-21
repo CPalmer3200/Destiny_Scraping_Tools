@@ -4,3 +4,4 @@ Investigating the Effects of Nosocomial Clostridioides difficile Infection Among
 Analysis of risk factors of Clostridioides difficile infection in patients with inflammatory bowel disease.|https://dx.doi.org/10.5114/pg.2024.143145
 TRPV4 modulates inflammatory responses and apoptosis in enteric glial cells triggered by Clostridioides difficile toxins A and B.|https://dx.doi.org/10.1186/s12950-024-00425-7
 Surveillance of Clostridioides difficile on hospital admission and outpatient antibiotic use in Germany-a 9 year ecological analysis.|https://dx.doi.org/10.1093/jac/dkae483
+Fiber- and acetate-mediated modulation of MHC-II expression on intestinal epithelium protects from Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.chom.2024.12.017
