@@ -14,3 +14,4 @@ The mutational landscape of Staphylococcus aureus during colonisation.|https://d
 Nasal microbiota predictors for methicillin resistant Staphylococcus colonization in critically ill children.|https://dx.doi.org/10.1371/journal.pone.0316460
 Listeria monocytogenes and Staphylococcus aureus coinfection in a patient with multiple myeloma: Case report.|https://dx.doi.org/10.1016/j.heliyon.2024.e40901
 Response to Response-Letter to Editor. Nasal Decolonization in Congregate Settings: Reducing Infection Spread, Cutting Costs and Improving Operational Readiness.|https://dx.doi.org/10.1093/milmed/usae476
+Detection of multidrug-resistant methicillin-resistant Staphylococcus aureus from healthy black Bengal goat in Bangladesh.|https://dx.doi.org/10.3855/jidc.19701

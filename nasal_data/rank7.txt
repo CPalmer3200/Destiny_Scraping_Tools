@@ -60,3 +60,9 @@ The economic burden of post-endoscopic retrograde cholangiopancreatography (ERCP
 Differences of microbial growth and biofilm formation among periprosthetic joint infection-causing species: an animal study.|https://dx.doi.org/10.1007/s10123-024-00629-0
 Clinical-Microbial Synergy: Mapping Microbiological Profiles to Clinical Attributes in Skin and Soft Tissue Infections.|https://dx.doi.org/10.29271/jcpsp.2025.01.49
 The incidence and risk factor for febrile urinary tract infection after robot-assisted laparoscopic radical cystectomy in bladder cancer patients.|https://dx.doi.org/10.1016/j.jiac.2025.102624
+Antibiotic Resistance Trends in ESKAPE Pathogens Isolated at a Health Practice and Research Hospital: A Five-Year Retrospective Study.|https://dx.doi.org/10.3855/jidc.19592
+Who is at risk for tPA/DNase treatment failure in empyema?-protocol to identify key predictors for early surgical intervention from a retrospective study.|https://dx.doi.org/10.21037/jtd-24-1256
+Never mind the bug: no differences in infection-free survival after periprosthetic joint infections with Staphylococcus aureus, Coagulase-negative Staphylococcus, or Streptococcus.|https://dx.doi.org/10.3389/fmicb.2024.1503928
+Biofilm morphology and antibiotic susceptibility of methicillin-resistant Staphylococcus aureus (MRSA) on poly-D,L-lactide-co-poly(ethylene glycol) (PDLLA-PEG) coated titanium.|https://dx.doi.org/10.1016/j.bioflm.2024.100228
+Binary Doping of Strontium-Magnesium to Bioactive Glasses to Enhance Antibacterial and Osteogenic Effects.|https://dx.doi.org/10.1021/acsomega.4c04898
+Characteristics of nursing homes with high rates of invasive methicillin-resistant Staphylococcus aureus infections.|https://dx.doi.org/10.1111/jgs.19189
