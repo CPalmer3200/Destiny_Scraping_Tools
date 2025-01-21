@@ -22,3 +22,4 @@ Challenges and considerations in liposomal hydrogels for the treatment of infect
 Life stage impact on the human skin ecosystem: lipids and the microbial community.|https://dx.doi.org/10.1038/s41522-025-00652-7
 Engineered Microneedle System Enables the Smart Regulation of Nanodynamic Sterilization and Tissue Regeneration for Wound Management.|https://dx.doi.org/10.1002/advs.202412226
 Algae extract-based nanoemulsions for photoprotection against UVB radiation: an electrical impedance spectroscopy study.|https://dx.doi.org/10.1038/s41598-025-85604-z
+The Geographical Distribution of Global Biobanks.|https://dx.doi.org/10.22074/cellj.2024.2024380.1525

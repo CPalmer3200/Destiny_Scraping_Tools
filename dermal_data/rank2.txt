@@ -42,3 +42,5 @@ In Situ Self-Assembled Naringin/ZIF-8 Nanoparticle-Embedded Bacterial Cellulose 
 Kyphoplasty in the setting of corynebacterium striatum septicemia with postoperative osteomyelitis requiring salvage vertebrectomy: a case report.|https://dx.doi.org/10.21037/jss-24-31
 Diabetic foot ulcer in the Western Pacific Region: Current data on ulceration rates and microbial profiles, gaps and charting strategies.|https://dx.doi.org/10.1016/j.pcd.2024.12.012
 Ghrelin Promotes Chronic Diabetic Wound Healing by Regulating Keratinocyte Proliferation and Migration Through the ERK1/2 Pathway.|https://dx.doi.org/10.1016/j.peptides.2025.171350
+Clinical efficacy of antibiotic-loaded bone cement and negative pressure wound therapy in multidrug-resistant organisms diabetic foot ulcers: a retrospective analysis.|https://dx.doi.org/10.3389/fcimb.2024.1521199
+A Prospective, Open-Label, Randomized, Comparative, Investigator-Initiated Study to Evaluate the Safety and Effectiveness of Autologous Growth Factor Concentrate Using the Healrex Therapy Kit With Standard Wound Care in Lower-Extremity Diabetic Ulcer.|https://dx.doi.org/10.7759/cureus.75936
