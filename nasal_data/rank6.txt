@@ -9,3 +9,5 @@ Multifunctional electrospun nanofiber films of polyacrylonitrile and polyvinyl a
 Probiotic viability in the gastrointestinal tract in a randomised placebo controlled trial: combining molecular biology and novel cultivation techniques.|https://dx.doi.org/10.1163/18762891-bja00055
 A novel broad-spectrum bacteriophage cocktail against methicillin-resistant Staphylococcus aureus: Isolation, characterization, and therapeutic potential in a mastitis mouse model.|https://dx.doi.org/10.1371/journal.pone.0316157
 Transient comparison of techniques to counter multi-drug resistant bacteria: prime modules in curation of bacterial infections.|https://dx.doi.org/10.3389/frabi.2023.1309107
+Vertebral osteomyelitis in patients with infective endocarditis: prevalence, risk factors and mortality.|https://dx.doi.org/10.1007/s10096-025-05041-8
+Potent human antibodies against SpA5 identified by high-throughput single-cell sequencing of phase I clinical volunteers' B cells.|https://dx.doi.org/10.1016/j.isci.2024.111627

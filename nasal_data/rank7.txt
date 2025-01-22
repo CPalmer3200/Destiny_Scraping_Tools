@@ -66,3 +66,6 @@ Never mind the bug: no differences in infection-free survival after periprosthet
 Biofilm morphology and antibiotic susceptibility of methicillin-resistant Staphylococcus aureus (MRSA) on poly-D,L-lactide-co-poly(ethylene glycol) (PDLLA-PEG) coated titanium.|https://dx.doi.org/10.1016/j.bioflm.2024.100228
 Binary Doping of Strontium-Magnesium to Bioactive Glasses to Enhance Antibacterial and Osteogenic Effects.|https://dx.doi.org/10.1021/acsomega.4c04898
 Characteristics of nursing homes with high rates of invasive methicillin-resistant Staphylococcus aureus infections.|https://dx.doi.org/10.1111/jgs.19189
+Multi-omic signatures of host response associated with presence, type, and outcome of enterococcal bacteremia.|https://dx.doi.org/10.1128/msystems.01471-24
+Clinical characteristics of acute epiphyseal osteomyelitis and acute metaphyseal osteomyelitis of long bones in children.|https://dx.doi.org/10.1097/BPB.0000000000001235
+Genomic detection of Panton-Valentine Leucocidins encoding genes, virulence factors and distribution of antiseptic resistance determinants among Methicillin-resistant S. aureus isolates from patients attending regional referral hospitals in Tanzania.|https://dx.doi.org/10.1186/s12920-025-02085-9
