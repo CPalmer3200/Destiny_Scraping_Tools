@@ -9,3 +9,4 @@ Preparation of nano(micro)particles from Cotinus coggygria Scop. extracts and in
 Multiple crosslinked, self-healing, and shape-adaptable hydrogel laden with pain-relieving chitosan@borneol nanoparticles for infected burn wound healing.|https://dx.doi.org/10.7150/thno.102569
 Bacteria in hypertrophic scars promote scar formation through HSBP1-mediated autophagy.|https://dx.doi.org/10.1111/wrr.13253
 Effect of platelet-rich plasma and platelet-rich fibrin on healing of burn wound with dual-species biofilm.|https://dx.doi.org/10.1002/kjm2.12940
+Nanotechnological Advances in Burn Wound Care: Silver Sulfadiazine-Loaded Nanosuspension-Based Chitosan-Incorporated Nanogel for Partial Thickness Burns.|https://dx.doi.org/10.1177/15347346241309425
