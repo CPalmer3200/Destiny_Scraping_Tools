@@ -9,3 +9,4 @@ Bifidobacterium longum RAPO Attenuates Dermal and Pulmonary Fibrosis in a Mouse 
 Patches containing quercetin microcapsules to ameliorate dermal herpes simplex virus injuries in mice.|https://dx.doi.org/10.1016/j.ejpb.2025.114631
 Human Hair Follicle Mesenchymal Stem Cell-Derived Exosomes Attenuate UVB-Induced Photoaging via the miR-125b-5p/TGF-β1/Smad Axis.|https://dx.doi.org/10.34133/bmr.0121
 A Case of Merkel Cell Carcinoma of Unknown Primary Origin Presenting With High Merkel Cell Polyomavirus DNA Levels in Swabs Obtained From the Normal Skin.|https://dx.doi.org/10.7759/cureus.75837
+Paradoxical dominant negative activity of an immunodeficiency-associated activating PIK3R1 variant.|https://dx.doi.org/10.7554/eLife.94420
