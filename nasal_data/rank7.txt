@@ -69,3 +69,6 @@ Characteristics of nursing homes with high rates of invasive methicillin-resista
 Multi-omic signatures of host response associated with presence, type, and outcome of enterococcal bacteremia.|https://dx.doi.org/10.1128/msystems.01471-24
 Clinical characteristics of acute epiphyseal osteomyelitis and acute metaphyseal osteomyelitis of long bones in children.|https://dx.doi.org/10.1097/BPB.0000000000001235
 Genomic detection of Panton-Valentine Leucocidins encoding genes, virulence factors and distribution of antiseptic resistance determinants among Methicillin-resistant S. aureus isolates from patients attending regional referral hospitals in Tanzania.|https://dx.doi.org/10.1186/s12920-025-02085-9
+TSST-1 promotes colonization of Staphylococcus aureus within the vaginal tract by activation of CD8(+) T cells.|https://dx.doi.org/10.1128/iai.00439-24
+A rapid literature review of the impact of penicillin allergy on antibiotic resistance.|https://dx.doi.org/10.1093/jacamr/dlaf002
+Synergistic antibacterial drug elution from UHMWPE for load-bearing implants.|https://dx.doi.org/10.1039/d4tb02672a
