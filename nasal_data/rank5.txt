@@ -31,3 +31,4 @@ Red Breast Syndrome-Where Has It Gone?: A Systematic Review of Red Breast Syndro
 Reduction Mammaplasty: Closed Suction Drains Do Not Reduce Hematoma or Seroma But Increase Infection Risk.|https://dx.doi.org/10.1097/SAP.0000000000004153
 Comparison of outcomes following prepectoral and subpectoral implants for breast reconstruction in patients with breast cancer.|https://dx.doi.org/10.3389/fonc.2024.1499710
 Pulse Irrigation Reduces Rate of Postoperative Hematoma Following Breast Reduction.|https://dx.doi.org/10.1007/s00266-025-04682-6
+Concentration of Povidone-Iodine Pocket Irrigation in Implant-Based Breast Surgery: A Scoping Review.|https://dx.doi.org/10.1007/s00266-025-04660-y

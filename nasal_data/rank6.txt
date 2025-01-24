@@ -11,3 +11,6 @@ A novel broad-spectrum bacteriophage cocktail against methicillin-resistant Stap
 Transient comparison of techniques to counter multi-drug resistant bacteria: prime modules in curation of bacterial infections.|https://dx.doi.org/10.3389/frabi.2023.1309107
 Vertebral osteomyelitis in patients with infective endocarditis: prevalence, risk factors and mortality.|https://dx.doi.org/10.1007/s10096-025-05041-8
 Potent human antibodies against SpA5 identified by high-throughput single-cell sequencing of phase I clinical volunteers' B cells.|https://dx.doi.org/10.1016/j.isci.2024.111627
+Targeting murine metastatic cancers with cholera toxin A1-adjuvanted peptide vaccines.|https://dx.doi.org/10.1080/21645515.2025.2455240
+Global Gac/Rsm regulatory system activates the biosynthesis of mupirocin by controlling the MupR/I quorum sensing system in Pseudomonas sp. NCIMB 10586.|https://dx.doi.org/10.1128/aem.01896-24
+Wall teichoic acid glycosylation of bovine-associated Staphylococcus aureus strains.|https://dx.doi.org/10.1016/j.vetmic.2025.110403

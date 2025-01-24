@@ -72,3 +72,10 @@ Genomic detection of Panton-Valentine Leucocidins encoding genes, virulence fact
 TSST-1 promotes colonization of Staphylococcus aureus within the vaginal tract by activation of CD8(+) T cells.|https://dx.doi.org/10.1128/iai.00439-24
 A rapid literature review of the impact of penicillin allergy on antibiotic resistance.|https://dx.doi.org/10.1093/jacamr/dlaf002
 Synergistic antibacterial drug elution from UHMWPE for load-bearing implants.|https://dx.doi.org/10.1039/d4tb02672a
+MRSA septic arthritis of the pubic symphysis post vaginal delivery: A case report and literature review.|https://dx.doi.org/10.1016/j.ijscr.2025.110905
+Red and blue LED light increases the survival rate of random skin flaps in rats after MRSA infection.|https://dx.doi.org/10.1007/s10103-025-04294-1
+Incidence and Presentation of Periprosthetic Joint Infection After Primary Metacarpophalangeal and Proximal Interphalangeal Arthroplasty.|https://dx.doi.org/10.1016/j.jhsa.2024.12.008
+Pseudomonal Vasculopathy of the Central Nervous System in a 2-Year-Old Female With an IRAK4-Related Immunodeficiency.|https://dx.doi.org/10.1080/15513815.2025.2449948
+Metagenomic next-generation sequencing for the clinical identification of spinal infection-associated pathogens.|https://dx.doi.org/10.3389/fcimb.2024.1437665
+Gallic acid-grafted chitosan photothermal hydrogels functionalized with mineralized copper-sericin nanoparticles for MRSA-infected wound management.|https://dx.doi.org/10.1016/j.carbpol.2024.123179
+Umbrella review of economic evaluations of interventions for the prevention and management of healthcare-associated infections in adult hospital patients.|https://dx.doi.org/10.1016/j.jhin.2025.01.006
