@@ -23,3 +23,6 @@ Life stage impact on the human skin ecosystem: lipids and the microbial communit
 Engineered Microneedle System Enables the Smart Regulation of Nanodynamic Sterilization and Tissue Regeneration for Wound Management.|https://dx.doi.org/10.1002/advs.202412226
 Algae extract-based nanoemulsions for photoprotection against UVB radiation: an electrical impedance spectroscopy study.|https://dx.doi.org/10.1038/s41598-025-85604-z
 The Geographical Distribution of Global Biobanks.|https://dx.doi.org/10.22074/cellj.2024.2024380.1525
+A biocompatible β-cyclodextrin inclusion complex containing natural extracts: a promising antibiofilm agent.|https://dx.doi.org/10.1039/d4na00916a
+Bioactive Glasses: Advancing Skin Tissue Repair through Multifunctional Mechanisms and Innovations.|https://dx.doi.org/10.34133/bmr.0134
+Photodynamic therapy combined with quaternized chitosan antibacterial strategy for instant and prolonged bacterial infection treatment.|https://dx.doi.org/10.1016/j.carbpol.2024.123147

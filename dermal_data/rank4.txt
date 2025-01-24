@@ -45,3 +45,8 @@ Biofabricated tissue model for determining biocompatibility of metallic coatings
 Fabrication and characterization of in situ gelling oxidized carboxymethyl cellulose/gelatin nanofibers for wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140033
 Metal-organic cages based catalytic hybrid hydrogels for enhanced wound healing: Antibacterial and regenerative effects of Zr-MOC/chitosan composites hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2025.139851
 Injectable vancomycin loaded hyaluronic acid-chitosan hydrogel for the treatment of Staphylococcus aureus septic arthritis.|https://dx.doi.org/10.1016/j.carres.2025.109384
+Enhanced wound healing with a bilayered multifunctional quaternized chitosan-dextran-curcumin construct.|https://dx.doi.org/10.1016/j.carbpol.2024.123195
+Cellulose nanofiber-reinforced antimicrobial and antioxidant multifunctional hydrogel with self-healing, adhesion for enhanced wound healing.|https://dx.doi.org/10.1016/j.carbpol.2024.123189
+Gallic acid-grafted chitosan photothermal hydrogels functionalized with mineralized copper-sericin nanoparticles for MRSA-infected wound management.|https://dx.doi.org/10.1016/j.carbpol.2024.123179
+Versatile poly (deep eutectic solvents) electroactive chitosan eutectogel for infected wound healing and monitoring administration.|https://dx.doi.org/10.1016/j.carbpol.2024.123192
+Self-assembling Bletilla polysaccharide nanogels facilitate healing of acute and infected wounds via inflammation control and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140125

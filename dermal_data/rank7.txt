@@ -10,3 +10,4 @@ Patches containing quercetin microcapsules to ameliorate dermal herpes simplex v
 Human Hair Follicle Mesenchymal Stem Cell-Derived Exosomes Attenuate UVB-Induced Photoaging via the miR-125b-5p/TGF-β1/Smad Axis.|https://dx.doi.org/10.34133/bmr.0121
 A Case of Merkel Cell Carcinoma of Unknown Primary Origin Presenting With High Merkel Cell Polyomavirus DNA Levels in Swabs Obtained From the Normal Skin.|https://dx.doi.org/10.7759/cureus.75837
 Paradoxical dominant negative activity of an immunodeficiency-associated activating PIK3R1 variant.|https://dx.doi.org/10.7554/eLife.94420
+Focal dermal hypoplasia: a probable underrecognized low bone mass disorder secondary to aberrant Wnt signaling.|https://dx.doi.org/10.1007/s00198-024-07382-0

@@ -6,3 +6,4 @@ Development of a Stringent Ex Vivo-Burned Porcine Skin Wound Model to Screen Top
 Corrigendum to "Targeted mupirocin-based decolonization for Staphylococcus aureus carriers and the subsequent risk of mupirocin resistance in haemodialysis patients - a longitudinal study over 20 years" [J Hosp Infect 135 (2023) 55-58].|https://dx.doi.org/10.1016/j.jhin.2024.12.007
 Probiotic viability in the gastrointestinal tract in a randomised placebo controlled trial: combining molecular biology and novel cultivation techniques.|https://dx.doi.org/10.1163/18762891-bja00055
 Betaine combined with traditional Chinese medicine ointment to treat skin wounds in microbially infected diabetic mice.|https://dx.doi.org/10.4239/wjd.v16.i1.99745
+Global Gac/Rsm regulatory system activates the biosynthesis of mupirocin by controlling the MupR/I quorum sensing system in Pseudomonas sp. NCIMB 10586.|https://dx.doi.org/10.1128/aem.01896-24

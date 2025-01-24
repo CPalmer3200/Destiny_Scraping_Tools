@@ -47,3 +47,6 @@ A Prospective, Open-Label, Randomized, Comparative, Investigator-Initiated Study
 Comparative Effectiveness of Amniotic and Chorionic Grafts in the Treatment of Lower-Extremity Diabetic Ulcers Using U.S. Medicare Real-World Evidence (2018-2022): A Retrospective Observational Cohort.|https://dx.doi.org/10.1089/wound.2024.0141
 The infected diabetic foot: Risk factors for re-infection after treatment for diabetic foot osteomyelitis.|https://dx.doi.org/10.1111/wrr.13246
 Prevalence and predictors of infected diabetic foot ulcers (DFU) and DFU-related osteomyelitis amongst industrial workers wearing occupational safety footwear.|https://dx.doi.org/10.1038/s41598-025-86013-y
+Treatment of Onychomycosis and the Drug-Drug Interactions in Patients with Diabetes Mellitus and Diabetic Foot Syndrome: A Systematic Review.|https://dx.doi.org/10.3390/idr17010004
+A novel approach of using transtibial transport (TTT) to manage thromboembolic events following surgical management of necrotizing soft tissue infection: a case report.|https://dx.doi.org/10.3389/fmed.2024.1481388
+Surgical sharp debridement alongside maggot debridement therapy (MDT) for the treatment of diabetic foot ulcers (DFUs): A systematic review of case reports.|https://dx.doi.org/10.1016/j.sipas.2024.100270
