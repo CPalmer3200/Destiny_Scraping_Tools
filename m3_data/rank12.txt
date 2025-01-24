@@ -5,3 +5,5 @@ Analysis of risk factors of Clostridioides difficile infection in patients with 
 TRPV4 modulates inflammatory responses and apoptosis in enteric glial cells triggered by Clostridioides difficile toxins A and B.|https://dx.doi.org/10.1186/s12950-024-00425-7
 Surveillance of Clostridioides difficile on hospital admission and outpatient antibiotic use in Germany-a 9 year ecological analysis.|https://dx.doi.org/10.1093/jac/dkae483
 Fiber- and acetate-mediated modulation of MHC-II expression on intestinal epithelium protects from Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.chom.2024.12.017
+Does routine use of sporicidal disinfectants for all post-discharge hospital rooms reduce environmental contamination with Clostridioides difficile spores?|https://dx.doi.org/10.1016/j.ajic.2025.01.010
+Impacts of perR on oxygen sensitivity, gene expression, and murine infection in Clostridioides difficile 630∆erm.|https://dx.doi.org/10.1128/jb.00468-24
