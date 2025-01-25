@@ -50,3 +50,10 @@ Cellulose nanofiber-reinforced antimicrobial and antioxidant multifunctional hyd
 Gallic acid-grafted chitosan photothermal hydrogels functionalized with mineralized copper-sericin nanoparticles for MRSA-infected wound management.|https://dx.doi.org/10.1016/j.carbpol.2024.123179
 Versatile poly (deep eutectic solvents) electroactive chitosan eutectogel for infected wound healing and monitoring administration.|https://dx.doi.org/10.1016/j.carbpol.2024.123192
 Self-assembling Bletilla polysaccharide nanogels facilitate healing of acute and infected wounds via inflammation control and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140125
+Self-Assembled Peptide Hydrogels PPI45 and PPI47: Novel Drug Candidates for Staphylococcus aureus Infection Treatment.|https://dx.doi.org/10.3390/gels11010063
+Exploring Methacrylated Gellan Gum 3D Bioprinted Patches Loaded with Tannic Acid or L-Ascorbic Acid as Potential Platform for Wound Dressing Application.|https://dx.doi.org/10.3390/gels11010040
+Synergistic Antibacterial Action of Norfloxacin-Encapsulated G4 Hydrogels: The Role of Boronic Acid and Cyclodextrin.|https://dx.doi.org/10.3390/gels11010035
+Encapsulation of Hydrogen Peroxide in PVA/PVP Hydrogels for Medical Applications.|https://dx.doi.org/10.3390/gels11010031
+Release Profile and Antibacterial Activity of Thymus sibthorpii Essential Oil-Incorporated, Optimally Stabilized Type I Collagen Hydrogels.|https://dx.doi.org/10.3390/bioengineering12010089
+Thymoquinone-loaded Nanosized Ethosomal-based Hydrogels: Their Preparation, Characterization, in Vitro, Ex Vivo, and Antimicrobial Evaluation against Staphylococcus aureus.|https://dx.doi.org/10.2174/0109298673341004250101104428
+Highly effective treatment of bacterial infection-accompanied wounds by fat extract-embedded phototherapeutic hydrogel.|https://dx.doi.org/10.1186/s12951-025-03093-8
