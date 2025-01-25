@@ -8,3 +8,4 @@ The evolving landscape of live biotherapeutics in the treatment of Clostridioide
 Current trends in antimicrobial use and the role of antimicrobial stewardship in palliative oncology: a narrative review.|https://dx.doi.org/10.1186/s12904-025-01649-x
 Phenotypic analysis of various Clostridioides difficile ribotypes reveals consistency among core processes.|https://dx.doi.org/10.1101/2025.01.10.632434
 Polysaccharide lyase PL3.3 possibly potentiating Clostridioides difficile clinical symptoms based on complete genome analysis of RT046/ST35 and RT012/ST54.|https://dx.doi.org/10.1007/s10123-025-00634-x
+Cell Wall Protein 2 as a Vaccine Candidate Protects Mice Against Clostridioides difficile Infection.|https://dx.doi.org/10.3390/vaccines13010021
