@@ -57,3 +57,4 @@ Encapsulation of Hydrogen Peroxide in PVA/PVP Hydrogels for Medical Applications
 Release Profile and Antibacterial Activity of Thymus sibthorpii Essential Oil-Incorporated, Optimally Stabilized Type I Collagen Hydrogels.|https://dx.doi.org/10.3390/bioengineering12010089
 Thymoquinone-loaded Nanosized Ethosomal-based Hydrogels: Their Preparation, Characterization, in Vitro, Ex Vivo, and Antimicrobial Evaluation against Staphylococcus aureus.|https://dx.doi.org/10.2174/0109298673341004250101104428
 Highly effective treatment of bacterial infection-accompanied wounds by fat extract-embedded phototherapeutic hydrogel.|https://dx.doi.org/10.1186/s12951-025-03093-8
+Lutein-loaded multifunctional hydrogel dressing based on carboxymethyl chitosan for chronic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140219

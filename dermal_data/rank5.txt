@@ -26,3 +26,5 @@ The Geographical Distribution of Global Biobanks.|https://dx.doi.org/10.22074/ce
 A biocompatible β-cyclodextrin inclusion complex containing natural extracts: a promising antibiofilm agent.|https://dx.doi.org/10.1039/d4na00916a
 Bioactive Glasses: Advancing Skin Tissue Repair through Multifunctional Mechanisms and Innovations.|https://dx.doi.org/10.34133/bmr.0134
 Photodynamic therapy combined with quaternized chitosan antibacterial strategy for instant and prolonged bacterial infection treatment.|https://dx.doi.org/10.1016/j.carbpol.2024.123147
+The Impact of Lactobacillus reuteri on Oral and Systemic Health: A Comprehensive Review of Recent Research.|https://dx.doi.org/10.3390/microorganisms13010045
+Inhibitory Effect of Moringa oleifera Seed Extract and Its Behenic Acid Component on Staphylococcus aureus Biofilm Formation.|https://dx.doi.org/10.3390/antibiotics14010019

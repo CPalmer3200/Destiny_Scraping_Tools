@@ -52,3 +52,7 @@ A novel approach of using transtibial transport (TTT) to manage thromboembolic e
 Surgical sharp debridement alongside maggot debridement therapy (MDT) for the treatment of diabetic foot ulcers (DFUs): A systematic review of case reports.|https://dx.doi.org/10.1016/j.sipas.2024.100270
 Reply to Cosio et al. Glycation of Nail Proteins as a Risk Factor for Onychomycosis. Comment on "Gupta et al. Diabetic Foot and Fungal Infections: Etiology and Management from a Dermatologic Perspective. J. Fungi 2024, 10, 577".|https://dx.doi.org/10.3390/jof11010047
 Glycation of Nail Proteins as a Risk Factor for Onychomycosis. Comment on Gupta et al. Diabetic Foot and Fungal Infections: Etiology and Management from a Dermatologic Perspective. J. Fungi 2024, 10, 577.|https://dx.doi.org/10.3390/jof11010046
+Protective Role of Dietary Polyphenols in the Management and Treatment of Type 2 Diabetes Mellitus.|https://dx.doi.org/10.3390/nu17020275
+Cathelicidins: Opportunities and Challenges in Skin Therapeutics and Clinical Translation.|https://dx.doi.org/10.3390/antibiotics14010001
+Prevalence and Molecular Characterization of Carbapenemase-Producing Multidrug-Resistant Bacteria in Diabetic Foot Ulcer Infections.|https://dx.doi.org/10.3390/diagnostics15020141
+Biochemical strategy-based hybrid hydrogel dressing-mediated in situ synthesis of selenoproteins for DFU immunity-microbiota homeostasis regulation.|https://dx.doi.org/10.1016/j.biomaterials.2025.123114
