@@ -5,3 +5,5 @@ Access in all areas? A roundup of developments in market access and health techn
 Natural History of Clostridioides difficile-related Disease Progression in the Two-Step Testing Era.|https://dx.doi.org/10.1093/cid/ciaf020
 Global burden and trends of the Clostridioides difficile infection-associated diseases from 1990 to 2021: an observational trend study.|https://dx.doi.org/10.1080/07853890.2025.2451762
 Fecal microbiota changes associated with pathogenic and non-pathogenic diarrheas in foals.|https://dx.doi.org/10.1186/s13104-025-07110-9
+Can Gut Microbiota Analysis Reveal Clostridioides difficile Infection? Evidence from an Italian Cohort at Disease Onset.|https://dx.doi.org/10.3390/microorganisms13010016
+Evaluation of Inflammatory Markers and Clinical Outcomes in COVID-19 Patients with Concurrent Clostridioides difficile Infection: A Comparative Cohort Analysis.|https://dx.doi.org/10.3390/biomedicines13010111

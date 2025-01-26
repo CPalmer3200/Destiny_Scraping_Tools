@@ -2,3 +2,4 @@ Effectiveness of oral vancomycin as prophylaxis against Clostridioides difficile
 Phase I trial comparing bile acid and short-chain fatty acid alterations in stool collected from human subjects treated with omadacycline or vancomycin.|https://dx.doi.org/10.1128/aac.01251-24
 Subspecies phylogeny in the human gut revealed by co-evolutionary constraints across the bacterial kingdom.|https://dx.doi.org/10.1016/j.cels.2024.12.008
 Systemic Absorption of Oral and Rectal Vancomycin in a Critically Ill Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.76008
+Metronidazole and Vancomycin Have a Synergic Effect, with Plant Extracts as Helpful Tools to Combat Clostridioides difficile Infections.|https://dx.doi.org/10.3390/antibiotics14010054
