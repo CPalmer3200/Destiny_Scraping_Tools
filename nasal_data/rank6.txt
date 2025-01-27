@@ -1,2 +1,4 @@
 NIAID Workshop Report: Systematic Approaches for ESKAPE Bacteria Antigen Discovery.|https://dx.doi.org/10.3390/vaccines13010087
 Antibiotic Resistance of Staphylococcus aureus Strains-Searching for New Antimicrobial Agents-Review.|https://dx.doi.org/10.3390/ph18010081
+Ribosome pausing in amylase producing Bacillus subtilis during long fermentation.|https://dx.doi.org/10.1186/s12934-025-02659-3
+How likely is it that a virus or bacteria is causing a patient's symptoms? A new approach to interpret the outcome from multi-pathogen PCR.|https://dx.doi.org/10.1080/23744235.2025.2456902
