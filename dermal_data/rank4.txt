@@ -58,3 +58,6 @@ Release Profile and Antibacterial Activity of Thymus sibthorpii Essential Oil-In
 Thymoquinone-loaded Nanosized Ethosomal-based Hydrogels: Their Preparation, Characterization, in Vitro, Ex Vivo, and Antimicrobial Evaluation against Staphylococcus aureus.|https://dx.doi.org/10.2174/0109298673341004250101104428
 Highly effective treatment of bacterial infection-accompanied wounds by fat extract-embedded phototherapeutic hydrogel.|https://dx.doi.org/10.1186/s12951-025-03093-8
 Lutein-loaded multifunctional hydrogel dressing based on carboxymethyl chitosan for chronic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140219
+NIR photo-responsive injectable chitosan/hyaluronic acid hydrogels with controlled NO release for the treatment of MRSA infections.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140304
+Glucose-triggered NIR-responsive photothermal antibacterial gelatin/dextran hydrogel simultaneously targeting the high glucose and infection microenvironment in diabetic wound.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140325
+Multifunctional self-healing and pH-responsive hydrogel dressing based on cationic guar gum and hyaluronic acid for on-demand drug release.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140326

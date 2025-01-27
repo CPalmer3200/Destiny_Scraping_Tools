@@ -28,3 +28,4 @@ Bioactive Glasses: Advancing Skin Tissue Repair through Multifunctional Mechanis
 Photodynamic therapy combined with quaternized chitosan antibacterial strategy for instant and prolonged bacterial infection treatment.|https://dx.doi.org/10.1016/j.carbpol.2024.123147
 The Impact of Lactobacillus reuteri on Oral and Systemic Health: A Comprehensive Review of Recent Research.|https://dx.doi.org/10.3390/microorganisms13010045
 Inhibitory Effect of Moringa oleifera Seed Extract and Its Behenic Acid Component on Staphylococcus aureus Biofilm Formation.|https://dx.doi.org/10.3390/antibiotics14010019
+Iron oleate containing lipid nanoparticles prepared by gradient solvent diffusion method for oxidative stress dependent antibacterial therapy.|https://dx.doi.org/10.1016/j.ijpharm.2025.125264
