@@ -2967,3 +2967,5 @@ Unknown DOI
 10.3390/microorganisms13010016
 10.3390/biomedicines13010111
 10.3390/biomedicines13010227
+10.1016/j.diagmicrobio.2025.116703
+10.1016/j.ejphar.2025.177298
