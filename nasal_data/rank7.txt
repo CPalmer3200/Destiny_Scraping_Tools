@@ -17,3 +17,9 @@ Catheter-Based Aspiration of A Large Superior Vena Cava Mass In A Patient With E
 Carboxylated cellulose nanocrystals mediated flower-like zinc oxide for antimicrobial without activation of light.|https://dx.doi.org/10.1016/j.jcis.2024.12.183
 Enhanced electrical conductivity and antibacterial properties of bacterial cellulose composite membrane decorated with hydroxypropyl-β-cyclodextrin/magnetic particle/alpha-lipoic acid/nano silver.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140281
 Infected pseudoaneurysm caused by suture-mediated vascular closure after ablation of atrial fibrillation: A case report.|https://dx.doi.org/10.1016/j.ijscr.2025.110939
+The Use of Antibiotics Impregnated Bone Cement in Reducing Surgical Site Infections in Spine Surgery: A Systematic Review.|https://dx.doi.org/10.1055/a-2524-9910
+Staphylococcus aureus blocks host autophagy through circSyk/miR-5106/Sik3 axis to promote progression of bone infection.|https://dx.doi.org/10.1371/journal.ppat.1012896
+Shooter's Abscess: Foot Infections in People Who Inject Drugs.|https://dx.doi.org/10.7547/22-122
+Engineered bacillus subtilis enhances bone regeneration via immunoregulation and anti-Infection.|https://dx.doi.org/10.1016/j.bioactmat.2025.01.003
+The Antimicrobial Activity of Zinc Oxide Nanoparticles incorporated into Alginate Impression Material: An In vitro Study.|https://dx.doi.org/10.4103/jispcd.jispcd_112_24
+Functionally enriched human polymorphisms associate to species in the chronic wound microbiome.|https://dx.doi.org/10.1101/2025.01.15.25320612
