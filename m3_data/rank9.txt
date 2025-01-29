@@ -7,3 +7,6 @@ Global burden and trends of the Clostridioides difficile infection-associated di
 Fecal microbiota changes associated with pathogenic and non-pathogenic diarrheas in foals.|https://dx.doi.org/10.1186/s13104-025-07110-9
 Can Gut Microbiota Analysis Reveal Clostridioides difficile Infection? Evidence from an Italian Cohort at Disease Onset.|https://dx.doi.org/10.3390/microorganisms13010016
 Evaluation of Inflammatory Markers and Clinical Outcomes in COVID-19 Patients with Concurrent Clostridioides difficile Infection: A Comparative Cohort Analysis.|https://dx.doi.org/10.3390/biomedicines13010111
+Subcutaneous Lower Pole Release as Double Bubble Prevention in Constricted Base Breasts: The "Plus One" Augmentation Technique.|https://dx.doi.org/10.1093/asj/sjaf014
+Impact of Hepatoblastoma on Infectious Complications Following Pediatric Liver Transplantation.|https://dx.doi.org/10.1111/petr.70035
+Comparing Outcomes and Infection Risk in Medical, Surgical, and Trauma Intensive Care Patients with Alcohol Use Disorder.|https://dx.doi.org/10.1089/sur.2024.044

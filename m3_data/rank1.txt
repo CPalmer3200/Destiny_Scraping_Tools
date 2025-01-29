@@ -11,3 +11,6 @@ Polysaccharide lyase PL3.3 possibly potentiating Clostridioides difficile clini
 Cell Wall Protein 2 as a Vaccine Candidate Protects Mice Against Clostridioides difficile Infection.|https://dx.doi.org/10.3390/vaccines13010021
 Safety and Efficacy of Fecal Microbiota, Live-jslm (REBYOTA®), for the Prevention of Recurrent Clostridioides difficile Infection in Participants With Inflammatory Bowel Disease in PUNCH CD3-OLS.|https://dx.doi.org/10.1093/ibd/izae291
 A Review of Therapies for Clostridioides difficile Infection.|https://dx.doi.org/10.3390/antibiotics14010017
+Prospective analysis of biomarkers associated with successful faecal microbiota transplantation in recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.cmi.2025.01.026
+Identification of two glycosyltransferases required for synthesis of membrane glycolipids in Clostridioides difficile.|https://dx.doi.org/10.1101/2025.01.14.632984
+Impact of adjunct bezlotoxumab for preventing Clostridioides difficile infection recurrence in patients post - hematopoietic stem cell transplantation.|https://dx.doi.org/10.1177/10781552241310099
