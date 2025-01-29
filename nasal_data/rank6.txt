@@ -3,3 +3,5 @@ Antibiotic Resistance of Staphylococcus aureus Strains-Searching for New Antimic
 Ribosome pausing in amylase producing Bacillus subtilis during long fermentation.|https://dx.doi.org/10.1186/s12934-025-02659-3
 How likely is it that a virus or bacteria is causing a patient's symptoms? A new approach to interpret the outcome from multi-pathogen PCR.|https://dx.doi.org/10.1080/23744235.2025.2456902
 Commentary on Abernathy-Close et al: Study on Mupirocin Treatment in Cutaneous Lupus Erythematosus.|https://dx.doi.org/10.1002/art.43126
+Evaluation of the safety and immune protection of OMPAC, PAPF, and EBPSs recombinant subunit vaccines Developed for Escherichia coli, Staphylococcus aureus, and Streptococcus agalactiae in mice.|https://dx.doi.org/10.1016/j.intimp.2025.114151
+Oral care methods to reduce salivary bacteria in infants undergoing cardiac surgery: A randomized controlled trial.|https://dx.doi.org/10.1016/j.jds.2024.07.035
