@@ -29,3 +29,9 @@ Photodynamic therapy combined with quaternized chitosan antibacterial strategy f
 The Impact of Lactobacillus reuteri on Oral and Systemic Health: A Comprehensive Review of Recent Research.|https://dx.doi.org/10.3390/microorganisms13010045
 Inhibitory Effect of Moringa oleifera Seed Extract and Its Behenic Acid Component on Staphylococcus aureus Biofilm Formation.|https://dx.doi.org/10.3390/antibiotics14010019
 Iron oleate containing lipid nanoparticles prepared by gradient solvent diffusion method for oxidative stress dependent antibacterial therapy.|https://dx.doi.org/10.1016/j.ijpharm.2025.125264
+The high-osmolarity glycerol (HOG) pathway in Candida auris.|https://dx.doi.org/10.1128/mbio.03538-24
+Treatment of chronic wounds of the lower limb with the use of VAC-therapy. Impact on immunity and bacterial films.|https://dx.doi.org/10.36740/WLek/195551
+Effective killing of Mycobacterium abscessus biofilm by nanoemulsion delivery of plant phytochemicals.|https://dx.doi.org/10.1128/spectrum.02166-24
+Tissue Selective Ultrasonic Debridement with Cryopreserved Human Skin Allograft to Heal a Chronic Wound: A Case Report.|https://dx.doi.org/10.7547/22-180
+Hindcasting Farmed Salmon Mortality to Improve Future Health and Production Outcomes.|https://dx.doi.org/10.1111/jfd.14058
+Dendritic Antifungal Peptides as Potent Agents against Drug-Resistant Candida albicans and Biofilm.|https://dx.doi.org/10.1021/acs.jmedchem.4c02598
