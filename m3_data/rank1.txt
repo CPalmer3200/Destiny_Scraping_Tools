@@ -14,3 +14,5 @@ A Review of Therapies for Clostridioides difficile Infection.|https://dx.doi.org
 Prospective analysis of biomarkers associated with successful faecal microbiota transplantation in recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.cmi.2025.01.026
 Identification of two glycosyltransferases required for synthesis of membrane glycolipids in Clostridioides difficile.|https://dx.doi.org/10.1101/2025.01.14.632984
 Impact of adjunct bezlotoxumab for preventing Clostridioides difficile infection recurrence in patients post - hematopoietic stem cell transplantation.|https://dx.doi.org/10.1177/10781552241310099
+[The gastrointestinal microbiome - vision and mission].|https://dx.doi.org/10.1055/a-2303-3368
+[Nosocomial gastrointestinal infections and Clostridioides difficile].|https://dx.doi.org/10.1055/a-2303-3321
