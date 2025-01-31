@@ -16,3 +16,6 @@ Identification of two glycosyltransferases required for synthesis of membrane gl
 Impact of adjunct bezlotoxumab for preventing Clostridioides difficile infection recurrence in patients post - hematopoietic stem cell transplantation.|https://dx.doi.org/10.1177/10781552241310099
 [The gastrointestinal microbiome - vision and mission].|https://dx.doi.org/10.1055/a-2303-3368
 [Nosocomial gastrointestinal infections and Clostridioides difficile].|https://dx.doi.org/10.1055/a-2303-3321
+Reactions of SleC, Its Structure and Inhibition in Mitigation of Spore Germination in Clostridioides difficile.|https://dx.doi.org/10.1021/jacs.4c14976
+Clostridioides difficile recovered from hospital patients, livestock and dogs in Nigeria share near-identical genome sequences.|https://dx.doi.org/10.1099/mgen.0.001342
+Gastroenterological Surgery and Management of Clostridioides difficile Infection: A Review.|https://dx.doi.org/10.23922/jarc.2024-078

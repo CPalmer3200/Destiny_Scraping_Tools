@@ -4,3 +4,4 @@ Subspecies phylogeny in the human gut revealed by co-evolutionary constraints ac
 Systemic Absorption of Oral and Rectal Vancomycin in a Critically Ill Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.76008
 Metronidazole and Vancomycin Have a Synergic Effect, with Plant Extracts as Helpful Tools to Combat Clostridioides difficile Infections.|https://dx.doi.org/10.3390/antibiotics14010054
 Whole genome sequencing characterization of Clostridioides difficile from Bulgaria during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.116703
+Global insights into the genome dynamics of Clostridioides difficile associated with antimicrobial resistance, virulence, and genomic adaptations among clonal lineages.|https://dx.doi.org/10.3389/fcimb.2024.1493225

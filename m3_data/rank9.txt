@@ -10,3 +10,4 @@ Evaluation of Inflammatory Markers and Clinical Outcomes in COVID-19 Patients wi
 Subcutaneous Lower Pole Release as Double Bubble Prevention in Constricted Base Breasts: The "Plus One" Augmentation Technique.|https://dx.doi.org/10.1093/asj/sjaf014
 Impact of Hepatoblastoma on Infectious Complications Following Pediatric Liver Transplantation.|https://dx.doi.org/10.1111/petr.70035
 Comparing Outcomes and Infection Risk in Medical, Surgical, and Trauma Intensive Care Patients with Alcohol Use Disorder.|https://dx.doi.org/10.1089/sur.2024.044
+Control of Clostridioides difficile virulence and physiology by the flagellin homeostasis checkpoint FliC-FliW-CsrA in the absence of motility.|https://dx.doi.org/10.1128/mbio.03801-24

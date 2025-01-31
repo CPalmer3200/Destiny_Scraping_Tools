@@ -9,3 +9,5 @@ Impact of order set implementation on appropriate treatment of community-acquire
 Development and Psychometric Validation of a Comprehensive Questionnaire to Assess Oncologists' Knowledge of Chemotherapy-Drug Interaction.|https://dx.doi.org/10.1007/s13187-025-02569-3
 Development of a drug allergy alert tiering algorithm for penicillins and cephalosporins.|https://dx.doi.org/10.1016/j.ijmedinf.2025.105789
 Comments and Illustrations of the European Federation of Societies for Ultrasound in Medicine Guidelines: Benign Pleura Lesions (Benign Pleura Thickening, Lesions and Masses)-What Can Be Seen on Transthoracic Ultrasound?|https://dx.doi.org/10.3390/diagnostics15020176
+A community-based approach to address lung cancer screening disparities in the black community using the Witness Project(®) framework: development and pilot trial.|https://dx.doi.org/10.1186/s12889-025-21623-9
+Antimicrobial susceptibility testing of Clostridioides difficile: a dual-site study of three different media and three therapeutic antimicrobials.|https://dx.doi.org/10.1016/j.cmi.2025.01.028
