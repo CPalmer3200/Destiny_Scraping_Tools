@@ -30,3 +30,13 @@ Bacterial surgical site infections: prevalence, antimicrobial susceptibility pat
 Ultrasound-Guided Diagnosis and Percutaneous Drainage in Subacute Necrotizing Fasciitis of the Lower Extremities: A Report of Two Cases.|https://dx.doi.org/10.7759/cureus.76541
 Antibiotic susceptibility and molecular characterization based on whole-genome sequencing of Staphylococcus aureus causing invasive infection in children and women living in Southwest China during 2018-2023.|https://dx.doi.org/10.1186/s12866-025-03758-2
 Infective endocarditis following transcatheter mitral valve-in-valve replacement: a clinical case report.|https://dx.doi.org/10.1186/s12872-025-04524-y
+Changing dynamics of bloodstream infections due to methicillin-resistant Staphylococcus aureus and vancomycin-resistant Enterococcus faecium in Germany, 2017-2023: a continued burden of disease approach.|https://dx.doi.org/10.1186/s13756-025-01522-9
+Surgical Site Infection Arising from the Operating Room.|https://dx.doi.org/10.1016/j.cnur.2024.07.003
+Recurrence of skin and soft tissue infections: identifying risk factors and treatment strategies.|https://dx.doi.org/10.1097/QCO.0000000000001096
+Concurrent presence of Staphylococcal Cassette Chromosome mec types of Meticillin-Resistant Staphylococcus aureus in hospital environments and post-operative patients at a hospital in Kathmandu, Nepal.|https://dx.doi.org/10.1016/j.infpip.2024.100436
+Management of Ankle Fracture Wounds Using Urinary Bladder Matrix: A Case Report.|https://dx.doi.org/10.7759/cureus.76584
+Modeling and simulation of distribution and drug resistance of major pathogens in patients with respiratory system infections.|https://dx.doi.org/10.1186/s12879-025-10549-7
+Maxillary MRSA osteomyelitis in a paediatric patient: non-surgical management.|https://dx.doi.org/10.1136/bcr-2024-263580
+Zn-doped CaP coating equips Ti implants with corrosion resistance, biomineralization, antibacterial and immunotolerant activities.|https://dx.doi.org/10.1016/j.jare.2025.01.045
+Evidence that staphylococcal superantigens promote within-patient bacterial persistence following post-operative surgical site infection.|https://dx.doi.org/10.1128/iai.00407-24
+[Effects of Chlorhexidine Gluconate Bathing Applied to Cancer Patients on MRSA and VRE Colonization: A Cross-Over Design Study].|https://dx.doi.org/10.5578/mb.20250189

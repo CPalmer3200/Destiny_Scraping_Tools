@@ -5,3 +5,5 @@ How likely is it that a virus or bacteria is causing a patient's symptoms? A new
 Commentary on Abernathy-Close et al: Study on Mupirocin Treatment in Cutaneous Lupus Erythematosus.|https://dx.doi.org/10.1002/art.43126
 Evaluation of the safety and immune protection of OMPAC, PAPF, and EBPSs recombinant subunit vaccines Developed for Escherichia coli, Staphylococcus aureus, and Streptococcus agalactiae in mice.|https://dx.doi.org/10.1016/j.intimp.2025.114151
 Oral care methods to reduce salivary bacteria in infants undergoing cardiac surgery: A randomized controlled trial.|https://dx.doi.org/10.1016/j.jds.2024.07.035
+Discovery of viruses and bacteria associated with swine respiratory disease on farms at a nationwide scale in China using metatranscriptomic and metagenomic sequencing.|https://dx.doi.org/10.1128/msystems.00025-25
+Innovative epitopes in Staphylococcal Protein-A an immuno-informatics approach to combat MDR-MRSA infections.|https://dx.doi.org/10.3389/fcimb.2024.1503944
