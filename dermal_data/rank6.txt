@@ -5,3 +5,4 @@ Ecthyma amidst the global monkeypox outbreak: A key differential? -A case series
 Single-cell sequencing of human Langerhans cells identifies altered gene expression profiles in patients with atopic dermatitis.|https://dx.doi.org/10.1093/immhor/vlae009
 Anti-Inflammatory Potential and Synergic Activities of Eclipta prostrata (L.) L. Leaf-Derived Ointment Formulation in Combination with the Non-Steroidal Anti-Inflammatory Drug Diclofenac in Suppressing Atopic Dermatitis (AD).|https://dx.doi.org/10.3390/life15010035
 Skin Microbiota: Mediator of Interactions Between Metabolic Disorders and Cutaneous Health and Disease.|https://dx.doi.org/10.3390/microorganisms13010161
+Skin microbiota: pathogenic roles and implications in atopic dermatitis.|https://dx.doi.org/10.3389/fcimb.2024.1518811

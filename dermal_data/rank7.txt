@@ -13,3 +13,5 @@ Paradoxical dominant negative activity of an immunodeficiency-associated activat
 Focal dermal hypoplasia: a probable underrecognized low bone mass disorder secondary to aberrant Wnt signaling.|https://dx.doi.org/10.1007/s00198-024-07382-0
 Chloramphenicol glycoside derivative: A way to overcome its antimicrobial resistance and toxicity.|https://dx.doi.org/10.1016/j.carres.2025.109387
 Polyphenolic Hispolon Derived from Medicinal Mushrooms of the Inonotus and Phellinus Genera Promotes Wound Healing in Hyperglycemia-Induced Impairments.|https://dx.doi.org/10.3390/nu17020266
+Zika virus modulates human fibroblasts to enhance transmission success in a controlled lab-setting.|https://dx.doi.org/10.1038/s42003-025-07543-9
+The circulating plasma microRNA signature in human visceral leishmaniasis.|https://dx.doi.org/10.1128/msphere.00646-24

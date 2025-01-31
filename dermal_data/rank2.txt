@@ -60,3 +60,5 @@ Diabetic foot infections in internal medicine services in spain (2018-2022).|htt
 The Role of Serum HMGB-1 Level in Differentiating the Soft-Tissue Infection From Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.7547/22-209
 Determining the optimal antibiotic duration for skin and soft tissue infections.|https://dx.doi.org/10.1097/QCO.0000000000001098
 Impact of ozone concentration on the treatment effectiveness of diabetic foot syndrome: a pilot single-centre study.|https://dx.doi.org/10.5114/ada.2024.145477
+Risk factors, microbiology, and prognosis of diabetic foot osteomyelitis: a retrospective cohort study.|https://dx.doi.org/10.1016/j.eprac.2025.01.007
+(18)F-FDG PET/CT in Inflammation and Infection: Procedural Guideline by the Korean Society of Nuclear Medicine.|https://dx.doi.org/10.1007/s13139-024-00894-x

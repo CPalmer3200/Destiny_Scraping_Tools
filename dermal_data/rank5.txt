@@ -35,3 +35,4 @@ Effective killing of Mycobacterium abscessus biofilm by nanoemulsion delivery of
 Tissue Selective Ultrasonic Debridement with Cryopreserved Human Skin Allograft to Heal a Chronic Wound: A Case Report.|https://dx.doi.org/10.7547/22-180
 Hindcasting Farmed Salmon Mortality to Improve Future Health and Production Outcomes.|https://dx.doi.org/10.1111/jfd.14058
 Dendritic Antifungal Peptides as Potent Agents against Drug-Resistant Candida albicans and Biofilm.|https://dx.doi.org/10.1021/acs.jmedchem.4c02598
+A targeted and synergetic nano-delivery system against Pseudomonas aeruginosa infection for promoting wound healing.|https://dx.doi.org/10.1016/j.mtbio.2025.101470
