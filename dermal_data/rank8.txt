@@ -8,3 +8,6 @@ Probiotic viability in the gastrointestinal tract in a randomised placebo contro
 Betaine combined with traditional Chinese medicine ointment to treat skin wounds in microbially infected diabetic mice.|https://dx.doi.org/10.4239/wjd.v16.i1.99745
 Global Gac/Rsm regulatory system activates the biosynthesis of mupirocin by controlling the MupR/I quorum sensing system in Pseudomonas sp. NCIMB 10586.|https://dx.doi.org/10.1128/aem.01896-24
 Ribosome pausing in amylase producing Bacillus subtilis during long fermentation.|https://dx.doi.org/10.1186/s12934-025-02659-3
+Quorum Sensing Coordinates Carbon and Nitrogen Metabolism to Optimize Public Goods Production in Pseudomonas fluorescens 2P24.|https://dx.doi.org/10.1002/advs.202412224
+Commentary on Abernathy-Close et al: Study on Mupirocin Treatment in Cutaneous Lupus Erythematosus.|https://dx.doi.org/10.1002/art.43126
+Heterogeneity in preoperative Staphylococcus aureus screening and decolonization strategies among healthcare institutions.|https://dx.doi.org/10.1017/ice.2024.231

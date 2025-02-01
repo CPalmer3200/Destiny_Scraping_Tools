@@ -62,3 +62,5 @@ Determining the optimal antibiotic duration for skin and soft tissue infections.
 Impact of ozone concentration on the treatment effectiveness of diabetic foot syndrome: a pilot single-centre study.|https://dx.doi.org/10.5114/ada.2024.145477
 Risk factors, microbiology, and prognosis of diabetic foot osteomyelitis: a retrospective cohort study.|https://dx.doi.org/10.1016/j.eprac.2025.01.007
 (18)F-FDG PET/CT in Inflammation and Infection: Procedural Guideline by the Korean Society of Nuclear Medicine.|https://dx.doi.org/10.1007/s13139-024-00894-x
+Application of novel strategies in chronic wound management with focusing on pressure ulcers: new perspective.|https://dx.doi.org/10.1007/s00403-024-03790-8
+Revealing the promising era of silk-based nanotherapeutics: a ray of hope for chronic wound healing treatment.|https://dx.doi.org/10.1007/s00210-024-03761-w

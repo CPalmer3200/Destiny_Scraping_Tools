@@ -7,3 +7,6 @@ Study on metabolic disorders in rat liver induced by different times after scald
 What are the general public's expectations about the likely duration of common acute infections? A cross-sectional survey of Australian residents.|https://dx.doi.org/10.1136/bmjopen-2024-090190
 Clinical-Microbial Synergy: Mapping Microbiological Profiles to Clinical Attributes in Skin and Soft Tissue Infections.|https://dx.doi.org/10.29271/jcpsp.2025.01.49
 Red and blue LED light increases the survival rate of random skin flaps in rats after MRSA infection.|https://dx.doi.org/10.1007/s10103-025-04294-1
+Scratching promotes allergic inflammation and host defense via neurogenic mast cell activation.|https://dx.doi.org/10.1126/science.adn9390
+Antibiotic susceptibility and molecular characterization based on whole-genome sequencing of Staphylococcus aureus causing invasive infection in children and women living in Southwest China during 2018-2023.|https://dx.doi.org/10.1186/s12866-025-03758-2
+Shooter's Abscess: Foot Infections in People Who Inject Drugs.|https://dx.doi.org/10.7547/22-122
