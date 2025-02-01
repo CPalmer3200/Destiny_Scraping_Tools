@@ -40,3 +40,6 @@ Maxillary MRSA osteomyelitis in a paediatric patient: non-surgical management.|h
 Zn-doped CaP coating equips Ti implants with corrosion resistance, biomineralization, antibacterial and immunotolerant activities.|https://dx.doi.org/10.1016/j.jare.2025.01.045
 Evidence that staphylococcal superantigens promote within-patient bacterial persistence following post-operative surgical site infection.|https://dx.doi.org/10.1128/iai.00407-24
 [Effects of Chlorhexidine Gluconate Bathing Applied to Cancer Patients on MRSA and VRE Colonization: A Cross-Over Design Study].|https://dx.doi.org/10.5578/mb.20250189
+Staphylococcus lugdunensis does not exert competitive exclusion on human corneocytes.|https://dx.doi.org/10.1099/mic.0.001522
+Oral antibiotic prophylaxis induces changes in the microbiology of surgical site infection after colorectal surgery. A matched comparative study.|https://dx.doi.org/10.1111/codi.70008
+Epidemiology of Methicillin-resistant Staphylococcus aureus Colonization in Neonates within Neonatal Intensive Care Units: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.4103/jgid.jgid_95_24

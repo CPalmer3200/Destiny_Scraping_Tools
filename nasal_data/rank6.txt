@@ -7,3 +7,4 @@ Evaluation of the safety and immune protection of OMPAC, PAPF, and EBPSs recombi
 Oral care methods to reduce salivary bacteria in infants undergoing cardiac surgery: A randomized controlled trial.|https://dx.doi.org/10.1016/j.jds.2024.07.035
 Discovery of viruses and bacteria associated with swine respiratory disease on farms at a nationwide scale in China using metatranscriptomic and metagenomic sequencing.|https://dx.doi.org/10.1128/msystems.00025-25
 Innovative epitopes in Staphylococcal Protein-A an immuno-informatics approach to combat MDR-MRSA infections.|https://dx.doi.org/10.3389/fcimb.2024.1503944
+Quorum Sensing Coordinates Carbon and Nitrogen Metabolism to Optimize Public Goods Production in Pseudomonas fluorescens 2P24.|https://dx.doi.org/10.1002/advs.202412224
