@@ -9,3 +9,4 @@ Does routine use of sporicidal disinfectants for all post-discharge hospital roo
 Impacts of perR on oxygen sensitivity, gene expression, and murine infection in Clostridioides difficile 630∆erm.|https://dx.doi.org/10.1128/jb.00468-24
 Inflammatory Markers and Severity in COVID-19 Patients with Clostridioides Difficile Co-Infection: A Retrospective Analysis Including Subgroups with Diabetes, Cancer, and Elderly.|https://dx.doi.org/10.3390/biomedicines13010227
 Examining the impact of clinical features and built environment on risk of hospital onset Clostridioides difficile infection.|https://dx.doi.org/10.1017/ice.2024.239
+Major Systemic Lupus Erythematosus Exacerbation after Severe Clostridium Difficile Infection: A Case Report.|https://dx.doi.org/10.31138/mjr.190224.msl

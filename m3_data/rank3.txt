@@ -11,3 +11,5 @@ Development of a drug allergy alert tiering algorithm for penicillins and cephal
 Comments and Illustrations of the European Federation of Societies for Ultrasound in Medicine Guidelines: Benign Pleura Lesions (Benign Pleura Thickening, Lesions and Masses)-What Can Be Seen on Transthoracic Ultrasound?|https://dx.doi.org/10.3390/diagnostics15020176
 A community-based approach to address lung cancer screening disparities in the black community using the Witness Project(®) framework: development and pilot trial.|https://dx.doi.org/10.1186/s12889-025-21623-9
 Antimicrobial susceptibility testing of Clostridioides difficile: a dual-site study of three different media and three therapeutic antimicrobials.|https://dx.doi.org/10.1016/j.cmi.2025.01.028
+Use of Machine Learning to Assess the Management of Uncomplicated Urinary Tract Infection.|https://dx.doi.org/10.1001/jamanetworkopen.2024.56950
+Improved Clinical Outcomes with Appropriate Meropenem De-escalation in Patients with Febrile Neutropenia.|https://dx.doi.org/10.4103/jgid.jgid_192_23
