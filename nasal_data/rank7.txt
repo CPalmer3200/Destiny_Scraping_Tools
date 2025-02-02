@@ -43,3 +43,6 @@ Evidence that staphylococcal superantigens promote within-patient bacterial pers
 Staphylococcus lugdunensis does not exert competitive exclusion on human corneocytes.|https://dx.doi.org/10.1099/mic.0.001522
 Oral antibiotic prophylaxis induces changes in the microbiology of surgical site infection after colorectal surgery. A matched comparative study.|https://dx.doi.org/10.1111/codi.70008
 Epidemiology of Methicillin-resistant Staphylococcus aureus Colonization in Neonates within Neonatal Intensive Care Units: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.4103/jgid.jgid_95_24
+Analysis of antimicrobial resistance and clinical features of Staphylococcus aureus-infected bone and joint infections in children.|https://dx.doi.org/10.1186/s12887-025-05433-x
+Transcatheter aortic valve implantation: Association between skin flora and infective endocarditis?|https://dx.doi.org/10.1016/j.acvd.2024.12.007
+Curcumin-laden hydrogel coating medical device for periprosthetic joint infection prevention and control.|https://dx.doi.org/10.1016/j.ijpharm.2025.125283
