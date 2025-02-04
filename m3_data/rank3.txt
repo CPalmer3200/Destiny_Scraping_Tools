@@ -13,3 +13,4 @@ A community-based approach to address lung cancer screening disparities in the b
 Antimicrobial susceptibility testing of Clostridioides difficile: a dual-site study of three different media and three therapeutic antimicrobials.|https://dx.doi.org/10.1016/j.cmi.2025.01.028
 Use of Machine Learning to Assess the Management of Uncomplicated Urinary Tract Infection.|https://dx.doi.org/10.1001/jamanetworkopen.2024.56950
 Improved Clinical Outcomes with Appropriate Meropenem De-escalation in Patients with Febrile Neutropenia.|https://dx.doi.org/10.4103/jgid.jgid_192_23
+Defining Fulminant Clostridioides difficile Infections: Assessing the Utility of Hypotension as a Diagnostic Criterion.|https://dx.doi.org/10.1093/ofid/ofaf033

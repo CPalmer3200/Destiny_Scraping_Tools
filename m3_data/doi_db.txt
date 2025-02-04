@@ -2988,3 +2988,7 @@ Unknown DOI
 10.1001/jamanetworkopen.2024.56950
 10.4103/jgid.jgid_192_23
 10.31138/mjr.190224.msl
+10.7759/cureus.76754
+10.1093/ofid/ofaf033
+10.1007/s10461-025-04647-5
+10.1093/crocol/otae083
