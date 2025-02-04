@@ -46,3 +46,6 @@ Epidemiology of Methicillin-resistant Staphylococcus aureus Colonization in Neon
 Analysis of antimicrobial resistance and clinical features of Staphylococcus aureus-infected bone and joint infections in children.|https://dx.doi.org/10.1186/s12887-025-05433-x
 Transcatheter aortic valve implantation: Association between skin flora and infective endocarditis?|https://dx.doi.org/10.1016/j.acvd.2024.12.007
 Curcumin-laden hydrogel coating medical device for periprosthetic joint infection prevention and control.|https://dx.doi.org/10.1016/j.ijpharm.2025.125283
+Enhanced penetration and biofilm eradication by sophorolipid micelles encapsulating Honokiol: a comprehensive solution for biofilm-associated lung infections.|https://dx.doi.org/10.1186/s12951-025-03144-0
+A Case of Pulmonary Artery Endarteritis With Patent Ductus Arteriosus.|https://dx.doi.org/10.7759/cureus.76696
+Localized propranolol delivery from a copper-loaded hydrogel for enhancing infected burn wound healing via adrenergic β-receptor blockade.|https://dx.doi.org/10.1016/j.mtbio.2024.101417
