@@ -3,3 +3,5 @@ Mechanically robust calcium alginate/polyacrylamide/tannic acid hydrogel with su
 Doxycycline-integrated silk fibroin hydrogel: preparation, characterizations, and antimicrobial assessment for biomedical applications.|https://dx.doi.org/10.1186/s12903-025-05568-4
 Curcumin-laden hydrogel coating medical device for periprosthetic joint infection prevention and control.|https://dx.doi.org/10.1016/j.ijpharm.2025.125283
 Investigation of physicochemical, morphological and biomedical properties of network hydrogels derived from arabinogalactan of acacia-tragacanth gum.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140477
+Preparation and characterization of multifunctional cellulose-based materials modified by hyperbranched polyamide.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140641
+Injectable iodine-containing peptide hydrogel for treatment of MRSA infection.|https://dx.doi.org/10.1016/j.bioactmat.2025.01.010
