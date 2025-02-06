@@ -51,3 +51,8 @@ A Case of Pulmonary Artery Endarteritis With Patent Ductus Arteriosus.|https://d
 Localized propranolol delivery from a copper-loaded hydrogel for enhancing infected burn wound healing via adrenergic β-receptor blockade.|https://dx.doi.org/10.1016/j.mtbio.2024.101417
 Microbiological Profile and Outcome of Surgical Site Infections Following Orthopedic Surgeries in a Tertiary Care Hospital.|https://dx.doi.org/10.7759/cureus.76874
 Diagnosis of Genital Tuberculosis Unveiled by Utero-Cutaneous Fistula and Superimposed MRSA Infection: A Case Report.|https://dx.doi.org/10.2174/0118715265350486250102101626
+Real-time multimodal imaging of daptomycin action on the cell wall of adherent Staphylococcus aureus.|https://dx.doi.org/10.1186/s13104-025-07130-5
+Antibiotic susceptibility of pathogens isolated in respiratory tract samples of recently hospitalized patients.|https://dx.doi.org/10.1128/spectrum.01422-24
+Molecular investigation of Staphylococcus aureus isolated from inanimate surfaces in Jordanian hospitals.|https://dx.doi.org/10.1590/1519-6984.285397
+Antibacterial and antibiofilm efficacy of quercetin against Pseudomonas aeruginosa and methicillin resistant Staphylococcus aureus associated with ICU infections.|https://dx.doi.org/10.1080/08927014.2025.2460491
+Staphylococcus aureus induces mitophagy via the HDAC11/IL10 pathway to sustain intracellular survival.|https://dx.doi.org/10.1186/s12967-025-06161-7
