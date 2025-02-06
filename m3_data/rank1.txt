@@ -20,3 +20,4 @@ Reactions of SleC, Its Structure and Inhibition in Mitigation of Spore Germinati
 Clostridioides difficile recovered from hospital patients, livestock and dogs in Nigeria share near-identical genome sequences.|https://dx.doi.org/10.1099/mgen.0.001342
 Gastroenterological Surgery and Management of Clostridioides difficile Infection: A Review.|https://dx.doi.org/10.23922/jarc.2024-078
 Rare Presentation of Splenic Abscess Secondary to Clostridioides difficile Infection in a Patient With Systemic Sclerosis: A Case Report.|https://dx.doi.org/10.7759/cureus.76754
+Correction to: A Randomized Controlled Trial of Efficacy and Safety of Fecal Microbiota Transplant for Preventing Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciaf032
