@@ -21,3 +21,6 @@ Clostridioides difficile recovered from hospital patients, livestock and dogs in
 Gastroenterological Surgery and Management of Clostridioides difficile Infection: A Review.|https://dx.doi.org/10.23922/jarc.2024-078
 Rare Presentation of Splenic Abscess Secondary to Clostridioides difficile Infection in a Patient With Systemic Sclerosis: A Case Report.|https://dx.doi.org/10.7759/cureus.76754
 Correction to: A Randomized Controlled Trial of Efficacy and Safety of Fecal Microbiota Transplant for Preventing Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciaf032
+Days of antibiotic spectrum coverage (DASC) as predictors of recurrent Clostridioides difficile infection: A retrospective cohort study.|https://dx.doi.org/10.1016/j.jiac.2025.102650
+Clostridioides difficile infection study models and prospectives for probing the microbe-host interface.|https://dx.doi.org/10.1128/jb.00407-24
+Detection of Human Y Chromosome and the SRY Gene in Fecal Samples of Female Patients Following Fecal Microbiota Transplantation.|https://dx.doi.org/10.1016/j.gastha.2024.10.008
