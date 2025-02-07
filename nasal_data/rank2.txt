@@ -4,3 +4,4 @@ Chronic Cough, Dyspnea, and a Novel CCDC39 Variant: A Case Report of Heterotaxy 
 Association between biosecurity and zoonotic transmission of LA-MRSA CC398 from industrial pig farms to farm workers and their household members.|https://dx.doi.org/10.1136/oemed-2024-109620
 Streptococcal Toxic Shock Syndrome (STSS) Secondary to Monoarticular Septic Arthritis Leading to Multiorgan Failure in a Patient without Underlying Comorbidities: Emphasizing Early Diagnosis and Management Strategies.|https://dx.doi.org/10.2174/0118715265326740241218080319
 Occurrence of Staphylococcus aureus, Staphylococcus epidermidis, and Staphylococcus pseudintermedius colonization among veterinarians in the province of Malaga, Spain.|https://dx.doi.org/10.14202/vetworld.2024.2719-2724
+Synergistic effects of zP-1 phage and ampicillin against methicillin-resistant Staphylococcus aureus isolated from hospital staff.|https://dx.doi.org/10.1007/s11845-025-03898-4

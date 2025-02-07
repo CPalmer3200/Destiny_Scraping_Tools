@@ -9,3 +9,5 @@ Discovery of viruses and bacteria associated with swine respiratory disease on f
 Innovative epitopes in Staphylococcal Protein-A an immuno-informatics approach to combat MDR-MRSA infections.|https://dx.doi.org/10.3389/fcimb.2024.1503944
 Quorum Sensing Coordinates Carbon and Nitrogen Metabolism to Optimize Public Goods Production in Pseudomonas fluorescens 2P24.|https://dx.doi.org/10.1002/advs.202412224
 Nasopharyngeal Carriage and Antibiotic Resistance in Children With Sickle Cell Disease: The DREPANOBACT French Multicenter Prospective Study.|https://dx.doi.org/10.1097/INF.0000000000004744
+Complete genome sequence of the Staphylococcus aureus NCCP 11854 isolated from a food-poisoning patient in the Republic of Korea.|https://dx.doi.org/10.1128/mra.01101-24
+Global insights into MRSA bacteremia: a bibliometric analysis and future outlook.|https://dx.doi.org/10.3389/fmicb.2024.1516584
