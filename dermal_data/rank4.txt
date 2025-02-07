@@ -5,3 +5,5 @@ Curcumin-laden hydrogel coating medical device for periprosthetic joint infectio
 Investigation of physicochemical, morphological and biomedical properties of network hydrogels derived from arabinogalactan of acacia-tragacanth gum.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140477
 Preparation and characterization of multifunctional cellulose-based materials modified by hyperbranched polyamide.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140641
 Injectable iodine-containing peptide hydrogel for treatment of MRSA infection.|https://dx.doi.org/10.1016/j.bioactmat.2025.01.010
+Double-network hydrogel dressing regulated by cationic polymer-grafted bacterial cellulose for promote rapid healing of infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2025.123257
+Konjac glucomannan/xanthan gum hydrogels loaded with metal-phenolic networks encapsulated probiotic to promote infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.123243
