@@ -16,3 +16,4 @@ Improved Clinical Outcomes with Appropriate Meropenem De-escalation in Patients 
 Defining Fulminant Clostridioides difficile Infections: Assessing the Utility of Hypotension as a Diagnostic Criterion.|https://dx.doi.org/10.1093/ofid/ofaf033
 Multi-Matrix HPLC Investigation of Preservatives Employing a Recent Validated Method: A Monte Carlo Simulation Approach to Health Risks in Bangladeshi Processed Foods and Healthcare.|https://dx.doi.org/10.1016/j.fct.2025.115282
 Two Conventional Implants versus Four Mini-Dental Implants to Retain Mandibular Overdentures: A Systematic Review of Clinical and Radiological Outcomes.|https://dx.doi.org/10.1563/aaid-joi-D-24-00229
+Abundant geographical divergence of Clostridioides difficile infection in China: a prospective multicenter cross-sectional study.|https://dx.doi.org/10.1186/s12879-025-10552-y
