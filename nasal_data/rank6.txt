@@ -11,3 +11,5 @@ Quorum Sensing Coordinates Carbon and Nitrogen Metabolism to Optimize Public Goo
 Nasopharyngeal Carriage and Antibiotic Resistance in Children With Sickle Cell Disease: The DREPANOBACT French Multicenter Prospective Study.|https://dx.doi.org/10.1097/INF.0000000000004744
 Complete genome sequence of the Staphylococcus aureus NCCP 11854 isolated from a food-poisoning patient in the Republic of Korea.|https://dx.doi.org/10.1128/mra.01101-24
 Global insights into MRSA bacteremia: a bibliometric analysis and future outlook.|https://dx.doi.org/10.3389/fmicb.2024.1516584
+Killed whole-cell Staphylococcus aureus formulation in Montanide ISA266 and Alum adjuvants: different vaccine formulations varied in the vaccine's potency and efficacy.|https://dx.doi.org/10.1007/s12026-025-09602-z
+Proline isomerization modulates the bacterial IsdB/hemoglobin interaction: an atomic force spectroscopy study.|https://dx.doi.org/10.1186/s11671-025-04182-1

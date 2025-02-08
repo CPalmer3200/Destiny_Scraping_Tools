@@ -56,3 +56,6 @@ Antibiotic susceptibility of pathogens isolated in respiratory tract samples of 
 Molecular investigation of Staphylococcus aureus isolated from inanimate surfaces in Jordanian hospitals.|https://dx.doi.org/10.1590/1519-6984.285397
 Antibacterial and antibiofilm efficacy of quercetin against Pseudomonas aeruginosa and methicillin resistant Staphylococcus aureus associated with ICU infections.|https://dx.doi.org/10.1080/08927014.2025.2460491
 Staphylococcus aureus induces mitophagy via the HDAC11/IL10 pathway to sustain intracellular survival.|https://dx.doi.org/10.1186/s12967-025-06161-7
+Copper strontium phosphate glasses with high antimicrobial efficacy.|https://dx.doi.org/10.1038/s41598-025-88781-z
+Mucoid Staphylococcus aureus - Prevalence and Association with Lung Function in People with Cystic Fibrosis.|https://dx.doi.org/10.1164/rccm.202407-1474OC
+Structural characteristics, functions, and counteracting strategies of biofilms in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.csbj.2025.01.021
