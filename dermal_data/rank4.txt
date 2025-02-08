@@ -7,3 +7,4 @@ Preparation and characterization of multifunctional cellulose-based materials mo
 Injectable iodine-containing peptide hydrogel for treatment of MRSA infection.|https://dx.doi.org/10.1016/j.bioactmat.2025.01.010
 Double-network hydrogel dressing regulated by cationic polymer-grafted bacterial cellulose for promote rapid healing of infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2025.123257
 Konjac glucomannan/xanthan gum hydrogels loaded with metal-phenolic networks encapsulated probiotic to promote infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.123243
+Integrated degradation of bacteria, organic pollutants, total phosphorus, and antibiotics in food wastewater through immobilization of Bacillus velezensis on polyethylene glycol-polyvinyl alcohol/sodium alginate/nano-TiO(2) microspheres.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140750
