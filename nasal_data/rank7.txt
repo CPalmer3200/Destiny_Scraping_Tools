@@ -59,3 +59,4 @@ Staphylococcus aureus induces mitophagy via the HDAC11/IL10 pathway to sustain i
 Copper strontium phosphate glasses with high antimicrobial efficacy.|https://dx.doi.org/10.1038/s41598-025-88781-z
 Mucoid Staphylococcus aureus - Prevalence and Association with Lung Function in People with Cystic Fibrosis.|https://dx.doi.org/10.1164/rccm.202407-1474OC
 Structural characteristics, functions, and counteracting strategies of biofilms in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.csbj.2025.01.021
+Clinical and epidemiological differences in staphylococcal osteoarticular infections: insights for developing hospital-based infection control interventions.|https://dx.doi.org/10.1007/s00590-025-04184-w
