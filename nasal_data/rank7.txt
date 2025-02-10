@@ -60,3 +60,5 @@ Copper strontium phosphate glasses with high antimicrobial efficacy.|https://dx.
 Mucoid Staphylococcus aureus - Prevalence and Association with Lung Function in People with Cystic Fibrosis.|https://dx.doi.org/10.1164/rccm.202407-1474OC
 Structural characteristics, functions, and counteracting strategies of biofilms in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.csbj.2025.01.021
 Clinical and epidemiological differences in staphylococcal osteoarticular infections: insights for developing hospital-based infection control interventions.|https://dx.doi.org/10.1007/s00590-025-04184-w
+Methicillin-resistant Staphylococcus epidermidis knee prosthetic infection treatment with two-stage revision and fosfomycin-rifampin combination therapy: a case report.|https://dx.doi.org/10.1186/s13256-025-05073-w
+Infective Native Aortic and Iliac Artery Aneurysms: Clinical Profiles and Short-Term Outcomes from a Single-Center Cohort.|https://dx.doi.org/10.1016/j.jiac.2025.102644

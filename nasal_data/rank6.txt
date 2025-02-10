@@ -13,3 +13,4 @@ Complete genome sequence of the Staphylococcus aureus NCCP 11854 isolated from a
 Global insights into MRSA bacteremia: a bibliometric analysis and future outlook.|https://dx.doi.org/10.3389/fmicb.2024.1516584
 Killed whole-cell Staphylococcus aureus formulation in Montanide ISA266 and Alum adjuvants: different vaccine formulations varied in the vaccine's potency and efficacy.|https://dx.doi.org/10.1007/s12026-025-09602-z
 Proline isomerization modulates the bacterial IsdB/hemoglobin interaction: an atomic force spectroscopy study.|https://dx.doi.org/10.1186/s11671-025-04182-1
+Protection of Mice Vaccinated with a New B Cell and T Cell Epitopes Cocktail from Staphylococcus aureus Challenge in Skin Infection Model.|https://dx.doi.org/10.1007/s00284-025-04102-7
