@@ -62,3 +62,7 @@ Structural characteristics, functions, and counteracting strategies of biofilms 
 Clinical and epidemiological differences in staphylococcal osteoarticular infections: insights for developing hospital-based infection control interventions.|https://dx.doi.org/10.1007/s00590-025-04184-w
 Methicillin-resistant Staphylococcus epidermidis knee prosthetic infection treatment with two-stage revision and fosfomycin-rifampin combination therapy: a case report.|https://dx.doi.org/10.1186/s13256-025-05073-w
 Infective Native Aortic and Iliac Artery Aneurysms: Clinical Profiles and Short-Term Outcomes from a Single-Center Cohort.|https://dx.doi.org/10.1016/j.jiac.2025.102644
+Bacterial species with different nanocolony morphologies have distinct flow-dependent colonization behaviors.|https://dx.doi.org/10.1073/pnas.2419899122
+Prevalence and molecular detection of mecA and lukD genes from livestock-associated methicillin-resistant Staphylococcus aureus isolated in raw chicken meats sold in Abakaliki, Nigeria.|https://dx.doi.org/10.5455/OVJ.2024.v14.i12.17
+Development of a tri-species wound model for studying fungal-bacterial interactions and antimicrobial therapies.|https://dx.doi.org/10.1016/j.bioflm.2025.100256
+Mussel-Inspired In Situ Photodynamic Antibacterial Coating for Postoperative Management of Artificial Corneas.|https://dx.doi.org/10.1021/acsomega.4c08700
