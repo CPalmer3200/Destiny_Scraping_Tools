@@ -12,3 +12,4 @@ Monitoring and Management of Infection following Prepectoral Implant-based Breas
 Medial sural artery perforator free flap for small- to medium-sized defects in head and neck reconstruction: a suitable replacement for radial forearm free flap.|https://dx.doi.org/10.1186/s40902-024-00455-4
 Tranexamic Acid in Breast Surgery - A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.clbc.2025.01.011
 Neisseria weaveri: Atypical Infection in Breast Implant-Based Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000006505
+The effect of prophylactic antibiotics on second-stage breast reconstruction: A retrospective analysis.|https://dx.doi.org/10.1016/j.bjps.2025.01.032
