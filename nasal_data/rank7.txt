@@ -68,3 +68,5 @@ Development of a tri-species wound model for studying fungal-bacterial interacti
 Mussel-Inspired In Situ Photodynamic Antibacterial Coating for Postoperative Management of Artificial Corneas.|https://dx.doi.org/10.1021/acsomega.4c08700
 Seasonal Trends and Antibiotic Resistance Profiles of Bacterial Pathogens in Indian Clinical Isolates.|https://dx.doi.org/10.7759/cureus.77255
 Analysis of the dynamics of transition from non-colonization to colonization and Staphylococcus aureus bacteremia in hemodialysis patients using Markov models.|https://dx.doi.org/10.12688/f1000research.151896.1
+Microbial Colonization and Associated Factors in Indwelling Urinary Catheters: A Cross-Sectional Study.|https://dx.doi.org/10.1002/nur.22454
+Isolated Pulmonary Valve Infective Endocarditis With Persistent Staphylococcus aureus Bacteremia and Rapid Clearance With Ertapenem Plus Cefazolin.|https://dx.doi.org/10.7759/cureus.77335

@@ -15,3 +15,4 @@ Killed whole-cell Staphylococcus aureus formulation in Montanide ISA266 and Alum
 Proline isomerization modulates the bacterial IsdB/hemoglobin interaction: an atomic force spectroscopy study.|https://dx.doi.org/10.1186/s11671-025-04182-1
 Protection of Mice Vaccinated with a New B Cell and T Cell Epitopes Cocktail from Staphylococcus aureus Challenge in Skin Infection Model.|https://dx.doi.org/10.1007/s00284-025-04102-7
 Statistical documentation for multi-disease, multi-domain platform trials: our experience with the Staphylococcus aureus Network Adaptive Platform trial.|https://dx.doi.org/10.1186/s13063-024-08684-8
+Antimicrobial Blue Light Reduces Human-Wound Pathogens' Resistance to Tetracycline-Class Antibiotics in Biofilms.|https://dx.doi.org/10.3390/cells14030219
