@@ -13,3 +13,4 @@ Heat shock-pretreated bone marrow mesenchymal stem cells accelerate wound healin
 Comparing perioperative outcomes after transmetatarsal amputation in patients with or without peripheral vascular disease.|https://dx.doi.org/10.1002/jfa2.70026
 A systematic review and meta-analysis of randomized controlled trials of systemic antibiotics for diabetes-related foot infections.|https://dx.doi.org/10.1177/14791641241311293
 Ankle Arthrodesis: Epidemiology, Etiology, and Complications in Diabetic vs Nondiabetic Patients Using US Nationwide Inpatient Sample Data.|https://dx.doi.org/10.1177/24730114251315122
+Predictors of Major Lower Extremity Amputation in Type 2 Diabetic Patients With Diabetic Foot Ulcers: A Cross-Sectional Analytical Study.|https://dx.doi.org/10.7759/cureus.77339
