@@ -15,3 +15,7 @@ Neisseria weaveri: Atypical Infection in Breast Implant-Based Reconstruction.|ht
 The effect of prophylactic antibiotics on second-stage breast reconstruction: A retrospective analysis.|https://dx.doi.org/10.1016/j.bjps.2025.01.032
 Shifting the paradigm on tissue removal and postoperative complications in breast reduction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2024.11.010
 Efficacy of Mesh Use in Breast Surgery: A Comprehensive Review of Complications and Aesthetic Outcomes.|https://dx.doi.org/10.1097/GOX.0000000000006537
+Impact of subcutaneous tunnel length on infection risk in tunneled PICCs: a study in cancer patient.|https://dx.doi.org/10.1038/s41598-024-82430-7
+MRI-Conditional Tissue Expanders in Breast Reconstruction: Clinical Outcomes and Radiation Therapy Implications.|https://dx.doi.org/10.1097/PRS.0000000000012029
+When a sore throat turns into deadly multiple serous cavity effusions: the role of Prevotella oris in rapidly progressing infection-a case report.|https://dx.doi.org/10.3389/fmed.2025.1517389
+Robot-Assisted Versus Conventional Harvesting of DIEP and Latissimus Dorsi Flaps for Breast Reconstruction in Post-Mastectomy Women: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm14030744

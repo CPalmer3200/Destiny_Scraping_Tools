@@ -70,3 +70,11 @@ Seasonal Trends and Antibiotic Resistance Profiles of Bacterial Pathogens in Ind
 Analysis of the dynamics of transition from non-colonization to colonization and Staphylococcus aureus bacteremia in hemodialysis patients using Markov models.|https://dx.doi.org/10.12688/f1000research.151896.1
 Microbial Colonization and Associated Factors in Indwelling Urinary Catheters: A Cross-Sectional Study.|https://dx.doi.org/10.1002/nur.22454
 Isolated Pulmonary Valve Infective Endocarditis With Persistent Staphylococcus aureus Bacteremia and Rapid Clearance With Ertapenem Plus Cefazolin.|https://dx.doi.org/10.7759/cureus.77335
+Linezolid versus Vancomycin in vitro Activity Against Methicillin-resistant Staphylococcus aureus Biofilms.|https://dx.doi.org/10.1016/j.micpath.2025.107371
+Engineered Nanovesicles for the Precise and Noninvasive Treatment of Deep Osteomyelitis Caused by MRSA Infection with Enhanced Immune Response.|https://dx.doi.org/10.1021/acsami.4c20893
+Successful Bailout of Intraoperative External Iliac Artery Rupture by Aorto-Uni-Iliac Stent Grafting and Femoral-Femoral Crossover Bypass in a Patient With a Giant Common Iliac Artery Aneurysm.|https://dx.doi.org/10.7759/cureus.77349
+The Influence of Basil and Cinnamon Essential Oils on Bioactive Sponge Composites of Collagen Reinforced with Hydroxyapatite.|https://dx.doi.org/10.3390/ma18030626
+Airway Colonization in Children with Medical Complexity: Challenges and Management Strategies.|https://dx.doi.org/10.3390/jcm14030848
+Risk of Postoperative Infection in Total Knee Arthroplasty Patients with Preoperative Methicillin-Resistant Staphylococcus aureus (MRSA) Colonization.|https://dx.doi.org/10.3390/jcm14030765
+Anti-Methicillin-Resistant Staphylococcus aureus Efficacy of Layer-by-Layer Silver Nanoparticle/Polyacrylic Acid-Coated Titanium Using an In-House Dip Coater.|https://dx.doi.org/10.3390/polym17030333
+Genomic characterization of healthcare-associated ST5 MRSA causing severe pseudomembranous enteritis in intensive care unit.|https://dx.doi.org/10.1186/s12879-025-10573-7
