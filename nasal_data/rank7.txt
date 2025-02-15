@@ -78,3 +78,6 @@ Airway Colonization in Children with Medical Complexity: Challenges and Manageme
 Risk of Postoperative Infection in Total Knee Arthroplasty Patients with Preoperative Methicillin-Resistant Staphylococcus aureus (MRSA) Colonization.|https://dx.doi.org/10.3390/jcm14030765
 Anti-Methicillin-Resistant Staphylococcus aureus Efficacy of Layer-by-Layer Silver Nanoparticle/Polyacrylic Acid-Coated Titanium Using an In-House Dip Coater.|https://dx.doi.org/10.3390/polym17030333
 Genomic characterization of healthcare-associated ST5 MRSA causing severe pseudomembranous enteritis in intensive care unit.|https://dx.doi.org/10.1186/s12879-025-10573-7
+The Possible Role of Biofilm Formation in Recidivism of Cholesteatomatous and Noncholesteatomatous Chronic Suppurative Otitis Media.|https://dx.doi.org/10.1097/MAO.0000000000004424
+Development of Curcumin Encapsulated Liposomes in Chlorhexidine-Loaded Organogel Using Ternary Phase Systems for Treatment of Omphalitis in Infants.|https://dx.doi.org/10.1155/adpp/6828052
+The impact of infectious diseases department on the incidence of hospital-onset bacteremia and fungemia at a tertiary care center: a retrospective cohort study.|https://dx.doi.org/10.1017/ice.2025.14
