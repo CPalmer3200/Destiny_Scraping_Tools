@@ -8,3 +8,5 @@ Synergistic Anti-Helicobacter pylori Effects of Takifugu obscurus Skin Peptides 
 Niacinamide and its impact on stratum corneum hydration and structure.|https://dx.doi.org/10.1038/s41598-025-88899-0
 Unravelling the hidden side of laundry: malodour, microbiome and pathogenome.|https://dx.doi.org/10.1186/s12915-025-02147-5
 Microbial biofilm-based hydrovoltaic pressure sensor with ultrahigh sensitivity for self-powered flexible electronics.|https://dx.doi.org/10.1016/j.bios.2025.117220
+Pressure injuries and biofilms: Microbiome, model systems and therapies.|https://dx.doi.org/10.1111/wrr.70005
+Anti-Intracellular MRSA Activity of Antibiotic-Loaded Lipid-Polymer Hybrid Nanoparticles and Their Effectiveness in Murine Skin Wound Infection Models.|https://dx.doi.org/10.1021/acsinfecdis.4c01016

@@ -3,3 +3,4 @@ Localized propranolol delivery from a copper-loaded hydrogel for enhancing infec
 Conflict-associated wounds and burns infected with GLASS pathogens in the Eastern Mediterranean Region: A systematic review.|https://dx.doi.org/10.1186/s12879-025-10569-3
 Activity of silver-zinc nanozeolite-based antibiofilm wound dressings in an in vitro biofilm model and comparison with commercial dressings.|https://dx.doi.org/10.1186/s11671-025-04208-8
 Tissue-Adhesive and Antibacterial Hydrogel Promotes MDR Bacteria-Infected Diabetic Wound Healing via Disrupting Bacterial Biofilm, Scavenging ROS and Promoting Angiogenesis.|https://dx.doi.org/10.1002/adhm.202404889
+Electret-Inspired Charge-Injected Hydrogel for Scar-Free Healing of Bacterially Infected Burns Through Bioelectrical Stimulation and Immune Modulation.|https://dx.doi.org/10.1002/advs.202411889
