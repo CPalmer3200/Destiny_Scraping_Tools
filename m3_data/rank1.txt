@@ -2,3 +2,4 @@ Citrulline inhibits Clostridioides difficile infection with anti-inflammatory ef
 Extraintestinal Clostridium difficile infection presenting as spontaneous bacterial peritonitis.|https://dx.doi.org/10.1136/bcr-2024-262106
 Radiological Risk Factors for Osteochondral Fractures in Patients With First-Time and Recurrent Patellar Instability: Data From the JUPITER Cohort.|https://dx.doi.org/10.1177/03635465251315170
 Corrigendum to "Live Biotherapeutic Products for the Prevention of Recurrent Clostridioides difficile Infection".|https://dx.doi.org/10.1177/10600280241310646
+Integrating bulk RNA-seq and scRNA-seq data to explore diverse cell death patterns and develop a programmed cell death-related relapse prediction model in pediatric B-ALL.|https://dx.doi.org/10.1038/s41598-025-86148-y
