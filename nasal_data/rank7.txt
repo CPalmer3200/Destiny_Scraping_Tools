@@ -81,3 +81,5 @@ Genomic characterization of healthcare-associated ST5 MRSA causing severe pseudo
 The Possible Role of Biofilm Formation in Recidivism of Cholesteatomatous and Noncholesteatomatous Chronic Suppurative Otitis Media.|https://dx.doi.org/10.1097/MAO.0000000000004424
 Development of Curcumin Encapsulated Liposomes in Chlorhexidine-Loaded Organogel Using Ternary Phase Systems for Treatment of Omphalitis in Infants.|https://dx.doi.org/10.1155/adpp/6828052
 The impact of infectious diseases department on the incidence of hospital-onset bacteremia and fungemia at a tertiary care center: a retrospective cohort study.|https://dx.doi.org/10.1017/ice.2025.14
+Increased rates of periprosthetic joint infection following hip hemiarthroplasty with clindamycin prophylaxis compared to cefazolin.|https://dx.doi.org/10.1007/s00402-025-05780-5
+Low temperature storage leads to advanced upregulation of typical virulence regulators, pyk and purR of enterotoxigenic Staphylococcus aureus cultured on chicken meat.|https://dx.doi.org/10.1016/j.fm.2024.104719
