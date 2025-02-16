@@ -17,3 +17,4 @@ Predictors of Major Lower Extremity Amputation in Type 2 Diabetic Patients With 
 Construction and Validation of a Predictive Nomogram Model for Patients with Type 2 Diabetes Complicated by Diabetic Foot Ulcers.|https://dx.doi.org/10.1177/15347346251316948
 A Case of Diabetic Ischemic Ulcer with Toe Deformity Successfully Treated with Revascularization and Surgical Offloading.|https://dx.doi.org/10.3390/jcm14030646
 Plasma-Activated Water Improve Wound Healing in Diabetic Rats by Influencing the Inflammatory and Remodelling Phase.|https://dx.doi.org/10.3390/ijms26031265
+The increasing prevalence of Enterobacteriaceae as pathogens of diabetic foot osteomyelitis: a multicenter European cohort over two decades.|https://dx.doi.org/10.1016/j.ijid.2025.107843
