@@ -16,3 +16,4 @@ Graphene Quantum Dots in Bacterial Cellulose Hydrogels for Visible Light-Activat
 Silver Cross-Linking of Silk Sericin-Based Hydrogels for Improved Stability and Broad-Spectrum Antimicrobial Properties.|https://dx.doi.org/10.1021/acsabm.4c01801
 Development of Vitis vinifera nanoemulgel and evaluation of its potential anticancer, antimicrobial and anti-inflammatory.|https://dx.doi.org/10.1186/s12906-025-04804-2
 Photoinitiated Nitric Oxide Release as an Antibacterial Treatment for Chronic Wounds.|https://dx.doi.org/10.1021/acsbiomaterials.4c01955
+Synthesis of magnetic bio-nanocomposite hydrogel beads based on sodium alginate and β-cyclodextrin: Potential pH-responsive oral delivery anticancer systems for colorectal cancer.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140748

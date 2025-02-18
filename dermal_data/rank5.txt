@@ -10,3 +10,4 @@ Unravelling the hidden side of laundry: malodour, microbiome and pathogenome.|ht
 Microbial biofilm-based hydrovoltaic pressure sensor with ultrahigh sensitivity for self-powered flexible electronics.|https://dx.doi.org/10.1016/j.bios.2025.117220
 Pressure injuries and biofilms: Microbiome, model systems and therapies.|https://dx.doi.org/10.1111/wrr.70005
 Anti-Intracellular MRSA Activity of Antibiotic-Loaded Lipid-Polymer Hybrid Nanoparticles and Their Effectiveness in Murine Skin Wound Infection Models.|https://dx.doi.org/10.1021/acsinfecdis.4c01016
+Adhesive micro-liquid for efficient removal of bacterial biofilm infection.|https://dx.doi.org/10.1016/j.mtbio.2025.101525
