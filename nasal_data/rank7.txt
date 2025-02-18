@@ -83,3 +83,13 @@ Development of Curcumin Encapsulated Liposomes in Chlorhexidine-Loaded Organogel
 The impact of infectious diseases department on the incidence of hospital-onset bacteremia and fungemia at a tertiary care center: a retrospective cohort study.|https://dx.doi.org/10.1017/ice.2025.14
 Increased rates of periprosthetic joint infection following hip hemiarthroplasty with clindamycin prophylaxis compared to cefazolin.|https://dx.doi.org/10.1007/s00402-025-05780-5
 Low temperature storage leads to advanced upregulation of typical virulence regulators, pyk and purR of enterotoxigenic Staphylococcus aureus cultured on chicken meat.|https://dx.doi.org/10.1016/j.fm.2024.104719
+Oral colonization of antimicrobial-resistant bacteria in home health care participants and their association with oral and systemic status.|https://dx.doi.org/10.1038/s41598-025-90037-9
+Dalbavancin Use in Bone and Joint Infections.|https://dx.doi.org/10.1016/j.artd.2024.101505
+Advanced One-Pot RPA-CRISPR/Cas12a Reaction with Glycerol and Betaine for High-Sensitivity Diagnosis of mecA-Carrying Strains in Clinical Samples.|https://dx.doi.org/10.1021/acsomega.4c09078
+Antimicrobial Resistance Surveillance of Skin and Soft Tissue Infections: Hospital-Wide Bacterial Species and Antibiograms to Inform Management at a Zonal Tertiary Hospital in Mwanza, Tanzania.|https://dx.doi.org/10.2147/IDR.S483953
+A novel strategy for eradication of staphylococcal biofilms using blood clots.|https://dx.doi.org/10.3389/fcimb.2025.1507486
+Ablation of the deubiquitinating enzyme cylindromatosis (CYLD) augments STAT1-mediated M1 macrophage polarization and fosters Staphylococcus aureus control.|https://dx.doi.org/10.3389/fimmu.2025.1507989
+Trends in Antimicrobial Resistance of Staphylococcus aureus Uropathogens: A Retrospective Study From Duhok Province, Kurdistan Region, Iraq.|https://dx.doi.org/10.7759/cureus.77553
+Primary Pyogenic Abscess in an Immunocompetent Child: An Indian Perspective.|https://dx.doi.org/10.13107/jocr.2025.v15.i02.5274
+World Health Organization priority antimicrobial resistance in Enterobacterales, Acinetobacter baumannii, Pseudomonas aeruginosa, Staphylococcus aureus and Enterococcus faecium healthcare-associated bloodstream infections in Brazil (ASCENSION): a prospective, multicentre, observational study.|https://dx.doi.org/10.1016/j.lana.2025.101004
+Innovative dual-contrast nanocoating for central venous catheters: prolonged infection resistance and enhanced imaging.|https://dx.doi.org/10.1039/d4tb02461c
