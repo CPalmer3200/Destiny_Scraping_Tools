@@ -93,3 +93,6 @@ Trends in Antimicrobial Resistance of Staphylococcus aureus Uropathogens: A Retr
 Primary Pyogenic Abscess in an Immunocompetent Child: An Indian Perspective.|https://dx.doi.org/10.13107/jocr.2025.v15.i02.5274
 World Health Organization priority antimicrobial resistance in Enterobacterales, Acinetobacter baumannii, Pseudomonas aeruginosa, Staphylococcus aureus and Enterococcus faecium healthcare-associated bloodstream infections in Brazil (ASCENSION): a prospective, multicentre, observational study.|https://dx.doi.org/10.1016/j.lana.2025.101004
 Innovative dual-contrast nanocoating for central venous catheters: prolonged infection resistance and enhanced imaging.|https://dx.doi.org/10.1039/d4tb02461c
+Association of opportunistic bacterial pathogens with female infertility: A case-control study.|https://dx.doi.org/10.1111/jog.16243
+Quaternary Ammonization Treatment Enhances the Antifouling Activities of Capsaicin-Based Polybenzoxazine Coatings.|https://dx.doi.org/10.1021/acs.langmuir.4c04370
+Inferring Staphylococcus aureus host species and cross-species transmission from a genome-based model.|https://dx.doi.org/10.1186/s12864-025-11331-4
