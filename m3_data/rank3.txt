@@ -2,3 +2,6 @@ IMPACT OF ULTRAVIOLET LIGHT DISINFECTION ON REDUCING HOSPITAL-ASSOCIATED INFECTI
 Clinical Characteristics and Optimization of Empirical Antimicrobial Therapy for Febrile Neutropenia in Patients With Hematologic Malignancies.|https://dx.doi.org/10.2147/IDR.S493670
 Healthy Eating Index (HEI-2020) score and colorectal cancer risk.|https://dx.doi.org/10.1016/j.canep.2025.102771
 Predicting positive Clostridioides difficile test results using large-scale longitudinal data of demographics and medication history.|https://dx.doi.org/10.1016/j.heliyon.2024.e41350
+Australian National Enterovirus Reference Laboratory annual report, 2023.|https://dx.doi.org/10.33321/cdi.2025.49.013
+Tuberculosis workforce policy and development framework in Australia.|https://dx.doi.org/10.33321/cdi.2025.49.009
+Australian Gonococcal Surveillance Programme Annual Report, 2023.|https://dx.doi.org/10.33321/cdi.2025.49.007

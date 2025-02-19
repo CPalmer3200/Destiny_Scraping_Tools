@@ -3,3 +3,7 @@ Extraintestinal Clostridium difficile infection presenting as spontaneous bacter
 Radiological Risk Factors for Osteochondral Fractures in Patients With First-Time and Recurrent Patellar Instability: Data From the JUPITER Cohort.|https://dx.doi.org/10.1177/03635465251315170
 Corrigendum to "Live Biotherapeutic Products for the Prevention of Recurrent Clostridioides difficile Infection".|https://dx.doi.org/10.1177/10600280241310646
 Integrating bulk RNA-seq and scRNA-seq data to explore diverse cell death patterns and develop a programmed cell death-related relapse prediction model in pediatric B-ALL.|https://dx.doi.org/10.1038/s41598-025-86148-y
+Identification of two glycosyltransferases required for synthesis of membrane glycolipids in Clostridioides difficile.|https://dx.doi.org/10.1128/mbio.03512-24
+Clinical Characteristics and Outcomes of Clostridioides difficile Infection in Cancer Patients From a Tertiary Care Hospital.|https://dx.doi.org/10.7759/cureus.77616
+Higher disease activity of inflammatory bowel disease predisposes to Clostridioides difficile infection.|https://dx.doi.org/10.1177/17562848251318292
+Fecal microbiota transplantation for Clostridioides difficile infection in a peritoneal dialysis patient: A case report.|https://dx.doi.org/10.1177/08968608251316165
