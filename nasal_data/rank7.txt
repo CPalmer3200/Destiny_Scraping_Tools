@@ -96,3 +96,5 @@ Innovative dual-contrast nanocoating for central venous catheters: prolonged inf
 Association of opportunistic bacterial pathogens with female infertility: A case-control study.|https://dx.doi.org/10.1111/jog.16243
 Quaternary Ammonization Treatment Enhances the Antifouling Activities of Capsaicin-Based Polybenzoxazine Coatings.|https://dx.doi.org/10.1021/acs.langmuir.4c04370
 Inferring Staphylococcus aureus host species and cross-species transmission from a genome-based model.|https://dx.doi.org/10.1186/s12864-025-11331-4
+ADME/Tox study and the effect of β-Caryophyllene on the resistant strain of Staphylococcus aureus carrying the QacA/B efflux pump gene.|https://dx.doi.org/10.1016/j.toxrep.2025.101929
+Design of acidic activation-responsive charge-switchable carbon dots and validation of their antimicrobial activity.|https://dx.doi.org/10.1039/d5ra00174a
