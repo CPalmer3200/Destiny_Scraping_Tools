@@ -11,3 +11,5 @@ Microbial biofilm-based hydrovoltaic pressure sensor with ultrahigh sensitivity 
 Pressure injuries and biofilms: Microbiome, model systems and therapies.|https://dx.doi.org/10.1111/wrr.70005
 Anti-Intracellular MRSA Activity of Antibiotic-Loaded Lipid-Polymer Hybrid Nanoparticles and Their Effectiveness in Murine Skin Wound Infection Models.|https://dx.doi.org/10.1021/acsinfecdis.4c01016
 Adhesive micro-liquid for efficient removal of bacterial biofilm infection.|https://dx.doi.org/10.1016/j.mtbio.2025.101525
+Exploration of old-age odor inhibition and reduction by Leuconostoc mesenteroides THF-10 isolated from oriental melon.|https://dx.doi.org/10.1080/09603123.2025.2467181
+Self-Assembling Lauroylated Antimicrobial Peptide with Superior Antimicrobial Activity, Stability, and Selectivity.|https://dx.doi.org/10.1021/acsami.4c22552
