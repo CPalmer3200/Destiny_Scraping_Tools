@@ -1,1 +1,3 @@
 Therapeutic Drug Monitoring for Dose Optimization of Infliximab in Patients With Inflammatory Bowel Disease: An Analysis of Canadian Real-World Data.|https://dx.doi.org/10.1155/cjgh/5713315
+Safety and efficacy of a defined bacterial consortium, VE303, to treat HE.|https://dx.doi.org/10.1097/HC9.0000000000000650
+High-dose metformin treatment to inhibit complex I during early reperfusion protects the aged mouse heart via decreased mitochondrial permeability transition pore opening.|https://dx.doi.org/10.1016/j.jpet.2024.100529
