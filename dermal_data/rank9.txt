@@ -5,3 +5,7 @@ Diabetes potentiates the emergence and expansion of antibiotic resistance.|https
 Formulation of topical gel contains a novel benzoic acid derivative for skin infection treatment: in vitro and in vivo evaluations.|https://dx.doi.org/10.1080/03639045.2025.2464793
 Protection of Mice Vaccinated with a New B Cell and T Cell Epitopes Cocktail from Staphylococcus aureus Challenge in Skin Infection Model.|https://dx.doi.org/10.1007/s00284-025-04102-7
 Metabolic analysis of the mode of action and mode of resistance of fusidic acid against Staphylococcus aureus.|https://dx.doi.org/10.1093/femsle/fnaf011
+Antimicrobial photodynamic therapy using gold nanoparticles conjugated with 1,9-dimethyl-methylene blue for treating Staphylococcus skin infections.|https://dx.doi.org/10.1007/s10103-025-04367-1
+Neck Abscess as a Rare Sequela of Pediatric Varicella-Zoster Infection: A Case Report.|https://dx.doi.org/10.7759/cureus.77639
+Complete genome assemblies and antibiograms of 22 Staphylococcus capitis isolates.|https://dx.doi.org/10.1186/s12863-025-01303-8
+Worker risk from ultrasonicator aerosolization in medical device reprocessing, a particulate and bio-burden approach.|https://dx.doi.org/10.1016/j.jhin.2025.01.012

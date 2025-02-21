@@ -1,1 +1,5 @@
 Assessment of Anticancer and Antimicrobial Potential of Bioactive Metabolites and Optimization of Culture Conditions of Pseudomonas aurantiaca PB-St2 for High Yields.|https://dx.doi.org/10.4014/jmb.2311.11041
+Virtual Screening and Identification of Novel Oxindole Derivatives as Potential Antimicrobial Agents.|https://dx.doi.org/10.2174/0115701638362089250210075934
+Use of standardized nasal and skin decolonization to reduce rates of bacteremia in patients undergoing extracorporeal membrane oxygenation.|https://dx.doi.org/10.1017/ash.2025.9
+Distribution of sasX, mupA, and qacA/B genes and determination of genetic relatedness of epidemic methicillin-resistant Staphylococcus aureus strains associated with bloodstream infections in southern China.|https://dx.doi.org/10.3389/fcimb.2025.1491658
+Staphylococcus aureus colonization and surgical site infections among patients undergoing surgical fixation for acute fractures.|https://dx.doi.org/10.1017/ice.2024.233

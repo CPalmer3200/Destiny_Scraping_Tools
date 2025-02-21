@@ -4,3 +4,6 @@ Thiotepa-Induced Toxicity: A Clinical Mimic of Stevens-Johnson Syndrome and Toxi
 Oxazolone-Induced Immune Response in Atopic Dermatitis Using a Goat Model and Exploration of the Therapeutic Potential of Pomegranate Peel Extract.|https://dx.doi.org/10.3390/ani15030411
 Non-Animal Hyaluronic Acid and Probiotics Enhance Skin Health via the Gut-Skin Axis: An In Vitro Study on Bioavailability and Cellular Impact.|https://dx.doi.org/10.3390/ijms26030897
 Does Cutibacterium Skin Load Impact the Outcomes of Primary Shoulder Arthroplasty?|https://dx.doi.org/10.1016/j.jse.2024.12.040
+Antifibrotic Function of Itaconate-Based Degradable Polyester Materials.|https://dx.doi.org/10.1021/acsbiomaterials.4c02444
+Development of nanospray loaded with ciclopirox for dermal fungus treatment: determination of pro-inflammatory interleukin IL-2 mRNA expression.|https://dx.doi.org/10.1186/s40360-025-00853-y
+Synthetically programmed antioxidant delivery by a domesticated skin commensal.|https://dx.doi.org/10.1016/j.cels.2025.101169

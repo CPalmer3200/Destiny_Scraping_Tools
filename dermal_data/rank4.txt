@@ -18,3 +18,10 @@ Development of Vitis vinifera nanoemulgel and evaluation of its potential antica
 Photoinitiated Nitric Oxide Release as an Antibacterial Treatment for Chronic Wounds.|https://dx.doi.org/10.1021/acsbiomaterials.4c01955
 Synthesis of magnetic bio-nanocomposite hydrogel beads based on sodium alginate and β-cyclodextrin: Potential pH-responsive oral delivery anticancer systems for colorectal cancer.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140748
 Autonomous, Moisture-Driven Flexible Electrogenerative Dressing for Enhanced Wound Healing.|https://dx.doi.org/10.1002/adma.202418074
+Evaluation of hydrogel loading with curcumin and silver nanoparticles: biocompatibilities and anti-biofilm activities.|https://dx.doi.org/10.1007/s10534-025-00670-0
+Multifunctional dynamic chitosan-guar gum nanocomposite hydrogels in infection and diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.123316
+pH-responsive and self-adaptive injectable sodium alginate/carboxymethyl chitosan hydrogel accelerates infected wound healing by bacteriostasis and immunomodulation.|https://dx.doi.org/10.1016/j.carbpol.2025.123322
+Novel injectable self-healing bifunctionalized chitosan hydrogel with cell proliferation and antibacterial activity for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141259
+A multifunctional hydrogel of cellulose nanofiber/microfibrillated cellulose hierarchical network for photothermal antibacterial and all-solid supercapacitor assembly.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141063
+Antibacterial and Biodegradable PLA-based Nanofibers Loaded with Natural Phenolic Monoterpenes for Sustainable Biomedical or Food Application.|https://dx.doi.org/10.1016/j.nbt.2025.02.005
+Biomedical Engineering on Smart Polymeric Nanoparticle-Hydrogel Platforms for Efficient Antibiotic Delivery against Bacterial-Infected Wounds.|https://dx.doi.org/10.1021/acsbiomaterials.4c02045

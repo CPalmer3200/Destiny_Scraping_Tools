@@ -27,3 +27,4 @@ Overcoming beta-lactam resistance in Pseudomonas aeruginosa by targeting metallo
 Regional anaesthesia-based free flap reconstruction for limb salvage in high-risk patients with refractory lower limb infections.|https://dx.doi.org/10.1016/j.jpra.2025.01.005
 Dellon decompression of the tarsal tunnel: An effective approach to improving blood flow, promoting ulcer healing and recovery of sensibility in diabetic patients.|https://dx.doi.org/10.1016/j.bjps.2025.01.058
 Chlorhexidine vs Routine Foot Washing to Prevent Diabetic Foot Ulcers: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamanetworkopen.2024.60087
+Diabetic foot ulcer classification assessment employing an improved machine learning algorithm.|https://dx.doi.org/10.1177/09287329241296417
