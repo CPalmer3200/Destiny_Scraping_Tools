@@ -98,3 +98,10 @@ Quaternary Ammonization Treatment Enhances the Antifouling Activities of Capsaic
 Inferring Staphylococcus aureus host species and cross-species transmission from a genome-based model.|https://dx.doi.org/10.1186/s12864-025-11331-4
 ADME/Tox study and the effect of β-Caryophyllene on the resistant strain of Staphylococcus aureus carrying the QacA/B efflux pump gene.|https://dx.doi.org/10.1016/j.toxrep.2025.101929
 Design of acidic activation-responsive charge-switchable carbon dots and validation of their antimicrobial activity.|https://dx.doi.org/10.1039/d5ra00174a
+Evaluation of hydrogel loading with curcumin and silver nanoparticles: biocompatibilities and anti-biofilm activities.|https://dx.doi.org/10.1007/s10534-025-00670-0
+Septic pulmonary embolism associated with Staphylococcus aureus: case series and review of the literature.|https://dx.doi.org/10.1093/tropej/fmaf008
+Contaminated faucets and sinks as a reservoir for antibiotic-resistant bacterial transmission in healthcare settings.|https://dx.doi.org/10.3855/jidc.18907
+Methicillin-resistant Staphylococcus aureus with Panton-Valentine leukocidin gene from a pediatric hospital in Morocco.|https://dx.doi.org/10.3855/jidc.20319
+Prevalence, genotyping, and molecular relatedness of methicillin-resistant Staphylococcus aureus isolated from tertiary care hospitals in Jeddah, Saudi Arabia.|https://dx.doi.org/10.14715/cmb/2025.71.2.14
+Nosocomial Pneumonia in Georgia: A Focus on Gram-Positive Bacteria and Antimicrobial Resistance.|https://dx.doi.org/10.7759/cureus.77710
+Effectiveness and Tolerability of an Emollient "Plus" Compared to Urea 10% in Patients With Mild-to-Moderate Atopic Dermatitis.|https://dx.doi.org/10.1111/jocd.70051

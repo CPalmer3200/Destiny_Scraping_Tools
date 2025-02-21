@@ -19,3 +19,4 @@ Antimicrobial Blue Light Reduces Human-Wound Pathogens' Resistance to Tetracycli
 Assessment of Anticancer and Antimicrobial Potential of Bioactive Metabolites and Optimization of Culture Conditions of Pseudomonas aurantiaca PB-St2 for High Yields.|https://dx.doi.org/10.4014/jmb.2311.11041
 Early cytokine signatures and clinical phenotypes discriminate persistent from resolving MRSA bacteremia.|https://dx.doi.org/10.1186/s12879-025-10620-3
 Mastitis-related Staphylococcus aureus-derived extracellular vesicles induce a pro-inflammatory response in bovine monocyte-derived macrophages.|https://dx.doi.org/10.1038/s41598-025-90466-6
+Virtual Screening and Identification of Novel Oxindole Derivatives as Potential Antimicrobial Agents.|https://dx.doi.org/10.2174/0115701638362089250210075934
