@@ -3,3 +3,5 @@ The effect of prophylactic antibiotics on second-stage breast reconstruction: A 
 Does luck always favor the prepared? Analysis of the NSQIP database shows benefits of combined bowel preparation on colostomy reversal outcomes.|https://dx.doi.org/10.1016/j.surg.2025.109210
 Burden of bacterial antimicrobial resistance among hospitalised patients in Spain: findings from three nationwide prospective studies.|https://dx.doi.org/10.1016/j.lanepe.2025.101220
 The potential of genomic epidemiology: capitalizing on its practical use for impact in the healthcare setting.|https://dx.doi.org/10.3389/fpubh.2025.1504796
+Risk factors and clinical characteristics of Clostridium difficile colonization and infection in patients with inflammatory bowel disease exposed to Vedolizumab: a multicenter retrospective study.|https://dx.doi.org/10.1177/17562848251321707
+Perspective on equal and cross-frequency neural coupling: Integration and segregation of the function of brain networks.|https://dx.doi.org/10.1103/PhysRevE.111.014408
