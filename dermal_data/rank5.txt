@@ -13,3 +13,4 @@ Anti-Intracellular MRSA Activity of Antibiotic-Loaded Lipid-Polymer Hybrid Nanop
 Adhesive micro-liquid for efficient removal of bacterial biofilm infection.|https://dx.doi.org/10.1016/j.mtbio.2025.101525
 Exploration of old-age odor inhibition and reduction by Leuconostoc mesenteroides THF-10 isolated from oriental melon.|https://dx.doi.org/10.1080/09603123.2025.2467181
 Self-Assembling Lauroylated Antimicrobial Peptide with Superior Antimicrobial Activity, Stability, and Selectivity.|https://dx.doi.org/10.1021/acsami.4c22552
+A new bacteriophage infecting Staphylococcus epidermidis with potential for removing biofilms by combination with chimeric lysin CHAPSH3b and vancomycin.|https://dx.doi.org/10.1128/msphere.01014-24
