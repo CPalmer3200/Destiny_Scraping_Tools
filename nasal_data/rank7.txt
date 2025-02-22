@@ -105,3 +105,4 @@ Methicillin-resistant Staphylococcus aureus with Panton-Valentine leukocidin gen
 Prevalence, genotyping, and molecular relatedness of methicillin-resistant Staphylococcus aureus isolated from tertiary care hospitals in Jeddah, Saudi Arabia.|https://dx.doi.org/10.14715/cmb/2025.71.2.14
 Nosocomial Pneumonia in Georgia: A Focus on Gram-Positive Bacteria and Antimicrobial Resistance.|https://dx.doi.org/10.7759/cureus.77710
 Effectiveness and Tolerability of an Emollient "Plus" Compared to Urea 10% in Patients With Mild-to-Moderate Atopic Dermatitis.|https://dx.doi.org/10.1111/jocd.70051
+Prevalence of Methicillin-Resistant Staphylococcus aureus in Livestock in Japan: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/epidemiologia6010003

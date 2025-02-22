@@ -2,3 +2,4 @@ Heterogeneity in preoperative Staphylococcus aureus screening and decolonization
 Computational and in vitro evaluation of probiotic treatments for nasal Staphylococcus aureus decolonization.|https://dx.doi.org/10.1073/pnas.2412742122
 Use of standardized nasal and skin decolonization to reduce rates of bacteremia in patients undergoing extracorporeal membrane oxygenation.|https://dx.doi.org/10.1017/ash.2025.9
 Staphylococcus aureus colonization and surgical site infections among patients undergoing surgical fixation for acute fractures.|https://dx.doi.org/10.1017/ice.2024.233
+Efficacy of Staphylococcus aureus nasal decolonization at hospital admission on reduction of any infections within 90 days - a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jhin.2025.01.017
