@@ -106,3 +106,7 @@ Prevalence, genotyping, and molecular relatedness of methicillin-resistant Staph
 Nosocomial Pneumonia in Georgia: A Focus on Gram-Positive Bacteria and Antimicrobial Resistance.|https://dx.doi.org/10.7759/cureus.77710
 Effectiveness and Tolerability of an Emollient "Plus" Compared to Urea 10% in Patients With Mild-to-Moderate Atopic Dermatitis.|https://dx.doi.org/10.1111/jocd.70051
 Prevalence of Methicillin-Resistant Staphylococcus aureus in Livestock in Japan: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/epidemiologia6010003
+Interferon-gamma receptor signaling regulates innate immunity during Staphylococcus aureus craniotomy infection.|https://dx.doi.org/10.1186/s12974-025-03376-9
+Antimicrobial resistance patterns of WHO priority pathogens at general hospital in Southern Ethiopia during the COVID-19 pandemic, with particular reference to ESKAPE-group isolates of surgical site infections.|https://dx.doi.org/10.1186/s12866-025-03783-1
+A nine-year retrospective study of bacterial epidemiology and culture optimization in four orthopaedic surgery departments.|https://dx.doi.org/10.1016/j.otsr.2025.104193
+Staphylococcal SplA and SplB serine proteases target ubiquitin(-like) specific proteases.|https://dx.doi.org/10.1186/s13568-025-01841-5
