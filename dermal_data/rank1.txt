@@ -4,3 +4,5 @@ Conflict-associated wounds and burns infected with GLASS pathogens in the Easter
 Activity of silver-zinc nanozeolite-based antibiofilm wound dressings in an in vitro biofilm model and comparison with commercial dressings.|https://dx.doi.org/10.1186/s11671-025-04208-8
 Tissue-Adhesive and Antibacterial Hydrogel Promotes MDR Bacteria-Infected Diabetic Wound Healing via Disrupting Bacterial Biofilm, Scavenging ROS and Promoting Angiogenesis.|https://dx.doi.org/10.1002/adhm.202404889
 Electret-Inspired Charge-Injected Hydrogel for Scar-Free Healing of Bacterially Infected Burns Through Bioelectrical Stimulation and Immune Modulation.|https://dx.doi.org/10.1002/advs.202411889
+Facile and atom-economical synthesis of highly efficient chitosan-based flame retardants towards fire-retarding and antibacterial multifunctional coatings on cotton fabrics.|https://dx.doi.org/10.1016/j.ijbiomac.2025.140205
+In-vitro and in-vivo studies of Tridax procumbens leaf extract incorporated bilayer polycaprolactone/polyvinyl alcohol-chitosan electrospun nanofiber for wound dressing application.|https://dx.doi.org/10.1016/j.ijbiomac.2025.139920
