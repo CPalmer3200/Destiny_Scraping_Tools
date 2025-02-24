@@ -29,3 +29,5 @@ Dellon decompression of the tarsal tunnel: An effective approach to improving bl
 Chlorhexidine vs Routine Foot Washing to Prevent Diabetic Foot Ulcers: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamanetworkopen.2024.60087
 Diabetic foot ulcer classification assessment employing an improved machine learning algorithm.|https://dx.doi.org/10.1177/09287329241296417
 Efficacy of Dialkylcarbamoylchloride (DACC)-Impregnated Dressings in Surgical Wound Management: A Review.|https://dx.doi.org/10.3390/ebj6010001
+Partial Calcanectomy: Patient Selection Process and the Secrets to Optimizing Outcomes.|https://dx.doi.org/10.1016/j.cpm.2024.11.001
+Paeonol regulates the DDIT4-mTOR signaling pathway in macrophages to promote diabetic wound healing.|https://dx.doi.org/10.1016/j.intimp.2025.114347
