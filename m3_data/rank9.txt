@@ -5,3 +5,4 @@ Burden of bacterial antimicrobial resistance among hospitalised patients in Spai
 The potential of genomic epidemiology: capitalizing on its practical use for impact in the healthcare setting.|https://dx.doi.org/10.3389/fpubh.2025.1504796
 Risk factors and clinical characteristics of Clostridium difficile colonization and infection in patients with inflammatory bowel disease exposed to Vedolizumab: a multicenter retrospective study.|https://dx.doi.org/10.1177/17562848251321707
 Perspective on equal and cross-frequency neural coupling: Integration and segregation of the function of brain networks.|https://dx.doi.org/10.1103/PhysRevE.111.014408
+Risk factors for the development of Clostridioides difficile infection in patients colonized with toxigenic Clostridioides difficile.|https://dx.doi.org/10.1017/ice.2025.4

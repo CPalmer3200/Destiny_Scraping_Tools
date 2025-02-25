@@ -10,3 +10,4 @@ Fecal microbiota transplantation for Clostridioides difficile infection in a per
 Clinical and economic outcomes associated with fidaxomicin in comparison to vancomycin, metronidazole, and FMT: A systematic literature review.|https://dx.doi.org/10.1097/MD.0000000000039219
 Clostridioides difficile major toxins remodel the intestinal epithelia, affecting spore adherence/internalization into intestinal tissue and their association with gut vitronectin.|https://dx.doi.org/10.1101/2025.01.29.635439
 Efficacy and the underlying mechanisms of berberine in treatment of recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107468
+Comparative effectiveness of different therapies for Clostridioides difficile infection in adults: a systematic review and network meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1016/j.lanepe.2024.101151
