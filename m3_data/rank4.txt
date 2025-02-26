@@ -1,2 +1,3 @@
 Validation methods for encapsulated faecal microbiota transplantation: a scoping review.|https://dx.doi.org/10.1177/17562848251314820
 Unlocking the secrets of the human gut microbiota: Comprehensive review on its role in different diseases.|https://dx.doi.org/10.3748/wjg.v31.i5.99913
+The impact of ibezapolstat and other Clostridioides difficile infection-relevant antibiotics on the microbiome of humanized mice.|https://dx.doi.org/10.1128/aac.01604-24
