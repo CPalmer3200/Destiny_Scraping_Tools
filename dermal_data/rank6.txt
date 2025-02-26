@@ -3,3 +3,4 @@ Phytochemical Analysis and Biological Activities of Flavonoids and Anthraquinone
 Genomic epidemiology and phenotypic characterization of Staphylococcus aureus isolated from atopic dermatitis patients in South China.|https://dx.doi.org/10.1038/s41598-025-87317-9
 Ablation of the deubiquitinating enzyme cylindromatosis (CYLD) augments STAT1-mediated M1 macrophage polarization and fosters Staphylococcus aureus control.|https://dx.doi.org/10.3389/fimmu.2025.1507989
 Effectiveness and Tolerability of an Emollient "Plus" Compared to Urea 10% in Patients With Mild-to-Moderate Atopic Dermatitis.|https://dx.doi.org/10.1111/jocd.70051
+Enhanced Anti-Inflammatory and Skin Barrier Repair Effects of Nanoemulsions Supplemented with Boesenbergia rotunda for Atopic Dermatitis.|https://dx.doi.org/10.1021/acsnanoscienceau.4c00053

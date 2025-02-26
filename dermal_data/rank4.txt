@@ -25,3 +25,6 @@ Novel injectable self-healing bifunctionalized chitosan hydrogel with cell proli
 A multifunctional hydrogel of cellulose nanofiber/microfibrillated cellulose hierarchical network for photothermal antibacterial and all-solid supercapacitor assembly.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141063
 Antibacterial and Biodegradable PLA-based Nanofibers Loaded with Natural Phenolic Monoterpenes for Sustainable Biomedical or Food Application.|https://dx.doi.org/10.1016/j.nbt.2025.02.005
 Biomedical Engineering on Smart Polymeric Nanoparticle-Hydrogel Platforms for Efficient Antibiotic Delivery against Bacterial-Infected Wounds.|https://dx.doi.org/10.1021/acsbiomaterials.4c02045
+Corrigendum to "Lauric acid-mediated gelatin/hyaluronic acid composite hydrogel with effective antibacterial and immune regulation for accelerating MRSA-infected diabetic wound healing" [Int. J. Biol. Macromol. 290 (2025) 138792].|https://dx.doi.org/10.1016/j.ijbiomac.2025.141298
+Electrospun Collagen-Coated Nanofiber Membranes Functionalized with Silver Nanoparticles for Advanced Wound Healing Applications.|https://dx.doi.org/10.3390/membranes15020039
+Doxycycline-Loaded pH-Sensitive Microparticles as a Potential Site-Specific Drug Delivery System against Periodontitis.|https://dx.doi.org/10.1021/acsomega.4c08967

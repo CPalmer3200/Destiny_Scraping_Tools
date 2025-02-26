@@ -31,3 +31,6 @@ Diabetic foot ulcer classification assessment employing an improved machine lear
 Efficacy of Dialkylcarbamoylchloride (DACC)-Impregnated Dressings in Surgical Wound Management: A Review.|https://dx.doi.org/10.3390/ebj6010001
 Partial Calcanectomy: Patient Selection Process and the Secrets to Optimizing Outcomes.|https://dx.doi.org/10.1016/j.cpm.2024.11.001
 Paeonol regulates the DDIT4-mTOR signaling pathway in macrophages to promote diabetic wound healing.|https://dx.doi.org/10.1016/j.intimp.2025.114347
+A feature explainability-based deep learning technique for diabetic foot ulcer identification.|https://dx.doi.org/10.1038/s41598-025-90780-z
+Tracking a Fatal Disease: Lower Limb Gas Gangrene's Mortality-Related Factors.|https://dx.doi.org/10.1177/15347346231158858
+Long Term Outcomes After Flexor Tendon Tenotomy of the Diabetic Foot.|https://dx.doi.org/10.1177/11795514251314787
