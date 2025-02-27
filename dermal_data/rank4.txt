@@ -28,3 +28,6 @@ Biomedical Engineering on Smart Polymeric Nanoparticle-Hydrogel Platforms for Ef
 Corrigendum to "Lauric acid-mediated gelatin/hyaluronic acid composite hydrogel with effective antibacterial and immune regulation for accelerating MRSA-infected diabetic wound healing" [Int. J. Biol. Macromol. 290 (2025) 138792].|https://dx.doi.org/10.1016/j.ijbiomac.2025.141298
 Electrospun Collagen-Coated Nanofiber Membranes Functionalized with Silver Nanoparticles for Advanced Wound Healing Applications.|https://dx.doi.org/10.3390/membranes15020039
 Doxycycline-Loaded pH-Sensitive Microparticles as a Potential Site-Specific Drug Delivery System against Periodontitis.|https://dx.doi.org/10.1021/acsomega.4c08967
+Antimicrobial and Antibiofilm Activity of Chitosan Nanoparticles Against Staphylococcus aureus Strains Isolated from Bovine Mastitis Milk.|https://dx.doi.org/10.3390/pharmaceutics17020186
+Investigation of the Antibacterial Activity of ZnO-Loaded Alginate/Hyaluronic Acid Aerogels for Wound Dressing Applications.|https://dx.doi.org/10.3390/polym17040506
+Fabrication and Characterization of a Stretchable Sodium Alginate Hydrogel Patch Combined with Silicon Nitride and Metalized Halloysite Nanotubes to Develop a Chronic Wound Healing Treatment.|https://dx.doi.org/10.3390/ijms26041734
