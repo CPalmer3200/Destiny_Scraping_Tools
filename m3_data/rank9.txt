@@ -6,3 +6,6 @@ The potential of genomic epidemiology: capitalizing on its practical use for imp
 Risk factors and clinical characteristics of Clostridium difficile colonization and infection in patients with inflammatory bowel disease exposed to Vedolizumab: a multicenter retrospective study.|https://dx.doi.org/10.1177/17562848251321707
 Perspective on equal and cross-frequency neural coupling: Integration and segregation of the function of brain networks.|https://dx.doi.org/10.1103/PhysRevE.111.014408
 Risk factors for the development of Clostridioides difficile infection in patients colonized with toxigenic Clostridioides difficile.|https://dx.doi.org/10.1017/ice.2025.4
+Perioperative Blood Transfusion and Infectious Complications Among Pediatric Patients with Cancer.|https://dx.doi.org/10.3390/children12020160
+What Do We Know About Bacterial Infections in Hidradenitis Suppurativa?-A Narrative Review.|https://dx.doi.org/10.3390/antibiotics14020142
+Risk Factors for Clostridium difficile Infection in Inpatients: A Four-Year (2017-2020) Retrospective Study.|https://dx.doi.org/10.3390/antibiotics14020133
