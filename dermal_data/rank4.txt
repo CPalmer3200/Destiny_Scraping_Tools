@@ -31,3 +31,4 @@ Doxycycline-Loaded pH-Sensitive Microparticles as a Potential Site-Specific Drug
 Antimicrobial and Antibiofilm Activity of Chitosan Nanoparticles Against Staphylococcus aureus Strains Isolated from Bovine Mastitis Milk.|https://dx.doi.org/10.3390/pharmaceutics17020186
 Investigation of the Antibacterial Activity of ZnO-Loaded Alginate/Hyaluronic Acid Aerogels for Wound Dressing Applications.|https://dx.doi.org/10.3390/polym17040506
 Fabrication and Characterization of a Stretchable Sodium Alginate Hydrogel Patch Combined with Silicon Nitride and Metalized Halloysite Nanotubes to Develop a Chronic Wound Healing Treatment.|https://dx.doi.org/10.3390/ijms26041734
+NIR-Responsive ZIF-8 Metal-Organic Framework Nanohybrids with Photothermal, Antimicrobial, and Osteoinductive Properties to Prevent Implant Infection.|https://dx.doi.org/10.1002/mabi.202400594

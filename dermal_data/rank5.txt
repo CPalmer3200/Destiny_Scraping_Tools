@@ -16,3 +16,7 @@ Self-Assembling Lauroylated Antimicrobial Peptide with Superior Antimicrobial Ac
 A new bacteriophage infecting Staphylococcus epidermidis with potential for removing biofilms by combination with chimeric lysin CHAPSH3b and vancomycin.|https://dx.doi.org/10.1128/msphere.01014-24
 Characterization of Rhodococcus equi isolated from pyogranulomatous lesions in cats from Brazil.|https://dx.doi.org/10.1016/j.tcam.2025.100962
 Antimicrobial and anti-inflammatory effects of polyethyleneimine-modified polydopamine nanoparticles on a burn-injured skin model.|https://dx.doi.org/10.1039/d4bm01530d
+Exploring the Effects of Sweet Potato Leaves on Skin Health-From Antimicrobial to Immunomodulator.|https://dx.doi.org/10.3390/molecules30040855
+Impeding Biofilm-Forming Mediated Methicillin-Resistant Staphylococcus aureus and Virulence Genes Using a Biosynthesized Silver Nanoparticles-Antibiotic Combination.|https://dx.doi.org/10.3390/biom15020266
+Bioactive Compounds as Alternative Approaches for Preventing Urinary Tract Infections in the Era of Antibiotic Resistance.|https://dx.doi.org/10.3390/antibiotics14020144
+What Do We Know About Bacterial Infections in Hidradenitis Suppurativa?-A Narrative Review.|https://dx.doi.org/10.3390/antibiotics14020142

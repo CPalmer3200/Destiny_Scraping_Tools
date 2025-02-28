@@ -36,3 +36,6 @@ Tracking a Fatal Disease: Lower Limb Gas Gangrene's Mortality-Related Factors.|h
 Long Term Outcomes After Flexor Tendon Tenotomy of the Diabetic Foot.|https://dx.doi.org/10.1177/11795514251314787
 Predictive Factors of Wound Healing and Limb Salvage After Successful Below-the-Knee Endovascular Angioplasty in Patients with Diabetic Foot Ulcer: A Retrospective Study.|https://dx.doi.org/10.3390/medicina61020277
 Chronic Wound Initiation: Single-Cell RNAseq of Cutaneous Wound Tissue and Contributions of Oxidative Stress to Initiation of Chronicity.|https://dx.doi.org/10.3390/antiox14020214
+Cost-effectiveness of swab versus tissue sampling for infected diabetic foot ulcers from the CODIFI2 randomised controlled trial.|https://dx.doi.org/10.1111/dme.15492
+Replicating Success in Conservative Surgery for Diabetes-Related Forefoot Osteomyelitis: A Comparative Study Between Two Diabetic Foot Units in Spain and Costa Rica.|https://dx.doi.org/10.1177/15347346251323104
+Analysis of risk factors for foot ulcers in diabetes patients with neurovascular complications.|https://dx.doi.org/10.1186/s12889-025-21639-1

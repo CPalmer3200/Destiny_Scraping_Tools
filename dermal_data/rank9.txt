@@ -9,3 +9,7 @@ Antimicrobial photodynamic therapy using gold nanoparticles conjugated with 1,9-
 Neck Abscess as a Rare Sequela of Pediatric Varicella-Zoster Infection: A Case Report.|https://dx.doi.org/10.7759/cureus.77639
 Complete genome assemblies and antibiograms of 22 Staphylococcus capitis isolates.|https://dx.doi.org/10.1186/s12863-025-01303-8
 Worker risk from ultrasonicator aerosolization in medical device reprocessing, a particulate and bio-burden approach.|https://dx.doi.org/10.1016/j.jhin.2025.01.012
+Molecular Epidemiology Clinical Manifestations, Decolonization Strategies, and Treatment Options of Methicillin-Resistant Staphylococcus aureus Infection in Neonates.|https://dx.doi.org/10.3390/pathogens14020155
+Inactivation of Staphylococcus aureus by antimicrobial photodynamic therapy using 1,9-Dimethyl-Methylene Blue: in vitro and in vivo studies.|https://dx.doi.org/10.1007/s10103-025-04362-6
+Staphylococcal skin infection isolates from dogs without recent antibiotic exposure are 100% susceptible to clindamycin.|https://dx.doi.org/10.3389/fvets.2024.1512582
+Surgical and microbiological characteristics that influence the probability of reoperation to promote bone healing after fracture-related infection diagnosis.|https://dx.doi.org/10.1007/s00590-025-04202-x
