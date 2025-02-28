@@ -4,3 +4,4 @@ High-dose metformin treatment to inhibit complex I during early reperfusion prot
 The microbiome-restorative potential of ibezapolstat for the treatment of Clostridioides difficile infection is predicted through variant PolC-type DNA polymerase III in Lachnospiraceae and Oscillospiraceae.|https://dx.doi.org/10.1128/aac.01679-24
 Tebipenem pivoxil as an alternative to ceftriaxone for clinically non-responding children with shigellosis: a randomised non-inferiority trial protocol.|https://dx.doi.org/10.1136/bmjopen-2024-088449
 Alterations in Methionine Cycle and Wnt/MAPK Signaling Associated with HMBi-Induced Cashmere Growth in Goats.|https://dx.doi.org/10.3390/ijms26041663
+The combined dual β-lactams and diazabicyclooctane β-lactamase inhibitor is highly effective against Mycobacterium abscessus species in vitro.|https://dx.doi.org/10.1016/j.jgar.2025.02.015
