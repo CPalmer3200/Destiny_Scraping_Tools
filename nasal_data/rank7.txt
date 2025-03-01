@@ -24,3 +24,4 @@ An mRNA Display Approach for Covalent Targeting of a Staphylococcus aureus Virul
 Factors Associated With Observation Unit Admission in Emergency Department Patients With Skin and Soft Tissue Infections.|https://dx.doi.org/10.1016/j.acepjo.2024.100002
 Clonal Candida auris and ESKAPE pathogens on the skin of residents of nursing homes.|https://dx.doi.org/10.1038/s41586-025-08608-9
 Clinical and demographic characteristics of spondylodiscitis in a Mexican population: A retrospective study.|https://dx.doi.org/10.1016/j.ram.2025.01.002
+[Distribution of pathogens in patients with ventilator-associated pneumonia and their association with Dectin-1/Syk signaling pathway].|https://dx.doi.org/10.3760/cma.j.cn121430-20231027-00913
