@@ -4,3 +4,5 @@ RETRACTION: Prevalence of Surgical Site Wound Infection After Spine Surgery in N
 Evaluating long-term MRSA colonization and household spread: Insights from a community-based study.|https://dx.doi.org/10.1016/j.bjid.2025.104518
 Isolation and antimicrobial resistance patterns of Staphylococcus aureus and Escherichia coli from caprine respiratory tract infections: A hospital-based clinical study.|https://dx.doi.org/10.5455/javar.2024.k855
 Diagnostic Accuracy of a Nasal Rapid Staphylococcus aureus PCR Test in Intubated Children With Severe Community-Acquired Pneumonia.|https://dx.doi.org/10.1097/INF.0000000000004777
+Elexacaftor-Tezacaftor-Ivacaftor Improves Sinonasal Outcomes in Young Children With Cystic Fibrosis.|https://dx.doi.org/10.1002/alr.23555
+Evaluating infection risk associated with Staphylococcus aureus nasal carriage in blood donors: a prospective multicentre study in Denmark.|https://dx.doi.org/10.1016/j.cmi.2025.02.021

@@ -2,3 +2,6 @@ PAPreC: A Pipeline for Antigenicity Prediction Comparison Methods across Bacteri
 An unusual presentation of rhinosporidiosis in the lacrimal sac - A case report and a literature review.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1271_24
 Tackling Infectious Diseases in the Caribbean and South America: Epidemiological Insights, Antibiotic Resistance, Associated Infectious Diseases in Immunological Disorders, Global Infection Response, and Experimental Anti-Idiotypic Vaccine Candidates Against Microorganisms of Public Health Importance.|https://dx.doi.org/10.3390/microorganisms13020282
 The flavonoid-sensing regulator AefR is involved in modulating quorum sensing through repressing the MexEF-OprN efflux pump in Pseudomonas fluorescens.|https://dx.doi.org/10.1128/msystems.00915-24
+Molecular characterization of resistance and biofilm genes of ESKAPE pathogens isolated from clinical samples: examination of the effect of boric acid on biofilm ability by cell culture method.|https://dx.doi.org/10.1186/s12866-025-03830-x
+Trends of neonatal sepsis and its etiology at Hawassa, Ethiopia: a five year retrospective cross-sectional study.|https://dx.doi.org/10.1186/s12887-025-05515-w
+Mitochondria sense bacterial lactate and drive release of neutrophil extracellular traps.|https://dx.doi.org/10.1016/j.chom.2025.02.003
