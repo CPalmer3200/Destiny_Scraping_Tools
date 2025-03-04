@@ -28,3 +28,7 @@ Clinical and demographic characteristics of spondylodiscitis in a Mexican popula
 Methicillin-resistant Staphylococcus aureus (MRSA) in men having sex with men (MSM): a systematic review.|https://dx.doi.org/10.1186/s12879-025-10593-3
 Molecular Epidemiological Features of Methicillin-Resistant Staphylococcus aureus in Japan.|https://dx.doi.org/10.1248/bpb.b23-00685
 Fitness cost and compensatory evolution of penicillin-induced resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.foodres.2025.115841
+Posterior fixation without debridement for pyogenic spondylodiscitis can promote infection control: initial evaluation of a pyogenic spondylodiscitis posterior fixation rat model.|https://dx.doi.org/10.1007/s00586-025-08750-y
+Bacteria profiles and antimicrobial susceptibility pattern of isolates from beds and door handles of hospital wards in Tiko Health District, Cameroon.|https://dx.doi.org/10.11604/pamj.2024.49.85.41817
+Tricuspid Endocarditis Leading to a Stroke: A Case Report of Paradoxical Embolism in a Young Intravenous Drug User.|https://dx.doi.org/10.7759/cureus.78304
+A Semi-Interpenetrating Network Hydrogel with Excellent Photothermal Antibacterial and ROS Scavenging Activities for MRSA-Infected Wounds.|https://dx.doi.org/10.1021/acsami.4c17889
