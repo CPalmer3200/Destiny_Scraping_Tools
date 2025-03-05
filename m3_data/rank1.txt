@@ -18,3 +18,4 @@ In vitro validation concept for lyophilized fecal microbiota products with a foc
 Development of live biotherapeutic products: a position statement of Asia-Pacific Microbiota Consortium.|https://dx.doi.org/10.1136/gutjnl-2024-334501
 Case report of clostridium difficile infection after rectal resection with ileostomy.|https://dx.doi.org/10.1186/s12957-025-03713-5
 Effects of clinical donor characteristics on the success of faecal microbiota transplantation for patients in Denmark with Clostridioides difficile infection: a single-centre, prospective cohort study.|https://dx.doi.org/10.1016/j.lanmic.2024.101034
+Australasian Society of Infectious Diseases updated guidelines for the management of Clostridioides difficile infection in adults and children in Australia and New Zealand.|https://dx.doi.org/10.1111/imj.16638

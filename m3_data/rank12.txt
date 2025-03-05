@@ -7,3 +7,4 @@ Evaluating the risk of Clostridioides difficile infection from toilet flushing: 
 Advantages of short-term antimicrobial treatment for pneumonia and aspiration pneumonia in older patients aged over 65: A nationwide inpatient database study.|https://dx.doi.org/10.35772/ghm.2024.01087
 Clostridioides difficile surveillance: 9-year comparison between automated surveillance and conventional surveillance in acute care hospitals.|https://dx.doi.org/10.1017/ash.2025.5
 Polymorphonuclear neutrophil depletion in ileal tissues reduces the immunopathology induced by Clostridioides difficile toxins.|https://dx.doi.org/10.1016/j.anaerobe.2025.102947
+Multicenter, retrospective cohort study of antimycobacterial treatment-related harms among patients with non-tuberculosis Mycobacterium infections in the United States.|https://dx.doi.org/10.1128/aac.01596-24

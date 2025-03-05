@@ -9,3 +9,4 @@ Risk factors for the development of Clostridioides difficile infection in patien
 Perioperative Blood Transfusion and Infectious Complications Among Pediatric Patients with Cancer.|https://dx.doi.org/10.3390/children12020160
 What Do We Know About Bacterial Infections in Hidradenitis Suppurativa?-A Narrative Review.|https://dx.doi.org/10.3390/antibiotics14020142
 Risk Factors for Clostridium difficile Infection in Inpatients: A Four-Year (2017-2020) Retrospective Study.|https://dx.doi.org/10.3390/antibiotics14020133
+Emergence and Spread of Clostridioides difficile Isolates With Reduced Fidaxomicin Susceptibility in an Acute Care Hospital.|https://dx.doi.org/10.1093/cid/ciaf028
