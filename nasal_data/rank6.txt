@@ -7,3 +7,4 @@ Trends of neonatal sepsis and its etiology at Hawassa, Ethiopia: a five year ret
 Mitochondria sense bacterial lactate and drive release of neutrophil extracellular traps.|https://dx.doi.org/10.1016/j.chom.2025.02.003
 Efficacy of non-cultured non-trypsinized dermabraded epidermal cell graft followed by narrowband ultraviolet B phototherapy in stable vitiligo.|https://dx.doi.org/10.25259/JCAS_116_2024
 Quantification of All-Trans Retinoic Acid and Cytokine Levels After Fungal, Viral and Bacterial Infections in the Lung.|https://dx.doi.org/10.1111/jcmm.70391
+Multimeric, multivalent fusion carrier proteins for site-selective glycoconjugate vaccines simultaneously targeting Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1039/d4sc08622h

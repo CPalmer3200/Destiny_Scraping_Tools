@@ -37,3 +37,5 @@ Contact Precautions for Preventing Methicillin-resistant Staphylococcus aureus i
 Potential Impact of Doxycycline Post-Exposure Prophylaxis on Tetracycline Resistance in Neisseria gonorrhoeae and Colonization with Tetracycline-Resistant Staphylococcus aureus and Group A Streptococcus.|https://dx.doi.org/10.1093/cid/ciaf089
 Full-root aortic valve replacement using medtronic freestyle bioroots for infective endocarditis.|https://dx.doi.org/10.1093/icvts/ivaf034
 Biomaterial-associated infections: Their development, characterization, prevention and treatment.|https://dx.doi.org/10.1016/j.colsurfb.2025.114595
+Community-onset bloodstream infection among people with opioid use disorders: a twenty-year population-based cohort study in Queensland, Australia.|https://dx.doi.org/10.1080/23744235.2025.2471823
+Detection of hospital super bacteria MRSA from the hands of healthcare professionals using machine learning and hyperspectral imaging.|https://dx.doi.org/10.1109/EMBC53108.2024.10781695
