@@ -2,3 +2,7 @@ Antimicrobial activity of ear cleanser products against biofilm and planktonic p
 Boron dipyrromethene fungicide for anti-microbial photodynamic therapeutics.|https://dx.doi.org/10.1016/j.jphotobiol.2025.113137
 Hinokitiol potentiates antimicrobial activity of bismuth drugs: a combination therapy for overcoming antimicrobial resistance.|https://dx.doi.org/10.1039/d4md00860j
 Therapeutic effect of pH responsive Magainin II modified azithromycin plus curcumin micelles in different depth models of MRSA infection.|https://dx.doi.org/10.1038/s41598-025-92384-z
+Preparation and antibacterial properties of benzisothiazolinone quaternized chitosan derivatives for sustainable fuel preservation.|https://dx.doi.org/10.1016/j.carbpol.2025.123379
+Influence of Injectable Hyaluronic Gel System on Skin Microbiota, Skin Defense Mechanisms and Integrity (Ex vivo Study).|https://dx.doi.org/10.2147/CCID.S491685
+Dual Drug Loaded Topical Cubosomal Gel Against Candida Albicans: An In Vitro and In Vivo Proof of Concept.|https://dx.doi.org/10.1208/s12249-025-03070-2
+Development of Mn(3)O(4) nanoparticles and Justicia adhatoda extract incorporated Carboxymethyl cellulose/Carbopol hydrogels: Rheological and in vitro bioactivity for sustained drug delivery system.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141713
