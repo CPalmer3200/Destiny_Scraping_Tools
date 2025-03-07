@@ -19,3 +19,5 @@ Development of live biotherapeutic products: a position statement of Asia-Pacifi
 Case report of clostridium difficile infection after rectal resection with ileostomy.|https://dx.doi.org/10.1186/s12957-025-03713-5
 Effects of clinical donor characteristics on the success of faecal microbiota transplantation for patients in Denmark with Clostridioides difficile infection: a single-centre, prospective cohort study.|https://dx.doi.org/10.1016/j.lanmic.2024.101034
 Australasian Society of Infectious Diseases updated guidelines for the management of Clostridioides difficile infection in adults and children in Australia and New Zealand.|https://dx.doi.org/10.1111/imj.16638
+[The role of microbiological markers in the progression of Clostridioidesdifficile infection].|https://dx.doi.org/10.1016/j.ram.2024.12.003
+IL33 protects from recurrent C. difficile infection by restoration of humoral immunity.|https://dx.doi.org/10.1172/JCI184659
