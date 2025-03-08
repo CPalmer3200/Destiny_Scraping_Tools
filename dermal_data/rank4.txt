@@ -11,3 +11,4 @@ Protein-polysaccharide based nanogel/hydrogel composite with controlled continuo
 ROS-responsive nucleobase conjugated chitosan: Synthesis and evaluations for biomedical applications.|https://dx.doi.org/10.1016/j.carbpol.2025.123353
 Nanohybrid Hydrogel with Dual Functions: Controlled Low-Temperature Photothermal Antibacterial Activity and Promoted Regeneration for Treating MRSA-Infected Bone Defects.|https://dx.doi.org/10.1002/adhm.202500092
 Natural fluorescent carbon quantum dots embedded polyvinyl alcohol/chitosan film with photoregulation and high antibacterial efficiency for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141716
+Functional hydrogels promote chronic infectious wound healing by re-rousing macrophage M1 and inducing bacterial copper-like death.|https://dx.doi.org/10.1016/j.mtbio.2025.101571

@@ -5,3 +5,4 @@ Incidence, bacteriological profile and predictors of surgical site infections fo
 Clinical outcomes of lyophilised human amnion/chorion membrane in treatment of hard-to-heal diabetic foot ulcers in complex cases: a case series.|https://dx.doi.org/10.12968/jowc.2025.0022
 Innovative treatment of diabetic ulcers: combining chemical debridement and xenograft applications: a case study.|https://dx.doi.org/10.12968/jowc.2025.0010
 A research-based, current approach to diabetes-related acute foot infections and chronic osteomyelitis.|https://dx.doi.org/10.1080/17446651.2025.2474110
+CODIFI2: Randomised controlled trial to compare clinical and cost-effectiveness of swabs versus tissue sampling to inform management of infected diabetic foot ulcers.|https://dx.doi.org/10.1111/dme.70009
