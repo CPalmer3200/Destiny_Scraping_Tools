@@ -45,3 +45,5 @@ Rapid, reference-free identification of bacterial pathogen transmission using op
 Bacterial colonisation doubles the risk of exacerbation in alpha-1 antitrypsin deficiency.|https://dx.doi.org/10.1016/j.rmed.2025.108025
 Host-Derived Delta-Like Canonical Notch Ligand-1 in Sepsis and Septic shock: Infection site, pathogens and disease severity matter - Secondary Analysis of Data from a Randomized Controlled Trial.|https://dx.doi.org/10.1016/j.jinf.2025.106458
 Craniopharyngioma and Abscess: when Tumor and Infection Co-exist.|https://dx.doi.org/10.1016/j.neucie.2025.500657
+An Under-Recognised Rapidly Fatal Condition: Phlegmonous Gastritis.|https://dx.doi.org/10.12890/2025_005175
+Predictive model for surgical intervention in pediatric acute hematogenous osteomyelitis.|https://dx.doi.org/10.1186/s13018-025-05641-2
