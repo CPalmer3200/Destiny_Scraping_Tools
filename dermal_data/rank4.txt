@@ -12,3 +12,4 @@ ROS-responsive nucleobase conjugated chitosan: Synthesis and evaluations for bio
 Nanohybrid Hydrogel with Dual Functions: Controlled Low-Temperature Photothermal Antibacterial Activity and Promoted Regeneration for Treating MRSA-Infected Bone Defects.|https://dx.doi.org/10.1002/adhm.202500092
 Natural fluorescent carbon quantum dots embedded polyvinyl alcohol/chitosan film with photoregulation and high antibacterial efficiency for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141716
 Functional hydrogels promote chronic infectious wound healing by re-rousing macrophage M1 and inducing bacterial copper-like death.|https://dx.doi.org/10.1016/j.mtbio.2025.101571
+Injectable alginate/collagen clindamycin hydrogel for treatment of surgical site infections.|https://dx.doi.org/10.1038/s41598-025-92294-0
