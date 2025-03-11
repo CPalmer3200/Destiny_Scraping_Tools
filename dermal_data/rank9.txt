@@ -2,3 +2,5 @@ Global phylogenomic analysis of Staphylococcus pseudintermedius reveals genomic 
 Epidemiological profile and antimicrobial resistance trends of Staphylococcus aureus in Chinese pediatric intensive care units from 2016 to 2022: a multi-center retrospective study.|https://dx.doi.org/10.1186/s12879-025-10704-0
 Methicillin-resistant Staphylococcus aureus (MRSA) in men having sex with men (MSM): a systematic review.|https://dx.doi.org/10.1186/s12879-025-10593-3
 Molecular Epidemiological Features of Methicillin-Resistant Staphylococcus aureus in Japan.|https://dx.doi.org/10.1248/bpb.b23-00685
+Staphylococcus aureus utilizes vimentin to internalize human keratinocytes.|https://dx.doi.org/10.3389/fcimb.2025.1543186
+Analysis of cytosolic mtDNA release during Staphylococcus aureus infection.|https://dx.doi.org/10.1016/bs.mcb.2024.09.003

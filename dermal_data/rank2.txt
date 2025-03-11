@@ -7,3 +7,4 @@ Innovative treatment of diabetic ulcers: combining chemical debridement and xeno
 A research-based, current approach to diabetes-related acute foot infections and chronic osteomyelitis.|https://dx.doi.org/10.1080/17446651.2025.2474110
 CODIFI2: Randomised controlled trial to compare clinical and cost-effectiveness of swabs versus tissue sampling to inform management of infected diabetic foot ulcers.|https://dx.doi.org/10.1111/dme.70009
 Polymicrobial infection in bone biopsies and relapse in diabetic foot osteomyelitis: The role of soft tissue involvement.|https://dx.doi.org/10.1111/wrr.70011
+Diabetic foot attack: Managing severe sepsis in the diabetic patient.|https://dx.doi.org/10.5492/wjccm.v14.i1.98419
