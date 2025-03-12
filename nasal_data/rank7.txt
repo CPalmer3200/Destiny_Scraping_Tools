@@ -47,3 +47,12 @@ Host-Derived Delta-Like Canonical Notch Ligand-1 in Sepsis and Septic shock: Inf
 Craniopharyngioma and Abscess: when Tumor and Infection Co-exist.|https://dx.doi.org/10.1016/j.neucie.2025.500657
 An Under-Recognised Rapidly Fatal Condition: Phlegmonous Gastritis.|https://dx.doi.org/10.12890/2025_005175
 Predictive model for surgical intervention in pediatric acute hematogenous osteomyelitis.|https://dx.doi.org/10.1186/s13018-025-05641-2
+A Race Against Time: Rapidly Progressive Methicillin Resistant Staphylococcus aureus Pansinusitis with Vision Loss in an Immunocompetent Child.|https://dx.doi.org/10.1007/s12070-024-05263-w
+Vancomycin Resistant Enterococcus (VRE) - emergence to endemicity in a tertiary hospital in Singapore.|https://dx.doi.org/10.1016/j.jhin.2025.02.017
+Clinical presentation, treatment, and antimicrobial susceptibility of 155 sequential Staphylococcus lugdunensis infections.|https://dx.doi.org/10.1128/spectrum.02749-24
+Pyomyositis Caused by Streptococcus agalactiae: A Case Report and Review of the Literature.|https://dx.doi.org/10.7759/cureus.78617
+Antimicrobial Resistance and Migration: Interrelation Between Two Hot Topics in Global Health.|https://dx.doi.org/10.5334/aogh.4628
+Patients treated for infection following ACL reconstruction with graft removal have poorer outcomes than those treated with graft retention: A systematic review.|https://dx.doi.org/10.1002/jeo2.70147
+What factors are associated with surgical site infections after intracranial neurosurgical procedures? An exploratory register study.|https://dx.doi.org/10.1016/j.jhin.2025.02.013
+Open and endovascular repair of infected femoral artery pseudoaneurysms in intravenous drug abusers: results from the Italian "IN-FEMS" (INfected Femoral artery psEudoaneurysMs in drug addictS) multicentric Registry.|https://dx.doi.org/10.1016/j.avsg.2025.01.041
+Injectable alginate/collagen clindamycin hydrogel for treatment of surgical site infections.|https://dx.doi.org/10.1038/s41598-025-92294-0
