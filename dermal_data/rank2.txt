@@ -8,3 +8,4 @@ A research-based, current approach to diabetes-related acute foot infections and
 CODIFI2: Randomised controlled trial to compare clinical and cost-effectiveness of swabs versus tissue sampling to inform management of infected diabetic foot ulcers.|https://dx.doi.org/10.1111/dme.70009
 Polymicrobial infection in bone biopsies and relapse in diabetic foot osteomyelitis: The role of soft tissue involvement.|https://dx.doi.org/10.1111/wrr.70011
 Diabetic foot attack: Managing severe sepsis in the diabetic patient.|https://dx.doi.org/10.5492/wjccm.v14.i1.98419
+The landscape of biofilm models for phage therapy: mimicking biofilms in diabetic foot ulcers using 3D models.|https://dx.doi.org/10.3389/fmicb.2025.1553979
