@@ -5,3 +5,4 @@ Seasonal variation in Operculicarya decaryi H. Perrier essential oil composition
 Human Skin Microbiota-Derived Extracellular Vesicles and Their Cosmeceutical Possibilities-A Mini Review.|https://dx.doi.org/10.1111/exd.70073
 Fish Gelatin-Hyaluronic Acid Scaffold for Construction of an Artificial Three-Dimensional Skin Model.|https://dx.doi.org/10.1021/acsomega.4c09708
 Subcutaneous undifferentiated pleomorphic sarcoma is more aggressive than pleomorphic dermal sarcoma: Prognosis from a Danish nationwide registry-based cohort.|https://dx.doi.org/10.1016/j.ejso.2025.109747
+Unsupervised machine learning identifies biomarkers of disease progression in post-kala-azar dermal leishmaniasis in Sudan.|https://dx.doi.org/10.1371/journal.pntd.0012924

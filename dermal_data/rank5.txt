@@ -7,3 +7,6 @@ Influence of Injectable Hyaluronic Gel System on Skin Microbiota, Skin Defense M
 Dual Drug Loaded Topical Cubosomal Gel Against Candida Albicans: An In Vitro and In Vivo Proof of Concept.|https://dx.doi.org/10.1208/s12249-025-03070-2
 Development of Mn(3)O(4) nanoparticles and Justicia adhatoda extract incorporated Carboxymethyl cellulose/Carbopol hydrogels: Rheological and in vitro bioactivity for sustained drug delivery system.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141713
 Ultrastructural Analysis of Infected Absorbable Bone Fixation Material Using Scanning Electron Microscopy After Zygomatic Bone Fracture Surgery.|https://dx.doi.org/10.1097/GOX.0000000000006611
+Revealing the clinical relevance of Staphylococcus borealis.|https://dx.doi.org/10.1128/spectrum.01988-24
+Basic science review of transcutaneous osseointegration: current status, research gaps and needs, and defining future directions.|https://dx.doi.org/10.1097/OI9.0000000000000367
+Reduced growth and biofilm formation at high temperatures contribute to Cryptococcus deneoformans dermatotropism.|https://dx.doi.org/10.1242/dmm.052141
