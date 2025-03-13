@@ -56,3 +56,7 @@ Patients treated for infection following ACL reconstruction with graft removal h
 What factors are associated with surgical site infections after intracranial neurosurgical procedures? An exploratory register study.|https://dx.doi.org/10.1016/j.jhin.2025.02.013
 Open and endovascular repair of infected femoral artery pseudoaneurysms in intravenous drug abusers: results from the Italian "IN-FEMS" (INfected Femoral artery psEudoaneurysMs in drug addictS) multicentric Registry.|https://dx.doi.org/10.1016/j.avsg.2025.01.041
 Injectable alginate/collagen clindamycin hydrogel for treatment of surgical site infections.|https://dx.doi.org/10.1038/s41598-025-92294-0
+Preclinical Evaluation of the Safety, Toxicity and Efficacy of Genetically Modified Wharton's Jelly Mesenchymal Stem/Stromal Cells Expressing the Antimicrobial Peptide SE-33.|https://dx.doi.org/10.3390/cells14050341
+Virucidal and Bactericidal Properties of Biocompatible Copper Textiles.|https://dx.doi.org/10.1002/gch2.202400346
+Anti-inflammatory and antibacterial hydrogel based on a polymerizable ionic liquid.|https://dx.doi.org/10.1016/j.actbio.2025.03.015
+Postoperative pneumonia in isolated coronary artery bypass grafting: A comprehensive study of epidemiology, etiology, and disease burden from China (2020-2023).|https://dx.doi.org/10.1371/journal.pone.0319017
