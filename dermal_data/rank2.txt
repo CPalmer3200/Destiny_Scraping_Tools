@@ -11,3 +11,5 @@ Diabetic foot attack: Managing severe sepsis in the diabetic patient.|https://dx
 The landscape of biofilm models for phage therapy: mimicking biofilms in diabetic foot ulcers using 3D models.|https://dx.doi.org/10.3389/fmicb.2025.1553979
 Metrnl Ameliorates Ferroptosis in Model of Diabetic Foot Ulcer Through the Inhibition of Mitochondrial Damage via LKB1/AMPK Signaling.|https://dx.doi.org/10.1055/a-2502-8712
 Right and Left Ventricle Thrombus in a 68-Year-Old Patient With Sepsis and Cardiomyopathy.|https://dx.doi.org/10.7759/cureus.78742
+[Foot Ulcers in Orthopedics].|https://dx.doi.org/10.23785/TU.2024.07.004
+Cost-Effectiveness Analysis for Managing Diabetic Foot Ulcer (DFU) in USA: Platelet-Rich Plasma (PRP) vs Standard of Care (SoC).|https://dx.doi.org/10.2147/CEOR.S496616

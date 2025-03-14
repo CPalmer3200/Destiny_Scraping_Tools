@@ -10,3 +10,4 @@ Ultrastructural Analysis of Infected Absorbable Bone Fixation Material Using Sca
 Revealing the clinical relevance of Staphylococcus borealis.|https://dx.doi.org/10.1128/spectrum.01988-24
 Basic science review of transcutaneous osseointegration: current status, research gaps and needs, and defining future directions.|https://dx.doi.org/10.1097/OI9.0000000000000367
 Reduced growth and biofilm formation at high temperatures contribute to Cryptococcus deneoformans dermatotropism.|https://dx.doi.org/10.1242/dmm.052141
+Lavandula dentata leaves as potential natural antibiofilm agents against Pseudomonas aeruginosa.|https://dx.doi.org/10.1038/s41598-025-88824-5
