@@ -18,3 +18,6 @@ Curcumin-Functionalized Electrospun Nanofibrous Membranes with Antimicrobial Act
 Anti-inflammatory and antibacterial hydrogel based on a polymerizable ionic liquid.|https://dx.doi.org/10.1016/j.actbio.2025.03.015
 Biodegradable Antimicrobial Gauzes Enabled by Dry Spinning Poly(Butylene Adipate Terephthalate) (PBAT) Fibers.|https://dx.doi.org/10.1002/marc.202401066
 Assessing the efficacy of polyvinyl alcohol/chitosan nanofibrous mat loaded with myrtle essential oil/gum Arabic in wound healing.|https://dx.doi.org/10.1080/09205063.2025.2476288
+Characterization of polyvinyl alcohol/chitosan nanofibers loaded with royal jelly by blending electrospinning for potential wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141977
+Controlled-release of cinnamaldehyde from MXene/ZIF8/gelatin composite coatings: An integrated strategy to combat implant-associated infection.|https://dx.doi.org/10.1016/j.colsurfb.2025.114615
+Polydopamine-modified hydroxyapatite and manganese tetroxide nanozyme incorporated gelatin methacryloyl hydrogel: A multifunctional platform for anti-bacteria, immunomodulation, angiogenesis, and enhanced regeneration in infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141834
