@@ -11,3 +11,6 @@ Multimeric, multivalent fusion carrier proteins for site-selective glycoconjugat
 The lack of a biorepository during vaccine trials: A lost opportunity to understand staphylococcal immunity.|https://dx.doi.org/10.1016/j.vaccine.2025.126896
 The impact of non-pharmacological interventions on nasopharyngeal Staphylococcus aureus, streptococcus pneumoniae, moraxella catarrhalis, haemophilus influenzae carriage and the change of pneumococcal vaccination in healthy children under 5 years old in Beijing, China.|https://dx.doi.org/10.1080/14760584.2025.2476521
 Sequential Respiratory Syncytial Virus and Bacterial Infections in the Nasopharynx of Zambian Infants and Mothers.|https://dx.doi.org/10.1097/INF.0000000000004779
+Identification and characterization of amphipathic antimicrobial peptides with broad spectrum activity against multi-drug resistant bacteria.|https://dx.doi.org/10.1016/j.crmicr.2025.100363
+Characterization of Hippo Signaling Components in the Early Dorsal Pancreatic Bud.|https://dx.doi.org/10.1016/j.gep.2025.119392
+Mulberry Leaves-Derived Carbon Dots for Photodynamic Treatment of Methicillin-Resistant Staphylococcus aureus-Infected Wounds via Metabolic Perturbation.|https://dx.doi.org/10.1021/acsami.4c22263

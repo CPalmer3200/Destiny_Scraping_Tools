@@ -60,3 +60,13 @@ Preclinical Evaluation of the Safety, Toxicity and Efficacy of Genetically Modif
 Virucidal and Bactericidal Properties of Biocompatible Copper Textiles.|https://dx.doi.org/10.1002/gch2.202400346
 Anti-inflammatory and antibacterial hydrogel based on a polymerizable ionic liquid.|https://dx.doi.org/10.1016/j.actbio.2025.03.015
 Postoperative pneumonia in isolated coronary artery bypass grafting: A comprehensive study of epidemiology, etiology, and disease burden from China (2020-2023).|https://dx.doi.org/10.1371/journal.pone.0319017
+Could a handheld point-of-care ultrasound system alter the management of patients with pleural infection?|https://dx.doi.org/10.1136/bcr-2024-263279
+Genome-wide mutagenesis identifies factors involved in MRSA vaginal colonization.|https://dx.doi.org/10.1016/j.celrep.2025.115421
+Antimicrobial-Resistant Infections in Hospitalized Patients.|https://dx.doi.org/10.1001/jamanetworkopen.2024.62059
+Failure to Close: An Unexpected Surgical Complication Reveals OTULIN Haploinsufficiency.|https://dx.doi.org/10.1002/acr2.11800
+Bacteraemia in a Nigerian hospital: Implementing antimicrobial resistance surveillance.|https://dx.doi.org/10.4102/jphia.v16i1.655
+High incidence of multidrug-resistant organisms and modifiable risk factors associated with surgical site infections: a cohort study in a tertiary medical center in Kuala Lumpur, Malaysia from 2020 to 2023.|https://dx.doi.org/10.1186/s13756-025-01537-2
+Surveillance of surgical site infections among caesarean section in VINCat hospitals: Results from 2008 to 2022.|https://dx.doi.org/10.1016/j.eimce.2024.07.012
+The epidemiology of antimicrobial resistant bacterial infection in Qatar: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jiph.2025.102732
+Frequency of haematogenous periprosthetic joint infection due to bacteraemia caused by gram-positive cocci.|https://dx.doi.org/10.1080/23744235.2025.2476530
+Exercise-driven gut microbiota alterations enhance colonization resistance against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.celrep.2025.115424
