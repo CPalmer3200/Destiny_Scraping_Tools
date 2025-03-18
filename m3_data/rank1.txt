@@ -3,3 +3,4 @@ Anatomic Drivers of J-Sign Presence and Severity: If There Is a Jump, Look for a
 Efficacy and safety of early antibiotic de-escalation in febrile neutropenia for patients with hematologic malignancy: a systematic review and meta-analysis.|https://dx.doi.org/10.1128/aac.01597-24
 Thrombosis Secondary to Intravenous Dicyclomine Administration: A Case Report and Literature Review.|https://dx.doi.org/10.1177/08971900251326808
 Fecal microbiota transplantation in a patient hospitalized in the intensive care unit - Case report.|https://dx.doi.org/10.1016/j.heliyon.2025.e42793
+Impact of Clostridioides difficile Infection on Clinical Outcomes in Hospitalized IBD Patients and the Role of Fecal Microbiota Transplantation: A Retrospective Cohort Study.|https://dx.doi.org/10.1002/kjm2.70002
