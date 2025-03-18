@@ -11,3 +11,4 @@ Universal vs Targeted Chlorhexidine Bathing and Nasal Decolonization in Hospital
 Nasal methicillin-resistant Staphylococcus aureus carriage among hospitalized patients before and after COVID-19 pandemic in a regional hospital in taiwan.|https://dx.doi.org/10.1016/j.jmii.2025.02.011
 Efficient Extraction, Chemical Characterization, and Bioactivity of Essential Oil From Pine Needles.|https://dx.doi.org/10.1002/pca.3529
 [Analysis of colonization rate and molecular characteristics of Staphylococcus aureus on tracheotomy wounds at early postoperational stage in neonates].|https://dx.doi.org/10.3760/cma.j.cn112140-2024914-00645
+Analysis of Staphylococcus aureus infections among pediatric Indian patients.|https://dx.doi.org/10.6026/9732063002001275
