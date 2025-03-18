@@ -18,3 +18,9 @@ Best practice offloading treatments for diabetic foot ulcer healing, remission, 
 Peptoniphilus vaginalis bacteremia in a patient with diabetic foot infection: First reported case and literature review.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.116794
 Association Between Systemic Inflammatory Response index and Diabetic Foot Ulcer in the US Population with Diabetes in the NHANES: A Retrospective Cross-Sectional Study.|https://dx.doi.org/10.1177/15347346251324478
 Brown adipose tissue transplantation ameliorates hindlimb ischemic damage in diabetic mice.|https://dx.doi.org/10.1038/s41598-025-93261-5
+Comparison of Procalcitonin Levels in Diabetic Foot Ulcer Infection and Osteomyelitis: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1177/15347346251325898
+Diabetic foot ulcer care integrating Salmon White's model: the critical role of community nurses.|https://dx.doi.org/10.12968/bjcn.2024.0043
+Not All in Vein: Oral Antibiotics for Diabetic Foot Osteomyelitis: A Narrative Review.|https://dx.doi.org/10.3390/jcm14051405
+Comprehensive review on diabetic foot ulcers and neuropathy: Treatment, prevention and management.|https://dx.doi.org/10.4239/wjd.v16.i3.100329
+Optimizing risk management for post-amputation wound complications in diabetic patients: Focus on glycemic and immunosuppressive control.|https://dx.doi.org/10.4239/wjd.v16.i3.102899
+Advancing chronic and acute wound healing with cold atmospheric plasma: cellular and molecular mechanisms, benefits, risks, and future directions.|https://dx.doi.org/10.3389/fmed.2025.1527736

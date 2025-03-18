@@ -6,3 +6,5 @@ Staphylococcus aureus utilizes vimentin to internalize human keratinocytes.|http
 Analysis of cytosolic mtDNA release during Staphylococcus aureus infection.|https://dx.doi.org/10.1016/bs.mcb.2024.09.003
 Evidence of in vitro mecB-mediated β-lactam antibiotic resistance transfer to Staphylococcus aureus from Macrococcus psychrotolerans sp. nov., a psychrophilic bacterium from food-producing animals and human clinical specimens.|https://dx.doi.org/10.1128/aem.01652-24
 Multi-strain carriage and intrahost diversity of Staphylococcus aureus among Indigenous adults in the USA.|https://dx.doi.org/10.1099/mgen.0.001367
+Secondary Infection of Adverse Local Tissue Reaction Leading to Amputation in a Patient With a Modular Knee Endoprosthesis.|https://dx.doi.org/10.5435/JAAOSGlobal-D-24-00293
+Major antigenic differences in Aeromonas salmonicida isolates correlate with the emergence of a new strain causing furunculosis in Chilean salmon farms.|https://dx.doi.org/10.3389/fcimb.2025.1508135
