@@ -70,3 +70,11 @@ Surveillance of surgical site infections among caesarean section in VINCat hospi
 The epidemiology of antimicrobial resistant bacterial infection in Qatar: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jiph.2025.102732
 Frequency of haematogenous periprosthetic joint infection due to bacteraemia caused by gram-positive cocci.|https://dx.doi.org/10.1080/23744235.2025.2476530
 Exercise-driven gut microbiota alterations enhance colonization resistance against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.celrep.2025.115424
+Friedelin: A natural compound exhibited potent antibacterial, anti-inflammatory, and wound healing properties against MRSA-infected wounds.|https://dx.doi.org/10.1007/s00210-025-03965-8
+Fractional inhibitory concentration of bio-actives from agricultural waste disassembles biofilms and quenches virulence of nosocomial pathogens.|https://dx.doi.org/10.1099/jmm.0.001980
+H(2)O(2)-Driven Aggregation Induced Emission-Based Nanomotors for the Monitoring and Treatment of Infected Surgical Wound.|https://dx.doi.org/10.1002/smll.202500207
+Ion-paired moxifloxacin nanocrystal formulation improves treatment and prevention of ocular infection.|https://dx.doi.org/10.1016/j.jconrel.2025.113634
+Secondary Infection of Adverse Local Tissue Reaction Leading to Amputation in a Patient With a Modular Knee Endoprosthesis.|https://dx.doi.org/10.5435/JAAOSGlobal-D-24-00293
+Dual Functionalized Absorbable Hairy Cellulose-Based Fabric for Efficient Hemostasis and Antibacterial Property.|https://dx.doi.org/10.1002/adhm.202404438
+Surgical Site Infections: Prospective Study in a Medical College Teaching Hospital at Port Blair, India.|https://dx.doi.org/10.4103/jwas.jwas_9_24
+Assessment of Methicillin-Resistant Staphylococcus aureus (MRSA) knowledge and awareness among healthcare workers in South-Lebanon.|https://dx.doi.org/10.1016/j.infpip.2025.100451

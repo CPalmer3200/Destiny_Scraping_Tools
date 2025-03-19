@@ -14,3 +14,4 @@ Sequential Respiratory Syncytial Virus and Bacterial Infections in the Nasophary
 Identification and characterization of amphipathic antimicrobial peptides with broad spectrum activity against multi-drug resistant bacteria.|https://dx.doi.org/10.1016/j.crmicr.2025.100363
 Characterization of Hippo Signaling Components in the Early Dorsal Pancreatic Bud.|https://dx.doi.org/10.1016/j.gep.2025.119392
 Mulberry Leaves-Derived Carbon Dots for Photodynamic Treatment of Methicillin-Resistant Staphylococcus aureus-Infected Wounds via Metabolic Perturbation.|https://dx.doi.org/10.1021/acsami.4c22263
+Major antigenic differences in Aeromonas salmonicida isolates correlate with the emergence of a new strain causing furunculosis in Chilean salmon farms.|https://dx.doi.org/10.3389/fcimb.2025.1508135

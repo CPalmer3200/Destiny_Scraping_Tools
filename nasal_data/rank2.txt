@@ -12,3 +12,4 @@ Nasal methicillin-resistant Staphylococcus aureus carriage among hospitalized pa
 Efficient Extraction, Chemical Characterization, and Bioactivity of Essential Oil From Pine Needles.|https://dx.doi.org/10.1002/pca.3529
 [Analysis of colonization rate and molecular characteristics of Staphylococcus aureus on tracheotomy wounds at early postoperational stage in neonates].|https://dx.doi.org/10.3760/cma.j.cn112140-2024914-00645
 Analysis of Staphylococcus aureus infections among pediatric Indian patients.|https://dx.doi.org/10.6026/9732063002001275
+The human microbiome-derived antimicrobial lugdunin self-regulates its biosynthesis by a feed-forward mechanism.|https://dx.doi.org/10.1128/mbio.03571-24
