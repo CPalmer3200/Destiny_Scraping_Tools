@@ -24,3 +24,5 @@ Not All in Vein: Oral Antibiotics for Diabetic Foot Osteomyelitis: A Narrative R
 Comprehensive review on diabetic foot ulcers and neuropathy: Treatment, prevention and management.|https://dx.doi.org/10.4239/wjd.v16.i3.100329
 Optimizing risk management for post-amputation wound complications in diabetic patients: Focus on glycemic and immunosuppressive control.|https://dx.doi.org/10.4239/wjd.v16.i3.102899
 Advancing chronic and acute wound healing with cold atmospheric plasma: cellular and molecular mechanisms, benefits, risks, and future directions.|https://dx.doi.org/10.3389/fmed.2025.1527736
+[Application of minimally invasive osteotomy with preservation of blood supply to transversely transported bone segment in tibial transverse bone transport].|https://dx.doi.org/10.7507/1002-1892.202411086
+Bacteriological profile of diabetic foot ulcers and analysis of serum meteorin levels.|https://dx.doi.org/10.1007/s11033-025-10427-0

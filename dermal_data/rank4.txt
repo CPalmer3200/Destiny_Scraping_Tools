@@ -22,3 +22,7 @@ Characterization of polyvinyl alcohol/chitosan nanofibers loaded with royal jell
 Controlled-release of cinnamaldehyde from MXene/ZIF8/gelatin composite coatings: An integrated strategy to combat implant-associated infection.|https://dx.doi.org/10.1016/j.colsurfb.2025.114615
 Polydopamine-modified hydroxyapatite and manganese tetroxide nanozyme incorporated gelatin methacryloyl hydrogel: A multifunctional platform for anti-bacteria, immunomodulation, angiogenesis, and enhanced regeneration in infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141834
 Fostering kappa (κ)-carrageenan hydrogels with the power of a natural crosslinker: a comparison between tender coconut water and potassium chloride (KCl) for therapeutic applications.|https://dx.doi.org/10.1007/s13205-025-04254-0
+Friedelin: A natural compound exhibited potent antibacterial, anti-inflammatory, and wound healing properties against MRSA-infected wounds.|https://dx.doi.org/10.1007/s00210-025-03965-8
+An Antibacterial Hydrogel Based on Silk Sericin Cross-Linking Glycyrrhizic Acid and Silver for Infectious Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.4c01687
+A mechanoresponsive heterochiral hydrogelator as a potential matrix metalloproteinase-2 inhibitor: unravelling its anti-inflammatory efficacy in vitro and in vivo.|https://dx.doi.org/10.1039/d4tb01976h
+Nano CaCO(3) mediated in vitro and in vivo wound healing characteristics of chitosan films without added drugs.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142057

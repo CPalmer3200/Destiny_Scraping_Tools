@@ -3,3 +3,6 @@ Exploration the therapeutic effects of sodium houttuyfonate combined with penici
 Frequent Hand Hygiene-Induced Skin Symptoms and Alterations in Hand Microbiota: A Neglected Form of Chronic Occupational Exposure Among Health Care Workers.|https://dx.doi.org/10.1097/NCQ.0000000000000855
 Suprathel's usability and effectiveness for the treatment of paediatric partial thickness burns: a 10-year retrospective cohort study.|https://dx.doi.org/10.1016/j.burns.2025.107451
 Insights into bloodstream infections in South African paediatric burn patients: implications for antimicrobial stewardship.|https://dx.doi.org/10.1186/s12879-025-10582-6
+Study of shape of zinc oxide nanoparticles on the in-vitro and in-vivo performance of polymeric hydrogels for wound dressing.|https://dx.doi.org/10.1016/j.ijpharm.2025.125482
+"Monitor-and-treat" that integrates bacterio-therapeutics and bio-optics for infected wound management.|https://dx.doi.org/10.1016/j.bioactmat.2025.02.001
+Investigation of methicillin, beta lactam, carbapenem, and multidrug resistant bacteria from blood cultures of septicemia suspected patients in Northwest Ethiopia.|https://dx.doi.org/10.1038/s41598-025-86648-x
