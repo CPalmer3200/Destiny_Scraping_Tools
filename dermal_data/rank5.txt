@@ -16,3 +16,5 @@ Molecular mechanism of crisaborole combined with erythromycin against methicilli
 Case Series of Maggot Debridement Therapy Demonstrates Safety and Efficacy for Treating Problematic Wounds in Cats and Dogs in Mexico.|https://dx.doi.org/10.1016/j.tcam.2025.100964
 Achromobacter xylosoxidans: An uncommon scalp infection leading to alopecia and biofilm formation.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.116797
 Design, Characterization, Antimicrobial Activity, and In Silico Studies of Theinothiazoloquinazoline Derivatives Bearing Thiazinone, Tetrazole, and Triazole Moieties.|https://dx.doi.org/10.1021/acsomega.4c11076
+Synthesis and anti-MRSA activity of quaternized small molecule antimicrobial peptide mimics based on norharmane.|https://dx.doi.org/10.1016/j.ejmech.2025.117518
+[Phage therapy analysis of effectiveness in comorbid patients with wounds and surgical infections of various etiology based on the results of a comparative clinical study].|https://dx.doi.org/10.17116/hirurgia2025031124

@@ -26,3 +26,6 @@ Friedelin: A natural compound exhibited potent antibacterial, anti-inflammatory,
 An Antibacterial Hydrogel Based on Silk Sericin Cross-Linking Glycyrrhizic Acid and Silver for Infectious Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.4c01687
 A mechanoresponsive heterochiral hydrogelator as a potential matrix metalloproteinase-2 inhibitor: unravelling its anti-inflammatory efficacy in vitro and in vivo.|https://dx.doi.org/10.1039/d4tb01976h
 Nano CaCO(3) mediated in vitro and in vivo wound healing characteristics of chitosan films without added drugs.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142057
+Physicochemical properties of bacterial cellulose/phototherapeutic polypyrrole/antibacterial chitosan composite membranes and their evaluation as chronic wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142183
+Preparation of an antibacterial, injectable, thermosensitive, and physically cross-linked hemostatic hydrogel based on quaternized linetype poly(N-isopropylacrylamide).|https://dx.doi.org/10.1039/d5tb00042d
+A multiple-crosslinked injectable hydrogel for modulating tissue microenvironment and accelerating infected diabetic wound repair.|https://dx.doi.org/10.1186/s12951-025-03285-2

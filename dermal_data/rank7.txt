@@ -8,3 +8,4 @@ Subcutaneous undifferentiated pleomorphic sarcoma is more aggressive than pleomo
 Unsupervised machine learning identifies biomarkers of disease progression in post-kala-azar dermal leishmaniasis in Sudan.|https://dx.doi.org/10.1371/journal.pntd.0012924
 Development of a virulent O'nyong'nyong challenge model to determine heterologous protection mediated by a hydrogen peroxide-inactivated chikungunya virus vaccine.|https://dx.doi.org/10.1371/journal.pntd.0012938
 Trends in Post-Kala-Azar Dermal Leishmaniasis in Sudan: Cases, Ethnic Distribution, and Recovery.|https://dx.doi.org/10.4269/ajtmh.24-0602
+Enhanced Dermal Delivery of Nanoparticulate Formulation of Cutibacterium acnes Using Sponge Spicules for Atopic Dermatitis Treatment.|https://dx.doi.org/10.2147/IJN.S509798
