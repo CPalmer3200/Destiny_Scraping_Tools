@@ -1,0 +1,4 @@
+Comparative effectiveness of metronidazole and vancomycin for treatment of Clostridioides difficile infection in hospitalized children.|https://dx.doi.org/10.1017/ash.2025.51
+Efficacy of antimicrobials in preventing resistance in solid organ transplant recipients: A systematic review of clinical trials.|https://dx.doi.org/10.5500/wjt.v15.i1.98003
+Prophylactic Vancomycin in the Primary Prevention of Clostridium difficile in Allogeneic Stem Cell Transplant.|https://dx.doi.org/10.1111/tid.70025
+Comprehensive review of Clostridium difficile infection: Epidemiology, diagnosis, prevention, and treatment.|https://dx.doi.org/10.4292/wjgpt.v16.i1.100560
