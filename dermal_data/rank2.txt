@@ -30,3 +30,5 @@ Bacteriological profile of diabetic foot ulcers and analysis of serum meteorin l
 Evidence Mapping of Clinical Practice Guideline Recommendations for Self-Management Strategies of Diabetic Foot Ulcers.|https://dx.doi.org/10.1089/wound.2024.0276
 Cutaneous manifestations of diabetes mellitus: a narrative review.|https://dx.doi.org/10.31744/einstein_journal/2025RW1193
 Commentary on "The Infected Diabetic Foot: Analysis of Diabetic and Non-diabetic Foot Infections".|https://dx.doi.org/10.1111/wrr.70017
+On-demand dual-stimuli-responsive hydrogels for localized and sustained delivery of MP-L [I5R8] to treat bacterial wound infections.|https://dx.doi.org/10.1016/j.colsurfb.2025.114636
+Machine learning-based risk prediction model for neuropathic foot ulcers in patients with diabetic peripheral neuropathy.|https://dx.doi.org/10.1111/jdi.70010
