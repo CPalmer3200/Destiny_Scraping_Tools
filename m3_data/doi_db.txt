@@ -3108,3 +3108,5 @@ Unknown DOI
 10.1016/j.clnesp.2025.03.017
 10.1093/jalm/jfaf010
 10.1016/j.anaerobe.2025.102955
+10.1016/j.anaerobe.2025.102953
+10.2450/BloodTransfus.929
