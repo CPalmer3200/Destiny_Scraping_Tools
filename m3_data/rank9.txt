@@ -2,3 +2,4 @@ Functional diversification of dietary plant small molecules by the gut microbiom
 Treatment decision-making factors and sequencing in recurrent and/or metastatic squamous cell carcinoma of the head and neck.|https://dx.doi.org/10.1016/j.ctrv.2025.102910
 Evaluation of Department of Defense hospital antimicrobial stewardship programs (ASPs) using a novel Core Elements scoring approach and modeling Core Elements scores with metrics related to ASP outcomes.|https://dx.doi.org/10.1017/ice.2025.33
 Non-invasive treatment of Clostridioides difficile infection with a human-origin probiotic cocktail through gut microbiome-gut metabolome modulations.|https://dx.doi.org/10.3389/fmicb.2025.1555220
+Anti-interleukin-23 treatment linked to improved Clostridioides difficile infection survival.|https://dx.doi.org/10.1080/19490976.2025.2480195
