@@ -15,3 +15,6 @@ Identification and characterization of amphipathic antimicrobial peptides with b
 Characterization of Hippo Signaling Components in the Early Dorsal Pancreatic Bud.|https://dx.doi.org/10.1016/j.gep.2025.119392
 Mulberry Leaves-Derived Carbon Dots for Photodynamic Treatment of Methicillin-Resistant Staphylococcus aureus-Infected Wounds via Metabolic Perturbation.|https://dx.doi.org/10.1021/acsami.4c22263
 Major antigenic differences in Aeromonas salmonicida isolates correlate with the emergence of a new strain causing furunculosis in Chilean salmon farms.|https://dx.doi.org/10.3389/fcimb.2025.1508135
+Surface display of LukF-PV on Bacillus subtilis spore for oral administration.|https://dx.doi.org/10.1080/17460913.2025.2480933
+Investigation of the effect of anti-PIA/PNAG antibodies on biofilm formation in Escherichia coli.|https://dx.doi.org/10.3389/fmicb.2025.1552670
+Topical administration of mupirocin ointment and fusidic acid in bacterial infection-induced skin diseases.|https://dx.doi.org/10.5114/ada.2024.145185
