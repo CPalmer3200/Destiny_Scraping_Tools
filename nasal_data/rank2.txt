@@ -13,3 +13,4 @@ Efficient Extraction, Chemical Characterization, and Bioactivity of Essential Oi
 [Analysis of colonization rate and molecular characteristics of Staphylococcus aureus on tracheotomy wounds at early postoperational stage in neonates].|https://dx.doi.org/10.3760/cma.j.cn112140-2024914-00645
 Analysis of Staphylococcus aureus infections among pediatric Indian patients.|https://dx.doi.org/10.6026/9732063002001275
 The human microbiome-derived antimicrobial lugdunin self-regulates its biosynthesis by a feed-forward mechanism.|https://dx.doi.org/10.1128/mbio.03571-24
+Multiple antimicrobial resistance indices of Staphylococcus aureus from the nares of goats and slaughterhouse attendants in Kampala city, Uganda- a cross sectional study.|https://dx.doi.org/10.1186/s12866-025-03891-y
