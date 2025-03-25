@@ -8,3 +8,6 @@ Risk Factors for Antibiotic Exposure Post-Fecal Microbiota Transplantation for R
 Molecular clock complexities of Clostridioides difficile.|https://dx.doi.org/10.1016/j.anaerobe.2025.102953
 A "movement" worth making: why and how Transfusion Services can play a role in Fecal Microbiota Transplant programs.|https://dx.doi.org/10.2450/BloodTransfus.929
 Characteristics and Real-World Outcomes of Patients Treated with Fecal Microbiota, Live-jslm (RBL) for the Prevention of Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1007/s40121-025-01130-5
+Australian Paediatric Surveillance Unit (APSU) Annual Surveillance Report 2023.|https://dx.doi.org/10.33321/cdi.2025.49.019
+Repurposing thioridazine as a potential CD2068 inhibitor to mitigate antibiotic resistance in Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.csbj.2025.02.036
+[Challenges and progress in in the clinical application of fecal microbiota transplantation].|https://dx.doi.org/10.3760/cma.j.cn441530-20241224-00420
