@@ -32,3 +32,5 @@ A multiple-crosslinked injectable hydrogel for modulating tissue microenvironmen
 One-step fabrication of chitosan/dialdehyde cellulose/polypyrrole composite nanofibers with antibacterial, antioxidant, and immunomodulatory effects.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142105
 Catalyst-Free Synthesis of a Mechanically Tailorable, Nitric-Oxide-Releasing Organohydrogel and Its Derived Underwater Superoleophobic Coatings.|https://dx.doi.org/10.1021/acsami.4c21695
 NIR-activating glycyrrhizic acid/carbon nanozyme injectable polysaccharides-based hydrogels for promoting polymicrobial infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142082
+Laminaria japonica polysaccharide nano‑silver film with synergistic antibiosis for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142378
+Nature-inspired designing of KLR- and KLS-rich antimicrobial peptides: unleashing the antibiofilm potential of RbP12 against MDR S. aureus and P. aeruginosa.|https://dx.doi.org/10.1093/jac/dkaf079
