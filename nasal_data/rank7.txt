@@ -4,3 +4,4 @@ Sericin-Assisted Green Synthesis of Gold Nanoparticles as Broad-Spectrum Antimic
 Vancomycin Population Pharmacokinetic Models in Non- Critically Ill Adults Patients: a scoping review.|https://dx.doi.org/10.12688/f1000research.128260.2
 Prevalence, Determinants, and Antibiotic Resistance Patterns of Urinary Tract Infections in Antenatal Women in an Urban Resettlement Colony and Slum in Delhi, India: A Cross-sectional Study.|https://dx.doi.org/10.4103/ijcm.ijcm_689_23
 Clinical and epidemiological profile of infective endocarditis in Chile - A systematic review of descriptive analysis.|https://dx.doi.org/10.1016/j.ahjo.2025.100511
+Wear-resistant antibacterial UHMWPE-based implant materials obtained by radiation crosslinking.|https://dx.doi.org/10.1039/d4bm01663g
