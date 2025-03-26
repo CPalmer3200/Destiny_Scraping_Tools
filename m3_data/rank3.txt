@@ -2,3 +2,6 @@ Selective Ion Separation by Capacitive Deionization: A Comprehensive Review.|htt
 Epidemiologic profile of community-acquired Clostridioides difficile infections: a systematic review and meta-analysis.|https://dx.doi.org/10.1017/S0950268825000202
 Synergistic human health risks of microplastics and co-contaminants: A quantitative risk assessment in water.|https://dx.doi.org/10.1016/j.jhazmat.2025.137809
 Evaluation of Plasma Arginine Vasopressin During Hypertonic Saline Loading: A Comparison of Radioimmunoassay and Liquid Chromatography-Tandem Mass Spectrometry.|https://dx.doi.org/10.1016/j.peptides.2025.171392
+Mother-to-child transmission of hepatitis B in Far North Queensland, 2013-2023.|https://dx.doi.org/10.33321/cdi.2025.49.026
+Vancomycin Population Pharmacokinetic Models in Non- Critically Ill Adults Patients: a scoping review.|https://dx.doi.org/10.12688/f1000research.128260.2
+[Fecal microbiota transplantation for the treatment of intestinal disorders: An analysis of treatment of 15 000 patients].|https://dx.doi.org/10.3760/cma.j.cn441530-20250114-00025

@@ -4,3 +4,4 @@ Three stages of laboratory stewardship in improving appropriate Clostridioides d
 Evaluation of Nutrition Therapy in Critically Ill Patients with Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.clnesp.2025.03.017
 Evaluation of a Fluorescence Immunoassay for Detection of Clostridioides difficile Glutamate Dehydrogenase and Toxin Antigens.|https://dx.doi.org/10.1093/jalm/jfaf010
 Molecular detection of toxigenic Clostridioides difficile in subgingival biofilm of severe periodontitis.|https://dx.doi.org/10.1016/j.anaerobe.2025.102955
+Association Between Reporting Antimicrobial Use and Clostridioides difficile Standardized Infection Ratios in South Carolina Hospitals.|https://dx.doi.org/10.3390/pharmacy13020033
