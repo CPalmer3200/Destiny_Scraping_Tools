@@ -8,3 +8,4 @@ Study of shape of zinc oxide nanoparticles on the in-vitro and in-vivo performan
 Investigation of methicillin, beta lactam, carbapenem, and multidrug resistant bacteria from blood cultures of septicemia suspected patients in Northwest Ethiopia.|https://dx.doi.org/10.1038/s41598-025-86648-x
 Self-healing hydrogel based on oxidized pectin with grafted dopamine as gallic acid carrier for burn wound treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.141826
 Maggot debridement therapy for burns surgery avoidance in an elderly and comorbid patient: A case report.|https://dx.doi.org/10.1177/20595131241279076
+Zn ion-incorporated injected hydrogels with reactive oxygen species and glucose scavenging capacity for diabetic wound healing.|https://dx.doi.org/10.1093/burnst/tkae067

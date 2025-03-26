@@ -34,3 +34,4 @@ On-demand dual-stimuli-responsive hydrogels for localized and sustained delivery
 Machine learning-based risk prediction model for neuropathic foot ulcers in patients with diabetic peripheral neuropathy.|https://dx.doi.org/10.1111/jdi.70010
 Trigona honey effect on wound pH and healing in diabetes-related foot ulcers: A case series.|https://dx.doi.org/10.1016/j.ctcp.2025.101975
 Rare Case of Osteomyelitis Caused by Achromobacter xylosoxidans.|https://dx.doi.org/10.7547/22-213
+Epidemiology and the Medical Burden of Diabetic Foot Ulcers Especially in Patients With Infection-A Population-Based Analysis From Germany.|https://dx.doi.org/10.1111/iwj.70157

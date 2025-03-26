@@ -21,3 +21,4 @@ Synthesis and anti-MRSA activity of quaternized small molecule antimicrobial pep
 Temperature-Triggered Reversible Adhesion Hydrogel with Responsive Drug Release, Mild Photothermal Therapy, and Biofilm Clearance for Skin Infection Healing.|https://dx.doi.org/10.1021/acsami.4c22647
 In vitro and in vivo efficacy of the Active Oligo Skin complex™, a new active ingredient processed from seawater, on multiple parameters of atopic skin.|https://dx.doi.org/10.1093/skinhd/vzae029
 Prodigiosin Loaded SN-PB@PG NPs-Based Multimodal Therapy for the Healing of Bacterial Infected Chronic Wounds.|https://dx.doi.org/10.1002/adhm.202405100
+Genomic and phenotypic characterization of staphylococci isolated from the skin of non-human primates.|https://dx.doi.org/10.1099/mic.0.001546
