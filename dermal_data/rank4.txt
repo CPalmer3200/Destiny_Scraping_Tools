@@ -35,3 +35,5 @@ NIR-activating glycyrrhizic acid/carbon nanozyme injectable polysaccharides-base
 Laminaria japonica polysaccharide nano‑silver film with synergistic antibiosis for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142378
 Nature-inspired designing of KLR- and KLS-rich antimicrobial peptides: unleashing the antibiofilm potential of RbP12 against MDR S. aureus and P. aeruginosa.|https://dx.doi.org/10.1093/jac/dkaf079
 Self-Assembling Nucleopeptides Exhibiting Strong Antimicrobial Activity against Multidrug-Resistant Clinically Isolated Strains and In Vitro Wound Healing Compatibility.|https://dx.doi.org/10.1021/acsabm.4c01891
+Nanoparticle-Enhanced Collagen Hydrogels for Chronic Wound Management.|https://dx.doi.org/10.3390/jfb16030091
+Antimicrobial Sponge: A Polyvinyl Alcohol, Tannic Acid and Curcumin-Loaded Nanolignin Hydrogel Composite Scaffold.|https://dx.doi.org/10.3390/gels11030168
