@@ -12,3 +12,4 @@ Enhanced Dermal Delivery of Nanoparticulate Formulation of Cutibacterium acnes U
 Caprine dermal scaffolds for repair of full-thickness skin wounds in rabbits.|https://dx.doi.org/10.1177/08853282251329559
 Efficacy and safety of polymyxin B sulfate versus colistin sulfate in ICU patients with nosocomial pneumonia caused by carbapenem-resistant Acinetobacter baumannii: a multicenter, propensity score-matched, real-world cohort study.|https://dx.doi.org/10.1186/s12879-025-10773-1
 A Mixture of Nicotinamide Mononucleotide, Decursin, and l-Cysteine Lowered Senescence-Associated Markers In Vitro and Was Effective Against 2,4-Dinitrochlorobenzene-Induced Atopic Dermatitis In Vivo: An Application of Network Pharmacology.|https://dx.doi.org/10.1089/jmf.2024.k.0282
+Antimicrobial and Antiherpetic Properties of Nanoencapsulated Hypericum perforatum Extract.|https://dx.doi.org/10.3390/ph18030366

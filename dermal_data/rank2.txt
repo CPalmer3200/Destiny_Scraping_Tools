@@ -35,3 +35,7 @@ Machine learning-based risk prediction model for neuropathic foot ulcers in pati
 Trigona honey effect on wound pH and healing in diabetes-related foot ulcers: A case series.|https://dx.doi.org/10.1016/j.ctcp.2025.101975
 Rare Case of Osteomyelitis Caused by Achromobacter xylosoxidans.|https://dx.doi.org/10.7547/22-213
 Epidemiology and the Medical Burden of Diabetic Foot Ulcers Especially in Patients With Infection-A Population-Based Analysis From Germany.|https://dx.doi.org/10.1111/iwj.70157
+Free tissue transfer for limb salvage following acute diabetes-related foot infections: A multicentre outcome study of success and failure.|https://dx.doi.org/10.1016/j.bjps.2025.03.003
+Total Thyroidectomy with Harmonic Scalpel Combined with Gelatin Thrombin Hemostatic: A Focus on the Elderly Population-A Multicentric Study.|https://dx.doi.org/10.3390/medicina61030496
+Advancing Cancer Treatment and Diagnosis: A Review on Photodynamic Therapy Using OLED Technology.|https://dx.doi.org/10.3390/molecules30061305
+Commentary on "The infected diabetic foot: Incidence and risk factors for dehiscence after surgery for diabetic foot infections".|https://dx.doi.org/10.1111/wrr.70020
