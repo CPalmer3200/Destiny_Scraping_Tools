@@ -5,3 +5,4 @@ Evaluation of Plasma Arginine Vasopressin During Hypertonic Saline Loading: A Co
 Mother-to-child transmission of hepatitis B in Far North Queensland, 2013-2023.|https://dx.doi.org/10.33321/cdi.2025.49.026
 Vancomycin Population Pharmacokinetic Models in Non- Critically Ill Adults Patients: a scoping review.|https://dx.doi.org/10.12688/f1000research.128260.2
 [Fecal microbiota transplantation for the treatment of intestinal disorders: An analysis of treatment of 15 000 patients].|https://dx.doi.org/10.3760/cma.j.cn441530-20250114-00025
+Effectiveness of Ampicillin-Sulbactam Versus Ceftriaxone for the Initial Treatment of Community-Acquired Pneumonia in Older Adults: A Target Trial Emulation Study.|https://dx.doi.org/10.1093/ofid/ofaf133

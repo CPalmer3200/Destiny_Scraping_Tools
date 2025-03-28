@@ -11,3 +11,8 @@ Characteristics and Real-World Outcomes of Patients Treated with Fecal Microbiot
 Australian Paediatric Surveillance Unit (APSU) Annual Surveillance Report 2023.|https://dx.doi.org/10.33321/cdi.2025.49.019
 Repurposing thioridazine as a potential CD2068 inhibitor to mitigate antibiotic resistance in Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.csbj.2025.02.036
 [Challenges and progress in in the clinical application of fecal microbiota transplantation].|https://dx.doi.org/10.3760/cma.j.cn441530-20241224-00420
+Clostridium Butyricum Miyairi Bacteriocin Treatment for Clostridioides difficile Infections with Clinical Isolates: Insights from In Vitro, Ex Vivo, and Mouse Model Studies.|https://dx.doi.org/10.1016/j.jgar.2025.03.007
+Impact of Fecal Microbiota Transplant Formulations, Storage Conditions, and Duration on Bacterial Viability, Functionality, and Clinical Outcomes in Patients with Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.3390/microorganisms13030587
+Exploring the Immunological Role of the Microbial Composition of the Appendix and the Associated Risks of Appendectomies.|https://dx.doi.org/10.3390/jpm15030112
+Insights into the Interaction Between Clostridioides difficile and the Gut Microbiome.|https://dx.doi.org/10.3390/jpm15030094
+Microbiota transplantation and administration of live biotherapeutic products for the treatment of dysbiosis-associated diseases.|https://dx.doi.org/10.1080/14712598.2025.2484303
