@@ -42,3 +42,4 @@ Injectable carboxymethyl chitosan/konjac glucomannan/catechin hydrogel with free
 Azithromycin-Loaded Nanoparticles Incorporated in Chitosan-Based Soft Hydrogels: A Novel Approach for Dental Drug Delivery.|https://dx.doi.org/10.3390/pharmaceutics17030304
 Chlorella-encapsulated living hydrogel based on gelatin and carrageenan with oxygen production, hemostatic and antibacterial capacity for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142356
 Electrospun amine-modified polysuccinimide/polycaprolactone nanofiber hydrogel dressings as antibacterial and hemostatic wound dressing applications.|https://dx.doi.org/10.1016/j.colsurfb.2025.114648
+Prospective evaluation of the Moleculight i: X™ in the early detection of driveline infections.|https://dx.doi.org/10.1093/icvts/ivae215

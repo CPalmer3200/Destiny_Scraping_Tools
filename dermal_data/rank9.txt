@@ -13,3 +13,4 @@ Multiple antimicrobial resistance indices of Staphylococcus aureus from the nare
 Brazilin reduces methicillin-resistant Staphylococcus aureus virulence and pathogenicity by decreasing the secretion of the α-hemolysin.|https://dx.doi.org/10.1016/j.phymed.2025.156616
 [Dermatological conditions requiring intensive care treatment].|https://dx.doi.org/10.1007/s00105-025-05497-x
 Rapid Detection of Panton-Valentine Leukocidin Production in Clinical Isolates of Staphylococcus aureus from Saxony and Brandenburg and Their Molecular Characterisation.|https://dx.doi.org/10.3390/pathogens14030238
+Genome-wide mutagenesis identifies factors involved in MRSA vaginal colonization.|https://dx.doi.org/10.1016/j.celrep.2025.115421

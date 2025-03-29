@@ -39,3 +39,10 @@ Free tissue transfer for limb salvage following acute diabetes-related foot infe
 Total Thyroidectomy with Harmonic Scalpel Combined with Gelatin Thrombin Hemostatic: A Focus on the Elderly Population-A Multicentric Study.|https://dx.doi.org/10.3390/medicina61030496
 Advancing Cancer Treatment and Diagnosis: A Review on Photodynamic Therapy Using OLED Technology.|https://dx.doi.org/10.3390/molecules30061305
 Commentary on "The infected diabetic foot: Incidence and risk factors for dehiscence after surgery for diabetic foot infections".|https://dx.doi.org/10.1111/wrr.70020
+Characteristics and Outcomes of Patients Admitted for Diabetic Foot Attack.|https://dx.doi.org/10.1177/15347346251328724
+Further considerations on risk factors for re-infection in diabetic foot osteomyelitis: Insights and recommendations for future research.|https://dx.doi.org/10.1111/wrr.70022
+The Relationship Between Plasma Fibrinogen Levels and the Severity of Diabetic Foot Ulcers in Diabetic Patients.|https://dx.doi.org/10.7759/cureus.81118
+Radiological Assessment of Charcot Neuro-Osteoarthropathy in Diabetic Foot: A Narrative Review.|https://dx.doi.org/10.3390/diagnostics15060767
+Diabetic Foot Ulcers Detection Model Using a Hybrid Convolutional Neural Networks-Vision Transformers.|https://dx.doi.org/10.3390/diagnostics15060736
+The Journey of Copper-Impregnated Dressings in Wound Healing: From a Medical Hypothesis to Clinical Practice.|https://dx.doi.org/10.3390/biomedicines13030562
+Synergistic Antibacterial Effect of Mucus Fraction from Cornu aspersum and Cirpofloxacin Against Pathogenic Bacteria Isolated from Wounds of Diabetic Patients.|https://dx.doi.org/10.3390/antibiotics14030260

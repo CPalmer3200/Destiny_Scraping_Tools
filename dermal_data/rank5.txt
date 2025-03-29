@@ -24,3 +24,4 @@ Prodigiosin Loaded SN-PB@PG NPs-Based Multimodal Therapy for the Healing of Bact
 Genomic and phenotypic characterization of staphylococci isolated from the skin of non-human primates.|https://dx.doi.org/10.1099/mic.0.001546
 Synergistic activity of dispersin B and benzoyl peroxide against Cutibacterium acnes/Staphylococcus epidermidis dual-species biofilms.|https://dx.doi.org/10.1371/journal.pone.0320662
 Biomimetic Synthesis of Nanomachine Inspired from Neutrophil Extracellular Traps for Multimodal Antibacterial Application.|https://dx.doi.org/10.1021/acsnano.4c18948
+Synthetic Cation Transporters Eradicate Drug-Resistant Staphylococcus aureus, Persisters, and Biofilms.|https://dx.doi.org/10.1021/jacsau.4c01198
