@@ -6,3 +6,5 @@ Mother-to-child transmission of hepatitis B in Far North Queensland, 2013-2023.|
 Vancomycin Population Pharmacokinetic Models in Non- Critically Ill Adults Patients: a scoping review.|https://dx.doi.org/10.12688/f1000research.128260.2
 [Fecal microbiota transplantation for the treatment of intestinal disorders: An analysis of treatment of 15 000 patients].|https://dx.doi.org/10.3760/cma.j.cn441530-20250114-00025
 Effectiveness of Ampicillin-Sulbactam Versus Ceftriaxone for the Initial Treatment of Community-Acquired Pneumonia in Older Adults: A Target Trial Emulation Study.|https://dx.doi.org/10.1093/ofid/ofaf133
+Radiological Insights into Acellular Dermal Matrix Integration in Post-Mastectomy Breast Reconstruction: Implications for Cancer Patient Management.|https://dx.doi.org/10.3390/cancers17060933
+Molecular Epidemiology of Clostridioides difficile Infections in Patients Hospitalized in 2017-2019 at the Central Teaching Hospital of Medical University of Lodz, Central Poland.|https://dx.doi.org/10.3390/antibiotics14030219

@@ -16,3 +16,4 @@ Impact of Fecal Microbiota Transplant Formulations, Storage Conditions, and Dura
 Exploring the Immunological Role of the Microbial Composition of the Appendix and the Associated Risks of Appendectomies.|https://dx.doi.org/10.3390/jpm15030112
 Insights into the Interaction Between Clostridioides difficile and the Gut Microbiome.|https://dx.doi.org/10.3390/jpm15030094
 Microbiota transplantation and administration of live biotherapeutic products for the treatment of dysbiosis-associated diseases.|https://dx.doi.org/10.1080/14712598.2025.2484303
+Evaluating Bezlotoxumab-Fidaxomicin Combination Therapy in Clostridioides Infection: A Single-Center Retrospective Study from Aichi Prefecture, Japan.|https://dx.doi.org/10.3390/antibiotics14030228

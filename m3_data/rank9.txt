@@ -5,3 +5,8 @@ Non-invasive treatment of Clostridioides difficile infection with a human-origin
 Anti-interleukin-23 treatment linked to improved Clostridioides difficile infection survival.|https://dx.doi.org/10.1080/19490976.2025.2480195
 The effect of antibiotic prescription in non-critically ill hospitalized patients with COVID-19: A Japanese inpatient database study.|https://dx.doi.org/10.1371/journal.pone.0318803
 Genomic islands and molecular mechanisms relating to drug-resistance in Clostridioides (Clostridium) difficile PCR ribotype 176.|https://dx.doi.org/10.1080/22221751.2025.2482698
+Associations Between Prophylactic IV Antibiotics and Outcomes in Patients With Acute Severe Brain Injury Who Require Mechanical Ventilation: Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/CCM.0000000000006654
+Full-length 16S rRNA sequencing revealed an altered microbiome diversity and composition of the jejunum and cecum in chicken infected with Eimeria necatrix.|https://dx.doi.org/10.1016/j.vetpar.2025.110458
+Therapeutic activation of IL-22-producing innate lymphoid cells enhances host defenses to Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.celrep.2025.115438
+Insights into gastrointestinal manifestation of human immunodeficiency virus: A narrative review.|https://dx.doi.org/10.5501/wjv.v14.i1.99249
+The role of microbial succinate in the pathophysiology of inflammatory bowel disease: mechanisms and therapeutic potential.|https://dx.doi.org/10.1016/j.mib.2025.102599
