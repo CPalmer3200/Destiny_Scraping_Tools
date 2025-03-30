@@ -8,3 +8,5 @@ Vancomycin Population Pharmacokinetic Models in Non- Critically Ill Adults Patie
 Effectiveness of Ampicillin-Sulbactam Versus Ceftriaxone for the Initial Treatment of Community-Acquired Pneumonia in Older Adults: A Target Trial Emulation Study.|https://dx.doi.org/10.1093/ofid/ofaf133
 Radiological Insights into Acellular Dermal Matrix Integration in Post-Mastectomy Breast Reconstruction: Implications for Cancer Patient Management.|https://dx.doi.org/10.3390/cancers17060933
 Molecular Epidemiology of Clostridioides difficile Infections in Patients Hospitalized in 2017-2019 at the Central Teaching Hospital of Medical University of Lodz, Central Poland.|https://dx.doi.org/10.3390/antibiotics14030219
+Comparison of B-mode, conventional color Doppler, and superb microvascular imaging for evaluating renal cortical thickness in dogs without and with chronic kidney disease.|https://dx.doi.org/10.2460/ajvr.25.01.0012
+Cone Beam-CT pulmonary angiography in balloon pulmonary angioplasty for chronic thromboembolic pulmonary hypertension: A review of technical parameters and benefits.|https://dx.doi.org/10.1016/j.ejrad.2025.112047
