@@ -6,3 +6,6 @@ Postoperative complications of ADM use in previously irradiated patients during 
 Reducing Postoperative Complications in High-Risk Breast Surgery Patients: A Preliminary Study on the Efficacy of NPWT Dressing.|https://dx.doi.org/10.3390/jpm15030104
 Utility of Excision and Direct Closure in Burns: A Case Report and Review of the Literature.|https://dx.doi.org/10.7759/cureus.79455
 A prospective study of vaginal topical pretreatment of compound sea-buckthorn oil suppository in postmenopausal women prior to colposcopy.|https://dx.doi.org/10.1038/s41598-025-95036-4
+Improving Outcomes in Immediate Prepectoral Reconstruction of Large and Ptotic Breast: The Reliability of Fifth Anterior Intercostal Artery Perforator Flap.|https://dx.doi.org/10.1016/j.clbc.2025.02.012
+Effectiveness of intrapartum azithromycin to prevent infections in planned vaginal births in low-income and middle-income countries: a post-hoc analysis of data from a multicentre, randomised, double-blind, placebo-controlled trial.|https://dx.doi.org/10.1016/S2214-109X(24)00562-X
+Smoking increases breast toxicity despite adjuvant hypofractionated IMRT in early breast cancer.|https://dx.doi.org/10.1186/s13014-025-02614-x
