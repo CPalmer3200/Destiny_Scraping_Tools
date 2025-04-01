@@ -7,3 +7,4 @@ Molecular detection of toxigenic Clostridioides difficile in subgingival biofilm
 Association Between Reporting Antimicrobial Use and Clostridioides difficile Standardized Infection Ratios in South Carolina Hospitals.|https://dx.doi.org/10.3390/pharmacy13020033
 Antibiotic Usage and Healthcare-Associated Clostridioides difficile in Patients with and Without COVID-19: A Tertiary Hospital Experience.|https://dx.doi.org/10.3390/antibiotics14030303
 Comparison of Medicare claims-based Clostridioides difficile infection epidemiologic case classification algorithms to medical record review by the Emerging Infections Program using a linked cohort, 2016-2021.|https://dx.doi.org/10.1017/ice.2024.204
+Determination of the performance of a novel diagnostic test for Clostridioides difficile toxins A and B using latent class analysis.|https://dx.doi.org/10.1128/jcm.01807-24

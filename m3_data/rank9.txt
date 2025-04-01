@@ -10,3 +10,4 @@ Full-length 16S rRNA sequencing revealed an altered microbiome diversity and com
 Therapeutic activation of IL-22-producing innate lymphoid cells enhances host defenses to Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.celrep.2025.115438
 Insights into gastrointestinal manifestation of human immunodeficiency virus: A narrative review.|https://dx.doi.org/10.5501/wjv.v14.i1.99249
 The role of microbial succinate in the pathophysiology of inflammatory bowel disease: mechanisms and therapeutic potential.|https://dx.doi.org/10.1016/j.mib.2025.102599
+The Impact of Endoscopic Healing on Disease-Related Outcomes in Patients With Ulcerative Proctitis.|https://dx.doi.org/10.1093/ibd/izaf044
