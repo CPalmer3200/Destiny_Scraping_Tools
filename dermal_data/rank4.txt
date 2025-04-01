@@ -43,3 +43,13 @@ Azithromycin-Loaded Nanoparticles Incorporated in Chitosan-Based Soft Hydrogels:
 Chlorella-encapsulated living hydrogel based on gelatin and carrageenan with oxygen production, hemostatic and antibacterial capacity for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142356
 Electrospun amine-modified polysuccinimide/polycaprolactone nanofiber hydrogel dressings as antibacterial and hemostatic wound dressing applications.|https://dx.doi.org/10.1016/j.colsurfb.2025.114648
 Prospective evaluation of the Moleculight i: X™ in the early detection of driveline infections.|https://dx.doi.org/10.1093/icvts/ivae215
+Design and synthesis of novel zwitterionic-quaternary ammonium chitosan derivatives of distinct categories: Strategies for enhancing antibacterial, antioxidant, and biocompatible properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142665
+Preparation and characterization of Duloxetine-loaded nanofiber scaffold composed of polyvinyl alcohol and chitosan as wound healing agent, fabricated by electrospinning method.|https://dx.doi.org/10.1080/10837450.2025.2486797
+AI-Guided Design of Antimicrobial Peptide Hydrogels for Precise Treatment of Drug-resistant Bacterial Infections.|https://dx.doi.org/10.1002/adma.202500043
+Accelerating Interface NIR-Induced Charge Transfer Through Cu and Black Phosphorus Modifying G-C(3)N(4) for Rapid Healing of Staphylococcus aureus Infected Diabetic Ulcer Wounds.|https://dx.doi.org/10.1002/smll.202500378
+Enhancing the performance of injectable self-activating PVA-alginate hydrogel by Ag@MXene nanozyme as NIR responsive and photoenhanced antibacterial platform for wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.123434
+A self-assembly enzyme-like hydrogel with ROS scavenging and immunomodulatory capability for microenvironment-responsive wound healing acceleration.|https://dx.doi.org/10.1016/j.ijpharm.2025.125529
+Preparation and characterization of a novel oligomeric gum from Eucommia ulmoides crosslinked with carboxymethyl chitosan antibacterial wound dressing for quick hemostasis.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142652
+Development and characterization of alginate and chitosan hybrid films for dual administration of neomycin and lidocaine.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142632
+Development and characterization of biodegradable antibacterial hydrogels of xanthan gum for controlled ciprofloxacin release.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142637
+Tri-network PVA/chitosan/gelatin hydrogel modified by tannic acid with self-healing, adhesive and anti-inflammatory properties to accelerate wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142280

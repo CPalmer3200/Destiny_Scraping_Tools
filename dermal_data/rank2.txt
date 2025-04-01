@@ -46,3 +46,5 @@ Radiological Assessment of Charcot Neuro-Osteoarthropathy in Diabetic Foot: A Na
 Diabetic Foot Ulcers Detection Model Using a Hybrid Convolutional Neural Networks-Vision Transformers.|https://dx.doi.org/10.3390/diagnostics15060736
 The Journey of Copper-Impregnated Dressings in Wound Healing: From a Medical Hypothesis to Clinical Practice.|https://dx.doi.org/10.3390/biomedicines13030562
 Synergistic Antibacterial Effect of Mucus Fraction from Cornu aspersum and Cirpofloxacin Against Pathogenic Bacteria Isolated from Wounds of Diabetic Patients.|https://dx.doi.org/10.3390/antibiotics14030260
+GLP-1 Agonists' Effect on Infection and Union after Tibiotalar Fusion, Subtalar Fusion, Triple Arthrodesis.|https://dx.doi.org/10.1177/10711007251328370
+Healing soles: a microbiology-driven electronic health record-algorithm and order set to decrease antipseudomonal use in diabetic foot infections, a retrospective, observational, quasi-experimental study.|https://dx.doi.org/10.1017/ash.2025.59

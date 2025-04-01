@@ -25,3 +25,5 @@ Genomic and phenotypic characterization of staphylococci isolated from the skin 
 Synergistic activity of dispersin B and benzoyl peroxide against Cutibacterium acnes/Staphylococcus epidermidis dual-species biofilms.|https://dx.doi.org/10.1371/journal.pone.0320662
 Biomimetic Synthesis of Nanomachine Inspired from Neutrophil Extracellular Traps for Multimodal Antibacterial Application.|https://dx.doi.org/10.1021/acsnano.4c18948
 Synthetic Cation Transporters Eradicate Drug-Resistant Staphylococcus aureus, Persisters, and Biofilms.|https://dx.doi.org/10.1021/jacsau.4c01198
+Terramide A: a novel ironophore targeting Acinetobacter baumannii with mechanistic insights into bacterial iron deprivation.|https://dx.doi.org/10.1038/s41429-025-00816-9
+The Fe-Cyclam-Derived Compound [Fe(cyclam)sal]PF(6) Restrains Drug-Resistant Staphylococcus aureus Proliferation and Biofilm Formation.|https://dx.doi.org/10.1021/acsomega.4c11347
