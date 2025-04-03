@@ -1,1 +1,3 @@
 Geographic Region and Insurance Status Predict Access to Salvage Procedures for Diabetic Lower-Extremity Wounds in the United States.|https://dx.doi.org/10.1097/SAP.0000000000004209
+Case series 2.|https://dx.doi.org/10.12968/jowc.2025.34.Sup4c.S16
+Role of therapeutic treatment with antiseptic solutions in the care of diabetic foot ulcers.|https://dx.doi.org/10.12968/jowc.2025.34.Sup4c.S4
