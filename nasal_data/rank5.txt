@@ -10,3 +10,13 @@ Improving Outcomes in Immediate Prepectoral Reconstruction of Large and Ptotic B
 Effectiveness of intrapartum azithromycin to prevent infections in planned vaginal births in low-income and middle-income countries: a post-hoc analysis of data from a multicentre, randomised, double-blind, placebo-controlled trial.|https://dx.doi.org/10.1016/S2214-109X(24)00562-X
 Smoking increases breast toxicity despite adjuvant hypofractionated IMRT in early breast cancer.|https://dx.doi.org/10.1186/s13014-025-02614-x
 The current state of tranexamic acid in mastectomy and breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2025.03.022
+RETRACTION: Comprehensive Analysis of Risk Factors for Postoperative Wound Infection Following Radical Mastectomy in Breast Cancer Patients.|https://dx.doi.org/10.1111/iwj.70497
+Limited impact of body mass index on the risk of postoperative complications after implant-based breast reconstruction: A retrospective cohort study of 1847 patients.|https://dx.doi.org/10.1016/j.bjps.2025.02.046
+Two-stage prepectoral breast reconstruction: A comprehensive review and meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2025.02.041
+A Meta-analysis of Breast Implant Irrigation Solutions' Effect on Infection and Capsular Contracture Frequencies.|https://dx.doi.org/10.1097/SAP.0000000000004208
+Complications After Deep Inferior Epigastric Perforator Flap Breast Reconstruction for Nipple-Sparing Mastectomy: A Series of 380 Flaps.|https://dx.doi.org/10.1097/SAP.0000000000004252
+The Use of Low-Dose Chlorhexidine Gluconate Irrigation in Preventing Intraoperative Contamination in Tissue Expander-Based Breast Reconstruction.|https://dx.doi.org/10.1097/SAP.0000000000004268
+Safety and Racial Implications of Same-Day Discharge in Alloplastic Breast Reconstruction Following the COVID-19 Pandemic.|https://dx.doi.org/10.1097/SAP.0000000000004262
+Approach to the Pediatric Poland Syndrome Patient: A 20-Year Academic Experience and Update of the Literature.|https://dx.doi.org/10.1097/SAP.0000000000004320
+Impact of High Food Swamp Scores on Breast Reduction Outcomes: A Multivariate Analysis of 1052 Patients.|https://dx.doi.org/10.1097/SAP.0000000000004210
+Trends in Acellular Dermal Matrix Utilization in Postmastectomy Tissue Expander Placement: An 11-Year Retrospective Study.|https://dx.doi.org/10.1097/SAP.0000000000004293
