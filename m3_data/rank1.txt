@@ -20,3 +20,7 @@ Evaluating Bezlotoxumab-Fidaxomicin Combination Therapy in Clostridioides Infect
 Fecal microbiota transplantation to decolonize vancomycin-resistant Enterococcus: A pilot study to evaluate safety and clinical outcome.|https://dx.doi.org/10.1016/j.jgar.2025.03.011
 [Clostridioides difficile infections at Landspítali University Hospital 2017-2022].|https://dx.doi.org/10.17992/lbl.2025.04.834
 Outcomes of Fecal Microbiota Transplantation for Clostridioides difficile Infection in South Australia.|https://dx.doi.org/10.1093/ofid/ofaf149
+Safety and Efficacy of Fecal Microbiota, Live-jslm, in Preventing Recurrent Clostridioides difficile Infection in Participants Who Were Mildly to Moderately Immunocompromised in the Phase 3 PUNCH CD3-OLS Study.|https://dx.doi.org/10.1093/ofid/ofaf117
+Analysis of Multiple Programmed Cell Death Patterns and Functional Validations of Apoptosis-Associated Genes in Lung Adenocarcinoma.|https://dx.doi.org/10.1245/s10434-025-17224-w
+Fidaxomicin for Clostridioides difficile infection in patients with inflammatory bowel disease: a multicentre retrospective cohort study.|https://dx.doi.org/10.1093/ecco-jcc/jjaf056
+In vitro susceptibility of clinical Clostridioides difficile isolates in Israel to metronidazole, vancomycin, fidaxomicin, ridinilazole and ibezapolstat.|https://dx.doi.org/10.1186/s12876-025-03800-7
