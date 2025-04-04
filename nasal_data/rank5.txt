@@ -20,3 +20,5 @@ Safety and Racial Implications of Same-Day Discharge in Alloplastic Breast Recon
 Approach to the Pediatric Poland Syndrome Patient: A 20-Year Academic Experience and Update of the Literature.|https://dx.doi.org/10.1097/SAP.0000000000004320
 Impact of High Food Swamp Scores on Breast Reduction Outcomes: A Multivariate Analysis of 1052 Patients.|https://dx.doi.org/10.1097/SAP.0000000000004210
 Trends in Acellular Dermal Matrix Utilization in Postmastectomy Tissue Expander Placement: An 11-Year Retrospective Study.|https://dx.doi.org/10.1097/SAP.0000000000004293
+"Evaluation of Single-Port Endoscopic Nipple/Skin -Sparing Mastectomy with Prepectoral Breast Implant Reconstruction in Clinical Practice".|https://dx.doi.org/10.1097/PRS.0000000000012112
+AI Risk Prediction Tools for Alloplastic Breast Reconstruction.|https://dx.doi.org/10.1097/PRS.0000000000012124
