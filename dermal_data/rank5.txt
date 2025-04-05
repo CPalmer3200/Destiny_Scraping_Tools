@@ -1,2 +1,4 @@
 Luteolin loaded PEGylated cerosomes: a novel treatment for MRSA skin infections.|https://dx.doi.org/10.1186/s12866-025-03873-0
 Fabrication and characterization of a multifunctional hyaluronic acid-based microneedle system for diabetic wound healing.|https://dx.doi.org/10.1016/j.ejpb.2025.114704
+Biologic Response With and Without Acellular Dermal Matrix in Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000006671
+Targeting Chronic Biofilm Infections With Patient-derived Phages: An In Vitro and Ex Vivo Proof-of-concept Study in Patients With Left Ventricular Assist Devices.|https://dx.doi.org/10.1093/ofid/ofaf158
