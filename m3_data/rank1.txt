@@ -24,3 +24,4 @@ Safety and Efficacy of Fecal Microbiota, Live-jslm, in Preventing Recurrent Clos
 Analysis of Multiple Programmed Cell Death Patterns and Functional Validations of Apoptosis-Associated Genes in Lung Adenocarcinoma.|https://dx.doi.org/10.1245/s10434-025-17224-w
 Fidaxomicin for Clostridioides difficile infection in patients with inflammatory bowel disease: a multicentre retrospective cohort study.|https://dx.doi.org/10.1093/ecco-jcc/jjaf056
 In vitro susceptibility of clinical Clostridioides difficile isolates in Israel to metronidazole, vancomycin, fidaxomicin, ridinilazole and ibezapolstat.|https://dx.doi.org/10.1186/s12876-025-03800-7
+Avoiding Premature Antibiotic Use in Recurrent Clostridioides difficile Infection After Fecal Microbiota Transplant.|https://dx.doi.org/10.14309/crj.0000000000001660
