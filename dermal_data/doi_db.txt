@@ -3232,3 +3232,4 @@ Unknown DOI
 10.7759/cureus.80033
 10.1089/sur.2024.280
 10.1126/sciimmunol.adp6231
+10.1016/j.ijbiomac.2025.142814
