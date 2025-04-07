@@ -25,3 +25,5 @@ Analysis of Multiple Programmed Cell Death Patterns and Functional Validations o
 Fidaxomicin for Clostridioides difficile infection in patients with inflammatory bowel disease: a multicentre retrospective cohort study.|https://dx.doi.org/10.1093/ecco-jcc/jjaf056
 In vitro susceptibility of clinical Clostridioides difficile isolates in Israel to metronidazole, vancomycin, fidaxomicin, ridinilazole and ibezapolstat.|https://dx.doi.org/10.1186/s12876-025-03800-7
 Avoiding Premature Antibiotic Use in Recurrent Clostridioides difficile Infection After Fecal Microbiota Transplant.|https://dx.doi.org/10.14309/crj.0000000000001660
+Health economic burden of refractory and recurrent Clostridioides difficile infection in the inpatient setting of the German health care system - the IBIS Study.|https://dx.doi.org/10.1016/j.jhin.2025.03.011
+Assessment of Dientamoeba fragilis interhuman transmission by fecal microbiota transplantation.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107504
