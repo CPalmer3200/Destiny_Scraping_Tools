@@ -15,3 +15,11 @@ Preparation and characterization of a novel oligomeric gum from Eucommia ulmoide
 Culturomics of the pig tonsil microbiome identifies new species and an untapped source of novel antimicrobials.|https://dx.doi.org/10.1186/s40168-025-02064-3
 Tumor cells that resist neutrophil anticancer cytotoxicity acquire a prometastatic and innate immune escape phenotype.|https://dx.doi.org/10.1038/s41423-025-01283-w
 Antibiotic resistance in equine dermatology: what should we do?|https://dx.doi.org/10.2460/javma.24.11.0732
+Preventing Orthopedic Infections.|https://dx.doi.org/10.1016/j.idc.2025.02.016
+Eosinophil innate immune memory after bacterial skin infection promotes allergic lung inflammation.|https://dx.doi.org/10.1126/sciimmunol.adp6231
+Current Antibiotic Resistance Profile of ESKAPE Pathogens in a Nepalese Hospital: A Cross-Sectional Study.|https://dx.doi.org/10.1155/cjid/4426596
+Comparing the Clinical and Microbiological Effects of Antibacterial-Coated Vicryl Suture and Non-Coated Vicryl Suture after Minor Oral Surgical Procedures.|https://dx.doi.org/10.1007/s12663-024-02249-7
+Bacterial etiology and antimicrobial resistance in bloodstream infections at the University of Gondar Comprehensive Specialized Hospital: a cross-sectional study.|https://dx.doi.org/10.3389/fmicb.2025.1518051
+Complete genome sequence, metabolic profiling and functional studies reveal Ligilactobacillus salivarius LS-ARS2 is a promising biofilm-forming probiotic with significant antioxidant, antibacterial, and antibiofilm potential.|https://dx.doi.org/10.3389/fmicb.2025.1535388
+The Influence of Surface Damage on Miniplates: A Study of Bacterial Attachment Across Various Strains.|https://dx.doi.org/10.12688/f1000research.159954.1
+Prevalence and predictors of multidrug resistant organism infections in critically ill patients with opioid use disorder: a multicenter retrospective cohort study.|https://dx.doi.org/10.1017/ice.2025.64
