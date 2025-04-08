@@ -27,3 +27,5 @@ In vitro susceptibility of clinical Clostridioides difficile isolates in Israel 
 Avoiding Premature Antibiotic Use in Recurrent Clostridioides difficile Infection After Fecal Microbiota Transplant.|https://dx.doi.org/10.14309/crj.0000000000001660
 Health economic burden of refractory and recurrent Clostridioides difficile infection in the inpatient setting of the German health care system - the IBIS Study.|https://dx.doi.org/10.1016/j.jhin.2025.03.011
 Assessment of Dientamoeba fragilis interhuman transmission by fecal microbiota transplantation.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107504
+Colitis in Multiple Sclerosis Patients Treated with B-cell Depleting Monoclonal Antibodies (P8-1.014).|https://dx.doi.org/10.1212/WNL.0000000000208749
+Treatment of Clostridioides difficile: The Times They are a Changing.|https://dx.doi.org/10.14309/ajg.0000000000003445

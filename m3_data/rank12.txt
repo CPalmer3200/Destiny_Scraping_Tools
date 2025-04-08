@@ -8,3 +8,4 @@ Association Between Reporting Antimicrobial Use and Clostridioides difficile Sta
 Antibiotic Usage and Healthcare-Associated Clostridioides difficile in Patients with and Without COVID-19: A Tertiary Hospital Experience.|https://dx.doi.org/10.3390/antibiotics14030303
 Comparison of Medicare claims-based Clostridioides difficile infection epidemiologic case classification algorithms to medical record review by the Emerging Infections Program using a linked cohort, 2016-2021.|https://dx.doi.org/10.1017/ice.2024.204
 Determination of the performance of a novel diagnostic test for Clostridioides difficile toxins A and B using latent class analysis.|https://dx.doi.org/10.1128/jcm.01807-24
+Surveillance of MRSA, ESBL-producing Klebsiella pneumoniae, carbapenem-resistant Enterobacteriaceae, and Clostridioides difficile in Catalan Hospitals: Findings from the VINCat Program.|https://dx.doi.org/10.1016/j.eimce.2025.02.013

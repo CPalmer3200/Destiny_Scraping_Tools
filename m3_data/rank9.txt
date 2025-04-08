@@ -12,3 +12,6 @@ Insights into gastrointestinal manifestation of human immunodeficiency virus: A 
 The role of microbial succinate in the pathophysiology of inflammatory bowel disease: mechanisms and therapeutic potential.|https://dx.doi.org/10.1016/j.mib.2025.102599
 The Impact of Endoscopic Healing on Disease-Related Outcomes in Patients With Ulcerative Proctitis.|https://dx.doi.org/10.1093/ibd/izaf044
 Multifaceted challenges of deep venous thrombosis in the setting tetraplegia and ulcerative colitis: case report.|https://dx.doi.org/10.1038/s41394-025-00703-3
+Pterostilbene attenuates intestinal barrier damage and secondary liver oxidative stress in a murine model of Clostridium difficile infection by regulating the gut microbiota.|https://dx.doi.org/10.1039/d4fo06413e
+Reducing femoral peri-implant fracture risk through optimized plate length and screw configuration - a biomechanical study.|https://dx.doi.org/10.1186/s13018-025-05753-9
+Clostridioides difficile concentration-dependant alterations in gut microbiota of asymptomatic infants.|https://dx.doi.org/10.1186/s13099-025-00687-3
