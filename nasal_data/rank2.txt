@@ -4,3 +4,4 @@ Burkholderia cenocepacia-mediated inhibition of Staphylococcus aureus growth and
 Prevalence and Risk Factors of Staphylococcus aureus Nasal Colonization in Horses Admitted to a Veterinary Teaching Hospital.|https://dx.doi.org/10.1111/jvim.70027
 Optimization of a multiplex PCR assay for simultaneous detection of key bovine respiratory infections.|https://dx.doi.org/10.24425/pjvs.2025.154015
 Molecular characterization and antimicrobial-resistance gene profile of Staphylococcus aureus strains isolated from ovine mastitis in Jordan.|https://dx.doi.org/10.14202/vetworld.2025.270-279
+Sex-dependent gastrointestinal colonization resistance to MRSA is microbiota and Th17 dependent.|https://dx.doi.org/10.7554/eLife.101606
