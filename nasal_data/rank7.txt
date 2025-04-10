@@ -23,3 +23,10 @@ Bacterial etiology and antimicrobial resistance in bloodstream infections at the
 Complete genome sequence, metabolic profiling and functional studies reveal Ligilactobacillus salivarius LS-ARS2 is a promising biofilm-forming probiotic with significant antioxidant, antibacterial, and antibiofilm potential.|https://dx.doi.org/10.3389/fmicb.2025.1535388
 The Influence of Surface Damage on Miniplates: A Study of Bacterial Attachment Across Various Strains.|https://dx.doi.org/10.12688/f1000research.159954.1
 Prevalence and predictors of multidrug resistant organism infections in critically ill patients with opioid use disorder: a multicenter retrospective cohort study.|https://dx.doi.org/10.1017/ice.2025.64
+Antibiotic therapy and clinical outcomes of penicillin-susceptible Staphylococcus aureus (PSSA) bloodstream infection (BSI): a ten-year retrospective cohort study.|https://dx.doi.org/10.1038/s41598-025-96383-y
+Pyogenic Vertebral Osteomyelitis.|https://dx.doi.org/10.1016/j.idc.2025.02.011
+Skin Microbiome Dynamics in Atopic Dermatitis: Understanding Host-Microbiome Interactions.|https://dx.doi.org/10.4168/aair.2025.17.2.165
+Readmission Rate After Methicillin-Resistant Staphylococcus aureus (MRSA) Infection: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.80280
+Epicatechin gallate and its analogues interact with sortase A and β-lactamase to suppress Staphylococcus aureus virulence.|https://dx.doi.org/10.3389/fcimb.2025.1537564
+Development of an Alginate Gel Composite with Antibacterial Properties Capable of Binding Calcium-Based Residual Stone Fragments in Endoscopic Stone Surgery.|https://dx.doi.org/10.1089/end.2024.0765
+Effects of a Moisturizer Containing Colloidal Oatmeal and Filaggrin Technology on Staphylococcus Species In Vitro.|https://dx.doi.org/10.36849/JDD.8706

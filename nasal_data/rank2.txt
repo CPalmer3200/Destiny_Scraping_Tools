@@ -5,3 +5,4 @@ Prevalence and Risk Factors of Staphylococcus aureus Nasal Colonization in Horse
 Optimization of a multiplex PCR assay for simultaneous detection of key bovine respiratory infections.|https://dx.doi.org/10.24425/pjvs.2025.154015
 Molecular characterization and antimicrobial-resistance gene profile of Staphylococcus aureus strains isolated from ovine mastitis in Jordan.|https://dx.doi.org/10.14202/vetworld.2025.270-279
 Sex-dependent gastrointestinal colonization resistance to MRSA is microbiota and Th17 dependent.|https://dx.doi.org/10.7554/eLife.101606
+The role of veterinary drug use in driving antimicrobial resistance of Staphylococcus aureus isolates in smallholder swine farms in Central Vietnam.|https://dx.doi.org/10.5455/OVJ.2025.v15.i2.34
