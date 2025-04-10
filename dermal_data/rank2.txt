@@ -5,3 +5,6 @@ Anomalous dual posterior tibial arteries.|https://dx.doi.org/10.1016/j.jvscit.20
 Case series 3.|https://dx.doi.org/10.12968/jowc.2025.34.Sup4c.S19
 Case series 4.|https://dx.doi.org/10.12968/jowc.2025.34.Sup4c.S22
 Intervention effects of low-level laser therapy (LLLT) on grade I-II ulcers in diabetic foot patients: A meta-analysis.|https://dx.doi.org/10.1111/wrr.70021
+Diabetic Foot Infections.|https://dx.doi.org/10.1016/j.idc.2025.02.014
+Plasma vitamin D status and its association with biochemical, clinical and humanistic outcomes in diabetic foot infection patients: a prospective observational study in a tertiary healthcare facility.|https://dx.doi.org/10.1080/17446651.2025.2480374
+Immunomarker profiling in human chronic wound swabs reveals IL-1 beta/IL-1RA and CXCL8/CXCL10 ratios as potential biomarkers for wound healing, infection status and regenerative stage.|https://dx.doi.org/10.1186/s12967-025-06417-2

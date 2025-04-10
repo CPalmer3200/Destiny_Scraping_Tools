@@ -1,2 +1,4 @@
 Case Report: Delayed recurrence of staphylococcal scalded skin syndrome in an extremely low birth weight infant.|https://dx.doi.org/10.3389/fped.2025.1564633
 Eosinophil innate immune memory after bacterial skin infection promotes allergic lung inflammation.|https://dx.doi.org/10.1126/sciimmunol.adp6231
+Sex-dependent gastrointestinal colonization resistance to MRSA is microbiota and Th17 dependent.|https://dx.doi.org/10.7554/eLife.101606
+Global changes in Staphylococcus aureus virulence and metabolism during colonization of healthy skin.|https://dx.doi.org/10.1128/iai.00028-25
