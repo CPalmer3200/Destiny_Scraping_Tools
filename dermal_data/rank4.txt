@@ -9,3 +9,5 @@ A self-adaptive adhesive, mechanically enhanced, and antibacterial non-woven fab
 Methacryloylated chitosan hydrogel-mediated polyphenol-Ga/hUCMSC-Exo release platform: Possessing antibacterial, anti-inflammatory, and osteogenic capabilities.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142893
 Efficient dye removal and antibacterial activity of imidazole-crosslinked chitosan hydrogel for wastewater treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142904
 Exudate management nonwovens loaded with Cirsium japonicum DC extract for enhanced hemostatic and wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.114673
+Green synthesis of AgNPs and their application in chitosan/polyvinyl alcohol/AgNPs composite sponges with efficient antibacterial activity for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142935
+Development of Biginelli-based ZnO-coupled carbomer-gel-coated wound dressing gauze with enhanced antibacterial activity.|https://dx.doi.org/10.1039/d5ra00236b

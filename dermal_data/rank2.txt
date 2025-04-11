@@ -8,3 +8,4 @@ Intervention effects of low-level laser therapy (LLLT) on grade I-II ulcers in d
 Diabetic Foot Infections.|https://dx.doi.org/10.1016/j.idc.2025.02.014
 Plasma vitamin D status and its association with biochemical, clinical and humanistic outcomes in diabetic foot infection patients: a prospective observational study in a tertiary healthcare facility.|https://dx.doi.org/10.1080/17446651.2025.2480374
 Immunomarker profiling in human chronic wound swabs reveals IL-1 beta/IL-1RA and CXCL8/CXCL10 ratios as potential biomarkers for wound healing, infection status and regenerative stage.|https://dx.doi.org/10.1186/s12967-025-06417-2
+Exploring the Relationship Between SVS WIfI and IWGDF Scoring Systems and Reamputation Risk in Patients With Diabetic Foot and Peripheral Artery Disease.|https://dx.doi.org/10.1177/15347346251333835
