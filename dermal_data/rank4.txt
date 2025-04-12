@@ -11,3 +11,5 @@ Efficient dye removal and antibacterial activity of imidazole-crosslinked chitos
 Exudate management nonwovens loaded with Cirsium japonicum DC extract for enhanced hemostatic and wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.114673
 Green synthesis of AgNPs and their application in chitosan/polyvinyl alcohol/AgNPs composite sponges with efficient antibacterial activity for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142935
 Development of Biginelli-based ZnO-coupled carbomer-gel-coated wound dressing gauze with enhanced antibacterial activity.|https://dx.doi.org/10.1039/d5ra00236b
+Preparation and characterization of nano-silver/graphene oxide antibacterial skin dressing.|https://dx.doi.org/10.1038/s41598-025-93310-z
+Artificial multienzyme nanoflower composite hydrogel for efficiently promoting MRSA-infected diabetic wound healing via glucose-activated NO releasing and microenvironment regulation.|https://dx.doi.org/10.1016/j.bioactmat.2025.03.014

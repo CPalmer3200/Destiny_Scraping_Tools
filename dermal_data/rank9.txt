@@ -3,3 +3,5 @@ Eosinophil innate immune memory after bacterial skin infection promotes allergic
 Sex-dependent gastrointestinal colonization resistance to MRSA is microbiota and Th17 dependent.|https://dx.doi.org/10.7554/eLife.101606
 Global changes in Staphylococcus aureus virulence and metabolism during colonization of healthy skin.|https://dx.doi.org/10.1128/iai.00028-25
 Development of Membrane-Targeting Osthole Derivatives Containing Pyridinium Quaternary Ammonium Moieties with Potent Anti-Methicillin-Resistant Staphylococcus aureus Properties.|https://dx.doi.org/10.1021/acs.jmedchem.4c03167
+The Epidemiology of Repeatedly Positive Bacterial Skin Infections in Auckland Children, New Zealand.|https://dx.doi.org/10.1016/j.jinf.2025.106484
+Efflux pump modulation by Montelukast and its roles in restoring antibiotic susceptibility in multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ebiom.2025.105658
