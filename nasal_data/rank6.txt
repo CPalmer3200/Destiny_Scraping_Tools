@@ -9,3 +9,7 @@ Pathogen-derived peptidoglycan skeleton enhances innate immune defense against S
 Synthetic biology routes to new and extinct natural products.|https://dx.doi.org/10.1039/d5cb00047e
 Back to the future? Drastic drop in serotype 19A carriage in daycare centers within two years after a second switch to PCV13 in Belgium.|https://dx.doi.org/10.1080/21645515.2025.2484886
 Characteristics, outcome, and prognostic factors of young patients with central nervous system World Health Organization grade 3 oligodendrogliomas IDH-mutant and 1p/19q codeleted: A French POLA network study.|https://dx.doi.org/10.1002/cncr.35814
+Insights into Molecular Profiles, Resistance Patterns, and Virulence Traits of Staphylococci from Companion Dogs in Angola.|https://dx.doi.org/10.3390/ani15071043
+Ozenoxacin 1% in Pediatric and Adult Patients with Impetigo: A Meta-Analysis of Randomized Trials.|https://dx.doi.org/10.3390/jcm14072157
+The Epidemiology of Repeatedly Positive Bacterial Skin Infections in Auckland Children, New Zealand.|https://dx.doi.org/10.1016/j.jinf.2025.106484
+Pd@Au Nanoframe Hydrogels for Closed-Loop Wound Therapy.|https://dx.doi.org/10.1021/acsnano.5c01864
