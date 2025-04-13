@@ -13,3 +13,7 @@ Green synthesis of AgNPs and their application in chitosan/polyvinyl alcohol/AgN
 Development of Biginelli-based ZnO-coupled carbomer-gel-coated wound dressing gauze with enhanced antibacterial activity.|https://dx.doi.org/10.1039/d5ra00236b
 Preparation and characterization of nano-silver/graphene oxide antibacterial skin dressing.|https://dx.doi.org/10.1038/s41598-025-93310-z
 Artificial multienzyme nanoflower composite hydrogel for efficiently promoting MRSA-infected diabetic wound healing via glucose-activated NO releasing and microenvironment regulation.|https://dx.doi.org/10.1016/j.bioactmat.2025.03.014
+Electrochemical β-lactamase immunostrip sensor with 3D hydrogel-paper scaffold for rapid detection & post-antibiotic therapy monitoring in drug-resistant bloodstream infections.|https://dx.doi.org/10.1016/j.aca.2025.343953
+Chitosan-capped TiO(2) hybrid nanomaterials for antibacterial and photocatalytic application of crystal violet.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142949
+Electrospun polycaprolactone coated with gum tragacanth containing layered double hydroxide/thymol nanohybrid for wound dressing application.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143049
+Carboxymethyl bacterial cellulose electrospun nanofibers loaded with zinc oxide nanoparticles and polyhexamethylene biguanide for wound healing promotion.|https://dx.doi.org/10.1080/09205063.2025.2490079
