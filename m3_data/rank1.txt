@@ -3,3 +3,4 @@ Subgroup analyses in randomized trials of Clostridioides difficile associated di
 Healthcare-Associated Infections: The Role of Microbial and Environmental Factors in Infection Control-A Narrative Review.|https://dx.doi.org/10.1007/s40121-025-01143-0
 Integrating Clinical Guidelines With ChatGPT-4 Enhances Its' Skills.|https://dx.doi.org/10.1016/j.mcpdig.2024.02.004
 Clinical translation of microbiome research.|https://dx.doi.org/10.1038/s41591-025-03615-9
+RCPE in association with the American College of Gastroenterology and the Scottish Society of Gastroenterology - Gastroenterology: A global perspective.|https://dx.doi.org/10.1177/14782715251332318
