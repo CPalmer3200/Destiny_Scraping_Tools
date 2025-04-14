@@ -17,3 +17,5 @@ Electrochemical β-lactamase immunostrip sensor with 3D hydrogel-paper scaffold 
 Chitosan-capped TiO(2) hybrid nanomaterials for antibacterial and photocatalytic application of crystal violet.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142949
 Electrospun polycaprolactone coated with gum tragacanth containing layered double hydroxide/thymol nanohybrid for wound dressing application.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143049
 Carboxymethyl bacterial cellulose electrospun nanofibers loaded with zinc oxide nanoparticles and polyhexamethylene biguanide for wound healing promotion.|https://dx.doi.org/10.1080/09205063.2025.2490079
+Advanced nanofibers integrating vitamin D3 and cerium oxide nanoparticles for enhanced diabetic wound healing: Co-electrospun silk fibroin-collagen and chitosan-PVA systems.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143099
+Dopamine-conjugated hyaluronic acid hydrogel interpenetrated by genipin crosslinked quaternary ammonium chitosan for potential biomedical adhesives applications.|https://dx.doi.org/10.1016/j.colsurfb.2025.114683
