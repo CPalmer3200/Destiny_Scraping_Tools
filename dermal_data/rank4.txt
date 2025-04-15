@@ -19,3 +19,7 @@ Electrospun polycaprolactone coated with gum tragacanth containing layered doubl
 Carboxymethyl bacterial cellulose electrospun nanofibers loaded with zinc oxide nanoparticles and polyhexamethylene biguanide for wound healing promotion.|https://dx.doi.org/10.1080/09205063.2025.2490079
 Advanced nanofibers integrating vitamin D3 and cerium oxide nanoparticles for enhanced diabetic wound healing: Co-electrospun silk fibroin-collagen and chitosan-PVA systems.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143099
 Dopamine-conjugated hyaluronic acid hydrogel interpenetrated by genipin crosslinked quaternary ammonium chitosan for potential biomedical adhesives applications.|https://dx.doi.org/10.1016/j.colsurfb.2025.114683
+Carboxyethyl chitosan/oxidized sodium alginate composite hydrogel loaded with AgNPs and Zn(2+): dye adsorption and antibacterial function.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143124
+Bacterial exopolysaccharide and metal-doped bioactive glass nanoparticles-based electrospun membranes for chronic wound healing.|https://dx.doi.org/10.1016/j.ijpharm.2025.125594
+Antimicrobial protection of fabrics with poly(allylamine hydrochloride)-ZnO coating.|https://dx.doi.org/10.1080/08927014.2025.2486251
+Advanced healing potential of simple natural hydrogel loaded with sildenafil in combating infectious wounds.|https://dx.doi.org/10.1016/j.ijpx.2025.100328

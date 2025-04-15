@@ -5,3 +5,7 @@ Targeting Chronic Biofilm Infections With Patient-derived Phages: An In Vitro an
 Aldehyde-modified sodium alginate/gelatin-based bacteriophage-loaded multifunctional hydrogel for promoting the healing of multidrug-resistant bacterial-infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.142778
 Effects of a Moisturizer Containing Colloidal Oatmeal and Filaggrin Technology on Staphylococcus Species In Vitro.|https://dx.doi.org/10.36849/JDD.8706
 Intervention of Corynebacterium striatum in the sessile lifestyle of Staphylococcus aureus wild-type and mutants for ica genes in polymicrobial biofilms.|https://dx.doi.org/10.1016/j.micpath.2025.107577
+Disruption of MRSA Biofilm and Virulence by Deep-Sea Probiotics: Impacts on Energy metabolism and Host Antimicrobial Peptides.|https://dx.doi.org/10.1007/s12602-025-10535-0
+Organotypic Tissue Model Systems for Investigating Host-Pathogen Interactions In Vitro.|https://dx.doi.org/10.3791/67487
+The relationship between the skin microbiome and probiotics in the healing of burn injuries.|https://dx.doi.org/10.1007/s12223-025-01262-8
+SAAP-148 and halicin exhibit synergistic antimicrobial activity against antimicrobial-resistant bacteria in skin but not airway epithelial culture models.|https://dx.doi.org/10.1093/jacamr/dlaf050
