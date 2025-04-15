@@ -13,3 +13,4 @@ Insights into Molecular Profiles, Resistance Patterns, and Virulence Traits of S
 Ozenoxacin 1% in Pediatric and Adult Patients with Impetigo: A Meta-Analysis of Randomized Trials.|https://dx.doi.org/10.3390/jcm14072157
 The Epidemiology of Repeatedly Positive Bacterial Skin Infections in Auckland Children, New Zealand.|https://dx.doi.org/10.1016/j.jinf.2025.106484
 Pd@Au Nanoframe Hydrogels for Closed-Loop Wound Therapy.|https://dx.doi.org/10.1021/acsnano.5c01864
+Structural analysis shows the mode of inhibition for Staphylococcus aureus lipase by antipsychotic penfluridol.|https://dx.doi.org/10.1038/s41598-025-94981-4

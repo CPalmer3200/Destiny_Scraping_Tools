@@ -30,3 +30,13 @@ Readmission Rate After Methicillin-Resistant Staphylococcus aureus (MRSA) Infect
 Epicatechin gallate and its analogues interact with sortase A and β-lactamase to suppress Staphylococcus aureus virulence.|https://dx.doi.org/10.3389/fcimb.2025.1537564
 Development of an Alginate Gel Composite with Antibacterial Properties Capable of Binding Calcium-Based Residual Stone Fragments in Endoscopic Stone Surgery.|https://dx.doi.org/10.1089/end.2024.0765
 Effects of a Moisturizer Containing Colloidal Oatmeal and Filaggrin Technology on Staphylococcus Species In Vitro.|https://dx.doi.org/10.36849/JDD.8706
+Combating Concomitant Bacterial and Fungal Infections via Codelivery of Nitric Oxide and Fluconazole.|https://dx.doi.org/10.1021/acsami.5c00174
+Determination of Pathogens in Deep Surgical Site Infections Following Sinus Tarsi Approach Calcaneal Fracture Surgery via Open Reduction Internal Fixation or Primary Arthrodesis - Implications for Prophylaxis and Treatment.|https://dx.doi.org/10.1053/j.jfas.2025.04.004
+Non-invasive ultrasonic debridement of implant biofilms via hydrogen-sulfide releasing peptide nanoemulsions.|https://dx.doi.org/10.1016/j.biomaterials.2025.123337
+Comparative Evaluation of the Antimicrobial Efficacy of Endodontic Sealers Against Staphylococcus aureus and Streptococcus mutans: An In Vitro Study.|https://dx.doi.org/10.7759/cureus.80435
+Antimicrobial prescription patterns in tertiary care centres in India: a multicentric point prevalence survey.|https://dx.doi.org/10.1016/j.eclinm.2025.103175
+Antimicrobial Activity of Poly(methyl methacrylate) Doped with CuO and ZnO Nanoparticles.|https://dx.doi.org/10.1021/acsomega.4c10170
+SAAP-148 and halicin exhibit synergistic antimicrobial activity against antimicrobial-resistant bacteria in skin but not airway epithelial culture models.|https://dx.doi.org/10.1093/jacamr/dlaf050
+Intervention of Corynebacterium striatum in the sessile lifestyle of Staphylococcus aureus wild-type and mutants for ica genes in polymicrobial biofilms.|https://dx.doi.org/10.1016/j.micpath.2025.107577
+BACTERIOCIN AP7121 AS A POTENTIAL TREATMENT FOR SURGICAL SITE INFECTIONS BY Staphylococcus aureus: in vitro/in vivo MODELS.|https://dx.doi.org/10.1016/j.micpath.2025.107573
+Surgical management of fracture-related infection (FRI) in the proximal femur: treatment options and long-term outcome.|https://dx.doi.org/10.1186/s12891-025-08609-9
