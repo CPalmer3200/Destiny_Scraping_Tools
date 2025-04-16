@@ -23,3 +23,7 @@ Carboxyethyl chitosan/oxidized sodium alginate composite hydrogel loaded with Ag
 Bacterial exopolysaccharide and metal-doped bioactive glass nanoparticles-based electrospun membranes for chronic wound healing.|https://dx.doi.org/10.1016/j.ijpharm.2025.125594
 Antimicrobial protection of fabrics with poly(allylamine hydrochloride)-ZnO coating.|https://dx.doi.org/10.1080/08927014.2025.2486251
 Advanced healing potential of simple natural hydrogel loaded with sildenafil in combating infectious wounds.|https://dx.doi.org/10.1016/j.ijpx.2025.100328
+Bacterial microenvironment-responsive antibacterial, adhesive, and injectable oxidized dextran-based hydrogel for chronic diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143095
+Selenium-Albumin Nanoaccelerator Hydrogel Promotes Wound Healing by Antibacterial, Anti-Inflammatory and Antioxidant along with Inhibits Scar Formation via Downregulating CD36.|https://dx.doi.org/10.1002/adhm.202500699
+In-Situ Synthesis of Silver Nanoparticle within Self-Assembling Ultrashort Peptide Hydrogel as Antibacterial with Wound Healing Properties.|https://dx.doi.org/10.2174/0113892037367553250327084808
+Fabrication of gelatine/fucoidan nanogel-coated silver nanoparticles for the treatment of wound healing therapy and nursing care.|https://dx.doi.org/10.1016/j.reth.2025.03.001
