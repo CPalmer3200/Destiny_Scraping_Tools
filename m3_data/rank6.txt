@@ -1,0 +1,3 @@
+Interventions and adaptations to strengthen data quality and use for COVID-19 vaccination: a mixed methods evaluation.|https://dx.doi.org/10.1093/oodh/oqae010
+Synthesis of PSI Oligosaccharide for the Development of Total Synthetic Vaccine against Clostridium difficile.|https://dx.doi.org/10.1021/acs.joc.5c00290
+Protocol to measure the impact of Clostridioides difficile toxins on antibody responses using ELISA, ELISPOT, and toxin-neutralization assays.|https://dx.doi.org/10.1016/j.xpro.2025.103754
