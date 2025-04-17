@@ -10,3 +10,4 @@ Organotypic Tissue Model Systems for Investigating Host-Pathogen Interactions In
 The relationship between the skin microbiome and probiotics in the healing of burn injuries.|https://dx.doi.org/10.1007/s12223-025-01262-8
 SAAP-148 and halicin exhibit synergistic antimicrobial activity against antimicrobial-resistant bacteria in skin but not airway epithelial culture models.|https://dx.doi.org/10.1093/jacamr/dlaf050
 GSH-Triggered Nitric Oxide Release from Polyurethane Nanocarriers for Gas-Photothermal Synergistic Therapy of Bacterial-Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c03249
+Genotypic and phenotypic characterization of virulence in methicillin resistant Staphylococcus aureus isolated from a local hospital of Ahmedabad, Gujarat, India.|https://dx.doi.org/10.1186/s12866-025-03885-w

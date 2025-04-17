@@ -5,3 +5,4 @@ Global changes in Staphylococcus aureus virulence and metabolism during coloniza
 Development of Membrane-Targeting Osthole Derivatives Containing Pyridinium Quaternary Ammonium Moieties with Potent Anti-Methicillin-Resistant Staphylococcus aureus Properties.|https://dx.doi.org/10.1021/acs.jmedchem.4c03167
 The Epidemiology of Repeatedly Positive Bacterial Skin Infections in Auckland Children, New Zealand.|https://dx.doi.org/10.1016/j.jinf.2025.106484
 Efflux pump modulation by Montelukast and its roles in restoring antibiotic susceptibility in multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ebiom.2025.105658
+Staphylococcus saprophyticus prevents skin damage by inhibiting Staphylococcus aureus quorum sensing.|https://dx.doi.org/10.1038/s41598-025-97044-w

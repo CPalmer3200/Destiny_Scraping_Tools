@@ -27,3 +27,5 @@ Bacterial microenvironment-responsive antibacterial, adhesive, and injectable ox
 Selenium-Albumin Nanoaccelerator Hydrogel Promotes Wound Healing by Antibacterial, Anti-Inflammatory and Antioxidant along with Inhibits Scar Formation via Downregulating CD36.|https://dx.doi.org/10.1002/adhm.202500699
 In-Situ Synthesis of Silver Nanoparticle within Self-Assembling Ultrashort Peptide Hydrogel as Antibacterial with Wound Healing Properties.|https://dx.doi.org/10.2174/0113892037367553250327084808
 Fabrication of gelatine/fucoidan nanogel-coated silver nanoparticles for the treatment of wound healing therapy and nursing care.|https://dx.doi.org/10.1016/j.reth.2025.03.001
+Hyaluronic acid-based hydrogel microspheres with multi-responsive properties for antibacterial therapy and bone regeneration in Staphylococcus aureus-infected skull defects.|https://dx.doi.org/10.1016/j.mtbio.2025.101676
+Gallic Acid Nanocrystal Hydrogel: A Novel Strategy for Promoting Wound Healing and Inhibiting Scar Formation.|https://dx.doi.org/10.2147/IJN.S514961
