@@ -8,3 +8,5 @@ Sex-dependent gastrointestinal colonization resistance to MRSA is microbiota and
 The role of veterinary drug use in driving antimicrobial resistance of Staphylococcus aureus isolates in smallholder swine farms in Central Vietnam.|https://dx.doi.org/10.5455/OVJ.2025.v15.i2.34
 Mouse model of Staphylococcus aureus- and Pseudomonas aeruginosa-induced neutrophilic chronic rhinosinusitis.|https://dx.doi.org/10.4193/Rhin24.545
 The nasal microbiome modulates risk for SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.ebiom.2025.105660
+Clinical and genetic analysis of oral and nasal staphylococcus aureus isolates in dental patients.|https://dx.doi.org/10.1038/s41598-025-93773-0
+Role of CD44(+)CCR2(+)CD64(-)monocyte-derived macrophage in chronic rhinosinusitis with nasal polyps.|https://dx.doi.org/10.1016/j.cellimm.2025.104953
