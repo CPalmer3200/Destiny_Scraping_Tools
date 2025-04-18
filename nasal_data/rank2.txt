@@ -10,3 +10,4 @@ Mouse model of Staphylococcus aureus- and Pseudomonas aeruginosa-induced neutrop
 The nasal microbiome modulates risk for SARS-CoV-2 infection.|https://dx.doi.org/10.1016/j.ebiom.2025.105660
 Clinical and genetic analysis of oral and nasal staphylococcus aureus isolates in dental patients.|https://dx.doi.org/10.1038/s41598-025-93773-0
 Role of CD44(+)CCR2(+)CD64(-)monocyte-derived macrophage in chronic rhinosinusitis with nasal polyps.|https://dx.doi.org/10.1016/j.cellimm.2025.104953
+How does Staphylococcus aureus successfully colonize the nasal cavity.|https://dx.doi.org/10.1080/1040841X.2025.2486171
