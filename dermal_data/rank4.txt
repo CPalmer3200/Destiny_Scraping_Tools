@@ -29,3 +29,7 @@ In-Situ Synthesis of Silver Nanoparticle within Self-Assembling Ultrashort Pepti
 Fabrication of gelatine/fucoidan nanogel-coated silver nanoparticles for the treatment of wound healing therapy and nursing care.|https://dx.doi.org/10.1016/j.reth.2025.03.001
 Hyaluronic acid-based hydrogel microspheres with multi-responsive properties for antibacterial therapy and bone regeneration in Staphylococcus aureus-infected skull defects.|https://dx.doi.org/10.1016/j.mtbio.2025.101676
 Gallic Acid Nanocrystal Hydrogel: A Novel Strategy for Promoting Wound Healing and Inhibiting Scar Formation.|https://dx.doi.org/10.2147/IJN.S514961
+Designing of moringa gum-zwitterionic copolymer structure through supra-molecular and covalent interactions for biomedical uses.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143211
+Nanoscale cuttlebone-doped PVA/SA hydrogel with hemostatic and antibacterial properties.|https://dx.doi.org/10.1016/j.colsurfb.2025.114703
+Preparation and characterization of advancing wound care with PVP/QCS/DEX hydrogels: a multifunctional wound dressing composite: in vitro and in vivo assay.|https://dx.doi.org/10.1080/09205063.2025.2487655
+3D-Printed Hydrogel Patches Embedded with Cu-Modified Liquid Metal Nanoparticles for Accelerated Wound Healing.|https://dx.doi.org/10.1002/adhm.202404986

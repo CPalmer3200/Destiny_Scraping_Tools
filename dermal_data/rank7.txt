@@ -4,3 +4,5 @@ Rediscovery of viomellein as an antibacterial compound and identification of its
 Mode of action approach supports a lack of carcinogenic potential of six organic UV filters.|https://dx.doi.org/10.1080/10408444.2025.2462642
 Psychological stress increases skin infection through the action of TGFβ to suppress immune-acting fibroblasts.|https://dx.doi.org/10.1126/sciimmunol.ads0519
 The potential of Leishmania donovani Aurora kinase in the diagnosis of Indian and Brazilian visceral leishmaniasis patients.|https://dx.doi.org/10.1128/spectrum.03247-24
+Near-infrared spectroscopy as a diagnostic screening tool for lethal chytrid fungus in eastern newts.|https://dx.doi.org/10.1038/s42003-025-08025-8
+Protein-S-nitrosylation of human cytomegalovirus pp65 reduces its ability to undermine cGAS.|https://dx.doi.org/10.1128/jvi.00481-25

@@ -23,3 +23,5 @@ Improving Microcirculation With Nerve Decompression: The Missing Link in Treatme
 A real-world multicenter cross-sectional observational study to assess the clinical profile of peripheral neuropathy in patients with diabetes.|https://dx.doi.org/10.1371/journal.pone.0312085
 Low Serum Uric Acid Levels are Associated with Severe Diabetic Foot Infection: A Cross-Sectional Study from China.|https://dx.doi.org/10.1177/15347346251319080
 Evaluating the Effectiveness and Safety of Theruptor Novo Dressing Pad in Managing Diabetic Foot Ulcer: A Prospective Study.|https://dx.doi.org/10.7759/cureus.80542
+Antibacterial Properties of Polymeric Membranes Containing Doxycycline for Potential Applications in Foot Ulcer Treatment.|https://dx.doi.org/10.3390/ijms26073274
+Descriptive Analysis of Anatomical Location and Metabolic and Microbiological Factors in Diabetic Foot (DF) Treated at a DF Specialty Tertiary Care Hospital With a Multidisciplinary Approach.|https://dx.doi.org/10.7759/cureus.80690
