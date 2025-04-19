@@ -11,3 +11,4 @@ The nasal microbiome modulates risk for SARS-CoV-2 infection.|https://dx.doi.org
 Clinical and genetic analysis of oral and nasal staphylococcus aureus isolates in dental patients.|https://dx.doi.org/10.1038/s41598-025-93773-0
 Role of CD44(+)CCR2(+)CD64(-)monocyte-derived macrophage in chronic rhinosinusitis with nasal polyps.|https://dx.doi.org/10.1016/j.cellimm.2025.104953
 How does Staphylococcus aureus successfully colonize the nasal cavity.|https://dx.doi.org/10.1080/1040841X.2025.2486171
+Exploration of IgE Specific to Staphylococcal Serine Protease-Like Protein A as a Phenotypic Marker in Late-Onset Asthma.|https://dx.doi.org/10.1007/s00408-025-00810-w

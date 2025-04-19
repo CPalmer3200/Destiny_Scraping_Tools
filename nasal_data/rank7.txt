@@ -40,3 +40,12 @@ SAAP-148 and halicin exhibit synergistic antimicrobial activity against antimicr
 Intervention of Corynebacterium striatum in the sessile lifestyle of Staphylococcus aureus wild-type and mutants for ica genes in polymicrobial biofilms.|https://dx.doi.org/10.1016/j.micpath.2025.107577
 BACTERIOCIN AP7121 AS A POTENTIAL TREATMENT FOR SURGICAL SITE INFECTIONS BY Staphylococcus aureus: in vitro/in vivo MODELS.|https://dx.doi.org/10.1016/j.micpath.2025.107573
 Surgical management of fracture-related infection (FRI) in the proximal femur: treatment options and long-term outcome.|https://dx.doi.org/10.1186/s12891-025-08609-9
+Bilateral sequential bacterial dacryoadenitis with abscess- a case report.|https://dx.doi.org/10.1186/s12886-025-04063-2
+Ca(2+) crosslinked gelatin-sodium alginate film loaded with berberine hydrochloride that can effectively promote wound healing of MRSA infection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143273
+Epidemiology and Microbiology of Healthcare-Associated Infections in Neurosurgery Department: A Cross-Sectional Study.|https://dx.doi.org/10.1177/10998004251336748
+Design and Synthesis of Triazole-Based p-tert-Butylcalix[4]Arene Conjugates and Evaluation of Their Antimicrobial, Antibiofilm, and Anti-Quorum-Sensing Activities.|https://dx.doi.org/10.1002/bab.2761
+The Importance of Systemic Inflammatory Response Syndrome in Diagnosing Occult Infections: A Case Report.|https://dx.doi.org/10.7759/cureus.80775
+Necrotizing Fasciitis Due to Acinetobacter baumannii Complex Following Body Contouring Surgery: First Case Report.|https://dx.doi.org/10.1097/GOX.0000000000006715
+Effects of intravenous morphine and lidocaine on bacterial growth.|https://dx.doi.org/10.1186/s12871-025-03070-6
+Immune response against antibiotic-resistant and antibiotic-sensitive staphylococcus aureus in a rat model of implant infection.|https://dx.doi.org/10.1038/s41598-025-95004-y
+Changing epidemiology of MRSA-CC398 in Spanish hospitals located in areas with different pig farming densities: a 2023 multicentre study.|https://dx.doi.org/10.1093/jac/dkaf104

@@ -14,3 +14,5 @@ Ozenoxacin 1% in Pediatric and Adult Patients with Impetigo: A Meta-Analysis of 
 The Epidemiology of Repeatedly Positive Bacterial Skin Infections in Auckland Children, New Zealand.|https://dx.doi.org/10.1016/j.jinf.2025.106484
 Pd@Au Nanoframe Hydrogels for Closed-Loop Wound Therapy.|https://dx.doi.org/10.1021/acsnano.5c01864
 Structural analysis shows the mode of inhibition for Staphylococcus aureus lipase by antipsychotic penfluridol.|https://dx.doi.org/10.1038/s41598-025-94981-4
+The WHO Bacterial Priority Pathogens List 2024: a prioritisation study to guide research, development, and public health strategies against antimicrobial resistance.|https://dx.doi.org/10.1016/S1473-3099(25)00118-5
+Maternal transfer of anti-GAPDH IgG prevents neonatal infections caused by Staphylococcus aureus and group B Streptococcus.|https://dx.doi.org/10.1016/j.isci.2025.112248
