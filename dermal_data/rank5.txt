@@ -11,3 +11,5 @@ The relationship between the skin microbiome and probiotics in the healing of bu
 SAAP-148 and halicin exhibit synergistic antimicrobial activity against antimicrobial-resistant bacteria in skin but not airway epithelial culture models.|https://dx.doi.org/10.1093/jacamr/dlaf050
 GSH-Triggered Nitric Oxide Release from Polyurethane Nanocarriers for Gas-Photothermal Synergistic Therapy of Bacterial-Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c03249
 Genotypic and phenotypic characterization of virulence in methicillin resistant Staphylococcus aureus isolated from a local hospital of Ahmedabad, Gujarat, India.|https://dx.doi.org/10.1186/s12866-025-03885-w
+A biofilm-targeting lipo-peptoid to treat Pseudomonas aeruginosa and Staphylococcus aureus co-infections.|https://dx.doi.org/10.1016/j.bioflm.2025.100272
+In vitro wound healing effects of postbiotics derived from the gut microbiota of long-lived blind mole rats, a model of healthy ageing.|https://dx.doi.org/10.1111/wrr.70023

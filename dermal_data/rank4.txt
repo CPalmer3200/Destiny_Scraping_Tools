@@ -33,3 +33,5 @@ Designing of moringa gum-zwitterionic copolymer structure through supra-molecula
 Nanoscale cuttlebone-doped PVA/SA hydrogel with hemostatic and antibacterial properties.|https://dx.doi.org/10.1016/j.colsurfb.2025.114703
 Preparation and characterization of advancing wound care with PVP/QCS/DEX hydrogels: a multifunctional wound dressing composite: in vitro and in vivo assay.|https://dx.doi.org/10.1080/09205063.2025.2487655
 3D-Printed Hydrogel Patches Embedded with Cu-Modified Liquid Metal Nanoparticles for Accelerated Wound Healing.|https://dx.doi.org/10.1002/adhm.202404986
+Novel tragacanth gum-collagen-polyurethane hydrogels: Super-swelling, antibacterial, and fibrillogenesis-enhancing properties for efficient wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143281
+Ca(2+) crosslinked gelatin-sodium alginate film loaded with berberine hydrochloride that can effectively promote wound healing of MRSA infection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143273
