@@ -7,3 +7,4 @@ RCPE in association with the American College of Gastroenterology and the Scotti
 Metronidazole-ursodeoxycholic acid bifunctional antibacterial: A promising strategy to combat Clostridium difficile infection and prevent recurrence.|https://dx.doi.org/10.1016/j.ejmech.2025.117631
 Isolated Adult Gastrointestinal Tract Langerhans Cell Histiocytosis-Report of Two Rare Patients with Review of Literature.|https://dx.doi.org/10.1177/10668969251332307
 Primary solitary pituitary stalk abscess: case report and review.|https://dx.doi.org/10.3389/fendo.2025.1510593
+Extended-pulsed Fidaxomicin Therapy for Recurrent Clostridioides difficile Infection After Standard Vancomycin and Fidaxomicin Failure: A Case Report.|https://dx.doi.org/10.1016/j.jiac.2025.102709
