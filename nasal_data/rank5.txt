@@ -39,3 +39,5 @@ Extended reality for mapping perforator-based flaps in breast reconstruction: a 
 Efficacy and Safety of Robotic Bilateral Axillo-Breast Approach Versus Robotic Gasless Axillary Approach for Thyroidectomy: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/SLE.0000000000001370
 Axillary Lymph Node Dissection With and Without Immediate Lymphatic Reconstruction: Association With Drain Days and Seromas.|https://dx.doi.org/10.1177/00031348251332692
 The Impact of COVID-19 on "Reconstructive Burnout" Following Mastectomy.|https://dx.doi.org/10.1097/GOX.0000000000006697
+Risk Factors for Totally Implantable Access Ports Associated Complications in Breast Cancer Patients.|https://dx.doi.org/10.1177/10732748251336407
+The Five-Item Modified Frailty Index (mFI-5) Predicts Adverse Short-term Outcomes in Patients Undergoing Mastectomy: A Propensity Score-Matched Analysis of 252,054 Cases.|https://dx.doi.org/10.1016/j.clbc.2025.03.015

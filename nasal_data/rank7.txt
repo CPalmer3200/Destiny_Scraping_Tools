@@ -49,3 +49,5 @@ Necrotizing Fasciitis Due to Acinetobacter baumannii Complex Following Body Cont
 Effects of intravenous morphine and lidocaine on bacterial growth.|https://dx.doi.org/10.1186/s12871-025-03070-6
 Immune response against antibiotic-resistant and antibiotic-sensitive staphylococcus aureus in a rat model of implant infection.|https://dx.doi.org/10.1038/s41598-025-95004-y
 Changing epidemiology of MRSA-CC398 in Spanish hospitals located in areas with different pig farming densities: a 2023 multicentre study.|https://dx.doi.org/10.1093/jac/dkaf104
+Geranium essential oil downregulates virulence genes and mitigates MRSA wound infections through a multifunctional hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143197
+Protection with a collagen wound matrix containing polyhexamethylene biguanide supports innate wound healing in biofilm-infected porcine wounds.|https://dx.doi.org/10.1111/wrr.70025
