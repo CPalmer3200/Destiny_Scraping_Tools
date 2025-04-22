@@ -41,3 +41,4 @@ Axillary Lymph Node Dissection With and Without Immediate Lymphatic Reconstructi
 The Impact of COVID-19 on "Reconstructive Burnout" Following Mastectomy.|https://dx.doi.org/10.1097/GOX.0000000000006697
 Risk Factors for Totally Implantable Access Ports Associated Complications in Breast Cancer Patients.|https://dx.doi.org/10.1177/10732748251336407
 The Five-Item Modified Frailty Index (mFI-5) Predicts Adverse Short-term Outcomes in Patients Undergoing Mastectomy: A Propensity Score-Matched Analysis of 252,054 Cases.|https://dx.doi.org/10.1016/j.clbc.2025.03.015
+Early identification and rapid repositioning of a malpositioned infusion port catheter under real-time ultrasound guidance: A case report.|https://dx.doi.org/10.1097/MD.0000000000042126

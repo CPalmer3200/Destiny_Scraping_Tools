@@ -12,3 +12,5 @@ Clinical and genetic analysis of oral and nasal staphylococcus aureus isolates i
 Role of CD44(+)CCR2(+)CD64(-)monocyte-derived macrophage in chronic rhinosinusitis with nasal polyps.|https://dx.doi.org/10.1016/j.cellimm.2025.104953
 How does Staphylococcus aureus successfully colonize the nasal cavity.|https://dx.doi.org/10.1080/1040841X.2025.2486171
 Exploration of IgE Specific to Staphylococcal Serine Protease-Like Protein A as a Phenotypic Marker in Late-Onset Asthma.|https://dx.doi.org/10.1007/s00408-025-00810-w
+Methicillin-resistant Staphylococcus aureus GG0398 on livestock farms and meat in the Netherlands.|https://dx.doi.org/10.1016/j.jgar.2025.04.007
+Phytochemical Analysis, Antimicrobial and Anti-Inflammatory Efficacy of Leucas aspera Leaf Extracts.|https://dx.doi.org/10.32592/ARI.2024.79.4.761
