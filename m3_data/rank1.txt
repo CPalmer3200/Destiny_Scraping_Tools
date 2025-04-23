@@ -8,3 +8,6 @@ Metronidazole-ursodeoxycholic acid bifunctional antibacterial: A promising strat
 Isolated Adult Gastrointestinal Tract Langerhans Cell Histiocytosis-Report of Two Rare Patients with Review of Literature.|https://dx.doi.org/10.1177/10668969251332307
 Primary solitary pituitary stalk abscess: case report and review.|https://dx.doi.org/10.3389/fendo.2025.1510593
 Extended-pulsed Fidaxomicin Therapy for Recurrent Clostridioides difficile Infection After Standard Vancomycin and Fidaxomicin Failure: A Case Report.|https://dx.doi.org/10.1016/j.jiac.2025.102709
+Efficacy and Safety of Fecal Microbiota Transplant for Prevention of Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciaf142
+FMT for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciaf138
+Faecal microbiota transplantation for recurrent Clostridiodes difficile infection & its global regulatory landscape.|https://dx.doi.org/10.25259/IJMR_818_2024
