@@ -15,3 +15,6 @@ A biofilm-targeting lipo-peptoid to treat Pseudomonas aeruginosa and Staphylococ
 In vitro wound healing effects of postbiotics derived from the gut microbiota of long-lived blind mole rats, a model of healthy ageing.|https://dx.doi.org/10.1111/wrr.70023
 A dynamically phase-adaptive regulating hydrogel promotes ultrafast anti-fibrotic wound healing.|https://dx.doi.org/10.1038/s41467-025-58987-w
 Successful Treatment of Delayed Onset Nodules After Dermal Fillers Injection with Abrocitinib: A Case Report.|https://dx.doi.org/10.2147/CCID.S524045
+Cascade reaction hydrogel with enzyme-catalyzed endogenous glucose for diabetic wound healing.|https://dx.doi.org/10.1016/j.jcis.2025.137616
+Antimicrobial Peptide Developed with Machine Learning Sequence Optimization Targets Drug Resistant Staphylococcus aureus in Mice.|https://dx.doi.org/10.1172/JCI185430
+Regulatory roles of an sRNA derived from the 5´ UTR and sequence internal to lapA in Pseudomonas aeruginosa PAO1.|https://dx.doi.org/10.1128/spectrum.01303-24

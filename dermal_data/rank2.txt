@@ -28,3 +28,5 @@ Descriptive Analysis of Anatomical Location and Metabolic and Microbiological Fa
 RETRACTION: The Efficacy and Safety of Non-Surgical Treatment of Diabetic Foot Wound Infections and Ulcers: A Systemic Review and Meta-Analysis.|https://dx.doi.org/10.1111/iwj.70615
 Nocardia brasiliensis in diabetic foot abscess: A rare case report.|https://dx.doi.org/10.4103/jfmpc.jfmpc_857_24
 Exploring the Impact of Diabetes on Kidney Transplant: Patient Outcomes and Management Strategies.|https://dx.doi.org/10.7759/cureus.80843
+A Novel Scoring System for Predicting Mortality, Morbidity, and Functional Outcomes in Patients Following Below-Knee Amputation: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.80967
+Bacteriological Profile of Diabetic Foot Ulcer With Special Reference to Biofilm Formation.|https://dx.doi.org/10.7759/cureus.80974
