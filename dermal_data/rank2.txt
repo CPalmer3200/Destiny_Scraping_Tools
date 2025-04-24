@@ -30,3 +30,5 @@ Nocardia brasiliensis in diabetic foot abscess: A rare case report.|https://dx.d
 Exploring the Impact of Diabetes on Kidney Transplant: Patient Outcomes and Management Strategies.|https://dx.doi.org/10.7759/cureus.80843
 A Novel Scoring System for Predicting Mortality, Morbidity, and Functional Outcomes in Patients Following Below-Knee Amputation: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.80967
 Bacteriological Profile of Diabetic Foot Ulcer With Special Reference to Biofilm Formation.|https://dx.doi.org/10.7759/cureus.80974
+RETRACTION: Analysis of Risk Factors of Infection in Diabetic Foot Patients.|https://dx.doi.org/10.1111/iwj.70671
+Investigating the Prevalence of Fungi in Diabetic Ulcers: An Under-Recognised Contributor to Polymicrobial Biofilms.|https://dx.doi.org/10.1111/apm.70025

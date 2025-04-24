@@ -41,3 +41,5 @@ Protection with a collagen wound matrix containing polyhexamethylene biguanide s
 Enhanced Bioadhesive and Antimicrobial Properties of PVA/Ascorbic Acid Composite with Tannic Acid Synthesized by Gamma Irradiation for Biomedical Applications.|https://dx.doi.org/10.1021/acsomega.4c07119
 Tannic acid-etched PAN/PVP nanofibers loaded with Cu-MOFs enhance antibacterial efficacy and accelerate wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.114719
 Magnetically Driven Hydrogel Microrobots for Targeted Antibiotic Delivery.|https://dx.doi.org/10.1002/asia.202401970
+Self-driven piezotronic effect enhances the photocatalytic bactericidal activity of polyvinylidene fluoride/bismuth sulfide.|https://dx.doi.org/10.1016/j.jcis.2025.137625
+Electrospinning Trilayer Dressing of PLA/ZnO with Controlled Released Profiles for Visible pH Monitoring and Effective Exudate Management.|https://dx.doi.org/10.1021/acs.langmuir.5c01044
