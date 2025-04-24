@@ -14,3 +14,4 @@ How does Staphylococcus aureus successfully colonize the nasal cavity.|https://d
 Exploration of IgE Specific to Staphylococcal Serine Protease-Like Protein A as a Phenotypic Marker in Late-Onset Asthma.|https://dx.doi.org/10.1007/s00408-025-00810-w
 Methicillin-resistant Staphylococcus aureus GG0398 on livestock farms and meat in the Netherlands.|https://dx.doi.org/10.1016/j.jgar.2025.04.007
 Phytochemical Analysis, Antimicrobial and Anti-Inflammatory Efficacy of Leucas aspera Leaf Extracts.|https://dx.doi.org/10.32592/ARI.2024.79.4.761
+TEAL-Seq: targeted expression analysis sequencing.|https://dx.doi.org/10.1128/msphere.00984-24
