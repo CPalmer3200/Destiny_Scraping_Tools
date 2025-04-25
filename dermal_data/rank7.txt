@@ -7,3 +7,5 @@ The potential of Leishmania donovani Aurora kinase in the diagnosis of Indian an
 Near-infrared spectroscopy as a diagnostic screening tool for lethal chytrid fungus in eastern newts.|https://dx.doi.org/10.1038/s42003-025-08025-8
 Protein-S-nitrosylation of human cytomegalovirus pp65 reduces its ability to undermine cGAS.|https://dx.doi.org/10.1128/jvi.00481-25
 Microfibril-Associated Protein 5 Contributes to the Elastic Fiber Abnormalities in Aged Skin.|https://dx.doi.org/10.1248/bpb.b24-00828
+Unraveling the interplay between mesenchymal stem cells, gut microbiota, and systemic sclerosis: therapeutic implications.|https://dx.doi.org/10.1128/spectrum.01576-24
+Optimization of LCD-Based 3D Printing for the Development of Clotrimazole-Coated Microneedle Systems.|https://dx.doi.org/10.3390/ma18071580

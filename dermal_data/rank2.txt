@@ -32,3 +32,4 @@ A Novel Scoring System for Predicting Mortality, Morbidity, and Functional Outco
 Bacteriological Profile of Diabetic Foot Ulcer With Special Reference to Biofilm Formation.|https://dx.doi.org/10.7759/cureus.80974
 RETRACTION: Analysis of Risk Factors of Infection in Diabetic Foot Patients.|https://dx.doi.org/10.1111/iwj.70671
 Investigating the Prevalence of Fungi in Diabetic Ulcers: An Under-Recognised Contributor to Polymicrobial Biofilms.|https://dx.doi.org/10.1111/apm.70025
+Providencia pseudovermicola sp. nov.: redefining Providencia vermicola and unveiling multidrug-resistant strains from diabetic foot ulcers in Egypt.|https://dx.doi.org/10.1186/s12866-025-03927-3
