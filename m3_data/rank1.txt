@@ -12,3 +12,4 @@ Efficacy and Safety of Fecal Microbiota Transplant for Prevention of Recurrent C
 FMT for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1093/cid/ciaf138
 Faecal microbiota transplantation for recurrent Clostridiodes difficile infection & its global regulatory landscape.|https://dx.doi.org/10.25259/IJMR_818_2024
 Management of severe and fulminant Clostridioides difficile infection in adults.|https://dx.doi.org/10.1099/jmm.0.001991
+The Global Burden of Clostridioides difficile Infections, 2016-2024: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/idr17020031
