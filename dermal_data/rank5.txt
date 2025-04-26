@@ -18,3 +18,5 @@ Successful Treatment of Delayed Onset Nodules After Dermal Fillers Injection wit
 Cascade reaction hydrogel with enzyme-catalyzed endogenous glucose for diabetic wound healing.|https://dx.doi.org/10.1016/j.jcis.2025.137616
 Antimicrobial Peptide Developed with Machine Learning Sequence Optimization Targets Drug Resistant Staphylococcus aureus in Mice.|https://dx.doi.org/10.1172/JCI185430
 Regulatory roles of an sRNA derived from the 5´ UTR and sequence internal to lapA in Pseudomonas aeruginosa PAO1.|https://dx.doi.org/10.1128/spectrum.01303-24
+Formulation and Characterization of Teicoplanin Niosomal Gel for Healing Chronic Wounds Infected with Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.3390/gels11040230
+Synergistic healing of diabetic wounds through photothermal and peroxidase-like activity of heterogeneous Bi(2)S(3)/Au nanoparticles.|https://dx.doi.org/10.1039/d5tb00446b

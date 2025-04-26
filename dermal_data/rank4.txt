@@ -46,3 +46,11 @@ Electrospinning Trilayer Dressing of PLA/ZnO with Controlled Released Profiles f
 Oxidized regenerated cellulose-based supermolecular hydrogel for controlled drug release: Integrating cyclodextrin-mediated hydrophobic drug distribution, wound-specific degradation, and multifunctional therapeutic effects.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143445
 Dual-action MOF-on-MOF hydrogel: A chemo-photodynamic strategy for enhanced antibacterial activity and infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.114712
 Antifouling Activity of Bottlebrush Network Hydrogels.|https://dx.doi.org/10.1021/acsabm.5c00291
+Kinsenoside-Loaded Microneedle Accelerates Diabetic Wound Healing by Reprogramming Macrophage Metabolism via Inhibiting IRE1α/XBP1 Signaling Axis.|https://dx.doi.org/10.1002/advs.202502293
+Biological applications on a novel composite hydrogel containing mesoporous silica nanoparticles loaded with insulin-like growth Factor-1 and Vancomycin.|https://dx.doi.org/10.1007/s10856-025-06884-5
+A Tea Polyphenol-Infused Sprayable Thermosensitive Liposomal Hydrogel for Enhanced Anti-Inflammatory and Antibacterial Psoriasis Treatment.|https://dx.doi.org/10.3390/jfb16040124
+Mass Density Characterization of Hydrogel-Based Systems Inoculated with Bacterial Strains and Dose-Response Performance of Escherichia coli Inoculation.|https://dx.doi.org/10.3390/jfb16040121
+Influence of Nanoparticle Content and Cross-Linking Degree on Functional Attributes of Calcium Alginate-ZnO Nanocomposite Wound Dressings.|https://dx.doi.org/10.3390/membranes15040108
+Lignin-Mediated Dual Conductive Hydrogels with High Conductivity, Antibacterial Activity and Biocompatibility for Chronic Wound Repair.|https://dx.doi.org/10.3390/gels11040283
+Investigation of PVA Matrix Hydrogel Loaded with Centaurea cyanus Extract for Wound Dressing Applications: Morphology, Drug Release, Antibacterial Efficiency, and In Vitro Evaluation.|https://dx.doi.org/10.3390/gels11040264
+An NIR-responsive "4A hydrogel" encapsulating wormwood essential oil: through antibacterial, antioxidant, anti-inflammation, and angiogenic to promote diabetic wound healing.|https://dx.doi.org/10.1016/j.mtbio.2025.101751

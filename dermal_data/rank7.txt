@@ -9,3 +9,4 @@ Protein-S-nitrosylation of human cytomegalovirus pp65 reduces its ability to und
 Microfibril-Associated Protein 5 Contributes to the Elastic Fiber Abnormalities in Aged Skin.|https://dx.doi.org/10.1248/bpb.b24-00828
 Unraveling the interplay between mesenchymal stem cells, gut microbiota, and systemic sclerosis: therapeutic implications.|https://dx.doi.org/10.1128/spectrum.01576-24
 Optimization of LCD-Based 3D Printing for the Development of Clotrimazole-Coated Microneedle Systems.|https://dx.doi.org/10.3390/ma18071580
+Enhanced Translational Activity Is Linked to Lymphatic Endothelial Cell Activation in Cutaneous Leishmaniasis.|https://dx.doi.org/10.1089/lrb.2024.0080
