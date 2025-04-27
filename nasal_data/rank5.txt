@@ -2,3 +2,4 @@ A nomogram for predicting early bacterial infection after liver transplantation:
 Omentum transplantation for malignant tumors: a narrative review of emerging techniques and clinical applications.|https://dx.doi.org/10.1186/s40001-025-02593-5
 Elective cesarean section and bottle-feeding do not reduce infection of hepatitis B in infants of high viremic mothers: a retrospective study.|https://dx.doi.org/10.1186/s12884-025-07606-z
 Clinical impact of closed-incision negative-pressure therapy in DIEP flap breast reconstruction's donor site.|https://dx.doi.org/10.1007/s13304-025-02207-z
+Salvage of the Mastectomy Pocket in Infected Implant-Based Breast Reconstruction Using Negative-Pressure Wound Therapy with Instillation and Dwell: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm14082730
