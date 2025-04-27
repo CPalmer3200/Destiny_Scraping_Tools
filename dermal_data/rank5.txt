@@ -20,3 +20,8 @@ Antimicrobial Peptide Developed with Machine Learning Sequence Optimization Targ
 Regulatory roles of an sRNA derived from the 5´ UTR and sequence internal to lapA in Pseudomonas aeruginosa PAO1.|https://dx.doi.org/10.1128/spectrum.01303-24
 Formulation and Characterization of Teicoplanin Niosomal Gel for Healing Chronic Wounds Infected with Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.3390/gels11040230
 Synergistic healing of diabetic wounds through photothermal and peroxidase-like activity of heterogeneous Bi(2)S(3)/Au nanoparticles.|https://dx.doi.org/10.1039/d5tb00446b
+Antiparasitic and antimicrobial activity of Ipomoea palmata against Toxoplasma gondii and Staphylococcus aureus: correlation with major phenolics identified by HPLC.|https://dx.doi.org/10.1080/21691401.2025.2494796
+Saponin Improves Recovery of Bacteria from Orthopaedic Implants for Enhanced Diagnosis Ex Vivo.|https://dx.doi.org/10.3390/microorganisms13040836
+Resistance Genes and Virulence Factor Genes in Coagulase-Negative and Positive Staphylococci of the Staphylococcus intermedius Group (SIG) Isolated from the Dog Skin.|https://dx.doi.org/10.3390/microorganisms13040735
+Ripening-Related Changes in Color and Bioactive Compounds of Diospyros kaki: Preliminary Insights on Its Antifungal Activity.|https://dx.doi.org/10.3390/foods14081332
+Biocide Susceptibility and Resistance Genes in Udder Surface Staphylococcus from Indian Peri-Urban Dairy Farms.|https://dx.doi.org/10.1016/j.micpath.2025.107601

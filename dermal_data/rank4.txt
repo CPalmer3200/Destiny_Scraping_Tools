@@ -54,3 +54,9 @@ Influence of Nanoparticle Content and Cross-Linking Degree on Functional Attribu
 Lignin-Mediated Dual Conductive Hydrogels with High Conductivity, Antibacterial Activity and Biocompatibility for Chronic Wound Repair.|https://dx.doi.org/10.3390/gels11040283
 Investigation of PVA Matrix Hydrogel Loaded with Centaurea cyanus Extract for Wound Dressing Applications: Morphology, Drug Release, Antibacterial Efficiency, and In Vitro Evaluation.|https://dx.doi.org/10.3390/gels11040264
 An NIR-responsive "4A hydrogel" encapsulating wormwood essential oil: through antibacterial, antioxidant, anti-inflammation, and angiogenic to promote diabetic wound healing.|https://dx.doi.org/10.1016/j.mtbio.2025.101751
+The favorable role of oxidized pullulan as a multipurpose crosslinker in polyvinyl alcohol (PVA)/chitosan/collagen films for promoting human skin fibroblast viability, antibacterial activity and healing of methicillin-resistant Staphylococcus aureus (MRSA) infected wounds in mice.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143435
+Smearable CQD-entrapped hydrogel with sensitive pH response and photodynamic antibacterial properties for visual intelligent wound monitoring.|https://dx.doi.org/10.1016/j.biomaterials.2025.123360
+Dual Delivery of Cells and Bioactive Molecules for Wound Healing Applications.|https://dx.doi.org/10.3390/molecules30071577
+Synthesis and Characterization of Magnesium Oxide-Enhanced Chitosan-Based Hemostatic Gels with Antibacterial Properties: Role of Amino Acids and Crosslinking.|https://dx.doi.org/10.3390/molecules30071496
+Salicylic Acid-Mediated Silver Nanoparticle Green Synthesis: Characterization, Enhanced Antimicrobial, and Antibiofilm Efficacy.|https://dx.doi.org/10.3390/pharmaceutics17040532
+Shark skin and mussel-inspired polyurethane hydrogel sponge for wounds with infection and exudate.|https://dx.doi.org/10.1016/j.jcis.2025.137658

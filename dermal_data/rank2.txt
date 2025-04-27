@@ -34,3 +34,8 @@ RETRACTION: Analysis of Risk Factors of Infection in Diabetic Foot Patients.|htt
 Investigating the Prevalence of Fungi in Diabetic Ulcers: An Under-Recognised Contributor to Polymicrobial Biofilms.|https://dx.doi.org/10.1111/apm.70025
 Providencia pseudovermicola sp. nov.: redefining Providencia vermicola and unveiling multidrug-resistant strains from diabetic foot ulcers in Egypt.|https://dx.doi.org/10.1186/s12866-025-03927-3
 Hypoxia-Driven Neurovascular Impairment Underlies Structural-Functional Dissociation in Diabetic Sudomotor Dysfunction.|https://dx.doi.org/10.1002/mco2.70173
+Peritoneal dialysis in congestive heart failure: reflections from a patient with arrhythmogenic right ventricular cardiomyopathy.|https://dx.doi.org/10.1136/bcr-2024-264174
+Forefoot Surgery for the Management of Diabetes-Related Foot Infections.|https://dx.doi.org/10.7547/23-085
+Multidisciplinary Approach to Midfoot Charcot Neuro-Osteoarthropathy: A Case Series.|https://dx.doi.org/10.1177/19386400251333038
+Global Trends in Diabetic Foot Research (2004-2023): A Bibliometric Study Based on the Scopus Database.|https://dx.doi.org/10.3390/ijerph22040463
+A discharge planning program to prevent infection among patients with diabetic foot ulcers in Taiwan: A randomized controlled trial study.|https://dx.doi.org/10.1016/j.jtv.2025.100901
