@@ -12,3 +12,4 @@ Optimization of LCD-Based 3D Printing for the Development of Clotrimazole-Coated
 Enhanced Translational Activity Is Linked to Lymphatic Endothelial Cell Activation in Cutaneous Leishmaniasis.|https://dx.doi.org/10.1089/lrb.2024.0080
 Lumpy skin disease virus suppresses the antiviral response of bovine peripheral blood mononuclear cells that support viral dissemination.|https://dx.doi.org/10.1186/s13567-025-01516-w
 Single-Cell Profiling Reveals Global Immune Responses During the Progression of Murine Epidermal Neoplasms.|https://dx.doi.org/10.3390/cancers17081379
+The Emerging Fungal Pathogen Candida auris Induces IFNγ to Colonize the Skin.|https://dx.doi.org/10.1371/journal.ppat.1013114

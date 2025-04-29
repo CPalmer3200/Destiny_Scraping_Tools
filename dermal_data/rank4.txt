@@ -60,3 +60,5 @@ Dual Delivery of Cells and Bioactive Molecules for Wound Healing Applications.|h
 Synthesis and Characterization of Magnesium Oxide-Enhanced Chitosan-Based Hemostatic Gels with Antibacterial Properties: Role of Amino Acids and Crosslinking.|https://dx.doi.org/10.3390/molecules30071496
 Salicylic Acid-Mediated Silver Nanoparticle Green Synthesis: Characterization, Enhanced Antimicrobial, and Antibiofilm Efficacy.|https://dx.doi.org/10.3390/pharmaceutics17040532
 Shark skin and mussel-inspired polyurethane hydrogel sponge for wounds with infection and exudate.|https://dx.doi.org/10.1016/j.jcis.2025.137658
+Application of green waste polyphenols in natural antimicrobial materials for the environmental fields: A review.|https://dx.doi.org/10.1016/j.wasman.2025.114800
+Experimental Optimization of Tannic Acid-Crosslinked Hydrogels for Neomycin Delivery in Infected Wounds.|https://dx.doi.org/10.3390/polym17060770

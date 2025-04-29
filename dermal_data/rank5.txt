@@ -25,3 +25,4 @@ Saponin Improves Recovery of Bacteria from Orthopaedic Implants for Enhanced Dia
 Resistance Genes and Virulence Factor Genes in Coagulase-Negative and Positive Staphylococci of the Staphylococcus intermedius Group (SIG) Isolated from the Dog Skin.|https://dx.doi.org/10.3390/microorganisms13040735
 Ripening-Related Changes in Color and Bioactive Compounds of Diospyros kaki: Preliminary Insights on Its Antifungal Activity.|https://dx.doi.org/10.3390/foods14081332
 Biocide Susceptibility and Resistance Genes in Udder Surface Staphylococcus from Indian Peri-Urban Dairy Farms.|https://dx.doi.org/10.1016/j.micpath.2025.107601
+In vitro antimicrobial photodynamic therapy for methicillin-resistant Staphylococcus aureus using flexible organic light-emitting diode.|https://dx.doi.org/10.1016/j.pdpdt.2025.104613

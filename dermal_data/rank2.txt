@@ -39,3 +39,6 @@ Forefoot Surgery for the Management of Diabetes-Related Foot Infections.|https:/
 Multidisciplinary Approach to Midfoot Charcot Neuro-Osteoarthropathy: A Case Series.|https://dx.doi.org/10.1177/19386400251333038
 Global Trends in Diabetic Foot Research (2004-2023): A Bibliometric Study Based on the Scopus Database.|https://dx.doi.org/10.3390/ijerph22040463
 A discharge planning program to prevent infection among patients with diabetic foot ulcers in Taiwan: A randomized controlled trial study.|https://dx.doi.org/10.1016/j.jtv.2025.100901
+Ipsilateral third amputation following lower extremity index amputation for diabetic foot infection.|https://dx.doi.org/10.1177/17085381251339235
+Outcomes of Tibiotalocalcaneal (TTC) Nailing in Ankle Fractures in Diabetic Patients with Charcot Neuroarthropathy.|https://dx.doi.org/10.1177/21514593251328896
+Outcomes of tibiotalocalcaneal (TTC) nailing in ankle fractures in diabetic patients with Charcot neuropathy.|https://dx.doi.org/10.1016/j.tcr.2025.101158
