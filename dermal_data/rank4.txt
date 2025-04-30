@@ -62,3 +62,5 @@ Salicylic Acid-Mediated Silver Nanoparticle Green Synthesis: Characterization, E
 Shark skin and mussel-inspired polyurethane hydrogel sponge for wounds with infection and exudate.|https://dx.doi.org/10.1016/j.jcis.2025.137658
 Application of green waste polyphenols in natural antimicrobial materials for the environmental fields: A review.|https://dx.doi.org/10.1016/j.wasman.2025.114800
 Experimental Optimization of Tannic Acid-Crosslinked Hydrogels for Neomycin Delivery in Infected Wounds.|https://dx.doi.org/10.3390/polym17060770
+Design and Development of ZnO/BMP-2 Sustained-Release Hydrogel for Enhanced Bone Tissue Repair.|https://dx.doi.org/10.1021/acsabm.5c00581
+Antibacterial and Cell-Adhesive Poly(2-ethyl-2-oxazoline) Hydrogels Developed for Wound Treatment: In Vitro Evaluation.|https://dx.doi.org/10.1021/acs.biomac.5c00181

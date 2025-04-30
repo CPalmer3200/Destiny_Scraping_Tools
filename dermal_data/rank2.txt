@@ -42,3 +42,5 @@ A discharge planning program to prevent infection among patients with diabetic f
 Ipsilateral third amputation following lower extremity index amputation for diabetic foot infection.|https://dx.doi.org/10.1177/17085381251339235
 Outcomes of Tibiotalocalcaneal (TTC) Nailing in Ankle Fractures in Diabetic Patients with Charcot Neuroarthropathy.|https://dx.doi.org/10.1177/21514593251328896
 Outcomes of tibiotalocalcaneal (TTC) nailing in ankle fractures in diabetic patients with Charcot neuropathy.|https://dx.doi.org/10.1016/j.tcr.2025.101158
+Histopathology is More Reliable Than Microbiology for Detecting Residual Osteomyelitis After Conservative Surgery for Diabetic Foot: The Pitfall of False-Positive Cultures and the Role of Pseudomonas aeruginosa.|https://dx.doi.org/10.1177/15347346251338689
+Impact of Podiatric Surveillance on Amputation Rates in Patients with Diabetes and Chronic Kidney Disease.|https://dx.doi.org/10.1177/15347346251337862

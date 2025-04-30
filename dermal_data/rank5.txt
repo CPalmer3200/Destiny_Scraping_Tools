@@ -26,3 +26,7 @@ Resistance Genes and Virulence Factor Genes in Coagulase-Negative and Positive S
 Ripening-Related Changes in Color and Bioactive Compounds of Diospyros kaki: Preliminary Insights on Its Antifungal Activity.|https://dx.doi.org/10.3390/foods14081332
 Biocide Susceptibility and Resistance Genes in Udder Surface Staphylococcus from Indian Peri-Urban Dairy Farms.|https://dx.doi.org/10.1016/j.micpath.2025.107601
 In vitro antimicrobial photodynamic therapy for methicillin-resistant Staphylococcus aureus using flexible organic light-emitting diode.|https://dx.doi.org/10.1016/j.pdpdt.2025.104613
+Discovery and Optimisation of Novel Bombinin-Derived Peptides from Bombina variegata against Staphylococcus aureus.|https://dx.doi.org/10.1007/s12602-025-10542-1
+Promising Antimicrobial Activities of Essential Oils and Probiotic Strains on Chronic Wound Bacteria.|https://dx.doi.org/10.3390/biomedicines13040962
+Unlocking the Skin-Protective Effects of Ferulago spp. Essential Oils: A Focus on Antidermatophytic and Wound-Healing Potential.|https://dx.doi.org/10.3390/antibiotics14040343
+Frog Skin Peptides Hylin-a1, AR-23, and RV-23: Promising Tools Against Carbapenem-Resistant Escherichia coli and Klebsiella pneumoniae Infections.|https://dx.doi.org/10.3390/antibiotics14040374
