@@ -10,3 +10,4 @@ A SpA+LukAB vaccine targeting Staphylococcus aureus evasion factors restricts in
 Factor XII-driven coagulation traps bacterial infections.|https://dx.doi.org/10.1084/jem.20250049
 Staphylococcus epidermidis uses the SrrAB regulatory system to modulate oxidative stress and intracellular survival in mouse macrophage cell line Ana-1.|https://dx.doi.org/10.1128/msystems.01737-24
 Single center experience of the first 300 patients treated with bromelain-based enzymatic debridement.|https://dx.doi.org/10.1016/j.burns.2025.107508
+Phylogenomic associations among methicillin-resistant Staphylococcus aureus isolates derived from pets, dairies, and humans.|https://dx.doi.org/10.1128/spectrum.01995-24

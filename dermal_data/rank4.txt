@@ -64,3 +64,7 @@ Application of green waste polyphenols in natural antimicrobial materials for th
 Experimental Optimization of Tannic Acid-Crosslinked Hydrogels for Neomycin Delivery in Infected Wounds.|https://dx.doi.org/10.3390/polym17060770
 Design and Development of ZnO/BMP-2 Sustained-Release Hydrogel for Enhanced Bone Tissue Repair.|https://dx.doi.org/10.1021/acsabm.5c00581
 Antibacterial and Cell-Adhesive Poly(2-ethyl-2-oxazoline) Hydrogels Developed for Wound Treatment: In Vitro Evaluation.|https://dx.doi.org/10.1021/acs.biomac.5c00181
+Cyclodextrin-based self-assembling hydrogel for Photothermal-controlled nitric oxide release in stage-specific treatment of MRSA-induced arthritis.|https://dx.doi.org/10.1016/j.carbpol.2025.123578
+Hesperidin-loaded self-assembled supramolecular hydrogel based on quaternized chitosan as efficient photothermal antibacterial dressing for MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.123577
+Self-Adaptive Release of Stem Cell-Derived Exosomes from a Multifunctional Hydrogel for Accelerating MRSA-Infected Diabetic Wound Repair.|https://dx.doi.org/10.1021/jacs.5c02184
+Drug Reaction with Eosinophilia and Systemic Symptoms Syndrome following Dalbavancin and Oritavancin Administration in a Patient with Osteomyelitis.|https://dx.doi.org/10.1159/000545359
