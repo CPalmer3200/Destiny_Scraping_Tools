@@ -4,3 +4,6 @@ Elective cesarean section and bottle-feeding do not reduce infection of hepatiti
 Clinical impact of closed-incision negative-pressure therapy in DIEP flap breast reconstruction's donor site.|https://dx.doi.org/10.1007/s13304-025-02207-z
 Salvage of the Mastectomy Pocket in Infected Implant-Based Breast Reconstruction Using Negative-Pressure Wound Therapy with Instillation and Dwell: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm14082730
 "Microsurgical breast reconstruction - A salvage option for failed implant-based breast reconstruction".|https://dx.doi.org/10.1016/j.breast.2025.104480
+Impact of closed-incision negative pressure therapy in donor-site complications in DIEP flap breast reconstruction: Analysis of 705 patients and 1125 flaps.|https://dx.doi.org/10.1016/j.bjps.2025.04.010
+Nipple-Sparing Mastectomy and Infection Risk after Immediate Breast Reconstruction.|https://dx.doi.org/10.1097/XCS.0000000000001424
+Skin-Reducing Mastectomy and Direct-to-Implant Breast Reconstruction Without Mesh: A Single-Institute Experience.|https://dx.doi.org/10.7759/cureus.81417
