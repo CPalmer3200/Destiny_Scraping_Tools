@@ -4,3 +4,5 @@ Proton pump inhibitors and the risk of Clostridioides difficile infection: A sys
 Human Milk Oligosaccharide Lacto-N-Neotetraose Promotes Gut Microbiota Recovery in the Context of Antibiotic-Induced Dysbiosis.|https://dx.doi.org/10.1021/acs.jafc.5c01911
 Global, regional, and national burdens of Clostridioides difficile infection over recent decades: a trend analysis informed by the Global Burden of Disease Study.|https://dx.doi.org/10.1128/spectrum.01290-24
 Clinical Outcome of Inflammatory Bowel Disease with Clostridioides difficile Polymerase Chain Reaction Toxin-Positive/Enzyme Immunoassay Toxin-Negative: A Retrospective Cohort Study.|https://dx.doi.org/10.1007/s10620-025-09045-4
+Bifidobacterium breve synergizes with Akkermansia muciniphila and Bacteroides ovatus to antagonize Clostridioides difficile.|https://dx.doi.org/10.1093/ismejo/wraf086
+Co-Colonization of Non-difficile Clostridial Species in Antibiotic-Associated Diarrhea Caused by Clostridioides difficile.|https://dx.doi.org/10.3390/antibiotics14040397
