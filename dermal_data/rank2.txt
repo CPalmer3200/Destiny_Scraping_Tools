@@ -3,3 +3,5 @@ Outcome of diabetic foot ulcers at a Tertiary Care Foot Centre in Pakistan.|http
 Diabetic foot in the context of rheumatic diseases: pathogenesis and treatment approaches.|https://dx.doi.org/10.1007/s00296-025-05890-8
 Extracellular matrix repair and organization of chronic infected diabetic wounds treated with MACF hydrogels.|https://dx.doi.org/10.1016/j.actbio.2025.04.062
 An enhanced harmonic densely connected hybrid transformer network architecture for chronic wound segmentation utilising multi-colour space tensor merging.|https://dx.doi.org/10.1016/j.compbiomed.2025.110172
+The dialysis foot- the impact of presenting estimated glomerular filtration rate on clinical outcomes in patients hospitalized with diabetic foot infections.|https://dx.doi.org/10.1111/iwj.70122
+Cold Atmospheric Pressure Plasma in the Treatment of Diabetic Foot Ulcers: A Systematic Review.|https://dx.doi.org/10.1111/iwj.70517
