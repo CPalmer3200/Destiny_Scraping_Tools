@@ -12,3 +12,13 @@ From Bench to Application: Evaluating the In Vitro and In Vivo Efficacy of a Pol
 Outcomes of Staphylococcal Prosthetic Joint Infection After Hip Hemiarthroplasty: Single Center Retrospective Study.|https://dx.doi.org/10.3390/medicina61040602
 Machine Learning Approach for Early Lactation Mastitis Diagnosis Using Total and Differential Somatic Cell Counts.|https://dx.doi.org/10.3390/ani15081125
 Antibiotic susceptibility patterns of bacterial uropathogens at a private tertiary hospital in Uganda: a retrospective study.|https://dx.doi.org/10.1186/s12879-025-11005-2
+The burden of nosocomial superinfections in a retrospective cohort study of critically ill COVID-19 patients.|https://dx.doi.org/10.1186/s12879-025-10983-7
+Exploratory analysis of long-term suppressive therapy with dalbavancin in ventricular assist device infections caused by Staphylococcus aureus.|https://dx.doi.org/10.1038/s41598-025-99112-7
+Dermatologic presentations of hyper IgE syndrome in pediatric patients.|https://dx.doi.org/10.1186/s13223-025-00963-6
+Exploring the impact of comorbidities and drug resistance on mortality in ICU-acquired bloodstream infections.|https://dx.doi.org/10.1186/s13568-025-01874-w
+Secular trends in periprosthetic joint infections following primary hip and knee arthroplasties: A 15-year cohort study from the VINCat Program (2008-2022).|https://dx.doi.org/10.1016/j.eimce.2025.02.015
+Bacterial profile, treatment outcomes, and determinants among adult patients with musculoskeletal infections admitted to Jimma Medical Center: A prospective observational study.|https://dx.doi.org/10.1371/journal.pone.0322471
+Targeting Microbial Biofilms and Promoting Wound Healing in MRSA-Infected Diabetic Rats using Postbiotics of Lactiplantibacillus plantarum.|https://dx.doi.org/10.1007/s12602-025-10565-8
+Synergistic pathogenesis: exploring biofilms, efflux pumps and secretion systems in Acinetobacter baumannii and Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-025-04336-w
+Conductive Antibacterial Silk Sutures for Combating Surgical Site Infections via Electrically Controlled Drug Release.|https://dx.doi.org/10.1002/marc.202500238
+Giant Cyst of Dermis-Fat Graft in a Child with MRSA-Case Report.|https://dx.doi.org/10.3390/children12040457

@@ -3,3 +3,8 @@ Antigen-Dependent Adjuvanticity of Poly(lactic-co-glycolic acid)-polyethylene Gl
 Epitope-Based Vaccines: The Next Generation of Promising Vaccines Against Bacterial Infection.|https://dx.doi.org/10.3390/vaccines13030248
 Fever exerts opposing effects on the binding affinities of two neutralizing monoclonal antibodies against Staphylococcal Enterotoxin B.|https://dx.doi.org/10.1016/j.jtherbio.2025.104112
 Design of a multi-epitope vaccine against Staphylococcus Aureus lukotoxin ED using in silico approaches.|https://dx.doi.org/10.1038/s41598-025-85147-3
+Perception and management of Oestrus ovis human myiasis by physicians: Exploratory survey in an endemic area (Italy).|https://dx.doi.org/10.1371/journal.pone.0322904
+Recent Advances in Immunotherapeutic and Vaccine-Based Approaches for the Treatment of Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1021/acsinfecdis.5c00001
+Beta-Lactam Antibiotics Promote Extracellular Vesicle Production of Staphylococcus aureus Through ROS-Mediated Lipid Metabolic Reprogramming.|https://dx.doi.org/10.1002/jev2.70077
+Early Findings on the Effectiveness of Novel Awakening Stimuli for Patients with Congenital Central Hypoventilation Syndrome.|https://dx.doi.org/10.3390/s25061759
+Pan-vaccinomics strategy for developing a universal multi-epitope vaccine against endocarditis-related pathogens.|https://dx.doi.org/10.3389/fimmu.2025.1524128
