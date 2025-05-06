@@ -6,3 +6,4 @@ Global, regional, and national burdens of Clostridioides difficile infection ove
 Clinical Outcome of Inflammatory Bowel Disease with Clostridioides difficile Polymerase Chain Reaction Toxin-Positive/Enzyme Immunoassay Toxin-Negative: A Retrospective Cohort Study.|https://dx.doi.org/10.1007/s10620-025-09045-4
 Bifidobacterium breve synergizes with Akkermansia muciniphila and Bacteroides ovatus to antagonize Clostridioides difficile.|https://dx.doi.org/10.1093/ismejo/wraf086
 Co-Colonization of Non-difficile Clostridial Species in Antibiotic-Associated Diarrhea Caused by Clostridioides difficile.|https://dx.doi.org/10.3390/antibiotics14040397
+The Impact of Diet on Clostridioides difficile Infection: A Review.|https://dx.doi.org/10.1093/infdis/jiaf233
