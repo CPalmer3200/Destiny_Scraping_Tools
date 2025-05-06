@@ -3,3 +3,4 @@ Microbiological profile and immunological changes in pediatric chronic adenotons
 Experience in Implementing Colonization Screening in a Multidisciplinary County Clinical Hospital in Romania.|https://dx.doi.org/10.3390/microorganisms13040775
 Staphylococcus aureus in Rwandan dogs predominantly representing human-associated lineages.|https://dx.doi.org/10.1093/lambio/ovaf065
 The effect of diluted 1% baby shampoo on biofilm reduction in chronic rhinosinusitis with nasal polyposis.|https://dx.doi.org/10.7717/peerj.19134
+The AusAB non-ribosomal peptide synthetase of Staphylococcus aureus preferentially generates phevalin in host-mimicking media.|https://dx.doi.org/10.1128/mbio.00845-24
