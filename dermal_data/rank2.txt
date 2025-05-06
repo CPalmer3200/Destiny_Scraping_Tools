@@ -5,3 +5,5 @@ Extracellular matrix repair and organization of chronic infected diabetic wounds
 An enhanced harmonic densely connected hybrid transformer network architecture for chronic wound segmentation utilising multi-colour space tensor merging.|https://dx.doi.org/10.1016/j.compbiomed.2025.110172
 The dialysis foot- the impact of presenting estimated glomerular filtration rate on clinical outcomes in patients hospitalized with diabetic foot infections.|https://dx.doi.org/10.1111/iwj.70122
 Cold Atmospheric Pressure Plasma in the Treatment of Diabetic Foot Ulcers: A Systematic Review.|https://dx.doi.org/10.1111/iwj.70517
+Soft tissue and intraosseous pneumatosis secondary to diabetic foot ulcer: a severe case of emphysematous osteomyelitis.|https://dx.doi.org/10.1093/bjrcr/uaaf016
+The infected diabetic foot: Bacteraemia and endocarditis complicating moderate and severe foot infections.|https://dx.doi.org/10.1111/iwj.70102

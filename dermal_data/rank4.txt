@@ -3,3 +3,4 @@ Enhancement of kudzu starch hydrogels with rutin and ferulic acid: An approach t
 Tuning the optical, electrical, anti-microbial, and swelling activity of nanowires manganese dioxide-loaded chitosan matrix.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143745
 Characterization, antibacterial property, biocompatibility, and optimization of novel composite nanofibers incorporating curcumin-loaded flexible nano-liposomes.|https://dx.doi.org/10.1016/j.bpc.2025.107453
 Magnesium Ion/Gallic Acid MOF-Laden Multifunctional Acellular Matrix Hydrogels for Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsabm.4c01979
+Dual-functional hCe-pHEMA contact lenses for ocular antibiotic release, antioxidant protection, and in vivo corneal bacterial infection treatment.|https://dx.doi.org/10.1016/j.jconrel.2025.113813
