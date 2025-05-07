@@ -22,3 +22,11 @@ Targeting Microbial Biofilms and Promoting Wound Healing in MRSA-Infected Diabet
 Synergistic pathogenesis: exploring biofilms, efflux pumps and secretion systems in Acinetobacter baumannii and Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-025-04336-w
 Conductive Antibacterial Silk Sutures for Combating Surgical Site Infections via Electrically Controlled Drug Release.|https://dx.doi.org/10.1002/marc.202500238
 Giant Cyst of Dermis-Fat Graft in a Child with MRSA-Case Report.|https://dx.doi.org/10.3390/children12040457
+Bloodstream infections with emphasis on Methicillin-resistant Staphylococcus aureus at the University of Gondar Comprehensive Specialized and Referral Hospital, Northwest Ethiopia.|https://dx.doi.org/10.1186/s12879-025-11074-3
+Feasibility of applying Bacillus amyloliquefaciens-derived solid state fermentation products into the hatch cabinet environment as a method to mitigate the microbial bloom during the hatching phase.|https://dx.doi.org/10.1016/j.psj.2025.105190
+Molecular Variation of Methicillin-resistant Staphylococcus haemolyticus Isolated from Patients in Ramadi City, Iraq.|https://dx.doi.org/10.2174/0118722083348921250420012437
+Triple Valve Endocarditis and Multiorgan Failure: A Clinical Conundrum.|https://dx.doi.org/10.7759/cureus.81603
+Detection of the mecA Gene and Its Association With Antimicrobial Resistance Among Coagulase-Negative Staphylococci Isolated From Clinical Samples in a Tertiary Care Hospital: A Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.81643
+Prevalence and Outcome of Infections Caused by Staphylococcus aureus Strains Harboring the Panton-Valentine Leukocidin Gene.|https://dx.doi.org/10.7759/cureus.81687
+[MSB-55] Surgical Treatment of Infective Endocarditis.|https://dx.doi.org/10.5606/tgkdc.dergisi.2024.msb-55
+Chamber design and intensity-modulated ultraviolet-C LEDs for advanced pulsed photonic disinfection.|https://dx.doi.org/10.1515/bmt-2025-0070

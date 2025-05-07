@@ -8,3 +8,6 @@ Recent Advances in Immunotherapeutic and Vaccine-Based Approaches for the Treatm
 Beta-Lactam Antibiotics Promote Extracellular Vesicle Production of Staphylococcus aureus Through ROS-Mediated Lipid Metabolic Reprogramming.|https://dx.doi.org/10.1002/jev2.70077
 Early Findings on the Effectiveness of Novel Awakening Stimuli for Patients with Congenital Central Hypoventilation Syndrome.|https://dx.doi.org/10.3390/s25061759
 Pan-vaccinomics strategy for developing a universal multi-epitope vaccine against endocarditis-related pathogens.|https://dx.doi.org/10.3389/fimmu.2025.1524128
+Effect of Microbial Stimuli and Bone Morphogenetic Protein 2 on Ectopic Bone Formation.|https://dx.doi.org/10.1089/ten.tea.2025.0020
+The virulence toolkit of Staphylococcus aureus: a comprehensive review of toxin diversity, molecular mechanisms, and clinical implications.|https://dx.doi.org/10.1007/s10096-025-05148-y
+Determining an appropriate fosfomycin (ZTI-01) dosing regimen in pneumonia patients by utilizing minimal PBPK modeling and target attainment analysis.|https://dx.doi.org/10.1128/aac.01869-24
