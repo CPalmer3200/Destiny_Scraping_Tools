@@ -8,3 +8,5 @@ Cold Atmospheric Pressure Plasma in the Treatment of Diabetic Foot Ulcers: A Sys
 Soft tissue and intraosseous pneumatosis secondary to diabetic foot ulcer: a severe case of emphysematous osteomyelitis.|https://dx.doi.org/10.1093/bjrcr/uaaf016
 The infected diabetic foot: Bacteraemia and endocarditis complicating moderate and severe foot infections.|https://dx.doi.org/10.1111/iwj.70102
 Transcutaneous Application of Gaseous CO(2) Improves Diabetic Distal Symmetrical Polyneuropathy in Patients with and Without Chronic Wounds.|https://dx.doi.org/10.1177/15347346251338680
+Development of a bioactive hyaluronic acid hydrogel functionalised with antimicrobial peptides for the treatment of chronic wounds.|https://dx.doi.org/10.1039/d5bm00567a
+Creating a Practical Tool for Predicting Major Amputation Rate in Patients With Diabetic Hindfoot Ulcers: Focus on Ischemia and Infection.|https://dx.doi.org/10.3346/jkms.2025.40.e55

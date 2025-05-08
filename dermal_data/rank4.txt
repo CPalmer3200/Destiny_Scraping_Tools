@@ -6,3 +6,8 @@ Magnesium Ion/Gallic Acid MOF-Laden Multifunctional Acellular Matrix Hydrogels f
 Dual-functional hCe-pHEMA contact lenses for ocular antibiotic release, antioxidant protection, and in vivo corneal bacterial infection treatment.|https://dx.doi.org/10.1016/j.jconrel.2025.113813
 Highly Compatible Nanocomposite-Based Bacterial Cellulose Doped With Dopamine and Titanium Dioxide Nanoparticles: Study the Effect of Mode of Addition, Characterization, Antibacterial, and Wound Healing Efficiencies.|https://dx.doi.org/10.1002/bip.70025
 Bioinspired 3D-Printed NIR-Responsive MXene-Based Multifunctional Eutectogel Microneedles for Personalized Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.202501344
+Assessment of pyrazolone derivatives as a new class of cyclooxygenase-2 and aflatoxigenic fungal inhibitors.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143903
+Preparation and performance of regenerated cellulose/polylactic acid non-leaching antibacterial composite membrane.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143960
+Enhanced antibacterial activity of Al-doped CuS incorporated PVA nanofiber films: Photothermal and photodynamic perspectives.|https://dx.doi.org/10.1016/j.colsurfb.2025.114758
+Carboxymethyl Chitosan Capped Bimetallic Nanoparticles Entrapped in Theranostic Nanofibers: Antimicrobial Peptide Coating, In Vitro, In Vivo Characterization for MDR Microbial Infection and Photoacoustic/Optical Imaging.|https://dx.doi.org/10.1021/acsabm.4c01883
+Synergistic photothermal and photodynamic therapy to promote bacteria-infected wound healing using ZnO@PDA/Ag-integrated waterborne polyurethane films.|https://dx.doi.org/10.1039/d5tb00277j

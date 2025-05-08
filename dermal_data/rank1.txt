@@ -2,3 +2,4 @@ Genomic and phenotypic adaptations of methicillin resistant Staphylococcus aureu
 Green biosynthesis of titanium dioxide nanoparticles incorporated gellan gum hydrogel for biomedical application as wound dressing.|https://dx.doi.org/10.3389/fchem.2025.1560213
 Insulin/PHMB-grafted sodium alginate hydrogels improve infected wound healing by antibacterial-prompted macrophage inflammatory regulation.|https://dx.doi.org/10.1186/s12951-025-03398-8
 Construction of aerogels based on N-halamine and chitosan as wound dressing materials with excellent bactericidal and on-demand dissoluble properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143930
+mecA and PVL genes in methicillin-resistant Staphylococcus aureus from clinical specimens: a cross-sectional hospital based study from Nepal.|https://dx.doi.org/10.18502/ijm.v17i1.17806
