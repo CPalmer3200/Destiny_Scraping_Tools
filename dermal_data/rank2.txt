@@ -10,3 +10,5 @@ The infected diabetic foot: Bacteraemia and endocarditis complicating moderate a
 Transcutaneous Application of Gaseous CO(2) Improves Diabetic Distal Symmetrical Polyneuropathy in Patients with and Without Chronic Wounds.|https://dx.doi.org/10.1177/15347346251338680
 Development of a bioactive hyaluronic acid hydrogel functionalised with antimicrobial peptides for the treatment of chronic wounds.|https://dx.doi.org/10.1039/d5bm00567a
 Creating a Practical Tool for Predicting Major Amputation Rate in Patients With Diabetic Hindfoot Ulcers: Focus on Ischemia and Infection.|https://dx.doi.org/10.3346/jkms.2025.40.e55
+Ultrasound-Triggered Nanocomposite "Lever" Hydrogels with a Full Repair System Accelerates Diabetic Foot Ulcer Repair.|https://dx.doi.org/10.1002/advs.202500720
+Programmable hierarchical hydrogel dressing for sequential release of growth factor and DNase to accelerate diabetic wound healing.|https://dx.doi.org/10.1016/j.jconrel.2025.113825

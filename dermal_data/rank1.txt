@@ -4,3 +4,4 @@ Insulin/PHMB-grafted sodium alginate hydrogels improve infected wound healing by
 Construction of aerogels based on N-halamine and chitosan as wound dressing materials with excellent bactericidal and on-demand dissoluble properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.143930
 mecA and PVL genes in methicillin-resistant Staphylococcus aureus from clinical specimens: a cross-sectional hospital based study from Nepal.|https://dx.doi.org/10.18502/ijm.v17i1.17806
 Folliculitis Decalvans: An Uncommon Case Report with Review of Literature.|https://dx.doi.org/10.4103/ijabmr.ijabmr_414_24
+Case report: Cervical suppurative lymphadenitis caused by burkholderia multivorans in a healthy child.|https://dx.doi.org/10.1186/s12879-025-11033-y

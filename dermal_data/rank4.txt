@@ -11,3 +11,5 @@ Preparation and performance of regenerated cellulose/polylactic acid non-leachin
 Enhanced antibacterial activity of Al-doped CuS incorporated PVA nanofiber films: Photothermal and photodynamic perspectives.|https://dx.doi.org/10.1016/j.colsurfb.2025.114758
 Carboxymethyl Chitosan Capped Bimetallic Nanoparticles Entrapped in Theranostic Nanofibers: Antimicrobial Peptide Coating, In Vitro, In Vivo Characterization for MDR Microbial Infection and Photoacoustic/Optical Imaging.|https://dx.doi.org/10.1021/acsabm.4c01883
 Synergistic photothermal and photodynamic therapy to promote bacteria-infected wound healing using ZnO@PDA/Ag-integrated waterborne polyurethane films.|https://dx.doi.org/10.1039/d5tb00277j
+Chlorella pyrenoidosa-Based Antibiotic Liposomal Gel Promotes Wound Healing by Scavenging Biofilm and Accelerating Regeneration.|https://dx.doi.org/10.1021/acsami.5c00926
+Potent antimicrobial activity of hydrogel loaded with the antimicrobial peptide, D-Bac8c(2,5 Leu), against monospecies and polymicrobial biofilms of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.3389/fmicb.2025.1571649
