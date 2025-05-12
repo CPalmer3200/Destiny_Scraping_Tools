@@ -11,3 +11,10 @@ Breast Reconstruction With Subpectoral, Air-Filled Tissue Expander Following Nip
 Early Onset Red Breast Syndrome: The Incidence, Risk Factors, and Clinical Outcomes in Prepectoral Direct-to-Implant Breast Reconstruction.|https://dx.doi.org/10.1093/asj/sjaf035
 Timing of surgery and 1-year postoperative outcomes in patients with breast cancer and preoperative COVID-19 history: A matched, longitudinal, ambidirectional cohort study.|https://dx.doi.org/10.1002/ijc.35466
 Infection Risk and Patient-Reported Outcomes Across Complete Submuscular, Partial Submuscular, and Prepectoral Tissue Expander Placement.|https://dx.doi.org/10.1097/PRS.0000000000012185
+Formulation-optimized oncolytic viruses: Advancing systemic delivery and immune amplification.|https://dx.doi.org/10.1016/j.jconrel.2025.113822
+Artificial intelligence prediction model for readmission after DIEP flap breast reconstruction based on NSQIP data.|https://dx.doi.org/10.1016/j.bjps.2025.04.028
+Sepsis 6 Years After Breast Augmentation With Aquafilling: A Case Report and Literature Review.|https://dx.doi.org/10.1097/GOX.0000000000006798
+Utilizing Reverse Axillary Mapping in the Surgical Treatment of Axillary Hidradenitis Suppurativa: A Novel Approach.|https://dx.doi.org/10.1097/GOX.0000000000006750
+Efficacy and Morbidity of Heparin Infusion in Salvaging Autologous Breast Reconstruction Free Flaps.|https://dx.doi.org/10.1002/micr.70065
+Thrombotic thrombocytopenic purpura following plastic surgery: A case report.|https://dx.doi.org/10.1016/j.anplas.2025.03.003
+A Prospective Study to Evaluate the SPY-QP Software for Intraoperative Perfusion Assessment in Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000006758

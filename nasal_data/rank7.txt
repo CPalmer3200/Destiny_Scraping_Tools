@@ -30,3 +30,12 @@ Detection of the mecA Gene and Its Association With Antimicrobial Resistance Amo
 Prevalence and Outcome of Infections Caused by Staphylococcus aureus Strains Harboring the Panton-Valentine Leukocidin Gene.|https://dx.doi.org/10.7759/cureus.81687
 [MSB-55] Surgical Treatment of Infective Endocarditis.|https://dx.doi.org/10.5606/tgkdc.dergisi.2024.msb-55
 Chamber design and intensity-modulated ultraviolet-C LEDs for advanced pulsed photonic disinfection.|https://dx.doi.org/10.1515/bmt-2025-0070
+Tailoring Cell Behavior and Antibacterial Properties on Zirconia Biomaterials through Femtosecond Laser-Induced Micropatterns and Nanotopography.|https://dx.doi.org/10.1021/acsami.4c22433
+The identity of implant materials governs the antimicrobial efficacy of SET-M33.|https://dx.doi.org/10.1038/s41598-025-99808-w
+Early and late mortality in vertebral osteomyelitis: who dies within the first year after diagnosis.|https://dx.doi.org/10.1007/s15010-025-02541-9
+Child Organ Offer Process (cOOPS): Understanding Infectious Risk Assessment and Mitigation Strategies.|https://dx.doi.org/10.1111/petr.70088
+A Cross-Sectional Study of Catheter-Related Bloodstream Infections in a Tertiary Care Hospital in India.|https://dx.doi.org/10.7759/cureus.81868
+The Importance of the Detection of Staphylococcus aureus Strain Characteristics Associated With Perioperative Transmission of Antibiotic Resistance.|https://dx.doi.org/10.7759/cureus.81885
+Investigating endophytic fungi of Calotropis procera for novel bioactive compounds: molecular docking and bioactivity insights.|https://dx.doi.org/10.1186/s12934-025-02710-3
+Case report: Cervical suppurative lymphadenitis caused by burkholderia multivorans in a healthy child.|https://dx.doi.org/10.1186/s12879-025-11033-y
+The effectiveness of arthroscopic irrigation and debridement in the management of septic arthritis following anterior cruciate ligament reconstruction: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.5152/j.aott.2025.24070

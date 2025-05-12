@@ -11,3 +11,5 @@ Pan-vaccinomics strategy for developing a universal multi-epitope vaccine agains
 Effect of Microbial Stimuli and Bone Morphogenetic Protein 2 on Ectopic Bone Formation.|https://dx.doi.org/10.1089/ten.tea.2025.0020
 The virulence toolkit of Staphylococcus aureus: a comprehensive review of toxin diversity, molecular mechanisms, and clinical implications.|https://dx.doi.org/10.1007/s10096-025-05148-y
 Determining an appropriate fosfomycin (ZTI-01) dosing regimen in pneumonia patients by utilizing minimal PBPK modeling and target attainment analysis.|https://dx.doi.org/10.1128/aac.01869-24
+Patterns of the Circulation of Influenza in a Targeted Jordanian Subpopulation from November 2021 to April 2023.|https://dx.doi.org/10.3390/pathogens14040365
+Micro/Nanofibrous Polycaprolactone Scaffolds Loaded with Gentamicin for Improved Antimicrobial Activities under Seawater Immersion.|https://dx.doi.org/10.1002/adhm.202501352
