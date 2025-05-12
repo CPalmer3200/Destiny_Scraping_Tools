@@ -14,3 +14,4 @@ Synergistic photothermal and photodynamic therapy to promote bacteria-infected w
 Chlorella pyrenoidosa-Based Antibiotic Liposomal Gel Promotes Wound Healing by Scavenging Biofilm and Accelerating Regeneration.|https://dx.doi.org/10.1021/acsami.5c00926
 Potent antimicrobial activity of hydrogel loaded with the antimicrobial peptide, D-Bac8c(2,5 Leu), against monospecies and polymicrobial biofilms of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.3389/fmicb.2025.1571649
 Modulated Optoelectronic Properties of MOF/CNF Bionanocomposite Films for Bacterial Growth Control under Visible Light.|https://dx.doi.org/10.1021/acsami.5c04982
+A Chitosan-Integrated Antibacterial Protein Composite Nanocomplex Derived from Barnacle Cement and Spider Silk.|https://dx.doi.org/10.1016/j.jbiotec.2025.05.007

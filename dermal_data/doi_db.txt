@@ -3465,3 +3465,4 @@ Unknown DOI
 10.1111/vde.13342
 10.1021/acsinfecdis.5c00034
 10.1021/acsami.5c04982
+10.1016/j.jbiotec.2025.05.007
