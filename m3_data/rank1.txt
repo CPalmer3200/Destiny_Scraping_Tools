@@ -3,3 +3,5 @@ More questions than answers? Predicting FMT outcomes for recurrent Clostridioide
 Evaluation of the Efficacy of Step-down Therapy with Oral Minocycline for Complicated Pyelonephritis Caused by Extended-Spectrum β-Lactamase-Producing Enterobacterales: A Retrospective Cohort Study.|https://dx.doi.org/10.1016/j.jiac.2025.102724
 Beyond Random Fecal Microbial Transplants: Next Generation Personalized Approaches to Normalize Dysbiotic Microbiota for Treating IBD.|https://dx.doi.org/10.1016/j.gtc.2024.11.002
 Current Approaches to Treat and Prevent Recurrence of Clostridioides difficile.|https://dx.doi.org/10.1016/j.gtc.2025.02.005
+Bacterial diversity, viability and stability in lyophilised faecal microbiota capsules support ongoing clinical use.|https://dx.doi.org/10.1016/j.ijpharm.2025.125703
+Reactive Arthritis.|https://dx.doi.org/10.12890/2025_005350
