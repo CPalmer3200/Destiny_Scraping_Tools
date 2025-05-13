@@ -3,3 +3,4 @@ Temporin-GHa derived peptide shows inhibitory efficacy against Cutibacterium acn
 The role of mycosporine-like amino acids in skin care formulations: a patent review (2014-2024).|https://dx.doi.org/10.1007/s43630-025-00717-8
 Phenotypic and Genotypic Bacterial Virulence and Resistance Profiles in Hidradenitis Suppurativa.|https://dx.doi.org/10.3390/ijms26083502
 Unique dermal bacterial signature differentiates atopic dermatitis skin from healthy.|https://dx.doi.org/10.1128/msphere.00156-25
+Nanotechnology-driven nanoemulsion gel for enhanced transdermal delivery of Sophora alopecuroides L. empyreumatic oil: formulation optimization, and anti-biofilm efficacy.|https://dx.doi.org/10.3389/fbioe.2025.1586924

@@ -3,3 +3,4 @@ Prevalence and Outcome of Infections Caused by Staphylococcus aureus Strains Har
 Linker and Head-Group Exploration of Anti-MRSA Triaromatic Pleuromutilins.|https://dx.doi.org/10.1021/acs.jmedchem.5c00152
 Antimicrobial use guidelines for canine pyoderma by the International Society for Companion Animal Infectious Diseases (ISCAID).|https://dx.doi.org/10.1111/vde.13342
 Newly Identified Antimicrobial Peptide Scymicrosin(7-26) from Scylla paramamosain Showing Potent Antimicrobial Activity Against Methicillin-Resistant Staphylococcus aureus In Vitro and In Vivo.|https://dx.doi.org/10.1021/acsinfecdis.5c00034
+The efficacy of skin soft tissue expansion and recombinant human epidermal growth factor in the repair of second-degree scald scars: a prospective single-blind randomized controlled trial.|https://dx.doi.org/10.4174/astr.2025.108.5.325

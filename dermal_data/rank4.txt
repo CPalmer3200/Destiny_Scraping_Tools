@@ -15,3 +15,7 @@ Chlorella pyrenoidosa-Based Antibiotic Liposomal Gel Promotes Wound Healing by S
 Potent antimicrobial activity of hydrogel loaded with the antimicrobial peptide, D-Bac8c(2,5 Leu), against monospecies and polymicrobial biofilms of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.3389/fmicb.2025.1571649
 Modulated Optoelectronic Properties of MOF/CNF Bionanocomposite Films for Bacterial Growth Control under Visible Light.|https://dx.doi.org/10.1021/acsami.5c04982
 A Chitosan-Integrated Antibacterial Protein Composite Nanocomplex Derived from Barnacle Cement and Spider Silk.|https://dx.doi.org/10.1016/j.jbiotec.2025.05.007
+Electrospun Nanofiber Films Containing Hesperidin and Ofloxacin for the Inhibition of Inflammation and Psoriasis: A Potential In vitro Study.|https://dx.doi.org/10.2174/0115672018390944250505120443
+Green Hydrogels Prepared from Pectin Extracted from Orange Peels as a Potential Carrier for Dermal Delivery Systems.|https://dx.doi.org/10.1021/acsomega.4c08449
+AgNPs@Tea Polyphenol-Poly(acrylic acid) Hydrogel Dressing with Synergistic Antibacterial Action and Low Cytotoxicity.|https://dx.doi.org/10.1021/acsabm.5c00445
+Controlled release of ionic carrier hydrogels for sequential immunomodulation to facilitate stage-specific treatment of infectious wound.|https://dx.doi.org/10.1016/j.biomaterials.2025.123376
