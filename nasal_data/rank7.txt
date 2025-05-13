@@ -39,3 +39,10 @@ The Importance of the Detection of Staphylococcus aureus Strain Characteristics 
 Investigating endophytic fungi of Calotropis procera for novel bioactive compounds: molecular docking and bioactivity insights.|https://dx.doi.org/10.1186/s12934-025-02710-3
 Case report: Cervical suppurative lymphadenitis caused by burkholderia multivorans in a healthy child.|https://dx.doi.org/10.1186/s12879-025-11033-y
 The effectiveness of arthroscopic irrigation and debridement in the management of septic arthritis following anterior cruciate ligament reconstruction: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.5152/j.aott.2025.24070
+Surgical Site Infections Complicating Coronary Artery Bypass Graft Surgery in Australia: time trends in infection rates, surgical antimicrobial prophylaxis and pathogens using a comprehensive surveillance network, 2010-2023.|https://dx.doi.org/10.1016/j.jhin.2025.04.027
+Improved humanized mouse model of Staphylococcus aureus infection.|https://dx.doi.org/10.1016/j.mucimm.2025.05.001
+Antimicrobial Stewardship Impact on the Treatment of Intra-abdominal Infections in the Surgical Intensive Care Unit.|https://dx.doi.org/10.1089/sur.2024.304
+[Features of treatment of acute postoperative endophthalmitis].|https://dx.doi.org/10.17116/oftalma202514102159
+Antibiotic use patterns and factors associated with leukocyte decrease in COVID-19 patients with suspected secondary infections: A cross-sectional study in Indonesia.|https://dx.doi.org/10.52225/narra.v5i1.2170
+Dual anti-inflammatory and antimicrobial effects of stingless bee propolis on second-degree burns.|https://dx.doi.org/10.52225/narra.v5i1.2359
+A Rare Case of Sinus of Valsalva Aneurysm Rupture Resulting From Infective Endocarditis and Requiring Surgery.|https://dx.doi.org/10.7759/cureus.81944

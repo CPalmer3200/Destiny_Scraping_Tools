@@ -6,3 +6,4 @@ The effect of diluted 1% baby shampoo on biofilm reduction in chronic rhinosinus
 The AusAB non-ribosomal peptide synthetase of Staphylococcus aureus preferentially generates phevalin in host-mimicking media.|https://dx.doi.org/10.1128/mbio.00845-24
 Zoonotic relevance of multidrug-resistant bacteria in parrots with respiratory illness.|https://dx.doi.org/10.1007/s11259-025-10752-6
 Identification of Novel Staphylococcus aureus Core and Accessory Virulence Patterns in Chronic Rhinosinusitis.|https://dx.doi.org/10.3390/ijms26083711
+Nasal Methicillin Resistant Staphylococcus Aureus Colonisation and the Incidence of Invasive Staphylococcal Infection in Patients Undergoing Hemodialysis.|https://dx.doi.org/10.25259/IJN_418_2024
