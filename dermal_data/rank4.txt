@@ -19,3 +19,4 @@ Electrospun Nanofiber Films Containing Hesperidin and Ofloxacin for the Inhibiti
 Green Hydrogels Prepared from Pectin Extracted from Orange Peels as a Potential Carrier for Dermal Delivery Systems.|https://dx.doi.org/10.1021/acsomega.4c08449
 AgNPs@Tea Polyphenol-Poly(acrylic acid) Hydrogel Dressing with Synergistic Antibacterial Action and Low Cytotoxicity.|https://dx.doi.org/10.1021/acsabm.5c00445
 Controlled release of ionic carrier hydrogels for sequential immunomodulation to facilitate stage-specific treatment of infectious wound.|https://dx.doi.org/10.1016/j.biomaterials.2025.123376
+Hydrogel-mediated delivery of baicalein for the effective therapy of MRSA-infected diabetic wounds by immune response and moderate photothermal effects.|https://dx.doi.org/10.1039/d5bm00335k
