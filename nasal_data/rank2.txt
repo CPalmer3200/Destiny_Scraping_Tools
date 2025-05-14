@@ -7,3 +7,4 @@ The AusAB non-ribosomal peptide synthetase of Staphylococcus aureus preferential
 Zoonotic relevance of multidrug-resistant bacteria in parrots with respiratory illness.|https://dx.doi.org/10.1007/s11259-025-10752-6
 Identification of Novel Staphylococcus aureus Core and Accessory Virulence Patterns in Chronic Rhinosinusitis.|https://dx.doi.org/10.3390/ijms26083711
 Nasal Methicillin Resistant Staphylococcus Aureus Colonisation and the Incidence of Invasive Staphylococcal Infection in Patients Undergoing Hemodialysis.|https://dx.doi.org/10.25259/IJN_418_2024
+Impact of Staphylococcus aureus colonization and skin abscesses on formation of human anti-αGal antibodies.|https://dx.doi.org/10.1007/s00430-025-00833-3

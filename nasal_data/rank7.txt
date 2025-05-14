@@ -46,3 +46,4 @@ Antimicrobial Stewardship Impact on the Treatment of Intra-abdominal Infections 
 Antibiotic use patterns and factors associated with leukocyte decrease in COVID-19 patients with suspected secondary infections: A cross-sectional study in Indonesia.|https://dx.doi.org/10.52225/narra.v5i1.2170
 Dual anti-inflammatory and antimicrobial effects of stingless bee propolis on second-degree burns.|https://dx.doi.org/10.52225/narra.v5i1.2359
 A Rare Case of Sinus of Valsalva Aneurysm Rupture Resulting From Infective Endocarditis and Requiring Surgery.|https://dx.doi.org/10.7759/cureus.81944
+Antibiotic Resistance and Surgical Site Infections in Free Flap Reconstruction for Head and Neck Cancer: A Retrospective Analysis From a Lower-Middle-Income Country.|https://dx.doi.org/10.7759/cureus.82103
