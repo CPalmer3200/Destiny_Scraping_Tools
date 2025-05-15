@@ -24,3 +24,6 @@ Complications and Burden of 2-Stage Tissue Expander to Implant-Based Reconstruct
 A Prospective Comparative Study of the Effectiveness of Flap Fixation by Suture Versus Conventional Closure in Reducing Seroma Formation After Modified Radical Mastectomy.|https://dx.doi.org/10.7759/cureus.83915
 Managing Necrotizing Soft-Tissue Infection in Breast Cancer: A Case of Emergency Toilet Mastectomy.|https://dx.doi.org/10.12659/AJCR.946669
 Recognizing and Managing Breast Implant Complications: A Review for Healthcare Providers Who Treat Women Who Underwent Breast Implant-Based Surgery.|https://dx.doi.org/10.2147/IJWH.S501800
+Comparison of Outcomes of Microsurgical Breast Reconstruction after Premastectomy and Postmastectomy Radiation Therapy.|https://dx.doi.org/10.1097/XCS.0000000000001444
+Long-Term Shape and Volume Retention of Acellular Dermal Matrix in Oncoplastic Breast-Conserving Surgery: A 2-Year Retrospective Study.|https://dx.doi.org/10.3390/jcm14093002
+SARS-CoV-2 Infection Risk and COVID-19 Prevalence and Mortality in Cancer Patients During the First Wave of COVID-19 Pandemic in a Virus Epicenter in Northern Italy.|https://dx.doi.org/10.3390/cancers17091536

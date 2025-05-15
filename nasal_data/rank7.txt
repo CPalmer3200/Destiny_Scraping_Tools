@@ -47,3 +47,7 @@ Antibiotic use patterns and factors associated with leukocyte decrease in COVID-
 Dual anti-inflammatory and antimicrobial effects of stingless bee propolis on second-degree burns.|https://dx.doi.org/10.52225/narra.v5i1.2359
 A Rare Case of Sinus of Valsalva Aneurysm Rupture Resulting From Infective Endocarditis and Requiring Surgery.|https://dx.doi.org/10.7759/cureus.81944
 Antibiotic Resistance and Surgical Site Infections in Free Flap Reconstruction for Head and Neck Cancer: A Retrospective Analysis From a Lower-Middle-Income Country.|https://dx.doi.org/10.7759/cureus.82103
+Antimicrobial susceptibility at intensive care units in Sudan, antibiogram development.|https://dx.doi.org/10.1186/s12866-025-04021-4
+Cytomorphological characteristics of the nasopharyngeal mucosa in children with acute respiratory infections.|https://dx.doi.org/10.36740/WLek/203896
+Phage therapy: a promising approach for Staphylococcus aureus diabetic foot infections.|https://dx.doi.org/10.1128/jvi.00458-25
+Povidone-Iodine and Hydrogen Peroxide Combination Improves the Anti-Biofilm Activity of the Individual Agents on Staphylococcus aureus.|https://dx.doi.org/10.3390/ijms26094390
