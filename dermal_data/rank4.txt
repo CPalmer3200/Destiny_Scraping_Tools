@@ -20,3 +20,8 @@ Green Hydrogels Prepared from Pectin Extracted from Orange Peels as a Potential 
 AgNPs@Tea Polyphenol-Poly(acrylic acid) Hydrogel Dressing with Synergistic Antibacterial Action and Low Cytotoxicity.|https://dx.doi.org/10.1021/acsabm.5c00445
 Controlled release of ionic carrier hydrogels for sequential immunomodulation to facilitate stage-specific treatment of infectious wound.|https://dx.doi.org/10.1016/j.biomaterials.2025.123376
 Hydrogel-mediated delivery of baicalein for the effective therapy of MRSA-infected diabetic wounds by immune response and moderate photothermal effects.|https://dx.doi.org/10.1039/d5bm00335k
+A novel multifunctional self-assembled nanocellulose based scaffold for the healing of diabetic wounds.|https://dx.doi.org/10.1016/j.carbpol.2025.123643
+A Photothermal-Enhanced Thermoelectric Nanosheet Incorporated with Zwitterionic Hydrogels for Wound Repair and Bioelectronics.|https://dx.doi.org/10.1016/j.actbio.2025.05.033
+Bone Immune Microenvironment-Modulating Naringin Carbon Dot Complex Hydrogel with ROS-Scavenging and Antibacterial Properties for Enhanced Bone Repair.|https://dx.doi.org/10.1021/acsami.5c07627
+A dynamically crosslinked, self-adapting, injectable gelatin-chondroitin sulfate hydrogel with antibacterial and antioxidant properties for treatment of deep and irregular wounds.|https://dx.doi.org/10.1039/d4tb02537g
+Development of ZnO-NPs reinforced chitosan nanofiber mats with improved antibacterial and biocompatibility properties.|https://dx.doi.org/10.1038/s41598-025-01669-w

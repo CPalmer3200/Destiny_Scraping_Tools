@@ -14,3 +14,8 @@ Ultrasound-Triggered Nanocomposite "Lever" Hydrogels with a Full Repair System A
 Programmable hierarchical hydrogel dressing for sequential release of growth factor and DNase to accelerate diabetic wound healing.|https://dx.doi.org/10.1016/j.jconrel.2025.113825
 Comparison of Thermal Imaging and Magnetic Resonance Imaging in Evaluating the Extension of Diabetic Foot Infections: A Report of Two Cases.|https://dx.doi.org/10.7759/cureus.81942
 Higher Serum Levels of Lipoprotein-Associated Phospholipase A2 are Associated with Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.1177/15347346251340757
+Comparison and evaluation of negative pressure wound therapy versus standard wound care in the treatment of diabetic foot ulcers.|https://dx.doi.org/10.1186/s12893-025-02885-x
+[Effectiveness of three-dimensional-printed microporous titanium prostheses combined with flap implantation in treatment of large segmental infectious bone defects in limbs].|https://dx.doi.org/10.7507/1002-1892.202502045
+Outcomes of open or closed treatment of foot fractures: a database study comparing patients with and without diabetes.|https://dx.doi.org/10.1053/j.jfas.2025.05.004
+Phage therapy: a promising approach for Staphylococcus aureus diabetic foot infections.|https://dx.doi.org/10.1128/jvi.00458-25
+Alginate-based hydrogels for sustained antimicrobial peptide delivery to enhance wound healing in diabetes.|https://dx.doi.org/10.1016/j.bioadv.2025.214337

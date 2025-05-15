@@ -4,3 +4,6 @@ The role of mycosporine-like amino acids in skin care formulations: a patent rev
 Phenotypic and Genotypic Bacterial Virulence and Resistance Profiles in Hidradenitis Suppurativa.|https://dx.doi.org/10.3390/ijms26083502
 Unique dermal bacterial signature differentiates atopic dermatitis skin from healthy.|https://dx.doi.org/10.1128/msphere.00156-25
 Nanotechnology-driven nanoemulsion gel for enhanced transdermal delivery of Sophora alopecuroides L. empyreumatic oil: formulation optimization, and anti-biofilm efficacy.|https://dx.doi.org/10.3389/fbioe.2025.1586924
+Photocatalytic effect of gold-zinc oxide composite nanostructures for the selective and controlled killing of antibiotic-resistant bacteria and the removal of resistant bacterial biofilms from the body.|https://dx.doi.org/10.1186/s40580-025-00488-z
+Opening New Roads for Multi-Directional Functional Applications Through In Vitro Chemical and Biological Analysis of Zoegea leptaurea L. Extracts.|https://dx.doi.org/10.1002/fsn3.70261
+Coagulase-Negative Staphylococci Determined as Blood Culture Contamination Have High Virulence Characteristic Including Transfer of Antibiotic Resistance Determinants to Staphylococcus aureus and Escherichia coli.|https://dx.doi.org/10.3390/ijms26094424
