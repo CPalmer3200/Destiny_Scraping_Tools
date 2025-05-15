@@ -1,2 +1,3 @@
 Nuclear deformability depends on H3K9-methylated heterochromatin anchorage to the nuclear periphery in Caenorhabditis elegans.|https://dx.doi.org/10.1093/genetics/iyaf086
 Effect of in ovo-fed amino acids on muscle and liver metabolome of broiler chickens at 24 h post-hatch.|https://dx.doi.org/10.3389/fphys.2025.1542426
+Pharmacological characterisation of JNJ-78911118, a novel, centrally-penetrant, selective GluN2A antagonist.|https://dx.doi.org/10.1111/bph.70069

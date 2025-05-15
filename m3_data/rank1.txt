@@ -5,3 +5,4 @@ Beyond Random Fecal Microbial Transplants: Next Generation Personalized Approach
 Current Approaches to Treat and Prevent Recurrence of Clostridioides difficile.|https://dx.doi.org/10.1016/j.gtc.2025.02.005
 Bacterial diversity, viability and stability in lyophilised faecal microbiota capsules support ongoing clinical use.|https://dx.doi.org/10.1016/j.ijpharm.2025.125703
 Reactive Arthritis.|https://dx.doi.org/10.12890/2025_005350
+Efficacy of a New Commercial Vaccine Against Clostridioides difficile and Clostridium perfringens Type A for Recurrent Swine Neonatal Diarrhea Under Field Conditions.|https://dx.doi.org/10.3390/ani15091200
