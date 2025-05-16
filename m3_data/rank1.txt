@@ -6,3 +6,5 @@ Current Approaches to Treat and Prevent Recurrence of Clostridioides difficile.|
 Bacterial diversity, viability and stability in lyophilised faecal microbiota capsules support ongoing clinical use.|https://dx.doi.org/10.1016/j.ijpharm.2025.125703
 Reactive Arthritis.|https://dx.doi.org/10.12890/2025_005350
 Efficacy of a New Commercial Vaccine Against Clostridioides difficile and Clostridium perfringens Type A for Recurrent Swine Neonatal Diarrhea Under Field Conditions.|https://dx.doi.org/10.3390/ani15091200
+A Randomized Controlled Trial of Efficacy and Safety of Fecal Microbiota Transplant for Preventing Recurrent Clostridioides difficile Infection: The Failure of a Procedure, not of a Therapy.|https://dx.doi.org/10.1093/cid/ciaf249
+Infectious Diarrhea in Kidney Transplant Recipients.|https://dx.doi.org/10.7759/cureus.82194

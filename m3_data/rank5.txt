@@ -2,3 +2,4 @@ Impact of vancomycin and Clostridioides difficile on the secretome and pathogeni
 Vancomycin Therapy for Induction and Maintenance of Remission in a Patient with Refractory Ulcerative Colitis and Primary Sclerosing Cholangitis: A Case Report and Literature Review.|https://dx.doi.org/10.1159/000544161
 Vancomycin Treatment for Pneumobilia in Clostridioides difficile Infection: A Case Analysis.|https://dx.doi.org/10.12659/AJCR.947628
 The sigma factor σ(54) (rpoN) functions as a global regulator of antibiotic resistance, motility, metabolism, and virulence in Clostridioides difficile.|https://dx.doi.org/10.3389/fmicb.2025.1569627
+Comparison of ceftriaxone versus ceftaroline in combination with ampicillin or penicillin against Enterococcus faecalis.|https://dx.doi.org/10.1128/spectrum.02718-24

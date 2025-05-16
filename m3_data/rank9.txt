@@ -1,2 +1,4 @@
 Meckel's Mystery: Unraveling the Source of Hidden Hemorrhage in a 42-Year-Old Male.|https://dx.doi.org/10.7759/cureus.81844
 Metagenomic analysis reveals distinct patterns of gut microbiota features with diversified functions in C. difficile infection (CDI), asymptomatic carriage and non-CDI diarrhea.|https://dx.doi.org/10.1080/19490976.2025.2505269
+Impact of Clostridioides difficile Infection on the Outcome of Severe Flare of Ulcerative Colitis.|https://dx.doi.org/10.1097/MCG.0000000000002196
+Trends in admissions and outcomes of hospitalizations related to Clostridioides difficile infection: a nationwide analysis from 2005-2020.|https://dx.doi.org/10.20524/aog.2025.0960
