@@ -19,3 +19,5 @@ Comparison and evaluation of negative pressure wound therapy versus standard wou
 Outcomes of open or closed treatment of foot fractures: a database study comparing patients with and without diabetes.|https://dx.doi.org/10.1053/j.jfas.2025.05.004
 Phage therapy: a promising approach for Staphylococcus aureus diabetic foot infections.|https://dx.doi.org/10.1128/jvi.00458-25
 Alginate-based hydrogels for sustained antimicrobial peptide delivery to enhance wound healing in diabetes.|https://dx.doi.org/10.1016/j.bioadv.2025.214337
+Nonlinear association between C-reactive protein and severity of diabetic foot infection in patients with diabetes: A retrospective cohort study with clinical implications.|https://dx.doi.org/10.1371/journal.pone.0323704
+Nanobiotic Formulations utilizing Quinoline-based-Triazole functionalized Carbon Quantum Dots via Click Chemistry for Combatting Clinical-Resistant Bacterial Pathogens.|https://dx.doi.org/10.1007/s12088-024-01266-x
