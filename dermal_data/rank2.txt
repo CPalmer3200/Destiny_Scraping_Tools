@@ -21,3 +21,4 @@ Phage therapy: a promising approach for Staphylococcus aureus diabetic foot infe
 Alginate-based hydrogels for sustained antimicrobial peptide delivery to enhance wound healing in diabetes.|https://dx.doi.org/10.1016/j.bioadv.2025.214337
 Nonlinear association between C-reactive protein and severity of diabetic foot infection in patients with diabetes: A retrospective cohort study with clinical implications.|https://dx.doi.org/10.1371/journal.pone.0323704
 Nanobiotic Formulations utilizing Quinoline-based-Triazole functionalized Carbon Quantum Dots via Click Chemistry for Combatting Clinical-Resistant Bacterial Pathogens.|https://dx.doi.org/10.1007/s12088-024-01266-x
+Comparative Assessment of Negative Pressure Wound Therapy Versus Standard Treatment in Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/WON.0000000000001164

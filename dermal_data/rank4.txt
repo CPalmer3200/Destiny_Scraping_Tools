@@ -25,3 +25,5 @@ A Photothermal-Enhanced Thermoelectric Nanosheet Incorporated with Zwitterionic 
 Bone Immune Microenvironment-Modulating Naringin Carbon Dot Complex Hydrogel with ROS-Scavenging and Antibacterial Properties for Enhanced Bone Repair.|https://dx.doi.org/10.1021/acsami.5c07627
 A dynamically crosslinked, self-adapting, injectable gelatin-chondroitin sulfate hydrogel with antibacterial and antioxidant properties for treatment of deep and irregular wounds.|https://dx.doi.org/10.1039/d4tb02537g
 Development of ZnO-NPs reinforced chitosan nanofiber mats with improved antibacterial and biocompatibility properties.|https://dx.doi.org/10.1038/s41598-025-01669-w
+The versatile nanocomposite wound dressing with zinc replenishment, and enhanced photothermal and fluorescent performance for accelerating methicillin-resistant Staphylococcus aureus-infected diabetic wound repair and indicating dressing replacement.|https://dx.doi.org/10.1016/j.jcis.2025.137867
+Development of an Injectable Synergistically Crosslinked Polysaccharide Hydrogel with Antioxidant and Antibacterial Properties for Promoting Wound Healing.|https://dx.doi.org/10.1002/mabi.202500084

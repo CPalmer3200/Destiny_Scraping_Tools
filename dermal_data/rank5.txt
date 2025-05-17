@@ -8,3 +8,4 @@ Photocatalytic effect of gold-zinc oxide composite nanostructures for the select
 Opening New Roads for Multi-Directional Functional Applications Through In Vitro Chemical and Biological Analysis of Zoegea leptaurea L. Extracts.|https://dx.doi.org/10.1002/fsn3.70261
 Coagulase-Negative Staphylococci Determined as Blood Culture Contamination Have High Virulence Characteristic Including Transfer of Antibiotic Resistance Determinants to Staphylococcus aureus and Escherichia coli.|https://dx.doi.org/10.3390/ijms26094424
 Assessing the safety of microbiome perturbations.|https://dx.doi.org/10.1099/mgen.0.001405
+The antimicrobial peptide Cec4 has therapeutic potential against clinical carbapenem-resistant Klebsiella pneumoniae.|https://dx.doi.org/10.1128/spectrum.02738-24
