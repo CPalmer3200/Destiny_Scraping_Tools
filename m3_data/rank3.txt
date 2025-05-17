@@ -1,2 +1,3 @@
 Emergency department eosinophil counts and mortality in Clostridium difficile: a multihospital retrospective cohort study.|https://dx.doi.org/10.1097/j.pbj.0000000000000292
 Potential for Misinterpretation in the Laboratory Diagnosis of Clostridioides difficile Infections.|https://dx.doi.org/10.3390/diagnostics15091166
+Usage of oral vancomycin for acute Clostridioides difficile infection (CDI) resulting in later acquisitions of vancomycin-resistant enterococci (VRE).|https://dx.doi.org/10.1017/ice.2025.81
