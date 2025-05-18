@@ -3,3 +3,4 @@ Vancomycin Therapy for Induction and Maintenance of Remission in a Patient with 
 Vancomycin Treatment for Pneumobilia in Clostridioides difficile Infection: A Case Analysis.|https://dx.doi.org/10.12659/AJCR.947628
 The sigma factor σ(54) (rpoN) functions as a global regulator of antibiotic resistance, motility, metabolism, and virulence in Clostridioides difficile.|https://dx.doi.org/10.3389/fmicb.2025.1569627
 Comparison of ceftriaxone versus ceftaroline in combination with ampicillin or penicillin against Enterococcus faecalis.|https://dx.doi.org/10.1128/spectrum.02718-24
+Does the use of pulsed-xenon ultraviolet light reduce the risk of healthcare-associated infections?: An updated systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jiac.2025.102729
