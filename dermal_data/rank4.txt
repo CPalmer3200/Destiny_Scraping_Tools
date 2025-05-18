@@ -27,3 +27,5 @@ A dynamically crosslinked, self-adapting, injectable gelatin-chondroitin sulfate
 Development of ZnO-NPs reinforced chitosan nanofiber mats with improved antibacterial and biocompatibility properties.|https://dx.doi.org/10.1038/s41598-025-01669-w
 The versatile nanocomposite wound dressing with zinc replenishment, and enhanced photothermal and fluorescent performance for accelerating methicillin-resistant Staphylococcus aureus-infected diabetic wound repair and indicating dressing replacement.|https://dx.doi.org/10.1016/j.jcis.2025.137867
 Development of an Injectable Synergistically Crosslinked Polysaccharide Hydrogel with Antioxidant and Antibacterial Properties for Promoting Wound Healing.|https://dx.doi.org/10.1002/mabi.202500084
+Multifunctional moxifloxacin and essential oil loaded sodium alginate/thiolated karaya gum hydrogel dressings for improved wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144234
+Mg-doped bioactive glass and tea polyphenols incorporated Janus wound dressing for antibacterial and promoting tissue repair.|https://dx.doi.org/10.1016/j.colsurfb.2025.114796
