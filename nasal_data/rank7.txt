@@ -51,3 +51,11 @@ Antimicrobial susceptibility at intensive care units in Sudan, antibiogram devel
 Cytomorphological characteristics of the nasopharyngeal mucosa in children with acute respiratory infections.|https://dx.doi.org/10.36740/WLek/203896
 Phage therapy: a promising approach for Staphylococcus aureus diabetic foot infections.|https://dx.doi.org/10.1128/jvi.00458-25
 Povidone-Iodine and Hydrogen Peroxide Combination Improves the Anti-Biofilm Activity of the Individual Agents on Staphylococcus aureus.|https://dx.doi.org/10.3390/ijms26094390
+Cannabidiol-loaded hydrogel contact lenses for on-demand pH regulation and enhanced corneal alkali burn repair.|https://dx.doi.org/10.1016/j.jconrel.2025.113859
+Prevalence, microbiology, and antimicrobial susceptibility profile of bacterial skin and soft tissue infections in pediatric patients with malignancies at a referral teaching hospital in Shiraz, Iran.|https://dx.doi.org/10.1186/s12879-025-11059-2
+An uncommon presentation of multiple spinal epidural abscesses: A case report.|https://dx.doi.org/10.1016/j.ijscr.2025.111435
+Bacterial profile and antimicrobial susceptibility pattern of community and hospital-acquired urinary tract infections among UTI suspected geriatrics in Gondar town, Northwest Ethiopia.|https://dx.doi.org/10.1371/journal.pone.0323570
+A molecular comparative study of intestinal colonization with Staphylococcus aureus between pediatric inpatients and outpatients of different age groups.|https://dx.doi.org/10.1128/spectrum.02394-24
+Clinical and laboratory indicators predicting coagulase-negative staphylococci as a cause of bloodstream infection among children below five years of age admitted at a tertiary hospital in Dar es Salaam, Tanzania.|https://dx.doi.org/10.1080/07853890.2025.2506507
+Characteristics and outcomes of patients with infective native aortic aneurysm or vascular graft and endograft infection.|https://dx.doi.org/10.1080/23744235.2025.2502826
+Dynamic Networks of Methicillin-Resistant Staphylococcus aureus in Communities Drive Hospital Transmission.|https://dx.doi.org/10.1093/ofid/ofaf264
