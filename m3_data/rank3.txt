@@ -2,3 +2,5 @@ Emergency department eosinophil counts and mortality in Clostridium difficile: a
 Potential for Misinterpretation in the Laboratory Diagnosis of Clostridioides difficile Infections.|https://dx.doi.org/10.3390/diagnostics15091166
 Usage of oral vancomycin for acute Clostridioides difficile infection (CDI) resulting in later acquisitions of vancomycin-resistant enterococci (VRE).|https://dx.doi.org/10.1017/ice.2025.81
 Evaluation of the psychometric properties of the cardiac distress inventory in Iranian patients with heart disease.|https://dx.doi.org/10.1038/s41598-025-02092-x
+Antimicrobial resistance in northern Australia: the HOTspots surveillance and response program annual epidemiology report 2022.|https://dx.doi.org/10.33321/cdi.2025.49.030
+Report on influenza viruses received and tested by the Melbourne WHO Collaborating Centre for Reference and Research on Influenza during 2023.|https://dx.doi.org/10.33321/cdi.2025.49.028
