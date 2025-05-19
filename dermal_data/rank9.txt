@@ -5,3 +5,4 @@ Antimicrobial use guidelines for canine pyoderma by the International Society fo
 Newly Identified Antimicrobial Peptide Scymicrosin(7-26) from Scylla paramamosain Showing Potent Antimicrobial Activity Against Methicillin-Resistant Staphylococcus aureus In Vitro and In Vivo.|https://dx.doi.org/10.1021/acsinfecdis.5c00034
 The efficacy of skin soft tissue expansion and recombinant human epidermal growth factor in the repair of second-degree scald scars: a prospective single-blind randomized controlled trial.|https://dx.doi.org/10.4174/astr.2025.108.5.325
 Impact of Staphylococcus aureus colonization and skin abscesses on formation of human anti-αGal antibodies.|https://dx.doi.org/10.1007/s00430-025-00833-3
+Comprehensive analysis of the antibacterial activity of 5,8-dihydroxy-1,4-naphthoquinone derivatives against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/S1875-5364(25)60818-1

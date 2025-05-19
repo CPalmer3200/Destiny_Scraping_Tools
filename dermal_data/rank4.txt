@@ -29,3 +29,8 @@ The versatile nanocomposite wound dressing with zinc replenishment, and enhanced
 Development of an Injectable Synergistically Crosslinked Polysaccharide Hydrogel with Antioxidant and Antibacterial Properties for Promoting Wound Healing.|https://dx.doi.org/10.1002/mabi.202500084
 Multifunctional moxifloxacin and essential oil loaded sodium alginate/thiolated karaya gum hydrogel dressings for improved wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144234
 Mg-doped bioactive glass and tea polyphenols incorporated Janus wound dressing for antibacterial and promoting tissue repair.|https://dx.doi.org/10.1016/j.colsurfb.2025.114796
+Baicalein based nano-delivery system restores mitochondrial homeostasis through PPAR signaling pathway to promote wound healing in diabetes.|https://dx.doi.org/10.1186/s12951-025-03427-6
+Multi-active-site antibacterial modification of dopamine-hyaluronic acid hydrogel with N-halamine for skin tissue engineering.|https://dx.doi.org/10.1016/j.carbpol.2025.123565
+An adhesive, antibacterial, conductive zwitterionic cellulose nanofibers-containing hydrogel for flexible strain sensors and super-capacitors.|https://dx.doi.org/10.1016/j.carbpol.2025.123534
+Construction of AgNPs-loaded oriented hydrogel based on Periostracum Cicadae chitosan by electro-assembly for rapid hemostasis and wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.123500
+Green synthesis of silver nanoparticles using Fructus Aurantii-loaded Citrus pectin hydrogel for accelerated healing of MRSA-infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144222

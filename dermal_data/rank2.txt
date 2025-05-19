@@ -22,3 +22,5 @@ Alginate-based hydrogels for sustained antimicrobial peptide delivery to enhance
 Nonlinear association between C-reactive protein and severity of diabetic foot infection in patients with diabetes: A retrospective cohort study with clinical implications.|https://dx.doi.org/10.1371/journal.pone.0323704
 Nanobiotic Formulations utilizing Quinoline-based-Triazole functionalized Carbon Quantum Dots via Click Chemistry for Combatting Clinical-Resistant Bacterial Pathogens.|https://dx.doi.org/10.1007/s12088-024-01266-x
 Comparative Assessment of Negative Pressure Wound Therapy Versus Standard Treatment in Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/WON.0000000000001164
+Dysfunctional crosstalk between macrophages and fibroblasts under LPS-infected and hyperglycemic environment in diabetic wounds.|https://dx.doi.org/10.1038/s41598-025-00673-4
+The frequency of neuropathy and predictive parameters in prediabetic cases from Turkiye.|https://dx.doi.org/10.1016/j.pcd.2025.05.007
