@@ -24,3 +24,5 @@ Nanobiotic Formulations utilizing Quinoline-based-Triazole functionalized Carbon
 Comparative Assessment of Negative Pressure Wound Therapy Versus Standard Treatment in Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/WON.0000000000001164
 Dysfunctional crosstalk between macrophages and fibroblasts under LPS-infected and hyperglycemic environment in diabetic wounds.|https://dx.doi.org/10.1038/s41598-025-00673-4
 The frequency of neuropathy and predictive parameters in prediabetic cases from Turkiye.|https://dx.doi.org/10.1016/j.pcd.2025.05.007
+A Scoping Review to Identify Clinical Signs, Symptoms and Biomarkers Reported in the Literature to Be Indicative of Biofilm in Chronic Wounds.|https://dx.doi.org/10.1111/iwj.70181
+Outcome of Rotation Flap Combined with Incisional Negative Pressure Wound Therapy for Plantar Diabetic Foot Ulcers.|https://dx.doi.org/10.1055/a-2544-2938
