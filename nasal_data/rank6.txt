@@ -13,3 +13,7 @@ The virulence toolkit of Staphylococcus aureus: a comprehensive review of toxin 
 Determining an appropriate fosfomycin (ZTI-01) dosing regimen in pneumonia patients by utilizing minimal PBPK modeling and target attainment analysis.|https://dx.doi.org/10.1128/aac.01869-24
 Patterns of the Circulation of Influenza in a Targeted Jordanian Subpopulation from November 2021 to April 2023.|https://dx.doi.org/10.3390/pathogens14040365
 Micro/Nanofibrous Polycaprolactone Scaffolds Loaded with Gentamicin for Improved Antimicrobial Activities under Seawater Immersion.|https://dx.doi.org/10.1002/adhm.202501352
+Multi-enzymatic biomimetic cerium-based MOFs mediated precision chemodynamic synergistic antibacteria and tissue repair for MRSA-infected wounds.|https://dx.doi.org/10.1186/s12951-025-03349-3
+3D Printed Human Amnion-Based Bioactive Hybrid Dressings for Effective Management of Complex Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c06672
+Preparation of Active On-Demand Antibacterial Hydrogel Epidermis Electrodes Based on Flora Balance Strategy for Intelligent Prostheses.|https://dx.doi.org/10.1021/acsami.5c05452
+A Self-Assembling Cross-Protective Antigen Against Multiple Gram-Positive Nosocomial Pathogens.|https://dx.doi.org/10.1021/acsomega.5c01404

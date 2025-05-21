@@ -11,3 +11,6 @@ Impact of Staphylococcus aureus colonization and skin abscesses on formation of 
 Targeted next-generation sequencing enhances precision and rapid detection in healthcare-associated infection Surveillance: Unveiling multidrug-resistant colonization in ICUs.|https://dx.doi.org/10.1016/j.nmni.2025.101589
 Risk factors for Clostridioides difficile infection caused by ribotype 027 strains in the Veterans Affairs Healthcare System: a matched case-control study.|https://dx.doi.org/10.1186/s13756-025-01571-0
 Battling Influenza in Elderly Patients: A Case of Severe Influenza A With Complications in a High-Risk Patient.|https://dx.doi.org/10.7759/cureus.82303
+Negative Nasal Methicillin-Resistant Staphylococcus aureus (MRSA) Polymerase Chain Reaction Rules Out Future MRSA Infections in Severely Injured Trauma Patients.|https://dx.doi.org/10.1089/sur.2024.284
+Evaluation of multidrug-resistant bacteria and their molecular mechanisms found in small animal veterinary practices in Portugal.|https://dx.doi.org/10.3389/fcimb.2025.1582411
+The Efficacy of Mupirocin Nasal Irrigations for Treatment of Refractory Chronic Rhinosinusitis After Endoscopic Sinus Surgery.|https://dx.doi.org/10.1177/19458924251343389
