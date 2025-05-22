@@ -39,3 +39,6 @@ Polycaprolactone nanocapsule-loaded carbopol hydrogel enhances fusidic acid effi
 3D Extrusion-Printed Alginate-Gelatin Hydrogel Modified with Nanoscale Hydroxyapatite: A Comprehensive Understanding of Process Science and Evaluation of the Antimicrobial Property.|https://dx.doi.org/10.1021/acsomega.4c10743
 Nanocellulose Wound Dressings with Integrated Protease Sensors for Detection of Wound Pathogens.|https://dx.doi.org/10.1021/acssensors.4c03428
 Preparation of Active On-Demand Antibacterial Hydrogel Epidermis Electrodes Based on Flora Balance Strategy for Intelligent Prostheses.|https://dx.doi.org/10.1021/acsami.5c05452
+Microenvironment-responsive MOF nanozymes armored cryogels promoted wound healing via rapid hemostasis, infection elimination and angiogenesis.|https://dx.doi.org/10.1016/j.jconrel.2025.113838
+Eco-Friendly Multifunctional Hydrogel Sensors Enabled Sustainable and Accurate Human-Machine Interaction System.|https://dx.doi.org/10.1002/adma.202507127
+An All-In-One Dendrobium Ionic Hydrogel with Wound Microenvironment Remodeling for Promoting Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202500611
