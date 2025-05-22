@@ -9,3 +9,4 @@ Efficacy of a New Commercial Vaccine Against Clostridioides difficile and Clostr
 A Randomized Controlled Trial of Efficacy and Safety of Fecal Microbiota Transplant for Preventing Recurrent Clostridioides difficile Infection: The Failure of a Procedure, not of a Therapy.|https://dx.doi.org/10.1093/cid/ciaf249
 Infectious Diarrhea in Kidney Transplant Recipients.|https://dx.doi.org/10.7759/cureus.82194
 Equol neutralizes toxin B to combat Clostridioides difficile infection without disrupting the gut microbiota.|https://dx.doi.org/10.1016/j.micres.2025.128219
+Global Practice Variation in the Management of Clostridioides difficile Infections: An International Cross-Sectional Survey of Clinicians.|https://dx.doi.org/10.1093/ofid/ofaf248
