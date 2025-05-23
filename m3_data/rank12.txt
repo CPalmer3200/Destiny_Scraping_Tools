@@ -3,3 +3,4 @@ Differences in virulence and drug resistance between Clostridioides difficile ST
 Risk factors for Clostridioides difficile infection caused by ribotype 027 strains in the Veterans Affairs Healthcare System: a matched case-control study.|https://dx.doi.org/10.1186/s13756-025-01571-0
 Dietary fiber modulates the window of susceptibility to Clostridioides difficile infection.|https://dx.doi.org/10.1053/j.gastro.2025.04.027
 Impact of a multi-step testing algorithm on hospital-onset Clostridioides difficile rates and clinical outcomes.|https://dx.doi.org/10.1017/ash.2025.180
+The role of the enteric nervous system in the pathogenesis of Clostridioides difficile infection.|https://dx.doi.org/10.1038/s41575-025-01071-x
