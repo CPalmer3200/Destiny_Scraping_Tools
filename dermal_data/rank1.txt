@@ -13,3 +13,4 @@ Contribution of icaADBC genes in biofilm production ability of Staphylococcus au
 Ex-situ development and molecular analysis of tamarind-enriched bacterial cellulose-based composite for treating burn wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144369
 3D Printed Human Amnion-Based Bioactive Hybrid Dressings for Effective Management of Complex Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c06672
 Ultra-efficient and fire-safety glucose-based cellulose fabrics with high antibacterial and well wearing performance.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144364
+Antibacterial and therapeutic effects of vancomycin-resistant Staphylococcus aureus bacteriocin (VRSAcin) in the treatment of VRSA skin infection in mice.|https://dx.doi.org/10.1016/j.micpath.2025.107729

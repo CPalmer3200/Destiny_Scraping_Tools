@@ -30,3 +30,6 @@ Outcomes of Diabetic Toe Amputation With Versus Without Metatarsal Head Resectio
 Metal-polyphenol nanocomposite hybrid hydrogel: A multifunctional platform for treating diabetic foot ulcers through metabolic microenvironment reprogramming.|https://dx.doi.org/10.1016/j.biomaterials.2025.123414
 Multistate Model of Chronic Wounds, Amputations, and Mortality: Cohort Study of a State-wide Registry.|https://dx.doi.org/10.1097/SLA.0000000000006761
 Factors associated with severity and outcomes of diabetic foot ulcers: A single center hospital-based cross-sectional observational study in Eastern India.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1703_24
+Advanced Bioinspired Silver Nanoparticles Integrated into Polyherbal Gel for Enhanced Diabetic Foot Ulcer Regeneration.|https://dx.doi.org/10.1007/s12011-025-04666-2
+The diabetic foot: progress in Sub-Saharan Africa.|https://dx.doi.org/10.1016/j.diabres.2025.112264
+Omega-3 Acellular Fish Skin Grafts for Chronic and Complicated Wounds: A Systematic Review of Efficacy and Safety.|https://dx.doi.org/10.5826/dpc.1502a4945

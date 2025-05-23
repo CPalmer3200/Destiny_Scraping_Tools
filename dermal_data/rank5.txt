@@ -11,3 +11,5 @@ Assessing the safety of microbiome perturbations.|https://dx.doi.org/10.1099/mge
 The antimicrobial peptide Cec4 has therapeutic potential against clinical carbapenem-resistant Klebsiella pneumoniae.|https://dx.doi.org/10.1128/spectrum.02738-24
 The antibacterial activity and therapeutic potential of the amphibian-derived peptide TB_KKG6K.|https://dx.doi.org/10.1128/msphere.01016-24
 Genome-scale metabolic model of Staphylococcus epidermidis ATCC 12228 matches in vitro conditions.|https://dx.doi.org/10.1128/msystems.00418-25
+Nanoparticles make the difference: bacteriocidic, biocompatibility and wound healing merits of laser-transferred metal nanoparticles.|https://dx.doi.org/10.1016/j.bbrc.2025.152044
+One-for-All Photoactivatable Manganese-Based Carbon Monoxide-Releasing Molecules (CORMs) for Synergistic Therapy of Mycobacterial Infection.|https://dx.doi.org/10.1021/jacs.5c05490
