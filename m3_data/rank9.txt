@@ -4,3 +4,5 @@ Impact of Clostridioides difficile Infection on the Outcome of Severe Flare of U
 Trends in admissions and outcomes of hospitalizations related to Clostridioides difficile infection: a nationwide analysis from 2005-2020.|https://dx.doi.org/10.20524/aog.2025.0960
 CD44 is a macrophage receptor for TcdB from Clostridioides difficile that via its lysine-158 succinylation contributes to inflammation.|https://dx.doi.org/10.1080/19490976.2025.2506192
 Laxative use and 28-day mortality in critically ill sepsis patients: a retrospective cohort study using MIMIC-IV (v3.1).|https://dx.doi.org/10.1186/s40560-025-00797-9
+A case of hospital-acquired pneumonia associated with Chryseobacterium indologenes infection in a patient with HIV infection and review of the literature.|https://dx.doi.org/10.1186/s12981-025-00749-1
+Patient centric performance and interpretation of SPECT and SPECT/CT myocardial perfusion imaging: a clinical consensus statement of the European Association of Cardiovascular Imaging of the ESC.|https://dx.doi.org/10.1093/ehjimp/qyaf043
