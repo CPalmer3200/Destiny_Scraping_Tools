@@ -43,3 +43,6 @@ Microenvironment-responsive MOF nanozymes armored cryogels promoted wound healin
 Eco-Friendly Multifunctional Hydrogel Sensors Enabled Sustainable and Accurate Human-Machine Interaction System.|https://dx.doi.org/10.1002/adma.202507127
 An All-In-One Dendrobium Ionic Hydrogel with Wound Microenvironment Remodeling for Promoting Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202500611
 A methacrylated pullulan hydrogel incorporating phycocyanin-functionalized copper sulfide nanoparticles for photothermal antibacterial therapy and improved wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144446
+A novel multi-functional PVA- alginate hydrogel with dynamic bond crosslinking for infected wound repair.|https://dx.doi.org/10.1016/j.carbpol.2025.123636
+Berberine@AgNPs@carboxylated chitosan hydrogel dressing with immunomodulatory and anti-biofilm properties promotes wound repair in drug-resistant bacterial infections.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144496
+Strong and tough chitosan-based conductive hydrogels cross-linked by dual ionic networks for flexible strain sensors.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144498

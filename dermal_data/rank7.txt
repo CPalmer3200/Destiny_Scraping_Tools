@@ -3,3 +3,4 @@ Selenium in Action: Exploring the Biological Wonders of Hydroselenite Salts.|htt
 Optimizing α-Gal Epitope Removal in Porcine Dermal Matrix: Enzyme Selection and Tissue Form Matter.|https://dx.doi.org/10.1089/ten.tec.2025.0052
 Oxyresveratrol enhances hair regeneration in human dermal papilla cell and androgenetic alopecia mouse model.|https://dx.doi.org/10.1038/s41598-025-02581-z
 Transcriptomic analysis of DENV-2-infected human dermal fibroblasts identified potential mechanisms that suppressed ZIKV replication during sequential coinfection.|https://dx.doi.org/10.1186/s12985-025-02769-9
+Skin-Colored Papules on the Neck of a Postmenopausal Woman: A Diagnostic Challenge.|https://dx.doi.org/10.3390/dermatopathology12020015
