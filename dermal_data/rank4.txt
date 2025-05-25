@@ -46,3 +46,4 @@ A methacrylated pullulan hydrogel incorporating phycocyanin-functionalized coppe
 A novel multi-functional PVA- alginate hydrogel with dynamic bond crosslinking for infected wound repair.|https://dx.doi.org/10.1016/j.carbpol.2025.123636
 Berberine@AgNPs@carboxylated chitosan hydrogel dressing with immunomodulatory and anti-biofilm properties promotes wound repair in drug-resistant bacterial infections.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144496
 Strong and tough chitosan-based conductive hydrogels cross-linked by dual ionic networks for flexible strain sensors.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144498
+Biomimetic Transformation of Inferior Parenchyma Cellulose into a Sustainable, Functional Medical Hydrogel Inspired by the Dermis.|https://dx.doi.org/10.1002/adhm.202500698
