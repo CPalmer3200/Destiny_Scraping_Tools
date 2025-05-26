@@ -5,3 +5,6 @@ Evaluation of the psychometric properties of the cardiac distress inventory in I
 Antimicrobial resistance in northern Australia: the HOTspots surveillance and response program annual epidemiology report 2022.|https://dx.doi.org/10.33321/cdi.2025.49.030
 Report on influenza viruses received and tested by the Melbourne WHO Collaborating Centre for Reference and Research on Influenza during 2023.|https://dx.doi.org/10.33321/cdi.2025.49.028
 Out-of-hours oral antibiotic prescribing through the community pharmacy independent prescribing service in Wales: a secondary data analysis study.|https://dx.doi.org/10.3399/bjgp25X742053
+Allergy alerting and overrides for opioid analogues across two health systems.|https://dx.doi.org/10.1136/bmjhci-2024-101259
+Use and institutional variation in surgical antibiotic prophylaxis for pediatric clean (class I) penile and groin procedures.|https://dx.doi.org/10.1016/j.jpurol.2025.05.006
+Laboratory diagnosis of Clostridioides difficile infection: past, present and future.|https://dx.doi.org/10.1016/j.anaerobe.2025.102974
