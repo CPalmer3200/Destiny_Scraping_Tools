@@ -34,3 +34,4 @@ Advanced Bioinspired Silver Nanoparticles Integrated into Polyherbal Gel for Enh
 The diabetic foot: progress in Sub-Saharan Africa.|https://dx.doi.org/10.1016/j.diabres.2025.112264
 Omega-3 Acellular Fish Skin Grafts for Chronic and Complicated Wounds: A Systematic Review of Efficacy and Safety.|https://dx.doi.org/10.5826/dpc.1502a4945
 Multidrug resistance, biofilm formation, and genetic determinants in diabetic foot infections from Uttar Pradesh, India: a clinical-microbiological insight from a prospective study.|https://dx.doi.org/10.1007/s00210-025-04284-8
+Naringenin as a Potent Natural Biofilm Inhibitor of Pseudomonas aeruginosa in Diabetic Foot Ulcers Through lasR Competitive Inhibition.|https://dx.doi.org/10.1007/s00284-025-04283-1

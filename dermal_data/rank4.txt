@@ -47,3 +47,7 @@ A novel multi-functional PVA- alginate hydrogel with dynamic bond crosslinking f
 Berberine@AgNPs@carboxylated chitosan hydrogel dressing with immunomodulatory and anti-biofilm properties promotes wound repair in drug-resistant bacterial infections.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144496
 Strong and tough chitosan-based conductive hydrogels cross-linked by dual ionic networks for flexible strain sensors.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144498
 Biomimetic Transformation of Inferior Parenchyma Cellulose into a Sustainable, Functional Medical Hydrogel Inspired by the Dermis.|https://dx.doi.org/10.1002/adhm.202500698
+Thymol-loaded polycaprolactone wet-spun fibers and their ability to suppress bacterial action and chronic wound-associated pro-inflammatory enzymes activity.|https://dx.doi.org/10.1016/j.ijpharm.2025.125763
+A novel antibacterial hydrogel containing aminophylline as a versatile platform for neural differentiation of hWJMSCs through the CREB pathway.|https://dx.doi.org/10.1038/s41598-025-02584-w
+Injectable copper ion cross-linked TEMPO-oxidized bacterial cellulose nanofiber hydrogels and their synergistic antimicrobial activity with glutathione.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144287
+Construction of Schiff base dynamically cross-linked pH-responsive chitosan-based hydrogels and investigation of their targeted oral delivery performance for vitamin B12.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144478
