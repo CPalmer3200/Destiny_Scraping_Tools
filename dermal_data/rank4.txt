@@ -51,3 +51,5 @@ Thymol-loaded polycaprolactone wet-spun fibers and their ability to suppress bac
 A novel antibacterial hydrogel containing aminophylline as a versatile platform for neural differentiation of hWJMSCs through the CREB pathway.|https://dx.doi.org/10.1038/s41598-025-02584-w
 Injectable copper ion cross-linked TEMPO-oxidized bacterial cellulose nanofiber hydrogels and their synergistic antimicrobial activity with glutathione.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144287
 Construction of Schiff base dynamically cross-linked pH-responsive chitosan-based hydrogels and investigation of their targeted oral delivery performance for vitamin B12.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144478
+Multifunctional hydrogel with mild photothermal properties enhances diabetic wound repair by targeting MRSA energy metabolism.|https://dx.doi.org/10.1186/s12951-025-03451-6
+Bio-inspired lotus-fiber and mussel-based multifunctional hydrogels for wound healing: super-stretchability, self-healing, adhesion and antibacterial properties.|https://dx.doi.org/10.1093/rb/rbaf031

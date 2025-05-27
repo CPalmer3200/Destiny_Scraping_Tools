@@ -2,3 +2,4 @@ Phenotypic and genotypic characterization of MRSA isolated from Health care work
 The Efficacy of Mupirocin Nasal Irrigations for Treatment of Refractory Chronic Rhinosinusitis After Endoscopic Sinus Surgery.|https://dx.doi.org/10.1177/19458924251343389
 Therapeutic Efficacy of 2% Mupirocin in Managing Staphylococcus aureus and Streptococcus pyogenes Wound Infections.|https://dx.doi.org/10.7759/cureus.82366
 Recurrent Anterior Epistaxis in Children With Allergic Rhinitis and Non-Allergic Rhinitis: Clinical Features.|https://dx.doi.org/10.1177/01455613251342916
+Thienoacene-Based Conjugated Oligoelectrolytes for Membrane-Targeting Antimicrobial Approaches: Synergistic Biofilm Eradication and Antimicrobial Resistance Reversal.|https://dx.doi.org/10.1021/acsami.5c05491

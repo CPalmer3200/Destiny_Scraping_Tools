@@ -15,3 +15,5 @@ Ex-situ development and molecular analysis of tamarind-enriched bacterial cellul
 Ultra-efficient and fire-safety glucose-based cellulose fabrics with high antibacterial and well wearing performance.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144364
 Antibacterial and therapeutic effects of vancomycin-resistant Staphylococcus aureus bacteriocin (VRSAcin) in the treatment of VRSA skin infection in mice.|https://dx.doi.org/10.1016/j.micpath.2025.107729
 In situ injectable self-healing hydrogel of 5-fluorocytidine-modified chitosan with antifungal and antibacterial properties for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144321
+[Treatment strategy for severe radiation-induced ulcers near major blood vessels].|https://dx.doi.org/10.3760/cma.j.cn501225-20240521-00191
+Molecular Identification of erm A and erm B, erm C genes in methicillin-resistant Staphylococcus aureus isolates from burns Patients and their association with multidrug resistance.|https://dx.doi.org/10.14715/cmb/2025.71.5.15
