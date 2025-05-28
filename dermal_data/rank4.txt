@@ -53,3 +53,6 @@ Injectable copper ion cross-linked TEMPO-oxidized bacterial cellulose nanofiber 
 Construction of Schiff base dynamically cross-linked pH-responsive chitosan-based hydrogels and investigation of their targeted oral delivery performance for vitamin B12.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144478
 Multifunctional hydrogel with mild photothermal properties enhances diabetic wound repair by targeting MRSA energy metabolism.|https://dx.doi.org/10.1186/s12951-025-03451-6
 Bio-inspired lotus-fiber and mussel-based multifunctional hydrogels for wound healing: super-stretchability, self-healing, adhesion and antibacterial properties.|https://dx.doi.org/10.1093/rb/rbaf031
+Cotton gauze fabricated with hydro-stable Zn-MOF enables hemostasis acceleration, antibacterial activity, and wound regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144654
+Development of an Asymmetric Alginate Hydrogel Loaded with S-Nitrosoglutathione and Its Application in Chronic Wound Healing.|https://dx.doi.org/10.3390/gels11050354
+Fullerene-Functionalized Cellulosic Hydrogel Biosensor with Bacterial Turn-on Fluorescence Response Derived from Carboxymethyl Cellulose for Intelligent Food Packaging with DFT Calculations and Molecular Docking.|https://dx.doi.org/10.3390/gels11050329

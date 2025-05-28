@@ -37,3 +37,4 @@ Multidrug resistance, biofilm formation, and genetic determinants in diabetic fo
 Naringenin as a Potent Natural Biofilm Inhibitor of Pseudomonas aeruginosa in Diabetic Foot Ulcers Through lasR Competitive Inhibition.|https://dx.doi.org/10.1007/s00284-025-04283-1
 Strain-specific interspecies interactions between co-isolated pairs of Staphylococcus aureus and Helcococcus kunzii from chronic wounds.|https://dx.doi.org/10.1186/s12866-025-04004-5
 Bacteriological Profile and Antibiotic Susceptibility in Patients With Diabetic Foot Infections.|https://dx.doi.org/10.7759/cureus.82809
+Safety and Efficacy of S53P4 Bioactive Glass in Osteomyelitis Management: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1002/jbm.b.35597
