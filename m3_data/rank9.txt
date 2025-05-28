@@ -6,3 +6,4 @@ CD44 is a macrophage receptor for TcdB from Clostridioides difficile that via it
 Laxative use and 28-day mortality in critically ill sepsis patients: a retrospective cohort study using MIMIC-IV (v3.1).|https://dx.doi.org/10.1186/s40560-025-00797-9
 A case of hospital-acquired pneumonia associated with Chryseobacterium indologenes infection in a patient with HIV infection and review of the literature.|https://dx.doi.org/10.1186/s12981-025-00749-1
 Patient centric performance and interpretation of SPECT and SPECT/CT myocardial perfusion imaging: a clinical consensus statement of the European Association of Cardiovascular Imaging of the ESC.|https://dx.doi.org/10.1093/ehjimp/qyaf043
+Efficacy and safety of dual-targeted therapy for refractory inflammatory bowel disease: a retrospective case series from three tertiary general hospitals in China.|https://dx.doi.org/10.3389/fmed.2025.1566828

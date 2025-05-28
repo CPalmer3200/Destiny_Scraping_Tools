@@ -12,3 +12,4 @@ Equol neutralizes toxin B to combat Clostridioides difficile infection without d
 Global Practice Variation in the Management of Clostridioides difficile Infections: An International Cross-Sectional Survey of Clinicians.|https://dx.doi.org/10.1093/ofid/ofaf248
 Lung Cryoablation: Patient Selection, Techniques, and Postablation Imaging.|https://dx.doi.org/10.1148/rg.240157
 Prolonged effect of antibiotic therapy on the gut microbiota composition, functionality, and antibiotic resistance genes' profiles in healthy stool donors.|https://dx.doi.org/10.3389/fmicb.2025.1589704
+Washed microbiota transplantation for ribotype 027 Clostridioides difficile infection in a pregnant woman with two-year follow-up: a case report.|https://dx.doi.org/10.7555/JBR.39.20250063

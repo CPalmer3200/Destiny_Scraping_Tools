@@ -4,3 +4,4 @@ Risk factors for Clostridioides difficile infection caused by ribotype 027 strai
 Dietary fiber modulates the window of susceptibility to Clostridioides difficile infection.|https://dx.doi.org/10.1053/j.gastro.2025.04.027
 Impact of a multi-step testing algorithm on hospital-onset Clostridioides difficile rates and clinical outcomes.|https://dx.doi.org/10.1017/ash.2025.180
 The role of the enteric nervous system in the pathogenesis of Clostridioides difficile infection.|https://dx.doi.org/10.1038/s41575-025-01071-x
+Genomic analysis of a novel ST11(PR34365) Clostridioides difficile strain isolated from the human fecal of a CDI patient in Guizhou, China.|https://dx.doi.org/10.1515/biol-2025-1067
