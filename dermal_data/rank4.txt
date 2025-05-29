@@ -56,3 +56,10 @@ Bio-inspired lotus-fiber and mussel-based multifunctional hydrogels for wound he
 Cotton gauze fabricated with hydro-stable Zn-MOF enables hemostasis acceleration, antibacterial activity, and wound regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144654
 Development of an Asymmetric Alginate Hydrogel Loaded with S-Nitrosoglutathione and Its Application in Chronic Wound Healing.|https://dx.doi.org/10.3390/gels11050354
 Fullerene-Functionalized Cellulosic Hydrogel Biosensor with Bacterial Turn-on Fluorescence Response Derived from Carboxymethyl Cellulose for Intelligent Food Packaging with DFT Calculations and Molecular Docking.|https://dx.doi.org/10.3390/gels11050329
+A green synthetic nanosilver photo-crosslinked injectable gelatin/hyaluronic acid hydrogel for infected cranial defect repair.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144672
+Collagen-Chitosan Composites Enhanced with Hydroxytyrosol for Prospective Wound Healing Uses.|https://dx.doi.org/10.3390/pharmaceutics17050618
+Antrodia cinnamomea Residual Biomass-Based Hydrogel as a Novel UV-Protective and Antimicrobial Wound-Healing Dressing for Biomedical Use.|https://dx.doi.org/10.3390/ijms26104496
+Sodium Alginate/Cuprous Oxide Composite Materials with Antibacterial Properties: A Preliminary Study Revealing the Counteracting Effects of Oligosaccharides in the Matrix.|https://dx.doi.org/10.3390/foods14101666
+Formulation and Evaluation of Licorice-Extract-Enhanced Chitosan, PVA, and Gelatin-Derived Hydrogels for Wound Dressing.|https://dx.doi.org/10.3390/bioengineering12050439
+Efficacy Study of Propolis Eutectic Extract in Gel Formulations for the Treatment of Bacterial Skin Diseases in Dogs.|https://dx.doi.org/10.3390/ani15101434
+In Vitro Evaluation of Antibacterial Properties of NIR-Light Responsive Alginate Hydrogels Embedding Polydopamine Nanoparticles.|https://dx.doi.org/10.1021/acsabm.5c00481

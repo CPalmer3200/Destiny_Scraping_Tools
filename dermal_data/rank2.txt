@@ -38,3 +38,7 @@ Naringenin as a Potent Natural Biofilm Inhibitor of Pseudomonas aeruginosa in Di
 Strain-specific interspecies interactions between co-isolated pairs of Staphylococcus aureus and Helcococcus kunzii from chronic wounds.|https://dx.doi.org/10.1186/s12866-025-04004-5
 Bacteriological Profile and Antibiotic Susceptibility in Patients With Diabetic Foot Infections.|https://dx.doi.org/10.7759/cureus.82809
 Safety and Efficacy of S53P4 Bioactive Glass in Osteomyelitis Management: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1002/jbm.b.35597
+The effect of the administration form of antibiotic therapy on the gut microbiome in patients with infected diabetic foot ulcers - DFIATIM trial.|https://dx.doi.org/10.1186/s12866-025-04041-0
+Emerging Concepts for the Treatment of Biofilm-Associated Bone and Joint Infections with IV Fosfomycin: A Literature Review.|https://dx.doi.org/10.3390/microorganisms13050963
+A Comprehensive Literature Review on the Therapeutic Potential of Platelet-Rich Plasma for Diabetic Foot Management: Insights from a Case of a Neglected Deep Plantar Abscess.|https://dx.doi.org/10.3390/healthcare13101130
+In Vivo Antimicrobial Activity of Nisin Z Against S. aureus and Polyurea Pharmadendrimer PURE(G4)OEI(48) Against P. aeruginosa from Diabetic Foot Infections.|https://dx.doi.org/10.3390/antibiotics14050444

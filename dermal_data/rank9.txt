@@ -8,3 +8,4 @@ Impact of Staphylococcus aureus colonization and skin abscesses on formation of 
 Comprehensive analysis of the antibacterial activity of 5,8-dihydroxy-1,4-naphthoquinone derivatives against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/S1875-5364(25)60818-1
 De Novo 3-(Phenylcarbamoyl) Benzoate Analogues: Efficacy against Multidrug-Resistant S. aureus and Elucidation of the Biodistribution Profile.|https://dx.doi.org/10.1021/acs.jmedchem.5c00515
 Ceftaroline Exhibits Promising In Vitro Activity Against Methicillin-Resistant Staphylococcus aureus Clinical Isolates From Alexandria, Egypt.|https://dx.doi.org/10.1155/ijm/4558662
+Wound Healing Properties of Plant-Based Hydrogel and Oleogel Formulations in a Rat Scald Burn Model.|https://dx.doi.org/10.3390/pharmaceutics17050597

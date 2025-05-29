@@ -4,3 +4,4 @@ Optimizing α-Gal Epitope Removal in Porcine Dermal Matrix: Enzyme Selection and
 Oxyresveratrol enhances hair regeneration in human dermal papilla cell and androgenetic alopecia mouse model.|https://dx.doi.org/10.1038/s41598-025-02581-z
 Transcriptomic analysis of DENV-2-infected human dermal fibroblasts identified potential mechanisms that suppressed ZIKV replication during sequential coinfection.|https://dx.doi.org/10.1186/s12985-025-02769-9
 Skin-Colored Papules on the Neck of a Postmenopausal Woman: A Diagnostic Challenge.|https://dx.doi.org/10.3390/dermatopathology12020015
+Assessment of nutritional status among post-kala-azar dermal leishmaniasis patients in endemic areas of northern West Bengal, India.|https://dx.doi.org/10.4103/tp.tp_47_24
