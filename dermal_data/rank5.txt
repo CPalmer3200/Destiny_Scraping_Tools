@@ -24,3 +24,6 @@ Inhibitory Efficacy of Arthrospira platensis Extracts on Skin Pathogenic Bacteri
 Accurate Diagnosis of Pseudomonas aeruginosa Is Critical to Mitigating Development of Antibiotic Resistance.|https://dx.doi.org/10.3390/antibiotics14050509
 Pulsed Blue Light and Phage Therapy: A Novel Synergistic Bactericide.|https://dx.doi.org/10.3390/antibiotics14050481
 Staphylococcus aureus: A Review of the Pathogenesis and Virulence Mechanisms.|https://dx.doi.org/10.3390/antibiotics14050470
+A novel clotrimazole selenium nano-composite for combating deep dermal Candida albicans infections and virulence genes.|https://dx.doi.org/10.1038/s41429-025-00831-w
+Fractional microporation-guided delivery of nanoencapsulated drugs for enhanced cutaneous and follicular absorption: a comparison of ablative laser and radiofrequency microneedling.|https://dx.doi.org/10.1007/s13346-025-01885-x
+Carboxymethyl Chitosan Delaminated Ti(3)C(2) MXenes as a Potential Therapeutic Nano Platform to Combat Chronic Wounds.|https://dx.doi.org/10.1002/asia.202500036

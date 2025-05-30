@@ -63,3 +63,4 @@ Sodium Alginate/Cuprous Oxide Composite Materials with Antibacterial Properties:
 Formulation and Evaluation of Licorice-Extract-Enhanced Chitosan, PVA, and Gelatin-Derived Hydrogels for Wound Dressing.|https://dx.doi.org/10.3390/bioengineering12050439
 Efficacy Study of Propolis Eutectic Extract in Gel Formulations for the Treatment of Bacterial Skin Diseases in Dogs.|https://dx.doi.org/10.3390/ani15101434
 In Vitro Evaluation of Antibacterial Properties of NIR-Light Responsive Alginate Hydrogels Embedding Polydopamine Nanoparticles.|https://dx.doi.org/10.1021/acsabm.5c00481
+AIE-active PVA/berberine antibacterial hydrogel for wound healing, visual monitoring pH and dehydration.|https://dx.doi.org/10.1016/j.biomaterials.2025.123432

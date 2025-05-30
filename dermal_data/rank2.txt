@@ -42,3 +42,5 @@ The effect of the administration form of antibiotic therapy on the gut microbiom
 Emerging Concepts for the Treatment of Biofilm-Associated Bone and Joint Infections with IV Fosfomycin: A Literature Review.|https://dx.doi.org/10.3390/microorganisms13050963
 A Comprehensive Literature Review on the Therapeutic Potential of Platelet-Rich Plasma for Diabetic Foot Management: Insights from a Case of a Neglected Deep Plantar Abscess.|https://dx.doi.org/10.3390/healthcare13101130
 In Vivo Antimicrobial Activity of Nisin Z Against S. aureus and Polyurea Pharmadendrimer PURE(G4)OEI(48) Against P. aeruginosa from Diabetic Foot Infections.|https://dx.doi.org/10.3390/antibiotics14050444
+Naturally Derived Biomaterial-Based Microneedles With Microenvironment-Response Potential for Diabetic Wound Healing.|https://dx.doi.org/10.1111/wrr.70049
+The Manchester Charcot Ankle Neuroarthropathy (M-CAN) Classification: A Radiographic-Based System for Assessing Charcot Ankle Neuroarthropathy.|https://dx.doi.org/10.7759/cureus.83099

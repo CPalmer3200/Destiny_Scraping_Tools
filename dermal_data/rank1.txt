@@ -17,3 +17,4 @@ Antibacterial and therapeutic effects of vancomycin-resistant Staphylococcus aur
 In situ injectable self-healing hydrogel of 5-fluorocytidine-modified chitosan with antifungal and antibacterial properties for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144321
 [Treatment strategy for severe radiation-induced ulcers near major blood vessels].|https://dx.doi.org/10.3760/cma.j.cn501225-20240521-00191
 Molecular Identification of erm A and erm B, erm C genes in methicillin-resistant Staphylococcus aureus isolates from burns Patients and their association with multidrug resistance.|https://dx.doi.org/10.14715/cmb/2025.71.5.15
+A rapid and efficient microenvironment improving hyaluronic acid microneedle dressing for burn wound synergistic treatment.|https://dx.doi.org/10.1016/j.carbpol.2025.123707
