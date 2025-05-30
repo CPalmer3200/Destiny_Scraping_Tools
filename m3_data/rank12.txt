@@ -5,3 +5,8 @@ Dietary fiber modulates the window of susceptibility to Clostridioides difficile
 Impact of a multi-step testing algorithm on hospital-onset Clostridioides difficile rates and clinical outcomes.|https://dx.doi.org/10.1017/ash.2025.180
 The role of the enteric nervous system in the pathogenesis of Clostridioides difficile infection.|https://dx.doi.org/10.1038/s41575-025-01071-x
 Genomic analysis of a novel ST11(PR34365) Clostridioides difficile strain isolated from the human fecal of a CDI patient in Guizhou, China.|https://dx.doi.org/10.1515/biol-2025-1067
+The phi027 bacteriophage influences physiology and virulence of the lysogenic strain of Clostridioides difficile.|https://dx.doi.org/10.1038/s41598-025-04106-0
+Maternal Transmission of Symptomatic Clostridioides difficile Infection to Two Premature Neonates.|https://dx.doi.org/10.1097/INF.0000000000004852
+Characterization of Adult and Pediatric Healthcare-Associated and Community-Associated Clostridioides difficile Infections, Canada, 2015-2022.|https://dx.doi.org/10.3201/eid3106.250182
+Whole genome sequence analysis reveals limited diversity among Clostridioides difficile ribotype 027 and 078 isolates collected in 22 hospitals in Berlin and Brandenburg, Germany.|https://dx.doi.org/10.1186/s13756-025-01565-y
+Use of PCR cycle threshold values for toxins A and B quantification in Clostridioides difficile infections.|https://dx.doi.org/10.1038/s41598-025-02526-6

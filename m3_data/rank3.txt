@@ -8,3 +8,6 @@ Out-of-hours oral antibiotic prescribing through the community pharmacy independ
 Allergy alerting and overrides for opioid analogues across two health systems.|https://dx.doi.org/10.1136/bmjhci-2024-101259
 Use and institutional variation in surgical antibiotic prophylaxis for pediatric clean (class I) penile and groin procedures.|https://dx.doi.org/10.1016/j.jpurol.2025.05.006
 Laboratory diagnosis of Clostridioides difficile infection: past, present and future.|https://dx.doi.org/10.1016/j.anaerobe.2025.102974
+Evaluation of the Potency of the First Commercial Vaccine for Clostridioides difficile Infection in Piglets and Comparison with the Humoral Response in Rabbits.|https://dx.doi.org/10.3390/vaccines13050438
+Evaluation of the Efficacy of UV-C Radiation in Eliminating Clostridioides difficile from Touch Surfaces Under Laboratory Conditions.|https://dx.doi.org/10.3390/microorganisms13050986
+Exploring Childhood Lower Urinary Tract Symptoms (LUTS), Urinary Tract Infections (UTIs) and the Microbiome-A Systematic Review.|https://dx.doi.org/10.3390/life15050730
