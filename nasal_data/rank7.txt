@@ -7,3 +7,12 @@ Clinical and microbiological profile of spondylodiscitis: a retrospective analys
 Bacteriological Profile and Antibiotic Susceptibility in Patients With Diabetic Foot Infections.|https://dx.doi.org/10.7759/cureus.82809
 Trends and characteristics of multidrug-resistant MRSA in Norway 2008-2020.|https://dx.doi.org/10.3389/fmicb.2025.1564943
 Thymol-loaded polycaprolactone wet-spun fibers and their ability to suppress bacterial action and chronic wound-associated pro-inflammatory enzymes activity.|https://dx.doi.org/10.1016/j.ijpharm.2025.125763
+Association of time to positivity with disease severity in bloodstream infections - a population-based cohort study.|https://dx.doi.org/10.1016/j.cmi.2025.05.027
+Infectious complications of atopic dermatitis, an update.|https://dx.doi.org/10.1016/j.anai.2025.05.021
+Enterobacterales abundance in oral cancer patients and elevated clindamycin resistance rates in head and neck infections at a Hungarian Tertiary Hospital.|https://dx.doi.org/10.1186/s12941-025-00802-x
+Antibacterial and Angiogenic Copper Phosphate-Modified Carbonate Apatite Honeycomb Plugs for Enhanced Gingival and Alveolar Bone Regeneration.|https://dx.doi.org/10.1021/acsami.5c01022
+Financial and Clinical Toxicity of Empiric Vancomycin for Intra-Abdominal Infections: A Cohort Study.|https://dx.doi.org/10.1089/sur.2024.269
+Incidence, microbiology and mortality of ventilation-associated pneumonia in a large Italian cohort of critically ill patients. Results from the PROSAFE project.|https://dx.doi.org/10.1016/j.cmi.2025.05.026
+Analysis of clinical characteristics and risk factors for Staphylococcus aureus disseminated infection secondary to acute osteoarticular infections in children.|https://dx.doi.org/10.1186/s13052-025-02007-6
+Development and Characterization of a Collagen-Based Three-Dimensional In Vitro Model to Mimic Biofilm Formation in a Wound Bed.|https://dx.doi.org/10.1021/acsabm.5c00100
+Microbiological Profiles, Antibiotic Susceptibility Patterns and the Role of Multidrug-Resistant Organisms in Patients Diagnosed with Periprosthetic Joint Infection over 8 Years: Results from a Single-Center Observational Cohort Study from Romania.|https://dx.doi.org/10.3390/microorganisms13051168
