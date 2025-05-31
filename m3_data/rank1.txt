@@ -14,3 +14,4 @@ Lung Cryoablation: Patient Selection, Techniques, and Postablation Imaging.|http
 Prolonged effect of antibiotic therapy on the gut microbiota composition, functionality, and antibiotic resistance genes' profiles in healthy stool donors.|https://dx.doi.org/10.3389/fmicb.2025.1589704
 Washed microbiota transplantation for ribotype 027 Clostridioides difficile infection in a pregnant woman with two-year follow-up: a case report.|https://dx.doi.org/10.7555/JBR.39.20250063
 Community-Acquired Clostridioides difficile Infection: The Fox Among the Chickens.|https://dx.doi.org/10.3390/ijms26104716
+Fecal microbiota transplant is associated with resolution of recurrent urinary tract infection.|https://dx.doi.org/10.1016/j.urology.2025.05.052
