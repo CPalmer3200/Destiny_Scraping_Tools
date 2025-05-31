@@ -44,3 +44,5 @@ A Comprehensive Literature Review on the Therapeutic Potential of Platelet-Rich 
 In Vivo Antimicrobial Activity of Nisin Z Against S. aureus and Polyurea Pharmadendrimer PURE(G4)OEI(48) Against P. aeruginosa from Diabetic Foot Infections.|https://dx.doi.org/10.3390/antibiotics14050444
 Naturally Derived Biomaterial-Based Microneedles With Microenvironment-Response Potential for Diabetic Wound Healing.|https://dx.doi.org/10.1111/wrr.70049
 The Manchester Charcot Ankle Neuroarthropathy (M-CAN) Classification: A Radiographic-Based System for Assessing Charcot Ankle Neuroarthropathy.|https://dx.doi.org/10.7759/cureus.83099
+miRNA203 detection via single-strand DNA hybridization and signal amplification by copper-doped cerium oxide nanoparticles.|https://dx.doi.org/10.1007/s00216-025-05926-9
+Early Tendon Transfer in Diabetic Hand Infection.|https://dx.doi.org/10.7759/cureus.83189

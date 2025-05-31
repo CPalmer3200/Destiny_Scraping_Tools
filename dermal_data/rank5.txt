@@ -27,3 +27,6 @@ Staphylococcus aureus: A Review of the Pathogenesis and Virulence Mechanisms.|ht
 A novel clotrimazole selenium nano-composite for combating deep dermal Candida albicans infections and virulence genes.|https://dx.doi.org/10.1038/s41429-025-00831-w
 Fractional microporation-guided delivery of nanoencapsulated drugs for enhanced cutaneous and follicular absorption: a comparison of ablative laser and radiofrequency microneedling.|https://dx.doi.org/10.1007/s13346-025-01885-x
 Carboxymethyl Chitosan Delaminated Ti(3)C(2) MXenes as a Potential Therapeutic Nano Platform to Combat Chronic Wounds.|https://dx.doi.org/10.1002/asia.202500036
+Hybrid nano-scaffolds loaded with resveratrol and Omega-3 fatty Acids: An innovative antimicrobial strategy against biofilm.|https://dx.doi.org/10.1016/j.ijpharm.2025.125784
+Veratraldehyde Inhibits Motility Phenotypes and Targets Biofilm Formation of Pseudomonas aeruginosa: Insights From Computational and Experimental Studies.|https://dx.doi.org/10.1002/cbdv.202500074
+Phototriggered Biofilm Nanodisruptor with Genetic Modulation for Treating Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1021/acsami.5c03333
