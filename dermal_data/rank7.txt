@@ -5,3 +5,4 @@ Oxyresveratrol enhances hair regeneration in human dermal papilla cell and andro
 Transcriptomic analysis of DENV-2-infected human dermal fibroblasts identified potential mechanisms that suppressed ZIKV replication during sequential coinfection.|https://dx.doi.org/10.1186/s12985-025-02769-9
 Skin-Colored Papules on the Neck of a Postmenopausal Woman: A Diagnostic Challenge.|https://dx.doi.org/10.3390/dermatopathology12020015
 Assessment of nutritional status among post-kala-azar dermal leishmaniasis patients in endemic areas of northern West Bengal, India.|https://dx.doi.org/10.4103/tp.tp_47_24
+Ergothioneine regulates the paracrine of dermal papilla cells through SIRT1/Nrf2 pathway to antagonize oxidative stress and natural hair follicle aging.|https://dx.doi.org/10.1016/j.freeradbiomed.2025.05.427

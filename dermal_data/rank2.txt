@@ -46,3 +46,4 @@ Naturally Derived Biomaterial-Based Microneedles With Microenvironment-Response 
 The Manchester Charcot Ankle Neuroarthropathy (M-CAN) Classification: A Radiographic-Based System for Assessing Charcot Ankle Neuroarthropathy.|https://dx.doi.org/10.7759/cureus.83099
 miRNA203 detection via single-strand DNA hybridization and signal amplification by copper-doped cerium oxide nanoparticles.|https://dx.doi.org/10.1007/s00216-025-05926-9
 Early Tendon Transfer in Diabetic Hand Infection.|https://dx.doi.org/10.7759/cureus.83189
+Antimicrobial Peptide Buforin-I Facilitates the Healing of Foot Wounds in Diabetic Mice.|https://dx.doi.org/10.1177/15347346251336569

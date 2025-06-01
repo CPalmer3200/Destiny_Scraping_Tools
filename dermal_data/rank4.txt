@@ -64,3 +64,5 @@ Formulation and Evaluation of Licorice-Extract-Enhanced Chitosan, PVA, and Gelat
 Efficacy Study of Propolis Eutectic Extract in Gel Formulations for the Treatment of Bacterial Skin Diseases in Dogs.|https://dx.doi.org/10.3390/ani15101434
 In Vitro Evaluation of Antibacterial Properties of NIR-Light Responsive Alginate Hydrogels Embedding Polydopamine Nanoparticles.|https://dx.doi.org/10.1021/acsabm.5c00481
 AIE-active PVA/berberine antibacterial hydrogel for wound healing, visual monitoring pH and dehydration.|https://dx.doi.org/10.1016/j.biomaterials.2025.123432
+Ex vivo modelling of extraluminal migration of pathogenic microbes in the presence of a hemostatic agent.|https://dx.doi.org/10.1016/j.ajic.2025.05.014
+Moisture-Absorbing and Antimicrobial Semi-Interpenetrating Polymer Network Hydrogels: An Advanced Medical and Healthcare Material.|https://dx.doi.org/10.1021/acsabm.5c00586
