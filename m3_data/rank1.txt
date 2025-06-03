@@ -15,3 +15,5 @@ Prolonged effect of antibiotic therapy on the gut microbiota composition, functi
 Washed microbiota transplantation for ribotype 027 Clostridioides difficile infection in a pregnant woman with two-year follow-up: a case report.|https://dx.doi.org/10.7555/JBR.39.20250063
 Community-Acquired Clostridioides difficile Infection: The Fox Among the Chickens.|https://dx.doi.org/10.3390/ijms26104716
 Fecal microbiota transplant is associated with resolution of recurrent urinary tract infection.|https://dx.doi.org/10.1016/j.urology.2025.05.052
+Efficacy and safety of Saccharomyces boulardii as adjunct therapy with Vancomycin in treating Clostridioides difficile infection: A randomized controlled trial.|https://dx.doi.org/10.1038/s41598-025-04986-2
+Host origin of microbiota drives functional recovery and Clostridioides difficile clearance in mice.|https://dx.doi.org/10.1128/mbio.01108-25
