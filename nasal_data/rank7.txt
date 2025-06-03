@@ -16,3 +16,12 @@ Incidence, microbiology and mortality of ventilation-associated pneumonia in a l
 Analysis of clinical characteristics and risk factors for Staphylococcus aureus disseminated infection secondary to acute osteoarticular infections in children.|https://dx.doi.org/10.1186/s13052-025-02007-6
 Development and Characterization of a Collagen-Based Three-Dimensional In Vitro Model to Mimic Biofilm Formation in a Wound Bed.|https://dx.doi.org/10.1021/acsabm.5c00100
 Microbiological Profiles, Antibiotic Susceptibility Patterns and the Role of Multidrug-Resistant Organisms in Patients Diagnosed with Periprosthetic Joint Infection over 8 Years: Results from a Single-Center Observational Cohort Study from Romania.|https://dx.doi.org/10.3390/microorganisms13051168
+New approaches to disinfection of thermolabile medical devices using an indirect method with cold atmospheric plasma-aerosol.|https://dx.doi.org/10.1038/s41598-025-03364-2
+Linking Virulence and Iron Limitation Response in Staphylococcus aureus: The sRNA IsrR Is Involved in SaeRS Activation.|https://dx.doi.org/10.1021/acs.jproteome.5c00059
+Clinical Evaluation of MAP-1 Antimicrobial Coating on Patient Privacy Curtains: Insights from a Randomized Trial in a Hong Kong Hospital.|https://dx.doi.org/10.1016/j.jhin.2025.05.012
+Trends in Incidence and Epidemiology of Methicillin-Resistant Staphylococcus aureus Bacteremia, Six Emerging Infections Program Surveillance Sites, 2005-2022.|https://dx.doi.org/10.1093/ofid/ofaf282
+Staphylococcus aureus-derived Signature Protein(s) in Murine Vaginal Lavage Fluid: Investigating the Underlying factors of Infertility as a Consequence of Sperm Impairing Bacterium.|https://dx.doi.org/10.1177/11772719251340518
+An Unusual Case of Aortic Vegetation Causing Coronary Artery Microembolization and Sudden Death: A Case Report.|https://dx.doi.org/10.7759/cureus.83260
+Understanding the Molecular Epidemiology of Community-Acquired Methicillin-Resistant Staphylococcus aureus in Northern Saudi Arabia: A Spotlight on SCCmec and spa Typing.|https://dx.doi.org/10.1155/cjid/2753992
+Epidemiology and resistant profile of bacterial pathogens in a tertiary health care hospital, Medan City: a retrospective study.|https://dx.doi.org/10.7717/peerj.19510
+Evaluation of Bacterial Profiles and Antibiotic Susceptibility in Orthopedic Patients With Surgical Site Infections After Implant Surgery.|https://dx.doi.org/10.7759/cureus.83305

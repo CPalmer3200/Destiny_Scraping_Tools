@@ -3,3 +3,5 @@ Clinical manifestations of 42 Moroccan patients with chronic granulomatous disea
 The neglected model validation of antimicrobial resistance transmission models - a systematic review.|https://dx.doi.org/10.1186/s13756-025-01574-x
 Proteome-wide reverse vaccinology to identify potential vaccine candidates against Staphylococcus aureus.|https://dx.doi.org/10.1016/j.molimm.2025.05.016
 A Novel Interaction of Staphylococcal Protein A With Human Fibronectin and Its Implications in Host Cell Adhesion.|https://dx.doi.org/10.1096/fj.202500086R
+Enantioselective effects of chiral antibiotics on antibiotic resistance gene dissemination and risk in activated sludge.|https://dx.doi.org/10.1016/j.biortech.2025.132749
+Detecting and classifying metabolic activity of Staphylococcus aureus by D(2)O-probed single-cell Raman spectroscopy and machine learning.|https://dx.doi.org/10.1016/j.bsheal.2025.03.004
