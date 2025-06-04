@@ -25,3 +25,8 @@ An Unusual Case of Aortic Vegetation Causing Coronary Artery Microembolization a
 Understanding the Molecular Epidemiology of Community-Acquired Methicillin-Resistant Staphylococcus aureus in Northern Saudi Arabia: A Spotlight on SCCmec and spa Typing.|https://dx.doi.org/10.1155/cjid/2753992
 Epidemiology and resistant profile of bacterial pathogens in a tertiary health care hospital, Medan City: a retrospective study.|https://dx.doi.org/10.7717/peerj.19510
 Evaluation of Bacterial Profiles and Antibiotic Susceptibility in Orthopedic Patients With Surgical Site Infections After Implant Surgery.|https://dx.doi.org/10.7759/cureus.83305
+Bronchopulmonary colonization patterns in Spanish people with cystic fibrosis: Results of a national multicentre study.|https://dx.doi.org/10.1016/j.eimce.2024.08.008
+Population sequencing for phylogenetic diversity and transmission analyses.|https://dx.doi.org/10.1073/pnas.2424797122
+Use of AngioVac device in debulking endocarditis vegetations before lead extractions.|https://dx.doi.org/10.1093/ehjcr/ytaf239
+A 3-year retrospective analysis of microbial species and key biomarkers associated with wound infections in Shantou Hospital, China.|https://dx.doi.org/10.3389/fcimb.2025.1549470
+Lysozyme Fiber-Inspired Versatile Supramolecular Hydrogel Against Drug-Resistant Pathogens and Biofilm Formation.|https://dx.doi.org/10.1002/adhm.202500687
