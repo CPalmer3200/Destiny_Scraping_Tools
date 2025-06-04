@@ -17,3 +17,4 @@ Community-Acquired Clostridioides difficile Infection: The Fox Among the Chicken
 Fecal microbiota transplant is associated with resolution of recurrent urinary tract infection.|https://dx.doi.org/10.1016/j.urology.2025.05.052
 Efficacy and safety of Saccharomyces boulardii as adjunct therapy with Vancomycin in treating Clostridioides difficile infection: A randomized controlled trial.|https://dx.doi.org/10.1038/s41598-025-04986-2
 Host origin of microbiota drives functional recovery and Clostridioides difficile clearance in mice.|https://dx.doi.org/10.1128/mbio.01108-25
+Tapia's Syndrome Secondary to Prolonged Intubation and Tracheostomy in a Patient With Opioid Dependence With Spontaneous Recovery.|https://dx.doi.org/10.7759/cureus.83414

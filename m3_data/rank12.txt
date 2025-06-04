@@ -10,3 +10,4 @@ Maternal Transmission of Symptomatic Clostridioides difficile Infection to Two P
 Characterization of Adult and Pediatric Healthcare-Associated and Community-Associated Clostridioides difficile Infections, Canada, 2015-2022.|https://dx.doi.org/10.3201/eid3106.250182
 Whole genome sequence analysis reveals limited diversity among Clostridioides difficile ribotype 027 and 078 isolates collected in 22 hospitals in Berlin and Brandenburg, Germany.|https://dx.doi.org/10.1186/s13756-025-01565-y
 Use of PCR cycle threshold values for toxins A and B quantification in Clostridioides difficile infections.|https://dx.doi.org/10.1038/s41598-025-02526-6
+In situ identification of toxin-producing Clostridioides difficile in stool samples based on single-cell Raman spectroscopy.|https://dx.doi.org/10.3389/fcimb.2025.1556536
