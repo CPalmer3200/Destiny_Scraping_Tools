@@ -3,3 +3,6 @@ Comprehensive biological evaluation of infuzide as a potent antimicrobial, alone
 Bioelectronic Drug-free Control of Opportunistic Pathogens through Selective Excitability.|https://dx.doi.org/10.1016/j.device.2024.100596
 Rhodomyrtone-rich fractions from Rhodomyrtus tomentosa (Aiton) Hassk. leaves: A potent antimicrobial compound for Staphylococcus pseudintermedius.|https://dx.doi.org/10.14202/vetworld.2025.1025-1035
 Activity of GS-linked chimeric endolysin CHAPk-SH3bk against methicillin-resistant Staphylococcus aureus biofilms: an in-vitro, ex-vivo and in-vivo study.|https://dx.doi.org/10.1038/s41522-025-00728-4
+Bacterial Recolonization of Hospital Sink Biofilms.|https://dx.doi.org/10.1016/j.jhin.2025.05.013
+A Review of the Role of C. Acnes and its Biofilm in Dandruff Pathogenesis.|https://dx.doi.org/10.36849/JDD.8648
+Resisting the resistance: the antimicrobial peptide DGL13K selects for small colony variants of Staphylococcus aureus that show increased resistance to its stereoisomer LGL13K, but not to DGL13K.|https://dx.doi.org/10.1128/jb.00505-24

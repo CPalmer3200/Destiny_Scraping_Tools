@@ -1,2 +1,7 @@
 A Tunable Hydrogel Platform Based on Platinum-Containing Polymeric Arsenicals.|https://dx.doi.org/10.1021/acs.chemmater.5c00184
 Lysozyme Fiber-Inspired Versatile Supramolecular Hydrogel Against Drug-Resistant Pathogens and Biofilm Formation.|https://dx.doi.org/10.1002/adhm.202500687
+Zein-magnolol complexes assisted hydrogel film: Physical, antioxidant, antimicrobial properties and application on food packaging.|https://dx.doi.org/10.1016/j.foodres.2025.116672
+Multifunctional bilayer wound dressing based on 3D-printed sodium alginate/gelatin hydrogel and polycaprolactone nanofibers for accelerating diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144832
+Novel composite hydrogels prepared from carboxymethyl chitosan and polysaccharides extracted from Ononis natrix for controlled release of bioactive molecules.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144880
+Practical Algorithm on Topical Treatment of Flaring Atopic Dermatitis (AD) With or Without Secondary Infection.|https://dx.doi.org/10.36849/JDD.8967
+pH-triggered CS@ZnO(2) nanocomposites: Self-activated ROS generation for efficient bacterial eradication.|https://dx.doi.org/10.3389/fbioe.2025.1608188
