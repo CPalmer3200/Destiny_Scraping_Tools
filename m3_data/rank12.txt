@@ -11,3 +11,5 @@ Characterization of Adult and Pediatric Healthcare-Associated and Community-Asso
 Whole genome sequence analysis reveals limited diversity among Clostridioides difficile ribotype 027 and 078 isolates collected in 22 hospitals in Berlin and Brandenburg, Germany.|https://dx.doi.org/10.1186/s13756-025-01565-y
 Use of PCR cycle threshold values for toxins A and B quantification in Clostridioides difficile infections.|https://dx.doi.org/10.1038/s41598-025-02526-6
 In situ identification of toxin-producing Clostridioides difficile in stool samples based on single-cell Raman spectroscopy.|https://dx.doi.org/10.3389/fcimb.2025.1556536
+Low Incidence of Clostridioides difficile Infection in Patients Receiving Outpatient Parenteral Antibiotic Therapy at an Urban Academic Medical Center.|https://dx.doi.org/10.1093/ofid/ofaf314
+Study on utility of GDH and prevalence of Clostridium difficile infection in ICU patients.|https://dx.doi.org/10.1016/j.mjafi.2024.10.005
