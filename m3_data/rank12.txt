@@ -13,3 +13,4 @@ Use of PCR cycle threshold values for toxins A and B quantification in Clostridi
 In situ identification of toxin-producing Clostridioides difficile in stool samples based on single-cell Raman spectroscopy.|https://dx.doi.org/10.3389/fcimb.2025.1556536
 Low Incidence of Clostridioides difficile Infection in Patients Receiving Outpatient Parenteral Antibiotic Therapy at an Urban Academic Medical Center.|https://dx.doi.org/10.1093/ofid/ofaf314
 Study on utility of GDH and prevalence of Clostridium difficile infection in ICU patients.|https://dx.doi.org/10.1016/j.mjafi.2024.10.005
+Does Clostridioides difficile infection play a role in premalignant colonic lesions? A retrospective cohort study.|https://dx.doi.org/10.1097/MEG.0000000000003007

@@ -9,3 +9,4 @@ Patient centric performance and interpretation of SPECT and SPECT/CT myocardial 
 Efficacy and safety of dual-targeted therapy for refractory inflammatory bowel disease: a retrospective case series from three tertiary general hospitals in China.|https://dx.doi.org/10.3389/fmed.2025.1566828
 Development and validation of a clinical prediction model for Clostridioides difficile associated diarrhea.|https://dx.doi.org/10.3855/jidc.20006
 Gut microbiota and its influence on the Gut-Brain axis in comparison with chemotherapy patients and cancer-free control data in Breast cancer-A computational perspective.|https://dx.doi.org/10.1371/journal.pone.0324742
+The future of healthcare-associated infection surveillance: Automated surveillance and using the potential of artificial intelligence.|https://dx.doi.org/10.1111/joim.20100
