@@ -6,3 +6,4 @@ Activity of GS-linked chimeric endolysin CHAPk-SH3bk against methicillin-resista
 Bacterial Recolonization of Hospital Sink Biofilms.|https://dx.doi.org/10.1016/j.jhin.2025.05.013
 A Review of the Role of C. Acnes and its Biofilm in Dandruff Pathogenesis.|https://dx.doi.org/10.36849/JDD.8648
 Resisting the resistance: the antimicrobial peptide DGL13K selects for small colony variants of Staphylococcus aureus that show increased resistance to its stereoisomer LGL13K, but not to DGL13K.|https://dx.doi.org/10.1128/jb.00505-24
+Indotropane Pseudo-Natural product is a novel class of potent and selective antibacterial agent against methicillin- and vancomycin-resistant S. aureus.|https://dx.doi.org/10.1016/j.ejmech.2025.117805

@@ -3,3 +3,5 @@ Understanding Diabetic Wounds: A Review of Mechanisms, Pathophysiology, and Mult
 Phytofabricated Farsetia aegyptia-derived silver nanoparticles mediate antibacterial and wound-healing activities in diabetic foot infection rat model.|https://dx.doi.org/10.1007/s10787-025-01789-9
 Management of hindfoot and ankle in Charcot arthropathy.|https://dx.doi.org/10.1530/EOR-2025-0057
 Machine Learning Insights Into Amputation Risk: Evaluating Wound Classification Systems in Diabetic Foot Ulcers.|https://dx.doi.org/10.1111/iwj.70515
+Duration of antibiotherapy for patients with diabetic foot osteomyelitis without amputation: a protocol for a systematic review and network meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2024-093342
+Multidrug-Resistant Staphylococcus aureus in Diabetic Foot Infections (DFI) from Beira, Mozambique: Prevalence and Virulence Profile.|https://dx.doi.org/10.2147/IDR.S521876
