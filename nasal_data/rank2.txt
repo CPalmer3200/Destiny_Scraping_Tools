@@ -6,3 +6,4 @@ Prevalence, Antimicrobial Resistance, and Virulence Potential of Staphylococcus 
 [Distribution of pathogenic bacteria in ear canal secretions of patients with chronic suppurative otitis media, changes in levels of IL-8 and TLR4 in ear canal secretions, and their clinical significance].|https://dx.doi.org/10.13201/j.issn.2096-7993.2025.06.012
 Severe Influenza Patients Who Received Ventilator Management During the 2024 to 2025 Major Influenza-Endemic Season in a Tertiary Hospital in Japan.|https://dx.doi.org/10.2147/IMCRJ.S519471
 Species diversity, virulence, and antimicrobial resistance of the nasal staphylococcal and mammaliicoccal biota of reindeer.|https://dx.doi.org/10.1186/s12917-025-04680-5
+Resisting the resistance: the antimicrobial peptide DGL13K selects for small colony variants of Staphylococcus aureus that show increased resistance to its stereoisomer LGL13K, but not to DGL13K.|https://dx.doi.org/10.1128/jb.00505-24
