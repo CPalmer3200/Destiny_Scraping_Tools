@@ -8,3 +8,5 @@ pH-triggered CS@ZnO(2) nanocomposites: Self-activated ROS generation for efficie
 Gelatin-based hydrogel incorporated with metal-phenolic network-coated mesoporous bioactive glasses for enhanced bone regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144882
 Engineering of 3D galactomannan-based hydrogel scaffolds doped with HKUST-1 MOF for enhanced antibacterial and antioxidant activities in wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.144945
 Nitric oxide releasing ecologically friendly tannic acid based antibacterial hydrogel as flexible electronics.|https://dx.doi.org/10.1016/j.colsurfb.2025.114820
+Phloxine B-loaded polymersomes enable eradication of Pseudomonas aeruginosa and Staphylococcus aureus in antimicrobial photodynamic therapy.|https://dx.doi.org/10.1039/d5ra02238j
+Therapeutic potential of repaglinide-embedded chitosan hydrogel in promoting wound healing.|https://dx.doi.org/10.1016/j.reth.2025.04.021

@@ -5,3 +5,4 @@ Management of hindfoot and ankle in Charcot arthropathy.|https://dx.doi.org/10.1
 Machine Learning Insights Into Amputation Risk: Evaluating Wound Classification Systems in Diabetic Foot Ulcers.|https://dx.doi.org/10.1111/iwj.70515
 Duration of antibiotherapy for patients with diabetic foot osteomyelitis without amputation: a protocol for a systematic review and network meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2024-093342
 Multidrug-Resistant Staphylococcus aureus in Diabetic Foot Infections (DFI) from Beira, Mozambique: Prevalence and Virulence Profile.|https://dx.doi.org/10.2147/IDR.S521876
+The combined impact of chronic kidney disease and ulcer severity on incident cardiovascular events in patients with diabetes-related foot ulceration.|https://dx.doi.org/10.14814/phy2.70415
