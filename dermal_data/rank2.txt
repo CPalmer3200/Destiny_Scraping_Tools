@@ -6,3 +6,6 @@ Machine Learning Insights Into Amputation Risk: Evaluating Wound Classification 
 Duration of antibiotherapy for patients with diabetic foot osteomyelitis without amputation: a protocol for a systematic review and network meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2024-093342
 Multidrug-Resistant Staphylococcus aureus in Diabetic Foot Infections (DFI) from Beira, Mozambique: Prevalence and Virulence Profile.|https://dx.doi.org/10.2147/IDR.S521876
 The combined impact of chronic kidney disease and ulcer severity on incident cardiovascular events in patients with diabetes-related foot ulceration.|https://dx.doi.org/10.14814/phy2.70415
+Identification of biomarkers and potential drug targets in DFU based on fundamental experiments and multi-omics joint analysis.|https://dx.doi.org/10.3389/fphar.2025.1561179
+Comparing Clinical Outcomes after Toe Amputation and Toe-Sparing Surgery in Patients with Diabetic Foot Ulcer.|https://dx.doi.org/10.47176/mjiri.39.32
+Cost-of-Illness Analysis of Diabetic Foot Ulcer: A Prevalence-Based Approach in Southwest of Iran.|https://dx.doi.org/10.47176/mjiri.39.1

@@ -1,3 +1,4 @@
 Plasma Treatment - Results of Skin Microbiome Analysis.|https://dx.doi.org/10.2147/CCID.S482265
 Skin microbiota in atopic dermatitis: victim or executioner?|https://dx.doi.org/10.1128/cmr.00277-24
 Effect of dupilumab for the therapy of atopic dermatitis and the effect on serum TARC, HBD2 and SEA-IgE levels and peripheral blood T helper cell subtypes.|https://dx.doi.org/10.3892/etm.2025.12888
+Microneedle delivery platform integrated with Staphylococcus epidermidis-derived extracellular vesicles-based nanoantibiotics for efficient bacterial infection atopic dermatitis treatment.|https://dx.doi.org/10.1016/j.apsb.2025.02.038

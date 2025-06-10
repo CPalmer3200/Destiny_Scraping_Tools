@@ -9,3 +9,4 @@ Resisting the resistance: the antimicrobial peptide DGL13K selects for small col
 Indotropane Pseudo-Natural product is a novel class of potent and selective antibacterial agent against methicillin- and vancomycin-resistant S. aureus.|https://dx.doi.org/10.1016/j.ejmech.2025.117805
 The gut-lung axis and microbiome dysbiosis in non-tuberculous mycobacterial infections: immune mechanisms, clinical implications, and therapeutic frontiers.|https://dx.doi.org/10.1186/s13099-025-00718-z
 Valence Electron Fluctuation in a High-Entropy Oxide Heterojunction Enables Collaborative Photodynamic and Mild-Thermal Therapy for Cutaneous Biofilm Infections.|https://dx.doi.org/10.1021/acsnano.4c18444
+Magnetic microfiber hyperthermia for synergistic antimicrobial activity against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.mtbio.2025.101862

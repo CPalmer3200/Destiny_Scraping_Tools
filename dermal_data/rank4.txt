@@ -10,3 +10,9 @@ Engineering of 3D galactomannan-based hydrogel scaffolds doped with HKUST-1 MOF 
 Nitric oxide releasing ecologically friendly tannic acid based antibacterial hydrogel as flexible electronics.|https://dx.doi.org/10.1016/j.colsurfb.2025.114820
 Phloxine B-loaded polymersomes enable eradication of Pseudomonas aeruginosa and Staphylococcus aureus in antimicrobial photodynamic therapy.|https://dx.doi.org/10.1039/d5ra02238j
 Therapeutic potential of repaglinide-embedded chitosan hydrogel in promoting wound healing.|https://dx.doi.org/10.1016/j.reth.2025.04.021
+Mesenchymal Stem Cell-Derived Extracellular Vesicles Embedded in a Self-Adaptive Multifunctional Hydrogel for Rapid Healing of Infected Wounds.|https://dx.doi.org/10.1002/adhm.202500980
+The Preparation and Characterization of Electrospun Chitosan-Gelatin Nanofibers Containing Copper-Metal-Organic Frameworks Loaded with Curcumin and Chrysin as Antibacterial Wound Dressings.|https://dx.doi.org/10.1021/acsomega.4c08100
+Novel Antimicrobial-Decorated Polyelectrolytes as Versatile Building Blocks for Multifunctional Hydrogel Nano- and Microparticles.|https://dx.doi.org/10.1021/acsomega.5c02518
+Application of Novel Triazolium-Containing Hydrogels to Cotton Fabrics: Evaluation of Their Flame Retardancy and Antibacterial Properties.|https://dx.doi.org/10.1021/acsomega.5c00281
+Hybrid Pectin/Polydopamine Hydrogels with Photothermal Properties.|https://dx.doi.org/10.1021/acsomega.5c02084
+Synchronous bacterial barrier and exudate absorption: A novel dual-function dressing strategy for pin-site infection prevention.|https://dx.doi.org/10.1016/j.mtbio.2025.101833
