@@ -7,3 +7,4 @@ Prevalence, Antimicrobial Resistance, and Virulence Potential of Staphylococcus 
 Severe Influenza Patients Who Received Ventilator Management During the 2024 to 2025 Major Influenza-Endemic Season in a Tertiary Hospital in Japan.|https://dx.doi.org/10.2147/IMCRJ.S519471
 Species diversity, virulence, and antimicrobial resistance of the nasal staphylococcal and mammaliicoccal biota of reindeer.|https://dx.doi.org/10.1186/s12917-025-04680-5
 Resisting the resistance: the antimicrobial peptide DGL13K selects for small colony variants of Staphylococcus aureus that show increased resistance to its stereoisomer LGL13K, but not to DGL13K.|https://dx.doi.org/10.1128/jb.00505-24
+A Combined Aptamer Pulldown-DNAzyme Cleavage Assay for Intact Methicillin Resistant Staphylococcus aureus Cells.|https://dx.doi.org/10.1002/anie.202509598

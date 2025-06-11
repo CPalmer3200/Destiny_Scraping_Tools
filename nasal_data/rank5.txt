@@ -17,3 +17,11 @@ Risk factors for complications after reduction mammaplasty: a systematic review 
 Necrotizing fasciitis of the breast with extension to the chest wall myofascial layer in a lactating mother: a rare case report.|https://dx.doi.org/10.1016/j.ijscr.2025.111460
 Outcomes of a Virtual Medicine Hybrid Model for Postoperative Care Following Mastectomy and Immediate Tissue Expander Breast Reconstruction: A Retrospective Review.|https://dx.doi.org/10.1097/SAP.0000000000004392
 Safety of Combined Deep Inferior Epigastric Artery Perforator Flaps and Gynecologic Procedures.|https://dx.doi.org/10.1097/SAP.0000000000004388
+Comparative Outcomes of Proton versus Photon Post-Mastectomy Radiation Therapy in Pre-Pectoral Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1097/PRS.0000000000012232
+Assessing the Impact of Frailty on Patient-Reported Outcomes and Clinical Complications in Two-Stage Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1097/PRS.0000000000012233
+Pilot Study: A Prospective Placebo-control Trial Evaluating Topical Tranexamic Acid in Postmastectomy Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000006863
+Karydakis Flap as a Simple Surgical Method in the Treatment of Pilonidal Disease V.S Open Surgery with Average 30-month-follow up: A Clinical Trial.|https://dx.doi.org/10.47176/mjiri.39.12
+Brain Abscess Mimicking Brain Tumors: A Systematic Review of Individual Patient's Data.|https://dx.doi.org/10.1055/s-0045-1802623
+Clinical and economic burden of surgical site infections following selected surgeries in France.|https://dx.doi.org/10.1371/journal.pone.0324509
+Surgical Site Infection Owing to Mycobacterium mageritense After Immediate Breast Reconstruction Using a Deep Inferior Epigastric Perforator Flap.|https://dx.doi.org/10.1097/GOX.0000000000006823
+Regional analgesia techniques for postoperative pain after breast cancer surgery: a network meta-analysis.|https://dx.doi.org/10.1002/14651858.CD014818.pub2
