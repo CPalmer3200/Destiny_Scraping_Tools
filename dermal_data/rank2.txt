@@ -9,3 +9,6 @@ The combined impact of chronic kidney disease and ulcer severity on incident car
 Identification of biomarkers and potential drug targets in DFU based on fundamental experiments and multi-omics joint analysis.|https://dx.doi.org/10.3389/fphar.2025.1561179
 Comparing Clinical Outcomes after Toe Amputation and Toe-Sparing Surgery in Patients with Diabetic Foot Ulcer.|https://dx.doi.org/10.47176/mjiri.39.32
 Cost-of-Illness Analysis of Diabetic Foot Ulcer: A Prevalence-Based Approach in Southwest of Iran.|https://dx.doi.org/10.47176/mjiri.39.1
+An Endogenous Adenosine Triphosphate-Activated Hydrogel Prodrug System for Healing Multidrug-Resistant Bacteria Infected Diabetic Foot Ulcers.|https://dx.doi.org/10.1002/adhm.202500688
+Complete genome sequence of Staphylococcus aureus strain MD04 isolated from the foot ulcer of a patient with diabetes in rural southwestern Uganda.|https://dx.doi.org/10.1128/mra.00362-25
+Objective grading of peripheral vascular disease strongly predicts morbidity in microsurgical lower limb salvage.|https://dx.doi.org/10.1097/PRS.0000000000012246

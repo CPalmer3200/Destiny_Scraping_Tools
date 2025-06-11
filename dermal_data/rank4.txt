@@ -16,3 +16,5 @@ Novel Antimicrobial-Decorated Polyelectrolytes as Versatile Building Blocks for 
 Application of Novel Triazolium-Containing Hydrogels to Cotton Fabrics: Evaluation of Their Flame Retardancy and Antibacterial Properties.|https://dx.doi.org/10.1021/acsomega.5c00281
 Hybrid Pectin/Polydopamine Hydrogels with Photothermal Properties.|https://dx.doi.org/10.1021/acsomega.5c02084
 Synchronous bacterial barrier and exudate absorption: A novel dual-function dressing strategy for pin-site infection prevention.|https://dx.doi.org/10.1016/j.mtbio.2025.101833
+Mupirocin-Piperine Microemulsion Hydrogels Accelerate Healing of Infected Wounds through Deep Penetration and Biofilm Disruption.|https://dx.doi.org/10.1021/acs.molpharmaceut.5c00479
+Extracellular matrix-inspired natural polymer-based composite hydrogel dressings for infected wound healing.|https://dx.doi.org/10.1039/d5tb00981b
