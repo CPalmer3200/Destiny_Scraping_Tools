@@ -1,2 +1,3 @@
 Clostridioides difficile-related reactive arthritis: A scoping review of the literature.|https://dx.doi.org/10.1016/j.autrev.2025.103842
 Pore formation by the CDTb component of the Clostridioides difficile binary toxin is Ca(2+)-dependent.|https://dx.doi.org/10.1038/s42003-025-08343-x
+Tips and tricks for gut microbiota investigation using scanning electron microscopy (SEM): going from sample preparation to imaging and landscape analysis.|https://dx.doi.org/10.1080/19490976.2025.2512016
