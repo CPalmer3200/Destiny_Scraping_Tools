@@ -12,3 +12,6 @@ Cost-of-Illness Analysis of Diabetic Foot Ulcer: A Prevalence-Based Approach in 
 An Endogenous Adenosine Triphosphate-Activated Hydrogel Prodrug System for Healing Multidrug-Resistant Bacteria Infected Diabetic Foot Ulcers.|https://dx.doi.org/10.1002/adhm.202500688
 Complete genome sequence of Staphylococcus aureus strain MD04 isolated from the foot ulcer of a patient with diabetes in rural southwestern Uganda.|https://dx.doi.org/10.1128/mra.00362-25
 Objective grading of peripheral vascular disease strongly predicts morbidity in microsurgical lower limb salvage.|https://dx.doi.org/10.1097/PRS.0000000000012246
+Whole genome sequence data of Staphylococcus aureus strain MD03 isolated from foot ulcer of a 56 year old female diabetes patient in a tertiary hospital in South-western Uganda.|https://dx.doi.org/10.1016/j.dib.2025.111670
+Recent advances in NIR-II photothermal and photodynamic therapies for drug-resistant wound infections.|https://dx.doi.org/10.1016/j.mtbio.2025.101871
+[Analysis of the efficacy and mechanism of antibiotic-loaded bone cement in the treatment of diabetic foot ulcers in patients with tpye 2 diabetes mellitus].|https://dx.doi.org/10.3760/cma.j.cn112137-20250212-00319

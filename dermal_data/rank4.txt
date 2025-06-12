@@ -18,3 +18,5 @@ Hybrid Pectin/Polydopamine Hydrogels with Photothermal Properties.|https://dx.do
 Synchronous bacterial barrier and exudate absorption: A novel dual-function dressing strategy for pin-site infection prevention.|https://dx.doi.org/10.1016/j.mtbio.2025.101833
 Mupirocin-Piperine Microemulsion Hydrogels Accelerate Healing of Infected Wounds through Deep Penetration and Biofilm Disruption.|https://dx.doi.org/10.1021/acs.molpharmaceut.5c00479
 Extracellular matrix-inspired natural polymer-based composite hydrogel dressings for infected wound healing.|https://dx.doi.org/10.1039/d5tb00981b
+pH-responsive xanthan-glycerol hydrogel: An effective wound dressing for controlled amoxicillin delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145112
+Sulfonium-Based Polymers: Underestimated Moieties for Structural Modification in Versatile Bioapplications.|https://dx.doi.org/10.1021/acs.biomac.5c00635
