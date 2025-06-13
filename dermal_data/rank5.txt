@@ -11,3 +11,4 @@ The gut-lung axis and microbiome dysbiosis in non-tuberculous mycobacterial infe
 Valence Electron Fluctuation in a High-Entropy Oxide Heterojunction Enables Collaborative Photodynamic and Mild-Thermal Therapy for Cutaneous Biofilm Infections.|https://dx.doi.org/10.1021/acsnano.4c18444
 Magnetic microfiber hyperthermia for synergistic antimicrobial activity against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.mtbio.2025.101862
 Effects of Hxc-T2SS on the Phenotypic Features and Virulence of Pseudomonas aeruginosa PAO1.|https://dx.doi.org/10.1016/j.micpath.2025.107797
+Halogenated Sulfono-γ-AApeptides Modified Cationic AMPs Have Enhanced Stability and Therapeutic Potential against Clinically Important MDR Infections.|https://dx.doi.org/10.1021/acsinfecdis.5c00312
