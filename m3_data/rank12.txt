@@ -2,3 +2,5 @@ Clostridioides difficile-related reactive arthritis: A scoping review of the lit
 Pore formation by the CDTb component of the Clostridioides difficile binary toxin is Ca(2+)-dependent.|https://dx.doi.org/10.1038/s42003-025-08343-x
 Tips and tricks for gut microbiota investigation using scanning electron microscopy (SEM): going from sample preparation to imaging and landscape analysis.|https://dx.doi.org/10.1080/19490976.2025.2512016
 Methods of a Reproducible Mouse Model of Clostridioides difficile Infection to Investigate Novel Bacterial-Based Therapies.|https://dx.doi.org/10.1007/978-1-0716-4627-4_9
+The Overlooked Hazard: Clostridioides difficile in Preterm Infants and Immature Immune Systems-Harnessing Postbiotics for Safer Therapeutic Strategies.|https://dx.doi.org/10.1093/lambio/ovaf083
+Guiding Clostridioides difficile Infection Prevention Efforts in a Hospital Setting With AI.|https://dx.doi.org/10.1001/jamanetworkopen.2025.15213

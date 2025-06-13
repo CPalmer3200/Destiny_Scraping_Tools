@@ -2,3 +2,5 @@ Antimicrobial treatment for 7 versus 14 days in patients with bacteremia: a meta
 Clostridioides difficile evolution in a tertiary German hospital through a retrospective genomic characterization.|https://dx.doi.org/10.1007/s15010-025-02576-y
 Fidaxomicin Treatment of Clostridioides difficile Infections and Recurrences in Children and Adolescents: A Retrospective Multicenter Study.|https://dx.doi.org/10.1016/j.jpeds.2025.114681
 Caffeic acid phenethyl ester protects Clostridioides difficile infection by toxin inhibition and microbiota modulation.|https://dx.doi.org/10.7554/eLife.101757
+Evaluating Disparities in Recurrent Clostridioides difficile Infection (CDI) and Fecal Microbiota Transplant (FMT) Treatment using Geospatial and Social Vulnerability Analytic Tools.|https://dx.doi.org/10.1053/j.gastro.2025.05.028
+The ladder of regulatory stringency and balance: an application to the US FDA's regulation of bacterial live therapeutics.|https://dx.doi.org/10.1080/19490976.2025.2517377
