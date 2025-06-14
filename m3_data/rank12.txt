@@ -4,3 +4,4 @@ Tips and tricks for gut microbiota investigation using scanning electron microsc
 Methods of a Reproducible Mouse Model of Clostridioides difficile Infection to Investigate Novel Bacterial-Based Therapies.|https://dx.doi.org/10.1007/978-1-0716-4627-4_9
 The Overlooked Hazard: Clostridioides difficile in Preterm Infants and Immature Immune Systems-Harnessing Postbiotics for Safer Therapeutic Strategies.|https://dx.doi.org/10.1093/lambio/ovaf083
 Guiding Clostridioides difficile Infection Prevention Efforts in a Hospital Setting With AI.|https://dx.doi.org/10.1001/jamanetworkopen.2025.15213
+Innovative nucleic acid detection of Clostridioides difficile utilizing the PAM-unconventional, one-step LAMP/CRISPR-Cas12b detection platforms.|https://dx.doi.org/10.3389/fcimb.2025.1594271
