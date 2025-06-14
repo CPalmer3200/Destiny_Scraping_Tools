@@ -21,3 +21,7 @@ Extracellular matrix-inspired natural polymer-based composite hydrogel dressings
 pH-responsive xanthan-glycerol hydrogel: An effective wound dressing for controlled amoxicillin delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145112
 Sulfonium-Based Polymers: Underestimated Moieties for Structural Modification in Versatile Bioapplications.|https://dx.doi.org/10.1021/acs.biomac.5c00635
 Coaxial Fibrous Dressing Enabling Sequential NO/H(2) Release for Temporally Programmed Antibacterial and Healing-Promoting Functions in Infected Diabetic Wound Treatment.|https://dx.doi.org/10.1021/acsami.5c07099
+A Multifunctional Double-Network Hydrogel Based on Bullfrog Skin Collagen: High-Value Utilization of Aquaculture By-Products.|https://dx.doi.org/10.3390/foods14111926
+The Effect of Quercetin Loading in Polylactic Acid-Based Electrospun Fibers on Their Antioxidant, Antibacterial and Antitumor Properties.|https://dx.doi.org/10.3390/molecules30112307
+Are Black Phosphorus Hydrogels Antimicrobial Without Photonic Activation?|https://dx.doi.org/10.3390/molecules30112292
+Synergy of Tetracyclines and Potassium Azeloyl Diglycinate (Azeloglycine) in Hydrogels: Evaluation of Stability, Antimicrobial Activity, and Physicochemical Properties.|https://dx.doi.org/10.3390/ijms26115239

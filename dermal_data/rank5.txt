@@ -12,3 +12,5 @@ Valence Electron Fluctuation in a High-Entropy Oxide Heterojunction Enables Coll
 Magnetic microfiber hyperthermia for synergistic antimicrobial activity against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.mtbio.2025.101862
 Effects of Hxc-T2SS on the Phenotypic Features and Virulence of Pseudomonas aeruginosa PAO1.|https://dx.doi.org/10.1016/j.micpath.2025.107797
 Halogenated Sulfono-γ-AApeptides Modified Cationic AMPs Have Enhanced Stability and Therapeutic Potential against Clinically Important MDR Infections.|https://dx.doi.org/10.1021/acsinfecdis.5c00312
+Unveiling phenolic content, antibacterial, and antibiofilm potential of sacha inchi (Plukenetia volubilis L.) seed shell extracts against Staphylococcus aureus.|https://dx.doi.org/10.7717/peerj.19524
+Lavandula pedunculata subsp. atlantica: A Multifunctional Essential Oil for Potentially Combating Microbial Infections and Inflammatory Processes.|https://dx.doi.org/10.3390/molecules30112267

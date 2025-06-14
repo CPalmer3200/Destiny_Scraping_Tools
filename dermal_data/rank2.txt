@@ -16,3 +16,5 @@ Whole genome sequence data of Staphylococcus aureus strain MD03 isolated from fo
 Recent advances in NIR-II photothermal and photodynamic therapies for drug-resistant wound infections.|https://dx.doi.org/10.1016/j.mtbio.2025.101871
 [Analysis of the efficacy and mechanism of antibiotic-loaded bone cement in the treatment of diabetic foot ulcers in patients with tpye 2 diabetes mellitus].|https://dx.doi.org/10.3760/cma.j.cn112137-20250212-00319
 GLP-1 receptor agonists and hospitalization due to infections in patients with type 2 diabetes: A nationwide cohort study.|https://dx.doi.org/10.1016/j.diabres.2025.112324
+Photocatalysis and Photodynamic Therapy in Diabetic Foot Ulcers (DFUs) Care: A Novel Approach to Infection Control and Tissue Regeneration.|https://dx.doi.org/10.3390/molecules30112323
+Minimally Invasive Drainage for Diabetic Foot Phlegmon.|https://dx.doi.org/10.3390/jcm14113918
