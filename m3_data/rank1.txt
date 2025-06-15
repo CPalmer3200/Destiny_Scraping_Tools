@@ -4,3 +4,5 @@ Fidaxomicin Treatment of Clostridioides difficile Infections and Recurrences in 
 Caffeic acid phenethyl ester protects Clostridioides difficile infection by toxin inhibition and microbiota modulation.|https://dx.doi.org/10.7554/eLife.101757
 Evaluating Disparities in Recurrent Clostridioides difficile Infection (CDI) and Fecal Microbiota Transplant (FMT) Treatment using Geospatial and Social Vulnerability Analytic Tools.|https://dx.doi.org/10.1053/j.gastro.2025.05.028
 The ladder of regulatory stringency and balance: an application to the US FDA's regulation of bacterial live therapeutics.|https://dx.doi.org/10.1080/19490976.2025.2517377
+Extracellular DNA filaments associated with surface polysaccharide II give Clostridioides difficile biofilm matrix a network-like structure.|https://dx.doi.org/10.1038/s41522-025-00751-5
+Receptor-targeted Lactococcus lactis mitigate Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.micres.2025.128221
