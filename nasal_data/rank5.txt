@@ -25,3 +25,6 @@ Brain Abscess Mimicking Brain Tumors: A Systematic Review of Individual Patient'
 Clinical and economic burden of surgical site infections following selected surgeries in France.|https://dx.doi.org/10.1371/journal.pone.0324509
 Surgical Site Infection Owing to Mycobacterium mageritense After Immediate Breast Reconstruction Using a Deep Inferior Epigastric Perforator Flap.|https://dx.doi.org/10.1097/GOX.0000000000006823
 Regional analgesia techniques for postoperative pain after breast cancer surgery: a network meta-analysis.|https://dx.doi.org/10.1002/14651858.CD014818.pub2
+Development and external validation of a nomogram for predicting sepsis following flexible ureteroscopy.|https://dx.doi.org/10.1186/s40001-025-02754-6
+A commentary on "Impact of previous COVID-19 infection on postoperative complications and functional recovery: a 1-year follow-up ambispective cohort study".|https://dx.doi.org/10.1097/JS9.0000000000002619
+Outcomes of ambulatory breast surgery among Filipino patients with stage I-III invasive breast cancer: a single institution experience in Cebu, Philippines.|https://dx.doi.org/10.3332/ecancer.2025.1890

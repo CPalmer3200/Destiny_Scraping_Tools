@@ -5,3 +5,10 @@ Proteome-wide reverse vaccinology to identify potential vaccine candidates again
 A Novel Interaction of Staphylococcal Protein A With Human Fibronectin and Its Implications in Host Cell Adhesion.|https://dx.doi.org/10.1096/fj.202500086R
 Enantioselective effects of chiral antibiotics on antibiotic resistance gene dissemination and risk in activated sludge.|https://dx.doi.org/10.1016/j.biortech.2025.132749
 Detecting and classifying metabolic activity of Staphylococcus aureus by D(2)O-probed single-cell Raman spectroscopy and machine learning.|https://dx.doi.org/10.1016/j.bsheal.2025.03.004
+Monoclonal antibody neutralizes Staphylococcus aureus serine protease-like protein B (SplB)-induced pathology.|https://dx.doi.org/10.1128/iai.00171-25
+Pathogen-specific host response in critically ill patients with blood stream infections: a nested case-control study.|https://dx.doi.org/10.1016/j.ebiom.2025.105799
+Sustainable production and antibacterial efficacy of silver nanoparticles on cellulose nanofibers from mushroom waste.|https://dx.doi.org/10.1039/d5ra02087e
+The secreted proteases aur, scpA, sspA and sspB suppress the virulence of Staphylococcus aureus USA300 by shaping the extracellular proteome.|https://dx.doi.org/10.1080/21505594.2025.2514790
+A case of infectious endocarditis and vertebral discitis caused by Streptococcus pneumoniae serotype 23A.|https://dx.doi.org/10.1016/j.jiac.2025.102749
+Systematic mapping review of preclinical and clinical studies of Staphylococcus aureus vaccines.|https://dx.doi.org/10.1016/j.vaccine.2025.127333
+Lipid-coated nanoparticles enhance the delivery of bacterial virulence factors as a potent toxoid vaccine platform against bacterial infections.|https://dx.doi.org/10.1016/j.celrep.2025.115786
