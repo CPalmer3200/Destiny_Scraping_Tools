@@ -6,3 +6,4 @@ Evaluating Disparities in Recurrent Clostridioides difficile Infection (CDI) and
 The ladder of regulatory stringency and balance: an application to the US FDA's regulation of bacterial live therapeutics.|https://dx.doi.org/10.1080/19490976.2025.2517377
 Extracellular DNA filaments associated with surface polysaccharide II give Clostridioides difficile biofilm matrix a network-like structure.|https://dx.doi.org/10.1038/s41522-025-00751-5
 Receptor-targeted Lactococcus lactis mitigate Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.micres.2025.128221
+Efficacy, safety, pharmacokinetics, and associated microbiome changes of ibezapolstat compared with vancomycin in adults with Clostridioides difficile infection: a phase 2b, randomised, double-blind, active-controlled, multicentre study.|https://dx.doi.org/10.1016/j.lanmic.2025.101126

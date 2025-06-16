@@ -1,0 +1,1 @@
+A time-series analysis approach to quantify change in antibiotic resistance and antibiotic consumption during COVID-19 Epidemics: a multicenter cross-national ecological study on behalf of QUARANTINE (QUantifying change in Antibiotic Resistance, ANTibiotic use, and INfection control during COVID-19 Epidemics) study project.|https://dx.doi.org/10.1016/j.cmi.2025.06.009
