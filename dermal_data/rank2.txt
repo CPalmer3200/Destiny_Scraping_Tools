@@ -18,3 +18,4 @@ Recent advances in NIR-II photothermal and photodynamic therapies for drug-resis
 GLP-1 receptor agonists and hospitalization due to infections in patients with type 2 diabetes: A nationwide cohort study.|https://dx.doi.org/10.1016/j.diabres.2025.112324
 Photocatalysis and Photodynamic Therapy in Diabetic Foot Ulcers (DFUs) Care: A Novel Approach to Infection Control and Tissue Regeneration.|https://dx.doi.org/10.3390/molecules30112323
 Minimally Invasive Drainage for Diabetic Foot Phlegmon.|https://dx.doi.org/10.3390/jcm14113918
+Successful treatment of severe venous leg ulcers (VLUs) and diabetic foot ulcers (DFUs) using ozone.|https://dx.doi.org/10.1016/j.jvsv.2025.102278

@@ -14,3 +14,6 @@ Effects of Hxc-T2SS on the Phenotypic Features and Virulence of Pseudomonas aeru
 Halogenated Sulfono-γ-AApeptides Modified Cationic AMPs Have Enhanced Stability and Therapeutic Potential against Clinically Important MDR Infections.|https://dx.doi.org/10.1021/acsinfecdis.5c00312
 Unveiling phenolic content, antibacterial, and antibiofilm potential of sacha inchi (Plukenetia volubilis L.) seed shell extracts against Staphylococcus aureus.|https://dx.doi.org/10.7717/peerj.19524
 Lavandula pedunculata subsp. atlantica: A Multifunctional Essential Oil for Potentially Combating Microbial Infections and Inflammatory Processes.|https://dx.doi.org/10.3390/molecules30112267
+Novel non-invasive and reusable nanoparticle-based photothermal patch for antibacterial, antibiofilm, and anticancer activities via the synergistic effects of photothermal-induced photodynamic therapy.|https://dx.doi.org/10.1016/j.ijpharm.2025.125857
+Challenges in formulating transdermal systems for treating chronic skin infections.|https://dx.doi.org/10.1016/j.coph.2025.102540
+Universal versus targeted chlorhexidine and mupirocin decolonisation and clinical and molecular epidemiology of Staphylococcus epidermidis bloodstream infections in patients in intensive care in Scotland, UK: a controlled time-series and longitudinal genotypic study.|https://dx.doi.org/10.1016/j.lanmic.2025.101118
