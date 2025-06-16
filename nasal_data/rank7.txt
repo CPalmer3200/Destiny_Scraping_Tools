@@ -38,3 +38,7 @@ The Role of Skin Dysbiosis and Quorum Sensing in Atopic Dermatitis.|https://dx.d
 Colonizing Bacteria Aggravate Inflammation, Cytotoxicity and Immune Defense During Influenza A Virus Infection.|https://dx.doi.org/10.3390/ijms26115364
 Deciphering the Complex Relationships Between the Hemostasis System and Infective Endocarditis.|https://dx.doi.org/10.3390/jcm14113965
 Diagnostic and Treatment Challenges in the Clinical Curing of MRSA Coxitis in a Tetraplegic Immunocompromised Patient: A Case Report and Literature Review.|https://dx.doi.org/10.3390/jcm14113887
+The effect of five versus two personnel on bacterial air contamination during preparation of sterile surgical goods in the operating room: a randomised controlled trial.|https://dx.doi.org/10.1186/s13756-025-01589-4
+Ultrasonic chamber combined with photodynamic therapy inhibits bacterial growth on dental devices.|https://dx.doi.org/10.1016/j.pdpdt.2025.104669
+Cathelicidin expression in the pathogenesis of atopic dermatitis and the therapeutic potential of vitamin D.|https://dx.doi.org/10.1016/j.nutres.2025.05.006
+A time-series analysis approach to quantify change in antibiotic resistance and antibiotic consumption during COVID-19 Epidemics: a multicenter cross-national ecological study on behalf of QUARANTINE (QUantifying change in Antibiotic Resistance, ANTibiotic use, and INfection control during COVID-19 Epidemics) study project.|https://dx.doi.org/10.1016/j.cmi.2025.06.009
