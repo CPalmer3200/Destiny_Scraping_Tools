@@ -26,3 +26,5 @@ The Effect of Quercetin Loading in Polylactic Acid-Based Electrospun Fibers on T
 Are Black Phosphorus Hydrogels Antimicrobial Without Photonic Activation?|https://dx.doi.org/10.3390/molecules30112292
 Synergy of Tetracyclines and Potassium Azeloyl Diglycinate (Azeloglycine) in Hydrogels: Evaluation of Stability, Antimicrobial Activity, and Physicochemical Properties.|https://dx.doi.org/10.3390/ijms26115239
 pH-sensitive magnetic nanocomposite hydrogels chitosan/hyaluronic acid/Fe(3)O(4): Ciprofloxacin release, kinetics and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145211
+Smart pH-Responsive Conductive Polyurethane Fibers: Doping Strategies for Advanced Wound Care.|https://dx.doi.org/10.1021/acsami.5c07297
+Development of Substrate-Independent Antifouling and Bactericidal Surfaces Using Visible Light Cross-Linked Hydrogel Coatings for Biomedical Applications.|https://dx.doi.org/10.1002/adhm.202402565
