@@ -6,3 +6,4 @@ The Role of Skin Dysbiosis and Quorum Sensing in Atopic Dermatitis.|https://dx.d
 Skin microbiome analysis of a junctional epidermolysis bullosa patient treated with genetically modified stem cells.|https://dx.doi.org/10.1111/ddg.15776
 From Itchy Skin to Wheezing: Potential biomarkers and targeted drugs for Atopic Dermatitis and Asthma in Children.|https://dx.doi.org/10.1016/j.rmed.2025.108212
 Cathelicidin expression in the pathogenesis of atopic dermatitis and the therapeutic potential of vitamin D.|https://dx.doi.org/10.1016/j.nutres.2025.05.006
+Skin levels of toxic shock syndrome toxin-1 predict the severity of atopic dermatitis.|https://dx.doi.org/10.1016/j.jaci.2025.05.018

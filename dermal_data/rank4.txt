@@ -28,3 +28,5 @@ Synergy of Tetracyclines and Potassium Azeloyl Diglycinate (Azeloglycine) in Hyd
 pH-sensitive magnetic nanocomposite hydrogels chitosan/hyaluronic acid/Fe(3)O(4): Ciprofloxacin release, kinetics and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145211
 Smart pH-Responsive Conductive Polyurethane Fibers: Doping Strategies for Advanced Wound Care.|https://dx.doi.org/10.1021/acsami.5c07297
 Development of Substrate-Independent Antifouling and Bactericidal Surfaces Using Visible Light Cross-Linked Hydrogel Coatings for Biomedical Applications.|https://dx.doi.org/10.1002/adhm.202402565
+Methicillin-resistant Staphylococcus aureus (MRSA) infection of the temple region of the face: Case report.|https://dx.doi.org/10.1097/MD.0000000000042824
+Gelatin modified nonisocyanate polyurethane/siloxane functionalized with quaternary ammonium groups as antibacterial wound dressing membrane.|https://dx.doi.org/10.1080/09205063.2025.2518305

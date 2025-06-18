@@ -17,3 +17,5 @@ Lavandula pedunculata subsp. atlantica: A Multifunctional Essential Oil for Pote
 Novel non-invasive and reusable nanoparticle-based photothermal patch for antibacterial, antibiofilm, and anticancer activities via the synergistic effects of photothermal-induced photodynamic therapy.|https://dx.doi.org/10.1016/j.ijpharm.2025.125857
 Challenges in formulating transdermal systems for treating chronic skin infections.|https://dx.doi.org/10.1016/j.coph.2025.102540
 Universal versus targeted chlorhexidine and mupirocin decolonisation and clinical and molecular epidemiology of Staphylococcus epidermidis bloodstream infections in patients in intensive care in Scotland, UK: a controlled time-series and longitudinal genotypic study.|https://dx.doi.org/10.1016/j.lanmic.2025.101118
+Sodium butyrate promoted the skin wound healing in turbot,Scophthalmus maximus L.|https://dx.doi.org/10.1016/j.fsi.2025.110500
+Spatiotemporal distribution of Mycobacterium ulcerans and other Mycolactone Producing Mycobacteria in Southeastern United States.|https://dx.doi.org/10.1080/22221751.2025.2521853
