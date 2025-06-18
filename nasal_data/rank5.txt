@@ -28,3 +28,8 @@ Regional analgesia techniques for postoperative pain after breast cancer surgery
 Development and external validation of a nomogram for predicting sepsis following flexible ureteroscopy.|https://dx.doi.org/10.1186/s40001-025-02754-6
 A commentary on "Impact of previous COVID-19 infection on postoperative complications and functional recovery: a 1-year follow-up ambispective cohort study".|https://dx.doi.org/10.1097/JS9.0000000000002619
 Outcomes of ambulatory breast surgery among Filipino patients with stage I-III invasive breast cancer: a single institution experience in Cebu, Philippines.|https://dx.doi.org/10.3332/ecancer.2025.1890
+From cosmetic to critical: breast implant rupture revealing invasive lobular breast carcinoma.|https://dx.doi.org/10.1136/bcr-2025-265546
+Closed Expander Salvage With Dual-port Tissue Expander in Implant-based Breast Reconstruction for High Body Mass Index and Ptotic Patients.|https://dx.doi.org/10.1097/GOX.0000000000006845
+Comedications Associated with Immune-Related Adverse Events from Immune-Checkpoint Inhibitors.|https://dx.doi.org/10.1002/cpt.3721
+Study of Treatment Modalities and Clinical Outcomes of Screen-Detected Cancers at a Tertiary Care Unit in the UK.|https://dx.doi.org/10.7759/cureus.84076
+Use of Tissue Expander and Breast Implant in Postmastectomy Reconstruction: Presentation of a Clinical Case.|https://dx.doi.org/10.7759/cureus.84168

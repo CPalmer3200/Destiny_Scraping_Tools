@@ -13,3 +13,4 @@ Dupilumab treatment has no effect on the nasal microbiome in patients with NSAID
 Efficacy of Mupirocin Nasal Irrigation Versus Saline Nasal Irrigation in Acute Rhinosinusitis: A Randomized Double-Blind Study.|https://dx.doi.org/10.1007/s12070-025-05527-z
 Mechanisms of 10-Hydroxyoctadecanoic acid resistance in Streptococcus pneumoniae.|https://dx.doi.org/10.1101/2025.06.06.658354
 Staphylococci in high resolution: Capturing diversity within the human nasal microbiota.|https://dx.doi.org/10.1016/j.celrep.2025.115854
+Associations between total protein, globulin, and nasal Methicillin-Resistant Staphylococcus aureus (MRSA) colonization in US adults: results from the national health and nutrition examination survey 2001-2004.|https://dx.doi.org/10.3389/fimmu.2025.1585718

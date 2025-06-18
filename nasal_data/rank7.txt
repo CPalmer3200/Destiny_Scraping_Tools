@@ -42,3 +42,12 @@ The effect of five versus two personnel on bacterial air contamination during pr
 Ultrasonic chamber combined with photodynamic therapy inhibits bacterial growth on dental devices.|https://dx.doi.org/10.1016/j.pdpdt.2025.104669
 Cathelicidin expression in the pathogenesis of atopic dermatitis and the therapeutic potential of vitamin D.|https://dx.doi.org/10.1016/j.nutres.2025.05.006
 A time-series analysis approach to quantify change in antibiotic resistance and antibiotic consumption during COVID-19 Epidemics: a multicenter cross-national ecological study on behalf of QUARANTINE (QUantifying change in Antibiotic Resistance, ANTibiotic use, and INfection control during COVID-19 Epidemics) study project.|https://dx.doi.org/10.1016/j.cmi.2025.06.009
+Methicillin-resistant Staphylococcus aureus (MRSA) infection of the temple region of the face: Case report.|https://dx.doi.org/10.1097/MD.0000000000042824
+Microbiological monitoring of the hospital environment: risk assessment and strategies in infection control systems.|https://dx.doi.org/10.36740/WLek/205362
+Diversity and antibiotic susceptibility profiles of bacterial isolates from wound infections in patients at the surgical unit of Kisii teaching and referral hospital, Kenya.|https://dx.doi.org/10.1371/journal.pone.0326048
+Post-Surgical Abdominal Myonecrosis: The Unusual Role of Candida albicans.|https://dx.doi.org/10.7759/cureus.84273
+Management Strategies for Chronic Suppurative Otitis Media and Why They Fail.|https://dx.doi.org/10.1007/s10162-025-00996-z
+Development of Substrate-Independent Antifouling and Bactericidal Surfaces Using Visible Light Cross-Linked Hydrogel Coatings for Biomedical Applications.|https://dx.doi.org/10.1002/adhm.202402565
+Microbiological colonization of the pancreatic tumor affects postoperative complications and outcome after pancreatic surgery.|https://dx.doi.org/10.3389/fcimb.2025.1521952
+A Rare Case of Orf Virus Precipitating Methicillin-Resistant Staphylococcus Aureus Bacteremia Superinfection Leading to Native Hip Joint Septic Arthritis.|https://dx.doi.org/10.13107/jocr.2025.v15.i06.5672
+Necrotizing Fasciitis Caused by Gas-producing Methicillin-sensitive Staphylococcus aureus: A Case Report.|https://dx.doi.org/10.13107/jocr.2025.v15.i06.5712
