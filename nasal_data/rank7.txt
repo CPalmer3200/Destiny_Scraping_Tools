@@ -51,3 +51,4 @@ Development of Substrate-Independent Antifouling and Bactericidal Surfaces Using
 Microbiological colonization of the pancreatic tumor affects postoperative complications and outcome after pancreatic surgery.|https://dx.doi.org/10.3389/fcimb.2025.1521952
 A Rare Case of Orf Virus Precipitating Methicillin-Resistant Staphylococcus Aureus Bacteremia Superinfection Leading to Native Hip Joint Septic Arthritis.|https://dx.doi.org/10.13107/jocr.2025.v15.i06.5672
 Necrotizing Fasciitis Caused by Gas-producing Methicillin-sensitive Staphylococcus aureus: A Case Report.|https://dx.doi.org/10.13107/jocr.2025.v15.i06.5712
+Deep Infections After Open and Closed Fractures.|https://dx.doi.org/10.2106/JBJS.24.01249

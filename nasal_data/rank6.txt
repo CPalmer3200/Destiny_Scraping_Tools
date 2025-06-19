@@ -12,3 +12,4 @@ The secreted proteases aur, scpA, sspA and sspB suppress the virulence of Staphy
 A case of infectious endocarditis and vertebral discitis caused by Streptococcus pneumoniae serotype 23A.|https://dx.doi.org/10.1016/j.jiac.2025.102749
 Systematic mapping review of preclinical and clinical studies of Staphylococcus aureus vaccines.|https://dx.doi.org/10.1016/j.vaccine.2025.127333
 Lipid-coated nanoparticles enhance the delivery of bacterial virulence factors as a potent toxoid vaccine platform against bacterial infections.|https://dx.doi.org/10.1016/j.celrep.2025.115786
+Identification of Effective Inhibitors against Epsilon Toxin (ETX) of Clostridium perfringens: Virtual Screening and Molecular Dynamics Simulation.|https://dx.doi.org/10.1016/j.toxicon.2025.108463

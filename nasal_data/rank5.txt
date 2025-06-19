@@ -33,3 +33,4 @@ Closed Expander Salvage With Dual-port Tissue Expander in Implant-based Breast R
 Comedications Associated with Immune-Related Adverse Events from Immune-Checkpoint Inhibitors.|https://dx.doi.org/10.1002/cpt.3721
 Study of Treatment Modalities and Clinical Outcomes of Screen-Detected Cancers at a Tertiary Care Unit in the UK.|https://dx.doi.org/10.7759/cureus.84076
 Use of Tissue Expander and Breast Implant in Postmastectomy Reconstruction: Presentation of a Clinical Case.|https://dx.doi.org/10.7759/cureus.84168
+Local Antibiotic Delivery Systems for Infection Prophylaxis in Implant-Based Breast Reconstruction: What Is the Evidence?|https://dx.doi.org/10.1097/SAP.0000000000004416

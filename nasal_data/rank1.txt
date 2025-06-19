@@ -2,3 +2,5 @@ Intranasal Testing and Treatment for Staphylococcus aureus With Intravenous Vanc
 Lack of Spontaneous and Adaptive Resistance Development in Staphylococcus aureus Against the Antimicrobial Peptide LTX-109.|https://dx.doi.org/10.3390/antibiotics14050492
 Staphylococcus aureus: A Review of the Pathogenesis and Virulence Mechanisms.|https://dx.doi.org/10.3390/antibiotics14050470
 Universal versus targeted chlorhexidine and mupirocin decolonisation and clinical and molecular epidemiology of Staphylococcus epidermidis bloodstream infections in patients in intensive care in Scotland, UK: a controlled time-series and longitudinal genotypic study.|https://dx.doi.org/10.1016/j.lanmic.2025.101118
+Uncovering the silent public health threat: nasal carriers of linezolid-resistant, vancomycin-intermediate and mupirocin-resistant MRSA among healthcare workers in a tertiary care hospital in Central India.|https://dx.doi.org/10.3205/dgkh000547
+Role of Staphylococcus aureus Nasal Carriage in Uremic Pruritus and Infection in Hemodialysis Patients.|https://dx.doi.org/10.1111/ijd.17904
