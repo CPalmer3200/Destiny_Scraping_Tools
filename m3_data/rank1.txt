@@ -8,3 +8,5 @@ Extracellular DNA filaments associated with surface polysaccharide II give Clost
 Receptor-targeted Lactococcus lactis mitigate Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.micres.2025.128221
 Efficacy, safety, pharmacokinetics, and associated microbiome changes of ibezapolstat compared with vancomycin in adults with Clostridioides difficile infection: a phase 2b, randomised, double-blind, active-controlled, multicentre study.|https://dx.doi.org/10.1016/j.lanmic.2025.101126
 Fecal Microbiota Transplantation Versus Vancomycin for Primary Clostridioides difficile Infection : A Randomized Controlled Trial.|https://dx.doi.org/10.7326/ANNALS-24-03285
+Probiotics Ameliorate Histological Alterations and Prevent Increases in Cytokine and Toxin Levels in Mice Infected with Various Clostridioides difficile Strains.|https://dx.doi.org/10.1007/s12602-025-10586-3
+Combination of mitomycin C and low-dose metronidazole synergistically against Clostridioides difficile infection and recurrence prevention.|https://dx.doi.org/10.1128/aac.00515-25

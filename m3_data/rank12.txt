@@ -6,3 +6,5 @@ The Overlooked Hazard: Clostridioides difficile in Preterm Infants and Immature 
 Guiding Clostridioides difficile Infection Prevention Efforts in a Hospital Setting With AI.|https://dx.doi.org/10.1001/jamanetworkopen.2025.15213
 Innovative nucleic acid detection of Clostridioides difficile utilizing the PAM-unconventional, one-step LAMP/CRISPR-Cas12b detection platforms.|https://dx.doi.org/10.3389/fcimb.2025.1594271
 Risk factors and outcomes of Clostridioides difficile infection in patients with colorectal cancer: critical perspective in management.|https://dx.doi.org/10.1186/s13099-025-00717-0
+Clostridioides difficile in Honduras: a genomic and phenotypic characterization of the persistent RT027 and emergent RT002 genotypes.|https://dx.doi.org/10.1016/j.jhin.2025.06.001
+Pseudomembranous Colitis: Unveiling an Infrequent Culprit Beyond Clostridium difficile-A Case Report.|https://dx.doi.org/10.1177/23247096251347401
