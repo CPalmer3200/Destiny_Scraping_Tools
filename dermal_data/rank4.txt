@@ -30,3 +30,6 @@ Smart pH-Responsive Conductive Polyurethane Fibers: Doping Strategies for Advanc
 Development of Substrate-Independent Antifouling and Bactericidal Surfaces Using Visible Light Cross-Linked Hydrogel Coatings for Biomedical Applications.|https://dx.doi.org/10.1002/adhm.202402565
 Methicillin-resistant Staphylococcus aureus (MRSA) infection of the temple region of the face: Case report.|https://dx.doi.org/10.1097/MD.0000000000042824
 Gelatin modified nonisocyanate polyurethane/siloxane functionalized with quaternary ammonium groups as antibacterial wound dressing membrane.|https://dx.doi.org/10.1080/09205063.2025.2518305
+Innovative MRSA-infected wound repair strategy: NIR-triggered controllable NO releasing from plant extracts quercetin composite chitosan/hyaluronic acid hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145326
+Experimental and Computational Study of Injectable Iron(III)/Ultrashort Peptide Hydrogels: A Candidate for Ferroptosis-Induced Treatment of Bacterial Infections.|https://dx.doi.org/10.1002/smsc.202400618
+Development of Nanofiber Mats Impregnated With Ferula assa-foetida Essential Oil Nanogel for Antibacterial Wound Care.|https://dx.doi.org/10.1155/ijbm/1436095

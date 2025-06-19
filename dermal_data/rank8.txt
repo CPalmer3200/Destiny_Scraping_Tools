@@ -2,3 +2,5 @@ Enantioselective effects of chiral antibiotics on antibiotic resistance gene dis
 Production of probiotic garden cress (Lepidium Sativum) using Bifidobacterium Bifidum and its evaluation of nutritional value, biocontrol and growth rate ability.|https://dx.doi.org/10.1371/journal.pone.0322552
 Efficacy of Mupirocin Nasal Irrigation Versus Saline Nasal Irrigation in Acute Rhinosinusitis: A Randomized Double-Blind Study.|https://dx.doi.org/10.1007/s12070-025-05527-z
 Genomic and Phenotypic Characterization of Mupirocin Resistant Staphylococcus aureus Clinical Isolates.|https://dx.doi.org/10.1101/2025.04.16.648996
+Identification of Effective Inhibitors against Epsilon Toxin (ETX) of Clostridium perfringens: Virtual Screening and Molecular Dynamics Simulation.|https://dx.doi.org/10.1016/j.toxicon.2025.108463
+Uncovering the silent public health threat: nasal carriers of linezolid-resistant, vancomycin-intermediate and mupirocin-resistant MRSA among healthcare workers in a tertiary care hospital in Central India.|https://dx.doi.org/10.3205/dgkh000547

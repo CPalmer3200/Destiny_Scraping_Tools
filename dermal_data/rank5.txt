@@ -19,3 +19,5 @@ Challenges in formulating transdermal systems for treating chronic skin infectio
 Universal versus targeted chlorhexidine and mupirocin decolonisation and clinical and molecular epidemiology of Staphylococcus epidermidis bloodstream infections in patients in intensive care in Scotland, UK: a controlled time-series and longitudinal genotypic study.|https://dx.doi.org/10.1016/j.lanmic.2025.101118
 Sodium butyrate promoted the skin wound healing in turbot,Scophthalmus maximus L.|https://dx.doi.org/10.1016/j.fsi.2025.110500
 Spatiotemporal distribution of Mycobacterium ulcerans and other Mycolactone Producing Mycobacteria in Southeastern United States.|https://dx.doi.org/10.1080/22221751.2025.2521853
+Salt-Tolerant, Protease-Stable and Non-Resistance Developing Cationic AMPs for Combatting Planktonic MRSA and its Biofilms.|https://dx.doi.org/10.1021/acsmedchemlett.5c00121
+The Microbiome in Hidradenitis Suppurativa Tunnels: A Systematic Review.|https://dx.doi.org/10.1111/ijd.17892
