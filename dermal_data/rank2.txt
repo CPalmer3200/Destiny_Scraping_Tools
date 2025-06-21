@@ -19,3 +19,5 @@ GLP-1 receptor agonists and hospitalization due to infections in patients with t
 Photocatalysis and Photodynamic Therapy in Diabetic Foot Ulcers (DFUs) Care: A Novel Approach to Infection Control and Tissue Regeneration.|https://dx.doi.org/10.3390/molecules30112323
 Minimally Invasive Drainage for Diabetic Foot Phlegmon.|https://dx.doi.org/10.3390/jcm14113918
 Successful treatment of severe venous leg ulcers (VLUs) and diabetic foot ulcers (DFUs) using ozone.|https://dx.doi.org/10.1016/j.jvsv.2025.102278
+Clinical evaluation of orthoplastic limb salvage protocol using anterolateral femoral free flap and kickstand fixation: A retrospective case-control study.|https://dx.doi.org/10.1016/j.foot.2025.102176
+CLOSE-UP - a favourable protocol for limb-sparing surgery of diabetic foot osteomyelitis.|https://dx.doi.org/10.5194/jbji-10-199-2025

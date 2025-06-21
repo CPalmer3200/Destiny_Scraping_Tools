@@ -33,3 +33,7 @@ Gelatin modified nonisocyanate polyurethane/siloxane functionalized with quatern
 Innovative MRSA-infected wound repair strategy: NIR-triggered controllable NO releasing from plant extracts quercetin composite chitosan/hyaluronic acid hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145326
 Experimental and Computational Study of Injectable Iron(III)/Ultrashort Peptide Hydrogels: A Candidate for Ferroptosis-Induced Treatment of Bacterial Infections.|https://dx.doi.org/10.1002/smsc.202400618
 Development of Nanofiber Mats Impregnated With Ferula assa-foetida Essential Oil Nanogel for Antibacterial Wound Care.|https://dx.doi.org/10.1155/ijbm/1436095
+One step synthesis of Ag nanoparticles incorporated PVA nanocomposite via plasma reduction route.|https://dx.doi.org/10.1038/s41598-025-03700-6
+Metal-carbon dual network reinforced bismuth-based chitosan hydrogels for improved photoresponsiveness, antibacterial activity, and wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145376
+Single-atom silver-borophene hybrid hydrogels for electrically stimulated wound healing: a multifunctional antibacterial platform.|https://dx.doi.org/10.1039/d5bm00609k
+An Antibacterial and Anti-Inflammatory Hemostatic Adhesive with Dual Zn(2+) and NO Release for the Neurovascular Electrostimulation of Infected Diabetic Wounds.|https://dx.doi.org/10.1002/adhm.202502097
