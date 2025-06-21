@@ -10,3 +10,5 @@ Efficacy, safety, pharmacokinetics, and associated microbiome changes of ibezapo
 Fecal Microbiota Transplantation Versus Vancomycin for Primary Clostridioides difficile Infection : A Randomized Controlled Trial.|https://dx.doi.org/10.7326/ANNALS-24-03285
 Probiotics Ameliorate Histological Alterations and Prevent Increases in Cytokine and Toxin Levels in Mice Infected with Various Clostridioides difficile Strains.|https://dx.doi.org/10.1007/s12602-025-10586-3
 Combination of mitomycin C and low-dose metronidazole synergistically against Clostridioides difficile infection and recurrence prevention.|https://dx.doi.org/10.1128/aac.00515-25
+Engrafting gut bacteriophages have potential to modulate microbial metabolism in fecal microbiota transplantation.|https://dx.doi.org/10.1186/s40168-025-02046-5
+Efficacy of three chemical disinfectants and steam against Clostridioides difficile endospores on nylon carpet with two different backing systems.|https://dx.doi.org/10.1128/aem.00861-25
