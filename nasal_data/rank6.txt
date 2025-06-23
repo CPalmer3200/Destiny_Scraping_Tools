@@ -14,3 +14,5 @@ Systematic mapping review of preclinical and clinical studies of Staphylococcus 
 Lipid-coated nanoparticles enhance the delivery of bacterial virulence factors as a potent toxoid vaccine platform against bacterial infections.|https://dx.doi.org/10.1016/j.celrep.2025.115786
 Identification of Effective Inhibitors against Epsilon Toxin (ETX) of Clostridium perfringens: Virtual Screening and Molecular Dynamics Simulation.|https://dx.doi.org/10.1016/j.toxicon.2025.108463
 The global economic burden of antibiotic-resistant infections and the potential impact of bacterial vaccines: a modelling study.|https://dx.doi.org/10.1136/bmjgh-2024-016249
+Cefadroxil-Mupirocin Integrated Electrospun Nanofiber Films for Burn Wound Therapy.|https://dx.doi.org/10.2174/0115672018374558250607134659
+Povidone-iodine nasal spray (Nasodine(®)) for the common cold: a randomized, controlled, double-blind, Phase III clinical trial.|https://dx.doi.org/10.3389/fmed.2025.1565069

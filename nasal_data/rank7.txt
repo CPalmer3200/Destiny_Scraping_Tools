@@ -54,3 +54,7 @@ Necrotizing Fasciitis Caused by Gas-producing Methicillin-sensitive Staphylococc
 Deep Infections After Open and Closed Fractures.|https://dx.doi.org/10.2106/JBJS.24.01249
 Comparing the in Vitro Efficacy of Commonly Used Surgical Irrigants for the Treatment of Implant-Associated Infections.|https://dx.doi.org/10.2106/JBJS.24.01225
 Gram-positive ESKAPE pathogens in Germany: A comprehensive analysis of occurrence and resistance development in animal, food, and environmental sources.|https://dx.doi.org/10.1016/j.onehlt.2025.101099
+Rapid microbial evaluation of acute exacerbations of bronchiectasis using FilmArray Pneumonia plus Panel in a real-world setting.|https://dx.doi.org/10.1177/17534666251341751
+Preoperative Patient Optimization for Lower Extremity Total Joint Arthroplasty Surgery.|https://dx.doi.org/10.2106/JBJS.RVW.25.00037
+The Importance of Early Source Control in Persistent MRSA Bacteremia: A Case Report.|https://dx.doi.org/10.2174/0118715265374832250604114516
+Hospital-onset bacteraemia and fungaemia as a novel automated surveillance indicator: results from four European university hospitals, 2018 to 2022.|https://dx.doi.org/10.2807/1560-7917.ES.2025.30.24.2400613
