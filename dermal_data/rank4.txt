@@ -39,3 +39,4 @@ Single-atom silver-borophene hybrid hydrogels for electrically stimulated wound 
 An Antibacterial and Anti-Inflammatory Hemostatic Adhesive with Dual Zn(2+) and NO Release for the Neurovascular Electrostimulation of Infected Diabetic Wounds.|https://dx.doi.org/10.1002/adhm.202502097
 Curcumin-loaded PLGA microparticles integrated with ZnO/GelMA hydrogel microneedles for infectious wound healing and reduction of hypertrophic scars.|https://dx.doi.org/10.1186/s12951-025-03534-4
 MXene-modified PMMA/chitosan composite e-skin scaffold: Bioelectronic and antibacterial assessment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145388
+Design and properties of cyclodextrin grafted chitosan/sodium alginate dual-network hydrogel based on physical cross-linking.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145434
