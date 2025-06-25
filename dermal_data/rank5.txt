@@ -24,3 +24,8 @@ The Microbiome in Hidradenitis Suppurativa Tunnels: A Systematic Review.|https:/
 Exploration of pharmacological potentialities of Bauhinia acuminata L. fruits by in vitro and in vivo assays supported by computational analysis.|https://dx.doi.org/10.1016/j.jaim.2025.101127
 A simple and specific colorimetric biosensor for early detection of Pseudomonas aeruginosa wound infections.|https://dx.doi.org/10.1016/j.bios.2025.117698
 Peracetic acid (PAA) exhibits higher antimicrobial efficacy compared to chlorine-based disinfectants against Salmonella Typhimurium on chicken skin and food-contact surfaces.|https://dx.doi.org/10.1016/j.psj.2025.105450
+Non-invasive tape sampling of tryptophan and kynurenine in relation to phenylalanine and tyrosine from melanoma and adjacent non-lesional skin: A pilot study.|https://dx.doi.org/10.1371/journal.pone.0326457
+Riboflavin-dissolving microneedles for the elimination of photodynamic bacterial biofilms.|https://dx.doi.org/10.1016/j.ijpharm.2025.125858
+An antibiotic-free antimicrobial combination of bacteriocins and a peptidoglycan hydrolase: in vitro and in vivo assessment of its efficacy.|https://dx.doi.org/10.1128/aem.02433-24
+Draft genome of Staphylococcus epidermidis clinical isolate OGSA-Sep-145 from an implant-related spinal infection.|https://dx.doi.org/10.1128/mra.00416-25
+A Unique Mouse Model for Quantitative Assessment of Biofilm Formation on Surgical Implants in Subcutaneous Abscess.|https://dx.doi.org/10.3791/68067

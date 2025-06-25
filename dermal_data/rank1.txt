@@ -6,3 +6,6 @@ Evaluating the Efficacy of 0.5% Sodium Hypochlorite Disinfection for Microbial C
 Green Fabrication of Phosphorus-Containing Chitosan Derivatives via One-Step Protonation for Multifunctional Flame-Retardant, Anti-Dripping, and Antibacterial Coatings on Polyester Fabrics.|https://dx.doi.org/10.3390/polym17111531
 Therapeutic vancomycin monitoring: a comparative analysis of high-performance liquid chromatography and chemiluminescent microparticle immunoassay methods in liver transplant recipients.|https://dx.doi.org/10.3389/fphar.2025.1516339
 Cefadroxil-Mupirocin Integrated Electrospun Nanofiber Films for Burn Wound Therapy.|https://dx.doi.org/10.2174/0115672018374558250607134659
+Risk factors for antimicrobial resistance in paediatric burn infections: Insights from a retrospective cohort study.|https://dx.doi.org/10.1016/j.burns.2025.107584
+Design and synthesis of hydrogel dressings made with guar gum to enhance antimicrobial and skin wound healing properties.|https://dx.doi.org/10.1016/j.burns.2025.107562
+Advances in burn wound management: innovative strategies for healing and infection control.|https://dx.doi.org/10.25270/wnds/24030

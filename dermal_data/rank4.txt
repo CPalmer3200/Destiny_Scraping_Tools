@@ -40,3 +40,7 @@ An Antibacterial and Anti-Inflammatory Hemostatic Adhesive with Dual Zn(2+) and 
 Curcumin-loaded PLGA microparticles integrated with ZnO/GelMA hydrogel microneedles for infectious wound healing and reduction of hypertrophic scars.|https://dx.doi.org/10.1186/s12951-025-03534-4
 MXene-modified PMMA/chitosan composite e-skin scaffold: Bioelectronic and antibacterial assessment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145388
 Design and properties of cyclodextrin grafted chitosan/sodium alginate dual-network hydrogel based on physical cross-linking.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145434
+Aloe vera-enriched collagen-polyurethane hydrogel: Supporting tissue regeneration, antibacterial action and drug release for effective wound healing.|https://dx.doi.org/10.1088/1748-605X/ade7e2
+Functional hydroxypropyl methyl cellulose-based thermosensitive hydrogels: Biomineralization, procoagulant and antibacterial properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145325
+Deposition of alginate-oregano nanofibres on cotton gauze for potential antimicrobial applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145372
+Deposition of Ag/TMC Nanoparticles via MAPLE to Enhance the Mechanical and Antimicrobial Properties of Silicone Hydrogel.|https://dx.doi.org/10.1021/acsomega.4c11420
