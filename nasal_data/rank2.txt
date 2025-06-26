@@ -1,2 +1,4 @@
 [The role of Staphylococcus aureus in the occurrence and development of chronic rhinosinusitis with nasal polyps].|https://dx.doi.org/10.13201/j.issn.2096-7993.2025.07.015
 Synergistic Nitric Oxide Therapy and Phototherapy Using a Novel Bacteria Scavenger for Treatment of Acute Rhinosinusitis.|https://dx.doi.org/10.1021/acs.biomac.5c00938
+High-throughput targeted amplicon screening tool for characterizing intrahost diversity in Staphylococcus aureus directly from sample.|https://dx.doi.org/10.1099/mgen.0.001427
+Analysis of Potential Genes, Acute Phase Proteins and Hormonal Profiles Associated with Methicillin-Resistant Staphylococcus aureus (MRSA) Isolation from Pneumonic Sheep.|https://dx.doi.org/10.3390/vetsci12060584
