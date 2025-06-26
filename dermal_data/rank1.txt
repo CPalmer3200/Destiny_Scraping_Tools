@@ -9,3 +9,4 @@ Cefadroxil-Mupirocin Integrated Electrospun Nanofiber Films for Burn Wound Thera
 Risk factors for antimicrobial resistance in paediatric burn infections: Insights from a retrospective cohort study.|https://dx.doi.org/10.1016/j.burns.2025.107584
 Design and synthesis of hydrogel dressings made with guar gum to enhance antimicrobial and skin wound healing properties.|https://dx.doi.org/10.1016/j.burns.2025.107562
 Advances in burn wound management: innovative strategies for healing and infection control.|https://dx.doi.org/10.25270/wnds/24030
+Zinc Alginate Hydrogel-Coated Wound Dressings: Fabrication, Characterization, and Evaluation of Anti-Infective and In Vivo Performance.|https://dx.doi.org/10.3390/gels11060427

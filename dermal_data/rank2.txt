@@ -25,3 +25,5 @@ Wound Care - Part II: Tissue-engineered skin substitutes & other advanced wound 
 Multifunctional lignin-gum Arabic nanocomposites: Green nanoarchitectonics via ultrasonic-assisted laccase catalysis for antimicrobial, antioxidant, and antidiabetic therapies.|https://dx.doi.org/10.1016/j.bioadv.2025.214390
 Antimicrobial Photodynamic Therapy in Diabetic Amputation Ulcers: Case Series Evaluating Wound Healing Quality.|https://dx.doi.org/10.1002/lsm.70037
 Assessment of the impact of pH of wound fluid on the associated microbial distribution in the cases of infected diabetic foot ulcer.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1286_24
+Differential Frequencies of Osteomyelitis and Amputation Significantly Vary by Toe among Patients with Advanced Diabetic Forefoot Ulcer: A Preliminary Epidemiologic Report.|https://dx.doi.org/10.1097/ASW.0000000000000316
+Multiplexing 3D Natural Scaffolds to Optimize the Repair and Regeneration of Chronic Diabetic Wounds.|https://dx.doi.org/10.3390/gels11060430

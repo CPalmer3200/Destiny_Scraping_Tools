@@ -44,3 +44,9 @@ Aloe vera-enriched collagen-polyurethane hydrogel: Supporting tissue regeneratio
 Functional hydroxypropyl methyl cellulose-based thermosensitive hydrogels: Biomineralization, procoagulant and antibacterial properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145325
 Deposition of alginate-oregano nanofibres on cotton gauze for potential antimicrobial applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145372
 Deposition of Ag/TMC Nanoparticles via MAPLE to Enhance the Mechanical and Antimicrobial Properties of Silicone Hydrogel.|https://dx.doi.org/10.1021/acsomega.4c11420
+Superficial incisional surgical site infections experimentally induced by Staphylococcus aureus in mice: the effect of Bdellovibrio bacteriovorus containing dressing.|https://dx.doi.org/10.1007/s11274-025-04453-0
+Design and characterization of AgVO(3)-HAP/GO@PCL ceramic-based scaffolds for enhanced wound healing and tissue regeneration.|https://dx.doi.org/10.1007/s10856-025-06907-1
+Antifouling Mussel-Inspired Hydrogel with Furanone-Loaded ZIF-8 for Quorum Sensing-Mediated Marine Antifouling.|https://dx.doi.org/10.3390/gels11060466
+Antibacterial Composites Based on Alginate/Egg White and ZnO Nanoparticles with the Addition of Essential Oils.|https://dx.doi.org/10.3390/gels11060459
+Nanoemulsion Hydrogel Delivery System of Hypericum perforatum L.: In Silico Design, In Vitro Antimicrobial-Toxicological Profiling, and In Vivo Wound-Healing Evaluation.|https://dx.doi.org/10.3390/gels11060431
+One-Pot Synthesis of Gelatin/Gum Arabic Hydrogels Embedding Silver Nanoparticles as Antibacterial Materials.|https://dx.doi.org/10.3390/gels11060429
