@@ -15,3 +15,4 @@ Efficacy of three chemical disinfectants and steam against Clostridioides diffic
 Phenotypic analysis of various Clostridioides difficile ribotypes reveals consistency among core processes.|https://dx.doi.org/10.1128/aem.00964-25
 Microbiome compositional changes and clonal engraftment in a phase 3 trial of fecal microbiota, live-jslm for recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1080/19490976.2025.2520412
 Real-world use of bezlotoxumab to prevent recurrent Clostridioides difficile infections: a single-center experience and meta-analysis.|https://dx.doi.org/10.1177/17562848251346593
+Faecal Microbiota Transplantation as an Adjuvant Treatment for Extraintestinal Disorders: Translating Insights from Human Medicine to Veterinary Practice.|https://dx.doi.org/10.3390/vetsci12060541
