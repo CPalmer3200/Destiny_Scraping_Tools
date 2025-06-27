@@ -6,3 +6,5 @@ The global burden of suboptimal breastfeeding from 1990 to 2019: results and ins
 Surgical and Oncologic Outcomes of Tumescence and Sharp Dissection Versus Electrocautery Dissection in Minimal-Access Nipple-Sparing Mastectomy with Immediate Prosthesis Breast Reconstruction: A Real-World Retrospective Cohort Study.|https://dx.doi.org/10.1245/s10434-025-17680-4
 Enhanced Osteogenesis and Antibacterial Properties of Ketoprofen-Loaded MgCu-MOF74-Coated Titanium Alloy for Bone Implant.|https://dx.doi.org/10.3390/jfb16060222
 Postmastectomy Breast Reconstruction in Patients with Non-Metastatic Breast Cancer: An Ontario Health (Cancer Care Ontario) Clinical Practice Guideline.|https://dx.doi.org/10.3390/curroncol32060357
+Utility of Tranexamic Acid in Reduction Mammaplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1007/s00266-025-05052-y
+How Obesity Complicates Breast Cancer Care: Insights From a Systematic Review of Case Reports.|https://dx.doi.org/10.7759/cureus.84843
