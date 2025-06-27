@@ -1,2 +1,3 @@
 AI4CDI: Introducing a novel machine learning approach to demonstrate feasibility of timely and early identification of at-risk populations for Clostridioides difficile infections.|https://dx.doi.org/10.1016/j.anaerobe.2025.102978
 Prevalence of human adenovirus in children with acute gastroenteritis in the New Vaccine Surveillance Network (NVSN) from 2016 to 2019.|https://dx.doi.org/10.1016/j.jcv.2025.105822
+The effect of antibiotic therapy on clinical outcome in patients hospitalized with moderate COVID-19 disease: a prospective multi-center cohort study.|https://dx.doi.org/10.1007/s15010-025-02590-0
