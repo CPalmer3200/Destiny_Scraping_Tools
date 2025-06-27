@@ -27,3 +27,8 @@ Antimicrobial Photodynamic Therapy in Diabetic Amputation Ulcers: Case Series Ev
 Assessment of the impact of pH of wound fluid on the associated microbial distribution in the cases of infected diabetic foot ulcer.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1286_24
 Differential Frequencies of Osteomyelitis and Amputation Significantly Vary by Toe among Patients with Advanced Diabetic Forefoot Ulcer: A Preliminary Epidemiologic Report.|https://dx.doi.org/10.1097/ASW.0000000000000316
 Multiplexing 3D Natural Scaffolds to Optimize the Repair and Regeneration of Chronic Diabetic Wounds.|https://dx.doi.org/10.3390/gels11060430
+Management and Outcomes of Hallucal Sesamoid Osteomyelitis.|https://dx.doi.org/10.7547/22-217
+A Systematic Review on Tibial Cortex Transverse Transport in the Treatment of Ischemic Ulcers of the Lower Limb.|https://dx.doi.org/10.1177/10711007251341312
+No Routine Control Measurements of C-Reactive Protein in Uneventful Postoperative Evolution After Debridement for Infected (Diabetic) Foot Surgery.|https://dx.doi.org/10.3390/jcm14124122
+The Multi-Dimensional Role of Vitamin D in the Pathophysiology and Treatment of Diabetic Foot Ulcers: From Molecular Mechanisms to Clinical Translation.|https://dx.doi.org/10.3390/ijms26125719
+Chlorhexidine, soap and water are equally effective for prevention of diabetic foot ulcers.|https://dx.doi.org/10.1097/AJN.0000000000000096a

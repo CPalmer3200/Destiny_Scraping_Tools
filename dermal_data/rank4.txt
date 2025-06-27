@@ -50,3 +50,5 @@ Antifouling Mussel-Inspired Hydrogel with Furanone-Loaded ZIF-8 for Quorum Sensi
 Antibacterial Composites Based on Alginate/Egg White and ZnO Nanoparticles with the Addition of Essential Oils.|https://dx.doi.org/10.3390/gels11060459
 Nanoemulsion Hydrogel Delivery System of Hypericum perforatum L.: In Silico Design, In Vitro Antimicrobial-Toxicological Profiling, and In Vivo Wound-Healing Evaluation.|https://dx.doi.org/10.3390/gels11060431
 One-Pot Synthesis of Gelatin/Gum Arabic Hydrogels Embedding Silver Nanoparticles as Antibacterial Materials.|https://dx.doi.org/10.3390/gels11060429
+A NIR-II Laser-Triggered Nb(2)C-Arg/Gel Composite Multifunctional Hydrogel with Photothermal, ROS Scavenging, and NO Release for Infected Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.5c01761
+Combination of Slightly Acidic Electrolyzed Water and Hydrogel to Enhance Stability, Increase Antibacterial Efficacy, and Promote Infectious Wound Healing.|https://dx.doi.org/10.3390/ijms26125908
