@@ -6,3 +6,5 @@ Immunogenicity Evaluation of Epitope-Based Vaccine on Target of RNAIII-Activatin
 Bivalent fusion protein vaccine induces protective immunity against SARS-CoV-2 and Staphylococcus aureus.|https://dx.doi.org/10.1016/j.vaccine.2025.127411
 Refinement of a novel staphylococcal superantigen-like poly protein vaccine.|https://dx.doi.org/10.1016/j.vaccine.2025.127437
 Antimicrobial Susceptibility Patterns of Staphylococcus spp. Isolates from Mastitic Cases in Romanian Buffaloes from Western Romania.|https://dx.doi.org/10.3390/antibiotics14060537
+The human spinothalamic tract: lessons from cordotomy.|https://dx.doi.org/10.1093/braincomms/fcaf237
+Evaluation of Peptide-Based Vaccines Against Group A Streptococcus in Staphylococcus aureus-Infected Mice.|https://dx.doi.org/10.3390/vaccines13060632

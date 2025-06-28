@@ -4,3 +4,4 @@ High-throughput targeted amplicon screening tool for characterizing intrahost di
 Analysis of Potential Genes, Acute Phase Proteins and Hormonal Profiles Associated with Methicillin-Resistant Staphylococcus aureus (MRSA) Isolation from Pneumonic Sheep.|https://dx.doi.org/10.3390/vetsci12060584
 Staphylococcus aureus and Staphylococcus pseudintermedius isolated from humans and pets - a comparison of drug resistance and risk factors associated with colonisation.|https://dx.doi.org/10.2478/jvetres-2025-0036
 The synergy of tuf gene sequencing and maximum likelihood phylogenetic model: a suitable method for identifying the source of coagulase-negative staphylococci infections.|https://dx.doi.org/10.11604/pamj.2025.50.53.44554
+Design and Evaluation of a Zingiber officinale-Kaolinite-Maltodextrin Delivery System: Antioxidant, Antimicrobial, and Cytotoxic Activity Assessment.|https://dx.doi.org/10.3390/pharmaceutics17060751

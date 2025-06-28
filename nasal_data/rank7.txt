@@ -1,0 +1,9 @@
+PLLA Coating of Lyophilized Human Bone Allograft for Long-term Release of Antibiotics.|https://dx.doi.org/10.21873/invivo.13987
+Diagnostic Value of Enhanced Computed Tomography and Magnetic Resonance Imaging in Intracranial Infections after Craniocerebral Surgery.|https://dx.doi.org/10.1055/a-2558-5497
+Development and Validation of a Hierarchical Machine Learning Method using MALDI-TOF Mass Spectrometry for Rapid SCCmec Typing and PVL Detection in MRSA: A Multi-Center Study.|https://dx.doi.org/10.1080/22221751.2025.2525264
+Impact of Dual Antibiotic Prophylaxis on 90-Day Surgical Site Infection Rates Following Posterior Spinal Fusion for Juvenile Scoliosis: A Single-Center Study of 296 Cases.|https://dx.doi.org/10.3390/medicina61061046
+In Vitro Characterization and Safety Assessment of Streptococcus salivarius, Levilactobacillus brevis and Pediococcus pentosaceus Isolated from the Small Intestine of Broiler Breeders.|https://dx.doi.org/10.3390/microorganisms13061231
+Control of Methicillin-Resistant Staphylococcus aureus Using Photodynamic Therapy in Synergy with Staphylococcus epidermidis: Role of Mixed Cultures in Developing Strategies to Inhibit Infections.|https://dx.doi.org/10.3390/microorganisms13061196
+A Bifidobacterium Strain with Antibacterial Activity, Its Antibacterial Characteristics and In Vitro Probiotics Studies.|https://dx.doi.org/10.3390/microorganisms13061190
+Associations Between Candida and Staphylococcus aureus, Pseudomonas aeruginosa, and Acinetobacter Species as Ventilator-Associated Pneumonia Isolates in 84 Cohorts of ICU Patients.|https://dx.doi.org/10.3390/microorganisms13061181
+Surgical site infections: a comprehensive review.|https://dx.doi.org/10.20408/jti.2025.0019
