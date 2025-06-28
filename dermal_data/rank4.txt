@@ -52,3 +52,9 @@ Nanoemulsion Hydrogel Delivery System of Hypericum perforatum L.: In Silico Desi
 One-Pot Synthesis of Gelatin/Gum Arabic Hydrogels Embedding Silver Nanoparticles as Antibacterial Materials.|https://dx.doi.org/10.3390/gels11060429
 A NIR-II Laser-Triggered Nb(2)C-Arg/Gel Composite Multifunctional Hydrogel with Photothermal, ROS Scavenging, and NO Release for Infected Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.5c01761
 Combination of Slightly Acidic Electrolyzed Water and Hydrogel to Enhance Stability, Increase Antibacterial Efficacy, and Promote Infectious Wound Healing.|https://dx.doi.org/10.3390/ijms26125908
+In vitro assessment of berberine-loaded carboxymethyl chitosan hydrogel: A promising antimicrobial candidate for S. aureus-induced bovine mastitis treatment.|https://dx.doi.org/10.1371/journal.pone.0326574
+A 3R (remove-remodel-repair)-integrated self-assembled Chlorella-gelatin-PEG hydrogel for diabetic wound healing.|https://dx.doi.org/10.1016/j.mtbio.2025.101935
+Combining polyesters of citric and azelaic acids to obtain potential topical application biomaterials with antimicrobial activity.|https://dx.doi.org/10.3389/fbioe.2025.1579630
+Tellurium-Doped Silanised Bioactive Glass-Chitosan Hydrogels: A Dual Action for Antimicrobial and Osteoconductive Platforms.|https://dx.doi.org/10.3390/polym17121651
+Development and Optimization of Grape Skin Extract-Loaded Gelatin-Alginate Hydrogels: Assessment of Antioxidant and Antimicrobial Properties.|https://dx.doi.org/10.3390/pharmaceutics17060790
+Biotechnological Utilization of Amazonian Fruit: Development of Active Nanocomposites from Bacterial Cellulose and Silver Nanoparticles Based on Astrocaryum aculeatum (Tucumã) Extract.|https://dx.doi.org/10.3390/ph18060799

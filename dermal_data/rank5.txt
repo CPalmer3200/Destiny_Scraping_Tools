@@ -33,3 +33,5 @@ Microrobots for Antibiotic-Resistant Staphylococcus aureus Skin Colony Eradicati
 Characterization of Biofilm Formation by the Dermatophyte Nannizzia gypsea.|https://dx.doi.org/10.3390/jof11060455
 Experimental research on fungal inhibition using dissolving microneedles of terbinafine hydrochloride nanoemulsion for beta-1,3-glucanase.|https://dx.doi.org/10.1039/d5na00163c
 The Impact of the Skin Microbiome and Oxidative Stress on the Initiation and Development of Cutaneous Chronic Wounds.|https://dx.doi.org/10.3390/antiox14060682
+Antimicrobial Smart Dressings for Combating Antibiotic Resistance in Wound Care.|https://dx.doi.org/10.3390/ph18060825
+Tripterhyponoid A from Tripterygium hypoglaucum Inhibiting MRSA by Multiple Mechanisms.|https://dx.doi.org/10.3390/molecules30122539
