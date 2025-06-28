@@ -17,3 +17,5 @@ Microbiome compositional changes and clonal engraftment in a phase 3 trial of fe
 Real-world use of bezlotoxumab to prevent recurrent Clostridioides difficile infections: a single-center experience and meta-analysis.|https://dx.doi.org/10.1177/17562848251346593
 Faecal Microbiota Transplantation as an Adjuvant Treatment for Extraintestinal Disorders: Translating Insights from Human Medicine to Veterinary Practice.|https://dx.doi.org/10.3390/vetsci12060541
 Possible Applications of Fecal Microbiota Transplantation in the Pediatric Population: A Systematic Review.|https://dx.doi.org/10.3390/biomedicines13061393
+Phenotypic and genomic characterization of Clostridioides difficile strains involved in multiple recurrences.|https://dx.doi.org/10.1016/j.anaerobe.2025.102980
+Healthcare-Associated Clostridioides difficile Infection: A Hospital-Based Retrospective Study in North Eastern Romania.|https://dx.doi.org/10.3390/microorganisms13061377
