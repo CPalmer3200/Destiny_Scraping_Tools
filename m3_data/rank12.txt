@@ -10,3 +10,6 @@ Clostridioides difficile in Honduras: a genomic and phenotypic characterization 
 Pseudomembranous Colitis: Unveiling an Infrequent Culprit Beyond Clostridium difficile-A Case Report.|https://dx.doi.org/10.1177/23247096251347401
 Testing suitability of Cary-Blair medium for detection of Clostridioides difficile in stool samples by chemiluminiscence immunoassay.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.116959
 Roles of Gut Microbiota and Associated Metabolites in Clostridioides difficile Infection.|https://dx.doi.org/10.33073/pjm-2025-017
+Nurses' knowledge of Clostridioides difficile pre and post education: A continuing challenge.|https://dx.doi.org/10.1016/j.idh.2025.06.001
+Clostridioides difficile toxins alter host metabolic pathway and bile acid homeostasis gene expression in colonic epithelium.|https://dx.doi.org/10.1128/iai.00150-25
+Opioid Use and Risk of Clostridioides difficile Infection in Hospitalized Patients: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.ajic.2025.06.019
