@@ -10,3 +10,6 @@ Utility of Tranexamic Acid in Reduction Mammaplasty: A Systematic Review and Met
 How Obesity Complicates Breast Cancer Care: Insights From a Systematic Review of Case Reports.|https://dx.doi.org/10.7759/cureus.84843
 Postoperative Outcomes After Breast Reduction: Do Racial Disparities Exist?|https://dx.doi.org/10.1007/s40615-025-02490-x
 Complications and Satisfaction After Adolescent Breast Reduction for Juvenile Macromastia: Systematic Review and Meta-analysis.|https://dx.doi.org/10.1097/GOX.0000000000006913
+Evaluating the impact of COVID-19 infection and vaccination on the presentation and severity of idiopathic granulomatous mastitis: A retrospective cohort study.|https://dx.doi.org/10.1097/MD.0000000000043151
+Outcomes and Complications of Implant-Based Breast Reconstruction in Patients With Previous Cosmetic Augmentation: A Systematic Review.|https://dx.doi.org/10.1093/asjof/ojaf049
+The Impact of Travel Distance on Patient Outcomes after Breast Reconstruction.|https://dx.doi.org/10.1245/s10434-025-17694-y
