@@ -1,2 +1,9 @@
 Topical application of the HSP90 inhibitor 17-AAG reduces skin inflammation and partially restores microbial balance: implications for atopic dermatitis therapy.|https://dx.doi.org/10.1038/s41598-025-05307-3
 Comparative genomic analysis of clinically relevant human skin-associated fungi.|https://dx.doi.org/10.21203/rs.3.rs-6700810/v1
+Monolaurin inhibits antibiotic-resistant Staphylococcus aureus in patients with atopic dermatitis.|https://dx.doi.org/10.1038/s41598-025-05667-w
+Oxidized chitosan: Combining an "Adhesion-and-Kill" antibacterial strategy with immunoregulation and angiogenesis to enhance methicillin-resistant Staphylococcus Aureus-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145664
+Comparative microbiome analysis of contracted breast capsules: a cross-sectional study.|https://dx.doi.org/10.1186/s12866-025-04081-6
+A novel tetrahedral framework nucleic acid-based antibiotic delivery system: overcoming biofilm barriers to combat chronic infections.|https://dx.doi.org/10.1186/s12951-025-03553-1
+Accelerating infectious wound healing through bacterial cellulose/ag composite film enriched with GM-CSF.|https://dx.doi.org/10.1038/s41598-025-09261-y
+Adhesin Als4112 promotes Candida auris skin colonization through interactions with keratinocytes and extracellular matrix proteins.|https://dx.doi.org/10.1038/s41467-025-60876-1
+The antimicrobial efficacy of rutin encapsulated chitosan versus multidrug-resistant Pseudomonas aeruginosa.|https://dx.doi.org/10.1038/s41598-025-06873-2

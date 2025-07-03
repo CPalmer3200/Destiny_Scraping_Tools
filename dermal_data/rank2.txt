@@ -1,2 +1,5 @@
 Battle of the Bots: Solving Clinical Cases in Osteoarticular Infections With Large Language Models.|https://dx.doi.org/10.1016/j.mcpdig.2025.100230
 Pathophysiology of Wound Development and Chronicity in Renal Disease: A Narrative Review.|https://dx.doi.org/10.1111/iwj.70713
+Efficacy and safety of platelet-rich plasma versus conventional care in diabetic foot ulcers: a meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1007/s00592-025-02555-7
+Efficacy of phage therapy in Diabetic Foot Ulcers (DFUs): a systematic review.|https://dx.doi.org/10.1186/s12879-025-11258-x
+Recent Advances in the Local Drug Delivery Systems for Diabetic Wound Healing: A Comprehensive Review.|https://dx.doi.org/10.1208/s12249-025-03172-x
