@@ -7,3 +7,8 @@ The synergy of tuf gene sequencing and maximum likelihood phylogenetic model: a 
 Design and Evaluation of a Zingiber officinale-Kaolinite-Maltodextrin Delivery System: Antioxidant, Antimicrobial, and Cytotoxic Activity Assessment.|https://dx.doi.org/10.3390/pharmaceutics17060751
 Methicillin-Resistant Staphylococcus aureus (MRSA) Strikes Deep: Infected Femoral Aneurysm in a Patient With Deep Vein Thrombosis.|https://dx.doi.org/10.7759/cureus.86816
 Reliability of Methicillin-Resistant Staphylococcus aureus (MRSA) Nasal Swab Screening for Predicting MRSA Burn Infections.|https://dx.doi.org/10.1093/jbcr/iraf117
+Monolaurin inhibits antibiotic-resistant Staphylococcus aureus in patients with atopic dermatitis.|https://dx.doi.org/10.1038/s41598-025-05667-w
+S. aureus upregulation of MUC13 modulates mucosal remodeling in chronic rhinosinusitis via MEK1/2 and WNT2B.|https://dx.doi.org/10.1016/j.jaci.2025.06.023
+Quercetin alleviates the progression of chronic rhinosinusitis by affecting nasal mucosal epithelial remodeling, inflammation and Treg/Th17 imbalance.|https://dx.doi.org/10.1139/bcb-2025-0049
+Penicillin-susceptible ST398 with strong biofilm-forming ability poses a significant threat to osteoarticular infections.|https://dx.doi.org/10.1093/jac/dkaf208
+Genomic characterisation of nasal isolates of coagulase-negative Staphylococci from healthy medical students reveals novel Staphylococcal cassette chromosome mec elements.|https://dx.doi.org/10.1038/s41598-025-05159-x
