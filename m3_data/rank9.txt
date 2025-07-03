@@ -4,3 +4,4 @@ The Influence of Injectable Platelet-Rich Fibrin on the Clinical Parameters and 
 Cause and effect? A review of the impact of antibiotics on the gut microbiome in patients undergoing hematopoietic stem cell transplantation.|https://dx.doi.org/10.1080/14787210.2025.2527970
 The antimicrobial peptide Angie 5 inhibits TcdA and TcdB from Clostridioides difficile.|https://dx.doi.org/10.1007/s00018-025-05799-2
 A novel case of aripiprazole and clomipramine-induced toxic megacolon: enough to drive anyone mad.|https://dx.doi.org/10.1093/jscr/rjaf265
+Clinical outcomes of flomoxef versus cefmetazole in hospitalized patients with urinary tract infections: combined retrospective analyses of two real-world databases and in vitro data.|https://dx.doi.org/10.1186/s12916-025-04130-x

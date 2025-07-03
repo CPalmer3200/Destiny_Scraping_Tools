@@ -24,3 +24,7 @@ Fecal microbiota transplantation: Current evidence and future directions.|https:
 The interplay between host immunity and Clostridioides difficile infection.|https://dx.doi.org/10.1128/mbio.03562-24
 Fecal Microbiota Transplantation (FMT) in Clostridium difficile Infection: A Paradigm Shift in Gastrointestinal Microbiome Modulation.|https://dx.doi.org/10.7759/cureus.85054
 Fecal Microbiome Transplantation for Recurrent CDI: Treatment Efficacy and Safety with Oral Capsules.|https://dx.doi.org/10.15403/jgld-5990
+Uncertain Benefits of Oral Vancomycin for Prevention of Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1001/jamanetworkopen.2025.21084
+Oral Vancomycin for Prevention of Recurrent Clostridioides difficile Infection: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamanetworkopen.2025.17834
+Recurrent Clostridioides difficile Infection (CDI) in Patients Treated With Vancomycin at Johns Hopkins Aramco Healthcare (JHAH), Dhahran, Saudi Arabia.|https://dx.doi.org/10.7759/cureus.85116
+Clinician Management Preferences for Clostridioides difficile Infection in Adults: A 2024 Emerging Infections Network Survey.|https://dx.doi.org/10.1093/ofid/ofaf335
