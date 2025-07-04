@@ -7,3 +7,12 @@ Control of Methicillin-Resistant Staphylococcus aureus Using Photodynamic Therap
 A Bifidobacterium Strain with Antibacterial Activity, Its Antibacterial Characteristics and In Vitro Probiotics Studies.|https://dx.doi.org/10.3390/microorganisms13061190
 Associations Between Candida and Staphylococcus aureus, Pseudomonas aeruginosa, and Acinetobacter Species as Ventilator-Associated Pneumonia Isolates in 84 Cohorts of ICU Patients.|https://dx.doi.org/10.3390/microorganisms13061181
 Surgical site infections: a comprehensive review.|https://dx.doi.org/10.20408/jti.2025.0019
+Comprehensive Genomic Profiling and In Vitro Probiotic and Safety Assessments of Enterococcus faecium UFAS147 Isolated from Moroccan Goat Feces.|https://dx.doi.org/10.1007/s00284-025-04348-1
+pH-Responsive Bilayer Hydrogel with Synergistic Antibacterial/Anti-inflammatory Effect for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.5c08728
+Buttock Reconstruction With Hatchet-type Lumbosacral Flap After Resecting Diffuse Plexiform Neurofibroma With Methicillin Resistant Staphylococcus aureus-infected Intratumoral Hematoma.|https://dx.doi.org/10.1097/GOX.0000000000006932
+Ultrafine-Grained Materials With Antibacterial Properties: A Novel Approach to Reducing Spinal Implant-Associated Infections.|https://dx.doi.org/10.1002/jsp2.70091
+Bacterial contaminants in stored blood and blood products at Zomba Central Hospital Blood Bank: assessing the possible risk of post-transfusion sepsis in a resource-limited setting.|https://dx.doi.org/10.11604/pamj.2024.49.42.45119
+Antimicrobial Resistance Patterns in <em>Pseudomonas Aeruginosa</em> Isolated from Chronic Suppurative Otitis Media.|https://dx.doi.org/10.29271/jcpsp.2025.07.866
+Childhood necrotising pneumonia, empyema and complicated parapneumonic effusion secondary to community acquired pneumonia: report of 158 cases from a tertiary hospital in Egypt.|https://dx.doi.org/10.1186/s12931-025-03291-w
+Prevalence, aetiology and host and management factors associated with bovine mastitis in dairy cows in Zoba Anseba, Eritrea: a cross-sectional study.|https://dx.doi.org/10.1186/s12917-025-04868-9
+Management of pathologic fracture of long bones as a complication of acute osteomyelitis: a challenging task for orthopedic surgeons.|https://dx.doi.org/10.1186/s12891-025-08900-9

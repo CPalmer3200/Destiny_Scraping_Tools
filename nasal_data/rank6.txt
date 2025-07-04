@@ -8,3 +8,6 @@ Refinement of a novel staphylococcal superantigen-like poly protein vaccine.|htt
 Antimicrobial Susceptibility Patterns of Staphylococcus spp. Isolates from Mastitic Cases in Romanian Buffaloes from Western Romania.|https://dx.doi.org/10.3390/antibiotics14060537
 The human spinothalamic tract: lessons from cordotomy.|https://dx.doi.org/10.1093/braincomms/fcaf237
 Evaluation of Peptide-Based Vaccines Against Group A Streptococcus in Staphylococcus aureus-Infected Mice.|https://dx.doi.org/10.3390/vaccines13060632
+Restoration of Oxacillin susceptibility in MRSA strains by NPPB.|https://dx.doi.org/10.1038/s41598-025-09377-1
+Compounds from Cyclocarya paliurus leaves inhibit binary division of methicillin-resistant Staphylococcus aureus by disrupting FtsZ dynamic.|https://dx.doi.org/10.3389/fmicb.2025.1622623
+Antibiotic-persistent bacterial cells exhibiting low-level ROS are eradicated by ROS-independent membrane disruption.|https://dx.doi.org/10.1128/mbio.01199-25

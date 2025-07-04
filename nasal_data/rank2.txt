@@ -12,3 +12,4 @@ S. aureus upregulation of MUC13 modulates mucosal remodeling in chronic rhinosin
 Quercetin alleviates the progression of chronic rhinosinusitis by affecting nasal mucosal epithelial remodeling, inflammation and Treg/Th17 imbalance.|https://dx.doi.org/10.1139/bcb-2025-0049
 Penicillin-susceptible ST398 with strong biofilm-forming ability poses a significant threat to osteoarticular infections.|https://dx.doi.org/10.1093/jac/dkaf208
 Genomic characterisation of nasal isolates of coagulase-negative Staphylococci from healthy medical students reveals novel Staphylococcal cassette chromosome mec elements.|https://dx.doi.org/10.1038/s41598-025-05159-x
+Substantial co-trimoxazole resistant S. aureus nasal carriage despite low colonization among people living with HIV in Ethiopia.|https://dx.doi.org/10.1038/s41598-025-07748-2
