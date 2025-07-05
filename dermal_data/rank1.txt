@@ -3,3 +3,5 @@ Chitosan-Based Hydrogels: Revolutionizing Corneal Wound Healing with Antibacteri
 Reliability of Methicillin-Resistant Staphylococcus aureus (MRSA) Nasal Swab Screening for Predicting MRSA Burn Infections.|https://dx.doi.org/10.1093/jbcr/iraf117
 Investigation of Novel Strategies to Improve the Storage Stability and the Antimicrobial Activity of Ozonized Sunflower Oil.|https://dx.doi.org/10.5650/jos.ess24281
 Cost-analysis of universal decolonization with pure hypochlorous acid and mupirocin to reduce MRSA infections in intensive care burn unit patients.|https://dx.doi.org/10.3389/fphar.2025.1606589
+Clinical utility of methicillin-resistant Staphylococcus aureus polymerase chain reaction nares swabs in burn injured patients.|https://dx.doi.org/10.1093/jbcr/iraf120
+sdrH enhances Staphylococcus aureus infection in diabetic wounds.|https://dx.doi.org/10.3389/fmicb.2025.1502428

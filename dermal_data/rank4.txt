@@ -12,3 +12,9 @@ Designing Self-Healing Hydrogels with Antibacterial Property Based on Host-Guest
 Evaluation of Anti-Inflammatory Effects of Chitosan Film Loaded Arnebia Euchroma Extract Through In Vitro and In Vivo Studies.|https://dx.doi.org/10.32592/ARI.2024.79.6.1271
 Antibacterial, self-healing, and pH-responsive PVA/ZIF-8@tannic acid nanocomposite hydrogel for sustained delivery of garlic extract.|https://dx.doi.org/10.1038/s41598-025-07752-6
 Antibacterial activity of a conventional hydrogel and a nanoparticle based hydrogel containing Satureja khuzestanica essential oil.|https://dx.doi.org/10.1038/s41598-025-06160-0
+Electrospun polyvinyl alcohol/carboxymethyl cellulose loaded with Asphaltum Punjabianum (Shilajit) nanofibrous mats for potential cartilage regeneration applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145719
+A high strength multifunctional lignin-based hydrogel dressing with antibacterial, antioxidant, hemostatic and adhesive properties for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145743
+Epigallocatechin gallate-mediated interaction modulates the gelation properties and antibacterial spectrum of rigid amyloid lysozyme fibril-chitosan hydrogels.|https://dx.doi.org/10.1016/j.fochx.2025.102678
+Biodegradable chitosan/PVA-based hydrogel incorporating green synthesized silver nanoparticles for wound healing applications.|https://dx.doi.org/10.1186/s13065-025-01564-5
+Near-infrared light and magnetic field dual-responsive 3D printed scaffolds for sequential treatment of infected bone defects.|https://dx.doi.org/10.1088/1758-5090/adebb3
+pH-Responsive Bilayer Hydrogel with Synergistic Antibacterial/Anti-inflammatory Effect for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.5c08728

@@ -7,3 +7,8 @@ A novel tetrahedral framework nucleic acid-based antibiotic delivery system: ove
 Accelerating infectious wound healing through bacterial cellulose/ag composite film enriched with GM-CSF.|https://dx.doi.org/10.1038/s41598-025-09261-y
 Adhesin Als4112 promotes Candida auris skin colonization through interactions with keratinocytes and extracellular matrix proteins.|https://dx.doi.org/10.1038/s41467-025-60876-1
 The antimicrobial efficacy of rutin encapsulated chitosan versus multidrug-resistant Pseudomonas aeruginosa.|https://dx.doi.org/10.1038/s41598-025-06873-2
+Trichosporon and Antifungal Resistance: Current Knowledge and Gaps.|https://dx.doi.org/10.1007/s11046-025-00969-z
+Anti-Pseudomonas aeruginosa Activity of the Scorpion-Derived Peptide GK8.|https://dx.doi.org/10.1007/s12602-025-10590-7
+An Atypical Manifestation of Cellulitis Induced by Proteus mirabilis.|https://dx.doi.org/10.7759/cureus.85249
+Comparative genomic analysis of resistance and virulence genes in staphylococcus epidermidis and their impact on clinical outcome of musculoskeletal infections.|https://dx.doi.org/10.1038/s41598-025-09061-4
+Skin-deep strategies of intraspecific competition.|https://dx.doi.org/10.1038/s41564-025-02049-w
