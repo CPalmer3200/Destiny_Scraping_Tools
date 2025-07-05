@@ -13,3 +13,5 @@ Quercetin alleviates the progression of chronic rhinosinusitis by affecting nasa
 Penicillin-susceptible ST398 with strong biofilm-forming ability poses a significant threat to osteoarticular infections.|https://dx.doi.org/10.1093/jac/dkaf208
 Genomic characterisation of nasal isolates of coagulase-negative Staphylococci from healthy medical students reveals novel Staphylococcal cassette chromosome mec elements.|https://dx.doi.org/10.1038/s41598-025-05159-x
 Substantial co-trimoxazole resistant S. aureus nasal carriage despite low colonization among people living with HIV in Ethiopia.|https://dx.doi.org/10.1038/s41598-025-07748-2
+Nasal carriage rate and multiple antimicrobial resistance indices of Staphylococcus aureus among healthcare students at the Ahmadu Bello University, Nigeria.|https://dx.doi.org/10.4102/ajlm.v14i1.2667
+Staphylococcus aureus nasal carriage before breast reconstruction: antibiotic resistance, biofilm formation, and virulence genes-a single center in vitro observation.|https://dx.doi.org/10.3389/fmicb.2025.1610739
