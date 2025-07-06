@@ -11,3 +11,6 @@ Evaluation of Peptide-Based Vaccines Against Group A Streptococcus in Staphyloco
 Restoration of Oxacillin susceptibility in MRSA strains by NPPB.|https://dx.doi.org/10.1038/s41598-025-09377-1
 Compounds from Cyclocarya paliurus leaves inhibit binary division of methicillin-resistant Staphylococcus aureus by disrupting FtsZ dynamic.|https://dx.doi.org/10.3389/fmicb.2025.1622623
 Antibiotic-persistent bacterial cells exhibiting low-level ROS are eradicated by ROS-independent membrane disruption.|https://dx.doi.org/10.1128/mbio.01199-25
+Poly-β-D-(1,6)-N-acetyl-glucosamine (PNAG) glycan vaccines with broad spectrum neutralizing activities.|https://dx.doi.org/10.1038/s41467-025-61559-7
+Staphylococcus aureus LukMF' targets neutrophils to promote skin and soft tissue infection.|https://dx.doi.org/10.1126/sciadv.adr5240
+An exploratory cost-effectiveness analysis of methicillin-resistant Staphylococcus aureus nares PCR in pediatric pneumonia and tracheitis.|https://dx.doi.org/10.1017/ash.2025.10043

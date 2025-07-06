@@ -16,3 +16,7 @@ Antimicrobial Resistance Patterns in <em>Pseudomonas Aeruginosa</em> Isolated fr
 Childhood necrotising pneumonia, empyema and complicated parapneumonic effusion secondary to community acquired pneumonia: report of 158 cases from a tertiary hospital in Egypt.|https://dx.doi.org/10.1186/s12931-025-03291-w
 Prevalence, aetiology and host and management factors associated with bovine mastitis in dairy cows in Zoba Anseba, Eritrea: a cross-sectional study.|https://dx.doi.org/10.1186/s12917-025-04868-9
 Management of pathologic fracture of long bones as a complication of acute osteomyelitis: a challenging task for orthopedic surgeons.|https://dx.doi.org/10.1186/s12891-025-08900-9
+Emergence of livestock-associated MRSA in the Egyptian Nile Delta that carry the exfoliative toxin gene etA: a case for enhanced surveillance.|https://dx.doi.org/10.1007/s10096-025-05163-z
+From colonizer to culprit: genomic and clinical insights into S. epidermidis from post-surgical endophthalmitis.|https://dx.doi.org/10.1007/s10096-025-05206-5
+Modeling Pseudomonas aeruginosa-Staphylococcus aureus interactions in zebrafish to assess the host inflammatory response upon co-infection.|https://dx.doi.org/10.1038/s41598-025-08459-4
+sdrH enhances Staphylococcus aureus infection in diabetic wounds.|https://dx.doi.org/10.3389/fmicb.2025.1502428
