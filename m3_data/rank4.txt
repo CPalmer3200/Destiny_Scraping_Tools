@@ -2,3 +2,5 @@ Discordance in Clinical Indicators With Sequential Fecal Microbiota Transplantat
 Donor-centric administration of the stool donor program is vital to its feasibility and patient safety.|https://dx.doi.org/10.1080/19490976.2025.2508950
 The Lasting Imprint of Antibiotics on Gut Microbiota: Exploring Long-Term Consequences and Therapeutic Interventions.|https://dx.doi.org/10.7759/cureus.84114
 Perspectives on Fecal Microbiota Transplantation: Uses and Modes of Administration.|https://dx.doi.org/10.62958/j.cjap.2025.014
+Current state of microbiota clinical applications in neonatal and pediatric bacterial infections.|https://dx.doi.org/10.1080/19490976.2025.2529400
+Clinical management of Clostridioides difficile infection with faecal microbiota transplantation: a real-world cohort study.|https://dx.doi.org/10.1016/j.eclinm.2025.103302
