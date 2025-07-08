@@ -20,3 +20,4 @@ Near-infrared light and magnetic field dual-responsive 3D printed scaffolds for 
 pH-Responsive Bilayer Hydrogel with Synergistic Antibacterial/Anti-inflammatory Effect for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.5c08728
 Dialdehyde carboxymethyl cellulose and polyvinyl alcohol based hydrogel dressing via dual dynamic bonds with self-adaptive, hemostatic, and antibacterial activity for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145687
 Self-cross-linked carboxymethyl chitosan/polyethylene glycol hydrogel containing bioactive peptide accelerates bacterial-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145744
+Engineering Injectable, Adhesive, and Drug-Free Hydrogel for Efficient Acute Otitis Media Treatment by Biofilm Disruption and Immune Modulation.|https://dx.doi.org/10.1002/adhm.202502562
