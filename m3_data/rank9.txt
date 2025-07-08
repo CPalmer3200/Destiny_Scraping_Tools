@@ -7,3 +7,4 @@ A novel case of aripiprazole and clomipramine-induced toxic megacolon: enough to
 Clinical outcomes of flomoxef versus cefmetazole in hospitalized patients with urinary tract infections: combined retrospective analyses of two real-world databases and in vitro data.|https://dx.doi.org/10.1186/s12916-025-04130-x
 Clostridium difficile induced coagulopathy: Implications for microsurgery in the setting of limb salvage.|https://dx.doi.org/10.1016/j.bjps.2025.06.010
 Increased excitation enhances the sound-induced flash illusion by impairing multisensory causal inference in the schizophrenia spectrum.|https://dx.doi.org/10.1016/j.schres.2025.06.007
+Immune-mediated adverse events in the randomized phase 3 TOPAZ-1 study of durvalumab plus gemcitabine and cisplatin in advanced biliary tract cancer.|https://dx.doi.org/10.1093/oncolo/oyaf148

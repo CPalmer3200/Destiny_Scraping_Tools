@@ -32,3 +32,4 @@ Fecal microbiota transplantation for prevention of recurrent acute cholangitis. 
 Turkish Version of the Cardiac Distress Inventory and Cardiac Distress Inventory Short Form: A Validity and Reliability Study.|https://dx.doi.org/10.5543/tkda.2025.94460
 Lyophilised fecal microbiota transfer in capsules for recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107561
 A review of engraftment assessments following fecal microbiota transplant.|https://dx.doi.org/10.1080/19490976.2025.2525478
+The role of fecal microbiota transplantation in selected neurodegenerative diseases and neurodevelopmental disorders.|https://dx.doi.org/10.5114/pg.2024.146118

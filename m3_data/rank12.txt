@@ -13,3 +13,4 @@ Roles of Gut Microbiota and Associated Metabolites in Clostridioides difficile I
 Nurses' knowledge of Clostridioides difficile pre and post education: A continuing challenge.|https://dx.doi.org/10.1016/j.idh.2025.06.001
 Clostridioides difficile toxins alter host metabolic pathway and bile acid homeostasis gene expression in colonic epithelium.|https://dx.doi.org/10.1128/iai.00150-25
 Opioid Use and Risk of Clostridioides difficile Infection in Hospitalized Patients: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.ajic.2025.06.019
+Genomic insights into tigecycline non-susceptibility in Clostridioides difficile: the role of the Tet P determinant and efflux mechanisms.|https://dx.doi.org/10.1186/s12866-025-04143-9
