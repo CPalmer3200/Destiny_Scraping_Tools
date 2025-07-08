@@ -20,3 +20,6 @@ Emergence of livestock-associated MRSA in the Egyptian Nile Delta that carry the
 From colonizer to culprit: genomic and clinical insights into S. epidermidis from post-surgical endophthalmitis.|https://dx.doi.org/10.1007/s10096-025-05206-5
 Modeling Pseudomonas aeruginosa-Staphylococcus aureus interactions in zebrafish to assess the host inflammatory response upon co-infection.|https://dx.doi.org/10.1038/s41598-025-08459-4
 sdrH enhances Staphylococcus aureus infection in diabetic wounds.|https://dx.doi.org/10.3389/fmicb.2025.1502428
+Exploring protein adenylyltransferase as a therapeutic target for combating ESKAPE pathogens in hospital-acquired infections.|https://dx.doi.org/10.1007/s11033-025-10735-5
+Spinal Epidural Abscess: Raising the Index of Suspicion.|https://dx.doi.org/10.7759/cureus.85465
+Self-cross-linked carboxymethyl chitosan/polyethylene glycol hydrogel containing bioactive peptide accelerates bacterial-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145744

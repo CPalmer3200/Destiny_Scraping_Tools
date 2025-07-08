@@ -2,3 +2,4 @@ Knowledge, attitudes, and practices (KAP) towards airborne isolation precautions
 Management of urinary stones by experts in stone disease (ESD 2025).|https://dx.doi.org/10.4081/aiua.2025.14085
 Outcomes of Staphylococcal Periprosthetic Joint Infections Treated With Rifampin and the Potential Role of Rifabutin as a Substitute When High-risk Drug-drug Interactions Exist.|https://dx.doi.org/10.3928/01477447-20250618-01
 The implementation of complex infection control bundles to prevent colorectal surgical site infections: a survey of SHEA research network hospitals.|https://dx.doi.org/10.1017/ash.2025.183
+Timing of Antibiotic Prophylaxis Prior to Abdominal Surgery Has No Impact on Infectious Complications: A Retrospective Matched Cohort Study.|https://dx.doi.org/10.1097/SLA.0000000000006832

@@ -14,3 +14,5 @@ Antibiotic-persistent bacterial cells exhibiting low-level ROS are eradicated by
 Poly-β-D-(1,6)-N-acetyl-glucosamine (PNAG) glycan vaccines with broad spectrum neutralizing activities.|https://dx.doi.org/10.1038/s41467-025-61559-7
 Staphylococcus aureus LukMF' targets neutrophils to promote skin and soft tissue infection.|https://dx.doi.org/10.1126/sciadv.adr5240
 An exploratory cost-effectiveness analysis of methicillin-resistant Staphylococcus aureus nares PCR in pediatric pneumonia and tracheitis.|https://dx.doi.org/10.1017/ash.2025.10043
+Inclusion of a Low- and Middle-Income Country Site in the Staphylococcus aureus Network Adaptive Platform (SNAP) Trial: Experiences from Johannesburg.|https://dx.doi.org/10.1016/j.cmi.2025.06.032
+In silico development of a broad-spectrum vaccine against ESKAPE pathogens.|https://dx.doi.org/10.1016/j.jmgm.2025.109120

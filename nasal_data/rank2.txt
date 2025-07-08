@@ -16,3 +16,4 @@ Substantial co-trimoxazole resistant S. aureus nasal carriage despite low coloni
 Nasal carriage rate and multiple antimicrobial resistance indices of Staphylococcus aureus among healthcare students at the Ahmadu Bello University, Nigeria.|https://dx.doi.org/10.4102/ajlm.v14i1.2667
 Staphylococcus aureus nasal carriage before breast reconstruction: antibiotic resistance, biofilm formation, and virulence genes-a single center in vitro observation.|https://dx.doi.org/10.3389/fmicb.2025.1610739
 Surveillance of Multidrug-Resistant Organisms and Trends in Antimicrobial Susceptibility in Chronically Hospitalized Pediatric Patients.|https://dx.doi.org/10.3947/ic.2025.0049
+Engineering Injectable, Adhesive, and Drug-Free Hydrogel for Efficient Acute Otitis Media Treatment by Biofilm Disruption and Immune Modulation.|https://dx.doi.org/10.1002/adhm.202502562
