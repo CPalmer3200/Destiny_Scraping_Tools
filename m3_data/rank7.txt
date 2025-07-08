@@ -1,5 +1,0 @@
-Development and validation of a novel Endoscopic ulcer Activity Score for Evaluation of Crohn's Disease (EASE-CD) using data from two randomised controlled trials.|https://dx.doi.org/10.1016/S2468-1253(25)00093-7
-Antibiotic-related dysbiosis of gut microbiota in healthy volunteers: a comparative study of ceftazidime-avibactam, piperacillin-tazobactam, and ceftriaxone.|https://dx.doi.org/10.1007/s10096-025-05184-8
-Development of a toxin-selective immunotracer for in vivo detection of Clostridioides difficile infection by immunoPET.|https://dx.doi.org/10.1186/s41181-025-00350-x
-Thiol-based redox sensing regulates the yellow pigment and antioxidant accumulation and improves the nutritional quality of wheat grains (Triticum aestivum L.).|https://dx.doi.org/10.3389/fpls.2025.1488697
-Photo-aged polylactic acid microplastics causes severe transgenerational decline in reproductive capacity in C. elegans: Insight into activation of DNA damage checkpoints affected by multiple germline histone methyltransferases.|https://dx.doi.org/10.1016/j.envpol.2025.126697

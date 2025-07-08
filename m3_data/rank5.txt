@@ -1,5 +1,0 @@
-A time-series analysis approach to quantify change in antibiotic resistance and antibiotic consumption during COVID-19 Epidemics: a multicenter cross-national ecological study on behalf of QUARANTINE (QUantifying change in Antibiotic Resistance, ANTibiotic use, and INfection control during COVID-19 Epidemics) study project.|https://dx.doi.org/10.1016/j.cmi.2025.06.009
-Progresses on the prevalence and mechanism of vancomycin- resistant bacteria.|https://dx.doi.org/10.16288/j.yczz.24-209
-Impact of Substance Use Disorders on Outcomes of Medically Insured Persons Receiving Multiweek Outpatient Parenteral Antimicrobial Therapy: a Claims-based Cohort Study From 2015 to 2020.|https://dx.doi.org/10.1093/ofid/ofaf315
-Improving fidaxomicin production through ARTP mutagenesis and fermentation optimization in Actinoplanes deccanensis.|https://dx.doi.org/10.1016/j.synbio.2025.06.002
-Hospital unit colonization pressure and nosocomial acquisition of drug susceptible and drug resistant pathogens.|https://dx.doi.org/10.1101/2025.06.11.25329430
