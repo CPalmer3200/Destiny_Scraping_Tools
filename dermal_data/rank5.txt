@@ -12,3 +12,4 @@ Anti-Pseudomonas aeruginosa Activity of the Scorpion-Derived Peptide GK8.|https:
 An Atypical Manifestation of Cellulitis Induced by Proteus mirabilis.|https://dx.doi.org/10.7759/cureus.85249
 Comparative genomic analysis of resistance and virulence genes in staphylococcus epidermidis and their impact on clinical outcome of musculoskeletal infections.|https://dx.doi.org/10.1038/s41598-025-09061-4
 Skin-deep strategies of intraspecific competition.|https://dx.doi.org/10.1038/s41564-025-02049-w
+A delayed-melting cryomicroneedle system for probiotic delivery against invasive Candida albicans infection.|https://dx.doi.org/10.1016/j.jconrel.2025.114016
