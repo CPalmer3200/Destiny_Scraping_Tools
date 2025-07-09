@@ -23,3 +23,10 @@ sdrH enhances Staphylococcus aureus infection in diabetic wounds.|https://dx.doi
 Exploring protein adenylyltransferase as a therapeutic target for combating ESKAPE pathogens in hospital-acquired infections.|https://dx.doi.org/10.1007/s11033-025-10735-5
 Spinal Epidural Abscess: Raising the Index of Suspicion.|https://dx.doi.org/10.7759/cureus.85465
 Self-cross-linked carboxymethyl chitosan/polyethylene glycol hydrogel containing bioactive peptide accelerates bacterial-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145744
+Enhanced antibacterial activity of copper sulfide/polyetheretherketone biocomposites.|https://dx.doi.org/10.1007/s10856-025-06902-6
+Copper-coated carbon-infiltrated carbon nanotube surfaces effectively inhibit Staphylococcus aureus and Pseudomonas aeruginosa biofilm formation.|https://dx.doi.org/10.1128/aem.01053-25
+Effect of respiratory microflorae colonization on short and long-time outcomes of respiratory syncytial virus infection in children: A scoping review.|https://dx.doi.org/10.1002/pdi3.97
+A fatal case of pyogenic spondylitis rapidly progressing to epidural abscess caused by a novel ST-type methicillin-susceptible Staphylococcus aureus ST9378.|https://dx.doi.org/10.35772/ghmo.2025.01001
+Infection Control Strategies for Preventing Methicillin-Resistant Staphylococcus aureus-Related Surgical Site Infections in Pakistan: A Mixed-Methods Analysis.|https://dx.doi.org/10.7759/cureus.85451
+Biodegradable, Antibacterial TCP Implant Coatings With Magnesium Phosphate-Based Supraparticles.|https://dx.doi.org/10.1002/jbm.a.37963
+Ludwig's Angina and a Complicated Course of Streptococcus constellatus Management.|https://dx.doi.org/10.1177/08850666251357488
