@@ -13,3 +13,9 @@ Higher C-reactive protein/albumin ratio is a potential marker for predicting amp
 From prototype to implementation: Development of the DMIST scoring system for monitoring diabetic foot ulcers.|https://dx.doi.org/10.35772/ghmo.2023.01024
 Exosomal peptides and proteins in wound healing and skin regeneration.|https://dx.doi.org/10.1007/s00210-025-04426-y
 "An Effective Solution to Accelerate the Healing of Complex Ulcers Using Recombinant Human Epidermal Growth Factor (Intralesional Application): A Review".|https://dx.doi.org/10.2147/DDDT.S517489
+Concordance of molecular microbiology and conventional culture techniques for infected diabetic foot ulcer management.|https://dx.doi.org/10.1111/dme.70089
+Postoperative Complications in Patients With Diabetes Undergoing Total Ankle Replacement: A 30-, 90-, and 365-Day Analysis.|https://dx.doi.org/10.1053/j.jfas.2025.06.013
+Bacteriological profiles of diabetic ulcers in cases of major limb amputation: insights from Solomon Islands.|https://dx.doi.org/10.12968/jowc.2025.0201
+Cost-effectiveness of a nitric oxide-generating medical device in managing hard-to-heal diabetic foot ulcers.|https://dx.doi.org/10.12968/jowc.2024.0417
+Biofilm detection-based wound management in diabetic foot ulcers: a randomised controlled trial.|https://dx.doi.org/10.12968/jowc.2024.0051
+Commentary on "Polymicrobial Infection in Bone Biopsies and Relapse in Diabetic Foot Osteomyelitis: The Role of Soft Tissue Involvement".|https://dx.doi.org/10.1111/wrr.70066
