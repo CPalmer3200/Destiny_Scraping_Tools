@@ -24,3 +24,7 @@ Engineering Injectable, Adhesive, and Drug-Free Hydrogel for Efficient Acute Oti
 Synthesize, antioxidant and antimicrobial properties of a chitosan xerogel film with Nigella Sativa extract.|https://dx.doi.org/10.1038/s41598-025-09153-1
 Dual stimuli-responsive and self-healing hyaluronic acid-based nanocomposite hydrogels for promoting wound healing of methicillin-resistant Staphylococcus aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145829
 Surface-Engineered WS(2) Nanohybrids for Implications in Biomedicine.|https://dx.doi.org/10.1021/acsami.5c06846
+Cinnamomum zeylanicum extract incorporated electrospun poly(lactic acid)/gelatin membrane as a new wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145837
+Transdermal delivery of antibacterial peptides in the management of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.coph.2025.102548
+Resveratrol-loaded engineered microcapsules with dual antimicrobial and ROS-scavenging for programmed wound healing.|https://dx.doi.org/10.1016/j.mtbio.2025.102007
+Wound Dressing Potential of Bacterial Cellulose Produced by Acetobacter tropicalis NBRC 16470 Strain Isolated from Rotten Fruits.|https://dx.doi.org/10.2174/0113892010361594250703060501
