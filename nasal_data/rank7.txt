@@ -30,3 +30,13 @@ A fatal case of pyogenic spondylitis rapidly progressing to epidural abscess cau
 Infection Control Strategies for Preventing Methicillin-Resistant Staphylococcus aureus-Related Surgical Site Infections in Pakistan: A Mixed-Methods Analysis.|https://dx.doi.org/10.7759/cureus.85451
 Biodegradable, Antibacterial TCP Implant Coatings With Magnesium Phosphate-Based Supraparticles.|https://dx.doi.org/10.1002/jbm.a.37963
 Ludwig's Angina and a Complicated Course of Streptococcus constellatus Management.|https://dx.doi.org/10.1177/08850666251357488
+Clinical Characteristics and Surgical Outcomes of Spinal Infections in Intravenous Drug Users and Non-Intravenous Drug Users.|https://dx.doi.org/10.1016/j.spinee.2025.07.025
+Panton-Valentine Leukocidin Genes and Staphylococcal Cassette Chromosome Mec Types in Methicillin-Resistant Staphylococcus aureus That Causes Hospital- and Community-Acquired Infections.|https://dx.doi.org/10.4269/ajtmh.24-0452
+Detection of bone infections using Vis-NIR and SWIR hyperspectral imaging coupled with machine learning.|https://dx.doi.org/10.1016/j.saa.2025.126652
+Prevalence and risk factors of antimicrobial resistance patterns of Staphylococcus spp. and E. coli in rodents and shrews at human-animal interfaces in Chattogram, Bangladesh.|https://dx.doi.org/10.1371/journal.pone.0327857
+Can a Single Strand of Hair Contaminate a Surgical Instrument Set? A Controlled Experimental Study.|https://dx.doi.org/10.1177/10962964251359184
+Successful Non-surgical Management of an Infected Femoral Pseudoaneurysm and Metastatic Septic Arthritis Following Percutaneous Coronary Intervention in a Hemodialysis Patient.|https://dx.doi.org/10.7759/cureus.85586
+A Case Report of Acute on Chronic Osteomyelitis of Distal Femur Managed with Sequestrectomy, Saucerization, and Stimulan Placement.|https://dx.doi.org/10.13107/jocr.2025.v15.i07.5808
+Osteomyelitis of the cuboid treated with one-stage debridement and bone grafting: a case report and literature review.|https://dx.doi.org/10.1186/s12891-025-08929-w
+Synthesize, antioxidant and antimicrobial properties of a chitosan xerogel film with Nigella Sativa extract.|https://dx.doi.org/10.1038/s41598-025-09153-1
+Dual stimuli-responsive and self-healing hyaluronic acid-based nanocomposite hydrogels for promoting wound healing of methicillin-resistant Staphylococcus aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145829

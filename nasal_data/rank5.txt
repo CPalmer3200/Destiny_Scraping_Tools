@@ -21,3 +21,4 @@ Application of Multidisciplinary Diagnosis and Treatment (MDT) clinical teaching
 Spanish Hospital Cost Network Database: building a national benchmark from cost accounting practices.|https://dx.doi.org/10.1186/s12913-025-13059-z
 Impact of RoSCo-based preoperative risk stratification on early mobilization and short-term outcomes following robot-assisted laparoscopic partial nephrectomy for renal cell carcinoma: a single-center prospective study.|https://dx.doi.org/10.1007/s11701-025-02504-0
 Efficacy of closed-incision negative pressure wound therapy in abdominal-based autologous breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2025.06.032
+Predictive value of preoperative frailty combined with Controlling Nutritional Status score for postoperative lung infection in breast cancer patients.|https://dx.doi.org/10.1097/MD.0000000000043037

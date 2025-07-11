@@ -17,3 +17,5 @@ An exploratory cost-effectiveness analysis of methicillin-resistant Staphylococc
 Inclusion of a Low- and Middle-Income Country Site in the Staphylococcus aureus Network Adaptive Platform (SNAP) Trial: Experiences from Johannesburg.|https://dx.doi.org/10.1016/j.cmi.2025.06.032
 In silico development of a broad-spectrum vaccine against ESKAPE pathogens.|https://dx.doi.org/10.1016/j.jmgm.2025.109120
 Long-term DNA methylation changes mediate heterologous cytokine responses after BCG vaccination.|https://dx.doi.org/10.1186/s13059-025-03611-9
+A feasibility study for personalized phage therapy against drug-resistant bacteria in Japan.|https://dx.doi.org/10.1016/j.jiac.2025.102770
+Structure of ClfA002 in complex with neutralizing antibody AZD7745 provides insight into its broad neutralization mechanism in Staphylococcus aureus infection.|https://dx.doi.org/10.1093/infdis/jiaf357
