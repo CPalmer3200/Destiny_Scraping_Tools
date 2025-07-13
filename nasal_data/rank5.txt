@@ -22,3 +22,5 @@ Spanish Hospital Cost Network Database: building a national benchmark from cost 
 Impact of RoSCo-based preoperative risk stratification on early mobilization and short-term outcomes following robot-assisted laparoscopic partial nephrectomy for renal cell carcinoma: a single-center prospective study.|https://dx.doi.org/10.1007/s11701-025-02504-0
 Efficacy of closed-incision negative pressure wound therapy in abdominal-based autologous breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2025.06.032
 Predictive value of preoperative frailty combined with Controlling Nutritional Status score for postoperative lung infection in breast cancer patients.|https://dx.doi.org/10.1097/MD.0000000000043037
+Pilot Study: Investigating the Local Breast Microbiome in Implant-based Breast Reconstruction Using 16S rRNA Sequencing.|https://dx.doi.org/10.1097/GOX.0000000000006928
+Prevention of Post-Mastectomy Seroma in Breast Cancer Patients: A comparative analysis of the effectiveness of fibrin glue versus quilting.|https://dx.doi.org/10.18295/2075-0528.2850
