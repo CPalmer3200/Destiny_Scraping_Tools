@@ -3,3 +3,5 @@ Gut microbiota constituents may affect hypertrophic scarring risk through intera
 MIP-3α-antigen fusion DNA vaccine enhances sex differences in tuberculosis model and alters dendritic cell activity early post vaccination.|https://dx.doi.org/10.1038/s41598-025-06532-6
 A clinico-epidemiological study, assessing possible predictors of mortality and health-related quality of life for people living with visceral leishmaniasis - human immune virus (VL-HIV) co-infection in a high burden kala-azar endemic state of India: a descriptive cross-sectional study.|https://dx.doi.org/10.1186/s12879-025-10768-y
 The Frank Stinchfield Award: Preoperative Surgical Skin Cleansing Protocols Are Not Effective at Decreasing the Burden of Cutibacterium acnes Before Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2025.04.029
+Plant-Based ZnO Nanoparticles for Green Nanobiocontrol of a Highly Virulent Bacterial Leaf Blight Pathogen: Mechanistic Insights and Biocompatibility Evaluation.|https://dx.doi.org/10.3390/nano15131011
+Time-dependent cytotoxicity of naphthalene on HepG2 cell lines.|https://dx.doi.org/10.1016/j.chemosphere.2025.144567

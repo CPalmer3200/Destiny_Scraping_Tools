@@ -5,3 +5,6 @@ Emergence of livestock-associated MRSA in the Egyptian Nile Delta that carry the
 Factors influencing bacterial viability on face masks and bactericidal effect of disinfection methods.|https://dx.doi.org/10.1038/s41598-025-09204-7
 Bacteriophage infection drives loss of β-lactam resistance in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.7554/eLife.102743
 Exosome microsphere/nano silver loaded injectable antibacterial hydrogel augments anti-infection and healing for scald wound.|https://dx.doi.org/10.3389/fmicb.2025.1550276
+Pediatric Staphylococcal Scalded Skin Syndrome: A Systematic Review of the Literature to Inform Work-Up and Management.|https://dx.doi.org/10.1111/pde.16029
+Synthesis, Antimicrobial Activities, and Model of Action of Novel Tetralone Derivatives Containing Aminoguanidinium Moiety.|https://dx.doi.org/10.3390/ijms26135980
+Community-acquired staphylococcal scalded skin syndrome in an immunocompetent adult.|https://dx.doi.org/10.1007/s10096-025-05204-7

@@ -13,3 +13,4 @@ An Atypical Manifestation of Cellulitis Induced by Proteus mirabilis.|https://dx
 Comparative genomic analysis of resistance and virulence genes in staphylococcus epidermidis and their impact on clinical outcome of musculoskeletal infections.|https://dx.doi.org/10.1038/s41598-025-09061-4
 Skin-deep strategies of intraspecific competition.|https://dx.doi.org/10.1038/s41564-025-02049-w
 A delayed-melting cryomicroneedle system for probiotic delivery against invasive Candida albicans infection.|https://dx.doi.org/10.1016/j.jconrel.2025.114016
+Efficacy of phage vB_Ps_ZCPS13 in controlling Pan-drug-resistant Pseudomonas aeruginosa from urinary tract infections (UTIs) and eradicating biofilms from urinary catheters.|https://dx.doi.org/10.1186/s12985-025-02848-x

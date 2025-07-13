@@ -20,3 +20,5 @@ Cost-effectiveness of a nitric oxide-generating medical device in managing hard-
 Biofilm detection-based wound management in diabetic foot ulcers: a randomised controlled trial.|https://dx.doi.org/10.12968/jowc.2024.0051
 Commentary on "Polymicrobial Infection in Bone Biopsies and Relapse in Diabetic Foot Osteomyelitis: The Role of Soft Tissue Involvement".|https://dx.doi.org/10.1111/wrr.70066
 New Strategies for the Treatment of Diabetic Foot Ulcers Using Nanoenzymes: Frontline Advances in Anti-Infection, Immune Regulation, and Microenvironment Improvement.|https://dx.doi.org/10.2147/IJN.S531396
+Whole genome sequence of a virulent and multidrug resistant Staphylococcus aureus strain MD02 isolated from a diabetic foot ulcer in Uganda.|https://dx.doi.org/10.1186/s12863-025-01342-1
+Advancements in diabetic foot ulcer therapy: The role of exosomes and decellularised extracellular matrix scaffolds.|https://dx.doi.org/10.1016/j.diabres.2025.112364
