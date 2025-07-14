@@ -22,3 +22,4 @@ Commentary on "Polymicrobial Infection in Bone Biopsies and Relapse in Diabetic 
 New Strategies for the Treatment of Diabetic Foot Ulcers Using Nanoenzymes: Frontline Advances in Anti-Infection, Immune Regulation, and Microenvironment Improvement.|https://dx.doi.org/10.2147/IJN.S531396
 Whole genome sequence of a virulent and multidrug resistant Staphylococcus aureus strain MD02 isolated from a diabetic foot ulcer in Uganda.|https://dx.doi.org/10.1186/s12863-025-01342-1
 Advancements in diabetic foot ulcer therapy: The role of exosomes and decellularised extracellular matrix scaffolds.|https://dx.doi.org/10.1016/j.diabres.2025.112364
+The incidence of and risk factors for hospitalisations and amputations for people with diabetes-related foot ulcers in Queensland, 2011-19: an observational cohort study.|https://dx.doi.org/10.5694/mja2.52703

@@ -33,3 +33,5 @@ Bionic Janus Fiber Enabling Autonomous Exudate Management and Multimodal Sterili
 Development of a γ-Cyclodextrin-Based Cryogel Loaded with Trimethoprim for Acne Treatment: Design, Synthesis, and In Vitro Evaluation.|https://dx.doi.org/10.3390/ijms26136319
 Statistical Optimization of Bacterial Cellulose Production and Its Application for Bacteriophage Immobilization.|https://dx.doi.org/10.3390/ijms26136059
 Design of a Dual-Drug Delivery System for Local Release of Chlorhexidine and Dexketoprofen.|https://dx.doi.org/10.3390/polym17131771
+Bionanocomposite hydrogel based on carboxymethyl cellulose/xanthan gum/ZnO reinforced with Arundo donax biomass: Production, characterization, swelling study and bacterial disinfection properties in water.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145957
+Acetylated yeast mannan endowing biomimetic electrospun nanofibers with hydrophobicity and moisturizing property for accelerated cutaneous defects repair.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145944
