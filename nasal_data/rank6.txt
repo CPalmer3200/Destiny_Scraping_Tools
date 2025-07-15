@@ -19,3 +19,6 @@ In silico development of a broad-spectrum vaccine against ESKAPE pathogens.|http
 Long-term DNA methylation changes mediate heterologous cytokine responses after BCG vaccination.|https://dx.doi.org/10.1186/s13059-025-03611-9
 A feasibility study for personalized phage therapy against drug-resistant bacteria in Japan.|https://dx.doi.org/10.1016/j.jiac.2025.102770
 Structure of ClfA002 in complex with neutralizing antibody AZD7745 provides insight into its broad neutralization mechanism in Staphylococcus aureus infection.|https://dx.doi.org/10.1093/infdis/jiaf357
+Oral administration of Bacillus subtilis spores expressing Staphylococcus aureus IsdB induces mucosal immune responses in mice.|https://dx.doi.org/10.1007/s10529-025-03620-5
+Respiratory pathogens detected in children aged <5 years hospitalized with severe respiratory illness, South Africa, 2017.|https://dx.doi.org/10.3389/fped.2025.1498197
+An anti-complement homogeneous polysaccharide from Houttuynia cordata ameliorates acute pneumonia with H1N1 and MRSA coinfection through rectifying Treg/Th17 imbalance in the gut-lung axis and NLRP3 inflammasome activation.|https://dx.doi.org/10.1016/j.apsb.2025.04.008

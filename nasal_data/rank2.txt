@@ -17,3 +17,6 @@ Nasal carriage rate and multiple antimicrobial resistance indices of Staphylococ
 Staphylococcus aureus nasal carriage before breast reconstruction: antibiotic resistance, biofilm formation, and virulence genes-a single center in vitro observation.|https://dx.doi.org/10.3389/fmicb.2025.1610739
 Surveillance of Multidrug-Resistant Organisms and Trends in Antimicrobial Susceptibility in Chronically Hospitalized Pediatric Patients.|https://dx.doi.org/10.3947/ic.2025.0049
 Engineering Injectable, Adhesive, and Drug-Free Hydrogel for Efficient Acute Otitis Media Treatment by Biofilm Disruption and Immune Modulation.|https://dx.doi.org/10.1002/adhm.202502562
+Patient Profile and Perioperative Care Practices Associated With the Absence of Deep Surgical Site Infections in Patients Following Coronary Artery Bypass Graft Surgery.|https://dx.doi.org/10.1097/NCQ.0000000000000891
+Prevalence, identification and antimicrobial sensitivity profile of methicillin resistant Staphylococcus colonizing dogs, cats and humans in a veterinary hospital, Brazil.|https://dx.doi.org/10.1016/j.rvsc.2025.105793
+Preliminary Study on the Development of a Biodegradable Functional Nasal Packing Material.|https://dx.doi.org/10.3390/polym17131878

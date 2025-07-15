@@ -40,3 +40,13 @@ A Case Report of Acute on Chronic Osteomyelitis of Distal Femur Managed with Seq
 Osteomyelitis of the cuboid treated with one-stage debridement and bone grafting: a case report and literature review.|https://dx.doi.org/10.1186/s12891-025-08929-w
 Synthesize, antioxidant and antimicrobial properties of a chitosan xerogel film with Nigella Sativa extract.|https://dx.doi.org/10.1038/s41598-025-09153-1
 Dual stimuli-responsive and self-healing hyaluronic acid-based nanocomposite hydrogels for promoting wound healing of methicillin-resistant Staphylococcus aureus infection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145829
+Hierarchical micro-nano topographies to control Bacteria and mesenchymal stem cells biological responses.|https://dx.doi.org/10.1038/s41598-025-08415-2
+[Reconstruction of bone defects after resection of osteosarcoma in children with artificial hemi-knee prosthesis].|https://dx.doi.org/10.7507/1002-1892.202503035
+Animal Model of Implant-Associated Infections in Mice.|https://dx.doi.org/10.3791/68041
+Antimicrobial activity of simvastatin against chronic rhinosinusitis-related Staphylococcus aureus: an in vitro study.|https://dx.doi.org/10.4193/Rhin25.023
+Interacting immediate and long-term action regulation in suicidal behavior.|https://dx.doi.org/10.1016/j.xjmad.2025.100118
+Mesh-Augmented Ventral Hernia Repair Despite Iatrogenic Staphylococcus aureus-Peritonitis Due to Progressive Pneumoperitoneum: A Case Report.|https://dx.doi.org/10.70352/scrj.cr.25-0099
+Polydopamine Nanoparticle-Integrated Smart Bletilla striata Polysaccharide Hydrogel: Photothermal-Triggered CO(2) Release for Diabetic Wound Microenvironment Modulation.|https://dx.doi.org/10.2147/IJN.S525172
+Biofilm-Induced Bone Degradation in Osteomyelitis: Insights from a comprehensive ex vivo pathogen interaction study.|https://dx.doi.org/10.18295/squmj.10.2024.053
+Synovial advanced glycosylation end products aggravate periprosthetic infection in diabetes by upregulating Staphylococcus aureus RNAIII.|https://dx.doi.org/10.1016/j.jot.2025.06.012
+Endophthalmitis With Subretinal Abscesses Presenting as Charles Bonnet Syndrome in a Patient With Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia: A Case Report and Discussion of the Literature.|https://dx.doi.org/10.7759/cureus.85737
