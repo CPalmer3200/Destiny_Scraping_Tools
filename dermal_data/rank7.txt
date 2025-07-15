@@ -5,3 +5,6 @@ A clinico-epidemiological study, assessing possible predictors of mortality and 
 The Frank Stinchfield Award: Preoperative Surgical Skin Cleansing Protocols Are Not Effective at Decreasing the Burden of Cutibacterium acnes Before Total Hip Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2025.04.029
 Plant-Based ZnO Nanoparticles for Green Nanobiocontrol of a Highly Virulent Bacterial Leaf Blight Pathogen: Mechanistic Insights and Biocompatibility Evaluation.|https://dx.doi.org/10.3390/nano15131011
 Time-dependent cytotoxicity of naphthalene on HepG2 cell lines.|https://dx.doi.org/10.1016/j.chemosphere.2025.144567
+Encapsulation of ZnO-NPs, tannic acid, and β-carotene into cellulose coated polydopamine bionanoplatform: Fabrication, characterization, antimicrobial, and in vitro wound healing evaluation.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145928
+Prognostic value of serum concentrations of interleukin-6 and interleukin-8 in dermal burn injuries among pediatric patients.|https://dx.doi.org/10.1093/jbcr/iraf136
+Molecular Identification, Phylogenetic Analysis, Clinical and Histopathological Findings of Dermocystidium anguillae From Koi Carp (Cyprinus carpio).|https://dx.doi.org/10.1111/jfd.70021

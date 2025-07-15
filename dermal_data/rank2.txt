@@ -23,3 +23,6 @@ New Strategies for the Treatment of Diabetic Foot Ulcers Using Nanoenzymes: Fron
 Whole genome sequence of a virulent and multidrug resistant Staphylococcus aureus strain MD02 isolated from a diabetic foot ulcer in Uganda.|https://dx.doi.org/10.1186/s12863-025-01342-1
 Advancements in diabetic foot ulcer therapy: The role of exosomes and decellularised extracellular matrix scaffolds.|https://dx.doi.org/10.1016/j.diabres.2025.112364
 The incidence of and risk factors for hospitalisations and amputations for people with diabetes-related foot ulcers in Queensland, 2011-19: an observational cohort study.|https://dx.doi.org/10.5694/mja2.52703
+Efficacy of autologous cell therapy on limb salvage in patients with chronic limb-threatening ischemia: 16-year single-center experience.|https://dx.doi.org/10.1186/s13287-025-04493-1
+Innovative Non-antibiotic Strategies for Combating Methicillin-Resistant Staphylococcus aureus in Diabetic Foot Infections.|https://dx.doi.org/10.1007/s00284-025-04349-0
+Procalcitonin and Diabetic Foot Ulcer Infections: A Meta-Analysis.|https://dx.doi.org/10.1002/edm2.70066

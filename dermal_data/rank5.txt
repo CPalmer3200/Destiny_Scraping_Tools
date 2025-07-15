@@ -14,3 +14,5 @@ Comparative genomic analysis of resistance and virulence genes in staphylococcus
 Skin-deep strategies of intraspecific competition.|https://dx.doi.org/10.1038/s41564-025-02049-w
 A delayed-melting cryomicroneedle system for probiotic delivery against invasive Candida albicans infection.|https://dx.doi.org/10.1016/j.jconrel.2025.114016
 Efficacy of phage vB_Ps_ZCPS13 in controlling Pan-drug-resistant Pseudomonas aeruginosa from urinary tract infections (UTIs) and eradicating biofilms from urinary catheters.|https://dx.doi.org/10.1186/s12985-025-02848-x
+Animal Model of Implant-Associated Infections in Mice.|https://dx.doi.org/10.3791/68041
+Thymol combined with SAEW for the eradication of mature Pseudomonas aeruginosa biofilms and reduction of bacterial virulence.|https://dx.doi.org/10.3389/fmicb.2025.1547632
