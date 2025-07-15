@@ -3,3 +3,5 @@ Infectious Complications in Patients Receiving Superselective Intra-Arterial Che
 Phage PL-1 endolysin and osmotic stress as tools to enhance heterologous protein display in lactic acid bacteria platforms.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145886
 Comparison of Clostridioides difficile Infection Incidence in a General and a Geriatric Hospital Prior to and During the COVID-19 Pandemic.|https://dx.doi.org/10.3390/jcm14134664
 Proton Pump Inhibitor Use Following Esophageal Variceal Ligation and Its Impact on Clinical Outcomes: Real-World Data from the TriNetX Global Collaborative Network.|https://dx.doi.org/10.3390/diagnostics15131653
+Appropriate Use of Proton Pump Inhibitors in General Out Patient Department of a Tertiary Care Center of Kathmandu Valley: An Observational Study.|https://dx.doi.org/10.31729/jnma.8913
+Miniature bioreactor arrays for modeling functional and structural dysbiosis in inflammatory bowel disease.|https://dx.doi.org/10.1101/2025.05.09.653173
