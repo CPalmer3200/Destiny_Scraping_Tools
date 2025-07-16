@@ -16,3 +16,8 @@ A delayed-melting cryomicroneedle system for probiotic delivery against invasive
 Efficacy of phage vB_Ps_ZCPS13 in controlling Pan-drug-resistant Pseudomonas aeruginosa from urinary tract infections (UTIs) and eradicating biofilms from urinary catheters.|https://dx.doi.org/10.1186/s12985-025-02848-x
 Animal Model of Implant-Associated Infections in Mice.|https://dx.doi.org/10.3791/68041
 Thymol combined with SAEW for the eradication of mature Pseudomonas aeruginosa biofilms and reduction of bacterial virulence.|https://dx.doi.org/10.3389/fmicb.2025.1547632
+Anatomical site and environmental exposure differentially shape the microbiota across mucosal tissues in rainbow trout (Oncorhynchus mykiss).|https://dx.doi.org/10.1038/s41598-025-11426-8
+Disinfection of medical devices with a steam machine that operates at atmospheric pressure and is suitable for home usage.|https://dx.doi.org/10.1038/s41598-025-11509-6
+The novel pyridine-fused quinolinone PQ-L5 exhibits antibacterial effects and enhances β-lactam activity by targeting PBP2a in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jmii.2025.07.006
+Invasive fungal infections caused by rare yeast-like fungi in adult patients: results of a prospective study.|https://dx.doi.org/10.22034/cmm.2025.345265.1559
+Human Wound and Its Burden: Updated 2025 Compendium of Estimates.|https://dx.doi.org/10.1177/21621918251359554

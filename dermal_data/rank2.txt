@@ -26,3 +26,5 @@ The incidence of and risk factors for hospitalisations and amputations for peopl
 Efficacy of autologous cell therapy on limb salvage in patients with chronic limb-threatening ischemia: 16-year single-center experience.|https://dx.doi.org/10.1186/s13287-025-04493-1
 Innovative Non-antibiotic Strategies for Combating Methicillin-Resistant Staphylococcus aureus in Diabetic Foot Infections.|https://dx.doi.org/10.1007/s00284-025-04349-0
 Procalcitonin and Diabetic Foot Ulcer Infections: A Meta-Analysis.|https://dx.doi.org/10.1002/edm2.70066
+Alginate-based hydrogels loaded with human β-defensin-2 promote healing of MRSA-infected wounds in a diabetic model: a preclinical proof-of-concept study.|https://dx.doi.org/10.1007/s10238-025-01798-6
+Nanozymes for Accelerating the Foot Wound Healing: A Review.|https://dx.doi.org/10.2147/IJN.S517671

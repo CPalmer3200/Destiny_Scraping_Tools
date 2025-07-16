@@ -36,3 +36,5 @@ Design of a Dual-Drug Delivery System for Local Release of Chlorhexidine and Dex
 Bionanocomposite hydrogel based on carboxymethyl cellulose/xanthan gum/ZnO reinforced with Arundo donax biomass: Production, characterization, swelling study and bacterial disinfection properties in water.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145957
 Acetylated yeast mannan endowing biomimetic electrospun nanofibers with hydrophobicity and moisturizing property for accelerated cutaneous defects repair.|https://dx.doi.org/10.1016/j.ijbiomac.2025.145944
 Polydopamine Nanoparticle-Integrated Smart Bletilla striata Polysaccharide Hydrogel: Photothermal-Triggered CO(2) Release for Diabetic Wound Microenvironment Modulation.|https://dx.doi.org/10.2147/IJN.S525172
+Nanocellulose /sodium alginate porous foams for enhanced wound healing and antibacterial.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146009
+A short amphipathic peptide-based injectable hydrogel with antibacterial properties.|https://dx.doi.org/10.1039/d5ra03481g
