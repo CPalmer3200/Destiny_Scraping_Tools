@@ -5,3 +5,4 @@ Comparison of Clostridioides difficile Infection Incidence in a General and a Ge
 Proton Pump Inhibitor Use Following Esophageal Variceal Ligation and Its Impact on Clinical Outcomes: Real-World Data from the TriNetX Global Collaborative Network.|https://dx.doi.org/10.3390/diagnostics15131653
 Appropriate Use of Proton Pump Inhibitors in General Out Patient Department of a Tertiary Care Center of Kathmandu Valley: An Observational Study.|https://dx.doi.org/10.31729/jnma.8913
 Miniature bioreactor arrays for modeling functional and structural dysbiosis in inflammatory bowel disease.|https://dx.doi.org/10.1101/2025.05.09.653173
+Association between preoperative proton pump inhibitor use and postoperative infectious and renal complications following major elective surgery.|https://dx.doi.org/10.1503/cjs.010224
