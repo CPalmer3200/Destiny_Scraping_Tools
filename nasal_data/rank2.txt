@@ -20,3 +20,4 @@ Engineering Injectable, Adhesive, and Drug-Free Hydrogel for Efficient Acute Oti
 Patient Profile and Perioperative Care Practices Associated With the Absence of Deep Surgical Site Infections in Patients Following Coronary Artery Bypass Graft Surgery.|https://dx.doi.org/10.1097/NCQ.0000000000000891
 Prevalence, identification and antimicrobial sensitivity profile of methicillin resistant Staphylococcus colonizing dogs, cats and humans in a veterinary hospital, Brazil.|https://dx.doi.org/10.1016/j.rvsc.2025.105793
 Preliminary Study on the Development of a Biodegradable Functional Nasal Packing Material.|https://dx.doi.org/10.3390/polym17131878
+Exploring the Impact of Oral Health and Vaccination on Pneumonia-causing Bacteria: Insights from Predictive Modeling.|https://dx.doi.org/10.1101/2025.05.23.25328168

@@ -50,3 +50,5 @@ Polydopamine Nanoparticle-Integrated Smart Bletilla striata Polysaccharide Hydro
 Biofilm-Induced Bone Degradation in Osteomyelitis: Insights from a comprehensive ex vivo pathogen interaction study.|https://dx.doi.org/10.18295/squmj.10.2024.053
 Synovial advanced glycosylation end products aggravate periprosthetic infection in diabetes by upregulating Staphylococcus aureus RNAIII.|https://dx.doi.org/10.1016/j.jot.2025.06.012
 Endophthalmitis With Subretinal Abscesses Presenting as Charles Bonnet Syndrome in a Patient With Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia: A Case Report and Discussion of the Literature.|https://dx.doi.org/10.7759/cureus.85737
+Disinfection of medical devices with a steam machine that operates at atmospheric pressure and is suitable for home usage.|https://dx.doi.org/10.1038/s41598-025-11509-6
+Alginate-based hydrogels loaded with human β-defensin-2 promote healing of MRSA-infected wounds in a diabetic model: a preclinical proof-of-concept study.|https://dx.doi.org/10.1007/s10238-025-01798-6
