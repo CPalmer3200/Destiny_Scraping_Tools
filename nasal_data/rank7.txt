@@ -52,3 +52,8 @@ Synovial advanced glycosylation end products aggravate periprosthetic infection 
 Endophthalmitis With Subretinal Abscesses Presenting as Charles Bonnet Syndrome in a Patient With Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia: A Case Report and Discussion of the Literature.|https://dx.doi.org/10.7759/cureus.85737
 Disinfection of medical devices with a steam machine that operates at atmospheric pressure and is suitable for home usage.|https://dx.doi.org/10.1038/s41598-025-11509-6
 Alginate-based hydrogels loaded with human β-defensin-2 promote healing of MRSA-infected wounds in a diabetic model: a preclinical proof-of-concept study.|https://dx.doi.org/10.1007/s10238-025-01798-6
+Development and Characterization of Ag-NPs Coated Silk Sutures: A Novel Approach to Inhibit Surgical Site Infections.|https://dx.doi.org/10.1080/1061186X.2025.2534176
+Organosilane for surface cleaning in intensive care units: protocol for a cluster randomized controlled trial with crossover.|https://dx.doi.org/10.62675/2965-2774.20250319
+Probiotic potential and safety assessment of bacteriocinogenic Enterococcus faecalis CAUM157.|https://dx.doi.org/10.3389/fmicb.2025.1563444
+A Rare Case of Polymicrobial Empyema Associated With COVID-19 Infection Complicated by a Bronchopleural Fistula.|https://dx.doi.org/10.7759/cureus.86024
+Surgical site infections after caesarean section across sub-Sahara Africa: a scoping review of prevalence and associated factors.|https://dx.doi.org/10.3389/fgwh.2025.1605049
