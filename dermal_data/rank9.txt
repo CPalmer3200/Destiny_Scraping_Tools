@@ -11,3 +11,4 @@ Community-acquired staphylococcal scalded skin syndrome in an immunocompetent ad
 Ischiopubic synchondrosis osteomyelitis: a rare presentation of a limping child presenting to a paediatric emergency department.|https://dx.doi.org/10.1136/bcr-2024-262903
 Pediatric Staphylococcal Scalded Skin Syndrome Complicated by Methicillin-Resistant Staphylococcus Aureus and Steroid Abuse: A Case Report.|https://dx.doi.org/10.31729/jnma.8770
 Time-Varying Bayesian Network Meta-Analysis.|https://dx.doi.org/10.1002/sim.70160
+Mapping of quorum sensing interaction network of commensal and pathogenic staphylococci.|https://dx.doi.org/10.1128/mbio.00967-25

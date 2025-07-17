@@ -21,3 +21,5 @@ Disinfection of medical devices with a steam machine that operates at atmospheri
 The novel pyridine-fused quinolinone PQ-L5 exhibits antibacterial effects and enhances β-lactam activity by targeting PBP2a in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jmii.2025.07.006
 Invasive fungal infections caused by rare yeast-like fungi in adult patients: results of a prospective study.|https://dx.doi.org/10.22034/cmm.2025.345265.1559
 Human Wound and Its Burden: Updated 2025 Compendium of Estimates.|https://dx.doi.org/10.1177/21621918251359554
+In vitro and in vivo anti-Pseudomonas aeruginosa activity of a scorpion peptide derivative.|https://dx.doi.org/10.3389/fmicb.2025.1622282
+Eriodictyol and Diosmetin Protective Potential in Skin Infection: Antimicrobial Action, Gene and Molecular Targets, and Keratinocyte Protection Against Bacteria-Induced Damage.|https://dx.doi.org/10.1002/ardp.70047
