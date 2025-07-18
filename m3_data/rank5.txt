@@ -1,3 +1,4 @@
 Griseolutein T from Streptomyces seoulensis, newly identified via combined-culture with Tsukamurella pulmonis, as an efficacious therapeutic agent against multidrug-resistant bacteria.|https://dx.doi.org/10.1038/s41429-025-00846-3
 Phenotypic and genotypic antimicrobial resistance profiles of clinical Clostridioides difficile isolates collected from private and public health settings in South Africa.|https://dx.doi.org/10.1007/s10096-025-05205-6
 Lantibiotic-producing bacteria impact microbiome resilience and colonization resistance.|https://dx.doi.org/10.1101/2025.05.06.652565
+Global dissemination of npmA mediated pan-aminoglycoside resistance via a mobile genetic element in Gram-positive bacteria.|https://dx.doi.org/10.1038/s41467-025-61152-y

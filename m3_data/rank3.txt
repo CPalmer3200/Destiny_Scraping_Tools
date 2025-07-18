@@ -2,3 +2,4 @@ Evidence-Based Clinical Practice Guidelines for Patients With Lumbar Disc Hernia
 Acute Inflammatory Ascites Complicating Clostridium difficile Colitis.|https://dx.doi.org/10.7759/cureus.85685
 Incidence and Outcomes of Neutropenic Enterocolitis Post-stem Cell Transplant for Hematological Malignancies: A Retrospective Study in Australia.|https://dx.doi.org/10.7759/cureus.87560
 Evaluation of three commercial rapid immunoassays for the diagnosis of Clostridioides difficile infection.|https://dx.doi.org/10.1128/spectrum.03405-24
+Impact of Adherence With In-Patient Prospective Audit and Feedback Recommendations on Patient and Economic Outcomes.|https://dx.doi.org/10.3138/jammi-2023-0041

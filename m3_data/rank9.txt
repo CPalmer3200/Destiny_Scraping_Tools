@@ -7,3 +7,5 @@ Appropriate Use of Proton Pump Inhibitors in General Out Patient Department of a
 Miniature bioreactor arrays for modeling functional and structural dysbiosis in inflammatory bowel disease.|https://dx.doi.org/10.1101/2025.05.09.653173
 Association between preoperative proton pump inhibitor use and postoperative infectious and renal complications following major elective surgery.|https://dx.doi.org/10.1503/cjs.010224
 Clinical characteristics and impact of Clostridium difficile infection during treatment of rifampicin-susceptible pulmonary tuberculosis.|https://dx.doi.org/10.4046/trd.2024.0185
+Prevalence of major diseases in common marmosets (Callithrix jacchus) at the Central Institute for Medicine and Life Science: a retrospective study.|https://dx.doi.org/10.3389/fvets.2025.1548757
+Discovery of a Widespread Polyamine-Low-Molecular-Weight Thiol Hybrid Pathway in Clostridioides difficile.|https://dx.doi.org/10.1021/acsinfecdis.5c00286
