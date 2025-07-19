@@ -38,3 +38,6 @@ Acetylated yeast mannan endowing biomimetic electrospun nanofibers with hydropho
 Polydopamine Nanoparticle-Integrated Smart Bletilla striata Polysaccharide Hydrogel: Photothermal-Triggered CO(2) Release for Diabetic Wound Microenvironment Modulation.|https://dx.doi.org/10.2147/IJN.S525172
 Nanocellulose /sodium alginate porous foams for enhanced wound healing and antibacterial.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146009
 A short amphipathic peptide-based injectable hydrogel with antibacterial properties.|https://dx.doi.org/10.1039/d5ra03481g
+Hydrogel dressings loaded with anticancer/antimicrobial Ag(I) camphorimine complexes for treatment of malignant wounds.|https://dx.doi.org/10.1016/j.ijpharm.2025.125963
+Multifunctional Nanocomposite Hydrogel Dressings with Excellent Antibacterial and Angiogenesis Properties for Effective Treatment of Diabetic Wounds.|https://dx.doi.org/10.1021/acsami.5c08356
+Innovative exopolysaccharide-based hydrogel for controlled phycoerythrin release: Synthesis and characterization.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146021

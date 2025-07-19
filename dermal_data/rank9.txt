@@ -12,3 +12,4 @@ Ischiopubic synchondrosis osteomyelitis: a rare presentation of a limping child 
 Pediatric Staphylococcal Scalded Skin Syndrome Complicated by Methicillin-Resistant Staphylococcus Aureus and Steroid Abuse: A Case Report.|https://dx.doi.org/10.31729/jnma.8770
 Time-Varying Bayesian Network Meta-Analysis.|https://dx.doi.org/10.1002/sim.70160
 Mapping of quorum sensing interaction network of commensal and pathogenic staphylococci.|https://dx.doi.org/10.1128/mbio.00967-25
+Gradual loss of mobile genetic elements in Staphylococcus aureus USA300 in a closed hospital niche.|https://dx.doi.org/10.1093/ismeco/ycaf105
