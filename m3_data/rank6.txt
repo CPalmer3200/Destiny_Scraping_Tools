@@ -1,2 +1,3 @@
 Age-targeted vaccination for reducing Clostridioides difficile infection in England: a coupled mathematical-economic modelling analysis.|https://dx.doi.org/10.1186/s12916-025-04265-x
 Moving from intervention management to disease management for Clostridioides difficile infection: an economic evaluation exploring the impact of a systems approach to health technology assessment.|https://dx.doi.org/10.1016/j.vaccine.2025.127512
+Glycan Substructure Mining Tool: An Updated and Convenient Method Focused on Gut and Pathogenic Microbiota for Glycan Research.|https://dx.doi.org/10.1021/acs.jcim.5c00791
