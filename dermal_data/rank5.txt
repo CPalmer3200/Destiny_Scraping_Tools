@@ -23,3 +23,4 @@ Invasive fungal infections caused by rare yeast-like fungi in adult patients: re
 Human Wound and Its Burden: Updated 2025 Compendium of Estimates.|https://dx.doi.org/10.1177/21621918251359554
 In vitro and in vivo anti-Pseudomonas aeruginosa activity of a scorpion peptide derivative.|https://dx.doi.org/10.3389/fmicb.2025.1622282
 Eriodictyol and Diosmetin Protective Potential in Skin Infection: Antimicrobial Action, Gene and Molecular Targets, and Keratinocyte Protection Against Bacteria-Induced Damage.|https://dx.doi.org/10.1002/ardp.70047
+An optimized 2,2'-dipicolylamine-rutaecarpine quaternary ammonium derivative: targeting bacterial membrane disruption for enhanced anti-methicillin-resistant Staphylococcus aureus (MRSA) activity.|https://dx.doi.org/10.1016/j.ejmech.2025.117975

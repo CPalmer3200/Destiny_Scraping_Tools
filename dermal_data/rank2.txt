@@ -34,3 +34,5 @@ Multimodal Reconstruction Approaches in Diabetic Foot Ulcers.|https://dx.doi.org
 The prognostic and diagnostic significance of inflammatory markers TNF-α, IL-6, and IFN-γ in evaluating disease severity in diabetic foot infection.|https://dx.doi.org/10.3389/fcimb.2025.1606612
 Renal Foot in Diabetes: Implications for Wound Healing and Solutions.|https://dx.doi.org/10.1089/wound.2025.0074
 Trends in Oral Antibiotic Treatment in Patients Hospitalized with Diabetic Foot Osteomyelitis: A Single-Centre Experience.|https://dx.doi.org/10.3138/jammi-2024-0042
+Diabetic foot prevention, assessment, and management using innovative smart wearable technology: a systematic review.|https://dx.doi.org/10.1186/s12984-025-01695-9
+Predictors of 30-day mortality in major lower limb amputations: insights from a five-year retrospective study in a South Asian LMIC.|https://dx.doi.org/10.1186/s12893-025-03013-5
