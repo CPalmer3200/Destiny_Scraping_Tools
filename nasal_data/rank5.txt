@@ -25,3 +25,8 @@ Predictive value of preoperative frailty combined with Controlling Nutritional S
 Pilot Study: Investigating the Local Breast Microbiome in Implant-based Breast Reconstruction Using 16S rRNA Sequencing.|https://dx.doi.org/10.1097/GOX.0000000000006928
 Prevention of Post-Mastectomy Seroma in Breast Cancer Patients: A comparative analysis of the effectiveness of fibrin glue versus quilting.|https://dx.doi.org/10.18295/2075-0528.2850
 Chronic Nipple Sinus Secondary to Demodex folliculorum Infestation: A Case Report.|https://dx.doi.org/10.7759/cureus.85889
+"A systematic review of mesh support of the breast in aesthetic breast surgery".|https://dx.doi.org/10.1016/j.jpra.2025.06.001
+Actinomyces radingae as an emerging pathogen in breast implant surgery: First reported case.|https://dx.doi.org/10.1016/j.jpra.2025.05.014
+Complication Rates are Low After Invasive Procedures on the Lactating Breast in Patients Treated for Breast Cancer During Pregnancy.|https://dx.doi.org/10.1245/s10434-025-17856-y
+First experience from 200 cases with a new breast tissue expander for multi-stage pre-pectoral breast reconstruction after mastectomy.|https://dx.doi.org/10.1016/j.bjps.2025.06.007
+Symphony of rebirth: a retrospective comparative cohort study on heterologous breast reconstruction after radiotherapy.|https://dx.doi.org/10.21037/gs-2024-552

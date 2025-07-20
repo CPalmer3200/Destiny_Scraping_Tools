@@ -24,3 +24,6 @@ Respiratory pathogens detected in children aged <5 years hospitalized with sever
 An anti-complement homogeneous polysaccharide from Houttuynia cordata ameliorates acute pneumonia with H1N1 and MRSA coinfection through rectifying Treg/Th17 imbalance in the gut-lung axis and NLRP3 inflammasome activation.|https://dx.doi.org/10.1016/j.apsb.2025.04.008
 Correction: Multi-enzymatic biomimetic cerium-based MOFs mediated precision chemodynamic synergistic antibacteria and tissue repair for MRSA-infected wounds.|https://dx.doi.org/10.1186/s12951-025-03547-z
 Rising rates of sepsis in England: an ecological study.|https://dx.doi.org/10.1007/s15010-025-02601-0
+Atypical development and swift resolution of an ulcerated hemangioma: a case report.|https://dx.doi.org/10.1186/s13256-025-05422-9
+Why Randomized Controlled Trials are Necessary to Address the Effectiveness of Non-Pharmacological Interventions During a Public Health Emergency Such as COVID-19.|https://dx.doi.org/10.3138/jammi-9-4-ed
+Purification of Active Staphylococcal Alpha-Toxin produced in Bacillus subtilis.|https://dx.doi.org/10.1093/femsle/fnaf073
