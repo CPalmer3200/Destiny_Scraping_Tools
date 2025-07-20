@@ -11,3 +11,4 @@ Prevalence of major diseases in common marmosets (Callithrix jacchus) at the Cen
 Discovery of a Widespread Polyamine-Low-Molecular-Weight Thiol Hybrid Pathway in Clostridioides difficile.|https://dx.doi.org/10.1021/acsinfecdis.5c00286
 Association of antimicrobial consumption with Clostridioides difficile incidence across the departments of an academic medical centre.|https://dx.doi.org/10.1016/j.infpip.2025.100468
 Neutropenic Fever Secondary to Concurrent Clostridioides difficile Infection and Neutropenic Enterocolitis.|https://dx.doi.org/10.7759/cureus.86164
+Progress and gaps in antimicrobial resistance research within One Health sectors in China: a systematic analysis.|https://dx.doi.org/10.1007/s11427-025-2955-6
