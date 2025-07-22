@@ -3,3 +3,5 @@ Oligomerization of the Clostridioides difficile Transferase B Component Proceeds
 Optimizing Prevention of Recurrent Urinary Tract Infections in Older Patients with Frailty.|https://dx.doi.org/10.1007/s40266-025-01230-4
 Impact of the COVID-19 Pandemic on Clostridioides difficile Infection Rates in a Tertiary Hospital: A Retrospective Comparative Study.|https://dx.doi.org/10.7759/cureus.86045
 Decreased Antimicrobial Resistance Gene Richness Following Fecal Microbiota, Live-jslm (REBYOTA®) Administration: Post Hoc Analysis of PUNCH CD3.|https://dx.doi.org/10.1093/ofid/ofaf382
+Oligomerization of the Clostridioides difficile transferase B component proceeds through a stepwise mechanism.|https://dx.doi.org/10.1371/journal.ppat.1013186
+Exploring the effects of faecal microbiota transplantation on cognitive function: A review of clinical trials.|https://dx.doi.org/10.1016/j.bbih.2025.101049

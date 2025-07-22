@@ -12,3 +12,7 @@ Discovery of a Widespread Polyamine-Low-Molecular-Weight Thiol Hybrid Pathway in
 Association of antimicrobial consumption with Clostridioides difficile incidence across the departments of an academic medical centre.|https://dx.doi.org/10.1016/j.infpip.2025.100468
 Neutropenic Fever Secondary to Concurrent Clostridioides difficile Infection and Neutropenic Enterocolitis.|https://dx.doi.org/10.7759/cureus.86164
 Progress and gaps in antimicrobial resistance research within One Health sectors in China: a systematic analysis.|https://dx.doi.org/10.1007/s11427-025-2955-6
+The role of gastrointestinal PCR in inflammatory bowel disease flares: A double-edged sword or a diagnostic breakthrough?|https://dx.doi.org/10.1007/s12664-025-01811-6
+Differential modulation of post-antibiotic colonization resistance to Clostridioides difficile by two probiotic Lactobacillus strains.|https://dx.doi.org/10.1128/mbio.01468-25
+In-depth characterization of accessory gene regulator loci and associated virulence factors in tcdA(+)B(+) Clostridioides difficile isolates.|https://dx.doi.org/10.1016/j.crmicr.2025.100435
+Time-course detoxification of environmental metallic nanoparticles in human lung cells (A549).|https://dx.doi.org/10.1016/j.chemosphere.2025.144568
