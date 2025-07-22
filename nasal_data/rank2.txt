@@ -22,3 +22,4 @@ Prevalence, identification and antimicrobial sensitivity profile of methicillin 
 Preliminary Study on the Development of a Biodegradable Functional Nasal Packing Material.|https://dx.doi.org/10.3390/polym17131878
 Exploring the Impact of Oral Health and Vaccination on Pneumonia-causing Bacteria: Insights from Predictive Modeling.|https://dx.doi.org/10.1101/2025.05.23.25328168
 The advance on pathophysiological mechanisms of type 2 chronic rhinosinusitis with nasal polyposis.|https://dx.doi.org/10.3389/falgy.2025.1599797
+Comparison of Mupirocin ointment and Basic Fibroblast Growth Factor Gel in the treatment of pediatric recurrent anterior epistaxis: Randomized, controlled, single blind study.|https://dx.doi.org/10.1016/j.anl.2025.07.004
