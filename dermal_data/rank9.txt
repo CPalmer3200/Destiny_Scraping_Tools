@@ -14,3 +14,4 @@ Time-Varying Bayesian Network Meta-Analysis.|https://dx.doi.org/10.1002/sim.7016
 Mapping of quorum sensing interaction network of commensal and pathogenic staphylococci.|https://dx.doi.org/10.1128/mbio.00967-25
 Gradual loss of mobile genetic elements in Staphylococcus aureus USA300 in a closed hospital niche.|https://dx.doi.org/10.1093/ismeco/ycaf105
 Spread of the FAR-MRSA clone, a fusidic acid- and meticillin-resistant Staphylococcus aureus ST121, Europe, 2014 to 2024.|https://dx.doi.org/10.2807/1560-7917.ES.2025.30.28.2500452
+Immunoglobulin A-Dominant Post-Infectious Glomerulonephritis Mimicking Henoch-Schönlein Purpura Nephritis in a Patient With Methicillin-Sensitive Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.7759/cureus.86409
