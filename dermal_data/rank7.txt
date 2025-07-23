@@ -11,3 +11,4 @@ Molecular Identification, Phylogenetic Analysis, Clinical and Histopathological 
 Expanding Prospects for Dermal Health with Bioactive Phytochemicals.|https://dx.doi.org/10.2174/0127722708304650240827092452
 Association of Post Kala-Azar Dermal Leishmaniasis pathogenesis with prolonged sunlight (ultraviolet radiations) exposure in VL endemic population of Bihar.|https://dx.doi.org/10.1038/s41598-025-08738-0
 Editorial: Leishmaniasis: control and elimination, volume II.|https://dx.doi.org/10.3389/fcimb.2025.1628558
+Dysregulated lymphatic remodeling promotes immunopathology during non-healing cutaneous leishmaniasis.|https://dx.doi.org/10.1101/2025.05.01.651666

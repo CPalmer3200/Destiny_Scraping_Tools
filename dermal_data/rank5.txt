@@ -25,3 +25,4 @@ In vitro and in vivo anti-Pseudomonas aeruginosa activity of a scorpion peptide 
 Eriodictyol and Diosmetin Protective Potential in Skin Infection: Antimicrobial Action, Gene and Molecular Targets, and Keratinocyte Protection Against Bacteria-Induced Damage.|https://dx.doi.org/10.1002/ardp.70047
 An optimized 2,2'-dipicolylamine-rutaecarpine quaternary ammonium derivative: targeting bacterial membrane disruption for enhanced anti-methicillin-resistant Staphylococcus aureus (MRSA) activity.|https://dx.doi.org/10.1016/j.ejmech.2025.117975
 Sanguinarine Hydrogel Accelerates Wound Healing in Staphylococcus pseudintermedius Infections by Suppressing Biofilm Formation.|https://dx.doi.org/10.1093/jambio/lxaf184
+Genomic characterization and antibiotic susceptibility of biofilm-forming Borrelia afzelii and Borrelia garinii from patients with erythema migrans.|https://dx.doi.org/10.3389/fcimb.2025.1619660
