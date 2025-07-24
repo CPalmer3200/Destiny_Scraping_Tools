@@ -3,3 +3,4 @@ Corrigendum to "Effective decolonization strategy for mupirocin-resistant Staphy
 Cost-analysis of universal decolonization with pure hypochlorous acid and mupirocin to reduce MRSA infections in intensive care burn unit patients.|https://dx.doi.org/10.3389/fphar.2025.1606589
 5-(3, 4-methylenedioxyphenyl)-4-ethyl-2E, 4E-pentadienoic acid piperidide as MdeA efflux pump inhibitor of Staphylococcus aureus.|https://dx.doi.org/10.1016/j.biochi.2025.07.016
 Synergistic Interactions of Oxidized Amylose Silver Nanoparticles and Topically Applicable Antibiotics Against Staphylococcus aureus.|https://dx.doi.org/10.1007/s00284-025-04380-1
+Genomic and Phenotypic Characterization of Mupirocin-resistant Staphylococcus aureus Clinical Isolates.|https://dx.doi.org/10.1093/ofid/ofaf374

@@ -27,3 +27,5 @@ Rising rates of sepsis in England: an ecological study.|https://dx.doi.org/10.10
 Atypical development and swift resolution of an ulcerated hemangioma: a case report.|https://dx.doi.org/10.1186/s13256-025-05422-9
 Why Randomized Controlled Trials are Necessary to Address the Effectiveness of Non-Pharmacological Interventions During a Public Health Emergency Such as COVID-19.|https://dx.doi.org/10.3138/jammi-9-4-ed
 Purification of Active Staphylococcal Alpha-Toxin produced in Bacillus subtilis.|https://dx.doi.org/10.1093/femsle/fnaf073
+War on AMR: High MDR carriage rates among war-injured Ukrainian refugees.|https://dx.doi.org/10.1016/j.cmi.2025.07.010
+Design of New Primer Sets for the Development of a Loop-Mediated Isothermal Amplification for Rapid Detection of Neisseria meningitidis.|https://dx.doi.org/10.3390/cimb47060467

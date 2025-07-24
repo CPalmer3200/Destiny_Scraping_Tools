@@ -64,3 +64,12 @@ Advanced therapeutic strategy for managing surgical site infections with natural
 Early Diagnosis and Successful Treatment of Infectious Aortitis in a Hemodialysis Patient Through Physical Examination and Imaging.|https://dx.doi.org/10.7759/cureus.86112
 Hospital onset bacteremia and fungemia should be a pay-for performance measure: a pro/con debate.|https://dx.doi.org/10.1017/ice.2025.10216
 Septic arthritis of knee joint after rooster attack: a case report.|https://dx.doi.org/10.1186/s13256-025-05215-0
+Seasonal and hospital settings variations in antimicrobial resistance among clinical isolates from cardiac patients: insights from a 7-Year study.|https://dx.doi.org/10.1186/s12879-025-11171-3
+An Atypical Case of Infectious Myositis in a Young Woman on Immunosuppressive Therapy.|https://dx.doi.org/10.7759/cureus.86545
+Effect of the incubation time on blood culture results and bacterial pathogens causing bloodstream infections among children attending Sekou Toure Regional Referral Hospital in Mwanza, Tanzania.|https://dx.doi.org/10.1099/acmi.0.000942.v3
+A cross-sectional molecular epidemiological study of biofilm-producing methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1097/MD.0000000000043346
+Unveiling the Synergistic Influence of TiO(2) and Chitosan-Based Hydrogel in Precision Surface Co-Modification for Superior Pure Titanium Implant Performance.|https://dx.doi.org/10.1002/jbm.b.35605
+Antibacterial and Regenerative Potential of Zinc Oxide Nanoparticles and Carboxymethyl Cellulose for Infected Wound Healing in Rats.|https://dx.doi.org/10.1002/jbm.b.35607
+Mediastinal eosinophilic sclerosing fibroplasia associated with Staphylococcus aureus infection in a cat.|https://dx.doi.org/10.1177/20551169251347945
+Molecular detection of mecA and lukSF-PV in patients with Staphylococcus aureus soft tissue infections in a tertiary hospital setting, Calabar, Nigeria: a cross-sectional study.|https://dx.doi.org/10.1177/20499361251357394
+Surveillance of multidrug resistant methicillin-resistant and Panton-Valentine leukocidin positive Staphylococcus aureus in healthy carriers in Lambaréné, Gabon.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117009
