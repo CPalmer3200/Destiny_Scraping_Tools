@@ -3,3 +3,4 @@ Atypical development and swift resolution of an ulcerated hemangioma: a case rep
 5-(3, 4-methylenedioxyphenyl)-4-ethyl-2E, 4E-pentadienoic acid piperidide as MdeA efflux pump inhibitor of Staphylococcus aureus.|https://dx.doi.org/10.1016/j.biochi.2025.07.016
 Comparison of Mupirocin ointment and Basic Fibroblast Growth Factor Gel in the treatment of pediatric recurrent anterior epistaxis: Randomized, controlled, single blind study.|https://dx.doi.org/10.1016/j.anl.2025.07.004
 Synergistic Interactions of Oxidized Amylose Silver Nanoparticles and Topically Applicable Antibiotics Against Staphylococcus aureus.|https://dx.doi.org/10.1007/s00284-025-04380-1
+Genomic and Phenotypic Characterization of Mupirocin-resistant Staphylococcus aureus Clinical Isolates.|https://dx.doi.org/10.1093/ofid/ofaf374

@@ -26,3 +26,5 @@ Eriodictyol and Diosmetin Protective Potential in Skin Infection: Antimicrobial 
 An optimized 2,2'-dipicolylamine-rutaecarpine quaternary ammonium derivative: targeting bacterial membrane disruption for enhanced anti-methicillin-resistant Staphylococcus aureus (MRSA) activity.|https://dx.doi.org/10.1016/j.ejmech.2025.117975
 Sanguinarine Hydrogel Accelerates Wound Healing in Staphylococcus pseudintermedius Infections by Suppressing Biofilm Formation.|https://dx.doi.org/10.1093/jambio/lxaf184
 Genomic characterization and antibiotic susceptibility of biofilm-forming Borrelia afzelii and Borrelia garinii from patients with erythema migrans.|https://dx.doi.org/10.3389/fcimb.2025.1619660
+Prophage-encoded methyltransferase drives adaptation of community-acquired methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1172/JCI177872
+Use of polyhexamethylene biguanide in the treatment of atopic dermatitis with Staphylococcus aureus hypercolonization.|https://dx.doi.org/10.25270/wnds/24188

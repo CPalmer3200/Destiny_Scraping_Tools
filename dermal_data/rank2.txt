@@ -39,3 +39,6 @@ Predictors of 30-day mortality in major lower limb amputations: insights from a 
 Patient insurance status and race modify outcomes for diabetic patients undergoing care for diabetic foot ulcers and infections.|https://dx.doi.org/10.1016/j.avsg.2025.07.013
 Digital Infrared Thermographic Imaging for Limb Salvage in Patients at Risk of Amputation: Prospective Observational Study.|https://dx.doi.org/10.2196/69072
 5- months exposed implant after osteosynthesis is not necessarily a problem: A case report of a distal tibia fracture.|https://dx.doi.org/10.1016/j.tcr.2025.101222
+[Charcot's osteoarthropathy : How to identify a superimposed osteomyelitis?].|https://dx.doi.org/10.1007/s00117-025-01488-0
+Antimicrobial management of complex biofilms in diabetic foot ulcers: a microbiological perspective.|https://dx.doi.org/10.1080/14787210.2025.2538614
+Minimally invasive orthopaedic surgery for diabetic foot disease: A systematic review.|https://dx.doi.org/10.1016/j.foot.2025.102187

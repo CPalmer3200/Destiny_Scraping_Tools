@@ -42,3 +42,5 @@ Hydrogel dressings loaded with anticancer/antimicrobial Ag(I) camphorimine compl
 Multifunctional Nanocomposite Hydrogel Dressings with Excellent Antibacterial and Angiogenesis Properties for Effective Treatment of Diabetic Wounds.|https://dx.doi.org/10.1021/acsami.5c08356
 Innovative exopolysaccharide-based hydrogel for controlled phycoerythrin release: Synthesis and characterization.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146021
 Corrigendum to "pH-responsive cationic guar gum-based multifunctional hydrogel with silver nanoenzymes: Combined photothermal antibacterial therapy and antioxidant properties for MRSA infected wound healing" [Int. J. Biol. Macromol.292 (2025), 139201].|https://dx.doi.org/10.1016/j.ijbiomac.2025.145940
+Flexible Double Bonds-Enhanced Photodynamic Therapy toward Antibacterial Resistance.|https://dx.doi.org/10.1021/jacs.5c07262
+Unveiling the Synergistic Influence of TiO(2) and Chitosan-Based Hydrogel in Precision Surface Co-Modification for Superior Pure Titanium Implant Performance.|https://dx.doi.org/10.1002/jbm.b.35605
