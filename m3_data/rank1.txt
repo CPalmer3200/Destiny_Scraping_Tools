@@ -5,3 +5,5 @@ Impact of the COVID-19 Pandemic on Clostridioides difficile Infection Rates in a
 Decreased Antimicrobial Resistance Gene Richness Following Fecal Microbiota, Live-jslm (REBYOTA®) Administration: Post Hoc Analysis of PUNCH CD3.|https://dx.doi.org/10.1093/ofid/ofaf382
 Oligomerization of the Clostridioides difficile transferase B component proceeds through a stepwise mechanism.|https://dx.doi.org/10.1371/journal.ppat.1013186
 Exploring the effects of faecal microbiota transplantation on cognitive function: A review of clinical trials.|https://dx.doi.org/10.1016/j.bbih.2025.101049
+Clostridioides difficile co-infection worsens prognosis in inflammatory bowel disease in patients with cytomegalovirus colitis.|https://dx.doi.org/10.1007/s00384-025-04954-2
+The host genes influencing Clostridioides difficile infection and the potential role of intestinal Lactobacillus acidophilus: a Mendelian randomization and animal model study.|https://dx.doi.org/10.3389/fcimb.2025.1607476
