@@ -16,3 +16,4 @@ The role of gastrointestinal PCR in inflammatory bowel disease flares: A double-
 Differential modulation of post-antibiotic colonization resistance to Clostridioides difficile by two probiotic Lactobacillus strains.|https://dx.doi.org/10.1128/mbio.01468-25
 In-depth characterization of accessory gene regulator loci and associated virulence factors in tcdA(+)B(+) Clostridioides difficile isolates.|https://dx.doi.org/10.1016/j.crmicr.2025.100435
 Time-course detoxification of environmental metallic nanoparticles in human lung cells (A549).|https://dx.doi.org/10.1016/j.chemosphere.2025.144568
+Liquid biopsy based on whole blood transcriptome and artificial intelligence for the prediction of coronary artery calcification: a pilot study.|https://dx.doi.org/10.1093/ehjdh/ztaf042

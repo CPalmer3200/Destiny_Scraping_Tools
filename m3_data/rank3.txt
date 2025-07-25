@@ -4,3 +4,4 @@ Incidence and Outcomes of Neutropenic Enterocolitis Post-stem Cell Transplant fo
 Evaluation of three commercial rapid immunoassays for the diagnosis of Clostridioides difficile infection.|https://dx.doi.org/10.1128/spectrum.03405-24
 Impact of Adherence With In-Patient Prospective Audit and Feedback Recommendations on Patient and Economic Outcomes.|https://dx.doi.org/10.3138/jammi-2023-0041
 Extended Antibiotic Prophylaxis in Implant-based Breast Reconstruction: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1093/asj/sjaf144
+Comparing the mortality of patients with sepsis using empirical piperacillin/tazobactam and cefepime: analysis of the MIMIC-IV database.|https://dx.doi.org/10.1093/jac/dkaf254

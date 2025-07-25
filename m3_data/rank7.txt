@@ -2,3 +2,4 @@ Exploring β-lactam interactions with DacB1: unraveling optimal therapies for co
 Breaking new ground in ductal carcinoma in situ management: the promise of intratumoral messenger ribonucleic acid-2752 and pembrolizumab.|https://dx.doi.org/10.21037/atm-25-49
 Zinc(II), copper(II) and silver(I) salicylate-metronidazole complexes as novel antimicrobial agents.|https://dx.doi.org/10.1039/d5dt01086a
 Efficacy and safety of intravenous induction and subcutaneous maintenance therapy with guselkumab for patients with Crohn's disease (GALAXI-2 and GALAXI-3): 48-week results from two phase 3, randomised, placebo and active comparator-controlled, double-blind, triple-dummy trials.|https://dx.doi.org/10.1016/S0140-6736(25)00681-6
+Anti-TL1A antibody, afimkibart, in moderately-to-severely active ulcerative colitis (TUSCANY-2): a multicentre, double-blind, treat-through, multi-dose, randomised, placebo-controlled, phase 2b trial.|https://dx.doi.org/10.1016/S2468-1253(25)00129-3
