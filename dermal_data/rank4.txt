@@ -44,3 +44,5 @@ Innovative exopolysaccharide-based hydrogel for controlled phycoerythrin release
 Corrigendum to "pH-responsive cationic guar gum-based multifunctional hydrogel with silver nanoenzymes: Combined photothermal antibacterial therapy and antioxidant properties for MRSA infected wound healing" [Int. J. Biol. Macromol.292 (2025), 139201].|https://dx.doi.org/10.1016/j.ijbiomac.2025.145940
 Flexible Double Bonds-Enhanced Photodynamic Therapy toward Antibacterial Resistance.|https://dx.doi.org/10.1021/jacs.5c07262
 Unveiling the Synergistic Influence of TiO(2) and Chitosan-Based Hydrogel in Precision Surface Co-Modification for Superior Pure Titanium Implant Performance.|https://dx.doi.org/10.1002/jbm.b.35605
+Ginkgo biloba leaf polysaccharide dual-network hydrogel films: Decoding structure-function relationship for sustainable strawberry shelf-life extension.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146220
+A multifunctional hydrogel system with synergistic effects against Staphylococcus aureus infections and inflammation in perioperative cataract surgery.|https://dx.doi.org/10.1016/j.mtbio.2025.102080

@@ -28,3 +28,5 @@ Sanguinarine Hydrogel Accelerates Wound Healing in Staphylococcus pseudintermedi
 Genomic characterization and antibiotic susceptibility of biofilm-forming Borrelia afzelii and Borrelia garinii from patients with erythema migrans.|https://dx.doi.org/10.3389/fcimb.2025.1619660
 Prophage-encoded methyltransferase drives adaptation of community-acquired methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1172/JCI177872
 Use of polyhexamethylene biguanide in the treatment of atopic dermatitis with Staphylococcus aureus hypercolonization.|https://dx.doi.org/10.25270/wnds/24188
+A combined metabolomics and biochemometrics approach for the rapid identification of antibacterial naphthyl derivatives from Guiera senegalensis leaves.|https://dx.doi.org/10.1016/j.jpba.2025.117069
+Multifunctional nanogel dressings with dual acid and H(2)O(2) responsive release for synergetic therapy of diabetic bacterial wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102094
