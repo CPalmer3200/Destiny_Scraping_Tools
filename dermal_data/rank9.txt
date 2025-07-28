@@ -17,3 +17,4 @@ Spread of the FAR-MRSA clone, a fusidic acid- and meticillin-resistant Staphyloc
 Immunoglobulin A-Dominant Post-Infectious Glomerulonephritis Mimicking Henoch-Schönlein Purpura Nephritis in a Patient With Methicillin-Sensitive Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.7759/cureus.86409
 Antibacterial and Regenerative Potential of Zinc Oxide Nanoparticles and Carboxymethyl Cellulose for Infected Wound Healing in Rats.|https://dx.doi.org/10.1002/jbm.b.35607
 Prevalence, species identification, and antibiotic resistance of Staphylococci in dogs visiting veterinary clinics in Vietnam.|https://dx.doi.org/10.1371/journal.pone.0328472
+Potential Compounds as Inhibitors of Staphylococcal Virulence Factors Involved in the Development of Thrombosis.|https://dx.doi.org/10.3390/toxins17070340

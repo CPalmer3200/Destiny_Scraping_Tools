@@ -43,3 +43,4 @@ Digital Infrared Thermographic Imaging for Limb Salvage in Patients at Risk of A
 Antimicrobial management of complex biofilms in diabetic foot ulcers: a microbiological perspective.|https://dx.doi.org/10.1080/14787210.2025.2538614
 Minimally invasive orthopaedic surgery for diabetic foot disease: A systematic review.|https://dx.doi.org/10.1016/j.foot.2025.102187
 Prognostic value of the site, depth, and infection/ischemia classification system in diabetic foot ulcers: a retrospective cohort study.|https://dx.doi.org/10.1038/s41598-025-06509-5
+The development of a direct co-culture-based model for diabetic foot ulcer mimicking inflammation and impaired phagocytosis.|https://dx.doi.org/10.1007/s44164-024-00080-5
