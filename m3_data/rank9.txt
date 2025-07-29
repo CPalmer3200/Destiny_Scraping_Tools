@@ -17,3 +17,5 @@ Differential modulation of post-antibiotic colonization resistance to Clostridio
 In-depth characterization of accessory gene regulator loci and associated virulence factors in tcdA(+)B(+) Clostridioides difficile isolates.|https://dx.doi.org/10.1016/j.crmicr.2025.100435
 Time-course detoxification of environmental metallic nanoparticles in human lung cells (A549).|https://dx.doi.org/10.1016/j.chemosphere.2025.144568
 Liquid biopsy based on whole blood transcriptome and artificial intelligence for the prediction of coronary artery calcification: a pilot study.|https://dx.doi.org/10.1093/ehjdh/ztaf042
+Impact of COVID-19 pandemic on toxinogenic Clostridioides difficile infections and correlation with multidrug-resistant bacterial infections.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117014
+Pancreaticocolonic fistulae: a rare cause of profound diarrhoea.|https://dx.doi.org/10.1136/bcr-2025-264903
