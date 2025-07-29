@@ -8,3 +8,8 @@ Antibacterial Efficacy of Oregano-Carbon Nanotubes Coated Silk Sutures: An In Vi
 Genomic epidemiology and antimicrobial resistance of Corynebacterium macclintockiae, the predominant species of human pathogens within the Corynebacterium jeikeium complex.|https://dx.doi.org/10.1128/jcm.00500-25
 A Case of Stevens-Johnson Syndrome Triggered by Methicillin-Resistant Staphylococcus aureus Infection During Pembrolizumab Treatment for Lung Squamous Cell Carcinoma.|https://dx.doi.org/10.1002/rcr2.70290
 A multifunctional hydrogel system with synergistic effects against Staphylococcus aureus infections and inflammation in perioperative cataract surgery.|https://dx.doi.org/10.1016/j.mtbio.2025.102080
+Epidemiology and prognostic factors of necrotizing fasciitis in resource-limited regions based on 119 cases.|https://dx.doi.org/10.1038/s41598-025-13278-8
+Silent spread of pathogens in hospital settings: a one-week molecular epidemiologic study.|https://dx.doi.org/10.3855/jidc.20812
+Retrospective Evaluation of Empiric Vancomycin Therapy for Infectious Workups in Relation to Methicillin-Resistant Staphylococcus aureus (MRSA) Risk Factors in the Neonatal Intensive Care Unit.|https://dx.doi.org/10.5863/1551-6776-30.2.198
+Assessment of dry-fogged hydrogen peroxide as an "untact" room disinfection automation system for rapid terminal decontamination of a single isolation room in a healthcare institution.|https://dx.doi.org/10.1186/s13756-025-01613-7
+Organism profiles and empirical treatments for periprosthetic joint infections.|https://dx.doi.org/10.1186/s13018-025-06007-4

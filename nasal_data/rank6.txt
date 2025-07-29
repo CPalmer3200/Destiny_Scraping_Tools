@@ -1,1 +1,3 @@
 Staphylococcus aureus: a model for bacterial cell biology and pathogenesis.|https://dx.doi.org/10.1128/jb.00106-25
+Evaluation of Streptococcus pneumoniae as a cause of acute otitis media in Colombia: A prospective study.|https://dx.doi.org/10.1371/journal.pone.0326660
+Development of a bivalent protein subunit vaccine against infection by Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.1038/s41541-025-01220-y
