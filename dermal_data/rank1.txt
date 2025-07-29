@@ -11,3 +11,4 @@ Skin microbiota and diabetic foot ulcers.|https://dx.doi.org/10.3389/fmicb.2025.
 Sub-inhibitory concentrations of fosfomycin enhance Staphylococcus aureus biofilm formation by a sarA-dependent mechanism.|https://dx.doi.org/10.1128/spectrum.01521-25
 Red propolis cream and its therapeutic potential for skin lesions caused by burns.|https://dx.doi.org/10.1016/j.burns.2025.107583
 A cross-sectional molecular epidemiological study of biofilm-producing methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1097/MD.0000000000043346
+[Common skin and soft tissue infections-current recommendations].|https://dx.doi.org/10.1007/s00105-025-05537-6

@@ -48,3 +48,5 @@ Ginkgo biloba leaf polysaccharide dual-network hydrogel films: Decoding structur
 A multifunctional hydrogel system with synergistic effects against Staphylococcus aureus infections and inflammation in perioperative cataract surgery.|https://dx.doi.org/10.1016/j.mtbio.2025.102080
 Composite HPMC-Gelatin Films Loaded with Cameroonian and Manuka Honeys Show Antibacterial and Functional Wound Dressing Properties.|https://dx.doi.org/10.3390/gels11070557
 Artemisia argyi-Mediated Synthesis of Monodisperse Silver Nanoparticles as Components of Bioactive Nanofibrous Dressings with Dual Antibacterial and Regenerative Functions.|https://dx.doi.org/10.3390/jfb16070236
+Propolis-Infused Electrospun Eudragit/PVP Mats: A Novel Approach for Bioactive and Antibacterial Wound Dressings.|https://dx.doi.org/10.1002/jbm.b.35625
+Rutin-decorated molybdenum disulfide / hyaluronic acid methylprenyl hydrogel photothermal antibacterial therapy promotes skin wound repair.|https://dx.doi.org/10.1088/2057-1976/adf445

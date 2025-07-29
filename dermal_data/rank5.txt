@@ -31,3 +31,6 @@ Use of polyhexamethylene biguanide in the treatment of atopic dermatitis with St
 A combined metabolomics and biochemometrics approach for the rapid identification of antibacterial naphthyl derivatives from Guiera senegalensis leaves.|https://dx.doi.org/10.1016/j.jpba.2025.117069
 Multifunctional nanogel dressings with dual acid and H(2)O(2) responsive release for synergetic therapy of diabetic bacterial wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102094
 The Therapeutic Potential of Antimicrobial Peptides Isolated from the Skin Secretions of Anurans of the Genus Boana in the Face of the Global Antimicrobial Resistance Crisis.|https://dx.doi.org/10.3390/toxins17070312
+Octenidine effectively reduces Candida auris colonisation on human skin.|https://dx.doi.org/10.1038/s41598-025-11914-x
+Reducing Driveline Infection Risk in durable Mechanical Circulatory Systems with Ultra-Flexible Wires for Energy Transfer.|https://dx.doi.org/10.1016/j.healun.2025.07.012
+In vitro and in vivo antibacterial activity of TsAP-2 from Tityus stigmurus scorpion venom in multidrug-resistant strains and its NMR three-dimensional structure.|https://dx.doi.org/10.1016/j.biochi.2025.07.023

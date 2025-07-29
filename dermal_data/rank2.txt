@@ -44,3 +44,8 @@ Antimicrobial management of complex biofilms in diabetic foot ulcers: a microbio
 Minimally invasive orthopaedic surgery for diabetic foot disease: A systematic review.|https://dx.doi.org/10.1016/j.foot.2025.102187
 Prognostic value of the site, depth, and infection/ischemia classification system in diabetic foot ulcers: a retrospective cohort study.|https://dx.doi.org/10.1038/s41598-025-06509-5
 The development of a direct co-culture-based model for diabetic foot ulcer mimicking inflammation and impaired phagocytosis.|https://dx.doi.org/10.1007/s44164-024-00080-5
+Prevalence of multidrug-resistant biofilm-forming pathogens in diabetic foot ulcers and antimicrobial activity of nanoparticles.|https://dx.doi.org/10.3855/jidc.21000
+Targeting oxidative damage in diabetic foot ulcers: integrative strategies involving antioxidant drugs and nanotechnologies.|https://dx.doi.org/10.1093/burnst/tkaf020
+Editorial: Diabetic wound: multifaceted mechanisms and future of diabetic wound healing, volume II.|https://dx.doi.org/10.3389/fendo.2025.1650648
+Multifunctional Bacterial Cellulose Hydrogel Membranes with Antibacterial and Tissue-Regenerating Properties for Treatment of Infected Diabetic Wound.|https://dx.doi.org/10.1021/acs.biomac.5c00841
+Minimally Invasive Surgery and Diabetes.|https://dx.doi.org/10.1016/j.fcl.2024.11.010

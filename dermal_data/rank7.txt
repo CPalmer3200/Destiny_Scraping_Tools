@@ -16,3 +16,4 @@ Keratin-Mediated Selective Inhibition in Proliferation and Selective Apoptosis o
 Severe Outbreak of Saprolegnia Spp. Infection in Spotted Snakehead (Channa punctata, Bloch 1793): Clinical Assessment, Histopathology, Haemato-Biochemical Indices and Insights Into Therapeutic Effects.|https://dx.doi.org/10.1002/vms3.70473
 Potential of silymarin and its polyphenols to affect Nrf2 signalling pathway in human skin cells.|https://dx.doi.org/10.5507/bp.2025.020
 Dual-loaded ZnO and Se nanoparticles in chitosan/alginate bio-composite: synthesis, cytotoxicity, antioxidant activity, and anti-cervical cancer potential.|https://dx.doi.org/10.1007/s13205-025-04436-w
+Systemic toxicity induced by topical application of the sulfonic acids, perfluorobutane sulfonic acid (PFBS) and perfluoropentane sulfonic acid (PFPeS), in a murine model.|https://dx.doi.org/10.1016/j.taap.2025.117487
