@@ -12,3 +12,5 @@ Sub-inhibitory concentrations of fosfomycin enhance Staphylococcus aureus biofil
 Red propolis cream and its therapeutic potential for skin lesions caused by burns.|https://dx.doi.org/10.1016/j.burns.2025.107583
 A cross-sectional molecular epidemiological study of biofilm-producing methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1097/MD.0000000000043346
 [Common skin and soft tissue infections-current recommendations].|https://dx.doi.org/10.1007/s00105-025-05537-6
+A sprayable alginate hydrogel based on copper-tannic acid metal-polyphenol for promoting acute and infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146323
+"Antimicrobial Activity of the Latex of Jatropha Curcas Against Cutaneous Wound and Burns Infection".|https://dx.doi.org/10.2147/IDR.S531926

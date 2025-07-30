@@ -50,3 +50,8 @@ Composite HPMC-Gelatin Films Loaded with Cameroonian and Manuka Honeys Show Anti
 Artemisia argyi-Mediated Synthesis of Monodisperse Silver Nanoparticles as Components of Bioactive Nanofibrous Dressings with Dual Antibacterial and Regenerative Functions.|https://dx.doi.org/10.3390/jfb16070236
 Propolis-Infused Electrospun Eudragit/PVP Mats: A Novel Approach for Bioactive and Antibacterial Wound Dressings.|https://dx.doi.org/10.1002/jbm.b.35625
 Rutin-decorated molybdenum disulfide / hyaluronic acid methylprenyl hydrogel photothermal antibacterial therapy promotes skin wound repair.|https://dx.doi.org/10.1088/2057-1976/adf445
+Extracellular vesicles enhance the efficacy of ceftiofur against intracellular bacterial infections.|https://dx.doi.org/10.1016/j.synbio.2025.07.001
+Preliminary Evaluation of the Synergistic Antibacterial Effects of Selected Commercial Essential Oil Compounds Against Methicillin-Resistant Staphylococcus aureus ATCC 43300.|https://dx.doi.org/10.3390/antibiotics14070733
+Bioinspired Co-Assembled Hydrogels Constructed from Marine Self-Assembling Peptides and Polyphenol Network: Antioxidant and Infected Wound Healing.|https://dx.doi.org/10.3390/antiox14070785
+Chitosan membrane tailored for topical acne treatment by incorporating Pickering encapsulated tea tree oil based on organosilane-modified palygorskite.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146317
+Chitosan-based double-network hydrogel with synergistic photothermal/nitric oxide therapy for methicillin-resistance Staphylococcus aureus infected wound healing.|https://dx.doi.org/10.1016/j.jcis.2025.138520

@@ -49,3 +49,11 @@ Targeting oxidative damage in diabetic foot ulcers: integrative strategies invol
 Editorial: Diabetic wound: multifaceted mechanisms and future of diabetic wound healing, volume II.|https://dx.doi.org/10.3389/fendo.2025.1650648
 Multifunctional Bacterial Cellulose Hydrogel Membranes with Antibacterial and Tissue-Regenerating Properties for Treatment of Infected Diabetic Wound.|https://dx.doi.org/10.1021/acs.biomac.5c00841
 Minimally Invasive Surgery and Diabetes.|https://dx.doi.org/10.1016/j.fcl.2024.11.010
+Chronic Diabetic Foot Osteomyelitis Presented as a Sausage Toe Treated With Internal Pedal Amputation: A Small Case Series.|https://dx.doi.org/10.1111/iwj.70736
+Minimally Invasive Surgical Correction of Hindfoot and Ankle Deformities in Charcot Neuroarthropathy: A Proof-of-Concept in Five Patients.|https://dx.doi.org/10.7547/24-024
+Targeting diabetic foot ulcer pathophysiology: altered signaling pathways and 3D scaffold as an emerging treatment strategy.|https://dx.doi.org/10.1007/s13205-025-04440-0
+From Control to Cure: Insights into the Synergy of Glycemic and Antibiotic Management in Modulating the Severity and Outcomes of Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/ijms26146909
+Exploring the Microbiome of Diabetic Foot Ulcers: A Focus on Cases with a Clinical Worse Outcome.|https://dx.doi.org/10.3390/antibiotics14070724
+Identification of Exosome-Associated Biomarkers in Diabetic Foot Ulcers: A Bioinformatics Analysis and Experimental Validation.|https://dx.doi.org/10.3390/biomedicines13071687
+Early-Onset Diabetes in Ghana's Upper East Region-Insights From Hospital Data.|https://dx.doi.org/10.1002/edm2.70079
+Domain antibody-displayed phages as a novel biofilm-targeted therapy for Staphylococcus aureus.|https://dx.doi.org/10.1007/s10123-025-00698-9

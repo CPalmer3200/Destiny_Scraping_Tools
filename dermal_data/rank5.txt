@@ -34,3 +34,10 @@ The Therapeutic Potential of Antimicrobial Peptides Isolated from the Skin Secre
 Octenidine effectively reduces Candida auris colonisation on human skin.|https://dx.doi.org/10.1038/s41598-025-11914-x
 Reducing Driveline Infection Risk in durable Mechanical Circulatory Systems with Ultra-Flexible Wires for Energy Transfer.|https://dx.doi.org/10.1016/j.healun.2025.07.012
 In vitro and in vivo antibacterial activity of TsAP-2 from Tityus stigmurus scorpion venom in multidrug-resistant strains and its NMR three-dimensional structure.|https://dx.doi.org/10.1016/j.biochi.2025.07.023
+10058-F4 Mediated inhibition of the biofilm formation in multidrug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bioflm.2025.100307
+Virulence and Antibiotic Resistance Profiles of Staphylococcus aureus Isolated from Epidermal Growth Factor Receptor Inhibitors-Associated Skin Lesions.|https://dx.doi.org/10.3390/ijms26146595
+Antimicrobial Efficacy of Impregnated Human Acellular Dermal Substitutes in Burn Wound Models.|https://dx.doi.org/10.3390/antibiotics14070707
+Transcriptomic Analysis of Biofilm Formation Inhibition by PDIA Iminosugar in Staphylococcus aureus.|https://dx.doi.org/10.3390/antibiotics14070668
+First Report of Stenotrophomonas maltophilia from Canine Dermatological Infections: Unravelling Its Antimicrobial Resistance, Biofilm Formation, and Virulence Traits.|https://dx.doi.org/10.3390/antibiotics14070639
+Inhibition of the MRSA Biofilm Formation and Skin Antineoplastic Activity of Ethyl Acetate Roots and Aerial Parts Extracts from Geum urbanum L.|https://dx.doi.org/10.3390/antibiotics14070627
+Propolis Extract with Activity Against Cutibacterium acnes Biofilm Targeting the Expression of Virulence Genes.|https://dx.doi.org/10.3390/antiox14070849
