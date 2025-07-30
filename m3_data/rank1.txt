@@ -9,3 +9,5 @@ Clostridioides difficile co-infection worsens prognosis in inflammatory bowel di
 The host genes influencing Clostridioides difficile infection and the potential role of intestinal Lactobacillus acidophilus: a Mendelian randomization and animal model study.|https://dx.doi.org/10.3389/fcimb.2025.1607476
 Biofilm Assay for Clostridioides difficile with Applications for Drug Discovery.|https://dx.doi.org/10.3791/67913
 The analysis of the epidemic status and risk factors associated with different genotypes Clostridioides difficile mixed infection.|https://dx.doi.org/10.1186/s12866-025-04182-2
+Risk Factors for Recurrence and In-Hospital Mortality in Patients with Clostridioides difficile: A Nationwide Study.|https://dx.doi.org/10.3390/jcm14144907
+Effect of Pefloxacin on Clostridioides difficile R20291 Persister Cells Formation.|https://dx.doi.org/10.3390/antibiotics14070628

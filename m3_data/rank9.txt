@@ -19,3 +19,6 @@ Time-course detoxification of environmental metallic nanoparticles in human lung
 Liquid biopsy based on whole blood transcriptome and artificial intelligence for the prediction of coronary artery calcification: a pilot study.|https://dx.doi.org/10.1093/ehjdh/ztaf042
 Impact of COVID-19 pandemic on toxinogenic Clostridioides difficile infections and correlation with multidrug-resistant bacterial infections.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117014
 Pancreaticocolonic fistulae: a rare cause of profound diarrhoea.|https://dx.doi.org/10.1136/bcr-2025-264903
+Non-Clostridium difficile Bacterial Infection in an Acute Flare of Crohn's Disease: A Case Report and Literature Review.|https://dx.doi.org/10.7417/CT.2025.5240
+Extraintestinal Manifestations of Clostridioides difficile Infections: An Overview.|https://dx.doi.org/10.3390/antibiotics14070670
+Impact of Biologics and Proton Pump Inhibitors on Gastrointestinal Infection Risk in Inflammatory Bowel Disease Patients: A Retrospective Analysis of Pathogen-Specific Outcomes and Treatment Interactions.|https://dx.doi.org/10.3390/biomedicines13071676
