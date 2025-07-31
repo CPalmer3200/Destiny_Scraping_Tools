@@ -11,3 +11,6 @@ Biofilm Assay for Clostridioides difficile with Applications for Drug Discovery.
 The analysis of the epidemic status and risk factors associated with different genotypes Clostridioides difficile mixed infection.|https://dx.doi.org/10.1186/s12866-025-04182-2
 Risk Factors for Recurrence and In-Hospital Mortality in Patients with Clostridioides difficile: A Nationwide Study.|https://dx.doi.org/10.3390/jcm14144907
 Effect of Pefloxacin on Clostridioides difficile R20291 Persister Cells Formation.|https://dx.doi.org/10.3390/antibiotics14070628
+Your Patella Dislocated: Will It Happen Again? Key Magnetic Resonance Imaging Differences Between Patients With Multiple Patellar Dislocations and Patients With a One-Time Patellar Dislocation.|https://dx.doi.org/10.1177/23259671251356632
+Baicalein and Berberine Inhibit the Growth and Virulence of Clostridioides difficile.|https://dx.doi.org/10.3390/pathogens14070662
+Minimum Inhibitory Concentration Increase in Clostridioides difficile Isolates from Patients with Recurrence: Results from a Retrospective Single-Centre Cohort Study.|https://dx.doi.org/10.3390/microorganisms13071515
