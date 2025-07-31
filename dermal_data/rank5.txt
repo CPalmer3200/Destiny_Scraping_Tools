@@ -41,3 +41,7 @@ Transcriptomic Analysis of Biofilm Formation Inhibition by PDIA Iminosugar in St
 First Report of Stenotrophomonas maltophilia from Canine Dermatological Infections: Unravelling Its Antimicrobial Resistance, Biofilm Formation, and Virulence Traits.|https://dx.doi.org/10.3390/antibiotics14070639
 Inhibition of the MRSA Biofilm Formation and Skin Antineoplastic Activity of Ethyl Acetate Roots and Aerial Parts Extracts from Geum urbanum L.|https://dx.doi.org/10.3390/antibiotics14070627
 Propolis Extract with Activity Against Cutibacterium acnes Biofilm Targeting the Expression of Virulence Genes.|https://dx.doi.org/10.3390/antiox14070849
+Exploring the Potential of Flavobacterium covae Catalase and DNA Starvation/Stationary Phase Protein as Recombinant Protein Vaccines Against Columnaris Disease in Channel Catfish.|https://dx.doi.org/10.1016/j.fsi.2025.110600
+High electron transfer efficiency accordion-shaped HNiZn heterostructure nanozyme for low-temperature photo-catalytic enhanced therapy of bacterial infection wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102097
+Machine learning assisted identification of antibiotic-resistant Staphylococcus aureus strains using a paper-based ratiometric sensor array.|https://dx.doi.org/10.1016/j.microc.2024.111395
+Staphylococcus epidermidis in Acute Myeloid Leukemia: A Comparative Genomic Study Against Non-AML Isolates.|https://dx.doi.org/10.3390/pathogens14070627

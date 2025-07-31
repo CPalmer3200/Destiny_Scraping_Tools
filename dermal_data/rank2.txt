@@ -57,3 +57,7 @@ Exploring the Microbiome of Diabetic Foot Ulcers: A Focus on Cases with a Clinic
 Identification of Exosome-Associated Biomarkers in Diabetic Foot Ulcers: A Bioinformatics Analysis and Experimental Validation.|https://dx.doi.org/10.3390/biomedicines13071687
 Early-Onset Diabetes in Ghana's Upper East Region-Insights From Hospital Data.|https://dx.doi.org/10.1002/edm2.70079
 Domain antibody-displayed phages as a novel biofilm-targeted therapy for Staphylococcus aureus.|https://dx.doi.org/10.1007/s10123-025-00698-9
+Cognitive impairment is associated with poor diabetic foot ulcer outcomes.|https://dx.doi.org/10.1016/j.pcd.2025.07.008
+Emergence of β-lactamase-producing Proteus mirabilis in clinical settings: A genotypic investigation of resistance mechanisms and carbapenemase genes bla (NDM-1) and bla (KPC-2).|https://dx.doi.org/10.1016/j.biotno.2025.07.001
+Probiotics in Nanotechnology-Driven Wound Healing: From Mechanistic Insight to Clinical Promise.|https://dx.doi.org/10.3390/pharmaceutics17070805
+Novel Treatments for Diabetic Foot Osteomyelitis: A Narrative Review.|https://dx.doi.org/10.3390/microorganisms13071639

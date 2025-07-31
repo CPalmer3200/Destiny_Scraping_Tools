@@ -55,3 +55,8 @@ Preliminary Evaluation of the Synergistic Antibacterial Effects of Selected Comm
 Bioinspired Co-Assembled Hydrogels Constructed from Marine Self-Assembling Peptides and Polyphenol Network: Antioxidant and Infected Wound Healing.|https://dx.doi.org/10.3390/antiox14070785
 Chitosan membrane tailored for topical acne treatment by incorporating Pickering encapsulated tea tree oil based on organosilane-modified palygorskite.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146317
 Chitosan-based double-network hydrogel with synergistic photothermal/nitric oxide therapy for methicillin-resistance Staphylococcus aureus infected wound healing.|https://dx.doi.org/10.1016/j.jcis.2025.138520
+Porous hydrogel of siloxane-modified polyvinyl alcohol/polydopamine containing berberine chloride, exhibiting robust antibacterial activity and promoting the healing of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bioadv.2025.214418
+Adsorbent of bacteria and inflammatory Factors: Injectable dual-network hydrogel for osteomyelitis treatment.|https://dx.doi.org/10.1016/j.biomaterials.2025.123567
+Facile fabrication of antioxidative and antibacterial hydrogel films to accelerate infected diabetic wound healing.|https://dx.doi.org/10.1016/j.bioactmat.2025.07.026
+Dual dynamic bond crosslinked, on-demand removable antimicrobial chitosan hydrogel with superior photothermal responsiveness and CAT mimetic activity.|https://dx.doi.org/10.1016/j.carbpol.2025.123916
+Development of Bioactive Cotton, Wool, and Silk Fabrics Functionalized with Origanum vulgare L. for Healthcare and Medical Applications: An In Vivo Study.|https://dx.doi.org/10.3390/pharmaceutics17070856
