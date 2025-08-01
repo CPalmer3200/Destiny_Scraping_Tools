@@ -45,3 +45,4 @@ Exploring the Potential of Flavobacterium covae Catalase and DNA Starvation/Stat
 High electron transfer efficiency accordion-shaped HNiZn heterostructure nanozyme for low-temperature photo-catalytic enhanced therapy of bacterial infection wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102097
 Machine learning assisted identification of antibiotic-resistant Staphylococcus aureus strains using a paper-based ratiometric sensor array.|https://dx.doi.org/10.1016/j.microc.2024.111395
 Staphylococcus epidermidis in Acute Myeloid Leukemia: A Comparative Genomic Study Against Non-AML Isolates.|https://dx.doi.org/10.3390/pathogens14070627
+Role of the microbiome in diabetic wound healing: implications for new therapeutic approaches.|https://dx.doi.org/10.1007/s00203-025-04399-9

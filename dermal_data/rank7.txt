@@ -20,3 +20,4 @@ Systemic toxicity induced by topical application of the sulfonic acids, perfluor
 Characterization of Lumpy Skin Disease in Northern Bangladesh: Clinical, Pathological, Biochemical, and Molecular Perspectives.|https://dx.doi.org/10.1155/vmi/4623554
 Liposomal Delivery of a Biotechnological Lavandula angustifolia Miller Extract Rich in Rosmarinic Acid for Topical Herpes Simplex Therapy.|https://dx.doi.org/10.3390/antiox14070811
 Potentials and Challenges in Development of Vesicular Phospholipid Gel as a Novel Dermal Vehicle for Thymol.|https://dx.doi.org/10.3390/pharmaceutics17070854
+Protocol for 3D Bioprinting a Co-culture Skin Model Using a Natural Fibrin-Based Bioink as an Infection Model.|https://dx.doi.org/10.21769/BioProtoc.5380

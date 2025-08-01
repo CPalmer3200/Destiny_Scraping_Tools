@@ -61,3 +61,7 @@ Cognitive impairment is associated with poor diabetic foot ulcer outcomes.|https
 Emergence of β-lactamase-producing Proteus mirabilis in clinical settings: A genotypic investigation of resistance mechanisms and carbapenemase genes bla (NDM-1) and bla (KPC-2).|https://dx.doi.org/10.1016/j.biotno.2025.07.001
 Probiotics in Nanotechnology-Driven Wound Healing: From Mechanistic Insight to Clinical Promise.|https://dx.doi.org/10.3390/pharmaceutics17070805
 Novel Treatments for Diabetic Foot Osteomyelitis: A Narrative Review.|https://dx.doi.org/10.3390/microorganisms13071639
+Euglycemic Diabetic Ketoacidosis Triggered by Sepsis in a Patient on Sodium-Glucose Co-transporter 2 (SGLT2) Inhibitor Therapy: A Case of Diagnostic and Therapeutic Challenges.|https://dx.doi.org/10.7759/cureus.87029
+Microbiology of Diabetic Foot Infections in U.S. Veterans.|https://dx.doi.org/10.2337/cd24-0086
+Innovations in hydrogel therapies for diabetic wound healing: bridging the gap between pathophysiology and clinical application.|https://dx.doi.org/10.1093/burnst/tkaf025
+Application of Transverse Tibial Bone Transfer in Diabetic Foot Patients: A Comprehensive Evaluation of Postoperative Prognostic Factors and Risk Factors.|https://dx.doi.org/10.1111/os.70124

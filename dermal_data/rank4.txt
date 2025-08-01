@@ -60,3 +60,7 @@ Adsorbent of bacteria and inflammatory Factors: Injectable dual-network hydrogel
 Facile fabrication of antioxidative and antibacterial hydrogel films to accelerate infected diabetic wound healing.|https://dx.doi.org/10.1016/j.bioactmat.2025.07.026
 Dual dynamic bond crosslinked, on-demand removable antimicrobial chitosan hydrogel with superior photothermal responsiveness and CAT mimetic activity.|https://dx.doi.org/10.1016/j.carbpol.2025.123916
 Development of Bioactive Cotton, Wool, and Silk Fabrics Functionalized with Origanum vulgare L. for Healthcare and Medical Applications: An In Vivo Study.|https://dx.doi.org/10.3390/pharmaceutics17070856
+Nano-active carboxymethyl cellulose hydrogels infused with sodium deoxycholate functionalized permeosomes to combat biofilm producing resistant pathogens associated with chronic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146383
+Host-guest mediated controlled release of 5-fluorouracil by CQD integrated starch based smart tripolymeric hydrogel.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146419
+Schiff base formed functional hydrogel dressing via ε-poly-L-lysine modified chitosan and oxidized dextran with the incorporation of epigallocatechin-3-gallate.|https://dx.doi.org/10.1088/1748-605X/adf67b
+Developing antioxidant-antimicrobial nanofibers containing Corallina officinalis extract for wound healing.|https://dx.doi.org/10.1080/09205063.2025.2537744
