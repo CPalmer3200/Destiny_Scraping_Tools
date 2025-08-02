@@ -1,0 +1,3 @@
+Machine learning combining external validation to explore the immunopathogenesis of diabetic foot ulcer and predict therapeutic drugs.|https://dx.doi.org/10.1371/journal.pone.0328906
+Wound Bed Temperature has Potential to Indicate Infection Status: A Cross-Sectional Study.|https://dx.doi.org/10.1111/wrr.70072
+In vitro activity of Houttuynia cordata against bacteria isolated from diabetic foot.|https://dx.doi.org/10.1186/s41065-025-00505-5
