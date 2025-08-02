@@ -3,3 +3,4 @@ Phenotypic and genotypic antimicrobial resistance profiles of clinical Clostridi
 Lantibiotic-producing bacteria impact microbiome resilience and colonization resistance.|https://dx.doi.org/10.1101/2025.05.06.652565
 Global dissemination of npmA mediated pan-aminoglycoside resistance via a mobile genetic element in Gram-positive bacteria.|https://dx.doi.org/10.1038/s41467-025-61152-y
 Let's doff: a gown conservation strategy for multidrug-resistant organism colonization during the COVID-19 pandemic and beyond.|https://dx.doi.org/10.1017/ash.2025.10069
+The Rare Co-occurrence of Clostridioides difficile Infection and Pseudomonas Meningitis in an Infant: A Case Report.|https://dx.doi.org/10.7759/cureus.87103
