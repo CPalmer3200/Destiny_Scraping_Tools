@@ -3,3 +3,5 @@ Wound Bed Temperature has Potential to Indicate Infection Status: A Cross-Sectio
 In vitro activity of Houttuynia cordata against bacteria isolated from diabetic foot.|https://dx.doi.org/10.1186/s41065-025-00505-5
 Predicting major amputation risk in diabetic foot ulcers using comparative machine learning models for enhanced clinical decision-making.|https://dx.doi.org/10.1038/s41598-025-13534-x
 Bacterial profile and antimicrobial resistance in diabetic foot ulcer infections: a 10-year retrospective cohort study.|https://dx.doi.org/10.1016/j.bjid.2025.104570
+Cold atmospheric plasma followed by in-situ electrospining of arginine-loaded nanofibers accelerate healing of infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijpharm.2025.126023
+Efficacy Of N-Acetyl-Cysteine as Adjuvant Therapy for Diabetic Foot Osteomyelitis: An Open-Label Randomized Controlled Trial.|https://dx.doi.org/10.34172/aim.33355
