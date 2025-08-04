@@ -5,3 +5,5 @@ Comparing Alcohol-Based Nasal Antiseptic to Mupirocin and Iodophor for Preventin
 Virulence and Antibiotic Resistance Profiles of Staphylococcus aureus Isolated from Epidermal Growth Factor Receptor Inhibitors-Associated Skin Lesions.|https://dx.doi.org/10.3390/ijms26146595
 Antimicrobial-Resistant Staphylococcus spp. Harbored by Hedgehogs (Erinaceus europaeus) in Central Italy.|https://dx.doi.org/10.3390/antibiotics14070725
 High Prevalence of Multidrug-Resistant Bacterial Colonization Among Patients and Healthcare Workers in a Rural Ethiopian Hospital.|https://dx.doi.org/10.3390/antibiotics14070717
+Rapid and actionable nasal-swab screening supports antimicrobial stewardship in patients with pneumonia: a prospective study.|https://dx.doi.org/10.1186/s13756-025-01615-5
+Prevalence, characterization and antibiogram of Staphylococcus aureus isolates from bovine and swine population in Bareilly, Uttar Pradesh, India.|https://dx.doi.org/10.1038/s41598-025-13369-6
