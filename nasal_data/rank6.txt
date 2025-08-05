@@ -1,3 +1,9 @@
 Staphylococcus aureus: a model for bacterial cell biology and pathogenesis.|https://dx.doi.org/10.1128/jb.00106-25
 Evaluation of Streptococcus pneumoniae as a cause of acute otitis media in Colombia: A prospective study.|https://dx.doi.org/10.1371/journal.pone.0326660
 Development of a bivalent protein subunit vaccine against infection by Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.1038/s41541-025-01220-y
+Probiotic peptidoglycan skeleton enhances vaccine efficacy against MRSA by inducing trained immunity via the TLR2/JAK-STAT3 pathway.|https://dx.doi.org/10.3389/fimmu.2025.1606626
+Evolution of strain diversity and virulence factor repertoire in pediatric Staphylococcus aureus isolates.|https://dx.doi.org/10.1371/journal.pone.0326353
+A promising Staphylococcus aureus vaccine adjuvant candidate to overcome Staphylococcal infection based on innate immunity.|https://dx.doi.org/10.7774/cevr.2025.14.e27
+Porous hydrogel of siloxane-modified polyvinyl alcohol/polydopamine containing berberine chloride, exhibiting robust antibacterial activity and promoting the healing of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bioadv.2025.214418
+Orbital Cellulitis Management in Pediatric and Adult Cohorts: A 12-Year Retrospective Analysis From a Tertiary Center.|https://dx.doi.org/10.1097/SCS.0000000000011711
+Staphylococcus Strains in Atopic Dermatitis in Children: Toxins Production and Resistance Properties.|https://dx.doi.org/10.3390/life15071120

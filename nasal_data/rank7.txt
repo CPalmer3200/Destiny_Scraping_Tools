@@ -13,3 +13,11 @@ Silent spread of pathogens in hospital settings: a one-week molecular epidemiolo
 Retrospective Evaluation of Empiric Vancomycin Therapy for Infectious Workups in Relation to Methicillin-Resistant Staphylococcus aureus (MRSA) Risk Factors in the Neonatal Intensive Care Unit.|https://dx.doi.org/10.5863/1551-6776-30.2.198
 Assessment of dry-fogged hydrogen peroxide as an "untact" room disinfection automation system for rapid terminal decontamination of a single isolation room in a healthcare institution.|https://dx.doi.org/10.1186/s13756-025-01613-7
 Organism profiles and empirical treatments for periprosthetic joint infections.|https://dx.doi.org/10.1186/s13018-025-06007-4
+Eventual resolution of pulmonary cavities following septic pulmonary embolism secondary to right-sided infective endocarditis.|https://dx.doi.org/10.1136/bcr-2025-267535
+Electrospun surgical meshes with bioactive coatings for preventing postoperative infections in hernia repair.|https://dx.doi.org/10.1016/j.ijpharm.2025.126033
+Disc penetration sign: an distinctive MRI feature as a predictor of surgical necessity in pyogenic spondylitis.|https://dx.doi.org/10.1007/s00586-025-09214-z
+Evaluation of Staphylococcus simulans inhibition of Staphylococcus aureus infection by an in vivo murine mastitis model.|https://dx.doi.org/10.1128/aem.00678-25
+Monitoring methicillin-resistant Staphylococcus aureus prevalence in Taiwan: a hospital-based surveillance study from 2022 to 2024.|https://dx.doi.org/10.1016/j.ijregi.2025.100702
+Nasopharyngeal Staphylococcus aureus Isolation and Bacterial Culture Profiles in COVID-19 Patients: A Comparative Study Based on Lung Involvement.|https://dx.doi.org/10.7759/cureus.87149
+[Skin Microbiome and Dermatitis: Focusing on Two Distinct Skin Diseases, Atopic Dermatitis and Androgenetic Alopecia].|https://dx.doi.org/10.1248/yakushi.24-00190-5
+The new SCCmec type methicillin-resistant Staphylococcus aureus carried CRISPR-Cas system isolated from a pig in China.|https://dx.doi.org/10.1016/j.micpath.2025.107943
