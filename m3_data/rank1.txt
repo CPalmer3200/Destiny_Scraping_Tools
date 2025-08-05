@@ -15,3 +15,5 @@ Your Patella Dislocated: Will It Happen Again? Key Magnetic Resonance Imaging Di
 Baicalein and Berberine Inhibit the Growth and Virulence of Clostridioides difficile.|https://dx.doi.org/10.3390/pathogens14070662
 Minimum Inhibitory Concentration Increase in Clostridioides difficile Isolates from Patients with Recurrence: Results from a Retrospective Single-Centre Cohort Study.|https://dx.doi.org/10.3390/microorganisms13071515
 Comparability of gastrointestinal microbiome and bile acid profiles in patients with first or multiply recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/infdis/jiaf408
+Effectiveness and Safety of Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection in Immunocompromised Patients.|https://dx.doi.org/10.1016/j.cgh.2025.06.043
+Analysis of clinical characteristics and risk factors of recurrent Clostridioides difficile infection in children.|https://dx.doi.org/10.3389/fped.2025.1571199
