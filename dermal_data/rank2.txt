@@ -7,3 +7,5 @@ Cold atmospheric plasma followed by in-situ electrospining of arginine-loaded na
 Efficacy Of N-Acetyl-Cysteine as Adjuvant Therapy for Diabetic Foot Osteomyelitis: An Open-Label Randomized Controlled Trial.|https://dx.doi.org/10.34172/aim.33355
 Characterization of Microbial Profiles and Antimicrobial Resistance in Diabetic Foot Ulcers at a Tertiary Care Facility in Northern China.|https://dx.doi.org/10.1007/s13300-025-01778-9
 Efficacy of Platelet-Rich Plasma Dressing Versus Normal Saline Dressing in the Management of Diabetic Foot Ulcers: A Comparative Study Conducted in a Tertiary Care Hospital in Southern Odisha.|https://dx.doi.org/10.7759/cureus.87106
+Diabetic Microvascular Disease and Risk of Peripheral Artery Disease, Foot Ulcer, Leg Infection, and Amputation.|https://dx.doi.org/10.1055/a-2661-2537
+Clinical benefits of paclitaxel-coated balloons in the treatment of infrapopliteal limb-threatening peripheral artery disease.|https://dx.doi.org/10.1024/0301-1526/a001217

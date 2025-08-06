@@ -1,2 +1,5 @@
 Modified chitosan-fabricated antifungal transdermal array for dermatophytosis therapy.|https://dx.doi.org/10.1039/d5bm00844a
 [Skin Microbiome and Dermatitis: Focusing on Two Distinct Skin Diseases, Atopic Dermatitis and Androgenetic Alopecia].|https://dx.doi.org/10.1248/yakushi.24-00190-5
+Antimicrobial resistance and biofilm production by Staphylococcus spp. and Mammaliicoccus Sciuri in Inia araguaiaensis: surveillance under a one health perspective in the Amazon.|https://dx.doi.org/10.1007/s11259-025-10836-3
+Metabolites derived from bacterial isolates of the human skin microbiome inhibit Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1128/spectrum.01306-25
+Phenotypic and genotypic characterization of antimicrobial resistance in Enterococcus spp. Isolated from the skin microbiota of channel catfish (Ictalurus punctatus) in Southeastern United States.|https://dx.doi.org/10.1186/s12866-025-04222-x
