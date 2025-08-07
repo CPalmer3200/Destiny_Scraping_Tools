@@ -17,3 +17,5 @@ Minimum Inhibitory Concentration Increase in Clostridioides difficile Isolates f
 Comparability of gastrointestinal microbiome and bile acid profiles in patients with first or multiply recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1093/infdis/jiaf408
 Effectiveness and Safety of Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection in Immunocompromised Patients.|https://dx.doi.org/10.1016/j.cgh.2025.06.043
 Analysis of clinical characteristics and risk factors of recurrent Clostridioides difficile infection in children.|https://dx.doi.org/10.3389/fped.2025.1571199
+Clostridioides difficile toxin A and toxin B inhibit toxin-specific adaptive immune responses through glucosyltransferase-dependent activity.|https://dx.doi.org/10.1101/2025.07.30.667646
+Proton Pump Inhibitor Use and Risk of Clostridioides difficile Infection: An Umbrella Review of 11 Meta-Analyses.|https://dx.doi.org/10.7759/cureus.87383
