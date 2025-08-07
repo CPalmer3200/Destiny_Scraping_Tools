@@ -3,3 +3,6 @@ Modified chitosan-fabricated antifungal transdermal array for dermatophytosis th
 Antimicrobial resistance and biofilm production by Staphylococcus spp. and Mammaliicoccus Sciuri in Inia araguaiaensis: surveillance under a one health perspective in the Amazon.|https://dx.doi.org/10.1007/s11259-025-10836-3
 Metabolites derived from bacterial isolates of the human skin microbiome inhibit Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1128/spectrum.01306-25
 Phenotypic and genotypic characterization of antimicrobial resistance in Enterococcus spp. Isolated from the skin microbiota of channel catfish (Ictalurus punctatus) in Southeastern United States.|https://dx.doi.org/10.1186/s12866-025-04222-x
+Modulating Antimicrobial Activity and Structure of the Peptide Esc(1-21) via Site-Specific Isopeptide Bond Formation.|https://dx.doi.org/10.1002/psc.70048
+Viridans Streptococcal Biofilm Evades Immune Detection and Contributes to Inflammation and Rupture of Atherosclerotic Plaques.|https://dx.doi.org/10.1161/JAHA.125.041521
+Photothermal therapy for bacteria-infected wound healing via a cation-anion inverted antiperovskite with full-spectrum solar absorption.|https://dx.doi.org/10.1039/d5sc03456f

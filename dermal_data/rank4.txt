@@ -5,3 +5,4 @@ Biogenic silver nanoparticles from chamomile incorporated in hydrogels for high 
 Fast Hemostatic, Antimicrobial Multifunctional Gelatin-Based Hydrogel Dressing Loading Bifunctional Cu/ZIF-8 for Accelerated Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c00961
 Tough, Antibacterial, and Antithrombogenic Hydrogel Coatings for Blood-Contacting Silicone Medical Devices.|https://dx.doi.org/10.1021/acsami.5c07723
 Strontium and Tannic Acid-Modified Eggshell-Derived Nanoparticles Promote Wound Healing in Poly(Lactic Acid)/Gelatin-Based Nanofibrous Dressings.|https://dx.doi.org/10.1002/adhm.202502979
+Bioactive herbal supramolecular hydrogels with a hierarchical nanofibrillar structure via metal ion mediated co-assembly.|https://dx.doi.org/10.1039/d5nr02063h
