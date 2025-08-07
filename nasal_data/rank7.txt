@@ -21,3 +21,12 @@ Monitoring methicillin-resistant Staphylococcus aureus prevalence in Taiwan: a h
 Nasopharyngeal Staphylococcus aureus Isolation and Bacterial Culture Profiles in COVID-19 Patients: A Comparative Study Based on Lung Involvement.|https://dx.doi.org/10.7759/cureus.87149
 [Skin Microbiome and Dermatitis: Focusing on Two Distinct Skin Diseases, Atopic Dermatitis and Androgenetic Alopecia].|https://dx.doi.org/10.1248/yakushi.24-00190-5
 The new SCCmec type methicillin-resistant Staphylococcus aureus carried CRISPR-Cas system isolated from a pig in China.|https://dx.doi.org/10.1016/j.micpath.2025.107943
+Conflict zone medical evacuations catalyzing antimicrobial resistance spread and threatening regional health: A retrospective comparative observational study.|https://dx.doi.org/10.1097/TA.0000000000004729
+Do skin bacteriostatic agents reduce acute radiodermatitis in breast cancer patients? A prospective interventional study.|https://dx.doi.org/10.1371/journal.pone.0328536
+High prevalence of multidrug-resistant and ESBL-producing bacteria in a primary healthcare facility in Accra, Ghana: A cross-sectional study.|https://dx.doi.org/10.1371/journal.pgph.0004991
+Minimally Invasive Aspiration of Tricuspid Valve Vegetation in Recurrent Methicillin-Susceptible Staphylococcus aureus Endocarditis.|https://dx.doi.org/10.1016/j.jaccas.2025.104931
+Assessment of the anti-biofilm effect of UV-C irradiation (254 nm) against healthcare associated infections related microorganisms.|https://dx.doi.org/10.3389/fmicb.2025.1570334
+Mortality of malignant otitis externa: A prevalence meta-analysis.|https://dx.doi.org/10.5339/qmj.2025.53
+Prevalence and antibiotic resistance profiles of ESKAPE pathogens in the neonatal intensive care unit of the women and newborn hospital in Lusaka, Zambia.|https://dx.doi.org/10.1186/s13756-025-01588-5
+[Antibiotic Stewardship in Nosocomial Pneumonia].|https://dx.doi.org/10.1055/a-2337-3496
+Fast Hemostatic, Antimicrobial Multifunctional Gelatin-Based Hydrogel Dressing Loading Bifunctional Cu/ZIF-8 for Accelerated Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c00961

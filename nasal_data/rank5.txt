@@ -12,3 +12,5 @@ A Clinical Prediction Model in Prognosticating Salvage of the Infected Implant i
 Evaluation of Major Complications Following Ruptured Implant Removal: A National Surgery Quality Improvement Program Database Analysis.|https://dx.doi.org/10.1093/asj/sjaf068
 Recent Antibiotic Use and Surgical Site Infections in Tissue Expander-Based Breast Reconstruction: A Propensity Score-Matched Analysis.|https://dx.doi.org/10.1097/PRS.0000000000012333
 Evaluation of Pre-Pectoral Direct-to-Implant Breast Reconstruction with Post-Mastectomy Radiation: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm14145004
+Breast Cancer Hormone Therapy Modulates Breast Implant Capsular Contracture.|https://dx.doi.org/10.1097/GOX.0000000000007017
+Necrotizing Soft Tissue Infection of the Breast: A Unique Presentation of Underlying Invasive Breast Cancer.|https://dx.doi.org/10.7759/cureus.87310

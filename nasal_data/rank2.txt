@@ -8,3 +8,5 @@ High Prevalence of Multidrug-Resistant Bacterial Colonization Among Patients and
 Rapid and actionable nasal-swab screening supports antimicrobial stewardship in patients with pneumonia: a prospective study.|https://dx.doi.org/10.1186/s13756-025-01615-5
 Prevalence, characterization and antibiogram of Staphylococcus aureus isolates from bovine and swine population in Bareilly, Uttar Pradesh, India.|https://dx.doi.org/10.1038/s41598-025-13369-6
 Evaluating the burden of respiratory tract infections among mortality cases in Karachi, Pakistan: a post-pandemic surveillance analysis.|https://dx.doi.org/10.7189/jogh.15.04198
+Retrospective Cross-Sectional Study of Occupational Infection Risk With Zoonotic Pathogens in Austrian Veterinary Practitioners in the Year 2022.|https://dx.doi.org/10.1002/vms3.70485
+Risk Factors for Methicillin-Resistant Staphylococcus aureus Carriers in the Intensive Care Unit: A Single-Center, Retrospective Cohort Study in Japan.|https://dx.doi.org/10.1155/cjid/5747507
