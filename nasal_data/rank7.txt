@@ -30,3 +30,6 @@ Mortality of malignant otitis externa: A prevalence meta-analysis.|https://dx.do
 Prevalence and antibiotic resistance profiles of ESKAPE pathogens in the neonatal intensive care unit of the women and newborn hospital in Lusaka, Zambia.|https://dx.doi.org/10.1186/s13756-025-01588-5
 [Antibiotic Stewardship in Nosocomial Pneumonia].|https://dx.doi.org/10.1055/a-2337-3496
 Fast Hemostatic, Antimicrobial Multifunctional Gelatin-Based Hydrogel Dressing Loading Bifunctional Cu/ZIF-8 for Accelerated Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c00961
+Utilization of probiotics against virulence factors of Staphylococcus aureus in bovine mastitis.|https://dx.doi.org/10.1007/s10482-025-02138-0
+Nationwide Surveillance of Antibacterial Susceptibility in Bacterial Respiratory Pathogens in Japan, 2022-2023.|https://dx.doi.org/10.1016/j.jiac.2025.102781
+SAIGE II: The Role of Staphylococcus aureus in Skin Barrier Dysfunction and the Development and Severity of Atopic Dermatitis in Young Children.|https://dx.doi.org/10.36849/JDD.8968
