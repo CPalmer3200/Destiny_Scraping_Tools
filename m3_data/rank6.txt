@@ -1,5 +1,0 @@
-Age-targeted vaccination for reducing Clostridioides difficile infection in England: a coupled mathematical-economic modelling analysis.|https://dx.doi.org/10.1186/s12916-025-04265-x
-Moving from intervention management to disease management for Clostridioides difficile infection: an economic evaluation exploring the impact of a systems approach to health technology assessment.|https://dx.doi.org/10.1016/j.vaccine.2025.127512
-Glycan Substructure Mining Tool: An Updated and Convenient Method Focused on Gut and Pathogenic Microbiota for Glycan Research.|https://dx.doi.org/10.1021/acs.jcim.5c00791
-Molecular characterization of Clostridioides difficile isolated from older adults during prospective population-based active surveillance at nine hospitals in Tokyo, Japan, 2018-2020.|https://dx.doi.org/10.1016/j.anaerobe.2025.102985
-T cell epitope mapping reveals immunodominance of evolutionarily conserved regions within SARS-CoV-2 proteome.|https://dx.doi.org/10.1016/j.isci.2025.113044
