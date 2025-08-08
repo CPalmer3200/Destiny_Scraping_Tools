@@ -23,3 +23,4 @@ Non-Clostridium difficile Bacterial Infection in an Acute Flare of Crohn's Disea
 Extraintestinal Manifestations of Clostridioides difficile Infections: An Overview.|https://dx.doi.org/10.3390/antibiotics14070670
 Impact of Biologics and Proton Pump Inhibitors on Gastrointestinal Infection Risk in Inflammatory Bowel Disease Patients: A Retrospective Analysis of Pathogen-Specific Outcomes and Treatment Interactions.|https://dx.doi.org/10.3390/biomedicines13071676
 Catheter-Associated Urinary Tract Infection, Central Line-Associated Bloodstream Infection, and Clostridioides difficile Infection-An Overview.|https://dx.doi.org/10.1016/j.mcna.2025.02.005
+Pharmacodynamics, pharmacokinetics, interactions with other drugs, toxicity and clinical effectiveness of proton pump inhibitors.|https://dx.doi.org/10.3389/fphar.2025.1507812

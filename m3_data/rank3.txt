@@ -9,3 +9,4 @@ Dengue rapid antigen tests enable prompt outbreak detection and a rapid public h
 Enhancing notification-driven linkage to care for people living with hepatitis C in Queensland: system constraints and solutions.|https://dx.doi.org/10.33321/cdi.2025.49.035
 Rifaximin resistance in Clostridioides difficile is associated with specific rpoB alleles and multilocus sequence typing (MLST) clades.|https://dx.doi.org/10.1186/s12866-025-04164-4
 Analysis and Impact of Infection Prevention Procedures in Long-Term Care Facilities.|https://dx.doi.org/10.15167/2421-4248/jpmh2025.66.1.3392
+Phase II trial of intravenous human dental pulp stem cell therapy for Huntington's disease: a randomized, double-blind, placebo-controlled study.|https://dx.doi.org/10.1186/s13287-025-04557-2
