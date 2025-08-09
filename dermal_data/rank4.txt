@@ -11,3 +11,5 @@ Curcumin delivery and release by using a dual cooperative encapsulation system c
 PVA-GO-Lip hydrogel loaded alendronate sodium: friction adaptation, controlled release, antibacterial and mineralization mechanism.|https://dx.doi.org/10.1080/09205063.2025.2525505
 Photothermal and antimicrobial properties of catechol-chitosan silver nanoparticles/esterified sodium alginate composite hydrogels.|https://dx.doi.org/10.1080/09205063.2025.2526292
 A multifunctional sericin hydrogel system fabricated via one-step acetic acid induction for wound management.|https://dx.doi.org/10.1039/d5tb00134j
+A Transparent, Antimicrobial, Bio-Ionic Liquid Functionalized Hydrogel for Corneal Injury Repair.|https://dx.doi.org/10.1021/acsami.5c08239
+Antimicrobial and Antioxidant Electrospun Membrane Incorporating Silver and Copper Complexes of Phenylboronic Acid-Functionalized 4,5-Diazafluorene Ligand.|https://dx.doi.org/10.1002/ardp.70072

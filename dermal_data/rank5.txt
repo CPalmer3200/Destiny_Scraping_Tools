@@ -6,3 +6,4 @@ Phenotypic and genotypic characterization of antimicrobial resistance in Enteroc
 Modulating Antimicrobial Activity and Structure of the Peptide Esc(1-21) via Site-Specific Isopeptide Bond Formation.|https://dx.doi.org/10.1002/psc.70048
 Viridans Streptococcal Biofilm Evades Immune Detection and Contributes to Inflammation and Rupture of Atherosclerotic Plaques.|https://dx.doi.org/10.1161/JAHA.125.041521
 Photothermal therapy for bacteria-infected wound healing via a cation-anion inverted antiperovskite with full-spectrum solar absorption.|https://dx.doi.org/10.1039/d5sc03456f
+Candida albicans Goliath cells pioneer biofilm formation.|https://dx.doi.org/10.1128/mbio.03425-24
