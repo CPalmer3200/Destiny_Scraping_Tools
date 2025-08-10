@@ -13,3 +13,4 @@ Photothermal and antimicrobial properties of catechol-chitosan silver nanopartic
 A multifunctional sericin hydrogel system fabricated via one-step acetic acid induction for wound management.|https://dx.doi.org/10.1039/d5tb00134j
 A Transparent, Antimicrobial, Bio-Ionic Liquid Functionalized Hydrogel for Corneal Injury Repair.|https://dx.doi.org/10.1021/acsami.5c08239
 Antimicrobial and Antioxidant Electrospun Membrane Incorporating Silver and Copper Complexes of Phenylboronic Acid-Functionalized 4,5-Diazafluorene Ligand.|https://dx.doi.org/10.1002/ardp.70072
+1D Nanofiber-2D Nanosheet Assembled 3D Bioinspired Dressings for Treating Exuding Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c12124
