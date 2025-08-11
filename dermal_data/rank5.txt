@@ -7,3 +7,5 @@ Modulating Antimicrobial Activity and Structure of the Peptide Esc(1-21) via Sit
 Viridans Streptococcal Biofilm Evades Immune Detection and Contributes to Inflammation and Rupture of Atherosclerotic Plaques.|https://dx.doi.org/10.1161/JAHA.125.041521
 Photothermal therapy for bacteria-infected wound healing via a cation-anion inverted antiperovskite with full-spectrum solar absorption.|https://dx.doi.org/10.1039/d5sc03456f
 Candida albicans Goliath cells pioneer biofilm formation.|https://dx.doi.org/10.1128/mbio.03425-24
+Assessing the Potential of Antimicrobial Blue Light (aBL) to Manage Biofilm Burden at the Skin-Implant Interface of Percutaneous Osseointegrated Implants.|https://dx.doi.org/10.1002/jor.70039
+Antimicrobial microneedles: Advances, mechanisms, and applications in combating bacterial infections.|https://dx.doi.org/10.1016/j.ijpharm.2025.126028

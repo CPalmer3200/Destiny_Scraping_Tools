@@ -14,3 +14,8 @@ A multifunctional sericin hydrogel system fabricated via one-step acetic acid in
 A Transparent, Antimicrobial, Bio-Ionic Liquid Functionalized Hydrogel for Corneal Injury Repair.|https://dx.doi.org/10.1021/acsami.5c08239
 Antimicrobial and Antioxidant Electrospun Membrane Incorporating Silver and Copper Complexes of Phenylboronic Acid-Functionalized 4,5-Diazafluorene Ligand.|https://dx.doi.org/10.1002/ardp.70072
 1D Nanofiber-2D Nanosheet Assembled 3D Bioinspired Dressings for Treating Exuding Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c12124
+In-situ loading of ag nanoparticles and sodium cefoperazone onto bacterial cellulose-based composite antimicrobial films for promoting wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146707
+Innovative pH-responsive chitosan hydrogel: A systematic study on VB12 controlled release and multifunctional biological effects via synergistic grafting of cysteine and arginine.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146718
+Oxidised dextran/aminated gelatin injectable hydrogel with peroxidase-like and mild photothermal Fe(3+)-taxifolin nanozymes for repair of pressure ulcer wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146715
+Multifunctional SGCG/CuO(2) composite hydrogel for integrated wastewater remediation: Copper ions removal, phenolic pollutant degradation, and bacterial inactivation.|https://dx.doi.org/10.1016/j.jhazmat.2025.139486
+A sprayable TQ/Ce6@SAB/F-gel for accelerating wound healing via hypoxia-tolerant photodynamic therapy and immune-metabolic pathway.|https://dx.doi.org/10.1016/j.biomaterials.2025.123602
