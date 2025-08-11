@@ -38,3 +38,9 @@ Prevalence and pattern of antibiotic use and resistance among Iraqi patients: a 
 Diagnostic and Therapeutic Challenges in Multifocal MRSA Pyomyositis: A Case Report.|https://dx.doi.org/10.1155/crcc/1360623
 Emerging Antibiotic Resistance Pattern in a Neonatal Intensive Care Unit in Pokhara, Nepal.|https://dx.doi.org/10.33314/jnhrc.v23i01.5119
 Microbiologic analysis of 140 patients undergoing revision total knee arthroplasty due to periprosthetic joint infection and aseptic loosening: droplet digital PCR analysis.|https://dx.doi.org/10.1186/s13018-025-06160-w
+Fabrication and characterization of metoprolol succinate loaded chitosan- guar gum based bio scaffolds for infected wound healing and tissue regeneration: In vitro and in vivo assessment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146714
+Integrated Microneedle Aptasensing Platform toward Point-of-Care Monitoring of Bacterial Infections and Treatment.|https://dx.doi.org/10.1021/acssensors.5c00804
+Assessing the Potential of Antimicrobial Blue Light (aBL) to Manage Biofilm Burden at the Skin-Implant Interface of Percutaneous Osseointegrated Implants.|https://dx.doi.org/10.1002/jor.70039
+Bacterial profile and antimicrobial resistance patterns among pediatrics patients with suspected bloodstream infections in Ethiopia: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-025-11427-y
+1D Nanofiber-2D Nanosheet Assembled 3D Bioinspired Dressings for Treating Exuding Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c12124
+Race, ethnicity and risk for colonisation and infection with key bacterial pathogens: a scoping review.|https://dx.doi.org/10.1136/bmjgh-2024-017404

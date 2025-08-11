@@ -9,3 +9,5 @@ Orbital Cellulitis Management in Pediatric and Adult Cohorts: A 12-Year Retrospe
 Staphylococcus Strains in Atopic Dermatitis in Children: Toxins Production and Resistance Properties.|https://dx.doi.org/10.3390/life15071120
 Mass Spectrometry-Based Analysis of Surface Proteins in Staphylococcus aureus Clinical Strains: Identification of Promising k-mer Targets for Diagnostics.|https://dx.doi.org/10.1021/acs.jproteome.5c00321
 Is Positive Airway Pressure Lab-Titration Always Necessary to Start Noninvasive Respiratory Support in Infants?|https://dx.doi.org/10.1002/ppul.71233
+Identification of a novel ltaS mutation in daptomycin heteroresistant community-acquired methicillin-resistant Staphylococcus aureus ST72 strains in South Korea.|https://dx.doi.org/10.1016/j.ijid.2025.108013
+Nomenclature, definitions, and methodological approaches to estimate the association between antimicrobial treatment and clinical outcomes of drug-resistant bloodstream infections.|https://dx.doi.org/10.1016/j.cmi.2025.07.033
