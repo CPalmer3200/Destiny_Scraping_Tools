@@ -22,3 +22,7 @@ A sprayable TQ/Ce6@SAB/F-gel for accelerating wound healing via hypoxia-tolerant
 Hyaluronic acid-based composite hydrogels embedded with core-shell microgels with properties of mucosal adhesion and combined drug administration for chemoradiotherapy induced oral mucositis.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146575
 Rare but Risky: Orthopedic Infections by Unconventional Gram-Positive Cocci - A Case Series.|https://dx.doi.org/10.13107/jocr.2025.v15.i08.5872
 Antimicrobial and prebiotic properties of Weissella confuse B4-2 exopolysaccharide and its effects on matrix metalloproteinase genes expression.|https://dx.doi.org/10.18502/ijm.v17i4.19253
+Glucose-activated cascade nanozyme hydrogels for synergistic antibacterial therapy via cascade reaction and microenvironment modulation in diabetic wounds.|https://dx.doi.org/10.1016/j.talanta.2025.128690
+Composite Hydrogel Dressing with Drug-Release Capability and Enhanced Mechanical Performance.|https://dx.doi.org/10.1021/acs.biomac.5c00505
+Light-stimulated smart thermo-responsive constructs for enhanced wound healing: A streamlined command approach.|https://dx.doi.org/10.1016/j.ajps.2025.101057
+A multifunctional nanozyme hydrogel film with antibacterial and antioxidant activity for fruit packaging and freshness preservation.|https://dx.doi.org/10.1016/j.foodres.2025.116943

@@ -2,3 +2,5 @@ Exposure characteristics and health risk differences of airborne viable microorg
 Cryptococcoid Sweet Syndrome Following Gastrointestinal Neuroendocrine Tumor Removal: A Case Report.|https://dx.doi.org/10.7759/cureus.87483
 Ethosomes- Novel Drug Delivery System in Herbal Formulations-A Review.|https://dx.doi.org/10.2174/0115748863382305250725053105
 Retrospective Study on Antimicrobial Resistance in Bacteria Isolated from Clinical Infections in Dogs at a Brazilian Veterinary Teaching Hospital.|https://dx.doi.org/10.1016/j.tcam.2025.101004
+TRPV1+ neurons promote cutaneous immunity against Schistosoma mansoni.|https://dx.doi.org/10.1093/jimmun/vkaf141
+Modulation of fibroblast behavior by Leishmania: a pathway to understanding disease progression in cutaneous leishmaniasis.|https://dx.doi.org/10.1186/s12866-025-04098-x

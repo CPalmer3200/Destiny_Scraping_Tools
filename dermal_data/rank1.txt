@@ -4,3 +4,4 @@ Development of therapeutic ions loaded oxidized guar gum and sodium alginate-bas
 Do skin bacteriostatic agents reduce acute radiodermatitis in breast cancer patients? A prospective interventional study.|https://dx.doi.org/10.1371/journal.pone.0328536
 Pathologically Responsive Au@Ag Nanocomposite Spray-Coated Hydrogel Dressing for Accelerated Healing of Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c10248
 Some New Zinc Halide Complexes of N(2)O(2)-Schiff Base: Synthesis, Thermal, Antimicrobial, Antioxidant, Anticancer and Burn Wound Healing Effects.|https://dx.doi.org/10.1002/cbdv.202500817
+The relationship between respiratory tract infections caused by toxin-producing bacteria in burn patients during COVID-19: pathogenesis, diagnostics and novel therapies.|https://dx.doi.org/10.1099/jmm.0.001997
