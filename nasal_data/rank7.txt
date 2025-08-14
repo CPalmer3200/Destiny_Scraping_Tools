@@ -44,3 +44,12 @@ Assessing the Potential of Antimicrobial Blue Light (aBL) to Manage Biofilm Burd
 Bacterial profile and antimicrobial resistance patterns among pediatrics patients with suspected bloodstream infections in Ethiopia: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-025-11427-y
 1D Nanofiber-2D Nanosheet Assembled 3D Bioinspired Dressings for Treating Exuding Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c12124
 Race, ethnicity and risk for colonisation and infection with key bacterial pathogens: a scoping review.|https://dx.doi.org/10.1136/bmjgh-2024-017404
+Construction and validation of a predictive in-hospital mortality nomogram in patients with staphylococcus aureus bloodstream infection.|https://dx.doi.org/10.1038/s41598-025-15826-8
+Infective Endocarditis in Pediatric Patients with Congenital Heart Disease: Results from a National Multicenter Study.|https://dx.doi.org/10.1007/s00246-025-03984-5
+An Acid-Oxidising Solution Containing Hypochlorous Acid Reduces Staphylococcus aureus and Improves Bacterial Diversity in Epidermolysis Bullosa Wounds.|https://dx.doi.org/10.1111/exd.70147
+Electrospun membranes from natural polymers with Quercetin: design and characterization, antioxidant and antimicrobial activity, and potential for skin reinnervation in chronic wounds.|https://dx.doi.org/10.1016/j.ijpharm.2025.126062
+Bayesian Inference of Nosocomial Methicillin-resistant Staphylococcus aureus Transmission Rates in an Urban Safety-Net Hospital.|https://dx.doi.org/10.1016/j.jhin.2025.07.018
+Bottom-up sono-enzymatic approach to build antimicrobial and antifouling nano-enabled coatings on urinary catheters.|https://dx.doi.org/10.1039/d5na00577a
+The prognostic implications of comorbidities in septic arthritis.|https://dx.doi.org/10.3389/fmed.2025.1566384
+Microbial diversity in cutaneous leishmaniasis lesions and potential implications for disease progression and treatment outcomes.|https://dx.doi.org/10.1186/s13104-025-07420-y
+Staphylococcal pneumonia associated with Panton-Valentine leucocidin (PVL) toxin.|https://dx.doi.org/10.1055/a-2664-0663

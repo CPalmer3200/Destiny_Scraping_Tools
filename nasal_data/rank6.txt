@@ -11,3 +11,6 @@ Mass Spectrometry-Based Analysis of Surface Proteins in Staphylococcus aureus Cl
 Is Positive Airway Pressure Lab-Titration Always Necessary to Start Noninvasive Respiratory Support in Infants?|https://dx.doi.org/10.1002/ppul.71233
 Identification of a novel ltaS mutation in daptomycin heteroresistant community-acquired methicillin-resistant Staphylococcus aureus ST72 strains in South Korea.|https://dx.doi.org/10.1016/j.ijid.2025.108013
 Nomenclature, definitions, and methodological approaches to estimate the association between antimicrobial treatment and clinical outcomes of drug-resistant bloodstream infections.|https://dx.doi.org/10.1016/j.cmi.2025.07.033
+Dalbavancin for Treatment of Staphylococcus aureus Bacteremia: The DOTS Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2025.12543
+A Case of Pyogenic Vertebral Osteomyelitis and Iliopsoas Abscess Caused by Invasive Pneumococcal Disease Serotype 35F: Utility of Diffusion-Weighted Whole-Body Imaging With Background Body Signal Suppression as an Adjunctive Diagnostic Tool.|https://dx.doi.org/10.7759/cureus.87770
+Prescription Trends by Orthopedic Surgery Provider: Review of the Medicare Part D Prescribers - by Provider and Drug, 2013-2021.|https://dx.doi.org/10.3928/01477447-20250702-03
