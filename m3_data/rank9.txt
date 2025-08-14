@@ -3,3 +3,4 @@ Anaerobic gut bacteria and their potential role in the initiation, exacerbation,
 Haemophagocytic Lymphohistiocytosis: An Uncommon Presentation in Systemic Lupus Erythematosus and Acute Leukaemia.|https://dx.doi.org/10.12890/2025_005555
 Irritable bowel syndrome after Clostridioides difficile infection.|https://dx.doi.org/10.15386/mpr-2832
 Gastrointestinal Infection Before Immune Checkpoint Inhibition Hinders Treatment Efficacy and Increases the Risk of Colitis.|https://dx.doi.org/10.1002/cam4.71123
+Safety profile of belatacept in a real-life setting: disproportionality analysis of the WHO pharmacovigilance database.|https://dx.doi.org/10.1186/s40360-025-00972-6
