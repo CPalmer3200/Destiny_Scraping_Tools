@@ -12,3 +12,5 @@ Clinical benefits of paclitaxel-coated balloons in the treatment of infrapoplite
 Six-month Outcomes of Patients Admitted for Diabetic Foot Attack.|https://dx.doi.org/10.1177/15347346251365832
 Impact of diabetes mellitus and preoperative body mass index on 30-day postoperative complications and readmissions following total knee arthroplasty.|https://dx.doi.org/10.52312/jdrs.2025.2295
 Poloxamer-based hydrogel with EGCG and rhEGF for diabetic foot ulcer treatment.|https://dx.doi.org/10.1007/s10856-025-06917-z
+Rationale and technique for subulcer ultrasonic treatment of hard-to-heal diabetic foot ulcers.|https://dx.doi.org/10.12968/jowc.2022.0139
+Development of an XGBoost-based prediction model for wound recurrence risk in diabetic foot ulcer patients treated with antibiotic-loaded bone cement.|https://dx.doi.org/10.3389/fendo.2025.1610884

@@ -9,3 +9,5 @@ Photothermal therapy for bacteria-infected wound healing via a cation-anion inve
 Candida albicans Goliath cells pioneer biofilm formation.|https://dx.doi.org/10.1128/mbio.03425-24
 Assessing the Potential of Antimicrobial Blue Light (aBL) to Manage Biofilm Burden at the Skin-Implant Interface of Percutaneous Osseointegrated Implants.|https://dx.doi.org/10.1002/jor.70039
 Antimicrobial microneedles: Advances, mechanisms, and applications in combating bacterial infections.|https://dx.doi.org/10.1016/j.ijpharm.2025.126028
+Targeting human skin health: Bioactive evaluation of acorn shell and red grape pomace extracts against pathogens and skin cells.|https://dx.doi.org/10.1016/j.fitote.2025.106798
+Characterization of a mouse model of osteoarticular infection using clinical isolates of Staphylococcus aureus.|https://dx.doi.org/10.1093/jbmrpl/ziaf093
