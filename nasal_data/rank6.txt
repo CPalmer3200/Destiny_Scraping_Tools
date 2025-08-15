@@ -14,3 +14,4 @@ Nomenclature, definitions, and methodological approaches to estimate the associa
 Dalbavancin for Treatment of Staphylococcus aureus Bacteremia: The DOTS Randomized Clinical Trial.|https://dx.doi.org/10.1001/jama.2025.12543
 A Case of Pyogenic Vertebral Osteomyelitis and Iliopsoas Abscess Caused by Invasive Pneumococcal Disease Serotype 35F: Utility of Diffusion-Weighted Whole-Body Imaging With Background Body Signal Suppression as an Adjunctive Diagnostic Tool.|https://dx.doi.org/10.7759/cureus.87770
 Prescription Trends by Orthopedic Surgery Provider: Review of the Medicare Part D Prescribers - by Provider and Drug, 2013-2021.|https://dx.doi.org/10.3928/01477447-20250702-03
+Amino Acid Substitutions in Bacteriocin Lactolisterin BU Reveal Functional Domains Involved in Biological Activity Against Staphylococcus aureus.|https://dx.doi.org/10.3390/molecules30153134

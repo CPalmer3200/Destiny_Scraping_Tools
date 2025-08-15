@@ -13,3 +13,5 @@ Risk Factors for Methicillin-Resistant Staphylococcus aureus Carriers in the Int
 Staphylococcal Toxic Shock Syndrome Associated With a Cosmetic Rhinoplasty Procedure.|https://dx.doi.org/10.7759/cureus.87549
 Impact of Methicillin-Resistant Staphylococcus aureus Nasal PCR Versus Culture on Vancomycin Utilization in Pneumonia Management.|https://dx.doi.org/10.1177/87551225251359508
 Bacterial infections and pathogenic situations: The case of Staphylococcus lugdunensis.|https://dx.doi.org/10.1080/21505594.2025.2543538
+Staphylococcus aureus phenol-soluble modulins have dispersal and anti-aggregation activity towards corynebacteria.|https://dx.doi.org/10.1128/jb.00183-25
+Methicillin-resistant Staphylococcus aureus nasal swabs: trends in use and association with outcomes.|https://dx.doi.org/10.1017/ash.2025.10093

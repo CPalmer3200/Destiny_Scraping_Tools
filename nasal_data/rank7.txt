@@ -53,3 +53,8 @@ Bottom-up sono-enzymatic approach to build antimicrobial and antifouling nano-en
 The prognostic implications of comorbidities in septic arthritis.|https://dx.doi.org/10.3389/fmed.2025.1566384
 Microbial diversity in cutaneous leishmaniasis lesions and potential implications for disease progression and treatment outcomes.|https://dx.doi.org/10.1186/s13104-025-07420-y
 Staphylococcal pneumonia associated with Panton-Valentine leucocidin (PVL) toxin.|https://dx.doi.org/10.1055/a-2664-0663
+Impact of human lifestyle on the pathogenic potential of urban wastewater.|https://dx.doi.org/10.1016/j.envres.2025.122591
+Electroconductive Antibacterial Bioinks Enable Electrical Stimulation Enhancement of Proliferation and Elongation of Human Skin Fibroblasts.|https://dx.doi.org/10.1021/acsbiomaterials.5c00920
+Antibacterial molybdenum disulfide with silver phosphate coating on titanium fixator in rabbit models of rib fracture infection.|https://dx.doi.org/10.21037/jtd-2024-2214
+The wound microbiome associated with deep sternal wound infection: a scoping review.|https://dx.doi.org/10.21037/jtd-24-1648
+Surface Modification of Medical-Grade Titanium and Polyvinyl Chloride with a Novel Catechol-Terminated Compound Containing Zwitterionic Sulfobetaine Functionality for Antibacterial Application.|https://dx.doi.org/10.3390/polym17152006
