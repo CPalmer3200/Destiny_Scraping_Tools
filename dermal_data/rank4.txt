@@ -26,3 +26,7 @@ Glucose-activated cascade nanozyme hydrogels for synergistic antibacterial thera
 Composite Hydrogel Dressing with Drug-Release Capability and Enhanced Mechanical Performance.|https://dx.doi.org/10.1021/acs.biomac.5c00505
 Light-stimulated smart thermo-responsive constructs for enhanced wound healing: A streamlined command approach.|https://dx.doi.org/10.1016/j.ajps.2025.101057
 A multifunctional nanozyme hydrogel film with antibacterial and antioxidant activity for fruit packaging and freshness preservation.|https://dx.doi.org/10.1016/j.foodres.2025.116943
+Biocompatible methyl cellulose/polyvinyl pyrrolidone biocomposite hydrogels for sustained release of quercetin drug.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146795
+Electroconductive Antibacterial Bioinks Enable Electrical Stimulation Enhancement of Proliferation and Elongation of Human Skin Fibroblasts.|https://dx.doi.org/10.1021/acsbiomaterials.5c00920
+Innovative Biodegradable Antiseptic and Ointment Wipes for Advanced Wound Management.|https://dx.doi.org/10.1177/15347346251367075
+Development and Evaluation of Graphene Oxide-Enhanced Chitosan Sponges as a Potential Antimicrobial Wound Dressing for Infected Wound Management.|https://dx.doi.org/10.3390/ijms26157403

@@ -6,3 +6,4 @@ Pathologically Responsive Au@Ag Nanocomposite Spray-Coated Hydrogel Dressing for
 Some New Zinc Halide Complexes of N(2)O(2)-Schiff Base: Synthesis, Thermal, Antimicrobial, Antioxidant, Anticancer and Burn Wound Healing Effects.|https://dx.doi.org/10.1002/cbdv.202500817
 The relationship between respiratory tract infections caused by toxin-producing bacteria in burn patients during COVID-19: pathogenesis, diagnostics and novel therapies.|https://dx.doi.org/10.1099/jmm.0.001997
 An Acid-Oxidising Solution Containing Hypochlorous Acid Reduces Staphylococcus aureus and Improves Bacterial Diversity in Epidermolysis Bullosa Wounds.|https://dx.doi.org/10.1111/exd.70147
+Smart bacteriophage release from bovine β-lactoglobulin fibrils based hydrogel with anti-MRSA, biofilm degradation and hair follicle regeneration functions for infected burn wound.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146855

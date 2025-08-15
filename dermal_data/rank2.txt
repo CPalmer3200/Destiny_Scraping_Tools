@@ -14,3 +14,6 @@ Impact of diabetes mellitus and preoperative body mass index on 30-day postopera
 Poloxamer-based hydrogel with EGCG and rhEGF for diabetic foot ulcer treatment.|https://dx.doi.org/10.1007/s10856-025-06917-z
 Rationale and technique for subulcer ultrasonic treatment of hard-to-heal diabetic foot ulcers.|https://dx.doi.org/10.12968/jowc.2022.0139
 Development of an XGBoost-based prediction model for wound recurrence risk in diabetic foot ulcer patients treated with antibiotic-loaded bone cement.|https://dx.doi.org/10.3389/fendo.2025.1610884
+Enhancing diabetic foot wound healing with topical macrophage-regulating cream (ON101): a case series.|https://dx.doi.org/10.12968/jowc.2023.0318
+Shotgun Metagenomic Investigation of the Microbiome in Diabetic Foot Infections Compared to Healthy Skin.|https://dx.doi.org/10.1111/wrr.70074
+A Cost Analysis of Diabetic Hand Infections: A Study Based on Direct, Indirect, and One-Year Follow-Up Costs.|https://dx.doi.org/10.3390/healthcare13151826
