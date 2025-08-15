@@ -7,3 +7,6 @@ Microbiome Therapeutics for Clostridioides difficile Infection.|https://dx.doi.o
 Making Sense of Differing Guidelines for Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.idc.2025.07.010
 Impact of Clostridium difficile Infection on Chemotherapy in Patients With Primary Ovarian Cancer.|https://dx.doi.org/10.3346/jkms.2025.40.e179
 Emerging Clostridioides difficile strains belonging to PCR ribotype955 in Serbia are distinct from metronidazole resistant RT955 outbreak isolates from the UK.|https://dx.doi.org/10.1080/22221751.2025.2544733
+Epitope conservation of AZD5148, a broadly neutralizing anti-Toxin B monoclonal antibody, among diverse and global contemporary Clostridioides difficile isolates.|https://dx.doi.org/10.1093/infdis/jiaf423
+Intestinal Microbiota and Fecal Transplantation in Patients with Inflammatory Bowel Disease and Clostridioides difficile: An Updated Literature Review.|https://dx.doi.org/10.3390/jcm14155260
+Case Report of Nephrogenic Diabetes Insipidus with a Novel Mutation in the AQP2 Gene.|https://dx.doi.org/10.3390/ijms26157415
