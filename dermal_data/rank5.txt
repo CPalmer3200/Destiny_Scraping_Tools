@@ -13,3 +13,4 @@ Targeting human skin health: Bioactive evaluation of acorn shell and red grape p
 Characterization of a mouse model of osteoarticular infection using clinical isolates of Staphylococcus aureus.|https://dx.doi.org/10.1093/jbmrpl/ziaf093
 Efficacy of a commercial bacteriophage cocktail against planktonic cells and both thin and thick biofilms of skin pathogens, measured using isothermal microcalorimetry.|https://dx.doi.org/10.3389/fmicb.2025.1608243
 In Silico and In Vitro Potential Antifungal Insights of Insect-Derived Peptides in the Management of Candida sp. Infections.|https://dx.doi.org/10.3390/ijms26157449
+Effect of 3,3'-Diindolylmethane on the Antibacterial Activity of Fluoroquinolones as Constituents of Potential Drug Products for Topical Application.|https://dx.doi.org/10.1021/acsami.5c08154

@@ -17,3 +17,4 @@ Development of an XGBoost-based prediction model for wound recurrence risk in di
 Enhancing diabetic foot wound healing with topical macrophage-regulating cream (ON101): a case series.|https://dx.doi.org/10.12968/jowc.2023.0318
 Shotgun Metagenomic Investigation of the Microbiome in Diabetic Foot Infections Compared to Healthy Skin.|https://dx.doi.org/10.1111/wrr.70074
 A Cost Analysis of Diabetic Hand Infections: A Study Based on Direct, Indirect, and One-Year Follow-Up Costs.|https://dx.doi.org/10.3390/healthcare13151826
+Acid-fast bacilli staining for nonhealing ulcers: a case report of cutaneous Mycobacterium chelonae infection.|https://dx.doi.org/10.25270/wnds/25013
