@@ -58,3 +58,4 @@ Electroconductive Antibacterial Bioinks Enable Electrical Stimulation Enhancemen
 Antibacterial molybdenum disulfide with silver phosphate coating on titanium fixator in rabbit models of rib fracture infection.|https://dx.doi.org/10.21037/jtd-2024-2214
 The wound microbiome associated with deep sternal wound infection: a scoping review.|https://dx.doi.org/10.21037/jtd-24-1648
 Surface Modification of Medical-Grade Titanium and Polyvinyl Chloride with a Novel Catechol-Terminated Compound Containing Zwitterionic Sulfobetaine Functionality for Antibacterial Application.|https://dx.doi.org/10.3390/polym17152006
+Relationship between endotoxin core and staphylococcal antibody levels and outcome following transcatheter aortic valve implantation (TAVI).|https://dx.doi.org/10.1186/s13741-024-00464-x

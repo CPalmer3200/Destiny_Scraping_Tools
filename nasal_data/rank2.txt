@@ -15,3 +15,4 @@ Impact of Methicillin-Resistant Staphylococcus aureus Nasal PCR Versus Culture o
 Bacterial infections and pathogenic situations: The case of Staphylococcus lugdunensis.|https://dx.doi.org/10.1080/21505594.2025.2543538
 Staphylococcus aureus phenol-soluble modulins have dispersal and anti-aggregation activity towards corynebacteria.|https://dx.doi.org/10.1128/jb.00183-25
 Methicillin-resistant Staphylococcus aureus nasal swabs: trends in use and association with outcomes.|https://dx.doi.org/10.1017/ash.2025.10093
+Nasal carriage of Staphylococcus aureus in rural China: molecular epidemiology and antimicrobial susceptibility.|https://dx.doi.org/10.1016/j.jgar.2025.08.004
