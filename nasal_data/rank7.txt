@@ -59,3 +59,4 @@ Antibacterial molybdenum disulfide with silver phosphate coating on titanium fix
 The wound microbiome associated with deep sternal wound infection: a scoping review.|https://dx.doi.org/10.21037/jtd-24-1648
 Surface Modification of Medical-Grade Titanium and Polyvinyl Chloride with a Novel Catechol-Terminated Compound Containing Zwitterionic Sulfobetaine Functionality for Antibacterial Application.|https://dx.doi.org/10.3390/polym17152006
 Relationship between endotoxin core and staphylococcal antibody levels and outcome following transcatheter aortic valve implantation (TAVI).|https://dx.doi.org/10.1186/s13741-024-00464-x
+Inhaled Corticosteroids and Risk of Staphylococcus aureus Isolation in Bronchiectasis: A Register-Based Cohort Study.|https://dx.doi.org/10.3390/jcm14155207
