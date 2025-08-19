@@ -10,3 +10,4 @@ Emerging Clostridioides difficile strains belonging to PCR ribotype955 in Serbia
 Epitope conservation of AZD5148, a broadly neutralizing anti-Toxin B monoclonal antibody, among diverse and global contemporary Clostridioides difficile isolates.|https://dx.doi.org/10.1093/infdis/jiaf423
 Intestinal Microbiota and Fecal Transplantation in Patients with Inflammatory Bowel Disease and Clostridioides difficile: An Updated Literature Review.|https://dx.doi.org/10.3390/jcm14155260
 Case Report of Nephrogenic Diabetes Insipidus with a Novel Mutation in the AQP2 Gene.|https://dx.doi.org/10.3390/ijms26157415
+Clostridioides difficile toxin A and toxin B inhibit toxin-specific adaptive immune responses through glucosyltransferase-dependent activity.|https://dx.doi.org/10.1016/j.mucimm.2025.08.004
