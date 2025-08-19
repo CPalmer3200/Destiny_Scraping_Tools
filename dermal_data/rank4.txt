@@ -32,3 +32,4 @@ Innovative Biodegradable Antiseptic and Ointment Wipes for Advanced Wound Manage
 Development and Evaluation of Graphene Oxide-Enhanced Chitosan Sponges as a Potential Antimicrobial Wound Dressing for Infected Wound Management.|https://dx.doi.org/10.3390/ijms26157403
 A multifunctional tragacanth gum-chitosan hydrogel loaded with manganese ferrite nanoparticles for dental caries prevention and remineralization.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146886
 Multifunctional Gastrodia elata polysaccharide-based triple-network hydrogel promotes Staphylococcus aureus infected diabetes wound.|https://dx.doi.org/10.1016/j.carbpol.2025.123983
+Delivered baicalein immunomodulatory hydrogel with dual properties of pH-responsive and anti-infection orchestrates pro-regenerative response of macrophages for enhanced hypertrophic scars therapy.|https://dx.doi.org/10.1016/j.mtbio.2025.102160

@@ -18,3 +18,8 @@ Enhancing diabetic foot wound healing with topical macrophage-regulating cream (
 Shotgun Metagenomic Investigation of the Microbiome in Diabetic Foot Infections Compared to Healthy Skin.|https://dx.doi.org/10.1111/wrr.70074
 A Cost Analysis of Diabetic Hand Infections: A Study Based on Direct, Indirect, and One-Year Follow-Up Costs.|https://dx.doi.org/10.3390/healthcare13151826
 Acid-fast bacilli staining for nonhealing ulcers: a case report of cutaneous Mycobacterium chelonae infection.|https://dx.doi.org/10.25270/wnds/25013
+Exploring the Anti-inflammatory Molecular Mechanism of L-shikonin in Promoting Diabetic Wound Healing by Modulating the Janus Kinase/Phosphatidylinositol-3-kinase/Protein Kinase B/Vascular Endothelial Growth Factor Pathway Based on Network Pharmacology.|https://dx.doi.org/10.1002/cbdv.202501224
+Multifunctional 3D-Printed Wound Dressings Containing a Combination of Synergistic Antimicrobials in the Management of MRSA Infected Topical Wounds.|https://dx.doi.org/10.1021/acsami.5c08968
+Understanding risk factors and prognosis in diabetic foot ulcers.|https://dx.doi.org/10.1515/biol-2025-1137
+Successful Treatment of Refractory Methicillin-Sensitive Staphylococcus aureus Osteomyelitis With Ceftaroline Fosamil in a Diabetic Patient.|https://dx.doi.org/10.7759/cureus.88049
+A Multifaceted Approach to Diabetic Foot Ulcer Healing Beyond HbA1c: A Prospective Observational Study in a Tertiary Care Hospital in Chennai.|https://dx.doi.org/10.7759/cureus.88136
