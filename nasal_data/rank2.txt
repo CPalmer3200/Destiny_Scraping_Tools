@@ -16,3 +16,5 @@ Bacterial infections and pathogenic situations: The case of Staphylococcus lugdu
 Staphylococcus aureus phenol-soluble modulins have dispersal and anti-aggregation activity towards corynebacteria.|https://dx.doi.org/10.1128/jb.00183-25
 Methicillin-resistant Staphylococcus aureus nasal swabs: trends in use and association with outcomes.|https://dx.doi.org/10.1017/ash.2025.10093
 Nasal carriage of Staphylococcus aureus in rural China: molecular epidemiology and antimicrobial susceptibility.|https://dx.doi.org/10.1016/j.jgar.2025.08.004
+Impaired humoral and T helper cell responses to toxic shock syndrome toxin-1 (TSST-1) in granulomatosis with polyangiitis.|https://dx.doi.org/10.1093/rheumatology/keaf439
+Regular nasal irrigation modulates nasal microbiota and improves symptoms in allergic rhinitis patients: a retrospective study.|https://dx.doi.org/10.62347/POVL4849
