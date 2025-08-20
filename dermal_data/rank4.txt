@@ -33,3 +33,9 @@ Development and Evaluation of Graphene Oxide-Enhanced Chitosan Sponges as a Pote
 A multifunctional tragacanth gum-chitosan hydrogel loaded with manganese ferrite nanoparticles for dental caries prevention and remineralization.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146886
 Multifunctional Gastrodia elata polysaccharide-based triple-network hydrogel promotes Staphylococcus aureus infected diabetes wound.|https://dx.doi.org/10.1016/j.carbpol.2025.123983
 Delivered baicalein immunomodulatory hydrogel with dual properties of pH-responsive and anti-infection orchestrates pro-regenerative response of macrophages for enhanced hypertrophic scars therapy.|https://dx.doi.org/10.1016/j.mtbio.2025.102160
+Preparation of antibacterial and biocompatible dressing by solid phase dispersion matrix and maceration methods based on lawsone extracted from lawsonia inermis.|https://dx.doi.org/10.1038/s41598-025-16426-2
+Carboxymethyl chitosan/PVA-based dynamic cross-linked dual network hydrogel loaded with berberine with self-healing, self-adaptive, sustainable release and antibacterial ability for dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146942
+Fully Triazine-Based Covalent Framework for Antibacterial Phototreatment with High Biosafety.|https://dx.doi.org/10.1021/acsami.5c07582
+An Injectable Zwitterionic Hydrogels with Multiple Intermolecular Interactions for Effective Prevention of Abdominal Adhesions.|https://dx.doi.org/10.1002/advs.202511757
+Self-oxygenating, autonomous self-healing dual-physical crosslinked PVA/chitosan/hydrolysed collagen hydrogels for advanced wound management.|https://dx.doi.org/10.1039/d5tb00919g
+High molecular weight laminarin/AgNPs-impregnated PVA based in situ hydrogels accelerated diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.123991

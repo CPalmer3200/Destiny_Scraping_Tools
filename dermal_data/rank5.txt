@@ -16,3 +16,5 @@ In Silico and In Vitro Potential Antifungal Insights of Insect-Derived Peptides 
 Effect of 3,3'-Diindolylmethane on the Antibacterial Activity of Fluoroquinolones as Constituents of Potential Drug Products for Topical Application.|https://dx.doi.org/10.1021/acsami.5c08154
 Role of methicillin-resistant Staphylococcus aureus in cutaneous infections: Current treatments and therapeutic approaches for future advancement.|https://dx.doi.org/10.1016/j.ijpharm.2025.126030
 Coating silicon catheters with the optimized and stable carotenoid bioproduct from Micrococcus luteus inhibited the biofilm formation by multidrug-resistant Enterococcus faecalis via downregulation of GelE gene expression.|https://dx.doi.org/10.1186/s12934-025-02808-8
+Tanshinone in acne therapeutics: Integrating molecular mechanisms, drug development, and multimodal treatment strategies.|https://dx.doi.org/10.1016/j.fitote.2025.106822
+Development of Rapid and Economic In Vitro Assay and Biorelevant Ex Vivo Biofilm Inhibition Wound Model to Test the Antibacterial Efficacy of Wound Dressings.|https://dx.doi.org/10.1111/wrr.70080
