@@ -60,3 +60,9 @@ The wound microbiome associated with deep sternal wound infection: a scoping rev
 Surface Modification of Medical-Grade Titanium and Polyvinyl Chloride with a Novel Catechol-Terminated Compound Containing Zwitterionic Sulfobetaine Functionality for Antibacterial Application.|https://dx.doi.org/10.3390/polym17152006
 Relationship between endotoxin core and staphylococcal antibody levels and outcome following transcatheter aortic valve implantation (TAVI).|https://dx.doi.org/10.1186/s13741-024-00464-x
 Inhaled Corticosteroids and Risk of Staphylococcus aureus Isolation in Bronchiectasis: A Register-Based Cohort Study.|https://dx.doi.org/10.3390/jcm14155207
+Tanshinone in acne therapeutics: Integrating molecular mechanisms, drug development, and multimodal treatment strategies.|https://dx.doi.org/10.1016/j.fitote.2025.106822
+Evaluating the Risk of Postoperative Infection and Complications in Lumbar Spine Surgery Patients with Preoperative Methicillin-resistant Staphylococcus aureus (MRSA) Colonization.|https://dx.doi.org/10.1007/s00402-025-06036-y
+Multifunctional 3D-Printed Wound Dressings Containing a Combination of Synergistic Antimicrobials in the Management of MRSA Infected Topical Wounds.|https://dx.doi.org/10.1021/acsami.5c08968
+Adverse Events and Immune Response in Psoriasis Patients Receiving Interleukin-17 Inhibitors.|https://dx.doi.org/10.2340/actadv.v105.43685
+Bacterial Isolates From Orthopedic Posttraumatic Surgical Infections in Northern Ghana: ESβL Detection and Analysis of Antimicrobial Resistance Trends.|https://dx.doi.org/10.1155/ijm/9949633
+Isolation, identification and comparative genomic analysis of Lactobacillus salivarius from Mongolian horse vagina.|https://dx.doi.org/10.3389/fmicb.2025.1635639

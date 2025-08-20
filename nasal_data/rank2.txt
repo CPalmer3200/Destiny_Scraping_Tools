@@ -18,3 +18,5 @@ Methicillin-resistant Staphylococcus aureus nasal swabs: trends in use and assoc
 Nasal carriage of Staphylococcus aureus in rural China: molecular epidemiology and antimicrobial susceptibility.|https://dx.doi.org/10.1016/j.jgar.2025.08.004
 Impaired humoral and T helper cell responses to toxic shock syndrome toxin-1 (TSST-1) in granulomatosis with polyangiitis.|https://dx.doi.org/10.1093/rheumatology/keaf439
 Regular nasal irrigation modulates nasal microbiota and improves symptoms in allergic rhinitis patients: a retrospective study.|https://dx.doi.org/10.62347/POVL4849
+Association between prior hospitalization and nasal carriage of methicillin-resistant Staphylococcus aureus (MRSA) in community-dwelling U.S. adults: Evidence from NHANES.|https://dx.doi.org/10.1097/MD.0000000000043987
+Non-Healing Nasolabial Ulcerated Plaque: A Clinicopathologic Challenge.|https://dx.doi.org/10.1111/ijd.70015
