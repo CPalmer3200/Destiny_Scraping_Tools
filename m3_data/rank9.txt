@@ -5,3 +5,4 @@ Irritable bowel syndrome after Clostridioides difficile infection.|https://dx.do
 Gastrointestinal Infection Before Immune Checkpoint Inhibition Hinders Treatment Efficacy and Increases the Risk of Colitis.|https://dx.doi.org/10.1002/cam4.71123
 Safety profile of belatacept in a real-life setting: disproportionality analysis of the WHO pharmacovigilance database.|https://dx.doi.org/10.1186/s40360-025-00972-6
 Chronic Kidney Disease as a Predictor of Mortality in Hospitalized Inflammatory Bowel Disease Patients With Clostridioides difficile Infection.|https://dx.doi.org/10.7759/cureus.88113
+Increase of Clostridioides difficile PCR ribotype 002 infection with decreased disease severity in hospitalized patients in the Netherlands.|https://dx.doi.org/10.1128/spectrum.01446-25
