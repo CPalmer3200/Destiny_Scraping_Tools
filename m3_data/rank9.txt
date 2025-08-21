@@ -6,3 +6,6 @@ Gastrointestinal Infection Before Immune Checkpoint Inhibition Hinders Treatment
 Safety profile of belatacept in a real-life setting: disproportionality analysis of the WHO pharmacovigilance database.|https://dx.doi.org/10.1186/s40360-025-00972-6
 Chronic Kidney Disease as a Predictor of Mortality in Hospitalized Inflammatory Bowel Disease Patients With Clostridioides difficile Infection.|https://dx.doi.org/10.7759/cureus.88113
 Increase of Clostridioides difficile PCR ribotype 002 infection with decreased disease severity in hospitalized patients in the Netherlands.|https://dx.doi.org/10.1128/spectrum.01446-25
+Impact of gastrointestinal complications on readmission and resource use after kidney transplantation.|https://dx.doi.org/10.1016/j.surg.2025.109614
+Antibiotic treatment for 7 days versus 14 days in patients with uncomplicated bloodstream infections: a Systematic review and meta-analysis of randomized controlled trials and trial sequential analysis.|https://dx.doi.org/10.3389/fmed.2025.1617328
+Preschoolers in severely food insecure Guatemalan Mayan households consume a monotonous grain-based diet.|https://dx.doi.org/10.1186/s12889-025-24111-2

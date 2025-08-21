@@ -11,3 +11,5 @@ Epitope conservation of AZD5148, a broadly neutralizing anti-Toxin B monoclonal 
 Intestinal Microbiota and Fecal Transplantation in Patients with Inflammatory Bowel Disease and Clostridioides difficile: An Updated Literature Review.|https://dx.doi.org/10.3390/jcm14155260
 Case Report of Nephrogenic Diabetes Insipidus with a Novel Mutation in the AQP2 Gene.|https://dx.doi.org/10.3390/ijms26157415
 Clostridioides difficile toxin A and toxin B inhibit toxin-specific adaptive immune responses through glucosyltransferase-dependent activity.|https://dx.doi.org/10.1016/j.mucimm.2025.08.004
+Long read metagenomics-based precise tracking of bacterial strains and genomic changes after fecal microbiota transplantation.|https://dx.doi.org/10.1101/2024.09.30.615906
+Recurrent Clostridioides difficile Infection in a Patient With Chronic Colitis: A Successful Response to Fecal Microbiota Transplantation.|https://dx.doi.org/10.7759/cureus.88285
