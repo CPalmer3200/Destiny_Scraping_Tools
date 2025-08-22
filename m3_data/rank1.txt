@@ -13,3 +13,4 @@ Case Report of Nephrogenic Diabetes Insipidus with a Novel Mutation in the AQP2 
 Clostridioides difficile toxin A and toxin B inhibit toxin-specific adaptive immune responses through glucosyltransferase-dependent activity.|https://dx.doi.org/10.1016/j.mucimm.2025.08.004
 Long read metagenomics-based precise tracking of bacterial strains and genomic changes after fecal microbiota transplantation.|https://dx.doi.org/10.1101/2024.09.30.615906
 Recurrent Clostridioides difficile Infection in a Patient With Chronic Colitis: A Successful Response to Fecal Microbiota Transplantation.|https://dx.doi.org/10.7759/cureus.88285
+Advances in the Medical Treatment of Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.idc.2025.07.005
