@@ -20,3 +20,5 @@ Do disease-modifying anti-rheumatic drugs affect implant-based breast reconstruc
 The effect of sarcopenia on postoperative complications in autologous breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2025.08.002
 Bacterial Synergism in Breast Necrotizing Fasciitis: A Case Report on Diagnostic Dilemmas, Therapeutic Challenges, and Reconstructive Management.|https://dx.doi.org/10.1155/crdi/3731779
 The Impact of Body Mass Index on Safety and Efficacy of Endoscopic Radical Thyroidectomy via Gasless Unilateral Axillary Approach for Thyroid Cancer Patients.|https://dx.doi.org/10.62713/aic.4134
+SPARC Induces COL1A1/COL3A1 Expressions Representing Aggressive Molecular Cancer-Associated Fibroblasts Signatures and CSF1-Mediated Cancer Invasion in Colorectal Cancer.|https://dx.doi.org/10.1245/s10434-025-18039-5
+Complicated Extra-Abdominal Desmoid Tumor Associated With Pregnancy in a Patient With a History of Bilateral Mastectomy: A Case Report.|https://dx.doi.org/10.7759/cureus.88308

@@ -18,3 +18,8 @@ Amino Acid Substitutions in Bacteriocin Lactolisterin BU Reveal Functional Domai
 Dual-functionality of Nocardiopsis alba B57 in biocontrol and plant growth: a metabolomic approach to agricultural sustainability.|https://dx.doi.org/10.1038/s41522-025-00796-6
 Research priorities in Infection Prevention and Control in Alberta, Canada: a modified Delphi process.|https://dx.doi.org/10.1016/j.jhin.2025.07.023
 Synthesis, Conformal Analysis, and Antibody Binding of Staphylococcus aureus Capsular Polysaccharide Type 5 Oligosaccharides.|https://dx.doi.org/10.1002/anie.202511378
+Epidemiology and surveillance of influenza, RSV and SARS-CoV-2 in children admitted with severe acute respiratory infection in West bengal, India from 2022 to 2023.|https://dx.doi.org/10.1186/s12879-025-11421-4
+An epitope vaccine derived by analyzing clinical trial samples safeguards hosts with prior exposure to S. aureus against reinfection.|https://dx.doi.org/10.1126/scitranslmed.adr7464
+Reduced efficacy of an anti-toxin vaccine from senescence-driven attenuation of toxin virulence.|https://dx.doi.org/10.1101/2025.08.14.670416
+Respiratory pathogens in infants and young children with acute respiratory illness: a prospective cohort study, China, 2023-2024.|https://dx.doi.org/10.3389/fpubh.2025.1548190
+Secular trends of bloodstream infections in hemodialysis patients: insights from a longitudinal Swiss study.|https://dx.doi.org/10.1186/s13756-025-01620-8
