@@ -26,3 +26,5 @@ A Multifaceted Approach to Diabetic Foot Ulcer Healing Beyond HbA1c: A Prospecti
 [Study on effectiveness and changes in immunoglobulin levels of transverse tibial transport in treatment of Wagner grade 3-4 type 2 diabetic foot ulcer].|https://dx.doi.org/10.7507/1002-1892.202503077
 Anesthetic management of diabetic foot amputation in a patient with renal failure and maintenance hemodialysis: case report and short communication.|https://dx.doi.org/10.62347/UMOA1809
 Management of Diabetic Wounds: Expert Panel Consensus Statement.|https://dx.doi.org/10.1177/21621918251366586
+A Novel Diabetic Limb Preservation Initiative.|https://dx.doi.org/10.7547/25-108
+Vitamin D supplementation reduces infection rate and promotes wound healing in patients with diabetic foot ulcers.|https://dx.doi.org/10.4239/wjd.v16.i8.108166

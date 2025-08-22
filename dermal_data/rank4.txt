@@ -42,3 +42,5 @@ High molecular weight laminarin/AgNPs-impregnated PVA based in situ hydrogels ac
 Design of multi-layer electrospun poly(ε-caprolactone)/chitosan nanofiber scaffolds loaded with tigecycline for controlled drug release and antibacterial wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146955
 Synergistic antibacterial, anti-adhesion, and lubricating hydrogel coating with carbon quantum dots for urinary catheters: A multifaceted strategy against catheter-associated infections.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146961
 Stable, bioactive hydrogel coating on silicone surfaces for non-invasive decontamination via photochemical treatment.|https://dx.doi.org/10.1016/j.bioactmat.2025.07.052
+Superstretchable and Tough Physical Cross-Linking Hydrogels with Dual pH and Temperature Responsiveness for In Vivo Treatment of Staphylococcus aureus-Infected Wounds.|https://dx.doi.org/10.1021/acs.biomac.5c01367
+Silver Nanoparticles and Houttuynin Sodium-Based Fibrous Poly(L-lactide-co-glycolide)/Gelatin-Based Dressings for Infectious Wound Healing.|https://dx.doi.org/10.1002/smll.202504383
