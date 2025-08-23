@@ -1,3 +1,4 @@
 Immune Aspects of Clostridioides difficile Infection and Vaccine Development.|https://dx.doi.org/10.1016/j.idc.2025.07.008
 Multi-epitope vaccine design against Clostridioides difficile using the ABC-type transport system protein.|https://dx.doi.org/10.6026/973206300210990
 Microbial bellwether: Community-scale metabolic modeling to predict infection.|https://dx.doi.org/10.1016/j.cels.2025.101370
+Mouse monoclonal antibodies against Clostridioides difficile toxins TcdA and TcdB target diverse epitopes for neutralization.|https://dx.doi.org/10.1128/iai.00139-25

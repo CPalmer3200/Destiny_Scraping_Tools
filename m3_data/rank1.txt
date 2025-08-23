@@ -14,3 +14,6 @@ Clostridioides difficile toxin A and toxin B inhibit toxin-specific adaptive imm
 Long read metagenomics-based precise tracking of bacterial strains and genomic changes after fecal microbiota transplantation.|https://dx.doi.org/10.1101/2024.09.30.615906
 Recurrent Clostridioides difficile Infection in a Patient With Chronic Colitis: A Successful Response to Fecal Microbiota Transplantation.|https://dx.doi.org/10.7759/cureus.88285
 Advances in the Medical Treatment of Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.idc.2025.07.005
+Alpha-Synuclein Lesions in the Peripheral Nervous System of the Larynx in Parkinson's Disease.|https://dx.doi.org/10.1007/s00455-025-10870-y
+In Vitro Characterization of PHICD111_20024_EAD as an Engineered Endolysin against Clostridioides difficile.|https://dx.doi.org/10.1016/j.jgar.2025.08.009
+Regional epidemiologic data call for enhanced attention to Clostridioides difficile infections in Italy: Results from a population-based study.|https://dx.doi.org/10.1016/j.jiph.2025.102928
