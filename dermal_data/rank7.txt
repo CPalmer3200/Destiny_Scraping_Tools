@@ -6,3 +6,4 @@ TRPV1+ neurons promote cutaneous immunity against Schistosoma mansoni.|https://d
 Modulation of fibroblast behavior by Leishmania: a pathway to understanding disease progression in cutaneous leishmaniasis.|https://dx.doi.org/10.1186/s12866-025-04098-x
 Comparative Proteomic Analysis of Endocytic Cell-Surface Proteins in Vascular and Lymphatic Endothelial Cells.|https://dx.doi.org/10.1248/bpb.b25-00128
 Natural long-chain fatty acyl solamines from the leaves of Solanum bulbocastanum Dun. show antiseptic properties.|https://dx.doi.org/10.1016/j.fitote.2025.106836
+Retrospective Evaluation of Clonality in Canine Erythema Multiforme.|https://dx.doi.org/10.1111/vde.70021

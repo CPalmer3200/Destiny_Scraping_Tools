@@ -22,3 +22,4 @@ Nitric Oxide-Releasing Microparticles: A Novel Treatment for Onychomycosis.|http
 Planktonic and Sessile Piscirickettsia salmonis Disrupts Morpho-Functional Parameters in Rainbow Trout Intestinal Epithelial RTGutGC Cells.|https://dx.doi.org/10.1111/jfd.70049
 Strategic antagonism: how Lactobacillus plantarum counters Staphylococcus aureus pathogenicity.|https://dx.doi.org/10.3389/fmicb.2025.1635123
 Impact of Droplet Splashing on Biological and Medical Materials Relevant to Clinical Settings.|https://dx.doi.org/10.1002/smsc.202400239
+Biofilm formation and role of other pathogenic factors in the virulence of Staphylococcus epidermidis clinical isolates.|https://dx.doi.org/10.3389/fcimb.2025.1630341
