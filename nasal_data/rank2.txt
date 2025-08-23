@@ -21,3 +21,4 @@ Regular nasal irrigation modulates nasal microbiota and improves symptoms in all
 Association between prior hospitalization and nasal carriage of methicillin-resistant Staphylococcus aureus (MRSA) in community-dwelling U.S. adults: Evidence from NHANES.|https://dx.doi.org/10.1097/MD.0000000000043987
 Non-Healing Nasolabial Ulcerated Plaque: A Clinicopathologic Challenge.|https://dx.doi.org/10.1111/ijd.70015
 CC5 MRSA isolates from goats and the farm environment are phylogenetically linked to isolates recovered from human clinical samples.|https://dx.doi.org/10.1016/j.jgar.2025.08.008
+Longitudinal prevalence and co-carriage of pathogens associated with nursing home acquired pneumonia in three long-term care facilities.|https://dx.doi.org/10.1371/journal.pgph.0004954

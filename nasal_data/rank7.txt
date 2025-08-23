@@ -74,3 +74,8 @@ Preclinical evaluation of a novel antibiotic-eluting BioEnvelope for CIED infect
 Clinical Practice of Surgical Treatment for Left-Sided Infective Endocarditis: Nationwide Data from the NIDUS Registry.|https://dx.doi.org/10.1161/CIRCULATIONAHA.125.074608
 A Study of Expert Perspectives on the Administration of Cefpodoxime and its Combinations in Respiratory Infections: PERCEPT Survey.|https://dx.doi.org/10.59556/japi.73.1054
 Laminaria tent use for dilation, extraction, and curettage leading to septic shock: a case report.|https://dx.doi.org/10.1186/s13256-025-05238-7
+Methicillin-Resistant Staphylococcus aureus Infection to a Stent Graft in the Superficial Femoral Artery.|https://dx.doi.org/10.1016/j.jaccas.2025.104652
+What is the viable microbiome of the healthcare toilet?|https://dx.doi.org/10.1016/j.jhin.2025.07.031
+Flavonols interrupt internalized bacteria hijacking cellular responses via suppressing oxidative stress induced cellular apoptotic death.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107595
+Enhanced barrier precautions to prevent transmission of Staphylococcus aureus and Carbapenem-resistant organisms in nursing home chronic ventilator units.|https://dx.doi.org/10.1017/ice.2025.10237
+Biofilm formation and role of other pathogenic factors in the virulence of Staphylococcus epidermidis clinical isolates.|https://dx.doi.org/10.3389/fcimb.2025.1630341
