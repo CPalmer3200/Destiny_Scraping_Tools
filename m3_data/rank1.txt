@@ -17,3 +17,4 @@ Advances in the Medical Treatment of Clostridioides difficile Infection.|https:/
 Alpha-Synuclein Lesions in the Peripheral Nervous System of the Larynx in Parkinson's Disease.|https://dx.doi.org/10.1007/s00455-025-10870-y
 In Vitro Characterization of PHICD111_20024_EAD as an Engineered Endolysin against Clostridioides difficile.|https://dx.doi.org/10.1016/j.jgar.2025.08.009
 Regional epidemiologic data call for enhanced attention to Clostridioides difficile infections in Italy: Results from a population-based study.|https://dx.doi.org/10.1016/j.jiph.2025.102928
+Risk factors for further recurrences of Clostridioides difficile infection at the first and second recurrence: a retrospective cohort.|https://dx.doi.org/10.1186/s12879-025-11495-0
