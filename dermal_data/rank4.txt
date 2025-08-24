@@ -45,3 +45,4 @@ Stable, bioactive hydrogel coating on silicone surfaces for non-invasive deconta
 Superstretchable and Tough Physical Cross-Linking Hydrogels with Dual pH and Temperature Responsiveness for In Vivo Treatment of Staphylococcus aureus-Infected Wounds.|https://dx.doi.org/10.1021/acs.biomac.5c01367
 Silver Nanoparticles and Houttuynin Sodium-Based Fibrous Poly(L-lactide-co-glycolide)/Gelatin-Based Dressings for Infectious Wound Healing.|https://dx.doi.org/10.1002/smll.202504383
 Stimuli-responsive, antioxidant, and antimicrobial hydrogels from poly[2-(dimethylamino)ethyl methacrylate] reinforced with cellulose nanocrystals and loaded with limonene oligomer.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147016
+Nanocomposite hydrogel to integratively inhibit bacteria and inflammation for infected wound repair.|https://dx.doi.org/10.1016/j.jconrel.2025.114145
