@@ -7,3 +7,5 @@ Modulation of fibroblast behavior by Leishmania: a pathway to understanding dise
 Comparative Proteomic Analysis of Endocytic Cell-Surface Proteins in Vascular and Lymphatic Endothelial Cells.|https://dx.doi.org/10.1248/bpb.b25-00128
 Natural long-chain fatty acyl solamines from the leaves of Solanum bulbocastanum Dun. show antiseptic properties.|https://dx.doi.org/10.1016/j.fitote.2025.106836
 Retrospective Evaluation of Clonality in Canine Erythema Multiforme.|https://dx.doi.org/10.1111/vde.70021
+Impact of microplastics on the human gut microbiome: a systematic review of microbial composition, diversity, and metabolic disruptions.|https://dx.doi.org/10.1186/s12876-025-04140-2
+Dermal fibroblast cultures recapitulate differences between deermice and mice in responses to a Toll-like receptor agonist.|https://dx.doi.org/10.1101/2025.07.16.665222

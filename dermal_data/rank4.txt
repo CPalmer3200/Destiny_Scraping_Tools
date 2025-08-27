@@ -47,3 +47,6 @@ Silver Nanoparticles and Houttuynin Sodium-Based Fibrous Poly(L-lactide-co-glyco
 Stimuli-responsive, antioxidant, and antimicrobial hydrogels from poly[2-(dimethylamino)ethyl methacrylate] reinforced with cellulose nanocrystals and loaded with limonene oligomer.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147016
 Nanocomposite hydrogel to integratively inhibit bacteria and inflammation for infected wound repair.|https://dx.doi.org/10.1016/j.jconrel.2025.114145
 Magnetic agar-cellulose hydrogel/g-C₃N₄/ZnAl LDH@Fe₃O₄ nanocomposite for efficient pirimicarb removal and antibacterial water purification.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147076
+Antibacterial carbon dots integrating multiple mechanisms for selective Gram-positive bacteria elimination and infected wound healing acceleration.|https://dx.doi.org/10.1039/d5tb00754b
+Bacterial cellulose doped with ZnO as a multifunctional bioactive platform for curcumin and propolis immobilization: synthesis, characterization, and wound healing potential.|https://dx.doi.org/10.1186/s12934-025-02826-6
+Photo-Activated Cu-ZIF-8 Integrated Sprayable Hydrogels for Accelerated Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01127

@@ -30,3 +30,4 @@ A Novel Diabetic Limb Preservation Initiative.|https://dx.doi.org/10.7547/25-108
 Vitamin D supplementation reduces infection rate and promotes wound healing in patients with diabetic foot ulcers.|https://dx.doi.org/10.4239/wjd.v16.i8.108166
 Self-healing hydrogels loaded with selenium nanoparticles/chitosan/cellulose nanofibers as carriers of mesenchymal stem cells for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146905
 Integrating piezoelectric dressings with botanicals as emerging smart dressings for diabetic wound healing.|https://dx.doi.org/10.1039/d5nr01797a
+Factors affecting diabetes related hospitalization and in-hospital outcomes of adults with diabetes in south Ethiopia: A prospective observational study.|https://dx.doi.org/10.1371/journal.pone.0330735
