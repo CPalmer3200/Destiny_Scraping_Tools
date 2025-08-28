@@ -1,2 +1,3 @@
 SAIGE II: The Role of Staphylococcus aureus in Skin Barrier Dysfunction and the Development and Severity of Atopic Dermatitis in Young Children.|https://dx.doi.org/10.36849/JDD.8968
 Staphylococcus pseudintermedius isolated from atopic dogs with pyoderma induces mast cell degranulation.|https://dx.doi.org/10.1080/00480169.2025.2543031
+Interference of Malassezia restricta in the invasion of Staphylococcus aureus into human keratinocytes.|https://dx.doi.org/10.1093/mmy/myaf079

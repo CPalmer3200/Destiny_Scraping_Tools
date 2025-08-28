@@ -9,3 +9,4 @@ Natural long-chain fatty acyl solamines from the leaves of Solanum bulbocastanum
 Retrospective Evaluation of Clonality in Canine Erythema Multiforme.|https://dx.doi.org/10.1111/vde.70021
 Impact of microplastics on the human gut microbiome: a systematic review of microbial composition, diversity, and metabolic disruptions.|https://dx.doi.org/10.1186/s12876-025-04140-2
 Dermal fibroblast cultures recapitulate differences between deermice and mice in responses to a Toll-like receptor agonist.|https://dx.doi.org/10.1101/2025.07.16.665222
+Systemic inflammation-induced adipose tissue remodeling drives psoriasis exacerbation in obesity through epigenetic and immunometabolic dysregulation.|https://dx.doi.org/10.7150/thno.116796

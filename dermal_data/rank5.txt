@@ -26,3 +26,7 @@ Biofilm formation and role of other pathogenic factors in the virulence of Staph
 Microbubble-Controlled Delivery of Biofilm-Targeting Nanoparticles to Treat MRSA Infection.|https://dx.doi.org/10.1002/adfm.202508291
 Protocol to Create Chronic Wounds in Diabetic Mice - an Update to the Published Protocol.|https://dx.doi.org/10.3791/67395
 Staphylococcus epidermidis-key to understanding biofilms, commensalism, and more.|https://dx.doi.org/10.1128/jb.00165-25
+Allelopathic compound 2-methoxy-1,4-naphthoquinone is broadly effective against pathogenic Prototheca species in vitro and in vivo.|https://dx.doi.org/10.1128/aac.00497-25
+Berberine Inhibits Acne-Related Lipid Secretion and Inflammation by Regulating the hsa-miR-3150a-3p/TP53 Pathway.|https://dx.doi.org/10.2147/JIR.S526923
+Hybrid Spike-Facilitated Capture and Biofilm Destruction Co-Enhances Ultrasound-Mediated Bactericidal Therapy.|https://dx.doi.org/10.1021/acsnano.5c09843
+Antibiofilm from phyllosphere improves survival and gut health of juvenile pearl gentian hybrid grouper challenged with Vibrio harveyi.|https://dx.doi.org/10.1038/s41598-025-16579-0

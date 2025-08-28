@@ -50,3 +50,6 @@ Magnetic agar-cellulose hydrogel/g-C₃N₄/ZnAl LDH@Fe₃O₄ nanocomposite for
 Antibacterial carbon dots integrating multiple mechanisms for selective Gram-positive bacteria elimination and infected wound healing acceleration.|https://dx.doi.org/10.1039/d5tb00754b
 Bacterial cellulose doped with ZnO as a multifunctional bioactive platform for curcumin and propolis immobilization: synthesis, characterization, and wound healing potential.|https://dx.doi.org/10.1186/s12934-025-02826-6
 Photo-Activated Cu-ZIF-8 Integrated Sprayable Hydrogels for Accelerated Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01127
+Synthesis of copolymer hydrogels based on maltodextrin and chitosan with antimicrobial properties for their potential use as wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147140
+Effect of Zinc and Magnesium Compounds and Nano-Hydroxyapatite on the Physicochemical Properties and Biological Activity of Alginate and Gelatin Scaffolds for Osteochondral Defects.|https://dx.doi.org/10.3390/jfb16080300
+Hydroxyapatite-reinforced pectin hydrogel films PEC/PVA/APTES/HAp: doxycycline loading for sustained drug release and wound healing applications.|https://dx.doi.org/10.1039/d5ra01989c

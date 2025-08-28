@@ -31,3 +31,6 @@ Vitamin D supplementation reduces infection rate and promotes wound healing in p
 Self-healing hydrogels loaded with selenium nanoparticles/chitosan/cellulose nanofibers as carriers of mesenchymal stem cells for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.146905
 Integrating piezoelectric dressings with botanicals as emerging smart dressings for diabetic wound healing.|https://dx.doi.org/10.1039/d5nr01797a
 Factors affecting diabetes related hospitalization and in-hospital outcomes of adults with diabetes in south Ethiopia: A prospective observational study.|https://dx.doi.org/10.1371/journal.pone.0330735
+Diagnostic Value of Neutrophil CD64 Index in Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.2147/DMSO.S525260
+Bloodstream infection caused by coinfection of Actinomyces turicensis and Gemella morbillorum: a case report and literature review.|https://dx.doi.org/10.3389/fmed.2025.1626567
+Diabetes Mellitus and Infectious Diseases: Current Evidence and Clinical Implications.|https://dx.doi.org/10.4093/dmj.2025.0508
