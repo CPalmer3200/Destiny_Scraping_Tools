@@ -5,3 +5,4 @@ Duration of Therapy With Amoxicillin/Clavulanate for Postoperative Antimicrobial
 Management of Clostridioides difficile infection in patients with haematological malignancies and after cellular therapy: guidelines from 10th European Conference on Infections in Leukaemia (ECIL-10).|https://dx.doi.org/10.1016/j.eclinm.2025.103371
 Variations in Stress Ulcer Prophylaxis Practices Among Intensive Care Units in Makkah City Hospitals, Kingdom of Saudi Arabia.|https://dx.doi.org/10.7759/cureus.87945
 A Systematic Review of the Adverse Effects of Long-Term Proton Pump Inhibitor Use on the Gastrointestinal System in the Adult Population.|https://dx.doi.org/10.7759/cureus.90606
+Investigating the relationship between Helicobacter pylori and intestinal Clostridioides difficile infection: evidence from a cross-sectional study.|https://dx.doi.org/10.1186/s12876-025-04227-w

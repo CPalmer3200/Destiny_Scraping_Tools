@@ -10,3 +10,4 @@ Impact of gastrointestinal complications on readmission and resource use after k
 Antibiotic treatment for 7 days versus 14 days in patients with uncomplicated bloodstream infections: a Systematic review and meta-analysis of randomized controlled trials and trial sequential analysis.|https://dx.doi.org/10.3389/fmed.2025.1617328
 Preschoolers in severely food insecure Guatemalan Mayan households consume a monotonous grain-based diet.|https://dx.doi.org/10.1186/s12889-025-24111-2
 Veillonella intestinal colonization promotes C. difficile infection in Crohn's disease.|https://dx.doi.org/10.1016/j.chom.2025.07.019
+Genomic Epidemiology of Clostridioidesdifficile.|https://dx.doi.org/10.1016/j.idc.2025.07.013

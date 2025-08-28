@@ -5,3 +5,4 @@ Management of Severe Clostridioides difficile Infection.|https://dx.doi.org/10.1
 Synthetic niclosamide-loaded controlled-release nanospheres with high solubility and stability exerting multiple effects against Clostridioides difficile.|https://dx.doi.org/10.3389/fmicb.2025.1617631
 The Impact of Obesity on Clostridioides difficile Infection Outcomes: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/jcm14155459
 Akkermansia muciniphila: A key player in gut microbiota-based disease modulation.|https://dx.doi.org/10.1016/j.micres.2025.128317
+Mycobiota Dynamics in Inflammatory Bowel Disease: Fungal Biomarkers and Clostridioides difficile Co-infection.|https://dx.doi.org/10.1016/j.micpath.2025.108000
