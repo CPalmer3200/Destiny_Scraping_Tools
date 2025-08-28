@@ -5,3 +5,13 @@ Whole-genome sequencing and biofilm gene characterization in multidrug-Resistant
 Incidence and Risk Factors for Hemodialysis Reliable Outflow Bypass Graft Infection.|https://dx.doi.org/10.1016/j.jvs.2025.08.016
 Culturable macroplastic-associated potential human pathogens in coral reef lagoons, Madagascar.|https://dx.doi.org/10.1016/j.marpolbul.2025.118547
 Outcomes of End Stage Renal Disease in Patients With Infective Endocarditis: A Nationwide Population-Based Study.|https://dx.doi.org/10.1161/JAHA.125.041724
+Comparison of peripherally inserted central catheters and central venous catheters in burn patients: a retrospective cohort study.|https://dx.doi.org/10.1016/j.burns.2025.107670
+Cloning and Functional Characterization of a Novel Brevinin-1-Type Peptide from Sylvirana guentheri with Anticancer Activity.|https://dx.doi.org/10.3390/cimb47080673
+Immune response and clinical severity are shaped by skin-adapted Staphylococcus aureus in chronically infected patients.|https://dx.doi.org/10.1126/scitranslmed.adq7985
+Mixed Candida albicans-Staphylococcus aureus Biofilm Is Reduced by Light-Activated Nanocomposite with Phloxine B.|https://dx.doi.org/10.3390/jof11080582
+Antimicrobial Effect of Gentamicin/Heparin and Gentamicin/Citrate Lock Solutions on Staphylococcus aureus and Pseudomonas aeruginosa Clinical Strains.|https://dx.doi.org/10.3390/idr17040098
+Comparison of core genome multi-locus sequencing typing pipelines for hospital outbreak detection of common bacterial pathogens.|https://dx.doi.org/10.1128/jcm.00646-25
+Distribution of Causative Organisms in Infective Endocarditis and Their Associated Mortality Risk: A Single-Centre Study From North Wales, United Kingdom.|https://dx.doi.org/10.7759/cureus.90759
+Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2019-2023.|https://dx.doi.org/10.14745/ccdr.v51i67a04
+Device and surgical procedure-related infections in Canadian acute care hospitals, 2019-2023.|https://dx.doi.org/10.14745/ccdr.v51i67a05
+Chronic Airway Infection and Resistance Pattern in Children and Adults with Cystic Fibrosis in Oman: A Single-center Cross-sectional Study.|https://dx.doi.org/10.5001/omj.2025.69
