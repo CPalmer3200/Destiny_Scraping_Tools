@@ -6,3 +6,5 @@ Synthetic niclosamide-loaded controlled-release nanospheres with high solubility
 The Impact of Obesity on Clostridioides difficile Infection Outcomes: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/jcm14155459
 Akkermansia muciniphila: A key player in gut microbiota-based disease modulation.|https://dx.doi.org/10.1016/j.micres.2025.128317
 Mycobiota Dynamics in Inflammatory Bowel Disease: Fungal Biomarkers and Clostridioides difficile Co-infection.|https://dx.doi.org/10.1016/j.micpath.2025.108000
+[Therapy of Clostridioides difficile infection].|https://dx.doi.org/10.1007/s15006-025-5159-1
+Clostridioides difficile Infections: Epidemiological and Laboratory Data from the Internal Medicine Departments of a Tertiary Care Hospital in Athens, Greece, During the Past Decade.|https://dx.doi.org/10.3390/medicina61081416

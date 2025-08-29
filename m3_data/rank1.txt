@@ -19,3 +19,4 @@ In Vitro Characterization of PHICD111_20024_EAD as an Engineered Endolysin again
 Regional epidemiologic data call for enhanced attention to Clostridioides difficile infections in Italy: Results from a population-based study.|https://dx.doi.org/10.1016/j.jiph.2025.102928
 Risk factors for further recurrences of Clostridioides difficile infection at the first and second recurrence: a retrospective cohort.|https://dx.doi.org/10.1186/s12879-025-11495-0
 What's New and What's Next in Fecal Microbiota Transplantation?|https://dx.doi.org/10.2147/BTT.S486372
+Clostridioides difficile in Peripartum Women: Review of Outcomes and Treatment.|https://dx.doi.org/10.3390/antibiotics14080829
