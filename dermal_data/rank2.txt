@@ -34,3 +34,9 @@ Factors affecting diabetes related hospitalization and in-hospital outcomes of a
 Diagnostic Value of Neutrophil CD64 Index in Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.2147/DMSO.S525260
 Bloodstream infection caused by coinfection of Actinomyces turicensis and Gemella morbillorum: a case report and literature review.|https://dx.doi.org/10.3389/fmed.2025.1626567
 Diabetes Mellitus and Infectious Diseases: Current Evidence and Clinical Implications.|https://dx.doi.org/10.4093/dmj.2025.0508
+Immunomodulatory mechanisms and comprehensive treatment strategies of traditional Chinese medicine for enhancing diabetic foot ulcer healing.|https://dx.doi.org/10.1016/j.intimp.2025.115381
+Reoperation and Reamputation Rates After Hallux Amputations versus Partial First-Ray Amputations.|https://dx.doi.org/10.7547/23-033
+Development of predictive nomogram for clinical use of special-grade antimicrobial agents in patients with diabetes foot infections.|https://dx.doi.org/10.3389/fendo.2025.1578767
+Increasing rates of ESBL-producing Escherichia coli and Klebsiella pneumoniae in Canadian Hospitals: 17 years of the CANWARD study, 2007-23.|https://dx.doi.org/10.1093/jac/dkaf220
+Onychomycosis in Diabetics: A Common Infection with Potentially Serious Complications.|https://dx.doi.org/10.3390/life15081285
+Optimising Regimen of Co-Amoxiclav (ORCA)-The Safety and Efficacy of Intravenous Co-Amoxiclav at Higher Dosing Frequency in Patients with Diabetic Foot Infection.|https://dx.doi.org/10.3390/antibiotics14080758

@@ -30,3 +30,7 @@ Allelopathic compound 2-methoxy-1,4-naphthoquinone is broadly effective against 
 Berberine Inhibits Acne-Related Lipid Secretion and Inflammation by Regulating the hsa-miR-3150a-3p/TP53 Pathway.|https://dx.doi.org/10.2147/JIR.S526923
 Hybrid Spike-Facilitated Capture and Biofilm Destruction Co-Enhances Ultrasound-Mediated Bactericidal Therapy.|https://dx.doi.org/10.1021/acsnano.5c09843
 Antibiofilm from phyllosphere improves survival and gut health of juvenile pearl gentian hybrid grouper challenged with Vibrio harveyi.|https://dx.doi.org/10.1038/s41598-025-16579-0
+Antimicrobial and immunomodulatory activity of natural bioactive compounds - an in vitro investigation with potential applications in managing Hidradenitis Suppurativa.|https://dx.doi.org/10.3389/fimmu.2025.1608269
+Oritavancin a Therapeutic Option for Periprosthetic Joint Infections in Selected Cases: A Comprehensive Review.|https://dx.doi.org/10.3390/ph18081217
+Smart-AMPs: Decorated Nanostructured Lipid Carriers for Improved Efficacy of Antimicrobial Peptides in Chronically Infected Burn Wounds.|https://dx.doi.org/10.3390/pharmaceutics17081039
+Hydrogels Modulating the Microbiome: Therapies for Tissue Regeneration with Infection Control.|https://dx.doi.org/10.3390/gels11080584
