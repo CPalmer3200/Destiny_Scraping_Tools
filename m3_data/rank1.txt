@@ -20,3 +20,6 @@ Regional epidemiologic data call for enhanced attention to Clostridioides diffic
 Risk factors for further recurrences of Clostridioides difficile infection at the first and second recurrence: a retrospective cohort.|https://dx.doi.org/10.1186/s12879-025-11495-0
 What's New and What's Next in Fecal Microbiota Transplantation?|https://dx.doi.org/10.2147/BTT.S486372
 Clostridioides difficile in Peripartum Women: Review of Outcomes and Treatment.|https://dx.doi.org/10.3390/antibiotics14080829
+Standardized freeze-dried FMT: is the ideal protectant out there?|https://dx.doi.org/10.3389/fmicb.2025.1618067
+Advancing Access to Intestinal Microbiota Transplant: Bridging the Gap Between National Practices and the European Strategy.|https://dx.doi.org/10.20344/amp.22750
+Bezlotoxumab as Treatment for Recurrent/Chronic Clostridioides difficile Infection in Pediatric Stem Cell Transplant Recipients: A Multi-Institutional Experience.|https://dx.doi.org/10.1002/pbc.31896
