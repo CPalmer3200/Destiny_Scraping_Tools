@@ -62,3 +62,5 @@ A Succinoglycan-Riclin-Zinc-Phthalocyanine-Based Composite Hydrogel with Enhance
 Photoactive Hydrogels as Materials for Biological Applications: Preparation of Thermally Stable Photoactive Films.|https://dx.doi.org/10.3390/gels11080663
 Amygdalin-Doped Biopolymer Composites as Potential Wound Dressing Films: In Vitro Study on E. coli and S. aureus.|https://dx.doi.org/10.3390/gels11080609
 Ag/TA@CNC Reinforced Hydrogel Dressing with Enhanced Adhesion and Antibacterial Activity.|https://dx.doi.org/10.3390/gels11080591
+Proteomic insights into the multi-target mechanism and therapeutic application of citronellol-loaded carboxymethyl chitosan-based hydrogel for wound infection treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147179
+A near-infrared light absorbable hydrogel with antibacterial effect for mild photothermal regeneration of infected wounds.|https://dx.doi.org/10.1039/d5tb01346a

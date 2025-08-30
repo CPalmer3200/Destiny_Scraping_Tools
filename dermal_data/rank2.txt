@@ -40,3 +40,5 @@ Development of predictive nomogram for clinical use of special-grade antimicrobi
 Increasing rates of ESBL-producing Escherichia coli and Klebsiella pneumoniae in Canadian Hospitals: 17 years of the CANWARD study, 2007-23.|https://dx.doi.org/10.1093/jac/dkaf220
 Onychomycosis in Diabetics: A Common Infection with Potentially Serious Complications.|https://dx.doi.org/10.3390/life15081285
 Optimising Regimen of Co-Amoxiclav (ORCA)-The Safety and Efficacy of Intravenous Co-Amoxiclav at Higher Dosing Frequency in Patients with Diabetic Foot Infection.|https://dx.doi.org/10.3390/antibiotics14080758
+Innovative therapies for diabetic foot ulcers: Application and prospects of smart dressings.|https://dx.doi.org/10.1016/j.biopha.2025.118498
+Effective application of an innovative acemannan-enriched glycolipid sphere dressing in diabetic foot ulcer wound healing: A case report and review of literature.|https://dx.doi.org/10.12998/wjcc.v13.i28.109358

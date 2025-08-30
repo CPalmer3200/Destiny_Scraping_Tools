@@ -34,3 +34,7 @@ Antimicrobial and immunomodulatory activity of natural bioactive compounds - an 
 Oritavancin a Therapeutic Option for Periprosthetic Joint Infections in Selected Cases: A Comprehensive Review.|https://dx.doi.org/10.3390/ph18081217
 Smart-AMPs: Decorated Nanostructured Lipid Carriers for Improved Efficacy of Antimicrobial Peptides in Chronically Infected Burn Wounds.|https://dx.doi.org/10.3390/pharmaceutics17081039
 Hydrogels Modulating the Microbiome: Therapies for Tissue Regeneration with Infection Control.|https://dx.doi.org/10.3390/gels11080584
+Discovery of dimethyl quaternary ammonium salt based on harmane against MRSA infections by multi-target mechanism.|https://dx.doi.org/10.1016/j.ejmech.2025.118099
+Unveiling the antimicrobial, biofilm inhibition, and photoprotective potential of Bupleurum falcatum L. for dermatological applications.|https://dx.doi.org/10.17179/excli2025-8344
+Biofilm development in three-dimensional models infected with Trichophyton rubrum.|https://dx.doi.org/10.1128/spectrum.01087-25
+Hemodialysis catheter-related bacteremia rate is reduced by the use of 0.1% polyhexanide-betaine in a pediatric unit.|https://dx.doi.org/10.1177/11297298251369055
