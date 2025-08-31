@@ -3,3 +3,6 @@ The Dome technique: A single-stage liposuction and dermopexy treatment for high-
 First report of adult Taenia solium in human brain with neurocysticercosis: illustrative case.|https://dx.doi.org/10.3171/CASE25370
 Mycobacterium tuberculosis infection following polyacrylamide hydrogel (Amazingel) breast augmentation: A case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000043947
 A Multifunctional Microneedle Patch Combined with Quercetin Nanoparticles for Local Drug Release Therapy and Wound Healing after Skin Tumor Surgery.|https://dx.doi.org/10.1021/acsami.5c10174
+Chlorhexidine vs. Povidone for Skin Antisepsis in Tissue Expander-Based Breast Reconstruction: A Propensity Score-Matched Analysis.|https://dx.doi.org/10.3390/jcm14165734
+Breast Augmentation in Body Contouring Using Autologous Stem Cell-Enriched Fat Grafting: Fifteen-Year Clinical Experience.|https://dx.doi.org/10.3390/jcm14165607
+Surgical Treatment, Rehabilitative Approaches and Functioning Assessment for Patients Affected by Breast Cancer-Related Lymphedema: A Comprehensive Review.|https://dx.doi.org/10.3390/medicina61081327
