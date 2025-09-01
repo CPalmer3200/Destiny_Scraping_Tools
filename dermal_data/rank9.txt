@@ -6,3 +6,4 @@ Retrospective Analysis of Cases of Probable Canine Cutaneous Toxic Shock Syndrom
 Adynamic ileus as an atypical manifestation of Staphylococcus aureus meningitis confirmed by metagenomic next-generation sequencing: A case report.|https://dx.doi.org/10.1177/03000605251365895
 Correction: Staphylococcal skin infection isolates from dogs without recent antibiotic exposure are 100% susceptible to clindamycin.|https://dx.doi.org/10.3389/fvets.2025.1665861
 Immune response and clinical severity are shaped by skin-adapted Staphylococcus aureus in chronically infected patients.|https://dx.doi.org/10.1126/scitranslmed.adq7985
+Retrospective analysis of antimicrobial susceptibility testing illustrates the problem of resistant Staphylococcus species in cats in the northeastern United States.|https://dx.doi.org/10.1016/j.prevetmed.2025.106664
