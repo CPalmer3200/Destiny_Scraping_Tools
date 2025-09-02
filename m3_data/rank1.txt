@@ -24,3 +24,4 @@ Standardized freeze-dried FMT: is the ideal protectant out there?|https://dx.doi
 Advancing Access to Intestinal Microbiota Transplant: Bridging the Gap Between National Practices and the European Strategy.|https://dx.doi.org/10.20344/amp.22750
 Bezlotoxumab as Treatment for Recurrent/Chronic Clostridioides difficile Infection in Pediatric Stem Cell Transplant Recipients: A Multi-Institutional Experience.|https://dx.doi.org/10.1002/pbc.31896
 Mitomycin Intravesical Solution: First Approval.|https://dx.doi.org/10.1007/s40261-025-01475-2
+Epidemiology and Course of Clostridioides difficile Infections in Germany: Retrospective Analysis of German Health Claims Data.|https://dx.doi.org/10.1007/s40121-025-01223-1
