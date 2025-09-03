@@ -15,3 +15,12 @@ Distribution of Causative Organisms in Infective Endocarditis and Their Associat
 Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2019-2023.|https://dx.doi.org/10.14745/ccdr.v51i67a04
 Device and surgical procedure-related infections in Canadian acute care hospitals, 2019-2023.|https://dx.doi.org/10.14745/ccdr.v51i67a05
 Chronic Airway Infection and Resistance Pattern in Children and Adults with Cystic Fibrosis in Oman: A Single-center Cross-sectional Study.|https://dx.doi.org/10.5001/omj.2025.69
+Biofilm control in printed dentures: Effectiveness of hygiene protocols in base and tooth resins.|https://dx.doi.org/10.1016/j.prosdent.2025.08.003
+Global Insights Into Spondylodiscitis: A Bibliometric Analysis of Four Decades of Research.|https://dx.doi.org/10.7759/cureus.89001
+Incidence of surgical site infections in cerebrovascular surgery: a single-center cohort study.|https://dx.doi.org/10.1016/j.bas.2025.104389
+Prevalence of methicillin-resistant Staphylococcus aureus and associated factors from surgical ward inpatients at Shaafi Hospital, Mogadishu, Somalia.|https://dx.doi.org/10.1016/j.ijregi.2025.100717
+Molecular Prevalence and Antimicrobial Resistance Profile of Staphylococcus aureus and Staphylococcus pseudintermedius Isolated From Hospital-Visited Cats.|https://dx.doi.org/10.1155/vmi/4879266
+Long-term mortality in patients who survive surgery for infective endocarditis versus the background population: a nationwide study.|https://dx.doi.org/10.1136/openhrt-2025-003476
+Patient Safety and Risk Management in an Accumulation of Postoperative Endophthalmitis Cases after Vitrectomy in a University Eye Clinic.|https://dx.doi.org/10.1055/a-2663-5981
+The bacterial etiology and antimicrobial susceptibility of lower respiratory tract infections in Vietnam.|https://dx.doi.org/10.1186/s12941-025-00818-3
+The Clinic-in-a-Dressing Paradigm: Synchronized Diagnosis and Treatment in Chronic Wounds via Hydrogel-Nanofiber Matrices.|https://dx.doi.org/10.1016/j.actbio.2025.08.059
