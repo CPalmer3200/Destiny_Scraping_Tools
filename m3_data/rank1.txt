@@ -25,3 +25,5 @@ Advancing Access to Intestinal Microbiota Transplant: Bridging the Gap Between N
 Bezlotoxumab as Treatment for Recurrent/Chronic Clostridioides difficile Infection in Pediatric Stem Cell Transplant Recipients: A Multi-Institutional Experience.|https://dx.doi.org/10.1002/pbc.31896
 Mitomycin Intravesical Solution: First Approval.|https://dx.doi.org/10.1007/s40261-025-01475-2
 Epidemiology and Course of Clostridioides difficile Infections in Germany: Retrospective Analysis of German Health Claims Data.|https://dx.doi.org/10.1007/s40121-025-01223-1
+Predictive Modeling for Clostridioides difficile Infection: Current State of the Science, Clinical Applications, and Future Directions.|https://dx.doi.org/10.1016/j.idc.2025.07.015
+Assessment of chemical methods in the extraction of spore surface layers in Clostridioides difficile spores.|https://dx.doi.org/10.1101/2025.08.19.671018
