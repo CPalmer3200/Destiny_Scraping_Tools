@@ -3,3 +3,5 @@ Polypyrrole-Modified Triple-Responsive Hydrogel Dressing Based on Bacterial Cell
 A multifunctional electrospun nanofiber/hydrogel-based pro-healing bilayer dressing as a next generation biomaterial for skin wound care.|https://dx.doi.org/10.1039/d5tb00800j
 Nanofibrous dressings incorporating a synergistic antibacterial-anti-inflammatory effect for infected wound healing.|https://dx.doi.org/10.1016/j.mtbio.2025.102155
 Thermoreversible hydrogel containing photoactivatable tricarbonyl Mn(I) terpyridine complexes for therapeutic carbon monoxide (CO) release.|https://dx.doi.org/10.1039/d5dt01527h
+Betel leaf-mediated zinc oxide nanoparticle-coated silk fibres: a sustainable approach for biomedical applications.|https://dx.doi.org/10.1039/d5ra03600c
+Afebrile vancomycin-induced delayed hypersensitivity suggestive of incomplete drug rash with eosinophilia and systemic symptoms syndrome: a case report.|https://dx.doi.org/10.1186/s13256-025-05517-3
