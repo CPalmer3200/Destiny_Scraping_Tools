@@ -24,3 +24,13 @@ Long-term mortality in patients who survive surgery for infective endocarditis v
 Patient Safety and Risk Management in an Accumulation of Postoperative Endophthalmitis Cases after Vitrectomy in a University Eye Clinic.|https://dx.doi.org/10.1055/a-2663-5981
 The bacterial etiology and antimicrobial susceptibility of lower respiratory tract infections in Vietnam.|https://dx.doi.org/10.1186/s12941-025-00818-3
 The Clinic-in-a-Dressing Paradigm: Synchronized Diagnosis and Treatment in Chronic Wounds via Hydrogel-Nanofiber Matrices.|https://dx.doi.org/10.1016/j.actbio.2025.08.059
+Prospective Whole Genome Sequencing to Aid the Identification and Control of Methicillin-Susceptible Staphylococcus aureus Transmissions in a Neonatal ICU.|https://dx.doi.org/10.1016/j.jinf.2025.106607
+Bacterial pneumonia co-infection in adult inpatients with coronavirus disease 2019 during the Omicron variants epidemic in Okinawa, Japan: risk factors and clinical outcomes.|https://dx.doi.org/10.1016/j.resinv.2025.08.006
+Cyanine-scaffold fluorogenic probes for visual detection of nitroreductase in living bacteria.|https://dx.doi.org/10.1039/d5tb00758e
+Integrating FRET and Molecular Dynamics Simulation for Single-Molecule Aptameric Detection of Staphylococcus aureus IsdA Surface Protein.|https://dx.doi.org/10.1002/biot.70101
+Nutritional Immunity in Wound Infection: Unveiling the Role of Dietary Elements in Host-Pathogen Interaction.|https://dx.doi.org/10.1002/fsn3.70854
+Antibiotic resistance and factors associated with colonization dynamics of Staphylococcus aureus and Streptococcus pneumoniae in healthy children in Lima, Peru.|https://dx.doi.org/10.1017/S0950268825100277
+Infections resulting from wild land and aquatic species injuries: A case series from Mornington Peninsula, Australia.|https://dx.doi.org/10.1016/j.injury.2025.112715
+Betel leaf-mediated zinc oxide nanoparticle-coated silk fibres: a sustainable approach for biomedical applications.|https://dx.doi.org/10.1039/d5ra03600c
+Timely excision of prophage Φ13 is essential for the Staphylococcus aureus infectious process.|https://dx.doi.org/10.1128/iai.00314-25
+[Clinical efficiency of polyvalent piobacteriophage in the complex treatment of nosocomial sinusitis].|https://dx.doi.org/10.17116/otorino20259004133
