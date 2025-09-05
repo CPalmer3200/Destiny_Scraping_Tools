@@ -2,3 +2,5 @@ Bionanoformulated creams of silver (AgNPs), gold (AuNPs) and bimetallic silver-g
 Quorum quenching: A key biological activity of marine actinobacteria extracts for acne vulgaris control.|https://dx.doi.org/10.1016/j.btre.2025.e00903
 Phytofabrication of Ag/AgCl silver nanoparticles from the extract of Phoenix dactylifera L. Medjool date seeds: synthesis, characterization and antimicrobial properties.|https://dx.doi.org/10.1039/d5ra03020j
 Efficacy and Safety of Upadacitinib in Patients With Moderate-to-Severe Atopic Dermatitis: Phase 3 Randomized Clinical Trial Results Through 140 Weeks.|https://dx.doi.org/10.1007/s40257-025-00975-3
+Comprehensive biological evaluation of Rheinal as a potent antimicrobial, alone and in combination with gentamicin and minocycline targeting MDR S. aureus in vitro and in vivo.|https://dx.doi.org/10.1016/j.bioorg.2025.108904
+Organoid-Based Skin and Lung Biofilm Models, a Cutting-Edge Approach for Anti-Biofilm Research: A Mini Review.|https://dx.doi.org/10.1002/biot.70109
