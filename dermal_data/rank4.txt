@@ -5,3 +5,5 @@ Nanofibrous dressings incorporating a synergistic antibacterial-anti-inflammator
 Thermoreversible hydrogel containing photoactivatable tricarbonyl Mn(I) terpyridine complexes for therapeutic carbon monoxide (CO) release.|https://dx.doi.org/10.1039/d5dt01527h
 Betel leaf-mediated zinc oxide nanoparticle-coated silk fibres: a sustainable approach for biomedical applications.|https://dx.doi.org/10.1039/d5ra03600c
 Afebrile vancomycin-induced delayed hypersensitivity suggestive of incomplete drug rash with eosinophilia and systemic symptoms syndrome: a case report.|https://dx.doi.org/10.1186/s13256-025-05517-3
+Visible-Light-Driven TiO(2)/Pt Nanozyme-Embedded Dressings: Integrating PDT, Oxygenation, and Biomechanical Support for Pressure Ulcer Repair.|https://dx.doi.org/10.1002/smll.202505278
+Upscaling, toxicity and efficacy of multifaceted dressing embedded with dsirna-loaded gold nanoparticles for enhancing diabetic wound treatment.|https://dx.doi.org/10.1371/journal.pone.0327375
