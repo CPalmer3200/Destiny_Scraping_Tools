@@ -7,3 +7,5 @@ Variations in Stress Ulcer Prophylaxis Practices Among Intensive Care Units in M
 A Systematic Review of the Adverse Effects of Long-Term Proton Pump Inhibitor Use on the Gastrointestinal System in the Adult Population.|https://dx.doi.org/10.7759/cureus.90606
 Investigating the relationship between Helicobacter pylori and intestinal Clostridioides difficile infection: evidence from a cross-sectional study.|https://dx.doi.org/10.1186/s12876-025-04227-w
 Advances in diagnosis of diseases causing diarrhea in newborn calves.|https://dx.doi.org/10.1007/s11259-025-10855-0
+Trametinib-Induced Hyponatremia in a Patient With Craniopharyngioma and Diabetes Insipidus.|https://dx.doi.org/10.1097/MPH.0000000000003116
+Short-course intravenous beta-lactams for uncomplicated cystitis in hospitalized patients.|https://dx.doi.org/10.1017/ash.2025.10101
