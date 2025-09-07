@@ -34,3 +34,9 @@ Infections resulting from wild land and aquatic species injuries: A case series 
 Betel leaf-mediated zinc oxide nanoparticle-coated silk fibres: a sustainable approach for biomedical applications.|https://dx.doi.org/10.1039/d5ra03600c
 Timely excision of prophage Φ13 is essential for the Staphylococcus aureus infectious process.|https://dx.doi.org/10.1128/iai.00314-25
 [Clinical efficiency of polyvalent piobacteriophage in the complex treatment of nosocomial sinusitis].|https://dx.doi.org/10.17116/otorino20259004133
+[Debridement, antimicrobial therapy, and implant retention for acute periprosthetic infections].|https://dx.doi.org/10.1007/s00132-025-04716-6
+The Atopic Dermatitis Continuum: An Updated Paradigm for a Common Disorder and a Novel Multipurpose Treatment Option.|https://dx.doi.org/10.36849/jdd.9230
+Indolicidin derivatives as potent dual-action antifungal and antibacterial agents for the treatment of skin infections: A comprehensive study from in vitro to in vivo evaluation.|https://dx.doi.org/10.1371/journal.pone.0331796
+Update on infection prevention in the ICU.|https://dx.doi.org/10.1097/MCC.0000000000001313
+Management of MDR/XDR severe infections in the critically ill.|https://dx.doi.org/10.1097/MCC.0000000000001307
+Comparative Effectiveness of Continuous Versus Intermittent Negative Pressure Wound Therapy in the Management of Diabetic Foot Ulcers: A Prospective Observational Study.|https://dx.doi.org/10.7759/cureus.89340
