@@ -10,3 +10,4 @@ Mycobiota Dynamics in Inflammatory Bowel Disease: Fungal Biomarkers and Clostrid
 Clostridioides difficile Infections: Epidemiological and Laboratory Data from the Internal Medicine Departments of a Tertiary Care Hospital in Athens, Greece, During the Past Decade.|https://dx.doi.org/10.3390/medicina61081416
 Madecassoside alleviates Clostridioides difficile infection by targeting ASC to inhibit inflammasome activation.|https://dx.doi.org/10.1016/j.intimp.2025.115440
 Detecting and mitigating doppelgänger bias in microbiome data: impacts on machine learning and disease classification.|https://dx.doi.org/10.1080/19490976.2025.2554196
+Detection and Risk Factor Analysis of Clostridioides Difficile Infection in Patients with Malignant Tumours.|https://dx.doi.org/10.1016/j.anaerobe.2025.102993
