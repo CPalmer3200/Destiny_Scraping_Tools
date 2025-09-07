@@ -7,3 +7,6 @@ Betel leaf-mediated zinc oxide nanoparticle-coated silk fibres: a sustainable ap
 Afebrile vancomycin-induced delayed hypersensitivity suggestive of incomplete drug rash with eosinophilia and systemic symptoms syndrome: a case report.|https://dx.doi.org/10.1186/s13256-025-05517-3
 Visible-Light-Driven TiO(2)/Pt Nanozyme-Embedded Dressings: Integrating PDT, Oxygenation, and Biomechanical Support for Pressure Ulcer Repair.|https://dx.doi.org/10.1002/smll.202505278
 Upscaling, toxicity and efficacy of multifaceted dressing embedded with dsirna-loaded gold nanoparticles for enhancing diabetic wound treatment.|https://dx.doi.org/10.1371/journal.pone.0327375
+Multifunctional antimicrobial wound dressing with photothermal promotion based on Bletilla striata polysaccharides and other natural materials.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147278
+Chitosan-Based Photothermal Hydrogel with Rapid Bacterial Capture for Enhanced Disinfection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147300
+Quaternary ammonium chitosan/N-isopropylacrylamide-based Janus hydrogel with asymmetric adhesive, shrinkable, and antimicrobial properties for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147416

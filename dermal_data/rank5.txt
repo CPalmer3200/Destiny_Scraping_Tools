@@ -7,3 +7,6 @@ Organoid-Based Skin and Lung Biofilm Models, a Cutting-Edge Approach for Anti-Bi
 A strategy to re-sensitise drug-resistant Gram-positive bacteria to oxazolidinone-class antibiotics.|https://dx.doi.org/10.1016/j.ebiom.2025.105914
 Hypochlorous Acid for a Persistent Filler Nodule: A Case Report.|https://dx.doi.org/10.36849/jdd.9096
 Basil (Ocimum basilicum): A Natural Approach to Skin Care and Its Cosmeceutical Potential.|https://dx.doi.org/10.2174/0115701638372091250812093301
+Comprehensive assessment of triclosan-induced toxicity: impacts on zebrafish development, mammalian cell viability and microbial activity.|https://dx.doi.org/10.1016/j.advms.2025.09.001
+Discovery of novel xanthotoxin-pyridine quaternary ammonium derivatives with membrane-targeting mode of action as potential antimicrobials against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ejmech.2025.118139
+Photodynamic inactivation using water dispersible curcumin as a photosensitizer to inactivate Salmonella on poultry carcasses and Listeria monocytogenes on stainless steel food contact surfaces.|https://dx.doi.org/10.1016/j.ijfoodmicro.2025.111429

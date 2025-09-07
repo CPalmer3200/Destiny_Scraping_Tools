@@ -5,3 +5,4 @@ Stem cell therapy: a promising frontier in modern medicine with a comprehensive 
 Exploring resveratrol-enriched collagen dressings for diabetic foot ulcers: A retrospective study of wound healing outcomes.|https://dx.doi.org/10.1016/j.jtv.2025.100950
 Incidence and causes of major amputation in patients with diabetic foot ulcers: data from a retrospective study.|https://dx.doi.org/10.1007/s00592-025-02577-1
 Comparative Effectiveness of Continuous Versus Intermittent Negative Pressure Wound Therapy in the Management of Diabetic Foot Ulcers: A Prospective Observational Study.|https://dx.doi.org/10.7759/cureus.89340
+Transmetatarsal amputation versus multiple toes amputations for non-ischemic diabetic foot infection management.|https://dx.doi.org/10.1016/j.surge.2025.08.005
