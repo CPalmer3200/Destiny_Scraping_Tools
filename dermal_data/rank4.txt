@@ -10,3 +10,6 @@ Upscaling, toxicity and efficacy of multifaceted dressing embedded with dsirna-l
 Multifunctional antimicrobial wound dressing with photothermal promotion based on Bletilla striata polysaccharides and other natural materials.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147278
 Chitosan-Based Photothermal Hydrogel with Rapid Bacterial Capture for Enhanced Disinfection.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147300
 Quaternary ammonium chitosan/N-isopropylacrylamide-based Janus hydrogel with asymmetric adhesive, shrinkable, and antimicrobial properties for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147416
+Chitosan/dialdehyde starch coating onto l-tyrosine and curcumin intercalated layered double hydroxide for improved the therapeutic effects of breast cancer.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147274
+Mussel-inspired adhesive macromolecule modified zinc oxide nanoparticles incorporated into polyethylene glycol hydrogels for enhancing infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.115070
+Self-pumping Janus nanofiber membrane with pH monitoring capability, integrated with a drug-loaded fast-dissolving layer for enhanced chronic wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.115096
