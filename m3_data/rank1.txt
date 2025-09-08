@@ -28,3 +28,4 @@ Epidemiology and Course of Clostridioides difficile Infections in Germany: Retro
 Predictive Modeling for Clostridioides difficile Infection: Current State of the Science, Clinical Applications, and Future Directions.|https://dx.doi.org/10.1016/j.idc.2025.07.015
 Assessment of chemical methods in the extraction of spore surface layers in Clostridioides difficile spores.|https://dx.doi.org/10.1101/2025.08.19.671018
 Fecal microbiota transplantation as a therapeutic modality for recurrent Clostridioides difficile infection: reviewing efficacy, safety, mechanisms of action, and outcomes.|https://dx.doi.org/10.1097/MS9.0000000000003649
+Diagnostic Approaches for Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.idc.2025.07.014
