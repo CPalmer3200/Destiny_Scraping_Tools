@@ -1,6 +1,0 @@
-An anaerobic in vitro flow model for studying interactions at the gastrointestinal host-microbe interface.|https://dx.doi.org/10.1038/s41522-025-00800-z
-Screening and Targeted Prophylaxis for Clostridioides difficile Infection: STOP-CDI.|https://dx.doi.org/10.1016/j.cmi.2025.08.004
-Clostridioides difficile Infection in the United States of America-A Comparative Event Risk Analysis of Patients Treated with Fidaxomicin vs. Vancomycin Across 67 Large Healthcare Providers.|https://dx.doi.org/10.3390/idr17040087
-Dominance of toxigenic Clostridioides difficile strains and the appearance of the emerging PCR ribotype 955 in hospitals in Silesia, Poland.|https://dx.doi.org/10.3389/fmicb.2025.1644051
-Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2019-2023.|https://dx.doi.org/10.14745/ccdr.v51i67a04
-Impact of enhanced infection control and antimicrobial stewardship on infections by Clostridioides difficile, vancomycin-resistant enterococci, and third-generation cephalosporin-resistant Enterobacterales: A stepped-wedge cluster intervention study.|https://dx.doi.org/10.1016/j.cmi.2025.08.013
