@@ -11,3 +11,4 @@ The Influence of Maternal S. aureus anti-Hla neutralizing antibody on infant ski
 Isolation and Molecular Characterization of Three Staphylococcus pseudintermedius Strains from Dogs and Humans in Egypt.|https://dx.doi.org/10.1007/s00284-025-04477-7
 Upscaling, toxicity and efficacy of multifaceted dressing embedded with dsirna-loaded gold nanoparticles for enhancing diabetic wound treatment.|https://dx.doi.org/10.1371/journal.pone.0327375
 Changes in carriage and serotype diversity of Streptococcus pneumoniae and other respiratory pathobionts in the UK between pre-PCV13 (2006-10), early-PCV13 (2010-12) and late-PCV13 (2012-23) periods.|https://dx.doi.org/10.1186/s41479-025-00174-y
+Distinct effects of adjuvants on B cell responses to protein or polysaccharide antigens contained in glycoconjugate vaccines.|https://dx.doi.org/10.3389/fimmu.2025.1574941
