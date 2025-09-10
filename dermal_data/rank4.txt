@@ -16,3 +16,6 @@ Self-pumping Janus nanofiber membrane with pH monitoring capability, integrated 
 Multifunctional Scaffold Biosensor and Drug Delivery System for Bacterial Infection Prevention During Skin Wound Healing.|https://dx.doi.org/10.1002/mabi.202500247
 An Antibacterial and Electroactive Chitosan-Based Dressing with Dual Stimulus-Responsive Drug Delivery for Wound Healing.|https://dx.doi.org/10.1002/marc.202500547
 Dynamic male mouse gut microbiota signature linked to improved wound healing of a novel salecan hydrogel dressing.|https://dx.doi.org/10.3389/fbioe.2025.1584976
+A collagen/silk fibroin/magnesium hydroxide multifunctional sponge with enhanced mechanical strength, rapid hemostasis, and antibacterial properties for promoting infectious wound healing.|https://dx.doi.org/10.1016/j.bioadv.2025.214486
+Development of collagen-based hydrogel derived from allicin-silver nanoparticles for wound healing.|https://dx.doi.org/10.1007/s00114-025-02017-8
+Proto-SLIPS: Slippery Liquid-Infused Surfaces that Release Highly Water-Soluble Agents.|https://dx.doi.org/10.1021/acsami.5c09975

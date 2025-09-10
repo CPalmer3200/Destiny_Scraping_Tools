@@ -10,3 +10,4 @@ Basil (Ocimum basilicum): A Natural Approach to Skin Care and Its Cosmeceutical 
 Comprehensive assessment of triclosan-induced toxicity: impacts on zebrafish development, mammalian cell viability and microbial activity.|https://dx.doi.org/10.1016/j.advms.2025.09.001
 Discovery of novel xanthotoxin-pyridine quaternary ammonium derivatives with membrane-targeting mode of action as potential antimicrobials against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ejmech.2025.118139
 Photodynamic inactivation using water dispersible curcumin as a photosensitizer to inactivate Salmonella on poultry carcasses and Listeria monocytogenes on stainless steel food contact surfaces.|https://dx.doi.org/10.1016/j.ijfoodmicro.2025.111429
+Trp-containing Peptides with Therapeutic Potential for Cutibacterium acnes Infection.|https://dx.doi.org/10.1007/s12602-025-10749-2
