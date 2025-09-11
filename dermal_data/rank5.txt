@@ -11,3 +11,5 @@ Comprehensive assessment of triclosan-induced toxicity: impacts on zebrafish dev
 Discovery of novel xanthotoxin-pyridine quaternary ammonium derivatives with membrane-targeting mode of action as potential antimicrobials against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ejmech.2025.118139
 Photodynamic inactivation using water dispersible curcumin as a photosensitizer to inactivate Salmonella on poultry carcasses and Listeria monocytogenes on stainless steel food contact surfaces.|https://dx.doi.org/10.1016/j.ijfoodmicro.2025.111429
 Trp-containing Peptides with Therapeutic Potential for Cutibacterium acnes Infection.|https://dx.doi.org/10.1007/s12602-025-10749-2
+Esculetin Mitigates MRSA Pathogenicity via Innovative Multitarget Inhibition of Staphylococcus aureus Sortase A, Coagulase, and Von Willebrand Factor-binding Protein.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107609
+In vitro characterization of Trichophyton rubrum biofilm by combined anti-biofilm enzymes.|https://dx.doi.org/10.1371/journal.pone.0331291

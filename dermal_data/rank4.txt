@@ -19,3 +19,8 @@ Dynamic male mouse gut microbiota signature linked to improved wound healing of 
 A collagen/silk fibroin/magnesium hydroxide multifunctional sponge with enhanced mechanical strength, rapid hemostasis, and antibacterial properties for promoting infectious wound healing.|https://dx.doi.org/10.1016/j.bioadv.2025.214486
 Development of collagen-based hydrogel derived from allicin-silver nanoparticles for wound healing.|https://dx.doi.org/10.1007/s00114-025-02017-8
 Proto-SLIPS: Slippery Liquid-Infused Surfaces that Release Highly Water-Soluble Agents.|https://dx.doi.org/10.1021/acsami.5c09975
+Injectable and tissue adhesive chrysomycin A-laden chitosan hydrogel depot for MRSA-infected wound healing and tumor recurrence prevention.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147535
+Balanced biocompatibility in high-viscosity hydroxypropyl methylcellulose-based sponge containing nanoconfined silver citrate nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147534
+Porous SiO(2)/ZnO-carboxymethyl cellulose composite hydrogels for enhanced hemostatic efficacy and antibacterial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147549
+Harnessing the synergy of copper nanoparticles and vitamin C towards the resolution of wound infection.|https://dx.doi.org/10.1039/d5bm00933b
+Heterogeneous zinc/catechol-derived resin microsphere-functionalized composite hydrogels with antibacterial and anti-inflammatory activities promote bacterial-infected wound healing.|https://dx.doi.org/10.1093/rb/rbaf081
