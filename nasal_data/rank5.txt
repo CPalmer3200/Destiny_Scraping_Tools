@@ -13,3 +13,4 @@ ASO Visual Abstract: SPARC Expression Induces COL1A1/COL3A1 Representing Aggress
 Use of Antibiotic Prophylaxis for Surgical Site Infection Prevention in Nononcologic Breast Surgery: A Scoping Review.|https://dx.doi.org/10.1097/SAP.0000000000004474
 Preliminary evaluation of pectoralis major fascia use in robotic nipple sparing mastectomy and immediate breast reconstruction with gel implant: a retrospective comparative cohort study.|https://dx.doi.org/10.1097/JS9.0000000000003364
 Rapid progression and extensive lymph node metastases of papillary thyroid carcinoma in an HIV-positive patient: a Case Report.|https://dx.doi.org/10.3389/fmed.2025.1600307
+Causes of Death After Surgery Among Cancer Patients: A Population-based Cohort Study.|https://dx.doi.org/10.1097/JS9.0000000000003462

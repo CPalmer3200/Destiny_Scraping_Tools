@@ -4,3 +4,5 @@ Sinonasal Disease in Pediatric Patients With Cystic Fibrosis and the Cystic Fibr
 Risk factors of methicillin-resistant Staphylococcus aureus colonization in the nasal cavity of people living with HIV: a cross-sectional study from Dongyang hospital, Zhejiang Province.|https://dx.doi.org/10.3389/fmicb.2025.1634460
 Staphylococcus aureus induces miR-21 expression to promote bacterial persistence during nasal colonisation.|https://dx.doi.org/10.1016/j.clim.2025.110593
 Investigation into Antibiotic Resistance Profiles of Staphylococcus aureus Among Chronic Rhinosinusitis Patients and Multifaceted Analysis of Factors Influencing Methicillin-Resistant Staphylococcus aureus Infection.|https://dx.doi.org/10.2147/IDR.S546894
+Targeted inhibition of mecA and agrA genes in clinical MRSA isolates by natural bioactive compounds.|https://dx.doi.org/10.3389/fmicb.2025.1643774
+Comparative analysis of colonization and survival strategies of regionally predominant LA-MRSA clones ST398 and ST9.|https://dx.doi.org/10.1128/msystems.00397-25
