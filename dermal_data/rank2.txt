@@ -14,3 +14,5 @@ Sequential treatment for diabetic foot ulcers in aortic dissection patients: a c
 A Retrospective Cohort Study From 2 Academic Medical Centers: Oral vs Intravenous Antibiotics for Diabetic Osteomyelitis.|https://dx.doi.org/10.1177/10711007251344583
 Ultrasound-Stimulated BMSCs Promote Regenerative Healing in Refractory Foot Ulcer by Paracrine Effect.|https://dx.doi.org/10.1016/j.ultrasmedbio.2025.08.005
 Case Report: A case series of using ultrasound-guided continuous parasacral ischial plane blocks to promote ulcer healing and pain relief in people with diabetic foot ulcers.|https://dx.doi.org/10.3389/fendo.2025.1580568
+A Prospective Observational Study on the Clinical Outcomes of Diabetic Foot Ulcers Based on Diabetic Ulcer Severity Score at a Tertiary Care Center in Jharkhand, India.|https://dx.doi.org/10.7759/cureus.89523
+The trial design of the concurrent optical and magnetic stimulation (COMS) therapy study for refractory diabetic foot ulcers (MAVERICKS): a multicenter, randomized, sham-controlled, double-blind investigational device exemption clinical study.|https://dx.doi.org/10.25270/wnds/25037

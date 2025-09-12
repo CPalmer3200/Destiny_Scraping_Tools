@@ -13,3 +13,5 @@ Photodynamic inactivation using water dispersible curcumin as a photosensitizer 
 Trp-containing Peptides with Therapeutic Potential for Cutibacterium acnes Infection.|https://dx.doi.org/10.1007/s12602-025-10749-2
 Esculetin Mitigates MRSA Pathogenicity via Innovative Multitarget Inhibition of Staphylococcus aureus Sortase A, Coagulase, and Von Willebrand Factor-binding Protein.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107609
 In vitro characterization of Trichophyton rubrum biofilm by combined anti-biofilm enzymes.|https://dx.doi.org/10.1371/journal.pone.0331291
+Molecular analyses of community-acquired Staphylococcus epidermidis biofilm development, molecular virulence, and pattern of antibiotic resistance.|https://dx.doi.org/10.1007/s11033-025-11004-1
+Characterisation of Antifungal Resistance to Azoles in Colombian Isolates of Malassezia spp.|https://dx.doi.org/10.1111/myc.70112
