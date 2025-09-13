@@ -1,1 +1,2 @@
 Nasal microbiome inhabitants with anti-Staphylococcus aureus activity.|https://dx.doi.org/10.1128/spectrum.01024-25
+Active screening and decolonization reduce the incidence of Staphylococcus aureus bacteremia and mortality in hemodialysis patients: An interrupted time series study in a hemodialysis unit.|https://dx.doi.org/10.1016/j.jmii.2025.08.015

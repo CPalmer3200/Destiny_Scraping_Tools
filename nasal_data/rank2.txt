@@ -6,3 +6,4 @@ Staphylococcus aureus induces miR-21 expression to promote bacterial persistence
 Investigation into Antibiotic Resistance Profiles of Staphylococcus aureus Among Chronic Rhinosinusitis Patients and Multifaceted Analysis of Factors Influencing Methicillin-Resistant Staphylococcus aureus Infection.|https://dx.doi.org/10.2147/IDR.S546894
 Targeted inhibition of mecA and agrA genes in clinical MRSA isolates by natural bioactive compounds.|https://dx.doi.org/10.3389/fmicb.2025.1643774
 Comparative analysis of colonization and survival strategies of regionally predominant LA-MRSA clones ST398 and ST9.|https://dx.doi.org/10.1128/msystems.00397-25
+Draft genome sequence of Staphylococcus aureus N208 isolated from a nasal swab of a healthy female.|https://dx.doi.org/10.1128/mra.00811-25
