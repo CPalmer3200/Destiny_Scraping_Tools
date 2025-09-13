@@ -25,3 +25,4 @@ Porous SiO(2)/ZnO-carboxymethyl cellulose composite hydrogels for enhanced hemos
 Harnessing the synergy of copper nanoparticles and vitamin C towards the resolution of wound infection.|https://dx.doi.org/10.1039/d5bm00933b
 Heterogeneous zinc/catechol-derived resin microsphere-functionalized composite hydrogels with antibacterial and anti-inflammatory activities promote bacterial-infected wound healing.|https://dx.doi.org/10.1093/rb/rbaf081
 Antimicrobial Core-Shell Nanofiber Wound Dressing with Chloramphenicol-Liposomes.|https://dx.doi.org/10.1016/j.ejps.2025.107264
+Wound Dressing Cryogel Materials Based on Poly(vinyl alcohol), Hyaluronic Acid, and Ag(2)O Nanoparticles.|https://dx.doi.org/10.1021/acsami.5c14960

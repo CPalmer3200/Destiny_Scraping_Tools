@@ -15,3 +15,5 @@ Esculetin Mitigates MRSA Pathogenicity via Innovative Multitarget Inhibition of 
 In vitro characterization of Trichophyton rubrum biofilm by combined anti-biofilm enzymes.|https://dx.doi.org/10.1371/journal.pone.0331291
 Molecular analyses of community-acquired Staphylococcus epidermidis biofilm development, molecular virulence, and pattern of antibiotic resistance.|https://dx.doi.org/10.1007/s11033-025-11004-1
 Characterisation of Antifungal Resistance to Azoles in Colombian Isolates of Malassezia spp.|https://dx.doi.org/10.1111/myc.70112
+Functional antibacterial strategies of natural polysaccharides chitosan, hyaluronic acid, and alginate and their applications in tissue engineering: A review.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147609
+Deploying Soft Drugs in the Fight against MRSA with Detailed Biological Evaluation of 4-(n-Alkoxy)-phenoxy Betaine Amphiphiles Active against MDR Staphylococcus aureus and Enterococcus sp.|https://dx.doi.org/10.1021/acsinfecdis.5c00267

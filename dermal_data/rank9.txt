@@ -1,1 +1,3 @@
 Primary varicella infection with secondary staphylococcal scalded skin syndrome.|https://dx.doi.org/10.1093/ced/llaf398
+Adult staphylococcal scalded skin syndrome in an immunocompetent individual.|https://dx.doi.org/10.1136/bcr-2025-265911
+Control of invasive Pseudomonas burn wound infection with mafenide acetate electrospun wound dressing.|https://dx.doi.org/10.1016/j.burns.2025.107674
