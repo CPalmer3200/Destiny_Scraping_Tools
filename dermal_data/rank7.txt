@@ -5,3 +5,4 @@ Comprehensive review of avobenzone (butyl methoxydibenzoylmethane) toxicology da
 Genomic analysis and preclinical evaluation of two hydrogel-formulated novel virulent phages isolated against a carbapenem-resistant Acinetobacter baumannii.|https://dx.doi.org/10.1016/j.virol.2025.110676
 A case report of Saksenaea vasiformis mucormycosis infection of a lower segment caesarean section wound.|https://dx.doi.org/10.1016/j.ijscr.2025.111923
 Ebola virus' hidden target: virus transmission to and infection of skin.|https://dx.doi.org/10.1128/jvi.01300-25
+Anti-Inflammatory and Antimicrobial Effect of Ellagic Acid and Punicalagin in Dermal Fibroblasts.|https://dx.doi.org/10.3390/ijms26178681

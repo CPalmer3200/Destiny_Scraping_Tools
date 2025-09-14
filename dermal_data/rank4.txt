@@ -26,3 +26,7 @@ Harnessing the synergy of copper nanoparticles and vitamin C towards the resolut
 Heterogeneous zinc/catechol-derived resin microsphere-functionalized composite hydrogels with antibacterial and anti-inflammatory activities promote bacterial-infected wound healing.|https://dx.doi.org/10.1093/rb/rbaf081
 Antimicrobial Core-Shell Nanofiber Wound Dressing with Chloramphenicol-Liposomes.|https://dx.doi.org/10.1016/j.ejps.2025.107264
 Wound Dressing Cryogel Materials Based on Poly(vinyl alcohol), Hyaluronic Acid, and Ag(2)O Nanoparticles.|https://dx.doi.org/10.1021/acsami.5c14960
+Study on the structural characterization and biological activities of polysaccharides from Dictyophora rubrovolvata and its silver nanoparticles.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147632
+Preparation and Characterization of Copper-Crosslinked Alginate-Hyaluronic Acid Aerogels as Potential Wound Dressing Materials with Enhanced Antibacterial Properties.|https://dx.doi.org/10.3390/polym17172406
+Modified Castor Oil-Based Polyurethane Films with Streptomyces Extracts Presenting Anti-Methicillin-Resistant Staphylococcus aureus Activity.|https://dx.doi.org/10.3390/polym17172383
+Bioengineered Chitosan-Collagen-Honey Sponges: Physicochemical, Antibacterial, and In Vitro Healing Properties for Enhanced Wound Healing and Infection Control.|https://dx.doi.org/10.3390/polym17172379
