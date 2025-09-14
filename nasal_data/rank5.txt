@@ -15,3 +15,6 @@ Preliminary evaluation of pectoralis major fascia use in robotic nipple sparing 
 Rapid progression and extensive lymph node metastases of papillary thyroid carcinoma in an HIV-positive patient: a Case Report.|https://dx.doi.org/10.3389/fmed.2025.1600307
 Causes of Death After Surgery Among Cancer Patients: A Population-based Cohort Study.|https://dx.doi.org/10.1097/JS9.0000000000003462
 Breast surgical site infections in patients undergoing lumpectomy with and without closure of defect.|https://dx.doi.org/10.1007/s10549-025-07819-y
+Juvenile gigantomastia with pseudo angiomatous stromal hyperplasia in a 12-year-old female: a case report.|https://dx.doi.org/10.1016/j.jpag.2025.08.006
+The Role of Synthetic Meshes in Revision Surgery After Breast Augmentation: A Personal Experience.|https://dx.doi.org/10.3390/jcm14175978
+Is Antibiotic Prophylaxis Necessary in Mastectomy with Antimicrobial Sutures? A Comparative Analysis.|https://dx.doi.org/10.3390/cancers17172892

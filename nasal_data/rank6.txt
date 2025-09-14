@@ -12,3 +12,4 @@ Isolation and Molecular Characterization of Three Staphylococcus pseudintermediu
 Upscaling, toxicity and efficacy of multifaceted dressing embedded with dsirna-loaded gold nanoparticles for enhancing diabetic wound treatment.|https://dx.doi.org/10.1371/journal.pone.0327375
 Changes in carriage and serotype diversity of Streptococcus pneumoniae and other respiratory pathobionts in the UK between pre-PCV13 (2006-10), early-PCV13 (2010-12) and late-PCV13 (2012-23) periods.|https://dx.doi.org/10.1186/s41479-025-00174-y
 Distinct effects of adjuvants on B cell responses to protein or polysaccharide antigens contained in glycoconjugate vaccines.|https://dx.doi.org/10.3389/fimmu.2025.1574941
+Overcoming Immune Evasion in Staphylococcus aureus: Strategies for Rational Vaccine Design.|https://dx.doi.org/10.1021/acsinfecdis.5c00569

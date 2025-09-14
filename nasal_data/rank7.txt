@@ -40,3 +40,10 @@ Indolicidin derivatives as potent dual-action antifungal and antibacterial agent
 Update on infection prevention in the ICU.|https://dx.doi.org/10.1097/MCC.0000000000001313
 Management of MDR/XDR severe infections in the critically ill.|https://dx.doi.org/10.1097/MCC.0000000000001307
 Comparative Effectiveness of Continuous Versus Intermittent Negative Pressure Wound Therapy in the Management of Diabetic Foot Ulcers: A Prospective Observational Study.|https://dx.doi.org/10.7759/cureus.89340
+Impact of preoperative body mass index on postoperative outcomes in infective endocarditis: a multicenter analysis of 4801 consecutive patients.|https://dx.doi.org/10.1038/s41366-025-01901-7
+Anti-Inflammatory and Antimicrobial Effect of Ellagic Acid and Punicalagin in Dermal Fibroblasts.|https://dx.doi.org/10.3390/ijms26178681
+Physical-Chemical Assessment and Antimicrobial Activity of Chlortetracycline-Loaded Collagen Sponges.|https://dx.doi.org/10.3390/ma18174029
+Bioengineered Chitosan-Collagen-Honey Sponges: Physicochemical, Antibacterial, and In Vitro Healing Properties for Enhanced Wound Healing and Infection Control.|https://dx.doi.org/10.3390/polym17172379
+Pseudomonas aeruginosa supports the survival of Prevotella melaninogenica in a cystic fibrosis lung polymicrobial community through metabolic cross-feeding.|https://dx.doi.org/10.1128/mbio.01594-25
+Thiolated Hyaluronic Acid: A Gateway for Targeted Killing of Staphylococcus aureus on the Race for Surface Colonization.|https://dx.doi.org/10.1002/adhm.202502890
+Spinal epidural abscess of uncommon presentation following urinary tract infection: A case report.|https://dx.doi.org/10.12998/wjcc.v13.i29.109027
