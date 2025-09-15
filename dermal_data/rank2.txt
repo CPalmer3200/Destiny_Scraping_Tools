@@ -18,3 +18,4 @@ A Prospective Observational Study on the Clinical Outcomes of Diabetic Foot Ulce
 The trial design of the concurrent optical and magnetic stimulation (COMS) therapy study for refractory diabetic foot ulcers (MAVERICKS): a multicenter, randomized, sham-controlled, double-blind investigational device exemption clinical study.|https://dx.doi.org/10.25270/wnds/25037
 Role of Biomarkers in Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.13107/jocr.2025.v15.i09.6120
 Progressive Hydrogel Applications in Diabetic Foot Ulcer Management: Phase-Dependent Healing Strategies.|https://dx.doi.org/10.3390/polym17172303
+A snail glycosaminoglycan-derived patch inspired by extracellular matrix accelerates diabetic wound healing via promoting re-epithelization.|https://dx.doi.org/10.1016/j.carbpol.2025.124168

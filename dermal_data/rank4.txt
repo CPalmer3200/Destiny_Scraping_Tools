@@ -30,3 +30,5 @@ Study on the structural characterization and biological activities of polysaccha
 Preparation and Characterization of Copper-Crosslinked Alginate-Hyaluronic Acid Aerogels as Potential Wound Dressing Materials with Enhanced Antibacterial Properties.|https://dx.doi.org/10.3390/polym17172406
 Modified Castor Oil-Based Polyurethane Films with Streptomyces Extracts Presenting Anti-Methicillin-Resistant Staphylococcus aureus Activity.|https://dx.doi.org/10.3390/polym17172383
 Bioengineered Chitosan-Collagen-Honey Sponges: Physicochemical, Antibacterial, and In Vitro Healing Properties for Enhanced Wound Healing and Infection Control.|https://dx.doi.org/10.3390/polym17172379
+Antibacterial hydrogel filters via in situ growth of Ag-doped ZIF-8 on cellulose nanofibers: A novel strategy for biofouling control in water treatment.|https://dx.doi.org/10.1016/j.carbpol.2025.124174
+Development and evaluation of a dual-network crosslinked hydrogel comprising gelatin methacryloyl and zinc alginate for enhanced skin wound healing applications.|https://dx.doi.org/10.1016/j.carbpol.2025.124213
