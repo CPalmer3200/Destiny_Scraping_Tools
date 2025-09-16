@@ -8,3 +8,4 @@ Targeted inhibition of mecA and agrA genes in clinical MRSA isolates by natural 
 Comparative analysis of colonization and survival strategies of regionally predominant LA-MRSA clones ST398 and ST9.|https://dx.doi.org/10.1128/msystems.00397-25
 Draft genome sequence of Staphylococcus aureus N208 isolated from a nasal swab of a healthy female.|https://dx.doi.org/10.1128/mra.00811-25
 Occurrence and Antimicrobial Resistance Profiles of Staphylococcus spp. Strains Isolated From Healthy Stray Dogs.|https://dx.doi.org/10.1002/vms3.70599
+Prevalence and antibiogram profiling of enterotoxigenic methicillin-resistant Staphylococcus aureus at bovine-human interface.|https://dx.doi.org/10.22099/ijvr.2024.50719.7502

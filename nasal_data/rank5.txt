@@ -18,3 +18,6 @@ Breast surgical site infections in patients undergoing lumpectomy with and witho
 Juvenile gigantomastia with pseudo angiomatous stromal hyperplasia in a 12-year-old female: a case report.|https://dx.doi.org/10.1016/j.jpag.2025.08.006
 The Role of Synthetic Meshes in Revision Surgery After Breast Augmentation: A Personal Experience.|https://dx.doi.org/10.3390/jcm14175978
 Is Antibiotic Prophylaxis Necessary in Mastectomy with Antimicrobial Sutures? A Comparative Analysis.|https://dx.doi.org/10.3390/cancers17172892
+Necrotizing Fasciitis of Bilateral Breasts following Unilateral Modified Radical Mastectomy for Invasive Ductal Carcinoma: A Case Report and Review of Literature.|https://dx.doi.org/10.47895/amp.vi0.10159
+[Single-stage treatment of upper limb lymphedema following breast cancer surgery using superficial circumflex iliac artery perforator-based vascularized lymph node transfer combined with lymphaticovenular anastomosis and liposuction].|https://dx.doi.org/10.7507/1002-1892.202506113
+Occult breast cancer management with axillary lymph node dissection versus sentinel lymph node biopsy: Case reports and literature review.|https://dx.doi.org/10.1016/j.ijscr.2025.111896
