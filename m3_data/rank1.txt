@@ -2,3 +2,6 @@ Treatment outcomes and risk factors for severity and mortality in Clostridioides
 Fecal Microbiota-based therapies compared to Fecal Microbiota Transplantation for Preventing recurrent C. difficile Infection.|https://dx.doi.org/10.1016/j.cgh.2025.08.029
 Bezlotoxumab for the prevention of recurrent Clostridioides difficile infection for patients with cancer.|https://dx.doi.org/10.20524/aog.2025.0994
 Lipidomics, Microbiota, and Intestinal Clostridioides difficile Infection Outcome.|https://dx.doi.org/10.3390/ijms26178214
+Assessment of chemical methods in the extraction of spore surface layers in Clostridioides difficile spores.|https://dx.doi.org/10.1128/msphere.00531-25
+Activated PI3K Delta Syndrome: A Case Presentation and Literature Review.|https://dx.doi.org/10.7759/cureus.89884
+Use of proximity ligation shotgun metagenomics to investigate the dynamics of plasmids and bacteriophages in the gut microbiome following fecal microbiota transplantation.|https://dx.doi.org/10.1080/19490976.2025.2559019
