@@ -32,3 +32,9 @@ Modified Castor Oil-Based Polyurethane Films with Streptomyces Extracts Presenti
 Bioengineered Chitosan-Collagen-Honey Sponges: Physicochemical, Antibacterial, and In Vitro Healing Properties for Enhanced Wound Healing and Infection Control.|https://dx.doi.org/10.3390/polym17172379
 Antibacterial hydrogel filters via in situ growth of Ag-doped ZIF-8 on cellulose nanofibers: A novel strategy for biofouling control in water treatment.|https://dx.doi.org/10.1016/j.carbpol.2025.124174
 Development and evaluation of a dual-network crosslinked hydrogel comprising gelatin methacryloyl and zinc alginate for enhanced skin wound healing applications.|https://dx.doi.org/10.1016/j.carbpol.2025.124213
+Exploring the Activities of Alginate-Carrageenan@AgNPs Hydrogels Supported by Molecular Docking Studies for Potential Antimicrobial and Antioxidant Agents.|https://dx.doi.org/10.1002/biot.70117
+Quaternary Ammonium Chitosan Hydrogel Platform with Zinc-Enhanced Bioactivity toward Scar-Free Wound Healing.|https://dx.doi.org/10.1021/acsami.5c13677
+In Situ Homogeneous Generation of Copper Nanoparticles in Collagen-Cellulose Freeze-Dried Foams Using Natural Reduction Agents to Enhance Their Stability, Antibacterial Properties, and Cytocompatibility.|https://dx.doi.org/10.1021/acsomega.5c03661
+A multifunctional living hydrogel for the synergistic management of infected diabetic wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.101787
+Highly elastic and breathable PTFE/hydrogel hierarchically compounded dressings for multi-functional protection and rapid wound healing.|https://dx.doi.org/10.1039/d5mh01562f
+Multifunctional Nanofiber-Based Smart Dressing System with pH-Response, Angiogenesis, and Anti-inflammation Properties for Enhancing Diabetic Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.5c01674

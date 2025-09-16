@@ -19,3 +19,6 @@ Functional antibacterial strategies of natural polysaccharides chitosan, hyaluro
 Deploying Soft Drugs in the Fight against MRSA with Detailed Biological Evaluation of 4-(n-Alkoxy)-phenoxy Betaine Amphiphiles Active against MDR Staphylococcus aureus and Enterococcus sp.|https://dx.doi.org/10.1021/acsinfecdis.5c00267
 Antibacterial, Photoprotective, Anti-Inflammatory, and Selected Anticancer Properties of Honokiol Extracted from Plants of the Genus Magnolia and Used in the Treatment of Dermatological Problems-A Review.|https://dx.doi.org/10.3390/ijms26178737
 Dual functional chitosan-coated spanlastics for topical delivery of ceftazidime in the treatment of bacterial burn wound infections.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147627
+NIR-Responsive Nanoplatform Based on CuO(2) with Self-Supplied H(2)O(2)/O(2) for Synergistic Photodynamic-Chemodynamic-Photothermal Therapy of Skin Abscesses.|https://dx.doi.org/10.1021/acsami.5c11434
+Biocompatible Guanidine-Functionalized Compounds with Biofilm and Membrane Disruptive Activity Against MRSA.|https://dx.doi.org/10.1021/acsinfecdis.5c00642
+Hsp90 as a pathophysiological factor and emerging therapeutic target in atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2025.1658399

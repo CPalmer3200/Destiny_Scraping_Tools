@@ -19,3 +19,8 @@ The trial design of the concurrent optical and magnetic stimulation (COMS) thera
 Role of Biomarkers in Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.13107/jocr.2025.v15.i09.6120
 Progressive Hydrogel Applications in Diabetic Foot Ulcer Management: Phase-Dependent Healing Strategies.|https://dx.doi.org/10.3390/polym17172303
 A snail glycosaminoglycan-derived patch inspired by extracellular matrix accelerates diabetic wound healing via promoting re-epithelization.|https://dx.doi.org/10.1016/j.carbpol.2025.124168
+Fabrication and characterization of agar-based hydrogel incorporating gelatin-coated silver nanoparticles with mupirocin for diabetic wound therapy.|https://dx.doi.org/10.1007/s13205-025-04506-z
+Multicenter epidemiological distribution, pathogens, and drug-resistance characteristics of chronic osteomyelitis in Central China.|https://dx.doi.org/10.3389/fpubh.2025.1654861
+Altered expression of miR-132, miR-155, VEGF, and IGF-1 as key indicators in the pathogenesis of diabetic foot infection.|https://dx.doi.org/10.62347/ILFJ9140
+Machine learning enables construction of a nomogram based on risk factors for adverse emotions in patients with diabetic foot infection.|https://dx.doi.org/10.62347/ZWGQ9542
+Intraoperative blood perfusion factors in free anterolateral thigh flap repair for diabetic foot ulcers: A retrospective analysis.|https://dx.doi.org/10.4239/wjd.v16.i8.105532
