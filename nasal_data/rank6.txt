@@ -14,3 +14,4 @@ Changes in carriage and serotype diversity of Streptococcus pneumoniae and other
 Distinct effects of adjuvants on B cell responses to protein or polysaccharide antigens contained in glycoconjugate vaccines.|https://dx.doi.org/10.3389/fimmu.2025.1574941
 Overcoming Immune Evasion in Staphylococcus aureus: Strategies for Rational Vaccine Design.|https://dx.doi.org/10.1021/acsinfecdis.5c00569
 Fabrication and characterization of agar-based hydrogel incorporating gelatin-coated silver nanoparticles with mupirocin for diabetic wound therapy.|https://dx.doi.org/10.1007/s13205-025-04506-z
+Immunoinformatics design of multi-epitope vaccine candidates against "ESKAPE" pathogens as nosocomial infection.|https://dx.doi.org/10.1016/j.compbiomed.2025.111100
