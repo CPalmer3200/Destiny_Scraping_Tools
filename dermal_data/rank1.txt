@@ -5,3 +5,4 @@ Silver Nanoparticle-Infused Aloe Polysaccharides/ Polyvinyl Alcohol/Sodium Algin
 Bacterial cellulose hydrogel incorporating epigallocatechin-3-gallate for improved treatment of third-degree burns.|https://dx.doi.org/10.1016/j.colsurfb.2025.115050
 Citric acid-modified chitosan hydrogel loaded with shikonin promotes skin wound healing.|https://dx.doi.org/10.1093/jbcr/iraf175
 Myristoylated Cathelicidin-DM Fused With ANG1-7: A Novel Self-Assembling Antimicrobial Peptide for the Treatment and Mechanism of Diabetic Infected Wounds.|https://dx.doi.org/10.1155/jdr/9601959
+Light-Driven Double-Layer Polydopamine-Coated Flexible Metal-Organic Frameworks: Balancing Antibacterial and Regenerative Functions.|https://dx.doi.org/10.1021/acsnano.5c11831

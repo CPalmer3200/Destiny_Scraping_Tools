@@ -22,3 +22,4 @@ Dual functional chitosan-coated spanlastics for topical delivery of ceftazidime 
 NIR-Responsive Nanoplatform Based on CuO(2) with Self-Supplied H(2)O(2)/O(2) for Synergistic Photodynamic-Chemodynamic-Photothermal Therapy of Skin Abscesses.|https://dx.doi.org/10.1021/acsami.5c11434
 Biocompatible Guanidine-Functionalized Compounds with Biofilm and Membrane Disruptive Activity Against MRSA.|https://dx.doi.org/10.1021/acsinfecdis.5c00642
 Hsp90 as a pathophysiological factor and emerging therapeutic target in atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2025.1658399
+Targeted Cascade Therapy with Multifunctional Nanovesicles Engineered from Synergistic Antibacterial Agents for Precision Treatment of Multidrug-Resistant Infections and Biofilms.|https://dx.doi.org/10.1002/adma.202511037

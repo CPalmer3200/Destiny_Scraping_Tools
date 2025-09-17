@@ -38,3 +38,8 @@ In Situ Homogeneous Generation of Copper Nanoparticles in Collagen-Cellulose Fre
 A multifunctional living hydrogel for the synergistic management of infected diabetic wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.101787
 Highly elastic and breathable PTFE/hydrogel hierarchically compounded dressings for multi-functional protection and rapid wound healing.|https://dx.doi.org/10.1039/d5mh01562f
 Multifunctional Nanofiber-Based Smart Dressing System with pH-Response, Angiogenesis, and Anti-inflammation Properties for Enhancing Diabetic Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.5c01674
+Formulation, characterization, anti-bacterial, anti-inflammatory, anti-cancer, and cytotoxicity assessment of collagen/gelatin-based hydrogels as controlled drug release agents.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147653
+Self-Oxygenating Nano-Thermosensitive Hydrogel System Integrated with Photothermal/Photodynamic Therapy for Antibacterial Therapy and Enhanced Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c00455
+AIE-driven photothermal nanotrigger-activated multifunctional injectable hydrogel for maxillofacial infection control.|https://dx.doi.org/10.1016/j.mtbio.2025.102247
+H(2)O(2)-Producing Electrochemical Bandages Are Active Using Off-the-Shelf Hydrogels.|https://dx.doi.org/10.1111/wrr.70092
+Ultrasmall Self-Cascade Bimetallic Au(2)Pd(3) Nanozymes Encapsulated Hydrogel Microneedles for Photothermal-Augmented Nanocatalytic Therapy of Diabetic Wound Infections.|https://dx.doi.org/10.1021/acsami.5c14298
