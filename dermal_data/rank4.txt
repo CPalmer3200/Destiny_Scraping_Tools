@@ -43,3 +43,5 @@ Self-Oxygenating Nano-Thermosensitive Hydrogel System Integrated with Phototherm
 AIE-driven photothermal nanotrigger-activated multifunctional injectable hydrogel for maxillofacial infection control.|https://dx.doi.org/10.1016/j.mtbio.2025.102247
 H(2)O(2)-Producing Electrochemical Bandages Are Active Using Off-the-Shelf Hydrogels.|https://dx.doi.org/10.1111/wrr.70092
 Ultrasmall Self-Cascade Bimetallic Au(2)Pd(3) Nanozymes Encapsulated Hydrogel Microneedles for Photothermal-Augmented Nanocatalytic Therapy of Diabetic Wound Infections.|https://dx.doi.org/10.1021/acsami.5c14298
+Constructing High-Efficiency Polyoxometalate-Based Antibacterial Hydrogels for Wearable Sensors.|https://dx.doi.org/10.1021/acs.langmuir.5c03209
+A supramolecular semiconducting nickel(ii)-metallohydrogel with dual antimicrobial and micro-electronic device applications.|https://dx.doi.org/10.1039/d5ra04603c

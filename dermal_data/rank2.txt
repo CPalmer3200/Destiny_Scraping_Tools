@@ -24,3 +24,4 @@ Multicenter epidemiological distribution, pathogens, and drug-resistance charact
 Altered expression of miR-132, miR-155, VEGF, and IGF-1 as key indicators in the pathogenesis of diabetic foot infection.|https://dx.doi.org/10.62347/ILFJ9140
 Machine learning enables construction of a nomogram based on risk factors for adverse emotions in patients with diabetic foot infection.|https://dx.doi.org/10.62347/ZWGQ9542
 Intraoperative blood perfusion factors in free anterolateral thigh flap repair for diabetic foot ulcers: A retrospective analysis.|https://dx.doi.org/10.4239/wjd.v16.i8.105532
+The role of Cerament® (Antibiotic impregnated bone void filler) in lower limb salvage for diabetic foot patients with osteomyelitis, a scoping review.|https://dx.doi.org/10.1016/j.surge.2025.09.001
