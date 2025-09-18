@@ -22,3 +22,6 @@ Necrotizing Fasciitis of Bilateral Breasts following Unilateral Modified Radical
 [Single-stage treatment of upper limb lymphedema following breast cancer surgery using superficial circumflex iliac artery perforator-based vascularized lymph node transfer combined with lymphaticovenular anastomosis and liposuction].|https://dx.doi.org/10.7507/1002-1892.202506113
 Occult breast cancer management with axillary lymph node dissection versus sentinel lymph node biopsy: Case reports and literature review.|https://dx.doi.org/10.1016/j.ijscr.2025.111896
 Evaluating the Safety of Immediate Lymphatic Reconstruction With Implant-Based Breast Reconstruction: Eight-Year Institutional Review.|https://dx.doi.org/10.1002/micr.70119
+Robot-Assisted Versus Open Surgery in Early-Stage Breast Cancer: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.clbc.2025.08.019
+The impact of immediate lipofilling on oncological outcomes, complication rates and patient reported outcomes in breast conserving surgery: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.ejso.2025.110446
+Surgical Site Infection (SSI) Prevention Bundle to Reduce the Incidence of Post-Mastectomy SSI Among Breast Cancer Patients at an Academic Medical Center: Effectiveness and Cost Consequence Analysis.|https://dx.doi.org/10.1002/wjs.70068

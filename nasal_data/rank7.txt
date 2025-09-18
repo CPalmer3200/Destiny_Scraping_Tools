@@ -56,3 +56,5 @@ The Pandora's Box of Cardiac Devices: A Case of Infective Endocarditis Postpaten
 Postoperative infection following anterior cervical fusion surgery caused by Prevotella oris: a case report.|https://dx.doi.org/10.3389/fsurg.2025.1555039
 Biotemplated Photocatalytic Micromotors for Effective Inhibition of Bacterial Growth.|https://dx.doi.org/10.1021/acs.chemmater.5c00885
 A snail glycosaminoglycan-derived patch inspired by extracellular matrix accelerates diabetic wound healing via promoting re-epithelization.|https://dx.doi.org/10.1016/j.carbpol.2025.124168
+Patients with tracheostomy as a primary risk factor for methicillin-resistant Staphylococcus aureus carriage in emergency intensive care unit admissions: A retrospective single-center observational study.|https://dx.doi.org/10.1097/MD.0000000000044273
+Ultrasmall Self-Cascade Bimetallic Au(2)Pd(3) Nanozymes Encapsulated Hydrogel Microneedles for Photothermal-Augmented Nanocatalytic Therapy of Diabetic Wound Infections.|https://dx.doi.org/10.1021/acsami.5c14298

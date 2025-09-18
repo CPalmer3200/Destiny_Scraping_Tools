@@ -15,3 +15,4 @@ Distinct effects of adjuvants on B cell responses to protein or polysaccharide a
 Overcoming Immune Evasion in Staphylococcus aureus: Strategies for Rational Vaccine Design.|https://dx.doi.org/10.1021/acsinfecdis.5c00569
 Fabrication and characterization of agar-based hydrogel incorporating gelatin-coated silver nanoparticles with mupirocin for diabetic wound therapy.|https://dx.doi.org/10.1007/s13205-025-04506-z
 Immunoinformatics design of multi-epitope vaccine candidates against "ESKAPE" pathogens as nosocomial infection.|https://dx.doi.org/10.1016/j.compbiomed.2025.111100
+A New Saponin From Tridax procumbens L.: In Vitro and In Silico Studies Reveal Broad Spectrum of Bioactivities.|https://dx.doi.org/10.1002/cbdv.202501842
