@@ -25,3 +25,4 @@ Hsp90 as a pathophysiological factor and emerging therapeutic target in atopic d
 Targeted Cascade Therapy with Multifunctional Nanovesicles Engineered from Synergistic Antibacterial Agents for Precision Treatment of Multidrug-Resistant Infections and Biofilms.|https://dx.doi.org/10.1002/adma.202511037
 All Drug Glassy Microneedle Patches for Instantaneous Transdermal Delivery.|https://dx.doi.org/10.1002/adma.202512849
 Olefinic side chain modification of fusidic acid enhances anti-MRSA activity and mitigates resistance development.|https://dx.doi.org/10.1039/d5md00652j
+Biomedical application of cold plasma: navigating through plasma types and devices by antimicrobial effectiveness and tissue tolerance.|https://dx.doi.org/10.1002/adtp.202400339

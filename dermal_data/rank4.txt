@@ -45,3 +45,8 @@ H(2)O(2)-Producing Electrochemical Bandages Are Active Using Off-the-Shelf Hydro
 Ultrasmall Self-Cascade Bimetallic Au(2)Pd(3) Nanozymes Encapsulated Hydrogel Microneedles for Photothermal-Augmented Nanocatalytic Therapy of Diabetic Wound Infections.|https://dx.doi.org/10.1021/acsami.5c14298
 Constructing High-Efficiency Polyoxometalate-Based Antibacterial Hydrogels for Wearable Sensors.|https://dx.doi.org/10.1021/acs.langmuir.5c03209
 A supramolecular semiconducting nickel(ii)-metallohydrogel with dual antimicrobial and micro-electronic device applications.|https://dx.doi.org/10.1039/d5ra04603c
+Thymol-loaded methacrylated gelatin-based electrospun nanofibrous dressing for MRSA-infected wound treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147716
+Biodegradable chitosan lactate/polyvinyl alcohol composite sponge for rapid hemostasis and antibacterial protection.|https://dx.doi.org/10.1080/09205063.2025.2561322
+Activity of HOCl-generating e-bandage with clinically available hydrogels against Staphylococcus aureus and Acinetobacter baumannii biofilms.|https://dx.doi.org/10.1128/spectrum.01762-25
+Development of a 'green' wound healing hydrogel rich in apigenin-7-O-glucoside using an ultrasonication-assisted solvent extract of tomatoes.|https://dx.doi.org/10.1007/s13205-025-04489-x
+Biomedical Frontiers with PVA-chitosan/lignin@CdZnO multifunctional hydrogel.|https://dx.doi.org/10.1039/d5ra02958a
