@@ -8,3 +8,4 @@ Myristoylated Cathelicidin-DM Fused With ANG1-7: A Novel Self-Assembling Antimic
 Light-Driven Double-Layer Polydopamine-Coated Flexible Metal-Organic Frameworks: Balancing Antibacterial and Regenerative Functions.|https://dx.doi.org/10.1021/acsnano.5c11831
 Nanozyme-Engineered Probiotic Microneedle Patch for Chronic Diabetic Wound Therapy.|https://dx.doi.org/10.1002/advs.202512127
 Biohybrid Living Material with Antibacterial and Regenerating Properties Based on Probiotic Bacteria Stress Metabolism Modulation.|https://dx.doi.org/10.1002/mabi.202500452
+Development of antibacterial coatings for endotracheal tubes with enhanced antibacterial release properties through combined antibiotic loading.|https://dx.doi.org/10.1093/jpp/rgaf078

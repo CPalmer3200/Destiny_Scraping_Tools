@@ -50,3 +50,6 @@ Biodegradable chitosan lactate/polyvinyl alcohol composite sponge for rapid hemo
 Activity of HOCl-generating e-bandage with clinically available hydrogels against Staphylococcus aureus and Acinetobacter baumannii biofilms.|https://dx.doi.org/10.1128/spectrum.01762-25
 Development of a 'green' wound healing hydrogel rich in apigenin-7-O-glucoside using an ultrasonication-assisted solvent extract of tomatoes.|https://dx.doi.org/10.1007/s13205-025-04489-x
 Biomedical Frontiers with PVA-chitosan/lignin@CdZnO multifunctional hydrogel.|https://dx.doi.org/10.1039/d5ra02958a
+A nanocomposite xanthan gum/puerarin supramolecular hydrogel with immunoregulatory, antibacterial, and antioxidant properties for wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.124279
+Non-conductive surfaces electro-fabrication of transparent high-performance layered chitosan-silver-montmorillonite composite hydrogels for infected wound dressing.|https://dx.doi.org/10.1016/j.carbpol.2025.124306
+Copper-Manganese Bimetallic Oxide-Encapsulated Hydrogels with Multienzyme Activities Accelerate MRSA-Infected Wound Healing by Disrupting Bacterial Protein Expression.|https://dx.doi.org/10.1016/j.actbio.2025.09.017
