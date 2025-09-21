@@ -53,3 +53,6 @@ Biomedical Frontiers with PVA-chitosan/lignin@CdZnO multifunctional hydrogel.|ht
 A nanocomposite xanthan gum/puerarin supramolecular hydrogel with immunoregulatory, antibacterial, and antioxidant properties for wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.124279
 Non-conductive surfaces electro-fabrication of transparent high-performance layered chitosan-silver-montmorillonite composite hydrogels for infected wound dressing.|https://dx.doi.org/10.1016/j.carbpol.2025.124306
 Copper-Manganese Bimetallic Oxide-Encapsulated Hydrogels with Multienzyme Activities Accelerate MRSA-Infected Wound Healing by Disrupting Bacterial Protein Expression.|https://dx.doi.org/10.1016/j.actbio.2025.09.017
+Tuning antibiotic release from gelatin-cellulose nanocrystal hydrogel films.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147743
+Multi-functional poly(N-isopropylacrylamide)-based hydrogel with hemostasis, antibacterial, and sustained drug release properties for infected wound treatment.|https://dx.doi.org/10.1016/j.colsurfb.2025.115147
+Fabrication of polyvinyl alcohol-polyethylene glycol-copper oxide nanocomposite hydrogel as a novel wound dressing.|https://dx.doi.org/10.1080/09205063.2025.2561005
