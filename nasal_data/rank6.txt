@@ -16,3 +16,9 @@ Overcoming Immune Evasion in Staphylococcus aureus: Strategies for Rational Vacc
 Fabrication and characterization of agar-based hydrogel incorporating gelatin-coated silver nanoparticles with mupirocin for diabetic wound therapy.|https://dx.doi.org/10.1007/s13205-025-04506-z
 Immunoinformatics design of multi-epitope vaccine candidates against "ESKAPE" pathogens as nosocomial infection.|https://dx.doi.org/10.1016/j.compbiomed.2025.111100
 A New Saponin From Tridax procumbens L.: In Vitro and In Silico Studies Reveal Broad Spectrum of Bioactivities.|https://dx.doi.org/10.1002/cbdv.202501842
+A systematic review of asymptomatic colonisation with Group A Streptococcus in lower and middle income countries.|https://dx.doi.org/10.1016/j.jinf.2025.106615
+Clinical Impact of Influenza A Coinfection on Staphylococcus aureus Pneumonia during the 2024-2025 Influenza Season in New York City.|https://dx.doi.org/10.1016/j.ijid.2025.108072
+Cesarean delivery with low-dose combined spinal epidural in a patient with congenital central hypoventilation syndrome: a case report.|https://dx.doi.org/10.1016/j.ijoa.2025.104772
+Burden of bacterial antimicrobial resistance 1990-2021 in China: a systematic analysis for the global burden of disease study 2021.|https://dx.doi.org/10.1186/s12916-025-04333-2
+Gut commensal Lactobacillus strain induces a balanced trained immunity phenotype to enhance vaccine efficacy through JAK-STAT-SOCS pathway.|https://dx.doi.org/10.1007/s12602-025-10769-y
+Molecular epidemiological characteristics of pertussis in a pediatric hospital in Jinan City, China, 2022 to 2024.|https://dx.doi.org/10.3389/fpubh.2025.1657953
