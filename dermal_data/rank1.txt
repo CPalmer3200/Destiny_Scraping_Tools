@@ -10,3 +10,4 @@ Nanozyme-Engineered Probiotic Microneedle Patch for Chronic Diabetic Wound Thera
 Biohybrid Living Material with Antibacterial and Regenerating Properties Based on Probiotic Bacteria Stress Metabolism Modulation.|https://dx.doi.org/10.1002/mabi.202500452
 Development of antibacterial coatings for endotracheal tubes with enhanced antibacterial release properties through combined antibiotic loading.|https://dx.doi.org/10.1093/jpp/rgaf078
 Green Synthesis of ZnO and Mg-doped ZnO Nanoparticles Using Ferulago angulata Plant Extract and Its Effect on Second-Degree Burn Wound Healing.|https://dx.doi.org/10.1002/cbf.70121
+Photobiomodulation with LED does not alter antibiotic sensitivity in ATCC and burn-patient bacteria.|https://dx.doi.org/10.1007/s10103-025-04642-1

@@ -56,3 +56,7 @@ Copper-Manganese Bimetallic Oxide-Encapsulated Hydrogels with Multienzyme Activi
 Tuning antibiotic release from gelatin-cellulose nanocrystal hydrogel films.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147743
 Multi-functional poly(N-isopropylacrylamide)-based hydrogel with hemostasis, antibacterial, and sustained drug release properties for infected wound treatment.|https://dx.doi.org/10.1016/j.colsurfb.2025.115147
 Fabrication of polyvinyl alcohol-polyethylene glycol-copper oxide nanocomposite hydrogel as a novel wound dressing.|https://dx.doi.org/10.1080/09205063.2025.2561005
+Comparative Effects of ZnO, MgO, and CaO Nanoparticles in 3D-Printed Chitosan-Agarose Scaffolds on Antibacterial and Osteogenic Outcomes.|https://dx.doi.org/10.1002/mabi.202500232
+Cu-Fe(3)O(4) Nanoclusters-Loaded HAMA Hydrogel Patches for Multifunctional Synergistic Wound Healing.|https://dx.doi.org/10.1021/acsomega.5c06769
+Antimicrobial hydrogel loaded with broccoli exosomes promotes anti-scarring healing of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102276
+Nanostructured Polyurethane-Collagen Hydrogels: Bioactive Crosslinked Networks for Enhanced Wound Healing.|https://dx.doi.org/10.1002/jbm.a.37993
