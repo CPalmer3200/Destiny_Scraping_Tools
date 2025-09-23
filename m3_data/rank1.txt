@@ -7,3 +7,7 @@ Activated PI3K Delta Syndrome: A Case Presentation and Literature Review.|https:
 Use of proximity ligation shotgun metagenomics to investigate the dynamics of plasmids and bacteriophages in the gut microbiome following fecal microbiota transplantation.|https://dx.doi.org/10.1080/19490976.2025.2559019
 Fecal microbiota transplantation in recurrent Clostridioides difficile: Is greater methodological rigor and the analysis of other populations relevant?|https://dx.doi.org/10.1016/j.rgmxen.2025.09.022
 Response to "Fecal microbiota transplantation in recurrent Clostridioides difficile: Is greater methodological rigor and the analysis of other populations relevant?".|https://dx.doi.org/10.1016/j.rgmxen.2025.09.023
+De novo design of potent inhibitors of clostridial family toxins.|https://dx.doi.org/10.1073/pnas.2509329122
+Patients, antibiotics and Clostridioides difficile: when your best friend becomes your worst enemy.|https://dx.doi.org/10.1093/jacamr/dlaf163
+Efficacy of Fecal Microbiota Transplantation (FMT) Versus Standard Antibiotic Therapy in Recurrent Clostridioides difficile (CDI/rCDI) Infection: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.90614
+Unchecked Immunity to Unleashed Anarchy: A Case of Hemophagocytic Lymphohistiocytosis Following Combination Immune Checkpoint Inhibitor Therapy.|https://dx.doi.org/10.7759/cureus.90533
