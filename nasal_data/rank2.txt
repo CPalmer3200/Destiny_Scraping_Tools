@@ -11,3 +11,4 @@ Occurrence and Antimicrobial Resistance Profiles of Staphylococcus spp. Strains 
 Prevalence and antibiogram profiling of enterotoxigenic methicillin-resistant Staphylococcus aureus at bovine-human interface.|https://dx.doi.org/10.22099/ijvr.2024.50719.7502
 Multilocus sequence type analysis of coagulase-negative staphylococci from the neonatal intensive care unit of a teaching hospital in Ghana.|https://dx.doi.org/10.11604/pamj.2025.51.59.45565
 Mechanisms of 10-hydroxyoctadecanoic acid resistance in Streptococcus pneumoniae.|https://dx.doi.org/10.1128/jb.00223-25
+Nasal Staphylococcus aureus carriage promotes depressive behaviour in mice via sex hormone degradation.|https://dx.doi.org/10.1038/s41564-025-02120-6

@@ -58,3 +58,11 @@ Biotemplated Photocatalytic Micromotors for Effective Inhibition of Bacterial Gr
 A snail glycosaminoglycan-derived patch inspired by extracellular matrix accelerates diabetic wound healing via promoting re-epithelization.|https://dx.doi.org/10.1016/j.carbpol.2025.124168
 Patients with tracheostomy as a primary risk factor for methicillin-resistant Staphylococcus aureus carriage in emergency intensive care unit admissions: A retrospective single-center observational study.|https://dx.doi.org/10.1097/MD.0000000000044273
 Ultrasmall Self-Cascade Bimetallic Au(2)Pd(3) Nanozymes Encapsulated Hydrogel Microneedles for Photothermal-Augmented Nanocatalytic Therapy of Diabetic Wound Infections.|https://dx.doi.org/10.1021/acsami.5c14298
+Correction: Dual phage-incorporated electrospun polyvinyl alcohol-eudragit nanofiber matrix for rapid healing of diabetic wound infected by Pseudomonas aeruginosa and Staphylococcus aureus.|https://dx.doi.org/10.1007/s13346-025-01979-6
+Comparative Effects of ZnO, MgO, and CaO Nanoparticles in 3D-Printed Chitosan-Agarose Scaffolds on Antibacterial and Osteogenic Outcomes.|https://dx.doi.org/10.1002/mabi.202500232
+MSSA Thoracic Mycotic Aneurysm Repaired with TEVAR: A Case Report.|https://dx.doi.org/10.3390/reports8030184
+Surveillance of Antibiotic Resistance and Molecular Epidemiology of Staphylococcus aureus in Baotou, Inner Mongolia, China.|https://dx.doi.org/10.2147/IDR.S540702
+Missed and mismanaged: severe consequences of Morel Lavallee lesions-a case series.|https://dx.doi.org/10.1093/jscr/rjaf731
+Psoriasis and Canine Exposure Leading to Recurrent Prosthetic Joint Infection: A Case Report.|https://dx.doi.org/10.7759/cureus.90595
+Dual-recognition fluorescent immunochromatographic strip based on IgG and antibiotic for smartphone-assisted detection of Staphylococcus aureus in food samples.|https://dx.doi.org/10.1039/d5ay01026h
+A risk-based assessment of Enterococcal Bloodstream infection: Suggesting considerations in empirical therapy strategies in a tertiary care hospital.|https://dx.doi.org/10.1016/j.ijmmb.2025.100976
