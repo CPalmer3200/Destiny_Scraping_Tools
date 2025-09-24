@@ -4433,3 +4433,8 @@ Unknown DOI
 10.1016/j.mtbio.2025.102276
 10.1002/jbm.a.37993
 10.1371/journal.pone.0331785
+10.7759/cureus.90717
+10.1016/j.ijbiomac.2025.147846
+10.1021/acs.biomac.5c01232
+10.1093/milmed/usaf085
+10.1093/milmed/usaf087

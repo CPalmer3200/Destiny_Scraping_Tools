@@ -60,3 +60,6 @@ Comparative Effects of ZnO, MgO, and CaO Nanoparticles in 3D-Printed Chitosan-Ag
 Cu-Fe(3)O(4) Nanoclusters-Loaded HAMA Hydrogel Patches for Multifunctional Synergistic Wound Healing.|https://dx.doi.org/10.1021/acsomega.5c06769
 Antimicrobial hydrogel loaded with broccoli exosomes promotes anti-scarring healing of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102276
 Nanostructured Polyurethane-Collagen Hydrogels: Bioactive Crosslinked Networks for Enhanced Wound Healing.|https://dx.doi.org/10.1002/jbm.a.37993
+A multifunctional sodium alginate oxide-based hydrogel with antibacterial and anti-inflammation properties for smart monitoring and accelerated diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147846
+Tetrahydroxy Diboron-Initiated Injectable Hydrogel with Integrated Rapid Gelation, Fatigue Resistance, Bioadhesion, Antibacterial Activity, ROS Scavenging, and Osteoinduction for Periodontitis Treatment.|https://dx.doi.org/10.1021/acs.biomac.5c01232
+A Novel, Reverse-Phase-Shifting, Thermoreversible Foaming Hydrogel Containing Antibiotics for the Treatment of Traumatic Tissue Injuries in a Swine Model.|https://dx.doi.org/10.1093/milmed/usaf085
