@@ -2,3 +2,4 @@ Profiling of Volatile Organic Compounds in Clinical Isolate Cultures and Stools 
 Impact of Acid Suppressants on the Development of Clostridioides difficile Infection and Possible Preventive Effects of Probiotic Formulations.|https://dx.doi.org/10.2147/IDR.S543864
 A Low Concentration of Butyrate has a Protective Action Against the Deleterious Effects of Clostridioides difficile Toxins on Enteric Glia.|https://dx.doi.org/10.1002/jbt.70475
 Changes in the Epidemiology of Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.idc.2025.07.002
+Inclusion of Emergency Department attendance on classification of Clostridioides difficile infections onset status: A revised definition.|https://dx.doi.org/10.1016/j.jhin.2025.08.013

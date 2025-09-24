@@ -11,3 +11,5 @@ De novo design of potent inhibitors of clostridial family toxins.|https://dx.doi
 Patients, antibiotics and Clostridioides difficile: when your best friend becomes your worst enemy.|https://dx.doi.org/10.1093/jacamr/dlaf163
 Efficacy of Fecal Microbiota Transplantation (FMT) Versus Standard Antibiotic Therapy in Recurrent Clostridioides difficile (CDI/rCDI) Infection: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.90614
 Unchecked Immunity to Unleashed Anarchy: A Case of Hemophagocytic Lymphohistiocytosis Following Combination Immune Checkpoint Inhibitor Therapy.|https://dx.doi.org/10.7759/cureus.90533
+Gut power for better health: microbial therapeutics.|https://dx.doi.org/10.1097/MOG.0000000000001136
+Microbiota-Based Therapies for Recurrent Clostridium difficile Infection: A Systematic Review of Their Efficacy and Safety.|https://dx.doi.org/10.7759/cureus.90737
