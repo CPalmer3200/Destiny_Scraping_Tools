@@ -33,3 +33,4 @@ Advancing injectable hydrogels for wound treatment: targeted control of oxidativ
 Revolutionizing diabetic foot ulcer treatment: phage therapy as a next-generation antimicrobial approach- a review on breaking the cycle of resistance.|https://dx.doi.org/10.1007/s40200-025-01736-z
 The safety and efficacy of neutral electrolyzed water solution for wound irrigation: post-market clinical follow-up study.|https://dx.doi.org/10.3389/fdsfr.2024.1402684
 Barriers Affecting Diabetic Foot Care in Primary Healthcare Settings in Al-Ahsa, Saudi Arabia.|https://dx.doi.org/10.7759/cureus.90717
+From Ulcer to Amputation: A Systematic Review of Prognostic Models for Diabetic Foot Ulcer Amputation.|https://dx.doi.org/10.2147/RMHP.S542262
