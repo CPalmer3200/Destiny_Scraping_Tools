@@ -13,3 +13,5 @@ Efficacy of Fecal Microbiota Transplantation (FMT) Versus Standard Antibiotic Th
 Unchecked Immunity to Unleashed Anarchy: A Case of Hemophagocytic Lymphohistiocytosis Following Combination Immune Checkpoint Inhibitor Therapy.|https://dx.doi.org/10.7759/cureus.90533
 Gut power for better health: microbial therapeutics.|https://dx.doi.org/10.1097/MOG.0000000000001136
 Microbiota-Based Therapies for Recurrent Clostridium difficile Infection: A Systematic Review of Their Efficacy and Safety.|https://dx.doi.org/10.7759/cureus.90737
+Microbiomes in Health, Diseases and Therapeutics.|https://dx.doi.org/10.1016/j.amjmed.2025.09.002
+The emerging view on the roles of butyrate in Clostridioides difficile pathogenesis.|https://dx.doi.org/10.1128/iai.00047-25
