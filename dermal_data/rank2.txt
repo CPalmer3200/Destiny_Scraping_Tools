@@ -34,3 +34,6 @@ Revolutionizing diabetic foot ulcer treatment: phage therapy as a next-generatio
 The safety and efficacy of neutral electrolyzed water solution for wound irrigation: post-market clinical follow-up study.|https://dx.doi.org/10.3389/fdsfr.2024.1402684
 Barriers Affecting Diabetic Foot Care in Primary Healthcare Settings in Al-Ahsa, Saudi Arabia.|https://dx.doi.org/10.7759/cureus.90717
 From Ulcer to Amputation: A Systematic Review of Prognostic Models for Diabetic Foot Ulcer Amputation.|https://dx.doi.org/10.2147/RMHP.S542262
+Risk factors and clinical outcomes of multidrug-resistant and biofilm-producing infections in diabetic foot ulcers: a two-year cohort study.|https://dx.doi.org/10.1007/s11274-025-04546-w
+Hydrogels incorporating active compounds from traditional Chinese medicine for diabetic wound healing: mechanistic pathways and bioengineering progress.|https://dx.doi.org/10.3389/fcell.2025.1666646
+Hyperspectral reconstruction for mobile diabetic foot blood perfusion monitoring.|https://dx.doi.org/10.1186/s44398-025-00011-8

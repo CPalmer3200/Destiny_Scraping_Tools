@@ -65,3 +65,4 @@ Tetrahydroxy Diboron-Initiated Injectable Hydrogel with Integrated Rapid Gelatio
 A Novel, Reverse-Phase-Shifting, Thermoreversible Foaming Hydrogel Containing Antibiotics for the Treatment of Traumatic Tissue Injuries in a Swine Model.|https://dx.doi.org/10.1093/milmed/usaf085
 Fabrication and in-vitro and in-vivo evaluation of polyacrylonitrile and polyethylene oxide nanofibers loaded with resveratrol and silver nanoparticles for skin wound healing application.|https://dx.doi.org/10.1177/08853282251383323
 Gelatin-sodium alginate hydrogel infused with Onosma dichroanthum Boiss. root extract: Preparation, characterization, and application in wound dressing.|https://dx.doi.org/10.1016/j.bbrep.2025.102236
+Antitumor and antibiofilm effect of a hydrogel loaded with octenidine hydrochloride (OCTH) for topical treatment of cancer.|https://dx.doi.org/10.1177/22808000251367864
