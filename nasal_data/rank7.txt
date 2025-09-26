@@ -4,3 +4,4 @@ Clade-specific adaptation and global spread of Staphylococcus aureus ST188 with 
 Antibiotic treatment duration for isolated methicillin-susceptible Staphylococcus aureus native tricuspid valve endocarditis: a standardized multidisciplinary approach.|https://dx.doi.org/10.1093/jacamr/dlaf171
 Gelatin-sodium alginate hydrogel infused with Onosma dichroanthum Boiss. root extract: Preparation, characterization, and application in wound dressing.|https://dx.doi.org/10.1016/j.bbrep.2025.102236
 Aortic Root Abscess Causing Atrioventricular Block in a Patient With Infective Endocarditis: A Fatal Case.|https://dx.doi.org/10.7759/cureus.90807
+Assessing healthcare workers as potential stool donors for faecal microbiota transplantation: a cross-sectional study of antimicrobial-resistant gut bacteria and enteropathogenic microorganisms.|https://dx.doi.org/10.1016/j.jhin.2025.09.004
