@@ -14,3 +14,6 @@ Direct genome sequencing of Leishmania tropica in tissues of Moroccan patients w
 Active electroceutical treatment of Pseudomonas aeruginosa infected murine wounds.|https://dx.doi.org/10.1371/journal.pone.0331785
 Semaphorin7A-expressing mast cell exosomes promote wound healing.|https://dx.doi.org/10.1016/j.yexcr.2025.114771
 Anti-Arthritis and Biosafety Properties of Green Synthesized Zinc Oxide Nanoparticles Loaded with Cedrus libani Extract.|https://dx.doi.org/10.2147/IJN.S537934
+Multiple Dermal Nodules and Progressive Neurological Symptoms in an Immunocompetent Patient.|https://dx.doi.org/10.1016/j.amjmed.2025.09.010
+Field-oriented assessment of bovine tuberculosis in Tunisian cattle: IDR, PCR(Mpb70) and serological test prediction based on AI approaches.|https://dx.doi.org/10.1007/s11274-025-04557-7
+Discovery of an Adaptive Neuroimmune Response Driving Itch and Fast Tick Removal with Implications for Preventing Pathogen Transmission.|https://dx.doi.org/10.1101/2025.08.22.671835

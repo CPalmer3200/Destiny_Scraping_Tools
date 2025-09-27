@@ -66,3 +66,10 @@ A Novel, Reverse-Phase-Shifting, Thermoreversible Foaming Hydrogel Containing An
 Fabrication and in-vitro and in-vivo evaluation of polyacrylonitrile and polyethylene oxide nanofibers loaded with resveratrol and silver nanoparticles for skin wound healing application.|https://dx.doi.org/10.1177/08853282251383323
 Gelatin-sodium alginate hydrogel infused with Onosma dichroanthum Boiss. root extract: Preparation, characterization, and application in wound dressing.|https://dx.doi.org/10.1016/j.bbrep.2025.102236
 Antitumor and antibiofilm effect of a hydrogel loaded with octenidine hydrochloride (OCTH) for topical treatment of cancer.|https://dx.doi.org/10.1177/22808000251367864
+Green synthesis of antimicrobial alginate/hydroxyethyl cellulose hydrogels crosslinked by Ca(2+) and dual Ca(2+)/Mg(2).|https://dx.doi.org/10.1038/s41598-025-18040-8
+A new efficient skin dressing based on sodium alginate - graphene oxide bionanocomposite hydrogel to expedite wound healing process.|https://dx.doi.org/10.1016/j.ijpharm.2025.126209
+Cinnamon-Mediated Silver Nanoparticles and Beta-Carotene Nanocarriers in Alginate Dressings for Wound Healing Applications.|https://dx.doi.org/10.3390/gels11090738
+Hydroxyproline-Modified Chitosan-Based Hydrogel Dressing Incorporated with Epigallocatechin-3-Gallate Promotes Wound Healing Through Immunomodulation.|https://dx.doi.org/10.3390/gels11090732
+Application of Gels in the Conservation of Chinese Ancient Calligraphy and Paintings.|https://dx.doi.org/10.3390/gels11090726
+Dynamic Metal-Phenolic Coordinated Hydrogel for Synergistic Photothermal/Chemodynamic Therapy against Biofilm-Infected Wounds and Real-Time Monitoring.|https://dx.doi.org/10.1021/acsami.5c17481
+Production, characterization, and antimicrobial activity of polyhydroxyalkanoates synthesized by Bacillus species against skin pathogens.|https://dx.doi.org/10.1039/d5ra04375a

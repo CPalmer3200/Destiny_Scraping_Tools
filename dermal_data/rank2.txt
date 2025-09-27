@@ -37,3 +37,5 @@ From Ulcer to Amputation: A Systematic Review of Prognostic Models for Diabetic 
 Risk factors and clinical outcomes of multidrug-resistant and biofilm-producing infections in diabetic foot ulcers: a two-year cohort study.|https://dx.doi.org/10.1007/s11274-025-04546-w
 Hydrogels incorporating active compounds from traditional Chinese medicine for diabetic wound healing: mechanistic pathways and bioengineering progress.|https://dx.doi.org/10.3389/fcell.2025.1666646
 Hyperspectral reconstruction for mobile diabetic foot blood perfusion monitoring.|https://dx.doi.org/10.1186/s44398-025-00011-8
+Layer-by-layer electrospun PCL/PVA mats loaded with nisin Z for enhanced diabetic foot ulcer treatment.|https://dx.doi.org/10.1016/j.ijpharm.2025.126208
+The Association of Wagner Classification, Microbial Resistance, Immune Markers, and Glycemic Control With Diabetic Foot Ulcer Severity: A Multi-disciplinary Approach to Predict Severity and Outcome.|https://dx.doi.org/10.7759/cureus.90914

@@ -28,3 +28,4 @@ Olefinic side chain modification of fusidic acid enhances anti-MRSA activity and
 Biomedical application of cold plasma: navigating through plasma types and devices by antimicrobial effectiveness and tissue tolerance.|https://dx.doi.org/10.1002/adtp.202400339
 Structure-Activity Relationship in ε-Lysine Peptides: The Length Effects on Antifungal Activity.|https://dx.doi.org/10.1021/acs.biomac.5c00907
 Development and optimization of a multifunctional cellulose-based hydrogel for enhanced crosslinking and tunability.|https://dx.doi.org/10.1016/j.bioadv.2025.214490
+Bacterial skin colonization with a specific Cutibacterium avidum clade as a risk factor for periprosthetic joint infections-a multicenter study.|https://dx.doi.org/10.1128/spectrum.00515-25
