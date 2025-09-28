@@ -3,3 +3,6 @@ Impact of Acid Suppressants on the Development of Clostridioides difficile Infec
 A Low Concentration of Butyrate has a Protective Action Against the Deleterious Effects of Clostridioides difficile Toxins on Enteric Glia.|https://dx.doi.org/10.1002/jbt.70475
 Changes in the Epidemiology of Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.idc.2025.07.002
 Inclusion of Emergency Department attendance on classification of Clostridioides difficile infections onset status: A revised definition.|https://dx.doi.org/10.1016/j.jhin.2025.08.013
+Fecal Metabolomics for the Diagnosis of Clostridioides difficile Infection.|https://dx.doi.org/10.3390/diagnostics15182331
+Prevalence and molecular types of Clostridioides (Clostridium) difficile on Australian retail vegetables and household surfaces.|https://dx.doi.org/10.1016/j.anaerobe.2025.103000
+Clostridioides difficile Infection in Healthy Children After Antibiotic Use: A Report of Two Cases.|https://dx.doi.org/10.7759/cureus.90928

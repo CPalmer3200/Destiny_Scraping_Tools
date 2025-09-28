@@ -4,3 +4,4 @@ Probiotics for the prevention of Clostridioides difficile-associated diarrhea in
 Influence of Morphology on Luminescent and Structural Properties of Eu(3+)-Doped Hydroxyapatite Powders Sintered by Spark Plasma Sintering.|https://dx.doi.org/10.1007/s10895-025-04538-x
 Preclinical evaluation of 6-Gingerol in modulating gut microbiota and SCFAs to mitigate Clostridium difficile-associated diarrhea in mice.|https://dx.doi.org/10.3389/fchem.2025.1635781
 Cytochrome c adsorption on carboxylated surfaces: charge regulation and protein orientation modulated by surface curvature.|https://dx.doi.org/10.1039/d5nr02326b
+Microbiome signatures of Clostridioides difficile toxin production and toxin gene presence: a shotgun metagenomic approach.|https://dx.doi.org/10.1128/msphere.00435-25

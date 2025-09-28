@@ -17,3 +17,4 @@ Microbiomes in Health, Diseases and Therapeutics.|https://dx.doi.org/10.1016/j.a
 The emerging view on the roles of butyrate in Clostridioides difficile pathogenesis.|https://dx.doi.org/10.1128/iai.00047-25
 Soft tissue reconstruction of tumor-related proximal tibial hemiarthroplasty using synthetic mesh combined with a medial gastrocnemius flap.|https://dx.doi.org/10.1186/s10195-025-00874-7
 Effects of lyophilised faecal filtrate compared with lyophilised donor stool on Clostridioides difficile recurrence: a multicentre, randomised, double-blinded, non-inferiority trial.|https://dx.doi.org/10.1016/S2468-1253(25)00190-6
+Compassionate Use of Encapsulated MKB-01 Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection: A Single-Center Experience.|https://dx.doi.org/10.3390/microorganisms13092134
