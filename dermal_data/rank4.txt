@@ -73,3 +73,6 @@ Hydroxyproline-Modified Chitosan-Based Hydrogel Dressing Incorporated with Epiga
 Application of Gels in the Conservation of Chinese Ancient Calligraphy and Paintings.|https://dx.doi.org/10.3390/gels11090726
 Dynamic Metal-Phenolic Coordinated Hydrogel for Synergistic Photothermal/Chemodynamic Therapy against Biofilm-Infected Wounds and Real-Time Monitoring.|https://dx.doi.org/10.1021/acsami.5c17481
 Production, characterization, and antimicrobial activity of polyhydroxyalkanoates synthesized by Bacillus species against skin pathogens.|https://dx.doi.org/10.1039/d5ra04375a
+Sprayable Hybrid Gel with Cannabidiol, Hyaluronic Acid, and Colloidal Silver: A Multifunctional Approach for Skin Lesion Therapy.|https://dx.doi.org/10.3390/pharmaceutics17091189
+Novel Electrospun PVA-PVP-PAAm/TiO(2) Nanofibers with Enhanced Optoelectrical, Antioxidant and Antibacterial Performances.|https://dx.doi.org/10.3390/polym17182487
+In Vitro Assessment of Electrospun PVP+AgNPs Scaffolds for Bioactive Medical Use.|https://dx.doi.org/10.3390/ijms26189114

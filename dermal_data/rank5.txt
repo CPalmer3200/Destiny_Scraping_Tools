@@ -29,3 +29,6 @@ Biomedical application of cold plasma: navigating through plasma types and devic
 Structure-Activity Relationship in ε-Lysine Peptides: The Length Effects on Antifungal Activity.|https://dx.doi.org/10.1021/acs.biomac.5c00907
 Development and optimization of a multifunctional cellulose-based hydrogel for enhanced crosslinking and tunability.|https://dx.doi.org/10.1016/j.bioadv.2025.214490
 Bacterial skin colonization with a specific Cutibacterium avidum clade as a risk factor for periprosthetic joint infections-a multicenter study.|https://dx.doi.org/10.1128/spectrum.00515-25
+Inhibition of Pseudomonas aeruginosa Biofilms Using Robust Silk Fibroin-Poly(ethyleneimine) Microparticles.|https://dx.doi.org/10.3390/polym17182470
+The Role of Probiotics in Healing Burns and Skin Wounds; An Integrative Approach in the Context of Regenerative Medicine.|https://dx.doi.org/10.3390/life15091434
+Orange Peel-Mediated Green Synthesis of ZnO and CuO Nanoparticles: Evaluation for Antimicrobial Activity and Biocompatibility in Tissue Engineering.|https://dx.doi.org/10.3390/ijms26188781

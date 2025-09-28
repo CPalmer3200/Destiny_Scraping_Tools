@@ -11,3 +11,6 @@ Biohybrid Living Material with Antibacterial and Regenerating Properties Based o
 Development of antibacterial coatings for endotracheal tubes with enhanced antibacterial release properties through combined antibiotic loading.|https://dx.doi.org/10.1093/jpp/rgaf078
 Green Synthesis of ZnO and Mg-doped ZnO Nanoparticles Using Ferulago angulata Plant Extract and Its Effect on Second-Degree Burn Wound Healing.|https://dx.doi.org/10.1002/cbf.70121
 Photobiomodulation with LED does not alter antibiotic sensitivity in ATCC and burn-patient bacteria.|https://dx.doi.org/10.1007/s10103-025-04642-1
+Rutin/ZnO/mesoporous Silica-based Nano-hydrogel accelerated topical wound healing in albino mice via potential synergistic bioactive response.|https://dx.doi.org/10.1016/j.ejpb.2025.114875
+Laponite(®)-Based Smart Hydrogels for Sustained Topical Delivery of Silver Sulfadiazine: A Strategy for the Treatment of Contaminated or Biofilm-Forming Wounds.|https://dx.doi.org/10.3390/pharmaceutics17091234
+Fabrication and In Vitro Evaluation of LL37-Loaded Electrospun PHB/Collagen Nanofibers for Wound Healing.|https://dx.doi.org/10.3390/polym17182486

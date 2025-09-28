@@ -39,3 +39,7 @@ Hydrogels incorporating active compounds from traditional Chinese medicine for d
 Hyperspectral reconstruction for mobile diabetic foot blood perfusion monitoring.|https://dx.doi.org/10.1186/s44398-025-00011-8
 Layer-by-layer electrospun PCL/PVA mats loaded with nisin Z for enhanced diabetic foot ulcer treatment.|https://dx.doi.org/10.1016/j.ijpharm.2025.126208
 The Association of Wagner Classification, Microbial Resistance, Immune Markers, and Glycemic Control With Diabetic Foot Ulcer Severity: A Multi-disciplinary Approach to Predict Severity and Outcome.|https://dx.doi.org/10.7759/cureus.90914
+Radical surgical treatment of calcaneal osteomyelitis: clinical characteristics and treatment efficacy based on a synthesis analysis of 364 reported cases.|https://dx.doi.org/10.1186/s13018-025-06197-x
+In Silico Development of a Chimeric Multi-Epitope Vaccine Targeting Helcococcus kunzii: Coupling Subtractive Proteomics and Reverse Vaccinology for Vaccine Target Discovery.|https://dx.doi.org/10.3390/ph18091258
+Platelet-Rich Plasma for Wound Healing in Diabetic Patients.|https://dx.doi.org/10.3390/medicina61091535
+Predictors of Major Amputation and Mortality in Infected Diabetic Foot Ulcers: A Retrospective Nationwide Inpatient Sample Study.|https://dx.doi.org/10.3390/ijerph22091387
