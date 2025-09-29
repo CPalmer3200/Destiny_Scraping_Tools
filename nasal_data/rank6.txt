@@ -3,3 +3,4 @@ Patient-reported perceptions, experiences and preferences around intravenous and
 A multivalent mRNA-LNP cocktail vaccine confers superior efficacy against Staphylococcus aureus infection in murine models.|https://dx.doi.org/10.1038/s41541-025-01244-4
 Characterisation of nasopharyngeal colonisation by Staphylococcus aureus and the factors associated with colonisation in comorbid adults in a low- and middle-income country.|https://dx.doi.org/10.1136/bmjresp-2025-003476
 A new efficient skin dressing based on sodium alginate - graphene oxide bionanocomposite hydrogel to expedite wound healing process.|https://dx.doi.org/10.1016/j.ijpharm.2025.126209
+Etiology and antimicrobial resistance patterns of sepsis in infants 0-59 days old in Jimma, Ethiopia: a longitudinal study.|https://dx.doi.org/10.1186/s13756-025-01626-2

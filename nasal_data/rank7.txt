@@ -5,3 +5,11 @@ Antibiotic treatment duration for isolated methicillin-susceptible Staphylococcu
 Gelatin-sodium alginate hydrogel infused with Onosma dichroanthum Boiss. root extract: Preparation, characterization, and application in wound dressing.|https://dx.doi.org/10.1016/j.bbrep.2025.102236
 Aortic Root Abscess Causing Atrioventricular Block in a Patient With Infective Endocarditis: A Fatal Case.|https://dx.doi.org/10.7759/cureus.90807
 Assessing healthcare workers as potential stool donors for faecal microbiota transplantation: a cross-sectional study of antimicrobial-resistant gut bacteria and enteropathogenic microorganisms.|https://dx.doi.org/10.1016/j.jhin.2025.09.004
+Efficacy of Hydrogen Peroxide Vaporizing Against Methicillin-Resistant Staphylococcus aureus, Extended-Spectrum β-Lactamase-Producing Bacteria, and Clostridioides difficile.|https://dx.doi.org/10.1016/j.jiac.2025.102820
+Neonatal infection with Staphylococcus capitis NRCS-A in Iceland: A 12-year longitudinal, retrospective study of strains from patients, staff and the environment in a neonatal intensive care unit.|https://dx.doi.org/10.1186/s13756-025-01623-5
+Radical surgical treatment of calcaneal osteomyelitis: clinical characteristics and treatment efficacy based on a synthesis analysis of 364 reported cases.|https://dx.doi.org/10.1186/s13018-025-06197-x
+Global challenges of bacterial infections in organ transplantation: assessment of risk factors and predominant bacterial pathogen profiles threatening liver, kidney, heart, and lung transplant recipients.|https://dx.doi.org/10.1186/s12879-025-11579-x
+Antimicrobial Resistance and Biofilm Formation in Bacterial Species Isolated from a Veterinary Hospital.|https://dx.doi.org/10.3390/pathogens14090845
+Repair Versus Replacement in Mitral Valve Endocarditis Due to Methicillin-Susceptible Staphylococcus aureus.|https://dx.doi.org/10.3390/pathogens14090839
+Antimicrobial Activity and Potential of Olive Leaf Extract as a Topical Agent to Combat Staphylococcus aureus and MRSA Strains: An In Vitro Evaluation.|https://dx.doi.org/10.3390/ph18091358
+Pyogenic Spondylodiscitis: Predictors of Microbiological Yield from Biopsy in a Tertiary Hospital.|https://dx.doi.org/10.3390/medicina61091591
