@@ -5,3 +5,4 @@ Epidemiology and Risk Factors of Pediatric Clostridioides difficile Infection: A
 Current Challenges in Encephalopathy Documentation and Coding.|https://dx.doi.org/10.63116/VZZE2856
 Proton Pump Inhibitors (PPIs)-An Evidence-Based Review of Indications, Efficacy, Harms, and Deprescribing.|https://dx.doi.org/10.3390/medicina61091569
 Increased Antimicrobial Consumption, Isolation Rate, and Resistance Profiles of Multi-Drug Resistant Klebsiella pneumoniae, Pseudomonas aeruginosa, and Acinetobacter baumannii During the COVID-19 Pandemic in a Tertiary Healthcare Institution.|https://dx.doi.org/10.3390/antibiotics14090871
+Health risks assessment of polycyclic aromatic hydrocarbons (PAHs) in meat kebabs through meta-analysis and Monte Carlo simulation.|https://dx.doi.org/10.1016/j.mex.2025.103502
