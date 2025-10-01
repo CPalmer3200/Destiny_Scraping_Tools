@@ -5,3 +5,5 @@ Antibiofilm Effects of N-Acetyl Cysteine on Staphylococcal Biofilm in Patients w
 Pathoadapative Genomic Determinants of Staphylococcus aureus Community Skin Infections and Nasal Colonization.|https://dx.doi.org/10.3390/microorganisms13092023
 Antibiotic Resistance and Molecular Characterization of Staphylococcus aureus Strains Colonizing the Nose and Pharynx.|https://dx.doi.org/10.3390/microorganisms13091978
 Temporal Shifts in Pathogen Profiles Due to the COVID-19 Pandemic in a Romanian Pediatric Tertiary Hospital.|https://dx.doi.org/10.3390/children12091258
+Nasal microbionts differentially colonize and elicit cytokines in human nasal epithelial organoids.|https://dx.doi.org/10.1128/msphere.00493-25
+Patient-Specific Coculture of S. aureus and P. aeruginosa Enhances Epithelial Barrier Disruption and Virulence in CRS.|https://dx.doi.org/10.1002/alr.70036
