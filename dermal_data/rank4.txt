@@ -77,3 +77,4 @@ Sprayable Hybrid Gel with Cannabidiol, Hyaluronic Acid, and Colloidal Silver: A 
 Novel Electrospun PVA-PVP-PAAm/TiO(2) Nanofibers with Enhanced Optoelectrical, Antioxidant and Antibacterial Performances.|https://dx.doi.org/10.3390/polym17182487
 In Vitro Assessment of Electrospun PVP+AgNPs Scaffolds for Bioactive Medical Use.|https://dx.doi.org/10.3390/ijms26189114
 Verification and validation of the horseradish peroxidase (HRP)-mediated enzymatic cross-linking in collagen/PEG hydrogels for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147795
+Theranostic Polyaniline-Integrated N-Acetyl-l-Cysteine Hydrogel for Synergistic Photothermal Antibacterial Therapy and Enhanced Cell Migration.|https://dx.doi.org/10.1021/acsabm.5c00829

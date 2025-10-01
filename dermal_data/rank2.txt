@@ -44,3 +44,7 @@ In Silico Development of a Chimeric Multi-Epitope Vaccine Targeting Helcococcus 
 Platelet-Rich Plasma for Wound Healing in Diabetic Patients.|https://dx.doi.org/10.3390/medicina61091535
 Predictors of Major Amputation and Mortality in Infected Diabetic Foot Ulcers: A Retrospective Nationwide Inpatient Sample Study.|https://dx.doi.org/10.3390/ijerph22091387
 Heel Diabetic Foot Osteomyelitis: A Current Challenge in the Clinical Practice.|https://dx.doi.org/10.1177/15347346251376115
+Identification of Skin Multicellular Reprogramming Factors as Potential Treatment for Nonhealing Diabetic Foot Ulcers.|https://dx.doi.org/10.1177/21621918251376348
+Establishing guidelines-based multidisciplinary diabetic limb salvage programme: A 100-day review of clinical characteristics and outcomes.|https://dx.doi.org/10.1177/20503121251368698
+Diode Laser and Red-Laser Photodynamic Therapy Versus Ciclopirox 8% HPCH Nail Lacquer for the Treatment of Onychomycosis: A Randomised Controlled Trial.|https://dx.doi.org/10.1111/myc.70121
+Effects of topical ozonated olive oil on lipid profile, quality of life, wound healing and glycemic control in patients with diabetic foot ulcers: a randomized controlled trial.|https://dx.doi.org/10.1186/s12944-025-02726-z

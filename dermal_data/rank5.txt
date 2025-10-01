@@ -32,3 +32,4 @@ Bacterial skin colonization with a specific Cutibacterium avidum clade as a risk
 Inhibition of Pseudomonas aeruginosa Biofilms Using Robust Silk Fibroin-Poly(ethyleneimine) Microparticles.|https://dx.doi.org/10.3390/polym17182470
 The Role of Probiotics in Healing Burns and Skin Wounds; An Integrative Approach in the Context of Regenerative Medicine.|https://dx.doi.org/10.3390/life15091434
 Orange Peel-Mediated Green Synthesis of ZnO and CuO Nanoparticles: Evaluation for Antimicrobial Activity and Biocompatibility in Tissue Engineering.|https://dx.doi.org/10.3390/ijms26188781
+Chitosan application in cosmetics and dermatology - antimicrobial and prebiotic potential to control human microbiome.|https://dx.doi.org/10.1016/j.jbiotec.2025.09.014
