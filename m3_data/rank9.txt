@@ -6,3 +6,4 @@ Preclinical evaluation of 6-Gingerol in modulating gut microbiota and SCFAs to m
 Cytochrome c adsorption on carboxylated surfaces: charge regulation and protein orientation modulated by surface curvature.|https://dx.doi.org/10.1039/d5nr02326b
 Microbiome signatures of Clostridioides difficile toxin production and toxin gene presence: a shotgun metagenomic approach.|https://dx.doi.org/10.1128/msphere.00435-25
 Climate links leaf shape variation and functional strategies in quinoa's wild ancestor.|https://dx.doi.org/10.1093/aobpla/plaf049
+Identification of risk factors for Clostridium difficile infection in older adult hospitalized patients with pressure ulcers.|https://dx.doi.org/10.3748/wjg.v31.i36.110355

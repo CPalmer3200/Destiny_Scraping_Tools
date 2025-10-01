@@ -6,3 +6,5 @@ Current Challenges in Encephalopathy Documentation and Coding.|https://dx.doi.or
 Proton Pump Inhibitors (PPIs)-An Evidence-Based Review of Indications, Efficacy, Harms, and Deprescribing.|https://dx.doi.org/10.3390/medicina61091569
 Increased Antimicrobial Consumption, Isolation Rate, and Resistance Profiles of Multi-Drug Resistant Klebsiella pneumoniae, Pseudomonas aeruginosa, and Acinetobacter baumannii During the COVID-19 Pandemic in a Tertiary Healthcare Institution.|https://dx.doi.org/10.3390/antibiotics14090871
 Health risks assessment of polycyclic aromatic hydrocarbons (PAHs) in meat kebabs through meta-analysis and Monte Carlo simulation.|https://dx.doi.org/10.1016/j.mex.2025.103502
+Investigation of a Salmonella Typhi cluster among a Pacific Islander labour community in a fruit industry: perspective from a regional public health unit.|https://dx.doi.org/10.33321/cdi.2025.49.032
+Probabilistic Human Risk Assessment of Potentially Toxic Elements in Planiliza klunzingeri and Sillago sihama Fish in Persian Gulf.|https://dx.doi.org/10.1007/s12011-025-04834-4
