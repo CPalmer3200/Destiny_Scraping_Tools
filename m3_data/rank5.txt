@@ -3,3 +3,4 @@ Comprehensive genomic analysis and antibiotic resistance profiles of Clostridioi
 β-Lactam Adjunctive Therapy Compared to Vancomycin or Daptomycin Monotherapy in Adult Patients With Methicillin-Resistant Staphylococcus aureus Bacteremia: An Update Systematic Review, Meta-Analysis, and Trial Sequential Analysis.|https://dx.doi.org/10.1155/cjid/3972494
 A novel case of prosthetic joint infection due to Clostridioides difficile successfully suppressed with oral doxycycline.|https://dx.doi.org/10.1099/acmi.0.000943.v3
 Use of primary oral vancomycin prophylaxis to stem an outbreak of Clostridioides difficile infection in intensive care patients.|https://dx.doi.org/10.1017/ash.2025.10095
+First Comprehensive Genome Analysis and Antimicrobial Resistance Profile of Clostridium innocuum from a Domestic Cat.|https://dx.doi.org/10.1016/j.micpath.2025.108076

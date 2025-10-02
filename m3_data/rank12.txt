@@ -6,3 +6,4 @@ Inclusion of Emergency Department attendance on classification of Clostridioides
 Fecal Metabolomics for the Diagnosis of Clostridioides difficile Infection.|https://dx.doi.org/10.3390/diagnostics15182331
 Prevalence and molecular types of Clostridioides (Clostridium) difficile on Australian retail vegetables and household surfaces.|https://dx.doi.org/10.1016/j.anaerobe.2025.103000
 Clostridioides difficile Infection in Healthy Children After Antibiotic Use: A Report of Two Cases.|https://dx.doi.org/10.7759/cureus.90928
+Virtual Screening and Multistage Computational Profiling of Small-Molecule Inhibitors Targeting Clostridioides difficile Toxin B.|https://dx.doi.org/10.1021/acs.jmedchem.5c01483
