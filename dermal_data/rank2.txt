@@ -1,0 +1,3 @@
+Transcriptomic insights into biofilm dynamics and therapeutic targets in chronic wound infections (MIMET 107281).|https://dx.doi.org/10.1016/j.mimet.2025.107281
+Diabetic Wound Repair: From Mechanism to Therapeutic Opportunities.|https://dx.doi.org/10.1002/mco2.70406
+Dose-response and efficacy of 660-nanometer low-level laser therapy in healing diabetic foot ulcers: a randomized, double-blind, clinical trial.|https://dx.doi.org/10.1007/s10103-025-04641-2
