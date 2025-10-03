@@ -2,3 +2,4 @@ Preparation and characterization of chitosan/hydroxyethyl cellulose interpenetra
 Piezoelectric and bactericidal effects of GaSe-loaded poly-L-lactic acid fibrous dressings under ultrasound stimulation for improved MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.115162
 Development and characterization of BSA-pullulan gel matrices incorporating orange peel flavonoids: Structural interactions and antimicrobial and antioxidant functionalities.|https://dx.doi.org/10.1016/j.foodchem.2025.146329
 Characterization of Chitosan Persian Gum Hydrogel Containing Jaft and Yarrow Extracts for Enhanced Wound Healing.|https://dx.doi.org/10.1155/bmri/5592896
+Multifunctional SISTP dressing integrating AI-screened hexapeptide for sustained antimicrobial release and redox homeostasis in infected wounds.|https://dx.doi.org/10.1088/1748-605X/ae0ef4
