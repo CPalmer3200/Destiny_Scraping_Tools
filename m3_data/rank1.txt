@@ -20,3 +20,4 @@ Effects of lyophilised faecal filtrate compared with lyophilised donor stool on 
 Compassionate Use of Encapsulated MKB-01 Fecal Microbiota Transplantation for Recurrent Clostridioides difficile Infection: A Single-Center Experience.|https://dx.doi.org/10.3390/microorganisms13092134
 Economic impact of multiple recurrent Clostridioides difficile infection in a community teaching hospital.|https://dx.doi.org/10.1017/ice.2025.10295
 Insights on recurrent and sequential Clostridioides difficile infections from genomic surveillance in Minnesota, USA, 2019-2021.|https://dx.doi.org/10.1093/infdis/jiaf505
+Clostridioides difficile pathogenesis and control.|https://dx.doi.org/10.1038/s41579-025-01242-2
