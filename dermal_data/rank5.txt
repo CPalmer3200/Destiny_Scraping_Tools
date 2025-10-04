@@ -5,3 +5,4 @@ Prophylactic efficacy of probiotics and their metabolites against Staphylococcus
 Evaluating Topical Nitric Oxide Formulations Against an Atopic Dermatitis Methicillin-Resistant S. Aureus Isolate in a Porcine Infection Model.|https://dx.doi.org/10.36849/JDD.8830
 A novel anti-PcrV monoclonal antibody inhibits toxin-mediated cytotoxicity and enhances survival in mouse models of Pseudomonas aeruginosa infection.|https://dx.doi.org/10.1080/21645515.2025.2567042
 A Bibliometric Review of Capsular Contracture in Breast Implant: Global Trends and Research Hotspots.|https://dx.doi.org/10.1177/22925503251379894
+Biofilm-disrupting heterojunction microneedles: dual ROS amplification and glucose deprivation for accelerated diabetic wound healing.|https://dx.doi.org/10.7150/thno.120787
