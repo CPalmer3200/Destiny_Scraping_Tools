@@ -7,3 +7,6 @@ Antibiotic Resistance and Molecular Characterization of Staphylococcus aureus St
 Temporal Shifts in Pathogen Profiles Due to the COVID-19 Pandemic in a Romanian Pediatric Tertiary Hospital.|https://dx.doi.org/10.3390/children12091258
 Nasal microbionts differentially colonize and elicit cytokines in human nasal epithelial organoids.|https://dx.doi.org/10.1128/msphere.00493-25
 Patient-Specific Coculture of S. aureus and P. aeruginosa Enhances Epithelial Barrier Disruption and Virulence in CRS.|https://dx.doi.org/10.1002/alr.70036
+[Case report. Job syndrome as an unusual finding in a pediatric patient].|https://dx.doi.org/10.29262/ram.v72i3.1494
+A novel cystic fibrosis mutation "delS1255" in a male diagnosed at birth.|https://dx.doi.org/10.1016/j.rmcr.2025.102286
+Epidemiology and antimicrobial resistance of pathogens in pediatric sinus infections: a retrospective study at a Japanese otolaryngology clinic (2023-2025).|https://dx.doi.org/10.3389/fcimb.2025.1662544
