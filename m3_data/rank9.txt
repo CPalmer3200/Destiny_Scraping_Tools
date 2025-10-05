@@ -7,3 +7,4 @@ Cytochrome c adsorption on carboxylated surfaces: charge regulation and protein 
 Microbiome signatures of Clostridioides difficile toxin production and toxin gene presence: a shotgun metagenomic approach.|https://dx.doi.org/10.1128/msphere.00435-25
 Climate links leaf shape variation and functional strategies in quinoa's wild ancestor.|https://dx.doi.org/10.1093/aobpla/plaf049
 Identification of risk factors for Clostridium difficile infection in older adult hospitalized patients with pressure ulcers.|https://dx.doi.org/10.3748/wjg.v31.i36.110355
+Impact of targeted interventions on healthcare-acquired infection prevention and control of Clostridium difficile infections.|https://dx.doi.org/10.1186/s13756-025-01616-4
