@@ -13,3 +13,13 @@ Antimicrobial Resistance and Biofilm Formation in Bacterial Species Isolated fro
 Repair Versus Replacement in Mitral Valve Endocarditis Due to Methicillin-Susceptible Staphylococcus aureus.|https://dx.doi.org/10.3390/pathogens14090839
 Antimicrobial Activity and Potential of Olive Leaf Extract as a Topical Agent to Combat Staphylococcus aureus and MRSA Strains: An In Vitro Evaluation.|https://dx.doi.org/10.3390/ph18091358
 Pyogenic Spondylodiscitis: Predictors of Microbiological Yield from Biopsy in a Tertiary Hospital.|https://dx.doi.org/10.3390/medicina61091591
+Bacteriophage combined with mNGS enhances the specificity of bacterial infection diagnosis.|https://dx.doi.org/10.1016/j.jinf.2025.106618
+Impact of COVID-19 on the prevalence of multi-drug-resistant bacteria: a literature review and meta-analysis.|https://dx.doi.org/10.1007/s10482-025-02181-x
+Efforts in surgical site infection surveillance at the Mbouo Protestant Hospital in Cameroon.|https://dx.doi.org/10.1186/s12893-025-03229-5
+Infective Endocarditis 19 Months After Transcatheter Ostium Secundum Atrial Septal Defect Closure in a 6-Year-Old.|https://dx.doi.org/10.1016/j.jaccas.2025.105273
+Percutaneous Orthotopic Transcatheter Tricuspid Valve Replacement for Native Valve Destruction After Endocarditis.|https://dx.doi.org/10.1016/j.jaccas.2025.105280
+Effectiveness of Maggot Debridement Therapy for Chronic Wounds: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.|https://dx.doi.org/10.1111/wrr.70095
+Mechanisms of antibiofilm compounds JG-1 and M4 across multiple species: alterations of protein interactions essential to biofilm formation.|https://dx.doi.org/10.3389/fcimb.2025.1631575
+Prophylactic efficacy of probiotics and their metabolites against Staphylococcus epidermidis.|https://dx.doi.org/10.1186/s12866-025-04382-w
+Multifunctional SISTP dressing integrating AI-screened hexapeptide for sustained antimicrobial release and redox homeostasis in infected wounds.|https://dx.doi.org/10.1088/1748-605X/ae0ef4
+Microbiology of acute complicated sinus infections in children following the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.ijporl.2025.112577

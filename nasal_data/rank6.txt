@@ -4,3 +4,6 @@ A multivalent mRNA-LNP cocktail vaccine confers superior efficacy against Staphy
 Characterisation of nasopharyngeal colonisation by Staphylococcus aureus and the factors associated with colonisation in comorbid adults in a low- and middle-income country.|https://dx.doi.org/10.1136/bmjresp-2025-003476
 A new efficient skin dressing based on sodium alginate - graphene oxide bionanocomposite hydrogel to expedite wound healing process.|https://dx.doi.org/10.1016/j.ijpharm.2025.126209
 Etiology and antimicrobial resistance patterns of sepsis in infants 0-59 days old in Jimma, Ethiopia: a longitudinal study.|https://dx.doi.org/10.1186/s13756-025-01626-2
+Multi-epitope vaccine construct against Staphylococcus aureus: insights from immunoinformatics and molecular dynamics simulations.|https://dx.doi.org/10.1080/1062936X.2025.2558784
+Vaccines as Potential Frontliners Against Antimicrobial Resistance (AMR): A Focused Review.|https://dx.doi.org/10.2147/IDR.S544665
+Comparison of Efficacy in the Treatment of Otomycosis using 10% Povidone-Iodine and Clotrimazole Solution: Randomized, Double-Blind Control Trial.|https://dx.doi.org/10.1055/s-0045-1810001

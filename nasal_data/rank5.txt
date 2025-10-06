@@ -6,3 +6,8 @@ An effective four-step approach in treating refractory seroma after mastectomy f
 The global, regional, and national burden of cancer, 1990-2023, with forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2023.|https://dx.doi.org/10.1016/S0140-6736(25)01635-6
 Electrocautery vs. Cold Cutting in Modified Radical Mastectomy: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm14186437
 Ultrasound-assisted periareolar oncoplastic approach in breast surgery: a focus on surgical technique.|https://dx.doi.org/10.3389/fsurg.2025.1623894
+Preoperative use of serotonergic antidepressants is associated with increased rates of complications and surgical revision in autologous breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2025.08.025
+Early Outcomes Using TIGR Mesh in Direct-to-Implant Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000007170
+Impact of non-tobacco nicotine use on postoperative complications in breast reduction: A propensity score-matched analysis.|https://dx.doi.org/10.1016/j.bjps.2025.08.030
+Subpectoral to prepectoral pocket change in implant-based breast reconstruction: A retrospective cohort study at a single institution.|https://dx.doi.org/10.1016/j.bjps.2025.09.005
+Bacteriology of non-oncologic post-operative breast infections: A retrospective cross-sectional study to guide empiric antibiotic coverage.|https://dx.doi.org/10.1016/j.bjps.2025.08.021
