@@ -4,3 +4,5 @@ Development and characterization of BSA-pullulan gel matrices incorporating oran
 Characterization of Chitosan Persian Gum Hydrogel Containing Jaft and Yarrow Extracts for Enhanced Wound Healing.|https://dx.doi.org/10.1155/bmri/5592896
 Multifunctional SISTP dressing integrating AI-screened hexapeptide for sustained antimicrobial release and redox homeostasis in infected wounds.|https://dx.doi.org/10.1088/1748-605X/ae0ef4
 Preparation and characterization of gallic acid-incorporated ZIF-11@sodium alginate/poly (vinylalcohol) nanocomposite hydrogels for antibacterial and wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148053
+Coumarin/nitrogen-bearing heterocyclic hybrid-loaded electrospun PMMA/PVP nanofibrous scaffolds for accelerating topical wound healing rates: synthesis and in vitro bio-evaluation.|https://dx.doi.org/10.1039/d5ra02535d
+Light-Mediated Antibacterial Activity of Composites of Polypyrrole and Green Zinc Oxide Nanoparticles Synthesized using Sarcomphalus joazeiro Extract.|https://dx.doi.org/10.1021/acsomega.5c03456
