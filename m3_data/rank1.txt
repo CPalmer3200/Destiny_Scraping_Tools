@@ -22,3 +22,4 @@ Economic impact of multiple recurrent Clostridioides difficile infection in a co
 Insights on recurrent and sequential Clostridioides difficile infections from genomic surveillance in Minnesota, USA, 2019-2021.|https://dx.doi.org/10.1093/infdis/jiaf505
 Clostridioides difficile pathogenesis and control.|https://dx.doi.org/10.1038/s41579-025-01242-2
 Unravelling three-way interactions between Clostridioides difficile, microbiota and the host.|https://dx.doi.org/10.1099/jmm.0.002067
+In primary CDI, fecal microbiota transplantation was noninferior to vancomycin for clinical cure at 14 d without recurrence at 60 d.|https://dx.doi.org/10.7326/ANNALS-25-03648-JC

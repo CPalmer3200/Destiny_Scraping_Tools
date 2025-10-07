@@ -5,3 +5,4 @@ A novel case of prosthetic joint infection due to Clostridioides difficile succe
 Use of primary oral vancomycin prophylaxis to stem an outbreak of Clostridioides difficile infection in intensive care patients.|https://dx.doi.org/10.1017/ash.2025.10095
 First Comprehensive Genome Analysis and Antimicrobial Resistance Profile of Clostridium innocuum from a Domestic Cat.|https://dx.doi.org/10.1016/j.micpath.2025.108076
 Emphysematous Gastritis in the Setting of Stage Four Colon Cancer After Radiation Therapy and Ongoing Chemotherapy: A Case Report.|https://dx.doi.org/10.7759/cureus.91398
+Evolving Patterns of Etiological Profiles and Susceptibility Trends of Healthcare-Associated Infections Since Inception: A Meta-Analysis.|https://dx.doi.org/10.7759/cureus.92260
