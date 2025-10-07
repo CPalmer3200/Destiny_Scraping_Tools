@@ -10,3 +10,4 @@ Patient-Specific Coculture of S. aureus and P. aeruginosa Enhances Epithelial Ba
 [Case report. Job syndrome as an unusual finding in a pediatric patient].|https://dx.doi.org/10.29262/ram.v72i3.1494
 A novel cystic fibrosis mutation "delS1255" in a male diagnosed at birth.|https://dx.doi.org/10.1016/j.rmcr.2025.102286
 Epidemiology and antimicrobial resistance of pathogens in pediatric sinus infections: a retrospective study at a Japanese otolaryngology clinic (2023-2025).|https://dx.doi.org/10.3389/fcimb.2025.1662544
+Dual Effects of Sodium Houttuyfonate Against Acute Rhinosinusitis: Antibacterial Action and Epithelial Barrier Repair Through the p38 MAPK/ERK Pathway.|https://dx.doi.org/10.2147/JIR.S539966
