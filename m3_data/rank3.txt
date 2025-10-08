@@ -9,3 +9,4 @@ Health risks assessment of polycyclic aromatic hydrocarbons (PAHs) in meat kebab
 Investigation of a Salmonella Typhi cluster among a Pacific Islander labour community in a fruit industry: perspective from a regional public health unit.|https://dx.doi.org/10.33321/cdi.2025.49.032
 Probabilistic Human Risk Assessment of Potentially Toxic Elements in Planiliza klunzingeri and Sillago sihama Fish in Persian Gulf.|https://dx.doi.org/10.1007/s12011-025-04834-4
 Health risks from persistent heavy metal contamination in crops and water at an abandoned naturally revegetated galamsey site in Ghana.|https://dx.doi.org/10.1038/s41598-025-17149-0
+Anti-tau VHH therapy against PHF6: a safe approach to slowing the phenotype of tau pathology.|https://dx.doi.org/10.1186/s13195-025-01823-6
