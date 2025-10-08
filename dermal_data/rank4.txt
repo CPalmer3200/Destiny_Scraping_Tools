@@ -6,3 +6,4 @@ Multifunctional SISTP dressing integrating AI-screened hexapeptide for sustained
 Preparation and characterization of gallic acid-incorporated ZIF-11@sodium alginate/poly (vinylalcohol) nanocomposite hydrogels for antibacterial and wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148053
 Coumarin/nitrogen-bearing heterocyclic hybrid-loaded electrospun PMMA/PVP nanofibrous scaffolds for accelerating topical wound healing rates: synthesis and in vitro bio-evaluation.|https://dx.doi.org/10.1039/d5ra02535d
 Light-Mediated Antibacterial Activity of Composites of Polypyrrole and Green Zinc Oxide Nanoparticles Synthesized using Sarcomphalus joazeiro Extract.|https://dx.doi.org/10.1021/acsomega.5c03456
+Conductive hydrogel with double network structure for robust and flexible wearable sensors.|https://dx.doi.org/10.1016/j.talanta.2025.128928
