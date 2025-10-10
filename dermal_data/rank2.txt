@@ -13,3 +13,10 @@ Diagnostic value of presepsin for severe diabetic food ulcers: A prospective obs
 Evaluation of pathogens isolated from wound infections and their antibiotic susceptibility profiles in a wound care unit.|https://dx.doi.org/10.3855/jidc.21082
 Budget Impact and Financial Analysis of Outpatient Dalbavancin in an Urban, Non-Teaching, Community Hospital.|https://dx.doi.org/10.1007/s40261-025-01486-z
 Reusable fiberglass and polyester combined total contact cast system for treatment of plantar diabetic foot ulcers: efficacy and cost-effectiveness.|https://dx.doi.org/10.3389/fendo.2025.1674774
+[Treatment progress and clinical strategies for ankle fractures combined with diabetes mellitus].|https://dx.doi.org/10.12200/j.issn.1003-0034.20241223
+[Application of vancomycin antibiotic bone cement combined with induced membrane skin grafting in the treatment of diabetic foot ulcer].|https://dx.doi.org/10.12200/j.issn.1003-0034.20250034
+[Correlation analysis of clinical features between wet and dry gangrene in diabetic foot].|https://dx.doi.org/10.12200/j.issn.1003-0034.20250032
+[Tibial transverse transport combined with antibiotic-loaded bone cement for the treatment of diabetic foot ulcer].|https://dx.doi.org/10.12200/j.issn.1003-0034.20240194
+Therapy with Vancomycin-Loaded Polymethylmethacrylate Cement Demonstrates Limited Advantage in the Treatment of Infected Diabetes-Related Foot Ulcers: Only Patients with Osteomyelitis Benefited.|https://dx.doi.org/10.1177/15347346251383638
+Boruta algorithm-guided antibiotic selection in antibiotic-loaded bone cement for diabetic foot ulcers: microbiota and susceptibility analysis.|https://dx.doi.org/10.3389/fphar.2025.1677198
+Challenges and Solutions in Advanced Management of Diabetic Foot Infections: A Review of Recent Studies.|https://dx.doi.org/10.1155/jdr/6715157
