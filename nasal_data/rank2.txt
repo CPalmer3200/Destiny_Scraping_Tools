@@ -11,3 +11,6 @@ Patient-Specific Coculture of S. aureus and P. aeruginosa Enhances Epithelial Ba
 A novel cystic fibrosis mutation "delS1255" in a male diagnosed at birth.|https://dx.doi.org/10.1016/j.rmcr.2025.102286
 Epidemiology and antimicrobial resistance of pathogens in pediatric sinus infections: a retrospective study at a Japanese otolaryngology clinic (2023-2025).|https://dx.doi.org/10.3389/fcimb.2025.1662544
 Dual Effects of Sodium Houttuyfonate Against Acute Rhinosinusitis: Antibacterial Action and Epithelial Barrier Repair Through the p38 MAPK/ERK Pathway.|https://dx.doi.org/10.2147/JIR.S539966
+Chaihu Guizhi decoction alleviates H1N1 influenza virus and Staphylococcus aureus co-infection in mice by reducing inflammatory cytokines and regulating Th17/Treg balance.|https://dx.doi.org/10.1016/j.jep.2025.120711
+Blood to the Bone: Epistaxis Leading to Osteomyelitis.|https://dx.doi.org/10.1155/carm/3934087
+Predictive Value of Methicillin-Resistant Staphylococcus aureus Nasal Swab PCR Assay for MRSA Pneumonia in Critically Ill Stroke Patients.|https://dx.doi.org/10.1177/10600280251372245
