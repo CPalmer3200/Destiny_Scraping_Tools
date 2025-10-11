@@ -1,1 +1,2 @@
 Proinflammatory pathways contribute to the pathogenesis of Clostridioides difficile infection in a murine model using Spatial transcriptomics.|https://dx.doi.org/10.1038/s41598-025-19106-3
+Experimental glycopeptide antibiotic EVG7 prevents recurrent Clostridioides difficile infection by sparing members of the Lachnospiraceae family.|https://dx.doi.org/10.1038/s41467-025-64067-w
