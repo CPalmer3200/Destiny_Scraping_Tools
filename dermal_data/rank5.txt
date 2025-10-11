@@ -8,3 +8,4 @@ A Bibliometric Review of Capsular Contracture in Breast Implant: Global Trends a
 Biofilm-disrupting heterojunction microneedles: dual ROS amplification and glucose deprivation for accelerated diabetic wound healing.|https://dx.doi.org/10.7150/thno.120787
 Dual-targeting amphiphilic lipopeptides combat multidrug-resistant Gram-positive pathogens by inhibiting type I signal peptidase and disrupting bacterial membrane.|https://dx.doi.org/10.1016/j.ejmech.2025.118244
 Proteomic and Phosphoproteomic Landscapes of Azole Resistance in Aspergillus fumigatus Biofilm Exposed to Voriconazole.|https://dx.doi.org/10.1007/s11046-025-01001-0
+Development of Metal Analogues of Prussian Blue@Silver Nanocomposites for the Treatment of Biofilm and Skin-Infections.|https://dx.doi.org/10.1111/apm.70073
