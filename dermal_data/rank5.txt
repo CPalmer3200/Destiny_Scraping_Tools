@@ -9,3 +9,4 @@ Biofilm-disrupting heterojunction microneedles: dual ROS amplification and gluco
 Dual-targeting amphiphilic lipopeptides combat multidrug-resistant Gram-positive pathogens by inhibiting type I signal peptidase and disrupting bacterial membrane.|https://dx.doi.org/10.1016/j.ejmech.2025.118244
 Proteomic and Phosphoproteomic Landscapes of Azole Resistance in Aspergillus fumigatus Biofilm Exposed to Voriconazole.|https://dx.doi.org/10.1007/s11046-025-01001-0
 Development of Metal Analogues of Prussian Blue@Silver Nanocomposites for the Treatment of Biofilm and Skin-Infections.|https://dx.doi.org/10.1111/apm.70073
+Site-Specific Antibacterial Strategy for Multi-Pathway Treatment of Drug-Resistant Skin Infections.|https://dx.doi.org/10.1002/adhm.202504240
