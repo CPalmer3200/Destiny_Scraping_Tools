@@ -1,2 +1,4 @@
 Possible link between clostridioides difficile infection and oral mucositis: insights from a large real-world dataset.|https://dx.doi.org/10.1016/j.oooo.2025.08.021
 Current practices to reduce the risk of transmission of Clostridioides difficile in France: results of a national survey.|https://dx.doi.org/10.1016/j.anaerobe.2025.103004
+Effects of Sexual Dimorphism and the Estrous Cycle on Clostridioides difficile Infection Prophylaxis in Two Rodent Models.|https://dx.doi.org/10.1021/acsinfecdis.5c00511
+Risk Factors and Outcomes of Clostridioides difficile Infection in Respiratory Intensive Care Unit Patients.|https://dx.doi.org/10.1111/crj.70130
