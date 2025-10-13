@@ -12,3 +12,4 @@ Uterine Dehiscence and Abdominal Wall Necrotizing Fasciitis Following Cesarean S
 Integration of chitosan-derived carbon dots and Carbomer hydrogel for sustained antibacterial and immunomodulatory efficacy in treating MRSA-infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148229
 Tannic-sodium ligninsulfonate self-assembled nanosphere enhanced hydrogel: A stretchable, antibacterial, and all-weather sensor for signal monitoring.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148215
 Photosensitive small intestinal submucosal hydrogels loaded with the KR-12-a5 peptide promote periodontal osteogenesis and antimicrobial activity.|https://dx.doi.org/10.1186/s12951-025-03601-w
+Near-infrared light-responsive multifunctional hydrogel for synergistic photothermal/photodynamic/gas therapy to treat MRSA infections and accelerate wound healing.|https://dx.doi.org/10.1016/j.jcis.2025.139168
