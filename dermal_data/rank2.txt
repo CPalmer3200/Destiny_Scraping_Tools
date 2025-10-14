@@ -22,3 +22,7 @@ Boruta algorithm-guided antibiotic selection in antibiotic-loaded bone cement fo
 Challenges and Solutions in Advanced Management of Diabetic Foot Infections: A Review of Recent Studies.|https://dx.doi.org/10.1155/jdr/6715157
 Bedside guillotine foot and ankle amputation in the emergency department due to necrotizing fasciitis.|https://dx.doi.org/10.1016/j.ajem.2025.10.002
 Thermosensitive hydrogel containing liposomal nanoparticles of deferoxamine and curcumin: In vitro evaluation and diabetic wound healing effect in rats.|https://dx.doi.org/10.1016/j.ijpharm.2025.126227
+Rare Pathogen in Diabetic Foot Gangrene: A Case of Wohlfahrtiimonas chitiniclastica Infection.|https://dx.doi.org/10.3791/68877
+GLP-1 Receptor Agonists as Emerging Modulators of Inflammation and Angiogenesis in Chronic Cutaneous Wound Healing.|https://dx.doi.org/10.1016/j.jid.2025.08.045
+A Common Infection From an Unexpected Culprit: Metatarsal Osteomyelitis Caused by Streptococcus milleri in a Patient With Type 3c Diabetes.|https://dx.doi.org/10.7759/cureus.94233
+Diagnostic value and integrated threshold of ESR for diabetic foot osteomyelitis: a systemic review and meta-analysis.|https://dx.doi.org/10.3389/fendo.2025.1660465

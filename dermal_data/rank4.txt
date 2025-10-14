@@ -13,3 +13,7 @@ Integration of chitosan-derived carbon dots and Carbomer hydrogel for sustained 
 Tannic-sodium ligninsulfonate self-assembled nanosphere enhanced hydrogel: A stretchable, antibacterial, and all-weather sensor for signal monitoring.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148215
 Photosensitive small intestinal submucosal hydrogels loaded with the KR-12-a5 peptide promote periodontal osteogenesis and antimicrobial activity.|https://dx.doi.org/10.1186/s12951-025-03601-w
 Near-infrared light-responsive multifunctional hydrogel for synergistic photothermal/photodynamic/gas therapy to treat MRSA infections and accelerate wound healing.|https://dx.doi.org/10.1016/j.jcis.2025.139168
+Synthesis and characterization of silver nanoparticle-loaded carboxymethylcellulose hydrogels: in vitro and in vivo evaluation of wound healing and antibacterial properties.|https://dx.doi.org/10.1007/s10561-025-10197-w
+Living bacteria-loaded antibacterial hydrogel-coated gauze: A revolutionary solution for multi-drug-resistant bacterial infections.|https://dx.doi.org/10.1016/j.mtbio.2025.102337
+Electrospun poly(ε-caprolactone)/silver nanoparticle nanofibrous scaffolds with antibacterial activity for wound-dressing applications.|https://dx.doi.org/10.1039/d5ra06746d
+An investigation into the potent anticancer, antimicrobial, and anti-inflammatory activities of a Punica granatum nanoemulgel.|https://dx.doi.org/10.37796/2211-8039.1663
