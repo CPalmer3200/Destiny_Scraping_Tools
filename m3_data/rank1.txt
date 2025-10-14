@@ -1,2 +1,4 @@
 Proinflammatory pathways contribute to the pathogenesis of Clostridioides difficile infection in a murine model using Spatial transcriptomics.|https://dx.doi.org/10.1038/s41598-025-19106-3
 Experimental glycopeptide antibiotic EVG7 prevents recurrent Clostridioides difficile infection by sparing members of the Lachnospiraceae family.|https://dx.doi.org/10.1038/s41467-025-64067-w
+Safety and efficacy of fecal microbiota transplantation versus antibiotics for treating clostridioides difficile infection: systematic review and meta-analysis.|https://dx.doi.org/10.1007/s10096-025-05278-3
+Efficacy and safety of faecal microbiota transplantation (FMT) in recurrent Clostridioides difficile infection: results of a single-centre retrospective study.|https://dx.doi.org/10.5114/pg.2025.154701
