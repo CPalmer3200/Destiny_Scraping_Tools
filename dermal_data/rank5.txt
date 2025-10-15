@@ -10,3 +10,4 @@ Dual-targeting amphiphilic lipopeptides combat multidrug-resistant Gram-positive
 Proteomic and Phosphoproteomic Landscapes of Azole Resistance in Aspergillus fumigatus Biofilm Exposed to Voriconazole.|https://dx.doi.org/10.1007/s11046-025-01001-0
 Development of Metal Analogues of Prussian Blue@Silver Nanocomposites for the Treatment of Biofilm and Skin-Infections.|https://dx.doi.org/10.1111/apm.70073
 Site-Specific Antibacterial Strategy for Multi-Pathway Treatment of Drug-Resistant Skin Infections.|https://dx.doi.org/10.1002/adhm.202504240
+Preparation of tuna skin gelatin-polyphenol intelligent packaging film and its application in the preservation of tuna.|https://dx.doi.org/10.1016/j.foodchem.2025.146621
