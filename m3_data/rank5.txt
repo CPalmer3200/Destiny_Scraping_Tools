@@ -1,2 +1,3 @@
 Clostridioides difficile Bacteremia in an Elderly Female Patient After Colon Cancer Surgery.|https://dx.doi.org/10.2147/IDR.S557503
 A randomized phase 1 study investigating gut microbiome changes with moxifloxacin vs. oral vancomycin: Implications for Clostridioides difficile risk.|https://dx.doi.org/10.1093/infdis/jiaf512
+Antimicrobial susceptibility of Clostridioides difficile. An Argentinian multicenter study of isolates from human patients.|https://dx.doi.org/10.1016/j.ram.2025.09.006
