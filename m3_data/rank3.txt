@@ -2,3 +2,5 @@ Mechanical bowel preparation plus oral antibiotics reduces surgical site infecti
 Has systemic thrombolysis run its course? A systematic review and network meta-analysis of patients with intermediate- and high-risk pulmonary embolism.|https://dx.doi.org/10.1016/j.thromres.2025.109503
 Analysis of the Stability of Compounded Vancomycin Hydrochloride Oral Solution: A Comparison Between Formulations Prepared Using a Commercial Product and Using the Pure Active Ingredient.|https://dx.doi.org/10.7759/cureus.91993
 Psychiatric Comorbidities and Quality-of-Life Burden in Pediatric Patients With Vitiligo: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/pde.70066
+Trends in Clostridioides difficile infection prevalence among pediatric cancer patients: A systematic review and meta-analysis.|https://dx.doi.org/10.1371/journal.pone.0333962
+Improving health literacy and patient-directed knowledge of fecal microbiota transplantation (FMT) through analysis of readability: a cross sectional infodemiology study.|https://dx.doi.org/10.1080/14712598.2025.2576509

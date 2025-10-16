@@ -2,3 +2,5 @@ Proinflammatory pathways contribute to the pathogenesis of Clostridioides diffic
 Experimental glycopeptide antibiotic EVG7 prevents recurrent Clostridioides difficile infection by sparing members of the Lachnospiraceae family.|https://dx.doi.org/10.1038/s41467-025-64067-w
 Safety and efficacy of fecal microbiota transplantation versus antibiotics for treating clostridioides difficile infection: systematic review and meta-analysis.|https://dx.doi.org/10.1007/s10096-025-05278-3
 Efficacy and safety of faecal microbiota transplantation (FMT) in recurrent Clostridioides difficile infection: results of a single-centre retrospective study.|https://dx.doi.org/10.5114/pg.2025.154701
+A sucrose-rich diet promotes Clostridioides difficile carriage without prior antibiotics and significantly exacerbates both acute disease and long-term colonization.|https://dx.doi.org/10.1080/19490976.2025.2566302
+Quantitative summarization of high-touch surfaces and epidemiological parameters of Clostridioides difficile acquisition and transmission for mathematical modeling: a systematic review.|https://dx.doi.org/10.1017/ice.2025.10302
