@@ -7,3 +7,12 @@ Etiology and antimicrobial resistance patterns of sepsis in infants 0-59 days ol
 Multi-epitope vaccine construct against Staphylococcus aureus: insights from immunoinformatics and molecular dynamics simulations.|https://dx.doi.org/10.1080/1062936X.2025.2558784
 Vaccines as Potential Frontliners Against Antimicrobial Resistance (AMR): A Focused Review.|https://dx.doi.org/10.2147/IDR.S544665
 Comparison of Efficacy in the Treatment of Otomycosis using 10% Povidone-Iodine and Clotrimazole Solution: Randomized, Double-Blind Control Trial.|https://dx.doi.org/10.1055/s-0045-1810001
+Isotype conversion of Staphylococcal-specific IgG into IgM broadens the reactivity to other bacterial pathogens.|https://dx.doi.org/10.1016/j.xcrm.2025.102414
+Determination of Potential Inhibitors against Mycobacterium tuberculosis, Staphylococcus aureus, and Helicobacter pylori Shikimate Dehydrogenase by using Virtual Screening.|https://dx.doi.org/10.2174/0113816128402191250917111355
+The burden of bacterial antimicrobial resistance in the WHO Eastern Mediterranean Region 1990-2021: a cross-country systematic analysis with forecasts to 2050.|https://dx.doi.org/10.1016/S2468-2667(25)00201-4
+Alpha-toxin-elicited CX(3)CL1 release in Staphylococcus aureus pneumonia impairs bactericidal function of human monocytes.|https://dx.doi.org/10.1128/mbio.02689-25
+Pathogen-specific kinetics of oxidative burst in camel leukocytes: Influence of serum opsonization on reactive oxygen species production.|https://dx.doi.org/10.14202/vetworld.2025.2252-2263
+Alpha hemolysin enhances the immune response by modulating dendritic cell differentiation via ADAM10-Notch signaling.|https://dx.doi.org/10.1038/s41392-025-02432-3
+Time trends in the burden of non-COVID-19 lower respiratory tract infections among children aged 0 to 14 years.|https://dx.doi.org/10.3389/fcimb.2025.1582159
+Development of a novel rapid visual LAMP platform for detection of methicillin-resistant Staphylococcus aureus (MRSA) in food.|https://dx.doi.org/10.1039/d5ay01288k
+The impact of interferon-γ pathway on trained immunity induction by vaccination with Bacille Calmette-Guérin.|https://dx.doi.org/10.1038/s41598-025-16350-5

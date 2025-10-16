@@ -23,3 +23,11 @@ Mechanisms of antibiofilm compounds JG-1 and M4 across multiple species: alterat
 Prophylactic efficacy of probiotics and their metabolites against Staphylococcus epidermidis.|https://dx.doi.org/10.1186/s12866-025-04382-w
 Multifunctional SISTP dressing integrating AI-screened hexapeptide for sustained antimicrobial release and redox homeostasis in infected wounds.|https://dx.doi.org/10.1088/1748-605X/ae0ef4
 Microbiology of acute complicated sinus infections in children following the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.ijporl.2025.112577
+Microbiome-Targeted Probiotic Strategies for the Prevention and Treatment of Osteomyelitis: A Novel Biological Approach.|https://dx.doi.org/10.1007/s12602-025-10780-3
+Orthopedic Device-related Infections in Children: Characteristics, Treatment and Outcomes.|https://dx.doi.org/10.1097/INF.0000000000005017
+Lyophilized horizontal platelet rich fibrin promotes the healing of infected burns/wounds by modulating macrophage polarization and fibroblast migration.|https://dx.doi.org/10.3389/fbioe.2025.1666265
+Study on the antibacterial activity and biocompatibility of nano-silver/carbon nanotube composite coatings on airway stents prepared by micro-transfer printing.|https://dx.doi.org/10.1038/s41598-025-19694-0
+Epidemiology of Non-central Line-associated Primary Bloodstream Infections in a network of Indian Hospitals: A Prospective Surveillance Study over 7 years (2017-2024).|https://dx.doi.org/10.1016/j.ijid.2025.108126
+Diversity, Isolation and Bioactive Secondary Metabolites of Endophytic Fungi in Duchesnea indica (Andr.) Focke.|https://dx.doi.org/10.1007/s00284-025-04523-4
+Exploring the Link Between Causative Agents of Healthcare-Associated Infections and Predisposing Factors Causing Extended Hospital Stays.|https://dx.doi.org/10.7759/cureus.94309
+3D Printing of Bacteriophage-Loaded Hydrogels: Development of a Local and Long-Lasting Delivery System.|https://dx.doi.org/10.1002/adhm.202503113
