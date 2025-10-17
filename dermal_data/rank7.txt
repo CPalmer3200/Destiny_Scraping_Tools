@@ -4,3 +4,4 @@ Protein-capped mesoporous silica SBA-15 enables protease-responsive and controll
 Fossilisation of Fish Soft Tissue in Oxidative Microniches of Anoxic Sediments.|https://dx.doi.org/10.1111/1462-2920.70188
 The leishmaniases in Kenya: a scoping review sub-analysis of diagnostics.|https://dx.doi.org/10.1136/bmjopen-2025-100230
 Unveiling water quality and health risks from groundwater chemicals in Poyang Lake basin of China: a sophisticated analysis.|https://dx.doi.org/10.7717/peerj.19937
+Immunization with VLP-based vaccines induces high IgG antibody titers in dermal interstitial fluid.|https://dx.doi.org/10.1038/s41541-025-01266-y

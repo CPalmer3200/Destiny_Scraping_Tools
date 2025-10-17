@@ -11,3 +11,6 @@ Proteomic and Phosphoproteomic Landscapes of Azole Resistance in Aspergillus fum
 Development of Metal Analogues of Prussian Blue@Silver Nanocomposites for the Treatment of Biofilm and Skin-Infections.|https://dx.doi.org/10.1111/apm.70073
 Site-Specific Antibacterial Strategy for Multi-Pathway Treatment of Drug-Resistant Skin Infections.|https://dx.doi.org/10.1002/adhm.202504240
 Preparation of tuna skin gelatin-polyphenol intelligent packaging film and its application in the preservation of tuna.|https://dx.doi.org/10.1016/j.foodchem.2025.146621
+Two-Dimensional Inorganic Materials for Skin Wound Healing: Multifunctionality, Challenges, and Opportunities.|https://dx.doi.org/10.1002/smll.202507423
+Pseudomonas aeruginosa Pathogenicity and Its Interaction with Other Microorganisms During the Skin Wound Healing Process.|https://dx.doi.org/10.3390/ijms26199677
+Unveiling the Microbiome's Role in Hidradenitis Suppurativa: A Comprehensive Review of Pathogenetic Mechanisms.|https://dx.doi.org/10.3390/ijms26199542

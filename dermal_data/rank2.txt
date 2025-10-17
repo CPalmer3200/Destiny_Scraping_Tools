@@ -28,3 +28,9 @@ A Common Infection From an Unexpected Culprit: Metatarsal Osteomyelitis Caused b
 Diagnostic value and integrated threshold of ESR for diabetic foot osteomyelitis: a systemic review and meta-analysis.|https://dx.doi.org/10.3389/fendo.2025.1660465
 Use of thermal imaging in the detection of the diabetic foot- review.|https://dx.doi.org/10.1007/s11154-025-09999-w
 Revolutionizing Diabetic Foot Ulcer Management: Exploring the Therapeutic Potential of Natural Products.|https://dx.doi.org/10.2174/0113816128398467250922104224
+Vascular Intervention for the Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.06.012
+Approach to Partial Foot Amputations.|https://dx.doi.org/10.1016/j.cpm.2025.06.006
+Surgical Offloading in the Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.06.009
+Antibiotic Therapy in the Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.06.013
+The Evolution of the Multidisciplinary Approach to the Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.06.001
+Real-World Use of Dalbavancin in Diabetic Foot Osteomyelitis: PEDDAL Study.|https://dx.doi.org/10.3390/jcm14196705

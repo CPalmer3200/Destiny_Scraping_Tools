@@ -18,3 +18,10 @@ Living bacteria-loaded antibacterial hydrogel-coated gauze: A revolutionary solu
 Electrospun poly(ε-caprolactone)/silver nanoparticle nanofibrous scaffolds with antibacterial activity for wound-dressing applications.|https://dx.doi.org/10.1039/d5ra06746d
 An investigation into the potent anticancer, antimicrobial, and anti-inflammatory activities of a Punica granatum nanoemulgel.|https://dx.doi.org/10.37796/2211-8039.1663
 Hydrogel Films as Chlorine Reservoirs: Uptake, Release, and Biological Studies.|https://dx.doi.org/10.1021/acs.langmuir.5c04505
+Antibiotic-free silk sericin hydrogel with antibacterial and antioxidative dual functionalities promotes wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.147886
+Polyurethane-based bilayer wound dressing with snail mucin, Calendula extract, and zinc-doped carbon dots for enhanced therapeutic and antibacterial performance.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148314
+Promotes MRSA infected wound healing by using photothermal responsive and ROS generating black phosphorus nano colloids enhanced hydrogel.|https://dx.doi.org/10.1016/j.colsurfb.2025.115202
+Flexible wearable hydrogel patch integrated with a "sponge-like" cellulose SERS chip for sweat analysis of urea and lactate.|https://dx.doi.org/10.1016/j.talanta.2025.128977
+Multifunctional Electrospun Materials from Poly(Vinyl Alcohol)/Chitosan and Polylactide Incorporating Rosmarinic Acid and Lidocaine with Antioxidant and Antimicrobial Properties.|https://dx.doi.org/10.3390/polym17192657
+Development and Characterization of Effective Hemostatic Composites Based on Polyvinyl Alcohol/Kaolinite/Chitosan.|https://dx.doi.org/10.3390/polym17192637
+Protamine-loaded quaternized chitosan hydrogel dressing featuring antibacterial and antioxidant properties for promoting postoperative periodontal wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148259
