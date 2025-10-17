@@ -17,3 +17,4 @@ Predictive Value of Methicillin-Resistant Staphylococcus aureus Nasal Swab PCR A
 Nasal Colonizing Vancomycin-Resistant and Intermediate Staphylococcus aureus Among Admitted Patients: A Hospital Based Cross-Sectional Study.|https://dx.doi.org/10.1002/hsr2.71323
 Molecular identification of antibiotic-resistant and virulent Escherichia coli and Staphylococcus aureus isolated from dogs in Southern Benin.|https://dx.doi.org/10.5455/javar.2025.l907
 Multimodal assessment of the prevention of surgical site infections in breast surgery in a French university hospital.|https://dx.doi.org/10.1186/s13756-025-01637-z
+Multiple effects of the bacterial DNA-binding protein SarA on the life cycle of Staphylococcus aureus phages.|https://dx.doi.org/10.1128/jb.00279-25

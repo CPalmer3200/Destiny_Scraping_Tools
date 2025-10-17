@@ -31,3 +31,13 @@ Epidemiology of Non-central Line-associated Primary Bloodstream Infections in a 
 Diversity, Isolation and Bioactive Secondary Metabolites of Endophytic Fungi in Duchesnea indica (Andr.) Focke.|https://dx.doi.org/10.1007/s00284-025-04523-4
 Exploring the Link Between Causative Agents of Healthcare-Associated Infections and Predisposing Factors Causing Extended Hospital Stays.|https://dx.doi.org/10.7759/cureus.94309
 3D Printing of Bacteriophage-Loaded Hydrogels: Development of a Local and Long-Lasting Delivery System.|https://dx.doi.org/10.1002/adhm.202503113
+Success rates of meticillin-resistant Staphylococcus aureus (MRSA) decolonization and factors associated with failure over a 16-year-period - an observational study.|https://dx.doi.org/10.1016/j.jhin.2025.10.002
+Antibacterial property of lead telluride quantum dot layer fabricated on glass substrate.|https://dx.doi.org/10.1371/journal.pone.0334629
+Factors Associated with In-Hospital Mortality in Adult Patients with Community-Acquired Staphylococcus aureus Bacteremia: A Cross-Sectional Study.|https://dx.doi.org/10.30699/ijp.2025.2052150.3409
+Epidemiology of early-onset and late-onset invasive infections in Australian neonates and infants: a retrospective multicentre study.|https://dx.doi.org/10.1136/bmjph-2025-002733
+Transfer of microorganisms to and from textiles in healthcare settings: a systematic review.|https://dx.doi.org/10.1017/ice.2025.10299
+A Hybrid Approach in Treating a Mycotic Aneurism Caused by MRSA: A Case Report.|https://dx.doi.org/10.12659/AJCR.950007
+Extraction and Identification of the Bioactive Metabolites Produced by Curvularia inaequalis, an Endophytic Fungus Collected in Iran from Echium khuzistanicum Mozaff.|https://dx.doi.org/10.3390/molecules30193870
+Surgery in Staphylococcus aureus Infective Endocarditis: Clinical Outcomes, Neurological Sequelae, and Prognostic Implications.|https://dx.doi.org/10.3390/jcm14197114
+ESKAPE Pathogens in Bloodstream Infections: Dynamics of Antimicrobial Resistance from 2018 to 2024-A Single-Center Observational Study in Poland.|https://dx.doi.org/10.3390/jcm14196932
+Real-World Use of Dalbavancin in Diabetic Foot Osteomyelitis: PEDDAL Study.|https://dx.doi.org/10.3390/jcm14196705

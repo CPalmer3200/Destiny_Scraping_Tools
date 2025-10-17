@@ -16,3 +16,4 @@ Alpha hemolysin enhances the immune response by modulating dendritic cell differ
 Time trends in the burden of non-COVID-19 lower respiratory tract infections among children aged 0 to 14 years.|https://dx.doi.org/10.3389/fcimb.2025.1582159
 Development of a novel rapid visual LAMP platform for detection of methicillin-resistant Staphylococcus aureus (MRSA) in food.|https://dx.doi.org/10.1039/d5ay01288k
 The impact of interferon-γ pathway on trained immunity induction by vaccination with Bacille Calmette-Guérin.|https://dx.doi.org/10.1038/s41598-025-16350-5
+Zonal endothelial cell heterogeneity underlies murine renal vascular development.|https://dx.doi.org/10.1007/s10456-025-10000-0
