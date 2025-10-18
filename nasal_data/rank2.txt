@@ -18,3 +18,4 @@ Nasal Colonizing Vancomycin-Resistant and Intermediate Staphylococcus aureus Amo
 Molecular identification of antibiotic-resistant and virulent Escherichia coli and Staphylococcus aureus isolated from dogs in Southern Benin.|https://dx.doi.org/10.5455/javar.2025.l907
 Multimodal assessment of the prevention of surgical site infections in breast surgery in a French university hospital.|https://dx.doi.org/10.1186/s13756-025-01637-z
 Multiple effects of the bacterial DNA-binding protein SarA on the life cycle of Staphylococcus aureus phages.|https://dx.doi.org/10.1128/jb.00279-25
+Characterization and diversity of methicillin-resistant Staphylococcus aureus in two hospitals in Gabon.|https://dx.doi.org/10.1186/s12879-025-11727-3
