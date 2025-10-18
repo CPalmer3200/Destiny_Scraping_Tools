@@ -34,3 +34,6 @@ Surgical Offloading in the Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.
 Antibiotic Therapy in the Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.06.013
 The Evolution of the Multidisciplinary Approach to the Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.06.001
 Real-World Use of Dalbavancin in Diabetic Foot Osteomyelitis: PEDDAL Study.|https://dx.doi.org/10.3390/jcm14196705
+Exploring the Bioactive Compounds of Haematococcus pluvialis for Resistant-Antimicrobial Applications in Diabetic Foot Ulcers Control.|https://dx.doi.org/10.5812/ijpr-161297
+Mechanisms of microbial infection and wound healing in diabetic foot ulcer: pathogenicity in the inflammatory-proliferative phase, chronicity, and treatment strategies.|https://dx.doi.org/10.3389/fendo.2025.1657928
+Efficacy and Safety of Biomaterials and Antimicrobial Dressings in the Treatment of Diabetic Foot Ulcers: A Systematic Review and Network Meta-Analysis.|https://dx.doi.org/10.1155/jdr/1548984

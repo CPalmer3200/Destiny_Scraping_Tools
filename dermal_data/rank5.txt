@@ -14,3 +14,5 @@ Preparation of tuna skin gelatin-polyphenol intelligent packaging film and its a
 Two-Dimensional Inorganic Materials for Skin Wound Healing: Multifunctionality, Challenges, and Opportunities.|https://dx.doi.org/10.1002/smll.202507423
 Pseudomonas aeruginosa Pathogenicity and Its Interaction with Other Microorganisms During the Skin Wound Healing Process.|https://dx.doi.org/10.3390/ijms26199677
 Unveiling the Microbiome's Role in Hidradenitis Suppurativa: A Comprehensive Review of Pathogenetic Mechanisms.|https://dx.doi.org/10.3390/ijms26199542
+Microbiome-active drug delivery systems (MADDS): Leveraging microbial stimuli for controlled drug release.|https://dx.doi.org/10.1016/j.addr.2025.115720
+Anti-virulence peptides: a compromising strategy to treat Staphylococcus aureus chronic wound infection.|https://dx.doi.org/10.1080/1040841X.2025.2572800
