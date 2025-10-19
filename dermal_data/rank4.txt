@@ -25,3 +25,4 @@ Flexible wearable hydrogel patch integrated with a "sponge-like" cellulose SERS 
 Multifunctional Electrospun Materials from Poly(Vinyl Alcohol)/Chitosan and Polylactide Incorporating Rosmarinic Acid and Lidocaine with Antioxidant and Antimicrobial Properties.|https://dx.doi.org/10.3390/polym17192657
 Development and Characterization of Effective Hemostatic Composites Based on Polyvinyl Alcohol/Kaolinite/Chitosan.|https://dx.doi.org/10.3390/polym17192637
 Protamine-loaded quaternized chitosan hydrogel dressing featuring antibacterial and antioxidant properties for promoting postoperative periodontal wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148259
+Cationic carboxymethyl chitosan nanofibers embedded with silver nanoparticles for enhanced antibacterial applications.|https://dx.doi.org/10.1016/j.bpc.2025.107537
