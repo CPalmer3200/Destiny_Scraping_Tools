@@ -4,3 +4,6 @@ Safety and efficacy of fecal microbiota transplantation versus antibiotics for t
 Efficacy and safety of faecal microbiota transplantation (FMT) in recurrent Clostridioides difficile infection: results of a single-centre retrospective study.|https://dx.doi.org/10.5114/pg.2025.154701
 A sucrose-rich diet promotes Clostridioides difficile carriage without prior antibiotics and significantly exacerbates both acute disease and long-term colonization.|https://dx.doi.org/10.1080/19490976.2025.2566302
 Quantitative summarization of high-touch surfaces and epidemiological parameters of Clostridioides difficile acquisition and transmission for mathematical modeling: a systematic review.|https://dx.doi.org/10.1017/ice.2025.10302
+Risk Factors for Nosocomial Clostridioides Difficile Infection-Induced Diarrhea in Patients Receiving Enteral Feeding: A Scoping Review.|https://dx.doi.org/10.1016/j.jhin.2025.10.005
+Metabolic plasticity enables Clostridioides difficile growth in coculture with neutrophils and other mammalian cells.|https://dx.doi.org/10.1016/j.anaerobe.2025.103007
+A Rare Case of Severe Pelvic Organ Prolapse with Massive Perineal Hernia in a Nulliparous Woman: A Case Report and Literature Review.|https://dx.doi.org/10.3390/diagnostics15192481
