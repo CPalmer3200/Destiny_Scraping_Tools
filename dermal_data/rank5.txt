@@ -17,3 +17,5 @@ Unveiling the Microbiome's Role in Hidradenitis Suppurativa: A Comprehensive Rev
 Microbiome-active drug delivery systems (MADDS): Leveraging microbial stimuli for controlled drug release.|https://dx.doi.org/10.1016/j.addr.2025.115720
 Anti-virulence peptides: a compromising strategy to treat Staphylococcus aureus chronic wound infection.|https://dx.doi.org/10.1080/1040841X.2025.2572800
 Discovery of Ruthenium(Arene) Metalloantibiotics: Advancing Selective and Potent Therapeutics against Gram-Negative Acinetobacter baumannii.|https://dx.doi.org/10.1021/acs.jmedchem.5c00790
+Rational two-round modification for developing isopeptide bond-containing antimicrobial peptide with enhanced stability and potent activity against multidrug-resistant gram-negative bacteria.|https://dx.doi.org/10.1016/j.bcp.2025.117436
+Frontiers in the Management of Orthopaedic Periprosthetic Joint Infection.|https://dx.doi.org/10.1002/jor.70087

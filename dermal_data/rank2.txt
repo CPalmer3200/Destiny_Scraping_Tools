@@ -37,3 +37,5 @@ Real-World Use of Dalbavancin in Diabetic Foot Osteomyelitis: PEDDAL Study.|http
 Exploring the Bioactive Compounds of Haematococcus pluvialis for Resistant-Antimicrobial Applications in Diabetic Foot Ulcers Control.|https://dx.doi.org/10.5812/ijpr-161297
 Mechanisms of microbial infection and wound healing in diabetic foot ulcer: pathogenicity in the inflammatory-proliferative phase, chronicity, and treatment strategies.|https://dx.doi.org/10.3389/fendo.2025.1657928
 Efficacy and Safety of Biomaterials and Antimicrobial Dressings in the Treatment of Diabetic Foot Ulcers: A Systematic Review and Network Meta-Analysis.|https://dx.doi.org/10.1155/jdr/1548984
+Patterns of Arterial Obstruction in Chronic Limb-Threatening Ischemia: A Comprehensive Histopathological Analysis of Amputated Limbs.|https://dx.doi.org/10.1016/j.avsg.2025.10.005
+Comprehensive phytochemical mapping and biomedical evaluation of Lawsonia inermis L: a potential natural treatment for diabetic foot ulcers with wound healing and antimicrobial effects.|https://dx.doi.org/10.1016/j.fitote.2025.106939
