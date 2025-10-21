@@ -1,3 +1,4 @@
 SAIGE I: Staphylococcus aureus, Immunological, Genetic, and Environmental (SAIGE) Factors Contributing to Atopic Dermatitis and the Use of Ceramide-Containing Skincare.|https://dx.doi.org/10.36849/JDD.8591
 Antifungal, antibacterial, and anti-inflammatory activity of glycerol dithionomonolaurate, an analog of glycerol monolaurate.|https://dx.doi.org/10.1128/msphere.00318-25
 Role of Antimicrobial Peptides in the Pathogenesis of Atopic Dermatitis.|https://dx.doi.org/10.1111/1346-8138.17975
+Photodynamic inactivation of Staphylococcus aureus with rose bengal reduces superantigen activity.|https://dx.doi.org/10.3389/fimmu.2025.1655244

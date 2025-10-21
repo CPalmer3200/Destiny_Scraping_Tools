@@ -39,3 +39,5 @@ Mechanisms of microbial infection and wound healing in diabetic foot ulcer: path
 Efficacy and Safety of Biomaterials and Antimicrobial Dressings in the Treatment of Diabetic Foot Ulcers: A Systematic Review and Network Meta-Analysis.|https://dx.doi.org/10.1155/jdr/1548984
 Patterns of Arterial Obstruction in Chronic Limb-Threatening Ischemia: A Comprehensive Histopathological Analysis of Amputated Limbs.|https://dx.doi.org/10.1016/j.avsg.2025.10.005
 Comprehensive phytochemical mapping and biomedical evaluation of Lawsonia inermis L: a potential natural treatment for diabetic foot ulcers with wound healing and antimicrobial effects.|https://dx.doi.org/10.1016/j.fitote.2025.106939
+The lived reality of diabetic foot ulcers: a systematic review and meta-synthesis on patients' experiences and coping for a high-quality life.|https://dx.doi.org/10.1007/s40200-025-01726-1
+In vitro and clinical evaluation of platelet-rich plasma combined with angioplasty in diabetic foot treatment.|https://dx.doi.org/10.4239/wjd.v16.i10.110631

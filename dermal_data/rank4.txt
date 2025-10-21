@@ -28,3 +28,4 @@ Protamine-loaded quaternized chitosan hydrogel dressing featuring antibacterial 
 Cationic carboxymethyl chitosan nanofibers embedded with silver nanoparticles for enhanced antibacterial applications.|https://dx.doi.org/10.1016/j.bpc.2025.107537
 Near-infrared and pH dual-responsive chitosan/epigallocatechin gallate/hollow CuS hydrogel reprograms ROS dynamics for infected wound healing.|https://dx.doi.org/10.1016/j.jcis.2025.139250
 Preparing a Dual-Species In Vitro Biofilm Model for Testing Antibiofilm Efficacy.|https://dx.doi.org/10.1021/acs.molpharmaceut.5c00798
+Antibacterial efficacy of a peptide co-assembled hydrogel matrix for wound care.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148388
