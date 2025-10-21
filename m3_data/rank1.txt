@@ -7,3 +7,5 @@ Quantitative summarization of high-touch surfaces and epidemiological parameters
 Risk Factors for Nosocomial Clostridioides Difficile Infection-Induced Diarrhea in Patients Receiving Enteral Feeding: A Scoping Review.|https://dx.doi.org/10.1016/j.jhin.2025.10.005
 Metabolic plasticity enables Clostridioides difficile growth in coculture with neutrophils and other mammalian cells.|https://dx.doi.org/10.1016/j.anaerobe.2025.103007
 A Rare Case of Severe Pelvic Organ Prolapse with Massive Perineal Hernia in a Nulliparous Woman: A Case Report and Literature Review.|https://dx.doi.org/10.3390/diagnostics15192481
+Microbiome and metabolome changes after fecal microbiota, live-jslm, administration are associated with health-related quality of life improvements.|https://dx.doi.org/10.1016/j.anaerobe.2025.103006
+Recurrent Clostridioides difficile Infections.|https://dx.doi.org/10.1001/jama.2025.18089

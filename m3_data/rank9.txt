@@ -1,3 +1,6 @@
 [The 512th case: fever, cough, acute kidney injury].|https://dx.doi.org/10.3760/cma.j.cn112138-20250706-00391
 Association of appropriate empiric antimicrobial therapy with acute kidney injury in gram-negative sepsis.|https://dx.doi.org/10.1177/17511437251377990
 C. difficile Infection in Colorectal Cancer: Risk Determinants, Outcomes, and Evolving Management Approaches.|https://dx.doi.org/10.1007/s12029-025-01321-w
+Complicated Ulcerative Colitis in Pregnancy Due to Treatment Nonadherence: A Case Presenting As Suspected Appendicitis.|https://dx.doi.org/10.7759/cureus.92477
+Para-Cresol and the Brain: Emerging Role in Neurodevelopmental and Neurodegenerative Disorders and Therapeutic Perspectives.|https://dx.doi.org/10.1021/acsptsci.5c00289
+Inflammatory Bowel Disease and Adverse Outcomes After Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.2106/JBJS.OA.25.00107
