@@ -9,3 +9,5 @@ Metabolic plasticity enables Clostridioides difficile growth in coculture with n
 A Rare Case of Severe Pelvic Organ Prolapse with Massive Perineal Hernia in a Nulliparous Woman: A Case Report and Literature Review.|https://dx.doi.org/10.3390/diagnostics15192481
 Microbiome and metabolome changes after fecal microbiota, live-jslm, administration are associated with health-related quality of life improvements.|https://dx.doi.org/10.1016/j.anaerobe.2025.103006
 Recurrent Clostridioides difficile Infections.|https://dx.doi.org/10.1001/jama.2025.18089
+Restoration of the Mucosal Barrier by Lactobacillus gasseri HDS0266 and Enterococcus faecium HDS0288 in Dextran Sodium Sulfate and Clostridioides difficile-Induced Colitis Mice.|https://dx.doi.org/10.1007/s12602-025-10798-7
+New investigational agents for the treatment of clostridioides difficile infections.|https://dx.doi.org/10.1080/13543784.2025.2579016
