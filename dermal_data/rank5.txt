@@ -20,3 +20,4 @@ Discovery of Ruthenium(Arene) Metalloantibiotics: Advancing Selective and Potent
 Rational two-round modification for developing isopeptide bond-containing antimicrobial peptide with enhanced stability and potent activity against multidrug-resistant gram-negative bacteria.|https://dx.doi.org/10.1016/j.bcp.2025.117436
 Frontiers in the Management of Orthopaedic Periprosthetic Joint Infection.|https://dx.doi.org/10.1002/jor.70087
 Calcaneal Candida parapsilosis Osteomyelitis Causing Chronic Achilles Pain Following Achilles Corticosteroid Injection: A Case Report.|https://dx.doi.org/10.7759/cureus.92574
+Staphylococcus aureus: Antimicrobial resistance, quorum sensing, and antibiofilm approaches.|https://dx.doi.org/10.1556/1886.2025.00050
