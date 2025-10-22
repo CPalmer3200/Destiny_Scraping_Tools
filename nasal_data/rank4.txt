@@ -1,2 +1,3 @@
 Mechanical bowel preparation plus oral antibiotics reduces surgical site infection and anastomotic leak rates in elective colorectal cancer surgery: A systematic review and meta-analysis of randomised controlled trials.|https://dx.doi.org/10.1111/codi.70263
 Antibiotics and Surgical Site Infection in Expander-Based Breast Reconstruction Trial (ASSERT).|https://dx.doi.org/10.1245/s10434-025-18472-6
+Guideline-concordant antibiotic prescribing for community-acquired bacterial pneumonia (CABP) due to drug-resistant pathogens in the All of Us database.|https://dx.doi.org/10.1017/cts.2025.10143
