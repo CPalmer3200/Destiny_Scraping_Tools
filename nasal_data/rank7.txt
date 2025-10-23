@@ -41,3 +41,9 @@ Extraction and Identification of the Bioactive Metabolites Produced by Curvulari
 Surgery in Staphylococcus aureus Infective Endocarditis: Clinical Outcomes, Neurological Sequelae, and Prognostic Implications.|https://dx.doi.org/10.3390/jcm14197114
 ESKAPE Pathogens in Bloodstream Infections: Dynamics of Antimicrobial Resistance from 2018 to 2024-A Single-Center Observational Study in Poland.|https://dx.doi.org/10.3390/jcm14196932
 Real-World Use of Dalbavancin in Diabetic Foot Osteomyelitis: PEDDAL Study.|https://dx.doi.org/10.3390/jcm14196705
+Pediatric necrotizing soft tissue infection: unveiling a rare complication of routine procedures - peripheral venous catheter insertion.|https://dx.doi.org/10.1186/s12887-025-06240-0
+Prevalence and associated factors of methicillin-resistant and vancomycin-susceptible Staphylococcus aureus among clinical isolates at Hawassa university comprehensive specialized hospital, Ethiopia, 2019-2023.|https://dx.doi.org/10.1186/s12879-025-11842-1
+Surgical lead extraction for pacemaker infection with tricuspid valve repair: A case report.|https://dx.doi.org/10.1177/2050313X251368057
+Clinical features and sequelae of pediatric osteomyelitis following surgical treatment: a 10-year retrospective study.|https://dx.doi.org/10.1186/s12879-025-11795-5
+Silent but Significant: A Case of Indwelling Chemoport-Associated Eustachian Valve Endocarditis.|https://dx.doi.org/10.7759/cureus.92736
+Hyaluronic acid-based bilayer microneedles integrating a polydopamine-indocyanine green nanoplatform and curcumin for near-infrared-activated antibacterial therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148416

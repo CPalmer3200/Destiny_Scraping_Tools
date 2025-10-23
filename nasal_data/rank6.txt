@@ -17,3 +17,5 @@ Time trends in the burden of non-COVID-19 lower respiratory tract infections amo
 Development of a novel rapid visual LAMP platform for detection of methicillin-resistant Staphylococcus aureus (MRSA) in food.|https://dx.doi.org/10.1039/d5ay01288k
 The impact of interferon-γ pathway on trained immunity induction by vaccination with Bacille Calmette-Guérin.|https://dx.doi.org/10.1038/s41598-025-16350-5
 Zonal endothelial cell heterogeneity underlies murine renal vascular development.|https://dx.doi.org/10.1007/s10456-025-10000-0
+Predictors of respiratory failure and survival in myotonic dystrophy type 1.|https://dx.doi.org/10.1177/22143602251386258
+Relationship Between Group 3 Innate Lymphoid Cells and Th17 in Human Nasopharynx-Associated Lymphoid Tissue and the Association With Pneumococcal Carriage.|https://dx.doi.org/10.1093/infdis/jiaf488

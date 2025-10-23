@@ -19,3 +19,6 @@ Molecular identification of antibiotic-resistant and virulent Escherichia coli a
 Multimodal assessment of the prevention of surgical site infections in breast surgery in a French university hospital.|https://dx.doi.org/10.1186/s13756-025-01637-z
 Multiple effects of the bacterial DNA-binding protein SarA on the life cycle of Staphylococcus aureus phages.|https://dx.doi.org/10.1128/jb.00279-25
 Characterization and diversity of methicillin-resistant Staphylococcus aureus in two hospitals in Gabon.|https://dx.doi.org/10.1186/s12879-025-11727-3
+Nasal irrigation as an alternate method to monitor airway microbiology in cystic fibrosis.|https://dx.doi.org/10.1016/j.jcf.2025.10.003
+Associations of NLR and SIRI with all-cause mortality among adults with nasal Staphylococcus aureus colonisation: a cross-sectional study of NHANES, 2001-2004.|https://dx.doi.org/10.1136/bmjopen-2025-104399
+Decremental Volumes of Toilet Flushing Water Effects on Bioaerosol Emission Characteristics: Health Risks for Exposure Populations With Nasal/Oral Breathing Patterns.|https://dx.doi.org/10.1111/risa.70131
