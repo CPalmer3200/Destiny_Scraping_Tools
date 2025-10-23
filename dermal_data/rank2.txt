@@ -44,3 +44,4 @@ In vitro and clinical evaluation of platelet-rich plasma combined with angioplas
 In vitro and in vivo characterization of Bisphosphocin Nu-3-a novel broad-spectrum antimicrobial compound with high potency against resistant pathogens.|https://dx.doi.org/10.1128/aac.00948-25
 Association of Serum Vitamin D Status with Multidimensional Health Parameters in Patients with Diabetic Foot Infections: A Cross-Sectional Analysis in a Tertiary Healthcare Facility.|https://dx.doi.org/10.1177/15347346251385348
 Calcaneal Osteomyelitis: A Treatment Protocol.|https://dx.doi.org/10.1007/s43465-025-01457-8
+Can Microbes Predict Amputation Severity?|https://dx.doi.org/10.1177/15347346251383820
