@@ -11,3 +11,5 @@ Microbiome and metabolome changes after fecal microbiota, live-jslm, administrat
 Recurrent Clostridioides difficile Infections.|https://dx.doi.org/10.1001/jama.2025.18089
 Restoration of the Mucosal Barrier by Lactobacillus gasseri HDS0266 and Enterococcus faecium HDS0288 in Dextran Sodium Sulfate and Clostridioides difficile-Induced Colitis Mice.|https://dx.doi.org/10.1007/s12602-025-10798-7
 New investigational agents for the treatment of clostridioides difficile infections.|https://dx.doi.org/10.1080/13543784.2025.2579016
+Long-read metagenomics for strain tracking after faecal microbiota transplant.|https://dx.doi.org/10.1038/s41564-025-02164-8
+Addressing Unmet Needs in Clostridium difficile Infection: Advances in Diagnosis, Treatment, and Prevention.|https://dx.doi.org/10.2174/0109298673381785251008222034

@@ -5,3 +5,4 @@ Psychiatric Comorbidities and Quality-of-Life Burden in Pediatric Patients With 
 Trends in Clostridioides difficile infection prevalence among pediatric cancer patients: A systematic review and meta-analysis.|https://dx.doi.org/10.1371/journal.pone.0333962
 Improving health literacy and patient-directed knowledge of fecal microbiota transplantation (FMT) through analysis of readability: a cross sectional infodemiology study.|https://dx.doi.org/10.1080/14712598.2025.2576509
 Factors associated with repeat Clostridioides difficile testing in VA medical centers.|https://dx.doi.org/10.1017/ice.2025.10267
+Facilitation as an effective strategy to reduce excessive antibiotic prophylaxis in Children's hospitals: A stepped-wedge cluster randomized controlled trial.|https://dx.doi.org/10.1186/s13012-025-01455-2
