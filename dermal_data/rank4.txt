@@ -33,3 +33,6 @@ Super-stretchable, self-adhesive, self-healing, and antibacterial sodium alginat
 Therapeutic β-carotene-loaded inulin-based multifunctional hydrogel for full-thickness skin wounds with polymicrobial infections.|https://dx.doi.org/10.1016/j.carbpol.2025.124381
 Multifunctional self-healing hemicellulose-based hydrogel for antimicrobial wound dressings and motion-responsive wearable sensing.|https://dx.doi.org/10.1016/j.carbpol.2025.124364
 3D-printed chitosan-starch mesh filled with minocycline-alginate hydrogel for dual anti-Staphylococcus aureus and osteogenic effects.|https://dx.doi.org/10.1016/j.carbpol.2025.124311
+Synergistic effect of silver nanoparticles and titanium nanotubes loaded chitosan hydrogels for biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148460
+Spirulina protein isolate/carboxymethyl chitosan based emulsion gel with pH/enzyme-responsive release of curcumin for enhanced infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148456
+Engineered Transition Metal Oxide (TMO)-Encapsulated Salmon Skin-Based Bioadhesive Hydrogel Promotes Repair, Immuneregulation, and Neovascularization in MRSA-Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c15412
