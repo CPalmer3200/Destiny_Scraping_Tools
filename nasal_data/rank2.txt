@@ -22,3 +22,4 @@ Characterization and diversity of methicillin-resistant Staphylococcus aureus in
 Nasal irrigation as an alternate method to monitor airway microbiology in cystic fibrosis.|https://dx.doi.org/10.1016/j.jcf.2025.10.003
 Associations of NLR and SIRI with all-cause mortality among adults with nasal Staphylococcus aureus colonisation: a cross-sectional study of NHANES, 2001-2004.|https://dx.doi.org/10.1136/bmjopen-2025-104399
 Decremental Volumes of Toilet Flushing Water Effects on Bioaerosol Emission Characteristics: Health Risks for Exposure Populations With Nasal/Oral Breathing Patterns.|https://dx.doi.org/10.1111/risa.70131
+Zoonotic potential of methicillin-resistant Staphylococcus aureus isolated from pets and their owners in Bangladesh.|https://dx.doi.org/10.1038/s41598-025-02638-z

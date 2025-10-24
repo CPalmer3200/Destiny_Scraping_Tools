@@ -47,3 +47,13 @@ Surgical lead extraction for pacemaker infection with tricuspid valve repair: A 
 Clinical features and sequelae of pediatric osteomyelitis following surgical treatment: a 10-year retrospective study.|https://dx.doi.org/10.1186/s12879-025-11795-5
 Silent but Significant: A Case of Indwelling Chemoport-Associated Eustachian Valve Endocarditis.|https://dx.doi.org/10.7759/cureus.92736
 Hyaluronic acid-based bilayer microneedles integrating a polydopamine-indocyanine green nanoplatform and curcumin for near-infrared-activated antibacterial therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148416
+A Bench Study Comparing the Performance of a Novel Test Lung with a Conventional Model.|https://dx.doi.org/10.1016/j.rmed.2025.108451
+Vertebral bone marrow clot breakthrough: a powerful osteogenic and antibacterial scaffold for spinal fusion surgery.|https://dx.doi.org/10.1016/j.lfs.2025.124037
+Spirulina protein isolate/carboxymethyl chitosan based emulsion gel with pH/enzyme-responsive release of curcumin for enhanced infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148456
+Acid-Responsive Bimetallic Peroxide Composite Nanoplatform for Synergistic Therapy of Drug-Resistant Bacterial Infections via Inducing Oxidative Stress and Disrupting Bacterial Energy Metabolism.|https://dx.doi.org/10.1021/acsami.5c17878
+Epidemiology of bone and joint infection in Pacific children from the Auckland Region, 2018-2023.|https://dx.doi.org/10.26635/6965.6973
+Epidemiology and treatment of surgical infections after distal radius fractures: a systematic review.|https://dx.doi.org/10.1007/s00402-025-06061-x
+Cutaneous botryomycosis: a comprehensive review.|https://dx.doi.org/10.1007/s10096-025-05326-y
+Urease promotes pH homeostasis and growth of Staphylococcus aureus in skin-like conditions.|https://dx.doi.org/10.1128/jb.00208-25
+Hemolytic activity and antibiotic resistance profiles of Staphylococcus aureus isolates from clinical patients.|https://dx.doi.org/10.1128/spectrum.02074-25
+Bacterial contamination and infection control practices in the mortuary at Mbarara Regional Referral Hospital, Uganda.|https://dx.doi.org/10.1017/ash.2025.10131
