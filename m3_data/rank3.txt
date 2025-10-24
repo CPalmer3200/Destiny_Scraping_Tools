@@ -6,3 +6,4 @@ Trends in Clostridioides difficile infection prevalence among pediatric cancer p
 Improving health literacy and patient-directed knowledge of fecal microbiota transplantation (FMT) through analysis of readability: a cross sectional infodemiology study.|https://dx.doi.org/10.1080/14712598.2025.2576509
 Factors associated with repeat Clostridioides difficile testing in VA medical centers.|https://dx.doi.org/10.1017/ice.2025.10267
 Facilitation as an effective strategy to reduce excessive antibiotic prophylaxis in Children's hospitals: A stepped-wedge cluster randomized controlled trial.|https://dx.doi.org/10.1186/s13012-025-01455-2
+Influence of a microbiological commentary on the management of asymptomatic bacteriuria.|https://dx.doi.org/10.1017/ash.2025.10187
