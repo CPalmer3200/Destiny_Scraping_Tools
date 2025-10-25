@@ -36,3 +36,5 @@ Multifunctional self-healing hemicellulose-based hydrogel for antimicrobial woun
 Synergistic effect of silver nanoparticles and titanium nanotubes loaded chitosan hydrogels for biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148460
 Spirulina protein isolate/carboxymethyl chitosan based emulsion gel with pH/enzyme-responsive release of curcumin for enhanced infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148456
 Engineered Transition Metal Oxide (TMO)-Encapsulated Salmon Skin-Based Bioadhesive Hydrogel Promotes Repair, Immuneregulation, and Neovascularization in MRSA-Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c15412
+pH-responsive PAM/Gel/QCS drug-loaded hydrogel with self-healing and antimicrobial properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148474
+Needle-Shaped ZnO/ZIF-L Hydrogel System for Bacterial pH-Responsive Detection and Synergistic Physical Disruption/Photodynamic Inactivation.|https://dx.doi.org/10.1021/acsabm.5c01562

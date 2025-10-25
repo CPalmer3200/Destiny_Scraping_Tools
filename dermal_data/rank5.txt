@@ -23,3 +23,4 @@ Calcaneal Candida parapsilosis Osteomyelitis Causing Chronic Achilles Pain Follo
 Staphylococcus aureus: Antimicrobial resistance, quorum sensing, and antibiofilm approaches.|https://dx.doi.org/10.1556/1886.2025.00050
 Biodegradable PLGA/Dextran-CHO/Amikacin scaffold for on-demand antibacterial activity and accelerated wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.115211
 Genome-wide screen reveals glycerol-induced aminoglycoside potentiation against Staphylococcus aureus via boosting GlpK-initiated energy metabolism.|https://dx.doi.org/10.1128/aac.00938-25
+Antibacterial mechanism of vitamin C against Staphylococcus aureus, reduction of toxicity of metabolites and its application in pasteurized milk.|https://dx.doi.org/10.1016/j.ijfoodmicro.2025.111492

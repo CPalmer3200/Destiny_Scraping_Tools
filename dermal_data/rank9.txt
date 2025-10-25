@@ -6,3 +6,5 @@ Staphylococcus aureus accessory gene regulator quorum-sensing system inhibits ke
 Cranial osteomyelitis in a patient with KID syndrome: Importance of thorough investigation in chronic wounds.|https://dx.doi.org/10.1111/ddg.15972
 Two-month-old with diffuse erythema: A case report.|https://dx.doi.org/10.1177/2050313X251377218
 Pediatric necrotizing soft tissue infection: unveiling a rare complication of routine procedures - peripheral venous catheter insertion.|https://dx.doi.org/10.1186/s12887-025-06240-0
+Epidemiological dynamics and rising trends of MRSA in Saudi Arabia: a 12-year observational study.|https://dx.doi.org/10.3389/fcimb.2025.1622647
+Genomic analysis of the Staphylococcus pseudintermedius mobilome associated with antimicrobial resistance.|https://dx.doi.org/10.3389/fmicb.2025.1640322
