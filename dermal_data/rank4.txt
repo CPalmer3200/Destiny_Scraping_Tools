@@ -38,3 +38,5 @@ Spirulina protein isolate/carboxymethyl chitosan based emulsion gel with pH/enzy
 Engineered Transition Metal Oxide (TMO)-Encapsulated Salmon Skin-Based Bioadhesive Hydrogel Promotes Repair, Immuneregulation, and Neovascularization in MRSA-Infected Wounds.|https://dx.doi.org/10.1021/acsami.5c15412
 pH-responsive PAM/Gel/QCS drug-loaded hydrogel with self-healing and antimicrobial properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148474
 Needle-Shaped ZnO/ZIF-L Hydrogel System for Bacterial pH-Responsive Detection and Synergistic Physical Disruption/Photodynamic Inactivation.|https://dx.doi.org/10.1021/acsabm.5c01562
+Dual-functional fluorescent probe Rhe-MU for hydrogen sulfide detection and its self-assembled hydrogel for MRSA antimicrobial.|https://dx.doi.org/10.1016/j.saa.2025.127088
+Lubricant and Antibacterial Hydrogel Coatings with Strong Substrate Adhesion Enabled by Waterborne Polyurethane.|https://dx.doi.org/10.1021/acsami.5c14770
