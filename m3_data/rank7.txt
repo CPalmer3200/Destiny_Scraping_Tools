@@ -1,1 +1,2 @@
 Implementation of Real-World Diagnostic Strategies in Taiwan for the Identification of Targetable Oncogenic Driver Alterations in Non-Small Cell Lung Cancer.|https://dx.doi.org/10.1200/GO-25-00144
+The pathogenic mutations in smokers with non-small cell lung cancer: a next-generation sequencing study.|https://dx.doi.org/10.21037/tlcr-2025-261
