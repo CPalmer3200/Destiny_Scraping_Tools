@@ -13,3 +13,5 @@ Restoration of the Mucosal Barrier by Lactobacillus gasseri HDS0266 and Enteroco
 New investigational agents for the treatment of clostridioides difficile infections.|https://dx.doi.org/10.1080/13543784.2025.2579016
 Long-read metagenomics for strain tracking after faecal microbiota transplant.|https://dx.doi.org/10.1038/s41564-025-02164-8
 Addressing Unmet Needs in Clostridium difficile Infection: Advances in Diagnosis, Treatment, and Prevention.|https://dx.doi.org/10.2174/0109298673381785251008222034
+Multiple episodes of paediatric Clostridioides difficile infection (pCDI) in the context of autoimmune polyendocrine syndrome type 1.|https://dx.doi.org/10.1136/bcr-2024-263544
+Epidemiology, recurrence, and mortality in patients with Clostridioides difficile: a nationwide surveillance study (2016-2022).|https://dx.doi.org/10.1080/20477724.2025.2580606

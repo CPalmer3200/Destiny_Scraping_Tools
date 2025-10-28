@@ -3,3 +3,4 @@ A randomized phase 1 study investigating gut microbiome changes with moxifloxaci
 Antimicrobial susceptibility of Clostridioides difficile. An Argentinian multicenter study of isolates from human patients.|https://dx.doi.org/10.1016/j.ram.2025.09.006
 A systematic literature review and bayesian meta-analysis of oral vancomycin primary prophylaxis for Clostridioides difficile infection in stem cell transplant patients.|https://dx.doi.org/10.1017/ash.2025.10179
 Frequency and antibiotic resistance profile of Clostridioides difficile among cancer patients in an adult hematology-oncology unit: Contributing factors and Follow up.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117147
+Environmental reservoirs of hypervirulent Clostridioides difficile: RT078 strains in wastewater and first detection of RT027 in shellfish in Taiwan.|https://dx.doi.org/10.1128/spectrum.01377-25
