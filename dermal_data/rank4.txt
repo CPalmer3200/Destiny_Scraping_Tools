@@ -40,3 +40,7 @@ pH-responsive PAM/Gel/QCS drug-loaded hydrogel with self-healing and antimicrobi
 Needle-Shaped ZnO/ZIF-L Hydrogel System for Bacterial pH-Responsive Detection and Synergistic Physical Disruption/Photodynamic Inactivation.|https://dx.doi.org/10.1021/acsabm.5c01562
 Dual-functional fluorescent probe Rhe-MU for hydrogen sulfide detection and its self-assembled hydrogel for MRSA antimicrobial.|https://dx.doi.org/10.1016/j.saa.2025.127088
 Lubricant and Antibacterial Hydrogel Coatings with Strong Substrate Adhesion Enabled by Waterborne Polyurethane.|https://dx.doi.org/10.1021/acsami.5c14770
+Reuterin integrated as dynamic imine crosslinks strengthens creatine modified chitosan hydrogel and boosts antibacterial efficacy.|https://dx.doi.org/10.1016/j.carres.2025.109716
+Antibiotic-Loaded Calcium Crosslinked Alginate Wound Dressings Fabricated via Pressurized Gas eXpanded Liquids Technology in Combination with Supercritical Adsorptive Precipitation for Treating Methicillin-Resistant Staphylococcus Infections.|https://dx.doi.org/10.1021/acsabm.5c00247
+Postoperative Staphylococcal Toxic Shock Syndrome in a Patient Following Right Knee Fracture Repair: A Case Report.|https://dx.doi.org/10.7759/cureus.93013
+Short-peptide based supramolecular nanocomposite hydrogels for the disruption of polymicrobial biofilms and accelerated infected wound healing.|https://dx.doi.org/10.1039/d5bm00761e
