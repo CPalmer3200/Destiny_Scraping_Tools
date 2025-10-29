@@ -44,3 +44,9 @@ Reuterin integrated as dynamic imine crosslinks strengthens creatine modified ch
 Antibiotic-Loaded Calcium Crosslinked Alginate Wound Dressings Fabricated via Pressurized Gas eXpanded Liquids Technology in Combination with Supercritical Adsorptive Precipitation for Treating Methicillin-Resistant Staphylococcus Infections.|https://dx.doi.org/10.1021/acsabm.5c00247
 Postoperative Staphylococcal Toxic Shock Syndrome in a Patient Following Right Knee Fracture Repair: A Case Report.|https://dx.doi.org/10.7759/cureus.93013
 Short-peptide based supramolecular nanocomposite hydrogels for the disruption of polymicrobial biofilms and accelerated infected wound healing.|https://dx.doi.org/10.1039/d5bm00761e
+Design and characterization of pectin-starch/organoclay-tea tree essential oil composite hydrogel beads as a gastrointestinal-specific sustained release system.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148562
+Closed-Loop Recyclable and Multifunctional Supramolecular Hydrogel from Reversible Ring-Opening Polymerization of Guanidine-Modified Thioctic Acid in Water.|https://dx.doi.org/10.1021/acsami.5c19237
+Antibacterial and Antibiofilm Efficacy of Graphene Oxide Nanomaterials against Gram-Positive Bacteria: Mechanistic Approaches to Understand the Membrane Damage and Oxidative Stress in Cells.|https://dx.doi.org/10.1021/acs.langmuir.5c03508
+Comparison of Wound Healing Efficiency Between Bacterial Cellulose Dry Membrane and Commercial Dressings.|https://dx.doi.org/10.3390/jfb16100366
+Hyaluronic Acid/Chitosan/Glycerophosphate-Based In Situ-Forming Hydrogel for Accelerated Wound Healing.|https://dx.doi.org/10.3390/gels11100835
+Biofunctional Polyvinyl Alcohol/Xanthan Gum/Gelatin Hydrogel Dressings Loaded with Curcumin: Antibacterial Properties and Cell Viability.|https://dx.doi.org/10.3390/gels11100764

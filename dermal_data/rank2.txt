@@ -49,3 +49,6 @@ Shifting the clinical paradigm: Copper versus silver wound dressings - Where we 
 Cerament® Bone Void Filler in Vascular Patients With Calcaneal Osteomyelitis: Outcomes From a Prospective Case Series.|https://dx.doi.org/10.1177/15385744251387555
 Angiography-Guided Limb Salvage Planning in a Surgical Candidate With Gas Gangrene of the Foot.|https://dx.doi.org/10.7759/cureus.92935
 Minimally Invasive Fifth Metatarsal Osteotomy and Bunionette Removal for Recurrent Diabetic Foot Ulcers: A Case Series.|https://dx.doi.org/10.1177/24730114251375029
+Ethacridine Targets Bacterial Biofilms in Diabetic Foot Ulcers: A Multi-Target Mechanism Revealed by Network Pharmacology, Molecular Docking, Molecular Dynamics Simulation, and Clinical RT-qPCR Validation.|https://dx.doi.org/10.3390/cimb47100870
+Prognostic role of HALP score, CRP/albumin ratio and CALLY index in diabetic foot ulcer-related major amputations.|https://dx.doi.org/10.1007/s00423-025-03884-5
+Screening for Peripheral Neuropathy and Peripheral Vascular Disease in Patients With Type 2 Diabetes Mellitus: A Community-Based Cross-Sectional Study From Rural Andhra Pradesh, India.|https://dx.doi.org/10.7759/cureus.93243

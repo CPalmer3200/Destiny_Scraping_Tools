@@ -24,3 +24,5 @@ Staphylococcus aureus: Antimicrobial resistance, quorum sensing, and antibiofilm
 Biodegradable PLGA/Dextran-CHO/Amikacin scaffold for on-demand antibacterial activity and accelerated wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.115211
 Genome-wide screen reveals glycerol-induced aminoglycoside potentiation against Staphylococcus aureus via boosting GlpK-initiated energy metabolism.|https://dx.doi.org/10.1128/aac.00938-25
 Antibacterial mechanism of vitamin C against Staphylococcus aureus, reduction of toxicity of metabolites and its application in pasteurized milk.|https://dx.doi.org/10.1016/j.ijfoodmicro.2025.111492
+Addressing Complications in Cardiac Implantable Electronic Devices: A Guideline to Prevention of CIED Infection.|https://dx.doi.org/10.3390/jcdd12100406
+In Silico Identification and Molecular Characterization of Lentilactobacillus hilgardii Antimicrobial Peptides with Activity Against Carbapenem-Resistant Acinetobacter baumannii.|https://dx.doi.org/10.3390/antibiotics14101004
