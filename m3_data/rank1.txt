@@ -15,3 +15,4 @@ Long-read metagenomics for strain tracking after faecal microbiota transplant.|h
 Addressing Unmet Needs in Clostridium difficile Infection: Advances in Diagnosis, Treatment, and Prevention.|https://dx.doi.org/10.2174/0109298673381785251008222034
 Multiple episodes of paediatric Clostridioides difficile infection (pCDI) in the context of autoimmune polyendocrine syndrome type 1.|https://dx.doi.org/10.1136/bcr-2024-263544
 Epidemiology, recurrence, and mortality in patients with Clostridioides difficile: a nationwide surveillance study (2016-2022).|https://dx.doi.org/10.1080/20477724.2025.2580606
+The antiarrhythmic drugs dronedarone and amiodarone exhibit potent in vitro and in vivo activity against Clostridioides difficile.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107649

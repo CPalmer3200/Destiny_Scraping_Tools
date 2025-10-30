@@ -8,3 +8,4 @@ Impact of a multimodal antimicrobial stewardship intervention on fluoroquinolone
 Absence of submucosal edema and pseudopolyps on computed tomography in toxic megacolon is associated with increased mortality.|https://dx.doi.org/10.1007/s00261-025-05245-8
 Case ascertainment of a potential centrally-implemented, automated system for national surveillance of healthcare-associated infections, England, 2016 to 2023.|https://dx.doi.org/10.2807/1560-7917.ES.2025.30.42.2500066
 A Case of Cecal Bascule Following Clostridioides difficile Colitis.|https://dx.doi.org/10.7759/cureus.93041
+Mechanisms of Clostridioides difficile glucosyltransferase toxins and their roles in pathology: insights and emerging therapeutic strategies.|https://dx.doi.org/10.3389/fcimb.2025.1641564
