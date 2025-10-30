@@ -4,3 +4,12 @@ Case ascertainment of a potential centrally-implemented, automated system for na
 Patterns of Antibiotic Resistance in Community-Acquired Infections: A Study From a Tertiary Care Hospital.|https://dx.doi.org/10.7759/cureus.92904
 Epidemiological dynamics and rising trends of MRSA in Saudi Arabia: a 12-year observational study.|https://dx.doi.org/10.3389/fcimb.2025.1622647
 Insights from expert elicitation: prioritising pathogens for genome sequencing for Australian public health response.|https://dx.doi.org/10.1016/j.lanwpc.2025.101670
+Microbiome Profiling of Pretreated Human Breast Milk Using Shotgun Metagenomic Sequencing.|https://dx.doi.org/10.4014/jmb.2506.06012
+Whole-Genome Sequencing and In Vitro Characterization of a Disseminated ST398 Staphylococcus aureus Infection: A Case Report.|https://dx.doi.org/10.1016/j.jiac.2025.102845
+Prevalence and Risk Factors of Postoperative Spinal Infections: A Five-year Study in Northwestern Iran.|https://dx.doi.org/10.34172/aim.34624
+Association of factors linked to health inequalities and the risk of antibiotic-resistant infection in high-income countries: a systematic scoping review.|https://dx.doi.org/10.1093/jacamr/dlaf190
+Citric acid cross-linked honey and aloe vera gel loaded chitosan hydrogels for wound dressing applications.|https://dx.doi.org/10.1039/d5ra05550d
+Lemierre-like syndrome and severe descending mediastinitis in an Infant with retropharyngeal abscess due to methicillin susceptible Staphylococcus aureus.|https://dx.doi.org/10.1016/j.idcr.2025.e02406
+Phylogenomic insights into LA-MRSA from Argentine pig farm environments: novel OptrA variant and regional emergence of an ST9 lineage co-circulating with international CC398 lineages.|https://dx.doi.org/10.3389/fmicb.2025.1662779
+The Impact of Antibiotic Therapy Options and Multidisciplinary Approach in Prosthetic Joint Infections.|https://dx.doi.org/10.3390/microorganisms13102241
+Optimizing Textile Disinfection in Hospital-Associated Infections Using Gaseous Ozone.|https://dx.doi.org/10.3390/pathogens14100977
