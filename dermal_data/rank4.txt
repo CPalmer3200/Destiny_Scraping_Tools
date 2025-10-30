@@ -50,3 +50,9 @@ Antibacterial and Antibiofilm Efficacy of Graphene Oxide Nanomaterials against G
 Comparison of Wound Healing Efficiency Between Bacterial Cellulose Dry Membrane and Commercial Dressings.|https://dx.doi.org/10.3390/jfb16100366
 Hyaluronic Acid/Chitosan/Glycerophosphate-Based In Situ-Forming Hydrogel for Accelerated Wound Healing.|https://dx.doi.org/10.3390/gels11100835
 Biofunctional Polyvinyl Alcohol/Xanthan Gum/Gelatin Hydrogel Dressings Loaded with Curcumin: Antibacterial Properties and Cell Viability.|https://dx.doi.org/10.3390/gels11100764
+Mucus dressing scaffolded by chitosan nanofibers with seamless adherence on wound bed and high utility of berberine chloride.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148602
+Citric acid cross-linked honey and aloe vera gel loaded chitosan hydrogels for wound dressing applications.|https://dx.doi.org/10.1039/d5ra05550d
+Redox-Active Quinazolinone Thioamide Ag(I) Complexes with Potent Antibacterial Activity: Mechanistic Insights and Hydrogel-Enhanced Efficacy.|https://dx.doi.org/10.3390/molecules30204071
+Expanded Nanofibrous Polymeric Mats Incorporating Tetracycline-Loaded Silica Mesoporous Nanoparticles for Antimicrobial Applications.|https://dx.doi.org/10.3390/pharmaceutics17101335
+Curcumin-Functionalized Ag and ZnO Nanoparticles: A Nanotherapeutic Approach for Treating Infections in Diabetic Wounds.|https://dx.doi.org/10.3390/bioengineering12101090
+The effectiveness of hydrogel matrix containing nitric oxide, silver nanoparticles, vancomycin, and ciprofloxacin on methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa biofilm isolated from patients with chronic rhinosinusitis.|https://dx.doi.org/10.1186/s40001-025-03282-z

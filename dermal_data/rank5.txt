@@ -26,3 +26,5 @@ Genome-wide screen reveals glycerol-induced aminoglycoside potentiation against 
 Antibacterial mechanism of vitamin C against Staphylococcus aureus, reduction of toxicity of metabolites and its application in pasteurized milk.|https://dx.doi.org/10.1016/j.ijfoodmicro.2025.111492
 Addressing Complications in Cardiac Implantable Electronic Devices: A Guideline to Prevention of CIED Infection.|https://dx.doi.org/10.3390/jcdd12100406
 In Silico Identification and Molecular Characterization of Lentilactobacillus hilgardii Antimicrobial Peptides with Activity Against Carbapenem-Resistant Acinetobacter baumannii.|https://dx.doi.org/10.3390/antibiotics14101004
+Genomic Insights into Poultry-Associated Staphylococcus Aureus from Haripur, Pakistan.|https://dx.doi.org/10.1007/s00284-025-04570-x
+Polyprenylated Acylphloroglucinols from Hypericum rochelii and Hypericum olympicum-Cytotoxic Effects on Non-Tumorigenic Cell Lines and Antibacterial Potential.|https://dx.doi.org/10.3390/ph18101591

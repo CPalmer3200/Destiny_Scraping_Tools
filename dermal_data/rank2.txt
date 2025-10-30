@@ -52,3 +52,6 @@ Minimally Invasive Fifth Metatarsal Osteotomy and Bunionette Removal for Recurre
 Ethacridine Targets Bacterial Biofilms in Diabetic Foot Ulcers: A Multi-Target Mechanism Revealed by Network Pharmacology, Molecular Docking, Molecular Dynamics Simulation, and Clinical RT-qPCR Validation.|https://dx.doi.org/10.3390/cimb47100870
 Prognostic role of HALP score, CRP/albumin ratio and CALLY index in diabetic foot ulcer-related major amputations.|https://dx.doi.org/10.1007/s00423-025-03884-5
 Screening for Peripheral Neuropathy and Peripheral Vascular Disease in Patients With Type 2 Diabetes Mellitus: A Community-Based Cross-Sectional Study From Rural Andhra Pradesh, India.|https://dx.doi.org/10.7759/cureus.93243
+Multifaceted Antibiotic Resistance in Diabetic Foot Infections: A Systematic Review.|https://dx.doi.org/10.3390/microorganisms13102311
+Negative Pressure Wound Therapy in the Treatment of Complicated Wounds of the Foot and Lower Limb in Diabetic Patients: A Retrospective Case Series.|https://dx.doi.org/10.3390/jcm14207193
+Application of Biomaterials in Diabetic Wound Healing: The Recent Advances and Pathological Aspects.|https://dx.doi.org/10.3390/pharmaceutics17101295
