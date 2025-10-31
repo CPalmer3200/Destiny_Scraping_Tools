@@ -13,3 +13,11 @@ Lemierre-like syndrome and severe descending mediastinitis in an Infant with ret
 Phylogenomic insights into LA-MRSA from Argentine pig farm environments: novel OptrA variant and regional emergence of an ST9 lineage co-circulating with international CC398 lineages.|https://dx.doi.org/10.3389/fmicb.2025.1662779
 The Impact of Antibiotic Therapy Options and Multidisciplinary Approach in Prosthetic Joint Infections.|https://dx.doi.org/10.3390/microorganisms13102241
 Optimizing Textile Disinfection in Hospital-Associated Infections Using Gaseous Ozone.|https://dx.doi.org/10.3390/pathogens14100977
+Biomaterial Surface-Induced Immunoglobulin G Unfolding Enhances Phagocytosis of Staphylococcus Aureus by Macrophages.|https://dx.doi.org/10.1016/j.actbio.2025.10.050
+Effect of chitosan based composite coating on silk suture to enhance the wound healing ability: An initial in-vivo study.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148560
+Injectable ε-Polylysine/Hyaluronic Acid Hydrogels with Resistance-Preventing Antibacterial Activity for Treating Wound Infections.|https://dx.doi.org/10.1021/acsabm.5c01252
+Prevalence and risk factors for recurrent Staphylococcus aureus small-colony variants in people with cystic fibrosis followed at the Tuscan Regional Reference Center.|https://dx.doi.org/10.1007/s10096-025-05313-3
+Partial Oral Versus Intravenous Antibiotic Therapy for Endocarditis With Management by a Multidisciplinary Team: A Retrospective Cohort Study.|https://dx.doi.org/10.1093/ofid/ofaf625
+Infection prevention strategies in shoulder surgery: A survey of fellowship-trained shoulder surgeons.|https://dx.doi.org/10.1177/17585732251388929
+The Assessment of Practical and Safety Aspects of Recommended Surface Disinfection and Ultraviolet-C Cleaning Procedures for the Anesthesia Workspace.|https://dx.doi.org/10.7759/cureus.93348
+Aerococcus christensenii: an emerging pathogen associated with infections and bacteremia in pregnancy-genomic insights and pathogenicity evaluation.|https://dx.doi.org/10.1007/s10142-025-01730-x
