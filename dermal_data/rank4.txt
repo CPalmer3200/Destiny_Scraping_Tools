@@ -56,3 +56,4 @@ Redox-Active Quinazolinone Thioamide Ag(I) Complexes with Potent Antibacterial A
 Expanded Nanofibrous Polymeric Mats Incorporating Tetracycline-Loaded Silica Mesoporous Nanoparticles for Antimicrobial Applications.|https://dx.doi.org/10.3390/pharmaceutics17101335
 Curcumin-Functionalized Ag and ZnO Nanoparticles: A Nanotherapeutic Approach for Treating Infections in Diabetic Wounds.|https://dx.doi.org/10.3390/bioengineering12101090
 The effectiveness of hydrogel matrix containing nitric oxide, silver nanoparticles, vancomycin, and ciprofloxacin on methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa biofilm isolated from patients with chronic rhinosinusitis.|https://dx.doi.org/10.1186/s40001-025-03282-z
+Injectable ε-Polylysine/Hyaluronic Acid Hydrogels with Resistance-Preventing Antibacterial Activity for Treating Wound Infections.|https://dx.doi.org/10.1021/acsabm.5c01252

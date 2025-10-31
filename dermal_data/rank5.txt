@@ -28,3 +28,6 @@ Addressing Complications in Cardiac Implantable Electronic Devices: A Guideline 
 In Silico Identification and Molecular Characterization of Lentilactobacillus hilgardii Antimicrobial Peptides with Activity Against Carbapenem-Resistant Acinetobacter baumannii.|https://dx.doi.org/10.3390/antibiotics14101004
 Genomic Insights into Poultry-Associated Staphylococcus Aureus from Haripur, Pakistan.|https://dx.doi.org/10.1007/s00284-025-04570-x
 Polyprenylated Acylphloroglucinols from Hypericum rochelii and Hypericum olympicum-Cytotoxic Effects on Non-Tumorigenic Cell Lines and Antibacterial Potential.|https://dx.doi.org/10.3390/ph18101591
+Green-Nanoarchitectonics for Sub-2 nm Ag Nanoparticles on Attapulgite Enables Biocryogel with Synergistic and Triple-Functional Wound Therapy Effect.|https://dx.doi.org/10.1021/acsami.5c17609
+Composition and Concentration of Road Salts Alter Amphibian Microbial Ecosystems: Insights from Rana dybowskii.|https://dx.doi.org/10.1016/j.envres.2025.123232
+Silver nanoparticles as antifungal: from formulation to therapy in mycoses.|https://dx.doi.org/10.1080/17460913.2025.2580161

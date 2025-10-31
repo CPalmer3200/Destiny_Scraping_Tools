@@ -9,3 +9,5 @@ Antibiotic susceptibility patterns in US children's hospitals.|https://dx.doi.or
 Amino-Functionalized Carbon Nanodots Inhibit Biofilms and Infections in a Burn Wound Model, Both Caused by Staphylococcus aureus, Escherichia coli, Candida albicans, and Aspergillus brasiliensis.|https://dx.doi.org/10.1155/ijm/8824725
 A multifunctional injectable ε-poly-L-lysine-loaded sodium-alginate/gelatin hydrogel promotes the healing of infected wounds by regulating macrophage polarization and the skin microbiota.|https://dx.doi.org/10.1093/burnst/tkaf037
 [Clinical features and sepsis-related factors in 159 patients with necrotizing soft tissue infection].|https://dx.doi.org/10.3760/cma.j.cn121430-20250627-00626
+[Performance of hyaluronic acid biogel and its effect on healing of infected burn wounds in mice].|https://dx.doi.org/10.3760/cma.j.cn501225-20250422-00186
+Antibacterial profiling of selenium nanoparticles synthesized from Crinum species.|https://dx.doi.org/10.1016/j.micpath.2025.108148
