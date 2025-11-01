@@ -1,8 +1,0 @@
-SAIGE I: Staphylococcus aureus, Immunological, Genetic, and Environmental (SAIGE) Factors Contributing to Atopic Dermatitis and the Use of Ceramide-Containing Skincare.|https://dx.doi.org/10.36849/JDD.8591
-Antifungal, antibacterial, and anti-inflammatory activity of glycerol dithionomonolaurate, an analog of glycerol monolaurate.|https://dx.doi.org/10.1128/msphere.00318-25
-Role of Antimicrobial Peptides in the Pathogenesis of Atopic Dermatitis.|https://dx.doi.org/10.1111/1346-8138.17975
-Photodynamic inactivation of Staphylococcus aureus with rose bengal reduces superantigen activity.|https://dx.doi.org/10.3389/fimmu.2025.1655244
-Efficacy and Safety of Tralokinumab Across Racial Subgroups in Adults with Moderate-to-Severe Atopic Dermatitis: Post Hoc Analysis of Phase III Trials.|https://dx.doi.org/10.1007/s40257-025-00985-1
-Endocarditis Involving Iatrogenic Atrial Septal Defect as a Rare Sequela of Pulmonary Vein Isolation.|https://dx.doi.org/10.1016/j.jaccas.2025.105776
-The Mechanisms of Immunoglobulin E Sensitizations in Atopic Dermatitis.|https://dx.doi.org/10.1016/j.iac.2025.06.006
-Microbiome as a Potential Target for Treatment and Prevention of Atopic Dermatitis.|https://dx.doi.org/10.1016/j.iac.2025.06.003
