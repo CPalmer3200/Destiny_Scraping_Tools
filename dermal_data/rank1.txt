@@ -11,3 +11,4 @@ A multifunctional injectable ε-poly-L-lysine-loaded sodium-alginate/gelatin hyd
 [Clinical features and sepsis-related factors in 159 patients with necrotizing soft tissue infection].|https://dx.doi.org/10.3760/cma.j.cn121430-20250627-00626
 [Performance of hyaluronic acid biogel and its effect on healing of infected burn wounds in mice].|https://dx.doi.org/10.3760/cma.j.cn501225-20250422-00186
 Antibacterial profiling of selenium nanoparticles synthesized from Crinum species.|https://dx.doi.org/10.1016/j.micpath.2025.108148
+A Cohort Study on Clinical Features and Microbiological Profile in Neonatal Sepsis in Southwest of Iran.|https://dx.doi.org/10.1002/hsr2.71398

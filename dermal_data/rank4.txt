@@ -57,3 +57,5 @@ Expanded Nanofibrous Polymeric Mats Incorporating Tetracycline-Loaded Silica Mes
 Curcumin-Functionalized Ag and ZnO Nanoparticles: A Nanotherapeutic Approach for Treating Infections in Diabetic Wounds.|https://dx.doi.org/10.3390/bioengineering12101090
 The effectiveness of hydrogel matrix containing nitric oxide, silver nanoparticles, vancomycin, and ciprofloxacin on methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa biofilm isolated from patients with chronic rhinosinusitis.|https://dx.doi.org/10.1186/s40001-025-03282-z
 Injectable ε-Polylysine/Hyaluronic Acid Hydrogels with Resistance-Preventing Antibacterial Activity for Treating Wound Infections.|https://dx.doi.org/10.1021/acsabm.5c01252
+Mussel-Inspired Tough Hyaluronic Acid Modified Hydrogel Dressings with Synergistic Self-Healing, Adhesive and Antibacterial Properties.|https://dx.doi.org/10.1021/acsbiomaterials.5c01292
+Multifunctional Nanozyme Hydrogel with Procoagulant/Peroxidase/Photothermal Tri-Activity for Emergency Hemostasis and Bacterial Eradication.|https://dx.doi.org/10.1002/adhm.202503797
