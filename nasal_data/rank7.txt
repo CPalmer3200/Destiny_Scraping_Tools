@@ -21,3 +21,5 @@ Partial Oral Versus Intravenous Antibiotic Therapy for Endocarditis With Managem
 Infection prevention strategies in shoulder surgery: A survey of fellowship-trained shoulder surgeons.|https://dx.doi.org/10.1177/17585732251388929
 The Assessment of Practical and Safety Aspects of Recommended Surface Disinfection and Ultraviolet-C Cleaning Procedures for the Anesthesia Workspace.|https://dx.doi.org/10.7759/cureus.93348
 Aerococcus christensenii: an emerging pathogen associated with infections and bacteremia in pregnancy-genomic insights and pathogenicity evaluation.|https://dx.doi.org/10.1007/s10142-025-01730-x
+Continuous infusion OPAT via elastomeric pumps: effectiveness, safety, and cost-saving potential in a real-world Italian cohort.|https://dx.doi.org/10.1007/s15010-025-02671-0
+Widespread emergence of Staphylococcus aureus with variant FarR regulators and enhanced resistance to antimicrobial fatty acids within clonal complex CC5, CC8, and CC97 strains from human and bovine hosts.|https://dx.doi.org/10.1128/spectrum.02278-25

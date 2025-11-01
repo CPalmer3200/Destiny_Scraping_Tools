@@ -8,3 +8,4 @@ Extraction and characterization of antibacterial marine polysaccharide K-Carrage
 Effectiveness of Preoperative Antiseptic Preparation in Transnasal Skull Base Surgery: A Randomized Three-Arm Controlled Trial.|https://dx.doi.org/10.1055/a-2436-8548
 Surface display of a manganese-binding domain enhances production and stress resistance in Bacillus subtilis spores.|https://dx.doi.org/10.3389/fmicb.2025.1669207
 Antimicrobial resistance among Gram-positive agents of bacteraemia in the UK and Ireland: trends from 2001 to 2019.|https://dx.doi.org/10.1093/jac/dkaf249
+Bacterial and host interactions in Staphylococcus aureus-induced septic arthritis-understanding pathogenesis and exploring therapeutic strategies.|https://dx.doi.org/10.3389/fmicb.2025.1687243
