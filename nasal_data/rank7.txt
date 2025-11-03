@@ -23,3 +23,8 @@ The Assessment of Practical and Safety Aspects of Recommended Surface Disinfecti
 Aerococcus christensenii: an emerging pathogen associated with infections and bacteremia in pregnancy-genomic insights and pathogenicity evaluation.|https://dx.doi.org/10.1007/s10142-025-01730-x
 Continuous infusion OPAT via elastomeric pumps: effectiveness, safety, and cost-saving potential in a real-world Italian cohort.|https://dx.doi.org/10.1007/s15010-025-02671-0
 Widespread emergence of Staphylococcus aureus with variant FarR regulators and enhanced resistance to antimicrobial fatty acids within clonal complex CC5, CC8, and CC97 strains from human and bovine hosts.|https://dx.doi.org/10.1128/spectrum.02278-25
+Synergistic dual-nanostructure antibacterial-antifouling coating for tracheostomy tubes to reduce ventilator-associated pneumonia.|https://dx.doi.org/10.1016/j.medengphy.2025.104416
+Hierarchical multilevel prospective study of multidrug-resistant organisms: Decolonization, mortality, and co-colonization in a long-term care facility.|https://dx.doi.org/10.1016/j.jiph.2025.103017
+Enhanced microbiological evaluation of brain abscesses by proteomics-based techniques: a prospective cohort study.|https://dx.doi.org/10.3171/2025.8.FOCUS25612
+Clinical characteristics and risk factors for pathological fractures in children with Staphylococcus aureus osteoarticular infections: a retrospective cohort study.|https://dx.doi.org/10.1186/s13052-025-02138-w
+Impact of aortic root abscess on outcomes in infective endocarditis and predictors of in-hospital mortality: A meta-analysis.|https://dx.doi.org/10.1016/j.hrtlng.2025.10.009
