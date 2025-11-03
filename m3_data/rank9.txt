@@ -10,3 +10,4 @@ Case ascertainment of a potential centrally-implemented, automated system for na
 A Case of Cecal Bascule Following Clostridioides difficile Colitis.|https://dx.doi.org/10.7759/cureus.93041
 Mechanisms of Clostridioides difficile glucosyltransferase toxins and their roles in pathology: insights and emerging therapeutic strategies.|https://dx.doi.org/10.3389/fcimb.2025.1641564
 A Two-Stage Cascading Amplification Strategy Based on Zn(2+)-Doped WO(X) Nanozymes for Ultrasensitive Lateral Flow Immunoassays of Clostridium Difficile Toxin B.|https://dx.doi.org/10.1002/advs.202519130
+Utilizing the Antibiotic Spectrum Index to Assess Hospital-Onset Clostridioides difficile Infection in Treating Adults with Community-Onset Bloodstream Infections.|https://dx.doi.org/10.1016/j.ajic.2025.10.023

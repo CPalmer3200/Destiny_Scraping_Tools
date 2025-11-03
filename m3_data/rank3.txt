@@ -12,3 +12,4 @@ BCLC strategy for prognosis prediction and treatment recommendations: The 2025 u
 Minimally Invasive Management of Two Separated Dens Invaginatus Oehler's Type I and II: A Case Report.|https://dx.doi.org/10.22037/iej.v20i1.49701
 Health risk evaluation of heavy metal-contaminated groundwater in unplanned settlements of Dar es Salaam,Tanzania.|https://dx.doi.org/10.2166/wh.2025.381
 Clostridioides difficile Infection Risk in Children Prescribed Antibiotics for Tonsillectomy.|https://dx.doi.org/10.1002/ohn.70056
+Evaluating the necessity of post-operative antibiotics in uncomplicated appendicitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12893-025-03152-9
