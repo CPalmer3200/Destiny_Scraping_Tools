@@ -4,3 +4,4 @@ An all-natural tannic acid@FeS(2) hybrid hydrogel with synergistic photothermal/
 The Impact of Oxygen and Antimicrobial Tea Tree Oil Carrying Biomaterial on Cell Viability Under Hypoxic Conditions.|https://dx.doi.org/10.1002/bit.70083
 Fabrication and characterization of a novel magnetic nanocomposite based on chitosan hydrogel modified with mesoporous silica and copper-based MOF as an effective and antibacterial adsorbent for the removal of methylene blue from water.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148643
 One-pot synthesis of silver-based chitosan macromolecular hydrogels and its antimicrobial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148655
+Customizable glucose-responsive gelatin methacryloyl-based hydrogel microneedle patches for antibacterial therapy and promoted diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148610
