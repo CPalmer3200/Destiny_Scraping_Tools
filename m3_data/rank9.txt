@@ -11,3 +11,4 @@ A Case of Cecal Bascule Following Clostridioides difficile Colitis.|https://dx.d
 Mechanisms of Clostridioides difficile glucosyltransferase toxins and their roles in pathology: insights and emerging therapeutic strategies.|https://dx.doi.org/10.3389/fcimb.2025.1641564
 A Two-Stage Cascading Amplification Strategy Based on Zn(2+)-Doped WO(X) Nanozymes for Ultrasensitive Lateral Flow Immunoassays of Clostridium Difficile Toxin B.|https://dx.doi.org/10.1002/advs.202519130
 Utilizing the Antibiotic Spectrum Index to Assess Hospital-Onset Clostridioides difficile Infection in Treating Adults with Community-Onset Bloodstream Infections.|https://dx.doi.org/10.1016/j.ajic.2025.10.023
+Reduction of C. difficile-associated disease using a multifaceted approach.|https://dx.doi.org/10.1177/17571774251366935

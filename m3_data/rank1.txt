@@ -17,3 +17,4 @@ Multiple episodes of paediatric Clostridioides difficile infection (pCDI) in the
 Epidemiology, recurrence, and mortality in patients with Clostridioides difficile: a nationwide surveillance study (2016-2022).|https://dx.doi.org/10.1080/20477724.2025.2580606
 The antiarrhythmic drugs dronedarone and amiodarone exhibit potent in vitro and in vivo activity against Clostridioides difficile.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107649
 Acceptable outcomes for isolated medial patellofemoral ligament reconstruction despite using higher thresholds for patella alta and regardless the value of TT-TG distance and the degree of trochlear dysplasia - an internationalmulticenter study.|https://dx.doi.org/10.1016/j.jisako.2025.101028
+The monoclonal antibody AZD5148 confers broad protection against TcdB-diverse Clostridioides difficile strains in mice.|https://dx.doi.org/10.1371/journal.ppat.1013651
