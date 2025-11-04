@@ -28,3 +28,9 @@ Hierarchical multilevel prospective study of multidrug-resistant organisms: Deco
 Enhanced microbiological evaluation of brain abscesses by proteomics-based techniques: a prospective cohort study.|https://dx.doi.org/10.3171/2025.8.FOCUS25612
 Clinical characteristics and risk factors for pathological fractures in children with Staphylococcus aureus osteoarticular infections: a retrospective cohort study.|https://dx.doi.org/10.1186/s13052-025-02138-w
 Impact of aortic root abscess on outcomes in infective endocarditis and predictors of in-hospital mortality: A meta-analysis.|https://dx.doi.org/10.1016/j.hrtlng.2025.10.009
+Prevalence and distribution of surgical site infection in Cape Coast Teaching Hospital, Ghana.|https://dx.doi.org/10.1186/s12879-025-11964-6
+Rifampicin as monotherapy for infections caused by Staphylococcus aureus: considerations for not applying 'breakpoints in brackets'.|https://dx.doi.org/10.1093/jac/dkaf392
+[Cutaneous-pericardial fistula and purulent pericarditis secondary to a complicated pericardiocentesis: Case report].|https://dx.doi.org/10.5281/zenodo.17342297
+Traumatic testicular rupture complicated by pyocele: a rare case report.|https://dx.doi.org/10.1097/MS9.0000000000003996
+Microbial Contamination of Handwashing Water and Tap Surfaces in Addis Ababa Hospitals: A Threat to Infection Prevention.|https://dx.doi.org/10.1177/11786302251389704
+Refractory Nontyphoidal Salmonella Empyema Necessitans in a Man Living With HIV: A Case Report and Review of the Literature.|https://dx.doi.org/10.1155/crdi/8859848
