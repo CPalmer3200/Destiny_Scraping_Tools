@@ -5,3 +5,5 @@ The Impact of Oxygen and Antimicrobial Tea Tree Oil Carrying Biomaterial on Cell
 Fabrication and characterization of a novel magnetic nanocomposite based on chitosan hydrogel modified with mesoporous silica and copper-based MOF as an effective and antibacterial adsorbent for the removal of methylene blue from water.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148643
 One-pot synthesis of silver-based chitosan macromolecular hydrogels and its antimicrobial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148655
 Customizable glucose-responsive gelatin methacryloyl-based hydrogel microneedle patches for antibacterial therapy and promoted diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148610
+Tannic acid-controlled crosslinking of albumin amyloids as multifunctional hydrogels against chronic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148707
+Development of a Multifunctional Hydrogel Coloaded with Chitosan-Curcumin and Silver Nanoparticles: Fabrication, Characterization, and Antibacterial Activity.|https://dx.doi.org/10.1021/acsomega.5c04183
