@@ -13,3 +13,5 @@ Minimally Invasive Management of Two Separated Dens Invaginatus Oehler's Type I 
 Health risk evaluation of heavy metal-contaminated groundwater in unplanned settlements of Dar es Salaam,Tanzania.|https://dx.doi.org/10.2166/wh.2025.381
 Clostridioides difficile Infection Risk in Children Prescribed Antibiotics for Tonsillectomy.|https://dx.doi.org/10.1002/ohn.70056
 Evaluating the necessity of post-operative antibiotics in uncomplicated appendicitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12893-025-03152-9
+A phase I, open-label study of intravenous human dental pulp stem cells (NestaCell®) at two dose levels in patients with Huntington's disease.|https://dx.doi.org/10.1186/s13287-025-04703-w
+Pleural empyema due to polymicrobial Clostridioides difficile, Clostridium tertium and Robinsoniella peoriensis following C. difficile peritonitis. A Case report.|https://dx.doi.org/10.1016/j.anaerobe.2025.103013
