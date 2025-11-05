@@ -34,3 +34,6 @@ Rifampicin as monotherapy for infections caused by Staphylococcus aureus: consid
 Traumatic testicular rupture complicated by pyocele: a rare case report.|https://dx.doi.org/10.1097/MS9.0000000000003996
 Microbial Contamination of Handwashing Water and Tap Surfaces in Addis Ababa Hospitals: A Threat to Infection Prevention.|https://dx.doi.org/10.1177/11786302251389704
 Refractory Nontyphoidal Salmonella Empyema Necessitans in a Man Living With HIV: A Case Report and Review of the Literature.|https://dx.doi.org/10.1155/crdi/8859848
+Antimicrobial effects of nanosilver/polyethylene glycol/chitosan in cesarean section and their impact on breastfeeding rates.|https://dx.doi.org/10.1186/s12893-025-03225-9
+Evaluation of bacterial pathogens and their antibiotic resistance on surfaces in the Mohammed V hospital, Al-Hoceima, Morocco.|https://dx.doi.org/10.3855/jidc.19128
+A narrative review of coagulase-negative staphylococci in diabetic foot infections.|https://dx.doi.org/10.1128/cmr.00121-25
