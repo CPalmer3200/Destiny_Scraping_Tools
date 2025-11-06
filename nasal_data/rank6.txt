@@ -10,3 +10,4 @@ Surface display of a manganese-binding domain enhances production and stress res
 Antimicrobial resistance among Gram-positive agents of bacteraemia in the UK and Ireland: trends from 2001 to 2019.|https://dx.doi.org/10.1093/jac/dkaf249
 Bacterial and host interactions in Staphylococcus aureus-induced septic arthritis-understanding pathogenesis and exploring therapeutic strategies.|https://dx.doi.org/10.3389/fmicb.2025.1687243
 Scaffold vaccination for prevention of orthopedic device infection.|https://dx.doi.org/10.1073/pnas.2409562122
+Integrated immunodominant epitope discovery for dual-purpose rapid and economical diagnostic and immunoprotective applications against MRSA.|https://dx.doi.org/10.3389/fimmu.2025.1697829

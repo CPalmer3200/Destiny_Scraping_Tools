@@ -37,3 +37,7 @@ Refractory Nontyphoidal Salmonella Empyema Necessitans in a Man Living With HIV:
 Antimicrobial effects of nanosilver/polyethylene glycol/chitosan in cesarean section and their impact on breastfeeding rates.|https://dx.doi.org/10.1186/s12893-025-03225-9
 Evaluation of bacterial pathogens and their antibiotic resistance on surfaces in the Mohammed V hospital, Al-Hoceima, Morocco.|https://dx.doi.org/10.3855/jidc.19128
 A narrative review of coagulase-negative staphylococci in diabetic foot infections.|https://dx.doi.org/10.1128/cmr.00121-25
+CXCR5-engineered mesenchymal stromal cells home to spleen and mitigate post-sepsis syndrome by preventing secondary infection.|https://dx.doi.org/10.1186/s13287-025-04751-2
+Lecithin-chitosan nanoparticles for co-delivery of curcumin and β-caryophyllene-potential applications in chronic wound care.|https://dx.doi.org/10.1080/09205063.2025.2582737
+EGCG-Loaded Zinc Ion-Cross-Linked Injectable Sodium Alginate Hydrogel for Extraction Socket Healing.|https://dx.doi.org/10.1021/acsbiomaterials.5c00824
+pH-responsive hydrogel system loaded with curcumin-preconditioned mesenchymal stem cell exosomes for enhanced diabetic wound healing in orthopedic applications.|https://dx.doi.org/10.3389/fbioe.2025.1688905
