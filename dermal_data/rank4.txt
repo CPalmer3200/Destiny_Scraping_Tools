@@ -7,3 +7,10 @@ One-pot synthesis of silver-based chitosan macromolecular hydrogels and its anti
 Customizable glucose-responsive gelatin methacryloyl-based hydrogel microneedle patches for antibacterial therapy and promoted diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148610
 Tannic acid-controlled crosslinking of albumin amyloids as multifunctional hydrogels against chronic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148707
 Development of a Multifunctional Hydrogel Coloaded with Chitosan-Curcumin and Silver Nanoparticles: Fabrication, Characterization, and Antibacterial Activity.|https://dx.doi.org/10.1021/acsomega.5c04183
+pH-Responsive multifunction antibacterial hydrogel with remodeling the wound microenvironment for treating diabetic wound.|https://dx.doi.org/10.1016/j.colsurfb.2025.115238
+EGCG-Loaded Zinc Ion-Cross-Linked Injectable Sodium Alginate Hydrogel for Extraction Socket Healing.|https://dx.doi.org/10.1021/acsbiomaterials.5c00824
+pH-responsive hydrogel system loaded with curcumin-preconditioned mesenchymal stem cell exosomes for enhanced diabetic wound healing in orthopedic applications.|https://dx.doi.org/10.3389/fbioe.2025.1688905
+Antimicrobial effects of nanosilver/polyethylene glycol/chitosan in cesarean section and their impact on breastfeeding rates.|https://dx.doi.org/10.1186/s12893-025-03225-9
+Large-scale preparation of high-toughness fluorescent alginate fibers for flexible anti-counterfeiting and information storage.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148678
+Development of antibacterial hydrogel using endophytic Alternaria fungus extract isolated from Australian native plant.|https://dx.doi.org/10.1039/d5tb01529d
+PtPdNi Trimetallic-Doped MIL-88 Hydrogel Accelerates Healing of Bacterial-Infected Diabetic Wounds.|https://dx.doi.org/10.2147/IJN.S540126
