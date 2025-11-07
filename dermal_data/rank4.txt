@@ -14,3 +14,7 @@ Antimicrobial effects of nanosilver/polyethylene glycol/chitosan in cesarean sec
 Large-scale preparation of high-toughness fluorescent alginate fibers for flexible anti-counterfeiting and information storage.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148678
 Development of antibacterial hydrogel using endophytic Alternaria fungus extract isolated from Australian native plant.|https://dx.doi.org/10.1039/d5tb01529d
 PtPdNi Trimetallic-Doped MIL-88 Hydrogel Accelerates Healing of Bacterial-Infected Diabetic Wounds.|https://dx.doi.org/10.2147/IJN.S540126
+Chitosan-based antibacterial, low-temperature stable conductive organohydrogels via synergistic multi-dynamics network for electromagnetic interference shielding and strain sensing.|https://dx.doi.org/10.1016/j.carbpol.2025.124512
+Angiogenesis-Driven Hybrid Hydrogel with pH/ROS-Activated Anti-infection and Enhanced Cellular Metabolism for Efficient MRSA-Impaired Wound Repair.|https://dx.doi.org/10.1016/j.actbio.2025.11.002
+Thermosensitive hydrogel with antioxidant and photothermal antibacterial effects accelerates healing of bacterial-inflamed maxillofacial wounds.|https://dx.doi.org/10.1016/j.jcis.2025.139366
+Alginate-Based Wound Dressings Loaded with Natural Essential Oils: Physicochemical Characterization and Antibacterial Performance.|https://dx.doi.org/10.1080/1061186X.2025.2585041

@@ -5,3 +5,4 @@ Antimicrobial resistance profiles and detection of mecA, blaCTX-M-1, and blaSHV 
 Chitosan-based hydrogels loaded with repaglinide and difluorinated curcumin: impact on structural integrity, drug release, and antibacterial activity.|https://dx.doi.org/10.1007/s00210-025-04660-4
 A narrative review of coagulase-negative staphylococci in diabetic foot infections.|https://dx.doi.org/10.1128/cmr.00121-25
 Advances in Stem Cell Therapy for Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/DMSO.S564011
+Diabetic distal symmetric polyneuropathy: More than just "tingling in the feet".|https://dx.doi.org/10.1111/dom.70235
