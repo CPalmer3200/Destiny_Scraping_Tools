@@ -11,3 +11,4 @@ Antimicrobial resistance among Gram-positive agents of bacteraemia in the UK and
 Bacterial and host interactions in Staphylococcus aureus-induced septic arthritis-understanding pathogenesis and exploring therapeutic strategies.|https://dx.doi.org/10.3389/fmicb.2025.1687243
 Scaffold vaccination for prevention of orthopedic device infection.|https://dx.doi.org/10.1073/pnas.2409562122
 Integrated immunodominant epitope discovery for dual-purpose rapid and economical diagnostic and immunoprotective applications against MRSA.|https://dx.doi.org/10.3389/fimmu.2025.1697829
+A Case of Staphylococcus aureus Septic Arthritis After COVID-19 Vaccination.|https://dx.doi.org/10.1002/jgf2.70068

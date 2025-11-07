@@ -41,3 +41,9 @@ CXCR5-engineered mesenchymal stromal cells home to spleen and mitigate post-seps
 Lecithin-chitosan nanoparticles for co-delivery of curcumin and β-caryophyllene-potential applications in chronic wound care.|https://dx.doi.org/10.1080/09205063.2025.2582737
 EGCG-Loaded Zinc Ion-Cross-Linked Injectable Sodium Alginate Hydrogel for Extraction Socket Healing.|https://dx.doi.org/10.1021/acsbiomaterials.5c00824
 pH-responsive hydrogel system loaded with curcumin-preconditioned mesenchymal stem cell exosomes for enhanced diabetic wound healing in orthopedic applications.|https://dx.doi.org/10.3389/fbioe.2025.1688905
+A study of the predictive value of transcranial doppler ultrasound for intracranial infections and the distribution of causative organisms.|https://dx.doi.org/10.1038/s41598-025-22837-y
+Competitive Dynamics of ST764 and ST5 MRSA in a New Tertiary ICU: Enhanced Hospital Adaptation via agrC Mutations Post-COVID-19.|https://dx.doi.org/10.1016/j.ijid.2025.108186
+Revealing hidden moves: Staphylococcus spp. exhibit motility in semisolid media.|https://dx.doi.org/10.1128/spectrum.02620-25
+Impact of Clinical Factors on Nosocomial Infections and Bacterial Resistance in Resuscitation Settings in Abidjan, Côte d'Ivoire: Retrospective Cross-Sectional Study.|https://dx.doi.org/10.2147/IDR.S539494
+Prevalence and Antibiotic-Resistance Profile of MRSA and MSSA on High-Touch Hospital Surfaces in the Buea Health District, Cameroon.|https://dx.doi.org/10.1155/bmri/1825277
+Antimicrobial Susceptibility Profile of Bacterial Isolates Among Patients Admitted to the Neurosurgery Intensive Care Unit of a Tertiary Care Hospital: A Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.93819
