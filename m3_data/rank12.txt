@@ -7,3 +7,4 @@ A nomogram for predicting the risk of Clostridioides difficile infection in chil
 Clostridiodes difficile Testing Protocol: An Effective Strategy to Decrease Over-Testing Patients for C. difficile Without Missing True Positive Infections.|https://dx.doi.org/10.7759/cureus.93174
 History and Evolution of the Hypervirulent Clostridioides difficile Ribotype 027 Lineage.|https://dx.doi.org/10.3390/microorganisms13102376
 Clostridioides difficile infection among patients with type 2 diabetes mellitus.|https://dx.doi.org/10.1007/s11739-025-04168-y
+The impact of the quality improvement program on Clostridioides difficile infection management: a quasi-experimental study.|https://dx.doi.org/10.5217/ir.2025.00137

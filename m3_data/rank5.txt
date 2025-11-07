@@ -4,3 +4,4 @@ Antimicrobial susceptibility of Clostridioides difficile. An Argentinian multice
 A systematic literature review and bayesian meta-analysis of oral vancomycin primary prophylaxis for Clostridioides difficile infection in stem cell transplant patients.|https://dx.doi.org/10.1017/ash.2025.10179
 Frequency and antibiotic resistance profile of Clostridioides difficile among cancer patients in an adult hematology-oncology unit: Contributing factors and Follow up.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117147
 Environmental reservoirs of hypervirulent Clostridioides difficile: RT078 strains in wastewater and first detection of RT027 in shellfish in Taiwan.|https://dx.doi.org/10.1128/spectrum.01377-25
+A unique inhibitor conformation selectively targets the DNA polymerase PolC of Gram-positive priority pathogens.|https://dx.doi.org/10.1038/s41467-025-65324-8

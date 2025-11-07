@@ -15,3 +15,5 @@ Clostridioides difficile Infection Risk in Children Prescribed Antibiotics for T
 Evaluating the necessity of post-operative antibiotics in uncomplicated appendicitis: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12893-025-03152-9
 A phase I, open-label study of intravenous human dental pulp stem cells (NestaCell®) at two dose levels in patients with Huntington's disease.|https://dx.doi.org/10.1186/s13287-025-04703-w
 Pleural empyema due to polymicrobial Clostridioides difficile, Clostridium tertium and Robinsoniella peoriensis following C. difficile peritonitis. A Case report.|https://dx.doi.org/10.1016/j.anaerobe.2025.103013
+Efficacy and Impact of Prophylactic Compared with Symptomatic Amoxicillin, Azithromycin, or Trimethoprim/Sulfamethoxazole Administration on Corynebacterium bovis Infection in NSG Mice (Mus musculus).|https://dx.doi.org/10.30802/AALAS-JAALAS-25-097
+Appropriateness of Empiric Antimicrobial Therapy for Community Onset Sepsis With Bacteremia in the Emergency Department: A Multidisciplinary Approach.|https://dx.doi.org/10.1177/08971900251394125
