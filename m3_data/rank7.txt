@@ -1,4 +1,0 @@
-Implementation of Real-World Diagnostic Strategies in Taiwan for the Identification of Targetable Oncogenic Driver Alterations in Non-Small Cell Lung Cancer.|https://dx.doi.org/10.1200/GO-25-00144
-The pathogenic mutations in smokers with non-small cell lung cancer: a next-generation sequencing study.|https://dx.doi.org/10.21037/tlcr-2025-261
-Gut microbiome metagenomics in clinical practice: bridging the gap between research and precision medicine.|https://dx.doi.org/10.1080/19490976.2025.2569739
-A Multicenter Double-blind Randomized Sham-controlled Trial Assessing the EndoBarrier Duodenal-jejunal Bypass Liner for the Treatment of Poorly Controlled type 2 Diabetes Mellitus with Concomitant Obesity: The ENDO Trial.|https://dx.doi.org/10.1097/SLA.0000000000006974
