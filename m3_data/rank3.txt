@@ -17,3 +17,4 @@ A phase I, open-label study of intravenous human dental pulp stem cells (NestaCe
 Pleural empyema due to polymicrobial Clostridioides difficile, Clostridium tertium and Robinsoniella peoriensis following C. difficile peritonitis. A Case report.|https://dx.doi.org/10.1016/j.anaerobe.2025.103013
 Efficacy and Impact of Prophylactic Compared with Symptomatic Amoxicillin, Azithromycin, or Trimethoprim/Sulfamethoxazole Administration on Corynebacterium bovis Infection in NSG Mice (Mus musculus).|https://dx.doi.org/10.30802/AALAS-JAALAS-25-097
 Appropriateness of Empiric Antimicrobial Therapy for Community Onset Sepsis With Bacteremia in the Emergency Department: A Multidisciplinary Approach.|https://dx.doi.org/10.1177/08971900251394125
+Consumption and expenditure on fidaxomicin and oral vancomycin for Clostridioides difficile infection: a 12-year longitudinal study of 43 countries and regions.|https://dx.doi.org/10.1016/j.ijantimicag.2025.107664

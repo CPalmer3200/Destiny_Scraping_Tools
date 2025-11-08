@@ -20,3 +20,4 @@ Acceptable outcomes for isolated medial patellofemoral ligament reconstruction d
 The monoclonal antibody AZD5148 confers broad protection against TcdB-diverse Clostridioides difficile strains in mice.|https://dx.doi.org/10.1371/journal.ppat.1013651
 Assessing 30-day recurrence for patients testing indeterminate for Clostridioides difficile based on treatment status.|https://dx.doi.org/10.1016/j.anaerobe.2025.103012
 Combating resistant pathogens: exploring the efficacy of eravacycline utilization in multidrug-resistant infections.|https://dx.doi.org/10.1128/spectrum.01314-25
+Clinical Impact of Implementing a Specific Clinical Pathway for the Management of Clostridioides difficile Infection.|https://dx.doi.org/10.1007/s40121-025-01261-9
