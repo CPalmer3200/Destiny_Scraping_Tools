@@ -47,3 +47,7 @@ Revealing hidden moves: Staphylococcus spp. exhibit motility in semisolid media.
 Impact of Clinical Factors on Nosocomial Infections and Bacterial Resistance in Resuscitation Settings in Abidjan, Côte d'Ivoire: Retrospective Cross-Sectional Study.|https://dx.doi.org/10.2147/IDR.S539494
 Prevalence and Antibiotic-Resistance Profile of MRSA and MSSA on High-Touch Hospital Surfaces in the Buea Health District, Cameroon.|https://dx.doi.org/10.1155/bmri/1825277
 Antimicrobial Susceptibility Profile of Bacterial Isolates Among Patients Admitted to the Neurosurgery Intensive Care Unit of a Tertiary Care Hospital: A Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.93819
+Antimicrobial resistance in bacterial pathogens from postoperative surgical site infections in a tertiary care centre in India.|https://dx.doi.org/10.1186/s12866-025-04480-9
+Recent development of plant-derived and synthetic cannabinoids as novel antimicrobial agents.|https://dx.doi.org/10.1080/17568919.2025.2580915
+Early-Onset Methicillin-Resistant Staphylococcus aureus Blebitis Following PRESERFLO™ MicroShunt Implantation: A Case Report.|https://dx.doi.org/10.7759/cureus.93967
+Beneficial perspective on Staphylococcus epidermidis: a crucial species for skin homeostasis and pathogen defense.|https://dx.doi.org/10.3389/fimmu.2025.1674392
