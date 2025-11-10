@@ -7,3 +7,5 @@ A narrative review of coagulase-negative staphylococci in diabetic foot infectio
 Advances in Stem Cell Therapy for Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/DMSO.S564011
 Diabetic distal symmetric polyneuropathy: More than just "tingling in the feet".|https://dx.doi.org/10.1111/dom.70235
 Healthcare practitioners' perspectives on infection management, antimicrobial resistance and stewardship in wound care practice.|https://dx.doi.org/10.12968/jowc.2025.0518
+Mechanisms of lncRNA in Diabetic Foot Ulcer Wound Healing.|https://dx.doi.org/10.1002/jgm.70050
+Use of Relese in the treatment of hard-to-heal ulcers: a retrospective, multicentre real-world study.|https://dx.doi.org/10.12968/jowc.2025.0499

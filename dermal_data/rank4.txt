@@ -23,3 +23,8 @@ Photothermally enhanced antibacterial and antioxidant dextran hydrogel dressing 
 Keratin hydrogel loaded with Cu nanoparticles-carbon quantum dots nanocomposites: a sustainable solution for active meat packaging.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148797
 A Multicomponent Salmon PDRN/Sodium Alginate/Gelatin Hydrogel Promotes Infected Wound Repair in Rat.|https://dx.doi.org/10.1021/acsabm.5c01383
 One-Step Tunable Human Hair Keratin Gradient Hydrogel with Antibacterial Activity for Tissue Engineering.|https://dx.doi.org/10.1002/smll.202509775
+A smart ROS-responsive hydrogel for on-demand antibacterial and platelet-rich plasma (PRP) activation in diabetic wound healing.|https://dx.doi.org/10.1016/j.jconrel.2025.114392
+A novel PVA/QCS/AgNP hydrogel with antibacterial and healing-promoting efficacy for preventing postoperative pancreatic fistula in rats.|https://dx.doi.org/10.1016/j.colsurfb.2025.115251
+Exploring the potential of silver phosphate nanoparticles as a slow-releasing agent to develop antibacterial and biocompatible chitosan-based nanocomposite films.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148858
+Tunable physio-adhesive gelatin/carboxymethyl chitosan based hydrogels for hemostatic and accelerated wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148876
+Optimized Damage-Control Hydrogel for Wound and Organ Management in Emergency Abdominal Trauma.|https://dx.doi.org/10.1021/acs.biomac.5c01402
