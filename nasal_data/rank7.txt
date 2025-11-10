@@ -51,3 +51,4 @@ Antimicrobial resistance in bacterial pathogens from postoperative surgical site
 Recent development of plant-derived and synthetic cannabinoids as novel antimicrobial agents.|https://dx.doi.org/10.1080/17568919.2025.2580915
 Early-Onset Methicillin-Resistant Staphylococcus aureus Blebitis Following PRESERFLO™ MicroShunt Implantation: A Case Report.|https://dx.doi.org/10.7759/cureus.93967
 Beneficial perspective on Staphylococcus epidermidis: a crucial species for skin homeostasis and pathogen defense.|https://dx.doi.org/10.3389/fimmu.2025.1674392
+Trends in Antibiotic-Resistant Bacteria in Surgically Treated Periprosthetic Joint Infection: A Decade of Experience at a Regional Referral Center.|https://dx.doi.org/10.1016/j.arth.2025.10.119
