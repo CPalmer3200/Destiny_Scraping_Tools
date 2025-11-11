@@ -9,3 +9,6 @@ Diabetic distal symmetric polyneuropathy: More than just "tingling in the feet".
 Healthcare practitioners' perspectives on infection management, antimicrobial resistance and stewardship in wound care practice.|https://dx.doi.org/10.12968/jowc.2025.0518
 Mechanisms of lncRNA in Diabetic Foot Ulcer Wound Healing.|https://dx.doi.org/10.1002/jgm.70050
 Use of Relese in the treatment of hard-to-heal ulcers: a retrospective, multicentre real-world study.|https://dx.doi.org/10.12968/jowc.2025.0499
+Two-stage replacement of total and subtotal foot bone defects in Charcot neuroosteoarthropathy using personalised allogenic 3D bone bioimplant.|https://dx.doi.org/10.1007/s00264-025-06691-1
+Progress in the clinical application of allogeneic platelet-rich plasma for diabetic foot treatment.|https://dx.doi.org/10.3389/fendo.2025.1694691
+Therapeutic options and prognostic risk factors in diabetic foot osteomyelitis: a narrative review.|https://dx.doi.org/10.1097/JS9.0000000000003917

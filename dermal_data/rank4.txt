@@ -28,3 +28,5 @@ A novel PVA/QCS/AgNP hydrogel with antibacterial and healing-promoting efficacy 
 Exploring the potential of silver phosphate nanoparticles as a slow-releasing agent to develop antibacterial and biocompatible chitosan-based nanocomposite films.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148858
 Tunable physio-adhesive gelatin/carboxymethyl chitosan based hydrogels for hemostatic and accelerated wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148876
 Optimized Damage-Control Hydrogel for Wound and Organ Management in Emergency Abdominal Trauma.|https://dx.doi.org/10.1021/acs.biomac.5c01402
+Bacterial cellulose nanofibers fabricated using electrospinning as a wound dressing material.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148911
+Exploring the Role of Tripeptides in Wound Healing and Skin Regeneration: A Comprehensive Review.|https://dx.doi.org/10.7150/ijms.118118

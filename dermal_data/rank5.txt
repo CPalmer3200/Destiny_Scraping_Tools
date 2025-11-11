@@ -5,3 +5,6 @@ Biofilm-Antagonist Ginger-Based 3D-Printable Photoresins for Complex Implant Des
 Potential of Eugenia brejoensis (Mazine) Essential Oil in Combating Multidrug-Resistant (MDR) Acinetobacter baumannii and Pseudomonas aeruginosa.|https://dx.doi.org/10.1002/cbdv.202501906
 Systemic and local antimicrobial strategies to prevent Periprosthetic joint infection.|https://dx.doi.org/10.1080/14787210.2025.2586067
 Synergistic antimicrobial effects of polyphenolic Chinese medicine active compounds-loaded photothermal nanoparticles against multidrug-resistant Staphylococcus aureus infections.|https://dx.doi.org/10.1016/j.phymed.2025.157498
+Effect of plasma-activated water against E. coli and S. aureus: Influence of organic matter and impact on skin cell viability.|https://dx.doi.org/10.1007/s00253-025-13635-7
+Antimicrobial Susceptibility Profile of Klebsiella pneumoniae Isolates From a Tertiary Care Hospital: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.94006
+Contamination, molecular characterization and virulence of Staphylococcus aureus isolated from pork at cold storage in Hangzhou, China.|https://dx.doi.org/10.1016/j.crfs.2025.101226
