@@ -52,3 +52,10 @@ Recent development of plant-derived and synthetic cannabinoids as novel antimicr
 Early-Onset Methicillin-Resistant Staphylococcus aureus Blebitis Following PRESERFLO™ MicroShunt Implantation: A Case Report.|https://dx.doi.org/10.7759/cureus.93967
 Beneficial perspective on Staphylococcus epidermidis: a crucial species for skin homeostasis and pathogen defense.|https://dx.doi.org/10.3389/fimmu.2025.1674392
 Trends in Antibiotic-Resistant Bacteria in Surgically Treated Periprosthetic Joint Infection: A Decade of Experience at a Regional Referral Center.|https://dx.doi.org/10.1016/j.arth.2025.10.119
+Recurrent Yoke Fracture in Rotating-Hinge Total Knee Arthroplasty: A Case Report and Literature Review.|https://dx.doi.org/10.1016/j.jisako.2025.101033
+Asthma is associated with increased Streptococcus pneumoniae carriage in the upper airway: a systematic review and meta-analysis.|https://dx.doi.org/10.1080/20018525.2025.2569129
+Prevalence, microbiological features, and risk factors for periprosthetic joint infections in oncologic patients following tumor resection and megaprosthetic reconstruction.|https://dx.doi.org/10.5194/jbji-10-337-2025
+A Comparison of Mortality, Readmissions, and Outcomes in Injection Drug Use-Associated Infective Endocarditis Caused by Methicillin-Resistant Versus Methicillin-Susceptible Staphylococcus aureus.|https://dx.doi.org/10.2147/IDR.S555739
+Impact of the COVID-19 pandemic on vancomycin-resistant Enterococcus bloodstream infections: a 6-year study in Western Greece.|https://dx.doi.org/10.3389/fmicb.2025.1656334
+A novel PVA/QCS/AgNP hydrogel with antibacterial and healing-promoting efficacy for preventing postoperative pancreatic fistula in rats.|https://dx.doi.org/10.1016/j.colsurfb.2025.115251
+Rapid detection of Staphylococcus aureus using a fluorescent PoC array for perioperative guidance for infection.|https://dx.doi.org/10.1016/j.bios.2025.118199

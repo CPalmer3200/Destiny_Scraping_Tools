@@ -13,3 +13,4 @@ Scaffold vaccination for prevention of orthopedic device infection.|https://dx.d
 Integrated immunodominant epitope discovery for dual-purpose rapid and economical diagnostic and immunoprotective applications against MRSA.|https://dx.doi.org/10.3389/fimmu.2025.1697829
 A Case of Staphylococcus aureus Septic Arthritis After COVID-19 Vaccination.|https://dx.doi.org/10.1002/jgf2.70068
 Insights from the Study of B-Cell Epitopes of a Microbial Pathogen by Phage Display.|https://dx.doi.org/10.1101/pdb.top107777
+A Case of Immunotherapy-Induced Balanitis.|https://dx.doi.org/10.7759/cureus.94216
