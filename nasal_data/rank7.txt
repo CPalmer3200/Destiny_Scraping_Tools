@@ -59,3 +59,4 @@ A Comparison of Mortality, Readmissions, and Outcomes in Injection Drug Use-Asso
 Impact of the COVID-19 pandemic on vancomycin-resistant Enterococcus bloodstream infections: a 6-year study in Western Greece.|https://dx.doi.org/10.3389/fmicb.2025.1656334
 A novel PVA/QCS/AgNP hydrogel with antibacterial and healing-promoting efficacy for preventing postoperative pancreatic fistula in rats.|https://dx.doi.org/10.1016/j.colsurfb.2025.115251
 Rapid detection of Staphylococcus aureus using a fluorescent PoC array for perioperative guidance for infection.|https://dx.doi.org/10.1016/j.bios.2025.118199
+Magnesium-Loaded Collagen/Hyaluronic Acid-Catechol Hydrogel Cross-Linked by Visible Light for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01725

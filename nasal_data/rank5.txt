@@ -18,3 +18,6 @@ The effect of an urban vs. rural environment on outcomes in autologous breast re
 ElevéL: Superior Pedicle Reduction Mammoplasty With L-shaped Scar.|https://dx.doi.org/10.1097/GOX.0000000000007168
 Laparoscopic Percutaneous Extraperitoneal Closure Compared to Open Repair for Recurrent Inguinal Hernias in Children: A Multicenter Retrospective Study.|https://dx.doi.org/10.1016/j.jpedsurg.2025.162793
 One-year surgical complications and cosmetic outcomes of neoadjuvant/adjuvant chemotherapy in reverse-sequence endoscopic nipple-sparing mastectomy with direct-to-implant reconstruction.|https://dx.doi.org/10.1097/JS9.0000000000003874
+Awareness, attitudes, and clinical utilization of vonoprazan for Helicobacter pylori infection and gastroesophageal reflux disease among Chinese physicians: a nationwide cross-sectional study.|https://dx.doi.org/10.1186/s12876-025-04408-7
+Management of nipple malposition after breast implant removal following nipple sparing mastectomy: An algorithmic approach.|https://dx.doi.org/10.1016/j.jpra.2025.08.041
+The role of bovine pericardium matrix in immediate prepectoral breast reconstruction: Insights from the largest published retrospective series.|https://dx.doi.org/10.1016/j.jpra.2025.09.005

@@ -14,3 +14,4 @@ Integrated immunodominant epitope discovery for dual-purpose rapid and economica
 A Case of Staphylococcus aureus Septic Arthritis After COVID-19 Vaccination.|https://dx.doi.org/10.1002/jgf2.70068
 Insights from the Study of B-Cell Epitopes of a Microbial Pathogen by Phage Display.|https://dx.doi.org/10.1101/pdb.top107777
 A Case of Immunotherapy-Induced Balanitis.|https://dx.doi.org/10.7759/cureus.94216
+Epidemiological and etiological characteristics of respiratory infections among hospitalized patients: insights from a 12-pathogen surveillance study in Eastern China.|https://dx.doi.org/10.1186/s12879-025-11995-z
