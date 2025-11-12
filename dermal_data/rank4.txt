@@ -30,3 +30,4 @@ Tunable physio-adhesive gelatin/carboxymethyl chitosan based hydrogels for hemos
 Optimized Damage-Control Hydrogel for Wound and Organ Management in Emergency Abdominal Trauma.|https://dx.doi.org/10.1021/acs.biomac.5c01402
 Bacterial cellulose nanofibers fabricated using electrospinning as a wound dressing material.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148911
 Exploring the Role of Tripeptides in Wound Healing and Skin Regeneration: A Comprehensive Review.|https://dx.doi.org/10.7150/ijms.118118
+Magnesium-Loaded Collagen/Hyaluronic Acid-Catechol Hydrogel Cross-Linked by Visible Light for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01725
