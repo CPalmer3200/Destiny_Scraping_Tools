@@ -60,3 +60,8 @@ Impact of the COVID-19 pandemic on vancomycin-resistant Enterococcus bloodstream
 A novel PVA/QCS/AgNP hydrogel with antibacterial and healing-promoting efficacy for preventing postoperative pancreatic fistula in rats.|https://dx.doi.org/10.1016/j.colsurfb.2025.115251
 Rapid detection of Staphylococcus aureus using a fluorescent PoC array for perioperative guidance for infection.|https://dx.doi.org/10.1016/j.bios.2025.118199
 Magnesium-Loaded Collagen/Hyaluronic Acid-Catechol Hydrogel Cross-Linked by Visible Light for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01725
+Upregulation of metallophore-related genes of community-acquired methicillin-resistant Staphylococcus aureus enhances pathogenicity in BALB/c mice.|https://dx.doi.org/10.1186/s12864-025-12262-w
+Microbiology, risk factors, and clinical outcomes of low-grade infection in long-bone diaphyseal non-union after open fracture.|https://dx.doi.org/10.1007/s00264-025-06698-8
+Implant-associated biofilms of Staphylococcus aureus and Enterococcus faecalis clinical isolates on expanded polytetrafluoroethylene suture in Galleria mellonella model.|https://dx.doi.org/10.1038/s41598-025-26971-5
+Oritavancin for Treatment of Osteomyelitis: A Systematic Review and Meta-Analysis of Observational Studies.|https://dx.doi.org/10.1002/phar.70072
+Acute Bacterial Sacroiliitis With Associated Iliacus Abscess in a Healthy Young Woman: A Case Report.|https://dx.doi.org/10.1155/crdi/5942523
