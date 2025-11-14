@@ -21,3 +21,6 @@ One-year surgical complications and cosmetic outcomes of neoadjuvant/adjuvant ch
 Awareness, attitudes, and clinical utilization of vonoprazan for Helicobacter pylori infection and gastroesophageal reflux disease among Chinese physicians: a nationwide cross-sectional study.|https://dx.doi.org/10.1186/s12876-025-04408-7
 Management of nipple malposition after breast implant removal following nipple sparing mastectomy: An algorithmic approach.|https://dx.doi.org/10.1016/j.jpra.2025.08.041
 The role of bovine pericardium matrix in immediate prepectoral breast reconstruction: Insights from the largest published retrospective series.|https://dx.doi.org/10.1016/j.jpra.2025.09.005
+Threshold-Based Overlap of Breast Cancer High-Risk Classification Using Family History, Polygenic Risk Scores, and Traditional Risk Models in 180,398 Women.|https://dx.doi.org/10.3390/cancers17213561
+Personalized Surgical Strategies in Breast Cancer: Preliminary Evaluation of the Alexis(®) Retractor for Reducing Postoperative Complications and Improving Operative Efficiency.|https://dx.doi.org/10.3390/jcm14217688
+Irrigation Solutions in Wound Care and Breast Surgery: Evidence-Based Applications, Regulatory Considerations, and Future Directions.|https://dx.doi.org/10.3390/jcm14217679

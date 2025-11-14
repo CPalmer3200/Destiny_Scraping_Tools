@@ -65,3 +65,8 @@ Microbiology, risk factors, and clinical outcomes of low-grade infection in long
 Implant-associated biofilms of Staphylococcus aureus and Enterococcus faecalis clinical isolates on expanded polytetrafluoroethylene suture in Galleria mellonella model.|https://dx.doi.org/10.1038/s41598-025-26971-5
 Oritavancin for Treatment of Osteomyelitis: A Systematic Review and Meta-Analysis of Observational Studies.|https://dx.doi.org/10.1002/phar.70072
 Acute Bacterial Sacroiliitis With Associated Iliacus Abscess in a Healthy Young Woman: A Case Report.|https://dx.doi.org/10.1155/crdi/5942523
+From prebiotics to engineered microbes: microbe-inspired therapies for atopic dermatitis.|https://dx.doi.org/10.1093/bjd/ljaf451
+Revolutionizing Wound Care: The Role of Nanotechnology and Biopolymer-Based Materials.|https://dx.doi.org/10.1021/acsabm.5c01412
+Complications and management of penile enhancement procedures.|https://dx.doi.org/10.21037/tau-23-519
+In Vitro Analysis of the Dynamic Role of the Bacterial Virulence Factors in Skin Wound Healing.|https://dx.doi.org/10.3390/ijms262110472
+Vagal Neuropathy From an Ear Foreign Body: A Black Swan Event in Clinical Practice.|https://dx.doi.org/10.1097/MAO.0000000000004717

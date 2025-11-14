@@ -17,3 +17,4 @@ A Case of Immunotherapy-Induced Balanitis.|https://dx.doi.org/10.7759/cureus.942
 Epidemiological and etiological characteristics of respiratory infections among hospitalized patients: insights from a 12-pathogen surveillance study in Eastern China.|https://dx.doi.org/10.1186/s12879-025-11995-z
 Probiotic Potential and Partial Characterizations of Exopolysaccharide from Lactic Acid Bacteria Isolated from Camel Rumen and Dairy Products.|https://dx.doi.org/10.1016/j.micpath.2025.108168
 Genomic diversity and antimicrobial resistance of Staphylococcus aureus in Saudi Arabia: a nationwide study using whole-genome sequencing.|https://dx.doi.org/10.1099/mgen.0.001540
+Mupirocin-Nanoemulsion Infused Salicylic Acid Gel Utilizing Nigella sativa Oil for Treatment of Imiquimod-Induced Psoriasis in Mice.|https://dx.doi.org/10.1080/1061186X.2025.2588692
