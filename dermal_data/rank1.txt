@@ -4,3 +4,4 @@ Burning windjammer: Multi-rotor engineered photothermal agent with 87% photother
 A transparent multifunctional sericin-glycyrrhizic acid-Zn(2+) hydrogel dressing with synergistic antioxidant and antimicrobial activities for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148834
 Beneficial perspective on Staphylococcus epidermidis: a crucial species for skin homeostasis and pathogen defense.|https://dx.doi.org/10.3389/fimmu.2025.1674392
 Evaluating the Impact of CFTR Modulator Therapy on Antibiotic Utilization: Insights from a Single Center Retrospective Review and Pediatric Health Information System Database.|https://dx.doi.org/10.1093/jpids/piaf102
+A dual-network hydrogel accelerates infected burn healing through synergistic anti-bacterial, antioxidant, and anti-inflammatory actions.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148988

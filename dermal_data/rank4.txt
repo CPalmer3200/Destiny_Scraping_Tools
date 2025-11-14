@@ -31,3 +31,9 @@ Optimized Damage-Control Hydrogel for Wound and Organ Management in Emergency Ab
 Bacterial cellulose nanofibers fabricated using electrospinning as a wound dressing material.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148911
 Exploring the Role of Tripeptides in Wound Healing and Skin Regeneration: A Comprehensive Review.|https://dx.doi.org/10.7150/ijms.118118
 Magnesium-Loaded Collagen/Hyaluronic Acid-Catechol Hydrogel Cross-Linked by Visible Light for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01725
+Dextran-based thermosensitive hydrogel with photothermal enhanced antibacterial property for wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.115264
+Revolutionizing Wound Care: The Role of Nanotechnology and Biopolymer-Based Materials.|https://dx.doi.org/10.1021/acsabm.5c01412
+A Safe and Multifunctional γ-PGA Hydrogel Platform: Endotoxin-Controlled Injectable Fillers and Antimicrobial Wound Dressings.|https://dx.doi.org/10.3390/molecules30214205
+Light responsive chitosan hydrogel incorporated with PCN-224@berberine for antibiotic resistant bacterial infected wound management.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148945
+Anti-inflammatory and tissue regeneration effects of a chlorogenic acid/hyaluronic acid hydrogel on methicillin-resistant Staphylococcus aureus-infected diabetic wounds.|https://dx.doi.org/10.1039/d5bm01236h
+Tailoring Injectable Chitosan-Cellulose Quaternary Hydrogels Through Room-Temperature Diels-Alder for Accelerating Wound Healing.|https://dx.doi.org/10.1002/adhm.202503481

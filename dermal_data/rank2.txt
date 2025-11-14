@@ -16,3 +16,7 @@ Explainable machine learning for differential diagnosis of diabetic foot infecti
 Swabs versus tissue samples for infected diabetic foot ulcers: the CODIFI2 RCT.|https://dx.doi.org/10.3310/KKPP0404
 Osteomyelitis and Its Main Determinants in Patients With Diabetic Foot Ulcer: A Cross-Sectional Study.|https://dx.doi.org/10.1002/hsr2.71463
 Outcomes of Collagen and Conventional Dressings in the Management of Diabetic Foot Ulcers: A Comparative Study in Bangladesh.|https://dx.doi.org/10.7759/cureus.94306
+[Charcot Neuroarthropathy: a Review of Pathophysiology, Diagnosis, Treatment, and Prognosis with a Focus on the Foot].|https://dx.doi.org/10.11477/mf.188160960770111201
+A Systematic Review and Meta-Analysis on Partial Foot Amputation in Diabetic Foot Ulcers.|https://dx.doi.org/10.1016/j.jvs.2025.11.005
+Biofilms and Chronic Wounds: Pathogenesis and Treatment Options.|https://dx.doi.org/10.3390/jcm14217784
+Irrigation Solutions in Wound Care and Breast Surgery: Evidence-Based Applications, Regulatory Considerations, and Future Directions.|https://dx.doi.org/10.3390/jcm14217679

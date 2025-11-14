@@ -8,3 +8,4 @@ Synergistic antimicrobial effects of polyphenolic Chinese medicine active compou
 Effect of plasma-activated water against E. coli and S. aureus: Influence of organic matter and impact on skin cell viability.|https://dx.doi.org/10.1007/s00253-025-13635-7
 Antimicrobial Susceptibility Profile of Klebsiella pneumoniae Isolates From a Tertiary Care Hospital: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.94006
 Contamination, molecular characterization and virulence of Staphylococcus aureus isolated from pork at cold storage in Hangzhou, China.|https://dx.doi.org/10.1016/j.crfs.2025.101226
+Beyond traditional therapies: a narrative overview of antimicrobial photodynamic therapy in combating bacterial and viral infections.|https://dx.doi.org/10.1007/s00203-025-04558-y
