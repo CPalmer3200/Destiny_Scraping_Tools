@@ -1,0 +1,1 @@
+Accelerated detection of Clostridioides difficile sequence type 37 by integrating MALDI-TOF mass spectrometry with artificial neural network.|https://dx.doi.org/10.1128/spectrum.01728-25
