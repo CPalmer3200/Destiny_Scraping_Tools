@@ -9,3 +9,4 @@ Effect of plasma-activated water against E. coli and S. aureus: Influence of org
 Antimicrobial Susceptibility Profile of Klebsiella pneumoniae Isolates From a Tertiary Care Hospital: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.94006
 Contamination, molecular characterization and virulence of Staphylococcus aureus isolated from pork at cold storage in Hangzhou, China.|https://dx.doi.org/10.1016/j.crfs.2025.101226
 Beyond traditional therapies: a narrative overview of antimicrobial photodynamic therapy in combating bacterial and viral infections.|https://dx.doi.org/10.1007/s00203-025-04558-y
+Association Between Breast Microbiota and Capsular Contracture: A Systematic Review.|https://dx.doi.org/10.1093/asjof/ojaf128

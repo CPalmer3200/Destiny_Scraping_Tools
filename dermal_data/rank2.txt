@@ -20,3 +20,6 @@ Outcomes of Collagen and Conventional Dressings in the Management of Diabetic Fo
 A Systematic Review and Meta-Analysis on Partial Foot Amputation in Diabetic Foot Ulcers.|https://dx.doi.org/10.1016/j.jvs.2025.11.005
 Biofilms and Chronic Wounds: Pathogenesis and Treatment Options.|https://dx.doi.org/10.3390/jcm14217784
 Irrigation Solutions in Wound Care and Breast Surgery: Evidence-Based Applications, Regulatory Considerations, and Future Directions.|https://dx.doi.org/10.3390/jcm14217679
+PTA-DFS study: design of a randomised controlled trial assessing the effects of early percutaneous transluminal angioplasty on the healing of diabetic foot ulcers in persons with type 2 diabetes.|https://dx.doi.org/10.1186/s12872-025-05288-1
+Predictors of Post-Amputation Complications in Major Lower Limb Amputations: The Role of WIfI Scoring and Pre-Amputation Transcutaneous Oximetry (TcPO2).|https://dx.doi.org/10.1111/iwj.70785
+Bacterial and antibiotic susceptibility test patterns and quality of life of diabetic foot ulcer patients.|https://dx.doi.org/10.4103/JAPTR.JAPTR_277_24

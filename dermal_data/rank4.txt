@@ -37,3 +37,4 @@ A Safe and Multifunctional γ-PGA Hydrogel Platform: Endotoxin-Controlled Inject
 Light responsive chitosan hydrogel incorporated with PCN-224@berberine for antibiotic resistant bacterial infected wound management.|https://dx.doi.org/10.1016/j.ijbiomac.2025.148945
 Anti-inflammatory and tissue regeneration effects of a chlorogenic acid/hyaluronic acid hydrogel on methicillin-resistant Staphylococcus aureus-infected diabetic wounds.|https://dx.doi.org/10.1039/d5bm01236h
 Tailoring Injectable Chitosan-Cellulose Quaternary Hydrogels Through Room-Temperature Diels-Alder for Accelerating Wound Healing.|https://dx.doi.org/10.1002/adhm.202503481
+Development and in vitro/in vivo evaluation of a triply periodic minimal surface-based 3D-printed anti-infective bone scaffold with spatiotemporally controlled osteogenesis.|https://dx.doi.org/10.1039/d5tb02071a
