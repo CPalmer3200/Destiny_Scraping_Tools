@@ -70,3 +70,9 @@ Revolutionizing Wound Care: The Role of Nanotechnology and Biopolymer-Based Mate
 Complications and management of penile enhancement procedures.|https://dx.doi.org/10.21037/tau-23-519
 In Vitro Analysis of the Dynamic Role of the Bacterial Virulence Factors in Skin Wound Healing.|https://dx.doi.org/10.3390/ijms262110472
 Vagal Neuropathy From an Ear Foreign Body: A Black Swan Event in Clinical Practice.|https://dx.doi.org/10.1097/MAO.0000000000004717
+Evaluation of antibiotic resistance, Staphylococci carriage and biochemical parameters of intensive care unit patients.|https://dx.doi.org/10.1038/s41598-025-23652-1
+Bioactive constituents from Gardenia aqualla (Rubiaceae) stem bark as promising antibacterial agents : In Vitro and In Silico Insights.|https://dx.doi.org/10.1016/j.micpath.2025.108182
+Development and in vitro/in vivo evaluation of a triply periodic minimal surface-based 3D-printed anti-infective bone scaffold with spatiotemporally controlled osteogenesis.|https://dx.doi.org/10.1039/d5tb02071a
+Infective endocarditis meets native vertebral osteomyelitis: a mortality perspective.|https://dx.doi.org/10.5194/jbji-10-425-2025
+Sternoclavicular Joint Septic Arthritis Following Blunt Trauma: Successful Surgical Management and One-Year Outcome.|https://dx.doi.org/10.7759/cureus.94458
+Microsphere-Coated Drug Reservoirs in Titanium Implants with pH-Responsive and Osmolality-Adaptive Drug Release for Enhanced Antibacterial Efficacy and Biocompatibility.|https://dx.doi.org/10.1021/acsami.5c16548

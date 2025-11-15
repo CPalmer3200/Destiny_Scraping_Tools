@@ -24,3 +24,6 @@ The role of bovine pericardium matrix in immediate prepectoral breast reconstruc
 Threshold-Based Overlap of Breast Cancer High-Risk Classification Using Family History, Polygenic Risk Scores, and Traditional Risk Models in 180,398 Women.|https://dx.doi.org/10.3390/cancers17213561
 Personalized Surgical Strategies in Breast Cancer: Preliminary Evaluation of the Alexis(®) Retractor for Reducing Postoperative Complications and Improving Operative Efficiency.|https://dx.doi.org/10.3390/jcm14217688
 Irrigation Solutions in Wound Care and Breast Surgery: Evidence-Based Applications, Regulatory Considerations, and Future Directions.|https://dx.doi.org/10.3390/jcm14217679
+Effectiveness of telehealth versus face-to-face appointments in identifying complications following breast cancer surgery.|https://dx.doi.org/10.1007/s00520-025-10113-8
+Breast Reconstruction Through the Decades: a Review of Innovations and Surgical Trends.|https://dx.doi.org/10.1007/s00266-025-05437-z
+The Learning Curve of Reverse-Sequence Endoscopic Nipple-Sparing Mastectomy with Immediate Prepectoral Implant Reconstruction: CUSUM Analysis.|https://dx.doi.org/10.2147/BCTT.S558984
