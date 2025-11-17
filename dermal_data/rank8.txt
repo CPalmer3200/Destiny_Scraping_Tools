@@ -2,3 +2,4 @@ A Case of Immunotherapy-Induced Balanitis.|https://dx.doi.org/10.7759/cureus.942
 Monitoring the complexity and dynamics of mitochondrial translation.|https://dx.doi.org/10.1016/j.molcel.2025.10.022
 Comparing the wound healing properties of two antibacterial peptides, CM11 and FR7, using a rat model with an infected wound.|https://dx.doi.org/10.1016/j.bbrc.2025.152930
 Mupirocin-Nanoemulsion Infused Salicylic Acid Gel Utilizing Nigella sativa Oil for Treatment of Imiquimod-Induced Psoriasis in Mice.|https://dx.doi.org/10.1080/1061186X.2025.2588692
+Retapamulin alleviates DSS-induced ulcerative colitis via direct AMPK activation and modulation of the gut microbiota-metabolite axis.|https://dx.doi.org/10.1016/j.intimp.2025.115843
