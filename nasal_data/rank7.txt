@@ -78,3 +78,6 @@ Sternoclavicular Joint Septic Arthritis Following Blunt Trauma: Successful Surgi
 Microsphere-Coated Drug Reservoirs in Titanium Implants with pH-Responsive and Osmolality-Adaptive Drug Release for Enhanced Antibacterial Efficacy and Biocompatibility.|https://dx.doi.org/10.1021/acsami.5c16548
 Fabrication of dual physically cross-linked agarose-based double network composite hydrogels with antibacterial and hemostatic properties for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149011
 Ultrasonically synthesized Cu/Ag/Zn nanocomposite coatings for antibacterial and antibiofilm applications in urological devices.|https://dx.doi.org/10.1016/j.ultsonch.2025.107674
+Murine model of antibiotic-associated Staphylococcus aureus gastrointestinal infections (SAGII) and colonization.|https://dx.doi.org/10.1186/s13099-025-00768-3
+Self-Adaptive 3D-Printed PCLA/BCP Scaffolds Functionalized using Vapor Etching and Nanocoating for Immunomodulatory and Antibacterial Bone Regeneration.|https://dx.doi.org/10.1016/j.actbio.2025.11.022
+A cohort study evaluating microorganisms and antibiotic resistance in hand trauma and general plastic surgery trauma wounds.|https://dx.doi.org/10.1016/j.bjps.2025.08.031
