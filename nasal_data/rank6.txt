@@ -22,3 +22,6 @@ Healthcare-associated infections: an overview of global strategies and challenge
 Dual Challenge: Managing Complicated Diphtheria in a Child With Acute Myeloid Leukemia.|https://dx.doi.org/10.7759/cureus.94440
 Ureteric stromal progenitors give rise to kidney inner cortical pericytes via an arterial mural cell intermediate.|https://dx.doi.org/10.1016/j.ydbio.2025.11.005
 Female Sex and Mortality in Patients With Gram-Negative Bacteremia: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1001/jamanetworkopen.2025.43552
+Australian Group on Antimicrobial Resistance (AGAR) surveillance outcome programs - bloodstream infections and antimicrobial resistance patterns in Australian children and adolescents, January 2022 - December 2023.|https://dx.doi.org/10.33321/cdi.2025.49.052
+Staphylococcus aureus characterization in commercial rabbit farms reveals high genetic diversity and widespread antimicrobial resistance.|https://dx.doi.org/10.3389/fvets.2025.1673809
+Laxative-induced contact burns from accidental ingestion of senna in a 2-year-old female.|https://dx.doi.org/10.1002/jpr3.70087

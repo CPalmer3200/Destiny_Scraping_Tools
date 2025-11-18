@@ -81,3 +81,7 @@ Ultrasonically synthesized Cu/Ag/Zn nanocomposite coatings for antibacterial and
 Murine model of antibiotic-associated Staphylococcus aureus gastrointestinal infections (SAGII) and colonization.|https://dx.doi.org/10.1186/s13099-025-00768-3
 Self-Adaptive 3D-Printed PCLA/BCP Scaffolds Functionalized using Vapor Etching and Nanocoating for Immunomodulatory and Antibacterial Bone Regeneration.|https://dx.doi.org/10.1016/j.actbio.2025.11.022
 A cohort study evaluating microorganisms and antibiotic resistance in hand trauma and general plastic surgery trauma wounds.|https://dx.doi.org/10.1016/j.bjps.2025.08.031
+Basophils in Atopic Dermatitis: Immunologic Roles and Clinical Implications.|https://dx.doi.org/10.1016/j.anai.2025.11.005
+Australian Group on Antimicrobial Resistance (AGAR) Australian Staphylococcus aureus Surveillance Outcome Program (ASSOP) Bloodstream Infection Annual Report 2024.|https://dx.doi.org/10.33321/cdi.2025.49.054
+Post-flexible Bronchoscopy Escherichia coli Empyema: A Rare Complication or an Inflammatory Bacterial Translocation?|https://dx.doi.org/10.7759/cureus.96852
+Prevalence of micorganisms and antibiotics susceptibility at burn unit of tertiary care hospital in southern Punjab - A Retrospective Study.|https://dx.doi.org/10.47391/JPMA.11604
