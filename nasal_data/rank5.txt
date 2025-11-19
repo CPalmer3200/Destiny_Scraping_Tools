@@ -32,3 +32,4 @@ Clinical Outcomes of Lipodermal Flaps in One-Stage Pre-pectoral Implant-Based Br
 Nanotechnology-Enhanced Materials and Smart Implants in General Surgery: A Systematic Review of Human Clinical Outcomes.|https://dx.doi.org/10.7759/cureus.94703
 Use of Mammoplasty to Treat a Recurrent Breast Abscess: Improving Cosmetic Outcomes by Incorporating Principles of Oncoplastic Breast Surgery.|https://dx.doi.org/10.7759/cureus.94740
 Does Size Matter? Exploring the Impact of Acellular Dermal Matrix Dimensions on Complications in Immediate Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000007215
+Breast reconstruction-related complications from postmastectomy radiation therapy in stage II-III breast cancer: sub-analysis of a multi-institutional observational study (Reborn-03).|https://dx.doi.org/10.1007/s12282-025-01799-z
