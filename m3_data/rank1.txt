@@ -6,3 +6,4 @@ Design and application of synthetic human gut microbial communities.|https://dx.
 Diagnosis and Management of C. difficile.|https://dx.doi.org/10.14309/ajg.0000000000003844
 A Tale of Two Infections: A Rare Synchronous Infection of Herpes Simplex Virus Oesophagitis and Clostridium difficile in an Immunocompetent Host.|https://dx.doi.org/10.7759/cureus.94660
 Integrated analysis of the safety of fecal microbiota, live-jslm in adults with recurrent Clostridioides difficile infection from five prospective clinical trials: an update.|https://dx.doi.org/10.1177/17562848251395566
+FMT promotes type 2 mucosal immune responses with colonic epithelium proliferation in recurrent CDI patients.|https://dx.doi.org/10.1172/jci.insight.195678
