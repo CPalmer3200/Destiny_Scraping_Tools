@@ -25,3 +25,6 @@ Female Sex and Mortality in Patients With Gram-Negative Bacteremia: A Systematic
 Australian Group on Antimicrobial Resistance (AGAR) surveillance outcome programs - bloodstream infections and antimicrobial resistance patterns in Australian children and adolescents, January 2022 - December 2023.|https://dx.doi.org/10.33321/cdi.2025.49.052
 Staphylococcus aureus characterization in commercial rabbit farms reveals high genetic diversity and widespread antimicrobial resistance.|https://dx.doi.org/10.3389/fvets.2025.1673809
 Laxative-induced contact burns from accidental ingestion of senna in a 2-year-old female.|https://dx.doi.org/10.1002/jpr3.70087
+Discovery of protease inhibitors from bacteria as novel adjuvants for oral vaccine formulations.|https://dx.doi.org/10.3389/fimmu.2025.1679540
+Synergistic nano-vaccine strategy for comprehensive activation of adaptive and innate immunity against Staphylococcus aureus infection.|https://dx.doi.org/10.3389/fimmu.2025.1665710
+Clinical profile and outcome of complicated community-acquired pneumonia in children in the post-pneumococcal vaccination era.|https://dx.doi.org/10.12998/wjcc.v13.i32.109094

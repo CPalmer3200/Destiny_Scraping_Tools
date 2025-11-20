@@ -87,3 +87,7 @@ Post-flexible Bronchoscopy Escherichia coli Empyema: A Rare Complication or an I
 Prevalence of micorganisms and antibiotics susceptibility at burn unit of tertiary care hospital in southern Punjab - A Retrospective Study.|https://dx.doi.org/10.47391/JPMA.11604
 Computational approaches to the in vitro antimicrobial potential of Streptomyces paradoxus E4-10 extract against multidrug-resistant bacteria and phytopathogenic fungi.|https://dx.doi.org/10.1007/s10123-025-00748-2
 Multidrug resistant bacteria and associated risk factors of external ocular infections at University of Gondar tertiary hospital in Northwest Ethiopia.|https://dx.doi.org/10.1186/s12348-025-00541-2
+Effectiveness of 808 nm Near Infrared (NIR) Laser Photobiomodulation for Accelerating Postoperative Wound Healing.|https://dx.doi.org/10.34172/jlms.2025.35
+Uncommon Etiology of Pleural Empyema: Enterococcus faecalis in an Immunocompetent Host.|https://dx.doi.org/10.4103/aam.aam_373_25
+CRISPR-Cas-associated SCCmec variants in methicillin-resistant Staphylococcus aureus evade rapid diagnostic detection.|https://dx.doi.org/10.1093/infdis/jiaf575
+Ventilator-associated cavitary pneumonia after lung contusion: a case report.|https://dx.doi.org/10.1186/s13256-025-05685-2

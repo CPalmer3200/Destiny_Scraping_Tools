@@ -11,3 +11,4 @@ Novel Chronic Rhinosinusitis (CRS) Subtypes Based on Clinical Features and Respo
 Active surveillance of multidrug-resistant organism colonization in a tertiary hospital in Northern Greece.|https://dx.doi.org/10.1038/s41598-025-24140-2
 The molecular evidence of toxic shock syndrome toxin-1 on methicillin-resistant Staphylococcus aureus isolated from cats in Surabaya, Indonesia.|https://dx.doi.org/10.5455/OVJ.2025.v15.i10.34
 KY-MRSA: a comprehensive review of methicillin-resistant Staphylococcus aureus polymerase chain reaction nasal screening practices across nine institutions in Kentucky.|https://dx.doi.org/10.1017/ash.2025.10201
+Staphylococcus aureus nasal carriage is associated with faster symptom resolution following nasal allergen challenge in ragweed-allergic participants: a subset of the Allergic Rhinitis Microbiome Study.|https://dx.doi.org/10.1186/s13223-025-00990-3
