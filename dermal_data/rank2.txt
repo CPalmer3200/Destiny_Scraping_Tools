@@ -26,3 +26,4 @@ Bacterial and antibiotic susceptibility test patterns and quality of life of dia
 Selective antimicrobial photodynamic therapy of clinical isolates from patients with infected diabetic foot ulcers using a small cationic chlorin.|https://dx.doi.org/10.1128/aac.00962-25
 Effectivity of the Dehydrated Human Amnion/Chorion Membrane Allograft for Diabetic Foot Ulcers in Japan: A Case Series.|https://dx.doi.org/10.1111/iwj.70787
 Collagen-ORC Versus Standard Treatment in Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis of Randomised Trials.|https://dx.doi.org/10.1111/iwj.70782
+Dual-layer microneedles for immunomodulation and infection-responsive therapy in diabetic foot ulcers.|https://dx.doi.org/10.1016/j.mtbio.2025.102490
