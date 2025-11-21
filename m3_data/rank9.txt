@@ -1,1 +1,2 @@
 Accelerated detection of Clostridioides difficile sequence type 37 by integrating MALDI-TOF mass spectrometry with artificial neural network.|https://dx.doi.org/10.1128/spectrum.01728-25
+A Retrospective Pre-Post Observational Study Of The Effectiveness of Cognitive Stimulation Therapy and Reality Orientation & Reminiscence Therapy in Older Chinese People with Dementia.|https://dx.doi.org/10.1007/s10823-025-09548-7
