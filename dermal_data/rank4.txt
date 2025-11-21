@@ -39,3 +39,12 @@ Anti-inflammatory and tissue regeneration effects of a chlorogenic acid/hyaluron
 Tailoring Injectable Chitosan-Cellulose Quaternary Hydrogels Through Room-Temperature Diels-Alder for Accelerating Wound Healing.|https://dx.doi.org/10.1002/adhm.202503481
 Development and in vitro/in vivo evaluation of a triply periodic minimal surface-based 3D-printed anti-infective bone scaffold with spatiotemporally controlled osteogenesis.|https://dx.doi.org/10.1039/d5tb02071a
 Fabrication of dual physically cross-linked agarose-based double network composite hydrogels with antibacterial and hemostatic properties for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149011
+Ultrasmall BaTiO(3) Nanoparticle-Based Piezoelectric Adhesive Bandage for Ultrasound-Driven, Drug-Free Antibacterial Wound Healing.|https://dx.doi.org/10.1021/acs.nanolett.5c04796
+Dual chitosan hydrogel and polylactic acid microparticle delivery system reduces Staphylococcal osteomyelitis and soft tissue infection.|https://dx.doi.org/10.1038/s41522-025-00840-5
+3D/3.5D Extrusion-Printed Electroconductive Carbon-Nanofiber-Embedded Alginate-Gelatin Hydrogel-Based Grafts: Comprehensive Understanding of Process Science and Biocompatibility.|https://dx.doi.org/10.1021/acsbiomaterials.5c00967
+Multifunctional sodium alginate injectable hydrogel based on intelligent cascade dynamic regulation (ICDR) of ROS response therapy and inflammation visualization.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149141
+Anti-infection and healing promotion of skin ECM hydrogel.|https://dx.doi.org/10.1080/15569527.2025.2531039
+Synthesis and characterization of a highly stable mucoadhesive gel for oral drug delivery.|https://dx.doi.org/10.3389/fdmed.2025.1696639
+Anti-staphylococcal chitosan-alginate-lyophilized platelet-rich fibrin wound dressings for infected wound healing.|https://dx.doi.org/10.1080/09205063.2025.2588215
+Flexible PEGDA-gelatin hydrogel for optical fibers with enhanced electromechanical properties and initial insights into antimicrobial activity and light transmission.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149065
+Carbon Dot-Capped Silver Nanoparticle-Embedded Double-Network Chitosan Hydrogel as a Multifunctional Biomaterial for Antibacterial, Hemostasis, and Wound Dressing.|https://dx.doi.org/10.1021/acsbiomaterials.5c01530

@@ -27,3 +27,6 @@ Selective antimicrobial photodynamic therapy of clinical isolates from patients 
 Effectivity of the Dehydrated Human Amnion/Chorion Membrane Allograft for Diabetic Foot Ulcers in Japan: A Case Series.|https://dx.doi.org/10.1111/iwj.70787
 Collagen-ORC Versus Standard Treatment in Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis of Randomised Trials.|https://dx.doi.org/10.1111/iwj.70782
 Dual-layer microneedles for immunomodulation and infection-responsive therapy in diabetic foot ulcers.|https://dx.doi.org/10.1016/j.mtbio.2025.102490
+Cold Atmospheric Plasma Therapy for Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.|https://dx.doi.org/10.1177/15347346251395904
+Type 3A free anterolateral thigh chimeric flap based on the Zunyi classification for reconstructing diabetic foot wounds.|https://dx.doi.org/10.3389/fsurg.2025.1679998
+Acute on Chronic Diabetic Forefoot Osteomyelitis Treated With Internal Pedal Amputation and Cement: A Preliminary Report.|https://dx.doi.org/10.1177/24730114251394009

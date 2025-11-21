@@ -10,3 +10,8 @@ Antimicrobial Susceptibility Profile of Klebsiella pneumoniae Isolates From a Te
 Contamination, molecular characterization and virulence of Staphylococcus aureus isolated from pork at cold storage in Hangzhou, China.|https://dx.doi.org/10.1016/j.crfs.2025.101226
 Beyond traditional therapies: a narrative overview of antimicrobial photodynamic therapy in combating bacterial and viral infections.|https://dx.doi.org/10.1007/s00203-025-04558-y
 Association Between Breast Microbiota and Capsular Contracture: A Systematic Review.|https://dx.doi.org/10.1093/asjof/ojaf128
+Novel antimicrobial peptides and peptide-microbiome crosstalk in Appalachian salamander skin.|https://dx.doi.org/10.1038/s41522-025-00837-0
+Hospitalizations involving Candida parapsilosis bloodstream infection, United States, 2016-2024.|https://dx.doi.org/10.1093/mmy/myaf109
+Stage-Responsive Multifunctional Microneedle Patches for Enhanced Biofilm Penetration and Accelerated Healing of Bacterial Infected Skin Wounds.|https://dx.doi.org/10.1021/acsami.5c20107
+A research agenda for burn infection prevention: identifying knowledge gaps and prioritizing future directions.|https://dx.doi.org/10.1017/ash.2025.10213
+Rapid acquisition of daptomycin resistance in a Corynebacterium striatum osteoarticular infection: case report and discussion on antimicrobial resistance.|https://dx.doi.org/10.1128/asmcr.00106-25
