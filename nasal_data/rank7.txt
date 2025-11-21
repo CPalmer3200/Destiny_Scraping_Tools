@@ -91,3 +91,6 @@ Effectiveness of 808 nm Near Infrared (NIR) Laser Photobiomodulation for Acceler
 Uncommon Etiology of Pleural Empyema: Enterococcus faecalis in an Immunocompetent Host.|https://dx.doi.org/10.4103/aam.aam_373_25
 CRISPR-Cas-associated SCCmec variants in methicillin-resistant Staphylococcus aureus evade rapid diagnostic detection.|https://dx.doi.org/10.1093/infdis/jiaf575
 Ventilator-associated cavitary pneumonia after lung contusion: a case report.|https://dx.doi.org/10.1186/s13256-025-05685-2
+Patient characteristics, valve surgery and 1-year mortality in left-sided Staphylococcus aureus infective endocarditis: a nationwide study.|https://dx.doi.org/10.1136/heartjnl-2025-327031
+Multifunctional sodium alginate injectable hydrogel based on intelligent cascade dynamic regulation (ICDR) of ROS response therapy and inflammation visualization.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149141
+Characteristics of Pathogens of Acute Exacerbation of Chronic Obstructive Pulmonary Disease Hospitalized Patients: A Retrospective Study From 2010 to 2020.|https://dx.doi.org/10.1155/pm/4025205
