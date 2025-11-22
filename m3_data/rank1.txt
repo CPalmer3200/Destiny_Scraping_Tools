@@ -10,3 +10,4 @@ FMT promotes type 2 mucosal immune responses with colonic epithelium proliferati
 Correction: Budget Impact Analysis of Fecal Microbiota Spores, Live-brpk (Formerly SER-109) for Recurrent Clostridioides difficile Infection in the United States.|https://dx.doi.org/10.1007/s40121-025-01266-4
 The sex hormone-gut microbiome axis: mechanistic drivers of sex-disparate bacterial infection outcomes and precision clinical interventions.|https://dx.doi.org/10.1128/cmr.00236-25
 Interventions to optimize duration of antibiotic therapy and encourage oral transition for uncomplicated gram-negative blood stream infections across a health system.|https://dx.doi.org/10.1017/ice.2025.10359
+Clostridioides difficile: A suspected pro-carcinogenic bacterium for gastrointestinal tumors.|https://dx.doi.org/10.1097/CM9.0000000000003834
