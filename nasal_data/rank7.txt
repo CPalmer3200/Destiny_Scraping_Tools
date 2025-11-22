@@ -94,3 +94,6 @@ Ventilator-associated cavitary pneumonia after lung contusion: a case report.|ht
 Patient characteristics, valve surgery and 1-year mortality in left-sided Staphylococcus aureus infective endocarditis: a nationwide study.|https://dx.doi.org/10.1136/heartjnl-2025-327031
 Multifunctional sodium alginate injectable hydrogel based on intelligent cascade dynamic regulation (ICDR) of ROS response therapy and inflammation visualization.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149141
 Characteristics of Pathogens of Acute Exacerbation of Chronic Obstructive Pulmonary Disease Hospitalized Patients: A Retrospective Study From 2010 to 2020.|https://dx.doi.org/10.1155/pm/4025205
+Nationwide surveillance and molecular characterization of methicillin-resistant Staphylococcus pseudintermedius isolated from dogs and cats in South Korea.|https://dx.doi.org/10.1038/s41598-025-24385-x
+The In Vitro Performance of Surgical Irrigation Solutions in Preventing Biofilm Formation on Implants.|https://dx.doi.org/10.1016/j.arth.2025.11.026
+Antibiotic Stewardship in Lower Urinary Tract Infections Among the Elderly at a District General Hospital.|https://dx.doi.org/10.7759/cureus.95002
