@@ -97,3 +97,6 @@ Characteristics of Pathogens of Acute Exacerbation of Chronic Obstructive Pulmon
 Nationwide surveillance and molecular characterization of methicillin-resistant Staphylococcus pseudintermedius isolated from dogs and cats in South Korea.|https://dx.doi.org/10.1038/s41598-025-24385-x
 The In Vitro Performance of Surgical Irrigation Solutions in Preventing Biofilm Formation on Implants.|https://dx.doi.org/10.1016/j.arth.2025.11.026
 Antibiotic Stewardship in Lower Urinary Tract Infections Among the Elderly at a District General Hospital.|https://dx.doi.org/10.7759/cureus.95002
+Methicillin-resistant Staphylococcus aureus colonization and associated factors in clinical isolates among patients attending a tertiary medical centre in Nigeria.|https://dx.doi.org/10.1186/s12879-025-12166-w
+A case report of wrist arthritis caused by Gemella haemolysans.|https://dx.doi.org/10.1186/s12879-025-12160-2
+Light-activated chitosan hydrogel: A bioadhesive platform for emergency hemostasis and bacteria-infected wound management.|https://dx.doi.org/10.1016/j.carbpol.2025.124557
