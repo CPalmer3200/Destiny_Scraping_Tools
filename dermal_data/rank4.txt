@@ -48,3 +48,11 @@ Synthesis and characterization of a highly stable mucoadhesive gel for oral drug
 Anti-staphylococcal chitosan-alginate-lyophilized platelet-rich fibrin wound dressings for infected wound healing.|https://dx.doi.org/10.1080/09205063.2025.2588215
 Flexible PEGDA-gelatin hydrogel for optical fibers with enhanced electromechanical properties and initial insights into antimicrobial activity and light transmission.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149065
 Carbon Dot-Capped Silver Nanoparticle-Embedded Double-Network Chitosan Hydrogel as a Multifunctional Biomaterial for Antibacterial, Hemostasis, and Wound Dressing.|https://dx.doi.org/10.1021/acsbiomaterials.5c01530
+Modulating cationic-hydrophobic balance in hydrogel polymer nanoparticles for enhanced membrane interactions and antibacterial functions.|https://dx.doi.org/10.1016/j.jconrel.2025.114452
+Development of pea protein nanofibrils-derived hydrogel mediated with EGCG for curcumin vehiculation: Characteristics, stability, and antimicrobial activity.|https://dx.doi.org/10.1016/j.foodchem.2025.147190
+Light-activated chitosan hydrogel: A bioadhesive platform for emergency hemostasis and bacteria-infected wound management.|https://dx.doi.org/10.1016/j.carbpol.2025.124557
+Dual-crosslinked injectable polysaccharide-based hydrogel with synergistic photothermal-controlled release of black phosphorus-baicalein for accelerating wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.124532
+Dual-network 3D-printed recombinant collagen hydrogel with tunable mechanics and controlled Cu(2+) release for infected wound repair.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149172
+A 3D-printed gelatin based dual-crosslinking composite dressing loaded with puerarin to enhance wound healing in diabetes.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149175
+Point-of-care treatment of acute skin wound by portable in-situ electrospinning nanofiber dressings with rapid hemostasis, anti-infection, and angiogenesis effects.|https://dx.doi.org/10.1016/j.bioactmat.2025.08.020
+Single-Doped W(18)O(49-x)@Au-Embedded Dual-Network Silk Fibroin Hydrogel for NIR-Responsive Phototherapeutic Wound Healing.|https://dx.doi.org/10.1002/adhm.202503108

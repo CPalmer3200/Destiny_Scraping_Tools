@@ -5,3 +5,6 @@ From Vision to Reality: Five Years of the Botanical Safety Consortium.|https://d
 In Vitro and In Silico Pharmacological Study of Three Combined Lamiaceae Essential Oils: Cytotoxicity and Antiviral Potential.|https://dx.doi.org/10.3390/molecules30214182
 Poultry by-product feeding as a vector for antibiotic residues and microbiota shifts in yellow catfish (Pelteobagrus fulvidraco) aquaculture.|https://dx.doi.org/10.1039/d5em00536a
 Electrochemically reactive nanobubbles for fungal inactivation: A cytocompatible disinfection strategy for biocontaminated environments.|https://dx.doi.org/10.1016/j.jhazmat.2025.140436
+Successful Treatment of Cutaneous Acanthamoeba polyphaga With Marine Algae, Padina pavonica, Extract: Targeting TLR2/TLR4 Signal and Cytokeratin 18 in Immunocompromised Animals.|https://dx.doi.org/10.1093/mam/ozaf112
+Dermal fibroblast cultures recapitulate differences between deermice and mice in their responses to a Toll-like receptor agonist.|https://dx.doi.org/10.3389/fimmu.2025.1666789
+Restructuring Antiviral Quinazolinone Frameworks to Derive and Optimize Inhibitors of Chikungunya Virus.|https://dx.doi.org/10.1021/acsmedchemlett.5c00515

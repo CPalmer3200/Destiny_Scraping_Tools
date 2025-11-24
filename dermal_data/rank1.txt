@@ -12,3 +12,4 @@ The complement pathway and the pathophysiology of fibroproliferative cutaneous s
 Bioinspired Membranes with Silver Sulfadiazine and Piperine for Enhanced Cutaneous Permeability.|https://dx.doi.org/10.1021/acsomega.5c08994
 Prevalence of micorganisms and antibiotics susceptibility at burn unit of tertiary care hospital in southern Punjab - A Retrospective Study.|https://dx.doi.org/10.47391/JPMA.11604
 Antimicrobial photodynamic therapy against multidrug-resistant Staphylococcus aureus using aluminum chloride phthalocyanine nanoemulsion: in vitro and in vivo studies.|https://dx.doi.org/10.1007/s12223-025-01348-3
+Integrative network pharmacology and experimental validation of rubus ulmifolius leaf extract in a rat model of MRSA-infected wounds.|https://dx.doi.org/10.1007/s10787-025-02026-z

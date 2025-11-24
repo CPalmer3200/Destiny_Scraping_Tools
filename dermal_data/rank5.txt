@@ -15,3 +15,4 @@ Hospitalizations involving Candida parapsilosis bloodstream infection, United St
 Stage-Responsive Multifunctional Microneedle Patches for Enhanced Biofilm Penetration and Accelerated Healing of Bacterial Infected Skin Wounds.|https://dx.doi.org/10.1021/acsami.5c20107
 A research agenda for burn infection prevention: identifying knowledge gaps and prioritizing future directions.|https://dx.doi.org/10.1017/ash.2025.10213
 Rapid acquisition of daptomycin resistance in a Corynebacterium striatum osteoarticular infection: case report and discussion on antimicrobial resistance.|https://dx.doi.org/10.1128/asmcr.00106-25
+The In Vitro Performance of Surgical Irrigation Solutions in Preventing Biofilm Formation on Implants.|https://dx.doi.org/10.1016/j.arth.2025.11.026
