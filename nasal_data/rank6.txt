@@ -29,3 +29,4 @@ Discovery of protease inhibitors from bacteria as novel adjuvants for oral vacci
 Synergistic nano-vaccine strategy for comprehensive activation of adaptive and innate immunity against Staphylococcus aureus infection.|https://dx.doi.org/10.3389/fimmu.2025.1665710
 Clinical profile and outcome of complicated community-acquired pneumonia in children in the post-pneumococcal vaccination era.|https://dx.doi.org/10.12998/wjcc.v13.i32.109094
 VACCINES OVER ANTIBIOTICS: SAUDI ARABIA'S JOURNEY OF MANAGING PEDIATRIC BACTERIAL MENINGITIS.|https://dx.doi.org/10.21010/Ajidv19i2S.6
+Antibacterial activity of recombinant endolysin LysNOVA-I against growing/non-growing and planktonic/biofilm cultures of Staphylococcus aureus strains.|https://dx.doi.org/10.1016/j.jgar.2025.11.014
