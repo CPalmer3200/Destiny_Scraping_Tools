@@ -11,3 +11,7 @@ Correction: Budget Impact Analysis of Fecal Microbiota Spores, Live-brpk (Former
 The sex hormone-gut microbiome axis: mechanistic drivers of sex-disparate bacterial infection outcomes and precision clinical interventions.|https://dx.doi.org/10.1128/cmr.00236-25
 Interventions to optimize duration of antibiotic therapy and encourage oral transition for uncomplicated gram-negative blood stream infections across a health system.|https://dx.doi.org/10.1017/ice.2025.10359
 Clostridioides difficile: A suspected pro-carcinogenic bacterium for gastrointestinal tumors.|https://dx.doi.org/10.1097/CM9.0000000000003834
+Increasing patient access to faecal microbiota transplantation with remote delivery: a cost analysis of outpatient versus home-based treatment.|https://dx.doi.org/10.1186/s13561-025-00706-8
+Successful Fecal Microbiota Transplants in Post-antibiotic Treated Recurrent Clostridioides difficile Patients Induce Acylcarnitine and Sphingolipid Lipidomic Shifts.|https://dx.doi.org/10.21203/rs.3.rs-7888346/v1
+Recurrent Clostridium difficile Infections in a Patient With Ulcerative Colitis: A Case Report.|https://dx.doi.org/10.7759/cureus.95130
+Pharmacological reduction of neutrophil infiltration reduces Clostridioides difficile infection severity.|https://dx.doi.org/10.1101/2025.10.30.685526
