@@ -7,3 +7,6 @@ Evaluating Personal and Environmental Decolonization Strategies for Children wit
 Recurrent familial furunculosis associated with Panton-Valentine leukocidin-positive methicillin-resistant Staphylococcus aureus sublineage of the USA300 clone in Tokyo.|https://dx.doi.org/10.1016/j.jiac.2025.102872
 Laxative-induced contact burns from accidental ingestion of senna in a 2-year-old female.|https://dx.doi.org/10.1002/jpr3.70087
 Investigation and control of an outbreak of methicillin-susceptible Staphylococcus aureus skin and soft tissue infections in a neonatal intensive care unit.|https://dx.doi.org/10.1017/ice.2025.10303
+Antimicrobial susceptibilities and genomic characteristics of mupirocin resistant Staphylococcus aureus isolates from Tehran, Iran.|https://dx.doi.org/10.1556/030.2025.02614
+Preoperative nasal decolonization using mupirocin vs neomycin vs placebo intranasal ointment and prevention of surgical site infections among adult patients undergoing cardiac surgery.|https://dx.doi.org/10.1007/s12055-025-02061-z
+Universal Exit-Site Antibiotic Prophylaxis Reduces Exit-Site Infections in Pediatric Peritoneal Dialysis.|https://dx.doi.org/10.1016/j.ekir.2025.08.021
