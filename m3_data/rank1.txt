@@ -15,3 +15,4 @@ Increasing patient access to faecal microbiota transplantation with remote deliv
 Successful Fecal Microbiota Transplants in Post-antibiotic Treated Recurrent Clostridioides difficile Patients Induce Acylcarnitine and Sphingolipid Lipidomic Shifts.|https://dx.doi.org/10.21203/rs.3.rs-7888346/v1
 Recurrent Clostridium difficile Infections in a Patient With Ulcerative Colitis: A Case Report.|https://dx.doi.org/10.7759/cureus.95130
 Pharmacological reduction of neutrophil infiltration reduces Clostridioides difficile infection severity.|https://dx.doi.org/10.1101/2025.10.30.685526
+Biliverdin targeting TcdB-DRBD inhibits Clostridioides difficile virulence and restores gut microbiota in Mongolian gerbils (Meriones unguiculatus).|https://dx.doi.org/10.1038/s42003-025-09059-8
