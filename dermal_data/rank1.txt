@@ -14,3 +14,4 @@ Prevalence of micorganisms and antibiotics susceptibility at burn unit of tertia
 Antimicrobial photodynamic therapy against multidrug-resistant Staphylococcus aureus using aluminum chloride phthalocyanine nanoemulsion: in vitro and in vivo studies.|https://dx.doi.org/10.1007/s12223-025-01348-3
 Integrative network pharmacology and experimental validation of rubus ulmifolius leaf extract in a rat model of MRSA-infected wounds.|https://dx.doi.org/10.1007/s10787-025-02026-z
 Aetiology, factors associated with injury severity, and bacterial susceptibility patterns among burn patients in six selected hospitals in Uganda.|https://dx.doi.org/10.62347/QNDA5725
+Clinical characteristics and whole-genome analysis of methicillin-resistant Staphylococcus aureus in ICU patients from a tertiary hospital in southern China.|https://dx.doi.org/10.1016/j.ijmm.2025.151686
