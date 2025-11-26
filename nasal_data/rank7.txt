@@ -6,3 +6,7 @@ Antibiotic-resistance plasmid amplified among MRSA cases in an urban jail and it
 Strain sharing and persistence of microbial pathogens colonizing the skin of residents in a regional nursing home network.|https://dx.doi.org/10.1101/2025.11.05.25339587
 Analysis of Risk Factors for Surgical Site Infection in Obstetric Surgeries at a Tertiary Care Hospital in South India: A Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.95063
 Aetiology, factors associated with injury severity, and bacterial susceptibility patterns among burn patients in six selected hospitals in Uganda.|https://dx.doi.org/10.62347/QNDA5725
+Clinico Microbiological Profile of Diabetic Foot Ulcers: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.95291
+Neonatal Eye Infections: Microbial Risks, Transmission Routes, and the Paradox of Traditional Human Milk Applications.|https://dx.doi.org/10.1097/JPN.0000000000000973
+Risk factors of nosocomial infection after percutaneous coronary intervention: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12872-025-04882-7
+Aortic pseudoaneurysm as a rare complication of purulent pericarditis: case report and literature review.|https://dx.doi.org/10.1186/s12872-025-05332-0
