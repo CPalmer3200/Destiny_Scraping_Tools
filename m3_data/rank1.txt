@@ -16,3 +16,5 @@ Successful Fecal Microbiota Transplants in Post-antibiotic Treated Recurrent Clo
 Recurrent Clostridium difficile Infections in a Patient With Ulcerative Colitis: A Case Report.|https://dx.doi.org/10.7759/cureus.95130
 Pharmacological reduction of neutrophil infiltration reduces Clostridioides difficile infection severity.|https://dx.doi.org/10.1101/2025.10.30.685526
 Biliverdin targeting TcdB-DRBD inhibits Clostridioides difficile virulence and restores gut microbiota in Mongolian gerbils (Meriones unguiculatus).|https://dx.doi.org/10.1038/s42003-025-09059-8
+Case Report: Idiopathic myointimal hyperplasia of mesenteric veins mimicking inflammatory bowel disease: a case report with literature review.|https://dx.doi.org/10.3389/fmed.2025.1674469
+Faecal microbiota transplantation for primary Clostridioides difficile infection.|https://dx.doi.org/10.4045/tidsskr.25.0276
