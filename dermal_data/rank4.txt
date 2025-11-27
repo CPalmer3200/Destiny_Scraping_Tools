@@ -56,3 +56,8 @@ Dual-network 3D-printed recombinant collagen hydrogel with tunable mechanics and
 A 3D-printed gelatin based dual-crosslinking composite dressing loaded with puerarin to enhance wound healing in diabetes.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149175
 Point-of-care treatment of acute skin wound by portable in-situ electrospinning nanofiber dressings with rapid hemostasis, anti-infection, and angiogenesis effects.|https://dx.doi.org/10.1016/j.bioactmat.2025.08.020
 Single-Doped W(18)O(49-x)@Au-Embedded Dual-Network Silk Fibroin Hydrogel for NIR-Responsive Phototherapeutic Wound Healing.|https://dx.doi.org/10.1002/adhm.202503108
+In Vitro Evaluation of a Gelatin Type A/PVA Hydrogel Functionalized with Roasted Green Tea (Camellia sinensis).|https://dx.doi.org/10.3390/gels11110920
+Multifunctional Prussian-Blue-Based Nanocomposite Hydrogel for Infected Wound Regeneration.|https://dx.doi.org/10.3390/gels11110895
+Antibacterial and Biocompatible Penicillin-Streptomycin Loaded Bacterial Cellulose (BC) Hydrogels for Wound Healing.|https://dx.doi.org/10.3390/gels11110851
+In Situ Formation of Silver Nanoparticles-Containing Gallic Acid-Conjugated Chitosan Hydrogels as Antimicrobial Tissue Adhesive Materials.|https://dx.doi.org/10.3390/biomimetics10110720
+Bioinspired Bilayer Nanofibrous Membrane with Unidirectional Water Transport, Antimicrobial Properties, Antioxidant Capacity, and pH-Responsive Epigallocatechin Gallate Release.|https://dx.doi.org/10.1021/acs.langmuir.5c04375
