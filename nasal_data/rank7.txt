@@ -10,3 +10,10 @@ Clinico Microbiological Profile of Diabetic Foot Ulcers: A Retrospective Study.|
 Neonatal Eye Infections: Microbial Risks, Transmission Routes, and the Paradox of Traditional Human Milk Applications.|https://dx.doi.org/10.1097/JPN.0000000000000973
 Risk factors of nosocomial infection after percutaneous coronary intervention: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12872-025-04882-7
 Aortic pseudoaneurysm as a rare complication of purulent pericarditis: case report and literature review.|https://dx.doi.org/10.1186/s12872-025-05332-0
+Staphylococcus aureus induces Gasdermin A-dependent keratinocyte pyroptosis.|https://dx.doi.org/10.1038/s41467-025-65674-3
+The effect of therapeutic potential and safety of bone marrow-derived against adipose-derived mesenchymal stem cells in aged mice associated with septic arthritis.|https://dx.doi.org/10.1371/journal.pone.0335011
+Pharmacological Intervention for Refractory Biofilm Infection After Hemipelvic Replacement Surgery: Multidisciplinary Management of a Case of Giant Cell Tumor of Bone.|https://dx.doi.org/10.12659/AJCR.949210
+[18F]Fluorodeoxyglucose Positron Emission Tomography for diagnosis and monitoring of acute Staphylococcus aureus vascular graft infection in a rat model.|https://dx.doi.org/10.1093/infdis/jiaf594
+In Vitro Antibacterial Efficacy of a New TiO(2)-Cu-Coated Titanium Surface for Biomedical Applications.|https://dx.doi.org/10.3390/nano15221742
+NanoArrayPAD-X: Nanoprobe Array and 3D-µPAD for the Simultaneous Detection of Respiratory Pathogens and Biomarkers at the Point of Care.|https://dx.doi.org/10.3390/bios15110715
+Histidinol dehydrogenase (HisD): a critical regulator of Staphylococcus aureus virulence and a promising target for antivirulence therapy.|https://dx.doi.org/10.1128/spectrum.01429-25
