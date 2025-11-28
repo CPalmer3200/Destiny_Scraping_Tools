@@ -61,3 +61,6 @@ Multifunctional Prussian-Blue-Based Nanocomposite Hydrogel for Infected Wound Re
 Antibacterial and Biocompatible Penicillin-Streptomycin Loaded Bacterial Cellulose (BC) Hydrogels for Wound Healing.|https://dx.doi.org/10.3390/gels11110851
 In Situ Formation of Silver Nanoparticles-Containing Gallic Acid-Conjugated Chitosan Hydrogels as Antimicrobial Tissue Adhesive Materials.|https://dx.doi.org/10.3390/biomimetics10110720
 Bioinspired Bilayer Nanofibrous Membrane with Unidirectional Water Transport, Antimicrobial Properties, Antioxidant Capacity, and pH-Responsive Epigallocatechin Gallate Release.|https://dx.doi.org/10.1021/acs.langmuir.5c04375
+Macromolecular inks of nanocellulose-alginate for direct-ink-writing: Functional scaffolds enriched with curcumin extracts.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149261
+Novel Therapies for Prosthetic Joint Infections Caused by Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/pathogens14111102
+Xylitol Modification of Electrospun Polymer Scaffolds: Impact on Physicochemical and Antibacterial Properties.|https://dx.doi.org/10.3390/polym17223024

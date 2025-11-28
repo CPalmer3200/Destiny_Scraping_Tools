@@ -9,3 +9,5 @@ Successful Treatment of Cutaneous Acanthamoeba polyphaga With Marine Algae, Padi
 Dermal fibroblast cultures recapitulate differences between deermice and mice in their responses to a Toll-like receptor agonist.|https://dx.doi.org/10.3389/fimmu.2025.1666789
 Restructuring Antiviral Quinazolinone Frameworks to Derive and Optimize Inhibitors of Chikungunya Virus.|https://dx.doi.org/10.1021/acsmedchemlett.5c00515
 A short intrinsically disordered domain of MCPyV ALTO regulates TBK1 signaling during MCPyV infection.|https://dx.doi.org/10.1128/jvi.01341-25
+Ganoderma lucidum Glycoprotein Microemulsion: Improved Transdermal Delivery and Protective Efficacy in UV-Induced Cell and Animal Models.|https://dx.doi.org/10.3390/molecules30224489
+Bidirectional Interaction Between Liposomal Amphotericin B Pharmacokinetics and Parasite Dynamics in Patients With Post-Kala-Azar Dermal Leishmaniasis: Potential Implications for Optimal Dosing.|https://dx.doi.org/10.1002/cpt.70124

@@ -42,3 +42,7 @@ Feather-inspired janus interfaces with spatiotemporal ionic programming for diab
 Genetic polymorphisms and diabetic foot ulcer susceptibility: a systematic review and meta-analysis of Indian populations.|https://dx.doi.org/10.1007/s40200-025-01793-4
 From Fat to Healing: How Adipose-Derived Stem Cells Are Changing the Game for Diabetic Foot Ulcers-A Perspective.|https://dx.doi.org/10.1002/hsr2.71385
 Clinico Microbiological Profile of Diabetic Foot Ulcers: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.95291
+An Innovative Dual-Modality Approach Using Laser and Plasma Therapy in the Management of Chronic Diabetic Foot Ulcer With Osteomyelitis: A Case Series.|https://dx.doi.org/10.1111/iwj.70796
+Research status and trends of diabetic foot related osteomyelitis from 1994 to 2024: A 30-year bibliometric analysis.|https://dx.doi.org/10.1097/MD.0000000000046006
+Comparative Efficacy of Negative Pressure Wound Therapy and Conventional Treatments in the Management of Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.3390/jcm14228051
+Smart Biomaterials in Wound Healing: Advances, Challenges, and Future Directions in Intelligent Dressing Design.|https://dx.doi.org/10.3390/bioengineering12111178

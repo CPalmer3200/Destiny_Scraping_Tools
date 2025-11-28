@@ -3,3 +3,6 @@ Glucose-induced active lysogeny of prophage ΦSa3XN promotes Staphylococcus aure
 Nationwide surveillance and molecular characterization of methicillin-resistant Staphylococcus pseudintermedius isolated from dogs and cats in South Korea.|https://dx.doi.org/10.1038/s41598-025-24385-x
 In situ detection of bacteria from skin interstitial fluid via CRISPR microneedles: An amplification-free platform for point-of-care diagnostics.|https://dx.doi.org/10.1016/j.bios.2025.118123
 Beyond commensalism: genomic insights into micrococcin P1-producing Staphylococcus chromogenes.|https://dx.doi.org/10.1128/msphere.00733-25
+Staphylococcus aureus induces Gasdermin A-dependent keratinocyte pyroptosis.|https://dx.doi.org/10.1038/s41467-025-65674-3
+Novel genotypes, phenotypes, and triggers in humans with OTULIN haploinsufficiency.|https://dx.doi.org/10.70962/jhi.20250018
+Clinical and histopathological features of urine scalding in dogs and cats.|https://dx.doi.org/10.1177/03009858251395279

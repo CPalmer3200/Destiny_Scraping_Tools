@@ -3,3 +3,4 @@ From 1D microbiological assays to 3D advanced skin models: enhancing preclinical
 From prebiotics to engineered microbes: microbe-inspired therapies for atopic dermatitis.|https://dx.doi.org/10.1093/bjd/ljaf451
 Changing Staphylococcus aureus Resistance in Atopic Dermatitis: Implications for Topical Antimicrobial Use From a Regional Study in the United Kingdom.|https://dx.doi.org/10.7759/cureus.97141
 Basophils in Atopic Dermatitis: Immunologic Roles and Clinical Implications.|https://dx.doi.org/10.1016/j.anai.2025.11.005
+Vitamin D in Atopic Dermatitis: Role in Disease and Skin Microbiome.|https://dx.doi.org/10.3390/nu17223584
