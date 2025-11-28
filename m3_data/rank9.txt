@@ -3,3 +3,5 @@ A Retrospective Pre-Post Observational Study Of The Effectiveness of Cognitive S
 Interaction between Maillard reaction products and phenolics in brewer's spent grain: Structural and antioxidant insights.|https://dx.doi.org/10.1016/j.foodres.2025.117643
 Dissecting the role of flagellar subunits in C. difficile mucosal colonization.|https://dx.doi.org/10.1128/jb.00428-25
 Adverse events associated with ustekinumab in Crohn's disease treatment: an analysis based on the FAERS database.|https://dx.doi.org/10.3389/fmed.2025.1657247
+Impact of switching from polymerase chain reaction-only to two-step Clostridioides difficile testing in a large hospital system.|https://dx.doi.org/10.1017/ash.2025.10230
+Dalbavancin for Bone and Joint Infections: A Two-Center Greek Real-World Retrospective Study.|https://dx.doi.org/10.3390/pathogens14111109

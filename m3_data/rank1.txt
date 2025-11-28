@@ -18,3 +18,5 @@ Pharmacological reduction of neutrophil infiltration reduces Clostridioides diff
 Biliverdin targeting TcdB-DRBD inhibits Clostridioides difficile virulence and restores gut microbiota in Mongolian gerbils (Meriones unguiculatus).|https://dx.doi.org/10.1038/s42003-025-09059-8
 Case Report: Idiopathic myointimal hyperplasia of mesenteric veins mimicking inflammatory bowel disease: a case report with literature review.|https://dx.doi.org/10.3389/fmed.2025.1674469
 Faecal microbiota transplantation for primary Clostridioides difficile infection.|https://dx.doi.org/10.4045/tidsskr.25.0276
+Untargeted Metabolomics Identifies Faecal Filtrate-Derived Metabolites That Disrupt Clostridioides difficile Metabolism and Confer Gut Barrier Cytoprotection.|https://dx.doi.org/10.3390/ijms262211221
+Clostridioides difficile Infection in Special Populations: Focus on Inflammatory Bowel Disease-A Narrative Review from Pathogenesis to Management.|https://dx.doi.org/10.3390/biomedicines13112702
