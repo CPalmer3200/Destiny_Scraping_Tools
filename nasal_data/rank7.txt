@@ -17,3 +17,11 @@ Pharmacological Intervention for Refractory Biofilm Infection After Hemipelvic R
 In Vitro Antibacterial Efficacy of a New TiO(2)-Cu-Coated Titanium Surface for Biomedical Applications.|https://dx.doi.org/10.3390/nano15221742
 NanoArrayPAD-X: Nanoprobe Array and 3D-µPAD for the Simultaneous Detection of Respiratory Pathogens and Biomarkers at the Point of Care.|https://dx.doi.org/10.3390/bios15110715
 Histidinol dehydrogenase (HisD): a critical regulator of Staphylococcus aureus virulence and a promising target for antivirulence therapy.|https://dx.doi.org/10.1128/spectrum.01429-25
+Predictors of Repeat Washout in the Isolated Septic Knee.|https://dx.doi.org/10.1055/a-2756-0215
+Surface Functionalization of TiO(2) With an Albumin-Teicoplanin Complex to Prevent Implant-Associated Infections.|https://dx.doi.org/10.1002/jbma.70007
+Resistance Landscape and Clonal Dynamics of ESKAPE Pathogens in Bloodstream Infections: A Multicenter Study from Mexico.|https://dx.doi.org/10.3390/pathogens14111187
+A Nine-Year Review of Acinetobacter baumannii Infections Frequency and Antimicrobial Resistance in a Single-Center Study in Salerno, Italy.|https://dx.doi.org/10.3390/pathogens14111165
+Dalbavancin for Bone and Joint Infections: A Two-Center Greek Real-World Retrospective Study.|https://dx.doi.org/10.3390/pathogens14111109
+Emulgel with Origanum vulgare L. Oil: A New Therapeutic Proposal in Case of Dermal Bacterial Infections.|https://dx.doi.org/10.3390/ph18111768
+In Situ Gel Containing Lippia sidoides Cham. Essential Oil for Microbial Control in the Oral Cavity.|https://dx.doi.org/10.3390/microorganisms13112585
+The Microbiological Spectrum and Antibiotic Resistance in Acute Acalculous and Calculous Cholecystitis: A Seven-Year Study in a Tertiary Center.|https://dx.doi.org/10.3390/medicina61112028

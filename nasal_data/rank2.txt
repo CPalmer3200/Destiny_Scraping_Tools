@@ -4,3 +4,6 @@ Preoperative nasal decolonization using mupirocin vs neomycin vs placebo intrana
 Multi-Omics and Molecular Dynamics Analysis for Biomarker Discovery in Chronic Rhinosinusitis With Nasal Polyps.|https://dx.doi.org/10.1111/cbdd.70202
 High colonization by multidrug-resistant and virulent Staphylococcus aureus genotypes among critically ill patients in the COVID-19 pandemic in a Brazilian hospital.|https://dx.doi.org/10.1186/s12866-025-04526-y
 Human Pathogenic Bacteria Within the Nasal and Rectal Microbiome of Macropus giganteus.|https://dx.doi.org/10.3390/tropicalmed10110322
+Cross-Sectional Study on Zoonotic Bacteria Carriage by Small Ruminants from Portugal's Central Region.|https://dx.doi.org/10.3390/pathogens14111081
+Coating Doyle Nasal Silicone Splints with a Sustained Release Varnish Containing Antibiotics Provides Long-Term Protection from Staphylococcus aureus: An In Vitro Study.|https://dx.doi.org/10.3390/ph18111746
+Profile of Multidrug-Resistant Bacteria in Intensive Care Units of a Maternal and Child Hospital in Rio de Janeiro, Brazil.|https://dx.doi.org/10.3390/antibiotics14111090
