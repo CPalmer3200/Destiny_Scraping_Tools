@@ -25,3 +25,10 @@ Dalbavancin for Bone and Joint Infections: A Two-Center Greek Real-World Retrosp
 Emulgel with Origanum vulgare L. Oil: A New Therapeutic Proposal in Case of Dermal Bacterial Infections.|https://dx.doi.org/10.3390/ph18111768
 In Situ Gel Containing Lippia sidoides Cham. Essential Oil for Microbial Control in the Oral Cavity.|https://dx.doi.org/10.3390/microorganisms13112585
 The Microbiological Spectrum and Antibiotic Resistance in Acute Acalculous and Calculous Cholecystitis: A Seven-Year Study in a Tertiary Center.|https://dx.doi.org/10.3390/medicina61112028
+Efficacy of powdered vancomycin in the prophylaxis of surgical site infections in posterior thoracic and/or lumbar spine surgery: a systematic review of randomized clinical trials with meta-analysis.|https://dx.doi.org/10.1007/s10143-025-03963-7
+Carotid-Subclavian-Bypass Infection After a Hybrid Approach for Complicated Type-B Aortic Dissection.|https://dx.doi.org/10.1016/j.jaccas.2025.106254
+Commensal-derived short-chain fatty acids disrupt lipid membrane homeostasis in Staphylococcus aureus.|https://dx.doi.org/10.1128/mbio.01392-25
+Fecal Carriage of Multidrug-Resistant Staphylococcus aureus in Hypertensive Patients at the Douala Laquintinie Hospital: Prevalence and Resistance Patterns.|https://dx.doi.org/10.1155/bmri/8076503
+Efficacy and Safety of Seawater Therapy Versus Non-pharmacological Interventions for Atopic Dermatitis: A Systematic Review.|https://dx.doi.org/10.7759/cureus.95450
+Appropriateness of intravenous vancomycin prescribing in a Canadian acute care hospital.|https://dx.doi.org/10.3138/jammi-2024-0040
+Dual-drug-loaded carbopol gel for enhanced oral wound healing: a curcumin-ciprofloxacin-based therapeutic approach.|https://dx.doi.org/10.1007/s10006-025-01489-2
