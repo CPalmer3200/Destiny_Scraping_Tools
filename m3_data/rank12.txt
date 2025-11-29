@@ -2,3 +2,4 @@ Pig-L mediates virulence, biofilm formation, and oxidative stress tolerance in C
 Towards better severity stratification in Clostridioides difficile infection: bridging the gap between surveillance and clinical practice.|https://dx.doi.org/10.1016/j.jhin.2025.11.007
 A positive Clostridioides difficile test does not impact outcomes in hospitalized patients with acute severe ulcerative colitis.|https://dx.doi.org/10.1177/17562848251394957
 Antibiotic Use, Healthcare-Associated Infections, and Antimicrobial Resistance in Intensive Care Unit of a Serbian Tertiary University Hospital, 2018-2024: An Ecological Analysis.|https://dx.doi.org/10.3390/antibiotics14111110
+Using routine asymptomatic Clostridioides difficile testing to identify patients at high risk of developing C. difficile infection during hematopoietic cell transplantation.|https://dx.doi.org/10.3138/jammi-2024-0032
