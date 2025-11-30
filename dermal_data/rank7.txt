@@ -11,3 +11,4 @@ Restructuring Antiviral Quinazolinone Frameworks to Derive and Optimize Inhibito
 A short intrinsically disordered domain of MCPyV ALTO regulates TBK1 signaling during MCPyV infection.|https://dx.doi.org/10.1128/jvi.01341-25
 Ganoderma lucidum Glycoprotein Microemulsion: Improved Transdermal Delivery and Protective Efficacy in UV-Induced Cell and Animal Models.|https://dx.doi.org/10.3390/molecules30224489
 Bidirectional Interaction Between Liposomal Amphotericin B Pharmacokinetics and Parasite Dynamics in Patients With Post-Kala-Azar Dermal Leishmaniasis: Potential Implications for Optimal Dosing.|https://dx.doi.org/10.1002/cpt.70124
+Atypical waves: nonsporotrichoid Mycobacterium marinum skin infection in an immunocompromised scuba diver.|https://dx.doi.org/10.1093/skinhd/vzaf072

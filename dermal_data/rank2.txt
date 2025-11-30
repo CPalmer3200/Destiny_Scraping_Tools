@@ -49,3 +49,4 @@ Smart Biomaterials in Wound Healing: Advances, Challenges, and Future Directions
 Evaluation of wound regeneration potential of nano-phytoextracts loaded carboxymethyl chitosan scaffolds for diabetic foot ulcer.|https://dx.doi.org/10.1038/s41598-025-26595-9
 A comprehensive review on diabetic foot ulcer addressing vascular insufficiency, impaired immune response, and delayed wound healing mechanisms.|https://dx.doi.org/10.3389/fphar.2025.1622055
 Multi-omics and experimental validation identify methylation-related genes and METTL16 as key regulators in diabetic foot ulcer pathogenesis.|https://dx.doi.org/10.1038/s41598-025-26306-4
+Current primary care approaches to diabetic foot prevention and treatment.|https://dx.doi.org/10.1016/j.jdiacomp.2025.109231

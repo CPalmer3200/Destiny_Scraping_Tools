@@ -64,3 +64,6 @@ Bioinspired Bilayer Nanofibrous Membrane with Unidirectional Water Transport, An
 Macromolecular inks of nanocellulose-alginate for direct-ink-writing: Functional scaffolds enriched with curcumin extracts.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149261
 Novel Therapies for Prosthetic Joint Infections Caused by Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/pathogens14111102
 Xylitol Modification of Electrospun Polymer Scaffolds: Impact on Physicochemical and Antibacterial Properties.|https://dx.doi.org/10.3390/polym17223024
+Rosemary resin-oil incorporation into chitosan films: development of natural antimicrobial bioactive dressings.|https://dx.doi.org/10.1080/14786419.2025.2579135
+Cellulose-lignin wound patch on Janus textile support for dual tissue regeneration and antibacterial action in cutaneous leishmaniasis wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149318
+A metabolic reprogramming and trained immunity hydrogel mimic cluster missiles to eliminate infection and treat infected diabetic wounds.|https://dx.doi.org/10.1186/s12951-025-03818-9

@@ -19,3 +19,5 @@ The In Vitro Performance of Surgical Irrigation Solutions in Preventing Biofilm 
 Postbiotics as microbial-derived therapeutics for wound healing disorders: from molecular mechanisms to future application.|https://dx.doi.org/10.1186/s12964-025-02494-4
 Characterization and Antimicrobial Resistance Profiles of Biofilm Forming Strains of Staphylococcus aureus Isolated from Skin Lesions.|https://dx.doi.org/10.3390/microorganisms13112449
 Machine Learning-Identified Potent Antimicrobial Peptides Against Multidrug-Resistant Bacteria and Skin Infections.|https://dx.doi.org/10.3390/antibiotics14111172
+ZnO@PVDF/CS Piezoelectric Nanofibrous Membrane Promotes the Healing of Infected Wounds Stimulated by Low-Intensity Pulsed Ultrasound.|https://dx.doi.org/10.1021/acsami.5c22922
+Transcriptomic profile of BpsR4 and its roles in stress response, antibiotic susceptibility, biofilm formation, and pathogenesis in Burkholderia pseudomallei.|https://dx.doi.org/10.1177/00368504251394544
