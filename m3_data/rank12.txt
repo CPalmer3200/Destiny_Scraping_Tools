@@ -3,3 +3,4 @@ Towards better severity stratification in Clostridioides difficile infection: br
 A positive Clostridioides difficile test does not impact outcomes in hospitalized patients with acute severe ulcerative colitis.|https://dx.doi.org/10.1177/17562848251394957
 Antibiotic Use, Healthcare-Associated Infections, and Antimicrobial Resistance in Intensive Care Unit of a Serbian Tertiary University Hospital, 2018-2024: An Ecological Analysis.|https://dx.doi.org/10.3390/antibiotics14111110
 Using routine asymptomatic Clostridioides difficile testing to identify patients at high risk of developing C. difficile infection during hematopoietic cell transplantation.|https://dx.doi.org/10.3138/jammi-2024-0032
+Analysis of risk factors for Clostridioides difficile infection in patients with ulcerative colitis and development of a predictive nomogram.|https://dx.doi.org/10.1186/s12876-025-04503-9
