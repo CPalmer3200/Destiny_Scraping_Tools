@@ -1,3 +1,4 @@
 Australian Group on Antimicrobial Resistance (AGAR) surveillance outcome programs - bloodstream infections and antimicrobial resistance patterns in Australian children and adolescents, January 2022 - December 2023.|https://dx.doi.org/10.33321/cdi.2025.49.052
 Australian Group on Antimicrobial Resistance (AGAR) Australian Enterococcal Surveillance Outcome Program (AESOP) Bloodstream Infection Annual Report 2024.|https://dx.doi.org/10.33321/cdi.2025.49.053
 Australian Group on Antimicrobial Resistance (AGAR) Australian Staphylococcus aureus Surveillance Outcome Program (ASSOP) Bloodstream Infection Annual Report 2024.|https://dx.doi.org/10.33321/cdi.2025.49.054
+CdmR, a MarR family protein from Clostridioides difficile, binds with positive cooperativity in the predicted promoter region of a MATE efflux transporter.|https://dx.doi.org/10.1016/j.bbrep.2025.102350
