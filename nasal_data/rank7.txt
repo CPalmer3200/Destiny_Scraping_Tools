@@ -34,3 +34,7 @@ Appropriateness of intravenous vancomycin prescribing in a Canadian acute care h
 Dual-drug-loaded carbopol gel for enhanced oral wound healing: a curcumin-ciprofloxacin-based therapeutic approach.|https://dx.doi.org/10.1007/s10006-025-01489-2
 Staphylococcus aureus bloodstream infection at a referral children's hospital in Cape Town, South Africa, 2018-2022.|https://dx.doi.org/10.1186/s12879-025-12162-0
 An ultrafast self-gelling powder based on insect chitosan/gelatin/protocatechualdehyde‑gallium ions cross-linked for emergency hemostasis and MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.124577
+Vancomycin release kinetics for treatment of bone tissue infection: design of a loaded scaffold and evaluation of a dynamic model.|https://dx.doi.org/10.1016/j.ejps.2025.107391
+A comprehensive study on the dual species biofilm formation of clinical Staphylococcus aureus and Candida albicans strains from the same origins.|https://dx.doi.org/10.1016/j.bioflm.2025.100324
+Case Report: Acute methicillin-sensitive Staphylococcus aureus pericarditis in a diabetic patient.|https://dx.doi.org/10.3389/fcvm.2025.1674940
+Cutaneous Mucormycosis following a Spider Bite: A Rare and Challenging Case.|https://dx.doi.org/10.1159/000548296
