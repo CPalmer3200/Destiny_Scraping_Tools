@@ -38,3 +38,10 @@ Vancomycin release kinetics for treatment of bone tissue infection: design of a 
 A comprehensive study on the dual species biofilm formation of clinical Staphylococcus aureus and Candida albicans strains from the same origins.|https://dx.doi.org/10.1016/j.bioflm.2025.100324
 Case Report: Acute methicillin-sensitive Staphylococcus aureus pericarditis in a diabetic patient.|https://dx.doi.org/10.3389/fcvm.2025.1674940
 Cutaneous Mucormycosis following a Spider Bite: A Rare and Challenging Case.|https://dx.doi.org/10.1159/000548296
+A single-center study on epidemiology, microbial distribution, and mortality predictors in catheter-related bloodstream infections.|https://dx.doi.org/10.1186/s12879-025-12249-8
+Five-year surveillance of antimicrobial resistance patterns among blood culture isolates at the University Teaching Hospital, Kigali, Rwanda.|https://dx.doi.org/10.1186/s12941-025-00837-0
+Prolonged disease remission of the chronic immunological skin disorder hidradenitis suppurativa with adjunctive bacteriophage therapy.|https://dx.doi.org/10.1038/s41467-025-65939-x
+Coaxial electrospun fibers for control release of vancomycin and diclofenac in osteomyelitis management.|https://dx.doi.org/10.1007/s44446-025-00048-w
+Staphylococcus aureus colonization and bloodstream infection in very preterm infants.|https://dx.doi.org/10.1080/19490976.2025.2592423
+Duration of antibiotic therapy for pediatric ventilator-associated pneumonia.|https://dx.doi.org/10.1111/ped.70262
+Clinical management of trapeziometacarpal joint infections: a European Delphi consensus and literature review.|https://dx.doi.org/10.1177/17531934251385450
