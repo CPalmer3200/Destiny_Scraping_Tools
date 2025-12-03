@@ -8,3 +8,7 @@ Silver ion competition reaction-triggered elastoplastic transition of chitosan h
 An ultrafast self-gelling powder based on insect chitosan/gelatin/protocatechualdehyde‑gallium ions cross-linked for emergency hemostasis and MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2025.124577
 Chitosan-based glucose-responsive hydrogel with spatiotemporally controlled bactericidal release for diabetic wound regeneration via multimodal therapy.|https://dx.doi.org/10.1016/j.carbpol.2025.124446
 SMart Nanoparticle-Hydrogel Hybrid System for Synergistic Eradication of Infection and Promotion of Wound Healing.|https://dx.doi.org/10.1002/advs.202517320
+Antibacterial bionanocomposite hydrogel based on hydroxyethyl cellulose, poly(vinyl alcohol), and montmorillonite clay as a scaffold for bone tissue engineering application.|https://dx.doi.org/10.1038/s41598-025-30576-3
+Bifunctional antifouling strategy based on polypeptide hydrogels for enhancing long-term stability of potassium ion sensors in complex systems.|https://dx.doi.org/10.1016/j.aca.2025.344847
+Grafting of poly(N-maleyl-chitosan-co-methacrylic acid) hydrogels onto cotton gauze for the development of textile dressings with controlled release of antimicrobial agents.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149338
+A Hydrophilic Polyurethane Foam Containing Nigella sativa Oil as a Wound Dressing.|https://dx.doi.org/10.1155/bmri/6627611
