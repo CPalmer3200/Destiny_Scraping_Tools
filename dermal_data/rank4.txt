@@ -12,3 +12,4 @@ Antibacterial bionanocomposite hydrogel based on hydroxyethyl cellulose, poly(vi
 Bifunctional antifouling strategy based on polypeptide hydrogels for enhancing long-term stability of potassium ion sensors in complex systems.|https://dx.doi.org/10.1016/j.aca.2025.344847
 Grafting of poly(N-maleyl-chitosan-co-methacrylic acid) hydrogels onto cotton gauze for the development of textile dressings with controlled release of antimicrobial agents.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149338
 A Hydrophilic Polyurethane Foam Containing Nigella sativa Oil as a Wound Dressing.|https://dx.doi.org/10.1155/bmri/6627611
+Injectable cationic dynamic hydrogel with supramolecular drug loading reprograms neutrophil fate to alleviate diabetic periodontitis.|https://dx.doi.org/10.1016/j.mtbio.2025.102557
