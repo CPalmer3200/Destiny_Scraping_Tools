@@ -45,3 +45,7 @@ Coaxial electrospun fibers for control release of vancomycin and diclofenac in o
 Staphylococcus aureus colonization and bloodstream infection in very preterm infants.|https://dx.doi.org/10.1080/19490976.2025.2592423
 Duration of antibiotic therapy for pediatric ventilator-associated pneumonia.|https://dx.doi.org/10.1111/ped.70262
 Clinical management of trapeziometacarpal joint infections: a European Delphi consensus and literature review.|https://dx.doi.org/10.1177/17531934251385450
+Early Prediction of Positive Hospital-Acquired MRSA Screening using Deep Learning on Vital Signs Time Series.|https://dx.doi.org/10.1109/EMBC58623.2025.11253426
+Coronary Pseudoaneurysm and Stent Disruption Caused by Infective Endocarditis.|https://dx.doi.org/10.1016/j.jaccas.2025.106337
+Exploring risk factors, etiology, and clinical outcomes of acute bacterial meningitis in children under 7 years in Oman.|https://dx.doi.org/10.4103/jehp.jehp_1725_24
+Microbial contamination risks and clinical safety in platelet-rich plasma therapy and evaluation of rapid microbial detection methods.|https://dx.doi.org/10.1016/j.reth.2025.11.008
