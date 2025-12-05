@@ -2,3 +2,4 @@ Association of gut microbiota and type of feeding: Molecular analysis of a cohor
 Postoperative gut dysbiosis in biliary atresia patients treated by portoenterostomy or liver transplantation.|https://dx.doi.org/10.1007/s00383-025-06239-9
 Retraction: Fecal Microbiota Transplantation (FMT) in Clostridium difficile Infection: A Paradigm Shift in Gastrointestinal Microbiome Modulation.|https://dx.doi.org/10.7759/cureus.r206
 Cross-species engraftment biases and metabolic divergence in gnotobiotic mice humanized with ulcerative colitis microbiota.|https://dx.doi.org/10.1080/19490976.2025.2581445
+Advances in capsule-based fecal microbiota transplantation: clinical applications and innovations.|https://dx.doi.org/10.1186/s12967-025-07407-0

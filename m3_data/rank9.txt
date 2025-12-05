@@ -6,3 +6,4 @@ Adverse events associated with ustekinumab in Crohn's disease treatment: an anal
 Impact of switching from polymerase chain reaction-only to two-step Clostridioides difficile testing in a large hospital system.|https://dx.doi.org/10.1017/ash.2025.10230
 Dalbavancin for Bone and Joint Infections: A Two-Center Greek Real-World Retrospective Study.|https://dx.doi.org/10.3390/pathogens14111109
 Investigating in-hospital transmission of Clostridioides difficile from asymptomatic patients.|https://dx.doi.org/10.3138/jammi-2024-0041
+Risk of intestinal complications, extraintestinal morbidity, and mortality in patients with ulcerative colitis and ocular involvement.|https://dx.doi.org/10.1038/s41433-025-04151-z
