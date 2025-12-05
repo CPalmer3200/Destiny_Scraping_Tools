@@ -49,3 +49,8 @@ Early Prediction of Positive Hospital-Acquired MRSA Screening using Deep Learnin
 Coronary Pseudoaneurysm and Stent Disruption Caused by Infective Endocarditis.|https://dx.doi.org/10.1016/j.jaccas.2025.106337
 Exploring risk factors, etiology, and clinical outcomes of acute bacterial meningitis in children under 7 years in Oman.|https://dx.doi.org/10.4103/jehp.jehp_1725_24
 Microbial contamination risks and clinical safety in platelet-rich plasma therapy and evaluation of rapid microbial detection methods.|https://dx.doi.org/10.1016/j.reth.2025.11.008
+A Before-and-After Study on Hand Hygiene Knowledge, Practices, and Environmental Cleanliness in an Anaesthesia Department Following Educational and Protocol Interventions.|https://dx.doi.org/10.1016/j.jhin.2025.11.030
+Study on antibacterial lubricating coatings for oral implants based on electrostatic self-assembly and Schiff base reaction.|https://dx.doi.org/10.1016/j.colsurfb.2025.115343
+Fast but accurate: a systematic review and meta-analysis on diagnostic performance of MRSA detection in clinical samples by using CRISPR-based rapid molecular methods.|https://dx.doi.org/10.3389/fmicb.2025.1703247
+Effects of Staphylococcus aureus on Lung Cancer Cells.|https://dx.doi.org/10.4274/ThoracResPract.2025.s009
+Investigation of antibiotic resistance against pathogens isolated from respiratory samples in intensive care units after SARS-CoV-2 pandemic.|https://dx.doi.org/10.1186/s12879-025-12140-6

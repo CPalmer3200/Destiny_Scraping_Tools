@@ -10,3 +10,4 @@ Profile of Multidrug-Resistant Bacteria in Intensive Care Units of a Maternal an
 Temporal Trends in Methicillin-Resistant Staphylococcus aureus Colonization Pressure and Its Association with Acquisition and Infection in Pediatric Intensive Care Units.|https://dx.doi.org/10.1016/j.ajic.2025.11.020
 Preprocedural screening for multidrug-resistant organisms in endoscopic retrograde cholangiopancreatography: an international, multicentre, cross-sectional observational study.|https://dx.doi.org/10.1016/j.eclinm.2025.103627
 Large-scale characterisation of the nasal microbiome redefines Staphylococcus aureus colonisation status.|https://dx.doi.org/10.1038/s41467-025-66564-4
+Impact of MRSA nasal swab screening and PCR in pneumonia treatment and antimicrobial stewardship: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117204

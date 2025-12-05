@@ -13,3 +13,6 @@ Impact of neoadjuvant immunotherapy on postoperative complications in oncoplasti
 The oncogenic role of human papillomavirus in breast cancer: a comprehensive systematic review and meta-analysis.|https://dx.doi.org/10.3389/fmicb.2025.1712118
 Major systemic infection following breast cancer surgery and oncological outcomes.|https://dx.doi.org/10.1093/bjs/znaf233
 Prepectoral direct-to-implant breast reconstruction using a novel acellular dermal matrix: framework for a cohort study.|https://dx.doi.org/10.1097/SP9.0000000000000059
+Quantifying the fatal and non-fatal burden of disease associated with child growth failure, 2000-2023: a systematic analysis from the Global Burden of Disease Study 2023.|https://dx.doi.org/10.1016/S2352-4642(25)00303-7
+Drain Use and Complications After Breast Reduction in A Five-Academic-Institution Cohort.|https://dx.doi.org/10.1097/PRS.0000000000012688
+Complications Associated With Filler Injection for Breast Augmentation: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.95875
