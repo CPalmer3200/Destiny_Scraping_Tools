@@ -4,3 +4,4 @@ Different bacterial growth of major mastitis pathogens after coculturing with St
 Design, synthesis, and evaluation of mupirocin prodrugs restoring systemic efficacy against MRSA.|https://dx.doi.org/10.1016/j.ejmech.2025.118406
 Current pathogen profile for bacteremia in a tertiary care pediatric emergency department in Canada.|https://dx.doi.org/10.1093/pch/pxaf046
 Probiotic Potential of Lacticaseibacillus casei Isolated From Traditional Dairy Products and Its Hepatoprotective Effects in STZ-Induced Diabetic Rats.|https://dx.doi.org/10.1111/apm.70112
+High-Throughput Screening Using the Self-Controlled Tree-Based Scan Statistic to Identify Medications Associated With Hospitalization for Severe Acute Liver Injury.|https://dx.doi.org/10.1002/pds.70275
