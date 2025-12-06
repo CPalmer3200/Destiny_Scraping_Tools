@@ -5,3 +5,5 @@ Fabry-Pérot Interferometer Hydrogel-Based Sensor for Continuous pH Monitoring i
 Spectral Analysis for Detecting Infections in Diabetic Foot Wounds: A Non-Invasive Diagnostic Approach.|https://dx.doi.org/10.1109/EMBC58623.2025.11254641
 Beyond Antibiotics: Emerging Therapies for Pseudomonas aeruginosa in Diabetic Foot Infections.|https://dx.doi.org/10.1177/15347346251403644
 Achilles Tendon Flaps in Lower Extremity Reconstructive Surgery: Versatility, Utility, and Patient-Centered Outcomes.|https://dx.doi.org/10.26502/josm.511500232
+Loss of GNB2L1 promotes expansion of CD74(+) dendritic cells and contributes to development of diabetic foot ulcers.|https://dx.doi.org/10.1016/j.molimm.2025.12.003
+Clinical Use of S53P4 Bioactive Glass in the Treatment of Bone Defects and Infected Bone: A Systematic Review of the Quality of Clinical Outcomes and A Grade Assessment.|https://dx.doi.org/10.1002/adhm.202503013
