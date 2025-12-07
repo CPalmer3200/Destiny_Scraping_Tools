@@ -56,3 +56,4 @@ Effects of Staphylococcus aureus on Lung Cancer Cells.|https://dx.doi.org/10.427
 Investigation of antibiotic resistance against pathogens isolated from respiratory samples in intensive care units after SARS-CoV-2 pandemic.|https://dx.doi.org/10.1186/s12879-025-12140-6
 Molecular epidemiology of methicillin-resistant Staphylococcus aureus in Gulf Cooperation Council countries (2010-2025): a scoping review.|https://dx.doi.org/10.3389/fmicb.2025.1714252
 Re-evaluating patient isolation policies for musculoskeletal infections in orthopaedic practice: a scoping review.|https://dx.doi.org/10.5194/jbji-10-489-2025
+Antibiotic-resistance plasmid amplified among MRSA cases in an urban jail and its connected communities.|https://dx.doi.org/10.1038/s41467-025-67113-9
