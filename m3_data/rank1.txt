@@ -20,3 +20,4 @@ Case Report: Idiopathic myointimal hyperplasia of mesenteric veins mimicking inf
 Faecal microbiota transplantation for primary Clostridioides difficile infection.|https://dx.doi.org/10.4045/tidsskr.25.0276
 Untargeted Metabolomics Identifies Faecal Filtrate-Derived Metabolites That Disrupt Clostridioides difficile Metabolism and Confer Gut Barrier Cytoprotection.|https://dx.doi.org/10.3390/ijms262211221
 Clostridioides difficile Infection in Special Populations: Focus on Inflammatory Bowel Disease-A Narrative Review from Pathogenesis to Management.|https://dx.doi.org/10.3390/biomedicines13112702
+Adding lateral retinacular release to medial patellofemoral ligament reconstruction reconstruction has no effect on patellar height: A prospective randomised controlled trial.|https://dx.doi.org/10.1002/ksa.70218
