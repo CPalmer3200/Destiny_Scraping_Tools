@@ -1,1 +1,2 @@
 Design, synthesis, and evaluation of mupirocin prodrugs restoring systemic efficacy against MRSA.|https://dx.doi.org/10.1016/j.ejmech.2025.118406
+High-Throughput Screening Using the Self-Controlled Tree-Based Scan Statistic to Identify Medications Associated With Hospitalization for Severe Acute Liver Injury.|https://dx.doi.org/10.1002/pds.70275

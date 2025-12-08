@@ -14,3 +14,4 @@ Grafting of poly(N-maleyl-chitosan-co-methacrylic acid) hydrogels onto cotton ga
 A Hydrophilic Polyurethane Foam Containing Nigella sativa Oil as a Wound Dressing.|https://dx.doi.org/10.1155/bmri/6627611
 Injectable cationic dynamic hydrogel with supramolecular drug loading reprograms neutrophil fate to alleviate diabetic periodontitis.|https://dx.doi.org/10.1016/j.mtbio.2025.102557
 A hyphenated approach of chemical profiling, anti-bacterial assays, and molecular docking to validate the traditionally claimed anti-bacterial (Krimiroga) potential of Cyperus rotundus L.|https://dx.doi.org/10.1016/j.micpath.2025.108220
+Enhancing wound dressing efficiency: Cellulose nanofiber sponges loaded with Ganoderma lucidum mycelium fractions.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149401
