@@ -15,3 +15,7 @@ A Hydrophilic Polyurethane Foam Containing Nigella sativa Oil as a Wound Dressin
 Injectable cationic dynamic hydrogel with supramolecular drug loading reprograms neutrophil fate to alleviate diabetic periodontitis.|https://dx.doi.org/10.1016/j.mtbio.2025.102557
 A hyphenated approach of chemical profiling, anti-bacterial assays, and molecular docking to validate the traditionally claimed anti-bacterial (Krimiroga) potential of Cyperus rotundus L.|https://dx.doi.org/10.1016/j.micpath.2025.108220
 Enhancing wound dressing efficiency: Cellulose nanofiber sponges loaded with Ganoderma lucidum mycelium fractions.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149401
+Ternary phase optimized indomethacin nanoemulsion hydrogel for sustained topical delivery and improved biological efficacy.|https://dx.doi.org/10.1038/s41598-025-27205-4
+Cotton gauze wound-dressing patches loaded with dapsone derivative and silver nanoparticles for promoting wound healing via antibacterial acceleration function.|https://dx.doi.org/10.1039/d5ra04951b
+Lipoic acid-kaempferol hydrogel loaded with Typhaneoside for sutureless wound closure, hemostasis, and healing of diabetic infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102504
+3D Bioprinted Constructs Enriched with Zinc-Doped Bioactive Glass Promote Antibacterial Activity and Osteochondral Tissue Regeneration.|https://dx.doi.org/10.1002/adhm.202503186
