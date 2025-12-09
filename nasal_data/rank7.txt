@@ -57,3 +57,10 @@ Investigation of antibiotic resistance against pathogens isolated from respirato
 Molecular epidemiology of methicillin-resistant Staphylococcus aureus in Gulf Cooperation Council countries (2010-2025): a scoping review.|https://dx.doi.org/10.3389/fmicb.2025.1714252
 Re-evaluating patient isolation policies for musculoskeletal infections in orthopaedic practice: a scoping review.|https://dx.doi.org/10.5194/jbji-10-489-2025
 Antibiotic-resistance plasmid amplified among MRSA cases in an urban jail and its connected communities.|https://dx.doi.org/10.1038/s41467-025-67113-9
+Fabrication and characterization of chitosan-based films incorporating DES-extracted astaxanthin from shrimp shells for antimicrobial shrimp packaging applications.|https://dx.doi.org/10.1016/j.foodres.2025.117828
+Remodeling of Staphylococcus epidermidis genome over three decades of nosocomial exposure.|https://dx.doi.org/10.1016/j.ygeno.2025.111167
+Community-acquired pneumonia-causing bacteria and antibiotic resistance rate among Syrian patients.|https://dx.doi.org/10.3855/jidc.21270
+Rifampin Use in Staphylococcal Prosthetic Joint Infections.|https://dx.doi.org/10.7759/cureus.96244
+A rapid systematic scoping review of the levels of bacterial antimicrobial resistance and antibiotic use among people in contact with the criminal justice system.|https://dx.doi.org/10.1093/jacamr/dlaf222
+Hospital-associated MRSA genotypes causing complicated community-onset skin and musculoskeletal infections.|https://dx.doi.org/10.3389/fcimb.2025.1686160
+Single-cell RNA Sequencing Analysis Reveals the Molecular Mechanisms of Neutrophil Dysfunction in Chronic Bone Infection.|https://dx.doi.org/10.2174/0109298673432965251027081909

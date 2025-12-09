@@ -12,3 +12,4 @@ Preprocedural screening for multidrug-resistant organisms in endoscopic retrogra
 Large-scale characterisation of the nasal microbiome redefines Staphylococcus aureus colonisation status.|https://dx.doi.org/10.1038/s41467-025-66564-4
 Impact of MRSA nasal swab screening and PCR in pneumonia treatment and antimicrobial stewardship: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117204
 RISK OF EXPOSURE TO BIOAEROSOLS IN CLINICAL ENVIRONMENTS: BRONCHOSCOPY.|https://dx.doi.org/10.1016/j.ajic.2025.11.026
+Prevalence of PVL and TSST-1 genes in nasal Staphylococcus aureus carriage among healthcare workers in a tertiary hospital.|https://dx.doi.org/10.3855/jidc.18208
