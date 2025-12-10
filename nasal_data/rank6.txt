@@ -5,3 +5,5 @@ Design, synthesis, and evaluation of mupirocin prodrugs restoring systemic effic
 Current pathogen profile for bacteremia in a tertiary care pediatric emergency department in Canada.|https://dx.doi.org/10.1093/pch/pxaf046
 Probiotic Potential of Lacticaseibacillus casei Isolated From Traditional Dairy Products and Its Hepatoprotective Effects in STZ-Induced Diabetic Rats.|https://dx.doi.org/10.1111/apm.70112
 High-Throughput Screening Using the Self-Controlled Tree-Based Scan Statistic to Identify Medications Associated With Hospitalization for Severe Acute Liver Injury.|https://dx.doi.org/10.1002/pds.70275
+Characterising commensal and pathogenic staphylococcal interactions with neonatal and adult blood.|https://dx.doi.org/10.1038/s41598-025-30393-8
+Ameliorative efficacy of Syzygium aromaticum ethanolic extract and Silymarin® upon carbon tetrachloride-induced liver fibrosis: antioxidant, antibacterial and anti-inflammatory activities.|https://dx.doi.org/10.1007/s12032-025-03100-w

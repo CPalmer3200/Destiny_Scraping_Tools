@@ -64,3 +64,4 @@ Rifampin Use in Staphylococcal Prosthetic Joint Infections.|https://dx.doi.org/1
 A rapid systematic scoping review of the levels of bacterial antimicrobial resistance and antibiotic use among people in contact with the criminal justice system.|https://dx.doi.org/10.1093/jacamr/dlaf222
 Hospital-associated MRSA genotypes causing complicated community-onset skin and musculoskeletal infections.|https://dx.doi.org/10.3389/fcimb.2025.1686160
 Single-cell RNA Sequencing Analysis Reveals the Molecular Mechanisms of Neutrophil Dysfunction in Chronic Bone Infection.|https://dx.doi.org/10.2174/0109298673432965251027081909
+Lysozyme-Responsive Glycol Chitosan Hydrogel Facilitates On-Demand Release of Antibacterial Nanoparticles for Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.5c01924

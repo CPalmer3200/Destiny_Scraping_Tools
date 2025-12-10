@@ -17,3 +17,6 @@ Quantifying the fatal and non-fatal burden of disease associated with child grow
 Drain Use and Complications After Breast Reduction in A Five-Academic-Institution Cohort.|https://dx.doi.org/10.1097/PRS.0000000000012688
 Complications Associated With Filler Injection for Breast Augmentation: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.95875
 Reduction of surgical-site infections and improvement of scar parameters with a uniform fractional ultra-pulse CO₂ laser protocol in cosmetic surgery: a five-center retrospective cohort.|https://dx.doi.org/10.3389/fmed.2025.1642041
+"Characterizing Risk Factors for 30-Day Readmission in Autologous Breast Reconstruction Patients with DIEP Flaps".|https://dx.doi.org/10.1097/PRS.0000000000012701
+Impact of GLP-1 Agonist on Surgical Wound Complications Following Plastic and Reconstructive Surgery: A Propensity Matched Cohort Large Database Analysis.|https://dx.doi.org/10.1097/PRS.0000000000012703
+Clinical score based on CGRP, PD-1, and PD-L1 for PICC-related bloodstream infections in breast cancer.|https://dx.doi.org/10.1038/s41598-025-27362-6
