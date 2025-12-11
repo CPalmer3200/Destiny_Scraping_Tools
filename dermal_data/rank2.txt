@@ -13,3 +13,8 @@ How Would You Manage This Diabetic Patient With a Foot Infection? Grand Rounds D
 A randomized controlled trial of patient navigators for post-hospital discharge diabetic foot ulcer care: the Comprehensive Assistance and Resources for Effective Diabetic Foot Navigation (CARE-D-Foot-Nav) study protocol.|https://dx.doi.org/10.1101/2025.11.25.25340976
 Increased abundance of actinobacteria and upregulation of primary bile acid biosynthesis in diabetic foot ulcers.|https://dx.doi.org/10.3389/fcimb.2025.1651828
 Practical guidelines for the prevention and management of diabetic foot disease in China.|https://dx.doi.org/10.1093/burnst/tkaf064
+Foot Temperature Measurement in People With Diabetes: Validation of a Non-Contact Thermal Device.|https://dx.doi.org/10.1177/19322968251398863
+Role of C-reactive Protein (CRP) Levels and Glycemic Control in Outcome of Diabetic Foot Ulcer Healing.|https://dx.doi.org/10.7759/cureus.96342
+Prospective Evaluation of the Society for Vascular Surgery (SVS) Wound, Ischemia, and Foot Infection (WiFi) Classification for Predicting Amputation Risk in Diabetic Foot Ulcers at a South Indian Tertiary Care Center.|https://dx.doi.org/10.7759/cureus.96361
+Lattice-Reconstructed Ru-Clusters on FeOOH-Based Self-Adaptive Artificial Peroxisome with Programmed ROS Regulation for Infectious and Inflammatory Chronic Wounds.|https://dx.doi.org/10.1002/adma.202520395
+Characterization of Methicillin-Resistant Staphylococcus Aureus Resistance and Hematological Profiles in Diabetic Foot Infections.|https://dx.doi.org/10.7754/Clin.Lab.2025.250438

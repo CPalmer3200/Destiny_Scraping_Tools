@@ -2,3 +2,5 @@ An antibacterial nanofiber with inflammation-suppressing, ROS-scavenging and nit
 Molecular response to the non-lytic peptide bac7 (1-35) triggers disruption of Klebsiella pneumoniae biofilm.|https://dx.doi.org/10.1371/journal.ppat.1013437
 Barrier-disrupting microneedle technology: Overcoming physical, physiological, and pathological skin defenses to enhance therapeutic efficacy.|https://dx.doi.org/10.1016/j.bioactmat.2025.11.005
 Dynamic exometabolomics reveals metabolic adaptations of Staphylococcus epidermidis to pH-mimicking skin and bloodstream.|https://dx.doi.org/10.1016/j.resmic.2025.104355
+Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.|https://dx.doi.org/10.1016/j.fitote.2025.107022
+Vm-MSI: a Vancomycin-Antimicrobial Peptide Conjugate Combating Resistant Bacteria and Broadening the Antimicrobial Spectrum.|https://dx.doi.org/10.1002/advs.202503023

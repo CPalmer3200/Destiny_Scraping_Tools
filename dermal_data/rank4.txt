@@ -19,3 +19,10 @@ Ternary phase optimized indomethacin nanoemulsion hydrogel for sustained topical
 Cotton gauze wound-dressing patches loaded with dapsone derivative and silver nanoparticles for promoting wound healing via antibacterial acceleration function.|https://dx.doi.org/10.1039/d5ra04951b
 Lipoic acid-kaempferol hydrogel loaded with Typhaneoside for sutureless wound closure, hemostasis, and healing of diabetic infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2025.102504
 3D Bioprinted Constructs Enriched with Zinc-Doped Bioactive Glass Promote Antibacterial Activity and Osteochondral Tissue Regeneration.|https://dx.doi.org/10.1002/adhm.202503186
+Photo-reversible amyloid nanoNETs for regenerative antimicrobial therapies.|https://dx.doi.org/10.1038/s41467-025-65976-6
+Ultraviolet-induced Glycyrrhiza polysaccharide hydrogels with different mechanical strength for wound management.|https://dx.doi.org/10.1016/j.carbpol.2025.124712
+Cinnamaldehyde crosslinked chitosan-gelatin films reinforced with Achillea millefolium-capped ZrO(2) nanoparticles for wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149539
+Fabrication of starch-based hydrogels as drug controlled release carriers: Characterization, anti-bacterial, and cytotoxicity assessment.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149568
+Impregnation of biopolymers containing berberine-loaded nanoliposomes with silver nanoparticles as novel antimicrobial nanocomposite films.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149558
+Treating bacterial keratitis during sleep through placing hydrogel beads with sustained tobramycin/baicalin delivery capability at the palpebra inferior.|https://dx.doi.org/10.1039/d5tb01273b
+Lysozyme-Responsive Glycol Chitosan Hydrogel Facilitates On-Demand Release of Antibacterial Nanoparticles for Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.5c01924

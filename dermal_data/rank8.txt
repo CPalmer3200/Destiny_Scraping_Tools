@@ -2,3 +2,4 @@ Design, synthesis, and evaluation of mupirocin prodrugs restoring systemic effic
 High-Throughput Screening Using the Self-Controlled Tree-Based Scan Statistic to Identify Medications Associated With Hospitalization for Severe Acute Liver Injury.|https://dx.doi.org/10.1002/pds.70275
 Prevalence of PVL and TSST-1 genes in nasal Staphylococcus aureus carriage among healthcare workers in a tertiary hospital.|https://dx.doi.org/10.3855/jidc.18208
 Reduction of surgical-site infections and improvement of scar parameters with a uniform fractional ultra-pulse CO₂ laser protocol in cosmetic surgery: a five-center retrospective cohort.|https://dx.doi.org/10.3389/fmed.2025.1642041
+Metagenomic insights into microbial communities and antibiotic resistance in treated wastewater for urban irrigation.|https://dx.doi.org/10.1186/s12866-025-04560-w
