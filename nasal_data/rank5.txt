@@ -20,3 +20,5 @@ Reduction of surgical-site infections and improvement of scar parameters with a 
 "Characterizing Risk Factors for 30-Day Readmission in Autologous Breast Reconstruction Patients with DIEP Flaps".|https://dx.doi.org/10.1097/PRS.0000000000012701
 Impact of GLP-1 Agonist on Surgical Wound Complications Following Plastic and Reconstructive Surgery: A Propensity Matched Cohort Large Database Analysis.|https://dx.doi.org/10.1097/PRS.0000000000012703
 Clinical score based on CGRP, PD-1, and PD-L1 for PICC-related bloodstream infections in breast cancer.|https://dx.doi.org/10.1038/s41598-025-27362-6
+Early detection of viable microorganisms in "sterile" periprosthetic fluids in implant-based breast reconstruction: A bioelectrochemical approach using screen-printed electrodes.|https://dx.doi.org/10.1016/j.bjps.2025.11.045
+Associations of feeding and delivery modes with the risk of otitis media with effusion in children: A cross-sectional study.|https://dx.doi.org/10.1097/MD.0000000000044692

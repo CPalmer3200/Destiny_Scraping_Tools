@@ -65,3 +65,6 @@ A rapid systematic scoping review of the levels of bacterial antimicrobial resis
 Hospital-associated MRSA genotypes causing complicated community-onset skin and musculoskeletal infections.|https://dx.doi.org/10.3389/fcimb.2025.1686160
 Single-cell RNA Sequencing Analysis Reveals the Molecular Mechanisms of Neutrophil Dysfunction in Chronic Bone Infection.|https://dx.doi.org/10.2174/0109298673432965251027081909
 Lysozyme-Responsive Glycol Chitosan Hydrogel Facilitates On-Demand Release of Antibacterial Nanoparticles for Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.5c01924
+Unexpected pyomyositis in a healthy adult: diagnostic hurdles and multifaceted treatment approaches-a case report.|https://dx.doi.org/10.1186/s13256-025-05743-9
+Sex does not influence outcomes in valvular heart surgery due to infective endocarditis: A systematic review and meta-analysis.|https://dx.doi.org/10.1177/02184923251405504
+Clinical features of pyogenic vertebral osteomyelitis and factors associated with adverse clinical outcome: a retrospective cohort study.|https://dx.doi.org/10.1186/s12879-025-12118-4
