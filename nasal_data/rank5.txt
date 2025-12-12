@@ -22,3 +22,7 @@ Impact of GLP-1 Agonist on Surgical Wound Complications Following Plastic and Re
 Clinical score based on CGRP, PD-1, and PD-L1 for PICC-related bloodstream infections in breast cancer.|https://dx.doi.org/10.1038/s41598-025-27362-6
 Early detection of viable microorganisms in "sterile" periprosthetic fluids in implant-based breast reconstruction: A bioelectrochemical approach using screen-printed electrodes.|https://dx.doi.org/10.1016/j.bjps.2025.11.045
 Associations of feeding and delivery modes with the risk of otitis media with effusion in children: A cross-sectional study.|https://dx.doi.org/10.1097/MD.0000000000044692
+Effect of Coronavirus Disease 2019 Pandemic on Delivery of Breast Reconstructive Services and Outcomes.|https://dx.doi.org/10.1097/GOX.0000000000007331
+Patterns and costs of breast reconstruction in Chinese plastic surgery department: a study from national quality control databases (2022-2023).|https://dx.doi.org/10.21037/gs-2025-246
+Prepectoral breast reconstruction with and without acellular dermal matrix: a systematic review and meta-analysis.|https://dx.doi.org/10.21037/gs-2025-309
+A warning of a rare complication-delayed tracheal rupture after thyroidectomy: a report of three cases.|https://dx.doi.org/10.21037/gs-2025-304

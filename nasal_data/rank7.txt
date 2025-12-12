@@ -68,3 +68,9 @@ Lysozyme-Responsive Glycol Chitosan Hydrogel Facilitates On-Demand Release of An
 Unexpected pyomyositis in a healthy adult: diagnostic hurdles and multifaceted treatment approaches-a case report.|https://dx.doi.org/10.1186/s13256-025-05743-9
 Sex does not influence outcomes in valvular heart surgery due to infective endocarditis: A systematic review and meta-analysis.|https://dx.doi.org/10.1177/02184923251405504
 Clinical features of pyogenic vertebral osteomyelitis and factors associated with adverse clinical outcome: a retrospective cohort study.|https://dx.doi.org/10.1186/s12879-025-12118-4
+Transcatheter Repair of Aortopulmonary Fistula With VSD Occluder After Surgical Aortic Valve Replacement for Aortic Valve Endocarditis.|https://dx.doi.org/10.1016/j.jaccas.2025.106215
+N-benzyl-N-methyldithiocarbamate (BMDC) combines with metals to produce antimicrobial and anti-biofilm activity against methicillin-resistant Staphylococcus aureus (MRSA) and Staphylococcus epidermidis.|https://dx.doi.org/10.1128/msphere.00691-25
+Determination of antimicrobial resistance pattern among post-operative orthopedic implant patients in a tertiary care hospital: A retrospective study.|https://dx.doi.org/10.5414/CP204886
+Multifocal community-acquired MRSA infection: a rare case involving urinary tract, bloodstream, chest wall, and pleura.|https://dx.doi.org/10.1097/MS9.0000000000004161
+From Cough to Multi-Organ Embolis: A Rare Case of MRSA-Induced Infective Endocarditis With Successful Surgical Management.|https://dx.doi.org/10.1002/ccr3.71646
+Molecular Epidemiology, Clinical Manifestations, Decolonization Strategies, and Treatment Options of Methicillin-Susceptible Staphylococcus Aureus Infection in Neonates.|https://dx.doi.org/10.3390/ijms262311430

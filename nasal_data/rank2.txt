@@ -13,3 +13,4 @@ Large-scale characterisation of the nasal microbiome redefines Staphylococcus au
 Impact of MRSA nasal swab screening and PCR in pneumonia treatment and antimicrobial stewardship: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.diagmicrobio.2025.117204
 RISK OF EXPOSURE TO BIOAEROSOLS IN CLINICAL ENVIRONMENTS: BRONCHOSCOPY.|https://dx.doi.org/10.1016/j.ajic.2025.11.026
 Prevalence of PVL and TSST-1 genes in nasal Staphylococcus aureus carriage among healthcare workers in a tertiary hospital.|https://dx.doi.org/10.3855/jidc.18208
+Genomic Insights into Multidrug-resistant Mammaliicoccus sciuri Carrying Novel Staphylococcal Cassette Chromosome mec (SCCmec) Elements and Plasmids from Farm Ruminants on the East Coast of Peninsular Malaysia.|https://dx.doi.org/10.1007/s00284-025-04576-5
