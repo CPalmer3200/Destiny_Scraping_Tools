@@ -26,3 +26,11 @@ Fabrication of starch-based hydrogels as drug controlled release carriers: Chara
 Impregnation of biopolymers containing berberine-loaded nanoliposomes with silver nanoparticles as novel antimicrobial nanocomposite films.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149558
 Treating bacterial keratitis during sleep through placing hydrogel beads with sustained tobramycin/baicalin delivery capability at the palpebra inferior.|https://dx.doi.org/10.1039/d5tb01273b
 Lysozyme-Responsive Glycol Chitosan Hydrogel Facilitates On-Demand Release of Antibacterial Nanoparticles for Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.5c01924
+Immunomodulatory Hydrogel Coating with SeNPs and Lithium Silicate Synergistically Promotes Osseointegration and Prevents Infection on Titanium Implants.|https://dx.doi.org/10.1002/advs.202513195
+Overcoming Antimicrobial Resistance in Bacterial Keratitis With an Antibiotic-Eluting Contact Lens.|https://dx.doi.org/10.1167/iovs.66.15.38
+Injectable adhesive self-healing hyaluronic acid-based hydrogel with microenvironment-responsive metformin delivery and photothermal antibacterial activity for diabetic infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149560
+Biological Characterization of Mupirocin-KGF Hydrogel and Its Regenerative Potential in Human Fibroblast-Mediated Wound Healing.|https://dx.doi.org/10.3390/molecules30234523
+Preparation of Alginate/AgNP Nanocomposite Hydrogels Incorporating Olive Leaf Extracts in Natural Deep Eutectic Solvents.|https://dx.doi.org/10.3390/polym17233234
+3D Nanofibrous Scaffolds for Encapsulation-Controlled Vancomycin Delivery: Antibacterial Performance and Cytocompatibility.|https://dx.doi.org/10.3390/polym17233116
+Preparation and Characterization of Chitosan/Polyvinyl Alcohol/Zinc Gluconate Hydrogel: Antibacterial and Zinc Ion Release.|https://dx.doi.org/10.3390/polym17233099
+Development and Application of Visible-Light-Responsive Perylene Diimide Functionalized Silk Fibroin/Polylactic Acid Antibacterial Nanofibrous Membranes.|https://dx.doi.org/10.3390/ijms262311533

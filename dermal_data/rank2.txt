@@ -18,3 +18,5 @@ Role of C-reactive Protein (CRP) Levels and Glycemic Control in Outcome of Diabe
 Prospective Evaluation of the Society for Vascular Surgery (SVS) Wound, Ischemia, and Foot Infection (WiFi) Classification for Predicting Amputation Risk in Diabetic Foot Ulcers at a South Indian Tertiary Care Center.|https://dx.doi.org/10.7759/cureus.96361
 Lattice-Reconstructed Ru-Clusters on FeOOH-Based Self-Adaptive Artificial Peroxisome with Programmed ROS Regulation for Infectious and Inflammatory Chronic Wounds.|https://dx.doi.org/10.1002/adma.202520395
 Characterization of Methicillin-Resistant Staphylococcus Aureus Resistance and Hematological Profiles in Diabetic Foot Infections.|https://dx.doi.org/10.7754/Clin.Lab.2025.250438
+Unlocking the Potential of Negative Pressure Wound Therapy in Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.96474
+Comparative analysis of the therapeutic effect of antibiotic bone cement on Wagner grade 3 or 4 diabetic foot ulcer in heel and non-heel areas: a retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2025.1662731

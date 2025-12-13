@@ -4,3 +4,8 @@ Barrier-disrupting microneedle technology: Overcoming physical, physiological, a
 Dynamic exometabolomics reveals metabolic adaptations of Staphylococcus epidermidis to pH-mimicking skin and bloodstream.|https://dx.doi.org/10.1016/j.resmic.2025.104355
 Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.|https://dx.doi.org/10.1016/j.fitote.2025.107022
 Vm-MSI: a Vancomycin-Antimicrobial Peptide Conjugate Combating Resistant Bacteria and Broadening the Antimicrobial Spectrum.|https://dx.doi.org/10.1002/advs.202503023
+The Dual Role of Staphylococcus epidermidis in Atopic Dermatitis: Pathobiont and Protector.|https://dx.doi.org/10.1177/17103568251404946
+N-benzyl-N-methyldithiocarbamate (BMDC) combines with metals to produce antimicrobial and anti-biofilm activity against methicillin-resistant Staphylococcus aureus (MRSA) and Staphylococcus epidermidis.|https://dx.doi.org/10.1128/msphere.00691-25
+Antimicrobial Activity Versus Virulence Potential of Hyaluronic Acid: Balancing Advantages and Disadvantages.|https://dx.doi.org/10.3390/ijms262311549
+Wounds and the Microbiota: The Healing Interplay Between Host and Microbial Communities.|https://dx.doi.org/10.3390/ijms262311365
+Antibacterial and antibiofilm activity of platelet-rich plasma under different activation conditions against multidrug-resistant MRSA isolated from human skin abscesses.|https://dx.doi.org/10.1186/s12896-025-01078-x
