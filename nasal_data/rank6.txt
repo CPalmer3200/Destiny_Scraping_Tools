@@ -8,3 +8,4 @@ High-Throughput Screening Using the Self-Controlled Tree-Based Scan Statistic to
 Characterising commensal and pathogenic staphylococcal interactions with neonatal and adult blood.|https://dx.doi.org/10.1038/s41598-025-30393-8
 Ameliorative efficacy of Syzygium aromaticum ethanolic extract and Silymarin® upon carbon tetrachloride-induced liver fibrosis: antioxidant, antibacterial and anti-inflammatory activities.|https://dx.doi.org/10.1007/s12032-025-03100-w
 French consensus statement on transition of adolescent and young adults with rare pulmonary disease from paediatric to adult care: a Delphi method study.|https://dx.doi.org/10.1183/23120541.00072-2025
+Correction: Synergistic nano-vaccine strategy for comprehensive activation of adaptive and innate immunity against Staphylococcus aureus infection.|https://dx.doi.org/10.3389/fimmu.2025.1740490

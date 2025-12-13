@@ -14,3 +14,4 @@ Impact of MRSA nasal swab screening and PCR in pneumonia treatment and antimicro
 RISK OF EXPOSURE TO BIOAEROSOLS IN CLINICAL ENVIRONMENTS: BRONCHOSCOPY.|https://dx.doi.org/10.1016/j.ajic.2025.11.026
 Prevalence of PVL and TSST-1 genes in nasal Staphylococcus aureus carriage among healthcare workers in a tertiary hospital.|https://dx.doi.org/10.3855/jidc.18208
 Genomic Insights into Multidrug-resistant Mammaliicoccus sciuri Carrying Novel Staphylococcal Cassette Chromosome mec (SCCmec) Elements and Plasmids from Farm Ruminants on the East Coast of Peninsular Malaysia.|https://dx.doi.org/10.1007/s00284-025-04576-5
+Lung SPLUNC1-derived anti-biofilm peptide in polymeric nanoparticles: A novel strategy against S. aureus biofilms and antimicrobial resistance.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149552

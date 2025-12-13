@@ -74,3 +74,8 @@ Determination of antimicrobial resistance pattern among post-operative orthopedi
 Multifocal community-acquired MRSA infection: a rare case involving urinary tract, bloodstream, chest wall, and pleura.|https://dx.doi.org/10.1097/MS9.0000000000004161
 From Cough to Multi-Organ Embolis: A Rare Case of MRSA-Induced Infective Endocarditis With Successful Surgical Management.|https://dx.doi.org/10.1002/ccr3.71646
 Molecular Epidemiology, Clinical Manifestations, Decolonization Strategies, and Treatment Options of Methicillin-Susceptible Staphylococcus Aureus Infection in Neonates.|https://dx.doi.org/10.3390/ijms262311430
+Halfway between Cure and Care: Suppressive Therapy in Inoperable Infective Endocarditis.|https://dx.doi.org/10.53854/liim-3304-6
+Silver multilayer coating on orthopedic implant material of different alloys and surfaces significantly reduces bacterial colonization.|https://dx.doi.org/10.3389/fcimb.2025.1707694
+Spiral Vein Graft Reconstruction for an Infected Common Femoral Artery Pseudoaneurysm after Vascular Closure Device and Stent-Graft Failure: A Case Report.|https://dx.doi.org/10.5758/vsi.250100
+An antimicrobial daptide from human skin commensal Staphylococcus hominis protects against skin pathogens.|https://dx.doi.org/10.1038/s41467-025-66259-w
+Prospective characterisation of drug-resistant bloodstream infections in Africa and Asia (ACORN2): a surveillance network assessment.|https://dx.doi.org/10.1016/j.lanmic.2025.101228
