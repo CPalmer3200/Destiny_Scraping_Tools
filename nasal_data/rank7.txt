@@ -80,3 +80,5 @@ Spiral Vein Graft Reconstruction for an Infected Common Femoral Artery Pseudoane
 An antimicrobial daptide from human skin commensal Staphylococcus hominis protects against skin pathogens.|https://dx.doi.org/10.1038/s41467-025-66259-w
 Prospective characterisation of drug-resistant bloodstream infections in Africa and Asia (ACORN2): a surveillance network assessment.|https://dx.doi.org/10.1016/j.lanmic.2025.101228
 Infectious complications of K-wire fixation in pediatric fractures: Risk factors and management at a tertiary care center.|https://dx.doi.org/10.1016/j.injury.2025.112944
+Konjac glucomannan-based edible coatings for preservation of Dendrobium officinale.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149680
+Knee arthrofixation with modular nail as salvage for periprosthetic infection. Evaluation of quality of life and implant survival.|https://dx.doi.org/10.1016/j.jisako.2025.101050
