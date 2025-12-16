@@ -20,3 +20,7 @@ Lattice-Reconstructed Ru-Clusters on FeOOH-Based Self-Adaptive Artificial Peroxi
 Characterization of Methicillin-Resistant Staphylococcus Aureus Resistance and Hematological Profiles in Diabetic Foot Infections.|https://dx.doi.org/10.7754/Clin.Lab.2025.250438
 Unlocking the Potential of Negative Pressure Wound Therapy in Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.96474
 Comparative analysis of the therapeutic effect of antibiotic bone cement on Wagner grade 3 or 4 diabetic foot ulcer in heel and non-heel areas: a retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2025.1662731
+Biomedical Aerogels in Wound Healing: Therapeutic Strategies and Translational Insights.|https://dx.doi.org/10.34133/bmr.0295
+Gentamicin-loaded exosomes from IMMUNEPOTENT CRP enhance healing of infected diabetic wound in mice.|https://dx.doi.org/10.3389/fphar.2025.1682468
+Virulence between ESBL and non-ESBL producing isolates of Acinetobacter baumanii causing diabetic foot infections.|https://dx.doi.org/10.6026/973206300212942
+Candida tropicalis culture supernatants modulate Pseudomonas aeruginosa antimicrobial resistance and biofilm formation.|https://dx.doi.org/10.1038/s41598-025-31858-6

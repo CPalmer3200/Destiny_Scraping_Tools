@@ -9,3 +9,5 @@ N-benzyl-N-methyldithiocarbamate (BMDC) combines with metals to produce antimicr
 Antimicrobial Activity Versus Virulence Potential of Hyaluronic Acid: Balancing Advantages and Disadvantages.|https://dx.doi.org/10.3390/ijms262311549
 Wounds and the Microbiota: The Healing Interplay Between Host and Microbial Communities.|https://dx.doi.org/10.3390/ijms262311365
 Antibacterial and antibiofilm activity of platelet-rich plasma under different activation conditions against multidrug-resistant MRSA isolated from human skin abscesses.|https://dx.doi.org/10.1186/s12896-025-01078-x
+Unraveling the disease pyramid: the role of environmental micro-eukaryotes in amphibian resistance to the deadly fungal pathogen Batrachochytrium dendrobatidis.|https://dx.doi.org/10.1128/msystems.01436-25
+Molecular epidemiological characteristics, antifungal resistance and pathogenicity of Candidozyma auris in Guangzhou, South China.|https://dx.doi.org/10.1186/s12866-025-04576-2

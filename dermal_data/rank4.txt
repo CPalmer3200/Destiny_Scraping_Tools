@@ -34,3 +34,10 @@ Preparation of Alginate/AgNP Nanocomposite Hydrogels Incorporating Olive Leaf Ex
 3D Nanofibrous Scaffolds for Encapsulation-Controlled Vancomycin Delivery: Antibacterial Performance and Cytocompatibility.|https://dx.doi.org/10.3390/polym17233116
 Preparation and Characterization of Chitosan/Polyvinyl Alcohol/Zinc Gluconate Hydrogel: Antibacterial and Zinc Ion Release.|https://dx.doi.org/10.3390/polym17233099
 Development and Application of Visible-Light-Responsive Perylene Diimide Functionalized Silk Fibroin/Polylactic Acid Antibacterial Nanofibrous Membranes.|https://dx.doi.org/10.3390/ijms262311533
+Novel magnetic gellan gum hydrogel nanocomposite with polydopamine and functionalized halloysite nanotubes for efficient butylparaben adsorption from wastewater.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149689
+Electrospun gelatin/PCL nanofibers incorporating curcumin loaded hydroxyapatite: A dual function antibacterial wound dressing for controlled drug release and accelerated skin repair.|https://dx.doi.org/10.1088/2057-1976/ae2c8d
+Beyond Comfortable: A Removable Antibacterial Electroconductive Cellulose Nonwoven Dressing for Accelerated Wound Healing.|https://dx.doi.org/10.1021/acs.nanolett.5c04270
+Hydrogel Microneedle Array-Based Transdermal Dressing System for Multiplexed Assessment and Intelligent Therapy of Chronic Wounds.|https://dx.doi.org/10.1002/smll.202511542
+Ultrasound-Assisted Polyphenol Hydrogelation: Mechanistic Insights into Self-Assembly, Antioxidant, and Dual Antibacterial Action against Gram-Positive and Gram-Negative Pathogens.|https://dx.doi.org/10.1021/acsabm.5c01818
+Self-healing PVA/PVP micelle-hydrogel composite system for potential phenytoin repositioning in wound healing.|https://dx.doi.org/10.1186/s13036-025-00587-9
+Indocyanine green (ICG)-loaded Ti(3)C(2)T(x) MXene/Bletilla striata polysaccharide nanocomposite hydrogel for synergistic photothermal-photodynamic antibacterial therapy and wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149645
