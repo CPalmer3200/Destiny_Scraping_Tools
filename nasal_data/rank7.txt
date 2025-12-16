@@ -82,3 +82,6 @@ Prospective characterisation of drug-resistant bloodstream infections in Africa 
 Infectious complications of K-wire fixation in pediatric fractures: Risk factors and management at a tertiary care center.|https://dx.doi.org/10.1016/j.injury.2025.112944
 Konjac glucomannan-based edible coatings for preservation of Dendrobium officinale.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149680
 Knee arthrofixation with modular nail as salvage for periprosthetic infection. Evaluation of quality of life and implant survival.|https://dx.doi.org/10.1016/j.jisako.2025.101050
+Food-residue-level antibiotics promote mucosal colonization of foodborne antibiotic-resistant Staphylococcus aureus in a simulated human gut.|https://dx.doi.org/10.1080/19490976.2025.2599517
+Deubiquitinase USP-14 controls intestinal distension-induced immune activation in Caenorhabditis elegans via Wnt/β-catenin signaling.|https://dx.doi.org/10.1101/2025.11.25.690479
+Complicated Infective Endocarditis Due to Methicillin-Sensitive Staphylococcus aureus and Streptococcus canis Bacteremia: A Multisystem Case Requiring Interdisciplinary Management.|https://dx.doi.org/10.7759/cureus.96614
