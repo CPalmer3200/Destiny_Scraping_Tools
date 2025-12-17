@@ -85,3 +85,8 @@ Knee arthrofixation with modular nail as salvage for periprosthetic infection. E
 Food-residue-level antibiotics promote mucosal colonization of foodborne antibiotic-resistant Staphylococcus aureus in a simulated human gut.|https://dx.doi.org/10.1080/19490976.2025.2599517
 Deubiquitinase USP-14 controls intestinal distension-induced immune activation in Caenorhabditis elegans via Wnt/β-catenin signaling.|https://dx.doi.org/10.1101/2025.11.25.690479
 Complicated Infective Endocarditis Due to Methicillin-Sensitive Staphylococcus aureus and Streptococcus canis Bacteremia: A Multisystem Case Requiring Interdisciplinary Management.|https://dx.doi.org/10.7759/cureus.96614
+Understanding the risk and therapeutic possibilities for periprosthetic joint infections: a comprehensive review.|https://dx.doi.org/10.36740/WLek/211224
+Efficacy of pulsed ultraviolet (PUV) light for disinfection of nosocomial pathogens: An in-vitro investigation of key parameters for surface and equipment applications.|https://dx.doi.org/10.1371/journal.pone.0338944
+Therapeutic Dilemmas in the Management of Stroke Among Patients With Infective Endocarditis (IE): A Literature Review.|https://dx.doi.org/10.7759/cureus.96817
+Bifunctional 3D-printed PEEK scaffolds incorporating hydrogel-encapsulated magnesium-quinone nanosheets for antibacterial activity and mandibular bone regeneration.|https://dx.doi.org/10.1016/j.mtbio.2025.102607
+Skin-Adhesive Antibacterial Hydrogel Loaded with Biosynthesized CuS Nanoparticles for NIR Laser-Induced Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01987
