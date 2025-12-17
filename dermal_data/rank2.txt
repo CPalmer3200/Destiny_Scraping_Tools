@@ -24,3 +24,6 @@ Biomedical Aerogels in Wound Healing: Therapeutic Strategies and Translational I
 Gentamicin-loaded exosomes from IMMUNEPOTENT CRP enhance healing of infected diabetic wound in mice.|https://dx.doi.org/10.3389/fphar.2025.1682468
 Virulence between ESBL and non-ESBL producing isolates of Acinetobacter baumanii causing diabetic foot infections.|https://dx.doi.org/10.6026/973206300212942
 Candida tropicalis culture supernatants modulate Pseudomonas aeruginosa antimicrobial resistance and biofilm formation.|https://dx.doi.org/10.1038/s41598-025-31858-6
+Bioengineered vancomycin-loaded chitosan/collagen nanocomposite from Sphyrna lewini: Antioxidant, antimicrobial, and antidiabetic applications in wound healing.|https://dx.doi.org/10.1016/j.bioorg.2025.109352
+Microbial Dominance in Diabetic Foot Osteomyelitis using Nanopore Sequencing Techniques Predicts Positive Response to Surgical Intervention.|https://dx.doi.org/10.1093/infdis/jiaf617
+"Bone biopsy not superior to ulcer bed biopsy guided antibacterial therapy on remission of diabetic foot osteomyelitis: A randomized controlled trial".|https://dx.doi.org/10.1093/cid/ciaf684
