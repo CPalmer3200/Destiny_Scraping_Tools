@@ -2,3 +2,6 @@ Potential for Algorithmic Bias in Clinical Decision Instrument Development.|http
 Antibiotic prophylaxis in elective laparoscopic cholecystectomy: a narrative review of efficacy, safety, and antimicrobial stewardship.|https://dx.doi.org/10.1097/MS9.0000000000004059
 Patient with Inflammatory Bowel Disease in a Dental Office-Which Antibiotic to Choose?-Narrative Review.|https://dx.doi.org/10.3390/jcm14238392
 Critical shift phase in deep vein thrombosis development after major sellar region tumor surgeries: a systematic review.|https://dx.doi.org/10.1080/07853890.2025.2599619
+Surveillance of adverse events following immunisation in Australia annual report, COVID-19 vaccines, 2022.|https://dx.doi.org/10.33321/cdi.2025.49.044
+Australian National Enterovirus Reference Laboratory annual report, 2024.|https://dx.doi.org/10.33321/cdi.2025.49.047
+2025 Review of Public Health Laboratory Network Australia Neisseria gonorrhoeae National Nucleic Acid Amplification Testing Guidelines.|https://dx.doi.org/10.33321/cdi.2025.49.067
