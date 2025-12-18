@@ -90,3 +90,7 @@ Efficacy of pulsed ultraviolet (PUV) light for disinfection of nosocomial pathog
 Therapeutic Dilemmas in the Management of Stroke Among Patients With Infective Endocarditis (IE): A Literature Review.|https://dx.doi.org/10.7759/cureus.96817
 Bifunctional 3D-printed PEEK scaffolds incorporating hydrogel-encapsulated magnesium-quinone nanosheets for antibacterial activity and mandibular bone regeneration.|https://dx.doi.org/10.1016/j.mtbio.2025.102607
 Skin-Adhesive Antibacterial Hydrogel Loaded with Biosynthesized CuS Nanoparticles for NIR Laser-Induced Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01987
+Antimicrobial susceptibility patterns and associated risk factors of bacterial isolate among urinary tract infection suspected patients at University of Gondar Comprehensive Specialized Hospital North west Ethiopia.|https://dx.doi.org/10.1186/s12879-025-12125-5
+Surgical revision in the presence of an S. aureus infection increases virulence factor expression and activates a multi-tissue inflammatory response.|https://dx.doi.org/10.1038/s41522-025-00885-6
+Commensal Staphylococci attenuate Staphylococcus aureus skin colonization and inflammation via AHR-dependent signaling.|https://dx.doi.org/10.3389/fimmu.2025.1726557
+Corynebacterium Striatum Infective Endocarditis: A Systematic Review.|https://dx.doi.org/10.2147/JIR.S512822

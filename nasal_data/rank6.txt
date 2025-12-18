@@ -10,3 +10,6 @@ Ameliorative efficacy of Syzygium aromaticum ethanolic extract and Silymarin® u
 French consensus statement on transition of adolescent and young adults with rare pulmonary disease from paediatric to adult care: a Delphi method study.|https://dx.doi.org/10.1183/23120541.00072-2025
 Correction: Synergistic nano-vaccine strategy for comprehensive activation of adaptive and innate immunity against Staphylococcus aureus infection.|https://dx.doi.org/10.3389/fimmu.2025.1740490
 Methicillin-resistant Staphylococcus aureus and vancomycin-resistant Enterococcus faecium infections in children in the Oceania region: review of the epidemiology, antimicrobial availability, treatment, clinical trial and pharmacokinetic data and key evidence gaps.|https://dx.doi.org/10.1016/j.lanwpc.2025.101754
+Inducer-free secretion expression of staphylococcal LukF-PV and LukS-PV in Bacillus subtilis and humoral immune response in mice.|https://dx.doi.org/10.1080/17460913.2025.2602388
+Immunometabolic crossroads: infections as bidirectional modulators in diabetes and metabolic syndromes.|https://dx.doi.org/10.3389/fendo.2025.1710157
+Regenerative potential of nanoenabled collagen-polylactide scaffolds for osteochondral defect repair in rabbits.|https://dx.doi.org/10.3389/fbioe.2025.1699338
