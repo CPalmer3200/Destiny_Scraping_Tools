@@ -3,3 +3,5 @@ Characterization of a hypersporulating strain derivative of Clostridioides diffi
 Psychological predictors of CPAP therapy adherence in obstructive sleep apnea patients: insights from the predisposing, precipitating, and perpetuating factors model.|https://dx.doi.org/10.1016/j.ijchp.2025.100602
 Inflammatory Bowel Disease, Gastrointestinal Graft-Versus-Host Disease and Immune Checkpoint Inhibitors Induced Colitis: Similar Diseases to Treat with Fecal Microbiota Transplantation.|https://dx.doi.org/10.3390/nu17233788
 Evaluation of outcomes associated with antipseudomonal beta-lactams for treatment of methicillin-susceptible Staphylococcus aureus bacteremia: a retrospective cohort analysis.|https://dx.doi.org/10.1177/20499361251395527
+Metabolic and pathogenic implications of sialic acid utilization in Clostridioides difficile infection.|https://dx.doi.org/10.1080/17460913.2025.2603859
+Mycobacterium wolinskyi Bloodstream Infection Associated With a Central Venous Port: A Case Report.|https://dx.doi.org/10.7759/cureus.96872

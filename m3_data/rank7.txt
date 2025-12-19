@@ -2,3 +2,4 @@ A Novel Technique to Characterize Klebsiella pneumoniae Populations Indicates th
 Feasibility and Safety of Aerosolized Influenza Virus Challenge in Humans Using Two Modern Delivery Systems.|https://dx.doi.org/10.1093/infdis/jiaf603
 PERK inhibition mitigates acrylamide-induced tau phosphorylation and synaptic deficits via the GSK-3β and ATF4 pathways in human neuroblastoma SH-SY5Y cells.|https://dx.doi.org/10.1016/j.ecoenv.2025.119583
 Design and rationale for the VICTRIVA study: A randomized, double-blind, phase 3b study of vedolizumab in combination with upadacitinib in Crohn's disease.|https://dx.doi.org/10.1016/j.conctc.2025.101574
+Repurposing antibacterial drugs identifies ridinilazole and CRS3123 as promising candidates against vancomycin-resistant enterococci.|https://dx.doi.org/10.1038/s41598-025-29583-1
