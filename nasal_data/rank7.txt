@@ -94,3 +94,10 @@ Antimicrobial susceptibility patterns and associated risk factors of bacterial i
 Surgical revision in the presence of an S. aureus infection increases virulence factor expression and activates a multi-tissue inflammatory response.|https://dx.doi.org/10.1038/s41522-025-00885-6
 Commensal Staphylococci attenuate Staphylococcus aureus skin colonization and inflammation via AHR-dependent signaling.|https://dx.doi.org/10.3389/fimmu.2025.1726557
 Corynebacterium Striatum Infective Endocarditis: A Systematic Review.|https://dx.doi.org/10.2147/JIR.S512822
+Staphylococcal early-onset prosthetic valve endocarditis: a condition bound for surgery.|https://dx.doi.org/10.1186/s12879-025-11999-9
+The role of nitric oxide synthase in biofilm formation by Staphylococcus aureus.|https://dx.doi.org/10.1038/s41522-025-00870-z
+Arthroscopic Management for Hip Joint Septic Arthritis: A Retrospective Study of 28 Adult Patients With a Minimum 3-Year Follow-Up.|https://dx.doi.org/10.1111/os.70227
+Immunomodulatory and anti-inflammatory effects of agave fructans in atopic dermatitis: gut microbiota and short-chain fatty acid implication.|https://dx.doi.org/10.3389/fimmu.2025.1700023
+External validation of the joint-specific bone involvement, antimicrobial options, coverage of the soft tissues, and host status (JS-BACH) classification for predicting the outcome in periprosthetic joint infections following total hip and knee arthroplasties: a promising tool for clinical practice.|https://dx.doi.org/10.5194/jbji-10-501-2025
+Analysis of Clinical Subphenotypes in Methicillin-Resistant Staphylococcus aureus Bacteremia: A Post Hoc Analysis of the MRSA-GEIRAS-SEIMC Study.|https://dx.doi.org/10.1093/ofid/ofaf704
+The multipathogen profiles and co-infection characteristics obtained from comprehensive surveillance of patients with acute respiratory infections in the post-COVID-19 era in Shenzhen, China.|https://dx.doi.org/10.1186/s12879-025-12350-y
