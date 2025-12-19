@@ -11,3 +11,9 @@ Wounds and the Microbiota: The Healing Interplay Between Host and Microbial Comm
 Antibacterial and antibiofilm activity of platelet-rich plasma under different activation conditions against multidrug-resistant MRSA isolated from human skin abscesses.|https://dx.doi.org/10.1186/s12896-025-01078-x
 Unraveling the disease pyramid: the role of environmental micro-eukaryotes in amphibian resistance to the deadly fungal pathogen Batrachochytrium dendrobatidis.|https://dx.doi.org/10.1128/msystems.01436-25
 Molecular epidemiological characteristics, antifungal resistance and pathogenicity of Candidozyma auris in Guangzhou, South China.|https://dx.doi.org/10.1186/s12866-025-04576-2
+Surgical revision in the presence of an S. aureus infection increases virulence factor expression and activates a multi-tissue inflammatory response.|https://dx.doi.org/10.1038/s41522-025-00885-6
+Multifunctional mesoporous superparamagnetic Iron oxide-based nanocomposites for synergistic Photothermal/Fenton therapy in the treatment of acne vulgaris.|https://dx.doi.org/10.1016/j.jcis.2025.139674
+An in vitro human vessel model to study Neisseria meningitidis colonization and vascular damages.|https://dx.doi.org/10.7554/eLife.107813
+Synchronous natural infection of Nile tilapia (Oreochromis niloticus) by drug-resistant Pseudomonas aeruginosa and Saprolegnia parasitica: insights into water quality, phenotypic traits, and genotypic profiles.|https://dx.doi.org/10.1007/s11259-025-10998-0
+Expanding Horizons: Next-Generation and Interdisciplinary Advances in the Applications of Extracellular Vesicles.|https://dx.doi.org/10.1002/jex2.70101
+Staphylococcal internalization into osteoblasts: a partially conserved mechanism across the genus.|https://dx.doi.org/10.1128/mbio.01697-25

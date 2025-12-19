@@ -41,3 +41,11 @@ Hydrogel Microneedle Array-Based Transdermal Dressing System for Multiplexed Ass
 Ultrasound-Assisted Polyphenol Hydrogelation: Mechanistic Insights into Self-Assembly, Antioxidant, and Dual Antibacterial Action against Gram-Positive and Gram-Negative Pathogens.|https://dx.doi.org/10.1021/acsabm.5c01818
 Self-healing PVA/PVP micelle-hydrogel composite system for potential phenytoin repositioning in wound healing.|https://dx.doi.org/10.1186/s13036-025-00587-9
 Indocyanine green (ICG)-loaded Ti(3)C(2)T(x) MXene/Bletilla striata polysaccharide nanocomposite hydrogel for synergistic photothermal-photodynamic antibacterial therapy and wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149645
+Smart biopolymer gels based on psyllium-alginate-cerium oxide nanoparticles with multifunctional properties.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149732
+Essential oil extraction from clove, characterization and application.|https://dx.doi.org/10.1186/s13065-025-01685-x
+Nanomangostin-loaded chitosan aerogel: A multifunctional biomaterial for hemostasis, anti-bacteria and wound healing.|https://dx.doi.org/10.1088/1748-605X/ae2e6b
+A Fibrous Dressing Integrating Advanced Nanomicro Hybrid Structure with Effective Drug Delivery for Accelerated Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01869
+Tri-layer structured intelligent hydrogel dressing for controlled-release antibacterial treatment of chronic diabetic wounds.|https://dx.doi.org/10.1039/d5ra06906h
+Progress in the Synthesis and Application of Phycocyanin-Based Nanoparticles.|https://dx.doi.org/10.1007/s41061-025-00537-5
+Bifunctional 3D-printed PEEK scaffolds incorporating hydrogel-encapsulated magnesium-quinone nanosheets for antibacterial activity and mandibular bone regeneration.|https://dx.doi.org/10.1016/j.mtbio.2025.102607
+Skin-Adhesive Antibacterial Hydrogel Loaded with Biosynthesized CuS Nanoparticles for NIR Laser-Induced Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01987
