@@ -49,3 +49,7 @@ Tri-layer structured intelligent hydrogel dressing for controlled-release antiba
 Progress in the Synthesis and Application of Phycocyanin-Based Nanoparticles.|https://dx.doi.org/10.1007/s41061-025-00537-5
 Bifunctional 3D-printed PEEK scaffolds incorporating hydrogel-encapsulated magnesium-quinone nanosheets for antibacterial activity and mandibular bone regeneration.|https://dx.doi.org/10.1016/j.mtbio.2025.102607
 Skin-Adhesive Antibacterial Hydrogel Loaded with Biosynthesized CuS Nanoparticles for NIR Laser-Induced Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c01987
+Injectable and self-healing adhesive chitosan-based hydrogels for infected wound healing via anti-bacteria, anti-inflammation and angiogenesis.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149759
+Collagen-polyurethane-maltodextrin hydrogels as bioactive scaffolds for soft and hard tissue regeneration, immunomodulation, and drug delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149718
+Multifunctional collagen hydrogel accelerates infected wound repair through photothermal disinfection and pro-angiogenic activity.|https://dx.doi.org/10.1016/j.colsurfb.2025.115382
+A cystine-containing cationic lipopeptide-based injectable hydrogel with antimicrobial activities against multi-drug resistant strains and anti-biofilm efficacy against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1039/d5tb01110h

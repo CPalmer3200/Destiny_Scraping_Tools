@@ -8,3 +8,6 @@ Engineered living materials: emerging frontiers in therapeutic innovation and ma
 Sand fly saliva reprograms skin fibroblasts to enhance arbovirus infection.|https://dx.doi.org/10.1016/j.isci.2025.113854
 RUNX1 is expressed in a subpopulation of dermal fibroblasts and is associated with disease severity of systemic sclerosis.|https://dx.doi.org/10.1016/j.ard.2025.10.033
 A new member of the novel, non-core Brucella clade: An exotic frog isolate closely related to atypical Brucella isolates from recent human brucellosis cases in Australia.|https://dx.doi.org/10.1186/s12866-025-04479-2
+Quality-by-design-steered development of luliconazole-loaded ultra-deformable ethosomes for topical delivery: improved dermatokinetics and antifungal activity.|https://dx.doi.org/10.1016/j.ijpharm.2025.126514
+Antibacterial mechanism of hops β-acids against methicillin-resistant Staphylococcus aureus and promote wound healing.|https://dx.doi.org/10.3389/fmicb.2025.1710545
+Multimodal Analyses of Early, Untreated SSc Skin Identify a Proinflammatory Vascular Niche of Macrophage-Fibroblast Signaling.|https://dx.doi.org/10.1172/jci.insight.198954

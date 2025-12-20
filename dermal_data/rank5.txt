@@ -17,3 +17,4 @@ An in vitro human vessel model to study Neisseria meningitidis colonization and 
 Synchronous natural infection of Nile tilapia (Oreochromis niloticus) by drug-resistant Pseudomonas aeruginosa and Saprolegnia parasitica: insights into water quality, phenotypic traits, and genotypic profiles.|https://dx.doi.org/10.1007/s11259-025-10998-0
 Expanding Horizons: Next-Generation and Interdisciplinary Advances in the Applications of Extracellular Vesicles.|https://dx.doi.org/10.1002/jex2.70101
 Staphylococcal internalization into osteoblasts: a partially conserved mechanism across the genus.|https://dx.doi.org/10.1128/mbio.01697-25
+Antimicrobial activity of a decapeptide against Candida albicans.|https://dx.doi.org/10.1128/spectrum.01197-25

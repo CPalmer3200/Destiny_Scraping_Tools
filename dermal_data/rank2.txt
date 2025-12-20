@@ -28,3 +28,6 @@ Bioengineered vancomycin-loaded chitosan/collagen nanocomposite from Sphyrna lew
 Microbial Dominance in Diabetic Foot Osteomyelitis using Nanopore Sequencing Techniques Predicts Positive Response to Surgical Intervention.|https://dx.doi.org/10.1093/infdis/jiaf617
 "Bone biopsy not superior to ulcer bed biopsy guided antibacterial therapy on remission of diabetic foot osteomyelitis: A randomized controlled trial".|https://dx.doi.org/10.1093/cid/ciaf684
 Enhancing diabetic foot management in rural India through continuous glucose monitoring (CGM) technology: A case series.|https://dx.doi.org/10.4103/jfmpc.jfmpc_1961_24
+Microbiological profile and antimicrobial resistance in diabetic foot infections: a cross-sectional study from a low- to middle-income country.|https://dx.doi.org/10.1038/s41598-025-33134-z
+Aging, biofilms, and diabetic foot ulcers: disrupting chronic infections with super-oxidized solutions and addressing age-related vulnerabilities.|https://dx.doi.org/10.1186/s40842-025-00261-5
+[Diabetic Charcot neuroarthropathy initially misdiagnosed as rheumatoid arthritis and gout: A case report].|https://dx.doi.org/10.19723/j.issn.1671-167X.2025.06.027
