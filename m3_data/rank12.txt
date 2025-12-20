@@ -2,3 +2,5 @@ Stability of Clostridioides difficile toxins in stool samples.|https://dx.doi.or
 The Gut Microbiome and Butyrate Differentiate Clostridioides difficile Colonization and Infection in Children.|https://dx.doi.org/10.1093/infdis/jiaf631
 Relationship between patient-rated cleanliness and Clostridioides difficile standardized infection ratios in U.S. medicare-certified hospitals.|https://dx.doi.org/10.1017/ice.2025.10336
 Risk Factors for Clostridioides difficile Infection After Otolaryngologic Surgery: An ACS-NSQIP Analysis.|https://dx.doi.org/10.1177/00034894251396752
+ApoE COG 133 mimetic peptide improves survival, infection burden, and Clostridioides difficile toxin-A-induced intestinal damage in mice.|https://dx.doi.org/10.3389/ebm.2025.10638
+Risk factors for progression from Clostridioides difficile colonization (NAAT+/toxin-) to infection (toxin+) following symptomatic retesting.|https://dx.doi.org/10.1017/ice.2025.10377
