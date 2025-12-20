@@ -13,3 +13,4 @@ Methicillin-resistant Staphylococcus aureus and vancomycin-resistant Enterococcu
 Inducer-free secretion expression of staphylococcal LukF-PV and LukS-PV in Bacillus subtilis and humoral immune response in mice.|https://dx.doi.org/10.1080/17460913.2025.2602388
 Immunometabolic crossroads: infections as bidirectional modulators in diabetes and metabolic syndromes.|https://dx.doi.org/10.3389/fendo.2025.1710157
 Regenerative potential of nanoenabled collagen-polylactide scaffolds for osteochondral defect repair in rabbits.|https://dx.doi.org/10.3389/fbioe.2025.1699338
+The hospitalisation cost of paediatric Staphylococcus aureus bacteraemia.|https://dx.doi.org/10.1093/jpids/piaf114
