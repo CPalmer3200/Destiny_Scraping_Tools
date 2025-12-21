@@ -5056,3 +5056,4 @@ Unknown DOI
 10.1172/jci.insight.198954
 10.3389/fbioe.2025.1699338
 10.4103/jfmpc.jfmpc_387_25
+10.1016/j.ijbiomac.2025.149785
