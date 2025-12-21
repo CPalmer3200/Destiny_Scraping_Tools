@@ -104,3 +104,9 @@ The multipathogen profiles and co-infection characteristics obtained from compre
 Trends in mortality, pathogen distribution, and antimicrobial resistance of peritoneal and intra-abdominal infections from 1990 to 2021: a cross-sectional analysis of the MICROBE database.|https://dx.doi.org/10.1097/JS9.0000000000004587
 Evaluation of Empiric Nafcillin Versus Vancomycin for Suspected Late Onset Sepsis in the Neonatal Intensive Care Unit.|https://dx.doi.org/10.5863/JPPT-24-00143
 Silver-coated silicone stents as an approach to prevent bacterial colonization of central airways after tracheobronchial stenting.|https://dx.doi.org/10.3389/fmicb.2025.1713806
+Dracorhodin Perchlorate Targets SrtA To Alleviate Staphylococcus Aureus Pneumonia Infection in Vitro and in Vivo.|https://dx.doi.org/10.1007/s00284-025-04594-3
+A Pilot Study to Explore the Impact of Just-in-Time Patient Hand Hygiene Education and Alcohol Based Hand Rub Use on Hand Contamination in Outpatient Settings.|https://dx.doi.org/10.1016/j.ajic.2025.12.010
+Dual dynamic covalent hydrogel enabling pH-responsive release of carboxymethyl chitosan and caffeic acid for synergistic antibacterial activity and wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149785
+Beyond the Knife: A Contemporary Review of Subcutaneous Abscesses.|https://dx.doi.org/10.1111/ans.70442
+Microbiological profile and antimicrobial resistance in diabetic foot infections: a cross-sectional study from a low- to middle-income country.|https://dx.doi.org/10.1038/s41598-025-33134-z
+Predictive value of AFR and UCR for the methicillin-resistant Staphylococcus aureus infection in children with bone and joint infection.|https://dx.doi.org/10.1038/s41598-025-27932-8
