@@ -5,3 +5,4 @@ Stress-induced biosynthesis of Streptazolin, Streptazone E/F, and clavulanic aci
 Characterising commensal and pathogenic staphylococcal interactions with neonatal and adult blood.|https://dx.doi.org/10.1038/s41598-025-30393-8
 Multi-Resistant Staphylococcus aureus Growth Inhibition Using an Innovative High Voltage Nanosecond Pulser: In Vitro Experimental Results.|https://dx.doi.org/10.1002/mbo3.70126
 An antimicrobial daptide from human skin commensal Staphylococcus hominis protects against skin pathogens.|https://dx.doi.org/10.1038/s41467-025-66259-w
+Healthcare-Associated Infections in a Burn Treatment Unit.|https://dx.doi.org/10.1590/0100-6991e-20253882-en

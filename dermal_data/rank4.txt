@@ -53,3 +53,4 @@ Injectable and self-healing adhesive chitosan-based hydrogels for infected wound
 Collagen-polyurethane-maltodextrin hydrogels as bioactive scaffolds for soft and hard tissue regeneration, immunomodulation, and drug delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149718
 Multifunctional collagen hydrogel accelerates infected wound repair through photothermal disinfection and pro-angiogenic activity.|https://dx.doi.org/10.1016/j.colsurfb.2025.115382
 A cystine-containing cationic lipopeptide-based injectable hydrogel with antimicrobial activities against multi-drug resistant strains and anti-biofilm efficacy against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1039/d5tb01110h
+Developing a self-adhesive and antibacterial intelligent hydrogel for real-time tracking of fish freshness.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149787
