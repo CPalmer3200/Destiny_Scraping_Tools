@@ -110,3 +110,6 @@ Dual dynamic covalent hydrogel enabling pH-responsive release of carboxymethyl c
 Beyond the Knife: A Contemporary Review of Subcutaneous Abscesses.|https://dx.doi.org/10.1111/ans.70442
 Microbiological profile and antimicrobial resistance in diabetic foot infections: a cross-sectional study from a low- to middle-income country.|https://dx.doi.org/10.1038/s41598-025-33134-z
 Predictive value of AFR and UCR for the methicillin-resistant Staphylococcus aureus infection in children with bone and joint infection.|https://dx.doi.org/10.1038/s41598-025-27932-8
+Multifunctional CuS nanoparticle deposition for enhanced dentin bonding: Synergistic dehydration, MMP inhibition and antibacterial action.|https://dx.doi.org/10.1016/j.dental.2025.12.009
+Outcomes after Surgical Management of Suprarenal and Thoracoabdominal Aortic Infections.|https://dx.doi.org/10.1016/j.jvs.2025.12.157
+Corrigendum to "Healthcare-worker-associated outbreak of Panton-Valentine-leukocidin-producing meticillin-sensitive Staphylococcus aureus in a large neonatal unit in London: successful targeted suppression therapy following failure of mass suppression therapy" [J Hosp Infect 122 (2022) 148-156].|https://dx.doi.org/10.1016/j.jhin.2025.11.018
