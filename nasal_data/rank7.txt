@@ -113,3 +113,11 @@ Predictive value of AFR and UCR for the methicillin-resistant Staphylococcus aur
 Multifunctional CuS nanoparticle deposition for enhanced dentin bonding: Synergistic dehydration, MMP inhibition and antibacterial action.|https://dx.doi.org/10.1016/j.dental.2025.12.009
 Outcomes after Surgical Management of Suprarenal and Thoracoabdominal Aortic Infections.|https://dx.doi.org/10.1016/j.jvs.2025.12.157
 Corrigendum to "Healthcare-worker-associated outbreak of Panton-Valentine-leukocidin-producing meticillin-sensitive Staphylococcus aureus in a large neonatal unit in London: successful targeted suppression therapy following failure of mass suppression therapy" [J Hosp Infect 122 (2022) 148-156].|https://dx.doi.org/10.1016/j.jhin.2025.11.018
+Small-colony variants of Staphylococcus aureus: hidden threat in chronic and recurrent infections.|https://dx.doi.org/10.1007/s00210-025-04917-y
+EBV-Tonsillitis with superinfection involving Staphylococcus aureus and Prevotella Oris leading to life-threatening bleeding in a 13-year-old girl: a case report.|https://dx.doi.org/10.1186/s12887-025-06441-7
+Risk factors for deep vein thrombosis during peripherally inserted central catheter-related infections: A retrospective study.|https://dx.doi.org/10.1016/j.idnow.2025.105181
+[Identification of respiratory pathogenic bacteria and analysis of drug resistance results of patients with nursing home acquired pneumonia in a nursing home in Shanghai City from 2021 to 2023].|https://dx.doi.org/10.3760/cma.j.cn112150-20250413-00304
+Antibiotic De-Escalation in Adults Hospitalized for Community-Onset Sepsis.|https://dx.doi.org/10.1001/jamainternmed.2025.6919
+Coinfections and superinfections in critically ill COVID-19 patients in Ecuador: a cross-sectional study of bacterial and viral pathogens.|https://dx.doi.org/10.3389/fpubh.2025.1664521
+Dose optimization of linezolid among surgical patients: A population pharmacokinetic study.|https://dx.doi.org/10.5414/CP204889
+Staphylococcal SplA and SplB Serine Protease Allelic Variants Exhibit Different Substrate Specificities.|https://dx.doi.org/10.1002/cbic.202500816
