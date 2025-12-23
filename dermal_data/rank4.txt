@@ -54,3 +54,6 @@ Collagen-polyurethane-maltodextrin hydrogels as bioactive scaffolds for soft and
 Multifunctional collagen hydrogel accelerates infected wound repair through photothermal disinfection and pro-angiogenic activity.|https://dx.doi.org/10.1016/j.colsurfb.2025.115382
 A cystine-containing cationic lipopeptide-based injectable hydrogel with antimicrobial activities against multi-drug resistant strains and anti-biofilm efficacy against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1039/d5tb01110h
 Developing a self-adhesive and antibacterial intelligent hydrogel for real-time tracking of fish freshness.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149787
+Multifunctional gelatin/phycocyanin composite hydrogel for infected wound therapy: pH-responsive drug release, antibacterial/antioxidant properties, and enhanced healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149818
+Multifaceted Microneedle Patch: A One-Stop Solution to Combat Multitype Wound Infections.|https://dx.doi.org/10.34133/bmr.0290
+The characteristic impact of a hydrophobic medical gauze modified with lauric acid-ZnO and its antimicrobial behavior and wound healing properties.|https://dx.doi.org/10.1039/d5tb02096d

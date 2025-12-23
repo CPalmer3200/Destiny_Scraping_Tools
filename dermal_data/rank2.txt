@@ -32,3 +32,8 @@ Microbiological profile and antimicrobial resistance in diabetic foot infections
 Aging, biofilms, and diabetic foot ulcers: disrupting chronic infections with super-oxidized solutions and addressing age-related vulnerabilities.|https://dx.doi.org/10.1186/s40842-025-00261-5
 [Diabetic Charcot neuroarthropathy initially misdiagnosed as rheumatoid arthritis and gout: A case report].|https://dx.doi.org/10.19723/j.issn.1671-167X.2025.06.027
 The diabetic foot after SWHSI-2: healing is not one size fits all - Authors' reply.|https://dx.doi.org/10.1016/S0140-6736(25)02247-0
+Do We Need a Bone Biopsy for Managing Diabetic Foot Osteomyelitis?|https://dx.doi.org/10.1093/cid/ciaf685
+Below-knee amputation following osteomyelitis from multidrug-resistant Stenotrophomonas maltophilia in a diabetic foot ulcer.|https://dx.doi.org/10.1016/S1473-3099(25)00720-0
+Clinical and wound-related predictors for prolonged hospital stay in diabetes-related foot infections in a resource-limited setting: A retrospective cohort study.|https://dx.doi.org/10.5867/medwave.2025.11.3135
+A catechol-modified quaternized chitosan/PEG hydrogel for diabetic wound healing: synergistic effects of TGF-β3 delivery, angiogenesis, and antibacterial activity.|https://dx.doi.org/10.3389/fcimb.2025.1717082
+The internal medicine management of diabetic foot syndrome.|https://dx.doi.org/10.23736/S0026-4806.25.09805-2

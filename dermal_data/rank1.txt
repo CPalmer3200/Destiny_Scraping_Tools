@@ -8,3 +8,4 @@ Utilizing nanoinducers for precision degradation of bacterial protein to mitigat
 Evaluating First Positive Cultures in Burns: Rethinking Broad-Spectrum Antibiotic Choices.|https://dx.doi.org/10.1093/jbcr/iraf229
 Branched tetrameric lactoferricin peptides modified with diaminopropionic acid exhibit potent antimicrobial and wound-healing activities.|https://dx.doi.org/10.3389/fphar.2025.1719557
 Dual dynamic covalent hydrogel enabling pH-responsive release of carboxymethyl chitosan and caffeic acid for synergistic antibacterial activity and wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149785
+Past, Present, and Future of Sodium Hypochlorite in Dermatology: A Scoping Review.|https://dx.doi.org/10.1007/s40257-025-00999-9

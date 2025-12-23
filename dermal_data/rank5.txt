@@ -18,3 +18,5 @@ Synchronous natural infection of Nile tilapia (Oreochromis niloticus) by drug-re
 Expanding Horizons: Next-Generation and Interdisciplinary Advances in the Applications of Extracellular Vesicles.|https://dx.doi.org/10.1002/jex2.70101
 Staphylococcal internalization into osteoblasts: a partially conserved mechanism across the genus.|https://dx.doi.org/10.1128/mbio.01697-25
 Antimicrobial activity of a decapeptide against Candida albicans.|https://dx.doi.org/10.1128/spectrum.01197-25
+ClpB affects biofilm formation in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2025.1723924
+Structural basis for collagen recognition by the Streptococcus pyogenes M3 protein and its involvement in biofilm.|https://dx.doi.org/10.7554/eLife.105539
