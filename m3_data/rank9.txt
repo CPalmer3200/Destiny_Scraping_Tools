@@ -1,2 +1,4 @@
 Biomarkers of Probiotic Therapy in Ulcerative Colitis: A Systematic Review of Mechanisms Underlying Remission.|https://dx.doi.org/10.7759/cureus.96126
 Risk of Clostridioides difficile Infection After Helicobacter pylori Treatment in a Large Population in the United States.|https://dx.doi.org/10.1016/j.gastha.2025.100832
+PANCREATIC STONE PROTEIN (PSP) AS AN EARLY PROGNOSTIC BIOMARKER OF OUTCOME IN CLOSTRIDIOIDES DIFFICILE INFECTION.|https://dx.doi.org/10.1097/SHK.0000000000002759
+Miniature bioreactor arrays for modeling functional and structural dysbiosis in inflammatory bowel disease.|https://dx.doi.org/10.1080/19490976.2025.2604875

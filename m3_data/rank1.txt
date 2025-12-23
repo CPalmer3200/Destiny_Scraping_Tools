@@ -7,3 +7,5 @@ Metabolic and pathogenic implications of sialic acid utilization in Clostridioid
 Mycobacterium wolinskyi Bloodstream Infection Associated With a Central Venous Port: A Case Report.|https://dx.doi.org/10.7759/cureus.96872
 Fecal Microbiota Therapy: Clinical Laboratory Testing and Metabolomic Approaches for Donor Screening, Product Assessment, and Patient Monitoring.|https://dx.doi.org/10.1093/clinchem/hvaf156
 Human C. difficile -specific memory B cells encode protective IgG1 despite predominance of non-neutralizing antibodies.|https://dx.doi.org/10.64898/2025.12.09.693127
+Readmissions in Inflammatory Bowel Diseases: A Five-Year Retrospective Study in a Romanian Emergency County Hospital.|https://dx.doi.org/10.7759/cureus.97106
+Awareness and perception of fecal microbiota transplantation in Lebanon: a cross-sectional survey among the general population, healthcare workers, physicians, and patients.|https://dx.doi.org/10.1177/17562848251399034
