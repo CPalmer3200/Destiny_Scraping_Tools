@@ -20,3 +20,4 @@ Staphylococcal internalization into osteoblasts: a partially conserved mechanism
 Antimicrobial activity of a decapeptide against Candida albicans.|https://dx.doi.org/10.1128/spectrum.01197-25
 ClpB affects biofilm formation in methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2025.1723924
 Structural basis for collagen recognition by the Streptococcus pyogenes M3 protein and its involvement in biofilm.|https://dx.doi.org/10.7554/eLife.105539
+Characterization of Staphylococci colonizing healthy equine skin: antibiotic resistance, virulence factors, and biofilm formation.|https://dx.doi.org/10.1007/s11259-025-11037-8
