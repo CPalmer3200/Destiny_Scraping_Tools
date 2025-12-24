@@ -121,3 +121,8 @@ Antibiotic De-Escalation in Adults Hospitalized for Community-Onset Sepsis.|http
 Coinfections and superinfections in critically ill COVID-19 patients in Ecuador: a cross-sectional study of bacterial and viral pathogens.|https://dx.doi.org/10.3389/fpubh.2025.1664521
 Dose optimization of linezolid among surgical patients: A population pharmacokinetic study.|https://dx.doi.org/10.5414/CP204889
 Staphylococcal SplA and SplB Serine Protease Allelic Variants Exhibit Different Substrate Specificities.|https://dx.doi.org/10.1002/cbic.202500816
+Glucose-responsive hyaluronic acid/carboxymethyl chitosan-based hydrogel with on-demand berberine release for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149772
+Native Valve Infective Endocarditis Caused by Dual Infection of Staphylococcus aureus and Pseudomonas monteilii: A Case Report.|https://dx.doi.org/10.7759/cureus.97466
+Antibiotics guided by metagenomic next-generation sequencing to control infection after total knee arthroplasty: A case report and literature review.|https://dx.doi.org/10.1097/MD.0000000000046734
+Neonatal septic arthritis: A tale of two outcomes and literature review.|https://dx.doi.org/10.1097/MD.0000000000046328
+Epidemiology and Clinical Characteristics of Community-Acquired Pneumonia in Hospitalized Patients at a Single Tertiary Center in Korea.|https://dx.doi.org/10.3346/jkms.2025.40.e293
