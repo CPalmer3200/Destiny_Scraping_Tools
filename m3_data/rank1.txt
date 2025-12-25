@@ -11,3 +11,5 @@ Readmissions in Inflammatory Bowel Diseases: A Five-Year Retrospective Study in 
 Awareness and perception of fecal microbiota transplantation in Lebanon: a cross-sectional survey among the general population, healthcare workers, physicians, and patients.|https://dx.doi.org/10.1177/17562848251399034
 Unusual Development of Central Diabetes Insipidus after Endovascular Treatment for a Medial Tentorial Dural Arteriovenous Fistula.|https://dx.doi.org/10.5797/jnet.cr.2025-0106
 The clinical significance of gut microbiota of chronic obstructive pulmonary disease with functional abdominal bloating and distension.|https://dx.doi.org/10.7717/peerj.20526
+Challenges and Strategies in Managing Recurrent Clostridioides difficile Infection in Older Adults.|https://dx.doi.org/10.3390/geriatrics10060158
+Fidaxomicin for Initial Episode of Clostridioides difficile Infection Reduces Recurrence in Immunocompromised Hosts-a Large Retrospective Cohort Study.|https://dx.doi.org/10.1093/ofid/ofaf751
