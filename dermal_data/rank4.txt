@@ -58,3 +58,9 @@ Multifunctional gelatin/phycocyanin composite hydrogel for infected wound therap
 Multifaceted Microneedle Patch: A One-Stop Solution to Combat Multitype Wound Infections.|https://dx.doi.org/10.34133/bmr.0290
 The characteristic impact of a hydrophobic medical gauze modified with lauric acid-ZnO and its antimicrobial behavior and wound healing properties.|https://dx.doi.org/10.1039/d5tb02096d
 Glucose-responsive hyaluronic acid/carboxymethyl chitosan-based hydrogel with on-demand berberine release for diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149772
+Self-absorbent, antibacterial polysaccharide sponge incorporating tranexamic acid and ciprofloxacin for enhanced hemostasis and infected wound repair.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149791
+Multifunctional microfluidic-directed polymer/hydrogel fabrics towards pH-responsive drug delivery, wound monitoring and wearable sensing.|https://dx.doi.org/10.1016/j.jconrel.2025.114565
+Sprayed low-temperature plasma-infused hydrogel dressing for skin-wound management.|https://dx.doi.org/10.1016/j.medj.2025.100935
+Smart pH/Near-Infrared Light-Responsive Carboxymethyl Chitosan/Sodium Alginate/MXene Hydrogel Beads for Targeted Tea Polyphenols Delivery.|https://dx.doi.org/10.3390/gels11121009
+Designing and evaluation of mupirocin-bFGF co-loaded biodegradable antimicrobial gelatin-chitosan sponge for topical wound management in rat model.|https://dx.doi.org/10.1080/20415990.2025.2604961
+Engineering chitosan fibers with MSC-exosome cargo: a clinically translatable multifunctional dressing for regenerative therapy in infected wound management.|https://dx.doi.org/10.1186/s13287-025-04863-9

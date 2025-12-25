@@ -37,3 +37,5 @@ Below-knee amputation following osteomyelitis from multidrug-resistant Stenotrop
 Clinical and wound-related predictors for prolonged hospital stay in diabetes-related foot infections in a resource-limited setting: A retrospective cohort study.|https://dx.doi.org/10.5867/medwave.2025.11.3135
 A catechol-modified quaternized chitosan/PEG hydrogel for diabetic wound healing: synergistic effects of TGF-β3 delivery, angiogenesis, and antibacterial activity.|https://dx.doi.org/10.3389/fcimb.2025.1717082
 The internal medicine management of diabetic foot syndrome.|https://dx.doi.org/10.23736/S0026-4806.25.09805-2
+Relationship between microbiota and healing status in diabetes-related foot ulcers treated with Trigona honey.|https://dx.doi.org/10.1016/j.jtv.2025.100981
+Diospyros kaki L. (persimmon) as a potential antibiofilm agent against Acinetobacter pittii, Acinetobacter baumannii, and Pseudomonas aeruginosa isolated from diabetic foot patients.|https://dx.doi.org/10.1007/s11274-025-04746-4
