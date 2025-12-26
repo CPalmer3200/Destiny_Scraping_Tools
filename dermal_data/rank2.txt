@@ -39,3 +39,4 @@ A catechol-modified quaternized chitosan/PEG hydrogel for diabetic wound healing
 The internal medicine management of diabetic foot syndrome.|https://dx.doi.org/10.23736/S0026-4806.25.09805-2
 Relationship between microbiota and healing status in diabetes-related foot ulcers treated with Trigona honey.|https://dx.doi.org/10.1016/j.jtv.2025.100981
 Diospyros kaki L. (persimmon) as a potential antibiofilm agent against Acinetobacter pittii, Acinetobacter baumannii, and Pseudomonas aeruginosa isolated from diabetic foot patients.|https://dx.doi.org/10.1007/s11274-025-04746-4
+How common? Exploring the prevalence and risk factors for Pseudomonas aeruginosa in diabetic foot infections among kidney transplant recipients.|https://dx.doi.org/10.1017/ash.2025.10232

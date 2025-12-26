@@ -64,3 +64,6 @@ Sprayed low-temperature plasma-infused hydrogel dressing for skin-wound manageme
 Smart pH/Near-Infrared Light-Responsive Carboxymethyl Chitosan/Sodium Alginate/MXene Hydrogel Beads for Targeted Tea Polyphenols Delivery.|https://dx.doi.org/10.3390/gels11121009
 Designing and evaluation of mupirocin-bFGF co-loaded biodegradable antimicrobial gelatin-chitosan sponge for topical wound management in rat model.|https://dx.doi.org/10.1080/20415990.2025.2604961
 Engineering chitosan fibers with MSC-exosome cargo: a clinically translatable multifunctional dressing for regenerative therapy in infected wound management.|https://dx.doi.org/10.1186/s13287-025-04863-9
+Preparation and characterization of calcium ion-crosslinked carrageenan fibers with potential for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149877
+Synthesis, antibacterial activity, and mechanistic characterization of novel 9-substituted berberine derivatives.|https://dx.doi.org/10.1039/d5md00825e
+In Silico-Guided Rumex abyssinicus-Loaded PVA/PVP Nanofiber Mats for Sustainable Wound Healing.|https://dx.doi.org/10.1021/acsbiomaterials.5c01926
