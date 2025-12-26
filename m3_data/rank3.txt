@@ -7,3 +7,5 @@ Australian National Enterovirus Reference Laboratory annual report, 2024.|https:
 2025 Review of Public Health Laboratory Network Australia Neisseria gonorrhoeae National Nucleic Acid Amplification Testing Guidelines.|https://dx.doi.org/10.33321/cdi.2025.49.067
 Catheter-directed Interventions Vs. Surgical Embolectomy in Massive Pulmonary Embolism.|https://dx.doi.org/10.1016/j.jvsv.2025.102379
 Enteric opportunistic infections in patients with inflammatory bowel disease receiving biologic therapies: a retrospective cohort study.|https://dx.doi.org/10.1186/s13099-025-00793-2
+Low adherence to institutional clinical practice guideline in patients diagnosed with Clostridioides difficile infection.|https://dx.doi.org/10.1017/ash.2025.10183
+Auditing cognitive drift in AI-driven recommendation: a responsible AI methods protocol with a health case demonstration.|https://dx.doi.org/10.3389/fnins.2025.1697053

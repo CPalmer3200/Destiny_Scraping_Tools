@@ -13,3 +13,4 @@ Unusual Development of Central Diabetes Insipidus after Endovascular Treatment f
 The clinical significance of gut microbiota of chronic obstructive pulmonary disease with functional abdominal bloating and distension.|https://dx.doi.org/10.7717/peerj.20526
 Challenges and Strategies in Managing Recurrent Clostridioides difficile Infection in Older Adults.|https://dx.doi.org/10.3390/geriatrics10060158
 Fidaxomicin for Initial Episode of Clostridioides difficile Infection Reduces Recurrence in Immunocompromised Hosts-a Large Retrospective Cohort Study.|https://dx.doi.org/10.1093/ofid/ofaf751
+Navigating recurrent Clostridioides difficile infection without Bezlotoxumab: potential challenges ahead.|https://dx.doi.org/10.1017/ash.2025.10144
