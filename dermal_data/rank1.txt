@@ -10,3 +10,4 @@ Branched tetrameric lactoferricin peptides modified with diaminopropionic acid e
 Dual dynamic covalent hydrogel enabling pH-responsive release of carboxymethyl chitosan and caffeic acid for synergistic antibacterial activity and wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149785
 Past, Present, and Future of Sodium Hypochlorite in Dermatology: A Scoping Review.|https://dx.doi.org/10.1007/s40257-025-00999-9
 Innovative biodressings containing silver nanoparticles loaded into lyotropic liquid crystals incorporated in sodium alginate and bacterial cellulose nanofibers for the treatment of complex wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149758
+Dual-Action Topical Therapy Accelerates Healing of MRSA-Infected Burn Wounds by Targeting Infection and Inflammation.|https://dx.doi.org/10.1177/21621918251405876
