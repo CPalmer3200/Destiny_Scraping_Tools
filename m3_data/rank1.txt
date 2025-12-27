@@ -14,3 +14,4 @@ The clinical significance of gut microbiota of chronic obstructive pulmonary dis
 Challenges and Strategies in Managing Recurrent Clostridioides difficile Infection in Older Adults.|https://dx.doi.org/10.3390/geriatrics10060158
 Fidaxomicin for Initial Episode of Clostridioides difficile Infection Reduces Recurrence in Immunocompromised Hosts-a Large Retrospective Cohort Study.|https://dx.doi.org/10.1093/ofid/ofaf751
 Navigating recurrent Clostridioides difficile infection without Bezlotoxumab: potential challenges ahead.|https://dx.doi.org/10.1017/ash.2025.10144
+Drug Development.|https://dx.doi.org/10.1002/alz70859_107684
