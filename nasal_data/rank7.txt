@@ -4,3 +4,4 @@ Inappropriate treatment of hospital-acquired infections and associated factors a
 Clinical features and outcomes of Staphylococcus aureus brain abscess in Denmark and the Netherlands: a multicentre cohort study.|https://dx.doi.org/10.1080/23744235.2025.2607395
 Enhanced Risk Stratification in Infective Endocarditis Surgery: A Comprehensive External Validation of All Available Mortality Prediction Scores.|https://dx.doi.org/10.2147/CLEP.S566997
 Dual-Action Topical Therapy Accelerates Healing of MRSA-Infected Burn Wounds by Targeting Infection and Inflammation.|https://dx.doi.org/10.1177/21621918251405876
+Bone-targeting lipid-polymer hybrid nanoparticles for less invasive, injectable local antibiotic treatment of bone infections by methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1016/j.ijpharm.2025.126539
