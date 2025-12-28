@@ -6,3 +6,4 @@ Repurposing antibacterial drugs identifies ridinilazole and CRS3123 as promising
 Repurposing of the bisbenzimide antibiotic Ridinilazole as an antiviral compound against human cytomegalovirus.|https://dx.doi.org/10.1099/jgv.0.002205
 Effectiveness of post-mastectomy radiation therapy after breast reconstruction for patients with high-risk breast cancer: A retrospective multicenter cohort study (Reborn study-03).|https://dx.doi.org/10.1016/j.ejso.2025.110523
 Exploring the activity of a novel orally bioavailable β-lactam-β-lactamase inhibitor combination, ceftibuten-ledaborbactam, against Enterobacterales-carrying bla(OXA-48).|https://dx.doi.org/10.1128/spectrum.03148-25
+Population Pharmacokinetic and Pharmacodynamic Prediction for Tebipenem Pivoxil Treatment of Pediatric Shigellosis.|https://dx.doi.org/10.1111/cts.70453

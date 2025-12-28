@@ -15,3 +15,4 @@ Challenges and Strategies in Managing Recurrent Clostridioides difficile Infecti
 Fidaxomicin for Initial Episode of Clostridioides difficile Infection Reduces Recurrence in Immunocompromised Hosts-a Large Retrospective Cohort Study.|https://dx.doi.org/10.1093/ofid/ofaf751
 Navigating recurrent Clostridioides difficile infection without Bezlotoxumab: potential challenges ahead.|https://dx.doi.org/10.1017/ash.2025.10144
 Drug Development.|https://dx.doi.org/10.1002/alz70859_107684
+Characterization of fecal deglucuronidation activity in healthy subjects and in patients treated with fecal microbiota transplantation.|https://dx.doi.org/10.1016/j.dmd.2025.100205
