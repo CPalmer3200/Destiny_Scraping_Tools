@@ -4,3 +4,4 @@ Relationship between patient-rated cleanliness and Clostridioides difficile stan
 Risk Factors for Clostridioides difficile Infection After Otolaryngologic Surgery: An ACS-NSQIP Analysis.|https://dx.doi.org/10.1177/00034894251396752
 ApoE COG 133 mimetic peptide improves survival, infection burden, and Clostridioides difficile toxin-A-induced intestinal damage in mice.|https://dx.doi.org/10.3389/ebm.2025.10638
 Risk factors for progression from Clostridioides difficile colonization (NAAT+/toxin-) to infection (toxin+) following symptomatic retesting.|https://dx.doi.org/10.1017/ice.2025.10377
+Global Trends in Clostridioides difficile Infection-related Mortality, 2001-2023: An Observational Study.|https://dx.doi.org/10.1016/j.ijid.2025.108315
