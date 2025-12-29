@@ -67,3 +67,5 @@ Engineering chitosan fibers with MSC-exosome cargo: a clinically translatable mu
 Preparation and characterization of calcium ion-crosslinked carrageenan fibers with potential for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149877
 Synthesis, antibacterial activity, and mechanistic characterization of novel 9-substituted berberine derivatives.|https://dx.doi.org/10.1039/d5md00825e
 In Silico-Guided Rumex abyssinicus-Loaded PVA/PVP Nanofiber Mats for Sustainable Wound Healing.|https://dx.doi.org/10.1021/acsbiomaterials.5c01926
+Janus Metal-AIEgen Framework@Hydrogel Patch for Ultrasensitive, Multivariate Responsive, and Intelligent Point-Of-Care Sensors.|https://dx.doi.org/10.1021/acs.analchem.5c05928
+Spatiotemporally activated gelatin/unzipped carbon nanotubes/chitosan-based conductive hydrogel via dual stimuli for robust methicillin-resistant Staphylococcus aureus biofilm eradication.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149845
