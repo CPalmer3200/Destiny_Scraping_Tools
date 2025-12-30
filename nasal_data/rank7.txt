@@ -5,3 +5,5 @@ Clinical features and outcomes of Staphylococcus aureus brain abscess in Denmark
 Enhanced Risk Stratification in Infective Endocarditis Surgery: A Comprehensive External Validation of All Available Mortality Prediction Scores.|https://dx.doi.org/10.2147/CLEP.S566997
 Dual-Action Topical Therapy Accelerates Healing of MRSA-Infected Burn Wounds by Targeting Infection and Inflammation.|https://dx.doi.org/10.1177/21621918251405876
 Bone-targeting lipid-polymer hybrid nanoparticles for less invasive, injectable local antibiotic treatment of bone infections by methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1016/j.ijpharm.2025.126539
+Microbiological profile and antibiotic resistance trends of preoperative conjunctival swabs: An 8-year retrospective analysis from a North Indian tertiary care ophthalmic center.|https://dx.doi.org/10.4103/IJO.IJO_289_25
+NIR-II-responsive conductive silk fibroin microneedle patches for postoperative melanoma ablation, infected-wound healing, and real-time monitoring.|https://dx.doi.org/10.1016/j.mtbio.2025.102633
