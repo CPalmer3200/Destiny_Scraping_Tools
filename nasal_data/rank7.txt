@@ -7,3 +7,12 @@ Dual-Action Topical Therapy Accelerates Healing of MRSA-Infected Burn Wounds by 
 Bone-targeting lipid-polymer hybrid nanoparticles for less invasive, injectable local antibiotic treatment of bone infections by methicillin-resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1016/j.ijpharm.2025.126539
 Microbiological profile and antibiotic resistance trends of preoperative conjunctival swabs: An 8-year retrospective analysis from a North Indian tertiary care ophthalmic center.|https://dx.doi.org/10.4103/IJO.IJO_289_25
 NIR-II-responsive conductive silk fibroin microneedle patches for postoperative melanoma ablation, infected-wound healing, and real-time monitoring.|https://dx.doi.org/10.1016/j.mtbio.2025.102633
+The evaluation of the effect of estrogen administration on cutaneous wound healing in Staphylococcus aureus-infected diabetic and nondiabetic mice.|https://dx.doi.org/10.1371/journal.pone.0339341
+Isosorbide Diesters: Mechanistic Insights and Therapeutic Applications in Skin and Neuroinflammatory Disorders.|https://dx.doi.org/10.3390/ijms262411855
+The Pathogenicity Mechanisms of Staphylococcus aureus.|https://dx.doi.org/10.3390/ijms262411803
+Clinical and Prognostic Differences Between Mechanical Versus Biological Prosthetic Infective Endocarditis-A Nationwide Database Study.|https://dx.doi.org/10.3390/jcm14248826
+Pathogen-Specific Risk for Iterative Surgical Debridement in Orthopedic Infections: A Prospective Multicohort Analysis.|https://dx.doi.org/10.3390/jcm14248750
+Surveillance of Healthcare-Associated Infections in the WHO African Region: Systematic Review of Literature from 2011 to 2024.|https://dx.doi.org/10.3390/antibiotics14121287
+Pathogen-Specific Actinium-225 and Lutetium-177 Labeled Antibodies for Treatment of Biofilm-Associated Implant Infections: Initial In Vivo Proof-of-Concept.|https://dx.doi.org/10.3390/antibiotics14121283
+Efficacy of Dual-Antibiotic-Loaded Bone Cement Against Multi-Drug-Resistant Staphylococcus aureus and Enterococcus faecalis in a Galleria mellonella Model of Periprosthetic Joint Infection.|https://dx.doi.org/10.3390/antibiotics14121280
+mecA and mecC Positive Strains of Staphylococcus aureus Detected and Isolated from Raw Milk of Ecuador.|https://dx.doi.org/10.3390/antibiotics14121255
