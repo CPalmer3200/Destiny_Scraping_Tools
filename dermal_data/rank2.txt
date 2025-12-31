@@ -41,3 +41,13 @@ Relationship between microbiota and healing status in diabetes-related foot ulce
 Diospyros kaki L. (persimmon) as a potential antibiofilm agent against Acinetobacter pittii, Acinetobacter baumannii, and Pseudomonas aeruginosa isolated from diabetic foot patients.|https://dx.doi.org/10.1007/s11274-025-04746-4
 How common? Exploring the prevalence and risk factors for Pseudomonas aeruginosa in diabetic foot infections among kidney transplant recipients.|https://dx.doi.org/10.1017/ash.2025.10232
 Tibial periosteal distraction for ischemic leg ulcers: animal and clinical cohort study.|https://dx.doi.org/10.1186/s12916-025-04586-x
+Gene expression analysis of diabetic foot ulcers reveals the potential impact of Levofloxacin on wound healing.|https://dx.doi.org/10.1038/s41598-025-33932-5
+The effect of a nurse-led health education intervention on treatment delay in patients with diabetic high-risk foot: A randomised controlled trial.|https://dx.doi.org/10.1016/j.ijnurstu.2025.105316
+Surgical Management of Cleft Defects Following Central Ray Amputations.|https://dx.doi.org/10.7547/23-144
+Comparison of Single and Multiple Toe Amputations in Diabetic Patients with Long-Term Follow-Up and Evaluation of Reamputation Risk.|https://dx.doi.org/10.7547/23-216
+Osteomyelitis and Osteomyelitis-Related Amputations in Texas Diabetic Populations.|https://dx.doi.org/10.7547/23-192
+A Machine-Learning-Based Clinical Decision Model for Predicting Amputation Risk in Patients with Diabetic Foot Ulcers: Diagnostic Performance and Practical Implications.|https://dx.doi.org/10.3390/diagnostics15243142
+The Relationship Between NETosis and Biofilm Formation in Chronic Infections.|https://dx.doi.org/10.3390/biom15121692
+Automating wound assessment: convolutional neural network-based mobile application for SINBAD classification system.|https://dx.doi.org/10.1007/s40200-025-01816-0
+Development and validation of a risk prediction model for multidrug-resistant organisms infection in diabetic foot ulcer patients.|https://dx.doi.org/10.3389/fendo.2025.1609128
+Proximal Medial Gastrocnemius Release in the Treatment of Plantar Diabetic Foot Ulcers: A Case Series.|https://dx.doi.org/10.1177/19386400251404210

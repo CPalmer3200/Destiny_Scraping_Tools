@@ -5,3 +5,4 @@ Immunomodulatory and anti-inflammatory effects of agave fructans in atopic derma
 Commensal Staphylococci attenuate Staphylococcus aureus skin colonization and inflammation via AHR-dependent signaling.|https://dx.doi.org/10.3389/fimmu.2025.1726557
 Adult-Onset Focal Bacterial Nephritis Without Urinary Symptoms Presenting With Systemic Toxic Rash: A Report of a Rare Case.|https://dx.doi.org/10.7759/cureus.96697
 Observations on emergence of mannitol-use-deficient Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.03091-25
+Isosorbide Diesters: Mechanistic Insights and Therapeutic Applications in Skin and Neuroinflammatory Disorders.|https://dx.doi.org/10.3390/ijms262411855

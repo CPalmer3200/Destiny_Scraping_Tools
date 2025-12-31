@@ -69,3 +69,7 @@ Synthesis, antibacterial activity, and mechanistic characterization of novel 9-s
 In Silico-Guided Rumex abyssinicus-Loaded PVA/PVP Nanofiber Mats for Sustainable Wound Healing.|https://dx.doi.org/10.1021/acsbiomaterials.5c01926
 Janus Metal-AIEgen Framework@Hydrogel Patch for Ultrasensitive, Multivariate Responsive, and Intelligent Point-Of-Care Sensors.|https://dx.doi.org/10.1021/acs.analchem.5c05928
 Spatiotemporally activated gelatin/unzipped carbon nanotubes/chitosan-based conductive hydrogel via dual stimuli for robust methicillin-resistant Staphylococcus aureus biofilm eradication.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149845
+Chitosan/PEO Nanofibers as a Delivery Platform for Sustained Release of Centella asiatica Extract.|https://dx.doi.org/10.3390/ijms262412134
+Sodium Alginate-Based Antibacterial Coatings Reinforced with Quaternized Lignin-Cinnamaldehyde Composite Particles for Fruit Preservation.|https://dx.doi.org/10.3390/foods14244203
+Photoactive Hydrogels Containing Merocyanine/Spiropyran Units for Wound Dressing Applications.|https://dx.doi.org/10.1021/acs.biomac.5c01956
+NIR-II-responsive conductive silk fibroin microneedle patches for postoperative melanoma ablation, infected-wound healing, and real-time monitoring.|https://dx.doi.org/10.1016/j.mtbio.2025.102633

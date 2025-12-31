@@ -25,3 +25,9 @@ Methylene Blue-Loaded Liposomal Nanocarriers Enhance the Efficacy of Photodynami
 Temporin-derived peptides promote MRSA-infected wound healing and protect mice from MRSA-induced pneumonia.|https://dx.doi.org/10.1016/j.bioorg.2025.109447
 Antibacterial, antibiofilm, and antiproliferative properties of Aspergillus frequens-derived pigment.|https://dx.doi.org/10.1186/s12934-025-02888-6
 SIRT1 mediated autophagy enhancement by Lactobacillus fermentum derived oligosaccharides accelerates wound healing in biofilm associated infection.|https://dx.doi.org/10.1038/s41598-025-30280-2
+Immediate microsurgical breast reconstruction following vertical incision mastectomy in patients with ptotic breasts: An international multicenter case series.|https://dx.doi.org/10.1016/j.anplas.2025.11.007
+Incorporation of Collagen into Pseudomonas aeruginosa, Staphylococcus aureus, and Burkholderia pseudomallei Biofilms Modifies Their Viscoelasticity and Resistance against Phagocytosis.|https://dx.doi.org/10.1021/acs.langmuir.5c04452
+Lyophilized Cell-Free Supernatants of Lacticaseibacillus paracasei T0901 Isolated from Fermented Palm Sap Exhibit Antiacne and Antimelanogenic Activities in B16F10 Melanoma Cells.|https://dx.doi.org/10.3390/life15121866
+Characterisation of the Novel Cutibacterium acnes Phage KIT09 and First Report of CRISPR-Cas-Independent Bacteriophage Resistance in Phylotype IA1.|https://dx.doi.org/10.3390/ijms262412166
+In Pursuit of a Better Biocide Composition: Synergistic and Additive Effects of QAC-Based Formulations Against Planktonic and Biofilm Cultures.|https://dx.doi.org/10.3390/ijms262412098
+The Pathogenicity Mechanisms of Staphylococcus aureus.|https://dx.doi.org/10.3390/ijms262411803

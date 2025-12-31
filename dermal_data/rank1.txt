@@ -12,3 +12,4 @@ Past, Present, and Future of Sodium Hypochlorite in Dermatology: A Scoping Revie
 Innovative biodressings containing silver nanoparticles loaded into lyotropic liquid crystals incorporated in sodium alginate and bacterial cellulose nanofibers for the treatment of complex wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149758
 Dual-Action Topical Therapy Accelerates Healing of MRSA-Infected Burn Wounds by Targeting Infection and Inflammation.|https://dx.doi.org/10.1177/21621918251405876
 Microbial PHB/PCL Nanofibrous Scaffolds for Controlled Drug Delivery and Enhanced Wound Healing: Comprehensive In Vitro and In Vivo Evaluation.|https://dx.doi.org/10.1021/acsabm.5c01828
+Impact of sex on the development of bacteremia in critically ill burn patients: A retrospective cohort study.|https://dx.doi.org/10.1016/j.burns.2025.107845
