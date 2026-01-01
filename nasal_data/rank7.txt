@@ -16,3 +16,13 @@ Surveillance of Healthcare-Associated Infections in the WHO African Region: Syst
 Pathogen-Specific Actinium-225 and Lutetium-177 Labeled Antibodies for Treatment of Biofilm-Associated Implant Infections: Initial In Vivo Proof-of-Concept.|https://dx.doi.org/10.3390/antibiotics14121283
 Efficacy of Dual-Antibiotic-Loaded Bone Cement Against Multi-Drug-Resistant Staphylococcus aureus and Enterococcus faecalis in a Galleria mellonella Model of Periprosthetic Joint Infection.|https://dx.doi.org/10.3390/antibiotics14121280
 mecA and mecC Positive Strains of Staphylococcus aureus Detected and Isolated from Raw Milk of Ecuador.|https://dx.doi.org/10.3390/antibiotics14121255
+Global emergence and evolution of Staphylococcus aureus clonal complex 59.|https://dx.doi.org/10.1128/msystems.01492-25
+Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter (ESKAPE) Pathogens and Colistin Resistance in Ventilator-Associated Pneumonia: A Prospective Cross-Sectional Study.|https://dx.doi.org/10.7759/cureus.98097
+Isolated Submandibular Sialadenitis in a Preterm Neonate: A Rare Cause of Neck Swelling.|https://dx.doi.org/10.7759/cureus.98054
+Survivability of microorganisms on synthetic and semi-synthetic textile materials used in the production of special purpose clothing in various humidity and temperature conditions.|https://dx.doi.org/10.26444/aaem/215225
+Operative Risk Factors and Microbiologic Profiles of Deep Infection Following Pilon Fracture Fixation.|https://dx.doi.org/10.3390/microorganisms13122837
+Propolis Exerts Antibiofilm Activity Against Methicillin-Resistant Staphylococcus aureus by Modulating Gene Expression to Suppress Adhesion.|https://dx.doi.org/10.3390/microorganisms13122810
+Antimicrobial Resistance in Urinary Tract Infections Among Patients with and Without Renal Comorbidities: A Retrospective Study from Al-Baha, Saudi Arabia.|https://dx.doi.org/10.3390/pathogens14121297
+Staphylococci: What Has Changed in the Antibiotic Resistance Profile in the Last Decade-Analysis of Strains Isolated from Hospitalised Patients.|https://dx.doi.org/10.3390/pathogens14121289
+High Antimicrobial Resistance in ESKAPE Pathogens at a Rwandan Tertiary Hospital.|https://dx.doi.org/10.3390/pathogens14121253
+The Paradox of Healthcare in the 'Superbugs' Era: Current Challenges and Future Directions.|https://dx.doi.org/10.3390/pathogens14121199
