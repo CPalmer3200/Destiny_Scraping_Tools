@@ -73,3 +73,10 @@ Chitosan/PEO Nanofibers as a Delivery Platform for Sustained Release of Centella
 Sodium Alginate-Based Antibacterial Coatings Reinforced with Quaternized Lignin-Cinnamaldehyde Composite Particles for Fruit Preservation.|https://dx.doi.org/10.3390/foods14244203
 Photoactive Hydrogels Containing Merocyanine/Spiropyran Units for Wound Dressing Applications.|https://dx.doi.org/10.1021/acs.biomac.5c01956
 NIR-II-responsive conductive silk fibroin microneedle patches for postoperative melanoma ablation, infected-wound healing, and real-time monitoring.|https://dx.doi.org/10.1016/j.mtbio.2025.102633
+One-step therapy strategy: Multifunctional chitosan-based hydrogel enriched with platelet-rich plasma for enhanced healing of infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2025.124710
+Antimicrobial peptides-based strategies at the frontline in battling the escalating menace of methicillin-resistant Staphylococcus aureus biofilms.|https://dx.doi.org/10.1556/1886.2025.00075
+3D-Printed Auxetic Hydrogel Dressings Reinforced With MXene and Carbonized Polymer Dots for Cascaded Antibacterial and Pro-Regenerative Effects in Wound Healing.|https://dx.doi.org/10.1002/smll.202508633
+Honey-Based Sodium Alginate-Polyvinyl Alcohol Hydrogel Containing Green-Synthesized Chitosan-Zinc Oxide Nanoparticles for Wound Healing.|https://dx.doi.org/10.1155/bca/9989560
+Innovations in Biofilm Prevention and Eradication in Medical Sector: An Integrative Review.|https://dx.doi.org/10.3390/pathogens14121242
+Nitric Oxide-Releasing S-Nitrosoglutathione-Conjugated TEMPO-Oxidized Nanocellulose Hydrogel for the Treatment of MRSA-Infected Wounds.|https://dx.doi.org/10.3390/pharmaceutics17121623
+Multifunctional Bilayer Wound Dressing Composed of Immediate Release Layer of Ofloxacin and Sustained Release Layer of Bergamot Oil.|https://dx.doi.org/10.3390/pharmaceutics17121589

@@ -31,3 +31,10 @@ Lyophilized Cell-Free Supernatants of Lacticaseibacillus paracasei T0901 Isolate
 Characterisation of the Novel Cutibacterium acnes Phage KIT09 and First Report of CRISPR-Cas-Independent Bacteriophage Resistance in Phylotype IA1.|https://dx.doi.org/10.3390/ijms262412166
 In Pursuit of a Better Biocide Composition: Synergistic and Additive Effects of QAC-Based Formulations Against Planktonic and Biofilm Cultures.|https://dx.doi.org/10.3390/ijms262412098
 The Pathogenicity Mechanisms of Staphylococcus aureus.|https://dx.doi.org/10.3390/ijms262411803
+Unveiling TCM-antibiotic synergy through multi-omics: Shuganning injection potentiates the effect of linezolid against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.phymed.2025.157733
+Estradiol Modulates the Sensitivity to Vancomycin of Lactobacillus paracasei and Staphylococcus aureus Biofilms-Constituents of Human Skin and Vaginal Microbiota.|https://dx.doi.org/10.3390/microorganisms13122777
+Moraxella osloensis Isolated from the Intraoperative Field After Reverse Total Shoulder Arthroplasty.|https://dx.doi.org/10.3390/microorganisms13122699
+Antioxidant and Microbiota Characteristics Across Different Mucosal Sites of Rice Flower Carp (Procypris merus).|https://dx.doi.org/10.3390/microorganisms13122673
+Interference of Pseudomonas aeruginosa Virulence Factors by Different Extracts from Inula Species.|https://dx.doi.org/10.3390/ph18121824
+Alternative Approach to the Synthesis of Vinyl Ester Resins-Composites and Their Biomedical Application.|https://dx.doi.org/10.3390/polym17243251
+Biocompatibility of Materials Dedicated to Non-Traumatic Surgical Instruments Correlated to the Effect of Applied Force of Working Part on the Coronary Vessel.|https://dx.doi.org/10.3390/ma18245645

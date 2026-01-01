@@ -51,3 +51,7 @@ The Relationship Between NETosis and Biofilm Formation in Chronic Infections.|ht
 Automating wound assessment: convolutional neural network-based mobile application for SINBAD classification system.|https://dx.doi.org/10.1007/s40200-025-01816-0
 Development and validation of a risk prediction model for multidrug-resistant organisms infection in diabetic foot ulcer patients.|https://dx.doi.org/10.3389/fendo.2025.1609128
 Proximal Medial Gastrocnemius Release in the Treatment of Plantar Diabetic Foot Ulcers: A Case Series.|https://dx.doi.org/10.1177/19386400251404210
+Cascade ROS-modulating Au/Cu nanozyme hydrogel with nitric oxide release ability for accelerated diabetic foot ulcer healing.|https://dx.doi.org/10.1016/j.colsurfb.2025.115403
+Associations of Diabetic Foot Infection with Ulcer Prognosis and Amputation Timing in Patients with Type 2 Diabetes Mellitus.|https://dx.doi.org/10.7547/23-230
+Impact of COVID-19 Pandemic on Diabetic Foot Ulcer Management in Kalamazoo, Michigan.|https://dx.doi.org/10.7547/24-036
+Canines Masticating on the Lower Extremity.|https://dx.doi.org/10.7547/24-071
