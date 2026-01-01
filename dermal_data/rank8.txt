@@ -1,9 +1,0 @@
-Design, synthesis, and evaluation of mupirocin prodrugs restoring systemic efficacy against MRSA.|https://dx.doi.org/10.1016/j.ejmech.2025.118406
-High-Throughput Screening Using the Self-Controlled Tree-Based Scan Statistic to Identify Medications Associated With Hospitalization for Severe Acute Liver Injury.|https://dx.doi.org/10.1002/pds.70275
-Prevalence of PVL and TSST-1 genes in nasal Staphylococcus aureus carriage among healthcare workers in a tertiary hospital.|https://dx.doi.org/10.3855/jidc.18208
-Reduction of surgical-site infections and improvement of scar parameters with a uniform fractional ultra-pulse CO₂ laser protocol in cosmetic surgery: a five-center retrospective cohort.|https://dx.doi.org/10.3389/fmed.2025.1642041
-Metagenomic insights into microbial communities and antibiotic resistance in treated wastewater for urban irrigation.|https://dx.doi.org/10.1186/s12866-025-04560-w
-Rif-seq reveals Caulobacter crescentus mRNA decay is globally coordinated with transcription and translation.|https://dx.doi.org/10.1016/j.celrep.2025.116691
-Throat carriage with methicillin-resistant Staphylococcus aureus: a cohort study on the effectiveness of topical eradication treatment.|https://dx.doi.org/10.1186/s13756-025-01682-8
-Regenerative potential of nanoenabled collagen-polylactide scaffolds for osteochondral defect repair in rabbits.|https://dx.doi.org/10.3389/fbioe.2025.1699338
-A comparative study of methicillin resistance and mupirocin resistance in Staphylococcus aureus isolated from nasal swab of health care worker and community population.|https://dx.doi.org/10.4103/jfmpc.jfmpc_387_25
