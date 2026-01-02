@@ -26,3 +26,5 @@ Antimicrobial Resistance in Urinary Tract Infections Among Patients with and Wit
 Staphylococci: What Has Changed in the Antibiotic Resistance Profile in the Last Decade-Analysis of Strains Isolated from Hospitalised Patients.|https://dx.doi.org/10.3390/pathogens14121289
 High Antimicrobial Resistance in ESKAPE Pathogens at a Rwandan Tertiary Hospital.|https://dx.doi.org/10.3390/pathogens14121253
 The Paradox of Healthcare in the 'Superbugs' Era: Current Challenges and Future Directions.|https://dx.doi.org/10.3390/pathogens14121199
+Green-based anti-biofilm nanoformulations against bacterial contaminations in nosocomial environments.|https://dx.doi.org/10.1016/j.heliyon.2025.e42934
+Biogenic hydroxyapatite-zinc oxide nanocomposites: A synergistic strategy for antibacterial and osteoconductive coatings on orthopedic implants.|https://dx.doi.org/10.1016/j.heliyon.2025.e42929
