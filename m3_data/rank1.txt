@@ -18,3 +18,4 @@ Drug Development.|https://dx.doi.org/10.1002/alz70859_107684
 Characterization of fecal deglucuronidation activity in healthy subjects and in patients treated with fecal microbiota transplantation.|https://dx.doi.org/10.1016/j.dmd.2025.100205
 Combination Therapy with Oral Vancomycin Plus Intravenous Metronidazole Is Not Superior to Oral Vancomycin Alone for the Treatment of Severe Clostridioides difficile Infection: A KASID Multicenter Study.|https://dx.doi.org/10.3390/antibiotics14121252
 Clostridioides difficile infection in Saudi Arabia: Prevalence, risk factors, and outcomes in a tertiary hospital setting.|https://dx.doi.org/10.1371/journal.pone.0340075
+Bioinformatic and experimental identification and characterization of Clostridioides difficile lipoproteins as potential vaccine candidates.|https://dx.doi.org/10.3389/fimmu.2025.1650364

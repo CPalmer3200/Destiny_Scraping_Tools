@@ -5,3 +5,4 @@ Miniature bioreactor arrays for modeling functional and structural dysbiosis in 
 Clostridial Prosthetic Joint Infections: A Review of the Literature, Management Strategies, and Outcomes.|https://dx.doi.org/10.7759/cureus.97437
 Psilocybin-induced modulation of visual salience processing.|https://dx.doi.org/10.1093/nc/niaf060
 Impact of Clostridioides difficile Infection on Clinical Outcomes in Hospitalized Patients With Inflammatory Bowel Disease: A Nationwide Analysis.|https://dx.doi.org/10.1097/MCG.0000000000002323
+Bacteriocin-transport-inspired oral peptide-probiotic delivery ameliorates IBD complications via autophagy and gut homeostasis.|https://dx.doi.org/10.1126/sciadv.adz9069
