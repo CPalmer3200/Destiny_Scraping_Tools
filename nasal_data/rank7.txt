@@ -28,3 +28,6 @@ High Antimicrobial Resistance in ESKAPE Pathogens at a Rwandan Tertiary Hospital
 The Paradox of Healthcare in the 'Superbugs' Era: Current Challenges and Future Directions.|https://dx.doi.org/10.3390/pathogens14121199
 Green-based anti-biofilm nanoformulations against bacterial contaminations in nosocomial environments.|https://dx.doi.org/10.1016/j.heliyon.2025.e42934
 Biogenic hydroxyapatite-zinc oxide nanocomposites: A synergistic strategy for antibacterial and osteoconductive coatings on orthopedic implants.|https://dx.doi.org/10.1016/j.heliyon.2025.e42929
+The Hidden Burden of Native Aortic Valve Endocarditis: Reevaluating Diagnostic and Pathological Challenges.|https://dx.doi.org/10.1016/j.athoracsur.2025.12.007
+Segmented filamentous bacteria reprogramming of alveolar macrophages limits postinfluenza bacterial pneumonia.|https://dx.doi.org/10.1126/sciimmunol.adt8858
+Immunoregulatory Bioinspired Hydrogel from Decellularized Amnion for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.5c24924
