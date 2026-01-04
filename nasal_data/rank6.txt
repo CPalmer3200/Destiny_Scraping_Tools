@@ -3,3 +3,4 @@ High-throughput single-cell isolation of Bifidobacterium strains from the human 
 The effectiveness of platelet-rich plasma for chemotherapy extravasation wound management: A case report.|https://dx.doi.org/10.4103/jcrt.jcrt_928_25
 Prevalence of multidrug-resistant organisms colonizing neonates at a tertiary hospital in Johannesburg, South Africa.|https://dx.doi.org/10.1093/tropej/fmaf051
 Synthesis of aminoglucuronic acid glycans from the capsular polysaccharide of Staphylococcus aureus type 2.|https://dx.doi.org/10.1039/d5ob01793a
+Enhanced immunogenicity of Staphylococcus aureus IsdE vaccine with SeNPs and BCG adjuvants in mice.|https://dx.doi.org/10.1186/s13568-025-02001-5
