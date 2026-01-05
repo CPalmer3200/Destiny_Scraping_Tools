@@ -11,3 +11,6 @@ Prospective study on surgical site infections in major oncologic resections.|htt
 Impact of SPY Elite Fluorescence Imaging on Complications and Healthcare Utilization in DIEP Flap Breast Reconstruction: An Interrupted Time Series Analysis.|https://dx.doi.org/10.1002/micr.70166
 Local antibiotic prophylaxis in breast reconstruction with breast implants.|https://dx.doi.org/10.48095/ccrvch2025487
 Radiotherapy for large ruptured hemorrhagic axillary lymph node metastasis from anaplastic lymphoma kinase-positive lung adenocarcinoma: A case report and review of literature.|https://dx.doi.org/10.5306/wjco.v16.i12.112140
+Perioperative outcomes of robotic-assisted versus traditional surgery for DIEP flap breast reconstruction: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s11701-025-03112-8
+Prevention of postoperative complications with negative pressure wound therapy after complex breast cancer surgery: a study protocol of a randomised controlled trial (TPN-SEIN).|https://dx.doi.org/10.1136/bmjopen-2025-103827
+Surgical Safety of Minimally Invasive Surgery Compared to Conventional Nipple-Sparing Mastectomy: A Meta-Analysis and Systematic Reviews.|https://dx.doi.org/10.4048/jbc.2025.0041

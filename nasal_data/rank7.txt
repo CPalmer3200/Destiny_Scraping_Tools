@@ -35,3 +35,5 @@ Severe Bacterial Infections due to Multidrug-Resistant Organisms in Solid Organ 
 Oral environment targeting sutures for refractory oral wound.|https://dx.doi.org/10.1016/j.colsurfb.2025.115388
 Host genetic variation in desmoglein-1 is associated with susceptibility to staphylococcal scalded skin syndrome.|https://dx.doi.org/10.1007/s00431-025-06710-8
 Staged approach to chronic mesh infection following hernia repair: a single-center experience.|https://dx.doi.org/10.1007/s10029-025-03433-5
+Infection after cesarean delivery: diagnosis, pathophysiology, management, and prevention.|https://dx.doi.org/10.1016/j.ajog.2025.08.007
+Asymptomatic bacteriuria as a warning sign of purulent pericardial effusion in a patient with systemic lupus erythematosus: a case report.|https://dx.doi.org/10.1186/s13256-025-05775-1
