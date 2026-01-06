@@ -37,3 +37,6 @@ Host genetic variation in desmoglein-1 is associated with susceptibility to stap
 Staged approach to chronic mesh infection following hernia repair: a single-center experience.|https://dx.doi.org/10.1007/s10029-025-03433-5
 Infection after cesarean delivery: diagnosis, pathophysiology, management, and prevention.|https://dx.doi.org/10.1016/j.ajog.2025.08.007
 Asymptomatic bacteriuria as a warning sign of purulent pericardial effusion in a patient with systemic lupus erythematosus: a case report.|https://dx.doi.org/10.1186/s13256-025-05775-1
+Antibiotics release by hybrid bone scaffold: relationship between kinetic profiles and scaffold intrinsic features.|https://dx.doi.org/10.3389/fbioe.2025.1679920
+Application of Continuous Local Antibiotic Perfusion for Postoperative Mediastinitis.|https://dx.doi.org/10.7759/cureus.98405
+Clinical Characteristics and Outcomes of Culture-positive Versus Culture-negative Bone and Joint Infections in Pediatric Patients: A 10-Year Multicenter Study From Hungary.|https://dx.doi.org/10.1097/INF.0000000000005137
