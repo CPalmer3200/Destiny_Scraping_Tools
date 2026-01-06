@@ -1,3 +1,5 @@
 Direct loading versus chitosan nanoparticles encapsulation of 1,8-cineole and eucalyptus oil in PVA-based nanofibers: Box-Behnken optimization, sustained delivery, antibacterial, and wound healing activities.|https://dx.doi.org/10.1016/j.ijbiomac.2025.149988
 Dendrite-Structured and Multienzyme-Like AuCu@Pd Metallic Hydrogels for Methicillin-Resistant Staphylococcus aureus-Infected Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.5c05003
 Immunoregulatory Bioinspired Hydrogel from Decellularized Amnion for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.5c24924
+NIR Light-Driven Photocatalytic Antibacterial Hydrogels for Synergistic MRSA Biofilm Eradication and Wound Regeneration.|https://dx.doi.org/10.1002/advs.202518215
+Development and Characterization of Collagen Dressings With Jatropha mutabilis Stalk Extract in the Scar Repair Process in Rodents.|https://dx.doi.org/10.1002/bip.70072
