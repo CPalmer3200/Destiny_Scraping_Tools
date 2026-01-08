@@ -20,3 +20,4 @@ Combination Therapy with Oral Vancomycin Plus Intravenous Metronidazole Is Not S
 Clostridioides difficile infection in Saudi Arabia: Prevalence, risk factors, and outcomes in a tertiary hospital setting.|https://dx.doi.org/10.1371/journal.pone.0340075
 Bioinformatic and experimental identification and characterization of Clostridioides difficile lipoproteins as potential vaccine candidates.|https://dx.doi.org/10.3389/fimmu.2025.1650364
 The impact of an oral purified microbiome therapeutic on the gastrointestinal microbiome.|https://dx.doi.org/10.1038/s41591-025-04076-w
+Microbiome-selective DNA Pol IIIC inhibitors in oncology infection management.|https://dx.doi.org/10.1097/MS9.0000000000004423

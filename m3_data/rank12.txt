@@ -7,3 +7,4 @@ Risk factors for progression from Clostridioides difficile colonization (NAAT+/t
 Global Trends in Clostridioides difficile Infection-related Mortality, 2001-2023: An Observational Study.|https://dx.doi.org/10.1016/j.ijid.2025.108315
 The Black Soldier Fly Hermetia illucens Larva Presents an Antimicrobial Activity in Response to Clostridioides difficile Exposure.|https://dx.doi.org/10.1016/j.crmicr.2025.100469
 Impact of a Three-Strain Lactobacilli Probiotic (BioK+) on Incidence of Hospital-Onset Clostridioides difficile: A Retrospective Observational Cohort Study.|https://dx.doi.org/10.3390/antibiotics14121225
+Olfactomedin-4(+) neutrophils exacerbate intestinal epithelial damage in Clostridioides difficile infection.|https://dx.doi.org/10.1128/iai.00229-25
