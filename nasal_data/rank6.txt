@@ -4,3 +4,4 @@ The effectiveness of platelet-rich plasma for chemotherapy extravasation wound m
 Prevalence of multidrug-resistant organisms colonizing neonates at a tertiary hospital in Johannesburg, South Africa.|https://dx.doi.org/10.1093/tropej/fmaf051
 Synthesis of aminoglucuronic acid glycans from the capsular polysaccharide of Staphylococcus aureus type 2.|https://dx.doi.org/10.1039/d5ob01793a
 Enhanced immunogenicity of Staphylococcus aureus IsdE vaccine with SeNPs and BCG adjuvants in mice.|https://dx.doi.org/10.1186/s13568-025-02001-5
+Multivalent Nanobodies for Potent and Broad Neutralization of Staphylococcus aureus Toxins.|https://dx.doi.org/10.64898/2025.12.24.696403

@@ -48,3 +48,8 @@ Atopic Dermatitis-like mouse model using early inoculation of patient-derived S.
 [Etiological characteristics, clinical manifestations, and prognosis of patients with endogenous endophthalmitis in 2024: a single-center retrospective cohort study].|https://dx.doi.org/10.3760/cma.j.cn112142-20250403-00170
 Antibiotic susceptibility profile of bacterial isolates in paediatric cancer patients: a prospective cross-sectional study.|https://dx.doi.org/10.1186/s12887-025-06475-x
 Comparison of vancomycin and teicoplanin for febrile neutropenia following hematopoietic stem cell transplantation.|https://dx.doi.org/10.1691/ph.2025.5609
+Reduction of bacterial colonization on buckling-induced wrinkled surfaces under fluid shear.|https://dx.doi.org/10.1038/s41467-025-68078-5
+Prevalence and antibiotic susceptibility patterns of bacteria causing surgical site infections in a tertiary care centers in Lebanon.|https://dx.doi.org/10.1371/journal.pgph.0005783
+The burden of non-CLABSI hospital-onset bloodstream ınfections in pediatric wards outside the ıntensive care units.|https://dx.doi.org/10.1007/s00431-025-06722-4
+Multiscale hierarchical surface structuring of zirconia using femtosecond laser and chemical etching: implications for cell response and antibacterial performance.|https://dx.doi.org/10.1016/j.mtbio.2025.102648
+Understanding the antibacterial efficacy of additively manufactured copper-added 316L stainless steel.|https://dx.doi.org/10.36922/msam.7357
