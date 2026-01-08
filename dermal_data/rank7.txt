@@ -4,3 +4,5 @@ Safety evaluation of a fungal beta-glucanase.|https://dx.doi.org/10.1016/j.toxre
 Dermal Formulation Incorporating Isoconazole Nitrate Nanoparticles Offers High Absorption into Skin and Antimicrobial Effect Against Candida albicans.|https://dx.doi.org/10.3390/pharmaceutics17121519
 Combined effects of honey and silver nanoparticles on wound healing in human dermal fibroblast cells.|https://dx.doi.org/10.1186/s12906-025-05171-8
 Comprehensive review of octocrylene toxicology data and human exposure assessment for personal care products.|https://dx.doi.org/10.1080/10408444.2025.2593603
+Design of liposomal tocopherol phosphate for dermal applications.|https://dx.doi.org/10.1016/j.ijpharm.2026.126571
+Pre-clinical Evaluation of Wound Healing Efficiency of Biomedicine-Responsive Patch Overlay on Polymeric Matrix: A Comparative Study.|https://dx.doi.org/10.1007/s00266-025-05520-5
