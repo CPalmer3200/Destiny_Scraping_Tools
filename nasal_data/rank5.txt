@@ -16,3 +16,5 @@ Prevention of postoperative complications with negative pressure wound therapy a
 Surgical Safety of Minimally Invasive Surgery Compared to Conventional Nipple-Sparing Mastectomy: A Meta-Analysis and Systematic Reviews.|https://dx.doi.org/10.4048/jbc.2025.0041
 The Association of Blood Transfusion With Free Flap Survival and Thrombosis: A Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.jss.2025.12.012
 Robot-assisted Axillary Lymph Node Dissection for Axillary Lymph Node Metastasis in Breast Cancer.|https://dx.doi.org/10.1097/GOX.0000000000007373
+Superomedial Versus Inferior Pedicle Therapeutic Reduction Mammoplasty for Breast Cancer Patients with 35-40 cm Sternal Notch-to-Nipple Distance.|https://dx.doi.org/10.1007/s00266-025-05553-w
+Comparing autologous breast reconstruction in high vs. low body mass index patients.|https://dx.doi.org/10.21037/gs-2025-337

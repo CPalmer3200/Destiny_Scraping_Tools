@@ -53,3 +53,8 @@ Prevalence and antibiotic susceptibility patterns of bacteria causing surgical s
 The burden of non-CLABSI hospital-onset bloodstream ınfections in pediatric wards outside the ıntensive care units.|https://dx.doi.org/10.1007/s00431-025-06722-4
 Multiscale hierarchical surface structuring of zirconia using femtosecond laser and chemical etching: implications for cell response and antibacterial performance.|https://dx.doi.org/10.1016/j.mtbio.2025.102648
 Understanding the antibacterial efficacy of additively manufactured copper-added 316L stainless steel.|https://dx.doi.org/10.36922/msam.7357
+Meloxicam Eluting 3D Printed 316L Stainless Steel Implants for Targeted Delivery in Bone Fixation Surgeries.|https://dx.doi.org/10.1208/s12249-025-03294-2
+The Clinical Application of Metagenomic Next-Generation Sequencing in Pathogen Identification of Postoperative Spinal Implant Infection.|https://dx.doi.org/10.1016/j.spinee.2026.01.004
+The Impact of Environmental Contamination and Carriage of Methicillin-Resistant Staphylococci by Patients on the Hand Hygiene of Healthcare Workers.|https://dx.doi.org/10.1111/nicc.70284
+Mapping the landscape of healthcare-associated infections in China, 2015-2019: a nation-wide observational study.|https://dx.doi.org/10.1016/j.lanwpc.2025.101775
+Left ventricular assist device infections: From epidemiology to treatment.|https://dx.doi.org/10.1016/j.jhlto.2025.100451
