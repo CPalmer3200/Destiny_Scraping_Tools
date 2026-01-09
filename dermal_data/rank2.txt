@@ -3,3 +3,4 @@ Proteolytic enzymes from Bacillus subtilis AB2 as antibiofilm adjuvants: Bioproc
 Results of treating patients with diabetic foot ulcers with hyperbaric oxygen.|https://dx.doi.org/10.5603/imh.102276
 A descriptive retrospective study on the various uses of hyperbaric oxygen therapy.|https://dx.doi.org/10.5603/imh.103441
 Potential of phage therapy for the treatment of diabetic foot infections.|https://dx.doi.org/10.1007/s12223-025-01394-x
+Prophylactic Incisional Negative Pressure wound therapy (NPWT) for major Amputations (PINTA): protocol for randomized controlled trial of single-use NPWT devices for closed-incision major lower extremity amputations.|https://dx.doi.org/10.1093/bjsopen/zraf159

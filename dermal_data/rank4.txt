@@ -3,3 +3,6 @@ Dendrite-Structured and Multienzyme-Like AuCu@Pd Metallic Hydrogels for Methicil
 Immunoregulatory Bioinspired Hydrogel from Decellularized Amnion for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.5c24924
 NIR Light-Driven Photocatalytic Antibacterial Hydrogels for Synergistic MRSA Biofilm Eradication and Wound Regeneration.|https://dx.doi.org/10.1002/advs.202518215
 Development and Characterization of Collagen Dressings With Jatropha mutabilis Stalk Extract in the Scar Repair Process in Rodents.|https://dx.doi.org/10.1002/bip.70072
+Photo-controlled spatiotemporal sequential release of MXenes/NO gas from bilayer (clean-cure) hydrogel promotes healing of MRSA biofilm-infected diabetic ulcer wounds.|https://dx.doi.org/10.1016/j.jconrel.2026.114611
+Visible Light-Activated ZnO@CuO Coaxial Nanofibers Enhance Infected Skin Wound Healing Through Construction of p-n Heterojunctions.|https://dx.doi.org/10.1002/advs.202512700
+Comparative Evaluation of Cameroonian Honey and Normal Saline in the Management of Chronic Wounds: A Randomized Controlled Trial.|https://dx.doi.org/10.1002/hsr2.71719
