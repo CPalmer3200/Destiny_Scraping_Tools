@@ -58,3 +58,7 @@ The Clinical Application of Metagenomic Next-Generation Sequencing in Pathogen I
 The Impact of Environmental Contamination and Carriage of Methicillin-Resistant Staphylococci by Patients on the Hand Hygiene of Healthcare Workers.|https://dx.doi.org/10.1111/nicc.70284
 Mapping the landscape of healthcare-associated infections in China, 2015-2019: a nation-wide observational study.|https://dx.doi.org/10.1016/j.lanwpc.2025.101775
 Left ventricular assist device infections: From epidemiology to treatment.|https://dx.doi.org/10.1016/j.jhlto.2025.100451
+Antibacterial efficacy of oxygen rich fluid against three early colonizing peri-implant bacteria.|https://dx.doi.org/10.1038/s41598-025-34709-6
+Staphylococcus aureus periprosthetic joint infection and its pathogenesis in total hip and knee arthroplasty: a narrative review.|https://dx.doi.org/10.1530/EOR-2025-0093
+Staphylococcal persistence and biofilm resistance in bone-anchored hearing systems: Clinical impact.|https://dx.doi.org/10.1016/j.bioflm.2025.100342
+Methicillin-resistant Staphylococcus aureus is raising global concern as it overcomes immune challenges through various virulence mechanisms.|https://dx.doi.org/10.1016/j.isci.2025.114376
