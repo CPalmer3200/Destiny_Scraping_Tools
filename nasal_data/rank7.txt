@@ -62,3 +62,7 @@ Antibacterial efficacy of oxygen rich fluid against three early colonizing peri-
 Staphylococcus aureus periprosthetic joint infection and its pathogenesis in total hip and knee arthroplasty: a narrative review.|https://dx.doi.org/10.1530/EOR-2025-0093
 Staphylococcal persistence and biofilm resistance in bone-anchored hearing systems: Clinical impact.|https://dx.doi.org/10.1016/j.bioflm.2025.100342
 Methicillin-resistant Staphylococcus aureus is raising global concern as it overcomes immune challenges through various virulence mechanisms.|https://dx.doi.org/10.1016/j.isci.2025.114376
+Dual-action bisphosphonate hydrogel preserves cortical bone integrity and restores healing cascade in osteoporotic fracture-related infection.|https://dx.doi.org/10.1038/s41467-025-68036-1
+A Sericin@Cu Coating on Zirconia to Orchestrate a Sequential Antibacterial-to-Regenerative Cascade for Enhancing Peri-Implant Soft Tissue Seal.|https://dx.doi.org/10.1002/adhm.202505161
+Utility of the BioFire(®) FilmArray(®) Pneumonia Panel Using Bronchial Washing Specimens: A Comparative Study with Conventional Culture.|https://dx.doi.org/10.3390/diagnostics16010091
+Multifunctional NADES-Based Extracts from Paeonia lactiflora Pall. Flowers for Potential Cosmetic and Pharmaceutical Applications.|https://dx.doi.org/10.3390/molecules31010097
