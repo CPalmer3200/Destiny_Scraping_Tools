@@ -6,3 +6,10 @@ Development and Characterization of Collagen Dressings With Jatropha mutabilis S
 Photo-controlled spatiotemporal sequential release of MXenes/NO gas from bilayer (clean-cure) hydrogel promotes healing of MRSA biofilm-infected diabetic ulcer wounds.|https://dx.doi.org/10.1016/j.jconrel.2026.114611
 Visible Light-Activated ZnO@CuO Coaxial Nanofibers Enhance Infected Skin Wound Healing Through Construction of p-n Heterojunctions.|https://dx.doi.org/10.1002/advs.202512700
 Comparative Evaluation of Cameroonian Honey and Normal Saline in the Management of Chronic Wounds: A Randomized Controlled Trial.|https://dx.doi.org/10.1002/hsr2.71719
+Dual-action bisphosphonate hydrogel preserves cortical bone integrity and restores healing cascade in osteoporotic fracture-related infection.|https://dx.doi.org/10.1038/s41467-025-68036-1
+Multifunctional hydrogel based on oxidized sodium alginate and carboxymethyl chitosan delivers minoxidil loaded liposomes for the treatment of androgenetic alopecia.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150167
+Sericin-reinforced polysaccharide composites for potential regenerative and antibacterial applications.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150184
+An organic-inorganic composite bone cement based on oxidized carboxymethyl cellulose/carboxymethyl chitosan hydrogel and magnesium phosphate with excellent antibacterial and antioxidant properties.|https://dx.doi.org/10.1016/j.jmbbm.2026.107342
+Poly(levodopa)-Modified β-(1 → 3)-D-Glucan Hydrogel Enriched with Triangle-Shaped Nanoparticles as a Biosafe Matrix with Enhanced Antibacterial Potential.|https://dx.doi.org/10.3390/molecules31010181
+Green synthesis of mechanically robust and antibacterial chitosan colloidal hydrogels under near-neutral conditions for wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.150038
+An injectable dual-drug-loaded hydrogel for the treatment of bacterial endophthalmitis.|https://dx.doi.org/10.1016/j.bioadv.2026.214704
