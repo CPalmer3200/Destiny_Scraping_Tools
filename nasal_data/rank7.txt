@@ -66,3 +66,7 @@ Dual-action bisphosphonate hydrogel preserves cortical bone integrity and restor
 A Sericin@Cu Coating on Zirconia to Orchestrate a Sequential Antibacterial-to-Regenerative Cascade for Enhancing Peri-Implant Soft Tissue Seal.|https://dx.doi.org/10.1002/adhm.202505161
 Utility of the BioFire(®) FilmArray(®) Pneumonia Panel Using Bronchial Washing Specimens: A Comparative Study with Conventional Culture.|https://dx.doi.org/10.3390/diagnostics16010091
 Multifunctional NADES-Based Extracts from Paeonia lactiflora Pall. Flowers for Potential Cosmetic and Pharmaceutical Applications.|https://dx.doi.org/10.3390/molecules31010097
+EXPRESS: Prevalence of Staphylococcus aureus skin colonization and its correlation with serum interleukin-22 levels, disease severity, and body mass index in patients with psoriasis.|https://dx.doi.org/10.1177/10815589261415895
+Mid- to Long-Term Follow-Up Outcomes of Single Design Rotating Hinge Knee in Infected and Noninfected Revision Patients.|https://dx.doi.org/10.1111/os.70233
+Morin-functionalized pHEMA cryogel membranes for combating MDR Escherichia coli and MRSA: antibacterial efficacy and molecular docking study.|https://dx.doi.org/10.1007/s00210-026-04976-9
+Complex Aorto-Spinal Fistula With Multifocal Abscesses in an Immunosuppressed Elderly Man Following Endovascular Aortic Repair.|https://dx.doi.org/10.12659/AJCR.949903
