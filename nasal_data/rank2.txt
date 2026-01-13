@@ -7,3 +7,4 @@ Detection of Methicillin-resistant Staphylococcus aureus (MRSA) and biofilm form
 Targeted isolation of bacteria with potential to competitively exclude Staphylococcus aureus in the upper respiratory tract of pigs.|https://dx.doi.org/10.1186/s12866-025-04613-0
 Relationship between staphylococcal enterotoxin superantigens and the development of chronic rhinosinusitis.|https://dx.doi.org/10.1097/MD.0000000000046951
 Third-Generation Cephalosporin-Resistant Enterobacterales and Methicillin-Resistant Staphylococcus aureus (MRSA) in Pigs in Rwanda.|https://dx.doi.org/10.3390/ani16010122
+A Rare Case of Severe Disseminated Pyoderma Gangrenosum of the Upper Body With Concurrent Nasopharyngeal and Inferior Orbital Wall Necrosis.|https://dx.doi.org/10.7759/cureus.98737

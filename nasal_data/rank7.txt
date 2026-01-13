@@ -70,3 +70,8 @@ EXPRESS: Prevalence of Staphylococcus aureus skin colonization and its correlati
 Mid- to Long-Term Follow-Up Outcomes of Single Design Rotating Hinge Knee in Infected and Noninfected Revision Patients.|https://dx.doi.org/10.1111/os.70233
 Morin-functionalized pHEMA cryogel membranes for combating MDR Escherichia coli and MRSA: antibacterial efficacy and molecular docking study.|https://dx.doi.org/10.1007/s00210-026-04976-9
 Complex Aorto-Spinal Fistula With Multifocal Abscesses in an Immunosuppressed Elderly Man Following Endovascular Aortic Repair.|https://dx.doi.org/10.12659/AJCR.949903
+Enhancing the Susceptibility of Methicillin-Resistant Staphylococcus aureus to β-Lactam Antibiotics Through the Use of 4-Methoxysalicyl Aldehyde.|https://dx.doi.org/10.1096/fj.202501828R
+Mechano-bactericidal activity of cicada wing nanostructures against gram-positive bacteria.|https://dx.doi.org/10.1128/spectrum.02037-25
+A Tertiary Care Hospital's Antimicrobial Sensitivity Pattern and Microorganism Spectrum.|https://dx.doi.org/10.4103/jpbs.jpbs_1272_25
+Spectrum of Deep Neck Space Abscesses: A Case Series Experience in a Tertiary Health Care Centre.|https://dx.doi.org/10.4103/jpbs.jpbs_1490_25
+Novel Ag-modified zirconia nanomaterials with antibacterial activity.|https://dx.doi.org/10.1039/d5ra07099f
