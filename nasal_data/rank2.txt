@@ -8,3 +8,5 @@ Targeted isolation of bacteria with potential to competitively exclude Staphyloc
 Relationship between staphylococcal enterotoxin superantigens and the development of chronic rhinosinusitis.|https://dx.doi.org/10.1097/MD.0000000000046951
 Third-Generation Cephalosporin-Resistant Enterobacterales and Methicillin-Resistant Staphylococcus aureus (MRSA) in Pigs in Rwanda.|https://dx.doi.org/10.3390/ani16010122
 A Rare Case of Severe Disseminated Pyoderma Gangrenosum of the Upper Body With Concurrent Nasopharyngeal and Inferior Orbital Wall Necrosis.|https://dx.doi.org/10.7759/cureus.98737
+Parallel metagenomic- and culture-based approaches show nasal swabs are a good proxy for broncho-alveolar lavage in children with cystic fibrosis.|https://dx.doi.org/10.1016/j.jcf.2025.12.011
+Surgical wound complications in ankle ORIF patients: a predictive analysis on a single-center retrospective cohort of 287 patients.|https://dx.doi.org/10.1007/s00590-025-04649-y

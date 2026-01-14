@@ -75,3 +75,5 @@ Mechano-bactericidal activity of cicada wing nanostructures against gram-positiv
 A Tertiary Care Hospital's Antimicrobial Sensitivity Pattern and Microorganism Spectrum.|https://dx.doi.org/10.4103/jpbs.jpbs_1272_25
 Spectrum of Deep Neck Space Abscesses: A Case Series Experience in a Tertiary Health Care Centre.|https://dx.doi.org/10.4103/jpbs.jpbs_1490_25
 Novel Ag-modified zirconia nanomaterials with antibacterial activity.|https://dx.doi.org/10.1039/d5ra07099f
+Dual-Functional Porous UHMWPE Implant Eliminates Staphylococcus aureus Infection and Induces Osteogenesis in a Critical-Sized Segmental Femoral Defect Model in Mice.|https://dx.doi.org/10.1021/acsabm.5c01936
+Localized Subarachnoid Purulence Mimicking Aneurysmal Subarachnoid Hemorrhage: A Case Report.|https://dx.doi.org/10.7759/cureus.98961
