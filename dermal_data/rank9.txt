@@ -2,3 +2,6 @@ The evaluation of the effect of estrogen administration on cutaneous wound heali
 Case report: Eyelid symptoms as an early harbinger of staphylococcal scalded skin syndrome: a novel pattern of disease onset.|https://dx.doi.org/10.3389/fopht.2025.1689008
 Infection after cesarean delivery: diagnosis, pathophysiology, management, and prevention.|https://dx.doi.org/10.1016/j.ajog.2025.08.007
 Host genetic variation in desmoglein-1 is associated with susceptibility to staphylococcal scalded skin syndrome.|https://dx.doi.org/10.1007/s00431-025-06710-8
+The staphylococcal type VII secretion system protein EsxC impacts daptomycin sensitivity through controlling bacterial cell envelope integrity.|https://dx.doi.org/10.1128/jb.00380-25
+[Atypical manifestation of bullous, multifocal erysipelas on the trunk-case report].|https://dx.doi.org/10.1007/s00105-025-05635-5
+Delivery of Temporin-FL via Mesoporous Polydopamine Nanoparticles Enhances Antimicrobial Penetration and Accelerates Healing in Staphylococcus aureus-Infected Wounds.|https://dx.doi.org/10.1021/acs.molpharmaceut.5c01578

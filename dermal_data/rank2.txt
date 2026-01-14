@@ -6,3 +6,6 @@ Potential of phage therapy for the treatment of diabetic foot infections.|https:
 Prophylactic Incisional Negative Pressure wound therapy (NPWT) for major Amputations (PINTA): protocol for randomized controlled trial of single-use NPWT devices for closed-incision major lower extremity amputations.|https://dx.doi.org/10.1093/bjsopen/zraf159
 Minimally Invasive Floating Metatarsal Osteotomy for Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/wrr.70123
 Use of Polylactic Acid Dermal Matrix for the Management of Wounds with Exposed Avascular Structures.|https://dx.doi.org/10.3390/jcm15010003
+Microbiological characteristics and risk factors for multidrug-resistant organism infections in diabetic foot ulcer.|https://dx.doi.org/10.12968/jowc.2023.0041
+Rethinking regulatory tiers: Medicare real-world evidence shows CAMP outcomes are independent of FDA regulatory classification.|https://dx.doi.org/10.12968/jowc.2025.0609
+Population structure, antimicrobial resistance, and virulence factors of diabetic foot-associated Escherichia coli.|https://dx.doi.org/10.1128/spectrum.02837-25

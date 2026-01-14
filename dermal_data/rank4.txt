@@ -13,3 +13,5 @@ An organic-inorganic composite bone cement based on oxidized carboxymethyl cellu
 Poly(levodopa)-Modified β-(1 → 3)-D-Glucan Hydrogel Enriched with Triangle-Shaped Nanoparticles as a Biosafe Matrix with Enhanced Antibacterial Potential.|https://dx.doi.org/10.3390/molecules31010181
 Green synthesis of mechanically robust and antibacterial chitosan colloidal hydrogels under near-neutral conditions for wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2025.150038
 An injectable dual-drug-loaded hydrogel for the treatment of bacterial endophthalmitis.|https://dx.doi.org/10.1016/j.bioadv.2026.214704
+Dual-Functional Porous UHMWPE Implant Eliminates Staphylococcus aureus Infection and Induces Osteogenesis in a Critical-Sized Segmental Femoral Defect Model in Mice.|https://dx.doi.org/10.1021/acsabm.5c01936
+Dual-functional aggregation-induced emission active chitosan-based hydrogel for the detection and killing of pathogenic bacteria.|https://dx.doi.org/10.1039/d5bm01805f
