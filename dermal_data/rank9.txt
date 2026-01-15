@@ -5,3 +5,4 @@ Host genetic variation in desmoglein-1 is associated with susceptibility to stap
 The staphylococcal type VII secretion system protein EsxC impacts daptomycin sensitivity through controlling bacterial cell envelope integrity.|https://dx.doi.org/10.1128/jb.00380-25
 [Atypical manifestation of bullous, multifocal erysipelas on the trunk-case report].|https://dx.doi.org/10.1007/s00105-025-05635-5
 Delivery of Temporin-FL via Mesoporous Polydopamine Nanoparticles Enhances Antimicrobial Penetration and Accelerates Healing in Staphylococcus aureus-Infected Wounds.|https://dx.doi.org/10.1021/acs.molpharmaceut.5c01578
+Staphylococcal Scalded Skin Syndrome in Melanated Skin: A Pediatric Case Report.|https://dx.doi.org/10.36518/2689-0216.2151
