@@ -79,3 +79,7 @@ Dual-Functional Porous UHMWPE Implant Eliminates Staphylococcus aureus Infection
 Localized Subarachnoid Purulence Mimicking Aneurysmal Subarachnoid Hemorrhage: A Case Report.|https://dx.doi.org/10.7759/cureus.98961
 Impact of Erythritol Air-Polishing on Titanium Implant Surface Properties and Bacterial Colonization: An In Vitro Study.|https://dx.doi.org/10.1002/cre2.70289
 Assessment of Clinical Significance of Molecular Streptococcus agalactiae Detection in Patients With Suspected Pneumonia.|https://dx.doi.org/10.1093/ofid/ofaf781
+Bacterial Profile and Antimicrobial Susceptibility Patterns in Diabetic Foot Ulcers: A Cross‑Sectional Study in Bangladesh.|https://dx.doi.org/10.7759/cureus.99212
+Enhancement of antibacterial properties of α-tricalcium phosphate/honey biocement using glucose oxidase.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150235
+Increased long-term mortality of patients with prosthetic joint infection after primary total hip arthroplasty - a large observational cohort study.|https://dx.doi.org/10.1016/j.jinf.2026.106689
+A Natural Biomolecule-Based Coating with Antifouling and Quorum-Sensing Inhibition Properties for Preventing Biofilm Formation.|https://dx.doi.org/10.1021/acs.biomac.5c02209
