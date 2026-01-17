@@ -83,3 +83,12 @@ Bacterial Profile and Antimicrobial Susceptibility Patterns in Diabetic Foot Ulc
 Enhancement of antibacterial properties of α-tricalcium phosphate/honey biocement using glucose oxidase.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150235
 Increased long-term mortality of patients with prosthetic joint infection after primary total hip arthroplasty - a large observational cohort study.|https://dx.doi.org/10.1016/j.jinf.2026.106689
 A Natural Biomolecule-Based Coating with Antifouling and Quorum-Sensing Inhibition Properties for Preventing Biofilm Formation.|https://dx.doi.org/10.1021/acs.biomac.5c02209
+Intraoperative Vancomycin Does Not Change Periprosthetic Joint Infection Risk in Patients Undergoing Total Joint Arthroplasty.|https://dx.doi.org/10.1016/j.arth.2026.01.043
+Region Specific Utility of MRSA Nares Screening in Patients with Diabetic Foot Cultures Across the United States.|https://dx.doi.org/10.1016/j.ajic.2026.01.005
+Temperature-responsive hydrogel delivery of antimicrobial peptide engineered watermelon-derived extracellular vesicles enables sequential infection control and wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115438
+Bridging specialties: repurposing platelet drugs prescribed by cardiologists to help infectious disease doctors treat Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1080/09537104.2025.2612045
+Two-Stage Revision Arthroplasty for Salmonella enteritidis Periprosthetic Hip Infection.|https://dx.doi.org/10.1155/cro/6638707
+Proximal Junctional Kyphosis Following Spinal Thoracic Deformity Correction in a Patient with Kabuki Syndrome: A Case Report.|https://dx.doi.org/10.13107/jocr.2026.v16.i01.6666
+Tailoring nanotopography and antibacterial properties of calcium phosphate bone grafts via fluoride incorporation.|https://dx.doi.org/10.1016/j.bioactmat.2025.12.026
+Biofilm Formation and Antibiotic Resistance in Orthopaedic Implant Infections: A Molecular Analysis of icaA, icaD, and mecA Genes in an Indian Cohort.|https://dx.doi.org/10.1007/s43465-025-01594-0
+Prostatic abscesses as a cause of persistent Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1016/j.eimce.2025.503032
