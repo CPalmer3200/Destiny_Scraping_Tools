@@ -10,3 +10,10 @@ Microbiological characteristics and risk factors for multidrug-resistant organis
 Rethinking regulatory tiers: Medicare real-world evidence shows CAMP outcomes are independent of FDA regulatory classification.|https://dx.doi.org/10.12968/jowc.2025.0609
 Population structure, antimicrobial resistance, and virulence factors of diabetic foot-associated Escherichia coli.|https://dx.doi.org/10.1128/spectrum.02837-25
 Advanced strategies for the management of patients with diabetic foot ulcers: a comprehensive review.|https://dx.doi.org/10.3904/kjim.2024.446
+Region Specific Utility of MRSA Nares Screening in Patients with Diabetic Foot Cultures Across the United States.|https://dx.doi.org/10.1016/j.ajic.2026.01.005
+Clinical Observation of Diabetic Foot Treated by Mixed Probiotics Formulation Combined with Standard Care.|https://dx.doi.org/10.1177/15347346251413060
+The Efficacy of Silver Nanoparticles (Tetrasilver Tetroxide) in Treatment of Diabetic Foot Ulcer.|https://dx.doi.org/10.1177/15347346251413947
+Emerging Biomedical Engineering Therapies for Infected Diabetic Foot Ulcers: Toward Antibacterial Functionalization and Pathology-Responsive Regulation.|https://dx.doi.org/10.1002/smsc.202500482
+Bacterial Profile and Antimicrobial Susceptibility Patterns in Diabetic Foot Ulcers: A Cross‑Sectional Study in Bangladesh.|https://dx.doi.org/10.7759/cureus.99212
+Systemic and local risk factors for major amputation following diabetic minor amputation.|https://dx.doi.org/10.1016/j.fas.2026.01.001
+A partial differential equation model of a novel treatment for chronic wound biofilm infections.|https://dx.doi.org/10.1016/j.clinbiomech.2025.106744
