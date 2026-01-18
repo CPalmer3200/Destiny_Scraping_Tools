@@ -15,3 +15,11 @@ Green synthesis of mechanically robust and antibacterial chitosan colloidal hydr
 An injectable dual-drug-loaded hydrogel for the treatment of bacterial endophthalmitis.|https://dx.doi.org/10.1016/j.bioadv.2026.214704
 Dual-Functional Porous UHMWPE Implant Eliminates Staphylococcus aureus Infection and Induces Osteogenesis in a Critical-Sized Segmental Femoral Defect Model in Mice.|https://dx.doi.org/10.1021/acsabm.5c01936
 Dual-functional aggregation-induced emission active chitosan-based hydrogel for the detection and killing of pathogenic bacteria.|https://dx.doi.org/10.1039/d5bm01805f
+Disulfiram-enhanced bacterial cuproptosis-like death synergized with chemodynamic therapy for potentiated resistant infection treatment and accelerated wound healing.|https://dx.doi.org/10.1016/j.jcis.2026.139904
+Enzymes-enhanced antibiotic therapy reduces biofilms to undetectable levels in an implant-associated infection model.|https://dx.doi.org/10.1038/s41522-026-00910-2
+Tendon decellularized bio-adhesives interpenetrated by genipin crosslinked chitosan with ROS scavenging capability and hemocompatibility.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150289
+Temperature-responsive hydrogel delivery of antimicrobial peptide engineered watermelon-derived extracellular vesicles enables sequential infection control and wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115438
+Developing chitosan nanocomposite with silver nanoparticle, sesame oil, and Verbena officinalis extract for wound dressing: in vivo and in vitro evaluation.|https://dx.doi.org/10.1080/09205063.2025.2612231
+Nanocatalytic magnesium osteoimplants with biodegradable self-adaptive interfaces for therapeutic repair of infected bone defects.|https://dx.doi.org/10.1016/j.bioactmat.2025.12.018
+A multifunctional hyaluronic acid modified gelatin methacryloyl hydrogel for infected wound healing: synergistic photothermal antibacterial and immune-microenvironment remodeling.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150262
+Allicin loaded multifunctional self-healing injectable hydrogel based on konjac glucomannan and gelatin for the treatment of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150201

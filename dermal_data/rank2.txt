@@ -17,3 +17,4 @@ Emerging Biomedical Engineering Therapies for Infected Diabetic Foot Ulcers: Tow
 Bacterial Profile and Antimicrobial Susceptibility Patterns in Diabetic Foot Ulcers: A Cross‑Sectional Study in Bangladesh.|https://dx.doi.org/10.7759/cureus.99212
 Systemic and local risk factors for major amputation following diabetic minor amputation.|https://dx.doi.org/10.1016/j.fas.2026.01.001
 A partial differential equation model of a novel treatment for chronic wound biofilm infections.|https://dx.doi.org/10.1016/j.clinbiomech.2025.106744
+Medial arterial calcification of the foot arteries is associated with incident cardiovascular events or all-cause mortality in patients with diabetes-related foot ulceration.|https://dx.doi.org/10.1016/j.diabres.2026.113108
