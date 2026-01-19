@@ -92,3 +92,6 @@ Proximal Junctional Kyphosis Following Spinal Thoracic Deformity Correction in a
 Tailoring nanotopography and antibacterial properties of calcium phosphate bone grafts via fluoride incorporation.|https://dx.doi.org/10.1016/j.bioactmat.2025.12.026
 Biofilm Formation and Antibiotic Resistance in Orthopaedic Implant Infections: A Molecular Analysis of icaA, icaD, and mecA Genes in an Indian Cohort.|https://dx.doi.org/10.1007/s43465-025-01594-0
 Prostatic abscesses as a cause of persistent Staphylococcus aureus bacteremia.|https://dx.doi.org/10.1016/j.eimce.2025.503032
+Characterization and parameters for the effectiveness of a UV-C device for infection control in dental clinics.|https://dx.doi.org/10.1111/php.70065
+Preventing bloodstream infections through effective surveillance, AUDIT and FEEDBACK: evaluation of a 20-year hospital program using a TYPE I hybrid design.|https://dx.doi.org/10.1186/s13756-025-01696-2
+Antimicrobial Resistant Organism Admission Screening Adherence Using a Clinical Information System and Its Impact on MRSA Rates in a Provincial Healthcare System.|https://dx.doi.org/10.1016/j.ajic.2026.01.007
