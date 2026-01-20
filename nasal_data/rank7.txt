@@ -95,3 +95,5 @@ Prostatic abscesses as a cause of persistent Staphylococcus aureus bacteremia.|h
 Characterization and parameters for the effectiveness of a UV-C device for infection control in dental clinics.|https://dx.doi.org/10.1111/php.70065
 Preventing bloodstream infections through effective surveillance, AUDIT and FEEDBACK: evaluation of a 20-year hospital program using a TYPE I hybrid design.|https://dx.doi.org/10.1186/s13756-025-01696-2
 Antimicrobial Resistant Organism Admission Screening Adherence Using a Clinical Information System and Its Impact on MRSA Rates in a Provincial Healthcare System.|https://dx.doi.org/10.1016/j.ajic.2026.01.007
+Surgical treatment of Emphysematous Osteomyelitis of the spine in malnutrition and anemia patient: a rare case report.|https://dx.doi.org/10.1186/s12879-025-12217-2
+Z‑Amino Acids Present Innovative Antimicrobial and Antibiofilm Properties against Methicillin-Susceptible and -Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsomega.5c09099
