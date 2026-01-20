@@ -11,3 +11,6 @@ Silver(I) coordination polymer meets chia seed mucilage based film - antimicrobi
 Skin pharmacokinetics and pharmacodynamics in patients with post-kala-azar dermal leishmaniasis.|https://dx.doi.org/10.1016/j.ijantimicag.2026.107713
 Dermal Gel Formulation of Guiera Senegalensis (Sabara) Leaf Extract: Development, Characterisation, and Antibacterial Evaluation.|https://dx.doi.org/10.1080/03639045.2026.2614374
 Post Kala-azar Dermal Leishmaniasis (PKDL), a global overview.|https://dx.doi.org/10.1093/ced/llag010
+Challenges and Way Forward for Prevention of Resurgence of Visceral Leishmaniasis: A Four Years Community Based Study in Erstwhile Endemic Districts of West Bengal, India.|https://dx.doi.org/10.1111/tmi.70081
+Epithelial-Dermal Inflammasome Crosstalk in Cutaneous Squamous Cell Carcinoma.|https://dx.doi.org/10.1091/mbc.E25-04-0181
+Reprogramming immunity at the metabolic-epidermal interface in obesity-associated psoriasis.|https://dx.doi.org/10.1016/j.cytogfr.2026.01.003

@@ -11,3 +11,5 @@ A teichoic acid-like wall modification associated with immune suppression is soc
 Beyond the skin barrier: commensal S. epidermidis imprint systemic immunity to invasive biofilm infection.|https://dx.doi.org/10.64898/2026.01.08.698386
 Anti-Acne Potential of Quercus salicina Extract: Inhibition of Cutibacterium acnes Growth and Virulence.|https://dx.doi.org/10.4014/jmb.2510.10052
 Opportunistic Vibrio alginolyticus and six other Vibrio species from ready-to-eat seafood associated with the Korean coast: Public health implications as emerging human pathogens.|https://dx.doi.org/10.1016/j.foodres.2025.118216
+Therapeutic Potential of the ApoE-Mimicked Peptide COG133: Regulation of miRNA146‑a in Diabetic Fibroblasts and Antibacterial Activity.|https://dx.doi.org/10.1021/acsomega.5c10013
+Breaking biofilm barriers in skin wounds: Membrane-Active antimicrobials in an era of resistance.|https://dx.doi.org/10.1016/j.crphar.2025.100249

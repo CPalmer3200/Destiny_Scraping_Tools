@@ -23,3 +23,5 @@ Developing chitosan nanocomposite with silver nanoparticle, sesame oil, and Verb
 Nanocatalytic magnesium osteoimplants with biodegradable self-adaptive interfaces for therapeutic repair of infected bone defects.|https://dx.doi.org/10.1016/j.bioactmat.2025.12.018
 A multifunctional hyaluronic acid modified gelatin methacryloyl hydrogel for infected wound healing: synergistic photothermal antibacterial and immune-microenvironment remodeling.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150262
 Allicin loaded multifunctional self-healing injectable hydrogel based on konjac glucomannan and gelatin for the treatment of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150201
+Nano-Functionalized Biopolymer Films with Green-Synthesized CuO/Attapulgite for Light-Promoted Antibacterial Therapy and Wound Healing.|https://dx.doi.org/10.1002/smll.202511910
+A multifunctional hydrogel for wound healing via pH-triggered TA-Fe(3+) release: Synchronous monitoring and antibacterial action.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150351
