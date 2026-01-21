@@ -97,3 +97,10 @@ Preventing bloodstream infections through effective surveillance, AUDIT and FEED
 Antimicrobial Resistant Organism Admission Screening Adherence Using a Clinical Information System and Its Impact on MRSA Rates in a Provincial Healthcare System.|https://dx.doi.org/10.1016/j.ajic.2026.01.007
 Surgical treatment of Emphysematous Osteomyelitis of the spine in malnutrition and anemia patient: a rare case report.|https://dx.doi.org/10.1186/s12879-025-12217-2
 Z‑Amino Acids Present Innovative Antimicrobial and Antibiofilm Properties against Methicillin-Susceptible and -Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsomega.5c09099
+Prevalence and factors associated with concomitant bacteremia among adults admitted with severe malaria at Kayunga Regional Referral Hospital, Uganda.|https://dx.doi.org/10.1186/s12936-026-05793-4
+Bionic Janus hydrogel drives infected Achilles tendon regeneration via mechano-immune spatiotemporal steering.|https://dx.doi.org/10.1038/s41467-026-68514-0
+Cell death-related gene signatures as dual-function biomarkers: Early diagnosis and therapeutic targeting in Staphylococcus aureus pneumonia.|https://dx.doi.org/10.1371/journal.pone.0339560
+Prevalence, microbiological profiles, and determinants of hospital-acquired pneumonia in Addis Ababa: A focus on Pseudomonas aeruginosa and its antimicrobial resistance patterns in three hospitals.|https://dx.doi.org/10.1371/journal.pone.0340680
+Calcium Phosphate Mineralization of Bulk Alginate Hydrogels Composites With Metal and Metal Oxide Nanoparticles.|https://dx.doi.org/10.1002/mabi.202500468
+Engineering Ulvan-Functionalized Surfaces for Tunable Antimicrobial and Antiadhesive Performance.|https://dx.doi.org/10.1021/acsabm.5c02129
+Serial C-reactive Protein as a Sensitive Marker of Treatment Response and Disease Severity in Acute Hand Infections.|https://dx.doi.org/10.7759/cureus.99594

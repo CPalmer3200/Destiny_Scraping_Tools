@@ -27,3 +27,4 @@ Unplanned Emergency Department Visits Within 90 Days of Breast Reduction Surgery
 Co-surgery in Breast Reconstruction: Is the Helping Surgeon Actually Hurting?|https://dx.doi.org/10.1097/GOX.0000000000007432
 [Advances in intra-abdominal vascularized lymph node transfer for treatment of limb lymphedema].|https://dx.doi.org/10.7507/1002-1892.202509066
 Early Use and Outcomes of Polydioxanone Mesh in Implant-based Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000007394
+Shape-memory polyurethane foam integrated with nanofiber technology: synergistic efficacy in reducing the risk of capsular contracture and infection in breast reconstruction applications.|https://dx.doi.org/10.1039/d5tb02309b
