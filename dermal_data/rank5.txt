@@ -13,3 +13,6 @@ Anti-Acne Potential of Quercus salicina Extract: Inhibition of Cutibacterium acn
 Opportunistic Vibrio alginolyticus and six other Vibrio species from ready-to-eat seafood associated with the Korean coast: Public health implications as emerging human pathogens.|https://dx.doi.org/10.1016/j.foodres.2025.118216
 Therapeutic Potential of the ApoE-Mimicked Peptide COG133: Regulation of miRNA146‑a in Diabetic Fibroblasts and Antibacterial Activity.|https://dx.doi.org/10.1021/acsomega.5c10013
 Breaking biofilm barriers in skin wounds: Membrane-Active antimicrobials in an era of resistance.|https://dx.doi.org/10.1016/j.crphar.2025.100249
+The Oxylipin Dependent Quorum Sensing System enhances Pseudomonas aeruginosa dissemination during burn-associated infection.|https://dx.doi.org/10.1371/journal.ppat.1013885
+The antibacterial mechanism of the extracellular product derived from Heyndrickxia coagulans against Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-025-04693-6
+Complications of Dermal Injectables-A Retrospective Study.|https://dx.doi.org/10.1111/jocd.70582

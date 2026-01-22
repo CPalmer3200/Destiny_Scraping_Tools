@@ -25,3 +25,13 @@ A multifunctional hyaluronic acid modified gelatin methacryloyl hydrogel for inf
 Allicin loaded multifunctional self-healing injectable hydrogel based on konjac glucomannan and gelatin for the treatment of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150201
 Nano-Functionalized Biopolymer Films with Green-Synthesized CuO/Attapulgite for Light-Promoted Antibacterial Therapy and Wound Healing.|https://dx.doi.org/10.1002/smll.202511910
 A multifunctional hydrogel for wound healing via pH-triggered TA-Fe(3+) release: Synchronous monitoring and antibacterial action.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150351
+pH-responsive onion-structured hydrogel beads based on chitosan-spider silk-graphene quantum dots for controlled drug delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150384
+Post-modified biosynthesis strategy to achieve a heme-mimicking bacterial cellulose hydrogel with synergistic antibacterial functions for infected skin defect therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150397
+Chitosan-xanthan gum-based hydrogels loaded with essential oil distillation by-products of Aloysia citrodora Paláu for antimicrobial systems.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150368
+Gelatin-based injectable hydrogel with dual ROS generation and biofilm disruption for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150399
+Everyday Clothing Reimagined as Rapid-Acting Hemostatic and Antimicrobial Dressings for Emergency Trauma Care.|https://dx.doi.org/10.1021/acsabm.5c02131
+Cascaded, self-decomposing messenger in MXene@Cu-MOF heterostructures for on-demand infection control and pro-angiogenic wound repair.|https://dx.doi.org/10.1016/j.mtbio.2025.102703
+Nanozyme antibiotic dressings to accelerate wound healing through anti-inflammatory and antibacterial effects.|https://dx.doi.org/10.1016/j.mtbio.2025.102745
+Preparation and properties of polylactic acid/chitosan composite nanofiber hydrogel for repairing tracheoesophageal fistula.|https://dx.doi.org/10.1177/22808000251412527
+Bionic Janus hydrogel drives infected Achilles tendon regeneration via mechano-immune spatiotemporal steering.|https://dx.doi.org/10.1038/s41467-026-68514-0
+Calcium Phosphate Mineralization of Bulk Alginate Hydrogels Composites With Metal and Metal Oxide Nanoparticles.|https://dx.doi.org/10.1002/mabi.202500468
