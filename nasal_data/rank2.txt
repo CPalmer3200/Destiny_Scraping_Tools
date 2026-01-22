@@ -13,3 +13,5 @@ Surgical wound complications in ankle ORIF patients: a predictive analysis on a 
 Composition and dynamics of the adult nasal microbiome.|https://dx.doi.org/10.1186/s40168-025-02250-3
 Carboxymethyl cellulose and chitosan-based tampon for effective epistaxis management.|https://dx.doi.org/10.1590/1519-6984.290825
 Prescription Patterns and Outcomes of Topical Antibiotic Irrigations in Difficult-to-Treat Chronic Rhinosinusitis.|https://dx.doi.org/10.1177/19458924251413671
+A Markov model for fate and transport of Staphylococcus aureus at a swine barn and proposed interventions to reduce worker exposures.|https://dx.doi.org/10.1093/annweh/wxaf088
+Introduction of methicillin-resistant Staphylococcus aureus (MRSA) nasal polymerase chain reaction testing combined with pharmacist ordering and intervention reduces anti-MRSA antibiotic use in a multi-hospital system.|https://dx.doi.org/10.1017/ash.2025.10270

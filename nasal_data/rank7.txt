@@ -104,3 +104,12 @@ Prevalence, microbiological profiles, and determinants of hospital-acquired pneu
 Calcium Phosphate Mineralization of Bulk Alginate Hydrogels Composites With Metal and Metal Oxide Nanoparticles.|https://dx.doi.org/10.1002/mabi.202500468
 Engineering Ulvan-Functionalized Surfaces for Tunable Antimicrobial and Antiadhesive Performance.|https://dx.doi.org/10.1021/acsabm.5c02129
 Serial C-reactive Protein as a Sensitive Marker of Treatment Response and Disease Severity in Acute Hand Infections.|https://dx.doi.org/10.7759/cureus.99594
+Reduced Duration of Isolation and Impact on Rates of Healthcare-Associated Multidrug-Resistant Organisms in a Pediatric Medical Center.|https://dx.doi.org/10.1016/j.ajic.2026.01.009
+Comparison of coding data with clinical diagnosis of antibiotic-resistant healthcare-associated infections.|https://dx.doi.org/10.1016/j.idh.2025.100405
+Spatiotemporally Adaptive and Stage-Matched Tissue-Engineered Constructs for MRSA Osteomyelitis: Pathogenesis-Informed Design.|https://dx.doi.org/10.1021/acsbiomaterials.5c02000
+Bacteriophages in Hip and Knee Periprosthetic Joint Infections: A Promising Tool in the Era of Antibiotic Resistance.|https://dx.doi.org/10.3390/medsci14010009
+From infestation to infection: a systematic review of arthropod-mediated microbial transmission in hospitals.|https://dx.doi.org/10.1017/ash.2025.10266
+Cutibacterium acnes-macrophage fusion membrane coating Cu/Zn-MOF for psoriasis treatment via pathological innate lymphoid cells inhibition.|https://dx.doi.org/10.1016/j.mtbio.2025.102731
+Nanozyme antibiotic dressings to accelerate wound healing through anti-inflammatory and antibacterial effects.|https://dx.doi.org/10.1016/j.mtbio.2025.102745
+A public health risk model using prior healthcare exposures identifies healthcare-associated pathogen carriage.|https://dx.doi.org/10.1017/ice.2026.10397
+Paroxysmal migraine associated with vancomycin administration: A case report, a review of pharmacovigilance databases for similar cases and possible mechanisms.|https://dx.doi.org/10.1097/MD.0000000000046545
