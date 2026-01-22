@@ -3,3 +3,4 @@ Antibiotic prophylaxis in pediatric surgery: when more is not better-or safer.|h
 Antimicrobial resistance in the Bacteroides fragilis group: national multicenter survey and Bayesian modelling study, France, 2022-2023.|https://dx.doi.org/10.1016/j.jgar.2026.01.003
 Clostridioides difficile infection: Position paper of the Catalan Society of Gastroenterology.|https://dx.doi.org/10.1016/j.gastrohep.2025.502634
 Pediatric Infectious Diseases Physicians' Preferences for Management of Clostridioides difficile Infection: An Emerging Infections Network (EIN) Survey.|https://dx.doi.org/10.1093/jpids/piag004
+Effect of Early Versus Late Catheter-Directed Intervention on Clinical Outcomes in Acute Pulmonary Embolism: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1002/pul2.70238

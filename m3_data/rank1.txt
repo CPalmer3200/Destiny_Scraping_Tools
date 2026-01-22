@@ -5,3 +5,4 @@ Fecal Microbiota Transplantation in 2025: Two Steps Forward, One Step Back.|http
 A retrospective Follow-Up after derotational distal femoral osteotomy combined with medial patellofemoral ligament reconstruction for the treatment of recurrent patellar dislocation.|https://dx.doi.org/10.1186/s13018-025-06646-7
 Safety and efficacy of oral microbiome therapy for the treatment of recurrent Clostridioides difficile infection: a systematic review and meta-analysis of randomized controlled trials.|https://dx.doi.org/10.1080/00365521.2026.2616310
 Phase variable colony morphotypes of Clostridioides difficile elicit distinct host responses during acute infection.|https://dx.doi.org/10.64898/2026.01.09.698580
+Machine Learning Model Predicts Recurrent Clostridioides difficile Infection in Patients With Inflammatory Bowel Disease (Recur CDI-IBD).|https://dx.doi.org/10.14309/ajg.0000000000003922
