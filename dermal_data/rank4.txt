@@ -35,3 +35,5 @@ Nanozyme antibiotic dressings to accelerate wound healing through anti-inflammat
 Preparation and properties of polylactic acid/chitosan composite nanofiber hydrogel for repairing tracheoesophageal fistula.|https://dx.doi.org/10.1177/22808000251412527
 Bionic Janus hydrogel drives infected Achilles tendon regeneration via mechano-immune spatiotemporal steering.|https://dx.doi.org/10.1038/s41467-026-68514-0
 Calcium Phosphate Mineralization of Bulk Alginate Hydrogels Composites With Metal and Metal Oxide Nanoparticles.|https://dx.doi.org/10.1002/mabi.202500468
+Engineered dual-layered polyvinyl alcohol-alginate wound dressings incorporating antimicrobial and pro-healing functions.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150369
+Pomegranate Peel Extracellular Vesicle-Incorporated GelMA Hydrogel Targets Staphylococcus aureus Infection and Accelerates Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c02091

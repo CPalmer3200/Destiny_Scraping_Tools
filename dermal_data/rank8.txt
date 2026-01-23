@@ -4,3 +4,5 @@ Variation in preoperative self-administered Staphylococcus decolonization protoc
 A Dual Setback: Staphylococcus aureus Biofilms From Severe Chronic Rhinosinusitis Show Enhanced Virulence Capacity and Tolerance to Antibiotics.|https://dx.doi.org/10.1002/alr.70092
 Prescription Patterns and Outcomes of Topical Antibiotic Irrigations in Difficult-to-Treat Chronic Rhinosinusitis.|https://dx.doi.org/10.1177/19458924251413671
 Persistent nasal colonization of rare community-acquired methicillin-resistant Staphylococcus aureus clones ST8-IVl (CA-MRSA/J) and ST1930-IVa in healthy adults.|https://dx.doi.org/10.1016/j.ijregi.2025.100827
+Proportion and antibiogram of methicillin-resistant Staphylococcus aureus (MRSA) in Africa: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s13756-025-01687-3
+Emerging therapeutic drug targets in amino acid and protein biosynthesis pathways against ESKAPE and non-ESKAPE pathogens: a comprehensive review.|https://dx.doi.org/10.1007/s00203-025-04600-z
