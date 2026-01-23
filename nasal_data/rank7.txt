@@ -113,3 +113,6 @@ Cutibacterium acnes-macrophage fusion membrane coating Cu/Zn-MOF for psoriasis t
 Nanozyme antibiotic dressings to accelerate wound healing through anti-inflammatory and antibacterial effects.|https://dx.doi.org/10.1016/j.mtbio.2025.102745
 A public health risk model using prior healthcare exposures identifies healthcare-associated pathogen carriage.|https://dx.doi.org/10.1017/ice.2026.10397
 Paroxysmal migraine associated with vancomycin administration: A case report, a review of pharmacovigilance databases for similar cases and possible mechanisms.|https://dx.doi.org/10.1097/MD.0000000000046545
+Pomegranate Peel Extracellular Vesicle-Incorporated GelMA Hydrogel Targets Staphylococcus aureus Infection and Accelerates Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c02091
+Multidrug-resistant bacterial infections and their clinical impact at the University Teaching Hospital of Kigali in Rwanda: a retrospective descriptive-analytical study.|https://dx.doi.org/10.3389/fpubh.2025.1701316
+Sartorius Pyomyositis Triggered by Trauma in a Healthy Man.|https://dx.doi.org/10.1097/GOX.0000000000007421

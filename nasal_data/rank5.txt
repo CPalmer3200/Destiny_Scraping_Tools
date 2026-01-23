@@ -28,3 +28,6 @@ Co-surgery in Breast Reconstruction: Is the Helping Surgeon Actually Hurting?|ht
 [Advances in intra-abdominal vascularized lymph node transfer for treatment of limb lymphedema].|https://dx.doi.org/10.7507/1002-1892.202509066
 Early Use and Outcomes of Polydioxanone Mesh in Implant-based Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000007394
 Shape-memory polyurethane foam integrated with nanofiber technology: synergistic efficacy in reducing the risk of capsular contracture and infection in breast reconstruction applications.|https://dx.doi.org/10.1039/d5tb02309b
+"Retrorectus mesh use in deep inferior epigastric perforator (DIEP) flaps to reduce abdominal morbidity".|https://dx.doi.org/10.1097/PRS.0000000000012846
+An Analysis of the Timing of Autologous Breast Reconstruction After Mastectomy and Radiotherapy.|https://dx.doi.org/10.1097/PRS.0000000000012841
+Enhancing Prepectoral Direct-to-Implant Reconstruction Using the Serratus Anterior Fascia: The Hybrid Plane.|https://dx.doi.org/10.1097/GOX.0000000000007427

@@ -8,3 +8,5 @@ Multivalent Nanobodies for Potent and Broad Neutralization of Staphylococcus aur
 Central hypoventilation and choking episodes revealing Chiari malformation type I.|https://dx.doi.org/10.1136/bcr-2025-269032
 [Advances in early repair and reconstruction of severe limb injuries].|https://dx.doi.org/10.7507/1002-1892.202512047
 A novel hypothetical protein (SAUSA300_1684) confers excellent protection against multi-drug-resistant Staphylococcus aureus infection in the murine model.|https://dx.doi.org/10.1016/j.vaccine.2026.128220
+Colonization with Multidrug-resistant bacteria among children hospitalized abroad-A Study from Finland.|https://dx.doi.org/10.1093/jtm/taag003
+[Infectious disease : what's new in 2025].|https://dx.doi.org/10.53738/REVMED.2026.22.946.48045
