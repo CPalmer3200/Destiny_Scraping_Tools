@@ -10,3 +10,4 @@ Central hypoventilation and choking episodes revealing Chiari malformation type 
 A novel hypothetical protein (SAUSA300_1684) confers excellent protection against multi-drug-resistant Staphylococcus aureus infection in the murine model.|https://dx.doi.org/10.1016/j.vaccine.2026.128220
 Colonization with Multidrug-resistant bacteria among children hospitalized abroad-A Study from Finland.|https://dx.doi.org/10.1093/jtm/taag003
 [Infectious disease : what's new in 2025].|https://dx.doi.org/10.53738/REVMED.2026.22.946.48045
+Advances in methicillin-resistant Staphylococcus aureus drug discovery: developments and challenges.|https://dx.doi.org/10.1080/17460441.2026.2618787

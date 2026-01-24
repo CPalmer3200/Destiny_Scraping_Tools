@@ -31,3 +31,4 @@ Shape-memory polyurethane foam integrated with nanofiber technology: synergistic
 "Retrorectus mesh use in deep inferior epigastric perforator (DIEP) flaps to reduce abdominal morbidity".|https://dx.doi.org/10.1097/PRS.0000000000012846
 An Analysis of the Timing of Autologous Breast Reconstruction After Mastectomy and Radiotherapy.|https://dx.doi.org/10.1097/PRS.0000000000012841
 Enhancing Prepectoral Direct-to-Implant Reconstruction Using the Serratus Anterior Fascia: The Hybrid Plane.|https://dx.doi.org/10.1097/GOX.0000000000007427
+Bilateral Breast Implant-Associated Epstein-Barr Virus-Positive Diffuse Large B-Cell Lymphoma: A Case Report and Literature Review.|https://dx.doi.org/10.1097/SAP.0000000000004540

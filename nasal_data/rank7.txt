@@ -116,3 +116,8 @@ Paroxysmal migraine associated with vancomycin administration: A case report, a 
 Pomegranate Peel Extracellular Vesicle-Incorporated GelMA Hydrogel Targets Staphylococcus aureus Infection and Accelerates Wound Healing.|https://dx.doi.org/10.1021/acsabm.5c02091
 Multidrug-resistant bacterial infections and their clinical impact at the University Teaching Hospital of Kigali in Rwanda: a retrospective descriptive-analytical study.|https://dx.doi.org/10.3389/fpubh.2025.1701316
 Sartorius Pyomyositis Triggered by Trauma in a Healthy Man.|https://dx.doi.org/10.1097/GOX.0000000000007421
+Microbe-derived aromatic polyketides toward MRSA infection: current advances and perspectives.|https://dx.doi.org/10.1039/d5np00061k
+Mechanisms of microbial colonization in biofilm-associated infections of hemodialysis catheters and advances in surface modification technologies.|https://dx.doi.org/10.1128/cmr.00283-25
+Evaluation of Topical Vancomycin for Surgical Site Infection Prophylaxis in Major Cranial Surgeries at a Tertiary Healthcare Center in Abuja.|https://dx.doi.org/10.4103/aam.aam_480_25
+Unveiling the Antimicrobial Potential of Ricinus communis: A Comprehensive Review of Its Relevance to Surgical Site Infection (SSI) Pathogens.|https://dx.doi.org/10.7759/cureus.99803
+Septic Arthritis Secondary to Acupuncture in an Immunocompromised Patient With Multiple Comorbid Conditions.|https://dx.doi.org/10.12659/AJCR.948392
