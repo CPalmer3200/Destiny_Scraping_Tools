@@ -23,3 +23,6 @@ Microbial allies in skin trauma recovery: from immune modulation to engineered p
 Prospective comparison of WBC SPECT/CT and conventional MRI for diagnosing osteomyelitis and monitoring treatment response in diabetic foot infections.|https://dx.doi.org/10.1007/s00125-025-06652-8
 [Clinical value of hyperbaric oxygen therapy for the treatment of chronic wounds].|https://dx.doi.org/10.23785/TU.2025.06.003
 The role of holistic assessment, multidisciplinary diagnosis and treatment, and negative-pressure wound therapy with instillation in managing complex diabetic foot ulcers: a case-based discussion.|https://dx.doi.org/10.62347/UJRA7230
+Pharmacovigilance analysis of the association between SGLT-2 inhibitors and diabetic foot infections using the FAERS database: An observational study.|https://dx.doi.org/10.1016/j.diabres.2026.113109
+Plain Radiography for Diagnosing and Monitoring Foot Osteomyelitis in Persons With Diabetes: Accuracy, Limitations and Clinical Utility.|https://dx.doi.org/10.1111/wrr.70128
+Solving the diagnostic dilemma in bone infections: metagenomic next generation sequencing enhances pathogen identification accuracy.|https://dx.doi.org/10.3389/fmed.2025.1699607
