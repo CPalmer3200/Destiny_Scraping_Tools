@@ -3,3 +3,4 @@ One Swallow Does Not Make a Summer: A Confirmed Case of Imported Vibrio cholerae
 Peritoneal dialysis associated peritonitis and Clostridioides difficile infection: Association or different entities?|https://dx.doi.org/10.1007/s13730-025-01040-y
 Vancomycin resistance in gram-positive infections: evolutionary strategies of survival.|https://dx.doi.org/10.1007/s00203-025-04698-1
 Education and electronic health record implementation-better together? An assessment of compliance of oral vancomycin dosing for Clostridioides difficile infection and the impact of different antimicrobial stewardship interventions.|https://dx.doi.org/10.1017/ash.2025.10272
+Ursodeoxycholic acid inhibits biofilm formation and bacterial adhesion of Clostridioides difficile.|https://dx.doi.org/10.1016/j.anaerobe.2026.103023
