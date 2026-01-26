@@ -1,2 +1,3 @@
 Atopic Dermatitis-like mouse model using early inoculation of patient-derived S. aureus together with MC903.|https://dx.doi.org/10.1016/j.xjidi.2025.100436
 Staphylococcus aureus in Atopic Dermatitis: How a common bacterium exploits and drives disease.|https://dx.doi.org/10.1016/j.jaci.2025.12.1009
+Preventive effect of bentonite against pyoderma via direct binding capability of staphylococci.|https://dx.doi.org/10.1371/journal.pone.0341148
