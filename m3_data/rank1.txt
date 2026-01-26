@@ -7,3 +7,4 @@ Safety and efficacy of oral microbiome therapy for the treatment of recurrent Cl
 Phase variable colony morphotypes of Clostridioides difficile elicit distinct host responses during acute infection.|https://dx.doi.org/10.64898/2026.01.09.698580
 Machine Learning Model Predicts Recurrent Clostridioides difficile Infection in Patients With Inflammatory Bowel Disease (Recur CDI-IBD).|https://dx.doi.org/10.14309/ajg.0000000000003922
 Distinct T and innate-like lymphocyte reprogramming following lyophilized fecal microbiota transplantation in recurrent C. difficile infection.|https://dx.doi.org/10.1080/19490976.2026.2620127
+Safety and efficacy of CRS3123 in adults with a primary episode or first recurrence of Clostridioides difficile infection: a phase 2, randomised, double-blind, multicentre, vancomycin-controlled study.|https://dx.doi.org/10.1016/S1473-3099(25)00721-2
