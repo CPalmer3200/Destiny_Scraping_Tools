@@ -1,1 +1,6 @@
 Bacteriophage endolysins: A promising therapeutic strategy against drug- resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/bs.apcsb.2025.09.001
+The Airway Microbiome as a Modulator of Influenza Virus Infection: Mechanistic Insights and Translational Perspectives-Review.|https://dx.doi.org/10.3390/pathogens15010063
+Taming Superbugs: Current Progress and Challenges in Combating ESKAPE Pathogens.|https://dx.doi.org/10.3390/pathogens15010028
+Genome-Based Evaluation of Safety and Probiotic Traits in Infant Feces-Sourced Bifidobacterium animalis subsp. lactis BD1.|https://dx.doi.org/10.3390/foods15020316
+Novel tRNA Synthetase Inhibitors Increase Healthspan, Lifespan, and Autophagic Flux in C. elegans.|https://dx.doi.org/10.3390/biom16010073
+Nitric Oxide-Releasing Gels in the Context of Antimicrobial Stewardship, Biofilm Management, and Wound-Repair Biology.|https://dx.doi.org/10.3390/antibiotics15010054
