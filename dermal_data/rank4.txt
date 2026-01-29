@@ -40,3 +40,11 @@ Pomegranate Peel Extracellular Vesicle-Incorporated GelMA Hydrogel Targets Staph
 Anti-bacterial properties of hyperbranched poly (epsilon-lysine) peptides dendrons for wound dressing applications: molecular specie-specific effects.|https://dx.doi.org/10.1186/s12866-026-04763-9
 Dual-polysaccharide hydrogel empowered by copper nanoparticles with synergistic antibacterial performance for epidermal wound therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150489
 Bioinspired Multifunctional Hydrogels for Deep Learning-Enabled Wound pH Visual Monitoring and Treatment.|https://dx.doi.org/10.1021/acs.analchem.5c05725
+Medical Fabrics with Non-Antibiotic, Supramolecular Antimicrobial Coatings: A Preventive Approach to Combat Biofilm Formation and Bacterial Dissemination.|https://dx.doi.org/10.1002/adhm.202504888
+UV-Assisted Silver Functionalization of Cotton Gauze for Antimicrobial and Biocompatible Wound Healing Applications.|https://dx.doi.org/10.3390/microorganisms14010213
+Cannabidiol-Loaded Mucoadhesive PLGA Nanosphere-Chitosan Hydrogel Patch for Oral Therapeutic Applications.|https://dx.doi.org/10.3390/ijms27021127
+Bioengineered Premna Microphylla-Silver Nanoparticle Hydrogel for Multidrug-Resistant Wound Management in Diabetic Therapeutics.|https://dx.doi.org/10.3390/bioengineering13010037
+Cell Adhesion and Cytotoxicity Assessment of Collagen-Coated Electrospun PCL Membranes Functionalized with Silver Nanoparticles.|https://dx.doi.org/10.3390/membranes16010017
+Bacterial Nanocellulose Functionalized with Graphite and Niobium Pentoxide: Limited Antimicrobial Effects and Preserved Cytocompatibility.|https://dx.doi.org/10.3390/membranes16010016
+Biomedical Interpenetrated Hydrogels Fabricated via Quaternary Ammonium Chitosan and Dopamine-Conjugated Gelatin Integrated with Genipin and Epigallocatechin Gallate.|https://dx.doi.org/10.3390/gels12010067
+Development of Human Serum Albumin-Based Hydrogels for Potential Use as Wound Dressings.|https://dx.doi.org/10.3390/gels12010064

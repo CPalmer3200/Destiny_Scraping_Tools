@@ -16,3 +16,8 @@ Breaking biofilm barriers in skin wounds: Membrane-Active antimicrobials in an e
 The Oxylipin Dependent Quorum Sensing System enhances Pseudomonas aeruginosa dissemination during burn-associated infection.|https://dx.doi.org/10.1371/journal.ppat.1013885
 The antibacterial mechanism of the extracellular product derived from Heyndrickxia coagulans against Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-025-04693-6
 Complications of Dermal Injectables-A Retrospective Study.|https://dx.doi.org/10.1111/jocd.70582
+Topical Delivery of Autochthonous Lactic Acid Bacteria Using Calcium Alginate Microspheres as a Probiotic Carrier System with Enhanced Therapeutic Potential.|https://dx.doi.org/10.3390/ph19010066
+Antimicrobial Functionalized Mesoporous Silica FDU-12 Loaded with Bacitracin.|https://dx.doi.org/10.3390/molecules31020340
+Occurrence of Citrobacter spp.-Associated and Non-Associated Lesions in a Stranded Loggerhead Sea Turtle (Caretta caretta) from Italy.|https://dx.doi.org/10.3390/pathogens15010056
+Cathelicidin-like Peptide for Resistant Acinetobacter baumannii Control.|https://dx.doi.org/10.3390/antibiotics15010077
+Nitric Oxide-Releasing Gels in the Context of Antimicrobial Stewardship, Biofilm Management, and Wound-Repair Biology.|https://dx.doi.org/10.3390/antibiotics15010054

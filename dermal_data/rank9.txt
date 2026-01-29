@@ -9,3 +9,5 @@ Staphylococcal Scalded Skin Syndrome in Melanated Skin: A Pediatric Case Report.
 Pediatric Bullous Impetigo: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.99351
 Severe staphylococcal scalded skin syndrome.|https://dx.doi.org/10.1016/j.idcr.2026.e02488
 Detection of Panton-Valentine leukocidin-positive strains of Staphylococcus aureus from pneumonia patients in the Czech Republic in 2022-2024.|https://dx.doi.org/10.61568/emi/11-6600/20251001/141815
+Evaluation of lawsone as a potential inhibitor of Staphylococcus aureus efflux pump mediated drugs resistance: An in-vitro and in-silico study.|https://dx.doi.org/10.1016/j.compbiolchem.2026.108922
+Septic Arthritis Secondary to Acupuncture in an Immunocompromised Patient With Multiple Comorbid Conditions.|https://dx.doi.org/10.12659/AJCR.948392

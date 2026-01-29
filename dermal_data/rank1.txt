@@ -6,3 +6,5 @@ Near-infrared light-driven photocatalytic reactive oxygen species-generating ant
 Comparative Study of Swab Culture and Tissue Biopsy in Burn Wound Sepsis: A Tertiary Centre Experience.|https://dx.doi.org/10.7759/cureus.99588
 Reduced Duration of Isolation and Impact on Rates of Healthcare-Associated Multidrug-Resistant Organisms in a Pediatric Medical Center.|https://dx.doi.org/10.1016/j.ajic.2026.01.009
 A single-component photo-crosslinked chitosan hydrogel with inherent antimicrobial and antioxidant capabilities for wound healing.|https://dx.doi.org/10.1039/d5tb02457a
+Advancements in Functional Dressings and a Case for Cotton Fiber Technology: Protease Modulation, Hydrogen Peroxide Generation, and ESKAPE Pathogen Antibacterial Activity.|https://dx.doi.org/10.3390/ijms27020610
+Dual Modulation of Infection and Skin Recovery by Lamiaceae Hydrolate Hydrogels in S. aureus-Infected Burns.|https://dx.doi.org/10.3390/antibiotics15010020

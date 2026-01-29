@@ -26,3 +26,11 @@ The role of holistic assessment, multidisciplinary diagnosis and treatment, and 
 Pharmacovigilance analysis of the association between SGLT-2 inhibitors and diabetic foot infections using the FAERS database: An observational study.|https://dx.doi.org/10.1016/j.diabres.2026.113109
 Plain Radiography for Diagnosing and Monitoring Foot Osteomyelitis in Persons With Diabetes: Accuracy, Limitations and Clinical Utility.|https://dx.doi.org/10.1111/wrr.70128
 Solving the diagnostic dilemma in bone infections: metagenomic next generation sequencing enhances pathogen identification accuracy.|https://dx.doi.org/10.3389/fmed.2025.1699607
+The Wound Microbiome in Chronic Wounds: A Biomarker and Therapeutic Target.|https://dx.doi.org/10.1093/jambio/lxag025
+Cerium oxide nanoparticles for enhanced healing of diabetic foot ulcers.|https://dx.doi.org/10.3389/fbioe.2025.1695821
+Comparing the Diagnostic Accuracy of the Probe-to-Bone Test, Plain Radiography, and Serum Biomarkers in Detecting Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.3390/jcm15020500
+Skin and soft tissue infections: swab or biopsy? A diagnostic dilemma.|https://dx.doi.org/10.1097/QCO.0000000000001185
+Outcomes of Internal, External, and Hybrid Fixation in Hindfoot Charcot Neuroarthropathy: A Descriptive Systematic Review and Single-Arm Meta-analysis of Observational Studies.|https://dx.doi.org/10.1177/10711007251405229
+Cyclic Peptides in Wound Hydrogels: Current Advances and Future Directions.|https://dx.doi.org/10.2174/0115701638416002251126071556
+Evaluating chronic bone and soft tissue infections with [(68)Ga]Ga-Pentixafor PET/CT: a head-to-head comparison with scintigraphy.|https://dx.doi.org/10.1007/s00259-025-07749-3
+Risk factors and clinical implications of thyroxine replacement therapy on major adverse cardiovascular events in type 2 diabetes: a retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2025.1721865

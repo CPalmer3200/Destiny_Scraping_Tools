@@ -16,3 +16,4 @@ Epithelial-Dermal Inflammasome Crosstalk in Cutaneous Squamous Cell Carcinoma.|h
 Reprogramming immunity at the metabolic-epidermal interface in obesity-associated psoriasis.|https://dx.doi.org/10.1016/j.cytogfr.2026.01.003
 Leprosy.|https://dx.doi.org/10.1016/S0140-6736(25)01963-4
 Antioxidant and antibacterial effects of human plasma-based scavenging protein cocktail on burn wound healing in vitro.|https://dx.doi.org/10.1016/j.bbrc.2026.153269
+Discovery of an Adaptive Neuroimmune Response Driving Itch and Fast Tick Removal with Implications for Preventing Pathogen Transmission.|https://dx.doi.org/10.1002/advs.202517742
