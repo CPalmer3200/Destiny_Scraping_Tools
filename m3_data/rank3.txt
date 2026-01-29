@@ -4,3 +4,5 @@ Antimicrobial resistance in the Bacteroides fragilis group: national multicenter
 Clostridioides difficile infection: Position paper of the Catalan Society of Gastroenterology.|https://dx.doi.org/10.1016/j.gastrohep.2025.502634
 Pediatric Infectious Diseases Physicians' Preferences for Management of Clostridioides difficile Infection: An Emerging Infections Network (EIN) Survey.|https://dx.doi.org/10.1093/jpids/piag004
 Effect of Early Versus Late Catheter-Directed Intervention on Clinical Outcomes in Acute Pulmonary Embolism: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1002/pul2.70238
+Australian Gonococcal Surveillance Program, 1 April to 30 June 2025.|https://dx.doi.org/10.33321/cdi.2026.50.005
+Advancing Health Equity Through Telepharmacy Antimicrobial Stewardship in Rural Communities in the United States.|https://dx.doi.org/10.7759/cureus.100020
