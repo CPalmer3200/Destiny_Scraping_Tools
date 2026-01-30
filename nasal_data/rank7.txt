@@ -10,3 +10,11 @@ Multitarget Mechanisms of (‒)‒Epigallocatechin-3-Gallate Against MRSA: From 
 Treating Extensively Drug-Resistant Acinetobacter baumannii: Considerations for Host Characteristics and Type of Infections.|https://dx.doi.org/10.3390/pathogens15010081
 Scalp Microbiome Composition in Young Women: Associations with Scalp Type, Sensitivity, and Lifestyle Factors.|https://dx.doi.org/10.3390/life16010091
 Prevalence, Antimicrobial Resistance, and Molecular Characteristics of MRSA in Saudi Arabia: A Retrospective Study.|https://dx.doi.org/10.3390/microorganisms14010227
+Novel Therapeutic Strategies for Atopic Dermatitis: Biomarker Modulation and Clinical Implications. A Systematic Review.|https://dx.doi.org/10.1007/s12016-025-09129-z
+Impact of a Clinical Standard Work Pathway on Management and Outcomes of Pediatric Parapneumonic Effusion and Empyema.|https://dx.doi.org/10.1002/ppul.71488
+Multiloculated Prostatic Abscess Complicated by Obstructive Hydronephrosis and Epididymo-Orchitis in an Undiagnosed Diabetic Patient: A Case Report.|https://dx.doi.org/10.7759/cureus.100256
+Successful One-Stage Revision With Continuous Local Antibiotic Perfusion (CLAP) for Delayed Periprosthetic Joint Infection After Reverse Shoulder Arthroplasty: A Case Report.|https://dx.doi.org/10.7759/cureus.100273
+Comparative evaluation of the antibacterial effect of ultraviolet radiation on alginate and condensation silicone impressions compared to hypochlorite.|https://dx.doi.org/10.4103/drj.drj_530_25
+Dual-antibiotic bone cement (gentamicin + vancomycin) in preventing and treating infections during revision knee arthroplasty in high-risk patients.|https://dx.doi.org/10.1002/jeo2.70638
+Long-term moxifloxacin release from a chitosan-based antibacterial coating on polyethylene for biomedical applications.|https://dx.doi.org/10.1039/d5ra09320a
+The Complexation Properties of Self-Defensive Microgel-Modified Antimicrobial Surfaces.|https://dx.doi.org/10.1021/acsabm.5c02096
