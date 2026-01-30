@@ -16,3 +16,5 @@ Burden of Clostridioides difficile Infection and Risk Factors for Recurrences in
 Australian Paediatric Surveillance Unit (APSU) Annual Surveillance Report 2024.|https://dx.doi.org/10.33321/cdi.2026.50.007
 Outcomes of Medial Patellofemoral Ligament Reconstruction With Concomitant Tibial Tubercle Osteotomy for Failed Surgery for Patellar Instability Versus Primary Medial Patellofemoral Ligament Reconstruction With Concomitant Tibial Tubercle Osteotomy.|https://dx.doi.org/10.1177/03635465251409151
 Long-Term Follow-Up After Fecal Microbiota Transplantation via Freeze-Dried Capsules for Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.20411/pai.v11i1.868
+Recurrent severe viral infection in a child with inherited complete TBK1 deficiency.|https://dx.doi.org/10.70962/jhi.20250058
+Science of fecal microbiota transplant: From history to cutting-edge clinical practice.|https://dx.doi.org/10.4253/wjge.v18.i1.113133
