@@ -8,3 +8,4 @@ Reduced Duration of Isolation and Impact on Rates of Healthcare-Associated Multi
 A single-component photo-crosslinked chitosan hydrogel with inherent antimicrobial and antioxidant capabilities for wound healing.|https://dx.doi.org/10.1039/d5tb02457a
 Advancements in Functional Dressings and a Case for Cotton Fiber Technology: Protease Modulation, Hydrogen Peroxide Generation, and ESKAPE Pathogen Antibacterial Activity.|https://dx.doi.org/10.3390/ijms27020610
 Dual Modulation of Infection and Skin Recovery by Lamiaceae Hydrolate Hydrogels in S. aureus-Infected Burns.|https://dx.doi.org/10.3390/antibiotics15010020
+Strategy to the scaffold effect of polyester-cotton fabrics: A fully encapsulated chitosan-based flame-retardant coating with integrated antibacterial and recyclable properties.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150573

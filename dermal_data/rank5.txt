@@ -21,3 +21,5 @@ Antimicrobial Functionalized Mesoporous Silica FDU-12 Loaded with Bacitracin.|ht
 Occurrence of Citrobacter spp.-Associated and Non-Associated Lesions in a Stranded Loggerhead Sea Turtle (Caretta caretta) from Italy.|https://dx.doi.org/10.3390/pathogens15010056
 Cathelicidin-like Peptide for Resistant Acinetobacter baumannii Control.|https://dx.doi.org/10.3390/antibiotics15010077
 Nitric Oxide-Releasing Gels in the Context of Antimicrobial Stewardship, Biofilm Management, and Wound-Repair Biology.|https://dx.doi.org/10.3390/antibiotics15010054
+Antibacterial and Antibiofilm Activities of Hazelnut By-Product Extract.|https://dx.doi.org/10.1093/jambio/lxag032
+Enhancing food system protection: synergistic action of engineered endolysin LYSMP and berberine hydrochloride against Streptococcus suis on pork.|https://dx.doi.org/10.1016/j.foodres.2025.117214

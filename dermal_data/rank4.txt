@@ -48,3 +48,6 @@ Cell Adhesion and Cytotoxicity Assessment of Collagen-Coated Electrospun PCL Mem
 Bacterial Nanocellulose Functionalized with Graphite and Niobium Pentoxide: Limited Antimicrobial Effects and Preserved Cytocompatibility.|https://dx.doi.org/10.3390/membranes16010016
 Biomedical Interpenetrated Hydrogels Fabricated via Quaternary Ammonium Chitosan and Dopamine-Conjugated Gelatin Integrated with Genipin and Epigallocatechin Gallate.|https://dx.doi.org/10.3390/gels12010067
 Development of Human Serum Albumin-Based Hydrogels for Potential Use as Wound Dressings.|https://dx.doi.org/10.3390/gels12010064
+Plasticization of an Ageratum Conyzoides Natural Extract in Crosslinked Hydrogel: a Promising Material for Combating Wound Infection.|https://dx.doi.org/10.1007/s12010-026-05594-0
+A hierarchical bilayer sponge dressing based on QCMCS@GO/PLA for synergistic wound healing via hemostasis and anti-adhesion.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150565
+The Complexation Properties of Self-Defensive Microgel-Modified Antimicrobial Surfaces.|https://dx.doi.org/10.1021/acsabm.5c02096

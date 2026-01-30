@@ -2,3 +2,4 @@ Atopic Dermatitis-like mouse model using early inoculation of patient-derived S.
 Staphylococcus aureus in Atopic Dermatitis: How a common bacterium exploits and drives disease.|https://dx.doi.org/10.1016/j.jaci.2025.12.1009
 Preventive effect of bentonite against pyoderma via direct binding capability of staphylococci.|https://dx.doi.org/10.1371/journal.pone.0341148
 Impact of Isosorbide Diesters from Coconut and Sunflower Fatty Acids on Pediatric Atopic Dermatitis and the Skin Microbiome: A Randomized, Double-Blind, Vehicle-Controlled Trial.|https://dx.doi.org/10.3390/jcm15020829
+Novel Therapeutic Strategies for Atopic Dermatitis: Biomarker Modulation and Clinical Implications. A Systematic Review.|https://dx.doi.org/10.1007/s12016-025-09129-z
