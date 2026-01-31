@@ -18,3 +18,10 @@ Comparative evaluation of the antibacterial effect of ultraviolet radiation on a
 Dual-antibiotic bone cement (gentamicin + vancomycin) in preventing and treating infections during revision knee arthroplasty in high-risk patients.|https://dx.doi.org/10.1002/jeo2.70638
 Long-term moxifloxacin release from a chitosan-based antibacterial coating on polyethylene for biomedical applications.|https://dx.doi.org/10.1039/d5ra09320a
 The Complexation Properties of Self-Defensive Microgel-Modified Antimicrobial Surfaces.|https://dx.doi.org/10.1021/acsabm.5c02096
+Hospital-Onset Bacteremia and Fungemia in a Regional Burn Intensive Care Unit.|https://dx.doi.org/10.1016/j.ajic.2026.01.022
+Polydopamine-assisted Cd/Cu dual-ions immobilization on titanium surface for the application of antibacterial surgical instruments.|https://dx.doi.org/10.1088/1748-605X/ae3ffb
+Enterococcal pyomyositis in a rheumatoid arthritis patient under biologic therapy.|https://dx.doi.org/10.1007/s00393-026-01784-7
+Antimicrobial effect of biological surgical mesh added with vancomycin or silver nanoparticles for multidrug-resistant bacteria: experimental study in rats.|https://dx.doi.org/10.1590/0100-6991e-20253835-en
+Canine parvovirus type 2 (CPV-2) and bacterial coinfections in dogs: phenotypic and genotypic resistance profiles in northern Kazakhstan.|https://dx.doi.org/10.3389/fvets.2025.1736817
+Understanding the burden and impact of methicillin-resistant Staphylococcus aureus: exploring therapeutic options and hospital prevention strategies to improve patient outcome at the University Teaching Hospital of Kigali, Rwanda.|https://dx.doi.org/10.3389/fpubh.2025.1718336
+[Efficacy of (18)F-fluorodeoxyglucose positron emission tomography/computed tomography-assisted navigation system in the debridement of chronic osteomyelitis of the extremities].|https://dx.doi.org/10.3760/cma.j.cn112137-20250622-01523

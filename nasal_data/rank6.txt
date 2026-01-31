@@ -4,3 +4,5 @@ Taming Superbugs: Current Progress and Challenges in Combating ESKAPE Pathogens.
 Genome-Based Evaluation of Safety and Probiotic Traits in Infant Feces-Sourced Bifidobacterium animalis subsp. lactis BD1.|https://dx.doi.org/10.3390/foods15020316
 Novel tRNA Synthetase Inhibitors Increase Healthspan, Lifespan, and Autophagic Flux in C. elegans.|https://dx.doi.org/10.3390/biom16010073
 Nitric Oxide-Releasing Gels in the Context of Antimicrobial Stewardship, Biofilm Management, and Wound-Repair Biology.|https://dx.doi.org/10.3390/antibiotics15010054
+Single-dose mSEB-mi3 nanoparticle vaccine elicits robust humoral immunity and protects mice against SEB intoxication and MRSA infection.|https://dx.doi.org/10.1016/j.vaccine.2026.128245
+An integrated subtractive genomics and immunoinformatic approach for designing a multi-epitope peptide vaccine against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fbinf.2025.1745495

@@ -10,3 +10,9 @@ Development and Pilot in Vivo Testing of a Protocol for PLGA-Vancomycin Coatings
 The Impact of Age on Outcomes Following Reduction Mammaplasty.|https://dx.doi.org/10.1097/SAP.0000000000004672
 Laminar Airflow in Penile Prosthesis Surgery and Infection: An Empty Systematic Review.|https://dx.doi.org/10.7759/cureus.99910
 Reduction of seroma by pectoralis fascia dissection using an energy device in total mastectomy for breast cancer: An observational study.|https://dx.doi.org/10.3892/mco.2026.2923
+Reducing Infection in Drainless Tissue Expander-Based Breast Reconstruction With Local Antibiotic Delivery.|https://dx.doi.org/10.1097/SAP.0000000000004642
+Postmastectomy Breast Reconstruction Following Massive Weight Loss: An Updated Systematic Review and Identification of Research Gaps.|https://dx.doi.org/10.1002/micr.70185
+The Impact of Overseas Cosmetic Tourism on the Australian Public Hospital System.|https://dx.doi.org/10.1111/ans.70513
+Investigation on the antitumor and antibacterial performance of photothermally active molybdenum oxide materials.|https://dx.doi.org/10.1016/j.xphs.2026.104176
+Explainable AI modeling of postoperative surgical site infection risk in autologous breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2025.12.029
+Aesthetic outcomes and surgical complications of acellular dermal matrix in immediate direct-to-implant breast reconstruction: A meta-analysis of comparative studies.|https://dx.doi.org/10.1016/j.bjps.2025.12.040
