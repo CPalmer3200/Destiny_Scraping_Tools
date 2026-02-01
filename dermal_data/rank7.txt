@@ -18,3 +18,4 @@ Leprosy.|https://dx.doi.org/10.1016/S0140-6736(25)01963-4
 Antioxidant and antibacterial effects of human plasma-based scavenging protein cocktail on burn wound healing in vitro.|https://dx.doi.org/10.1016/j.bbrc.2026.153269
 Discovery of an Adaptive Neuroimmune Response Driving Itch and Fast Tick Removal with Implications for Preventing Pathogen Transmission.|https://dx.doi.org/10.1002/advs.202517742
 Marine-derived Streptomyces sp. isolated from the Persian Gulf as a novel source of melanin.|https://dx.doi.org/10.1016/j.jbiotec.2026.01.005
+Fc-enhanced anti-CCR6 antibody elicits robust therapeutic effects across multiple autoimmune diseases.|https://dx.doi.org/10.3389/fimmu.2025.1728419

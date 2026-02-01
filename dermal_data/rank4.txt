@@ -51,3 +51,10 @@ Development of Human Serum Albumin-Based Hydrogels for Potential Use as Wound Dr
 Plasticization of an Ageratum Conyzoides Natural Extract in Crosslinked Hydrogel: a Promising Material for Combating Wound Infection.|https://dx.doi.org/10.1007/s12010-026-05594-0
 A hierarchical bilayer sponge dressing based on QCMCS@GO/PLA for synergistic wound healing via hemostasis and anti-adhesion.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150565
 The Complexation Properties of Self-Defensive Microgel-Modified Antimicrobial Surfaces.|https://dx.doi.org/10.1021/acsabm.5c02096
+Self-healing quaternized chitosan-phenylboronic hydrogel with ceria nanozymes and stem-cell exosomes simultaneously eradicates MRSA biofilm and regenerates diabetic wounds.|https://dx.doi.org/10.1016/j.carbpol.2025.124882
+Synergistic promotion of diabetic wound healing by glucose-responsive functional chitosan-based composite nanohydrogels.|https://dx.doi.org/10.1016/j.carbpol.2025.124835
+Composite cellulose-PEDOT:PSS conducting hydrogels destroy bacterial Cell wall structure for prevention of wound infection.|https://dx.doi.org/10.1016/j.carbpol.2025.124866
+Exploring the multifunctional potential of tannic acid-crosslinked Wharton's jelly hydrogel as a scaffold for bone regenerative medicine.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150500
+Hyaluronic acid-based hydrogel loaded with berberine hydrochloride promotes MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.talanta.2026.129406
+A multifunctional biomass-derived three-dimensional solar evaporator constructed from wasted herbal medical slag for efficient steam generation and water purification.|https://dx.doi.org/10.1016/j.jcis.2026.139994
+Aldehyde-mediated carboxymethylcellulose/gelatin-based injectable dual network hydrogel with antimicrobial and adhesion properties for rapid hemostasis and wound repair.|https://dx.doi.org/10.1016/j.carbpol.2025.124817

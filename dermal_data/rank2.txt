@@ -38,3 +38,5 @@ Risk factors and clinical implications of thyroxine replacement therapy on major
 Photocrosslinkable Chitosan Quaternary Ammonium Salt-Based Ternary Hydrogel with Fibroblast Growth Factor 21 for Diabetic Wound Healing.|https://dx.doi.org/10.34133/bmr.0309
 AIEgen-Based Photothermal Nanoparticles With Dual Antibacterial and Anti-Inflammatory Activities for Enhanced Healing of Infected Diabetic Wounds.|https://dx.doi.org/10.1002/smll.202510741
 Complicated foot ulcers and high treatment costs in rural type 2 diabetic patients in vietnam: impact of infections on hospital stays.|https://dx.doi.org/10.1186/s12962-026-00722-3
+Isolation and characterisation of a novel Stenotrophomonas maltophilia phage vB_SmaS_BCU-1 with evaluation of mammalian cell safety.|https://dx.doi.org/10.1007/s10096-025-05395-z
+Emerging Trimethoprim-Sulfamethoxazole Resistance Among Pathogens Isolated From Diabetic Foot Ulcers: A Case Emphasizing Early Culture-Guided Therapy.|https://dx.doi.org/10.7759/cureus.100346
