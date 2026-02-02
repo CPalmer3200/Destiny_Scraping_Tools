@@ -6,3 +6,4 @@ Novel tRNA Synthetase Inhibitors Increase Healthspan, Lifespan, and Autophagic F
 Nitric Oxide-Releasing Gels in the Context of Antimicrobial Stewardship, Biofilm Management, and Wound-Repair Biology.|https://dx.doi.org/10.3390/antibiotics15010054
 Single-dose mSEB-mi3 nanoparticle vaccine elicits robust humoral immunity and protects mice against SEB intoxication and MRSA infection.|https://dx.doi.org/10.1016/j.vaccine.2026.128245
 An integrated subtractive genomics and immunoinformatic approach for designing a multi-epitope peptide vaccine against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fbinf.2025.1745495
+Innate immune priming by n-dodecyl-β-D-maltoside in murine models of bacterial and viral infection.|https://dx.doi.org/10.1016/j.ebiom.2026.106143

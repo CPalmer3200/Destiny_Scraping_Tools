@@ -16,3 +16,5 @@ The Impact of Overseas Cosmetic Tourism on the Australian Public Hospital System
 Investigation on the antitumor and antibacterial performance of photothermally active molybdenum oxide materials.|https://dx.doi.org/10.1016/j.xphs.2026.104176
 Explainable AI modeling of postoperative surgical site infection risk in autologous breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2025.12.029
 Aesthetic outcomes and surgical complications of acellular dermal matrix in immediate direct-to-implant breast reconstruction: A meta-analysis of comparative studies.|https://dx.doi.org/10.1016/j.bjps.2025.12.040
+Mortality after an infected total knee arthroplasty : a meta-analysis.|https://dx.doi.org/10.1302/0301-620X.108B2.BJJ-2025-0106.R1
+Efficacy of Stromal Vascular Fraction for Scar Prevention: A Multicenter, Double-Blinded, Randomized Controlled Trial.|https://dx.doi.org/10.1093/asj/sjag018
