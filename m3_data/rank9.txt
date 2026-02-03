@@ -7,3 +7,4 @@ High-fat diet rewires gut host-microbiota relationship to derive worse outcomes 
 Severe vitamin K deficiency-associated coagulopathy triggered by Clostridioides difficile infection and antibiotic-associated dysbiosis: A case report and literature review.|https://dx.doi.org/10.1007/s15010-026-02735-9
 Cefazolin and the R1 Side Chain: Why Patients with a Cephalosporin Allergy Can Be Safely Given Cefazolin While Undergoing Joint Arthroplasty.|https://dx.doi.org/10.2106/JBJS.25.01349
 Clostridioides difficile infection in animals: a literature review.|https://dx.doi.org/10.1016/j.anaerobe.2026.103028
+Understanding the bacteriome, phageome and phage-associated bacteriome in healthy Vietnamese children under two years of age.|https://dx.doi.org/10.1007/s00203-026-04730-y

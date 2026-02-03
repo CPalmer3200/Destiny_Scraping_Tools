@@ -22,3 +22,4 @@ Bezlotoxumab for prevention of Clostridioides difficile recurrence in patients w
 Clinical and Pharmacoeconomic evaluation of Fidaxomicin in patients over 65 years of age and immunocompromised patients with recurrent and refractory Clostridioides difficile infection.|https://dx.doi.org/10.1186/s12879-026-12611-4
 Fecal microbiota transplantation in compassionate indications: French experience from 2019 to 2022.|https://dx.doi.org/10.1016/j.idnow.2026.105247
 Clostridioides difficile colonization of Twin Patients Recovering From Infant Botulism.|https://dx.doi.org/10.1016/j.anaerobe.2026.103022
+Persistent fever: Anti-KS syndrome overlaps with multidrug-resistant infections (MDRO) in a cervical spinal cord injury (CSCI) patient.|https://dx.doi.org/10.1016/j.rmcr.2026.102369

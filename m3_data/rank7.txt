@@ -2,3 +2,4 @@ Development and application of artificial intelligence in traditional Chinese me
 The Dream and MEC NuRD complexes reinforce SPR-5/MET-2 maternal reprogramming to maintain the germline-soma distinction.|https://dx.doi.org/10.1093/genetics/iyag008
 Multi-Crystal X-Ray Diffraction (MCXRD) Bridges the Crystallographic Characterisation Gap in Chemistry and Materials Science: Application to MOFs.|https://dx.doi.org/10.1002/anie.202523233
 A randomized, double-blind, placebo-controlled study to evaluate the safety, pharmacokinetics and ammonia-lowering effect of Rifaquizinone, an intestinally restricted investigational drug.|https://dx.doi.org/10.1080/13543784.2026.2619604
+Beta-lactamases in anaerobic, intestinal bacteria: a narrative review.|https://dx.doi.org/10.1016/j.anaerobe.2026.103024
