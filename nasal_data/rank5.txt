@@ -18,3 +18,7 @@ Explainable AI modeling of postoperative surgical site infection risk in autolog
 Aesthetic outcomes and surgical complications of acellular dermal matrix in immediate direct-to-implant breast reconstruction: A meta-analysis of comparative studies.|https://dx.doi.org/10.1016/j.bjps.2025.12.040
 Mortality after an infected total knee arthroplasty : a meta-analysis.|https://dx.doi.org/10.1302/0301-620X.108B2.BJJ-2025-0106.R1
 Efficacy of Stromal Vascular Fraction for Scar Prevention: A Multicenter, Double-Blinded, Randomized Controlled Trial.|https://dx.doi.org/10.1093/asj/sjag018
+Clinical Outcomes of Ovine-Reinforced Hybrid Mesh (OviTex) in Alloplastic Breast Reconstruction.|https://dx.doi.org/10.1097/SAP.0000000000004624
+Corynebacterium Infection Following Implant-based Breast Reconstruction: Lessons from the Five Consecutive Patients.|https://dx.doi.org/10.1055/a-2734-7103
+Personal Strategies for DIEP Flap Breast Reconstruction in Patients with Prior Abdominal Surgery and Hernia Repairs.|https://dx.doi.org/10.1055/a-2710-4367
+The Impact of the COVID-19 Pandemic on Patients with Breast Cancer, Diagnostic Delays and Disease Progression: A Retrospective Study.|https://dx.doi.org/10.30476/ijms.2025.105608.3951
