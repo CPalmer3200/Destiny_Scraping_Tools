@@ -35,3 +35,6 @@ Liquiritigenin-loaded poly (acrylic acid)-carboxymethyl cellulose hydrogels: for
 Effectiveness of antiseptics in the bacterial load reduction after septic wound dressing at Bugando Medical Centre, Mwanza, Tanzania.|https://dx.doi.org/10.11604/pamj.2025.52.108.41462
 Bronchial stenosis after lung transplant: Risk factors and clinical outcomes.|https://dx.doi.org/10.1016/j.jhlto.2025.100392
 Manganese dioxide- and cobalt oxide-doped hydroxyapatite with curcumin for orthopedic and dental applications.|https://dx.doi.org/10.1557/s43578-025-01575-x
+Supramolecularly co-assembled composite bone cement prepared from tea polyphenol-modified tricalcium phosphate/tricalcium silicate with osteogenic, antibacterial, and immunomodulatory effects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115483
+Neutrophil progenitor cell therapy rescues host defense against Staphylococcus aureus in murine chronic granulomatous disease.|https://dx.doi.org/10.1093/jleuko/qiag020
+Nasopharyngeal MRSA Carriage and Risk of PEG-Related Infection: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1159/000550720
