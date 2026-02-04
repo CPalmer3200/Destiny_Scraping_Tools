@@ -8,3 +8,4 @@ Severe vitamin K deficiency-associated coagulopathy triggered by Clostridioides 
 Cefazolin and the R1 Side Chain: Why Patients with a Cephalosporin Allergy Can Be Safely Given Cefazolin While Undergoing Joint Arthroplasty.|https://dx.doi.org/10.2106/JBJS.25.01349
 Clostridioides difficile infection in animals: a literature review.|https://dx.doi.org/10.1016/j.anaerobe.2026.103028
 Understanding the bacteriome, phageome and phage-associated bacteriome in healthy Vietnamese children under two years of age.|https://dx.doi.org/10.1007/s00203-026-04730-y
+One-year epidemiological analysis of nosocomial infections and antimicrobial resistance in a Hungarian intensive care unit.|https://dx.doi.org/10.1016/j.infpip.2025.100505
