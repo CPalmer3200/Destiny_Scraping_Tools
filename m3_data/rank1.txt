@@ -23,3 +23,5 @@ Clinical and Pharmacoeconomic evaluation of Fidaxomicin in patients over 65 year
 Fecal microbiota transplantation in compassionate indications: French experience from 2019 to 2022.|https://dx.doi.org/10.1016/j.idnow.2026.105247
 Clostridioides difficile colonization of Twin Patients Recovering From Infant Botulism.|https://dx.doi.org/10.1016/j.anaerobe.2026.103022
 Persistent fever: Anti-KS syndrome overlaps with multidrug-resistant infections (MDRO) in a cervical spinal cord injury (CSCI) patient.|https://dx.doi.org/10.1016/j.rmcr.2026.102369
+Modulation of Clostridioides difficile virulence by metabolites derived from probiotic consortia and genetically edited strains.|https://dx.doi.org/10.1016/j.biotechadv.2026.108818
+Analysis of gut microbiota in super donors for fecal microbiota transplantation and isolated gut commensal bacteria of inhibition against Clostridioides difficile.|https://dx.doi.org/10.5217/ir.2025.00179

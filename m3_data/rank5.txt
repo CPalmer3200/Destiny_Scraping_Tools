@@ -4,3 +4,5 @@ Peritoneal dialysis associated peritonitis and Clostridioides difficile infectio
 Vancomycin resistance in gram-positive infections: evolutionary strategies of survival.|https://dx.doi.org/10.1007/s00203-025-04698-1
 Education and electronic health record implementation-better together? An assessment of compliance of oral vancomycin dosing for Clostridioides difficile infection and the impact of different antimicrobial stewardship interventions.|https://dx.doi.org/10.1017/ash.2025.10272
 Ursodeoxycholic acid inhibits biofilm formation and bacterial adhesion of Clostridioides difficile.|https://dx.doi.org/10.1016/j.anaerobe.2026.103023
+Clonal relatedness and emerging linezolid resistance in Clostridioides difficile ribotypes 001 and 176 in the Czech Republic.|https://dx.doi.org/10.1016/j.ijid.2026.108444
+CONCURRENT CLOSTRIDIUM DIFFICILE COLITIS AND CYTOMEGALOVIRUS INFECTION AS A CAUSE OF PERSISTENT DIARRHEA AFTER AUTOLOGOUS HEMATOPOIETIC STEM CELL TRANSPLANTATION FOR NON-HODGKIN LYMPHOMA FOLLOWING BENDAMUSTINE-BASED CONDITIONING.|https://dx.doi.org/10.20471/acc.2025.64.02.23
