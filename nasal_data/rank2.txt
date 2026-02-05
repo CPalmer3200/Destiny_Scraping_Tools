@@ -4,3 +4,6 @@ Comparison of a Single-Shot Antibiotic Protocol Compared to a Conventional 5-Day
 Nasal Septal Abscess Causing Near-Fatal Toxic Shock Syndrome With Multiorgan Dysfunction: A Case Report.|https://dx.doi.org/10.7759/cureus.99885
 Can microbial profiles influence type II inflammation in chronic rhinosinusitis with nasal polyps?|https://dx.doi.org/10.1016/j.amjoto.2026.104786
 Role of scratches and mat hygiene in wrestling-associated skin infections.|https://dx.doi.org/10.1016/j.jdin.2025.11.030
+Microbial influences on chronic rhinosinusitis.|https://dx.doi.org/10.1016/j.jaci.2026.01.019
+Methicillin-resistant Staphylococcus aureus nasal swabs predict need for antibiotic coverage in a trauma population.|https://dx.doi.org/10.1097/TA.0000000000004839
+The spectrum of nasal colonization: frequency and resistant patterns in diabetes versus non-diabetes population.|https://dx.doi.org/10.1186/s12866-026-04751-z

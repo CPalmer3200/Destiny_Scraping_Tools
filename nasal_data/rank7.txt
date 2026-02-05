@@ -38,3 +38,5 @@ Manganese dioxide- and cobalt oxide-doped hydroxyapatite with curcumin for ortho
 Supramolecularly co-assembled composite bone cement prepared from tea polyphenol-modified tricalcium phosphate/tricalcium silicate with osteogenic, antibacterial, and immunomodulatory effects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115483
 Neutrophil progenitor cell therapy rescues host defense against Staphylococcus aureus in murine chronic granulomatous disease.|https://dx.doi.org/10.1093/jleuko/qiag020
 Nasopharyngeal MRSA Carriage and Risk of PEG-Related Infection: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1159/000550720
+Severe methicillin-resistant Staphylococcus aureus (MRSA) sepsis with hematogenous pulmonary abscesses and humeral osteomyelitis in a previously healthy child: a case report.|https://dx.doi.org/10.1186/s12879-026-12757-1
+Management and outcome of whole-spine epidural abscesses - institutional case series and systematic review.|https://dx.doi.org/10.1016/j.bas.2025.104297
