@@ -6,3 +6,6 @@ Effectiveness of antiseptics in the bacterial load reduction after septic wound 
 Prevention of Staphylococcus aureus biofilm formation on catheters, contact lenses, and contact lens cases by a synthetic analogue of the antimicrobial lipopeptide humimycin.|https://dx.doi.org/10.1080/08927014.2026.2621190
 Cartilage-mimetic hydrogels with multifunctions from grape seed protein and chitosan.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150577
 Nanosheet-reinforced smart polysaccharide hydrogels for MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150583
+Chitosan/silver nanoparticles confined within halloysite nanotube composite sponge for synergistic antibacterial and photothermal therapy of infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150697
+Accelerating the healing of infected full thickness excision wounds through the topical use of Pluronic F127 copolymer and Polyglutamic acid.|https://dx.doi.org/10.1016/j.injury.2026.113028
+Ion-Tolerant, Injectable, and Biocompatible Pyrene-Amino Acid Supramolecular Hydrogels for Antimicrobial Applications in Saline Media.|https://dx.doi.org/10.1002/asia.70608
