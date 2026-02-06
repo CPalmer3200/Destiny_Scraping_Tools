@@ -8,3 +8,6 @@ Retrospective study on the distribution of pathogens, antibiotic resistance patt
 Serum adiponectin and soluble intercellular adhesion molecule-1 in patients with diabetic foot ulcers: a retrospective cohort study on the evaluation of disease severity and prognosis.|https://dx.doi.org/10.1186/s12902-026-02186-1
 Development and characterization of metformin hydrochloride hydrogels as potential wound dressings for diabetic foot ulcers.|https://dx.doi.org/10.1016/j.ijpharm.2026.126638
 Epidemiology, pathophysiology, and management of diabetic foot: A comprehensive review.|https://dx.doi.org/10.1016/j.foot.2026.102225
+Integrating Regenerative Therapies and Artificial Intelligence for Precision Management of Diabetic Foot Ulcers.|https://dx.doi.org/10.1177/21621918261422388
+Fusarium keratoplasticum infection in diabetic foot ulcers following antimicrobial therapy.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117302
+Role of a topical hydrogel (Dermatix(®) wound care gel) in acute and chronic wound management: a case series of real-world experiences and expert opinion from Asia.|https://dx.doi.org/10.7573/dic.2025-8-3
