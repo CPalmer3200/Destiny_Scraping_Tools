@@ -40,3 +40,9 @@ Neutrophil progenitor cell therapy rescues host defense against Staphylococcus a
 Nasopharyngeal MRSA Carriage and Risk of PEG-Related Infection: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1159/000550720
 Severe methicillin-resistant Staphylococcus aureus (MRSA) sepsis with hematogenous pulmonary abscesses and humeral osteomyelitis in a previously healthy child: a case report.|https://dx.doi.org/10.1186/s12879-026-12757-1
 Management and outcome of whole-spine epidural abscesses - institutional case series and systematic review.|https://dx.doi.org/10.1016/j.bas.2025.104297
+Therapy-Dependent Modulation of Staphylococcus aureus Colonization in Atopic Dermatitis: Insights from Anti-IL-4/IL-13 and JAK Inhibition.|https://dx.doi.org/10.1016/j.jaad.2026.01.074
+Improving perioperative prophylactic antibiotic prescribing using a novel decision-support tool.|https://dx.doi.org/10.1093/jac/dkag015
+Defining Safe and Effective Cefazolin Dosing Regimens for MSSA Infections in the CNS: Leveraging Sparse Real-World Data and PBPK Modeling.|https://dx.doi.org/10.1007/s13318-025-00981-0
+Candida albicans promotes TSST-1 production by Staphylococcus aureus through glucose depletion and relief of CcpA-mediated repression.|https://dx.doi.org/10.1128/jb.00427-25
+From Idiopathic Pericardial Hemorrhage to Mycotic Aortic Aneurysm: A Case Report.|https://dx.doi.org/10.7759/cureus.100751
+Antimicrobial susceptibility pattern of pathogens isolated from surgical wound infections in tertiary care hospitals of Pakistan.|https://dx.doi.org/10.4314/ahs.v25i1.2
