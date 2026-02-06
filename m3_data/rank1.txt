@@ -25,3 +25,5 @@ Clostridioides difficile colonization of Twin Patients Recovering From Infant Bo
 Persistent fever: Anti-KS syndrome overlaps with multidrug-resistant infections (MDRO) in a cervical spinal cord injury (CSCI) patient.|https://dx.doi.org/10.1016/j.rmcr.2026.102369
 Modulation of Clostridioides difficile virulence by metabolites derived from probiotic consortia and genetically edited strains.|https://dx.doi.org/10.1016/j.biotechadv.2026.108818
 Analysis of gut microbiota in super donors for fecal microbiota transplantation and isolated gut commensal bacteria of inhibition against Clostridioides difficile.|https://dx.doi.org/10.5217/ir.2025.00179
+Evaluation of the antibacterial activity of the natural product α-mangostin against Clostridioides difficile.|https://dx.doi.org/10.1371/journal.pone.0341857
+Clostridioides difficile infection in pediatric inflammatory bowel disease: current understanding and clinical challenges.|https://dx.doi.org/10.3389/fped.2025.1753289
