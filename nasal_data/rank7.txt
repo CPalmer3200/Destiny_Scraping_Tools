@@ -46,3 +46,9 @@ Defining Safe and Effective Cefazolin Dosing Regimens for MSSA Infections in the
 Candida albicans promotes TSST-1 production by Staphylococcus aureus through glucose depletion and relief of CcpA-mediated repression.|https://dx.doi.org/10.1128/jb.00427-25
 From Idiopathic Pericardial Hemorrhage to Mycotic Aortic Aneurysm: A Case Report.|https://dx.doi.org/10.7759/cureus.100751
 Antimicrobial susceptibility pattern of pathogens isolated from surgical wound infections in tertiary care hospitals of Pakistan.|https://dx.doi.org/10.4314/ahs.v25i1.2
+Antimicrobial Peptide mSshep 1 from Sebastes schlegelii combines broad-spectrum antibacterial activity, membrane-disruptive mechanism and in vivo protective efficacy.|https://dx.doi.org/10.1016/j.fsi.2026.111192
+Staphylococcus species infected by a bacteriophage with a tail that is both curved and contractile.|https://dx.doi.org/10.1128/mbio.03829-25
+The Indirect Role of Staphylococcus aureus in Atopic Dermatitis: A Comprehensive Analysis of MicroRNA-Mediated Mechanisms and Therapeutic Potential.|https://dx.doi.org/10.1177/17103568251408732
+Antimicrobial photodynamic therapy for severe acute radiodermatitis in patients undergoing head and neck radiotherapy: a case series.|https://dx.doi.org/10.3389/fonc.2025.1746492
+A pH-Triggered antibacterial and lubricating dual-function hydrogel coating for infection-resistant urinary catheters.|https://dx.doi.org/10.3389/fbioe.2026.1751442
+Anterior mini-bikini incision for surgical drainage in pediatric septic arthritis of the hip.|https://dx.doi.org/10.1186/s13018-026-06724-4

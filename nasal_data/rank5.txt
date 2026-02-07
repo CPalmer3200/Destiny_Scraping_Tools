@@ -29,3 +29,6 @@ Recent preoperative opioid prescription is associated with increased complicatio
 Surgical complications of salpingo-oophorectomy in women undergoing risk-reducing surgery for hereditary breast and ovarian cancer - A retrospective cohort study.|https://dx.doi.org/10.1016/j.jmig.2026.01.052
 Predictors of postoperative complications following staged nipple-sparing mastectomy: A systematic review & meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2026.01.022
 Outcome of Level III Axillary Node Dissection in Breast Cancer: 20 years Single Unit Experience in a Comprehensive Cancer Centre in Eastern India.|https://dx.doi.org/10.1007/s13193-025-02278-9
+Tissue-preserving Inframammary Fold Breast Augmentation: A Three-year Clinical Experience.|https://dx.doi.org/10.1093/asj/sjag038
+A comparison of the static stiffness index between a compression garment and an adjustable device in breast cancer-related lymphoedema: a cross-sectional study.|https://dx.doi.org/10.12968/jowc.2025.0031
+Age at Breast Cancer Diagnosis and Short-Term Postoperative Outcomes for Women Treated in a Universal Health System.|https://dx.doi.org/10.1177/10732748261423266
