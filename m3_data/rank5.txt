@@ -6,3 +6,4 @@ Education and electronic health record implementation-better together? An assess
 Ursodeoxycholic acid inhibits biofilm formation and bacterial adhesion of Clostridioides difficile.|https://dx.doi.org/10.1016/j.anaerobe.2026.103023
 Clonal relatedness and emerging linezolid resistance in Clostridioides difficile ribotypes 001 and 176 in the Czech Republic.|https://dx.doi.org/10.1016/j.ijid.2026.108444
 CONCURRENT CLOSTRIDIUM DIFFICILE COLITIS AND CYTOMEGALOVIRUS INFECTION AS A CAUSE OF PERSISTENT DIARRHEA AFTER AUTOLOGOUS HEMATOPOIETIC STEM CELL TRANSPLANTATION FOR NON-HODGKIN LYMPHOMA FOLLOWING BENDAMUSTINE-BASED CONDITIONING.|https://dx.doi.org/10.20471/acc.2025.64.02.23
+Primary Prophylaxis for Clostridioides difficile Infection in Lung Transplant Recipients: A Retrospective Study.|https://dx.doi.org/10.1111/tid.70182

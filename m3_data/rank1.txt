@@ -27,3 +27,5 @@ Modulation of Clostridioides difficile virulence by metabolites derived from pro
 Analysis of gut microbiota in super donors for fecal microbiota transplantation and isolated gut commensal bacteria of inhibition against Clostridioides difficile.|https://dx.doi.org/10.5217/ir.2025.00179
 Evaluation of the antibacterial activity of the natural product α-mangostin against Clostridioides difficile.|https://dx.doi.org/10.1371/journal.pone.0341857
 Clostridioides difficile infection in pediatric inflammatory bowel disease: current understanding and clinical challenges.|https://dx.doi.org/10.3389/fped.2025.1753289
+Patient-reported benefits of colonoscopicallyadministered microbiota restoration therapy: a qualitative study of adult patients with recurrent Clostridioides difficile infection.|https://dx.doi.org/10.1177/17562848251392102
+Safe and successful fecal microbiota transplantation for recurrent Clostridioides difficile infection in a child with an intestinal transplant.|https://dx.doi.org/10.1016/j.intf.2025.100046
