@@ -9,3 +9,7 @@ Nanosheet-reinforced smart polysaccharide hydrogels for MRSA-infected wound heal
 Chitosan/silver nanoparticles confined within halloysite nanotube composite sponge for synergistic antibacterial and photothermal therapy of infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150697
 Accelerating the healing of infected full thickness excision wounds through the topical use of Pluronic F127 copolymer and Polyglutamic acid.|https://dx.doi.org/10.1016/j.injury.2026.113028
 Ion-Tolerant, Injectable, and Biocompatible Pyrene-Amino Acid Supramolecular Hydrogels for Antimicrobial Applications in Saline Media.|https://dx.doi.org/10.1002/asia.70608
+Nacre-inspired mineral-hydrogel PVDF membrane with superhydrophilicity, antifouling and antimicrobial properties for food oily wastewater treatment.|https://dx.doi.org/10.1016/j.jhazmat.2026.141340
+A pH-Triggered antibacterial and lubricating dual-function hydrogel coating for infection-resistant urinary catheters.|https://dx.doi.org/10.3389/fbioe.2026.1751442
+A berberine-loaded hydrogel for the treatment of atopic dermatitis through antibacterial activity, inhibition of inflammation and modulation of oxidative stress.|https://dx.doi.org/10.3389/fimmu.2026.1740911
+Bacterial adhesion-mediated physical removal of pathogens with a cotton-based dressing for infected wound management and accelerated healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150721

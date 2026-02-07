@@ -1,3 +1,7 @@
 Topical Formulations Containing Mentha piperita for Wound Healing: A Scoping Review.|https://dx.doi.org/10.1002/cbdv.202503567
 Harnessing nanozymes as next-generation antimicrobial agents: From mechanisms to therapeutic strategies.|https://dx.doi.org/10.1016/j.mtbio.2025.102499
 Prophylactic and therapeutic efficacy of Acinetobacter phage RM_A1 against carbapenem-resistant Acinetobacter baumannii with no cytotoxicity to human skin cells.|https://dx.doi.org/10.1186/s12866-025-04698-7
+In-vitro and in-silico anti-staphylococcal effects of the Mayan medicinal plant Krugiodendron ferreum (Vahl) Urb. (X-chintok): Disarming its resistance mechanisms and virulence factors.|https://dx.doi.org/10.1016/j.jep.2026.121265
+Cutibacterium acnes inhibits Staphylococcus lugdunensis biofilm formation through inhibition of autolysis and purine biosynthesis.|https://dx.doi.org/10.21203/rs.3.rs-8408722/v1
+Targeted Neutrophil Extracellular Traps Mimics Combat Staphylococcus aureus Infections.|https://dx.doi.org/10.1021/acsinfecdis.5c00831
+Cyclic Dipeptides Inhibit Staphylococcus aureus Biofilm Formation and Virulence via Agr-Quorum Sensing, ica, and sarA Pathways.|https://dx.doi.org/10.1016/j.micpath.2026.108359

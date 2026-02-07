@@ -11,3 +11,4 @@ Epidemiology, pathophysiology, and management of diabetic foot: A comprehensive 
 Integrating Regenerative Therapies and Artificial Intelligence for Precision Management of Diabetic Foot Ulcers.|https://dx.doi.org/10.1177/21621918261422388
 Fusarium keratoplasticum infection in diabetic foot ulcers following antimicrobial therapy.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117302
 Role of a topical hydrogel (Dermatix(®) wound care gel) in acute and chronic wound management: a case series of real-world experiences and expert opinion from Asia.|https://dx.doi.org/10.7573/dic.2025-8-3
+Potential application of mono-, dual-, and triple-target GLP-1 receptor agonists in improving the prognosis of patients with diabetic foot ulcers.|https://dx.doi.org/10.3389/fendo.2025.1754925
