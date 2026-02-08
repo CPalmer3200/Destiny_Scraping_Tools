@@ -13,3 +13,5 @@ Nacre-inspired mineral-hydrogel PVDF membrane with superhydrophilicity, antifoul
 A pH-Triggered antibacterial and lubricating dual-function hydrogel coating for infection-resistant urinary catheters.|https://dx.doi.org/10.3389/fbioe.2026.1751442
 A berberine-loaded hydrogel for the treatment of atopic dermatitis through antibacterial activity, inhibition of inflammation and modulation of oxidative stress.|https://dx.doi.org/10.3389/fimmu.2026.1740911
 Bacterial adhesion-mediated physical removal of pathogens with a cotton-based dressing for infected wound management and accelerated healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150721
+Injectable self-healing hydrogel loaded with a self-assembling LL-37 derivative for treating infected skin wounds.|https://dx.doi.org/10.1016/j.ijpharm.2026.126653
+Surgical methods for reducing early wound dehiscence after reconstruction urgery for pressure ulcer.|https://dx.doi.org/10.12968/jowc.2023.0073

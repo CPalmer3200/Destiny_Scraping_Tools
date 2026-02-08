@@ -12,3 +12,5 @@ Integrating Regenerative Therapies and Artificial Intelligence for Precision Man
 Fusarium keratoplasticum infection in diabetic foot ulcers following antimicrobial therapy.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117302
 Role of a topical hydrogel (Dermatix(®) wound care gel) in acute and chronic wound management: a case series of real-world experiences and expert opinion from Asia.|https://dx.doi.org/10.7573/dic.2025-8-3
 Potential application of mono-, dual-, and triple-target GLP-1 receptor agonists in improving the prognosis of patients with diabetic foot ulcers.|https://dx.doi.org/10.3389/fendo.2025.1754925
+AMP-CapsNet: a multi-view feature fusion approach for antimicrobial peptide prediction using capsule networks.|https://dx.doi.org/10.1186/s44342-026-00067-6
+Outcome of diabetic foot ulcers after revascularisation in patients with peripheral arterial disease.|https://dx.doi.org/10.12968/jowc.2021.0249
