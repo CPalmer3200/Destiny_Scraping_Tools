@@ -52,3 +52,6 @@ The Indirect Role of Staphylococcus aureus in Atopic Dermatitis: A Comprehensive
 Antimicrobial photodynamic therapy for severe acute radiodermatitis in patients undergoing head and neck radiotherapy: a case series.|https://dx.doi.org/10.3389/fonc.2025.1746492
 A pH-Triggered antibacterial and lubricating dual-function hydrogel coating for infection-resistant urinary catheters.|https://dx.doi.org/10.3389/fbioe.2026.1751442
 Anterior mini-bikini incision for surgical drainage in pediatric septic arthritis of the hip.|https://dx.doi.org/10.1186/s13018-026-06724-4
+PERIPROSTHETIC KNEE JOINT INFECTION HAS A HIGHER INCIDENCE RATE IN DEVELOPING COUNTRIES; A REPORT FROM TWO REGIONAL ORTHOPAEDIC HOSPITALS IN SOUTHERN NIGERIA.|https://dx.doi.org/10.1016/j.jisako.2026.101074
+Injectable self-healing hydrogel loaded with a self-assembling LL-37 derivative for treating infected skin wounds.|https://dx.doi.org/10.1016/j.ijpharm.2026.126653
+Surgical methods for reducing early wound dehiscence after reconstruction urgery for pressure ulcer.|https://dx.doi.org/10.12968/jowc.2023.0073
