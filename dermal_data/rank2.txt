@@ -14,3 +14,4 @@ Role of a topical hydrogel (Dermatix(®) wound care gel) in acute and chronic wo
 Potential application of mono-, dual-, and triple-target GLP-1 receptor agonists in improving the prognosis of patients with diabetic foot ulcers.|https://dx.doi.org/10.3389/fendo.2025.1754925
 AMP-CapsNet: a multi-view feature fusion approach for antimicrobial peptide prediction using capsule networks.|https://dx.doi.org/10.1186/s44342-026-00067-6
 Outcome of diabetic foot ulcers after revascularisation in patients with peripheral arterial disease.|https://dx.doi.org/10.12968/jowc.2021.0249
+Frailty Predicts Postoperative Complications in Patients Undergoing Surgery for Diabetic Foot Ulcers.|https://dx.doi.org/10.1177/21621918261421637

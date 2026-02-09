@@ -6,3 +6,4 @@ Cutibacterium acnes inhibits Staphylococcus lugdunensis biofilm formation throug
 Targeted Neutrophil Extracellular Traps Mimics Combat Staphylococcus aureus Infections.|https://dx.doi.org/10.1021/acsinfecdis.5c00831
 Cyclic Dipeptides Inhibit Staphylococcus aureus Biofilm Formation and Virulence via Agr-Quorum Sensing, ica, and sarA Pathways.|https://dx.doi.org/10.1016/j.micpath.2026.108359
 Biofilm formation on venovenous ECMO cannulas can lead to re-introduction of pathogens during the decannulation process - a small-scale study reveals new insights when combining cultures and molecular results.|https://dx.doi.org/10.1186/s12879-026-12731-x
+Zinc peroxide-copper bimetallic nanozyme with self-activated ROS and cuproptosis for superficial antifungal therapy.|https://dx.doi.org/10.1186/s12951-026-04088-9
