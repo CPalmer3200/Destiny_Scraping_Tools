@@ -55,3 +55,11 @@ Anterior mini-bikini incision for surgical drainage in pediatric septic arthriti
 PERIPROSTHETIC KNEE JOINT INFECTION HAS A HIGHER INCIDENCE RATE IN DEVELOPING COUNTRIES; A REPORT FROM TWO REGIONAL ORTHOPAEDIC HOSPITALS IN SOUTHERN NIGERIA.|https://dx.doi.org/10.1016/j.jisako.2026.101074
 Injectable self-healing hydrogel loaded with a self-assembling LL-37 derivative for treating infected skin wounds.|https://dx.doi.org/10.1016/j.ijpharm.2026.126653
 Surgical methods for reducing early wound dehiscence after reconstruction urgery for pressure ulcer.|https://dx.doi.org/10.12968/jowc.2023.0073
+Rapid dissemination of Staphylococcus aureus in the neonatal intensive care unit is associated with invasive infection.|https://dx.doi.org/10.1038/s41467-026-69074-z
+Push-Button Microfluidic Platform with Dual-Signal Nanoprobes for Enhanced Sensitivity Detection of Healthcare-Associated Infection Pathogens at Point-of-Care.|https://dx.doi.org/10.1021/acs.analchem.5c05437
+Current Advances in Epidemiology, Diagnosis, and Management of TAVR-Associated Infective Endocarditis: A Narrative Review.|https://dx.doi.org/10.31083/RCM44599
+Synergistic antibacterial and anti-inflammatory potentials of dual-loaded self-healing hydrogel for methicillin-resistant Staphylococcus aureus-infected wound healing.|https://dx.doi.org/10.1016/j.jpha.2025.101376
+Impact of Nb(2)O(5) Coating Produced by Using the Reactive Sputtering Technique on Bacterial Biofilm Formation.|https://dx.doi.org/10.1021/acsomega.5c10066
+Gut microbiota-driven IL-17A production by hepatic γδ T cells enhances neutrophil defense against systemic Staphylococcus aureus infection.|https://dx.doi.org/10.1080/21505594.2026.2629132
+Hypochlorous acid lavage versus intrawound vancomycin powder for prevention of deep surgical-site infection after major posterior spine surgery: A retrospective case series with a historical control group.|https://dx.doi.org/10.1177/10225536261425277
+Controlled Antibiotic Release From Emulsion-Loaded Alginate and Fibrin Hydrogels Using Ultrasound.|https://dx.doi.org/10.1002/jbma.70046

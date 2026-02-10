@@ -7,3 +7,6 @@ Role of scratches and mat hygiene in wrestling-associated skin infections.|https
 Microbial influences on chronic rhinosinusitis.|https://dx.doi.org/10.1016/j.jaci.2026.01.019
 Methicillin-resistant Staphylococcus aureus nasal swabs predict need for antibiotic coverage in a trauma population.|https://dx.doi.org/10.1097/TA.0000000000004839
 The spectrum of nasal colonization: frequency and resistant patterns in diabetes versus non-diabetes population.|https://dx.doi.org/10.1186/s12866-026-04751-z
+Prevalence of methicillin-resistant Staphylococcus aureus and multidrug resistance among food handlers in a hospital food and nutrition unit in Rio de Janeiro, Brazil.|https://dx.doi.org/10.1093/lambio/ovag021
+Draft genome sequence of Staphylococcus saprophyticus strain Nasal Sample 2 isolated from a milkman handling cows with subclinical mastitis in Kiruhura District, Uganda.|https://dx.doi.org/10.1128/mra.01180-25
+Longitudinal Changes in Nasal and Oral Microbiome and Antimicrobial Resistance Gene Profiles in Response to Human Fecal Microbiota Transplantation.|https://dx.doi.org/10.64898/2026.01.27.701854
