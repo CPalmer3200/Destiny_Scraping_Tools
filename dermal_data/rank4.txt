@@ -17,3 +17,10 @@ Injectable self-healing hydrogel loaded with a self-assembling LL-37 derivative 
 Surgical methods for reducing early wound dehiscence after reconstruction urgery for pressure ulcer.|https://dx.doi.org/10.12968/jowc.2023.0073
 Engineered biosynthesis of hyaluronic acid in Corynebacterium glutamicum and green synthesis of HA-silver nanocomposites for advanced antimicrobial wound dressings.|https://dx.doi.org/10.1038/s41598-026-39148-5
 Sonocatalytic multifunctional hydrogel in-situ remodels the infectious microenvironment for eradicating refractory osteomyelitis.|https://dx.doi.org/10.1016/j.jconrel.2026.114686
+Enzymatically crosslinked pectin-silk fibroin hydrogel with embedded ZnO@Gallic acid nanoparticles: An injectable, self-healing, and antibacterial wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150823
+Carboxymethyl Cellulose/Sodium Lignosulfonate Composite Hydrogel with Toughness, Adhesiveness, and Antibacterial Properties for Monitoring Respiration in Heart Failure Patients.|https://dx.doi.org/10.1021/acsami.5c22665
+Synergistic antibacterial and anti-inflammatory potentials of dual-loaded self-healing hydrogel for methicillin-resistant Staphylococcus aureus-infected wound healing.|https://dx.doi.org/10.1016/j.jpha.2025.101376
+Lactoferrin bridges antimicrobial and healing responses in Staphylococcus aureus skin infections.|https://dx.doi.org/10.3389/fmicb.2025.1753483
+The Effect of Silk Fibroin Additive on the Properties of Tannic Acid-Based Bioadhesives.|https://dx.doi.org/10.1002/open.202500539
+Electrospun TPU Nanofibrous Membranes Incorporating Ciprofloxacin-Montmorillonite Nanoclays for Sustained Drug Release and Wound Healing.|https://dx.doi.org/10.1002/jbma.70045
+Controlled Antibiotic Release From Emulsion-Loaded Alginate and Fibrin Hydrogels Using Ultrasound.|https://dx.doi.org/10.1002/jbma.70046

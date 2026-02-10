@@ -15,3 +15,4 @@ Potential application of mono-, dual-, and triple-target GLP-1 receptor agonists
 AMP-CapsNet: a multi-view feature fusion approach for antimicrobial peptide prediction using capsule networks.|https://dx.doi.org/10.1186/s44342-026-00067-6
 Outcome of diabetic foot ulcers after revascularisation in patients with peripheral arterial disease.|https://dx.doi.org/10.12968/jowc.2021.0249
 Frailty Predicts Postoperative Complications in Patients Undergoing Surgery for Diabetic Foot Ulcers.|https://dx.doi.org/10.1177/21621918261421637
+Role of Neutrophil-to-Lymphocyte Ratio and Platelet-to-Lymphocyte Ratio in Predicting In-Hospital Mortality in Patients With Diabetic Foot Ulcers Undergoing Amputation: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.101089
