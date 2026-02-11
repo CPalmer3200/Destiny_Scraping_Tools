@@ -10,3 +10,5 @@ The spectrum of nasal colonization: frequency and resistant patterns in diabetes
 Prevalence of methicillin-resistant Staphylococcus aureus and multidrug resistance among food handlers in a hospital food and nutrition unit in Rio de Janeiro, Brazil.|https://dx.doi.org/10.1093/lambio/ovag021
 Draft genome sequence of Staphylococcus saprophyticus strain Nasal Sample 2 isolated from a milkman handling cows with subclinical mastitis in Kiruhura District, Uganda.|https://dx.doi.org/10.1128/mra.01180-25
 Longitudinal Changes in Nasal and Oral Microbiome and Antimicrobial Resistance Gene Profiles in Response to Human Fecal Microbiota Transplantation.|https://dx.doi.org/10.64898/2026.01.27.701854
+High Nasal Carriage of MRSA-mecC in Wild Rabbits in the Iberian Peninsula: a Wildlife Reservoir?|https://dx.doi.org/10.1007/s00248-026-02713-6
+Methicillin and Vancomycin resistance Staphylococcus aureus nasal carriage rate and antimicrobial susceptibility pattern among health care workers at Jigjiga university sheik Hassen Yebare comprehensive specialized Hospital, Jigjiga, Ethiopia.|https://dx.doi.org/10.1007/s10123-026-00785-5

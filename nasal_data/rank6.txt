@@ -9,3 +9,5 @@ An integrated subtractive genomics and immunoinformatic approach for designing a
 Innate immune priming by n-dodecyl-β-D-maltoside in murine models of bacterial and viral infection.|https://dx.doi.org/10.1016/j.ebiom.2026.106143
 AntiPan: a genome-informed in silico pipeline for advancing subunit vaccine discovery against Staphylococcus aureus.|https://dx.doi.org/10.1038/s41598-025-33445-1
 Multi-seed searching algorithm for integrated codon optimization of mRNA stability and translational efficiency in vaccine design.|https://dx.doi.org/10.1093/bib/bbag047
+ANIA: an inception-attention network for predicting minimum inhibitory concentration of antimicrobial peptides.|https://dx.doi.org/10.1093/bib/bbag023
+Coupling of the Hla-IsdB fusion antigen to mi3 nanoparticles enhances dendritic cell activation and protects against Staphylococcus aureus skin infection.|https://dx.doi.org/10.1039/d5nr04569j

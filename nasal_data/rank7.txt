@@ -63,3 +63,6 @@ Impact of Nb(2)O(5) Coating Produced by Using the Reactive Sputtering Technique 
 Gut microbiota-driven IL-17A production by hepatic γδ T cells enhances neutrophil defense against systemic Staphylococcus aureus infection.|https://dx.doi.org/10.1080/21505594.2026.2629132
 Hypochlorous acid lavage versus intrawound vancomycin powder for prevention of deep surgical-site infection after major posterior spine surgery: A retrospective case series with a historical control group.|https://dx.doi.org/10.1177/10225536261425277
 Controlled Antibiotic Release From Emulsion-Loaded Alginate and Fibrin Hydrogels Using Ultrasound.|https://dx.doi.org/10.1002/jbma.70046
+Dalbavancin for infective endocarditis: A systematic review of effectiveness, safety, and dosing.|https://dx.doi.org/10.1007/s10096-026-05434-3
+Rare Gram-Negative Spinal Epidural Abscess Due to Klebsiella pneumoniae Bacteremia: A Case Report.|https://dx.doi.org/10.7759/cureus.101125
+A Rare Case of Mycotic Common Femoral Artery Pseudoaneurysm from Septic Ankle Arthritis: Surgical and Endovascular Considerations.|https://dx.doi.org/10.1177/15266028261417985
