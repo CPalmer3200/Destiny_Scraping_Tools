@@ -24,3 +24,5 @@ Lactoferrin bridges antimicrobial and healing responses in Staphylococcus aureus
 The Effect of Silk Fibroin Additive on the Properties of Tannic Acid-Based Bioadhesives.|https://dx.doi.org/10.1002/open.202500539
 Electrospun TPU Nanofibrous Membranes Incorporating Ciprofloxacin-Montmorillonite Nanoclays for Sustained Drug Release and Wound Healing.|https://dx.doi.org/10.1002/jbma.70045
 Controlled Antibiotic Release From Emulsion-Loaded Alginate and Fibrin Hydrogels Using Ultrasound.|https://dx.doi.org/10.1002/jbma.70046
+Construction and curcumin release performance of pH-responsive hydrogels based on norbornene dicarboxylic anhydride-modified chitosan via thiol-ene photocrosslinking.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150842
+Effects of antibiotics encapsulated in hyaluronic acid hydrogels on different osteogenic cells and bacteria.|https://dx.doi.org/10.1007/s00441-026-04053-w
