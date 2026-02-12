@@ -66,3 +66,8 @@ Controlled Antibiotic Release From Emulsion-Loaded Alginate and Fibrin Hydrogels
 Dalbavancin for infective endocarditis: A systematic review of effectiveness, safety, and dosing.|https://dx.doi.org/10.1007/s10096-026-05434-3
 Rare Gram-Negative Spinal Epidural Abscess Due to Klebsiella pneumoniae Bacteremia: A Case Report.|https://dx.doi.org/10.7759/cureus.101125
 A Rare Case of Mycotic Common Femoral Artery Pseudoaneurysm from Septic Ankle Arthritis: Surgical and Endovascular Considerations.|https://dx.doi.org/10.1177/15266028261417985
+Clinical Characteristics and Outcomes of Geriatric Calcaneal Osteomyelitis: A Synthesis Analysis of 333 Literature-Reported Cases.|https://dx.doi.org/10.1111/ggi.70403
+Hydrophobic ion pairing for sustained local delivery of vancomycin from biodegradable nanospheres.|https://dx.doi.org/10.1016/j.ijpharm.2026.126670
+Effects of antibiotics encapsulated in hyaluronic acid hydrogels on different osteogenic cells and bacteria.|https://dx.doi.org/10.1007/s00441-026-04053-w
+Multimodal imaging follow-up of a left main trunk pseudoaneurysm presenting with cardiopulmonary arrest.|https://dx.doi.org/10.1093/ehjcr/ytag022
+When MRSA Misleads: Tuberculous Osteomyelitis of the Anterior Pelvic Bones.|https://dx.doi.org/10.13107/jocr.2026.v16.i02.6782

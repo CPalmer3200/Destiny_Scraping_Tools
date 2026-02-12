@@ -34,3 +34,4 @@ A comparison of the static stiffness index between a compression garment and an 
 Age at Breast Cancer Diagnosis and Short-Term Postoperative Outcomes for Women Treated in a Universal Health System.|https://dx.doi.org/10.1177/10732748261423266
 [Fasciitis-like primary breast pyoderma gangrenosum: A rare case report].|https://dx.doi.org/10.1016/j.anplas.2025.11.008
 Reduction Mammaplasty Prior to Nipple-Sparing Mastectomy Is Associated With Decreased Ischemic Complications in Large-Breasted Patients.|https://dx.doi.org/10.1097/SAP.0000000000004661
+A Case Report and Literature Review of Steroid-Resistant Granulomatous Mastitis: Dramatic Response to Methotrexate Following Failed Drainage and Corticosteroid Therapy.|https://dx.doi.org/10.7759/cureus.101219
