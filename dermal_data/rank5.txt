@@ -7,3 +7,5 @@ Targeted Neutrophil Extracellular Traps Mimics Combat Staphylococcus aureus Infe
 Cyclic Dipeptides Inhibit Staphylococcus aureus Biofilm Formation and Virulence via Agr-Quorum Sensing, ica, and sarA Pathways.|https://dx.doi.org/10.1016/j.micpath.2026.108359
 Biofilm formation on venovenous ECMO cannulas can lead to re-introduction of pathogens during the decannulation process - a small-scale study reveals new insights when combining cultures and molecular results.|https://dx.doi.org/10.1186/s12879-026-12731-x
 Zinc peroxide-copper bimetallic nanozyme with self-activated ROS and cuproptosis for superficial antifungal therapy.|https://dx.doi.org/10.1186/s12951-026-04088-9
+A Donor-Donor-π-Acceptor-Acceptor Type Photosensitizer for Efficient Photo-Inactivation of Pathogens Within Biofilms and Host Cells.|https://dx.doi.org/10.1002/cmdc.202500703
+Microplastic exposure and human health: an integrative toxicological perspective.|https://dx.doi.org/10.1007/s13205-026-04712-3
