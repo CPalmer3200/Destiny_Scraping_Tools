@@ -1,3 +1,4 @@
 ZBTB16 Controls the Onset of Clostridium difficile Colitis through the Pyrin Inflammasome.|https://dx.doi.org/10.1016/j.phrs.2026.108133
 Odoribacter splanchnicus inhibits toxin production in Clostridioides difficile: insights from clinical correlation and in vitro validation.|https://dx.doi.org/10.3389/fmicb.2026.1741232
 5,6-Fused heterocycle cholate derivatives as spore germination inhibitors of Clostridioides difficile.|https://dx.doi.org/10.1016/j.bmc.2026.118580
+Adjunctive use of Saccharomyces boulardii versus bismuth subsalicylate in the management of non-Clostridioides difficile nosocomial diarrhea in severely ill patients: a three-arm randomized controlled trial.|https://dx.doi.org/10.21037/tgh-25-68
