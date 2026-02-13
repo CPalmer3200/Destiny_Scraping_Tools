@@ -71,3 +71,6 @@ Hydrophobic ion pairing for sustained local delivery of vancomycin from biodegra
 Effects of antibiotics encapsulated in hyaluronic acid hydrogels on different osteogenic cells and bacteria.|https://dx.doi.org/10.1007/s00441-026-04053-w
 Multimodal imaging follow-up of a left main trunk pseudoaneurysm presenting with cardiopulmonary arrest.|https://dx.doi.org/10.1093/ehjcr/ytag022
 When MRSA Misleads: Tuberculous Osteomyelitis of the Anterior Pelvic Bones.|https://dx.doi.org/10.13107/jocr.2026.v16.i02.6782
+Ultraviolet light-functionalized TiO(2) nanotubes for enhancing antibacterial properties and soft tissue integration of titanium implants.|https://dx.doi.org/10.1177/08853282261420579
+Non-canonical stringent response signaling mediates antimicrobial fatty acid sensitivity in Staphylococcus aureus.|https://dx.doi.org/10.64898/2026.02.01.703180
+Trends in the prevalence of bloodstream infections in Spanish hospitals (2013-2023).|https://dx.doi.org/10.1186/s13756-025-01675-7

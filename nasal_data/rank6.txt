@@ -11,3 +11,4 @@ AntiPan: a genome-informed in silico pipeline for advancing subunit vaccine disc
 Multi-seed searching algorithm for integrated codon optimization of mRNA stability and translational efficiency in vaccine design.|https://dx.doi.org/10.1093/bib/bbag047
 ANIA: an inception-attention network for predicting minimum inhibitory concentration of antimicrobial peptides.|https://dx.doi.org/10.1093/bib/bbag023
 Coupling of the Hla-IsdB fusion antigen to mi3 nanoparticles enhances dendritic cell activation and protects against Staphylococcus aureus skin infection.|https://dx.doi.org/10.1039/d5nr04569j
+Antimicrobial dressings for the prevention of surgical-site infection: systematic review and meta-analysis.|https://dx.doi.org/10.1093/bjs/znaf277

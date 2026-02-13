@@ -35,3 +35,6 @@ Age at Breast Cancer Diagnosis and Short-Term Postoperative Outcomes for Women T
 [Fasciitis-like primary breast pyoderma gangrenosum: A rare case report].|https://dx.doi.org/10.1016/j.anplas.2025.11.008
 Reduction Mammaplasty Prior to Nipple-Sparing Mastectomy Is Associated With Decreased Ischemic Complications in Large-Breasted Patients.|https://dx.doi.org/10.1097/SAP.0000000000004661
 A Case Report and Literature Review of Steroid-Resistant Granulomatous Mastitis: Dramatic Response to Methotrexate Following Failed Drainage and Corticosteroid Therapy.|https://dx.doi.org/10.7759/cureus.101219
+Invited Editorial: Antibiotics and Surgical Site Infection in Expander-Based Breast Reconstruction Trial (ASSERT).|https://dx.doi.org/10.1245/s10434-026-19231-x
+Preservative Breast Augmentation: Preserving Muscle-glandular unions by areolar approach.|https://dx.doi.org/10.1097/PRS.0000000000012918
+Beyond breast abscess and malignancy: a case of bilateral idiopathic granulomatous mastitis.|https://dx.doi.org/10.1097/MS9.0000000000004624
