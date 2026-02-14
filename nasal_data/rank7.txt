@@ -74,3 +74,12 @@ When MRSA Misleads: Tuberculous Osteomyelitis of the Anterior Pelvic Bones.|http
 Ultraviolet light-functionalized TiO(2) nanotubes for enhancing antibacterial properties and soft tissue integration of titanium implants.|https://dx.doi.org/10.1177/08853282261420579
 Non-canonical stringent response signaling mediates antimicrobial fatty acid sensitivity in Staphylococcus aureus.|https://dx.doi.org/10.64898/2026.02.01.703180
 Trends in the prevalence of bloodstream infections in Spanish hospitals (2013-2023).|https://dx.doi.org/10.1186/s13756-025-01675-7
+Next Generation Sequencing of Tracheal Aspirates in Children With Tracheostomy A Prospective Case-Control Study.|https://dx.doi.org/10.1002/ppul.71511
+Asymmetrically Wetted Trilayer-Structured Wound Dressing with Unidirectional Moisture Transport and Hemostatic Function.|https://dx.doi.org/10.1021/acsabm.5c02228
+Indicators of In-Hospital Mortality in Infective Endocarditis: A Single-Center Retrospective Study.|https://dx.doi.org/10.7759/cureus.101308
+Limb Salvage in Methicillin-Resistant Staphylococcus aureus (MRSA)-Complicated Necrotic Loxoscelism Through Lifotronic® Negative Pressure Wound Therapy and Wolfe-McGregor Reconstruction.|https://dx.doi.org/10.7759/cureus.101366
+Effect of Moringa oleifera Protein-Coated Gold Nanoparticles as Naturally Derived Disruptors of Biofilms.|https://dx.doi.org/10.1155/ijbm/1381604
+A Conductive, Photothermal and Antioxidant ε-Poly-L-Lysine/Carbon Nanotube Hydrogel as a Candidate Dressing for Chronic Diabetic Wounds.|https://dx.doi.org/10.3390/polym18030332
+Clinical Profile of a Series of Left-Sided Prosthetic Valve Endocarditis: Revisiting Surgical Indications.|https://dx.doi.org/10.3390/diagnostics16030426
+Antimicrobial Resistant Isolates in Surgical and Bite Wounds in Dogs and Cats: A 12-Year Retrospective Analysis.|https://dx.doi.org/10.3390/ani16030501
+Phage-antibiotic synergistic effect for treating cutaneous wounds infections caused by MRSA and the assessment of wound healing biomarkers in a rabbit model.|https://dx.doi.org/10.1038/s41598-025-34474-6
