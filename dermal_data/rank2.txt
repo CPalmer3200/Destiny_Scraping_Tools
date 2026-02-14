@@ -20,3 +20,6 @@ Clinical Characteristics and Outcomes of Geriatric Calcaneal Osteomyelitis: A Sy
 Rethinking Chronic Wound Treatment: Unlocking the Potential of Combination Products for an Unmet Multifactorial Need: A Review Study.|https://dx.doi.org/10.1002/hsr2.71798
 Identification of disulfidptosis-related genes in immunity and immunotherapy in diabetic foot ulcer.|https://dx.doi.org/10.1097/MS9.0000000000003859
 Tibial Osteodistraction Angiogenesis for Diabetic Foot Ischemia: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/wrr.70130
+Metagenomic and ribosomal transcript profiles of diabetic foot osteomyelitis in Hispanic patients: underestimated bacteria in biofilm persistence.|https://dx.doi.org/10.3389/fcimb.2025.1729196
+A Conductive, Photothermal and Antioxidant ε-Poly-L-Lysine/Carbon Nanotube Hydrogel as a Candidate Dressing for Chronic Diabetic Wounds.|https://dx.doi.org/10.3390/polym18030332
+Development and Validation of a Predictive AI Framework for Diabetic Foot Ulcer Monitoring and Severity Assessment: A Step towards Self-monitoring and Primary Care Integration.|https://dx.doi.org/10.4258/hir.2026.32.1.69

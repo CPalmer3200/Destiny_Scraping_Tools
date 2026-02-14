@@ -26,3 +26,8 @@ Electrospun TPU Nanofibrous Membranes Incorporating Ciprofloxacin-Montmorillonit
 Controlled Antibiotic Release From Emulsion-Loaded Alginate and Fibrin Hydrogels Using Ultrasound.|https://dx.doi.org/10.1002/jbma.70046
 Construction and curcumin release performance of pH-responsive hydrogels based on norbornene dicarboxylic anhydride-modified chitosan via thiol-ene photocrosslinking.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150842
 Effects of antibiotics encapsulated in hyaluronic acid hydrogels on different osteogenic cells and bacteria.|https://dx.doi.org/10.1007/s00441-026-04053-w
+Asymmetrically Wetted Trilayer-Structured Wound Dressing with Unidirectional Moisture Transport and Hemostatic Function.|https://dx.doi.org/10.1021/acsabm.5c02228
+Quercetin Released Biomedical Hybrid Hydrogels Fabricated by Silk Fibroin and Sodium Alginate with Incorporation of Ag@rGO Nanosheets.|https://dx.doi.org/10.3390/molecules31030527
+Stage-specific ion release from dual-crosslinked alginate/boron-doped bioactive glass hydrogel accelerates infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.124924
+Injectable curdlan-derived hydrogel with differential release of copper and zinc ions for synergistic therapy of infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2026.124923
+A naringenin-functionalized chitosan/polyphosphate-modified gelatin hydrogel dressing with enhanced antibacterial and antioxidant activities for accelerating infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150867
