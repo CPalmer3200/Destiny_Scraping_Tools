@@ -13,3 +13,5 @@ Longitudinal Changes in Nasal and Oral Microbiome and Antimicrobial Resistance G
 High Nasal Carriage of MRSA-mecC in Wild Rabbits in the Iberian Peninsula: a Wildlife Reservoir?|https://dx.doi.org/10.1007/s00248-026-02713-6
 Methicillin and Vancomycin resistance Staphylococcus aureus nasal carriage rate and antimicrobial susceptibility pattern among health care workers at Jigjiga university sheik Hassen Yebare comprehensive specialized Hospital, Jigjiga, Ethiopia.|https://dx.doi.org/10.1007/s10123-026-00785-5
 Nasal Staphylococcus aureus in COVID-19 Patients Shows No Enrichment of High-Risk Clones.|https://dx.doi.org/10.3390/ijms27031250
+Prevalence of respiratory viruses and nasal colonization by antimicrobial-resistant bacteria among people living with HIV in Ghana.|https://dx.doi.org/10.1186/s12879-026-12834-5
+Transcriptomic and functional evidence reveals dual-module immune response of human-nasal staphylococcus aureus in Koi Carp (Cyprinus carpio).|https://dx.doi.org/10.1016/j.ijmm.2026.151707

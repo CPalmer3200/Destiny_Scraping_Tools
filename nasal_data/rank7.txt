@@ -83,3 +83,6 @@ A Conductive, Photothermal and Antioxidant ε-Poly-L-Lysine/Carbon Nanotube Hydr
 Clinical Profile of a Series of Left-Sided Prosthetic Valve Endocarditis: Revisiting Surgical Indications.|https://dx.doi.org/10.3390/diagnostics16030426
 Antimicrobial Resistant Isolates in Surgical and Bite Wounds in Dogs and Cats: A 12-Year Retrospective Analysis.|https://dx.doi.org/10.3390/ani16030501
 Phage-antibiotic synergistic effect for treating cutaneous wounds infections caused by MRSA and the assessment of wound healing biomarkers in a rabbit model.|https://dx.doi.org/10.1038/s41598-025-34474-6
+Factors associated with disease severity in hospitalized children with Staphylococcus aureus infection.|https://dx.doi.org/10.1093/tropej/fmag009
+Clinical characteristics associated with positive respiratory cultures in patients receiving extracorporeal membrane oxygenation.|https://dx.doi.org/10.1177/02676591261427663
+Comparison of Microbial Profile, Antibiotic Susceptibility, and Mortality in Early- and Late-Onset Ventilator-Associated Pneumonia.|https://dx.doi.org/10.29271/jcpsp.2026.02.263
