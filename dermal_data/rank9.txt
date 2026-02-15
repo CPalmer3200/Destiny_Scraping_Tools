@@ -4,3 +4,4 @@ STAT3-Mutated Hyper-IgE Syndrome With Retroperitoneal Abscess in Adolescence.|ht
 Novel use of oral delafloxacin monotherapy in staphylococcal prosthetic valve endocarditis: A case report.|https://dx.doi.org/10.1016/j.imj.2026.100235
 Non-canonical stringent response signaling mediates antimicrobial fatty acid sensitivity in Staphylococcus aureus.|https://dx.doi.org/10.64898/2026.02.01.703180
 Case Series: Use of Dalbavancin for Invasive Gram-Positive Infection in Children.|https://dx.doi.org/10.5863/JPPT-24-00116
+Mechanistic insights and functional evaluation of an Artemisia annua essential oil nanoemulsion for antibacterial topical application against Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150720

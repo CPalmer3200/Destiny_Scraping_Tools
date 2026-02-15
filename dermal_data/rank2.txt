@@ -23,3 +23,5 @@ Tibial Osteodistraction Angiogenesis for Diabetic Foot Ischemia: A Systematic Re
 Metagenomic and ribosomal transcript profiles of diabetic foot osteomyelitis in Hispanic patients: underestimated bacteria in biofilm persistence.|https://dx.doi.org/10.3389/fcimb.2025.1729196
 A Conductive, Photothermal and Antioxidant ε-Poly-L-Lysine/Carbon Nanotube Hydrogel as a Candidate Dressing for Chronic Diabetic Wounds.|https://dx.doi.org/10.3390/polym18030332
 Development and Validation of a Predictive AI Framework for Diabetic Foot Ulcer Monitoring and Severity Assessment: A Step towards Self-monitoring and Primary Care Integration.|https://dx.doi.org/10.4258/hir.2026.32.1.69
+Dual-thermo-responsive microneedle patch for accelerated diabetic wound healing through on-demand drug release and active temperature management.|https://dx.doi.org/10.1186/s12951-026-04159-x
+Risk Factors for Mortality after Below Knee Amputation in Patients with Diabetes.|https://dx.doi.org/10.1053/j.jfas.2026.01.020

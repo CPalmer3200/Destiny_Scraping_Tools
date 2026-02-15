@@ -31,3 +31,7 @@ Quercetin Released Biomedical Hybrid Hydrogels Fabricated by Silk Fibroin and So
 Stage-specific ion release from dual-crosslinked alginate/boron-doped bioactive glass hydrogel accelerates infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.124924
 Injectable curdlan-derived hydrogel with differential release of copper and zinc ions for synergistic therapy of infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2026.124923
 A naringenin-functionalized chitosan/polyphosphate-modified gelatin hydrogel dressing with enhanced antibacterial and antioxidant activities for accelerating infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150867
+Electrospun dressing promotes diabetic-infected wound healing via rapid and sustained antibacterial, ROS scavenging, and immune modulation ability.|https://dx.doi.org/10.1186/s12951-026-04134-6
+Gelatin-reinforced PCL nanofibers infused with thyme essential oil with multifunctional performance for wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150914
+Chemically Modified Alginate Grafted Penicillanic Acid Derivatives for Antibacterial Electrospun Composite Nanofibers: Electrospinnability, Drug Delivery and Cytocompatibility.|https://dx.doi.org/10.1021/acs.biomac.6c00044
+Polyphenol-metal coordinated nanofiber-enhanced biopolymer hydrogels for sustainable full-thickness skin regeneration and defect repair.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150885
