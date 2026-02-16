@@ -16,3 +16,4 @@ Active Surveillance and Polymerase Chain Reaction (PCR) Between Two Passive Surv
 Virulence factors of bovine mastitis pathogens: distribution, pathogenesis, and emerging vaccines targeting virulence factors: a literature review.|https://dx.doi.org/10.3389/fvets.2025.1745390
 A novel peptide cocktail containing B and T cell epitopes confers robust protection against Staphylococcus aureus bacteremia in a murine model.|https://dx.doi.org/10.14715/cmb/2025.72.1.2
 Bovine milk immunoglobulin A and immunoglobulin G inhibit the adhesion of Staphylococcus aureus to bovine mammary epithelial cells.|https://dx.doi.org/10.3168/jds.2025-27451
+Optimizing Local Treatment in Pemphigus and Pemphigoid: Current Evidence and Unmet Needs.|https://dx.doi.org/10.1111/ijd.70333

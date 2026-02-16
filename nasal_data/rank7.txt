@@ -86,3 +86,5 @@ Phage-antibiotic synergistic effect for treating cutaneous wounds infections cau
 Factors associated with disease severity in hospitalized children with Staphylococcus aureus infection.|https://dx.doi.org/10.1093/tropej/fmag009
 Clinical characteristics associated with positive respiratory cultures in patients receiving extracorporeal membrane oxygenation.|https://dx.doi.org/10.1177/02676591261427663
 Comparison of Microbial Profile, Antibiotic Susceptibility, and Mortality in Early- and Late-Onset Ventilator-Associated Pneumonia.|https://dx.doi.org/10.29271/jcpsp.2026.02.263
+Colonization of selected antibiotic-resistant bacteria among pregnant women: a cross-sectional study at a tertiary care hospital in the Eastern Province of Sri Lanka.|https://dx.doi.org/10.1186/s12866-026-04850-x
+From a biofilm to another: when bacteria from Dry Surface Biofilms settle in invasive medical devices.|https://dx.doi.org/10.1016/j.jhin.2026.01.022
