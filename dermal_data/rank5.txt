@@ -10,3 +10,4 @@ Zinc peroxide-copper bimetallic nanozyme with self-activated ROS and cuproptosis
 A Donor-Donor-π-Acceptor-Acceptor Type Photosensitizer for Efficient Photo-Inactivation of Pathogens Within Biofilms and Host Cells.|https://dx.doi.org/10.1002/cmdc.202500703
 Microplastic exposure and human health: an integrative toxicological perspective.|https://dx.doi.org/10.1007/s13205-026-04712-3
 Antiseptic Susceptibility and Sub-Inhibitory Concentration-Induced Biofilm Response in Staphylococcus epidermidis from Abdominal Surgical Site Skin.|https://dx.doi.org/10.1177/10962964261425154
+Investigating strategies for control of C. auris biofilms on surfaces.|https://dx.doi.org/10.1016/j.jhin.2026.01.025
