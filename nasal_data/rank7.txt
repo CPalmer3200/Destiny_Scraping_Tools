@@ -88,3 +88,10 @@ Clinical characteristics associated with positive respiratory cultures in patien
 Comparison of Microbial Profile, Antibiotic Susceptibility, and Mortality in Early- and Late-Onset Ventilator-Associated Pneumonia.|https://dx.doi.org/10.29271/jcpsp.2026.02.263
 Colonization of selected antibiotic-resistant bacteria among pregnant women: a cross-sectional study at a tertiary care hospital in the Eastern Province of Sri Lanka.|https://dx.doi.org/10.1186/s12866-026-04850-x
 From a biofilm to another: when bacteria from Dry Surface Biofilms settle in invasive medical devices.|https://dx.doi.org/10.1016/j.jhin.2026.01.022
+The antibacterial effectiveness of fourth-generation poly-amidoamine dendrimers-loaded with amoxicillin in combating methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s41598-026-39752-5
+Checkerboard and Isobologram Analysis of the Interaction between Black Cumin and Clove Essential Oils against Multidrug-Resistant Nosocomial Pathogens.|https://dx.doi.org/10.1007/s00284-026-04751-2
+Research progress of metagenomic next-generation sequencing in infectious diseases of the spine: a systematic review.|https://dx.doi.org/10.1177/20499361251412789
+Antibacterial and Osteoinductive Ti Implants Derived from MOF-Engineered Magnesium Oxide.|https://dx.doi.org/10.1021/acsomega.5c11623
+Pulsatile Lavage Is Not Enough to Remove Implant Biofilm: An In Vitro Evaluation of Sonication Brushing.|https://dx.doi.org/10.2106/JBJS.OA.25.00296
+Complicated Spondylodiscitis Caused by Pseudomonas aeruginosa in a Healthy Teenager: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.101312
+Pan-Spinal Epidural Abcess: Multidisciplinary Management of a Rare and Life-Threatening Condition.|https://dx.doi.org/10.7759/cureus.101533
