@@ -36,3 +36,4 @@ Gelatin-reinforced PCL nanofibers infused with thyme essential oil with multifun
 Chemically Modified Alginate Grafted Penicillanic Acid Derivatives for Antibacterial Electrospun Composite Nanofibers: Electrospinnability, Drug Delivery and Cytocompatibility.|https://dx.doi.org/10.1021/acs.biomac.6c00044
 Polyphenol-metal coordinated nanofiber-enhanced biopolymer hydrogels for sustainable full-thickness skin regeneration and defect repair.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150885
 Synthesis and characterization of chitosan/gelatin/g-C(3)N(4) hydrogel nanocomposite modified with Fe(3)O(4) magnetic nanoparticles as a curcumin drug carrier; cytotoxicity and antibacterial evaluation.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150918
+Thermo- and pH-Responsive Antimicrobial Hydrogels from Poly(2-(dimethylamino)ethyl methacrylate) and Cationic-Modified Chitosan for Sustained Papain Release.|https://dx.doi.org/10.1021/acspolymersau.5c00148

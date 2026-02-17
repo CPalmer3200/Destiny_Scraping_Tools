@@ -26,3 +26,5 @@ Development and Validation of a Predictive AI Framework for Diabetic Foot Ulcer 
 Dual-thermo-responsive microneedle patch for accelerated diabetic wound healing through on-demand drug release and active temperature management.|https://dx.doi.org/10.1186/s12951-026-04159-x
 Risk Factors for Mortality after Below Knee Amputation in Patients with Diabetes.|https://dx.doi.org/10.1053/j.jfas.2026.01.020
 Optimizing Local Treatment in Pemphigus and Pemphigoid: Current Evidence and Unmet Needs.|https://dx.doi.org/10.1111/ijd.70333
+Could Soft Tissue Infection Influence the Outcomes of Diabetic Foot Osteomyelitis? Data from a Retrospective Study.|https://dx.doi.org/10.1177/15347346261423281
+Enhancing diabetic foot osteomyelitis diagnosis with metagenomics next-generation sequencing, proof of concept.|https://dx.doi.org/10.1111/dme.70235

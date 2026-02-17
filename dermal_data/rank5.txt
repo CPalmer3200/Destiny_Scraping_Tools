@@ -11,3 +11,5 @@ A Donor-Donor-π-Acceptor-Acceptor Type Photosensitizer for Efficient Photo-Inac
 Microplastic exposure and human health: an integrative toxicological perspective.|https://dx.doi.org/10.1007/s13205-026-04712-3
 Antiseptic Susceptibility and Sub-Inhibitory Concentration-Induced Biofilm Response in Staphylococcus epidermidis from Abdominal Surgical Site Skin.|https://dx.doi.org/10.1177/10962964261425154
 Investigating strategies for control of C. auris biofilms on surfaces.|https://dx.doi.org/10.1016/j.jhin.2026.01.025
+Integrative Virtual and Empirical Screening to Identify Multi-Target Flavonoid Quercetin-3-O-glucuronide for Reducing MRSA Pathogenicity.|https://dx.doi.org/10.1016/j.ijantimicag.2026.107744
+Zinc-Based Nanoparticles Reduce the Bacterial Burden and Protect Collagen in a Mouse Cutaneous Wound Model.|https://dx.doi.org/10.1021/acsomega.5c06287
