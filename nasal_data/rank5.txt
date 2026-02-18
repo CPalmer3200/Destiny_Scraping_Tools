@@ -42,3 +42,6 @@ Simultaneous Bilateral Microsurgery in Autologous Tissue Breast Reconstruction.|
 Effect of prior mastectomy on outcomes following total shoulder arthroplasty.|https://dx.doi.org/10.1007/s00402-026-06215-5
 Case Report: Pathologic complete response in triple negative breast cancer treated with anthracycline free regimen.|https://dx.doi.org/10.3389/fonc.2026.1733621
 Sequential Multiple-Organ Immune-Related Adverse Events during and after Pembrolizumab Therapy in Triple-Negative Breast Cancer: A Case Report.|https://dx.doi.org/10.1159/000550528
+Application of AI Models for Preventing Surgical Complications: Scoping Review of Clinical Readiness and Barriers to Implementation.|https://dx.doi.org/10.2196/75064
+De-escalation of axillary surgery and targeted axillary dissection following neoadjuvant chemotherapy: multicentre prospective regional audit.|https://dx.doi.org/10.1093/bjsopen/zraf172
+Soft Tissue Support Use in Implant-Based Breast Reconstruction: A Nationwide, Cross-Sectional Study of Postoperative Complications.|https://dx.doi.org/10.1097/SAP.0000000000004660

@@ -95,3 +95,5 @@ Antibacterial and Osteoinductive Ti Implants Derived from MOF-Engineered Magnesi
 Pulsatile Lavage Is Not Enough to Remove Implant Biofilm: An In Vitro Evaluation of Sonication Brushing.|https://dx.doi.org/10.2106/JBJS.OA.25.00296
 Complicated Spondylodiscitis Caused by Pseudomonas aeruginosa in a Healthy Teenager: A Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.101312
 Pan-Spinal Epidural Abcess: Multidisciplinary Management of a Rare and Life-Threatening Condition.|https://dx.doi.org/10.7759/cureus.101533
+Tanfloc and carboxymethyl-kappa-carrageenan polyelectrolyte multilayers impart antithrombotic activity, enhanced re-endothelialization and antimicrobial activity on blood-contacting materials.|https://dx.doi.org/10.1016/j.bioadv.2026.214771
+Novel 3D-printed polycaprolactone/gelatin based biopatches loaded with natural antibacterial agents for hernia treatment.|https://dx.doi.org/10.1088/1748-605X/ae4702
