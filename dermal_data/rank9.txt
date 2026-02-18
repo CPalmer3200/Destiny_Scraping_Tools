@@ -5,3 +5,4 @@ Novel use of oral delafloxacin monotherapy in staphylococcal prosthetic valve en
 Non-canonical stringent response signaling mediates antimicrobial fatty acid sensitivity in Staphylococcus aureus.|https://dx.doi.org/10.64898/2026.02.01.703180
 Case Series: Use of Dalbavancin for Invasive Gram-Positive Infection in Children.|https://dx.doi.org/10.5863/JPPT-24-00116
 Mechanistic insights and functional evaluation of an Artemisia annua essential oil nanoemulsion for antibacterial topical application against Staphylococcus aureus.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150720
+Fluoroquinolone Prophylaxis Reduces Intensive Care Unit Admission and Clostridioides difficile Rates in Acute Myeloid Leukemia Induction Chemotherapy.|https://dx.doi.org/10.1002/jha2.70225
