@@ -17,3 +17,4 @@ Prevalence of respiratory viruses and nasal colonization by antimicrobial-resist
 Transcriptomic and functional evidence reveals dual-module immune response of human-nasal staphylococcus aureus in Koi Carp (Cyprinus carpio).|https://dx.doi.org/10.1016/j.ijmm.2026.151707
 Metabolic Fingerprint-Mediated Chemical Nose Strategy: Precise Identification of Foodborne Bacteria Based on a 4-MU Derivative Fluorescence Array.|https://dx.doi.org/10.1021/acs.analchem.5c07248
 Pullulan-based nanofiber membranes with antibacterial and anti-inflammatory properties for rhinosinusitis therapy.|https://dx.doi.org/10.1080/20415990.2026.2629205
+SET-M33 peptide as a selective in vitro antimicrobial agent against the porcine respiratory pathogen Glaesserella parasuis.|https://dx.doi.org/10.1128/spectrum.03918-25

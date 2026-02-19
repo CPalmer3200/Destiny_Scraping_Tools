@@ -97,3 +97,8 @@ Complicated Spondylodiscitis Caused by Pseudomonas aeruginosa in a Healthy Teena
 Pan-Spinal Epidural Abcess: Multidisciplinary Management of a Rare and Life-Threatening Condition.|https://dx.doi.org/10.7759/cureus.101533
 Tanfloc and carboxymethyl-kappa-carrageenan polyelectrolyte multilayers impart antithrombotic activity, enhanced re-endothelialization and antimicrobial activity on blood-contacting materials.|https://dx.doi.org/10.1016/j.bioadv.2026.214771
 Novel 3D-printed polycaprolactone/gelatin based biopatches loaded with natural antibacterial agents for hernia treatment.|https://dx.doi.org/10.1088/1748-605X/ae4702
+Antibacterial effect of banana leaf extract-coated sutures against oral pathogens and MRSA: an in vitro study.|https://dx.doi.org/10.1007/s10006-026-01519-7
+Rapid Clearance of Refractory Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia With Septic Pulmonary Emboli Following Early Ceftaroline Therapy.|https://dx.doi.org/10.7759/cureus.101645
+Real-World Impact of Elexacaftor/Tezacaftor/Ivacaftor in Israeli Children Aged 2-6 With Cystic Fibrosis.|https://dx.doi.org/10.1002/ppul.71523
+Integrated Methylome-Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase-Linked Immune-Epithelial Crosstalk in Atopic Dermatitis.|https://dx.doi.org/10.1111/all.70259
+Impact of a multimodal hand hygiene intervention on methicillin-resistant Staphylococcus aureus carriage among healthcare workers in Libya: a quasi-experimental pre-post study.|https://dx.doi.org/10.1186/s13756-026-01721-y

@@ -4,3 +4,5 @@ Local vancomycin powder reduces surgical site infections and costs in spine surg
 Purpureocillium lilacinum Keratitis Outbreak Associated with an Ophthalmology Clinic - New York City, 2024.|https://dx.doi.org/10.15585/mmwr.mm7505a1
 Tick-borne rash at the surgical site prior to lung cancer resection: a diagnostic and surgical dilemma case report.|https://dx.doi.org/10.21037/acr-2025-162
 Standardized reporting of perioperative complications after male artificial urinary sphincter implantation.|https://dx.doi.org/10.1007/s00345-026-06246-y
+Guideline Adherence of Perioperative Antibiotics and Surgical Site Infections in Noncardiac Surgery.|https://dx.doi.org/10.1001/jamanetworkopen.2025.59349
+Current infection control practices for multidrug-resistant organisms (MDRO): a survey of the Society for Healthcare Epidemiology of America (SHEA) research network and affiliated US-based hospitals.|https://dx.doi.org/10.1017/ice.2025.10394
