@@ -14,3 +14,5 @@ Investigating strategies for control of C. auris biofilms on surfaces.|https://d
 Integrative Virtual and Empirical Screening to Identify Multi-Target Flavonoid Quercetin-3-O-glucuronide for Reducing MRSA Pathogenicity.|https://dx.doi.org/10.1016/j.ijantimicag.2026.107744
 Zinc-Based Nanoparticles Reduce the Bacterial Burden and Protect Collagen in a Mouse Cutaneous Wound Model.|https://dx.doi.org/10.1021/acsomega.5c06287
 Evaluation of bacteriophage efficacy against Pseudomonas aeruginosa in ex vivo and in vitro canine skin systems.|https://dx.doi.org/10.1038/s41598-026-40091-8
+Novel approach for diabetic wound healing: adipose-derived mesenchymal stromal cells Exo@SPHydrogel combined with laser therapy.|https://dx.doi.org/10.1038/s41536-026-00459-w
+β(2)-microglobulin inhibits Escherichia coli biofilm formation via selectively blocking curli assembly.|https://dx.doi.org/10.1073/pnas.2515986123

@@ -1,3 +1,4 @@
 The Indirect Role of Staphylococcus aureus in Atopic Dermatitis: A Comprehensive Analysis of MicroRNA-Mediated Mechanisms and Therapeutic Potential.|https://dx.doi.org/10.1177/17103568251408732
 Therapy-Dependent Modulation of Staphylococcus aureus Colonization in Atopic Dermatitis: Insights from Anti-IL-4/IL-13 and JAK Inhibition.|https://dx.doi.org/10.1016/j.jaad.2026.01.074
 A skin isolate of Micrococcus luteus negates the Staphylococcus aureus-induced release of type 2 cytokines from keratinocytes.|https://dx.doi.org/10.3389/fimmu.2026.1711723
+Integrated Methylome-Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase-Linked Immune-Epithelial Crosstalk in Atopic Dermatitis.|https://dx.doi.org/10.1111/all.70259
