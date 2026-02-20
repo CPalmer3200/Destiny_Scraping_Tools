@@ -16,3 +16,4 @@ Zinc-Based Nanoparticles Reduce the Bacterial Burden and Protect Collagen in a M
 Evaluation of bacteriophage efficacy against Pseudomonas aeruginosa in ex vivo and in vitro canine skin systems.|https://dx.doi.org/10.1038/s41598-026-40091-8
 Novel approach for diabetic wound healing: adipose-derived mesenchymal stromal cells Exo@SPHydrogel combined with laser therapy.|https://dx.doi.org/10.1038/s41536-026-00459-w
 β(2)-microglobulin inhibits Escherichia coli biofilm formation via selectively blocking curli assembly.|https://dx.doi.org/10.1073/pnas.2515986123
+Malassezia isolated from patients with PV exhibits resistance features supporting its pathogenic nature.|https://dx.doi.org/10.1007/s00203-026-04764-2

@@ -42,3 +42,6 @@ Hydroxyethyl cellulose-guided self-assembled pH-independent antibacterial hydrog
 A pH-responsive geniposidic acid-loaded chitosan/dialdehyde carboxymethyl cellulose Schiff base hydrogel for accelerating wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.150981
 Study on the preparation and characterization of a double-layer PVA/SPH hydrogel with mechanical enhancement and anti-adhesion for the repair of abdominal hernia.|https://dx.doi.org/10.1016/j.colsurfb.2026.115535
 Multifunctional Toona sinensis gum polysaccharide-based carbon dot-hydrogel composites for accelerated healing of infected wounds.|https://dx.doi.org/10.1186/s12951-026-04128-4
+Modular alginate-based hydrogels embedding multilayer nanofibers: A synergistic strategy for hemostasis, antibacterial, and immunomodulatory therapy.|https://dx.doi.org/10.1016/j.carbpol.2026.124977
+Functional photo-crosslinked collagen-based hybrid gels with antibacterial and antioxidant properties.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151001
+Injectable ε-poly-lysine/hyaluronic acid hydrogel for targeted prevention of cardiovascular implantable electronic device pocket infections.|https://dx.doi.org/10.1039/d5ra08511j

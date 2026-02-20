@@ -28,3 +28,5 @@ Risk Factors for Mortality after Below Knee Amputation in Patients with Diabetes
 Optimizing Local Treatment in Pemphigus and Pemphigoid: Current Evidence and Unmet Needs.|https://dx.doi.org/10.1111/ijd.70333
 Could Soft Tissue Infection Influence the Outcomes of Diabetic Foot Osteomyelitis? Data from a Retrospective Study.|https://dx.doi.org/10.1177/15347346261423281
 Enhancing diabetic foot osteomyelitis diagnosis with metagenomics next-generation sequencing, proof of concept.|https://dx.doi.org/10.1111/dme.70235
+Chitosan-based advanced biomaterials and stimuli-responsive systems for diabetic ulcer management: From principles to translational potential.|https://dx.doi.org/10.1016/j.carbpol.2026.125005
+Synergistic effects of antibiotics and fucoidan on dual-species Staphylococcus aureus and Acinetobacter baumannii biofilm in diabetic rat wound models.|https://dx.doi.org/10.1371/journal.pone.0342905
