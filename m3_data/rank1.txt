@@ -3,3 +3,9 @@ Reducing the incidence of Clostridioides difficile infection through educational
 Longitudinal Changes in Nasal and Oral Microbiome and Antimicrobial Resistance Gene Profiles in Response to Human Fecal Microbiota Transplantation.|https://dx.doi.org/10.64898/2026.01.27.701854
 Clinical Utility of the MN Severity Criteria in Predicting Recurrent Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.jiac.2026.102930
 Diagnostic challenges and treatment approaches for Clostridioides difficile infection in IBD patients.|https://dx.doi.org/10.3389/fmicb.2026.1740387
+Live biotherapeutics in the clinic: Regulatory pathways, market dynamics, and future trends.|https://dx.doi.org/10.1016/bs.pmbts.2026.01.029
+Fecal microbiota transplantation in liver diseases: Therapeutic potential and associated risks.|https://dx.doi.org/10.1016/bs.pmbts.2026.01.001
+Clinical applications of live biotherapeutics: Current trends and future prospects.|https://dx.doi.org/10.1016/bs.pmbts.2026.01.003
+Metabolic modeling reveals determinants of prebiotic and probiotic treatment efficacy across multiple human intervention trials.|https://dx.doi.org/10.1371/journal.pbio.3003638
+Mucosal vaccination clears Clostridioides difficile colonization.|https://dx.doi.org/10.1038/s41586-026-10138-x
+What potential do DNA polymerase IIIC (PolC) inhibitors hold for the treatment of clostridioides difficile infection?|https://dx.doi.org/10.1080/14656566.2026.2634960
