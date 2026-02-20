@@ -102,3 +102,6 @@ Rapid Clearance of Refractory Methicillin-Resistant Staphylococcus aureus (MRSA)
 Real-World Impact of Elexacaftor/Tezacaftor/Ivacaftor in Israeli Children Aged 2-6 With Cystic Fibrosis.|https://dx.doi.org/10.1002/ppul.71523
 Integrated Methylome-Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase-Linked Immune-Epithelial Crosstalk in Atopic Dermatitis.|https://dx.doi.org/10.1111/all.70259
 Impact of a multimodal hand hygiene intervention on methicillin-resistant Staphylococcus aureus carriage among healthcare workers in Libya: a quasi-experimental pre-post study.|https://dx.doi.org/10.1186/s13756-026-01721-y
+Risk Factors and Antimicrobial Resistance in Secondary Intracranial Infections Following Viral Encephalitis: A Retrospective Cohort Study.|https://dx.doi.org/10.1017/cjn.2026.10532
+Nanoscale Mechanics of FnBPB-Mediated Adhesion of Staphylococcus aureus to Skin Ligands.|https://dx.doi.org/10.1021/acsnano.5c21776
+Survey on the antibacterial effects of tracheal tubes coated with silver nanoparticles.|https://dx.doi.org/10.1007/s13205-026-04710-5

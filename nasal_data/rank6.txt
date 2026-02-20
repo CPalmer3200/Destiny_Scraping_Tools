@@ -20,3 +20,5 @@ Optimizing Local Treatment in Pemphigus and Pemphigoid: Current Evidence and Unm
 Anti-clumping factor A and anti-staphylococcal protein A antibodies suppress adhesion of Staphylococcus aureus to bovine mammary epithelial cells.|https://dx.doi.org/10.1016/j.micpath.2026.108385
 Necrotizing soft tissue infection of the fingertips secondary to paronychia in a leukemic child: a case report and warning.|https://dx.doi.org/10.3389/fped.2025.1706507
 Consecutive ocular and nasal myiasis in an immunocompetent female: A case report.|https://dx.doi.org/10.1016/j.idcr.2026.e02509
+Conserved CD4(+) T cell staphylococcal and streptococcal epitopes enable broad-acting vaccines in mice.|https://dx.doi.org/10.1038/s41564-026-02265-y
+Mucosal vaccination in mice provides protection from diverse respiratory threats.|https://dx.doi.org/10.1126/science.aea1260
