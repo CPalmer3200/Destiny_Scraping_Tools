@@ -45,3 +45,4 @@ Multifunctional Toona sinensis gum polysaccharide-based carbon dot-hydrogel comp
 Modular alginate-based hydrogels embedding multilayer nanofibers: A synergistic strategy for hemostasis, antibacterial, and immunomodulatory therapy.|https://dx.doi.org/10.1016/j.carbpol.2026.124977
 Functional photo-crosslinked collagen-based hybrid gels with antibacterial and antioxidant properties.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151001
 Injectable ε-poly-lysine/hyaluronic acid hydrogel for targeted prevention of cardiovascular implantable electronic device pocket infections.|https://dx.doi.org/10.1039/d5ra08511j
+A self-healing hydrogel based on modified chitosan and sodium alginate oxide reinforced with hydrophilic nanomaterials for wound dressing applications.|https://dx.doi.org/10.1007/s10856-026-07019-0

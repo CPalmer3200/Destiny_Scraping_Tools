@@ -3,3 +3,4 @@ Therapy-Dependent Modulation of Staphylococcus aureus Colonization in Atopic Der
 A skin isolate of Micrococcus luteus negates the Staphylococcus aureus-induced release of type 2 cytokines from keratinocytes.|https://dx.doi.org/10.3389/fimmu.2026.1711723
 Integrated Methylome-Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase-Linked Immune-Epithelial Crosstalk in Atopic Dermatitis.|https://dx.doi.org/10.1111/all.70259
 Nanoscale Mechanics of FnBPB-Mediated Adhesion of Staphylococcus aureus to Skin Ligands.|https://dx.doi.org/10.1021/acsnano.5c21776
+Dysbiosis in the Pathogenesis of Atopic Dermatitis.|https://dx.doi.org/10.1111/1346-8138.70191
