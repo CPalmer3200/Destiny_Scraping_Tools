@@ -105,3 +105,9 @@ Impact of a multimodal hand hygiene intervention on methicillin-resistant Staphy
 Risk Factors and Antimicrobial Resistance in Secondary Intracranial Infections Following Viral Encephalitis: A Retrospective Cohort Study.|https://dx.doi.org/10.1017/cjn.2026.10532
 Nanoscale Mechanics of FnBPB-Mediated Adhesion of Staphylococcus aureus to Skin Ligands.|https://dx.doi.org/10.1021/acsnano.5c21776
 Survey on the antibacterial effects of tracheal tubes coated with silver nanoparticles.|https://dx.doi.org/10.1007/s13205-026-04710-5
+Dysbiosis in the Pathogenesis of Atopic Dermatitis.|https://dx.doi.org/10.1111/1346-8138.70191
+Population Pharmacokinetics of Vancomycin in Critically Ill Patients Undergoing Continuous Renal Replacement Therapy: Influence of Adsorptive Membranes.|https://dx.doi.org/10.1111/cts.70511
+Synergistic Potential of Bacteriophage and Blue Light Therapy Against Biofilm-Associated Klebsiella pneumoniae in Postoperative Gynaecological Infections.|https://dx.doi.org/10.1016/j.pdpdt.2026.105399
+"Rice Body"-Like Synovial Particles on Magnetic Resonance Imaging: What Is the Spectrum of Diagnoses?|https://dx.doi.org/10.1177/15563316251413271
+SET-M33 loaded biosynthesized cellulose as effective protection against S. aureus biofilm formation.|https://dx.doi.org/10.1016/j.bioflm.2026.100351
+Molecular epidemiology and environmental persistence of methicillin-resistant coagulase-positive Staphylococci in a Veterinary Teaching Hospital in Thailand: Evidence for nosocomial transmission and One Health implications.|https://dx.doi.org/10.14202/vetworld.2025.3698-3712

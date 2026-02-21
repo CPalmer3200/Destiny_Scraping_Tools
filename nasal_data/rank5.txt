@@ -49,3 +49,4 @@ Adherence to perioperative antimicrobial prophylaxis in cancer surgeries: A sing
 Targeted Prostate Cancer Screening in Carriers of BRCA1 or BRCA2 Pathogenic Germline Variants Detects Clinically Relevant Disease: 5-year Results from the IMPACT Study.|https://dx.doi.org/10.1016/j.eururo.2026.01.031
 Multimodal prehabilitation enhances perioperative outcomes in gastric cancer patients: a single-center randomized controlled trial.|https://dx.doi.org/10.3389/fnut.2025.1676180
 Mastitis and Mammary Abscess Management Audit (MAMMA): A Survey of Patients' Perspective on the Management of Mammary Abscesses in the UK.|https://dx.doi.org/10.1155/tbj/5901980
+Perioperative immune dynamics and infectious complications: a pooled-data analysis of prospective studies.|https://dx.doi.org/10.1097/JS9.0000000000004977

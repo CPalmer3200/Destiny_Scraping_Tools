@@ -19,3 +19,4 @@ Metabolic Fingerprint-Mediated Chemical Nose Strategy: Precise Identification of
 Pullulan-based nanofiber membranes with antibacterial and anti-inflammatory properties for rhinosinusitis therapy.|https://dx.doi.org/10.1080/20415990.2026.2629205
 SET-M33 peptide as a selective in vitro antimicrobial agent against the porcine respiratory pathogen Glaesserella parasuis.|https://dx.doi.org/10.1128/spectrum.03918-25
 The clinical utility of nasal MRSA PCR as an antimicrobial stewardship tool to guide MRSA bacteraemia therapy in paediatrics: a retrospective study at a tertiary care centre.|https://dx.doi.org/10.1093/jacamr/dlag012
+Cross-sectional survey of resistant priority pathogen carriage in the hospital setting in Timor-Leste 2020-2021.|https://dx.doi.org/10.1186/s13756-026-01715-w
