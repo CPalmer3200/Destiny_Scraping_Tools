@@ -1,3 +1,5 @@
 Hydrogels with Dynamically Tunable Friction Engineered through Regrafting Polymer Brushes.|https://dx.doi.org/10.1021/acs.langmuir.5c06401
 Conditioning chemotherapy exposure is associated with epigenetic modifications in Clostridioides difficile isolates from stem cell transplant recipients.|https://dx.doi.org/10.64898/2026.01.12.25342741
 The impact of COVID-19 non-pharmaceutical interventions on notifiable infectious diseases in Poland: a comprehensive analysis from 2014-2022.|https://dx.doi.org/10.1186/s12879-025-12478-x
+Comparative risk of Clostridioides difficile infection in patients with Crohn's disease receiving ustekinumab versus anti-TNF therapy: a retrospective cohort study.|https://dx.doi.org/10.1177/17562848261421706
+Diverting loop ileostomy with antegrade colonic lavage compared with colectomy in Clostridioides difficile colitis: A decade-long propensity score-matched analysis.|https://dx.doi.org/10.1097/TA.0000000000004840
