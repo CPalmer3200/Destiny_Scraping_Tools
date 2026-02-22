@@ -22,3 +22,5 @@ Necrotizing soft tissue infection of the fingertips secondary to paronychia in a
 Consecutive ocular and nasal myiasis in an immunocompetent female: A case report.|https://dx.doi.org/10.1016/j.idcr.2026.e02509
 Conserved CD4(+) T cell staphylococcal and streptococcal epitopes enable broad-acting vaccines in mice.|https://dx.doi.org/10.1038/s41564-026-02265-y
 Mucosal vaccination in mice provides protection from diverse respiratory threats.|https://dx.doi.org/10.1126/science.aea1260
+Decoding the biotic networks and functional potential of seamount sediments in the Arabian sea.|https://dx.doi.org/10.1007/s11033-026-11572-w
+Heart Rate Variability: Longitudinal Cardioautonomic Physiomarker in Congenital Central Hypoventilation Syndrome.|https://dx.doi.org/10.1093/annalsats/aaoag027
