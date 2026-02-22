@@ -30,3 +30,5 @@ Could Soft Tissue Infection Influence the Outcomes of Diabetic Foot Osteomyeliti
 Enhancing diabetic foot osteomyelitis diagnosis with metagenomics next-generation sequencing, proof of concept.|https://dx.doi.org/10.1111/dme.70235
 Chitosan-based advanced biomaterials and stimuli-responsive systems for diabetic ulcer management: From principles to translational potential.|https://dx.doi.org/10.1016/j.carbpol.2026.125005
 Synergistic effects of antibiotics and fucoidan on dual-species Staphylococcus aureus and Acinetobacter baumannii biofilm in diabetic rat wound models.|https://dx.doi.org/10.1371/journal.pone.0342905
+JJWT promotes antibacterial and anti-inflammatory activity for diabetic wound healing through the PI3K/akt signaling pathway.|https://dx.doi.org/10.1080/15569527.2026.2618012
+Integrative Molecular and Structural Profiling of Escherichia coli Virulence Genes in Diabetes-Associated Infections.|https://dx.doi.org/10.1007/s00284-026-04780-x
