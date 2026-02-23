@@ -47,3 +47,4 @@ Functional photo-crosslinked collagen-based hybrid gels with antibacterial and a
 Injectable ε-poly-lysine/hyaluronic acid hydrogel for targeted prevention of cardiovascular implantable electronic device pocket infections.|https://dx.doi.org/10.1039/d5ra08511j
 A self-healing hydrogel based on modified chitosan and sodium alginate oxide reinforced with hydrophilic nanomaterials for wound dressing applications.|https://dx.doi.org/10.1007/s10856-026-07019-0
 Bioresponsive Dual Microspheres Embedded in a Hydrogel: A Sequentially Triggered Strategy for Regulating Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202505948
+Formulation and evaluation of hydrogel based on Brazilian propolis ethanol extract for promoting diabetic wound healing.|https://dx.doi.org/10.1186/s12896-026-01115-3
