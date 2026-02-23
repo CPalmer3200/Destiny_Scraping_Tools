@@ -111,3 +111,5 @@ Synergistic Potential of Bacteriophage and Blue Light Therapy Against Biofilm-As
 "Rice Body"-Like Synovial Particles on Magnetic Resonance Imaging: What Is the Spectrum of Diagnoses?|https://dx.doi.org/10.1177/15563316251413271
 SET-M33 loaded biosynthesized cellulose as effective protection against S. aureus biofilm formation.|https://dx.doi.org/10.1016/j.bioflm.2026.100351
 Molecular epidemiology and environmental persistence of methicillin-resistant coagulase-positive Staphylococci in a Veterinary Teaching Hospital in Thailand: Evidence for nosocomial transmission and One Health implications.|https://dx.doi.org/10.14202/vetworld.2025.3698-3712
+Surgical site infection after femoral fracture surgery: 5-year trends in mechanisms of injury, pathogens, and antimicrobial resistance.|https://dx.doi.org/10.1186/s13018-026-06751-1
+Image-guided puncture drainage as a first-line management for postoperative abscess following head and neck reconstruction: A case series.|https://dx.doi.org/10.1016/j.anl.2026.02.009
