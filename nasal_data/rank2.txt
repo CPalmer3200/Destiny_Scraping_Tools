@@ -22,3 +22,5 @@ The clinical utility of nasal MRSA PCR as an antimicrobial stewardship tool to g
 Cross-sectional survey of resistant priority pathogen carriage in the hospital setting in Timor-Leste 2020-2021.|https://dx.doi.org/10.1186/s13756-026-01715-w
 Host-pathogen interactions during early stages of bovine mastitis: divergent macrophage responses to distinct bovine-associated Staphylococci species and strains.|https://dx.doi.org/10.1007/s42770-026-01888-x
 Staphylococcal Superantigens-specific IgE Reveals Functional Superantigen Production Beyond Staphylococcus aureus in CRSwNP.|https://dx.doi.org/10.1016/j.jaci.2026.02.013
+Community carriage of methicillin-resistant staphylococci among migrant communities living in Klang Valley, Malaysia.|https://dx.doi.org/10.1016/j.ijregi.2026.100849
+Nasal Tip Abscess in Diabetes: A Rare Encounter.|https://dx.doi.org/10.1002/ccr3.72128

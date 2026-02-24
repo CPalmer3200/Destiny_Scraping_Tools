@@ -113,3 +113,5 @@ SET-M33 loaded biosynthesized cellulose as effective protection against S. aureu
 Molecular epidemiology and environmental persistence of methicillin-resistant coagulase-positive Staphylococci in a Veterinary Teaching Hospital in Thailand: Evidence for nosocomial transmission and One Health implications.|https://dx.doi.org/10.14202/vetworld.2025.3698-3712
 Surgical site infection after femoral fracture surgery: 5-year trends in mechanisms of injury, pathogens, and antimicrobial resistance.|https://dx.doi.org/10.1186/s13018-026-06751-1
 Image-guided puncture drainage as a first-line management for postoperative abscess following head and neck reconstruction: A case series.|https://dx.doi.org/10.1016/j.anl.2026.02.009
+Multicenter Retrospective Study of Musculoskeletal Bacterial Infections of the Pelvis in Children and Factors Associated With the Formation of an Abscess.|https://dx.doi.org/10.1097/INF.0000000000005181
+Septic Arthritis of the Shoulder Following Ozone Therapy: A Case Report.|https://dx.doi.org/10.7759/cureus.101935

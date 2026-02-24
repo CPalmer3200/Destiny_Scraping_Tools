@@ -52,3 +52,7 @@ Mastitis and Mammary Abscess Management Audit (MAMMA): A Survey of Patients' Per
 Perioperative immune dynamics and infectious complications: a pooled-data analysis of prospective studies.|https://dx.doi.org/10.1097/JS9.0000000000004977
 Microsurgery on Steroids: The Impact of Chronic Immunosuppressive Therapy on Outcomes Following Free Flap Breast Reconstruction.|https://dx.doi.org/10.1016/j.clbc.2026.01.014
 Intrathoracic breast implants for postpneumonectomy syndrome: A systematic review of safety and efficacy.|https://dx.doi.org/10.1016/j.bjps.2026.01.028
+Differences in utilization, complications, and mortality after cancer surgery by HIV status among Medicaid beneficiaries from 2001-2021.|https://dx.doi.org/10.64898/2026.02.12.26346189
+Successful resolution of methicillin-sensitive Staphylococcus aureus bacteraemia complicated by infective endocarditis in a patient with malignancy: a case report of effective combined intravenous nafcillin and ceftaroline therapy.|https://dx.doi.org/10.1093/ehjcr/ytag060
+Experience-Based Procedure Card for Robot-Assisted Nipple Sparing Mastectomy Using the SSI Mantra, Indian Robotic Surgical System.|https://dx.doi.org/10.1007/s13193-025-02326-4
+Vertical scar reduction mammoplasty in massive macromastia: A prospective case series.|https://dx.doi.org/10.1016/j.jpra.2026.01.012
