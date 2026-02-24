@@ -11,3 +11,4 @@ Emerging mechanisms of microplastic-induced skin diseases: a perspective from th
 Polyvinyl alcohol/pectin hydrogels incorporating marine elastin hydrolysates for enhanced wound healing and extracellular matrix remodeling.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151011
 Enzyme responsive antimicrobial hyaluronan-nanocellulose hybrid wound dressings for the treatment of infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2026.01.042
 Lactilactobacillus curvatus TH19-7: a broad-spectrum antimicrobial probiotic targeting skin pathogens and mitigating infection-associated dermal damage in vitro.|https://dx.doi.org/10.1007/s00203-026-04763-3
+Hyperglycemia promotes maladaptive Dectin-1 signaling and impairs skin antifungal host defense.|https://dx.doi.org/10.64898/2026.02.11.705431
