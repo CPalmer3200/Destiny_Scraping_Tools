@@ -3,3 +3,7 @@ Conditioning chemotherapy exposure is associated with epigenetic modifications i
 The impact of COVID-19 non-pharmaceutical interventions on notifiable infectious diseases in Poland: a comprehensive analysis from 2014-2022.|https://dx.doi.org/10.1186/s12879-025-12478-x
 Comparative risk of Clostridioides difficile infection in patients with Crohn's disease receiving ustekinumab versus anti-TNF therapy: a retrospective cohort study.|https://dx.doi.org/10.1177/17562848261421706
 Diverting loop ileostomy with antegrade colonic lavage compared with colectomy in Clostridioides difficile colitis: A decade-long propensity score-matched analysis.|https://dx.doi.org/10.1097/TA.0000000000004840
+Microbiota-derived short-chain fatty acids in hematopoietic stem cell transplantation: immunomodulation at the host-microbiota interface.|https://dx.doi.org/10.3389/fmicb.2026.1754099
+Dysbiosis of the enteric DNA virome correlates with the development of cachexia in a murine Lewis lung carcinoma (LLC) model.|https://dx.doi.org/10.1007/s00705-026-06522-7
+Impact of end-screw configuration on peri-implant fracture risk in distal femoral plating.|https://dx.doi.org/10.1016/j.clinbiomech.2026.106793
+Protective barrier containment to prevent C. difficile in endoscopy rooms: A prospective, hospital-based intervention study.|https://dx.doi.org/10.1016/j.ijid.2026.108493
