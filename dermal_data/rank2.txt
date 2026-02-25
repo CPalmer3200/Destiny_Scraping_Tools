@@ -36,3 +36,7 @@ Association of Prior Antibiotic Use With Negative Surgical Bone Biopsy Cultures 
 A Rare Case of Syphilitic Charcot Arthropathy Involving the Foot in an Asian Patient: A Case Report and Review of Literature.|https://dx.doi.org/10.7759/cureus.101901
 Successful Foot Salvage in a Patient With Diabetes Following Split-Thickness Skin Grafting and Antidiabetic Therapy: A Case Report.|https://dx.doi.org/10.7759/cureus.101889
 Case Report: Negative pressure wound therapy with instillation and dwell time as adjuvant therapy for limb salvage in a complicated necrotizing fasciitis on ischemic diabetic foot.|https://dx.doi.org/10.3389/fsurg.2026.1687275
+Association of Preoperative Anterior Ankle Soft Tissue Thickness and Infection After Primary Total Ankle Arthroplasty: A Retrospective Cohort Study.|https://dx.doi.org/10.1177/24730114261420160
+Hyperbaric Oxygen Therapy in Modern Surgical Practice: Mechanistic Basis and Clinical Applications Across Specialties.|https://dx.doi.org/10.7759/cureus.102116
+A systematic review of randomized controlled trials assessing the efficacy of negative pressure wound therapy in diabetic foot wounds.|https://dx.doi.org/10.1007/s40200-026-01894-8
+Complication rates in patients with diabetic neuropathy undergoing total joint arthroplasty.|https://dx.doi.org/10.1016/j.jcot.2026.103361

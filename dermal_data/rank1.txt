@@ -3,3 +3,4 @@ An antioxidant and injectable hydrogel dressing for repairing MRSA biofilm-infec
 Prevalence, antimicrobial resistance, and associated factors of bacterial vaginosis and aerobic vaginitis among women suspected of STIs in Bahir Dar, Ethiopia.|https://dx.doi.org/10.1186/s12905-026-04301-9
 In Vitro Antimicrobial Evaluation of Silver Nanoparticles in Lyotropic Liquid Crystals for Cutaneous Wound Treatment.|https://dx.doi.org/10.1021/acsomega.5c09016
 Silver sulfadiazine in modern dermatology.|https://dx.doi.org/10.25251/9wwnjf59
+Can commensals alter pathogen's antibiotic resistance during co-culture?|https://dx.doi.org/10.1099/jmm.0.002126

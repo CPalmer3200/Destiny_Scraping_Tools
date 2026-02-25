@@ -18,3 +18,4 @@ Novel approach for diabetic wound healing: adipose-derived mesenchymal stromal c
 β(2)-microglobulin inhibits Escherichia coli biofilm formation via selectively blocking curli assembly.|https://dx.doi.org/10.1073/pnas.2515986123
 Malassezia isolated from patients with PV exhibits resistance features supporting its pathogenic nature.|https://dx.doi.org/10.1007/s00203-026-04764-2
 Influence of substitution patterns on the antimicrobial properties of pyrrole sulfonamide scaffolds.|https://dx.doi.org/10.3389/fchem.2026.1726389
+A teichoic acid-like wall modification associated with immune suppression is socially regulated in Streptococcus pyogenes.|https://dx.doi.org/10.1128/mbio.03801-25
