@@ -10,3 +10,6 @@ Metabolic modeling reveals determinants of prebiotic and probiotic treatment eff
 Mucosal vaccination clears Clostridioides difficile colonization.|https://dx.doi.org/10.1038/s41586-026-10138-x
 What potential do DNA polymerase IIIC (PolC) inhibitors hold for the treatment of clostridioides difficile infection?|https://dx.doi.org/10.1080/14656566.2026.2634960
 Tibial Tubercle Osteotomy With Medial Patellofemoral Ligament Reconstruction Utilizing Autograft Hamstring Tendon and Knotless Suture Anchor Fixation.|https://dx.doi.org/10.1177/26350254251375084
+Gut Microbiome Recovery in Clostridioides difficile Infection Patients Receiving Multi-Strain Probiotics During Convalescence: A Prospective Pilot Series of Longitudinal Dynamics.|https://dx.doi.org/10.3390/diseases14020077
+Dynamics in circulating immune cell subsets after faecal microbiota transplantation for recurrent Clostridioides difficile infection.|https://dx.doi.org/10.14309/ctg.0000000000001008
+Fulminant Clostridioides difficile Infection During Repeated High-Dose Cytarabine Consolidation for Acute Myeloid Leukemia: A Fatal Case.|https://dx.doi.org/10.7759/cureus.102177

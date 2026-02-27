@@ -7,3 +7,6 @@ Microbiota-derived short-chain fatty acids in hematopoietic stem cell transplant
 Dysbiosis of the enteric DNA virome correlates with the development of cachexia in a murine Lewis lung carcinoma (LLC) model.|https://dx.doi.org/10.1007/s00705-026-06522-7
 Impact of end-screw configuration on peri-implant fracture risk in distal femoral plating.|https://dx.doi.org/10.1016/j.clinbiomech.2026.106793
 Protective barrier containment to prevent C. difficile in endoscopy rooms: A prospective, hospital-based intervention study.|https://dx.doi.org/10.1016/j.ijid.2026.108493
+Disease-Suppressive Phyllosphere Microbiomes: A Perspective on Microbiome Transplantation for Sustainable Agriculture.|https://dx.doi.org/10.1094/PHYTO-03-25-0116-PER
+Clostridioides difficile Immunity During Pregnancy and Passive Antibody Transfer to Neonates from Cord Blood and Breast Milk.|https://dx.doi.org/10.3390/toxins18020111
+Hospital Accreditation Type and Patient Safety Outcomes: A National Comparison.|https://dx.doi.org/10.63116/NVMQ4217
