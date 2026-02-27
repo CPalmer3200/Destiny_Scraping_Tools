@@ -19,3 +19,8 @@ Novel approach for diabetic wound healing: adipose-derived mesenchymal stromal c
 Malassezia isolated from patients with PV exhibits resistance features supporting its pathogenic nature.|https://dx.doi.org/10.1007/s00203-026-04764-2
 Influence of substitution patterns on the antimicrobial properties of pyrrole sulfonamide scaffolds.|https://dx.doi.org/10.3389/fchem.2026.1726389
 A teichoic acid-like wall modification associated with immune suppression is socially regulated in Streptococcus pyogenes.|https://dx.doi.org/10.1128/mbio.03801-25
+Synergistic Antifungal Activity of Zinc Pyrithione and Nystatin against Multi-Drug-Resistant Candida (Candidozyma) auris: Evidence from In Vitro and In Vivo Models.|https://dx.doi.org/10.1021/acsinfecdis.5c00822
+Antimicrobial and Antibiofilm Activities of Abietic Acid against Skin-Associated Opportunistic Microorganisms.|https://dx.doi.org/10.4014/jmb.2510.10051
+Quaternized Thiomers for Antibacterial Activity and Hyperinflammation Mitigation.|https://dx.doi.org/10.1021/acsinfecdis.5c01145
+The fungal pathogen Batrachochytrium dendrobatidis drives the relationship between environmental and amphibian skin microbiota.|https://dx.doi.org/10.1093/ismeco/ycag016
+3D-printed PRP-infused double-network hydrogels orchestrate inflammation resolution and vascular regeneration in infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.102841

@@ -4,3 +4,4 @@ Prevalence, antimicrobial resistance, and associated factors of bacterial vagino
 In Vitro Antimicrobial Evaluation of Silver Nanoparticles in Lyotropic Liquid Crystals for Cutaneous Wound Treatment.|https://dx.doi.org/10.1021/acsomega.5c09016
 Silver sulfadiazine in modern dermatology.|https://dx.doi.org/10.25251/9wwnjf59
 Can commensals alter pathogen's antibiotic resistance during co-culture?|https://dx.doi.org/10.1099/jmm.0.002126
+Stevens-Johnson Syndrome And Toxic Epidermal Necrolysis Possibly Related to Daptomycin And Ceftaroline in a Patient With Persistent Methicillin-Resistant Staphylococcus aureus Bacteremia: A Case Report and Brief Review.|https://dx.doi.org/10.1177/87551225261422617
