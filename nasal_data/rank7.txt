@@ -1,3 +1,11 @@
 A standardized surgical technique for DAIR improves treatment success rates in acute periprosthetic knee infection.|https://dx.doi.org/10.1002/ksa.70350
 Exploring immobilization strategies of antimicrobial peptides onto MAO-treated titanium to fight MRSA colonization and preserve osteogenic activity.|https://dx.doi.org/10.1016/j.mtbio.2026.102896
 Characteristics of pathogenic bacteria and pharmacological surveillance of postoperative hospital-acquired infections in gynecologic malignancies: A single-center observational study.|https://dx.doi.org/10.1097/MD.0000000000047712
+Infection post strabismus surgery: A review and case series.|https://dx.doi.org/10.1016/j.survophthal.2026.02.008
+Treatment of infected endografts after thoracic endovascular aortic repair: a systematic review.|https://dx.doi.org/10.1177/00368504241296312
+Robust Goat-Derived Enterococcus Isolates with Broad-Spectrum Antipathogenic Activity as Next-Generation Probiotic Candidates.|https://dx.doi.org/10.3390/vetsci13020120
+Electron Beam-Irradiated g-C(3)N(4)/Ti(3)C(2) Nanocomposite Embedded in PVA/SA Hydrogel: An Integrated Platform with Enhanced Photocatalytic Antibacterial Activity.|https://dx.doi.org/10.3390/gels12020167
+Microdialysis assessment of gentamicin for second-line antimicrobial prophylaxis in abdominal surgery.|https://dx.doi.org/10.1093/jac/dkag071
+Antimicrobial resistance and empirical antibiotic use in diabetic foot infections: A retrospective study from Indonesia.|https://dx.doi.org/10.52225/narra.v5i3.2895
+Association of Chronic Rhinosinusitis and Pseudomonas Aeruginosa in Sputum of Patients With Non-Cystic Fibrosis Bronchiectasis.|https://dx.doi.org/10.15326/jcopdf.2025.0732
+Solithromycin mitigates Prevotella intermedia-induced methicillin-resistant Staphylococcus aureus ventilator-associated pneumonia by enhancing alveolar macrophage function.|https://dx.doi.org/10.3389/fcimb.2026.1723186
