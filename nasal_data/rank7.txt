@@ -9,3 +9,11 @@ Microdialysis assessment of gentamicin for second-line antimicrobial prophylaxis
 Antimicrobial resistance and empirical antibiotic use in diabetic foot infections: A retrospective study from Indonesia.|https://dx.doi.org/10.52225/narra.v5i3.2895
 Association of Chronic Rhinosinusitis and Pseudomonas Aeruginosa in Sputum of Patients With Non-Cystic Fibrosis Bronchiectasis.|https://dx.doi.org/10.15326/jcopdf.2025.0732
 Solithromycin mitigates Prevotella intermedia-induced methicillin-resistant Staphylococcus aureus ventilator-associated pneumonia by enhancing alveolar macrophage function.|https://dx.doi.org/10.3389/fcimb.2026.1723186
+Microbiological Landscape in Critical Care: 14-Year Analysis of 42,722 ICU Patients Using MIMIC-IV Database.|https://dx.doi.org/10.1016/j.ijid.2026.108501
+Environmental microbial contamination as potential risk for healthcare associated infections after dental procedures: a multicenter study.|https://dx.doi.org/10.36740/WLek/217264
+Distribution of Pathogenic Bacteria and Antimicrobial Resistance After Plastic Surgery of L-Shaped Zygomatic Osteotomy.|https://dx.doi.org/10.1097/SCS.0000000000012489
+Host-pathogen interaction in community-acquired pneumonia: a focus on the immune response.|https://dx.doi.org/10.3389/fcimb.2026.1731074
+A rare case of partial Shone complex in adulthood: coarctation-site methicillin-sensitive Staphylococcus aureus endocarditis and saccular aneurysm.|https://dx.doi.org/10.1017/S1047951125110913
+3D-Printed PLDLA-TMC/PEG 400 Vascular Scaffolds with a Poly(hexamethylene Biguanide) Antibacterial Coating.|https://dx.doi.org/10.3390/pharmaceutics18020204
+Healthcare-Associated Conjunctivitis in the NICU: Microbiological Spectrum, Antimicrobial Resistance and Treatment Patterns.|https://dx.doi.org/10.3390/pathogens15020209
+Integrating MALDI-TOF Mass Spectrometry and Machine Learning for Rapid and Clinically Relevant Differentiation of MRSA and MSSA.|https://dx.doi.org/10.3390/pathogens15020191

@@ -5,3 +5,5 @@ Implant Pocket Plane Selection in Primary Breast Augmentation: A Meta-Analysis a
 A case of necrotizing fasciitis caused by group G streptococcus following a single dose of dose-dense doxorubicin and cyclophosphamide in a breast cancer patient.|https://dx.doi.org/10.1093/omcr/omag006
 Risk factors for capsular contracture: a study of 91 537 breast implants over 6 years from the Australian Breast Device Registry.|https://dx.doi.org/10.1097/PRS.0000000000012975
 Late breast implant infection after severe pneumonia - a case report and literature review.|https://dx.doi.org/10.1080/23320885.2026.2632528
+Development of a preliminary exploratory index to predict safety of same-day discharge following immediate alloplastic breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2026.02.002
+Antibacterial Effects of Nanobubble Water and Its Potential Application in Healthcare-associated Infection Control.|https://dx.doi.org/10.21873/invivo.14245
