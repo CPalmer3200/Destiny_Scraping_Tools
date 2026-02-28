@@ -5,3 +5,4 @@ Report on influenza viruses received and tested by the Melbourne WHO Collaborati
 All-cause mortality and risk factors for death in patients with Clostridioides difficile infections: a prospective multicentre cohort study in six German university hospitals, 2016-2020.|https://dx.doi.org/10.1016/j.jhin.2026.02.004
 Molecular basis of linezolid resistance in Finegoldia spp. from orthopedic infections.|https://dx.doi.org/10.1128/aac.01702-25
 No Increased Risk of Infection Following a Protocol Change to Decrease Duration of Perioperative Antibiotic Prophylaxis in Liver Transplantation.|https://dx.doi.org/10.1111/tid.70192
+Early risperidone exposure impairs cognitive function by perturbation of the gut microbiome and bile acids/tyrosine-PTP1B axis.|https://dx.doi.org/10.1186/s40168-026-02358-0

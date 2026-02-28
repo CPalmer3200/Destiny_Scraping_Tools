@@ -13,3 +13,10 @@ Tibial Tubercle Osteotomy With Medial Patellofemoral Ligament Reconstruction Uti
 Gut Microbiome Recovery in Clostridioides difficile Infection Patients Receiving Multi-Strain Probiotics During Convalescence: A Prospective Pilot Series of Longitudinal Dynamics.|https://dx.doi.org/10.3390/diseases14020077
 Dynamics in circulating immune cell subsets after faecal microbiota transplantation for recurrent Clostridioides difficile infection.|https://dx.doi.org/10.14309/ctg.0000000000001008
 Fulminant Clostridioides difficile Infection During Repeated High-Dose Cytarabine Consolidation for Acute Myeloid Leukemia: A Fatal Case.|https://dx.doi.org/10.7759/cureus.102177
+Initial Vancomycin Taper for the Prevention of Recurrent Clostridioides difficile Infection: A Randomized Clinical Trial.|https://dx.doi.org/10.1001/jamanetworkopen.2025.60495
+Generation and characterization of a novel MHC-II tetramer for tracking and characterization of toxin B-specific CD4 (+) T cell responses.|https://dx.doi.org/10.64898/2026.02.18.706639
+Shengjiang Xiexin decoction combined with vancomycin for Clostridioides difficile infection: impact of vancomycin dose-reduction strategy on gut microbiota homeostasis and recurrence risk.|https://dx.doi.org/10.3389/fcimb.2025.1740179
+Emerging Therapeutic Approaches for Modulating the Intestinal Microbiota.|https://dx.doi.org/10.3390/pharmaceutics18020197
+Oral Vancomycin in the Treatment of Clostridioides difficile Infection: A Single-Center Observational Study in Southern Poland (2016-2022), Involving 528,887 Hospitalized Patients.|https://dx.doi.org/10.3390/antibiotics15020161
+Antimicrobial Susceptibility of Clostridioides difficile in Spain: Multicenter Retrospective Cohort Study.|https://dx.doi.org/10.3390/antibiotics15020145
+Synergistic Toxicity of Cold Gas Plasma and Cisplatin in Bladder Cancer Cells.|https://dx.doi.org/10.3390/cancers18040675
