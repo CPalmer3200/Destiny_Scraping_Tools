@@ -58,3 +58,8 @@ Electron Beam-Irradiated g-C(3)N(4)/Ti(3)C(2) Nanocomposite Embedded in PVA/SA H
 Eco-Friendly In Situ Fabrication of Silver Nanoparticle-Loaded Chitosan Nanogels for Antibacterial Applications.|https://dx.doi.org/10.3390/gels12020135
 Modulation of Peptoid Nanostructure for Antibiofilm Hydrogel Interfaces.|https://dx.doi.org/10.1021/acs.nanolett.5c05266
 Energetic metabolism-regulatory glycopeptide hydrogel accelerates pressure ulcer wound repair.|https://dx.doi.org/10.1016/j.bioactmat.2026.02.016
+New insights into zinc-doped carbon dots embedded in hydrogel: Highlighting enhanced wound healing and skin tissue regeneration capabilities.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151124
+The Use of Biomass from In Vitro Fungal Cultures as a Bioactive Ingredient with Antimicrobial Activity in Hydrogel Dressings.|https://dx.doi.org/10.3390/ph19020268
+Evaluation of the Antimicrobial Activity of Bimetallic TiO(2)-ZnO Nanoparticles Phytosynthesized with Ruta graveolens Extract Supported on a Chitosan Film.|https://dx.doi.org/10.3390/polym18040447
+Quaternary Ammonium Salt Carboxymethyl Chitosan/Sodium Oxidized Alginate/Tannic Acid/Sodium Tetraborate Hydrogel Dressings with Self-Healing, Antioxidant and Responsive Release of Tannic Acid.|https://dx.doi.org/10.3390/ma19040749
+Formulation and Biological Evaluation of Glycyrrhiza glabra L. Methanolic Extract: An Exploratory Study in the Context of Rosacea.|https://dx.doi.org/10.3390/antiox15020158

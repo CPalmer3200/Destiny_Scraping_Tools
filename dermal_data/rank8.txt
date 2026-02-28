@@ -6,3 +6,4 @@ Decoding the biotic networks and functional potential of seamount sediments in t
 Nasal Tip Abscess in Diabetes: A Rare Encounter.|https://dx.doi.org/10.1002/ccr3.72128
 Changes in nasal and throat microbiota composition during and after mupirocin and chlorhexidine decolonisation treatment in asymptomatic MRSA carriers: a longitudinal observational study.|https://dx.doi.org/10.1016/j.cmi.2026.02.020
 Effects of Age, Sex, and Social Network on Antibiotic Resistance Genes in the Gut Microbiome of Tibetan Macaques (Macaca thibetana).|https://dx.doi.org/10.1002/ece3.73137
+Outpatient Cutaneous Wound Care in the United States: Specialty Distribution and Antimicrobial Prescribing Patterns.|https://dx.doi.org/10.3390/antibiotics15020142

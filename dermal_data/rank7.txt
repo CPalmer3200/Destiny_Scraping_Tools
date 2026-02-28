@@ -12,3 +12,6 @@ Polyvinyl alcohol/pectin hydrogels incorporating marine elastin hydrolysates for
 Enzyme responsive antimicrobial hyaluronan-nanocellulose hybrid wound dressings for the treatment of infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2026.01.042
 Lactilactobacillus curvatus TH19-7: a broad-spectrum antimicrobial probiotic targeting skin pathogens and mitigating infection-associated dermal damage in vitro.|https://dx.doi.org/10.1007/s00203-026-04763-3
 Hyperglycemia promotes maladaptive Dectin-1 signaling and impairs skin antifungal host defense.|https://dx.doi.org/10.64898/2026.02.11.705431
+Formulation and evaluation of a dual-drug film-forming topical gel for synergistic antifungal therapy against cutaneous candidiasis.|https://dx.doi.org/10.1016/j.xphs.2026.104222
+Development and Physicochemical Characterisation of Probiotic Emulsions Containing Lactobacillus rhamnosus for Potential Dermal Applications.|https://dx.doi.org/10.3390/pharmaceutics18020199
+Anticancer Activity of Microbial Biosurfactants Amphisin and Viscosinamide Against Melanoma Cells.|https://dx.doi.org/10.3390/molecules31040668

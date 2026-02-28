@@ -24,3 +24,10 @@ Antimicrobial and Antibiofilm Activities of Abietic Acid against Skin-Associated
 Quaternized Thiomers for Antibacterial Activity and Hyperinflammation Mitigation.|https://dx.doi.org/10.1021/acsinfecdis.5c01145
 The fungal pathogen Batrachochytrium dendrobatidis drives the relationship between environmental and amphibian skin microbiota.|https://dx.doi.org/10.1093/ismeco/ycag016
 3D-printed PRP-infused double-network hydrogels orchestrate inflammation resolution and vascular regeneration in infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.102841
+Antifungal potential of naphthoquinone derivatives: screening of shikonin-based compounds and mechanistic insights into 5,8-dihydroxy-1,4-naphthoquinone against Candida albicans in vitro and in vivo.|https://dx.doi.org/10.1128/spectrum.02438-25
+Novel Skin- and Oral-Derived Probiotic Candidates: Functional Evaluation and Application Perspectives.|https://dx.doi.org/10.3390/microorganisms14020385
+Antimicrobial Susceptibility Patterns and Biofilm Formation of Staphylococcus aureus Strains Isolated from Pediatric Patients with Atopic Dermatitis.|https://dx.doi.org/10.3390/microorganisms14020311
+Biological Characteristics and Comparative Genomic Analysis of Corynebacterium hindlerae from Bovine Skin Abscess.|https://dx.doi.org/10.3390/microorganisms14020309
+Effects of Piper betle Leaf Extract-Coated Suture Material on Clinical Strains of Staphylococcus aureus and Staphylococcus pseudintermedius Isolated from Skin-Infected Dogs.|https://dx.doi.org/10.3390/ani16040543
+Pathogen Profiling in Reverse Total Shoulder Arthroplasty: Virulence Traits of Clinical Isolates Before and After Intraoperative Povidone-Iodine Irrigation.|https://dx.doi.org/10.3390/antibiotics15020129
+The Evolution of Symbiosis in Staphylococcus epidermidis: From a Protective Mutualist to a Parasitic Pathogen.|https://dx.doi.org/10.3390/biom16020334

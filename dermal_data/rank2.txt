@@ -46,3 +46,12 @@ Do Immediate Perioperative Glucose Measurements Predict Outcomes in Non-Elective
 Bimetallic Nanozymes/Polypyrrole/Methylene Blue Platform for Photothermal and Catalytic Biofilm Disruption and Angiogenesis Enhancement in Diabetic Wound Healing.|https://dx.doi.org/10.1002/smsc.202500445
 Integrating clinical data into evidence-based practice: institutional guideline development for diabetic foot infections.|https://dx.doi.org/10.3389/fendo.2026.1752211
 Recent Advances in Nanozymes Toward Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/IJN.S576610
+Management and outcomes of people presenting with new diabetes-related foot infections: a prospective observational study from Australia and New Zealand.|https://dx.doi.org/10.1136/bmjdrc-2025-005888
+Multifunctional ZIF-91-Based GelMA Hydrogel Microneedles Patch with Antibacterial and Anti-Inflammatory Effects for Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsami.5c25697
+Dermomina(®) clay achieves high closure rates in non-infected diabetic foot ulcers.|https://dx.doi.org/10.3389/fendo.2026.1742928
+Chitosan-Nanoencapsulated Curcumin for the Treatment of Diabetic Foot Ulcers: A Review.|https://dx.doi.org/10.3390/polym18040511
+Combined Effects of Amikacin and Methylene Blue-Mediated Photodynamic Therapy on Pseudomonas aeruginosa Biofilms Mimicking Mono- and Polymicrobial Diabetic Foot Ulcer Infections.|https://dx.doi.org/10.3390/pathogens15020226
+Evaluation of Neutrophil-to-Lymphocyte Ratio and CRP-to-Albumin Ratio in the Risk Stratification of Diabetic Foot Infection Severity.|https://dx.doi.org/10.3390/medicina62020393
+Transcutaneous Carbon Dioxide Therapy Significantly Accelerates Diabetic Foot Ulcer Healing: A Multicentre Randomised Controlled Trial.|https://dx.doi.org/10.3390/biomedicines14020422
+Effects of Treatment with Glucagon-like Peptide-1 Receptor Analogues on the Diabetic Foot.|https://dx.doi.org/10.3390/biomedicines14020406
+Galectins: Role and Therapeutics in Diabetes and Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/biom16020232
