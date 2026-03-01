@@ -55,3 +55,5 @@ Evaluation of Neutrophil-to-Lymphocyte Ratio and CRP-to-Albumin Ratio in the Ris
 Transcutaneous Carbon Dioxide Therapy Significantly Accelerates Diabetic Foot Ulcer Healing: A Multicentre Randomised Controlled Trial.|https://dx.doi.org/10.3390/biomedicines14020422
 Effects of Treatment with Glucagon-like Peptide-1 Receptor Analogues on the Diabetic Foot.|https://dx.doi.org/10.3390/biomedicines14020406
 Galectins: Role and Therapeutics in Diabetes and Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/biom16020232
+Orthopaedic care pathway for diabetic foot disease : experience from a UK rural district general hospital.|https://dx.doi.org/10.1302/0301-620X.108B3.BJJ-2025-0480.R1
+Management of the acute diabetic foot : an update.|https://dx.doi.org/10.1302/0301-620X.108B3.BJJ-2025-0063.R2
