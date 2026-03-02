@@ -17,3 +17,4 @@ A rare case of partial Shone complex in adulthood: coarctation-site methicillin-
 3D-Printed PLDLA-TMC/PEG 400 Vascular Scaffolds with a Poly(hexamethylene Biguanide) Antibacterial Coating.|https://dx.doi.org/10.3390/pharmaceutics18020204
 Healthcare-Associated Conjunctivitis in the NICU: Microbiological Spectrum, Antimicrobial Resistance and Treatment Patterns.|https://dx.doi.org/10.3390/pathogens15020209
 Integrating MALDI-TOF Mass Spectrometry and Machine Learning for Rapid and Clinically Relevant Differentiation of MRSA and MSSA.|https://dx.doi.org/10.3390/pathogens15020191
+Oritavancin in Complicated Bloodstream Infections and Endocarditis in Spain and Italy (ORIBAC Study): A Retrospective Multicenter Observational Study.|https://dx.doi.org/10.1007/s40121-026-01314-7
