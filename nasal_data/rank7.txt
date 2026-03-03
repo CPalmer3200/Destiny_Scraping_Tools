@@ -18,3 +18,10 @@ A rare case of partial Shone complex in adulthood: coarctation-site methicillin-
 Healthcare-Associated Conjunctivitis in the NICU: Microbiological Spectrum, Antimicrobial Resistance and Treatment Patterns.|https://dx.doi.org/10.3390/pathogens15020209
 Integrating MALDI-TOF Mass Spectrometry and Machine Learning for Rapid and Clinically Relevant Differentiation of MRSA and MSSA.|https://dx.doi.org/10.3390/pathogens15020191
 Oritavancin in Complicated Bloodstream Infections and Endocarditis in Spain and Italy (ORIBAC Study): A Retrospective Multicenter Observational Study.|https://dx.doi.org/10.1007/s40121-026-01314-7
+Ultrasound-activated MoS₂@Fe₃O₄ nanoplatform orchestrates biofilm disruption and immune reprogramming in implant-associated infections.|https://dx.doi.org/10.1186/s12951-025-03995-7
+[Post-travel recurrent furunculosis].|https://dx.doi.org/10.1556/650.2026.33494
+Antimicrobial efficacy of Bifidobacterium longum FB1-4 cell-free supernatant against MRSA: insights into mechanisms and food matrix application.|https://dx.doi.org/10.1128/spectrum.00991-25
+Evolving Aerobic Bacterial Skin Flora and Healthcare-Associated Infections Among Intensive Care Unit Patients at a Tertiary Care Hospital: A Therapeutic Concern.|https://dx.doi.org/10.7759/cureus.102408
+Microbiome dysbiosis and therapeutic restoration in atopic dermatitis.|https://dx.doi.org/10.3389/fcimb.2026.1693905
+Multifunctional Hydrogel with Dual Functions of ROS Scavenging and Responsive Antibiotic Release for Synergistic Oral Mucositis Treatment.|https://dx.doi.org/10.1021/acsomega.5c10961
+Infective Endocarditis in Patients with Mitral Annular Calcification: Clinical and Echocardiographic Presentation, Management, and Outcomes.|https://dx.doi.org/10.1016/j.cjco.2025.10.020
