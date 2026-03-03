@@ -20,3 +20,4 @@ Emerging Therapeutic Approaches for Modulating the Intestinal Microbiota.|https:
 Oral Vancomycin in the Treatment of Clostridioides difficile Infection: A Single-Center Observational Study in Southern Poland (2016-2022), Involving 528,887 Hospitalized Patients.|https://dx.doi.org/10.3390/antibiotics15020161
 Antimicrobial Susceptibility of Clostridioides difficile in Spain: Multicenter Retrospective Cohort Study.|https://dx.doi.org/10.3390/antibiotics15020145
 Synergistic Toxicity of Cold Gas Plasma and Cisplatin in Bladder Cancer Cells.|https://dx.doi.org/10.3390/cancers18040675
+Associations between suppressive antibiotic therapy, treatment failure, and side effects among young, immunocompetent veterans with prosthetic joint infection who undergo debridement, antibiotics, and implant retention.|https://dx.doi.org/10.1017/ash.2025.10273
