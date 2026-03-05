@@ -23,3 +23,5 @@ Synergistic Toxicity of Cold Gas Plasma and Cisplatin in Bladder Cancer Cells.|h
 Associations between suppressive antibiotic therapy, treatment failure, and side effects among young, immunocompetent veterans with prosthetic joint infection who undergo debridement, antibiotics, and implant retention.|https://dx.doi.org/10.1017/ash.2025.10273
 Genomic evolution and re-emergence of a multidrug-resistant Clostridioides difficile RT027 clone with reduced vancomycin susceptibility driving a prolonged hospital outbreak.|https://dx.doi.org/10.1080/22221751.2026.2640707
 Phylogenomic analysis of the collagen-like BclA proteins in Clostridioides difficile.|https://dx.doi.org/10.1128/aem.01582-25
+Engaging Patient and Caregiver Partners in Codeveloping a Patient Educational Video for Improving Clostridioides difficile Infection Education: Participatory Co-Design Study.|https://dx.doi.org/10.2196/81643
+Push Enteroscopic Jejunal and Ileoscopic Delivery of Fecomicrobiota Transplantation (FMT) for Treatment of Clostridioides difficile Enteritis in a Patient With a Total Colectomy and Ileal Pouch-Anal Anastomosis (IPAA): A Case Report.|https://dx.doi.org/10.1002/jgh3.70381
