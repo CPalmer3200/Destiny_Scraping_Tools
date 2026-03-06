@@ -30,3 +30,5 @@ Oral and rectal colonization of Gram-negative antimicrobial-resistant bacteria a
 Infective endocarditis treated surgically: correlation between imaging, and surgical findings.|https://dx.doi.org/10.1007/s10554-026-03676-y
 Methicillin Resistant Staphylococcus Aureus Colonization, The Tip of the Iceberg for Congenital Pulmonary Airway Malformation. A Case Report.|https://dx.doi.org/10.7417/CT.2026.1994
 Electrospun Silk Fibroin/Poly(Vinyl Alcohol) Nanofibrous Dressings Co-Loaded With Teicoplanin and Liposomal Curcumin: Fabrication, Physicochemical Characterization, and Antibacterial Performance.|https://dx.doi.org/10.1002/jbma.70040
+MOF-reinforced NIR-responsive composite hydrogel with photothermal antibacterial and antioxidant activities for diabetic wound healing.|https://dx.doi.org/10.1039/d6bm00157b
+Leukocytoclastic Vasculitis Induced by Dalbavancin: A Case Report.|https://dx.doi.org/10.12659/AJCR.949653

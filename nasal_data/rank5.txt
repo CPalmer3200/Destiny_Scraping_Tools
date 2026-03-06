@@ -9,3 +9,4 @@ Development of a preliminary exploratory index to predict safety of same-day dis
 Antibacterial Effects of Nanobubble Water and Its Potential Application in Healthcare-associated Infection Control.|https://dx.doi.org/10.21873/invivo.14245
 Preoperative Lower Back Pain Is a Risk Factor for Worse Physical Well-Being of the Abdomen After Breast Reconstruction.|https://dx.doi.org/10.1055/a-2824-6370
 Development and Validation of a Risk Prediction Model for Postoperative Pulmonary Infection in Renal Transplant Patients.|https://dx.doi.org/10.1016/j.transproceed.2026.02.013
+An Overview of Red Breast Syndrome: A Qualitative Systematic Review of the Literature and a Single-center Case Series.|https://dx.doi.org/10.1093/asj/sjag053

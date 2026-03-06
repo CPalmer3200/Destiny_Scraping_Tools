@@ -5,3 +5,5 @@ Outpatient Cutaneous Wound Care in the United States: Specialty Distribution and
 A Case of Subungual Squamous Cell Carcinoma Treated with Local Resection and Adjunctive ALA-PDT.|https://dx.doi.org/10.1016/j.pdpdt.2026.105418
 Synthesis and characterization of Au@SiO(2)core-shell nanostructures for improved antibiotic delivery systems.|https://dx.doi.org/10.1016/j.nano.2026.102921
 Electrospun PVA-PCL/HA nanofiber scaffolds containing mupirocin for surgical wound healing in Sprague Dawley rats.|https://dx.doi.org/10.1016/j.xphs.2026.104221
+T-cell-mediated immunity in mastitis: pathogen-driven cytokine networks and implications for applied microbiology.|https://dx.doi.org/10.1093/jambio/lxag067
+Investigation of Possible Cardiac Manifestations of Dysautonomia in a Patient With Acquired Ondine's Curse Syndrome: A Rare Clinical Case Report.|https://dx.doi.org/10.7759/cureus.102760
