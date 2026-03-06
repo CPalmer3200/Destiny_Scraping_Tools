@@ -2,3 +2,4 @@ A Case of Subungual Squamous Cell Carcinoma Treated with Local Resection and Adj
 Synthesis and characterization of Au@SiO(2)core-shell nanostructures for improved antibiotic delivery systems.|https://dx.doi.org/10.1016/j.nano.2026.102921
 Electrospun PVA-PCL/HA nanofiber scaffolds containing mupirocin for surgical wound healing in Sprague Dawley rats.|https://dx.doi.org/10.1016/j.xphs.2026.104221
 Effectiveness of polyhexanide, chlorhexidine with neomycin and mupirocin for nasal methicillin-resistant Staphylococcus aureus (MRSA) decolonisation: non-inferiority RCT (TIDE).|https://dx.doi.org/10.3310/GJMR0715
+Characterization of the clade 4 non-toxigenic C. difficile isolate L-NTCD03 carrying the cfr(B) gene.|https://dx.doi.org/10.1093/femsmc/xtag010
