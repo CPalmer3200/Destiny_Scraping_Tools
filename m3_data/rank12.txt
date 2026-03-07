@@ -6,3 +6,4 @@ PCR Cycle Threshold-Guided Management of Pediatric Clostridioides difficile Infe
 The Impact of Disinfecting Non-Sterile Disposable Gloves on the Level of Microbiological Contamination in Clinical Practice.|https://dx.doi.org/10.3390/microorganisms14020286
 Etiologic Patterns and Evolution of Healthcare-Associated Infections in the Pandemic and Post-Pandemic Periods: A County-Level Multicenter Study from Southeastern Romania.|https://dx.doi.org/10.3390/antibiotics15020214
 Evaluation of Antibiotic Use Metrics as Predictors of Clostridioides difficile Infection Onset: A Single-Center, Case-Control Study Assessing the Days of Therapy and the Days of Antibiotic Spectrum Coverage.|https://dx.doi.org/10.1248/bpb.b25-00683
+Trends, predictors, and association of surgical timing with mortality among patients with Clostridioides difficile infection requiring colectomy: a cohort study.|https://dx.doi.org/10.1017/ice.2026.10411

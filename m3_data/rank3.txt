@@ -6,3 +6,4 @@ All-cause mortality and risk factors for death in patients with Clostridioides d
 Molecular basis of linezolid resistance in Finegoldia spp. from orthopedic infections.|https://dx.doi.org/10.1128/aac.01702-25
 No Increased Risk of Infection Following a Protocol Change to Decrease Duration of Perioperative Antibiotic Prophylaxis in Liver Transplantation.|https://dx.doi.org/10.1111/tid.70192
 Early risperidone exposure impairs cognitive function by perturbation of the gut microbiome and bile acids/tyrosine-PTP1B axis.|https://dx.doi.org/10.1186/s40168-026-02358-0
+Isolation of Clostridioides difficile from the atmospheric fine particulate matter.|https://dx.doi.org/10.1186/s12866-026-04888-x

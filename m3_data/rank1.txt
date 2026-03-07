@@ -25,3 +25,4 @@ Genomic evolution and re-emergence of a multidrug-resistant Clostridioides diffi
 Phylogenomic analysis of the collagen-like BclA proteins in Clostridioides difficile.|https://dx.doi.org/10.1128/aem.01582-25
 Engaging Patient and Caregiver Partners in Codeveloping a Patient Educational Video for Improving Clostridioides difficile Infection Education: Participatory Co-Design Study.|https://dx.doi.org/10.2196/81643
 Push Enteroscopic Jejunal and Ileoscopic Delivery of Fecomicrobiota Transplantation (FMT) for Treatment of Clostridioides difficile Enteritis in a Patient With a Total Colectomy and Ileal Pouch-Anal Anastomosis (IPAA): A Case Report.|https://dx.doi.org/10.1002/jgh3.70381
+Saccharomyces cerevisiae 48338 Suppresses Antibiotic-Induced Clostridioides difficile Infection in a Murine Model.|https://dx.doi.org/10.1007/s12602-026-10970-7
