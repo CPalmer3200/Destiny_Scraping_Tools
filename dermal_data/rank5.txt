@@ -1,3 +1,9 @@
 Antifungal activity of the antimicrobial peptide RP557 against priority fungal pathogens.|https://dx.doi.org/10.1099/mic.0.001663
 Dissolving microneedles for cellulitis: a systematic review.|https://dx.doi.org/10.1080/09205063.2026.2636771
 Part I. The role of Staphylococcus aureus in the pathophysiology of dermatologic disease.|https://dx.doi.org/10.1016/j.jaad.2025.12.127
+Novel β-Carboline Derivative ZLWH-67 Exerts Potent Anti-MRSA Activity through Multiple Mechanisms.|https://dx.doi.org/10.1021/acsinfecdis.5c01020
+Exploring the Role of Cathelicidin LL-37 and Ceragenins in Wound Healing Processes.|https://dx.doi.org/10.1016/j.ejphar.2026.178727
+Antimicrobial, anti-inflammatory, and antioxidant effect of onion peel extract (Allium cepa L.) on periodontal pathogen Porphyromonas gingivalis: An in vitro analysis.|https://dx.doi.org/10.1097/MD.0000000000047313
+Metabolic and Regulatory Adaptations of Staphylococcus epidermidis to Host Stresses.|https://dx.doi.org/10.1093/femsre/fuag008
+Staphylococcus epidermidis DnaK alters biofilm formation and proteome in Staphylococcus aureus CIP 107093.|https://dx.doi.org/10.3389/fmicb.2025.1705130
+Immunoinformatics approach to engineer a multi-epitope vaccine against SdrG in skin commensal Staphylococcus epidermidis.|https://dx.doi.org/10.1371/journal.pone.0327534
