@@ -7,3 +7,6 @@ Synthesis and characterization of Au@SiO(2)core-shell nanostructures for improve
 Electrospun PVA-PCL/HA nanofiber scaffolds containing mupirocin for surgical wound healing in Sprague Dawley rats.|https://dx.doi.org/10.1016/j.xphs.2026.104221
 T-cell-mediated immunity in mastitis: pathogen-driven cytokine networks and implications for applied microbiology.|https://dx.doi.org/10.1093/jambio/lxag067
 Investigation of Possible Cardiac Manifestations of Dysautonomia in a Patient With Acquired Ondine's Curse Syndrome: A Rare Clinical Case Report.|https://dx.doi.org/10.7759/cureus.102760
+Aerobic pathogen profiles and antibiotic resistance in diabetic foot ulcers: Data from a Specialized Diabetes Center in Jordan.|https://dx.doi.org/10.1097/MD.0000000000047908
+Severe sleep-related hypoventilation in antibody-positive and antibody-negative autoimmune encephalitis: an emergency.|https://dx.doi.org/10.1183/13993003.01848-2025
+Immunoinformatics approach to engineer a multi-epitope vaccine against SdrG in skin commensal Staphylococcus epidermidis.|https://dx.doi.org/10.1371/journal.pone.0327534

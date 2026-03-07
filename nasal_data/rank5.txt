@@ -10,3 +10,6 @@ Antibacterial Effects of Nanobubble Water and Its Potential Application in Healt
 Preoperative Lower Back Pain Is a Risk Factor for Worse Physical Well-Being of the Abdomen After Breast Reconstruction.|https://dx.doi.org/10.1055/a-2824-6370
 Development and Validation of a Risk Prediction Model for Postoperative Pulmonary Infection in Renal Transplant Patients.|https://dx.doi.org/10.1016/j.transproceed.2026.02.013
 An Overview of Red Breast Syndrome: A Qualitative Systematic Review of the Literature and a Single-center Case Series.|https://dx.doi.org/10.1093/asj/sjag053
+Neoadjuvant TACE combined with chemo-immunotherapy for giant triple-negative breast cancer: a case report.|https://dx.doi.org/10.3389/fimmu.2026.1739817
+Global, regional, and national burden of breast cancer among females, 1990-2023, with forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2023.|https://dx.doi.org/10.1016/S1470-2045(25)00730-2
+Microductectomy under local anaesthetic for pathological nipple discharge. Is it time to change practice?|https://dx.doi.org/10.36303/SAJS.02501
