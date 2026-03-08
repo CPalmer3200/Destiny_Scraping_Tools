@@ -1,9 +1,0 @@
-ZBTB16 Controls the Onset of Clostridium difficile Colitis through the Pyrin Inflammasome.|https://dx.doi.org/10.1016/j.phrs.2026.108133
-Odoribacter splanchnicus inhibits toxin production in Clostridioides difficile: insights from clinical correlation and in vitro validation.|https://dx.doi.org/10.3389/fmicb.2026.1741232
-5,6-Fused heterocycle cholate derivatives as spore germination inhibitors of Clostridioides difficile.|https://dx.doi.org/10.1016/j.bmc.2026.118580
-Adjunctive use of Saccharomyces boulardii versus bismuth subsalicylate in the management of non-Clostridioides difficile nosocomial diarrhea in severely ill patients: a three-arm randomized controlled trial.|https://dx.doi.org/10.21037/tgh-25-68
-PCR Cycle Threshold-Guided Management of Pediatric Clostridioides difficile Infections.|https://dx.doi.org/10.3390/microorganisms14020313
-The Impact of Disinfecting Non-Sterile Disposable Gloves on the Level of Microbiological Contamination in Clinical Practice.|https://dx.doi.org/10.3390/microorganisms14020286
-Etiologic Patterns and Evolution of Healthcare-Associated Infections in the Pandemic and Post-Pandemic Periods: A County-Level Multicenter Study from Southeastern Romania.|https://dx.doi.org/10.3390/antibiotics15020214
-Evaluation of Antibiotic Use Metrics as Predictors of Clostridioides difficile Infection Onset: A Single-Center, Case-Control Study Assessing the Days of Therapy and the Days of Antibiotic Spectrum Coverage.|https://dx.doi.org/10.1248/bpb.b25-00683
-Trends, predictors, and association of surgical timing with mortality among patients with Clostridioides difficile infection requiring colectomy: a cohort study.|https://dx.doi.org/10.1017/ice.2026.10411
