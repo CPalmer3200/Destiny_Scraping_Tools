@@ -7,3 +7,4 @@ Antimicrobial, anti-inflammatory, and antioxidant effect of onion peel extract (
 Metabolic and Regulatory Adaptations of Staphylococcus epidermidis to Host Stresses.|https://dx.doi.org/10.1093/femsre/fuag008
 Staphylococcus epidermidis DnaK alters biofilm formation and proteome in Staphylococcus aureus CIP 107093.|https://dx.doi.org/10.3389/fmicb.2025.1705130
 Immunoinformatics approach to engineer a multi-epitope vaccine against SdrG in skin commensal Staphylococcus epidermidis.|https://dx.doi.org/10.1371/journal.pone.0327534
+A hydrogel-based bacteriophage cocktail targeting carbapenem-resistant Pseudomonas aeruginosa in an ex vivo porcine skin model.|https://dx.doi.org/10.1016/j.jhin.2026.02.012
