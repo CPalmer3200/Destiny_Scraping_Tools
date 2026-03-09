@@ -39,3 +39,5 @@ Evaluation of sternoclavicular joint infection in adults, 2020 to 2025.|https://
 Digital misinformation and antimicrobial stewardship: cross-platform epidemiologic signals from a decade of online discourse (2015-2025).|https://dx.doi.org/10.1017/ice.2026.10423
 Pan-genome analysis of methicillin-resistant Staphylococcus aureus PSU20 from a hospital in Thailand reveals insights into virulence, antibiotic resistance, and genetic diversity.|https://dx.doi.org/10.1016/j.micpath.2026.108429
 Dual Crosslinked Thermosensitive Hydrogel Engineered with Multiple Dynamic Hydrogen Bonds for Enhanced Photodynamic Antibacterial Activity and Wound Healing.|https://dx.doi.org/10.1016/j.actbio.2026.03.002
+Staphylococcus aureus Augments Epithelial Skin Barrier Damage Through T Cell Activation in Cutaneous T Cell Lymphoma.|https://dx.doi.org/10.1111/all.70292
+[Antibiotic Stewardship in Nosocomial Pneumonia].|https://dx.doi.org/10.1055/a-2757-0710
