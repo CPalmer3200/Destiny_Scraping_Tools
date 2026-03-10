@@ -10,3 +10,5 @@ Investigation of Possible Cardiac Manifestations of Dysautonomia in a Patient Wi
 Aerobic pathogen profiles and antibiotic resistance in diabetic foot ulcers: Data from a Specialized Diabetes Center in Jordan.|https://dx.doi.org/10.1097/MD.0000000000047908
 Severe sleep-related hypoventilation in antibody-positive and antibody-negative autoimmune encephalitis: an emergency.|https://dx.doi.org/10.1183/13993003.01848-2025
 Immunoinformatics approach to engineer a multi-epitope vaccine against SdrG in skin commensal Staphylococcus epidermidis.|https://dx.doi.org/10.1371/journal.pone.0327534
+Intranasal povidone-iodine concentration and olfactory recovery after endoscopic endonasal pituitary surgery.|https://dx.doi.org/10.1007/s11102-026-01659-9
+Safety, Efficacy, and Immunogenicity of a Multivalent Adjuvanted S. aureus Vaccine in Adults with Recent Skin And Soft Tissue Infections: An Observer-blind, Randomized, Placebo-controlled, Multinational Phase 1/2 Trial.|https://dx.doi.org/10.1093/cid/ciag162

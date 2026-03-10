@@ -41,3 +41,12 @@ Pan-genome analysis of methicillin-resistant Staphylococcus aureus PSU20 from a 
 Dual Crosslinked Thermosensitive Hydrogel Engineered with Multiple Dynamic Hydrogen Bonds for Enhanced Photodynamic Antibacterial Activity and Wound Healing.|https://dx.doi.org/10.1016/j.actbio.2026.03.002
 Staphylococcus aureus Augments Epithelial Skin Barrier Damage Through T Cell Activation in Cutaneous T Cell Lymphoma.|https://dx.doi.org/10.1111/all.70292
 [Antibiotic Stewardship in Nosocomial Pneumonia].|https://dx.doi.org/10.1055/a-2757-0710
+Septic embolus resulting in M1 occlusion with separate, multiple distal mycotic aneurysms, complicated by surrounding concurrent cerebral abscess: illustrative case.|https://dx.doi.org/10.3171/CASE25902
+Re-operative hemi-commando operation without a homograft: an alternative approach for complex aortic root abscess.|https://dx.doi.org/10.1510/mmcts.2025.165
+Multi-Omics Integration Identifies Immune-ECM Dysregulation and Candidate Biomarkers of Infected High-Stage Pressure Injury in a Novel Aged-Rat Model.|https://dx.doi.org/10.1096/fj.202504123R
+Surgical Site Infections in Mozambique: A Literature Review of Incidence, Antimicrobial Resistance, Risk Factors, and Surveillance Practices.|https://dx.doi.org/10.5334/aogh.5143
+Degradation-tunable coating with sustained silver release for spinal implants to prevent postoperative infections.|https://dx.doi.org/10.1016/j.bioactmat.2026.02.035
+Mobile phone contamination among hospital staff: Focus on MRSA and ESBL-producing bacteria.|https://dx.doi.org/10.1177/17571774261431982
+Purulent Pericarditis With Cardiac Tamponade Triggered by Left-Sided Infective Endocarditis in Active Systemic Lupus Erythematosus: A Case Report.|https://dx.doi.org/10.7759/cureus.102897
+Biopierces: drug-eluting ear tags for infection prevention in animal tagging.|https://dx.doi.org/10.3389/fvets.2025.1696488
+Evaluating Risk Factors for Short Versus Long Hospital Stay for Cellulitis to Guide the Development of a Long-acting Lipoglycopeptide Use Decision Algorithm.|https://dx.doi.org/10.1177/10600280251355631
