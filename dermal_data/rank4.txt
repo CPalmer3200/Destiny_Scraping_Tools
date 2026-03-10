@@ -8,3 +8,6 @@ MOF-reinforced NIR-responsive composite hydrogel with photothermal antibacterial
 Quail Egg White-Gelatin Nanocomposite Films With rGO-ZnO-Ag Nanocomposite for Antimicrobial and Scar-Reducing Skin Regeneration.|https://dx.doi.org/10.1002/jbm.b.70050
 Dual Crosslinked Thermosensitive Hydrogel Engineered with Multiple Dynamic Hydrogen Bonds for Enhanced Photodynamic Antibacterial Activity and Wound Healing.|https://dx.doi.org/10.1016/j.actbio.2026.03.002
 Matrix-Dependent Effects of Phytic Acid on Konjac Glucomannan and Hyaluronic Acid Films for Biomedical Applications.|https://dx.doi.org/10.1002/jbm.a.70056
+Chitosan-Hyaluronic Acid Composite Hydrogel with Slow-Release Hydrogen Sulfide and Cerium Oxide for Multifunctional Synergy to Promote Healing of Infected Wounds.|https://dx.doi.org/10.2147/IJN.S538774
+A chitosan-tea polyphenol composite hydrogel with integrated antibacterial, antioxidant and immunomodulatory functions for the tissue regeneration of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bioorg.2026.109722
+A synergistic Janus nanofiber dressing enables spatiotemporal sequential treatment of acute wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.214784

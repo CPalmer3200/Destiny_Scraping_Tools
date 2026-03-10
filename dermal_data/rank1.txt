@@ -1,2 +1,5 @@
 Thermosensitive Chitosan-Hyaluronic Acid Hydrogel for Sustained Betamethasone and Levofloxacin Delivery in Corneal Wound Healing.|https://dx.doi.org/10.1167/tvst.15.3.2
 A multiphasic core-shell flurbiprofen and ciprofloxacin-loaded nanofibrous dressing cures infected burns via dual control of infection and inflammatory response.|https://dx.doi.org/10.1039/d5bm01645b
+Multi-Omics Integration Identifies Immune-ECM Dysregulation and Candidate Biomarkers of Infected High-Stage Pressure Injury in a Novel Aged-Rat Model.|https://dx.doi.org/10.1096/fj.202504123R
+Multi-enzyme active temperature-sensitive hydrogel with reactive oxygen species scavenging and antimicrobial capacity for diabetic wound repair.|https://dx.doi.org/10.1093/burnst/tkaf076
+Microbiological profile of bloodstream infections in burn patients admitted to a tertiary care hospital: A descriptive cross-sectional study.|https://dx.doi.org/10.1177/00494755261428923
