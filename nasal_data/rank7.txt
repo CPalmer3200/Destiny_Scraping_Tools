@@ -50,3 +50,4 @@ Mobile phone contamination among hospital staff: Focus on MRSA and ESBL-producin
 Purulent Pericarditis With Cardiac Tamponade Triggered by Left-Sided Infective Endocarditis in Active Systemic Lupus Erythematosus: A Case Report.|https://dx.doi.org/10.7759/cureus.102897
 Biopierces: drug-eluting ear tags for infection prevention in animal tagging.|https://dx.doi.org/10.3389/fvets.2025.1696488
 Evaluating Risk Factors for Short Versus Long Hospital Stay for Cellulitis to Guide the Development of a Long-acting Lipoglycopeptide Use Decision Algorithm.|https://dx.doi.org/10.1177/10600280251355631
+An Unexpected Cause of Diabetic Foot Ulcer Infection: Pasteurella multocida.|https://dx.doi.org/10.7759/cureus.103107
