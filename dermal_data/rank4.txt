@@ -12,3 +12,5 @@ Chitosan-Hyaluronic Acid Composite Hydrogel with Slow-Release Hydrogen Sulfide a
 A chitosan-tea polyphenol composite hydrogel with integrated antibacterial, antioxidant and immunomodulatory functions for the tissue regeneration of MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bioorg.2026.109722
 A synergistic Janus nanofiber dressing enables spatiotemporal sequential treatment of acute wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.214784
 Sodium alginate-based hydrogel beads encapsulating curcumin-selenium nanoparticles for enhanced antioxidant, antimicrobial, and edible oil preservation.|https://dx.doi.org/10.1016/j.foodchem.2026.148626
+A potent antioxidant and antimicrobial caffeic acid-Cu(2+) crosslinked gelatin hydrogel for rapid hemostasis and inflammation-resolving wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.214809
+Bacterial biosurfactant-reinforced chitooligosaccharide/polyvinyl alcohol hydrogels accelerate methicillin-resistant Staphylococcus aureus-infected wound healing by attenuating its virulence factors.|https://dx.doi.org/10.1016/j.ajps.2026.101118

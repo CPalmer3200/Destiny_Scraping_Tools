@@ -11,3 +11,5 @@ A hydrogel-based bacteriophage cocktail targeting carbapenem-resistant Pseudomon
 Unraveling the Enigmatic Behavior of Cutibacterium acnes: Exploring Clinical Correlations and Behaviors of Clinical Strains in Prosthetic Joint Infections.|https://dx.doi.org/10.1155/ijm/8475639
 Carboxymethyl inulin functionalized gold nanoclusters within a chitosan matrix for biocompatible photothermal and anticancer theranostics.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151296
 CAMPER: mechanistic artificial intelligence for designing peptides that target MRSA persisters.|https://dx.doi.org/10.1038/s41467-026-70348-9
+[Delafloxacin: what does a new fluoroquinolone offer?].|https://dx.doi.org/10.37201/req/151.2026
+Nurses' Knowledge and Practices Related to Wound and Peri-Wound Cleansing in Canada.|https://dx.doi.org/10.1097/ASW.0000000000000407
