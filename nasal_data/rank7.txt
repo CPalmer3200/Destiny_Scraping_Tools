@@ -51,3 +51,6 @@ Purulent Pericarditis With Cardiac Tamponade Triggered by Left-Sided Infective E
 Biopierces: drug-eluting ear tags for infection prevention in animal tagging.|https://dx.doi.org/10.3389/fvets.2025.1696488
 Evaluating Risk Factors for Short Versus Long Hospital Stay for Cellulitis to Guide the Development of a Long-acting Lipoglycopeptide Use Decision Algorithm.|https://dx.doi.org/10.1177/10600280251355631
 An Unexpected Cause of Diabetic Foot Ulcer Infection: Pasteurella multocida.|https://dx.doi.org/10.7759/cureus.103107
+Brain Abscess Arising From Pansinusitis in an Immunocompetent Young Adult: A Diagnostic Challenge.|https://dx.doi.org/10.7759/cureus.103155
+Effectiveness of Doxycycline in Combination With Other Antibiotics for Gram-Positive Periprosthetic Joint Infections: A Causal Inference Study.|https://dx.doi.org/10.1093/ofid/ofag098
+Predominance of multidrug-resistant bacteria with high resistance to empiric antibiotics in diabetic foot ulcers: a cross-sectional study.|https://dx.doi.org/10.1038/s41598-026-42418-x
