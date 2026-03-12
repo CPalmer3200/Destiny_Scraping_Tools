@@ -1,2 +1,6 @@
 Clinical Guidance and Practical Recommendations for Probiotic Use in Patients With Irritable Bowel Syndrome, Functional Constipation, and Clostridium difficile Infection Considering Sex-based Differences.|https://dx.doi.org/10.5056/jnm25221
 Advance Microbiota Transplantation: A Novel Addition-Subtraction Paradigm for Optimising Faecal Microbiota Transplantation.|https://dx.doi.org/10.1111/1751-7915.70323
+Diagnosis and Treatment of Clostridioides difficile Infection.|https://dx.doi.org/10.1272/jnms.JNMS.2026_93-106
+Randomized double-blind clinical trial evaluating the effectiveness and safety of secondary prophylaxis with oral vancomycin versus placebo in the prevention of recurrence of clostridioides difficile infection in patients receiving systemic antibiotic therapy (PREVAN trial).|https://dx.doi.org/10.1093/jacamr/dlag032
+Methodological insights into fecal microbiota transplantation: Dissecting key approaches for success.|https://dx.doi.org/10.5662/wjm.v16.i1.108875
+Refractory Clostridioides difficile Colitis in a Patient With Hidradenitis Suppurativa: Consequences of Long-Term Clindamycin and Multi-agent Anti-TNF Therapy.|https://dx.doi.org/10.7759/cureus.104900
