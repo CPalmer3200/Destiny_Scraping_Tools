@@ -10,3 +10,9 @@ Analysis of the species distribution and drug resistance of pathogenic microorga
 Local Versus Systemic Antibiotics for Diabetic Foot Infection-A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/1753-0407.70201
 An Unexpected Cause of Diabetic Foot Ulcer Infection: Pasteurella multocida.|https://dx.doi.org/10.7759/cureus.103107
 Predominance of multidrug-resistant bacteria with high resistance to empiric antibiotics in diabetic foot ulcers: a cross-sectional study.|https://dx.doi.org/10.1038/s41598-026-42418-x
+Comparative assessment of large language models in diabetic foot infection management: alignment with IWGDF/IDSA guidelines.|https://dx.doi.org/10.3389/fendo.2026.1667159
+The efficacy of three antimicrobial dressings in the management of diabetic foot ulcers: a systematic review and network meta-analysis.|https://dx.doi.org/10.3389/fendo.2026.1780580
+Forefoot Charcot Neuroarthropathy following Forefoot Surgery in a Non-Diabetic Patient with Myelopathy: A Rare Presentation not to be Missed.|https://dx.doi.org/10.13107/jocr.2026.v16.i03.6888
+Interpreting biopsy-guided antimicrobial therapy in diabetic foot osteomyelitis: Is biopsy method really the key?|https://dx.doi.org/10.1093/cid/ciag167
+Ulcer bed biopsy for biopsy-guided antimicrobial therapy in diabetic foot osteomyelitis.|https://dx.doi.org/10.1093/cid/ciag168
+The Australia and New Zealand Diabetic and Ischaemic Foot Outcomes Study (ANZDIFOS).|https://dx.doi.org/10.1111/ans.70577

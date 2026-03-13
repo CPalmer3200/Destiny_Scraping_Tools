@@ -13,3 +13,5 @@ Carboxymethyl inulin functionalized gold nanoclusters within a chitosan matrix f
 CAMPER: mechanistic artificial intelligence for designing peptides that target MRSA persisters.|https://dx.doi.org/10.1038/s41467-026-70348-9
 [Delafloxacin: what does a new fluoroquinolone offer?].|https://dx.doi.org/10.37201/req/151.2026
 Nurses' Knowledge and Practices Related to Wound and Peri-Wound Cleansing in Canada.|https://dx.doi.org/10.1097/ASW.0000000000000407
+Probiotic cell wall components as emerging postbiotics: structural diversity, immunoregulatory mechanisms, and health applications.|https://dx.doi.org/10.1039/d6fo00491a
+Synergistic activity of caspofungin and posaconazole against Candida (Candidozyma) auris biofilms based on phenotypic, transcriptomic, and in vivo insights.|https://dx.doi.org/10.1128/spectrum.02686-25
