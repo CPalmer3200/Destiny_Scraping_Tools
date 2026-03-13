@@ -4,3 +4,4 @@ Diagnosis and Treatment of Clostridioides difficile Infection.|https://dx.doi.or
 Randomized double-blind clinical trial evaluating the effectiveness and safety of secondary prophylaxis with oral vancomycin versus placebo in the prevention of recurrence of clostridioides difficile infection in patients receiving systemic antibiotic therapy (PREVAN trial).|https://dx.doi.org/10.1093/jacamr/dlag032
 Methodological insights into fecal microbiota transplantation: Dissecting key approaches for success.|https://dx.doi.org/10.5662/wjm.v16.i1.108875
 Refractory Clostridioides difficile Colitis in a Patient With Hidradenitis Suppurativa: Consequences of Long-Term Clindamycin and Multi-agent Anti-TNF Therapy.|https://dx.doi.org/10.7759/cureus.104900
+Clostridioides difficile i nfections surveillance in Belgium: trends and insights from 2013 to 2024.|https://dx.doi.org/10.1016/j.jhin.2026.02.011
