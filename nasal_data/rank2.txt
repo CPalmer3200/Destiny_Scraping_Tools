@@ -5,3 +5,4 @@ Peroxyacetic Acid as a Low-Dose, pH-Stable Alternative to Sodium Hypochlorite fo
 Methicillin-resistant Staphylococcus lugdunensis in a neonatal intensive care unit: diagnostic challenges and emergence of multidrug-resistance.|https://dx.doi.org/10.3389/fmed.2026.1765608
 Optimization of vancomycin use in hospitalized patients with pneumonia through implementation of informatics based antimicrobial stewardship program (ASP) intervention.|https://dx.doi.org/10.1017/ice.2026.10421
 Reduced MGE burden, virulence optimization, and acid stress tolerance shape the clonal succession of MRSA ST59.|https://dx.doi.org/10.1126/sciadv.aeb3121
+Uncovering Type 2 inflammatory profiles in severe eosinophilic asthma with nasal polyps: the role of transcript-protein ratios and Staphylococcus aureus enterotoxin B-specific IgE.|https://dx.doi.org/10.15586/aei.v54i2.1486

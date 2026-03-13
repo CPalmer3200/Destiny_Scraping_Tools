@@ -54,3 +54,9 @@ An Unexpected Cause of Diabetic Foot Ulcer Infection: Pasteurella multocida.|htt
 Brain Abscess Arising From Pansinusitis in an Immunocompetent Young Adult: A Diagnostic Challenge.|https://dx.doi.org/10.7759/cureus.103155
 Effectiveness of Doxycycline in Combination With Other Antibiotics for Gram-Positive Periprosthetic Joint Infections: A Causal Inference Study.|https://dx.doi.org/10.1093/ofid/ofag098
 Predominance of multidrug-resistant bacteria with high resistance to empiric antibiotics in diabetic foot ulcers: a cross-sectional study.|https://dx.doi.org/10.1038/s41598-026-42418-x
+ROS-Scavenging Photothermal Hydrogel to Remodel the Diabetic Wound Microenvironment and Accelerate Healing.|https://dx.doi.org/10.1016/j.actbio.2026.03.017
+Coexistence of metallosis and prosthetic joint infection following metal-on-polyethylene total hip arthroplasty: a rare case report.|https://dx.doi.org/10.1097/RC9.0000000000000015
+Environmental Determinants of Surgical Site Infections in Abdominal Surgeries: A Scoping Review of Evidence from East Africa.|https://dx.doi.org/10.2147/JMDH.S577729
+Surgical and Functional outcome of Infective Knee Operated with Arthrotomy.|https://dx.doi.org/10.13107/jocr.2026.v16.i03.6984
+Emphysematous Esophagogastritis: a rare and life-threatening presentation of Streptococcus constellatus infection.|https://dx.doi.org/10.1016/j.jiac.2025.102835
+Suppressive antibiotic therapy for spinal hardware infection: a retrospective cohort study.|https://dx.doi.org/10.1186/s12879-026-12901-x
