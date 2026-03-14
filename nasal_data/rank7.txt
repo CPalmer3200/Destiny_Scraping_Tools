@@ -60,3 +60,8 @@ Environmental Determinants of Surgical Site Infections in Abdominal Surgeries: A
 Surgical and Functional outcome of Infective Knee Operated with Arthrotomy.|https://dx.doi.org/10.13107/jocr.2026.v16.i03.6984
 Emphysematous Esophagogastritis: a rare and life-threatening presentation of Streptococcus constellatus infection.|https://dx.doi.org/10.1016/j.jiac.2025.102835
 Suppressive antibiotic therapy for spinal hardware infection: a retrospective cohort study.|https://dx.doi.org/10.1186/s12879-026-12901-x
+Estimating changes in facility MRSA infection rates due to changes in MRSA precaution policy.|https://dx.doi.org/10.1093/cid/ciag176
+Filamentous surface structures drive biofilm formation in ICU-isolated Acinetobacter baumannii, Pseudomonas aeruginosa, and Staphylococcus aureus: implications for persistent environmental contamination.|https://dx.doi.org/10.1128/spectrum.02114-25
+Emergence of Dalbavancin, Vancomycin, and Daptomycin Cross-resistance in MRSA During Long-term LVAD Suppression With Vancomycin Followed by Dalbavancin: Genomic Insights and Synergy With Cefadroxil.|https://dx.doi.org/10.1093/ofid/ofag074
+Analyzing antibacterial potential of bellamya bengalensis derived peptide-silver nanoparticle conjugates over surgical implant surfaces.|https://dx.doi.org/10.3389/fphar.2025.1658027
+A Retrospective, Descriptive Analysis of MRSA Infections in a Low-Endemicity Region, Focusing on Empiric Treatment Adequacy.|https://dx.doi.org/10.2147/IDR.S556192
