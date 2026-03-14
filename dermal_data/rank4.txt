@@ -18,3 +18,4 @@ Electrospun polylactic acid (PLA)/Polycaprolactone (PCL) nanofibrous wound dress
 ROS-Scavenging Photothermal Hydrogel to Remodel the Diabetic Wound Microenvironment and Accelerate Healing.|https://dx.doi.org/10.1016/j.actbio.2026.03.017
 Digital Light Processing-Printed Nanozyme-Integrated Hydrogels Enable Spatiotemporal Immunomodulation and Repair of Infected Wounds.|https://dx.doi.org/10.1016/j.actbio.2026.03.013
 Bioinspired Metal-Ligand Coordination for Tuning the Mechanical Properties and Antibacterial Activity of Dual-Cross-Linked Hydrogels.|https://dx.doi.org/10.1021/acs.biomac.5c02161
+Biomimetic Multifunctional Hydrogels from Jelly Fig Polysaccharide (Ficus awkeotsang Makino), Alginate, and Genistein for Enhanced Diabetic Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.5c01754

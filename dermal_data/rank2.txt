@@ -16,3 +16,6 @@ Forefoot Charcot Neuroarthropathy following Forefoot Surgery in a Non-Diabetic P
 Interpreting biopsy-guided antimicrobial therapy in diabetic foot osteomyelitis: Is biopsy method really the key?|https://dx.doi.org/10.1093/cid/ciag167
 Ulcer bed biopsy for biopsy-guided antimicrobial therapy in diabetic foot osteomyelitis.|https://dx.doi.org/10.1093/cid/ciag168
 The Australia and New Zealand Diabetic and Ischaemic Foot Outcomes Study (ANZDIFOS).|https://dx.doi.org/10.1111/ans.70577
+Nano-Enabled Herbal Therapeutics for Diabetic Foot Ulcers: Translating Ethnopharmacological Bioactives into Advanced Wound Care.|https://dx.doi.org/10.1002/cbdv.202503644
+Propolis: a brief overview of its diverse pharmacological functions.|https://dx.doi.org/10.1007/s13205-026-04737-8
+Development and External Validation of a Machine Learning Model for Predicting Wound Infection in Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/DMSO.S586810
