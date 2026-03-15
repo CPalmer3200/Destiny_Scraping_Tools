@@ -13,3 +13,4 @@ Immunoinformatics approach to engineer a multi-epitope vaccine against SdrG in s
 Intranasal povidone-iodine concentration and olfactory recovery after endoscopic endonasal pituitary surgery.|https://dx.doi.org/10.1007/s11102-026-01659-9
 Safety, Efficacy, and Immunogenicity of a Multivalent Adjuvanted S. aureus Vaccine in Adults with Recent Skin And Soft Tissue Infections: An Observer-blind, Randomized, Placebo-controlled, Multinational Phase 1/2 Trial.|https://dx.doi.org/10.1093/cid/ciag162
 Bacterial isolates, antibiotic susceptibility, and determinants of positive blood culture in children with community-acquired pneumonia in Central Tanzania.|https://dx.doi.org/10.11604/pamj.2025.52.145.46769
+Prevalence of Streptococcus pneumoniae and Staphylococcus aureus co-colonization in healthy children under five years: a systematic review.|https://dx.doi.org/10.1186/s12887-026-06736-3

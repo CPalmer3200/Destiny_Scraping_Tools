@@ -30,3 +30,4 @@ Evidence-Based Steps to Mitigate Bacterial Contamination.|https://dx.doi.org/10.
 Surgical Outcomes of Prepectoral Two-Stage Breast Reconstruction in Patients Treated with Pembrolizumab or CDK4/6 Inhibitors.|https://dx.doi.org/10.1097/PRS.0000000000013032
 Surgical Safety and Risk Factors in 931 Consecutive Trans-axillary Reverse-Sequence Endoscopic Nipple-Sparing Mastectomies: A Retrospective Study.|https://dx.doi.org/10.1097/PRS.0000000000013027
 Postoperative complications after vacuum-assisted excision of benign breast tumors and their associated risk factors.|https://dx.doi.org/10.1097/MD.0000000000047791
+Predictors of Complications in Prophylactic Mastectomy and Direct-to-Implant Breast Reconstruction: A Retrospective, Single-Center Study.|https://dx.doi.org/10.3390/jcm15052071
