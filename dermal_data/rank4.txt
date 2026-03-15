@@ -19,3 +19,4 @@ ROS-Scavenging Photothermal Hydrogel to Remodel the Diabetic Wound Microenvironm
 Digital Light Processing-Printed Nanozyme-Integrated Hydrogels Enable Spatiotemporal Immunomodulation and Repair of Infected Wounds.|https://dx.doi.org/10.1016/j.actbio.2026.03.013
 Bioinspired Metal-Ligand Coordination for Tuning the Mechanical Properties and Antibacterial Activity of Dual-Cross-Linked Hydrogels.|https://dx.doi.org/10.1021/acs.biomac.5c02161
 Biomimetic Multifunctional Hydrogels from Jelly Fig Polysaccharide (Ficus awkeotsang Makino), Alginate, and Genistein for Enhanced Diabetic Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.5c01754
+Novel Ternary Biopolymer Films Incorporating Amygdalin: FTIR, TG, and In Vitro Evaluation on Model Bacteria.|https://dx.doi.org/10.3390/ma19050897
