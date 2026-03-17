@@ -1,3 +1,4 @@
 Changes in nasal and throat microbiota composition during and after mupirocin and chlorhexidine decolonisation treatment in asymptomatic MRSA carriers: a longitudinal observational study.|https://dx.doi.org/10.1016/j.cmi.2026.02.020
 Effectiveness of polyhexanide, chlorhexidine with neomycin and mupirocin for nasal methicillin-resistant Staphylococcus aureus (MRSA) decolonisation: non-inferiority RCT (TIDE).|https://dx.doi.org/10.3310/GJMR0715
 Surgical neuromodulation: prevalence of Staphylococcus aureus, decolonization, and rates of infection.|https://dx.doi.org/10.3171/2025.11.JNS241759
+Evaluation of the impact of universal mupirocin decolonization in intensive care units on the utility of MRSA PCR nasal swab testing.|https://dx.doi.org/10.1093/cid/ciag183

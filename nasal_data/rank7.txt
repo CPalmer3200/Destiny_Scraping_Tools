@@ -65,3 +65,8 @@ Filamentous surface structures drive biofilm formation in ICU-isolated Acinetoba
 Emergence of Dalbavancin, Vancomycin, and Daptomycin Cross-resistance in MRSA During Long-term LVAD Suppression With Vancomycin Followed by Dalbavancin: Genomic Insights and Synergy With Cefadroxil.|https://dx.doi.org/10.1093/ofid/ofag074
 Analyzing antibacterial potential of bellamya bengalensis derived peptide-silver nanoparticle conjugates over surgical implant surfaces.|https://dx.doi.org/10.3389/fphar.2025.1658027
 A Retrospective, Descriptive Analysis of MRSA Infections in a Low-Endemicity Region, Focusing on Empiric Treatment Adequacy.|https://dx.doi.org/10.2147/IDR.S556192
+[Efficacy analysis of electrochemical detection of leukocyte esterase based on glucosyl ester in diagnosis of periprosthetic joint infection after knee arthroplasty in rabbits].|https://dx.doi.org/10.7507/1002-1892.202601122
+Glucose-Responsive Antibacterial Nanogel for Synergistic Dual-Mode Therapy of Diabetic Wound Infections via Enhancing Cascade Generation of Hydroxyl Radicals and Hypoxia-Induced Activation of Metronidazole.|https://dx.doi.org/10.1021/acsabm.6c00066
+Lignin-Based Nanoparticles Loaded with Essential Oils: Potential for Diabetic Foot Infection Management.|https://dx.doi.org/10.1021/acsmaterialsau.5c00058
+Case Report: High-altitude exposure and severe respiratory infection precipitating diabetic ketoacidosis: new-onset ketosis-prone diabetes unmasked by physiological stress.|https://dx.doi.org/10.3389/fmed.2026.1762878
+Trans-thoracic Extension of a Lung Abscess With a Pleurocutaneous Fistula: A Report of a Rare Case.|https://dx.doi.org/10.7759/cureus.103344

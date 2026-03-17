@@ -14,3 +14,4 @@ Intranasal povidone-iodine concentration and olfactory recovery after endoscopic
 Safety, Efficacy, and Immunogenicity of a Multivalent Adjuvanted S. aureus Vaccine in Adults with Recent Skin And Soft Tissue Infections: An Observer-blind, Randomized, Placebo-controlled, Multinational Phase 1/2 Trial.|https://dx.doi.org/10.1093/cid/ciag162
 Bacterial isolates, antibiotic susceptibility, and determinants of positive blood culture in children with community-acquired pneumonia in Central Tanzania.|https://dx.doi.org/10.11604/pamj.2025.52.145.46769
 Prevalence of Streptococcus pneumoniae and Staphylococcus aureus co-colonization in healthy children under five years: a systematic review.|https://dx.doi.org/10.1186/s12887-026-06736-3
+pH-responsive and self-adaptive hydrogel dressing based on a TA/PVA network co-loaded with cannabidiol and mupirocin for synergistic infected wound healing.|https://dx.doi.org/10.1016/j.phymed.2026.158043
