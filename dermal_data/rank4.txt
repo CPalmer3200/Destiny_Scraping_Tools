@@ -20,3 +20,13 @@ Digital Light Processing-Printed Nanozyme-Integrated Hydrogels Enable Spatiotemp
 Bioinspired Metal-Ligand Coordination for Tuning the Mechanical Properties and Antibacterial Activity of Dual-Cross-Linked Hydrogels.|https://dx.doi.org/10.1021/acs.biomac.5c02161
 Biomimetic Multifunctional Hydrogels from Jelly Fig Polysaccharide (Ficus awkeotsang Makino), Alginate, and Genistein for Enhanced Diabetic Wound Healing Applications.|https://dx.doi.org/10.1021/acsabm.5c01754
 Novel Ternary Biopolymer Films Incorporating Amygdalin: FTIR, TG, and In Vitro Evaluation on Model Bacteria.|https://dx.doi.org/10.3390/ma19050897
+Self-Adaptive Allantoin@ZIF8 Nanocomposite Hydrogel with Resveratrol Synergy for MRSA-Infected Wound Regeneration.|https://dx.doi.org/10.1002/advs.202520614
+Advanced Biomaterials in Tissue Engineering Based on Antibacterial and Antibiofilm Nanocomposites for Multidrug-Resistant Wound Pathogens.|https://dx.doi.org/10.1021/acsomega.5c11015
+A Carboxymethyl Chitosan Hydrogel Loaded with Bacteriophage-Derived Bacteriostatic Peptide Exhibits Antibacterial, Hemostatic, and Wound-Healing Properties.|https://dx.doi.org/10.1021/acsomega.5c12013
+Development, characterization, in vitro and in vivo evaluation of barbaloin-loaded cassia tora gum (galactomannan polysaccharide) hydrogel scaffold for wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151443
+On-demand hydrogen sulfide-releasing hydrogel reprogramming the diabetic wound microenvironment to accelerate healing.|https://dx.doi.org/10.1016/j.biomaterials.2026.124129
+Evaluation of Microbial Efficacy of Silver-Containing Wound Dressings: Standardized Approach for Addressing Emerging Microbial Threats.|https://dx.doi.org/10.2174/0113816128395929251129121943
+Fabrication and characterization of antibacterial and adhesive hydrogel composites based on carboxymethyl cellulose, acrylamide, and gold nanoparticles.|https://dx.doi.org/10.1016/j.carbpol.2026.125130
+Injectable nanocellulose-based polylipoic acid hydrogels with tunable rheology, strong adhesion and multifunctional bioactivity.|https://dx.doi.org/10.1016/j.carbpol.2026.125084
+Cationic chitosan/silsesquioxane hybrid cryogel with antibacterial activity for efficient removal of Cr (VI).|https://dx.doi.org/10.1016/j.carbpol.2026.125065
+Electroactive dopamine-functionalized reduced graphene oxide/alginate hydrogel containing thymol/chitosan nanoparticles for advanced antibacterial and bioadhesive wound dressings.|https://dx.doi.org/10.1016/j.carbpol.2026.124960
