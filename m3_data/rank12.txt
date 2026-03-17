@@ -1,2 +1,4 @@
 Consequences of applying two-step or three-step/multistep algorithm in the diagnosis of Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.eimce.2026.503100
 Antibiotic and Nonantibiotic Drugs Associated With Clostridioides difficile Infection Risk: a Pharmacopoeia-Wide Case-Cohort Study.|https://dx.doi.org/10.1093/infdis/jiag001
+Spatial metabolomics reveals the therapeutic mechanisms of Shengjiang Xiexin decoction in modulating gut-liver axis fatty acid metabolism for the treatment of Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.jep.2026.121536
+Toxic Megacolon With a Positive Clostridioides difficile Antigen but Negative Toxin Assay.|https://dx.doi.org/10.7759/cureus.103324

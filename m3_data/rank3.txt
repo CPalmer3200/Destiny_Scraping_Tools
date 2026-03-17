@@ -1,2 +1,3 @@
 Unshaven Follicular Unit Excision: Critical Analysis of Current Nomenclature and Proposal for Standardized Terminology.|https://dx.doi.org/10.1097/DSS.0000000000005049
 Is continuous in-line blood gas monitoring reliable during cardiopulmonary bypass when PaO(2) and PaCO(2) are calculated rather than measured?|https://dx.doi.org/10.1051/ject/2025051
+Systematic Review: Accuracy of Diagnostic Methods for Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.anaerobe.2026.103038
