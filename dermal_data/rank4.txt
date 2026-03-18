@@ -30,3 +30,4 @@ Fabrication and characterization of antibacterial and adhesive hydrogel composit
 Injectable nanocellulose-based polylipoic acid hydrogels with tunable rheology, strong adhesion and multifunctional bioactivity.|https://dx.doi.org/10.1016/j.carbpol.2026.125084
 Cationic chitosan/silsesquioxane hybrid cryogel with antibacterial activity for efficient removal of Cr (VI).|https://dx.doi.org/10.1016/j.carbpol.2026.125065
 Electroactive dopamine-functionalized reduced graphene oxide/alginate hydrogel containing thymol/chitosan nanoparticles for advanced antibacterial and bioadhesive wound dressings.|https://dx.doi.org/10.1016/j.carbpol.2026.124960
+Spider-inspired nanohunter in ultrafast hydrogel enables spatiotemporal targeted delivery for enhanced healing of methicillin-resistant Staphylococcus aureus infected wounds.|https://dx.doi.org/10.1016/j.biomaterials.2026.124135
