@@ -32,3 +32,4 @@ Surgical Safety and Risk Factors in 931 Consecutive Trans-axillary Reverse-Seque
 Postoperative complications after vacuum-assisted excision of benign breast tumors and their associated risk factors.|https://dx.doi.org/10.1097/MD.0000000000047791
 Predictors of Complications in Prophylactic Mastectomy and Direct-to-Implant Breast Reconstruction: A Retrospective, Single-Center Study.|https://dx.doi.org/10.3390/jcm15052071
 Rebuilding After Weight Loss: A Nationwide Retrospective Cohort Study on the Outcomes of Autologous Breast Reconstruction in Post-Bariatric Patients.|https://dx.doi.org/10.1097/SAP.0000000000004698
+Outcome of breast implant replacement after radiation therapy: A single-centre retrospective comparative study.|https://dx.doi.org/10.1016/j.bjps.2026.02.013

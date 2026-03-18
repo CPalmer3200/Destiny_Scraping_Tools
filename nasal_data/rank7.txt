@@ -70,3 +70,5 @@ Glucose-Responsive Antibacterial Nanogel for Synergistic Dual-Mode Therapy of Di
 Lignin-Based Nanoparticles Loaded with Essential Oils: Potential for Diabetic Foot Infection Management.|https://dx.doi.org/10.1021/acsmaterialsau.5c00058
 Case Report: High-altitude exposure and severe respiratory infection precipitating diabetic ketoacidosis: new-onset ketosis-prone diabetes unmasked by physiological stress.|https://dx.doi.org/10.3389/fmed.2026.1762878
 Trans-thoracic Extension of a Lung Abscess With a Pleurocutaneous Fistula: A Report of a Rare Case.|https://dx.doi.org/10.7759/cureus.103344
+Comparative genomics of methicillin-resistant and -susceptible Staphylococcus aureus from Mexico City hospitals.|https://dx.doi.org/10.1128/spectrum.03140-25
+Development of a Cerium-Doped Titanate/Polyphenol Nanostructured Coating for Titanium Implants: Enhancing Antibacterial Properties through Ciprofloxacin Release.|https://dx.doi.org/10.1021/acsami.6c03707
