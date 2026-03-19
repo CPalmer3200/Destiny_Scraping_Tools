@@ -31,3 +31,6 @@ Injectable nanocellulose-based polylipoic acid hydrogels with tunable rheology, 
 Cationic chitosan/silsesquioxane hybrid cryogel with antibacterial activity for efficient removal of Cr (VI).|https://dx.doi.org/10.1016/j.carbpol.2026.125065
 Electroactive dopamine-functionalized reduced graphene oxide/alginate hydrogel containing thymol/chitosan nanoparticles for advanced antibacterial and bioadhesive wound dressings.|https://dx.doi.org/10.1016/j.carbpol.2026.124960
 Spider-inspired nanohunter in ultrafast hydrogel enables spatiotemporal targeted delivery for enhanced healing of methicillin-resistant Staphylococcus aureus infected wounds.|https://dx.doi.org/10.1016/j.biomaterials.2026.124135
+Antibacterial properties of experimentally produced birch tar and its medicinal affordances in the Pleistocene.|https://dx.doi.org/10.1371/journal.pone.0343618
+Recent Advances in Alginate-Based Functional Materials for Colorimetric and Fluorescent Detection of Environmental and Biological Targets.|https://dx.doi.org/10.1080/10408347.2026.2644441
+Green synthesis of a bacitracin@Ag-CeO(2) nanocomposite@hydrogel for dual antibiofilm and anti-inflammatory therapy against MRSA wound infections.|https://dx.doi.org/10.1039/d5tb02286j
