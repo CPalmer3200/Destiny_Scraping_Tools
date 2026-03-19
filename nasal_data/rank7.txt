@@ -72,3 +72,7 @@ Case Report: High-altitude exposure and severe respiratory infection precipitati
 Trans-thoracic Extension of a Lung Abscess With a Pleurocutaneous Fistula: A Report of a Rare Case.|https://dx.doi.org/10.7759/cureus.103344
 Comparative genomics of methicillin-resistant and -susceptible Staphylococcus aureus from Mexico City hospitals.|https://dx.doi.org/10.1128/spectrum.03140-25
 Development of a Cerium-Doped Titanate/Polyphenol Nanostructured Coating for Titanium Implants: Enhancing Antibacterial Properties through Ciprofloxacin Release.|https://dx.doi.org/10.1021/acsami.6c03707
+Knee prosthetic joint infection : Interest of early debridement, antibiotics, and implant retention strategy.|https://dx.doi.org/10.62438/tunismed.v103i9.6003
+Prevalence and Determinants of Multi-Drug Resistance Bacterial Infection Among Burn Patients in a Tertiary Care Center in Nepal.|https://dx.doi.org/10.2147/IDR.S559803
+Development and optimization of an easy to interpret loop-mediated isothermal amplification (LAMP) assay for the identification of bacterial pathogens causing childhood pneumonia.|https://dx.doi.org/10.3389/fmicb.2026.1748456
+A core-shell microneedle platform for the spatiotemporal codelivery of dual-agent therapeutics precisely orchestrates diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04155-1

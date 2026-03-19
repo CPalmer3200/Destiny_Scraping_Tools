@@ -15,3 +15,4 @@ Safety, Efficacy, and Immunogenicity of a Multivalent Adjuvanted S. aureus Vacci
 Bacterial isolates, antibiotic susceptibility, and determinants of positive blood culture in children with community-acquired pneumonia in Central Tanzania.|https://dx.doi.org/10.11604/pamj.2025.52.145.46769
 Prevalence of Streptococcus pneumoniae and Staphylococcus aureus co-colonization in healthy children under five years: a systematic review.|https://dx.doi.org/10.1186/s12887-026-06736-3
 pH-responsive and self-adaptive hydrogel dressing based on a TA/PVA network co-loaded with cannabidiol and mupirocin for synergistic infected wound healing.|https://dx.doi.org/10.1016/j.phymed.2026.158043
+Potential of Jelleine-I peptide on down-regulation of biofilm-associated genes and the biofilm formation of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1007/s11033-026-11640-1
