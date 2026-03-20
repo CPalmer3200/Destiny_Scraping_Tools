@@ -34,3 +34,5 @@ Spider-inspired nanohunter in ultrafast hydrogel enables spatiotemporal targeted
 Antibacterial properties of experimentally produced birch tar and its medicinal affordances in the Pleistocene.|https://dx.doi.org/10.1371/journal.pone.0343618
 Recent Advances in Alginate-Based Functional Materials for Colorimetric and Fluorescent Detection of Environmental and Biological Targets.|https://dx.doi.org/10.1080/10408347.2026.2644441
 Green synthesis of a bacitracin@Ag-CeO(2) nanocomposite@hydrogel for dual antibiofilm and anti-inflammatory therapy against MRSA wound infections.|https://dx.doi.org/10.1039/d5tb02286j
+Infection-adaptive polysaccharide hydrogels integrating ginsenoside Rb1@ZIF-8 nanozyme for diabetic wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115617
+Development and characterization of core-shell nanofiber wound dressings containing Nigella Sativa and Laurus Nobilis essential oils via coaxial electrospinning.|https://dx.doi.org/10.1080/09205063.2026.2645432

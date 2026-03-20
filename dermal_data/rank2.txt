@@ -30,3 +30,6 @@ Retrospective Comparison of Complication Rates Following Tibiotalocalcaneal (TTC
 Management of heel ulcers in diabetes.|https://dx.doi.org/10.1007/s12055-025-02137-w
 Nanocascade Engineering Workshop for Synergistic Microenvironment Reprogramming and EpSC Revitalization in Precise Diabetic Wound Therapy.|https://dx.doi.org/10.1002/adma.202522987
 Total Ankle Arthroplasty vs Arthrodesis in an HbA(1c)-Defined Diabetic Cohort: Lower 1- to 5-Year Structural Complication Rates in a Retrospective Propensity-Matched Study.|https://dx.doi.org/10.1177/10711007261419131
+The Art of the Definitive Amputation: Pearls to Reduce Reamputation.|https://dx.doi.org/10.1016/j.cpm.2025.12.013
+Benefits of Multi-Disciplinary Limb Preservation Teams.|https://dx.doi.org/10.1016/j.cpm.2025.12.010
+Biomarkers in Diabetic Foot.|https://dx.doi.org/10.1016/j.cpm.2025.12.007
