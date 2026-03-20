@@ -4,3 +4,4 @@ Spatial metabolomics reveals the therapeutic mechanisms of Shengjiang Xiexin dec
 Toxic Megacolon With a Positive Clostridioides difficile Antigen but Negative Toxin Assay.|https://dx.doi.org/10.7759/cureus.103324
 Relationship between Clostridioides Difficile Infections and Antimicrobial Use in Patients with Hematopoietic Diseases.|https://dx.doi.org/10.2169/internalmedicine.6567-25
 Clinical features of NAAT-positive, toxin-negative Clostridioides difficile infections in South Korea.|https://dx.doi.org/10.3904/kjim.2025.207
+Clostridioides difficile Infection: Harmonizing Patient Care.|https://dx.doi.org/10.1016/j.gastha.2026.100896
