@@ -76,3 +76,8 @@ Knee prosthetic joint infection : Interest of early debridement, antibiotics, an
 Prevalence and Determinants of Multi-Drug Resistance Bacterial Infection Among Burn Patients in a Tertiary Care Center in Nepal.|https://dx.doi.org/10.2147/IDR.S559803
 Development and optimization of an easy to interpret loop-mediated isothermal amplification (LAMP) assay for the identification of bacterial pathogens causing childhood pneumonia.|https://dx.doi.org/10.3389/fmicb.2026.1748456
 A core-shell microneedle platform for the spatiotemporal codelivery of dual-agent therapeutics precisely orchestrates diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04155-1
+Enhancing hand hygiene compliance to reduce healthcare-associated infections in a coronary care unit: a quality improvement initiative in a tertiary hospital in South India.|https://dx.doi.org/10.1136/bmjoq-2025-003838
+Infection-adaptive polysaccharide hydrogels integrating ginsenoside Rb1@ZIF-8 nanozyme for diabetic wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115617
+An Antibiotic-Free Nanoplatform Synergizing Quorum Sensing Inhibition and Enhanced Chemodynamic Therapy.|https://dx.doi.org/10.1021/acsami.6c03711
+Pretreatment With Vancomycin Prevents Staphylococcal Biofilm Formation on Marlex Mesh.|https://dx.doi.org/10.1016/j.artd.2026.101985
+Microbiological Profile of Surgical Site Infections Post Laparotomy and Neurosurgery: A Prospective Observational Study.|https://dx.doi.org/10.4103/jpbs.jpbs_1379_25
