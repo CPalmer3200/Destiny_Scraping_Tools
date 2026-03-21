@@ -5,3 +5,4 @@ Effectiveness of polyhexanide, chlorhexidine with neomycin and mupirocin for nas
 Characterization of the clade 4 non-toxigenic C. difficile isolate L-NTCD03 carrying the cfr(B) gene.|https://dx.doi.org/10.1093/femsmc/xtag010
 Evaluation of the impact of universal mupirocin decolonization in intensive care units on the utility of MRSA PCR nasal swab testing.|https://dx.doi.org/10.1093/cid/ciag183
 pH-responsive and self-adaptive hydrogel dressing based on a TA/PVA network co-loaded with cannabidiol and mupirocin for synergistic infected wound healing.|https://dx.doi.org/10.1016/j.phymed.2026.158043
+Mupirocin-based Nasal Decolonization to Prevent Staphylococcus aureus Surgical Site Infections: A Meta-Analysis of Randomized Control Trials.|https://dx.doi.org/10.1016/j.ijid.2026.108570
