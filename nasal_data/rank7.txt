@@ -81,3 +81,8 @@ Infection-adaptive polysaccharide hydrogels integrating ginsenoside Rb1@ZIF-8 na
 An Antibiotic-Free Nanoplatform Synergizing Quorum Sensing Inhibition and Enhanced Chemodynamic Therapy.|https://dx.doi.org/10.1021/acsami.6c03711
 Pretreatment With Vancomycin Prevents Staphylococcal Biofilm Formation on Marlex Mesh.|https://dx.doi.org/10.1016/j.artd.2026.101985
 Microbiological Profile of Surgical Site Infections Post Laparotomy and Neurosurgery: A Prospective Observational Study.|https://dx.doi.org/10.4103/jpbs.jpbs_1379_25
+Risk factors for methicillin-resistant Staphylococcus aureus (MRSA) bacteraemia in patients with or without prior MRSA colonisation.|https://dx.doi.org/10.1016/j.jhin.2026.03.009
+Safety of discontinuing contact precautions in patients with multidrug-resistant bacterial infection or colonization.|https://dx.doi.org/10.1556/030.2026.02900
+Neonates at a risk of hospital-acquired ESKAPEE infection despite implementation of infection prevention protocols.|https://dx.doi.org/10.1016/j.infpip.2026.100523
+Cefazolin prophylaxis is associated with lower surgical site infection risk than vancomycin following elective spine surgery.|https://dx.doi.org/10.1016/j.xnsj.2026.100857
+Dual-functional sulfonated PEEK implants via graphene oxide-mediated BMP-2 gene delivery: enhanced osteogenic and antibacterial performance in vitro.|https://dx.doi.org/10.3389/fmed.2026.1763692
