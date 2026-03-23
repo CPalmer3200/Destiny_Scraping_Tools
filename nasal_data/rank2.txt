@@ -11,3 +11,4 @@ Environmental heavy metals and Staphylococcus aureus resistance: insights from N
 Nasal decolonization and PCR screening in the ICU: friend or foe?|https://dx.doi.org/10.1093/cid/ciag184
 Nasal Carriage Rate of Biofilm Producing Methicillin Resistant Staphylococcus aureus and Its Associated Factors Among Health Care Workers at Hospital of Central Ethiopia.|https://dx.doi.org/10.1002/mbo3.70266
 Prevalence and determinants of nasal carriage of methicillin-resistant Staphylococcus aureus among internally displaced persons in Mogadishu, Somalia: A community based cross-sectional study.|https://dx.doi.org/10.1016/j.ijregi.2026.100851
+Molecular characterization of Staphylococcus aureus isolates from nasal samples of broiler chickens intended for slaughter in Algeria.|https://dx.doi.org/10.1186/s12866-026-04957-1

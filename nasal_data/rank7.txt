@@ -86,3 +86,6 @@ Safety of discontinuing contact precautions in patients with multidrug-resistan
 Neonates at a risk of hospital-acquired ESKAPEE infection despite implementation of infection prevention protocols.|https://dx.doi.org/10.1016/j.infpip.2026.100523
 Cefazolin prophylaxis is associated with lower surgical site infection risk than vancomycin following elective spine surgery.|https://dx.doi.org/10.1016/j.xnsj.2026.100857
 Dual-functional sulfonated PEEK implants via graphene oxide-mediated BMP-2 gene delivery: enhanced osteogenic and antibacterial performance in vitro.|https://dx.doi.org/10.3389/fmed.2026.1763692
+Larval debridement therapy for diabetes-related foot ulcers: evidence, mechanisms, and practical guidance.|https://dx.doi.org/10.1016/j.clinme.2026.100570
+Standard work tools for managing pediatric baclofen pump infections and withdrawal.|https://dx.doi.org/10.1007/s00381-026-07219-7
+Microbiota-driven Immunopathogenesis in Systemic Lupus Erythematosus: Cross-site Mechanisms and Intervention Strategies.|https://dx.doi.org/10.2174/0115665240433654260209063544
