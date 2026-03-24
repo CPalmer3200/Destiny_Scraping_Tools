@@ -89,3 +89,7 @@ Dual-functional sulfonated PEEK implants via graphene oxide-mediated BMP-2 gene 
 Larval debridement therapy for diabetes-related foot ulcers: evidence, mechanisms, and practical guidance.|https://dx.doi.org/10.1016/j.clinme.2026.100570
 Standard work tools for managing pediatric baclofen pump infections and withdrawal.|https://dx.doi.org/10.1007/s00381-026-07219-7
 Microbiota-driven Immunopathogenesis in Systemic Lupus Erythematosus: Cross-site Mechanisms and Intervention Strategies.|https://dx.doi.org/10.2174/0115665240433654260209063544
+Does the combination of pulsed lavage and negative pressure dressings reduce infection rates after posterior spinal arthrodesis in pediatric scoliosis ?|https://dx.doi.org/10.1007/s43390-026-01329-7
+Genomic and clinical characteristics of Staphylococcus aureus isolates associated with orthopedic infections from a rural hospital, Qingdao, China.|https://dx.doi.org/10.1128/spectrum.03692-25
+Wound infection caused by Staphylococcus arlettae: a case report and metal characterization.|https://dx.doi.org/10.3389/fcimb.2026.1780396
+Single Daily versus Multiple-Daily Sputum Cultures for Guiding Antibiotic Therapy in ICU Patients with Pulmonary Infections: A Retrospective Cohort Study.|https://dx.doi.org/10.2147/IDR.S567559

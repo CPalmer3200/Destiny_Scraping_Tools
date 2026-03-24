@@ -18,3 +18,4 @@ pH-responsive and self-adaptive hydrogel dressing based on a TA/PVA network co-l
 Potential of Jelleine-I peptide on down-regulation of biofilm-associated genes and the biofilm formation of methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1007/s11033-026-11640-1
 Genetic diversity and within-farm transmission of Staphylococcus aureus from ewes in Norway.|https://dx.doi.org/10.1186/s12866-026-04959-z
 Global burden of antimicrobial resistance in lower respiratory infections: a systematic analysis for the Global Burden of Disease Study 2021.|https://dx.doi.org/10.1016/j.ijantimicag.2026.107786
+Population genomic variation in Staphylococcus aureus isolates from carriage and disease in Indigenous communities in the Southwest United States.|https://dx.doi.org/10.1099/mgen.0.001666
