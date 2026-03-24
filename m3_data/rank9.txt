@@ -4,3 +4,4 @@ Sequential Bilateral Prosthetic Knee Infections Managed with Divergent Surgical 
 Trends and Impact of Clostridioides difficile Infection on Thirty-Day Readmissions and Outcomes Following Coronary Artery Bypass Grafting: A Seven-Year National Analysis.|https://dx.doi.org/10.14740/gr2099
 Non-targeted metabolomics reveals metabolic signatures associated with Clostridioides difficile virulence.|https://dx.doi.org/10.3389/fmicb.2026.1731048
 Enhancing Agent-Based Models with Real-Time Movement Data to Assess Impacts of Biosecurity Interventions on Disease Exposure in Healthcare Settings.|https://dx.doi.org/10.1145/3765612.3767222
+Anatomical and Mechanical Safety of the Tissue Anchoring System (TAS®) for Sacrospinous Ligament Fixation.|https://dx.doi.org/10.1007/s00192-026-06570-2
