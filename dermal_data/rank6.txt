@@ -3,3 +3,4 @@ Profiling skin microbiota in an underrepresented population: Indonesian children
 Atopic march protocol involving sequential skin and lung inflammation elicited by epicutaneous Staphylococcus aureus and allergen exposure.|https://dx.doi.org/10.1016/j.xpro.2026.104417
 Staphylococcus aureus Augments Epithelial Skin Barrier Damage Through T Cell Activation in Cutaneous T Cell Lymphoma.|https://dx.doi.org/10.1111/all.70292
 Topical acacia gum reshapes staphylococcal dysbiosis and inflammation in atopic dermatitis.|https://dx.doi.org/10.1038/s41522-026-00953-5
+Impact of Dupilumab on the Skin Microbiome in Children Aged 6-12 years with Moderate-to-Severe Atopic Dermatitis.|https://dx.doi.org/10.2147/JAA.S570878

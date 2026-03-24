@@ -39,3 +39,4 @@ Development and characterization of core-shell nanofiber wound dressings contain
 Mechanically Enhanced, Antibacterial, and Double-Network Hydrogel Flexible Sensors for Sleep Apnea Monitoring.|https://dx.doi.org/10.1002/smll.202600005
 Bio-heterojunction-engineered recombinant collagen hydrogel orchestrates multimodal sterilization and immunomodulation for MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.bioactmat.2026.03.007
 Dual-layer tissue scaffolds with antibacterial and regenerative properties: Integration of melt electrowriting and electrospray technologies.|https://dx.doi.org/10.1016/j.xphs.2026.104249
+Multifunctional Dressing Integrating Local Drug Delivery, Self-Powered Electrical Stimulation, and Exudate Management for Chronic Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsami.6c01491

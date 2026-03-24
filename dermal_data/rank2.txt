@@ -38,3 +38,6 @@ Diabetic Foot Infections: A Toolkit for Wound Care Clinicians.|https://dx.doi.or
 Efficacy and safety of antibiotic-loaded bone cement in the treatment of diabetic foot: a systematic review and meta-analysis.|https://dx.doi.org/10.3389/fcimb.2026.1748750
 Pseudomonas aeruginosa isolates from diabetic foot ulcers in Al-Najaf, Iraq: Circulation of high-risk clones and carbapenem resistance.|https://dx.doi.org/10.1016/j.ijregi.2026.100862
 A Bioengineered Wasp Venom Peptide with Antimicrobial and Anti-Inflammatory Functions.|https://dx.doi.org/10.2174/0115680266426931260129064824
+Expert consensus on acupuncture for diabetic foot.|https://dx.doi.org/10.62347/UQMI4547
+Case Report: Destructive deep infection of the foot caused by Neoscytalidium dimidiatum leading to great toe amputation.|https://dx.doi.org/10.3389/fimmu.2026.1791879
+Antimicrobial and Anti-Biofilm Properties of Ma'in Hot Springs Targeting Bacteria Isolated from Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/IDR.S544236
