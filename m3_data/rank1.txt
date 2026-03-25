@@ -9,3 +9,4 @@ Is Clostridioides difficile superinfection a major causative factor for acute fl
 Ionomycin Exhibits Potent and Selective Bactericidal Activity Against Clostridioides difficile Through Calcium-Dependent Membrane Disruption.|https://dx.doi.org/10.1002/mbo3.70269
 Blastocystis spp. in Fecal Microbiota Transplantation: Evidence, Policy, and the Screening Paradox.|https://dx.doi.org/10.1016/j.ijid.2026.108548
 A global evaluation of the use of faecal microbiota transplant (FMT).|https://dx.doi.org/10.1016/j.ijid.2026.108574
+Long-term effectiveness and safety of colonoscopy-guided Fecal Microbiota Transplantation in recurrent Clostridiodes difficile infection: a prospective case series.|https://dx.doi.org/10.1016/j.gastrohep.2026.502719
