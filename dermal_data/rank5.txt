@@ -18,3 +18,7 @@ Synergistic activity of caspofungin and posaconazole against Candida (Candidozym
 Infectious complications of burns in the intensive care unit.|https://dx.doi.org/10.1016/j.jcrc.2026.155519
 Tetrahedral framework nucleic acid delivery of emodin enables precision antibacterial and anti-inflammatory therapy for drug-resistant Staphylococcus aureus.|https://dx.doi.org/10.1186/s12951-026-04278-5
 Immobilization of Bacillus-Derived Protease onto Carboxymethyl Chitosan Aerogel: A bioactive platform for bacterial inactivation, skin cancer therapy, and accelerated wound healing.|https://dx.doi.org/10.1016/j.micpath.2026.108447
+Castor oil/ZnO-loaded quaternized chitosan nanocomposite with multiple antimicrobials, anti-biofilm and pro-healing functions for advanced wound dressings.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151610
+Understanding Candidozyma (Candida) auris: genomic evolution, antifungal resistance and the growing challenges in global infection control.|https://dx.doi.org/10.1099/jmm.0.002135
+The post-translational adaptor protein SadB modulates the pathogenicity of Pseudomonas aeruginosa.|https://dx.doi.org/10.1128/jb.00437-25
+Effect of pH on niacinamide skin permeation.|https://dx.doi.org/10.1038/s41598-026-41992-4

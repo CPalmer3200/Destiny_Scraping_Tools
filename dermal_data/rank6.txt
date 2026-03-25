@@ -4,3 +4,5 @@ Atopic march protocol involving sequential skin and lung inflammation elicited b
 Staphylococcus aureus Augments Epithelial Skin Barrier Damage Through T Cell Activation in Cutaneous T Cell Lymphoma.|https://dx.doi.org/10.1111/all.70292
 Topical acacia gum reshapes staphylococcal dysbiosis and inflammation in atopic dermatitis.|https://dx.doi.org/10.1038/s41522-026-00953-5
 Impact of Dupilumab on the Skin Microbiome in Children Aged 6-12 years with Moderate-to-Severe Atopic Dermatitis.|https://dx.doi.org/10.2147/JAA.S570878
+Betacellulin, a member of the EGF family, ameliorates atopic dermatitis-like symptoms via EGFR-JNK/ERK-mediated activation of autophagy.|https://dx.doi.org/10.1016/j.alit.2026.01.007
+Exploring Cyclo (-Gly-Pro) for inflammation modulation in atopic dermatitis: a study on streptococcal postbiotics.|https://dx.doi.org/10.1007/s13258-026-01758-8
