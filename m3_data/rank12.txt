@@ -6,3 +6,4 @@ Relationship between Clostridioides Difficile Infections and Antimicrobial Use i
 Clinical features of NAAT-positive, toxin-negative Clostridioides difficile infections in South Korea.|https://dx.doi.org/10.3904/kjim.2025.207
 Clostridioides difficile Infection: Harmonizing Patient Care.|https://dx.doi.org/10.1016/j.gastha.2026.100896
 Comparison of Oral Cephalosporin and Penicillin Step-Down Therapy for the Treatment of Gram-Negative Blood Stream Infections: A Retrospective Observational Study.|https://dx.doi.org/10.1177/10600280261426346
+Efficacy of probiotic supplementation in preventing Clostridioides difficile infection: an umbrella review of systematic reviews and meta-analysis.|https://dx.doi.org/10.3389/fnut.2026.1699223
