@@ -44,3 +44,12 @@ Antimicrobial and Anti-Biofilm Properties of Ma'in Hot Springs Targeting Bacteri
 Intersection of Diabetic Foot Infection and Pyoderma Gangrenosum: A Conflicting Treatment Approach.|https://dx.doi.org/10.3390/japma116020013
 Improved Outcomes with Total Contact Cast After non-Ischemic Mixed Diabetic Foot Attack with Necrotizing Fasciitis and Compartment Syndrome: A Clinical Evaluation.|https://dx.doi.org/10.1177/15347346261430319
 Safety and Efficacy of Beraprost Sodium Combined with Negative Pressure Drip Irrigation in the Treatment of Diabetic Foot Ulcer: A Retrospective Cohort Study.|https://dx.doi.org/10.1177/15347346261435112
+[Medium- and long-term clinical efficacy of tibial transverse transport surgery in the treatment of diabetic foot ulcers].|https://dx.doi.org/10.3760/cma.j.cn501225-20241028-00417
+[Role and mechanism of Wnt9a in human and mouse chronic wound healing].|https://dx.doi.org/10.3760/cma.j.cn501225-20241122-00457
+[Comparison of the predictive efficacy of the Wagner, SINBAD, and WIfI grading systems for short-term wound non-healing and amputation in patients with DFUs].|https://dx.doi.org/10.3760/cma.j.cn501225-20251129-00494
+[Clinical effects of antibiotic bone cement and VSD combined with free chimeric anterolateral thigh perforator myocutaneous flaps for sequential treatment of diabetic calcaneal osteomyelitis wounds].|https://dx.doi.org/10.3760/cma.j.cn501225-20251129-00493
+[Epidemiological characteristics of adult inpatients with diabetes-related chronic non-healing wounds in Hainan province].|https://dx.doi.org/10.3760/cma.j.cn501225-20250606-00257
+GLP-1 receptor agonist use and surgical outcomes following diabetic foot reconstruction: A propensity score-matched retrospective cohort study.|https://dx.doi.org/10.1016/j.bjps.2026.03.001
+Immunomodulatory Tissue-Engineering Strategies for Diabetic Foot Ulcer Management: A Systematic Review.|https://dx.doi.org/10.1111/wrr.70149
+Fungal infections in diabetic foot and other dermatoses: new species and clinical outcomes.|https://dx.doi.org/10.1080/21501203.2025.2594944
+Comparison of tibial cortex transverse transport and free anterolateral thigh perforator flap in the treatment of severe diabetic foot ulcers: a retrospective study.|https://dx.doi.org/10.3389/fsurg.2026.1742244
