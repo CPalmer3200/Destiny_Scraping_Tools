@@ -23,3 +23,4 @@ Understanding Candidozyma (Candida) auris: genomic evolution, antifungal resista
 The post-translational adaptor protein SadB modulates the pathogenicity of Pseudomonas aeruginosa.|https://dx.doi.org/10.1128/jb.00437-25
 Effect of pH on niacinamide skin permeation.|https://dx.doi.org/10.1038/s41598-026-41992-4
 Oxymatrine ameliorates Malassezia overgrowth-induced psoriasis in vivo and in vitro by inhibiting the biofilm formation and inflammation.|https://dx.doi.org/10.1080/21501203.2025.2511903
+[Phage therapy of purulent wounds: comparative clinical cytomorphological and microbiological analysis of effectiveness].|https://dx.doi.org/10.17116/hirurgia2026031106

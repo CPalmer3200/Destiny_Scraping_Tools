@@ -53,3 +53,5 @@ GLP-1 receptor agonist use and surgical outcomes following diabetic foot reconst
 Immunomodulatory Tissue-Engineering Strategies for Diabetic Foot Ulcer Management: A Systematic Review.|https://dx.doi.org/10.1111/wrr.70149
 Fungal infections in diabetic foot and other dermatoses: new species and clinical outcomes.|https://dx.doi.org/10.1080/21501203.2025.2594944
 Comparison of tibial cortex transverse transport and free anterolateral thigh perforator flap in the treatment of severe diabetic foot ulcers: a retrospective study.|https://dx.doi.org/10.3389/fsurg.2026.1742244
+An Overview of the Treatment of Onychomycosis in Patients with Diabetes: Current Pharmacological and Non-Pharmacological Options.|https://dx.doi.org/10.2147/CCID.S593295
+Spontaneous Splenic Rupture in a Diabetic Patient With Klebsiella pneumoniae-Associated Splenic Abscess: A Case Report.|https://dx.doi.org/10.7759/cureus.104043

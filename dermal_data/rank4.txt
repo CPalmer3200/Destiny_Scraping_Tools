@@ -42,3 +42,5 @@ Dual-layer tissue scaffolds with antibacterial and regenerative properties: Inte
 Multifunctional Dressing Integrating Local Drug Delivery, Self-Powered Electrical Stimulation, and Exudate Management for Chronic Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsami.6c01491
 Bioactive and Antibacterial Gallic Acid Incorporated 3D-Printed Hydroxyapatite/Gelatin/Carboxymethyl Cellulose Scaffolds for Bone Tissue Engineering.|https://dx.doi.org/10.1002/cbic.202500922
 A photothermal immune hydrogel dressing for enhanced post-melanoma resection treatment.|https://dx.doi.org/10.1186/s12951-026-04292-7
+Controlled synthesis and full factorial design optimization of chitosan-graphitic carbon nitride nanocomposite for improved antimicrobial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151624
+Shellac nanoparticle based intelligent drug-delivery composite sponge for hemostasis and healing of diabetic wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.214838
