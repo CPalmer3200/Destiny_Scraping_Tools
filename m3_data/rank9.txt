@@ -7,3 +7,4 @@ Enhancing Agent-Based Models with Real-Time Movement Data to Assess Impacts of B
 Anatomical and Mechanical Safety of the Tissue Anchoring System (TAS®) for Sacrospinous Ligament Fixation.|https://dx.doi.org/10.1007/s00192-026-06570-2
 Clostridioides difficile Infection Among Hospitalized Patients With Cancer.|https://dx.doi.org/10.1001/jamanetworkopen.2026.2103
 Discordant Clostridioides difficile testing as a predictor of inflammatory bowel disease therapy escalation.|https://dx.doi.org/10.1093/ibd/izag038
+Two-Dimensional PCR for Simultaneous Detection of Fecal Bacterial Markers in the Diagnosis and Management of Inflammatory Bowel Disease.|https://dx.doi.org/10.2147/JIR.S566519
