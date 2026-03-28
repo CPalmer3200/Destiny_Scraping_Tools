@@ -11,3 +11,8 @@ A Review of Post-Inflammatory Pigmentation Changes: Pathophysiology, Diagnosis a
 Lipoteichoic acid as a key wound-healing mediator in Gram-positive bacteria.|https://dx.doi.org/10.1016/j.bcp.2026.117922
 Formulation and Evaluation of a Eucalyptus Oil-Decorated Phyto-Silver Nanoparticle Enriched Herbal Hand Sanitizer with Enhanced Antimicrobial, Antioxidant, and Derma Protective Potential.|https://dx.doi.org/10.1016/j.micpath.2026.108446
 Optimisation of electrospinning parameters to successfully obtain high ratios of medium chain length polyhydroxyalkanoate in electrospun fibres with drug loading for wound healing applications.|https://dx.doi.org/10.1007/s10856-026-07030-5
+Novel Nitric Oxide-Releasing Formulations Show Fungicidal Potential for Superficial Dermatophyte Infection.|https://dx.doi.org/10.3390/jof12030228
+Isaridin E Protects Against UVB-Induced Photoaging by Activating Wnt/β-Catenin Signaling Pathway and Alleviating Mitochondrial Dysfunction.|https://dx.doi.org/10.3390/md24030112
+Antioxidant and Anti-Aging Effects of Porphyra-334 Produced from Saccharomyces cerevisiae in Human Skin Models.|https://dx.doi.org/10.3390/md24030098
+A Case of Recurrent Chromoblastomycosis Treated with Multiple Surgical Management Options.|https://dx.doi.org/10.3390/dermatopathology13010010
+Development of Biocompatible Ciprofloxacin-Loaded Zinc-Bovine Serum Albumin Nanoflowers as Nontoxic Platform for Local Drug Delivery.|https://dx.doi.org/10.2147/NSA.S574498

@@ -44,3 +44,7 @@ Bioactive and Antibacterial Gallic Acid Incorporated 3D-Printed Hydroxyapatite/G
 A photothermal immune hydrogel dressing for enhanced post-melanoma resection treatment.|https://dx.doi.org/10.1186/s12951-026-04292-7
 Controlled synthesis and full factorial design optimization of chitosan-graphitic carbon nitride nanocomposite for improved antimicrobial activity.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151624
 Shellac nanoparticle based intelligent drug-delivery composite sponge for hemostasis and healing of diabetic wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.214838
+Starch-grafted poly(ɛ-caprolactone) nanofibrous membranes for wound healing and pH-triggered drug delivery.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151649
+A mussel-inspired dynamic cross-linking design for eco-friendly, injectable, and bactericidal biomass-based bioadhesives.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151519
+Sustainable ZnO/Zn(3)(PO(4))(2) Nanoparticles Synthesized from Coconut-Derived Media Incorporated into Bioactive ALG/PVA Hydrogel Dressings.|https://dx.doi.org/10.3390/gels12030243
+Characterization of Polysaccharide-Based Composites Enriched with Zinc Oxide and Bacitracin for the Treatment of Infected Wounds.|https://dx.doi.org/10.3390/gels12030218
