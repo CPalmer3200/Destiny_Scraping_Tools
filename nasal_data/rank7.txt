@@ -10,3 +10,13 @@ Infectious Aortitis Following Type B Dissection.|https://dx.doi.org/10.1016/j.ja
 Decontamination of environmental surfaces in hospitals to reduce hospital-acquired infections: a systematic review.|https://dx.doi.org/10.1016/j.infpip.2026.100514
 A case report of giant coronary artery pseudoaneurysm and infective endocarditis: at what level can two pathologies be interconnected on a suitable background?|https://dx.doi.org/10.1093/ehjcr/ytag204
 Time-dependent microbial colonisation of temporary external fixations: a prospective descriptive study.|https://dx.doi.org/10.1186/s13018-026-06815-2
+Beyond Methicillin-resistant Staphylococcus aureus: Prevention Strategies for Health Care-Associated Staphylococcus aureus Infection.|https://dx.doi.org/10.1016/j.idc.2026.01.011
+In-vivo effects of antibacterial polyelectrolyte multilayer coatings functionalized by bacteriophages for metallic medical implants.|https://dx.doi.org/10.1016/j.bioadv.2026.214820
+Influence of Treated Surface Proportion on the Antibacterial Performance of UV-Activated Hydroxyapatite-Magnesium Phosphate-Zinc Oxide Coating on Magnesium Alloys.|https://dx.doi.org/10.3390/jfb17030133
+A Pre-Set Calcium Sulfate/Hydroxyapatite Biomaterial as an Antibiotic-Eluting Bone Extender and a Carrier for BMP-2: A Pilot Study in a Rabbit Posterolateral Spinal Fusion Model.|https://dx.doi.org/10.3390/jfb17030118
+Sustainable ZnO/Zn(3)(PO(4))(2) Nanoparticles Synthesized from Coconut-Derived Media Incorporated into Bioactive ALG/PVA Hydrogel Dressings.|https://dx.doi.org/10.3390/gels12030243
+Pharmacokinetic/Pharmacodynamic Analysis of High-Dose Daptomycin in Combination with Continuous Infusion Ceftobiprole in a Case Series of Documented Staphylococcal Bacteremia or Endocarditis: Is There Any Room for TDM-Guided Dosing Reduction?|https://dx.doi.org/10.3390/antibiotics15030315
+Evolutionary and Mobile Genetic Element Analysis of a Multidrug-Resistant ST398-MRSA-Vc Isolate from Ready-to-Eat Pork Products.|https://dx.doi.org/10.3390/antibiotics15030314
+Genetic Characterization and Biofilm-Forming Capacity of Bacterial Population Isolated from Conjunctival Samples.|https://dx.doi.org/10.3390/antibiotics15030300
+Analysis of Antibiotic Consumption Trends and Pathogens' Epidemiological Profile Within a Multidisciplinary Clinical Hospital from Romania.|https://dx.doi.org/10.3390/antibiotics15030288
+Spondylodiscitis Following Oxygen-Ozone Therapy: A Case Report of Lactobacillus iners Infection and a Systematic Literature Review.|https://dx.doi.org/10.3390/diseases14030115
