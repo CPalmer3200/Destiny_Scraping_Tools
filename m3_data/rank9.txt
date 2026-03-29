@@ -9,3 +9,4 @@ Clostridioides difficile Infection Among Hospitalized Patients With Cancer.|http
 Discordant Clostridioides difficile testing as a predictor of inflammatory bowel disease therapy escalation.|https://dx.doi.org/10.1093/ibd/izag038
 Two-Dimensional PCR for Simultaneous Detection of Fecal Bacterial Markers in the Diagnosis and Management of Inflammatory Bowel Disease.|https://dx.doi.org/10.2147/JIR.S566519
 Mechanistic characterization of the antiviral effects of nordihydroguaiaretic acid against West Nile virus.|https://dx.doi.org/10.1186/s12985-026-03137-x
+Clinical Characteristics and Risk Factors of Clostridioides difficile Infection: A Case-Control Study in a High-Complexity Clinic in Santiago de Cali, Colombia.|https://dx.doi.org/10.3390/jcm15062090

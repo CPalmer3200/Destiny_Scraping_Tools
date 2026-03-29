@@ -8,3 +8,5 @@ Clostridioides difficile Infection: Harmonizing Patient Care.|https://dx.doi.org
 Comparison of Oral Cephalosporin and Penicillin Step-Down Therapy for the Treatment of Gram-Negative Blood Stream Infections: A Retrospective Observational Study.|https://dx.doi.org/10.1177/10600280261426346
 Efficacy of probiotic supplementation in preventing Clostridioides difficile infection: an umbrella review of systematic reviews and meta-analysis.|https://dx.doi.org/10.3389/fnut.2026.1699223
 Penicillin Allergy Labels and High-risk Antibiotic Prescribing Among Incarcerated Individuals Receiving Antibiotics Across Four US Carceral Systems.|https://dx.doi.org/10.1093/ofid/ofag128
+Characterization of the Gut Microbiome of Patients with Clostridioides difficile Infection and Healthy Individuals in Greece.|https://dx.doi.org/10.3390/pathogens15030275
+Molecular Epidemiology of Toxigenic Clostridioides difficile Isolated from Bulgarian Patients and the Prevalence of Hypervirulent ST1 Clone.|https://dx.doi.org/10.3390/microorganisms14030532
