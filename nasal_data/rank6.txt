@@ -1,2 +1,3 @@
 Procalcitonin testing combined with NEWS2 evaluation compared with usual care based on NEWS2 for identification of sepsis and antibiotic initiation in the emergency department in England and Wales (PRONTO): a multicentre, randomised, controlled, open-label, phase 3 trial.|https://dx.doi.org/10.1016/S2213-2600(25)00433-3
 Isolation, Screening, and Characterization of Gordonia paraffinivorans DGM-81 Exhibiting Antimicrobial Activity Against Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1007/s00284-026-04845-x
+Corilagin alleviates Staphylococcus aureus pathogenicity by interacting with amidase and α-hemolysin.|https://dx.doi.org/10.1038/s41598-026-44825-6

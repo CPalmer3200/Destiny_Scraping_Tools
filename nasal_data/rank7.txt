@@ -20,3 +20,9 @@ Evolutionary and Mobile Genetic Element Analysis of a Multidrug-Resistant ST398-
 Genetic Characterization and Biofilm-Forming Capacity of Bacterial Population Isolated from Conjunctival Samples.|https://dx.doi.org/10.3390/antibiotics15030300
 Analysis of Antibiotic Consumption Trends and Pathogens' Epidemiological Profile Within a Multidisciplinary Clinical Hospital from Romania.|https://dx.doi.org/10.3390/antibiotics15030288
 Spondylodiscitis Following Oxygen-Ozone Therapy: A Case Report of Lactobacillus iners Infection and a Systematic Literature Review.|https://dx.doi.org/10.3390/diseases14030115
+Microbiological Characteristics and Clinical Outcomes of Periprosthetic Infections Following Oncologic Megaprosthetic Reconstruction: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/pathogens15030306
+Bacterial Cellulose Hydrogel Incorporating Silver Nanoparticles: A Nanobiotechnological Approach for Skin Infections Caused by MRSA and MRSE.|https://dx.doi.org/10.3390/ph19030409
+Treatment Options in Managing Infections Following Calcaneal Fractures: A Systematic Review.|https://dx.doi.org/10.3390/life16030528
+The Ocular Surface Bacterial Microbiome and the Impact of Contact Lens Use: A Literature Review.|https://dx.doi.org/10.3390/microorganisms14030518
+A Multifunctional Therapeutic Platform: Ce/Zn/Sr-Doped Mesoporous Bioactive Glass Nanoparticles for Bone Repair.|https://dx.doi.org/10.3390/ijms27062640
+An In Vitro Study on the Efficacy of Green Synthesized Silver Nanoparticles on Surgical Site Infections and Healings.|https://dx.doi.org/10.3390/biomedicines14030634
