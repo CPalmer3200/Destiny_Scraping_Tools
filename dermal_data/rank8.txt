@@ -7,3 +7,4 @@ Evaluation of the impact of universal mupirocin decolonization in intensive care
 pH-responsive and self-adaptive hydrogel dressing based on a TA/PVA network co-loaded with cannabidiol and mupirocin for synergistic infected wound healing.|https://dx.doi.org/10.1016/j.phymed.2026.158043
 Mupirocin-based Nasal Decolonization to Prevent Staphylococcus aureus Surgical Site Infections: A Meta-Analysis of Randomized Control Trials.|https://dx.doi.org/10.1016/j.ijid.2026.108570
 Iron(III)-Tropolone Complex as a Topical Agent Against Drug-Resistant MRSA Skin Infections.|https://dx.doi.org/10.3390/antibiotics15030298
+In Vitro Activity of Mupirocin Against Methicillin-Resistant Staphylococcus aureus (MRSA) in Two Periods of Time (2016 and 2021-2022) in a Large University Hospital in Germany.|https://dx.doi.org/10.3390/microorganisms14030650

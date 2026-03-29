@@ -24,3 +24,5 @@ The post-translational adaptor protein SadB modulates the pathogenicity of Pseud
 Effect of pH on niacinamide skin permeation.|https://dx.doi.org/10.1038/s41598-026-41992-4
 Oxymatrine ameliorates Malassezia overgrowth-induced psoriasis in vivo and in vitro by inhibiting the biofilm formation and inflammation.|https://dx.doi.org/10.1080/21501203.2025.2511903
 [Phage therapy of purulent wounds: comparative clinical cytomorphological and microbiological analysis of effectiveness].|https://dx.doi.org/10.17116/hirurgia2026031106
+Antibacterial Activity of the Pyrazolone Copper Complex P-FAH-Cu-phen Against Staphylococcus aureus and Promotion of Healing of Traumatized Infected Skin in Mice.|https://dx.doi.org/10.3390/microorganisms14030659
+The Ocular Surface Bacterial Microbiome and the Impact of Contact Lens Use: A Literature Review.|https://dx.doi.org/10.3390/microorganisms14030518

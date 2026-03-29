@@ -56,3 +56,8 @@ Comparison of tibial cortex transverse transport and free anterolateral thigh pe
 An Overview of the Treatment of Onychomycosis in Patients with Diabetes: Current Pharmacological and Non-Pharmacological Options.|https://dx.doi.org/10.2147/CCID.S593295
 Spontaneous Splenic Rupture in a Diabetic Patient With Klebsiella pneumoniae-Associated Splenic Abscess: A Case Report.|https://dx.doi.org/10.7759/cureus.104043
 Diabetic Foot Infection: Exploratory Analysis of Its Clinical Profile, Microbiology, and Outcomes.|https://dx.doi.org/10.4067/s0034-98872026000100013
+Outcomes and Laboratory Predictors of Complications Following Diabetic Foot Amputations: A Ten-Year Tertiary Care-Center Experience.|https://dx.doi.org/10.3390/medicina62030525
+Topical Probiotics in Diabetic Wound Healing: Emerging Therapeutic Strategies.|https://dx.doi.org/10.3390/ijms27062826
+Effect of Electromagnetic Field Therapy and Customized Foot Insole on Peripheral Circulation and Ankle-Brachial Pressure Index in Patients with Diabetic Foot Ulcer: A Randomized Controlled Clinical Trial.|https://dx.doi.org/10.3390/healthcare14060796
+Global Research Trends and Healthcare Innovations in Plantar Pressure Management for Diabetic Foot Ulcers: A 25-Year Bibliometric and Visual Analysis.|https://dx.doi.org/10.3390/healthcare14060780
+In vitro and in vivo evaluation of oleuropein loaded hyalurosomes for diabetic foot ulcer healing.|https://dx.doi.org/10.1038/s41598-026-42804-5

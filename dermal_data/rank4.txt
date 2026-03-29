@@ -48,3 +48,8 @@ Starch-grafted poly(ɛ-caprolactone) nanofibrous membranes for wound healing and
 A mussel-inspired dynamic cross-linking design for eco-friendly, injectable, and bactericidal biomass-based bioadhesives.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151519
 Sustainable ZnO/Zn(3)(PO(4))(2) Nanoparticles Synthesized from Coconut-Derived Media Incorporated into Bioactive ALG/PVA Hydrogel Dressings.|https://dx.doi.org/10.3390/gels12030243
 Characterization of Polysaccharide-Based Composites Enriched with Zinc Oxide and Bacitracin for the Treatment of Infected Wounds.|https://dx.doi.org/10.3390/gels12030218
+An Injectable CMCS/γ-PGA/PRP Bioadhesive With Antibacterial, Adhesive, and Regenerative Properties for Infected Wound Healing.|https://dx.doi.org/10.1096/fj.202504161R
+Bacterial Cellulose Hydrogel Incorporating Silver Nanoparticles: A Nanobiotechnological Approach for Skin Infections Caused by MRSA and MRSE.|https://dx.doi.org/10.3390/ph19030409
+Development of a Film-Forming Wound Dressing from Periplaneta americana Grease: Formulation, Characterization, and Bioevaluation.|https://dx.doi.org/10.3390/ph19030401
+Matrix-Dependent Stability and Antibacterial Efficacy of Silver Nanoparticles: A Comparative Study of Anionic Carbopol vs. Non-Ionic Pluronic Hydrogels.|https://dx.doi.org/10.3390/pharmaceutics18030314
+Injectable ROS-scavenging and NIR-responsive nanocomposite hydrogel for staphylococcus aureus-infected diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04306-4
