@@ -10,3 +10,7 @@ Efficacy of probiotic supplementation in preventing Clostridioides difficile inf
 Penicillin Allergy Labels and High-risk Antibiotic Prescribing Among Incarcerated Individuals Receiving Antibiotics Across Four US Carceral Systems.|https://dx.doi.org/10.1093/ofid/ofag128
 Characterization of the Gut Microbiome of Patients with Clostridioides difficile Infection and Healthy Individuals in Greece.|https://dx.doi.org/10.3390/pathogens15030275
 Molecular Epidemiology of Toxigenic Clostridioides difficile Isolated from Bulgarian Patients and the Prevalence of Hypervirulent ST1 Clone.|https://dx.doi.org/10.3390/microorganisms14030532
+Dietary fiber reduces mortality from secondary sepsis in a murine model of Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.isci.2026.115258
+A Genomic Analysis of Community-Associated C. Difficile Infection Demonstrates Integration With National and International Strain Clusters and Limited Direct Transmission.|https://dx.doi.org/10.1093/infdis/jiag176
+Clostridioides difficile-Derived Extracellular Vesicles Induce Proinflammatory Responses in Macrophages.|https://dx.doi.org/10.1002/jev2.70251
+The changes of fecal calprotectin and lactoferrin during Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.anaerobe.2026.103039

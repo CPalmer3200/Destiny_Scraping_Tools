@@ -10,3 +10,4 @@ Discordant Clostridioides difficile testing as a predictor of inflammatory bowel
 Two-Dimensional PCR for Simultaneous Detection of Fecal Bacterial Markers in the Diagnosis and Management of Inflammatory Bowel Disease.|https://dx.doi.org/10.2147/JIR.S566519
 Mechanistic characterization of the antiviral effects of nordihydroguaiaretic acid against West Nile virus.|https://dx.doi.org/10.1186/s12985-026-03137-x
 Clinical Characteristics and Risk Factors of Clostridioides difficile Infection: A Case-Control Study in a High-Complexity Clinic in Santiago de Cali, Colombia.|https://dx.doi.org/10.3390/jcm15062090
+Biomechanical analysis of protective plating configurations for interimplant femoral fracture prevention.|https://dx.doi.org/10.1016/j.injury.2026.113180
