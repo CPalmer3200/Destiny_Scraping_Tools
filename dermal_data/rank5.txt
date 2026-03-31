@@ -26,3 +26,10 @@ Oxymatrine ameliorates Malassezia overgrowth-induced psoriasis in vivo and in vi
 [Phage therapy of purulent wounds: comparative clinical cytomorphological and microbiological analysis of effectiveness].|https://dx.doi.org/10.17116/hirurgia2026031106
 Antibacterial Activity of the Pyrazolone Copper Complex P-FAH-Cu-phen Against Staphylococcus aureus and Promotion of Healing of Traumatized Infected Skin in Mice.|https://dx.doi.org/10.3390/microorganisms14030659
 The Ocular Surface Bacterial Microbiome and the Impact of Contact Lens Use: A Literature Review.|https://dx.doi.org/10.3390/microorganisms14030518
+Gut-derived biofilm-forming bacteria as a source of catheter-associated infections: inhibitory effects of O-alkyl naringenin derivatives.|https://dx.doi.org/10.3389/fcimb.2026.1768480
+Efficacy of a novel thermo-reversible wound gel against antibiotic tolerant biofilm.|https://dx.doi.org/10.3389/frabi.2026.1773630
+Advancing preclinical research with reconstructed in vitro skin models mimicking non-healing wounds.|https://dx.doi.org/10.1016/j.ijpx.2026.100518
+Microarchitecture of Python regius Scale Surface: A Natural Strategy for Bacterial Adhesion Prevention.|https://dx.doi.org/10.1021/acsomega.5c12739
+Preliminary efficacy of anthelmintic closantel as a potential antimicrobial against Gram-positive bacteria: An assessment of the enantioselectivity.|https://dx.doi.org/10.1016/j.jgar.2026.03.012
+Dismantling S. aureus Virulence: Latest Advances in Toxin Neutralization and Regulatory Network-Targeted Anti-Virulence Strategies (2025).|https://dx.doi.org/10.1016/j.micpath.2026.108467
+Schinus weinmanniifolia as a natural alternative for the control of skin infections: a multifactorial approach against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.jep.2026.121577

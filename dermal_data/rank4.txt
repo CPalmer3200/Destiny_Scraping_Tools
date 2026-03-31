@@ -53,3 +53,5 @@ Bacterial Cellulose Hydrogel Incorporating Silver Nanoparticles: A Nanobiotechno
 Development of a Film-Forming Wound Dressing from Periplaneta americana Grease: Formulation, Characterization, and Bioevaluation.|https://dx.doi.org/10.3390/ph19030401
 Matrix-Dependent Stability and Antibacterial Efficacy of Silver Nanoparticles: A Comparative Study of Anionic Carbopol vs. Non-Ionic Pluronic Hydrogels.|https://dx.doi.org/10.3390/pharmaceutics18030314
 Injectable ROS-scavenging and NIR-responsive nanocomposite hydrogel for staphylococcus aureus-infected diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04306-4
+Enhanced wound healing in diabetic rats using Boswellia serrata Roxb.- Zn gel: a multifunctional approach targeting inflammation, oxidative stress, and tissue regeneration.|https://dx.doi.org/10.1007/s10787-026-02214-5
+Development of a hydrogel-based drug delivery system for wound infection management with enhanced recombinant Reg3A bioactivity.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151682

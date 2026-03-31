@@ -61,3 +61,9 @@ Topical Probiotics in Diabetic Wound Healing: Emerging Therapeutic Strategies.|h
 Effect of Electromagnetic Field Therapy and Customized Foot Insole on Peripheral Circulation and Ankle-Brachial Pressure Index in Patients with Diabetic Foot Ulcer: A Randomized Controlled Clinical Trial.|https://dx.doi.org/10.3390/healthcare14060796
 Global Research Trends and Healthcare Innovations in Plantar Pressure Management for Diabetic Foot Ulcers: A 25-Year Bibliometric and Visual Analysis.|https://dx.doi.org/10.3390/healthcare14060780
 In vitro and in vivo evaluation of oleuropein loaded hyalurosomes for diabetic foot ulcer healing.|https://dx.doi.org/10.1038/s41598-026-42804-5
+Intelligent-responsive hydrogel synergistically mediates immune remodel-antibacterial-angiogenesis cascade for diabetic foot ulcer repair.|https://dx.doi.org/10.1016/j.bioactmat.2026.03.034
+X-ray Findings in a Case of Acute Osteomyelitis Following Puncture Injury: A Case Report.|https://dx.doi.org/10.7759/cureus.104291
+Effectiveness and safety of Chinese traditional medicine Ulcer Ointment for skin ulcers: a systematic review and meta-analysis of randomized controlled trials.|https://dx.doi.org/10.3389/fphar.2026.1764562
+Management of Diabetic Foot Infections Using Phage Therapy.|https://dx.doi.org/10.2147/IDR.S577526
+Systemic antibiotics for diabetes mellitus-related foot infections: an integrative literature review.|https://dx.doi.org/10.1590/1677-5449.202500972
+Neutrophil-Specific Biomarker S100A2 Mediates Diabetic Foot Ulcer Through IL-17 Signaling Pathway and Potential Therapeutics.|https://dx.doi.org/10.2147/JIR.S577432

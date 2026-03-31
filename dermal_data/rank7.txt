@@ -16,3 +16,4 @@ Isaridin E Protects Against UVB-Induced Photoaging by Activating Wnt/β-Catenin 
 Antioxidant and Anti-Aging Effects of Porphyra-334 Produced from Saccharomyces cerevisiae in Human Skin Models.|https://dx.doi.org/10.3390/md24030098
 A Case of Recurrent Chromoblastomycosis Treated with Multiple Surgical Management Options.|https://dx.doi.org/10.3390/dermatopathology13010010
 Development of Biocompatible Ciprofloxacin-Loaded Zinc-Bovine Serum Albumin Nanoflowers as Nontoxic Platform for Local Drug Delivery.|https://dx.doi.org/10.2147/NSA.S574498
+Development of a Recombinant Chimeric Antigen Expressing Different Epitopes of Leishmania spp. For Diagnosis of Human Cutaneous Leishmaniasis.|https://dx.doi.org/10.1002/bab.70159

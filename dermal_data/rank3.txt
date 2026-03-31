@@ -2,3 +2,4 @@ Clinical outcomes and prognostic determinants of dehydrated human amnion/chorion
 Implementing Wound Hygiene in the Italian Healthcare Context: Expert Recommendations for the Management of Venous Leg Ulcers.|https://dx.doi.org/10.1111/iwj.70835
 Jet Cold Plasma at Atmospheric Air Pressure for Venous Ulcers: A Randomized Clinical Trial.|https://dx.doi.org/10.1097/GOX.0000000000007553
 GLP-1 receptor agonist use is associated with venous ulcer healing and fewer wound infections.|https://dx.doi.org/10.1016/j.avsg.2026.03.023
+Effective degradation of tetracycline antibiotic residues in municipal and hospital effluents using light-assisted graphitic carbon nitride.|https://dx.doi.org/10.1007/s10653-026-03156-1
