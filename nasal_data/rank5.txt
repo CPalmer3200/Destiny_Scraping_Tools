@@ -7,3 +7,6 @@ Oncoplastic Surgery Versus Lumpectomy: Analysis of Oncological Outcomes and Surg
 The SIMPLE Technique for Unilateral Breast Reconstruction With Moderate Ptosis: Aiming for Durable Symmetry.|https://dx.doi.org/10.1093/asjof/ojaf173
 Management of Nipple Necrosis and Wound Complications in Patients Undergoing Unilateral Skin-Sparing Mastectomy and Implant-Based Reconstruction for Breast Cancer: A Retrospective, Single-Center Study.|https://dx.doi.org/10.3390/medicina62030575
 Microbial Contamination-Mediated Inflammation Is a Major Contributor of Breast Implant Complications: Prospective Analysis of 631 Samples.|https://dx.doi.org/10.3390/jcm15062115
+Global, regional, and national burden of meningitis, its risk factors, and aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.|https://dx.doi.org/10.1016/S1474-4422(26)00101-8
+The Effect of 222nm UVC Irradiation on Germ Density on Breast Implants and Epidermis.|https://dx.doi.org/10.1097/PRS.0000000000013085
+Delayed Infection of Tissue Expanders in Immediate Two-Stage Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1055/a-2822-5229

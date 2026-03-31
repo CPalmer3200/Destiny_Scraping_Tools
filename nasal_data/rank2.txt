@@ -2,3 +2,4 @@ Treatment with elexacaftor/tezacaftor/ivacaftor does not alter SpiroNose-derived
 Bovine Mastitis Vis a Vis Staphylococcus spp. Mediated Antimicrobial Resistance at Animal-Human Interface in Organized and Unorganized Dairy Sectors: A Study from Two Indian States.|https://dx.doi.org/10.3390/antibiotics15030256
 A Chemiresistive Nanosensor Array for Rapid and Sensitive VOC-Based Detection and Differentiation of Prosthetic Joint Infection-Relevant Pathogens in Enriched Human Synovial Fluid.|https://dx.doi.org/10.3390/bios16030156
 Molecular Profiles and Antimicrobial Resistance Genes in Bacterial Isolates from Chronic Rhinosinusitis Patients.|https://dx.doi.org/10.3390/pathogens15030311
+Antibiotic resistance characteristics, molecular typing, and potential transmission reservoirs of methicillin-resistant Staphylococcus aureus in patients with postoperative infection.|https://dx.doi.org/10.3389/fmicb.2026.1630249

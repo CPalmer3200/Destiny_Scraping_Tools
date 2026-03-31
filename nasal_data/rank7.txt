@@ -26,3 +26,12 @@ Treatment Options in Managing Infections Following Calcaneal Fractures: A System
 The Ocular Surface Bacterial Microbiome and the Impact of Contact Lens Use: A Literature Review.|https://dx.doi.org/10.3390/microorganisms14030518
 A Multifunctional Therapeutic Platform: Ce/Zn/Sr-Doped Mesoporous Bioactive Glass Nanoparticles for Bone Repair.|https://dx.doi.org/10.3390/ijms27062640
 An In Vitro Study on the Efficacy of Green Synthesized Silver Nanoparticles on Surgical Site Infections and Healings.|https://dx.doi.org/10.3390/biomedicines14030634
+Plasma and subcutaneous interstitial fluid vancomycin and gentamicin concentrations in three patients undergoing open abdominal aortic aneurysm repair.|https://dx.doi.org/10.1016/j.ijantimicag.2026.107796
+Case Report of Gouty Arthritis Complicated by Septic Arthritis.|https://dx.doi.org/10.3791/69787
+Gut-derived biofilm-forming bacteria as a source of catheter-associated infections: inhibitory effects of O-alkyl naringenin derivatives.|https://dx.doi.org/10.3389/fcimb.2026.1768480
+Efficacy of a novel thermo-reversible wound gel against antibiotic tolerant biofilm.|https://dx.doi.org/10.3389/frabi.2026.1773630
+X-ray Findings in a Case of Acute Osteomyelitis Following Puncture Injury: A Case Report.|https://dx.doi.org/10.7759/cureus.104291
+A Rare Case of Bacterial Endocarditis Leading to Aortic Valve Insufficiency and Presenting as Myocardial Infarction.|https://dx.doi.org/10.7759/cureus.104247
+Antibiotic-free antimicrobial functionalization of PEEK via UV-induced self-initiation and N-halamine grafting.|https://dx.doi.org/10.1016/j.jot.2026.101081
+Microarchitecture of Python regius Scale Surface: A Natural Strategy for Bacterial Adhesion Prevention.|https://dx.doi.org/10.1021/acsomega.5c12739
+Staphylococcus aureus bacteremia: A review on the detection of metastatic infections.|https://dx.doi.org/10.1016/j.ram.2026.100710
