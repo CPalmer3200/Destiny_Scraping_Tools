@@ -13,3 +13,4 @@ Long-term effectiveness and safety of colonoscopy-guided Fecal Microbiota Transp
 Whole-genome characteristics of isolates from recurrent Clostridioides difficile infections.|https://dx.doi.org/10.1128/spectrum.04087-25
 Pharmacological reduction of neutrophil infiltration reduces Clostridioides difficile infection severity.|https://dx.doi.org/10.1128/mbio.03430-25
 Robotic Single-Incision Laparoscopic Surgery for the Management of Endometriosis: First Experience Via the Da Vinci SP Platform.|https://dx.doi.org/10.1002/rcs.70157
+An update on Clostridioides difficile population structure and genomics.|https://dx.doi.org/10.1128/cmr.00296-25

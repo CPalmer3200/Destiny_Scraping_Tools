@@ -4,3 +4,4 @@ Systematic Review: Accuracy of Diagnostic Methods for Clostridioides difficile I
 Use of Electronic Health Records to Benchmark Clinical Practice Guideline-Consistent Care in Pediatric Oncology.|https://dx.doi.org/10.1200/CCI-25-00326
 Occurrence of viral and bacterial pathogens in South American camelids in representative German flocks.|https://dx.doi.org/10.3389/fvets.2026.1744335
 The effects of intravenous immunoglobulin on intestinal inflammation: a systematic review of animal and clinical studies.|https://dx.doi.org/10.7717/peerj.21024
+Accuracy and variability of locoregional staging in T1 rectal cancer: nationwide multicentre cohort study.|https://dx.doi.org/10.1093/bjsopen/zrag003

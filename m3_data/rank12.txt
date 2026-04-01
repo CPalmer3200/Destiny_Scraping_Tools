@@ -14,3 +14,5 @@ Dietary fiber reduces mortality from secondary sepsis in a murine model of Clost
 A Genomic Analysis of Community-Associated C. Difficile Infection Demonstrates Integration With National and International Strain Clusters and Limited Direct Transmission.|https://dx.doi.org/10.1093/infdis/jiag176
 Clostridioides difficile-Derived Extracellular Vesicles Induce Proinflammatory Responses in Macrophages.|https://dx.doi.org/10.1002/jev2.70251
 The changes of fecal calprotectin and lactoferrin during Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.anaerobe.2026.103039
+Commonly prescribed drugs as risk factors for Clostridioides difficile infections: a Swedish population-based case-control study.|https://dx.doi.org/10.1136/gutjnl-2025-337629
+Comparative safety of Potassium-competitive acid blockers on the risk of clostridium difficile infection: a multicenter cohort study.|https://dx.doi.org/10.14309/ajg.0000000000004011
