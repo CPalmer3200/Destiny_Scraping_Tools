@@ -3,3 +3,4 @@ Isolation, Screening, and Characterization of Gordonia paraffinivorans DGM-81 Ex
 Corilagin alleviates Staphylococcus aureus pathogenicity by interacting with amidase and α-hemolysin.|https://dx.doi.org/10.1038/s41598-026-44825-6
 Dismantling S. aureus Virulence: Latest Advances in Toxin Neutralization and Regulatory Network-Targeted Anti-Virulence Strategies (2025).|https://dx.doi.org/10.1016/j.micpath.2026.108467
 Vancomycin Effectiveness in Reducing Surgical Site Infection in Posterior Spinal Fusion Surgery: A Retrospective Data Analysis of the STRIVE Trial.|https://dx.doi.org/10.1097/BRS.0000000000005671
+Lipidation of a nuclear localization sequence enhances broad-spectrum antimicrobial activity: synthesis, characterization, and in silico analysis.|https://dx.doi.org/10.1080/21691401.2026.2649071

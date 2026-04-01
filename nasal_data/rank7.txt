@@ -35,3 +35,7 @@ A Rare Case of Bacterial Endocarditis Leading to Aortic Valve Insufficiency and 
 Antibiotic-free antimicrobial functionalization of PEEK via UV-induced self-initiation and N-halamine grafting.|https://dx.doi.org/10.1016/j.jot.2026.101081
 Microarchitecture of Python regius Scale Surface: A Natural Strategy for Bacterial Adhesion Prevention.|https://dx.doi.org/10.1021/acsomega.5c12739
 Staphylococcus aureus bacteremia: A review on the detection of metastatic infections.|https://dx.doi.org/10.1016/j.ram.2026.100710
+Systematic echocardiography in patients with hematological malignancies and Gram-positive bacteremia, is it really needed?|https://dx.doi.org/10.1016/j.ijid.2026.108662
+An exploratory study of bacterial contamination on communal mobile handheld devices in an animal referral hospital in the United Kingdom.|https://dx.doi.org/10.1080/00480169.2026.2647361
+ΔCt-informed, calibrated logistic regression accurately attributes mecA in Staphylococcus aureus-positive wound specimens.|https://dx.doi.org/10.1128/spectrum.03230-25
+Design and Evaluation of Passive Disinfection Air Filters Coated with Metal-Based Nanoparticles to Combat Hospital-Acquired Airborne Pathogens.|https://dx.doi.org/10.33594/000000856

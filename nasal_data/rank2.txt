@@ -3,3 +3,5 @@ Bovine Mastitis Vis a Vis Staphylococcus spp. Mediated Antimicrobial Resistance 
 A Chemiresistive Nanosensor Array for Rapid and Sensitive VOC-Based Detection and Differentiation of Prosthetic Joint Infection-Relevant Pathogens in Enriched Human Synovial Fluid.|https://dx.doi.org/10.3390/bios16030156
 Molecular Profiles and Antimicrobial Resistance Genes in Bacterial Isolates from Chronic Rhinosinusitis Patients.|https://dx.doi.org/10.3390/pathogens15030311
 Antibiotic resistance characteristics, molecular typing, and potential transmission reservoirs of methicillin-resistant Staphylococcus aureus in patients with postoperative infection.|https://dx.doi.org/10.3389/fmicb.2026.1630249
+Interspecies Biofilm Dynamics Among Staphylococci: Inflammatory Contributions to Chronic Rhinosinusitis.|https://dx.doi.org/10.1002/alr.70148
+Biofilm Exoproteins From Staphylococcus Species Impede Re-Epithelialization of Nasal Epithelial Cells During Wound Healing and Cease Ciliary Beat Frequency.|https://dx.doi.org/10.1002/alr.70146
