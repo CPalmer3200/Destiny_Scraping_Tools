@@ -14,3 +14,5 @@ Whole-genome characteristics of isolates from recurrent Clostridioides difficile
 Pharmacological reduction of neutrophil infiltration reduces Clostridioides difficile infection severity.|https://dx.doi.org/10.1128/mbio.03430-25
 Robotic Single-Incision Laparoscopic Surgery for the Management of Endometriosis: First Experience Via the Da Vinci SP Platform.|https://dx.doi.org/10.1002/rcs.70157
 An update on Clostridioides difficile population structure and genomics.|https://dx.doi.org/10.1128/cmr.00296-25
+Metronidazole versus Vancomycin for a Moderate Clostridioides difficile Infection Defined by the Japanese Severity Score (MN Criteria): A Propensity Score-Matched Cohort Study.|https://dx.doi.org/10.2169/internalmedicine.6690-25
+Successful fecal microbiota transplants in post-antibiotic treated recurrent Clostridioides difficile patients induce acylcarnitine and sphingolipid lipidomic shifts.|https://dx.doi.org/10.1080/29933935.2026.2648346

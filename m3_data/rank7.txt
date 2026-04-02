@@ -3,3 +3,5 @@ Controlled human influenza infection reveals heterogeneous expulsion of infectio
 Balancing safety and effectiveness: parent preferences for fecal microbiota transplant and established therapies in pediatric inflammatory bowel disease-results of a multicenter Canadian study.|https://dx.doi.org/10.1093/crocol/otag016
 Resistance of Uropathogens to Tebipenem: An Analysis of the Evidence from In Vitro Antimicrobial Susceptibility Studies.|https://dx.doi.org/10.3390/microorganisms14030726
 Projected life-year gains with semaglutide in individuals with cardiovascular disease without type 2 diabetes in the UK.|https://dx.doi.org/10.1530/EC-25-0903
+Bacterial siderophore suppresses host genetic disorders of hyperactivated Ras by limiting iron deficiency that inhibits growth factor expression.|https://dx.doi.org/10.1016/j.celrep.2026.117210
+Public contributions to the development of antibiotics: two successful and two failed investments.|https://dx.doi.org/10.1080/20523211.2026.2643309
