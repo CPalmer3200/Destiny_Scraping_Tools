@@ -16,3 +16,5 @@ Clostridioides difficile-Derived Extracellular Vesicles Induce Proinflammatory R
 The changes of fecal calprotectin and lactoferrin during Clostridioides difficile infection.|https://dx.doi.org/10.1016/j.anaerobe.2026.103039
 Commonly prescribed drugs as risk factors for Clostridioides difficile infections: a Swedish population-based case-control study.|https://dx.doi.org/10.1136/gutjnl-2025-337629
 Comparative safety of Potassium-competitive acid blockers on the risk of clostridium difficile infection: a multicenter cohort study.|https://dx.doi.org/10.14309/ajg.0000000000004011
+Impact of enteral feeding strategies on nosocomial Clostridioides difficile infection-induced diarrhea.|https://dx.doi.org/10.3389/fnut.2026.1781944
+Clostridioides difficile Colonization and Infection in Pediatric Oncology and Stem Cell Transplant Patients.|https://dx.doi.org/10.1093/ofid/ofag149
