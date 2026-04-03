@@ -45,3 +45,4 @@ Assessing antibacterial, antiviral, and antifungal efficacy of non-porous materi
 S1 Guideline on Infected Interdigital Intertrigo (also called Gram-Negative Toe Web Infection).|https://dx.doi.org/10.1111/ddg.70040x
 Simvastatin and Moxifloxacin Co-Delivery via ZIF-8/PDA Coating on PEEK Implants: A Strategy for Combating Implant-Associated Infection and Enhancing Osseointegration.|https://dx.doi.org/10.2147/IJN.S586499
 Of Commensals and Opportunists: Genomics of Coagulase-Negative Staphylococci During Sequential Ear and Eye Infections in a Healthy Adult.|https://dx.doi.org/10.1002/mbo3.70277
+Percutaneous Mechanical Aspiration Thrombectomy-Assisted Management of Right-Sided Infective Endocarditis During Pregnancy.|https://dx.doi.org/10.1016/j.jaccas.2025.106414

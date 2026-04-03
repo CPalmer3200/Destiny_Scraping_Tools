@@ -6,3 +6,4 @@ Antibiotic resistance characteristics, molecular typing, and potential transmiss
 Interspecies Biofilm Dynamics Among Staphylococci: Inflammatory Contributions to Chronic Rhinosinusitis.|https://dx.doi.org/10.1002/alr.70148
 Biofilm Exoproteins From Staphylococcus Species Impede Re-Epithelialization of Nasal Epithelial Cells During Wound Healing and Cease Ciliary Beat Frequency.|https://dx.doi.org/10.1002/alr.70146
 Nasal carriage of Staphylococcus aureus in dogs and owners: Spa typing and antimicrobial resistance in two Italian veterinary hospitals.|https://dx.doi.org/10.1016/j.rvsc.2026.106155
+Time to Vancomycin De-Escalation in Pneumonia Patients Screened for MRSA Using Culture vs PCR Testing.|https://dx.doi.org/10.1177/87551225261429822
