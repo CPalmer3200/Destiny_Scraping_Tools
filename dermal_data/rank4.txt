@@ -1,1 +1,3 @@
 Injectable Cu(2+)-functionalized hyaluronic acid hydrogels via synergistic metal ion-carbodiimide crosslinking for durable antibacterial soft-tissue augmentation.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151731
+Fe(III)-based deep eutectic solvent-modified nano barium titanate composite hydrogel for photothermal-sonodynamic synergistic treatment of periodontitis.|https://dx.doi.org/10.1016/j.bioadv.2026.214852
+Development and evaluation of nasal hydrogel with biopolymer loaded gold nanoparticle for antibacterial activity.|https://dx.doi.org/10.1080/20415990.2026.2648379
