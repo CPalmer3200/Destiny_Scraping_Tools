@@ -46,3 +46,7 @@ S1 Guideline on Infected Interdigital Intertrigo (also called Gram-Negative Toe 
 Simvastatin and Moxifloxacin Co-Delivery via ZIF-8/PDA Coating on PEEK Implants: A Strategy for Combating Implant-Associated Infection and Enhancing Osseointegration.|https://dx.doi.org/10.2147/IJN.S586499
 Of Commensals and Opportunists: Genomics of Coagulase-Negative Staphylococci During Sequential Ear and Eye Infections in a Healthy Adult.|https://dx.doi.org/10.1002/mbo3.70277
 Percutaneous Mechanical Aspiration Thrombectomy-Assisted Management of Right-Sided Infective Endocarditis During Pregnancy.|https://dx.doi.org/10.1016/j.jaccas.2025.106414
+Bacterial species differentiation via real-time detection of microbial volatile organic compounds using a wavelength multiplexed photoionization detector and AI image-based analysis.|https://dx.doi.org/10.1038/s41598-026-46818-x
+A clinically oriented antimicrobial resistance surveillance network 2 (ACORN2): results from three hospitals in Viet Nam.|https://dx.doi.org/10.1016/j.ijid.2026.108673
+Systemic translocation of Staphylococcus aureus promotes autoimmunity: implications in autoantibody-mediated poor immune reconstitution from antiretroviral therapy in HIV.|https://dx.doi.org/10.1128/jvi.01965-25
+A rare case of penile granulomatosis with polyangiitis: case report and multidisciplinary management approach.|https://dx.doi.org/10.3389/fruro.2026.1790745

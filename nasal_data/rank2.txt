@@ -7,3 +7,6 @@ Interspecies Biofilm Dynamics Among Staphylococci: Inflammatory Contributions to
 Biofilm Exoproteins From Staphylococcus Species Impede Re-Epithelialization of Nasal Epithelial Cells During Wound Healing and Cease Ciliary Beat Frequency.|https://dx.doi.org/10.1002/alr.70146
 Nasal carriage of Staphylococcus aureus in dogs and owners: Spa typing and antimicrobial resistance in two Italian veterinary hospitals.|https://dx.doi.org/10.1016/j.rvsc.2026.106155
 Time to Vancomycin De-Escalation in Pneumonia Patients Screened for MRSA Using Culture vs PCR Testing.|https://dx.doi.org/10.1177/87551225261429822
+Genome-based correction of misidentified MRSA: a case of multidrug-resistant Staphylococcus hominis.|https://dx.doi.org/10.1007/s13205-026-04766-3
+The cellular esterase FrmB controls metabolic homeostasis and small colony variant formation in Staphylococcus aureus.|https://dx.doi.org/10.64898/2026.03.26.714663
+Development and evaluation of nasal hydrogel with biopolymer loaded gold nanoparticle for antibacterial activity.|https://dx.doi.org/10.1080/20415990.2026.2648379
