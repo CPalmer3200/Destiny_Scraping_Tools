@@ -17,3 +17,5 @@ An update on Clostridioides difficile population structure and genomics.|https:/
 Metronidazole versus Vancomycin for a Moderate Clostridioides difficile Infection Defined by the Japanese Severity Score (MN Criteria): A Propensity Score-Matched Cohort Study.|https://dx.doi.org/10.2169/internalmedicine.6690-25
 Successful fecal microbiota transplants in post-antibiotic treated recurrent Clostridioides difficile patients induce acylcarnitine and sphingolipid lipidomic shifts.|https://dx.doi.org/10.1080/29933935.2026.2648346
 Association Between Clostridioides difficile Test Positivity and Colorectal Cancer Incidence in a Multisite Hospital-Based Retrospective Cohort Analysis.|https://dx.doi.org/10.1158/2767-9764.CRC-25-0606
+Molecular epidemiology and clinical differentiation between Clostridioides difficile infection and colonization across three chicago medical centers.|https://dx.doi.org/10.1017/ash.2026.10306
+Proximity-ligation metagenomics reveals disease-specific mobilome dynamics in disrupted gut ecosystems.|https://dx.doi.org/10.21203/rs.3.rs-9142184/v1

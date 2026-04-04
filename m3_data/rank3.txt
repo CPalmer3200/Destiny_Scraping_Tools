@@ -6,3 +6,4 @@ Occurrence of viral and bacterial pathogens in South American camelids in repres
 The effects of intravenous immunoglobulin on intestinal inflammation: a systematic review of animal and clinical studies.|https://dx.doi.org/10.7717/peerj.21024
 Accuracy and variability of locoregional staging in T1 rectal cancer: nationwide multicentre cohort study.|https://dx.doi.org/10.1093/bjsopen/zrag003
 Cross-sectional brain volumetric measures and disability outcomes in relapsing-remitting multiple sclerosis.|https://dx.doi.org/10.1007/s00415-026-13788-z
+Impact of the COVID-19 pandemic on the incidence of Clostridioides difficile infection based on hospital surveillance data: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s13756-026-01737-4
