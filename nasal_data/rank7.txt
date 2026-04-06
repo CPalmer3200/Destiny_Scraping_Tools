@@ -50,3 +50,5 @@ Bacterial species differentiation via real-time detection of microbial volatile 
 A clinically oriented antimicrobial resistance surveillance network 2 (ACORN2): results from three hospitals in Viet Nam.|https://dx.doi.org/10.1016/j.ijid.2026.108673
 Systemic translocation of Staphylococcus aureus promotes autoimmunity: implications in autoantibody-mediated poor immune reconstitution from antiretroviral therapy in HIV.|https://dx.doi.org/10.1128/jvi.01965-25
 A rare case of penile granulomatosis with polyangiitis: case report and multidisciplinary management approach.|https://dx.doi.org/10.3389/fruro.2026.1790745
+Optimization of a fracture-related infection (FRI) rat model to mimic bacterial contaminated open fractures in orthopaedic patients - a model development study.|https://dx.doi.org/10.1016/j.injury.2026.113171
+Molecular epidemiology of multidrug-resistant organisms on mobile phones: an observational study conducted at a German university hospital.|https://dx.doi.org/10.1186/s13756-026-01739-2
