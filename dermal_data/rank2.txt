@@ -4,3 +4,6 @@ A wound dressing with copper and silver nanoparticles versus ionic silver hydrof
 Bacterial composition and healing tendency with cold atmospheric plasma treatment in diabetic wounds.|https://dx.doi.org/10.12968/jowc.2023.0295
 Characteristic Correlation between Staphylococcal Isolates from Wounds and Nares of Diabetic Foot Patients Living in Erbil City, Iraq.|https://dx.doi.org/10.2174/0115733998413217251206210451
 Beyond Anatomy: Integrating Host Reserve Biomarkers with SVS WIfI to Predict Major Amputation in Chronic Limb-Threatening Ischemia - A Retrospective Study from a Tertiary Center in South India.|https://dx.doi.org/10.1016/j.avsg.2026.03.045
+Advanced microfluidic and 3D cell culture platforms for modeling vascularization in diabetic foot ulcers: A systematic review of translational challenges and perspectives.|https://dx.doi.org/10.1371/journal.pone.0328278
+From Epistaxis to a Platelet Count of Four: A Rare Presentation of Teicoplanin-Induced Thrombocytopenia.|https://dx.doi.org/10.7759/cureus.104648
+Epidemiological trends in bacterial resistance in diabetic foot infections across the COVID-19 timeline: a retrospective analysis.|https://dx.doi.org/10.1016/j.ijregi.2026.100872
