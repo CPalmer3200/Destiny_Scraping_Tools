@@ -19,3 +19,5 @@ Successful fecal microbiota transplants in post-antibiotic treated recurrent Clo
 Association Between Clostridioides difficile Test Positivity and Colorectal Cancer Incidence in a Multisite Hospital-Based Retrospective Cohort Analysis.|https://dx.doi.org/10.1158/2767-9764.CRC-25-0606
 Molecular epidemiology and clinical differentiation between Clostridioides difficile infection and colonization across three chicago medical centers.|https://dx.doi.org/10.1017/ash.2026.10306
 Proximity-ligation metagenomics reveals disease-specific mobilome dynamics in disrupted gut ecosystems.|https://dx.doi.org/10.21203/rs.3.rs-9142184/v1
+Dynamics of the microbiota in patients with Clostridioides difficile: Recurrence, treatment, sex, and immunosuppression.|https://dx.doi.org/10.1371/journal.ppat.1014063
+Hidden failure modes of large language models in healthcare-associated infection surveillance: a structured evaluation using NHSN definitions.|https://dx.doi.org/10.1017/ice.2026.10444
