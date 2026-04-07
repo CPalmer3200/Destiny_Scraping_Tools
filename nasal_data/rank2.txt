@@ -10,3 +10,5 @@ Time to Vancomycin De-Escalation in Pneumonia Patients Screened for MRSA Using C
 Genome-based correction of misidentified MRSA: a case of multidrug-resistant Staphylococcus hominis.|https://dx.doi.org/10.1007/s13205-026-04766-3
 The cellular esterase FrmB controls metabolic homeostasis and small colony variant formation in Staphylococcus aureus.|https://dx.doi.org/10.64898/2026.03.26.714663
 Development and evaluation of nasal hydrogel with biopolymer loaded gold nanoparticle for antibacterial activity.|https://dx.doi.org/10.1080/20415990.2026.2648379
+The Evaluation of the Genotype and Phenotype Relationship in Patients With Nasal Polyps in Cystic Fibrosis Registry of Turkey.|https://dx.doi.org/10.1002/ppul.71608
+From Epistaxis to a Platelet Count of Four: A Rare Presentation of Teicoplanin-Induced Thrombocytopenia.|https://dx.doi.org/10.7759/cureus.104648

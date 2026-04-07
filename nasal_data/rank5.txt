@@ -19,3 +19,6 @@ A Case of Mediastinitis Due to Fulminant Group A Streptococcal Infection.|https:
 Case Report: Coexistence of a giant borderline phyllodes tumor of the breast and a contralateral fibroadenoma: a challenging case with clinical manifestations and PET-CT imaging mimicking advanced cancer.|https://dx.doi.org/10.3389/fonc.2026.1793170
 Red Breast Syndrome and Early Postoperative Complications in Immediate Prepectoral Implant-Based Reconstruction Using Braxon® Acellular Dermal Matrix: A Retrospective Cohort Study.|https://dx.doi.org/10.7759/cureus.104536
 Infections in Implant-Based Breast Reconstruction: A Systematic Review of Risk Factors, Prevention, and Salvage Strategies.|https://dx.doi.org/10.1093/asjof/ojag044
+Chest Wall Reconstruction and Chemotherapy for Infectious Costochondritis Associated with Recurrent Breast Cancer.|https://dx.doi.org/10.70352/scrj.cr.25-0703
+Prosthetic nipple areola complex reconstruction after breast reduction: a case report.|https://dx.doi.org/10.1080/23320885.2026.2648923
+Intraoperative Hypothermia in Plastic Surgery: Procedure-Specific Patterns and the Call for Preventive Strategies.|https://dx.doi.org/10.1177/22925503261436334

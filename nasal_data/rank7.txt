@@ -52,3 +52,8 @@ Systemic translocation of Staphylococcus aureus promotes autoimmunity: implicati
 A rare case of penile granulomatosis with polyangiitis: case report and multidisciplinary management approach.|https://dx.doi.org/10.3389/fruro.2026.1790745
 Optimization of a fracture-related infection (FRI) rat model to mimic bacterial contaminated open fractures in orthopaedic patients - a model development study.|https://dx.doi.org/10.1016/j.injury.2026.113171
 Molecular epidemiology of multidrug-resistant organisms on mobile phones: an observational study conducted at a German university hospital.|https://dx.doi.org/10.1186/s13756-026-01739-2
+Risk factors analysis and prediction model construction of LRTI in head and neck cancer patients with tracheostomy based on subglottic sputum aspiration volume.|https://dx.doi.org/10.3389/froh.2026.1771262
+Microbiological Characteristics of Necrotizing Fasciitis at Sultan Qaboos University Hospital, Muscat, Oman: A Retrospective Study.|https://dx.doi.org/10.7759/cureus.104686
+Adjunctive hyperbaric oxygen therapy for chronic burn injuries complicated by MRSA and multidrug-resistant infections: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000248
+Epidemiological trends in bacterial resistance in diabetic foot infections across the COVID-19 timeline: a retrospective analysis.|https://dx.doi.org/10.1016/j.ijregi.2026.100872
+Unusual Thromboembolic Sequelae of MRSA Bacteremia in A Pediatric Patient: A Case Report.|https://dx.doi.org/10.1177/23247096261440355

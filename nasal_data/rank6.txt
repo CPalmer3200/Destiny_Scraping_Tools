@@ -6,3 +6,6 @@ Vancomycin Effectiveness in Reducing Surgical Site Infection in Posterior Spinal
 Lipidation of a nuclear localization sequence enhances broad-spectrum antimicrobial activity: synthesis, characterization, and in silico analysis.|https://dx.doi.org/10.1080/21691401.2026.2649071
 Development and evaluation of Alkanna tinctoria root extract and mupirocin nanoparticles-loaded porous films for the burn wound management.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151783
 Enrichment of high-risk antibiotic resistance genes on microplastics in freshwater environments: A meta-analysis.|https://dx.doi.org/10.1016/j.envpol.2026.128053
+Adeno-associated virus delivery of anti-alpha toxin monoclonal antibodies confers protection against Staphylococcus aureus infections.|https://dx.doi.org/10.1371/journal.ppat.1014090
+A rapid method to simultaneously separate bacterial and eukaryotic RNA during infections reveals increased intracellular expression of Staphylococcus aureus and Shigella flexneri virulence factors.|https://dx.doi.org/10.1128/spectrum.03745-25
+Efficacy of the interferon inducer tilorone and its combination with antibacterial drugs in a murine model of secondary bacterial pneumonia caused by S. aureus after influenza infection.|https://dx.doi.org/10.36233/0507-4088-363
