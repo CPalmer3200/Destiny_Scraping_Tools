@@ -57,3 +57,5 @@ Microbiological Characteristics of Necrotizing Fasciitis at Sultan Qaboos Univer
 Adjunctive hyperbaric oxygen therapy for chronic burn injuries complicated by MRSA and multidrug-resistant infections: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000248
 Epidemiological trends in bacterial resistance in diabetic foot infections across the COVID-19 timeline: a retrospective analysis.|https://dx.doi.org/10.1016/j.ijregi.2026.100872
 Unusual Thromboembolic Sequelae of MRSA Bacteremia in A Pediatric Patient: A Case Report.|https://dx.doi.org/10.1177/23247096261440355
+Chitosan-gelatin hybrid hydrogel incorporating strontium-doped ceria nanoparticles for enhanced wound healing and mitochondrial function recovery.|https://dx.doi.org/10.1016/j.carbpol.2026.125165
+A mussel-inspired universal strategy for fabricating dual-bactericidal dressings to eradicate biofilms and accelerate infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125113

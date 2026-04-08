@@ -9,3 +9,5 @@ Enrichment of high-risk antibiotic resistance genes on microplastics in freshwat
 Adeno-associated virus delivery of anti-alpha toxin monoclonal antibodies confers protection against Staphylococcus aureus infections.|https://dx.doi.org/10.1371/journal.ppat.1014090
 A rapid method to simultaneously separate bacterial and eukaryotic RNA during infections reveals increased intracellular expression of Staphylococcus aureus and Shigella flexneri virulence factors.|https://dx.doi.org/10.1128/spectrum.03745-25
 Efficacy of the interferon inducer tilorone and its combination with antibacterial drugs in a murine model of secondary bacterial pneumonia caused by S. aureus after influenza infection.|https://dx.doi.org/10.36233/0507-4088-363
+African-specific genetic loci determine iron status and risk of severe malaria and bacteremia in African children.|https://dx.doi.org/10.1038/s41467-026-71567-w
+Computational and immunoinformatics approaches for designing phytocompound-based drugs and a multi-epitope vaccine targeting FemA, a cell wall protein of Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.pone.0346271
