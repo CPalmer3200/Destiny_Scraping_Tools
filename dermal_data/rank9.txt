@@ -1,2 +1,5 @@
 Of Commensals and Opportunists: Genomics of Coagulase-Negative Staphylococci During Sequential Ear and Eye Infections in a Healthy Adult.|https://dx.doi.org/10.1002/mbo3.70277
 Layered double metal hydroxide nanosheets (LDH) delivery ICG for photoimmune antibacterial therapy and tissue infected wound regeneration.|https://dx.doi.org/10.1016/j.bioadv.2026.214813
+Computational and immunoinformatics approaches for designing phytocompound-based drugs and a multi-epitope vaccine targeting FemA, a cell wall protein of Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.pone.0346271
+Multifunctional Microneedle Patch with Antibacterial, Antioxidant, and Pro-Regenerative Properties for Scarless Wound Healing.|https://dx.doi.org/10.1021/acsnano.6c01964
+In situ forming thermally shrinkable electrospun nanofiber membranes for wound healing.|https://dx.doi.org/10.1039/d6cc00597g
