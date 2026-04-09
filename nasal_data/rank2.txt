@@ -12,3 +12,5 @@ The cellular esterase FrmB controls metabolic homeostasis and small colony varia
 Development and evaluation of nasal hydrogel with biopolymer loaded gold nanoparticle for antibacterial activity.|https://dx.doi.org/10.1080/20415990.2026.2648379
 The Evaluation of the Genotype and Phenotype Relationship in Patients With Nasal Polyps in Cystic Fibrosis Registry of Turkey.|https://dx.doi.org/10.1002/ppul.71608
 From Epistaxis to a Platelet Count of Four: A Rare Presentation of Teicoplanin-Induced Thrombocytopenia.|https://dx.doi.org/10.7759/cureus.104648
+A murine sinonasal infection model recapitulates key features of clinical chronic rhinosinusitis.|https://dx.doi.org/10.1099/jmm.0.002152
+Suppression of microbial burden to reduce pneumonia in critical illness: the SMURF feasibility pilot study.|https://dx.doi.org/10.1186/s13054-026-06008-7

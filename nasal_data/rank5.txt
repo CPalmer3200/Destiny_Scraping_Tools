@@ -23,3 +23,8 @@ Chest Wall Reconstruction and Chemotherapy for Infectious Costochondritis Associ
 Prosthetic nipple areola complex reconstruction after breast reduction: a case report.|https://dx.doi.org/10.1080/23320885.2026.2648923
 Intraoperative Hypothermia in Plastic Surgery: Procedure-Specific Patterns and the Call for Preventive Strategies.|https://dx.doi.org/10.1177/22925503261436334
 Intramuscular and Subcutaneous Lipofilling in Mastopexy: Technical Considerations and Clinical Outcomes.|https://dx.doi.org/10.1007/s00266-026-05823-1
+The Other Side: Outcomes of the Nonradiated Breast in Bilateral Reconstruction With Unilateral Postmastectomy Radiation Therapy.|https://dx.doi.org/10.1097/SAP.0000000000004654
+Impact of diabetes mellitus in cancer.|https://dx.doi.org/10.25259/IJMR_1911_2025
+Effectiveness of the Implementation of a Bundle Protocol for the Reduction of Postmastectomy Reconstruction Failures.|https://dx.doi.org/10.1097/GOX.0000000000007604
+Timing of Acellular Dermal Matrix Placement in Two-stage Breast Reconstruction: Effects on Contracture and Complications.|https://dx.doi.org/10.1093/asj/sjag063
+Building and validating machine learning models to predict appendiceal perforation during conservative treatment of fecalith-associated appendicitis: a 20-algorithm multicenter retrospective analysis.|https://dx.doi.org/10.1038/s41598-026-47372-2

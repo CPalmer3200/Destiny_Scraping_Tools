@@ -59,3 +59,6 @@ Epidemiological trends in bacterial resistance in diabetic foot infections acros
 Unusual Thromboembolic Sequelae of MRSA Bacteremia in A Pediatric Patient: A Case Report.|https://dx.doi.org/10.1177/23247096261440355
 Chitosan-gelatin hybrid hydrogel incorporating strontium-doped ceria nanoparticles for enhanced wound healing and mitochondrial function recovery.|https://dx.doi.org/10.1016/j.carbpol.2026.125165
 A mussel-inspired universal strategy for fabricating dual-bactericidal dressings to eradicate biofilms and accelerate infected wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125113
+A Comparison of Demographic and Microorganism Differences Between De Novo and Postoperative Infections.|https://dx.doi.org/10.1097/BSD.0000000000001951
+Susceptibility Patterns and Factors Associated with Multidrug Antibiotic Resistance Among Patients with Productive Cough in Southwestern Uganda.|https://dx.doi.org/10.2147/IDR.S567493
+Effective therapy for periprosthetic joint infection through sequential application of non-contact low-frequency ultrasonic debridement and antiseptic solutions.|https://dx.doi.org/10.1302/2046-3758.154.BJR-2025-0452.R1
