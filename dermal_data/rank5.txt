@@ -3,3 +3,5 @@ Discovery of antibacterial active components from the root barks of Sophora flav
 Anti-biofilm and associated anti-virulence activities of sucrose fatty acid esters against human pathogens.|https://dx.doi.org/10.1016/j.micpath.2026.108484
 Nitric Oxide-Releasing Therapeutics for Treating Bacterial Infections: Anatomical Targeting and Therapeutic Design.|https://dx.doi.org/10.1021/acsinfecdis.5c01153
 Clinical Use of Apis mellifera Honey Membrane in Second- and Third-Degree Burns: A Retrospective Case Series.|https://dx.doi.org/10.7759/cureus.104824
+Expired Dialysate, Unexpected Pathogen: First Reported Case of Streptomyces olivaceus Peritonitis in a Peritoneal Dialysis Patient.|https://dx.doi.org/10.34067/KID.0000001221
+Aptamer-guided upconversion nanoconstructs enable proximity-dependent and precise photodynamic therapy for MRSA-infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.103042

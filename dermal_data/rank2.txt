@@ -8,3 +8,5 @@ Advanced microfluidic and 3D cell culture platforms for modeling vascularization
 From Epistaxis to a Platelet Count of Four: A Rare Presentation of Teicoplanin-Induced Thrombocytopenia.|https://dx.doi.org/10.7759/cureus.104648
 Epidemiological trends in bacterial resistance in diabetic foot infections across the COVID-19 timeline: a retrospective analysis.|https://dx.doi.org/10.1016/j.ijregi.2026.100872
 Blue light-activated berberine-gentamicin combination breaks down biofilms in diabetic foot ulcers.|https://dx.doi.org/10.1039/d6tb00081a
+Imaging trends in diabetic foot infections.|https://dx.doi.org/10.1053/j.semnuclmed.2026.03.012
+Foot self-care knowledge, practices and associated factors among individuals diagnosed with diabetes attending clinics at base hospitals in Colombo, Sri Lanka: an analytical cross-sectional study.|https://dx.doi.org/10.1136/bmjopen-2025-108460
