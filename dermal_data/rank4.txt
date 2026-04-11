@@ -17,3 +17,6 @@ Preparation of polypyrrole-ulvan nanoparticles and bioactive properties of multi
 Living Cell-Metal Cyborg Microalgae for Treating MRSA Infection.|https://dx.doi.org/10.1021/acsnano.5c16304
 Bifunctional cellulose nanocrystal-MoS(2) nanosheets for NIR-activated fluid management and antibacterial protection in wound microenvironments.|https://dx.doi.org/10.1016/j.bioadv.2026.214874
 Antibacterial Conductive Polysaccharide-Based Hydrogel Microneedle Patches Accelerate Infected Diabetic Wound Healing through Anti-Inflammatory and Pro-Angiogenesis.|https://dx.doi.org/10.1021/acsami.6c01009
+Chitosan-starch biodegradable hydrogels incorporating core-shell copper nanoparticles for complex wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151922
+Phloxine B-chitosan films as light-activated antibacterial coatings.|https://dx.doi.org/10.1016/j.ijpharm.2026.126857
+Osteoinductive chemically crosslinked hydrogel enables hydroxyapatite formation, enhanced by release of dexamethasone, strontium, and zinc, and exhibits antimicrobial properties.|https://dx.doi.org/10.1039/d5ra09258b
