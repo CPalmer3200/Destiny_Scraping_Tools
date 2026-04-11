@@ -62,3 +62,9 @@ A mussel-inspired universal strategy for fabricating dual-bactericidal dressings
 A Comparison of Demographic and Microorganism Differences Between De Novo and Postoperative Infections.|https://dx.doi.org/10.1097/BSD.0000000000001951
 Susceptibility Patterns and Factors Associated with Multidrug Antibiotic Resistance Among Patients with Productive Cough in Southwestern Uganda.|https://dx.doi.org/10.2147/IDR.S567493
 Effective therapy for periprosthetic joint infection through sequential application of non-contact low-frequency ultrasonic debridement and antiseptic solutions.|https://dx.doi.org/10.1302/2046-3758.154.BJR-2025-0452.R1
+Bacterial profile, antimicrobial resistance patterns and associated factors among cancer patients at Hawassa University Comprehensive Specialized Hospital, Sidama region, Southern Ethiopia.|https://dx.doi.org/10.1186/s12879-026-13061-8
+Chitosan-starch biodegradable hydrogels incorporating core-shell copper nanoparticles for complex wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151922
+Phloxine B-chitosan films as light-activated antibacterial coatings.|https://dx.doi.org/10.1016/j.ijpharm.2026.126857
+Successful Management of Septic Splenitis in an Abyssinian Cat.|https://dx.doi.org/10.1002/vms3.70943
+The impact of obesity, smoking and diabetes on the susceptibility to postoperative spinal infections: A risk-based approach.|https://dx.doi.org/10.6026/973206300220409
+Relationships in anesthesia work areas between contamination measured as colony-forming units, Staphylococcus aureus detection, and S. aureus transmission.|https://dx.doi.org/10.1007/s44254-026-00169-y
