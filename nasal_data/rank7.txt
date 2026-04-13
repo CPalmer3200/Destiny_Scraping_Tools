@@ -68,3 +68,6 @@ Phloxine B-chitosan films as light-activated antibacterial coatings.|https://dx.
 Successful Management of Septic Splenitis in an Abyssinian Cat.|https://dx.doi.org/10.1002/vms3.70943
 The impact of obesity, smoking and diabetes on the susceptibility to postoperative spinal infections: A risk-based approach.|https://dx.doi.org/10.6026/973206300220409
 Relationships in anesthesia work areas between contamination measured as colony-forming units, Staphylococcus aureus detection, and S. aureus transmission.|https://dx.doi.org/10.1007/s44254-026-00169-y
+The Influence of COVID-19 on the Composition and Drug Resistance of Pleural Effusion in Shandong Province.|https://dx.doi.org/10.1002/mbo3.70285
+Discovery of an N,N'-diarylurea with potent activity against multidrug-resistant Staphylococcus aureus via perturbation of membrane homeostasis.|https://dx.doi.org/10.1016/j.ejmech.2026.118805
+Lycium Barbarum Polysaccharide Attenuates Staphylococcus aureus-Induced Mastitis via the Gut Microbiota-Derived Indole-3-Propionic Acid/AhR-IL-22-STAT3 Axis.|https://dx.doi.org/10.1021/acs.jafc.5c06224
