@@ -20,3 +20,4 @@ Antibacterial Conductive Polysaccharide-Based Hydrogel Microneedle Patches Accel
 Chitosan-starch biodegradable hydrogels incorporating core-shell copper nanoparticles for complex wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.151922
 Phloxine B-chitosan films as light-activated antibacterial coatings.|https://dx.doi.org/10.1016/j.ijpharm.2026.126857
 Osteoinductive chemically crosslinked hydrogel enables hydroxyapatite formation, enhanced by release of dexamethasone, strontium, and zinc, and exhibits antimicrobial properties.|https://dx.doi.org/10.1039/d5ra09258b
+Sr²⁺-coordinated asiatic acid/silk fibroin hybrid hydrogels for enhanced osteogenesis and antibacterial therapy in infective bone defects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115690

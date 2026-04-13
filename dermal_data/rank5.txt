@@ -6,3 +6,4 @@ Clinical Use of Apis mellifera Honey Membrane in Second- and Third-Degree Burns:
 Expired Dialysate, Unexpected Pathogen: First Reported Case of Streptomyces olivaceus Peritonitis in a Peritoneal Dialysis Patient.|https://dx.doi.org/10.34067/KID.0000001221
 Aptamer-guided upconversion nanoconstructs enable proximity-dependent and precise photodynamic therapy for MRSA-infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.103042
 Hierarchically engineered injectable hydrogels loaded with polyphenol for enhanced wound healing and tissue regeneration.|https://dx.doi.org/10.1039/d5tb02944a
+Plasma-activated gas: a new dawn for wound care and infection.|https://dx.doi.org/10.4103/mgr.MEDGASRES-D-25-00282
