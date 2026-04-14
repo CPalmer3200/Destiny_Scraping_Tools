@@ -31,3 +31,7 @@ Building and validating machine learning models to predict appendiceal perforati
 A novel, survey-based validated grading system for implant rippling in breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2026.03.039
 Negative Pressure Therapy With Instillation for Salvage of Infected Breast Prostheses: A Technique Video.|https://dx.doi.org/10.1097/GOX.0000000000007630
 Quilting sutures versus conventional closure after modified radical mastectomy with axillary dissection: a GRADE-assessed systematic review and meta-analysis of randomized controlled trials with pre-specified subgroups by quilting extent.|https://dx.doi.org/10.1186/s12957-026-04327-1
+A Rare Case of Necrotising Fasciitis of the Breast Arising From Undiagnosed Breast Cancer.|https://dx.doi.org/10.7759/cureus.104977
+Complete excision of the nipple core combined with inverted nipple correction: a novel surgical intervention for reducing recurrence in Zuska's disease.|https://dx.doi.org/10.21037/gs-2025-1-548
+Endoscopic-assisted removal of injectable Amazingel with or without immediate prepectoral implant-based breast augmentation: safety and aesthetic outcomes from a retrospective study.|https://dx.doi.org/10.21037/gs-2025-404
+Inflating Your Success: An Algorithmic Approach to Improving Outcomes in Pediatric Tissue Expansion.|https://dx.doi.org/10.1097/GOX.0000000000007582

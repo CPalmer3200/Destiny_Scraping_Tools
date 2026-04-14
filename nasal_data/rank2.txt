@@ -14,3 +14,5 @@ The Evaluation of the Genotype and Phenotype Relationship in Patients With Nasal
 From Epistaxis to a Platelet Count of Four: A Rare Presentation of Teicoplanin-Induced Thrombocytopenia.|https://dx.doi.org/10.7759/cureus.104648
 A murine sinonasal infection model recapitulates key features of clinical chronic rhinosinusitis.|https://dx.doi.org/10.1099/jmm.0.002152
 Suppression of microbial burden to reduce pneumonia in critical illness: the SMURF feasibility pilot study.|https://dx.doi.org/10.1186/s13054-026-06008-7
+Impact of Methicillin-Resistant Staphylococcus aureus Nasal Screening in Lower Respiratory Tract Infections: A Systematic Review Incorporating Network and Bayesian Meta-Analyses.|https://dx.doi.org/10.1093/ofid/ofag178
+Distribution of Lantibiotic Susceptibility and Its Association With Two-Component Regulatory Systems in Staphylococcus aureus Clinical Isolates.|https://dx.doi.org/10.1111/1348-0421.70056

@@ -71,3 +71,6 @@ Relationships in anesthesia work areas between contamination measured as colony-
 The Influence of COVID-19 on the Composition and Drug Resistance of Pleural Effusion in Shandong Province.|https://dx.doi.org/10.1002/mbo3.70285
 Discovery of an N,N'-diarylurea with potent activity against multidrug-resistant Staphylococcus aureus via perturbation of membrane homeostasis.|https://dx.doi.org/10.1016/j.ejmech.2026.118805
 Lycium Barbarum Polysaccharide Attenuates Staphylococcus aureus-Induced Mastitis via the Gut Microbiota-Derived Indole-3-Propionic Acid/AhR-IL-22-STAT3 Axis.|https://dx.doi.org/10.1021/acs.jafc.5c06224
+Panton-Valentine Leukocidin Producing Staphylococcus aureus Causing Acute Hematogenous Osteomyelitis in the Pediatric Population: Implications on Clinical Course and Outcome.|https://dx.doi.org/10.1097/INF.0000000000005233
+Niobium-Based Conditioning Layer to Reduce Bacterial Adhesion and Biofilm Formation on Titanium Surface.|https://dx.doi.org/10.1021/acsomega.5c12932
+Campylobacter Fetus Periprosthetic Joint Infection: A Case Report and Review of Literature from the Past Three Decades.|https://dx.doi.org/10.13107/jocr.2026.v16.i04.7118

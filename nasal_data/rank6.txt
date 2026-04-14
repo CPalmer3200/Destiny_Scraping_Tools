@@ -13,3 +13,5 @@ African-specific genetic loci determine iron status and risk of severe malaria a
 Computational and immunoinformatics approaches for designing phytocompound-based drugs and a multi-epitope vaccine targeting FemA, a cell wall protein of Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.pone.0346271
 Molecular characterization and immunoinformatics-based design of a multi-epitope vaccine against Staphylococcus nepalensis.|https://dx.doi.org/10.1007/s10482-026-02303-z
 A comparison of routine blood culture methods and multiplex quantitative PCR for detecting pathogens in simulated polymicrobial blood cultures.|https://dx.doi.org/10.1099/jmm.0.002155
+Infectious Diseases: What You May Have Missed in 2025.|https://dx.doi.org/10.7326/ANNALS-26-00983
+Inhibitory Effect of Terminalia chebula Retz. on MDR Shigella flexneri Invasion of HeLa Cells.|https://dx.doi.org/10.2174/0118715265417438251206084340
