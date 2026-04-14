@@ -21,3 +21,5 @@ Chitosan-starch biodegradable hydrogels incorporating core-shell copper nanopart
 Phloxine B-chitosan films as light-activated antibacterial coatings.|https://dx.doi.org/10.1016/j.ijpharm.2026.126857
 Osteoinductive chemically crosslinked hydrogel enables hydroxyapatite formation, enhanced by release of dexamethasone, strontium, and zinc, and exhibits antimicrobial properties.|https://dx.doi.org/10.1039/d5ra09258b
 Sr²⁺-coordinated asiatic acid/silk fibroin hybrid hydrogels for enhanced osteogenesis and antibacterial therapy in infective bone defects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115690
+Self-Assembly of Alginate-Grafted Penicillanic Acid Derivatives into Antibacterial Micelles for Controlled Drug Delivery.|https://dx.doi.org/10.1021/acsomega.5c10841
+H(2)O(2)-Activatable Peptide Nanozyme-Alginate Dual-Network Hydrogel Coating Reconciling Antibacterial and Moisture Retention in Postharvest Preservation.|https://dx.doi.org/10.1021/acsami.6c01912
