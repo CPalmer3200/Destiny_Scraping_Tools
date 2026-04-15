@@ -23,3 +23,4 @@ Osteoinductive chemically crosslinked hydrogel enables hydroxyapatite formation,
 Sr²⁺-coordinated asiatic acid/silk fibroin hybrid hydrogels for enhanced osteogenesis and antibacterial therapy in infective bone defects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115690
 Self-Assembly of Alginate-Grafted Penicillanic Acid Derivatives into Antibacterial Micelles for Controlled Drug Delivery.|https://dx.doi.org/10.1021/acsomega.5c10841
 H(2)O(2)-Activatable Peptide Nanozyme-Alginate Dual-Network Hydrogel Coating Reconciling Antibacterial and Moisture Retention in Postharvest Preservation.|https://dx.doi.org/10.1021/acsami.6c01912
+Synthesis and Application of Polyvinyl Alcohol (PVA) Micropowders for Antifouling Coatings.|https://dx.doi.org/10.3390/ma19071362

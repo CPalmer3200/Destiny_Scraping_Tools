@@ -4,3 +4,4 @@ Computational and immunoinformatics approaches for designing phytocompound-based
 Multifunctional Microneedle Patch with Antibacterial, Antioxidant, and Pro-Regenerative Properties for Scarless Wound Healing.|https://dx.doi.org/10.1021/acsnano.6c01964
 In situ forming thermally shrinkable electrospun nanofiber membranes for wound healing.|https://dx.doi.org/10.1039/d6cc00597g
 Amphiphilic xanthotoxin derivatives with phosphatidylglycerol-targeting membrane disruption for potent anti-methicillin-resistant Staphylococcus aureus (MRSA) activity.|https://dx.doi.org/10.1016/j.ejmech.2026.118793
+Anti-staphylococcal activity of soil-derived Penicillium citrinum extract.|https://dx.doi.org/10.1186/s12866-026-04990-0
