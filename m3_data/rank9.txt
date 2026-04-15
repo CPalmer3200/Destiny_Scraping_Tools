@@ -1,1 +1,5 @@
 Bile acid dependent attenuation of toxin mediated disease is independent of colonization resistance against C. difficile.|https://dx.doi.org/10.64898/2026.03.11.711146
+Proton Pump Inhibitor Use for Gastroprotection and Stress Ulcer Prophylaxis Does Not Increase the Risk of Clostridioides difficile Infection or Pneumonia: A Systematic Review and Meta-Analysis of RCTs.|https://dx.doi.org/10.3390/jcm15072617
+Impact of Introducing Nucleic Acid Amplification Testing for Diagnosing Clostridioides difficile Infection at a Japanese University Hospital.|https://dx.doi.org/10.1016/j.jiac.2026.102962
+Colonization amplification despite limited in-hospital transmission: A modeling study.|https://dx.doi.org/10.1371/journal.pmed.1004712
+Clinical characteristics and risk factors analysis of Clostridioides difficile infection in ulcerative colitis patients during biologic therapy.|https://dx.doi.org/10.3389/fcimb.2026.1803104
