@@ -74,3 +74,9 @@ Lycium Barbarum Polysaccharide Attenuates Staphylococcus aureus-Induced Mastitis
 Panton-Valentine Leukocidin Producing Staphylococcus aureus Causing Acute Hematogenous Osteomyelitis in the Pediatric Population: Implications on Clinical Course and Outcome.|https://dx.doi.org/10.1097/INF.0000000000005233
 Niobium-Based Conditioning Layer to Reduce Bacterial Adhesion and Biofilm Formation on Titanium Surface.|https://dx.doi.org/10.1021/acsomega.5c12932
 Campylobacter Fetus Periprosthetic Joint Infection: A Case Report and Review of Literature from the Past Three Decades.|https://dx.doi.org/10.13107/jocr.2026.v16.i04.7118
+Polymeric quaternary ammonium enabled contact-active, bulk-stable and biocompatible antibacterial catheters without leaching-dependent antimicrobial additives.|https://dx.doi.org/10.1039/d5tb02938d
+Evaluating the performance of Fourier transform infrared spectroscopy for typing and outbreak investigation of methicillin-resistant and -susceptible Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.03245-25
+Relative Efficacy of Commercially Available Ultraviolet-C Devices in the United States With Sufficient Irradiation Dose Delivery to Horizontal Surfaces.|https://dx.doi.org/10.7759/cureus.105184
+Pathology of Cutaneous T Cell Lymphoma: A Narrative Review.|https://dx.doi.org/10.3390/cancers18071169
+Dual-Action Sutures: Chlorhexidine and Dexamethasone for Infection Control and Inflammation Suppression.|https://dx.doi.org/10.3390/molecules31071200
+Dietary Bacillus subtilis PB6 Enhances Reproductive Performance by Modulating Gut Microbiota, Barrier Function, and Inflammation in Clostridium perfringens Type A-Infected Sows.|https://dx.doi.org/10.3390/ani16071032
