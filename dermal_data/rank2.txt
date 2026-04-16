@@ -17,3 +17,5 @@ Bibliometric Insights into Hydrogel Technology For Diabetic Foot Ulcer Healing (
 Staged management of infected diabetic foot ulcers: a 300-patient cohort study on prognostic grading, pathogen dynamics, and individualized risk prediction.|https://dx.doi.org/10.3389/fmed.2026.1809285
 QbD-Based Development of a pH-Responsive SLN-Loaded Hydrogel for Topical Management of Biofilm-Associated Diabetic Foot Ulcers.|https://dx.doi.org/10.2174/0126673878439472251212211400
 Detection of vanA-positive, glycopeptide-resistant but ampicillin-susceptible Enterococcus faecalis: two genetically distinct, unrelated clinical isolates from the United Kingdom.|https://dx.doi.org/10.1007/s10096-026-05512-6
+Partnering with Communities to Improve Diabetic Foot Ulcer Care in High-Risk Populations.|https://dx.doi.org/10.1177/21621918261440435
+Risk Factors Associated With Methicillin-Resistant Staphylococcus aureus Infections in Patients With Diabetic Foot Ulcers in Tehran.|https://dx.doi.org/10.1155/cjid/5695498
