@@ -82,3 +82,8 @@ Dual-Action Sutures: Chlorhexidine and Dexamethasone for Infection Control and I
 Dietary Bacillus subtilis PB6 Enhances Reproductive Performance by Modulating Gut Microbiota, Barrier Function, and Inflammation in Clostridium perfringens Type A-Infected Sows.|https://dx.doi.org/10.3390/ani16071032
 Analysis of Pathogen Distribution, Drug Resistance, and Risk Factors in Patients With Hemifacial Microsomia After Mandibular Distraction Osteogenesis.|https://dx.doi.org/10.1097/SAP.0000000000004749
 Broad-spectrum bactericidal synergy of silver-cannabichromene-cannabigerol triple combinations against healthcare-associated pathogens.|https://dx.doi.org/10.1093/jambio/lxag092
+AI-Enabled Autonomous UV-C Device Pathogen Reduction within Clinically Relevant Parameters.|https://dx.doi.org/10.1016/j.ajic.2026.04.008
+Evaluation of β-lactam monotherapy and conventional anti-staphylococcal combination therapy for polymicrobial MSSA infections.|https://dx.doi.org/10.3855/jidc.21579
+Plasma and parasternal subcutaneous tissue pharmacokinetics of ceftaroline fosamil in cardiac surgery with cardiopulmonary bypass.|https://dx.doi.org/10.3389/fphar.2026.1798506
+Functional integrated hydrogel with swelling-adhesion, antibacterial and conductive properties for acute wound hemostasis and diagnosis-treatment integration.|https://dx.doi.org/10.1039/d6ra01581f
+A ROS-responsive core-shell microneedle platform integrating sonodynamic gas antibacterial therapy and modulating immunity for diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04422-1

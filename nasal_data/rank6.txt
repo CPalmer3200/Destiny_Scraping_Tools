@@ -15,3 +15,4 @@ Molecular characterization and immunoinformatics-based design of a multi-epitope
 A comparison of routine blood culture methods and multiplex quantitative PCR for detecting pathogens in simulated polymicrobial blood cultures.|https://dx.doi.org/10.1099/jmm.0.002155
 Infectious Diseases: What You May Have Missed in 2025.|https://dx.doi.org/10.7326/ANNALS-26-00983
 Inhibitory Effect of Terminalia chebula Retz. on MDR Shigella flexneri Invasion of HeLa Cells.|https://dx.doi.org/10.2174/0118715265417438251206084340
+High Humidity Exacerbates Psoriasiform Skin Disease Relapse by Increasing Tissue-Resident Memory T Cells via Altering Skin Microbiota.|https://dx.doi.org/10.1002/advs.202504061
