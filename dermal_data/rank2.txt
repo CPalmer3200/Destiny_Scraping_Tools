@@ -19,3 +19,6 @@ QbD-Based Development of a pH-Responsive SLN-Loaded Hydrogel for Topical Managem
 Detection of vanA-positive, glycopeptide-resistant but ampicillin-susceptible Enterococcus faecalis: two genetically distinct, unrelated clinical isolates from the United Kingdom.|https://dx.doi.org/10.1007/s10096-026-05512-6
 Partnering with Communities to Improve Diabetic Foot Ulcer Care in High-Risk Populations.|https://dx.doi.org/10.1177/21621918261440435
 Risk Factors Associated With Methicillin-Resistant Staphylococcus aureus Infections in Patients With Diabetic Foot Ulcers in Tehran.|https://dx.doi.org/10.1155/cjid/5695498
+A Survey of the Microbiome, Culturome and ARG Profile of a Cohort of Chronic Diabetic Foot Lesions.|https://dx.doi.org/10.1111/apm.70203
+[Clinical pathway of gel-based preparations for wound healing of diabetic foot ulcer].|https://dx.doi.org/10.3760/cma.j.cn112150-20250820-00809
+Microbiology and antibiotic resistance of diabetes-related foot infections in Brazil: a systematic review.|https://dx.doi.org/10.3855/jidc.20077
