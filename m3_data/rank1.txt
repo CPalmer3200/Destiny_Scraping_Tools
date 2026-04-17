@@ -3,3 +3,4 @@ Predictors of Recurrent Clostridioides difficile Infection.|https://dx.doi.org/1
 Clinical response and risk factors of fecal microbiota transplantation in children: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00431-026-06880-z
 Gastroenterology/Hepatology: What You May Have Missed in 2025.|https://dx.doi.org/10.7326/ANNALS-26-01058
 Clinical application of fecal microbiota transplantation and its influencing factors.|https://dx.doi.org/10.3389/fmicb.2026.1807071
+Not just passengers: Phages as agents of genetic exchange in fecal microbiota transplantation.|https://dx.doi.org/10.1016/j.chom.2026.03.017
