@@ -16,3 +16,5 @@ A comparison of routine blood culture methods and multiplex quantitative PCR for
 Infectious Diseases: What You May Have Missed in 2025.|https://dx.doi.org/10.7326/ANNALS-26-00983
 Inhibitory Effect of Terminalia chebula Retz. on MDR Shigella flexneri Invasion of HeLa Cells.|https://dx.doi.org/10.2174/0118715265417438251206084340
 High Humidity Exacerbates Psoriasiform Skin Disease Relapse by Increasing Tissue-Resident Memory T Cells via Altering Skin Microbiota.|https://dx.doi.org/10.1002/advs.202504061
+Indoor airborne dust in veterinary facilities as a reservoir of bacterial pathogens and antimicrobial resistance.|https://dx.doi.org/10.3389/fvets.2026.1787366
+Antimicrobial and antibiofilm activity of a novel bacteriophage endolysin (LysSW21) against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1186/s12866-026-04916-w

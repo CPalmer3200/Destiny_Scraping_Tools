@@ -87,3 +87,7 @@ Evaluation of β-lactam monotherapy and conventional anti-staphylococcal combina
 Plasma and parasternal subcutaneous tissue pharmacokinetics of ceftaroline fosamil in cardiac surgery with cardiopulmonary bypass.|https://dx.doi.org/10.3389/fphar.2026.1798506
 Functional integrated hydrogel with swelling-adhesion, antibacterial and conductive properties for acute wound hemostasis and diagnosis-treatment integration.|https://dx.doi.org/10.1039/d6ra01581f
 A ROS-responsive core-shell microneedle platform integrating sonodynamic gas antibacterial therapy and modulating immunity for diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04422-1
+Management of hematogenous osteomyelitis in children in Douala, Cameroon: diagnostic challenges, complications, and perspectives for improvement.|https://dx.doi.org/10.3389/fped.2026.1778153
+Metal-independent effects of calprotectin on cocultures of Pseudomonas aeruginosa and Staphylococcus aureus involve alkylquinolone production.|https://dx.doi.org/10.64898/2026.04.08.717160
+UK Antimicrobial Registry: Virtual Registry-an innovative surveillance approach for monitoring the real-world use and effectiveness of newly licensed antimicrobials in Scotland.|https://dx.doi.org/10.1093/jacamr/dlag053
+Antibacterial Properties of Quercetin-Curcumin-Modified PMMA Denture Base Resin for Oral Surgical Site Applications: An In Vitro Study.|https://dx.doi.org/10.1155/ijod/9600760

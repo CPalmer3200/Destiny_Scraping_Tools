@@ -17,3 +17,7 @@ Suppression of microbial burden to reduce pneumonia in critical illness: the SMU
 Impact of Methicillin-Resistant Staphylococcus aureus Nasal Screening in Lower Respiratory Tract Infections: A Systematic Review Incorporating Network and Bayesian Meta-Analyses.|https://dx.doi.org/10.1093/ofid/ofag178
 Distribution of Lantibiotic Susceptibility and Its Association With Two-Component Regulatory Systems in Staphylococcus aureus Clinical Isolates.|https://dx.doi.org/10.1111/1348-0421.70056
 Long-term outcomes following nasal button battery foreign body injuries in children: a 10-year retrospective analysis of 45 patients.|https://dx.doi.org/10.1016/j.ijporl.2026.112819
+Impact of prophylactic oral azithromycin during labor on Azithromycin Resistance (AMR) in nasal Staphylococcus aureus and Streptococcus pneumoniae in women and infants in the multi-country Azithromycin Prevention in Labor Use Study (A-PLUS).|https://dx.doi.org/10.1371/journal.pone.0346174
+Prospective Real-World Outcomes of Endoscopic Sinus Surgery and Dupilumab in Severe Chronic Rhinosinusitis With Nasal Polyps.|https://dx.doi.org/10.1002/alr.70163
+Increased Incidence of Methicillin-Resistant Staphylococcus aureus Skin and Soft Tissue Abscesses in Indigenous Children in North Queensland.|https://dx.doi.org/10.7759/cureus.105132
+Multidrug-resistant organism carriage in children admitted to a pediatric intensive care unit of a Greek tertiary hospital: prevalence and risk factors.|https://dx.doi.org/10.1186/s13756-026-01738-3
