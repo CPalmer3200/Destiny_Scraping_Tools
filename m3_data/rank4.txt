@@ -1,2 +1,3 @@
 Fecal Microbiota Transplantation Rapidly Reduces Systemic Inflammation and Resolves C. difficile Pseudomembranous Colitis.|https://dx.doi.org/10.1016/j.cgh.2026.03.023
 Immunotherapy with Guts: A review of microbial therapeutic adjuncts for immunotherapy in solid tumors.|https://dx.doi.org/10.1093/oncolo/oyag131
+Comparative effectiveness of vancomycin and fidaxomicin in the treatment of Clostridioides difficile-associated diarrhea: A single-center experience in Taiwan.|https://dx.doi.org/10.1097/MD.0000000000048307
