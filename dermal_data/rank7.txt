@@ -7,3 +7,4 @@ Bacterial Fluorescence Signals Predict Dermal Regeneration Template Integration 
 3D-Bioprinted Gelatin Hydrogels with Human Umbilical Cord Mesenchymal Stem Cell-Derived Small Extracellular Vesicles Promote Cutaneous Wound Healing In Vivo.|https://dx.doi.org/10.3390/polym18070882
 Micro- and Nanoplastics as Disruptors of Digestive and Hepatopancreatic Homeostasis: Insights into the Plastic-Gut-Liver Axis.|https://dx.doi.org/10.3390/ijms27073272
 Multifunctional Bioactivity of Saccharomyces cerevisiae Extracellular Vesicle in Hair Follicle-Related Cellular Models.|https://dx.doi.org/10.3390/molecules31071171
+Beyond static loading: a dynamic, multifactorial assessment of dermal exposure to organophosphate esters.|https://dx.doi.org/10.1016/j.envint.2026.110257

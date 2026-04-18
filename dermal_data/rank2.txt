@@ -22,3 +22,7 @@ Risk Factors Associated With Methicillin-Resistant Staphylococcus aureus Infecti
 A Survey of the Microbiome, Culturome and ARG Profile of a Cohort of Chronic Diabetic Foot Lesions.|https://dx.doi.org/10.1111/apm.70203
 [Clinical pathway of gel-based preparations for wound healing of diabetic foot ulcer].|https://dx.doi.org/10.3760/cma.j.cn112150-20250820-00809
 Microbiology and antibiotic resistance of diabetes-related foot infections in Brazil: a systematic review.|https://dx.doi.org/10.3855/jidc.20077
+Use of TaqMan array card to investigate bacterial isolates in diabetic foot ulcers.|https://dx.doi.org/10.1099/jmm.0.002113
+Ulcer Recurrence Impairs Outcomes of Patients with Diabetic Foot.|https://dx.doi.org/10.1177/15347346261442764
+Comparative Effectiveness of Transmetatarsal First Ray Amputation and Hallux Amputation in a Diabetic Foot Ulcer Cohort.|https://dx.doi.org/10.1177/10711007261425671
+Photothermal-driven multifunctional injectable hydrogel platform for promoting diabetic bone defect repair through synergistic immunomodulation and bone homeostasis.|https://dx.doi.org/10.7150/thno.130240

@@ -8,3 +8,5 @@ Aptamer-guided upconversion nanoconstructs enable proximity-dependent and precis
 Hierarchically engineered injectable hydrogels loaded with polyphenol for enhanced wound healing and tissue regeneration.|https://dx.doi.org/10.1039/d5tb02944a
 Plasma-activated gas: a new dawn for wound care and infection.|https://dx.doi.org/10.4103/mgr.MEDGASRES-D-25-00282
 Chemical Characterization, Evaluation of Antimicrobial Potential, and Cytotoxic Activity of Thuja occidentalis L. and Myrtus communis L. Essential Oils for Topical Applications.|https://dx.doi.org/10.3390/molecules31071225
+Microbial landscapes in dairy cow diseases: from localized dysbiosis to inter-organ axes.|https://dx.doi.org/10.1038/s41522-026-00988-8
+Quantum Dot-Phage Nanoarchitectonics for Targeted Synergistic Therapy of Methicillin-Resistant Staphylococcus aureus Wound Infections.|https://dx.doi.org/10.1021/acsami.6c03995

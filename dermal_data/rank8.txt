@@ -3,3 +3,5 @@ Increase in imported mupirocin-resistant Staphylococcus aureus from the tropics 
 Long-term outcomes following nasal button battery foreign body injuries in children: a 10-year retrospective analysis of 45 patients.|https://dx.doi.org/10.1016/j.ijporl.2026.112819
 The combination of mupirocin and Kayvirus broadens the decolonization effect against Staphylococcus aureus.|https://dx.doi.org/10.1007/s00253-026-13814-0
 High Humidity Exacerbates Psoriasiform Skin Disease Relapse by Increasing Tissue-Resident Memory T Cells via Altering Skin Microbiota.|https://dx.doi.org/10.1002/advs.202504061
+Staphylococcus aureus colonization before elective posterior spine surgery: is it associated with postoperative S. aureus infections?|https://dx.doi.org/10.3171/2025.12.SPINE25788
+Indoor airborne dust in veterinary facilities as a reservoir of bacterial pathogens and antimicrobial resistance.|https://dx.doi.org/10.3389/fvets.2026.1787366
