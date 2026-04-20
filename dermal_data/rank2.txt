@@ -26,3 +26,4 @@ Use of TaqMan array card to investigate bacterial isolates in diabetic foot ulce
 Ulcer Recurrence Impairs Outcomes of Patients with Diabetic Foot.|https://dx.doi.org/10.1177/15347346261442764
 Comparative Effectiveness of Transmetatarsal First Ray Amputation and Hallux Amputation in a Diabetic Foot Ulcer Cohort.|https://dx.doi.org/10.1177/10711007261425671
 Photothermal-driven multifunctional injectable hydrogel platform for promoting diabetic bone defect repair through synergistic immunomodulation and bone homeostasis.|https://dx.doi.org/10.7150/thno.130240
+Absence of evidence or evidence of absence? Interpreting bone biopsy-guided therapy in diabetic foot osteomyelitis.|https://dx.doi.org/10.1093/cid/ciag266

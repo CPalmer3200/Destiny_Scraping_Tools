@@ -29,3 +29,6 @@ Functional integrated hydrogel with swelling-adhesion, antibacterial and conduct
 A ROS-responsive core-shell microneedle platform integrating sonodynamic gas antibacterial therapy and modulating immunity for diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04422-1
 Engineering fast-acting anti-itching multifunctional dressing with quercetin-CD-MOF for atopic dermatitis.|https://dx.doi.org/10.1016/j.bioadv.2026.214875
 A self-healing injectable PF127-gelatin bioadhesive sealant with antioxidant and antibacterial activities for accelerated oral ulcer repair.|https://dx.doi.org/10.1039/d5tb02937f
+Sodium alginate modified by dopamine multifunctional injectable hydrogel with photothermal, antibacterial, and hemostatic properties for accelerating infected wound repair.|https://dx.doi.org/10.1016/j.carbpol.2026.125188
+A resveratrol/Fe(3+)-doped ZIF-8-augmented dressing for multimodal diabetic wound care.|https://dx.doi.org/10.1016/j.colsurfb.2026.115717
+A hydrogel dressing derived from furoic acid/betaine co-modified chitosan: accelerating Staphylococcus aureus -infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115714
