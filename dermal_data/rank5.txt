@@ -10,3 +10,6 @@ Plasma-activated gas: a new dawn for wound care and infection.|https://dx.doi.or
 Chemical Characterization, Evaluation of Antimicrobial Potential, and Cytotoxic Activity of Thuja occidentalis L. and Myrtus communis L. Essential Oils for Topical Applications.|https://dx.doi.org/10.3390/molecules31071225
 Microbial landscapes in dairy cow diseases: from localized dysbiosis to inter-organ axes.|https://dx.doi.org/10.1038/s41522-026-00988-8
 Quantum Dot-Phage Nanoarchitectonics for Targeted Synergistic Therapy of Methicillin-Resistant Staphylococcus aureus Wound Infections.|https://dx.doi.org/10.1021/acsami.6c03995
+The Approximation Principle: A Novel Mechanobiological Approach to Chronic Wound Management.|https://dx.doi.org/10.1097/ASW.0000000000000432
+Synergistic tissue destruction by Staphylococcus aureus and Staphylococcus epidermidis in a 3D human skin biofilm equivalent.|https://dx.doi.org/10.1016/j.bioflm.2026.100361
+Nanostructured lipid carrier enabled delivery of levofloxacin and clove essential oil to overcome Pseudomonas aeruginosa biofilm infection in burn wounds- a synergistic approach.|https://dx.doi.org/10.1016/j.ijpharm.2026.126885

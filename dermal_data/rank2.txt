@@ -27,3 +27,5 @@ Ulcer Recurrence Impairs Outcomes of Patients with Diabetic Foot.|https://dx.doi
 Comparative Effectiveness of Transmetatarsal First Ray Amputation and Hallux Amputation in a Diabetic Foot Ulcer Cohort.|https://dx.doi.org/10.1177/10711007261425671
 Photothermal-driven multifunctional injectable hydrogel platform for promoting diabetic bone defect repair through synergistic immunomodulation and bone homeostasis.|https://dx.doi.org/10.7150/thno.130240
 Absence of evidence or evidence of absence? Interpreting bone biopsy-guided therapy in diabetic foot osteomyelitis.|https://dx.doi.org/10.1093/cid/ciag266
+Comprehensive evaluation of sacchachitosan-based transdermal films for wound care: Physical, chemical, and biological parameters.|https://dx.doi.org/10.1016/j.bbrep.2026.102560
+Targeting the Pathological Microenvironment in Diabetic Foot Ulcers: Advances in Drug Delivery Systems for Improved Healing.|https://dx.doi.org/10.1002/jbm.b.70079

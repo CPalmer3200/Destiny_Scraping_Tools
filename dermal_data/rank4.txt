@@ -32,3 +32,8 @@ A self-healing injectable PF127-gelatin bioadhesive sealant with antioxidant and
 Sodium alginate modified by dopamine multifunctional injectable hydrogel with photothermal, antibacterial, and hemostatic properties for accelerating infected wound repair.|https://dx.doi.org/10.1016/j.carbpol.2026.125188
 A resveratrol/Fe(3+)-doped ZIF-8-augmented dressing for multimodal diabetic wound care.|https://dx.doi.org/10.1016/j.colsurfb.2026.115717
 A hydrogel dressing derived from furoic acid/betaine co-modified chitosan: accelerating Staphylococcus aureus -infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115714
+Bioinspired "liquid-solid" biphasic dressing with exudate-gating transport, defense-attack antibacterial activity, and anti-adhesion property for exuding infected wound therapy.|https://dx.doi.org/10.1016/j.bioactmat.2026.04.001
+A Mechanical Robust Tunable Terepthaloyl Modified Chitosan Hydrogel Matrix for Modulating Biological Response.|https://dx.doi.org/10.1002/smll.202513132
+Core-Satellite Structured Copper-Based Nanomedicine for Orchestrating Accelerated Wound Healing with Potent Antibacterial Efficacy.|https://dx.doi.org/10.1021/acsami.5c25458
+Laponite-reinforced marine bioinspired injectable self-healing adhesive chitosan-based hydrogel for infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2026.125230
+Dynamically Crosslinked Carbon Dot/Alginate Hydrogels for On-Demand Osteomyelitis Therapy.|https://dx.doi.org/10.1002/adma.73080
