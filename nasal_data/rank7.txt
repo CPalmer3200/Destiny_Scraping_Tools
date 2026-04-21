@@ -91,3 +91,11 @@ Management of hematogenous osteomyelitis in children in Douala, Cameroon: diagno
 Metal-independent effects of calprotectin on cocultures of Pseudomonas aeruginosa and Staphylococcus aureus involve alkylquinolone production.|https://dx.doi.org/10.64898/2026.04.08.717160
 UK Antimicrobial Registry: Virtual Registry-an innovative surveillance approach for monitoring the real-world use and effectiveness of newly licensed antimicrobials in Scotland.|https://dx.doi.org/10.1093/jacamr/dlag053
 Antibacterial Properties of Quercetin-Curcumin-Modified PMMA Denture Base Resin for Oral Surgical Site Applications: An In Vitro Study.|https://dx.doi.org/10.1155/ijod/9600760
+Staphylococcus caprae as an Emerging Pathogen in Infective Endocarditis: A Case Series and Review of the Literature.|https://dx.doi.org/10.1155/crdi/9983702
+Bioinspired "liquid-solid" biphasic dressing with exudate-gating transport, defense-attack antibacterial activity, and anti-adhesion property for exuding infected wound therapy.|https://dx.doi.org/10.1016/j.bioactmat.2026.04.001
+Risk Factors and Pathogenic Bacteria Prevalence in Catheter-Associated Blood Stream Infection in Patients Undergoing Hemodialysis: A Cross-Sectional Study.|https://dx.doi.org/10.1002/hsr2.72369
+Analysis of somatic cell count, bacteria distribution and antimicrobial susceptibility in lactating dairy cows from small holder dairy farms in Kenya.|https://dx.doi.org/10.1016/j.onehlt.2026.101392
+Implementation of Staphylococcus aureus decolonization in cardiac surgery.|https://dx.doi.org/10.1016/j.xjtc.2025.06.025
+Molar Incisor Hypomineralization and Morphological Defects Following Pediatric Septicemia: A Case Report.|https://dx.doi.org/10.1111/scd.70175
+Diversity and evolution of leukotoxin operons in Staphylococcus aureus.|https://dx.doi.org/10.1128/msystems.01735-25
+RPA Combined With CRISPR/Cas12a for Rapid and Ultrasensitive Detection Dual-Gene of Methicillin-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1002/jmr.70035
