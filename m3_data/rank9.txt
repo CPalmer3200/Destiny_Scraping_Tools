@@ -5,3 +5,4 @@ Colonization amplification despite limited in-hospital transmission: A modeling 
 Clinical characteristics and risk factors analysis of Clostridioides difficile infection in ulcerative colitis patients during biologic therapy.|https://dx.doi.org/10.3389/fcimb.2026.1803104
 Corticosteroid Initiation Before Antimicrobials Does Not Increase the Risk of Adverse Outcomes Among Individuals Hospitalized With an IBD Flare and Enteric Infection.|https://dx.doi.org/10.1097/MCG.0000000000002379
 Amoxicillin-Clavulanate vs Amoxicillin for Acute Sinusitis in Adults.|https://dx.doi.org/10.1001/jama.2025.26902
+Bridging the Gap in Antibiotic Stewardship at Hospital Discharge: Evaluating the Impact of Pharmacist Interventions.|https://dx.doi.org/10.1002/jac5.70124
