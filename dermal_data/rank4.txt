@@ -37,3 +37,6 @@ A Mechanical Robust Tunable Terepthaloyl Modified Chitosan Hydrogel Matrix for M
 Core-Satellite Structured Copper-Based Nanomedicine for Orchestrating Accelerated Wound Healing with Potent Antibacterial Efficacy.|https://dx.doi.org/10.1021/acsami.5c25458
 Laponite-reinforced marine bioinspired injectable self-healing adhesive chitosan-based hydrogel for infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2026.125230
 Dynamically Crosslinked Carbon Dot/Alginate Hydrogels for On-Demand Osteomyelitis Therapy.|https://dx.doi.org/10.1002/adma.73080
+Self-Evolving Hydrogel Dressing Temporally Accelerates Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/adma.202523302
+Robust and durable zwitterionic hydrogel coating with catechol-Cu(2+) coordination for antithrombotic and antibacterial blood-contacting devices.|https://dx.doi.org/10.1016/j.bioactmat.2026.02.036
+Injectable natural hydrogel-loaded Ta(4)C(3) quantum dots self-assembled with Phillyrin-mediated NIR-II anti-infection for acute sinusitis.|https://dx.doi.org/10.1038/s42004-026-02028-0

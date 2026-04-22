@@ -5,3 +5,4 @@ The combination of mupirocin and Kayvirus broadens the decolonization effect aga
 High Humidity Exacerbates Psoriasiform Skin Disease Relapse by Increasing Tissue-Resident Memory T Cells via Altering Skin Microbiota.|https://dx.doi.org/10.1002/advs.202504061
 Staphylococcus aureus colonization before elective posterior spine surgery: is it associated with postoperative S. aureus infections?|https://dx.doi.org/10.3171/2025.12.SPINE25788
 Indoor airborne dust in veterinary facilities as a reservoir of bacterial pathogens and antimicrobial resistance.|https://dx.doi.org/10.3389/fvets.2026.1787366
+Screen for signatures of positive selection in the core genome of Staphylococcus epidermidis.|https://dx.doi.org/10.1099/mgen.0.001692

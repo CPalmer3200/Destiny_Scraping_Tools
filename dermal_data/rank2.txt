@@ -29,3 +29,4 @@ Photothermal-driven multifunctional injectable hydrogel platform for promoting d
 Absence of evidence or evidence of absence? Interpreting bone biopsy-guided therapy in diabetic foot osteomyelitis.|https://dx.doi.org/10.1093/cid/ciag266
 Comprehensive evaluation of sacchachitosan-based transdermal films for wound care: Physical, chemical, and biological parameters.|https://dx.doi.org/10.1016/j.bbrep.2026.102560
 Targeting the Pathological Microenvironment in Diabetic Foot Ulcers: Advances in Drug Delivery Systems for Improved Healing.|https://dx.doi.org/10.1002/jbm.b.70079
+Application of nanofiber wound dressings in diabetic wound healing: a review and economic considerations.|https://dx.doi.org/10.25270/wnds/25133

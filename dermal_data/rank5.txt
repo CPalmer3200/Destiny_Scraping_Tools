@@ -13,3 +13,4 @@ Quantum Dot-Phage Nanoarchitectonics for Targeted Synergistic Therapy of Methici
 The Approximation Principle: A Novel Mechanobiological Approach to Chronic Wound Management.|https://dx.doi.org/10.1097/ASW.0000000000000432
 Synergistic tissue destruction by Staphylococcus aureus and Staphylococcus epidermidis in a 3D human skin biofilm equivalent.|https://dx.doi.org/10.1016/j.bioflm.2026.100361
 Nanostructured lipid carrier enabled delivery of levofloxacin and clove essential oil to overcome Pseudomonas aeruginosa biofilm infection in burn wounds- a synergistic approach.|https://dx.doi.org/10.1016/j.ijpharm.2026.126885
+Controlling Staphylococcus aureus skin infections by targeting biofilm and virulence properties using FDA-approved antiseptics and skin care products.|https://dx.doi.org/10.1007/s12223-026-01482-6
