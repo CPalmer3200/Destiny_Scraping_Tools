@@ -37,3 +37,4 @@ Endoscopic-assisted removal of injectable Amazingel with or without immediate pr
 Inflating Your Success: An Algorithmic Approach to Improving Outcomes in Pediatric Tissue Expansion.|https://dx.doi.org/10.1097/GOX.0000000000007582
 Postoperative Infection After Implant-Based Breast Reconstruction: Risk Factors and Clinical Burden in a Large Single-Center Cohort.|https://dx.doi.org/10.3390/jcm15072723
 Outcomes of Body Contouring Surgery After Bariatric Surgery vs. GLP-1 Receptor Agonist-Induced Weight Loss: A Propensity Score Matched Analysis.|https://dx.doi.org/10.1007/s00266-026-05861-9
+GLP-1 Receptor Agonist Use and Wound Outcomes After Free Flap Breast Reconstruction.|https://dx.doi.org/10.1055/a-2858-3774

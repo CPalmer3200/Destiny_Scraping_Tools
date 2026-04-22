@@ -21,3 +21,6 @@ Impact of prophylactic oral azithromycin during labor on Azithromycin Resistance
 Prospective Real-World Outcomes of Endoscopic Sinus Surgery and Dupilumab in Severe Chronic Rhinosinusitis With Nasal Polyps.|https://dx.doi.org/10.1002/alr.70163
 Increased Incidence of Methicillin-Resistant Staphylococcus aureus Skin and Soft Tissue Abscesses in Indigenous Children in North Queensland.|https://dx.doi.org/10.7759/cureus.105132
 Multidrug-resistant organism carriage in children admitted to a pediatric intensive care unit of a Greek tertiary hospital: prevalence and risk factors.|https://dx.doi.org/10.1186/s13756-026-01738-3
+Genetic modification of intractable bacterial clones by heat shock-facilitated phage transduction.|https://dx.doi.org/10.1016/j.crmeth.2026.101406
+Point-Counterpoint: Should MRSA nares testing be used as a tool for vancomycin de-escalation outside of pneumonia?|https://dx.doi.org/10.1128/jcm.01309-25
+Targeted Antimicrobial Stewardship in a Pediatric Intensive Care Unit: Using the Methicillin-Resistant Staphylococcus aureus (MRSA) Nasal Polymerase Chain Reaction (PCR) to Reduce Vancomycin Days of Therapy.|https://dx.doi.org/10.1002/jac5.70169

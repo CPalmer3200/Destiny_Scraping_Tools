@@ -19,3 +19,5 @@ High Humidity Exacerbates Psoriasiform Skin Disease Relapse by Increasing Tissue
 Indoor airborne dust in veterinary facilities as a reservoir of bacterial pathogens and antimicrobial resistance.|https://dx.doi.org/10.3389/fvets.2026.1787366
 Antimicrobial and antibiofilm activity of a novel bacteriophage endolysin (LysSW21) against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1186/s12866-026-04916-w
 Inhalable Polymeric Nanoparticle Vaccine for Lysosome-Targeting Co-Delivery of Antigen and Adjuvant With Enhanced Immunoprotection.|https://dx.doi.org/10.1002/adma.73112
+Multifunctional Cu(2)O@Ag probe for ultra-sensitive SERS detection and inhibition of Escherichia coli O157: H7.|https://dx.doi.org/10.1016/j.foodchem.2026.149293
+Screen for signatures of positive selection in the core genome of Staphylococcus epidermidis.|https://dx.doi.org/10.1099/mgen.0.001692
