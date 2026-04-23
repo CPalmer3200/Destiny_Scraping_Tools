@@ -105,3 +105,7 @@ Prosthetic Joint Infection Caused by Staphylococcus argenteus: mNGS-Guided Diagn
 Metagenomic and Phenotypic Insights Into Biofilm-Forming Pathogens in Patients With Nosocomial Sepsis.|https://dx.doi.org/10.1155/bmri/8989667
 Antimicrobial elution patterns correlate with antibacterial and antifungal activities of three antimicrobial central venous catheters in serum.|https://dx.doi.org/10.1128/aac.01920-25
 Never Too Old for Arthroscopic Surgery: Woman with Low Virulence Pathogenic Shoulder Osteomyelitis - A Case Report.|https://dx.doi.org/10.3791/69367
+Nitric oxide‑releasing porous titanium foams fabricated by scalable sintering-dissolution process for antibiofilm activity and cytocompatibility.|https://dx.doi.org/10.1038/s41598-026-47080-x
+Epidemiological and antibiotic susceptibility pattern of bacterial paronychial infection.|https://dx.doi.org/10.47391/JPMA.21641
+Empirical antibiotic therapy in acute orthopaedic infections: differences in antimicrobial susceptibility across anatomical sites.|https://dx.doi.org/10.5194/jbji-11-229-2026
+Genetic Diversity of Methicillin-Resistant Staphylococcus aureus Isolates From Two Tertiary Care Hospitals in Sulaymaniyah, Iraq, Characterized by spa Typing, Coagulase VNTR Sequencing, and REP-PCR.|https://dx.doi.org/10.1155/ijm/9366780
