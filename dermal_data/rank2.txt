@@ -30,3 +30,4 @@ Absence of evidence or evidence of absence? Interpreting bone biopsy-guided ther
 Comprehensive evaluation of sacchachitosan-based transdermal films for wound care: Physical, chemical, and biological parameters.|https://dx.doi.org/10.1016/j.bbrep.2026.102560
 Targeting the Pathological Microenvironment in Diabetic Foot Ulcers: Advances in Drug Delivery Systems for Improved Healing.|https://dx.doi.org/10.1002/jbm.b.70079
 Application of nanofiber wound dressings in diabetic wound healing: a review and economic considerations.|https://dx.doi.org/10.25270/wnds/25133
+Platelet-rich plasma in the management of diabetic foot ulcers (Review).|https://dx.doi.org/10.3892/br.2026.2142

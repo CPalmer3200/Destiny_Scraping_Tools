@@ -6,3 +6,5 @@ High Humidity Exacerbates Psoriasiform Skin Disease Relapse by Increasing Tissue
 Staphylococcus aureus colonization before elective posterior spine surgery: is it associated with postoperative S. aureus infections?|https://dx.doi.org/10.3171/2025.12.SPINE25788
 Indoor airborne dust in veterinary facilities as a reservoir of bacterial pathogens and antimicrobial resistance.|https://dx.doi.org/10.3389/fvets.2026.1787366
 Screen for signatures of positive selection in the core genome of Staphylococcus epidermidis.|https://dx.doi.org/10.1099/mgen.0.001692
+Efflux pump activation confers mupirocin resistance and enhances rhizosphere fitness in Pseudomonas.|https://dx.doi.org/10.1128/aem.02575-25
+Synergistic Anti-Biofilm and Bactericidal Activity of Ethanol and Chlorhexidine Combined with EDTA Against Staphylococcus aureus Isolates from Healthcare-Associated Carriers.|https://dx.doi.org/10.2147/IDR.S580129
