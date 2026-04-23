@@ -7,3 +7,4 @@ Not just passengers: Phages as agents of genetic exchange in fecal microbiota tr
 Re-establishing bile acid composition after treatment of recurrent Clostridioides difficile infection with fecal microbiota transplantation compared with oral vancomycin or a 12-strain bacterial mixture.|https://dx.doi.org/10.1080/19490976.2026.2658915
 Eosinopenia is associated with worse outcomes in hospitalized patients with Clostridioides difficile infection in South Korea.|https://dx.doi.org/10.1016/j.anaerobe.2026.103047
 Antibiotic Exposure Patterns and Clinical Outcomes Preceding Clostridioides difficile Infection: A Retrospective Observational Study.|https://dx.doi.org/10.7759/cureus.105289
+Biofilm- and Spore-Disruptive Star-Shaped Poly(l-lysine)/Hyaluronic Acid Microgels for Targeted Oral Therapy of Clostridioides difficile Infection.|https://dx.doi.org/10.1021/acs.biomac.5c02037
