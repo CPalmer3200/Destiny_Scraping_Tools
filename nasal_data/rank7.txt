@@ -109,3 +109,11 @@ Nitric oxide‑releasing porous titanium foams fabricated by scalable sintering-
 Epidemiological and antibiotic susceptibility pattern of bacterial paronychial infection.|https://dx.doi.org/10.47391/JPMA.21641
 Empirical antibiotic therapy in acute orthopaedic infections: differences in antimicrobial susceptibility across anatomical sites.|https://dx.doi.org/10.5194/jbji-11-229-2026
 Genetic Diversity of Methicillin-Resistant Staphylococcus aureus Isolates From Two Tertiary Care Hospitals in Sulaymaniyah, Iraq, Characterized by spa Typing, Coagulase VNTR Sequencing, and REP-PCR.|https://dx.doi.org/10.1155/ijm/9366780
+Engineered with tannic acid-magnesium metal-phenolic frameworks: A multifunctional 3D-printed PCL/TCP scaffold for bone regeneration.|https://dx.doi.org/10.1016/j.bioadv.2026.214893
+Environmental surface sampling in health and care settings: a scoping review of published guidance.|https://dx.doi.org/10.1016/j.jhin.2026.04.003
+A model of polymicrobial catheter-associated urinary tract infection reveals biofilm-mediated modulation of treatment efficacy.|https://dx.doi.org/10.1093/jambio/lxag098
+Mechanical deformation inhibits growth and migration of S. aureus within submicrometer channels.|https://dx.doi.org/10.1128/mbio.00194-26
+[Translated article] Complications of intraosseous administration of vancomycin in total hip arthroplasty.|https://dx.doi.org/10.1016/j.recot.2025.04.004
+Investigation and control of a meticillin-resistant Staphylococcus aureus (MRSA) outbreak in a Level 2 neonatal unit in England: findings from a cohort study.|https://dx.doi.org/10.1016/j.infpip.2026.100532
+Antibiotic Susceptibility Profiles and Determinants of Septic Abortion Among Women Admitted for Abortion Care in Ugandan Satellite Teaching Hospitals: A Two-Center Cross-Sectional Study.|https://dx.doi.org/10.1002/hsr2.72062
+Bacterial Profiling and Antibiotic Resistance Pattern of Uropathogens Isolated From Adolescent Girls With Bacteriuria: A Cross-Sectional Study.|https://dx.doi.org/10.1002/hsr2.72104
