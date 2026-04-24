@@ -40,3 +40,6 @@ Dynamically Crosslinked Carbon Dot/Alginate Hydrogels for On-Demand Osteomyeliti
 Self-Evolving Hydrogel Dressing Temporally Accelerates Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/adma.202523302
 Robust and durable zwitterionic hydrogel coating with catechol-Cu(2+) coordination for antithrombotic and antibacterial blood-contacting devices.|https://dx.doi.org/10.1016/j.bioactmat.2026.02.036
 Injectable natural hydrogel-loaded Ta(4)C(3) quantum dots self-assembled with Phillyrin-mediated NIR-II anti-infection for acute sinusitis.|https://dx.doi.org/10.1038/s42004-026-02028-0
+Combined metronidazole delivery from a WS(2)-halloysite nanotube-loaded electrospun cellulose acetate membrane supported by a 3D-printed PLA/cassava fiber mesh.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152162
+In Vitro and In Vivo Comparison of a Novel Antimicrobial Wound Hydrogel With Commercial Wound Treatments: Antimicrobial, Antibiofilm and Biocompatibility Assessment.|https://dx.doi.org/10.1111/iwj.70904
+Ultrasound-Guided Injectable Adhesive Hydrogel Enabling Targeted Hemostasis in Deep and Incompressible Wounds.|https://dx.doi.org/10.1002/adhm.71187

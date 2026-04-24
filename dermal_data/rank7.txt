@@ -11,3 +11,4 @@ Beyond static loading: a dynamic, multifactorial assessment of dermal exposure t
 Postbiotic_Loaded Hyalurosome: Investigating Their Potential as Antimicrobial and Antioxidant Agents.|https://dx.doi.org/10.1111/jocd.70777
 Collagen depletion, not keloid formation, defines lobomycosis lesions: a paired skin analysis.|https://dx.doi.org/10.1016/j.mmcr.2026.100787
 Antimicrobial potency and biocompatibility of biogenic selenium nanoparticles by Prosopis farcta.|https://dx.doi.org/10.1016/j.micpath.2026.108495
+Diagnostic accuracy and safety of Cy-Tb for detection of tuberculosis infection: A multicentric study from India.|https://dx.doi.org/10.25259/IJMR_1794_2025
