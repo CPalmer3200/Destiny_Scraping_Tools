@@ -33,3 +33,5 @@ Application of nanofiber wound dressings in diabetic wound healing: a review and
 Platelet-rich plasma in the management of diabetic foot ulcers (Review).|https://dx.doi.org/10.3892/br.2026.2142
 Optimal Wound pH and Related Factors in the Healing Process of Diabetes-Related Foot Ulcer: A Prospective Observational Study.|https://dx.doi.org/10.1002/hsr2.72079
 Comprehensive Management of Diabetic Foot Ulcers: Current Evidence and Practice.|https://dx.doi.org/10.1111/1753-0407.70221
+Pathogen profile and inflammatory biomarkers in diabetic foot infections: correlation with disease severity.|https://dx.doi.org/10.1186/s12879-026-13386-4
+Commentary on Charlier et al. article 'Paleoproteomics reveals chromoblastomycosis as possible cause of King of France Louis XIV's death (1715)'.|https://dx.doi.org/10.1016/j.pharma.2026.04.005
