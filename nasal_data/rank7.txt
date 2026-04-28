@@ -1,3 +1,13 @@
 The phage Φ13-encoded transcriptional regulator Ltr controls phage assembly in Staphylococcus aureus.|https://dx.doi.org/10.1186/s12985-026-03167-5
 Bilateral Auricular Blastomycosis-like Pyoderma: A Rare Presentation Histologically Misinterpreted as Squamous Cell Carcinoma.|https://dx.doi.org/10.3390/dermatopathology13020016
 Cultured microbial community complexity is associated with antimicrobial resistance and Enterobacterales enrichment in adult odontogenic infections.|https://dx.doi.org/10.1007/s10006-026-01563-3
+Cold-plasma for the decontamination of laparoscopic trocar incisions: In Vitro antimicrobial efficacy of a prototype applicator.|https://dx.doi.org/10.1515/bmt-2025-0416
+Isolated Staphylococcus aureus spinal epidural abscesses: severe initial neurological deficits do not predict worse outcomes compared with spondylodiscitis-associated cases.|https://dx.doi.org/10.1007/s00586-026-09959-1
+Current Management of Infective Endocarditis: A Narrative Review Focused on Unmet Clinical Needs and the Multidisciplinary Approach.|https://dx.doi.org/10.3390/jcdd13040155
+Ecological Dynamics of Staphylococcus aureus in Raw Ewe Milk Following Different Mastitis Treatment Protocols.|https://dx.doi.org/10.3390/antibiotics15040388
+Effects of Prebiotic Gum Arabic Under Antibiotic-Containing Conditions in Atopic Dermatitis-Associated Bacteria: In Vitro Evaluation and Development of Semisolid Topical Carriers.|https://dx.doi.org/10.3390/antibiotics15040378
+Development and In Vitro Characterization of Light Responsive Zinc-Based Nanoparticles Embedded in Collagen Sheets Intended for Wound Care Oriented Applications.|https://dx.doi.org/10.1002/mabi.70188
+Pre-operative methicillin-resistant Staphylococcus aureus colonization increases the risk of 90-day medical and 2-year implant-related complications following primary total shoulder arthroplasty: a propensity-matched analysis.|https://dx.doi.org/10.1016/j.jsea.2026.100011
+Bioinspired electrospun janus nanofibrous dressing for synergistic antibacterial activity and tissue regeneration.|https://dx.doi.org/10.3389/fmicb.2026.1788110
+Exploring Fingerprint Biometric Devices as a Source of Multidrug Resistant Bacterial Isolates in a Tertiary Care Hospital.|https://dx.doi.org/10.4314/ejhs.v36i1.2
+Pathogenesis of MRSA-influenza co-infection: implications for ECMO therapeutic strategies - a mini-review.|https://dx.doi.org/10.3389/fimmu.2026.1741603
