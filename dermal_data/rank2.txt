@@ -35,3 +35,8 @@ Optimal Wound pH and Related Factors in the Healing Process of Diabetes-Related 
 Comprehensive Management of Diabetic Foot Ulcers: Current Evidence and Practice.|https://dx.doi.org/10.1111/1753-0407.70221
 Pathogen profile and inflammatory biomarkers in diabetic foot infections: correlation with disease severity.|https://dx.doi.org/10.1186/s12879-026-13386-4
 Commentary on Charlier et al. article 'Paleoproteomics reveals chromoblastomycosis as possible cause of King of France Louis XIV's death (1715)'.|https://dx.doi.org/10.1016/j.pharma.2026.04.005
+Advanced regenerative solutions in diabetic foot ulcer therapy: delivery of mesenchymal stem cells in injectable hydrogels.|https://dx.doi.org/10.1186/s13287-026-05036-y
+The relationship between urinary albumin-to-creatinine ratio and bacterial profiles/inflammatory markers in diabetic foot infections: a retrospective cross-sectional observational study.|https://dx.doi.org/10.3389/fendo.2026.1724201
+Hyperbaric Oxygen Therapy in Surgical Wound Healing and Tissue Salvage: A Structured Narrative Review.|https://dx.doi.org/10.7759/cureus.105894
+Risk Factors and Nomogram Model for Multidrug-Resistant Bacterial Infections in Diabetic Foot Wounds.|https://dx.doi.org/10.1111/iwj.70929
+Candida Drug Resistance in Patients With Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/iwj.70900

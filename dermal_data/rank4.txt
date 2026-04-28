@@ -44,3 +44,8 @@ Combined metronidazole delivery from a WS(2)-halloysite nanotube-loaded electros
 In Vitro and In Vivo Comparison of a Novel Antimicrobial Wound Hydrogel With Commercial Wound Treatments: Antimicrobial, Antibiofilm and Biocompatibility Assessment.|https://dx.doi.org/10.1111/iwj.70904
 Ultrasound-Guided Injectable Adhesive Hydrogel Enabling Targeted Hemostasis in Deep and Incompressible Wounds.|https://dx.doi.org/10.1002/adhm.71187
 Synergistic antibacterial and pro-healing chitosan-nano-CuO/ZnO composite dressing for wound management.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152215
+A Chondroitin Sulfate-Iron Complex with Antibacterial Activity and Its Derived Hydrogel for Infected Wound Healing.|https://dx.doi.org/10.3390/gels12040329
+Photothermal-Responsive Polyvinyl Alcohol/Gelatin/Graphene Oxide Hydrogels Loaded with Quercetin for NIR-Triggered Controlled Drug Delivery.|https://dx.doi.org/10.3390/gels12040327
+Development and In Vitro Characterization of Light Responsive Zinc-Based Nanoparticles Embedded in Collagen Sheets Intended for Wound Care Oriented Applications.|https://dx.doi.org/10.1002/mabi.70188
+Covalently Immobilized Neomycin in Self-Healing Hydrogel for Nonleaching Antibacterial Dressing in Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsomega.6c00520
+Bioinspired electrospun janus nanofibrous dressing for synergistic antibacterial activity and tissue regeneration.|https://dx.doi.org/10.3389/fmicb.2026.1788110
