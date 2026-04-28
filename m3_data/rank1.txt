@@ -8,3 +8,8 @@ Re-establishing bile acid composition after treatment of recurrent Clostridioide
 Eosinopenia is associated with worse outcomes in hospitalized patients with Clostridioides difficile infection in South Korea.|https://dx.doi.org/10.1016/j.anaerobe.2026.103047
 Antibiotic Exposure Patterns and Clinical Outcomes Preceding Clostridioides difficile Infection: A Retrospective Observational Study.|https://dx.doi.org/10.7759/cureus.105289
 Biofilm- and Spore-Disruptive Star-Shaped Poly(l-lysine)/Hyaluronic Acid Microgels for Targeted Oral Therapy of Clostridioides difficile Infection.|https://dx.doi.org/10.1021/acs.biomac.5c02037
+Newer Therapeutics to Selectively Kill Clostridioides difficile and Restore the Microbiome.|https://dx.doi.org/10.3390/idr18020034
+Heart Failure Incidence and Risk Factors in U.S. Adults Receiving Bezlotoxumab: A Large Database Analysis.|https://dx.doi.org/10.3390/idr18020028
+Derivation and validation of a prediction model for primary and recurrent Clostridioides difficile infection among the hematopoietic cell transplantation population.|https://dx.doi.org/10.1017/ash.2026.10315
+Safety of short versus extended antibiotic therapy for neutropenic fever after hematopoietic cell transplantation.|https://dx.doi.org/10.1017/ash.2026.10327
+Effectiveness of fidaxomicin in preventing recurrence after initial community-associated Clostridioides difficile infection.|https://dx.doi.org/10.1017/ash.2026.10379

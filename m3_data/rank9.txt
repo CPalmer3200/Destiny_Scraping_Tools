@@ -7,3 +7,4 @@ Corticosteroid Initiation Before Antimicrobials Does Not Increase the Risk of Ad
 Amoxicillin-Clavulanate vs Amoxicillin for Acute Sinusitis in Adults.|https://dx.doi.org/10.1001/jama.2025.26902
 Bridging the Gap in Antibiotic Stewardship at Hospital Discharge: Evaluating the Impact of Pharmacist Interventions.|https://dx.doi.org/10.1002/jac5.70124
 Phenotypic profiling of neutrophils in acute Clostridioides difficile infection identifies a TNF-induced activation signature associated with epithelial damage.|https://dx.doi.org/10.1080/19490976.2026.2659430
+Acid-Suppressive Therapy Choice and Risk of Treatment Escalation in Inflammatory Bowel Disease: A Real-World Comparative Retrospective Study to Inform Personalized Treatment.|https://dx.doi.org/10.3390/jpm16040193

@@ -5,3 +5,4 @@ CSPG4 Mediates Inflammatory, Cell Death, and Senescence Responses in Enteric Gli
 Cessation of amoxicillin-clavulanate selective reporting and association with antibiotic prescribing and C. difficile infection in Ontario, Canada, 2017-2024: An ecological study.|https://dx.doi.org/10.1016/j.cmi.2026.04.015
 The Clinical Significance of Real-Time PCR Cycle Threshold (Ct) Values in Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.anaerobe.2026.103049
 Racial disparities in healthcare-associated infections: a systematic review and meta-analysis.|https://dx.doi.org/10.1017/ice.2026.10461
+Impact of incorporating electronic medical record tools on optimal antibiotic durations at discharge for uncomplicated community-acquired pneumonia: a quasi-experimental study.|https://dx.doi.org/10.1017/ash.2026.10326
