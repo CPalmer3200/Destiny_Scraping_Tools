@@ -6,3 +6,4 @@ Cessation of amoxicillin-clavulanate selective reporting and association with an
 The Clinical Significance of Real-Time PCR Cycle Threshold (Ct) Values in Clostridioides difficile Infection.|https://dx.doi.org/10.1016/j.anaerobe.2026.103049
 Racial disparities in healthcare-associated infections: a systematic review and meta-analysis.|https://dx.doi.org/10.1017/ice.2026.10461
 Impact of incorporating electronic medical record tools on optimal antibiotic durations at discharge for uncomplicated community-acquired pneumonia: a quasi-experimental study.|https://dx.doi.org/10.1017/ash.2026.10326
+Impact of admission screening on Clostridioides difficile infection rates in a hematology-oncology and hematopoietic cell transplant unit.|https://dx.doi.org/10.1017/ice.2026.10442

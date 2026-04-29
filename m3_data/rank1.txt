@@ -13,3 +13,4 @@ Heart Failure Incidence and Risk Factors in U.S. Adults Receiving Bezlotoxumab: 
 Derivation and validation of a prediction model for primary and recurrent Clostridioides difficile infection among the hematopoietic cell transplantation population.|https://dx.doi.org/10.1017/ash.2026.10315
 Safety of short versus extended antibiotic therapy for neutropenic fever after hematopoietic cell transplantation.|https://dx.doi.org/10.1017/ash.2026.10327
 Effectiveness of fidaxomicin in preventing recurrence after initial community-associated Clostridioides difficile infection.|https://dx.doi.org/10.1017/ash.2026.10379
+Antimicrobial susceptibility and virulence gene analysis of Clostridioides difficile from healthcare-associated infections in Southern Brazil.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117431

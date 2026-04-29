@@ -5,3 +5,7 @@ Nudging in MicroBiology Laboratory Evaluation (NiMBLE): A systematic review and 
 Ceftriaxone versus cefotaxime: a scoping review of resistance selection, Clostridioides difficile risk, economic implications and environmental impacts.|https://dx.doi.org/10.1016/j.idnow.2026.105278
 Reducing Community-Acquired CDIFF Admissions: Outpatient Antimicrobial Stewardship.|https://dx.doi.org/10.1097/JHQ.0000000000000507
 Anti-Ma2 Paraneoplastic Encephalitis and Testicular Cancer: When the Hypothalamus Whispers-A Case Report and Systematic Review with Emphasis on Hypothalamic-Endocrine Dysfunction.|https://dx.doi.org/10.3390/medsci14020175
+Surveillance of adverse events following immunisation in Australia, 2023.|https://dx.doi.org/10.33321/cdi.2026.50.002
+Epidemiology of Staphylococcus aureus infections in Timor-Leste, January-July 2020.|https://dx.doi.org/10.33321/cdi.2026.50.028
+Improving urine testing stewardship with a technology-leveraged urine testing guideline.|https://dx.doi.org/10.1017/ice.2026.10430
+Clostridioides difficile Infection in Hematology-Oncology Patients Receiving Bacterial Prophylaxis With Levofloxacin: A Single-Institution Experience.|https://dx.doi.org/10.7759/cureus.105973
