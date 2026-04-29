@@ -49,3 +49,4 @@ Photothermal-Responsive Polyvinyl Alcohol/Gelatin/Graphene Oxide Hydrogels Loade
 Development and In Vitro Characterization of Light Responsive Zinc-Based Nanoparticles Embedded in Collagen Sheets Intended for Wound Care Oriented Applications.|https://dx.doi.org/10.1002/mabi.70188
 Covalently Immobilized Neomycin in Self-Healing Hydrogel for Nonleaching Antibacterial Dressing in Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsomega.6c00520
 Bioinspired electrospun janus nanofibrous dressing for synergistic antibacterial activity and tissue regeneration.|https://dx.doi.org/10.3389/fmicb.2026.1788110
+pH/glucose dual-responsive drug release hydrogel loaded with tannic acid and gallium ions enhances diabetic wound healing upon bacterial infection.|https://dx.doi.org/10.1186/s13036-025-00581-1

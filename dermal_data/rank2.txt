@@ -40,3 +40,5 @@ The relationship between urinary albumin-to-creatinine ratio and bacterial profi
 Hyperbaric Oxygen Therapy in Surgical Wound Healing and Tissue Salvage: A Structured Narrative Review.|https://dx.doi.org/10.7759/cureus.105894
 Risk Factors and Nomogram Model for Multidrug-Resistant Bacterial Infections in Diabetic Foot Wounds.|https://dx.doi.org/10.1111/iwj.70929
 Candida Drug Resistance in Patients With Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/iwj.70900
+Negative Pressure Wound Therapy as a Key Strategy in the Management of Severe Diabetic Foot Ulcers in Septic Frail Patients: A Case Series.|https://dx.doi.org/10.1111/iwj.70926
+Multidrug-Resistant Serratia fonticola Causing Diabetic Foot Infection: A Rare Case Highlighting Emerging Antimicrobial Resistance.|https://dx.doi.org/10.7759/cureus.105964
