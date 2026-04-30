@@ -9,3 +9,4 @@ Surveillance of adverse events following immunisation in Australia, 2023.|https:
 Epidemiology of Staphylococcus aureus infections in Timor-Leste, January-July 2020.|https://dx.doi.org/10.33321/cdi.2026.50.028
 Improving urine testing stewardship with a technology-leveraged urine testing guideline.|https://dx.doi.org/10.1017/ice.2026.10430
 Clostridioides difficile Infection in Hematology-Oncology Patients Receiving Bacterial Prophylaxis With Levofloxacin: A Single-Institution Experience.|https://dx.doi.org/10.7759/cureus.105973
+Advancing Antimicrobial Stewardship With Diagnostic Excellence: The Role of Bayesian Reasoning.|https://dx.doi.org/10.1093/ofid/ofag213

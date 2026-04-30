@@ -9,3 +9,4 @@ Bridging the Gap in Antibiotic Stewardship at Hospital Discharge: Evaluating the
 Phenotypic profiling of neutrophils in acute Clostridioides difficile infection identifies a TNF-induced activation signature associated with epithelial damage.|https://dx.doi.org/10.1080/19490976.2026.2659430
 Acid-Suppressive Therapy Choice and Risk of Treatment Escalation in Inflammatory Bowel Disease: A Real-World Comparative Retrospective Study to Inform Personalized Treatment.|https://dx.doi.org/10.3390/jpm16040193
 Neglected Joint Infection Occurring Following Intra-Articular Injection and Colon Perforation: A Case Report.|https://dx.doi.org/10.1155/cro/1431586
+High-resolution metabolomic analysis of stool reveals expanded biomarkers of C. difficile colitis and insights into pathophysiology.|https://dx.doi.org/10.1128/spectrum.02826-25
