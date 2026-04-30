@@ -42,3 +42,9 @@ Risk Factors and Nomogram Model for Multidrug-Resistant Bacterial Infections in 
 Candida Drug Resistance in Patients With Diabetic Foot Ulcers: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/iwj.70900
 Negative Pressure Wound Therapy as a Key Strategy in the Management of Severe Diabetic Foot Ulcers in Septic Frail Patients: A Case Series.|https://dx.doi.org/10.1111/iwj.70926
 Multidrug-Resistant Serratia fonticola Causing Diabetic Foot Infection: A Rare Case Highlighting Emerging Antimicrobial Resistance.|https://dx.doi.org/10.7759/cureus.105964
+Self-Cascading Copper-Based Nanoassemblies Trigger Bacterial Cuproptosis-Like Death and Promote Wound Healing for Diabetic Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.1021/acsnano.5c21619
+A First-In-Human Study of Pyroligneous Extract, the Biomaterial Derived From Pyrolytic Palm Kernel Shell Wood Vinegar as a Novel Wound Healing Aid on Diabetic Foot Ulcer.|https://dx.doi.org/10.1111/wrr.70166
+Leukocyte VCS parameters as potential auxiliary markers associated with diabetes and its inflammatory complications: A retrospective cross-sectional study.|https://dx.doi.org/10.1177/00368504261445505
+Thirty-Day Readmission After Hospitalisation for Diabetic Foot Ulcer: A Nationwide Analysis.|https://dx.doi.org/10.1111/wrr.70165
+Multi-kingdom biofilms breached: microneedle delivery of metabolically targeted organic silver-photosensitizers for polymicrobial infections in diabetic foot ulcers.|https://dx.doi.org/10.1039/d6mh00459h
+The association of serum uric acid with severity and prognosis of patients with diabetic foot ulcers.|https://dx.doi.org/10.3389/fendo.2026.1732361

@@ -19,3 +19,4 @@ Differential pathogenic and commensal response of Staphylococcus aureus and Stap
 In Vitro Antifungal Activity of Essential Oils and Nanoemulsions of Zingiber cassumunar and Cymbopogon citratus Against Planktonic and Biofilm Forms of Malassezia pachydermatis.|https://dx.doi.org/10.3390/antibiotics15040402
 Ecological Dynamics of Staphylococcus aureus in Raw Ewe Milk Following Different Mastitis Treatment Protocols.|https://dx.doi.org/10.3390/antibiotics15040388
 Antifungal resistance and Ocimum gratissimum L. essential oil-clotrimazole interactions in clinical Candida isolates from Vietnam.|https://dx.doi.org/10.1080/17460913.2026.2665051
+Removal Mechanism of Cutibacterium acnes Biofilms: A Comparison between Synthetic Surfactants and Rhamnolipid Biosurfactants.|https://dx.doi.org/10.1021/acs.langmuir.6c00539

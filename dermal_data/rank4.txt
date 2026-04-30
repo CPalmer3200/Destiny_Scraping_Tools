@@ -50,3 +50,5 @@ Development and In Vitro Characterization of Light Responsive Zinc-Based Nanopar
 Covalently Immobilized Neomycin in Self-Healing Hydrogel for Nonleaching Antibacterial Dressing in Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsomega.6c00520
 Bioinspired electrospun janus nanofibrous dressing for synergistic antibacterial activity and tissue regeneration.|https://dx.doi.org/10.3389/fmicb.2026.1788110
 pH/glucose dual-responsive drug release hydrogel loaded with tannic acid and gallium ions enhances diabetic wound healing upon bacterial infection.|https://dx.doi.org/10.1186/s13036-025-00581-1
+Functionalized collagen-based sponge dressing integrating negative pressure wound therapy and photothermal antibacterial treatment for advanced wound management.|https://dx.doi.org/10.1039/d6bm00297h
+Staphylococcus aureus surgical site infection following unilateral biportal endoscopic spine surgery: a two-case report.|https://dx.doi.org/10.3389/fsurg.2026.1788679
