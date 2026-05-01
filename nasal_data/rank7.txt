@@ -19,3 +19,11 @@ In Vitro Bactericidal and Fungicidal Activities of Commercially Available Low-Ir
 Multi-kingdom biofilms breached: microneedle delivery of metabolically targeted organic silver-photosensitizers for polymicrobial infections in diabetic foot ulcers.|https://dx.doi.org/10.1039/d6mh00459h
 Staphylococcus aureus surgical site infection following unilateral biportal endoscopic spine surgery: a two-case report.|https://dx.doi.org/10.3389/fsurg.2026.1788679
 Severe pneumonia in children with influenza A-Staphylococcus aureus coinfection: case report.|https://dx.doi.org/10.3389/fped.2026.1797919
+Management and outcomes of infective endocarditis in a community hospital and its cardiac surgery referral centre.|https://dx.doi.org/10.1038/s41598-026-50918-z
+Kitchen sponges as reservoirs of foodborne pathogens: Microbial growth dynamics, surface cross-contamination, and hygiene implications.|https://dx.doi.org/10.1016/j.jfp.2026.100794
+Analysis of risk factors for concurrent osteomyelitis in children with septic arthritis: A retrospective cohort study.|https://dx.doi.org/10.1016/j.ajem.2026.04.034
+Synthesis and 3D Printing of Hierarchically Porous Polyaryletherketone Scaffolds with Enhanced Bacteriostasis for Bone Repair.|https://dx.doi.org/10.1021/acsbiomaterials.6c00357
+Phylogenomics and gene association analysis support probiotic potential in a subset of Staphylococcus xylosus isolates.|https://dx.doi.org/10.1099/mgen.0.001708
+Genomic epidemiology and antimicrobial resistance prevalence of Staphylococcus aureus isolated from bloodstream infections in a tertiary hospital in central China: a 5-year retrospective study.|https://dx.doi.org/10.3389/fpubh.2026.1807676
+Imaging of Staphylococcus aureus Infections and Biofilms Using a Selective Covalent Probe for the Unique Serine Hydrolase FphE.|https://dx.doi.org/10.1002/anie.9575966
+Dual-functional cationic hydrogel engineered for simultaneous prevention of postoperative tumor recurrence and wound infection.|https://dx.doi.org/10.1186/s12951-026-04490-3

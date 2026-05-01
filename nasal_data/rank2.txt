@@ -2,3 +2,6 @@ MRSA nasal carriage among Taiwanese senior high school students and a narrative 
 Incidence and outcomes for colonization of multidrug-resistance organisms (MDROs) among patients undergoing elective orthopedic surgery.|https://dx.doi.org/10.1017/ash.2026.10354
 spa Typing and Antibiotic Resistance Profiles of Methicillin-Resistant Staphylococcus aureus Isolates From Broilers in Ilam, Iran.|https://dx.doi.org/10.1002/vms3.70976
 Prevalence, risk factors and multidrug resistance of community-associated methicillin-resistant Staphylococcus aureus nasal carriage among healthy individuals in Ibadan, Nigeria.|https://dx.doi.org/10.1186/s12879-026-13444-x
+Novel Surgical Approach to Posterior Nasal Neurectomy without Identifying the Posterior Nasal Nerve.|https://dx.doi.org/10.1055/s-0045-1808242
+Biofilm adaptation and mucosal immune dysregulation in recalcitrant chronic rhinosinusitis: from pathogenesis to a therapeutic roadmap.|https://dx.doi.org/10.3389/fimmu.2026.1797096
+Methicillin-Resistant Staphylococcus aureus Nasal Swab Utilization as a Predictor for Methicillin-Resistant Staphylococcus aureus Skin and Soft Tissue Infections: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1093/ofid/ofag221
