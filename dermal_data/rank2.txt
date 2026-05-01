@@ -48,3 +48,6 @@ Leukocyte VCS parameters as potential auxiliary markers associated with diabetes
 Thirty-Day Readmission After Hospitalisation for Diabetic Foot Ulcer: A Nationwide Analysis.|https://dx.doi.org/10.1111/wrr.70165
 Multi-kingdom biofilms breached: microneedle delivery of metabolically targeted organic silver-photosensitizers for polymicrobial infections in diabetic foot ulcers.|https://dx.doi.org/10.1039/d6mh00459h
 The association of serum uric acid with severity and prognosis of patients with diabetic foot ulcers.|https://dx.doi.org/10.3389/fendo.2026.1732361
+Development, validation, and pilot implementation of a prognostic model to predict future foot complications among people with diabetes recently discharged from hospital.|https://dx.doi.org/10.1016/j.jclinepi.2026.112295
+Decompressive fasciotomy as a limb-sparing intervention for gas-forming soft tissue infection of the lower limb in diabetic patients: A prospective cohort study of 20 cases from Dakar, Senegal.|https://dx.doi.org/10.1177/00494755261446119
+Methicillin-Resistant Staphylococcus aureus Nasal Swab Utilization as a Predictor for Methicillin-Resistant Staphylococcus aureus Skin and Soft Tissue Infections: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1093/ofid/ofag221
