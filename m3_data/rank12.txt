@@ -8,3 +8,5 @@ Racial disparities in healthcare-associated infections: a systematic review and 
 Impact of incorporating electronic medical record tools on optimal antibiotic durations at discharge for uncomplicated community-acquired pneumonia: a quasi-experimental study.|https://dx.doi.org/10.1017/ash.2026.10326
 Impact of admission screening on Clostridioides difficile infection rates in a hematology-oncology and hematopoietic cell transplant unit.|https://dx.doi.org/10.1017/ice.2026.10442
 Variety of Clostridioides difficile Ribotypes in CDI Patients in Las Vegas, NV.|https://dx.doi.org/10.3390/germs16010002
+Evaluation of COPAN FecalSwab and eSwab collection systems for the detection of Clostridioides difficile using the BD MAX Cdiff assay.|https://dx.doi.org/10.1128/spectrum.00767-26
+Predictors, timing, and outcomes of Clostridium difficile infection following liver and pancreatic resection.|https://dx.doi.org/10.1016/j.hpb.2026.04.447

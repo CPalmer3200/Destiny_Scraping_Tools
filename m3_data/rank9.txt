@@ -10,3 +10,5 @@ Phenotypic profiling of neutrophils in acute Clostridioides difficile infection 
 Acid-Suppressive Therapy Choice and Risk of Treatment Escalation in Inflammatory Bowel Disease: A Real-World Comparative Retrospective Study to Inform Personalized Treatment.|https://dx.doi.org/10.3390/jpm16040193
 Neglected Joint Infection Occurring Following Intra-Articular Injection and Colon Perforation: A Case Report.|https://dx.doi.org/10.1155/cro/1431586
 High-resolution metabolomic analysis of stool reveals expanded biomarkers of C. difficile colitis and insights into pathophysiology.|https://dx.doi.org/10.1128/spectrum.02826-25
+Efficacy of fluoroquinolone prophylaxis during induction phase in children with acute lymphoblastic leukemia: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00431-026-07010-5
+Antibiotics or No Antibiotics after Urethroplasty For Hypospadias: An RCT Evaluating Short Term Surgical Outcomes.|https://dx.doi.org/10.4103/jiaps.jiaps_228_25
