@@ -27,3 +27,11 @@ Phylogenomics and gene association analysis support probiotic potential in a sub
 Genomic epidemiology and antimicrobial resistance prevalence of Staphylococcus aureus isolated from bloodstream infections in a tertiary hospital in central China: a 5-year retrospective study.|https://dx.doi.org/10.3389/fpubh.2026.1807676
 Imaging of Staphylococcus aureus Infections and Biofilms Using a Selective Covalent Probe for the Unique Serine Hydrolase FphE.|https://dx.doi.org/10.1002/anie.9575966
 Dual-functional cationic hydrogel engineered for simultaneous prevention of postoperative tumor recurrence and wound infection.|https://dx.doi.org/10.1186/s12951-026-04490-3
+Nano-enabled enzyme-assisted layer-by-layer coating prevents biofilm formation on urinary catheters.|https://dx.doi.org/10.1016/j.actbio.2026.04.058
+Lip piercing-related prosthetic aortic graft infection and mediastinitis in filaminopathy: A case report.|https://dx.doi.org/10.1016/j.jvscit.2026.102226
+Rare Case of Ulcerative Tumoral Calcinosis with Methicillin-resistant Staphylococcus aureus in a Teen.|https://dx.doi.org/10.4103/jiaps.jiaps_190_25
+Phenotypic Detection of Antimicrobial Resistance Patterns in Microorganisms Isolated From the Primary Molars of Pediatric Dental Patients Undergoing Pulp Therapy.|https://dx.doi.org/10.7759/cureus.106128
+Antimicrobial Resistance in Refugee Camps and Prisons: A Global Scoping Review of Primary Studies on Burden, Risk Factors, Surveillance, and Mitigation Strategies.|https://dx.doi.org/10.2147/IDR.S566267
+Phenotypic and Genotypic Analyses of Antimicrobial Resistance Patterns of Staphylococcus aureus Isolates From Outpatient Blood Samples in Mukuru Slum, Nairobi, Kenya.|https://dx.doi.org/10.1155/cjid/3974296
+Association of biofilm formation with multidrug resistance in burn wound patients isolates of Pseudomonas aeruginosa in Sana'a City, Yemen.|https://dx.doi.org/10.3389/fmed.2026.1762684
+Paving the way or sharing goods?-Interactions between pairs of Staphylococcus aureus and Pseudomonas aeruginosa sequentially isolated from respiratory samples of patients on mechanical ventilation.|https://dx.doi.org/10.3389/fmicb.2026.1798383
