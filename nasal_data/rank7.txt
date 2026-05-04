@@ -35,3 +35,4 @@ Antimicrobial Resistance in Refugee Camps and Prisons: A Global Scoping Review o
 Phenotypic and Genotypic Analyses of Antimicrobial Resistance Patterns of Staphylococcus aureus Isolates From Outpatient Blood Samples in Mukuru Slum, Nairobi, Kenya.|https://dx.doi.org/10.1155/cjid/3974296
 Association of biofilm formation with multidrug resistance in burn wound patients isolates of Pseudomonas aeruginosa in Sana'a City, Yemen.|https://dx.doi.org/10.3389/fmed.2026.1762684
 Paving the way or sharing goods?-Interactions between pairs of Staphylococcus aureus and Pseudomonas aeruginosa sequentially isolated from respiratory samples of patients on mechanical ventilation.|https://dx.doi.org/10.3389/fmicb.2026.1798383
+Cefazolin Alone Versus Vancomycin Plus Cefazolin for Intravenous Prophylaxis in Hip and Knee Arthroplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.arth.2026.04.060
