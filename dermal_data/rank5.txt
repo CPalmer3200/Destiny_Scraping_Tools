@@ -1,2 +1,8 @@
 Therapeutic nanoparticles and targeted therapy.|https://dx.doi.org/10.1016/bs.acr.2026.01.006
 Case Report: Beyond commensal: Staphylococcus epidermidis as a novel cause of NARDS.|https://dx.doi.org/10.3389/fped.2026.1631683
+Label-Free Visualization of the Antifungal Polyene Drug, Nystatin, in Biological Membranes Using Raman Microscopy.|https://dx.doi.org/10.1021/acs.analchem.5c07342
+A conjugated polymer antimicrobial agent triggers metabolic cascade-mediated killing of carbapenem-resistant Klebsiella pneumoniae.|https://dx.doi.org/10.3389/fcimb.2026.1796479
+Establishment and translational evaluation of animal models for skin wound healing: a systematic review.|https://dx.doi.org/10.3389/fphys.2026.1800001
+Investigating the Sharing of Staphylococcus spp. Between Dogs and Their Owners: A Comparative Study from Two Italian Veterinary Teaching Hospitals.|https://dx.doi.org/10.3390/pathogens15040356
+Shotgun Metagenomic Characterization of Acne Microbiota Before and After Treatment with a Topical Biotechnological Phytocomplex: Understanding Skin Dysbiosis.|https://dx.doi.org/10.3390/microorganisms14040915
+Seasonal Dynamics of Skin Microbiota and Metabolites in Transhumant-Grazed Altay Sheep.|https://dx.doi.org/10.3390/microorganisms14040901

@@ -2,3 +2,6 @@ A bilayer carbohydrate hydrogel spatiotemporally modulates the leucine-mTORC1 ax
 A pH/heating-driven curdlan-based complementary hydrogel for promoting full-thickness skin wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125293
 Multifunctional polyamidoamine dendrimer/sodium alginate/γ-polyglutamic acid/amoxicillin hydrogel with enhanced hemostatic, antibacterial and wound healing properties for biomedical applications.|https://dx.doi.org/10.1016/j.colsurfb.2026.115742
 3D Printed 13-93B3 borate bioactive glass/hydroxypropyl methyl cellulose/gelatin scaffolds with cerium oxide submicrometric particles for potential bone regeneration.|https://dx.doi.org/10.1088/1748-605X/ae67c9
+Physicochemical and rheological evaluation of TiO(2)/chitosan-carboxymethylcellulose hydrogels used for Cavendish banana preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152361
+ROS-Responsive Hydrogel Loaded with Antimicrobial Peptides Accelerated Infected Wound Healing.|https://dx.doi.org/10.1021/acsomega.5c06194
+A Multifunctional ε-Polylysine/Hyaluronic Acid Hydrogel Promotes Diabetic Wound Healing by Orchestrating Multidimensional Synergy.|https://dx.doi.org/10.3390/pharmaceutics18040473
