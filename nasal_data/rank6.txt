@@ -1,2 +1,4 @@
 Inactivated Klebsiella pneumoniae Induces Metabolic and Hematopoietic Reprogramming to Promote Trained Immunity and Heterologous Antibacterial Protection.|https://dx.doi.org/10.3390/vaccines14040300
 Virulence Phenotypes Differentiate Persistent vs. Resolving Isolates of Human Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.3390/antibiotics15040332
+Aeromonas piscicola in Chilean Salmon Farming: Genomic Insights, Phenotypic Traits, Virulence and Field Immune Response.|https://dx.doi.org/10.3390/pathogens15040402
+Arresting the Activity of Bacterial β-Barrel Pore-Forming Toxins by Cysteine Insertion Mutagenesis in the Homologous Region.|https://dx.doi.org/10.3390/ijms27083590

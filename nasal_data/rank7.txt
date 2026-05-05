@@ -36,3 +36,10 @@ Phenotypic and Genotypic Analyses of Antimicrobial Resistance Patterns of Staphy
 Association of biofilm formation with multidrug resistance in burn wound patients isolates of Pseudomonas aeruginosa in Sana'a City, Yemen.|https://dx.doi.org/10.3389/fmed.2026.1762684
 Paving the way or sharing goods?-Interactions between pairs of Staphylococcus aureus and Pseudomonas aeruginosa sequentially isolated from respiratory samples of patients on mechanical ventilation.|https://dx.doi.org/10.3389/fmicb.2026.1798383
 Cefazolin Alone Versus Vancomycin Plus Cefazolin for Intravenous Prophylaxis in Hip and Knee Arthroplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.arth.2026.04.060
+Uncommon Complications of Osteomyelitis: Deep Vein Thrombosis and Pulmonary Septic Emboli in Two Healthy Pediatric Patients: A Case Report and Literature Review.|https://dx.doi.org/10.1155/crpe/3736016
+Bacteriological Profile and Antibiogram of Culture-Confirmed Orthopaedic Wound Infections in a Tertiary Care Hospital.|https://dx.doi.org/10.7759/cureus.107998
+Successful Cases of Combined Treatment for WIfI Clinical Stage 4 Chronic Limb-Threatening Ischemia Using Popliteal-to-Distal Bypass, Minor Amputation, Debridement, and Rheocarna Therapy in Hemodialysis Patients: A Case Series.|https://dx.doi.org/10.7759/cureus.106289
+Antimicrobial Resistance of ESKAPE Pathogens Identified in Patients with Necrotizing Fasciitis: A 10-Year Retrospective Study.|https://dx.doi.org/10.3390/medicina62040665
+Penicillin-Binding Protein-4 (PBP4) of Staphylococcus aureus and Its Role in β-Lactam Resistance: An Update.|https://dx.doi.org/10.3390/microorganisms14040917
+Biosurfactants as Antibiofilm Agents for Medical Devices: Mechanisms, Evidence and Integration into Infection Prevention and Control.|https://dx.doi.org/10.3390/microorganisms14040910
+Surgical Site Infection Following Surgery for Spine Trauma.|https://dx.doi.org/10.3390/jcm15083109
