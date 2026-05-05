@@ -16,3 +16,6 @@ Effectiveness of fidaxomicin in preventing recurrence after initial community-as
 Antimicrobial susceptibility and virulence gene analysis of Clostridioides difficile from healthcare-associated infections in Southern Brazil.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117431
 Short-term clinical and radiographic outcomes after isolated medial patellofemoral ligament reconstruction for recurrent and first-time traumatic patellar dislocation with severe trochlear dysplasia, increased tibial tuberosity-trochlear groove distance, patella alta and lower extremity torsion deformities.|https://dx.doi.org/10.1186/s12891-026-09910-x
 Initial vancomycin taper may reduce early recurrence of Clostridioides difficile infection.|https://dx.doi.org/10.1053/j.gastro.2026.04.026
+Prediction Models for Recurrence and Mortality in Patients with Clostridioides difficile Infection: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.jhin.2026.03.039
+Contact dependent suppression of Clostridioides difficile sporulation by enterococci requires the endocarditis and biofilm associated pilus.|https://dx.doi.org/10.64898/2026.04.22.718763
+Treating Initial and Recurrent C. difficile: A Retrospective Analysis of 100 Referred Patients.|https://dx.doi.org/10.3390/microorganisms14040911
