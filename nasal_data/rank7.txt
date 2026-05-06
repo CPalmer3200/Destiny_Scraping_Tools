@@ -43,3 +43,6 @@ Antimicrobial Resistance of ESKAPE Pathogens Identified in Patients with Necroti
 Penicillin-Binding Protein-4 (PBP4) of Staphylococcus aureus and Its Role in β-Lactam Resistance: An Update.|https://dx.doi.org/10.3390/microorganisms14040917
 Biosurfactants as Antibiofilm Agents for Medical Devices: Mechanisms, Evidence and Integration into Infection Prevention and Control.|https://dx.doi.org/10.3390/microorganisms14040910
 Surgical Site Infection Following Surgery for Spine Trauma.|https://dx.doi.org/10.3390/jcm15083109
+Outcomes and factors associated with medical treatment failure in patients with spinal epidural abscess: A 14-year experience.|https://dx.doi.org/10.1371/journal.pone.0348373
+Triple-Responsive Hydrogel Integrating Polyphenol-Metal Activity for Infected Diabetic Wound Therapy.|https://dx.doi.org/10.1021/acsami.6c01839
+Pediatric Pseudomonas aeruginosa Bone and Joint Infection at Queensland Children's Hospital 2014-2024: Retrospective Case Series.|https://dx.doi.org/10.1097/INF.0000000000005261

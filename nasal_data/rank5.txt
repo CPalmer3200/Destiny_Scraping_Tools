@@ -11,3 +11,4 @@ A Prospective Study of Clinical Presentation, Radiological Findings, and Treatme
 Intraoperative Mass Spectrometry in Oncology: Technologies, Clinical Applications, and Challenges.|https://dx.doi.org/10.3390/molecules31081287
 Pre-Pectoral Polyurethane Implant Reconstruction Following Batwing Skin-Reducing Mastectomy: A Single-Center Study.|https://dx.doi.org/10.3390/jcm15083110
 Postoperative Management with a Polyurethane Cup Containing an Oxygenated Oleic Matrix in Nipple-Sparing Mastectomy with Immediate Reconstruction: A Single-Center Retrospective Observational Study.|https://dx.doi.org/10.3390/jcm15083092
+Clinical and Economic Impact of Incisional Negative Pressure Wound Therapy in Breast Surgery: Meta-analysis.|https://dx.doi.org/10.1093/bjs/znag056
