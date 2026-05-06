@@ -5,3 +5,8 @@ Multifunctional polyamidoamine dendrimer/sodium alginate/γ-polyglutamic acid/am
 Physicochemical and rheological evaluation of TiO(2)/chitosan-carboxymethylcellulose hydrogels used for Cavendish banana preservation.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152361
 ROS-Responsive Hydrogel Loaded with Antimicrobial Peptides Accelerated Infected Wound Healing.|https://dx.doi.org/10.1021/acsomega.5c06194
 A Multifunctional ε-Polylysine/Hyaluronic Acid Hydrogel Promotes Diabetic Wound Healing by Orchestrating Multidimensional Synergy.|https://dx.doi.org/10.3390/pharmaceutics18040473
+ADA-GEL composite hydrogel films incorporating mesoporous bioactive glass nanoparticles and silver-doped bioactive glass nanoparticles for biomedical applications.|https://dx.doi.org/10.1007/s10856-026-07057-8
+An injectable pH-responsive marine polysaccharide hydrogel (AE&LF@pOA) for sequential therapy of infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152378
+Triple-Responsive Hydrogel Integrating Polyphenol-Metal Activity for Infected Diabetic Wound Therapy.|https://dx.doi.org/10.1021/acsami.6c01839
+A dual-network SIS collagen/chitosan hydrogel with integrated antibacterial and regenerative functions for infected wound repair.|https://dx.doi.org/10.1177/08853282261449328
+Preparation of multifunctional hydrogel composed of polyvinyl alcohol/ chitosan/cellulose nanofiber/anthocyanin and its application in intelligent food packaging systems.|https://dx.doi.org/10.1016/j.foodres.2026.119173
