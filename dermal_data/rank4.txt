@@ -10,3 +10,8 @@ An injectable pH-responsive marine polysaccharide hydrogel (AE&LF@pOA) for seque
 Triple-Responsive Hydrogel Integrating Polyphenol-Metal Activity for Infected Diabetic Wound Therapy.|https://dx.doi.org/10.1021/acsami.6c01839
 A dual-network SIS collagen/chitosan hydrogel with integrated antibacterial and regenerative functions for infected wound repair.|https://dx.doi.org/10.1177/08853282261449328
 Preparation of multifunctional hydrogel composed of polyvinyl alcohol/ chitosan/cellulose nanofiber/anthocyanin and its application in intelligent food packaging systems.|https://dx.doi.org/10.1016/j.foodres.2026.119173
+Supramolecular Synthon Strategy via Organic Salt Formation for Developing Topical Gel From Rhein: Synthesis, Gelation, Crystal Structures, and Antibacterial Properties Against MRSA.|https://dx.doi.org/10.1002/asia.70763
+Bioinspired adhesive hydrogel incorporated with PDA@CuMOF for infected wound therapy.|https://dx.doi.org/10.1016/j.colsurfb.2026.115758
+NIR-Enhanced Catalytic High Entropy Alloy Nanozyme Hydrogel for Synergistic Biofilm Elimination and Wound Regeneration.|https://dx.doi.org/10.1021/acs.biomac.6c00417
+Hierarchical Quaternized Cuprous Oxide: A Single-Component Hybrid for Synergistic Antibacterial Surfaces and Accelerated WoundHealing.|https://dx.doi.org/10.1021/acsabm.6c00150
+Multifunctional and Self-Healing Oxidized Bacterial Nanocellulose-Based Composite Hydrogels with pH-Switchable Cascade Enzyme Catalytic Activity for Accelerating Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202505377

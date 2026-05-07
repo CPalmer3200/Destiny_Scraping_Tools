@@ -6,3 +6,5 @@ Establishment and translational evaluation of animal models for skin wound heali
 Investigating the Sharing of Staphylococcus spp. Between Dogs and Their Owners: A Comparative Study from Two Italian Veterinary Teaching Hospitals.|https://dx.doi.org/10.3390/pathogens15040356
 Shotgun Metagenomic Characterization of Acne Microbiota Before and After Treatment with a Topical Biotechnological Phytocomplex: Understanding Skin Dysbiosis.|https://dx.doi.org/10.3390/microorganisms14040915
 Seasonal Dynamics of Skin Microbiota and Metabolites in Transhumant-Grazed Altay Sheep.|https://dx.doi.org/10.3390/microorganisms14040901
+Performance optimization of ultrashort antimicrobial peptides through backbone amide cyclization.|https://dx.doi.org/10.1016/j.ejmech.2026.118894
+Dual-Stage Microneedle Patch With Lipid Droplet-Mediated 'Capture-Kill' and Sustained Release for Enhanced Wound Healing.|https://dx.doi.org/10.1002/advs.75589

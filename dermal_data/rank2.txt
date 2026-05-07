@@ -9,3 +9,6 @@ Reliability and Validation of Three Scoring Systems in the Assessment of Diabeti
 Pyoverdine-induced iron dysregulation exacerbates vascular endothelial barrier dysfunction under hyperglycemic conditions.|https://dx.doi.org/10.3389/fendo.2026.1719170
 A Single-Institution Cohort Study of Autologous Platelet-Rich Plasma Gel for Hard-to-Heal Chronic Wounds: Potential Role in Microvascular Regeneration.|https://dx.doi.org/10.3390/jcm15083120
 Analysis of Circulating MicroRNAs in Patients with Diabetic Foot Ulcers and Lower Limb Amputation.|https://dx.doi.org/10.3390/ijms27083516
+Blue-light-activated berberine-gentamycin inhibits and eradicates Staphylococcus aureus biofilms by promoting oxidative stress and structural disruption.|https://dx.doi.org/10.1016/j.bioorg.2026.109931
+The Use of Antibiotic-Impregnated Cement for Infection or Mechanical Support in Diabetic Foot Osteomyelitis: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1177/19386400241274624
+Improving Early Identification and Documentation of High-Risk Diabetic Foot Complications Through a Closed-Loop Clinical Audit at Almanagil Teaching Hospital.|https://dx.doi.org/10.7759/cureus.106403
