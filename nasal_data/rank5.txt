@@ -12,3 +12,5 @@ Intraoperative Mass Spectrometry in Oncology: Technologies, Clinical Application
 Pre-Pectoral Polyurethane Implant Reconstruction Following Batwing Skin-Reducing Mastectomy: A Single-Center Study.|https://dx.doi.org/10.3390/jcm15083110
 Postoperative Management with a Polyurethane Cup Containing an Oxygenated Oleic Matrix in Nipple-Sparing Mastectomy with Immediate Reconstruction: A Single-Center Retrospective Observational Study.|https://dx.doi.org/10.3390/jcm15083092
 Clinical and Economic Impact of Incisional Negative Pressure Wound Therapy in Breast Surgery: Meta-analysis.|https://dx.doi.org/10.1093/bjs/znag056
+Favorable safety outcomes of a perioperative propranolol and etodolac regimen in cancer patients in four randomized controlled trials.|https://dx.doi.org/10.3389/fphar.2026.1823113
+Synchronous bilateral phyllodes tumors with discordant grades and false-positive axillary (18)F-FDG PET-CT uptake: a case report and literature review.|https://dx.doi.org/10.3389/fonc.2026.1825190
