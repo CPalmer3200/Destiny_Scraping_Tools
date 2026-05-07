@@ -4,3 +4,4 @@ Tracking Canada's 2015 vaccine research and development priorities: Where are we
 Cell Death Index Predicts Sepsis Outcomes and Highlights Necroptosis as a Therapeutic Target.|https://dx.doi.org/10.2147/JIR.S577930
 Effectiveness of COVID-19 vaccine booster doses in adults aged 50 years and over during the Omicron period in Victoria, Australia.|https://dx.doi.org/10.33321/cdi.2026.50.010
 When Polymerase Chain Reaction Positivity Is Not Disease: Implications for Clostridioides difficile Vaccine Trial Endpoints.|https://dx.doi.org/10.1093/cid/ciag238
+Prevention and Control of Clostridioides difficile Infection for the Infectious Diseases Clinician.|https://dx.doi.org/10.1016/j.idc.2026.02.009

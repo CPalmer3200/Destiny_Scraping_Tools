@@ -13,3 +13,4 @@ High-resolution metabolomic analysis of stool reveals expanded biomarkers of C. 
 Efficacy of fluoroquinolone prophylaxis during induction phase in children with acute lymphoblastic leukemia: a systematic review and meta-analysis.|https://dx.doi.org/10.1007/s00431-026-07010-5
 Antibiotics or No Antibiotics after Urethroplasty For Hypospadias: An RCT Evaluating Short Term Surgical Outcomes.|https://dx.doi.org/10.4103/jiaps.jiaps_228_25
 Aged Gut Microbiota Induces Mucosal Transcriptional Dysregulation, Impairing Immune Surveillance.|https://dx.doi.org/10.1111/acel.70533
+Evolution and economic evaluation of fecal incontinence management in United States intensive care units: from historical containment to automated diversion.|https://dx.doi.org/10.3389/fmed.2026.1761399
