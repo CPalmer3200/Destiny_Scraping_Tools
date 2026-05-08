@@ -15,3 +15,7 @@ Bioinspired adhesive hydrogel incorporated with PDA@CuMOF for infected wound the
 NIR-Enhanced Catalytic High Entropy Alloy Nanozyme Hydrogel for Synergistic Biofilm Elimination and Wound Regeneration.|https://dx.doi.org/10.1021/acs.biomac.6c00417
 Hierarchical Quaternized Cuprous Oxide: A Single-Component Hybrid for Synergistic Antibacterial Surfaces and Accelerated WoundHealing.|https://dx.doi.org/10.1021/acsabm.6c00150
 Multifunctional and Self-Healing Oxidized Bacterial Nanocellulose-Based Composite Hydrogels with pH-Switchable Cascade Enzyme Catalytic Activity for Accelerating Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.202505377
+Chito-oligosaccharide-reinforced thermally cross-linked fish skin gelatin films with silver nanoparticles: Enhanced properties and accelerated wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125356
+Bioinspired synergistic chitosan-graphene-tannin hydrogel orchestrates inflammation resolution and accelerates skin tissue repair.|https://dx.doi.org/10.1039/d5bm01612f
+Modified chitosan/oxidized carrageenan composite hydrogels incorporated with sea cucumber protein peptides as a potential novel biomedical material.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152379
+Multifunctional polyvinyl alcohol-sodium carboxymethyl cellulose/quercetin-ZnO nanofiber composites: Synergistic interplay of bioactivity, conductivity, and surface engineering.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152342
