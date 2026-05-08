@@ -10,3 +10,7 @@ Impact of admission screening on Clostridioides difficile infection rates in a h
 Variety of Clostridioides difficile Ribotypes in CDI Patients in Las Vegas, NV.|https://dx.doi.org/10.3390/germs16010002
 Evaluation of COPAN FecalSwab and eSwab collection systems for the detection of Clostridioides difficile using the BD MAX Cdiff assay.|https://dx.doi.org/10.1128/spectrum.00767-26
 Predictors, timing, and outcomes of Clostridium difficile infection following liver and pancreatic resection.|https://dx.doi.org/10.1016/j.hpb.2026.04.447
+Isolating C. difficile from Animal Samples.|https://dx.doi.org/10.1007/978-1-0716-5328-9_17
+Clostridioides difficile Infection in Animals.|https://dx.doi.org/10.1007/978-1-0716-5328-9_16
+Conventional, Gnotobiotic, and Humanized Microbiota Mouse Models of C. difficile Infection.|https://dx.doi.org/10.1007/978-1-0716-5328-9_14
+Beyond difficile: three novel toxin B-producing Clostridioides species from human patients with diarrhea.|https://dx.doi.org/10.1080/22221751.2026.2671473

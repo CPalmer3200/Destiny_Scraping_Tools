@@ -11,3 +11,4 @@ Improving urine testing stewardship with a technology-leveraged urine testing gu
 Clostridioides difficile Infection in Hematology-Oncology Patients Receiving Bacterial Prophylaxis With Levofloxacin: A Single-Institution Experience.|https://dx.doi.org/10.7759/cureus.105973
 Advancing Antimicrobial Stewardship With Diagnostic Excellence: The Role of Bayesian Reasoning.|https://dx.doi.org/10.1093/ofid/ofag213
 Institutional spillover effects of antimicrobial use on antimicrobial resistance and Clostridioides difficile: a systematic review.|https://dx.doi.org/10.1017/ash.2026.10318
+Implementation strategy modifications: An applied multi-site comparison using ERIC and FRAME-IS for the "Fluoroquinolone Restriction for the Prevention of Clostridioides difficile infection Trial" (FIRST).|https://dx.doi.org/10.64898/2026.04.28.26351921
