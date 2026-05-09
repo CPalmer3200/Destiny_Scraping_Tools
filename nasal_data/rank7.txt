@@ -52,3 +52,5 @@ Evaluating the impact of 2008 NICE dental prophylaxis guidelines on surgically t
 Paediatric periorbital and orbital infections: a decade of experience at Christchurch Hospital.|https://dx.doi.org/10.26635/6965.7068
 Resistance to clinically important antibiotics and reduced susceptibility to disinfectants in the pandemic ST398 methicillin-susceptible Staphylococcus aureus from Austria.|https://dx.doi.org/10.3389/fmicb.2026.1734430
 The Effects of Radioimmunotherapy and Antibiotics on Biofilm-Associated Implant Infections in a Preclinical Rat Model.|https://dx.doi.org/10.1002/jor.70216
+Durable antimicrobial coatings for hospital sink surfaces using hydrophobized TEMPO-oxidised cellulose nanofibre Pickering emulsions.|https://dx.doi.org/10.1038/s41598-026-50866-8
+Green Antibacterial-Antioxidant Hydrogel for Infected Wound Healing: Tea Polyphenol and Biosynthesized Silver Nanoparticles in a Deacetylated Sphingan WL Matrix.|https://dx.doi.org/10.1021/acsami.6c03433
