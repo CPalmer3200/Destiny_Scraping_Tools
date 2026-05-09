@@ -19,3 +19,6 @@ Chito-oligosaccharide-reinforced thermally cross-linked fish skin gelatin films 
 Bioinspired synergistic chitosan-graphene-tannin hydrogel orchestrates inflammation resolution and accelerates skin tissue repair.|https://dx.doi.org/10.1039/d5bm01612f
 Modified chitosan/oxidized carrageenan composite hydrogels incorporated with sea cucumber protein peptides as a potential novel biomedical material.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152379
 Multifunctional polyvinyl alcohol-sodium carboxymethyl cellulose/quercetin-ZnO nanofiber composites: Synergistic interplay of bioactivity, conductivity, and surface engineering.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152342
+Green Antibacterial-Antioxidant Hydrogel for Infected Wound Healing: Tea Polyphenol and Biosynthesized Silver Nanoparticles in a Deacetylated Sphingan WL Matrix.|https://dx.doi.org/10.1021/acsami.6c03433
+A Polysaccharide-Based Iron-Curcumin Carbon Dot Hydrogel Dressing with Photothermal and Nanozyme Catalysis for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.6c05677
+Innovative Applications of Cutting-Edge Nanomaterials in Diabetic Wound Healing.|https://dx.doi.org/10.2174/0109298673441167260102055715
