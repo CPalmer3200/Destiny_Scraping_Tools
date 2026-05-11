@@ -16,3 +16,5 @@ Rocket propulsion-inspired two-stage nitric oxide-releasing hydrogel for phase-m
 AI-guided 3D bioprinting of multi-drug-loaded chitosan methacrylate hydrogels for personalized diabetic ulcer repair.|https://dx.doi.org/10.1016/j.jconrel.2026.114983
 Platelet-rich plasma combined with multimodal therapy for diabetic foot ulcer with tophi: a case report.|https://dx.doi.org/10.3389/fcdhc.2026.1795474
 Regenerative therapies for complex diabetic foot wounds: a therapeutic challenge.|https://dx.doi.org/10.1590/1677-5449.202500712
+Non-Randomised Comparative Analysis and Cost-Minimisation Analysis of Macrophage-Modulating Cream on Mildly Infected Diabetic Foot Ulcers: A Real-World Preliminary Report.|https://dx.doi.org/10.1111/iwj.70937
+Clinical and cost-effectiveness of negative pressure wound therapy versus usual care for surgical wounds healing by secondary intention: the SWHSI 2 pragmatic RCT.|https://dx.doi.org/10.3310/GJIC1716
