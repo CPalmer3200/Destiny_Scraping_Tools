@@ -54,3 +54,5 @@ Resistance to clinically important antibiotics and reduced susceptibility to dis
 The Effects of Radioimmunotherapy and Antibiotics on Biofilm-Associated Implant Infections in a Preclinical Rat Model.|https://dx.doi.org/10.1002/jor.70216
 Durable antimicrobial coatings for hospital sink surfaces using hydrophobized TEMPO-oxidised cellulose nanofibre Pickering emulsions.|https://dx.doi.org/10.1038/s41598-026-50866-8
 Green Antibacterial-Antioxidant Hydrogel for Infected Wound Healing: Tea Polyphenol and Biosynthesized Silver Nanoparticles in a Deacetylated Sphingan WL Matrix.|https://dx.doi.org/10.1021/acsami.6c03433
+COMMUNITY ACQUIRED BACTEREMIA IN OLDER ADULTS: INTERNATIONAL AND PROSPECTIVE INFECTIOUS DISEASES-INTERNATIONAL RESEARCH INITIATIVE (ID-IRI) STUDY.|https://dx.doi.org/10.1016/j.ijid.2026.108767
+From nanofiber biomimetics to multitarget bioactivities: Oligochitosan/polycaprolactone absorbable sutures via electrospinning-twisting integration.|https://dx.doi.org/10.1016/j.bioadv.2026.214938

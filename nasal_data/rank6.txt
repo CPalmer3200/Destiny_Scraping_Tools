@@ -4,3 +4,4 @@ Aeromonas piscicola in Chilean Salmon Farming: Genomic Insights, Phenotypic Trai
 Arresting the Activity of Bacterial β-Barrel Pore-Forming Toxins by Cysteine Insertion Mutagenesis in the Homologous Region.|https://dx.doi.org/10.3390/ijms27083590
 Methicillin-resistant Staphylococcus aureus along the beef production line: Phenotypic resistance and mecA phylogeny in two ethiopian municipal abattoirs.|https://dx.doi.org/10.1371/journal.pone.0334585
 Recurrence of Prosthetic Aortic Valve Endocarditis After Percutaneous Mechanical Aspiration.|https://dx.doi.org/10.1016/j.jaccas.2026.108143
+A single polypeptide vaccine derived from multiple antigens confers protection against staphylococcus aureus infection in mice.|https://dx.doi.org/10.1186/s40794-026-00300-8
