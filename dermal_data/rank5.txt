@@ -10,3 +10,4 @@ Performance optimization of ultrashort antimicrobial peptides through backbone a
 Dual-Stage Microneedle Patch With Lipid Droplet-Mediated 'Capture-Kill' and Sustained Release for Enhanced Wound Healing.|https://dx.doi.org/10.1002/advs.75589
 Precision intervention based on infection site: strategies and advances of magnetic nanomaterials in bacterial therapy.|https://dx.doi.org/10.3389/fchem.2026.1794622
 Antibacterial and anti-virulence activity of the repurposed agent SX-682 against Staphylococcus aureus.|https://dx.doi.org/10.1186/s12866-026-05104-6
+Peptide-Immobilized Core-Sheath Architecture Sutures with Enhanced Mechanical Strength and Antimicrobial Activity.|https://dx.doi.org/10.1021/acs.biomac.5c01250

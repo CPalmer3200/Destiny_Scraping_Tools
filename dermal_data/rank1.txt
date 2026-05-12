@@ -2,3 +2,5 @@ Association of biofilm formation with multidrug resistance in burn wound patient
 Dynamic injectable and multifunctional hydrogel incorporating dihydroquercetin (DHQ)-loaded chitosan nanoparticles for sustained DHQ release and accelerated burn wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125334
 A Wearable Bioelectronic Patch With Adaptive Photodynamic and Electrical Stimulation for Drug-Resistant Bacteria Infected Burn Wound Healing.|https://dx.doi.org/10.1002/smll.73707
 Moisture-Balanced Antibacterial Dressings Promote Wound Healing by Maintaining a Modulating Microenvironment.|https://dx.doi.org/10.1021/acsabm.6c00110
+Human umbilical cord mesenchymal stem cell-derived exosomes combined with low-intensity pulsed ultrasound for the treatment of chronic burn wounds infected with methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1016/j.burns.2026.108019
+Distribution and Antibiotic Resistance Characteristics of Pathogenic Bacteria in Chronic Wound Infections: A Five-Year Retrospective Study at a Tertiary Hospital.|https://dx.doi.org/10.2147/IDR.S593393
