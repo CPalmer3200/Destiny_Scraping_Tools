@@ -5,3 +5,5 @@ Arresting the Activity of Bacterial β-Barrel Pore-Forming Toxins by Cysteine In
 Methicillin-resistant Staphylococcus aureus along the beef production line: Phenotypic resistance and mecA phylogeny in two ethiopian municipal abattoirs.|https://dx.doi.org/10.1371/journal.pone.0334585
 Recurrence of Prosthetic Aortic Valve Endocarditis After Percutaneous Mechanical Aspiration.|https://dx.doi.org/10.1016/j.jaccas.2026.108143
 A single polypeptide vaccine derived from multiple antigens confers protection against staphylococcus aureus infection in mice.|https://dx.doi.org/10.1186/s40794-026-00300-8
+S taphylococcus aureus in bronchiectasis: epidemiology, clinical impact and challenges in management.|https://dx.doi.org/10.1183/23120541.00740-2025
+Community-acquired Pneumonia in Bangladeshi Children Under Five: Pathogen Prevalence, Resistance Trends, and Diagnostic Biomarkers.|https://dx.doi.org/10.1097/INF.0000000000005267

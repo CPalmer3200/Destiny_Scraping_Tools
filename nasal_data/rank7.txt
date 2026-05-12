@@ -56,3 +56,9 @@ Durable antimicrobial coatings for hospital sink surfaces using hydrophobized TE
 Green Antibacterial-Antioxidant Hydrogel for Infected Wound Healing: Tea Polyphenol and Biosynthesized Silver Nanoparticles in a Deacetylated Sphingan WL Matrix.|https://dx.doi.org/10.1021/acsami.6c03433
 COMMUNITY ACQUIRED BACTEREMIA IN OLDER ADULTS: INTERNATIONAL AND PROSPECTIVE INFECTIOUS DISEASES-INTERNATIONAL RESEARCH INITIATIVE (ID-IRI) STUDY.|https://dx.doi.org/10.1016/j.ijid.2026.108767
 From nanofiber biomimetics to multitarget bioactivities: Oligochitosan/polycaprolactone absorbable sutures via electrospinning-twisting integration.|https://dx.doi.org/10.1016/j.bioadv.2026.214938
+Emission Hotspots, Health-Relevant Effects, and Pathogen Cytotoxicity of Bioaerosols in an Urban Wastewater Treatment Plant.|https://dx.doi.org/10.1016/j.envpol.2026.128314
+When First-Line Therapies Fail: Surgical Site Infections and the Declining Antimicrobial Utility in a Resource-Limited Nation.|https://dx.doi.org/10.1002/mbo3.70312
+Peptide-Immobilized Core-Sheath Architecture Sutures with Enhanced Mechanical Strength and Antimicrobial Activity.|https://dx.doi.org/10.1021/acs.biomac.5c01250
+Multicomponent Lipid Nanoparticles as a Tool to Potentially Improve the Antibiofilm Activity of Resveratrol against MDR Gram-Positive and Gram-Negative Clinical Isolates.|https://dx.doi.org/10.1021/acsomega.5c12649
+Antibiotic Use and Antibiotic Susceptibility of Common Environmental Bacterial Species in the Intensive Care Unit at Mbarara Regional Referral Hospital, Uganda.|https://dx.doi.org/10.7759/cureus.106696
+From Valve to Vessel: Disseminated Staphylococcus aureus Endocarditis Leading to Splenic Artery Pseudoaneurysm and Mycotic Aneurysm.|https://dx.doi.org/10.7759/cureus.106700
