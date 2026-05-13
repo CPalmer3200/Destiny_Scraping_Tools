@@ -62,3 +62,9 @@ Peptide-Immobilized Core-Sheath Architecture Sutures with Enhanced Mechanical St
 Multicomponent Lipid Nanoparticles as a Tool to Potentially Improve the Antibiofilm Activity of Resveratrol against MDR Gram-Positive and Gram-Negative Clinical Isolates.|https://dx.doi.org/10.1021/acsomega.5c12649
 Antibiotic Use and Antibiotic Susceptibility of Common Environmental Bacterial Species in the Intensive Care Unit at Mbarara Regional Referral Hospital, Uganda.|https://dx.doi.org/10.7759/cureus.106696
 From Valve to Vessel: Disseminated Staphylococcus aureus Endocarditis Leading to Splenic Artery Pseudoaneurysm and Mycotic Aneurysm.|https://dx.doi.org/10.7759/cureus.106700
+Determinants of cure and survival in vascular graft and endograft infections: A 13-year single-centre cohort study.|https://dx.doi.org/10.1016/j.cmi.2026.05.001
+Novel Fluorinated Polyphenolic Antibacterial Substance-Loaded Self-Pumping Dressing for Promoting Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.6c02558
+Diluted Povidone-Iodine Irrigation for Prevention of Implant-Related Infection: A Comparative Analysis of Concentration and Frequency in a Rat Model.|https://dx.doi.org/10.2106/JBJS.25.01235
+Prophylactic Protection Against Salmonella typhimurium Infection by Single-Atom Zinc Catalysts.|https://dx.doi.org/10.3390/nano16090562
+Increasing Methicillin-Resistant Staphylococcus aureus Burden in 90-Day Groin Surgical Site Infection After Femoral Arterial Exposure: A 15-Year Single-Centre Cohort Study.|https://dx.doi.org/10.1111/iwj.70947
+Microbiological and clinical outcomes of single-stage minimal excision of inflamed epidermal cysts without routine antibiotic treatments: A dual-center retrospective cohort study.|https://dx.doi.org/10.1097/MD.0000000000048589
