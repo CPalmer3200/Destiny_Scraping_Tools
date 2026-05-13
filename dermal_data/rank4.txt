@@ -26,3 +26,6 @@ Natural antimicrobial polymeric coatings for contamination resistant wound dress
 Multifunctional modified chitosan hydrogel with excellent comprehensive properties by one pot.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152431
 Photothermal-Activated Antibacterial Amyloid-Polyphenol-Iron Hydrogels for Synergistic Wound Healing.|https://dx.doi.org/10.1002/adhm.202505910
 Cysteine-Derived Carbon Dots Hydrogels with Visible-Light-Driven Photocatalytic Therapy for Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.6c05260
+Dissolving microneedles with desferrioxamine-loaded Ti(3)C(2)T(x) MXene for rapid healing of microbial-infected wounds.|https://dx.doi.org/10.1016/j.ijpharm.2026.126973
+Novel Fluorinated Polyphenolic Antibacterial Substance-Loaded Self-Pumping Dressing for Promoting Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.6c02558
+TiO(2) Nanocomposite GelMA Film as Wound Dressing: Physicochemical, Structural, Mechanical Properties and Antibacterial Activity Against Staphylococcus aureus.|https://dx.doi.org/10.3390/nano16090536
