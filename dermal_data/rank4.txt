@@ -29,3 +29,7 @@ Cysteine-Derived Carbon Dots Hydrogels with Visible-Light-Driven Photocatalytic 
 Dissolving microneedles with desferrioxamine-loaded Ti(3)C(2)T(x) MXene for rapid healing of microbial-infected wounds.|https://dx.doi.org/10.1016/j.ijpharm.2026.126973
 Novel Fluorinated Polyphenolic Antibacterial Substance-Loaded Self-Pumping Dressing for Promoting Infected Wound Healing.|https://dx.doi.org/10.1021/acsami.6c02558
 TiO(2) Nanocomposite GelMA Film as Wound Dressing: Physicochemical, Structural, Mechanical Properties and Antibacterial Activity Against Staphylococcus aureus.|https://dx.doi.org/10.3390/nano16090536
+Polyaniline-integrated composite hydrogel network with antioxidant defense, bacterial clearance and In vivo tissue regeneration.|https://dx.doi.org/10.1038/s41598-026-53136-9
+Antibacterial and Multiresponsive Electronic Skins from Silk Fibroin Triple-Network Hydrogels.|https://dx.doi.org/10.1021/acs.biomac.6c00397
+Berberine-Loaded Composite Phospholipid Ethosome Hydrogels: A Therapeutic for Mastitis via Regulating the NF-κB and PI3K/Akt Signaling Pathway.|https://dx.doi.org/10.3390/ani16091310
+Water-Soluble Ammonium BODIPYs: Synthesis, Photophysics, Photogelation, and Antimicrobial Activity.|https://dx.doi.org/10.1002/asia.70761

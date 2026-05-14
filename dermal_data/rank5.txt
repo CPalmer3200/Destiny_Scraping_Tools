@@ -12,3 +12,5 @@ Precision intervention based on infection site: strategies and advances of magne
 Antibacterial and anti-virulence activity of the repurposed agent SX-682 against Staphylococcus aureus.|https://dx.doi.org/10.1186/s12866-026-05104-6
 Peptide-Immobilized Core-Sheath Architecture Sutures with Enhanced Mechanical Strength and Antimicrobial Activity.|https://dx.doi.org/10.1021/acs.biomac.5c01250
 Anti-quorum-sensing activity of Plectranthus aliciae in multispecies Cutibacterium acnes-Staphylococcus epidermidis systems.|https://dx.doi.org/10.1016/j.phymed.2026.158260
+Photodynamic and antibiotic combination therapy against multidrug-resistant Pseudomonas aeruginosa wound infections in diabetic rats.|https://dx.doi.org/10.1016/j.bioorg.2026.109955
+Photodynamic Therapy in Dermatology.|https://dx.doi.org/10.3390/ijms27093960

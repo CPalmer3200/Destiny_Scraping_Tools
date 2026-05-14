@@ -19,3 +19,5 @@ Regenerative therapies for complex diabetic foot wounds: a therapeutic challenge
 Non-Randomised Comparative Analysis and Cost-Minimisation Analysis of Macrophage-Modulating Cream on Mildly Infected Diabetic Foot Ulcers: A Real-World Preliminary Report.|https://dx.doi.org/10.1111/iwj.70937
 Clinical and cost-effectiveness of negative pressure wound therapy versus usual care for surgical wounds healing by secondary intention: the SWHSI 2 pragmatic RCT.|https://dx.doi.org/10.3310/GJIC1716
 Antimicrobial Photodynamic Therapy in the Treatment of Diabetic Foot Ulcers: A Pilot Randomized Clinical Trial.|https://dx.doi.org/10.1002/jbio.70278
+Advances in the application of artificial intelligence-driven multi-modal imaging technologies in the comprehensive diagnosis and treatment of diabetic foot ulcers.|https://dx.doi.org/10.1007/s11154-026-10041-w
+Comprehensive Review of Hydrogel-Mediated Strategies for Diabetic Wound Healing.|https://dx.doi.org/10.3390/ijms27093915
