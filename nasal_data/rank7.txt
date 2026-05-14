@@ -68,3 +68,9 @@ Diluted Povidone-Iodine Irrigation for Prevention of Implant-Related Infection: 
 Prophylactic Protection Against Salmonella typhimurium Infection by Single-Atom Zinc Catalysts.|https://dx.doi.org/10.3390/nano16090562
 Increasing Methicillin-Resistant Staphylococcus aureus Burden in 90-Day Groin Surgical Site Infection After Femoral Arterial Exposure: A 15-Year Single-Centre Cohort Study.|https://dx.doi.org/10.1111/iwj.70947
 Microbiological and clinical outcomes of single-stage minimal excision of inflamed epidermal cysts without routine antibiotic treatments: A dual-center retrospective cohort study.|https://dx.doi.org/10.1097/MD.0000000000048589
+Rapid visual detection of Mycoplasma gallisepticum by combining recombinase-aided amplification with lateral-flow dipstick assay.|https://dx.doi.org/10.1016/j.psj.2026.107035
+Imaging of Staphylococcus aureus infections and biofilms using a selective covalent probe for the unique serine hydrolase FphE.|https://dx.doi.org/10.64898/2026.02.24.707767
+Methicillin-Resistant Staphylococcus aureus in the Food Chain: Molecular Epidemiology, Resistance Mechanisms, and Public Health Implications.|https://dx.doi.org/10.3390/ijms27093814
+Fluorohydrocarbon Plasma Functionalization of Polyurethane Surfaces: Bacterial Adhesion and Cell Response.|https://dx.doi.org/10.3390/polym18091097
+Driveline Infections in Durable LVAD Support: Risk Factors, Microbiology, and Resistance Patterns from a Large Cohort.|https://dx.doi.org/10.3390/diagnostics16091303
+Comparative genomics reveals polyphyletic emergence of methicillin-resistant Staphylococcus aureus ST152 from a diverse methicillin-susceptible population in ghana.|https://dx.doi.org/10.1186/s12866-026-05131-3
