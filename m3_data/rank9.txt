@@ -1,3 +1,4 @@
 Is Health Human Resource Strain Associated with the Prevalence of Healthcare-Associated Infections in England? Analysis of a national point prevalence survey.|https://dx.doi.org/10.1016/j.jhin.2026.04.027
 Luminal Peri-Anastomotic Antibacterial Washout to Prevent Colorectal Anastomotic Leakage: A Pilot Audit of Outcomes.|https://dx.doi.org/10.1111/ans.70733
 Comparison of IBD-related outcomes in patients with obesity treated with GLP-1 receptor agonists versus bariatric surgery.|https://dx.doi.org/10.1093/crocol/otag027
+Outcomes of Clostridium difficile Infection in Patients With Idiopathic Pulmonary Fibrosis: Analysis of the Nationwide Inpatient Sample, 2016-2020.|https://dx.doi.org/10.1002/jgh3.70416
