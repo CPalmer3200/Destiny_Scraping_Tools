@@ -11,3 +11,4 @@ Investigating the Sharing of Staphylococcus spp. Between Dogs and Their Owners: 
 Epidemiological surveillance in the ICU: Certainties and uncertainties.|https://dx.doi.org/10.1016/j.eimce.2026.503176
 Quantitative PCR-Based Analysis of Bacterial Profiles in Periapical Lesions and Maxillary Sinus in Odontogenic Sinusitis.|https://dx.doi.org/10.3390/ijms27094010
 Resistome Profiling of a Large Collection of Staphylococcus aureus Isolates Uncovers Frameshift-Silenced mupA Gene Mediating Mupirocin Susceptibility.|https://dx.doi.org/10.3390/ijms27093764
+The nasal-oral microbiome axis in allergic rhinitis: environmental triggers, microbial dysbiosis, and immune dysregulation.|https://dx.doi.org/10.3389/falgy.2026.1799085

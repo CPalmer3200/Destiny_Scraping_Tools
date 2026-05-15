@@ -7,3 +7,4 @@ Recurrence of Prosthetic Aortic Valve Endocarditis After Percutaneous Mechanical
 A single polypeptide vaccine derived from multiple antigens confers protection against staphylococcus aureus infection in mice.|https://dx.doi.org/10.1186/s40794-026-00300-8
 S taphylococcus aureus in bronchiectasis: epidemiology, clinical impact and challenges in management.|https://dx.doi.org/10.1183/23120541.00740-2025
 Community-acquired Pneumonia in Bangladeshi Children Under Five: Pathogen Prevalence, Resistance Trends, and Diagnostic Biomarkers.|https://dx.doi.org/10.1097/INF.0000000000005267
+Infection prevention and control in low- and middle-income countries: policy, practice, and implementation challenges in sub-Saharan Africa.|https://dx.doi.org/10.1128/cmr.00142-22
