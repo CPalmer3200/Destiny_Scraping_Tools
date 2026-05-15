@@ -33,3 +33,5 @@ Polyaniline-integrated composite hydrogel network with antioxidant defense, bact
 Antibacterial and Multiresponsive Electronic Skins from Silk Fibroin Triple-Network Hydrogels.|https://dx.doi.org/10.1021/acs.biomac.6c00397
 Berberine-Loaded Composite Phospholipid Ethosome Hydrogels: A Therapeutic for Mastitis via Regulating the NF-κB and PI3K/Akt Signaling Pathway.|https://dx.doi.org/10.3390/ani16091310
 Water-Soluble Ammonium BODIPYs: Synthesis, Photophysics, Photogelation, and Antimicrobial Activity.|https://dx.doi.org/10.1002/asia.70761
+pH-responsive smart hydrogel dressing for controlled antimicrobial therapy and accelerated wound healing.|https://dx.doi.org/10.1039/d6tb00327c
+Nanoparticle-integrated smart hydrogel with H(2)S-triggered antibacterial escalation and sustained oxygen release for periodontal regeneration.|https://dx.doi.org/10.1186/s12951-026-04535-7

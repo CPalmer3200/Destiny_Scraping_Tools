@@ -14,3 +14,4 @@ Peptide-Immobilized Core-Sheath Architecture Sutures with Enhanced Mechanical St
 Anti-quorum-sensing activity of Plectranthus aliciae in multispecies Cutibacterium acnes-Staphylococcus epidermidis systems.|https://dx.doi.org/10.1016/j.phymed.2026.158260
 Photodynamic and antibiotic combination therapy against multidrug-resistant Pseudomonas aeruginosa wound infections in diabetic rats.|https://dx.doi.org/10.1016/j.bioorg.2026.109955
 Photodynamic Therapy in Dermatology.|https://dx.doi.org/10.3390/ijms27093960
+Adverse events and tolerability of long-term suppressive antibiotic therapy for periprosthetic joint infection: a prospective cohort study.|https://dx.doi.org/10.5194/jbji-11-267-2026

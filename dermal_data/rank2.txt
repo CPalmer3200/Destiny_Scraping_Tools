@@ -21,3 +21,5 @@ Clinical and cost-effectiveness of negative pressure wound therapy versus usual 
 Antimicrobial Photodynamic Therapy in the Treatment of Diabetic Foot Ulcers: A Pilot Randomized Clinical Trial.|https://dx.doi.org/10.1002/jbio.70278
 Advances in the application of artificial intelligence-driven multi-modal imaging technologies in the comprehensive diagnosis and treatment of diabetic foot ulcers.|https://dx.doi.org/10.1007/s11154-026-10041-w
 Comprehensive Review of Hydrogel-Mediated Strategies for Diabetic Wound Healing.|https://dx.doi.org/10.3390/ijms27093915
+Antibiotic-loaded bone substitutes in the surgical management of diabetic foot osteomyelitis: Current evidence and clinical perspectives.|https://dx.doi.org/10.1016/j.diabres.2026.113294
+C-reactive protein-to-albumin ratio improves prediction of 6-month major adverse limb events in diabetic foot ulcers: a retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2026.1826193
