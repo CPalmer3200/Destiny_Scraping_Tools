@@ -2,3 +2,5 @@ Is Health Human Resource Strain Associated with the Prevalence of Healthcare-Ass
 Luminal Peri-Anastomotic Antibacterial Washout to Prevent Colorectal Anastomotic Leakage: A Pilot Audit of Outcomes.|https://dx.doi.org/10.1111/ans.70733
 Comparison of IBD-related outcomes in patients with obesity treated with GLP-1 receptor agonists versus bariatric surgery.|https://dx.doi.org/10.1093/crocol/otag027
 Outcomes of Clostridium difficile Infection in Patients With Idiopathic Pulmonary Fibrosis: Analysis of the Nationwide Inpatient Sample, 2016-2020.|https://dx.doi.org/10.1002/jgh3.70416
+Biological evaluation of guanidines, bisguanidines, and their derivatives as anti-Trypanosoma cruzi agents.|https://dx.doi.org/10.1016/j.bmcl.2026.130686
+Development and Evaluation of Exosporium-Anchored Bioluminescent and Fluorescent Reporters for Tracking Clostridioides difficile Spores Formed In Vivo.|https://dx.doi.org/10.1021/acssynbio.5c00961
