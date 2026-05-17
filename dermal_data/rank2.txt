@@ -26,3 +26,4 @@ C-reactive protein-to-albumin ratio improves prediction of 6-month major adverse
 Comparison of General vs. Spinal Anesthesia in Diabetic Foot Patients undergoing MLLA in LMIC - A post propensity score matching.|https://dx.doi.org/10.12669/pjms.42.(11AASC).15603
 Staphylococcus argenteus ST2250 from diabetic foot sepsis: genomic insights into resistance and virulence.|https://dx.doi.org/10.3389/fcimb.2026.1822021
 Evaluation of the Effectiveness of Hyodine on Healing of Diabetic Foot Ulcer: A Randomized Single-Blind Controlled Trial.|https://dx.doi.org/10.2174/0118715303426166251203081819
+Does Antibiotic Treatment Before Bone Biopsy Affects the Identification of Bacterial Pathogens From Bone Culture in Diabetic Foot Osteomyelitis? A Systematic Review and Meta Analysis.|https://dx.doi.org/10.1111/wrr.70171
