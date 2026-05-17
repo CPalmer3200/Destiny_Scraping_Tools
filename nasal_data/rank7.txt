@@ -85,3 +85,4 @@ Effect of Intrawound Vancomycin Powder as an Adjunct to Systemic Antibiotic Prop
 Nanoparticle-integrated smart hydrogel with H(2)S-triggered antibacterial escalation and sustained oxygen release for periodontal regeneration.|https://dx.doi.org/10.1186/s12951-026-04535-7
 Antibiotic treatment practice for multidrug-resistant bacteria in deep surgical wound Infections - A retrospective analysis from the trauma registry.|https://dx.doi.org/10.12669/pjms.42.(11AASC).15605
 Holospinal epidural abscess: a review of clinical characteristics, outcomes and prognostic factors.|https://dx.doi.org/10.1080/02688697.2026.2667276
+Surveillance of temporal trends and antimicrobial resistance in nosocomial respiratory pathogens, Switzerland, 2007 to 2024.|https://dx.doi.org/10.2807/1560-7917.ES.2026.31.17.2500683
