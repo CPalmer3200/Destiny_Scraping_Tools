@@ -27,3 +27,4 @@ Comparison of General vs. Spinal Anesthesia in Diabetic Foot Patients undergoing
 Staphylococcus argenteus ST2250 from diabetic foot sepsis: genomic insights into resistance and virulence.|https://dx.doi.org/10.3389/fcimb.2026.1822021
 Evaluation of the Effectiveness of Hyodine on Healing of Diabetic Foot Ulcer: A Randomized Single-Blind Controlled Trial.|https://dx.doi.org/10.2174/0118715303426166251203081819
 Does Antibiotic Treatment Before Bone Biopsy Affects the Identification of Bacterial Pathogens From Bone Culture in Diabetic Foot Osteomyelitis? A Systematic Review and Meta Analysis.|https://dx.doi.org/10.1111/wrr.70171
+Hydrogen-delivering biomaterial carriers for diabetic foot ulcer healing: a systematic review and meta-analysis of preclinical animal studies.|https://dx.doi.org/10.1186/s13098-026-02181-5

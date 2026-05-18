@@ -35,3 +35,5 @@ Berberine-Loaded Composite Phospholipid Ethosome Hydrogels: A Therapeutic for Ma
 Water-Soluble Ammonium BODIPYs: Synthesis, Photophysics, Photogelation, and Antimicrobial Activity.|https://dx.doi.org/10.1002/asia.70761
 pH-responsive smart hydrogel dressing for controlled antimicrobial therapy and accelerated wound healing.|https://dx.doi.org/10.1039/d6tb00327c
 Nanoparticle-integrated smart hydrogel with H(2)S-triggered antibacterial escalation and sustained oxygen release for periodontal regeneration.|https://dx.doi.org/10.1186/s12951-026-04535-7
+α-pinene and β-sitosterol co-loaded alginate/gelatin-functionalized niosomes for enhanced antibacterial and anti-biofilm activity against methicillin-resistant Staphylococcus aureus and carbapenem-resistant Klebsiella pneumoniae.|https://dx.doi.org/10.1186/s12896-026-01132-2
+DNA-templated synthesis of hydrogel with anchored AgNPs via C-Ag(+)-C coordination and in situ reduction for conductive and antibacterial joint motion monitoring.|https://dx.doi.org/10.1016/j.bios.2026.118802

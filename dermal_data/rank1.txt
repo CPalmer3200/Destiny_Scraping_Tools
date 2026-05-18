@@ -7,3 +7,4 @@ Distribution and Antibiotic Resistance Characteristics of Pathogenic Bacteria in
 A Photothermally Triggered Nanoplatform for Multidimensional Antibacterial Therapy and Accelerated Healing of Infected Wounds.|https://dx.doi.org/10.2147/IJN.S594688
 Multifunctional electrospun carboxymethyl cellulose-based composite nanofibers incorporating ZnO nanoparticles for enhanced wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152555
 Eco-friendly clinoptilolite/NH(2)-chitosan/PVA nanofibers for gentamicin delivery, biofilm disruption, and burn wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115801
+Chitosan and Solid Lipid Nanoparticles as Nano-carriers of Chamomile oil Against S. aureus and P. aeruginosa for Wound Healing.|https://dx.doi.org/10.1007/s00284-026-04944-9

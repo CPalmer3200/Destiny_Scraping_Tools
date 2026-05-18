@@ -3,3 +3,4 @@ MRGPRX2 Antagonist Treatment Prevents Inflammation and Disease in a Mouse Model 
 Lack of improvement after short-term topical antistaphylococcal endolysin SA.100 therapy in patients with mild-to-moderate atopic dermatitis: Results from a randomized, vehicle-controlled trial.|https://dx.doi.org/10.1002/bcp.70608
 Soluble bacterial lipopeptides suppress gasdermin D-associated IL-33 release in keratinocytes and atopic dermatitis in mice.|https://dx.doi.org/10.1038/s41467-026-72376-x
 Septic Pulmonary Embolism due to Methicillin-Resistant Staphylococcus aureus Bacteremia during Adjuvant Chemotherapy for Breast Cancer: A Case Report.|https://dx.doi.org/10.1159/000551366
+Impact of IL-4/IL-13 Blockade with Dupilumab on the Microbiome in Type 2 Inflammatory Diseases: A Systematic Review.|https://dx.doi.org/10.1007/s11882-026-01281-6
