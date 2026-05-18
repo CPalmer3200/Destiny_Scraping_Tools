@@ -27,3 +27,5 @@ Scientific highlights and perspectives from the International Inflammatory Breas
 Postoperative Lymphatic Patterns and Application of LVA in Breast Cancer Patients With Truncal Lymphedema.|https://dx.doi.org/10.1097/SAP.0000000000004686
 Image-guided and surgical management of breast infections: Addressing diagnostic and therapeutic challenges.|https://dx.doi.org/10.12669/pjms.42.(11AASC).15596
 Fasciitis of the Breast, Ranging from Necrotizing to Non-Necrotizing Forms: A Diagnostic Dilemma Necessitating Vigilant Clinical Scrutiny.|https://dx.doi.org/10.12669/pjms.42.(11AASC).15806
+Ultra-hypofractionated stereotactic ablative body radiotherapy for primary renal cell carcinoma: 5-year outcomes from a pooled analysis of the FASTRACK trials.|https://dx.doi.org/10.1016/S1470-2045(26)00170-1
+Long-term outcomes of stereotactic ablative body radiotherapy for primary kidney cancer (TROG 15.03 FASTRACK II): a multicentre, non-randomised, phase 2 study.|https://dx.doi.org/10.1016/S1470-2045(26)00091-4
