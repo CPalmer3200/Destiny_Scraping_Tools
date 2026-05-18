@@ -5,3 +5,4 @@ Diagnosis, treatment, and prophylaxis of Clostridioides difficile infections: A 
 AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review.|https://dx.doi.org/10.1053/j.gastro.2026.03.008
 Clostridioides difficile infection in inflammatory bowel disease: an observational study in flares of ulcerative colitis and a South Asian region-specific systematic review and meta-analysis.|https://dx.doi.org/10.1177/17562848261446520
 Discovering Novel Drug Targets in Clostridioides difficile and Proposing FtsZ Inhibitors via Structure-Based Virtual Screening.|https://dx.doi.org/10.2174/0113816128442859260414073033
+Clinical impact of toxin detection in children with PCR-confirmed Clostridioides difficile infection.|https://dx.doi.org/10.1007/s00431-026-07084-1
