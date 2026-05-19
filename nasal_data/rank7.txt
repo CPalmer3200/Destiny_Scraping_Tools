@@ -89,3 +89,8 @@ Surveillance of temporal trends and antimicrobial resistance in nosocomial respi
 The role of whole genome sequencing in antimicrobial susceptibility prediction of bacteria: 2025 update from the EUCAST Subcommittee.|https://dx.doi.org/10.1016/j.cmi.2026.05.012
 Seasonal Shifts in the Belgrade Airborne Resistome and Virulome: A Metagenomic Perspective.|https://dx.doi.org/10.1016/j.envres.2026.124700
 Dual-Scale StaphAIR: Predictive Modeling for the Diagnosis of S. aureus Infection via Simultaneous Detection and Quantification of Cytokines and Antibodies.|https://dx.doi.org/10.1021/acs.analchem.6c00764
+Topical calcineurin inhibitors and the epidermal barrier in atopic dermatitis.|https://dx.doi.org/10.1159/000552559
+A retrospective analysis of the surgical efficacy for tophi wounds in Hainan province.|https://dx.doi.org/10.3389/fsurg.2026.1752070
+HIV-1 interactions with sialic acid-binding bacterial lectins promote virus infectivity in vitro and mucosal transmission in humanized mice.|https://dx.doi.org/10.64898/2026.05.05.722898
+Fingerprinting PCR Reveals Potential Dissemination of Multidrug Efflux System Genes and Antimicrobial Resistance in Staphylococcus aureus Across Primary Healthcare Units in Brazil.|https://dx.doi.org/10.1155/ijm/9287240
+Assessment of microbial growth in various aligner materials.|https://dx.doi.org/10.6026/973206300221574

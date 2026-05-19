@@ -29,3 +29,7 @@ Image-guided and surgical management of breast infections: Addressing diagnostic
 Fasciitis of the Breast, Ranging from Necrotizing to Non-Necrotizing Forms: A Diagnostic Dilemma Necessitating Vigilant Clinical Scrutiny.|https://dx.doi.org/10.12669/pjms.42.(11AASC).15806
 Ultra-hypofractionated stereotactic ablative body radiotherapy for primary renal cell carcinoma: 5-year outcomes from a pooled analysis of the FASTRACK trials.|https://dx.doi.org/10.1016/S1470-2045(26)00170-1
 Long-term outcomes of stereotactic ablative body radiotherapy for primary kidney cancer (TROG 15.03 FASTRACK II): a multicentre, non-randomised, phase 2 study.|https://dx.doi.org/10.1016/S1470-2045(26)00091-4
+[Advances in application of tissue expansion technology in breast reconstruction].|https://dx.doi.org/10.7507/1002-1892.202601036
+Effects of traditional Chinese exercises for upper-limb dysfunction following breast cancer surgery: protocol for a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2025-112564
+A Case of Abscess Formation after Radiofrequency Ablation for Early Breast Cancer.|https://dx.doi.org/10.70352/scrj.cr.26-0153
+A Global Propensity Score-matched Analysis of 56,992 Nicotine-dependent Versus Nondependent Breast Reconstruction Cases.|https://dx.doi.org/10.1097/GOX.0000000000007725
