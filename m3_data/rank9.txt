@@ -5,3 +5,4 @@ Outcomes of Clostridium difficile Infection in Patients With Idiopathic Pulmonar
 Biological evaluation of guanidines, bisguanidines, and their derivatives as anti-Trypanosoma cruzi agents.|https://dx.doi.org/10.1016/j.bmcl.2026.130686
 Development and Evaluation of Exosporium-Anchored Bioluminescent and Fluorescent Reporters for Tracking Clostridioides difficile Spores Formed In Vivo.|https://dx.doi.org/10.1021/acssynbio.5c00961
 Current state and potential of hospitals for automated healthcare-associated infection surveillance: data from 24 European countries, 2022 to 2023.|https://dx.doi.org/10.2807/1560-7917.ES.2026.31.19.2500736
+Conditioning chemotherapy exposure is associated with epigenetic modifications in Clostridioides difficile isolates from stem cell transplant recipients.|https://dx.doi.org/10.21203/rs.3.rs-8865869/v1

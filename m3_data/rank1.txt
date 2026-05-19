@@ -6,3 +6,4 @@ AGA Clinical Practice Update on Management of Clostridioides difficile Infection
 Clostridioides difficile infection in inflammatory bowel disease: an observational study in flares of ulcerative colitis and a South Asian region-specific systematic review and meta-analysis.|https://dx.doi.org/10.1177/17562848261446520
 Discovering Novel Drug Targets in Clostridioides difficile and Proposing FtsZ Inhibitors via Structure-Based Virtual Screening.|https://dx.doi.org/10.2174/0113816128442859260414073033
 Clinical impact of toxin detection in children with PCR-confirmed Clostridioides difficile infection.|https://dx.doi.org/10.1007/s00431-026-07084-1
+Repurposing azole antifungals as rapid bactericidal, membrane-disruptive therapeutics against Clostridioides difficile.|https://dx.doi.org/10.1128/spectrum.02900-25
