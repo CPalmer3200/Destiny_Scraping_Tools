@@ -15,3 +15,5 @@ Anti-quorum-sensing activity of Plectranthus aliciae in multispecies Cutibacteri
 Photodynamic and antibiotic combination therapy against multidrug-resistant Pseudomonas aeruginosa wound infections in diabetic rats.|https://dx.doi.org/10.1016/j.bioorg.2026.109955
 Photodynamic Therapy in Dermatology.|https://dx.doi.org/10.3390/ijms27093960
 Adverse events and tolerability of long-term suppressive antibiotic therapy for periprosthetic joint infection: a prospective cohort study.|https://dx.doi.org/10.5194/jbji-11-267-2026
+The dual role of the microbiome in chronic wound management.|https://dx.doi.org/10.1186/s12964-026-02937-6
+Mobile phone cases as hotspots for perfluoroalkyl substances and pathogenic bacteria: An analysis based on user habits.|https://dx.doi.org/10.1016/j.jhazmat.2026.142420

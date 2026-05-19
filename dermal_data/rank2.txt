@@ -28,3 +28,6 @@ Staphylococcus argenteus ST2250 from diabetic foot sepsis: genomic insights into
 Evaluation of the Effectiveness of Hyodine on Healing of Diabetic Foot Ulcer: A Randomized Single-Blind Controlled Trial.|https://dx.doi.org/10.2174/0118715303426166251203081819
 Does Antibiotic Treatment Before Bone Biopsy Affects the Identification of Bacterial Pathogens From Bone Culture in Diabetic Foot Osteomyelitis? A Systematic Review and Meta Analysis.|https://dx.doi.org/10.1111/wrr.70171
 Hydrogen-delivering biomaterial carriers for diabetic foot ulcer healing: a systematic review and meta-analysis of preclinical animal studies.|https://dx.doi.org/10.1186/s13098-026-02181-5
+Improving the Severity Classification System of Diabetes-Related Foot Infections: Necrosis is a Better Predictor of Amputation Than Systemic Inflammatory Response.|https://dx.doi.org/10.1177/19386400261448434
+Peripheral Revascularization in Diabetic and Non-Diabetic Patients: A Single-Centre Observational Experience.|https://dx.doi.org/10.1016/j.avsg.2026.05.068
+The gut-skin axis in wound healing: a bibliometric analysis of intestinal flora and chronic wounds (2005-2025).|https://dx.doi.org/10.3389/fcimb.2026.1800070

@@ -37,3 +37,7 @@ pH-responsive smart hydrogel dressing for controlled antimicrobial therapy and a
 Nanoparticle-integrated smart hydrogel with H(2)S-triggered antibacterial escalation and sustained oxygen release for periodontal regeneration.|https://dx.doi.org/10.1186/s12951-026-04535-7
 α-pinene and β-sitosterol co-loaded alginate/gelatin-functionalized niosomes for enhanced antibacterial and anti-biofilm activity against methicillin-resistant Staphylococcus aureus and carbapenem-resistant Klebsiella pneumoniae.|https://dx.doi.org/10.1186/s12896-026-01132-2
 DNA-templated synthesis of hydrogel with anchored AgNPs via C-Ag(+)-C coordination and in situ reduction for conductive and antibacterial joint motion monitoring.|https://dx.doi.org/10.1016/j.bios.2026.118802
+Antibiotic eluting collagen-based hydrogel improves wound healing in a biofilm challenged murine stented wound model.|https://dx.doi.org/10.1177/22808000261447657
+Nanosheets doped collagen‑based composite sponge dressing with integrated negative pressure wound therapy, photothermal, and gas therapies for wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.214942
+Intelligent response hydrogel based on choline phosphorylated chitosan programmed repair of infected wounds.|https://dx.doi.org/10.1093/rb/rbag022
+Cellulose-based hydrogel matrix enhances antimicrobial and biofilm-inhibitory responses of palatal mesenchymal stem cells.|https://dx.doi.org/10.1007/s13205-026-04852-6
