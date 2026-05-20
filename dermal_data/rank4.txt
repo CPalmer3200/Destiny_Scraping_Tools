@@ -41,3 +41,9 @@ Antibiotic eluting collagen-based hydrogel improves wound healing in a biofilm c
 Nanosheets doped collagen‑based composite sponge dressing with integrated negative pressure wound therapy, photothermal, and gas therapies for wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.214942
 Intelligent response hydrogel based on choline phosphorylated chitosan programmed repair of infected wounds.|https://dx.doi.org/10.1093/rb/rbag022
 Cellulose-based hydrogel matrix enhances antimicrobial and biofilm-inhibitory responses of palatal mesenchymal stem cells.|https://dx.doi.org/10.1007/s13205-026-04852-6
+Ratio-tuned green-synthesized Ag-Fe bimetallic nanoparticles embedded in electrospun gelatin/chitosan nanofibrous scaffolds for antibacterial applications.|https://dx.doi.org/10.1039/d6ra01562j
+Like-charged polyelectrolyte interaction and functional fiber construction: Viscosity regulation, dual-ion crosslinking, and pH-responsive drug release of sodium alginate (SA)/pectin (PEC) blends.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152611
+Biocompatible chitosan-gelatine-silk hydrogel for the temporary storage of hair follicles during transplantation.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152512
+Herbal micelles loaded oxidized dextran/gelatin hydrogel with enhanced antibacterial and microenvironment reconstruction capacity for MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152595
+Development and evaluation of a nanofibrous membrane loaded with green-synthesized silver/ andrographolide nanocomposite for infected wound healing.|https://dx.doi.org/10.1088/1748-605X/ae7005
+Synergistic effects of ionic photosensitizers and silver nanoparticles in PEGDA/gelatin hybrid hydrogels for advanced antibacterial photodynamic therapy.|https://dx.doi.org/10.1016/j.bioadv.2026.214946

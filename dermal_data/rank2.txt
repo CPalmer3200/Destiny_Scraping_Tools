@@ -31,3 +31,6 @@ Hydrogen-delivering biomaterial carriers for diabetic foot ulcer healing: a syst
 Improving the Severity Classification System of Diabetes-Related Foot Infections: Necrosis is a Better Predictor of Amputation Than Systemic Inflammatory Response.|https://dx.doi.org/10.1177/19386400261448434
 Peripheral Revascularization in Diabetic and Non-Diabetic Patients: A Single-Centre Observational Experience.|https://dx.doi.org/10.1016/j.avsg.2026.05.068
 The gut-skin axis in wound healing: a bibliometric analysis of intestinal flora and chronic wounds (2005-2025).|https://dx.doi.org/10.3389/fcimb.2026.1800070
+The Adjunctive Role of Hyperbaric Oxygen Therapy in Microbial Infection-Related Conditions.|https://dx.doi.org/10.7150/ijms.127803
+Antimicrobial Photodynamic Inactivation of Pseudomonas aeruginosa Biofilms by a Multifunctional Triple Combination of Natural Photosensitisers, Gentamicin, and Colistin.|https://dx.doi.org/10.1016/j.micpath.2026.108564
+Spectral fingerprinting by FTIR microspectroscopy enables differentiation of Gram status, strain variability and resistance phenotypes among diabetic foot infection isolates.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117462

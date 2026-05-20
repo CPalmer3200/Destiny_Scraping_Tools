@@ -5,3 +5,4 @@ Staphylococcus aureus adapts to the host nutritional environment by coordinating
 Curcumin shows promise as an adjunct in changing β-lactam susceptibility status of canine multidrug-resistant Staphylococcus pseudintermedius: an in vitro study.|https://dx.doi.org/10.1007/s11259-026-11245-w
 Point-Counterpoint: Should MRSA nares testing be used as a tool for vancomycin de-escalation outside of pneumonia?|https://dx.doi.org/10.1128/jcm.01309-25
 Staphylococcal lipoproteins and peptidoglycans synergize to drive skin abscess formation.|https://dx.doi.org/10.1128/mbio.00840-26
+Skin biopsy PCR enables rapid diagnosis of tattoo-associated staphylococcal toxic shock syndrome.|https://dx.doi.org/10.1016/j.ijid.2026.108808
