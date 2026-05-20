@@ -33,3 +33,7 @@ Long-term outcomes of stereotactic ablative body radiotherapy for primary kidney
 Effects of traditional Chinese exercises for upper-limb dysfunction following breast cancer surgery: protocol for a systematic review and meta-analysis.|https://dx.doi.org/10.1136/bmjopen-2025-112564
 A Case of Abscess Formation after Radiofrequency Ablation for Early Breast Cancer.|https://dx.doi.org/10.70352/scrj.cr.26-0153
 A Global Propensity Score-matched Analysis of 56,992 Nicotine-dependent Versus Nondependent Breast Reconstruction Cases.|https://dx.doi.org/10.1097/GOX.0000000000007725
+Safety and histologic characteristics of aseptic and sterile acellular dermal matrices in irradiated implant-based breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2026.05.005
+Postoperative complications after subpectoral versus prepectoral implant-based breast reconstruction: A target trial emulation study.|https://dx.doi.org/10.1016/j.bjps.2026.04.026
+Procedure-Specific Efficacy of Tranexamic Acid in Breast Surgery: A Propensity-Score Adjusted Analysis of 5,202 Procedures.|https://dx.doi.org/10.1097/PRS.0000000000013206
+A Comparison of Complications in Completely Buried and Non-Buried Deep Inferior Epigastric Perforator Flap Breast Reconstructions.|https://dx.doi.org/10.1097/PRS.0000000000013194

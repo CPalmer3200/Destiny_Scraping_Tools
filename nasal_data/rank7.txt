@@ -94,3 +94,6 @@ A retrospective analysis of the surgical efficacy for tophi wounds in Hainan pro
 HIV-1 interactions with sialic acid-binding bacterial lectins promote virus infectivity in vitro and mucosal transmission in humanized mice.|https://dx.doi.org/10.64898/2026.05.05.722898
 Fingerprinting PCR Reveals Potential Dissemination of Multidrug Efflux System Genes and Antimicrobial Resistance in Staphylococcus aureus Across Primary Healthcare Units in Brazil.|https://dx.doi.org/10.1155/ijm/9287240
 Assessment of microbial growth in various aligner materials.|https://dx.doi.org/10.6026/973206300221574
+Methicillin-Resistant Staphylococcus aureus Infection Following Bilateral Strabismus Surgery: Case Report.|https://dx.doi.org/10.3928/01913913-20260312-01
+Antibiotic eluting collagen-based hydrogel improves wound healing in a biofilm challenged murine stented wound model.|https://dx.doi.org/10.1177/22808000261447657
+Management of early-onset spinal SSI with continuous irrigation and drainage: A retrospective case series.|https://dx.doi.org/10.1097/MD.0000000000048902
