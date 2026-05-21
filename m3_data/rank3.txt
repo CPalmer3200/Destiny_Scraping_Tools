@@ -3,3 +3,4 @@ Sub-inhibitory concentrations of metronidazole alter the proteomic profile and b
 Trends and Disparities in Clostridioides difficile Infection Mortality in the United States From 1999 to 2020: A Nationwide Perspective.|https://dx.doi.org/10.1155/grp/9981233
 Repeat multiplex PCR gastrointestinal panel testing within 14 days yields minimal additional diagnostic information: a multicenter cohort study.|https://dx.doi.org/10.1017/ice.2026.10464
 The role of whole genome sequencing in antimicrobial susceptibility prediction of bacteria: 2025 update from the EUCAST Subcommittee.|https://dx.doi.org/10.1016/j.cmi.2026.05.012
+Beta-Lactam Plus Azithromycin or Doxycycline vs Fluoroquinolones in Adult Patients Hospitalized With Community-Acquired Pneumonia: A Systematic Review and Network Meta-analysis.|https://dx.doi.org/10.1093/ofid/ofag253
