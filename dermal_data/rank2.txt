@@ -34,3 +34,4 @@ The gut-skin axis in wound healing: a bibliometric analysis of intestinal flora 
 The Adjunctive Role of Hyperbaric Oxygen Therapy in Microbial Infection-Related Conditions.|https://dx.doi.org/10.7150/ijms.127803
 Antimicrobial Photodynamic Inactivation of Pseudomonas aeruginosa Biofilms by a Multifunctional Triple Combination of Natural Photosensitisers, Gentamicin, and Colistin.|https://dx.doi.org/10.1016/j.micpath.2026.108564
 Spectral fingerprinting by FTIR microspectroscopy enables differentiation of Gram status, strain variability and resistance phenotypes among diabetic foot infection isolates.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117462
+Biomechanical Considerations of the Neuropathic Foot: A Primer for Plastic Surgeons.|https://dx.doi.org/10.1097/PRS.0000000000013189
