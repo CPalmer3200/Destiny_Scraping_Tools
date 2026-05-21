@@ -10,3 +10,5 @@ Community-acquired Pneumonia in Bangladeshi Children Under Five: Pathogen Preval
 Infection prevention and control in low- and middle-income countries: policy, practice, and implementation challenges in sub-Saharan Africa.|https://dx.doi.org/10.1128/cmr.00142-22
 Development of a novel multi-epitope peptide vaccine candidate against Mycobacterium tuberculosis using reverse vaccinology.|https://dx.doi.org/10.52225/narra.v6i1.2897
 Clinical and epidemiological profile of patients with accidental tetanus in a referral hospital: a 13-year historical series.|https://dx.doi.org/10.1007/s15010-026-02826-7
+Multivalent nanobodies for potent and broad neutralization of Staphylococcus aureus toxins.|https://dx.doi.org/10.1038/s41467-026-73120-1
+Prevalence and outcomes of bacterial co-detections by blood culture among children and adults hospitalized with laboratory-confirmed influenza, Influenza Hospitalization Surveillance Network, 2022-2024.|https://dx.doi.org/10.1093/cid/ciag242

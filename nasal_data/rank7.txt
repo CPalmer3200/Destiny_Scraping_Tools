@@ -97,3 +97,9 @@ Assessment of microbial growth in various aligner materials.|https://dx.doi.org/
 Methicillin-Resistant Staphylococcus aureus Infection Following Bilateral Strabismus Surgery: Case Report.|https://dx.doi.org/10.3928/01913913-20260312-01
 Antibiotic eluting collagen-based hydrogel improves wound healing in a biofilm challenged murine stented wound model.|https://dx.doi.org/10.1177/22808000261447657
 Management of early-onset spinal SSI with continuous irrigation and drainage: A retrospective case series.|https://dx.doi.org/10.1097/MD.0000000000048902
+Comparison of methicillin-resistant Staphylococcus aureus carriage in a neonatal intensive care unit between pre- and post-COVID-19 pandemic periods, following the introduction of strengthened infection control measures: A retrospective study.|https://dx.doi.org/10.1016/j.jhin.2026.05.017
+Trends in Antimicrobial Resistance associated with Gastrointestinal tract Infections in the UAE: A comprehensive retrospective surveillance 13-year (2010-2022) study.|https://dx.doi.org/10.1016/j.ijid.2026.108789
+Antimicrobial and regenerative copper-doped hybrid biomaterials for bone infection treatment.|https://dx.doi.org/10.1007/s13346-026-02151-4
+Culture-proven endophthalmitis associated with Boston Type I keratoprosthesis: clinical features, microbiologic aspects, and outcomes.|https://dx.doi.org/10.1186/s12348-025-00559-6
+Mechanistic Study on MSC-EXO Loaded with Salubrinal for the Treatment of Osteomyelitis-Induced Bone Defects.|https://dx.doi.org/10.1096/fj.202502940R
+Keratinocyte Priming by Staphylococcus aureus Reduces HSV-1 Susceptibility.|https://dx.doi.org/10.1111/all.70392

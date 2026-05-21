@@ -37,3 +37,5 @@ Safety and histologic characteristics of aseptic and sterile acellular dermal ma
 Postoperative complications after subpectoral versus prepectoral implant-based breast reconstruction: A target trial emulation study.|https://dx.doi.org/10.1016/j.bjps.2026.04.026
 Procedure-Specific Efficacy of Tranexamic Acid in Breast Surgery: A Propensity-Score Adjusted Analysis of 5,202 Procedures.|https://dx.doi.org/10.1097/PRS.0000000000013206
 A Comparison of Complications in Completely Buried and Non-Buried Deep Inferior Epigastric Perforator Flap Breast Reconstructions.|https://dx.doi.org/10.1097/PRS.0000000000013194
+National trends and safety of prophylactic lymphovenous bypass during axillary lymph node dissection: A decade-long analysis of 61,819 patients through the NSQIP database.|https://dx.doi.org/10.1016/j.bjps.2026.05.028
+Less reconstruction failure in autologous over implant-based breast reconstructions in patients with a history of breast conserving therapy.|https://dx.doi.org/10.1097/PRS.0000000000013218
