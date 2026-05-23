@@ -36,3 +36,5 @@ Antimicrobial Photodynamic Inactivation of Pseudomonas aeruginosa Biofilms by a 
 Spectral fingerprinting by FTIR microspectroscopy enables differentiation of Gram status, strain variability and resistance phenotypes among diabetic foot infection isolates.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117462
 Biomechanical Considerations of the Neuropathic Foot: A Primer for Plastic Surgeons.|https://dx.doi.org/10.1097/PRS.0000000000013189
 Topical therapies for diabetic foot ulcers: a systematic review and network meta-analysis.|https://dx.doi.org/10.1136/bmjdrc-2026-006026
+Absence of Bacterial Fluorescence Is Associated With Early Response to Skin Substitutes in Diabetic and Venous Ulcers: A Single-Blinded Prospective Study.|https://dx.doi.org/10.1111/iwj.70951
+Bone‑origin repair in diabetic foot ulcers: Mechanisms of callus formation and endocrine effects in healing (Review).|https://dx.doi.org/10.3892/ijmm.2026.5864

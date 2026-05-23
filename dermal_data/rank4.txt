@@ -50,3 +50,4 @@ Synergistic effects of ionic photosensitizers and silver nanoparticles in PEGDA/
 Design of Antiacne Gel Containing Phloretin.|https://dx.doi.org/10.2174/0118715230421058251210113310
 Multinetwork tough hydrogels as smart wound dressings for closed-loop monitoring and treatment of diabetic wounds and flexible wearable sensing.|https://dx.doi.org/10.1016/j.jcis.2026.140760
 Immunomodulatory carbon dots balance the anti-inflammatory, antibacterial, and osteogenic activities of metal-phenolic network for osteomyelitis therapy.|https://dx.doi.org/10.1016/j.biomaterials.2026.124313
+A Chitosan-Dextran Hydrogel Based on a Site-Isolated Grafting Strategy for Long-Term Wet Tissue Adhesion and Wound Healing.|https://dx.doi.org/10.1002/adhm.71226
