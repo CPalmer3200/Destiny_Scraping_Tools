@@ -12,3 +12,5 @@ Development of a novel multi-epitope peptide vaccine candidate against Mycobacte
 Clinical and epidemiological profile of patients with accidental tetanus in a referral hospital: a 13-year historical series.|https://dx.doi.org/10.1007/s15010-026-02826-7
 Multivalent nanobodies for potent and broad neutralization of Staphylococcus aureus toxins.|https://dx.doi.org/10.1038/s41467-026-73120-1
 Prevalence and outcomes of bacterial co-detections by blood culture among children and adults hospitalized with laboratory-confirmed influenza, Influenza Hospitalization Surveillance Network, 2022-2024.|https://dx.doi.org/10.1093/cid/ciag242
+Evaluation of a novel experimental NanoQuil vaccine against Staphylococcus aureus-induced mastitis.|https://dx.doi.org/10.1017/S0022029926102428
+HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.|https://dx.doi.org/10.1186/s13287-026-04992-9

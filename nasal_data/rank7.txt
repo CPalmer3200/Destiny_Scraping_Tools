@@ -103,3 +103,12 @@ Antimicrobial and regenerative copper-doped hybrid biomaterials for bone infecti
 Culture-proven endophthalmitis associated with Boston Type I keratoprosthesis: clinical features, microbiologic aspects, and outcomes.|https://dx.doi.org/10.1186/s12348-025-00559-6
 Mechanistic Study on MSC-EXO Loaded with Salubrinal for the Treatment of Osteomyelitis-Induced Bone Defects.|https://dx.doi.org/10.1096/fj.202502940R
 Keratinocyte Priming by Staphylococcus aureus Reduces HSV-1 Susceptibility.|https://dx.doi.org/10.1111/all.70392
+Comparison of Blood Culture Contamination Rates Between Initial Central Venous Puncture and Catheter Hub Sampling.|https://dx.doi.org/10.1097/CCM.0000000000007187
+The use of debridement, antibiotic pearls, and implant retention (DAPRI) in the management of acute periprosthetic joint infections: a systematic review.|https://dx.doi.org/10.5194/jbji-11-277-2026
+Five-year Analysis of Hand Infections in Plastic Surgery: Clinical Patterns and Risk Factors in a Referral Center from Latin America.|https://dx.doi.org/10.1097/GOX.0000000000007642
+Systemic Embolic Events in People Who Inject Drugs With Patent Foramen Ovale and Right-Sided Infective Endocarditis: A Systematic Review.|https://dx.doi.org/10.1093/ofid/ofag245
+Two-Year Outcomes of Postoperative Spine Infection: Implant Retention and Predictors of Treatment Failure.|https://dx.doi.org/10.1093/ofid/ofag267
+Analysis of Infection Types, Pathogens, Antimicrobial Treatment, and Clinical Outcomes Data in Hospitalised Patients: Comprehensive Online Database for Antimicrobial Resistance (CODAR) Retrospective Pilot Study.|https://dx.doi.org/10.1007/s44197-026-00578-z
+Mesolens imaging in microbiology.|https://dx.doi.org/10.1042/EBC20250033
+Surface microbiological surveillance in a crowded emergency department: interplay of environmental pressure, construction, and disinfection efficacy.|https://dx.doi.org/10.1016/j.infpip.2026.100542
+Epidemiological analysis of biofilm-forming methicillin-resistant Staphylococcus aureus clinical isolates.|https://dx.doi.org/10.3389/fpubh.2026.1783787

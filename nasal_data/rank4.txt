@@ -1,2 +1,3 @@
 Closed incisional Negative Pressure Wound Therapy versus Standard Surgical Dressing for groin incisions following arterial vascular surgery; a prospective multicenter randomized clinical trial.|https://dx.doi.org/10.1016/j.jvs.2026.04.017
 Catheter-related bloodstream infections in hemodialysis: microbiology, antimicrobial resistance, complications and predictors of mortality.|https://dx.doi.org/10.1186/s12879-026-13225-6
+Risk stratification of surgical site infection in high-risk spine surgery under prophylactic ciNPWT.|https://dx.doi.org/10.1186/s12891-026-09826-6
