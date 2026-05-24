@@ -51,3 +51,10 @@ Design of Antiacne Gel Containing Phloretin.|https://dx.doi.org/10.2174/01187152
 Multinetwork tough hydrogels as smart wound dressings for closed-loop monitoring and treatment of diabetic wounds and flexible wearable sensing.|https://dx.doi.org/10.1016/j.jcis.2026.140760
 Immunomodulatory carbon dots balance the anti-inflammatory, antibacterial, and osteogenic activities of metal-phenolic network for osteomyelitis therapy.|https://dx.doi.org/10.1016/j.biomaterials.2026.124313
 A Chitosan-Dextran Hydrogel Based on a Site-Isolated Grafting Strategy for Long-Term Wet Tissue Adhesion and Wound Healing.|https://dx.doi.org/10.1002/adhm.71226
+Development of a magnetic xanthan gum-polyacrylamide hydrogel embedding Cu-BTC with antibacterial properties for wound healing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152662
+Methacryloxyethyl sulfobetaine (SBMA) based hydrogel with functional enhancement by acrylamide, glycerol, and thymol for strawberry preservation.|https://dx.doi.org/10.1016/j.foodchem.2026.149738
+Antibacterial and cell-instructive chitosan/NeoNectin hydrogels crosslinked via click chemistry enable osteogenic differentiation within ultra-soft matrices.|https://dx.doi.org/10.1016/j.carbpol.2026.125392
+Photocrosslinked polylysine/oxidized hyaluronic acid double-network hydrogel with anti-inflammatory and antibacterial functions for skin wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152652
+Sprayable, antioxidative, in situ-forming hydrogel bio-adhesives based on dopamine conjugated 2-aminoethylmethacrylate alginate with incorporating curcumin-loaded micelles.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152649
+Polydopamine-modified chitosan nonwoven loaded with Zn/quercetin complex for rapid hemostasis and infection control.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152610
+Construction of natural dual-crosslinked self-healing hydrogels consisting of tannic acid and polysaccharides for postharvest preservation of strawberries.|https://dx.doi.org/10.1016/j.foodchem.2026.149631
