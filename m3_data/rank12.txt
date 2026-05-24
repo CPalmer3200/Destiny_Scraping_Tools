@@ -1,3 +1,4 @@
 One Health genomic insights into environmental and animal reservoirs of community-associated Clostridioides difficile in Japan.|https://dx.doi.org/10.1128/aem.00397-26
 Establishment and Comparison of High-Throughput Immunoassays for Quantifying Clostridioides difficile Infection Biomarkers.|https://dx.doi.org/10.1002/biot.70238
 Cycle thresholds and discordant 2-step testing for Clostridioides Difficile: Comparison of clinical characteristics and outcomes among discordant and true positive results.|https://dx.doi.org/10.1017/ash.2026.10375
+Sepsis associated with Clostridioides difficile infection carries similar mortality to sepsis of other origin: a propensity score-matched analysis.|https://dx.doi.org/10.1038/s41598-026-53859-9

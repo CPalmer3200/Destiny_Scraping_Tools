@@ -9,3 +9,5 @@ Conditioning chemotherapy exposure is associated with epigenetic modifications i
 Bile acid-mediated inhibition of C. difficile by P. hiranonis revealed through a ΔbaiCD mutant.|https://dx.doi.org/10.1016/j.anaerobe.2026.103054
 Panophthalmitis and necrotizing fasciitis following glaucoma drainage device surgery: A case report.|https://dx.doi.org/10.1016/j.ajoc.2026.102595
 Mechanistic Insights Into the Inhibition of Clostridioides difficile Binary Toxin by Indolylmethyl Glucosinolate and Indole-3-Carbinol.|https://dx.doi.org/10.1155/sci5/8115947
+Metagenomic survey of pathogen prevalence in the infant gut.|https://dx.doi.org/10.1038/s41598-026-47440-7
+Hokkaido phase II study of photo-immunotherapy combination with ASP-1929 for recurrent or persistent EGFR-positive vulvar, vaginal, and cervical cancers not amenable to further radiotherapy (HICARi study).|https://dx.doi.org/10.3802/jgo.2026.37.e126

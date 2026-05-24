@@ -7,3 +7,4 @@ Clostridioides difficile infection in inflammatory bowel disease: an observation
 Discovering Novel Drug Targets in Clostridioides difficile and Proposing FtsZ Inhibitors via Structure-Based Virtual Screening.|https://dx.doi.org/10.2174/0113816128442859260414073033
 Clinical impact of toxin detection in children with PCR-confirmed Clostridioides difficile infection.|https://dx.doi.org/10.1007/s00431-026-07084-1
 Repurposing azole antifungals as rapid bactericidal, membrane-disruptive therapeutics against Clostridioides difficile.|https://dx.doi.org/10.1128/spectrum.02900-25
+Clinical outcomes of toxin-positive versus toxin-negative/NAAT-positive Clostridioides difficile infection in South Korea: a single-center retrospective cohort study.|https://dx.doi.org/10.1186/s12879-026-13598-8
