@@ -112,3 +112,6 @@ Analysis of Infection Types, Pathogens, Antimicrobial Treatment, and Clinical Ou
 Mesolens imaging in microbiology.|https://dx.doi.org/10.1042/EBC20250033
 Surface microbiological surveillance in a crowded emergency department: interplay of environmental pressure, construction, and disinfection efficacy.|https://dx.doi.org/10.1016/j.infpip.2026.100542
 Epidemiological analysis of biofilm-forming methicillin-resistant Staphylococcus aureus clinical isolates.|https://dx.doi.org/10.3389/fpubh.2026.1783787
+Endocarditis caused by Aerococcus urinae: a case report and review of literature.|https://dx.doi.org/10.1186/s13256-026-05963-7
+Metagenomic survey of pathogen prevalence in the infant gut.|https://dx.doi.org/10.1038/s41598-026-47440-7
+Antibacterial and cell-instructive chitosan/NeoNectin hydrogels crosslinked via click chemistry enable osteogenic differentiation within ultra-soft matrices.|https://dx.doi.org/10.1016/j.carbpol.2026.125392

@@ -20,3 +20,4 @@ Dialister pneumosintes bacteremia associated with sinusitis and suspected mening
 Impact of IL-4/IL-13 Blockade with Dupilumab on the Microbiome in Type 2 Inflammatory Diseases: A Systematic Review.|https://dx.doi.org/10.1007/s11882-026-01281-6
 Re-evaluating microbiological testing and isolation measures for suspected MRSA carriers: insights from a retrospective study in a Dutch tertiary care center.|https://dx.doi.org/10.1186/s13756-026-01759-y
 Proteomic and metabolomic profiling of methicillin-resistant Staphylococcus aureus associated with invasive vs. non-invasive infections: uncovering key biomarkers and pathogenic pathways.|https://dx.doi.org/10.3389/fmicb.2026.1798070
+Staphylococcus aureus and Staphylococcus lugdunensis Act in Concert to Disrupt the Nasal Epithelial Barrier.|https://dx.doi.org/10.1002/clt2.70177
