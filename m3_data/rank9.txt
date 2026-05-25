@@ -11,3 +11,4 @@ Panophthalmitis and necrotizing fasciitis following glaucoma drainage device sur
 Mechanistic Insights Into the Inhibition of Clostridioides difficile Binary Toxin by Indolylmethyl Glucosinolate and Indole-3-Carbinol.|https://dx.doi.org/10.1155/sci5/8115947
 Metagenomic survey of pathogen prevalence in the infant gut.|https://dx.doi.org/10.1038/s41598-026-47440-7
 Hokkaido phase II study of photo-immunotherapy combination with ASP-1929 for recurrent or persistent EGFR-positive vulvar, vaginal, and cervical cancers not amenable to further radiotherapy (HICARi study).|https://dx.doi.org/10.3802/jgo.2026.37.e126
+Linear Endobronchial Ultrasound With a Lung Target: Analysis of the Stather Canadian Outcomes Registry for Chest Procedures (SCOPE).|https://dx.doi.org/10.1097/LBR.0000000000001076
