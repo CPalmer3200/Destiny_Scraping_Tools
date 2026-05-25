@@ -58,3 +58,4 @@ Photocrosslinked polylysine/oxidized hyaluronic acid double-network hydrogel wit
 Sprayable, antioxidative, in situ-forming hydrogel bio-adhesives based on dopamine conjugated 2-aminoethylmethacrylate alginate with incorporating curcumin-loaded micelles.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152649
 Polydopamine-modified chitosan nonwoven loaded with Zn/quercetin complex for rapid hemostasis and infection control.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152610
 Construction of natural dual-crosslinked self-healing hydrogels consisting of tannic acid and polysaccharides for postharvest preservation of strawberries.|https://dx.doi.org/10.1016/j.foodchem.2026.149631
+Polysaccharide architecture regulates the therapeutic performance of ferrous ion-coordinated hydrogels in frostbite wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152686
