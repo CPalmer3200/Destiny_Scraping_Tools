@@ -8,3 +8,5 @@ Discovering Novel Drug Targets in Clostridioides difficile and Proposing FtsZ In
 Clinical impact of toxin detection in children with PCR-confirmed Clostridioides difficile infection.|https://dx.doi.org/10.1007/s00431-026-07084-1
 Repurposing azole antifungals as rapid bactericidal, membrane-disruptive therapeutics against Clostridioides difficile.|https://dx.doi.org/10.1128/spectrum.02900-25
 Clinical outcomes of toxin-positive versus toxin-negative/NAAT-positive Clostridioides difficile infection in South Korea: a single-center retrospective cohort study.|https://dx.doi.org/10.1186/s12879-026-13598-8
+CBC-derived inflammatory indices predict adverse outcomes in geriatric emergency patients with acute infectious diarrhea: a MIMIC-IV analysis.|https://dx.doi.org/10.1038/s41598-026-54539-4
+Metagenome-scale Modeling to Assess Microbiome Metabolic Complementarity for Precision Microbiota Transplantation Therapies.|https://dx.doi.org/10.64898/2026.05.15.725570
