@@ -19,3 +19,13 @@ The dual role of the microbiome in chronic wound management.|https://dx.doi.org/
 Mobile phone cases as hotspots for perfluoroalkyl substances and pathogenic bacteria: An analysis based on user habits.|https://dx.doi.org/10.1016/j.jhazmat.2026.142420
 Characterization and evaluation of the efficacy of phage E21 therapy in a wound animal model of biofilm-associated Pseudomonas aeruginosa infection.|https://dx.doi.org/10.1038/s41598-026-52857-1
 Cuttlefish Ink-Derived Melanin/MXene Composites: Boosting Stability and Unleashing Synergistic Photothermal-Mechanical Antimicrobial Effects Against Biofilms.|https://dx.doi.org/10.1002/smll.73934
+Photodynamic/Photothermal Gold Nanoclusters Chitosan Sponge for Hemostasis and MRSA Infected Wound Healing.|https://dx.doi.org/10.2147/IJN.S576313
+Isolation of Bacteriophages with Lytic Activity from Biological Samples of Left Ventricular Assist Device Patients: An In Vitro Study.|https://dx.doi.org/10.3390/v18050526
+Exploring the Mechanism of Tannic Acid Against Pichia kudriavzevii in the VK2/E6E7 Vaginal Epithelial Cell Line and Its Synergy with Azoles on Drug-Resistant Candida Species.|https://dx.doi.org/10.3390/pathogens15050464
+Development and Characterization of Natamycin-Loaded Liposomes for Potential Topical Application: Influence of Preparation Method and Phospholipid Composition.|https://dx.doi.org/10.3390/ph19050710
+Dalbavancin in the Real-World Management of Gram-Positive Infections: A Systematic Review of Randomized and Observational Studies.|https://dx.doi.org/10.3390/microorganisms14051071
+Characteristics of Serratia rubidaea Clinical Strain Revealed Multiple Resistance to Antibiotics and Disinfectants.|https://dx.doi.org/10.3390/microorganisms14050988
+Capsular Contracture in Implant-Based Breast Reconstruction: A Comprehensive Narrative Review of Pathophysiology, Risk Factors, and Contemporary Controversies.|https://dx.doi.org/10.3390/medicina62050831
+In Vitro Antifungal and Wound-Healing Potential of Ferulago cassia and Ferulago silaifolia Essential Oils in Skin Candidiasis.|https://dx.doi.org/10.3390/antibiotics15050471
+Quercetin-zinc based metal-phenolic networks ameliorate psoriasis by rebalancing the microbiota-immune-epidermis homeostasis.|https://dx.doi.org/10.1016/j.jconrel.2026.115052
+Advanced Grafting Biomaterials and Technologies in Chronic Wound Care: Mechanisms, Clinical Outcomes, and Therapeutic Integration.|https://dx.doi.org/10.3390/jfb17050239

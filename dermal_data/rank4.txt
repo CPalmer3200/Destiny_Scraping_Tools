@@ -59,3 +59,12 @@ Sprayable, antioxidative, in situ-forming hydrogel bio-adhesives based on dopami
 Polydopamine-modified chitosan nonwoven loaded with Zn/quercetin complex for rapid hemostasis and infection control.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152610
 Construction of natural dual-crosslinked self-healing hydrogels consisting of tannic acid and polysaccharides for postharvest preservation of strawberries.|https://dx.doi.org/10.1016/j.foodchem.2026.149631
 Polysaccharide architecture regulates the therapeutic performance of ferrous ion-coordinated hydrogels in frostbite wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152686
+Preparation and characterization of zeolite imidazole framework-8@quercetin nanoparticle/sodium alginate/L-cysteine/calcium ion hydrogel films for fruit preservation.|https://dx.doi.org/10.1016/j.fochx.2026.103960
+Natural Products and Antimicrobial Nanoparticles Against Methicillin-Resistant Staphylococcus aureus: Mechanisms, Synergistic Interactions, and Therapeutic Potential.|https://dx.doi.org/10.3390/pharmaceutics18050515
+Multifunctional Silk Fibroin Hydrogel with Antibacterial and Regenerative Properties for Accelerated Wound Healing.|https://dx.doi.org/10.3390/gels12050417
+Promoting Wound Regeneration Through Targeted Suppression of Chronic Inflammation with Active Molecular Chitosan.|https://dx.doi.org/10.3390/gels12050384
+UV-Curable L(-)-Borneol-Functionalized Antibacterial Hydrogels for Packaging of Fresh-Cut Banana and Cherry Tomato.|https://dx.doi.org/10.3390/gels12050381
+Properties of Probiotic Bacterial Cellulose/κ-Carrageenan Based Hydrogel Having Antibacterial Activity and Biocompatibility.|https://dx.doi.org/10.3390/gels12050353
+Hydrogel-Forming Ability and Biological Characterization of Exopolysaccharide (EPS) from Porphyridium cruentum.|https://dx.doi.org/10.3390/gels12050352
+Impact of cationic, anionic, and amphiphilic emulsifiers on the physicochemical properties and applications of xanthan gum-shea butter bigels.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152655
+Electrospun PVA-chitosan nanofibers with antibacterial properties for wound healing: unveiling the potential of low molecular weight chitosan.|https://dx.doi.org/10.1039/d6tb00497k

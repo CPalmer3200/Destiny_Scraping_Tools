@@ -10,3 +10,5 @@ Development and preclinical evaluation of quiniodochlor-loaded nanostructured li
 A phase I, needle free, dose escalation clinical trial of pEVAC-PS, a candidate pan-Sarbecovirus Vaccine.|https://dx.doi.org/10.1016/j.jinf.2026.106759
 Postoperative complications after subpectoral versus prepectoral implant-based breast reconstruction: A target trial emulation study.|https://dx.doi.org/10.1016/j.bjps.2026.04.026
 A Case of False-Positive Treponema Pallidum Immunohistochemistry and Review of Syphilis Testing as It Pertains to Dermatologists.|https://dx.doi.org/10.1097/DAD.0000000000003230
+CHIKV-Infected Human Dermal Fibroblasts Mount an IFNβ Transcriptional Response Independent of TBK1/IKKε Signaling That Fails to Prevent Lethal Infection.|https://dx.doi.org/10.3390/v18050503
+Investigating the emergence of the Brazilian porcupinepox poxvirus in wild Brazilian porcupines (Coendou longicaudatus).|https://dx.doi.org/10.1038/s41598-026-55484-y
