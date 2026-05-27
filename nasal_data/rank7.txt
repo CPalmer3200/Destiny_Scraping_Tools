@@ -6,3 +6,8 @@ Isolation and identification of Pasteurella species and other bacterial organism
 Polymicrobial Multidrug-Resistant Infection and Fatal Bowel Ischemic Perforation After Urgent Heart Transplantation in a VA-ECMO-Bridged Recipient: A Case Report.|https://dx.doi.org/10.2147/IDR.S604688
 Relationship between airway stents and airway microorganisms: a literature review.|https://dx.doi.org/10.21037/jtd-2025-1-2649
 SroA links SigS-dependent stress signaling to metabolic remodeling in Staphylococcus aureus.|https://dx.doi.org/10.64898/2026.05.15.725384
+Antimicrobial effects of repeated 405 nm low-level-laser photobiomodulation: an In-vitro study on surgical wound pathogens.|https://dx.doi.org/10.1007/s10103-026-04897-2
+Oral Motion-Powered Smart Dental Implant Abutment for In Situ Antibacterial and Cell Adhesion Through Piezoelectric Effect.|https://dx.doi.org/10.1002/advs.202523944
+Spinal Epidural Empyema Associated with Bite Wounds in an Indian Crested Porcupine (Hystrix indica).|https://dx.doi.org/10.3390/vetsci13050432
+Effects of extended-release topical polyhexanide in a Staphylococcus aureus-induced murine dermatitis model characterized by IL-36 expression.|https://dx.doi.org/10.1080/09546634.2026.2667686
+Genomic Characterization of Selected ESKAPEEE Clinical Isolates From Mbarara Regional Referral Hospital, Southwestern Uganda: Resistome, Multilocus Sequence Typing, Mobilome, and Virulome.|https://dx.doi.org/10.7759/cureus.107624
