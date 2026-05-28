@@ -6,3 +6,7 @@ The role of whole genome sequencing in antimicrobial susceptibility prediction o
 Beta-Lactam Plus Azithromycin or Doxycycline vs Fluoroquinolones in Adult Patients Hospitalized With Community-Acquired Pneumonia: A Systematic Review and Network Meta-analysis.|https://dx.doi.org/10.1093/ofid/ofag253
 OutProFeed-Italy: a cluster randomized controlled trial of routine outcome monitoring and feedback-informed psychotherapy for outpatients.|https://dx.doi.org/10.1186/s13063-026-09693-5
 Hyaluronic acid concentration predictably modulates physicochemical properties and clinical performance in ophthalmic viscosurgical devices: integrated laboratory and prospective clinical assessment.|https://dx.doi.org/10.1186/s12886-026-04924-4
+Comparative efficacy of non-pharmacological therapies in adolescents with subthreshold depression: a systematic review and network meta-analysis.|https://dx.doi.org/10.3389/fpsyt.2026.1799128
+Depression in left-behind children: a network analysis and chained mediation of attachment and emotion regulation.|https://dx.doi.org/10.1186/s40359-026-04848-0
+Dual Analytical Evaluation of Generic Intravenous Vancomycin HCl in Saudi Arabia Using Microbiological and HPLC-DAD Approaches.|https://dx.doi.org/10.3390/antibiotics15050470
+Infection prevention, control and antimicrobial stewardship measures in intensive in-patient rehabilitation setting: a systematic review.|https://dx.doi.org/10.1186/s13756-026-01770-3
