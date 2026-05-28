@@ -68,3 +68,7 @@ Properties of Probiotic Bacterial Cellulose/κ-Carrageenan Based Hydrogel Having
 Hydrogel-Forming Ability and Biological Characterization of Exopolysaccharide (EPS) from Porphyridium cruentum.|https://dx.doi.org/10.3390/gels12050352
 Impact of cationic, anionic, and amphiphilic emulsifiers on the physicochemical properties and applications of xanthan gum-shea butter bigels.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152655
 Electrospun PVA-chitosan nanofibers with antibacterial properties for wound healing: unveiling the potential of low molecular weight chitosan.|https://dx.doi.org/10.1039/d6tb00497k
+A rhein-integrated hydrogel dressing with antibacterial, antioxidant and pH-responsive colorimetric properties.|https://dx.doi.org/10.1039/d6ra03047e
+Polyphenol-Metal Mediated Mitochondrial-Targeted Injectable Hydrogel Promotes Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.71249
+Silicon(IV) Phthalocyanine-Functionalized Hyaluronic Acid for Photodynamic Eradication of Methicillin-Resistant Staphylococcus aureus Infections.|https://dx.doi.org/10.1021/acsami.6c04742
+Modulating oxidative stress and bacterial infection with carbon dot-infused bioactive hydrogels for infected wound regeneration.|https://dx.doi.org/10.1039/d6tb00424e

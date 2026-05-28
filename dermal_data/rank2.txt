@@ -49,3 +49,6 @@ Hypofibrinogenemia Induced by Eravacycline: A Rare but Serious Adverse Effect of
 Analysis of infection characteristics and clinical predictive indicators of different bacterial diabetic foot in Yunnan area.|https://dx.doi.org/10.3389/fendo.2026.1826314
 Curative outcomes with metal-containing TCM in diabetic foot ulcers unresponsive to standard therapy: a case series.|https://dx.doi.org/10.3389/fendo.2026.1736055
 Associations of a nursing care bundle with clinical outcomes in patients with severe burns and inhalation injury: a retrospective cohort study.|https://dx.doi.org/10.3389/fmed.2026.1809662
+Biofilm-Host Immune Crosstalk at the Diabetic Foot Ulcer Interface: Molecular Mechanisms, Immune Evasion, and Next-Generation Anti-Biofilm Strategies.|https://dx.doi.org/10.2147/DMSO.S608789
+Stimuli-responsive microneedles: Engineered solutions for multifaceted diabetic wound healing.|https://dx.doi.org/10.1177/22808000261456607
+Inflammatory cytokines and metabolic pathways in osteomyelitis: Mendelian randomization insights and experimental validation.|https://dx.doi.org/10.17219/acem/211133
