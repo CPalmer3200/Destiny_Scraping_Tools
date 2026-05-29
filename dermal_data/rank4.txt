@@ -72,3 +72,4 @@ A rhein-integrated hydrogel dressing with antibacterial, antioxidant and pH-resp
 Polyphenol-Metal Mediated Mitochondrial-Targeted Injectable Hydrogel Promotes Diabetic Wound Healing.|https://dx.doi.org/10.1002/adhm.71249
 Silicon(IV) Phthalocyanine-Functionalized Hyaluronic Acid for Photodynamic Eradication of Methicillin-Resistant Staphylococcus aureus Infections.|https://dx.doi.org/10.1021/acsami.6c04742
 Modulating oxidative stress and bacterial infection with carbon dot-infused bioactive hydrogels for infected wound regeneration.|https://dx.doi.org/10.1039/d6tb00424e
+Preliminary study on the application of guar gum-based hydrogel in sepsis therapy.|https://dx.doi.org/10.1590/1519-6984.301042
