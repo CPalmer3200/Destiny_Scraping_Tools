@@ -4,3 +4,4 @@ Cycle thresholds and discordant 2-step testing for Clostridioides Difficile: Com
 Sepsis associated with Clostridioides difficile infection carries similar mortality to sepsis of other origin: a propensity score-matched analysis.|https://dx.doi.org/10.1038/s41598-026-53859-9
 Clinical Outcomes and Risk Factors of Healthcare-Associated Infections in Surgical Wards: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/medicina62050995
 Quantifying the contributions of asymptomatic and symptomatic colonized patients to Clostridioides difficile acquisition in oncological units.|https://dx.doi.org/10.64898/2026.05.08.26352751
+Incidence of Clostridium difficile infection and enteric pathogens in children with inflammatory bowel disease presenting with disease exacerbation.|https://dx.doi.org/10.3389/fped.2026.1808589

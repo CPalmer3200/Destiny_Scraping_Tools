@@ -1,0 +1,2 @@
+Milsaperidone: First Approval.|https://dx.doi.org/10.1007/s40261-026-01562-y
+A knowledge graph framework for digital twins of chemical processes.|https://dx.doi.org/10.1038/s44286-026-00392-1
