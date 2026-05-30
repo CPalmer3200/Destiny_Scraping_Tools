@@ -29,3 +29,8 @@ Capsular Contracture in Implant-Based Breast Reconstruction: A Comprehensive Nar
 In Vitro Antifungal and Wound-Healing Potential of Ferulago cassia and Ferulago silaifolia Essential Oils in Skin Candidiasis.|https://dx.doi.org/10.3390/antibiotics15050471
 Quercetin-zinc based metal-phenolic networks ameliorate psoriasis by rebalancing the microbiota-immune-epidermis homeostasis.|https://dx.doi.org/10.1016/j.jconrel.2026.115052
 Advanced Grafting Biomaterials and Technologies in Chronic Wound Care: Mechanisms, Clinical Outcomes, and Therapeutic Integration.|https://dx.doi.org/10.3390/jfb17050239
+Ultrasound-stimulated BTO-BSA-gen inhibits implant-associated infections by suppressing bacterial adhesion and potentiating aminoglycosides.|https://dx.doi.org/10.1186/s12951-026-04597-7
+Antiseptic chitosan acetate-chlorhexidine spray for wound cleaning.|https://dx.doi.org/10.1007/s10856-026-07084-5
+Cleaning and debridement in wound care: a review of wound infection management and the role of multidimensional dressings.|https://dx.doi.org/10.12968/bjcn.2025.0243
+Epidemiology, Distribution, Key Characteristics, and Challenges of Candidozyma auris (Formerly Candida auris): A Narrative Review With a Special Focus on Türkiye.|https://dx.doi.org/10.7759/cureus.107778
+Cell-based drug delivery for combating bacteria: focus on refractory infections.|https://dx.doi.org/10.1186/s12951-026-04589-7

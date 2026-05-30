@@ -11,3 +11,4 @@ Chitosan and Solid Lipid Nanoparticles as Nano-carriers of Chamomile oil Against
 A microenvironment-adaptive bilayer composite dressing for disrupting MRSA biofilms and promoting wound regeneration via ROS-mediated immune regulation.|https://dx.doi.org/10.1016/j.bioactmat.2026.05.013
 Epidemiological Study of the Relationship Between Antimicrobial Resistance Genes and Biofilm-Forming Capacity in Pathogens Causing Chronic Wound Infections.|https://dx.doi.org/10.3390/microorganisms14051117
 Quorum Sensing and Quorum Quenching in Pseudomonas aeruginosa and Staphylococcus aureus Infections: Therapeutic Potential, Limitations and Clinical Challenges.|https://dx.doi.org/10.3390/antibiotics15050447
+Self-Powered Piezoelectric Nanofibrous Hydrogel for Synergistic Electro-Pharmacological Therapy of Chronic Wounds.|https://dx.doi.org/10.1002/adhm.71297

@@ -52,3 +52,7 @@ Associations of a nursing care bundle with clinical outcomes in patients with se
 Biofilm-Host Immune Crosstalk at the Diabetic Foot Ulcer Interface: Molecular Mechanisms, Immune Evasion, and Next-Generation Anti-Biofilm Strategies.|https://dx.doi.org/10.2147/DMSO.S608789
 Stimuli-responsive microneedles: Engineered solutions for multifaceted diabetic wound healing.|https://dx.doi.org/10.1177/22808000261456607
 Inflammatory cytokines and metabolic pathways in osteomyelitis: Mendelian randomization insights and experimental validation.|https://dx.doi.org/10.17219/acem/211133
+Antibiotic-Loaded Polymethyl Methacrylate Cement Drives Fibroblast-Mediated Angiogenesis via LOXL2 to Accelerate Diabetic Foot Ulcer Healing.|https://dx.doi.org/10.1096/fj.202600478R
+Incidence, risk factors and sequelae of long/post-COVID in people with diabetes compared to people without diabetes in Germany (longcovid-diab): a study protocol.|https://dx.doi.org/10.1186/s12933-026-03222-z
+Diabetic Deformities of the Lesser Toes.|https://dx.doi.org/10.1016/j.cpm.2026.02.007
+A multidisciplinary expert consensus framework for diabetic foot disease management in the Gulf Cooperation Council: A modified Delphi study.|https://dx.doi.org/10.1016/j.diabres.2026.113344

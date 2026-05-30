@@ -9,3 +9,4 @@ Skin biopsy PCR enables rapid diagnosis of tattoo-associated staphylococcal toxi
 Proteomic and metabolomic profiling of methicillin-resistant Staphylococcus aureus associated with invasive vs. non-invasive infections: uncovering key biomarkers and pathogenic pathways.|https://dx.doi.org/10.3389/fmicb.2026.1798070
 mNGS-Supported Interpretation of Staphylococcus pettenkoferi Bloodstream Infection After Intracerebral Hemorrhage: A Case Report.|https://dx.doi.org/10.2147/IDR.S611927
 Sternoclavicular Joint Infection Caused by Staphylococcus capitis.|https://dx.doi.org/10.3791/70566
+Septic pulmonary embolism in Somali children: a retrospective study from a tertiary hospital.|https://dx.doi.org/10.3389/fped.2026.1804752

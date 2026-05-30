@@ -10,3 +10,4 @@ Multi-Kingdom Synergy of Perilla frutescens-Derived Effector Vesicles and Postbi
 Effects of extended-release topical polyhexanide in a Staphylococcus aureus-induced murine dermatitis model characterized by IL-36 expression.|https://dx.doi.org/10.1080/09546634.2026.2667686
 Correlation between Staphylococcus aureus colonization and disease severity in atopic dermatitis: a systematic review and meta-analysis of randomized controlled trials.|https://dx.doi.org/10.3389/fimmu.2026.1820411
 Potential Dupilumab-Induced Unmasking of Specific Immunoglobulin Deficiency: A First-of-Its-Kind Case.|https://dx.doi.org/10.1155/crpu/5248606
+Beyond T helper 2 cells: Integrating immune, barrier, microbial, and neuroimmune pathways in atopic dermatitis pathogenesis.|https://dx.doi.org/10.1016/j.jaad.2026.01.076
