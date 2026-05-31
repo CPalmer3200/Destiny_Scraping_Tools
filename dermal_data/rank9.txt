@@ -10,3 +10,4 @@ Proteomic and metabolomic profiling of methicillin-resistant Staphylococcus aure
 mNGS-Supported Interpretation of Staphylococcus pettenkoferi Bloodstream Infection After Intracerebral Hemorrhage: A Case Report.|https://dx.doi.org/10.2147/IDR.S611927
 Sternoclavicular Joint Infection Caused by Staphylococcus capitis.|https://dx.doi.org/10.3791/70566
 Septic pulmonary embolism in Somali children: a retrospective study from a tertiary hospital.|https://dx.doi.org/10.3389/fped.2026.1804752
+Targeting of Staphyloxanthin and α-Hemolysin by Natural Compound L-Malic Acid Suppresses Staphylococcus aureus Virulence.|https://dx.doi.org/10.1096/fj.202600917R

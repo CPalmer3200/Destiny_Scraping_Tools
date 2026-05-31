@@ -12,3 +12,4 @@ A microenvironment-adaptive bilayer composite dressing for disrupting MRSA biofi
 Epidemiological Study of the Relationship Between Antimicrobial Resistance Genes and Biofilm-Forming Capacity in Pathogens Causing Chronic Wound Infections.|https://dx.doi.org/10.3390/microorganisms14051117
 Quorum Sensing and Quorum Quenching in Pseudomonas aeruginosa and Staphylococcus aureus Infections: Therapeutic Potential, Limitations and Clinical Challenges.|https://dx.doi.org/10.3390/antibiotics15050447
 Self-Powered Piezoelectric Nanofibrous Hydrogel for Synergistic Electro-Pharmacological Therapy of Chronic Wounds.|https://dx.doi.org/10.1002/adhm.71297
+Multifunctional sericin-protocatechualdehyde‑silver sulfadiazine bioactive hydrogel with dual antibacterial and antioxidant activities for managing chronic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152812

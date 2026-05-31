@@ -56,3 +56,6 @@ Antibiotic-Loaded Polymethyl Methacrylate Cement Drives Fibroblast-Mediated Angi
 Incidence, risk factors and sequelae of long/post-COVID in people with diabetes compared to people without diabetes in Germany (longcovid-diab): a study protocol.|https://dx.doi.org/10.1186/s12933-026-03222-z
 Diabetic Deformities of the Lesser Toes.|https://dx.doi.org/10.1016/j.cpm.2026.02.007
 A multidisciplinary expert consensus framework for diabetic foot disease management in the Gulf Cooperation Council: A modified Delphi study.|https://dx.doi.org/10.1016/j.diabres.2026.113344
+Tissue and Serum Concentrations of Time-Dependent Antibiotics in Infected Diabetic Foot Ulcers by Bolus or Continuous Administration: The Randomised DFIATIM Trial.|https://dx.doi.org/10.1002/dmrr.70185
+Preoperative GLP-1 Receptor Agonist Use Is Not Associated With Increased Risk of Pseudoarthrosis Following Midfoot Fusion: A Propensity-Matched Analysis.|https://dx.doi.org/10.1053/j.jfas.2026.05.015
+Early Surgical Complication Rates Following Elective Minimally Invasive Surgery Hallux Valgus in Diabetic Patients: A Matched Cohort Analysis.|https://dx.doi.org/10.1177/10711007261444266

@@ -12,3 +12,4 @@ Postoperative complications after subpectoral versus prepectoral implant-based b
 A Case of False-Positive Treponema Pallidum Immunohistochemistry and Review of Syphilis Testing as It Pertains to Dermatologists.|https://dx.doi.org/10.1097/DAD.0000000000003230
 CHIKV-Infected Human Dermal Fibroblasts Mount an IFNβ Transcriptional Response Independent of TBK1/IKKε Signaling That Fails to Prevent Lethal Infection.|https://dx.doi.org/10.3390/v18050503
 Investigating the emergence of the Brazilian porcupinepox poxvirus in wild Brazilian porcupines (Coendou longicaudatus).|https://dx.doi.org/10.1038/s41598-026-55484-y
+High-level secretory production of a highly hydrophilic human-like type III collagen in Komagataella phaffii by a multicopy genomic integration strategy.|https://dx.doi.org/10.1007/s10529-026-03746-0

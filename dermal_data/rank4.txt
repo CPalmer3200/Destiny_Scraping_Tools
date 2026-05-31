@@ -77,3 +77,4 @@ Single NIR laser-triggered multifunctional composite hydrogel for bacterial dete
 pH-responsive alginate/gelatin-based hydrogel with antibacterial and antioxidant properties for enhanced infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152749
 Self-adaptive nanozymes with enhanced multi-enzyme activities for sequential multimodal therapy of drug-resistant bacteria-infected wounds.|https://dx.doi.org/10.1038/s41467-026-73672-2
 A wireless battery-free intelligent system for in situ bacterial virulence detection and advanced wound therapy.|https://dx.doi.org/10.1016/j.bios.2026.118859
+Injectable thiol-yne-crosslinked γ-PGA/alginate hydrogels with chlorogenic acid-loaded nanoparticles for antibacterial and antioxidant activity.|https://dx.doi.org/10.1016/j.colsurfb.2026.115856
