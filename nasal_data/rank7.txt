@@ -31,3 +31,5 @@ Aetiology and Antibiotic Susceptibility of Common Bacterial Infections in Hospit
 What does infection cost? A comparative analysis of shoulder, hip, and knee two-stage revision procedures.|https://dx.doi.org/10.1016/j.jcot.2026.103489
 A case of purulent spondylitis with iliopsoas/epidural abscess caused by ST8-SCCmecIVl community-acquired methicillin-resistant Staphylococcus aureus (CA-MRSA/J), a unique MRSA clone in Japan.|https://dx.doi.org/10.1016/j.ijregi.2026.100900
 Influencing viable oral bacteria in the patient's oral cavity and on the dentist's mask.|https://dx.doi.org/10.1186/s12903-026-08628-5
+Thermosensitive in situ Hydrogel Based on Benzalkonium Chloride-Loaded Selenium-Doped Mesoporous Silica Nanoparticles for Diabetic Chronic Wound Treatment.|https://dx.doi.org/10.2147/IJN.S594500
+Botryomycosis: A Case Series and Literature Review in Mexico.|https://dx.doi.org/10.7759/cureus.107815
