@@ -59,3 +59,4 @@ A multidisciplinary expert consensus framework for diabetic foot disease managem
 Tissue and Serum Concentrations of Time-Dependent Antibiotics in Infected Diabetic Foot Ulcers by Bolus or Continuous Administration: The Randomised DFIATIM Trial.|https://dx.doi.org/10.1002/dmrr.70185
 Preoperative GLP-1 Receptor Agonist Use Is Not Associated With Increased Risk of Pseudoarthrosis Following Midfoot Fusion: A Propensity-Matched Analysis.|https://dx.doi.org/10.1053/j.jfas.2026.05.015
 Early Surgical Complication Rates Following Elective Minimally Invasive Surgery Hallux Valgus in Diabetic Patients: A Matched Cohort Analysis.|https://dx.doi.org/10.1177/10711007261444266
+Infection following foot and ankle surgery : a subanalysis of data captured from the UK Foot and Ankle Thromboembolism (FATE) audit.|https://dx.doi.org/10.1302/0301-620X.108B6.BJJ-2025-1345.R1

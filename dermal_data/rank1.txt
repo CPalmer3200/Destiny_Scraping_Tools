@@ -13,3 +13,4 @@ Epidemiological Study of the Relationship Between Antimicrobial Resistance Genes
 Quorum Sensing and Quorum Quenching in Pseudomonas aeruginosa and Staphylococcus aureus Infections: Therapeutic Potential, Limitations and Clinical Challenges.|https://dx.doi.org/10.3390/antibiotics15050447
 Self-Powered Piezoelectric Nanofibrous Hydrogel for Synergistic Electro-Pharmacological Therapy of Chronic Wounds.|https://dx.doi.org/10.1002/adhm.71297
 Multifunctional sericin-protocatechualdehyde‑silver sulfadiazine bioactive hydrogel with dual antibacterial and antioxidant activities for managing chronic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152812
+Serious Adverse Events Following COVID-19 Vaccination: A Descriptive Case Series From a Rural Healthcare System.|https://dx.doi.org/10.7759/cureus.108030

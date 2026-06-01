@@ -78,3 +78,6 @@ pH-responsive alginate/gelatin-based hydrogel with antibacterial and antioxidant
 Self-adaptive nanozymes with enhanced multi-enzyme activities for sequential multimodal therapy of drug-resistant bacteria-infected wounds.|https://dx.doi.org/10.1038/s41467-026-73672-2
 A wireless battery-free intelligent system for in situ bacterial virulence detection and advanced wound therapy.|https://dx.doi.org/10.1016/j.bios.2026.118859
 Injectable thiol-yne-crosslinked γ-PGA/alginate hydrogels with chlorogenic acid-loaded nanoparticles for antibacterial and antioxidant activity.|https://dx.doi.org/10.1016/j.colsurfb.2026.115856
+Thermosensitive in situ Hydrogel Based on Benzalkonium Chloride-Loaded Selenium-Doped Mesoporous Silica Nanoparticles for Diabetic Chronic Wound Treatment.|https://dx.doi.org/10.2147/IJN.S594500
+A high-amylose maize starch hydrogel mask for stabilized encapsulation of thyme essential oil with Higuchi-controlled release.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152819
+Tannic acid enhanced silk fibroin/hyaluronic acid hydrogel for In vitro hemostatic and antibacterial wound dressing.|https://dx.doi.org/10.1080/09205063.2026.2679149
