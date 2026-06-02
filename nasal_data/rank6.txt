@@ -2,3 +2,4 @@ ESKAPE pathogens and antimicrobial resistance: emerging trends and therapeutic c
 Impact of cationic, anionic, and amphiphilic emulsifiers on the physicochemical properties and applications of xanthan gum-shea butter bigels.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152655
 Exploring the Vaccine Adjuvant Effect and Mechanism of Epimedium Using Network Pharmacology, Molecular Docking, and Molecular Dynamics Simulations.|https://dx.doi.org/10.3390/vaccines14050385
 Serious Adverse Events Following COVID-19 Vaccination: A Descriptive Case Series From a Rural Healthcare System.|https://dx.doi.org/10.7759/cureus.108030
+A multicomponent control programme in nursing homes in Singapore.|https://dx.doi.org/10.47102/annals-acadmedsg.2026237
