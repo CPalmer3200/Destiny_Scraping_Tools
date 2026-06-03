@@ -6,3 +6,4 @@ Microbiological Analysis Following Periodontal Treatment in Individuals with Bro
 Mitral valve endocarditis-induced thromboembolic and hypercoagulable disease in a rhesus macaque, with a literature review.|https://dx.doi.org/10.1177/10406387261450493
 Efficacy and Safety of Finafloxacin Otic Suspension, 0.3% for the Treatment of Acute Otitis Externa: Results from two Phase III Ranomized Clinical Studies.|https://dx.doi.org/10.1177/00034894261453726
 Swab Testing to Optimize Pneumonia Treatment With Empiric Vancomycin: A Randomized Controlled Trial.|https://dx.doi.org/10.1093/cid/ciag295
+Association between Staphylococcus aureus colonization and clinical improvement in pediatric atopic dermatitis treated with dupilumab: a pilot study.|https://dx.doi.org/10.3389/fmed.2026.1836967
