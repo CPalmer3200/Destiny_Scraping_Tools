@@ -39,3 +39,4 @@ An Antioxidant Hydrogel Based on Chitosan/Dextran with Composited Polydopamine-C
 Service Ready Ambulance Surfaces and Emergency Medical Services Clinicians are Routinely Contaminated with Clinically Important Pathogens.|https://dx.doi.org/10.1080/10903127.2026.2681882
 Engineered skin commensal nanogels mitigate psoriasiform inflammation through dual regulation of cutaneous flora and host immunity.|https://dx.doi.org/10.1016/j.mtbio.2026.103267
 Beyond livestock: the genomic evolution and expansion of MRSA CC398 as a healthcare- and community-associated pathogen (2017-2024).|https://dx.doi.org/10.1099/mgen.0.001741
+Association between nanoparticle-impregnated textiles and reduced ventilator-associated pneumonia rates in the ICU: an interrupted time-series analysis.|https://dx.doi.org/10.1016/j.ajic.2026.05.021

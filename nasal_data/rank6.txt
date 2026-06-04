@@ -3,3 +3,4 @@ Impact of cationic, anionic, and amphiphilic emulsifiers on the physicochemical 
 Exploring the Vaccine Adjuvant Effect and Mechanism of Epimedium Using Network Pharmacology, Molecular Docking, and Molecular Dynamics Simulations.|https://dx.doi.org/10.3390/vaccines14050385
 Serious Adverse Events Following COVID-19 Vaccination: A Descriptive Case Series From a Rural Healthcare System.|https://dx.doi.org/10.7759/cureus.108030
 A multicomponent control programme in nursing homes in Singapore.|https://dx.doi.org/10.47102/annals-acadmedsg.2026237
+Design of a multi-epitope Staphylococcus aureus vaccine integrating a protein A variant, α-hemolysin, and fibronectin-binding protein A through reverse vaccinology.|https://dx.doi.org/10.1038/s41598-026-54286-6
