@@ -5,3 +5,6 @@ Engineered skin commensal nanogels mitigate psoriasiform inflammation through du
 Multifunctional chitosan cryogel bandages via column-flow synthesis for simultaneous hemostasis and anti-biofilm therapy.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152852
 Multifunctional hierarchical porous structured aerogel as a self-pumping dressing for enhanced wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152855
 Multifunctional light-activated hydrogel: Synergistic photothermal sterilization and tissue microenvironment engineering for enhanced wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.214973
+Controlled Glutathione-Releasing Multifunctional Gelatin Methacryloyl/Chitosan/Zeolite Hydrogels for Accelerated Regeneration in Diabetic Wounds.|https://dx.doi.org/10.1002/jbm.a.70101
+Influence of impregnation of samarium oxide into xanthan gum hydrogels on antimicrobial, antioxidant, swelling, drug delivery and biomedical properties.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152878
+Development of HPMC-modified starch/ZnO nanocomposite films using biodegradable plasticizers for improved antioxidant, antimicrobial, and cytocompatible characteristics.|https://dx.doi.org/10.1080/09205063.2026.2681004
