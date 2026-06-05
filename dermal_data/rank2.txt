@@ -7,3 +7,6 @@ Assessing the Outcomes and Complications of Skin Allografts in Healing Diabetic 
 WGS reveals high-risk clones of Pseudomonas aeruginosa harbouring extensive antimicrobial and predicted anti-phage defense systems recovered from diabetic foot ulcer patients in Egypt.|https://dx.doi.org/10.1186/s12866-026-05145-x
 Janus nanofiber membrane integrates exudate management and immunomodulation for enhanced diabetic wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115873
 Stepwise Interpretation of Albumin Fraction Abnormalities on Serum Protein Capillary Electrophoresis in Nephrotic Syndrome: A Case Series.|https://dx.doi.org/10.61882/ijkd.20.02.9386
+Current trends in electrospun nanofibers combined with mesenchymal stem cells for diabetic foot ulcer repair and regenerative therapy.|https://dx.doi.org/10.1016/j.isci.2026.116149
+Metagenomic characterization of infected diabetic foot ulcers in North Africa: microbial diversity, virulome, and resistome profiling.|https://dx.doi.org/10.3389/fmicb.2026.1825173
+Molecular networking-based GC/MS profiling of Citrus japonica Thunb. peel and pulp lipophilic fractions and their antimicrobial potential against diabetic foot ulcer pathogens.|https://dx.doi.org/10.1038/s41598-026-55298-y
