@@ -40,3 +40,9 @@ Service Ready Ambulance Surfaces and Emergency Medical Services Clinicians are R
 Engineered skin commensal nanogels mitigate psoriasiform inflammation through dual regulation of cutaneous flora and host immunity.|https://dx.doi.org/10.1016/j.mtbio.2026.103267
 Beyond livestock: the genomic evolution and expansion of MRSA CC398 as a healthcare- and community-associated pathogen (2017-2024).|https://dx.doi.org/10.1099/mgen.0.001741
 Association between nanoparticle-impregnated textiles and reduced ventilator-associated pneumonia rates in the ICU: an interrupted time-series analysis.|https://dx.doi.org/10.1016/j.ajic.2026.05.021
+Synergistic corrosion protection and bacterial control in a UV-cured UA coating containing TiO(2)-polyaniline-calixarene nanocomposite.|https://dx.doi.org/10.1038/s41598-026-55526-5
+Endocarditis-Associated Mycotic Aneurysms of Stented and Native Coronary Arteries.|https://dx.doi.org/10.1016/j.jaccas.2026.107949
+Defining the transcriptional adaptation of Staphylococcus aureus to a range of nutritional sulfur supplementation.|https://dx.doi.org/10.64898/2026.05.20.726469
+Functionalized polysaccharides for infection-resistant and regenerative therapies in gynecology.|https://dx.doi.org/10.1016/j.ijpx.2026.100568
+Prevalence and Antimicrobial Susceptibility Patterns of Nosocomial Bacteria across Different Units at King Faisal Complex Hospital, Taif, Kingdom of Saudi Arabia.|https://dx.doi.org/10.15537/1658-3175.8788
+Surgical management of recurrent MRSA empyema with eloesser flap in a complex thoracic patient: lessons from endobronchial valve failure.|https://dx.doi.org/10.1186/s13019-026-04020-0
