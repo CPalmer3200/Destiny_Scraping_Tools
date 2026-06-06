@@ -2,3 +2,4 @@ Antibacterial Photodynamic Therapy Using Zinc Phthalocyanine Against Multidrug-r
 Rapid exploration of anti-MRSA components from plants of Salvia.|https://dx.doi.org/10.1007/s13659-026-00624-0
 Artificial Skin Dressing With pH-Switchable Nanozyme Activity for Bidirectional ROS Regulation in Infected Diabetic Wound Management.|https://dx.doi.org/10.1002/smll.74014
 [Antibacterial activity and mechanism of the antiparasitic drug resorantel against Staphylococcus epidermidis].|https://dx.doi.org/10.11817/j.issn.1672-7347.2026.250544
+Next-generation antimicrobial dermal matrix eradicates polymicrobial biofilms and modulates inflammation in in vitro and ex vivo wound models.|https://dx.doi.org/10.1038/s41598-026-56793-y

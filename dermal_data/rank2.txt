@@ -10,3 +10,5 @@ Stepwise Interpretation of Albumin Fraction Abnormalities on Serum Protein Capil
 Current trends in electrospun nanofibers combined with mesenchymal stem cells for diabetic foot ulcer repair and regenerative therapy.|https://dx.doi.org/10.1016/j.isci.2026.116149
 Metagenomic characterization of infected diabetic foot ulcers in North Africa: microbial diversity, virulome, and resistome profiling.|https://dx.doi.org/10.3389/fmicb.2026.1825173
 Molecular networking-based GC/MS profiling of Citrus japonica Thunb. peel and pulp lipophilic fractions and their antimicrobial potential against diabetic foot ulcer pathogens.|https://dx.doi.org/10.1038/s41598-026-55298-y
+Readmissions within 90 days in patients with diabetic foot ulcers undergoing soft tissue reconstruction: risk factor analysis.|https://dx.doi.org/10.12968/jowc.2024.0225
+Safety and efficacy of a novel antimicrobial wound dressing compared with a standard dressing in diabetic foot ulcers.|https://dx.doi.org/10.12968/jowc.2024.0190

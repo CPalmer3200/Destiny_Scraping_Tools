@@ -8,3 +8,4 @@ Multifunctional light-activated hydrogel: Synergistic photothermal sterilization
 Controlled Glutathione-Releasing Multifunctional Gelatin Methacryloyl/Chitosan/Zeolite Hydrogels for Accelerated Regeneration in Diabetic Wounds.|https://dx.doi.org/10.1002/jbm.a.70101
 Influence of impregnation of samarium oxide into xanthan gum hydrogels on antimicrobial, antioxidant, swelling, drug delivery and biomedical properties.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152878
 Development of HPMC-modified starch/ZnO nanocomposite films using biodegradable plasticizers for improved antioxidant, antimicrobial, and cytocompatible characteristics.|https://dx.doi.org/10.1080/09205063.2026.2681004
+Screening of Antimicrobial Peptides by Capillary Electrophoresis with a Photopolymerizable Bacterial Membrane Coating and Its Application in Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00579
