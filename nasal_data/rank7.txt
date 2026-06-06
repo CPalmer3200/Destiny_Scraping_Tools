@@ -46,3 +46,9 @@ Defining the transcriptional adaptation of Staphylococcus aureus to a range of n
 Functionalized polysaccharides for infection-resistant and regenerative therapies in gynecology.|https://dx.doi.org/10.1016/j.ijpx.2026.100568
 Prevalence and Antimicrobial Susceptibility Patterns of Nosocomial Bacteria across Different Units at King Faisal Complex Hospital, Taif, Kingdom of Saudi Arabia.|https://dx.doi.org/10.15537/1658-3175.8788
 Surgical management of recurrent MRSA empyema with eloesser flap in a complex thoracic patient: lessons from endobronchial valve failure.|https://dx.doi.org/10.1186/s13019-026-04020-0
+Escherichia coli vertebral osteomyelitis and spondylodiscitis following transurethral lithotripsy: a delayed complication possibly associated with untreated asymptomatic bacteriuria - a case report.|https://dx.doi.org/10.1186/s12879-026-13737-1
+A Korean native halophyte extract attenuates the virulence of methicillin-resistant Staphylococcus aureus by inhibiting biofilm formation.|https://dx.doi.org/10.1038/s41598-026-53460-0
+Antimicrobial resistance and virulence in polymicrobial chronic wound infections: A metagenomic perspective.|https://dx.doi.org/10.1016/j.jiph.2026.103280
+Outcomes Associated With Infective Endocarditis in Cardiac Intensive Care Unit Patients.|https://dx.doi.org/10.1016/j.mayocp.2026.01.021
+Probiotic potential of Enterococcus faecium SWUN5732 isolated from yak yogurt: integrated in vitro and in vivo evaluation for yak health.|https://dx.doi.org/10.14202/vetworld.2026.1581-1594
+The effects of far-UVC irradiation on the presence and concentration of ESKAPEE pathogens on hospital surfaces: Study protocol for a multi-site, double-blinded randomized controlled trial in La Paz, Bolivia.|https://dx.doi.org/10.1111/php.70110

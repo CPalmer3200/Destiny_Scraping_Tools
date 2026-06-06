@@ -11,3 +11,4 @@ Postoperative Complications Following Neoadjuvant Therapy Across Different Oncop
 Global burden of enteric infectious diseases, diarrhoeal diseases, and corresponding aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.|https://dx.doi.org/10.1016/S1473-3099(26)00194-5
 Intraoperative Versus Postoperative Correction of Vascular Compromise: Comparison of Flap and Patient Outcomes in Free Flap Breast Reconstruction.|https://dx.doi.org/10.1055/a-2886-9799
 Systemic Lupus Erythematosus in Complications of Mastectomies With or Without Reconstruction.|https://dx.doi.org/10.1016/j.jss.2026.04.022
+Mesh-free prepectoral breast reconstruction: a safe and effective alternative.|https://dx.doi.org/10.3389/fonc.2026.1816651
