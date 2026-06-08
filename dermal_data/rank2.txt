@@ -12,3 +12,4 @@ Metagenomic characterization of infected diabetic foot ulcers in North Africa: m
 Molecular networking-based GC/MS profiling of Citrus japonica Thunb. peel and pulp lipophilic fractions and their antimicrobial potential against diabetic foot ulcer pathogens.|https://dx.doi.org/10.1038/s41598-026-55298-y
 Readmissions within 90 days in patients with diabetic foot ulcers undergoing soft tissue reconstruction: risk factor analysis.|https://dx.doi.org/10.12968/jowc.2024.0225
 Safety and efficacy of a novel antimicrobial wound dressing compared with a standard dressing in diabetic foot ulcers.|https://dx.doi.org/10.12968/jowc.2024.0190
+Electrospun PCL/PVA core-sheath nanofibres enabling staged antibiotic and peptide delivery for diabetic foot ulcer dressings.|https://dx.doi.org/10.1016/j.ijpharm.2026.127062
