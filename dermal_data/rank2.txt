@@ -13,3 +13,9 @@ Molecular networking-based GC/MS profiling of Citrus japonica Thunb. peel and pu
 Readmissions within 90 days in patients with diabetic foot ulcers undergoing soft tissue reconstruction: risk factor analysis.|https://dx.doi.org/10.12968/jowc.2024.0225
 Safety and efficacy of a novel antimicrobial wound dressing compared with a standard dressing in diabetic foot ulcers.|https://dx.doi.org/10.12968/jowc.2024.0190
 Electrospun PCL/PVA core-sheath nanofibres enabling staged antibiotic and peptide delivery for diabetic foot ulcer dressings.|https://dx.doi.org/10.1016/j.ijpharm.2026.127062
+Epidemiology, antimicrobial resistance patterns, management, and predictors of mortality in diabetic foot infections in a Lebanese hospital: A retrospective observational study.|https://dx.doi.org/10.1016/j.jiph.2026.103282
+Multidrug resistance and inappropriate empiric therapy as predictors of hospital stay in diabetic foot infections.|https://dx.doi.org/10.1371/journal.pone.0350837
+Interpretable machine learning for predicting major amputation risk in hospitalized diabetic foot ulcer patients: a single-center study with temporal external validation.|https://dx.doi.org/10.3389/fendo.2026.1821550
+Analysis of pathogen distribution and association with lipid levels in patients with diabetic foot.|https://dx.doi.org/10.3389/fmed.2026.1799737
+Levofloxacin-associated leukocytoclastic vasculitis with bullous lesions in a man treated for a diabetic foot infection.|https://dx.doi.org/10.1016/j.idcr.2026.e02624
+Bullous Pemphigoid Mimicking Infection in a Diabetic Foot: A Diagnostic Challenge.|https://dx.doi.org/10.1097/GOX.0000000000007820
