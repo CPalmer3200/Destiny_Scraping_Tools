@@ -3,3 +3,6 @@ Rapid exploration of anti-MRSA components from plants of Salvia.|https://dx.doi.
 Artificial Skin Dressing With pH-Switchable Nanozyme Activity for Bidirectional ROS Regulation in Infected Diabetic Wound Management.|https://dx.doi.org/10.1002/smll.74014
 [Antibacterial activity and mechanism of the antiparasitic drug resorantel against Staphylococcus epidermidis].|https://dx.doi.org/10.11817/j.issn.1672-7347.2026.250544
 Next-generation antimicrobial dermal matrix eradicates polymicrobial biofilms and modulates inflammation in in vitro and ex vivo wound models.|https://dx.doi.org/10.1038/s41598-026-56793-y
+The Wor2 phenotypic switching regulator controls biofilm formation in Candida auris.|https://dx.doi.org/10.1038/s41522-026-01043-2
+Microbial contamination of medicines, medical devices, cosmetics, child and personal care products: a comprehensive review of secondary contamination risks in home-use settings.|https://dx.doi.org/10.3389/fmicb.2026.1836448
+Advanced azelaic acid hyalubilosome-loaded microneedles for potent anti-inflammatory, antioxidant, and antimicrobial for Acne treatment by up-regulation of Nrf2/HO-1 signaling pathway.|https://dx.doi.org/10.1016/j.ijpx.2026.100570

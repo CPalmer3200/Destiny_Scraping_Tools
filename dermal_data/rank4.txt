@@ -9,3 +9,7 @@ Controlled Glutathione-Releasing Multifunctional Gelatin Methacryloyl/Chitosan/Z
 Influence of impregnation of samarium oxide into xanthan gum hydrogels on antimicrobial, antioxidant, swelling, drug delivery and biomedical properties.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152878
 Development of HPMC-modified starch/ZnO nanocomposite films using biodegradable plasticizers for improved antioxidant, antimicrobial, and cytocompatible characteristics.|https://dx.doi.org/10.1080/09205063.2026.2681004
 Screening of Antimicrobial Peptides by Capillary Electrophoresis with a Photopolymerizable Bacterial Membrane Coating and Its Application in Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00579
+Preparation and Characterization of Biopolymeric-Based Orally Dissolving Mucoadhesive Hydrogels Loaded With Rosuvastatin for the Effective Treatment of Aphthous Ulcer.|https://dx.doi.org/10.1002/jbm.b.70108
+Polymer-stabilized amorphous CuO-ZnO hybrid nanocomplex as a promising candidate for antimicrobial therapy and controlled drug delivery with molecular docking insights.|https://dx.doi.org/10.1038/s41598-026-57132-x
+Photothermal-Responsive Multifunctional Hydrogels as Integrated Smart Carriers for Antibiotic Controlled Release and Infected Wound Therapy.|https://dx.doi.org/10.1021/acs.langmuir.6c01118
+An injectable hyaluronic acid hydrogel integrating Fe(iii)-coordination and polymyxin B grafts for accelerated healing of infected diabetic wounds.|https://dx.doi.org/10.1039/d6ra03137d

@@ -19,3 +19,6 @@ Interpretable machine learning for predicting major amputation risk in hospitali
 Analysis of pathogen distribution and association with lipid levels in patients with diabetic foot.|https://dx.doi.org/10.3389/fmed.2026.1799737
 Levofloxacin-associated leukocytoclastic vasculitis with bullous lesions in a man treated for a diabetic foot infection.|https://dx.doi.org/10.1016/j.idcr.2026.e02624
 Bullous Pemphigoid Mimicking Infection in a Diabetic Foot: A Diagnostic Challenge.|https://dx.doi.org/10.1097/GOX.0000000000007820
+MHR and CRP/Albumin Ratio Correlate with Wagner Grade in Diabetic Foot Ulcers: A Chinese Retrospective Study with Pathogen Analysis.|https://dx.doi.org/10.2147/DMSO.S605013
+International guideline on antimicrobial stewardship and the role of microbial-binding dressings in wound care 2026: infection prevention, control, early intervention and treatment.|https://dx.doi.org/10.12968/jowc.2026.0302
+Successful Limb Salvage in a Diabetic Septic Foot Using Anterolateral Thigh Free Flap Reconstruction: A Case Report.|https://dx.doi.org/10.7759/cureus.108422
