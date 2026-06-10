@@ -10,3 +10,5 @@ Association between Staphylococcus aureus colonization and clinical improvement 
 Prevalence, risk factors, and antimicrobial resistance of Staphylococcus aureus in equines in Egypt.|https://dx.doi.org/10.1038/s41598-026-55462-4
 Mupirocin Nasal Irrigation Following Endoscopic Sinus Surgery: A Prospective, Double-Blinded, Placebo-Controlled Trial.|https://dx.doi.org/10.1177/19458924261457253
 Acute exacerbation of chronic rhinosinusitis: clinical and microbiological perspectives from a Saudi tertiary care center.|https://dx.doi.org/10.5144/0256-4947.2026.188
+[Phenotype and Genotype of Staphylococcus aureus Isolated from the Nostrils of Elderly Adults in the Valparaíso Region, Chile, from June 2019 to January 2020].|https://dx.doi.org/10.4067/s0034-98872026000300301
+Microbial contamination of medicines, medical devices, cosmetics, child and personal care products: a comprehensive review of secondary contamination risks in home-use settings.|https://dx.doi.org/10.3389/fmicb.2026.1836448

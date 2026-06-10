@@ -54,3 +54,11 @@ Probiotic potential of Enterococcus faecium SWUN5732 isolated from yak yogurt: i
 The effects of far-UVC irradiation on the presence and concentration of ESKAPEE pathogens on hospital surfaces: Study protocol for a multi-site, double-blinded randomized controlled trial in La Paz, Bolivia.|https://dx.doi.org/10.1111/php.70110
 Copper-coordinated fungal chitosan sutures with antibacterial and pro-healing performance.|https://dx.doi.org/10.1016/j.colsurfb.2026.115882
 Bioinformatics Approaches for Functional and Structural Annotation and Molecular Docking Study of a Hypothetical Protein From Staphylococcus aureus.|https://dx.doi.org/10.1155/bmri/1109584
+The role of neutrophils and neutrophil extracellular traps in Staphylococcus aureus colonization in healthy and inflamed skin.|https://dx.doi.org/10.1016/j.jid.2026.04.006
+Using biofilm-targeting local antibiotics to treat recalcitrant medical device-associated infections: driveline infection as a model.|https://dx.doi.org/10.1093/jac/dkag203
+Anti-Methicillin-Resistant Staphylococcus aureus (MRSA) Cephalosporins Plus Daptomycin as Initial Therapy for MRSA Bacteremia: Does a "Hit Hard and Fast" Strategy Improve Outcomes?|https://dx.doi.org/10.1093/cid/ciag228
+Pacemaker Lead Endocarditis Secondary to Staphylococcus aureus Infection From a Flash Glucose Monitor Insertion Site in a Patient With Type 1 Diabetes: A Case Report.|https://dx.doi.org/10.7759/cureus.108483
+Factors associated with persistent postoperative hyperthermia in pediatric craniocerebral injury: a retrospective cohort study and preliminary risk score.|https://dx.doi.org/10.1186/s13741-026-00703-3
+Clinical profiles of patients with antibiotic-resistant infections at select tertiary hospitals in Uganda: a retrospective study of clinical records.|https://dx.doi.org/10.1186/s12879-026-13753-1
+Epidemiology, antimicrobial resistance patterns, management, and predictors of mortality in diabetic foot infections in a Lebanese hospital: A retrospective observational study.|https://dx.doi.org/10.1016/j.jiph.2026.103282
+Identification and Characterization of Sepsis Phenotypes in an Indian Cohort.|https://dx.doi.org/10.1155/ccrp/9921379

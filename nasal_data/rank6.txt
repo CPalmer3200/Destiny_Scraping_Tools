@@ -7,3 +7,7 @@ Design of a multi-epitope Staphylococcus aureus vaccine integrating a protein A 
 Mupirocin 2% ointment should be included in the treatment armamentarium for balanitis circumscripta plasmacellularis.|https://dx.doi.org/10.1016/j.jaad.2026.05.108
 Correction: The combination of mupirocin and Kayvirus broadens the decolonization effect against Staphylococcus aureus.|https://dx.doi.org/10.1007/s00253-026-13900-3
 The dynamic interplay between Staphylococcus pseudintermedius and canine immunity: mechanisms of pathogenesis, evasion, and vaccination perspectives.|https://dx.doi.org/10.3389/fcimb.2026.1812880
+Prevalence of diphtheria and antimicrobial-resistant wound infections among asylum seekers in Heidelberg, Germany, August-October 2024.|https://dx.doi.org/10.1371/journal.pone.0350513
+Reduced efficacy of an anti-toxin vaccine from senescence-driven attenuation of toxin virulence.|https://dx.doi.org/10.1172/jci.insight.199834
+The toxic effects of α-hemolysin and β-hemolysin produced by Staphylococcus aureus.|https://dx.doi.org/10.3389/fimmu.2026.1811267
+Enhancing cancer vaccine efficacy via electrostatic engineering of an FcγR-targeted protein.|https://dx.doi.org/10.3389/fimmu.2026.1831652
