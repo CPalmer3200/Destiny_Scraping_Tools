@@ -22,3 +22,6 @@ Bullous Pemphigoid Mimicking Infection in a Diabetic Foot: A Diagnostic Challeng
 MHR and CRP/Albumin Ratio Correlate with Wagner Grade in Diabetic Foot Ulcers: A Chinese Retrospective Study with Pathogen Analysis.|https://dx.doi.org/10.2147/DMSO.S605013
 International guideline on antimicrobial stewardship and the role of microbial-binding dressings in wound care 2026: infection prevention, control, early intervention and treatment.|https://dx.doi.org/10.12968/jowc.2026.0302
 Successful Limb Salvage in a Diabetic Septic Foot Using Anterolateral Thigh Free Flap Reconstruction: A Case Report.|https://dx.doi.org/10.7759/cureus.108422
+Lactate-to-Albumin Ratio for Predicting Intensive Care Unit Admission in Patients with Diabetic Foot Infection.|https://dx.doi.org/10.1177/15347346261460272
+Phylogenetic Profiling of the Diabetic Foot Ulcer Microbiome of an Afro-Caribbean Population.|https://dx.doi.org/10.1002/mbo3.70329
+Vinca Extract Infused Silk Fibroin Hydrogel for Treatment of Artificially Induced Diabetic Foot Ulcer in Murine Model.|https://dx.doi.org/10.1007/s12013-026-02089-x

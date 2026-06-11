@@ -13,3 +13,8 @@ Preparation and Characterization of Biopolymeric-Based Orally Dissolving Mucoadh
 Polymer-stabilized amorphous CuO-ZnO hybrid nanocomplex as a promising candidate for antimicrobial therapy and controlled drug delivery with molecular docking insights.|https://dx.doi.org/10.1038/s41598-026-57132-x
 Photothermal-Responsive Multifunctional Hydrogels as Integrated Smart Carriers for Antibiotic Controlled Release and Infected Wound Therapy.|https://dx.doi.org/10.1021/acs.langmuir.6c01118
 An injectable hyaluronic acid hydrogel integrating Fe(iii)-coordination and polymyxin B grafts for accelerated healing of infected diabetic wounds.|https://dx.doi.org/10.1039/d6ra03137d
+Electrospun Poly(caprolactone)/Poly(ethylene oxide) Membranes Incorporating Green-Synthesized Zinc Oxide Nanoparticles for Enhanced Wound Healing Applications.|https://dx.doi.org/10.1002/smsc.202500562
+Thiophene-Engineered Lipid II Recognition Enables Potent Membranolytic Eradication of MRSA.|https://dx.doi.org/10.1002/anie.5919230
+Coordination-Driven Cu(2+)-Peptide Supramolecular Hydrogel-PCL Scaffold for Synergistic Antibacterial Activity and Osteogenic Regeneration in Infectious Bone Defects.|https://dx.doi.org/10.1002/adhm.71342
+Functionalization of Chitosan with Silver Oxide and Berberis aristata for Bioactive Composites with In Vivo Wound Healing Evaluation.|https://dx.doi.org/10.1007/s12033-026-01587-w
+A Collagen Pickering Emulsion-Coated Mycelium Film with Hydro-Responsive Toughness and Adhesion for Psoriasis Treatment via Tea Tree Oil Release.|https://dx.doi.org/10.1021/acsabm.6c00759

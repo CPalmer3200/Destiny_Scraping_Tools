@@ -6,3 +6,6 @@ Next-generation antimicrobial dermal matrix eradicates polymicrobial biofilms an
 The Wor2 phenotypic switching regulator controls biofilm formation in Candida auris.|https://dx.doi.org/10.1038/s41522-026-01043-2
 Microbial contamination of medicines, medical devices, cosmetics, child and personal care products: a comprehensive review of secondary contamination risks in home-use settings.|https://dx.doi.org/10.3389/fmicb.2026.1836448
 Advanced azelaic acid hyalubilosome-loaded microneedles for potent anti-inflammatory, antioxidant, and antimicrobial for Acne treatment by up-regulation of Nrf2/HO-1 signaling pathway.|https://dx.doi.org/10.1016/j.ijpx.2026.100570
+Staphylococcal proliferation on skin models to investigate novel anti-infective treatments against dysbiosis.|https://dx.doi.org/10.1002/btm2.70124
+Multi-Targeting Carnosic Acid Kills Drug-Resistant Helicobacter pylori With Narrow-Spectrum Activity.|https://dx.doi.org/10.1002/advs.76080
+Bacteriophages in the treatment of cutaneous infections and skin disorders: therapeutic advances and future directions.|https://dx.doi.org/10.1128/cmr.00048-26
