@@ -11,3 +11,4 @@ Prevalence of diphtheria and antimicrobial-resistant wound infections among asyl
 Reduced efficacy of an anti-toxin vaccine from senescence-driven attenuation of toxin virulence.|https://dx.doi.org/10.1172/jci.insight.199834
 The toxic effects of α-hemolysin and β-hemolysin produced by Staphylococcus aureus.|https://dx.doi.org/10.3389/fimmu.2026.1811267
 Enhancing cancer vaccine efficacy via electrostatic engineering of an FcγR-targeted protein.|https://dx.doi.org/10.3389/fimmu.2026.1831652
+PLGA-PEG Nano-Adjuvant-Delivered ClfA Vaccine Elicits IL-17A-Mediated Neutrophil Activation to Confer Complete Protection Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.2147/IJN.S592819

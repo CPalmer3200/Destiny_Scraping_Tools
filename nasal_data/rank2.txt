@@ -12,3 +12,6 @@ Mupirocin Nasal Irrigation Following Endoscopic Sinus Surgery: A Prospective, Do
 Acute exacerbation of chronic rhinosinusitis: clinical and microbiological perspectives from a Saudi tertiary care center.|https://dx.doi.org/10.5144/0256-4947.2026.188
 [Phenotype and Genotype of Staphylococcus aureus Isolated from the Nostrils of Elderly Adults in the Valparaíso Region, Chile, from June 2019 to January 2020].|https://dx.doi.org/10.4067/s0034-98872026000300301
 Microbial contamination of medicines, medical devices, cosmetics, child and personal care products: a comprehensive review of secondary contamination risks in home-use settings.|https://dx.doi.org/10.3389/fmicb.2026.1836448
+Microbial Colonization and Potential Bacterial Translocation of High-Flow Nasal Cannula Circuits During Prolonged Use in Elderly Hospitalized Patients: A Prospective Observational Study.|https://dx.doi.org/10.2147/CIA.S589882
+Multidrug-resistant organism carriage in Vietnamese district hospitals before and after an antimicrobial stewardship intervention.|https://dx.doi.org/10.1186/s13756-026-01752-5
+A Quality Improvement Project to Increase Pharmacist-Initiated Methicillin Resistant Staphylococcus Aureus Nasal Swab PCR for Vancomycin De-Escalation in Pediatric Patients With Respiratory Tract Infections.|https://dx.doi.org/10.5863/JPPT-25-00080

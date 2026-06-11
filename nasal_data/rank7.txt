@@ -62,3 +62,10 @@ Factors associated with persistent postoperative hyperthermia in pediatric crani
 Clinical profiles of patients with antibiotic-resistant infections at select tertiary hospitals in Uganda: a retrospective study of clinical records.|https://dx.doi.org/10.1186/s12879-026-13753-1
 Epidemiology, antimicrobial resistance patterns, management, and predictors of mortality in diabetic foot infections in a Lebanese hospital: A retrospective observational study.|https://dx.doi.org/10.1016/j.jiph.2026.103282
 Identification and Characterization of Sepsis Phenotypes in an Indian Cohort.|https://dx.doi.org/10.1155/ccrp/9921379
+Sequential Multi-organism Periprosthetic Joint Infection after Total Hip Arthroplasty: A Case Report.|https://dx.doi.org/10.13107/jocr.2026.v16.i06.7524
+Case Report: Moxibustion-induced burns leading to disseminated methicillin-resistant Staphylococcus aureus infection in a patient with type 2 diabetes mellitus.|https://dx.doi.org/10.3389/fendo.2026.1860646
+Biogenic Caralluma sinaica-derived silver nanoparticles as a synergistic antibacterial and osteoinductive nanoplatform for osteomyelitis management.|https://dx.doi.org/10.3389/fmed.2026.1773089
+S. aureus colonization and clinical symptoms remain stable upon topical XZ.700 treatment: Results of a double-blind randomized clinical trial in patients with mild to moderate atopic dermatitis.|https://dx.doi.org/10.1002/bcp.70630
+Gut microbiota-derived short-chain fatty acids (SCFAs): immunomodulatory effects and therapeutic potential in infections.|https://dx.doi.org/10.1128/cmr.00368-25
+Current insights into bacterial secondary infection following influenza A virus infection.|https://dx.doi.org/10.3389/fmicb.2026.1851115
+Bloodstream Infections and Antibiotic Susceptibility Among Patients With Positive Blood Cultures at a Tertiary Care Hospital in Sri Lanka.|https://dx.doi.org/10.7759/cureus.108551
