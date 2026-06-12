@@ -69,3 +69,9 @@ S. aureus colonization and clinical symptoms remain stable upon topical XZ.700 t
 Gut microbiota-derived short-chain fatty acids (SCFAs): immunomodulatory effects and therapeutic potential in infections.|https://dx.doi.org/10.1128/cmr.00368-25
 Current insights into bacterial secondary infection following influenza A virus infection.|https://dx.doi.org/10.3389/fmicb.2026.1851115
 Bloodstream Infections and Antibiotic Susceptibility Among Patients With Positive Blood Cultures at a Tertiary Care Hospital in Sri Lanka.|https://dx.doi.org/10.7759/cureus.108551
+Development and Evaluation of a Multi-Panel Real-Time PCR Assay for Rapid Detection of Six Bacterial Species Causing Endophthalmitis.|https://dx.doi.org/10.1016/j.exer.2026.111123
+Clinical Outcomes and Genomic Epidemiology of Multidrug-Resistant Methicillin-Resistant Staphylococcus aureus Keratitis.|https://dx.doi.org/10.1016/j.ajo.2026.06.011
+Analyzing Bacterial Biofilm Formation on Cranioplasty Implants.|https://dx.doi.org/10.1016/j.joms.2026.05.067
+Deep neck space Infections in children: Peritonsillar, retropharyngeal, parapharyngeal, and Ludwig's angina emergencies in the pediatric emergency department.|https://dx.doi.org/10.1016/j.amjoto.2026.104864
+Mortality associated with healthcare-associated Staphylococcus aureus bacteraemia in Aotearoa New Zealand.|https://dx.doi.org/10.26635/6965.7321
+Characterising the Antimicrobial Performance of Engineered Layered Double Hydroxide Surfaces for Biofilm Control.|https://dx.doi.org/10.3390/nano16110666
