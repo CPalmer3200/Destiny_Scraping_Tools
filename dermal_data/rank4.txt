@@ -18,3 +18,8 @@ Thiophene-Engineered Lipid II Recognition Enables Potent Membranolytic Eradicati
 Coordination-Driven Cu(2+)-Peptide Supramolecular Hydrogel-PCL Scaffold for Synergistic Antibacterial Activity and Osteogenic Regeneration in Infectious Bone Defects.|https://dx.doi.org/10.1002/adhm.71342
 Functionalization of Chitosan with Silver Oxide and Berberis aristata for Bioactive Composites with In Vivo Wound Healing Evaluation.|https://dx.doi.org/10.1007/s12033-026-01587-w
 A Collagen Pickering Emulsion-Coated Mycelium Film with Hydro-Responsive Toughness and Adhesion for Psoriasis Treatment via Tea Tree Oil Release.|https://dx.doi.org/10.1021/acsabm.6c00759
+Chlorhexidine Surface-Immobilized via a Carboxylated Polymer Layer on ZnO Nanoparticle-Containing Polycaprolactone Fibers for Wound Dressings.|https://dx.doi.org/10.1021/acsami.6c10639
+Ammonium Glycyrrhizinate-Reinforced Dual-Network Poly(Thioctic Acid)-Based Hydrogel Dressing with Robust Wet Adhesion, Antibacterial Activity and Oxidative Stress Regulation.|https://dx.doi.org/10.3390/ma19112388
+MOF-Integrated Self-Healing Schiff Base Hydrogel for Antibacterial and Antioxidant Wound Treatment.|https://dx.doi.org/10.3390/ijms27114726
+NIR-responsive mild photothermal hydrogels for multimodal antibacterial therapy, immunomodulation, and regenerative repair of MRSA-infected wounds.|https://dx.doi.org/10.1186/s12951-026-04664-z
+A pH-responsive hydrogel based on polysaccharides incorporated with honeysuckle-derived exosome-like nanovesicles for the management of infected wound.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152976

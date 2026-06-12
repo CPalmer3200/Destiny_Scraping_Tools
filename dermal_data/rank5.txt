@@ -9,3 +9,6 @@ Advanced azelaic acid hyalubilosome-loaded microneedles for potent anti-inflamma
 Staphylococcal proliferation on skin models to investigate novel anti-infective treatments against dysbiosis.|https://dx.doi.org/10.1002/btm2.70124
 Multi-Targeting Carnosic Acid Kills Drug-Resistant Helicobacter pylori With Narrow-Spectrum Activity.|https://dx.doi.org/10.1002/advs.76080
 Bacteriophages in the treatment of cutaneous infections and skin disorders: therapeutic advances and future directions.|https://dx.doi.org/10.1128/cmr.00048-26
+Multifunctional Activity of Lippia gracilis Schauer Essential Oil Against Skin Infections.|https://dx.doi.org/10.3390/plants15111681
+Extracellular wax ester biosynthesis by staphylococcal lipases detoxifies skin fatty acids and shapes interspecies competition.|https://dx.doi.org/10.1093/ismejo/wrag148
+MicrobioME: a CURE model for diverse microbiology laboratory classrooms.|https://dx.doi.org/10.1128/jmbe.00298-25
