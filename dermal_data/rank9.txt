@@ -2,3 +2,7 @@ Antimicrobial photodynamic therapy with Ligularia fischeri extract and red light
 Desquamating dermatological conditions: The burns surgeon's guide to diagnosis and management.|https://dx.doi.org/10.1016/j.bjps.2026.05.013
 Prevalence, risk factors, and antimicrobial resistance of Staphylococcus aureus in equines in Egypt.|https://dx.doi.org/10.1038/s41598-026-55462-4
 Mechanisms underlying pyogenic bacterial infections of the skin.|https://dx.doi.org/10.1007/s00203-026-04987-3
+Engineering Nano-Antibiotics for Accelerating Wound Healing in Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.3390/molecules31111957
+Getting It Right the Second Time: How Can we Optimize First-Generation Cephalosporin Dosing for Skin and Soft Tissue Infections in the 21st Century?|https://dx.doi.org/10.1002/phar.70179
+The toxic effects of α-hemolysin and β-hemolysin produced by Staphylococcus aureus.|https://dx.doi.org/10.3389/fimmu.2026.1811267
+Phenotypic and genotypic characterization of Staphylococcus aureus, including MRSA and PVL-positive isolates, in Egyptian fruit bats.|https://dx.doi.org/10.1186/s12917-026-05591-9

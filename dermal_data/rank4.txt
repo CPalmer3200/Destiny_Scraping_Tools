@@ -23,3 +23,5 @@ Ammonium Glycyrrhizinate-Reinforced Dual-Network Poly(Thioctic Acid)-Based Hydro
 MOF-Integrated Self-Healing Schiff Base Hydrogel for Antibacterial and Antioxidant Wound Treatment.|https://dx.doi.org/10.3390/ijms27114726
 NIR-responsive mild photothermal hydrogels for multimodal antibacterial therapy, immunomodulation, and regenerative repair of MRSA-infected wounds.|https://dx.doi.org/10.1186/s12951-026-04664-z
 A pH-responsive hydrogel based on polysaccharides incorporated with honeysuckle-derived exosome-like nanovesicles for the management of infected wound.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152976
+RSM optimization of Tetracycline-loaded PLGA nanoparticles in chitosan/HPMC hydrogels for sustained antibacterial delivery.|https://dx.doi.org/10.1038/s41598-026-55938-3
+A Photothermally Active CuS-Nanocomposite Hydrogel for Postsurgical Melanoma Management and Tissue Regeneration.|https://dx.doi.org/10.1021/acsabm.6c00611
