@@ -22,3 +22,6 @@ Osteoradionecrosis of the chest wall in a patient with invasive ductal carcinoma
 Hyperbaric Oxygen Therapy for Ischemic Complications After Immediate Breast Reconstruction: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1007/s00266-026-05971-4
 Outcomes of Acellular Dermal Matrix Use in Radiated Implant-based Breast Reconstruction: A Systematic Review and Subgroup Meta-analysis.|https://dx.doi.org/10.1097/GOX.0000000000007768
 A peptide-induced regression of low-grade malignant breast tumor via activation of autophagy in breast cancer cells.|https://dx.doi.org/10.1186/s10020-026-01514-4
+Breast Implants: Biomaterials, Surfaces, Biocompatibility-A Biomedical Engineering Perspective.|https://dx.doi.org/10.3390/jcm15114031
+The Path to Independence: Progression in Entrustment Reflected in Entrustable Professional Activity Ratings.|https://dx.doi.org/10.1097/SLA.0000000000007114
+Accuracy of Allplex HPV HR Detection Full Genotyping Assay on Cervical Samples Compared to Vaginal Self-Samples.|https://dx.doi.org/10.1002/jmv.70982

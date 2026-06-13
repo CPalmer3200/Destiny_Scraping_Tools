@@ -75,3 +75,12 @@ Analyzing Bacterial Biofilm Formation on Cranioplasty Implants.|https://dx.doi.o
 Deep neck space Infections in children: Peritonsillar, retropharyngeal, parapharyngeal, and Ludwig's angina emergencies in the pediatric emergency department.|https://dx.doi.org/10.1016/j.amjoto.2026.104864
 Mortality associated with healthcare-associated Staphylococcus aureus bacteraemia in Aotearoa New Zealand.|https://dx.doi.org/10.26635/6965.7321
 Characterising the Antimicrobial Performance of Engineered Layered Double Hydroxide Surfaces for Biofilm Control.|https://dx.doi.org/10.3390/nano16110666
+Spatiotemporal dynamics and antimicrobial resistance of bacterial pathogens recovered from various fomites at a paediatric care facility in Ghana.|https://dx.doi.org/10.1038/s41598-026-37639-z
+Cystic Fibrosis-Associated Inflammatory Bowel Disease: a Case Series and Literature Review.|https://dx.doi.org/10.1016/j.clinre.2026.102867
+Delayed Scalp Infection After Titanium Mesh Cranioplasty Managed With Implant Removal and Negative Pressure Wound Therapy.|https://dx.doi.org/10.1097/SCS.0000000000012983
+A Photothermally Active CuS-Nanocomposite Hydrogel for Postsurgical Melanoma Management and Tissue Regeneration.|https://dx.doi.org/10.1021/acsabm.6c00611
+Identification of a potential novel Staphylococcus species via genomic sequencing: A neonatal infection case report.|https://dx.doi.org/10.1016/j.idcr.2026.e02631
+Maternal vaginal colonization screening for term singleton pregnancy: comparative evaluation of metagenomic next-generation sequencing (mNGS) versus real-time quantitative PCR (qPCR).|https://dx.doi.org/10.1016/j.plabm.2026.e00542
+Short-term functional outcome and pain assessment after spinal decompression for spondylodiscitis.|https://dx.doi.org/10.25122/jml-2026-0014
+Staphylococcus aureus With Reduced Vancomycin Susceptibility: Diagnostic Challenges in Clinical Settings.|https://dx.doi.org/10.7759/cureus.108661
+Engineering Nano-Antibiotics for Accelerating Wound Healing in Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.3390/molecules31111957
