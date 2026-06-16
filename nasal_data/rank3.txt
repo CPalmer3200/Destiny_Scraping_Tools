@@ -1,3 +1,4 @@
 Topical eucalyptol accelerates the healing of MRSA-infected diabetic wounds in rats by regulating TLR4, NF-κB, VEGFA and MMP-9 pathways.|https://dx.doi.org/10.1016/j.tice.2026.103602
 Control of a hospital outbreak with methicillin-resistant Staphylococcus argenteus in The Netherlands, June-September 2023.|https://dx.doi.org/10.1186/s13756-026-01756-1
 Clinical Rel mutations that increase basal (p)ppGpp promote conjugal transfer of staphylococcal resistance plasmids.|https://dx.doi.org/10.1099/mic.0.001724
+Targeting the stringent response alters gene expression and extracellular vesicle RNA in Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.00359-26

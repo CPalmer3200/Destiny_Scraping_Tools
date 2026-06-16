@@ -12,3 +12,5 @@ Reduced efficacy of an anti-toxin vaccine from senescence-driven attenuation of 
 The toxic effects of α-hemolysin and β-hemolysin produced by Staphylococcus aureus.|https://dx.doi.org/10.3389/fimmu.2026.1811267
 Enhancing cancer vaccine efficacy via electrostatic engineering of an FcγR-targeted protein.|https://dx.doi.org/10.3389/fimmu.2026.1831652
 PLGA-PEG Nano-Adjuvant-Delivered ClfA Vaccine Elicits IL-17A-Mediated Neutrophil Activation to Confer Complete Protection Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.2147/IJN.S592819
+Novel capsular diversity and antimicrobial resistance determinants of Staphylococcus aureus associated with bovine and bubaline mastitis.|https://dx.doi.org/10.24425/pjvs.2026.1277
+In silico design and testing of a multi-epitope camel mastitis vaccine candidate for development.|https://dx.doi.org/10.3389/fcimb.2026.1753101

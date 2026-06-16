@@ -85,3 +85,13 @@ Short-term functional outcome and pain assessment after spinal decompression for
 Staphylococcus aureus With Reduced Vancomycin Susceptibility: Diagnostic Challenges in Clinical Settings.|https://dx.doi.org/10.7759/cureus.108661
 Engineering Nano-Antibiotics for Accelerating Wound Healing in Drug-Resistant Bacterial Infections.|https://dx.doi.org/10.3390/molecules31111957
 Influence of Probiotic Administration on Tracheoesophageal Voice Prosthesis's Function and Microbial Colonisation: A Pilot Study.|https://dx.doi.org/10.1111/coa.70133
+Antimicrobial/Anti-Inflammatory Peptidomimetic-Polyphenol Co-Assemblies with pH-Triggered Activation for S. aureus Abscess Therapy.|https://dx.doi.org/10.1021/acsami.6c09155
+Extensive MRSA-positive sternoclavicular septic arthritis with uncommon origin: a case report.|https://dx.doi.org/10.21037/acr-2025-311
+Estimates and confidence intervals for mean postoperative health-care-associated infections per week among operating rooms and other anesthetizing locations.|https://dx.doi.org/10.1007/s12630-026-03141-3
+Suspected infected infrarenal abdominal aortic aneurysm with contained rupture in the setting of Escherichia coli prostatitis.|https://dx.doi.org/10.1136/bcr-2026-273171
+Phage-derived endolysin prevents dissemination of methicillin resistant Staphylococcus aureus during oral co-infection with Candida albicans.|https://dx.doi.org/10.1128/aac.01812-25
+Analysis and Diagnostic Significance of Cerebrospinal Fluid Laboratory Parameters in Patients with Post-Craniotomy Meningitis.|https://dx.doi.org/10.7754/Clin.Lab.2025.250455
+Delayed Postoperative Wound Healing during Alectinib Therapy for Poorly Differentiated Lung Adenocarcinoma: A Case Report.|https://dx.doi.org/10.1159/000551911
+A safe and anti-inflammatory plant-derived nanovesicle platform for targeted delivery in acute lung injury.|https://dx.doi.org/10.1016/j.bioactmat.2026.03.033
+Whole-genome sequencing of clinical methicillin-resistant Staphylococcus aureus isolates across hospitals in Mwanza, Tanzania.|https://dx.doi.org/10.1099/acmi.0.001127.v5
+Tricuspid valve endocarditis in people who inject drugs: strategies to reduce mortality and recurrent infection.|https://dx.doi.org/10.21037/acs-2026-1-0008-tvd
