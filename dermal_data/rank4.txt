@@ -25,3 +25,7 @@ NIR-responsive mild photothermal hydrogels for multimodal antibacterial therapy,
 A pH-responsive hydrogel based on polysaccharides incorporated with honeysuckle-derived exosome-like nanovesicles for the management of infected wound.|https://dx.doi.org/10.1016/j.ijbiomac.2026.152976
 RSM optimization of Tetracycline-loaded PLGA nanoparticles in chitosan/HPMC hydrogels for sustained antibacterial delivery.|https://dx.doi.org/10.1038/s41598-026-55938-3
 A Photothermally Active CuS-Nanocomposite Hydrogel for Postsurgical Melanoma Management and Tissue Regeneration.|https://dx.doi.org/10.1021/acsabm.6c00611
+Translation-driven design: development of an antibiotic-loaded hydrogel for the management of orthopaedic device-related infection.|https://dx.doi.org/10.1016/j.bioactmat.2026.04.033
+Optimizing electro-responsive glyoxal-crosslinked alginate hydrogel for the electrochemical detection of NADH and antibacterial activity in smart dressing biointerfaces.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153047
+The OEGMA-based hydrogel is active against all species of the ESKAPE pathogens, Streptococcus mutans and the pathogenic yeast Candida albicans.|https://dx.doi.org/10.1038/s41598-026-56881-z
+Carbohydrate polymer-stabilized Pickering emulsion gel coordinates antimicrobial and pro-regenerative cues for scar-minimized wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125483

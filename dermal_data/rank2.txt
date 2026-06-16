@@ -30,3 +30,6 @@ Exosomes From Adipose-Derived Mesenchymal Stem Cells: A New Prospective Therapy 
 Measurement Properties of Instruments Used to Assess Diabetic Foot: An Umbrella Review.|https://dx.doi.org/10.1155/jdr/3322840
 Multifunctional Bioengineered Scaffolds and Adjunct Therapeutic Strategies for Diabetic Foot Ulcers.|https://dx.doi.org/10.1016/j.actbio.2026.06.020
 Bioelectric Reawakening by a Self-Powered Thermoelectric Hydrogel Accelerates Diabetic Ulcer Repair.|https://dx.doi.org/10.1002/adma.73728
+Biosynthesis of ecofriendly antibacterial nanoparticles with healing effects in a murine diabetic skin infection model.|https://dx.doi.org/10.1038/s41598-026-54908-z
+Representative Targeted Molecular And Genomic Characterization Of Virulence Genes In Staphylococcus aureus From Diabetic Foot Infections.|https://dx.doi.org/10.3791/71373
+Microalgae-derived polyhydroxyalkanoate/PCL composite nanofiber scaffolds for accelerated wound healing in diabetic rats.|https://dx.doi.org/10.1080/09205063.2026.2684335

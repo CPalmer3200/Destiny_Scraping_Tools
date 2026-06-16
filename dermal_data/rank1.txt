@@ -7,3 +7,5 @@ The Effectiveness of Linezolid and Teicoplanin for Managing Infections After Bur
 Synthesis and characterization of a new N4-Schiff base its zinc halide/pseudohalide complexes with thermal, antimicrobial, antioxidant, anticancer, DNA cleavage and wound healing properties.|https://dx.doi.org/10.1038/s41598-026-55361-8
 Case Report: Moxibustion-induced burns leading to disseminated methicillin-resistant Staphylococcus aureus infection in a patient with type 2 diabetes mellitus.|https://dx.doi.org/10.3389/fendo.2026.1860646
 Clinical Efficacy and Broad-Spectrum Antimicrobial Activity of pH-Controlled Sodium Hypochlorite Solution (HACCP'ER) in Acute and Chronic Wound Management: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/jcm15114097
+A conductive antibacterial composite film containing chopped fibers and ciprofloxacin loaded PCL particles for wound dressing application.|https://dx.doi.org/10.1007/s10856-026-07092-5
+Melittin-Loaded Fe(3)O(4)-Au(shell) Nanocomposite Hydrogel for Multifunctional Treatment of Atopic Dermatitis.|https://dx.doi.org/10.2147/IJN.S606172

@@ -6,3 +6,4 @@ Engineering Nano-Antibiotics for Accelerating Wound Healing in Drug-Resistant Ba
 Getting It Right the Second Time: How Can we Optimize First-Generation Cephalosporin Dosing for Skin and Soft Tissue Infections in the 21st Century?|https://dx.doi.org/10.1002/phar.70179
 The toxic effects of α-hemolysin and β-hemolysin produced by Staphylococcus aureus.|https://dx.doi.org/10.3389/fimmu.2026.1811267
 Phenotypic and genotypic characterization of Staphylococcus aureus, including MRSA and PVL-positive isolates, in Egyptian fruit bats.|https://dx.doi.org/10.1186/s12917-026-05591-9
+The Acari Hypothesis, VIII: the human apocrine-mammary-microbiota axis and Staphylococcus epidermidis mutualism.|https://dx.doi.org/10.3389/fmicb.2026.1714798
