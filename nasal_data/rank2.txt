@@ -15,3 +15,4 @@ Microbial contamination of medicines, medical devices, cosmetics, child and pers
 Microbial Colonization and Potential Bacterial Translocation of High-Flow Nasal Cannula Circuits During Prolonged Use in Elderly Hospitalized Patients: A Prospective Observational Study.|https://dx.doi.org/10.2147/CIA.S589882
 Multidrug-resistant organism carriage in Vietnamese district hospitals before and after an antimicrobial stewardship intervention.|https://dx.doi.org/10.1186/s13756-026-01752-5
 A Quality Improvement Project to Increase Pharmacist-Initiated Methicillin Resistant Staphylococcus Aureus Nasal Swab PCR for Vancomycin De-Escalation in Pediatric Patients With Respiratory Tract Infections.|https://dx.doi.org/10.5863/JPPT-25-00080
+Antibacterial activity of glycerol monolaurate formulated in petrolatum.|https://dx.doi.org/10.1128/spectrum.00613-26

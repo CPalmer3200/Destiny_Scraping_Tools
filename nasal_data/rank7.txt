@@ -95,3 +95,8 @@ Delayed Postoperative Wound Healing during Alectinib Therapy for Poorly Differen
 A safe and anti-inflammatory plant-derived nanovesicle platform for targeted delivery in acute lung injury.|https://dx.doi.org/10.1016/j.bioactmat.2026.03.033
 Whole-genome sequencing of clinical methicillin-resistant Staphylococcus aureus isolates across hospitals in Mwanza, Tanzania.|https://dx.doi.org/10.1099/acmi.0.001127.v5
 Tricuspid valve endocarditis in people who inject drugs: strategies to reduce mortality and recurrent infection.|https://dx.doi.org/10.21037/acs-2026-1-0008-tvd
+Clinical factors associated with the development of Staphylococcus aureus pneumonia in patients with airway colonization.|https://dx.doi.org/10.21037/jtd-2026-1-0377
+First fatal human bloodstream infection caused by Macrococcus caseolyticus subsp. caseolyticus in China: genomic insights into virulence and antimicrobial resistance.|https://dx.doi.org/10.3389/fcimb.2026.1825695
+Evaluation of Critical Risk Factors and Development of a Predictive Model for Surgical Site Infection in Type 2 Diabetic Patients Undergoing Oral and Maxillofacial Surgery.|https://dx.doi.org/10.62713/aic.4470
+Bacterial Contamination of Autologous Bone Flaps: Investigation and Targeted Antibiotic Treatment.|https://dx.doi.org/10.1016/j.wneu.2026.125131
+Infectious Complications of War-Related Injuries in Children: Experience from the Gaza Conflict.|https://dx.doi.org/10.1016/j.ijid.2026.108882
