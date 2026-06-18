@@ -100,3 +100,7 @@ First fatal human bloodstream infection caused by Macrococcus caseolyticus subsp
 Evaluation of Critical Risk Factors and Development of a Predictive Model for Surgical Site Infection in Type 2 Diabetic Patients Undergoing Oral and Maxillofacial Surgery.|https://dx.doi.org/10.62713/aic.4470
 Bacterial Contamination of Autologous Bone Flaps: Investigation and Targeted Antibiotic Treatment.|https://dx.doi.org/10.1016/j.wneu.2026.125131
 Infectious Complications of War-Related Injuries in Children: Experience from the Gaza Conflict.|https://dx.doi.org/10.1016/j.ijid.2026.108882
+Intrawound vancomycin powder in orthopaedic surgery after the VPIP trial: a critical reappraisal of efficacy, dosing, application plane, and antimicrobial stewardship.|https://dx.doi.org/10.5194/jbji-11-343-2026
+Efficient Elimination of Microbial Infections in Wounds Using Plasma-Activated Water Hydrogel.|https://dx.doi.org/10.1021/acsptsci.6c00097
+Anaerobe-associated microbial shifts at infection onset in diabetes-related foot ulcers revealed by longitudinal metagenomics.|https://dx.doi.org/10.3389/fcimb.2026.1812721
+Severe surgical site infections following cochlear implant surgery.|https://dx.doi.org/10.1080/23744235.2026.2690141

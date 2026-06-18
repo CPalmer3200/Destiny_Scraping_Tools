@@ -14,3 +14,5 @@ Enhancing cancer vaccine efficacy via electrostatic engineering of an FcγR-targ
 PLGA-PEG Nano-Adjuvant-Delivered ClfA Vaccine Elicits IL-17A-Mediated Neutrophil Activation to Confer Complete Protection Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.2147/IJN.S592819
 Novel capsular diversity and antimicrobial resistance determinants of Staphylococcus aureus associated with bovine and bubaline mastitis.|https://dx.doi.org/10.24425/pjvs.2026.1277
 In silico design and testing of a multi-epitope camel mastitis vaccine candidate for development.|https://dx.doi.org/10.3389/fcimb.2026.1753101
+Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial.|https://dx.doi.org/10.1016/S0140-6736(26)00761-0
+Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.1056/NEJMoa2506905
