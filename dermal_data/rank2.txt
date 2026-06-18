@@ -33,3 +33,9 @@ Bioelectric Reawakening by a Self-Powered Thermoelectric Hydrogel Accelerates Di
 Biosynthesis of ecofriendly antibacterial nanoparticles with healing effects in a murine diabetic skin infection model.|https://dx.doi.org/10.1038/s41598-026-54908-z
 Representative Targeted Molecular And Genomic Characterization Of Virulence Genes In Staphylococcus aureus From Diabetic Foot Infections.|https://dx.doi.org/10.3791/71373
 Microalgae-derived polyhydroxyalkanoate/PCL composite nanofiber scaffolds for accelerated wound healing in diabetic rats.|https://dx.doi.org/10.1080/09205063.2026.2684335
+Anaerobe-associated microbial shifts at infection onset in diabetes-related foot ulcers revealed by longitudinal metagenomics.|https://dx.doi.org/10.3389/fcimb.2026.1812721
+An AI-driven framework for diabetic foot ulcer classification, segmentation, and depth estimation.|https://dx.doi.org/10.1038/s41598-026-52864-2
+Finegoldia magna Infection in the Lumbar Intervertebral Disc Following Acupuncture with Cupping: A Rare Case Report.|https://dx.doi.org/10.2147/IDR.S610922
+A SIRT1-stabilizing nanofibrous platform via suppression of ubiquitination for enhanced diabetic wound healing: synergistic therapy with saracatinib and MOF-818.|https://dx.doi.org/10.1186/s12951-026-04663-0
+Calcitonin as an adjunct for phantom limb pain.|https://dx.doi.org/10.1371/journal.pone.0351739
+Nanotherapeutic Interventions in Diabetic Wound Healing: Biomarker- Guided Mechanisms and Translational Prospects.|https://dx.doi.org/10.2174/0113892037446299260428105758

@@ -13,3 +13,8 @@ Multifunctional Activity of Lippia gracilis Schauer Essential Oil Against Skin I
 Extracellular wax ester biosynthesis by staphylococcal lipases detoxifies skin fatty acids and shapes interspecies competition.|https://dx.doi.org/10.1093/ismejo/wrag148
 MicrobioME: a CURE model for diverse microbiology laboratory classrooms.|https://dx.doi.org/10.1128/jmbe.00298-25
 Drug repurposing: a dual-mechanism antibiotic combats MRSA and its high resistant phenotypes.|https://dx.doi.org/10.3389/fcimb.2026.1851763
+Comprehensive management of hemodialysis catheter-related bloodstream infections: a narrative review.|https://dx.doi.org/10.3389/fcimb.2026.1822898
+Genomic characterization of a pathogenic Bacillus licheniformis strain LSDY01: deciphering its genetic diversity and virulence-associated traits.|https://dx.doi.org/10.3389/fmicb.2026.1815181
+Proposed addendum to the 2006 US Food and Drug Administration guidance on chronic cutaneous ulcers and burn wounds: recommendations from the Wound Care Collaborative Community.|https://dx.doi.org/10.25270/wnds/25132
+Biomimetic Catalytic System Mimicking Immune Defense and Tissue Healing for Dynamic Treatment of Skin Infections.|https://dx.doi.org/10.1021/acs.nanolett.6c01094
+First fatal human bloodstream infection caused by Macrococcus caseolyticus subsp. caseolyticus in China: genomic insights into virulence and antimicrobial resistance.|https://dx.doi.org/10.3389/fcimb.2026.1825695

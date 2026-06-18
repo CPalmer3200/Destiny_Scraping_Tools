@@ -11,3 +11,4 @@ A conductive antibacterial composite film containing chopped fibers and ciproflo
 Melittin-Loaded Fe(3)O(4)-Au(shell) Nanocomposite Hydrogel for Multifunctional Treatment of Atopic Dermatitis.|https://dx.doi.org/10.2147/IJN.S606172
 Burn Wound Infections With Staphylococcus aureus: Clinical Characteristics and Risk Factors for Methicillin-Resistant Strains.|https://dx.doi.org/10.1111/iwj.70978
 Preparation and in vitro evaluation of photodynamic-responsive nanoliposome loaded PL-5.|https://dx.doi.org/10.1371/journal.pone.0351679
+Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.1056/NEJMoa2506905
