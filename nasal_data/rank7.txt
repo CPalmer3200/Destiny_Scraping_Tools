@@ -104,3 +104,9 @@ Intrawound vancomycin powder in orthopaedic surgery after the VPIP trial: a crit
 Efficient Elimination of Microbial Infections in Wounds Using Plasma-Activated Water Hydrogel.|https://dx.doi.org/10.1021/acsptsci.6c00097
 Anaerobe-associated microbial shifts at infection onset in diabetes-related foot ulcers revealed by longitudinal metagenomics.|https://dx.doi.org/10.3389/fcimb.2026.1812721
 Severe surgical site infections following cochlear implant surgery.|https://dx.doi.org/10.1080/23744235.2026.2690141
+Burden of antimicrobial resistance in the WHO Southeast Asia and Western Pacific Regions, 1990-2021: a cross-country systematic analysis with forecasts to 2050.|https://dx.doi.org/10.1016/j.mmr.2026.100002
+From Gravity to Affinity: Transitioning From Penrose Drains to Dialkylcarbamoyl Chloride (DACC)-Coated Technology in the Adjunctive Management of a Deep Neck Infection.|https://dx.doi.org/10.7759/cureus.109114
+Strain sharing and persistence of microbial pathogens colonizing the skin of residents in a regional nursing home network.|https://dx.doi.org/10.1038/s41467-026-74611-x
+In vivo bacteria-targeted imaging with vancomycin-based positron emission tomography and optical tracers in an orthopaedic trauma implant infection model.|https://dx.doi.org/10.1007/s00259-026-07997-x
+Plant-Based fermented foods harbor autochthonous lactic acid bacteria with broad antimicrobial activity, bacteriocin diversity, and probiotic potential.|https://dx.doi.org/10.1093/lambio/ovag055
+Surgical Site Infections in Spine Surgery: A Retrospective Study of 1,578 Procedures with Identification of Tattooed Skin as a Novel Risk Factor Associated with Surgical Site Infection.|https://dx.doi.org/10.1016/j.jhin.2026.06.006
