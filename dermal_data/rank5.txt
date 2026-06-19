@@ -18,3 +18,4 @@ Genomic characterization of a pathogenic Bacillus licheniformis strain LSDY01: d
 Proposed addendum to the 2006 US Food and Drug Administration guidance on chronic cutaneous ulcers and burn wounds: recommendations from the Wound Care Collaborative Community.|https://dx.doi.org/10.25270/wnds/25132
 Biomimetic Catalytic System Mimicking Immune Defense and Tissue Healing for Dynamic Treatment of Skin Infections.|https://dx.doi.org/10.1021/acs.nanolett.6c01094
 First fatal human bloodstream infection caused by Macrococcus caseolyticus subsp. caseolyticus in China: genomic insights into virulence and antimicrobial resistance.|https://dx.doi.org/10.3389/fcimb.2026.1825695
+Deciphering skin architecture, wound pathophysiology and molecular mechanisms of healing: insights into immune response and therapeutic strategies.|https://dx.doi.org/10.3389/fbioe.2026.1812108
