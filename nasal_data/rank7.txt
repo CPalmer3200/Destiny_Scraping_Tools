@@ -110,3 +110,6 @@ Strain sharing and persistence of microbial pathogens colonizing the skin of res
 In vivo bacteria-targeted imaging with vancomycin-based positron emission tomography and optical tracers in an orthopaedic trauma implant infection model.|https://dx.doi.org/10.1007/s00259-026-07997-x
 Plant-Based fermented foods harbor autochthonous lactic acid bacteria with broad antimicrobial activity, bacteriocin diversity, and probiotic potential.|https://dx.doi.org/10.1093/lambio/ovag055
 Surgical Site Infections in Spine Surgery: A Retrospective Study of 1,578 Procedures with Identification of Tattooed Skin as a Novel Risk Factor Associated with Surgical Site Infection.|https://dx.doi.org/10.1016/j.jhin.2026.06.006
+A subclade-associated genomic deletion encompassing vraDEH confers increased susceptibility to nisin A and bacitracin in Staphylococcus aureus CC121.|https://dx.doi.org/10.1038/s41598-026-57770-1
+Prevalence of methicillin-resistant coagulase-negative staphylococci and their antibiotic resistance profile in Zagazig University intensive care units.|https://dx.doi.org/10.1007/s11033-026-12117-x
+Candida albicans hyphae modulate Staphylococcus aureus cell-free supernatant during dual biofilm growth to drive molecular signatures of oral dysplasia.|https://dx.doi.org/10.1007/s00430-026-00880-4

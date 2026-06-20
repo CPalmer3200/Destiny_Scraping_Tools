@@ -2,3 +2,4 @@ Healthcare personnel masking: current practices and gaps in standardized thresho
 Surgical site infections in the returning medical tourist: bridging the knowledge gap and identifying areas for improvement.|https://dx.doi.org/10.1016/j.jhin.2026.05.033
 Fusobacterium brain abscess as a complication of sinusitis in an immunocompetent adolescent: A case report.|https://dx.doi.org/10.5409/wjcp.v15.i2.114310
 How long should we keep clinical isolates involved in bone and joint infections in microbiology laboratories?|https://dx.doi.org/10.1007/s10096-026-05558-6
+Transthoracic echocardiography in children with Staphylococcus aureus bacteraemia: a multi-centre retrospective analysis.|https://dx.doi.org/10.1136/bmjpo-2025-004466

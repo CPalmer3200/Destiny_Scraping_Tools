@@ -16,3 +16,4 @@ Novel capsular diversity and antimicrobial resistance determinants of Staphyloco
 In silico design and testing of a multi-epitope camel mastitis vaccine candidate for development.|https://dx.doi.org/10.3389/fcimb.2026.1753101
 Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial.|https://dx.doi.org/10.1016/S0140-6736(26)00761-0
 Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.1056/NEJMoa2506905
+Comparative genomics and taxonomic characterization of Streptomyces diversicolor sp. nov.: a novel species exhibiting intraspecific genomic divergence and biotechnological potential.|https://dx.doi.org/10.1016/j.syapm.2026.126737
