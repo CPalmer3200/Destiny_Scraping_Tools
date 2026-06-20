@@ -40,3 +40,5 @@ A multifunctional eutectogel loaded with baicalein and MXene for diabetic infect
 Near-infrared-triggered synergistic therapy with a Ru-based nanocomposite hydrogel for eradicating multidrug-resistant wound infections.|https://dx.doi.org/10.1039/d6tb00808a
 From Gravity to Affinity: Transitioning From Penrose Drains to Dialkylcarbamoyl Chloride (DACC)-Coated Technology in the Adjunctive Management of a Deep Neck Infection.|https://dx.doi.org/10.7759/cureus.109114
 NIR-triggered photothermal nanocomposite hydrogels integrating polydopamine carbon dots and dynamic multi-networks for infected wound healing.|https://dx.doi.org/10.1039/d6tb00537c
+Bio-catalytic nanofibers with sonodynamic therapy for rapid sterilization and enhanced infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115920
+Transparent spin-coated chitosan-hyaluronic acid/MgO nanocomposite films for multifunctional open wound healing and visual wound assessment.|https://dx.doi.org/10.1039/d6tb00710d

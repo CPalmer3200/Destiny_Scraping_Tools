@@ -42,3 +42,4 @@ Nanotherapeutic Interventions in Diabetic Wound Healing: Biomarker- Guided Mecha
 Wound healing outcomes in diabetic kidney disease patients receiving SGLT2 inhibitor therapy: a prospective propensity score-matched cohort study.|https://dx.doi.org/10.3389/fendo.2026.1793030
 Clinical outcomes of tibial cortex transverse transport versus antibiotic-loaded bone cement for Wagner grade 3-4 diabetic foot ulcers: a real-world retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2026.1838948
 Diagnostic Nuance in Diabetic Foot Osteomyelitis: The Persistent Value of Bone Biopsy in Ischemic Limbs.|https://dx.doi.org/10.1093/cid/ciag378
+The STEADY diabetic foot ulcer registry: methods, insights, and future directions.|https://dx.doi.org/10.25270/wnds/26010
