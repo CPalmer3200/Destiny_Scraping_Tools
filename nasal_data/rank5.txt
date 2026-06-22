@@ -44,3 +44,6 @@ Hyperbaric Oxygen Therapy for Ischemic Complications and Salvage Following Breas
 Native Aortic and Mitral Valve Endocarditis Caused by Brucella: A Rare Case Report and Systematic Review.|https://dx.doi.org/10.1097/CRD.0000000000001364
 Corrigendum to "Development and Validation of a Risk Prediction Model for Postoperative Pulmonary Infection in Renal Transplant Patients" Transplantation Proceedings, 58(2026), 511-519.|https://dx.doi.org/10.1016/j.transproceed.2026.05.010
 Advancements in Breast Lipofilling: A 12-Year Retrospective Comparative Analysis of Patient Satisfaction and Complication Rates across Fat Preparation Methods.|https://dx.doi.org/10.1097/PRS.0000000000013135
+Safety of Biologic and Immune-modulating Agents in Breast Surgery Procedures: A Retrospective Cohort Analysis.|https://dx.doi.org/10.1093/asj/sjag112
+Preexisting Depression or Anxiety is Associated with Increased Wound Complications Following Breast Reduction Surgery: A Real-World Cohort Study.|https://dx.doi.org/10.1007/s00266-026-06031-7
+Immediate versus delayed free-flap breast reconstruction: Higher readmission after immediate reconstruction in a 20,415-patient IPTW NSQIP cohort.|https://dx.doi.org/10.1016/j.bjps.2026.05.066

@@ -113,3 +113,6 @@ Surgical Site Infections in Spine Surgery: A Retrospective Study of 1,578 Proced
 A subclade-associated genomic deletion encompassing vraDEH confers increased susceptibility to nisin A and bacitracin in Staphylococcus aureus CC121.|https://dx.doi.org/10.1038/s41598-026-57770-1
 Prevalence of methicillin-resistant coagulase-negative staphylococci and their antibiotic resistance profile in Zagazig University intensive care units.|https://dx.doi.org/10.1007/s11033-026-12117-x
 Candida albicans hyphae modulate Staphylococcus aureus cell-free supernatant during dual biofilm growth to drive molecular signatures of oral dysplasia.|https://dx.doi.org/10.1007/s00430-026-00880-4
+A Practical Dermatology Focused Approach to Staphylococcus aureus Decolonisation in Children.|https://dx.doi.org/10.1111/ajd.70164
+Effectiveness of screening protocols to reduce MRSA colonization in a pediatric hospital.|https://dx.doi.org/10.1016/j.ijid.2026.108911
+Direct ink writing of collagen scaffolds functionalized with antimicrobial peptides: A proof-of-concept study for bone tissue engineering.|https://dx.doi.org/10.1016/j.bioadv.2026.215000
