@@ -3,3 +3,4 @@ Correction: The combination of mupirocin and Kayvirus broadens the decolonizatio
 Mupirocin Nasal Irrigation Following Endoscopic Sinus Surgery: A Prospective, Double-Blinded, Placebo-Controlled Trial.|https://dx.doi.org/10.1177/19458924261457253
 Clinical Rel mutations that increase basal (p)ppGpp promote conjugal transfer of staphylococcal resistance plasmids.|https://dx.doi.org/10.1099/mic.0.001724
 Targeting the stringent response alters gene expression and extracellular vesicle RNA in Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.00359-26
+Dual antibacterial and pro-healing effects of thymoquinone in an experimental infected diabetic wound model.|https://dx.doi.org/10.1186/s12906-026-05443-x
