@@ -43,3 +43,9 @@ Wound healing outcomes in diabetic kidney disease patients receiving SGLT2 inhib
 Clinical outcomes of tibial cortex transverse transport versus antibiotic-loaded bone cement for Wagner grade 3-4 diabetic foot ulcers: a real-world retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2026.1838948
 Diagnostic Nuance in Diabetic Foot Osteomyelitis: The Persistent Value of Bone Biopsy in Ischemic Limbs.|https://dx.doi.org/10.1093/cid/ciag378
 The STEADY diabetic foot ulcer registry: methods, insights, and future directions.|https://dx.doi.org/10.25270/wnds/26010
+Formulation and characterization of 15d-PGJ2 loaded PLGA nanoparticles and in vitro evaluation of small intestinal submucosa integrated with nanoparticles for diabetic wound.|https://dx.doi.org/10.1016/j.bbrc.2026.153935
+Long-term outcomes of autologous cell therapy in patients with ischaemic diabetic foot ulcers and no-option chronic limb threatening ischaemia.|https://dx.doi.org/10.1007/s00592-026-02721-5
+Clinical severity-dependent virulence of Staphylococcus aureus from human diabetic foot ulcers drives impaired wound healing in a diabetic murine model.|https://dx.doi.org/10.3389/fcimb.2026.1805111
+A clinically aligned multimodal workflow framework for chronic wound assessment: An evidence-informed conceptual modeling study.|https://dx.doi.org/10.1177/20552076261462641
+Phenotypic and Genotypic Detection of Extended-Spectrum Beta-Lactamase (ESBL) and Metallo-Beta-Lactamase (MBL) Genes in Multidrug-Resistant Acinetobacter baumannii Isolates Derived From Diabetic Foot Ulcer Patients.|https://dx.doi.org/10.7759/cureus.109329
+Breaking the stalemate: a case of a laser-accelerated healing of a chronic tendon-exposed diabetic foot ulcer.|https://dx.doi.org/10.1093/jscr/rjag109

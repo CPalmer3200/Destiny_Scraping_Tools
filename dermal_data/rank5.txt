@@ -19,3 +19,4 @@ Proposed addendum to the 2006 US Food and Drug Administration guidance on chroni
 Biomimetic Catalytic System Mimicking Immune Defense and Tissue Healing for Dynamic Treatment of Skin Infections.|https://dx.doi.org/10.1021/acs.nanolett.6c01094
 First fatal human bloodstream infection caused by Macrococcus caseolyticus subsp. caseolyticus in China: genomic insights into virulence and antimicrobial resistance.|https://dx.doi.org/10.3389/fcimb.2026.1825695
 Deciphering skin architecture, wound pathophysiology and molecular mechanisms of healing: insights into immune response and therapeutic strategies.|https://dx.doi.org/10.3389/fbioe.2026.1812108
+Biofilm Formation on Different Fabrics in the Presence of Sweat.|https://dx.doi.org/10.1007/s12088-024-01409-0
