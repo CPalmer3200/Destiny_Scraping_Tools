@@ -116,3 +116,10 @@ Candida albicans hyphae modulate Staphylococcus aureus cell-free supernatant dur
 A Practical Dermatology Focused Approach to Staphylococcus aureus Decolonisation in Children.|https://dx.doi.org/10.1111/ajd.70164
 Effectiveness of screening protocols to reduce MRSA colonization in a pediatric hospital.|https://dx.doi.org/10.1016/j.ijid.2026.108911
 Direct ink writing of collagen scaffolds functionalized with antimicrobial peptides: A proof-of-concept study for bone tissue engineering.|https://dx.doi.org/10.1016/j.bioadv.2026.215000
+Emerging threats and zoonotic implications of antibiotic-resistant Staphylococcus spp. in domesticated cats: a review.|https://dx.doi.org/10.1007/s10482-026-02364-0
+Real-world use of Dalbavancin for vascular graft and Endograft infections.|https://dx.doi.org/10.1016/j.idnow.2026.105313
+Antibacterial and anti-inflammatory PGCL fibers via polydopamine-assisted surface modification for absorbable sutures.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153173
+Clinical severity-dependent virulence of Staphylococcus aureus from human diabetic foot ulcers drives impaired wound healing in a diabetic murine model.|https://dx.doi.org/10.3389/fcimb.2026.1805111
+Risk stratification and source classification in Staphylococcus aureus bloodstream infections: high mortality linked to mrsa, biomarkers, and treatment efficacy.|https://dx.doi.org/10.3389/fimmu.2026.1790382
+Native-valve Staphylococcus epidermidis endocarditis complicated by destructive pseudoaneurysm of the mitral-aortic intervalvular fibrosa: a case report and review of the literature.|https://dx.doi.org/10.1093/ehjcr/ytag434
+Biofilm Formation on Different Fabrics in the Presence of Sweat.|https://dx.doi.org/10.1007/s12088-024-01409-0
