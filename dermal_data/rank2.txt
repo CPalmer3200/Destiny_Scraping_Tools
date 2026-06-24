@@ -49,3 +49,6 @@ Clinical severity-dependent virulence of Staphylococcus aureus from human diabet
 A clinically aligned multimodal workflow framework for chronic wound assessment: An evidence-informed conceptual modeling study.|https://dx.doi.org/10.1177/20552076261462641
 Phenotypic and Genotypic Detection of Extended-Spectrum Beta-Lactamase (ESBL) and Metallo-Beta-Lactamase (MBL) Genes in Multidrug-Resistant Acinetobacter baumannii Isolates Derived From Diabetic Foot Ulcer Patients.|https://dx.doi.org/10.7759/cureus.109329
 Breaking the stalemate: a case of a laser-accelerated healing of a chronic tendon-exposed diabetic foot ulcer.|https://dx.doi.org/10.1093/jscr/rjag109
+An interpretable machine learning model for diabetic foot risk classification in patients with diabetes.|https://dx.doi.org/10.1038/s41598-026-58612-w
+Hydrogel dressings for diabetic foot ulcers: microenvironment-informed design, clinical scenario matching, and translational challenges.|https://dx.doi.org/10.1016/j.diabres.2026.113390
+pH-modulating binary hydrogen-bonded organic frameworks accelerate diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04701-x

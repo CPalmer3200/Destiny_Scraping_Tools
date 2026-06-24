@@ -48,3 +48,8 @@ Development of a natural small molecules composite based photothermal-responsive
 NIR-responsive MnO(2)-functionalized mesoporous silica hydrogel: Fabrication and antibacterial activity evaluation.|https://dx.doi.org/10.1016/j.talanta.2026.130186
 A Dual-Network Hydrogel with Photothermal Antibacterial Properties for Adaptive Wound Dressing and Accelerated Healing of Infected Wounds.|https://dx.doi.org/10.1021/acsabm.6c00595
 3D-Printed Alginate Dialdehyde (ADA)-Gelatin (GEL) Hydrogels with Gallic Acid (GA) for Enhanced Multifunctional Properties.|https://dx.doi.org/10.1021/acsomega.6c02404
+Injectable vancomycin-conjugated polysaccharide-protein hydrogel for targeted antibacterial therapy in musculoskeletal infections.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153190
+An Acceptor-Donor-Acceptor Semiconductor Conjugated Polymer-Based Composite Hydrogel for Photothermal/Photodynamic Dual Phototherapy of Infected Wounds.|https://dx.doi.org/10.1021/acsami.6c06419
+A NIR assisted composite scaffold incorporating CuHP and melatonin for enhanced anti-infection and bone regeneration in an acute rat model of infected bone defect.|https://dx.doi.org/10.1039/d6bm00251j
+In Vivo Wound Healing Effects of Antimicrobial Peptide-Based Dressings for S. aureus-Infected Wounds-A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/wrr.70183
+Double-Crosslinked SIS-Derived Collagen/Alginate Hydrogel With Antibacterial and Pro-Regenerative Activities for Soft Tissue Repair.|https://dx.doi.org/10.1002/jbm.b.70122

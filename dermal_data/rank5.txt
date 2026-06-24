@@ -20,3 +20,4 @@ Biomimetic Catalytic System Mimicking Immune Defense and Tissue Healing for Dyna
 First fatal human bloodstream infection caused by Macrococcus caseolyticus subsp. caseolyticus in China: genomic insights into virulence and antimicrobial resistance.|https://dx.doi.org/10.3389/fcimb.2026.1825695
 Deciphering skin architecture, wound pathophysiology and molecular mechanisms of healing: insights into immune response and therapeutic strategies.|https://dx.doi.org/10.3389/fbioe.2026.1812108
 Biofilm Formation on Different Fabrics in the Presence of Sweat.|https://dx.doi.org/10.1007/s12088-024-01409-0
+Iontophoretic-assisted wound-healing using azithromycin and nanoparticulate magnesium oxide embedded fiber coated films.|https://dx.doi.org/10.1016/j.ejpb.2026.115163
