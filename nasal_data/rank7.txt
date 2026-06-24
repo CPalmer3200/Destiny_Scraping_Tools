@@ -123,3 +123,6 @@ Clinical severity-dependent virulence of Staphylococcus aureus from human diabet
 Risk stratification and source classification in Staphylococcus aureus bloodstream infections: high mortality linked to mrsa, biomarkers, and treatment efficacy.|https://dx.doi.org/10.3389/fimmu.2026.1790382
 Native-valve Staphylococcus epidermidis endocarditis complicated by destructive pseudoaneurysm of the mitral-aortic intervalvular fibrosa: a case report and review of the literature.|https://dx.doi.org/10.1093/ehjcr/ytag434
 Biofilm Formation on Different Fabrics in the Presence of Sweat.|https://dx.doi.org/10.1007/s12088-024-01409-0
+Evolving Spectrum and Outcomes of Infective Endocarditis in North India: A Comparative Analysis Between People Who Inject Drugs and Those Who Do Not.|https://dx.doi.org/10.1016/j.ihj.2026.06.006
+Antimicrobial resistance in NICUs: The rise of ESKAPE pathogens and their impact on neonatal health.|https://dx.doi.org/10.1016/j.idh.2026.100447
+Contamination of Hospital Inanimate Surfaces with Methicillin-Resistant Staphylococcus aureus and Extended-Spectrum Beta-Lactamase producing bacteria at Ocean Road Cancer Institute, Dar es Salaam, Tanzania.|https://dx.doi.org/10.1371/journal.pone.0352189

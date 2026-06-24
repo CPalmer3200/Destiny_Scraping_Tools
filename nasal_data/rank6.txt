@@ -19,3 +19,4 @@ Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia.|https://
 Comparative genomics and taxonomic characterization of Streptomyces diversicolor sp. nov.: a novel species exhibiting intraspecific genomic divergence and biotechnological potential.|https://dx.doi.org/10.1016/j.syapm.2026.126737
 Dual antibacterial and pro-healing effects of thymoquinone in an experimental infected diabetic wound model.|https://dx.doi.org/10.1186/s12906-026-05443-x
 Timing of Bronchoscopy and Plasma Microbial Cell-Free DNA Sequencing in Immunocompromised Host Pneumonia.|https://dx.doi.org/10.1093/ofid/ofag361
+Steriwave® a Non-Antibiotic Nasal Photodisinfection Strategy Reduces Infection Burden In Endoscopic Skull Base Surgery.|https://dx.doi.org/10.1017/S0022215126105179
