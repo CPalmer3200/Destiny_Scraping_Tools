@@ -53,3 +53,10 @@ An Acceptor-Donor-Acceptor Semiconductor Conjugated Polymer-Based Composite Hydr
 A NIR assisted composite scaffold incorporating CuHP and melatonin for enhanced anti-infection and bone regeneration in an acute rat model of infected bone defect.|https://dx.doi.org/10.1039/d6bm00251j
 In Vivo Wound Healing Effects of Antimicrobial Peptide-Based Dressings for S. aureus-Infected Wounds-A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1111/wrr.70183
 Double-Crosslinked SIS-Derived Collagen/Alginate Hydrogel With Antibacterial and Pro-Regenerative Activities for Soft Tissue Repair.|https://dx.doi.org/10.1002/jbm.b.70122
+In situ gelling gelatin/modified starch hydrogel containing curcumin-loaded niosomes for wound healing application.|https://dx.doi.org/10.1088/1748-605X/ae8231
+Riboflavin-loaded Bletilla striata polysaccharide photodynamic hydrogel with synergistic antibacterial and anti-inflammatory effects for accelerating infected diabetic wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.214999
+A drug-free hyaluronic acid and modified carboxymethyl cellulose double cross-linked multifunctional hydrogel wound dressing.|https://dx.doi.org/10.1016/j.jmbbm.2026.107508
+DNAzyme-Based Core-Shell Hydrogel Microneedle Arrays for In Situ Live Bacterial Detection on Surfaces.|https://dx.doi.org/10.1021/acs.est.6c04666
+Photodynamically active AIE-functionalised casein nanofibers for antibacterial wound management in epidermolysis bullosa.|https://dx.doi.org/10.1039/d6tb00802j
+Reactive Multifunctional Ink for Hydrogel Fabrication and Cell-Laden 3D Printing via Incorporation of Strontium-Doped Bioactive Glass.|https://dx.doi.org/10.1021/acsabm.6c00608
+Development and Assessment of Rutin/Betamethasone-Loaded PAN-PVP Nanofibers for Wound Healing Applications.|https://dx.doi.org/10.2174/0115672018443891260117203100

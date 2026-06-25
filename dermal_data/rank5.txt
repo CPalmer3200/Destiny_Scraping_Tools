@@ -21,3 +21,5 @@ First fatal human bloodstream infection caused by Macrococcus caseolyticus subsp
 Deciphering skin architecture, wound pathophysiology and molecular mechanisms of healing: insights into immune response and therapeutic strategies.|https://dx.doi.org/10.3389/fbioe.2026.1812108
 Biofilm Formation on Different Fabrics in the Presence of Sweat.|https://dx.doi.org/10.1007/s12088-024-01409-0
 Iontophoretic-assisted wound-healing using azithromycin and nanoparticulate magnesium oxide embedded fiber coated films.|https://dx.doi.org/10.1016/j.ejpb.2026.115163
+Comparative genomic analysis of clinically relevant human skin-associated fungi.|https://dx.doi.org/10.1038/s41467-026-74431-z
+Phenotypic and genotypic characterization of clinical Staphylococcus lugdunensis isolates: a French retrospective cohort study.|https://dx.doi.org/10.1128/spectrum.03856-25

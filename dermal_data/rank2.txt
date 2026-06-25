@@ -52,3 +52,7 @@ Breaking the stalemate: a case of a laser-accelerated healing of a chronic tendo
 An interpretable machine learning model for diabetic foot risk classification in patients with diabetes.|https://dx.doi.org/10.1038/s41598-026-58612-w
 Hydrogel dressings for diabetic foot ulcers: microenvironment-informed design, clinical scenario matching, and translational challenges.|https://dx.doi.org/10.1016/j.diabres.2026.113390
 pH-modulating binary hydrogen-bonded organic frameworks accelerate diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04701-x
+Engineering the "pro-healing niche": Hydrogel-driven immunometabolic reprogramming for diabetic foot ulcers.|https://dx.doi.org/10.1016/j.bioadv.2026.215033
+Nanoparticles - polyphenol and flavonoid plants for diabetic wounds.|https://dx.doi.org/10.1016/j.biopha.2026.119700
+Risk factors associated with diabetic foot amputation: A retrospective study from a tertiary hospital in Central Malaysia.|https://dx.doi.org/10.1371/journal.pone.0335328
+Innovative Phytochemical-Based Approaches for the Treatment of Diabetic Foot Ulcers.|https://dx.doi.org/10.2174/0115733998431722260327100634

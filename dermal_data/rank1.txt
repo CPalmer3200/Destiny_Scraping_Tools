@@ -16,3 +16,4 @@ Dual-Network Nanocellulose Hydrogels with Dynamic Schiff Base and Borate Bonds f
 Solar-simulated light-driven ROS-responsive CuₓO-TiO(2-X) microneedle patch for intelligent antibacterial and regenerative therapy of infected burn wounds.|https://dx.doi.org/10.1016/j.colsurfb.2026.115923
 A novel collagen hydrogel loaded with primary brown sugar for accelerating burn wound healing by a synergistic mechanism.|https://dx.doi.org/10.1093/rb/rbag113
 In silico and in vitro antibacterial investigation of Origanum majorana L. leaves extract against gram-positive and gram-negative bacteria.|https://dx.doi.org/10.1007/s40203-026-00672-x
+Ternary co-encapsulation in electrospun PVA fibers: release kinetics and mechanisms.|https://dx.doi.org/10.1080/20415990.2026.2692882
