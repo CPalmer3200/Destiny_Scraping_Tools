@@ -23,3 +23,6 @@ Biofilm Formation on Different Fabrics in the Presence of Sweat.|https://dx.doi.
 Iontophoretic-assisted wound-healing using azithromycin and nanoparticulate magnesium oxide embedded fiber coated films.|https://dx.doi.org/10.1016/j.ejpb.2026.115163
 Comparative genomic analysis of clinically relevant human skin-associated fungi.|https://dx.doi.org/10.1038/s41467-026-74431-z
 Phenotypic and genotypic characterization of clinical Staphylococcus lugdunensis isolates: a French retrospective cohort study.|https://dx.doi.org/10.1128/spectrum.03856-25
+Enhanced antibiofilm activity of ciprofloxacin-loaded quatsomal gel against Multidrug-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1186/s12866-026-05326-8
+Synergistic Liposomal Delivery of Ibrexafungerp Citrate and Marine-Sourced Silver Nanoparticles for Effective Management of Vulvovaginal Candidiasis.|https://dx.doi.org/10.3390/jfb17060290
+Chara vulgaris-mediated selenium nanoparticles: a novel approach to antioxidant, antibacterial, anti-inflammatory, and wound healing activities.|https://dx.doi.org/10.3389/fcimb.2026.1752175

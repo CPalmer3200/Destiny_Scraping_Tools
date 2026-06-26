@@ -60,3 +60,6 @@ DNAzyme-Based Core-Shell Hydrogel Microneedle Arrays for In Situ Live Bacterial 
 Photodynamically active AIE-functionalised casein nanofibers for antibacterial wound management in epidermolysis bullosa.|https://dx.doi.org/10.1039/d6tb00802j
 Reactive Multifunctional Ink for Hydrogel Fabrication and Cell-Laden 3D Printing via Incorporation of Strontium-Doped Bioactive Glass.|https://dx.doi.org/10.1021/acsabm.6c00608
 Development and Assessment of Rutin/Betamethasone-Loaded PAN-PVP Nanofibers for Wound Healing Applications.|https://dx.doi.org/10.2174/0115672018443891260117203100
+Leaf-Inspired Layered Hydrogel with Spatially Selective Ag/Ag(2)S Formation for Photothermal Antibacterial Therapy and Strain Sensing.|https://dx.doi.org/10.1021/acs.langmuir.6c03123
+Optimization and interlaboratory validation of the HydroTouch test for fingertip-mediated microbial transmission and antimicrobial efficacy assessment of surfaces.|https://dx.doi.org/10.1186/s12866-026-05312-0
+Photothermal self-healing hydrogel based on Bletilla striata polysaccharide/humic acid for promoting wound healing in diabetic infections.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153216

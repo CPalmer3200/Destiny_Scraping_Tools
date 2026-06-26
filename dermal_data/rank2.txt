@@ -56,3 +56,5 @@ Engineering the "pro-healing niche": Hydrogel-driven immunometabolic reprogrammi
 Nanoparticles - polyphenol and flavonoid plants for diabetic wounds.|https://dx.doi.org/10.1016/j.biopha.2026.119700
 Risk factors associated with diabetic foot amputation: A retrospective study from a tertiary hospital in Central Malaysia.|https://dx.doi.org/10.1371/journal.pone.0335328
 Innovative Phytochemical-Based Approaches for the Treatment of Diabetic Foot Ulcers.|https://dx.doi.org/10.2174/0115733998431722260327100634
+Effectiveness and Safety of Ozone Therapy in Humans: An Umbrella Review of Systematic Reviews with Meta-Analyses of Randomized Clinical Trials.|https://dx.doi.org/10.3390/medsci14020289
+Clinical Significance of Non-Invasive Skin Autofluorescence Measurement and AI Applications in Patients with Diabetic Foot Ulcers: A Scoping Review.|https://dx.doi.org/10.3390/jpm16060285
