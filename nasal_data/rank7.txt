@@ -4,3 +4,10 @@ Development and Application of a Desirability of Outcome Ranking (DOOR) Endpoint
 Endoscopic Ultrasound-Guided Transesophageal Drainage of a Posterior Mediastinal Abscess Secondary to Vertebral Osteomyelitis.|https://dx.doi.org/10.14309/crj.0000000000002218
 Prevalence, Risk Factors, and Microbial Spectrum of Ophthalmia Neonatorum: A Cross-Sectional Study From Central India.|https://dx.doi.org/10.7759/cureus.109481
 [Application of vacuum sealing drainage combined with antibiotic bone cement in Gustilo type Ⅲ open ankle fractures].|https://dx.doi.org/10.12200/j.issn.1003-0034.20250614
+MRSA transmission in hospitals across Alberta, Canada: a comparative study combining unidentified colonized cases upon admission.|https://dx.doi.org/10.1186/s12879-026-13839-w
+Trends in methicillin-resistant Staphylococcus aureus detection-rates and antibiotic resistance profiles in a cancer hospital from 2015 to 2024.|https://dx.doi.org/10.1186/s12879-026-13869-4
+Cyanobacterial fatty acid esters disrupt polymicrobial oral biofilms and exhibit potential interactions with adhesion proteins and virulence-associated targets.|https://dx.doi.org/10.1016/j.archoralbio.2026.106666
+DNA network-encapsulated carnosine/ZnO nano-complexes for enhanced antibacterial efficacy and biocompatibility.|https://dx.doi.org/10.1016/j.ejpb.2026.115169
+Hybrid Sonochemical-Pressure Fabrication of tri-element nanohybrids for advanced biological protection in resin and metal dental crowns.|https://dx.doi.org/10.1016/j.ultsonch.2026.107931
+Prosthetic Aortic Valve Vegetation: A Percutaneous Mechanical Aspiration Approach.|https://dx.doi.org/10.1016/j.jaccas.2026.108593
+Antimicrobial resistance patterns of isolated bacteria at Bukoba Regional Referral Hospital in Patients attended from 2019 to 2023.|https://dx.doi.org/10.1186/s12879-026-13748-y
