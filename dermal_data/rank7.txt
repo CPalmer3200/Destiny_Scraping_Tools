@@ -7,3 +7,7 @@ Pyoderma gangrenosum caused by the molecular uncoupling of OTULIN catalytic acti
 Classification of High- and Low-Risk Patients With Dermal Leiomyosarcoma: An Exploratory Nationwide Cohort Study.|https://dx.doi.org/10.1002/jso.70308
 Microscopic Fungi as Sources of Natural UV-Protective Compounds.|https://dx.doi.org/10.1007/s00284-026-05005-x
 Isolation and characterization of a Staphylococcus aureus-lytic jumbo phage LY01 and its local therapeutic efficacy in a porcine dermatitis model.|https://dx.doi.org/10.1016/j.micpath.2026.108623
+Langerhans cell control of early-life dermal lymphatic development shapes adult immunity.|https://dx.doi.org/10.1126/sciimmunol.aed8745
+Mucoadhesive Nanostructured Lipid Carriers of Ketoconazole for Enhanced Dermal Delivery and Antifungal Activity: Formulation Optimization and In Vivo Evaluation.|https://dx.doi.org/10.3390/pharmaceutics18060753
+A Rapid 3D Melanoma-Skin Organoid for High-Throughput Assessment of Tumor Dynamics and Drug Response.|https://dx.doi.org/10.3390/ijms27125314
+Biochemical Changes and Molecular Mechanisms Mediated by Sulfur Dioxide in Healthy Skin and Dermatological Disorders.|https://dx.doi.org/10.3390/biom16060915

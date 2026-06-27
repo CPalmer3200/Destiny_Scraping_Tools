@@ -58,3 +58,8 @@ Risk factors associated with diabetic foot amputation: A retrospective study fro
 Innovative Phytochemical-Based Approaches for the Treatment of Diabetic Foot Ulcers.|https://dx.doi.org/10.2174/0115733998431722260327100634
 Effectiveness and Safety of Ozone Therapy in Humans: An Umbrella Review of Systematic Reviews with Meta-Analyses of Randomized Clinical Trials.|https://dx.doi.org/10.3390/medsci14020289
 Clinical Significance of Non-Invasive Skin Autofluorescence Measurement and AI Applications in Patients with Diabetic Foot Ulcers: A Scoping Review.|https://dx.doi.org/10.3390/jpm16060285
+Four-Week vs Six-Week Antibiotic Therapy in the Management of Nonsurgically Treated Diabetic Foot Osteomyelitis: Protocol for a Multicentric, Single-Blind Randomized Clinical Trial.|https://dx.doi.org/10.2196/93492
+Mesoporous Catalytic-Adsorptive Nanoregulator Orchestrates Biofilm eDNA/LPS Disassembly and TLR9/TLR4 Immune Reprogramming to Resolve Diabetic Foot Infections.|https://dx.doi.org/10.1002/advs.76300
+Palmitoylethanolamide/Baicalin Supplementation and Changes in Pain and Sudomotor Function in Type 2 Diabetes: A Retrospective Matched Real-World Cohort Study.|https://dx.doi.org/10.3390/nu18121894
+Core High-Risk Foot Profiles and Surgery-Coded Care-Intensity Indicators Among Hajj Pilgrims Presenting with Foot and Ankle Conditions: A Presentation-Level Analysis.|https://dx.doi.org/10.3390/healthcare14121782
+Mussel Adhesive Protein/Hyaluronic Acid Hydrogels for EGF Delivery and MRSA-Infected Diabetic Wound Repair.|https://dx.doi.org/10.3390/gels12060492

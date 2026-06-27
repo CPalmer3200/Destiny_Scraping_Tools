@@ -26,3 +26,10 @@ Phenotypic and genotypic characterization of clinical Staphylococcus lugdunensis
 Enhanced antibiofilm activity of ciprofloxacin-loaded quatsomal gel against Multidrug-Resistant Staphylococcus aureus (MRSA).|https://dx.doi.org/10.1186/s12866-026-05326-8
 Synergistic Liposomal Delivery of Ibrexafungerp Citrate and Marine-Sourced Silver Nanoparticles for Effective Management of Vulvovaginal Candidiasis.|https://dx.doi.org/10.3390/jfb17060290
 Chara vulgaris-mediated selenium nanoparticles: a novel approach to antioxidant, antibacterial, anti-inflammatory, and wound healing activities.|https://dx.doi.org/10.3389/fcimb.2026.1752175
+Human keratinocytes and fibroblasts coordinate early cutaneous innate defenses against Candida auris.|https://dx.doi.org/10.1016/j.jid.2026.06.1279
+Quatsome nanovesicles as antibacterial platform: Mechanistic insights into their activity against planktonic and biofilm Staphylococcus aureus.|https://dx.doi.org/10.1016/j.colsurfb.2026.115932
+Plant-Derived Peptide-Polymer Therapeutics for Cutaneous Infections and Inflammation: Mechanistic Basis, Delivery Design and Translational Considerations.|https://dx.doi.org/10.3390/pharmaceutics18060729
+Lactoferrin Displays Stimulating and Protective Effects on Newly Isolated Phage vB_Sau-E: A New Perspective for Treatment of Staphylococcal Skin Infections.|https://dx.doi.org/10.3390/ph19060808
+Estradiol-Induced Modulation of Clindamycin Susceptibility in Mono- and Dual-Species Biofilms of Lactobacillus gasseri and Cutibacterium acnes: An In Vitro Model Study.|https://dx.doi.org/10.3390/microorganisms14061173
+Development of Antiseptic and Epidermal Growth Factor Co-Loaded Thermoresponsive Composite Hydrogel for Wound Healing: Fabrication, Characterization, and In Vitro Functional Assessment.|https://dx.doi.org/10.3390/gels12060539
+Phytochemical Characterization and Antibiofilm Efficacy of Piper betle Extract and Essential Oils Against Clinical Pseudomonas aeruginosa and Staphylococcus spp. from Small Animals.|https://dx.doi.org/10.3390/antibiotics15060549

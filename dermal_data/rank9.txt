@@ -10,3 +10,4 @@ The Acari Hypothesis, VIII: the human apocrine-mammary-microbiota axis and Staph
 Risk stratification and source classification in Staphylococcus aureus bloodstream infections: high mortality linked to mrsa, biomarkers, and treatment efficacy.|https://dx.doi.org/10.3389/fimmu.2026.1790382
 In Vitro Antibacterial Efficacy of Cetirizine and N-Acetylcysteine Alone and in Combination with Cefalexin on Canine Methicillin-Sensitive and -Resistant Staphylococcus pseudintermedius.|https://dx.doi.org/10.3390/pathogens15060589
 Case Report: Paradoxical psoriasis under TNF-α blockade may represent generalized abscessing staphyloderma - GASD syndrome by TNF antagonists.|https://dx.doi.org/10.3389/fimmu.2026.1726457
+Longitudinal Epidemiology of Coagulase-Positive Staphylococcal Species Recovered from Humans, Pets, and Household Environments.|https://dx.doi.org/10.3390/antibiotics15060552
