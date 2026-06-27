@@ -11,3 +11,13 @@ DNA network-encapsulated carnosine/ZnO nano-complexes for enhanced antibacterial
 Hybrid Sonochemical-Pressure Fabrication of tri-element nanohybrids for advanced biological protection in resin and metal dental crowns.|https://dx.doi.org/10.1016/j.ultsonch.2026.107931
 Prosthetic Aortic Valve Vegetation: A Percutaneous Mechanical Aspiration Approach.|https://dx.doi.org/10.1016/j.jaccas.2026.108593
 Antimicrobial resistance patterns of isolated bacteria at Bukoba Regional Referral Hospital in Patients attended from 2019 to 2023.|https://dx.doi.org/10.1186/s12879-026-13748-y
+A new Kayvirus vB_SauM-MUHD-1 combats Methicillin-resistant Staphylococcus aureus wound infections.|https://dx.doi.org/10.1007/s00253-026-13898-8
+Correlation between pathogens of chronic suppurative otitis media and nasopharyngeal colonization in the Taklamakan Desert region.|https://dx.doi.org/10.1038/s41598-026-59879-9
+Influence of Prosthetic Surface Roughness on Biofilm Density and Prosthesis Longevity.|https://dx.doi.org/10.1016/j.micpath.2026.108662
+Preparation and In Vitro Characterization of Quercetin and Chlorhexidine-loaded PLGA Nanoparticles for Oral Biofilm-Associated Pathologies.|https://dx.doi.org/10.1007/s00784-026-06954-0
+Epidemiological patterns, risk factors, and prevention gaps of surgical site infections in operating rooms: a hospital-based surveillance study.|https://dx.doi.org/10.3389/fpubh.2026.1811592
+A case with suspected ruptured mycotic coronary aneurysm presenting as purulent bloody pericarditis.|https://dx.doi.org/10.1093/ehjcr/ytag410
+A caffeic acid-loaded hydrogel attenuates inflammation and accelerates infected wound healing.|https://dx.doi.org/10.3389/fbioe.2026.1851700
+Prognostic Factors for Postoperative Complications. An Aggregate Protocol for 10 Observational Studies From the Danish TRIPLE-A Cohort of 1.2 Million Surgeries.|https://dx.doi.org/10.1111/aas.70285
+Vitreoscilla filiformis Supernatant: A Novel Postbiotic Secretome for the Prevention and Treatment of Wound Infections.|https://dx.doi.org/10.3390/pharmaceutics18060686
+Non-Cytotoxic Benzyl Triphenyl Phosphonium Bromide Is Bactericidal on MRSA and Fully Inhibits Biofilm Formation by MRSA and MRSE.|https://dx.doi.org/10.3390/ph19060829

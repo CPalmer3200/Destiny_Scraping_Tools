@@ -3,3 +3,4 @@ PRISMA (Pectoralis-Rib Implant Support and Muscle Adjustment): An Innovative Tec
 Impact of operative time on 30-day surgical outcomes following tissue expander-based breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2026.05.056
 Prospective Observational Study of Supercritical Carbon Dioxide-Processed Acellular Dermal Matrix in Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1055/a-2863-3696
 Controlled local air-balloon compression chest belt on postoperative seroma in breast cancer: study protocol for a randomised controlled trial in Zunyi, China.|https://dx.doi.org/10.1186/s13063-026-09847-5
+Ergonomic Implants: A Single Centre Experience in Post-Mastectomy Breast Reconstruction.|https://dx.doi.org/10.3390/medicina62061064
