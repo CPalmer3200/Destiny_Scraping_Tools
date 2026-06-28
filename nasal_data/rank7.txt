@@ -21,3 +21,5 @@ A caffeic acid-loaded hydrogel attenuates inflammation and accelerates infected 
 Prognostic Factors for Postoperative Complications. An Aggregate Protocol for 10 Observational Studies From the Danish TRIPLE-A Cohort of 1.2 Million Surgeries.|https://dx.doi.org/10.1111/aas.70285
 Vitreoscilla filiformis Supernatant: A Novel Postbiotic Secretome for the Prevention and Treatment of Wound Infections.|https://dx.doi.org/10.3390/pharmaceutics18060686
 Non-Cytotoxic Benzyl Triphenyl Phosphonium Bromide Is Bactericidal on MRSA and Fully Inhibits Biofilm Formation by MRSA and MRSE.|https://dx.doi.org/10.3390/ph19060829
+Antimicrobial Prophylaxis in Solid Organ and Hematopoietic Stem Cell Transplantation: A Survey Among Member Centers of the European Reference Network TransplantChild.|https://dx.doi.org/10.1111/petr.70379
+Antibiotic susceptibility pattern of bacteria in patients with middle ear infection.|https://dx.doi.org/10.47391/JPMA.22887
