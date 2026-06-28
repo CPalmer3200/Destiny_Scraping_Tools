@@ -72,3 +72,4 @@ Textilinin-1, a Snake Venom-Derived Kunitz-Type Protease Inhibitor, Accelerates 
 Amorphous Solid Dispersion Hydrogel Platform for Transdermal Delivery of Cannabidiol with Therapeutic Potential for Dermatitis.|https://dx.doi.org/10.3390/pharmaceutics18060666
 Frontal Polymerization-Enabled Rapid Fabrication of Gelatin-Containing Hydrogels with Good Mechanical and Biological Properties.|https://dx.doi.org/10.3390/gels12060547
 Chlorogenic Acid-Embedded Hydrogel for Visual pH Monitoring and Enhanced Antibacterial Performance.|https://dx.doi.org/10.3390/gels12060512
+Structural color-based microneedle patch with NIR-triggered on-demand drug release for intelligent treatment of infected wounds.|https://dx.doi.org/10.1186/s12951-026-04730-6

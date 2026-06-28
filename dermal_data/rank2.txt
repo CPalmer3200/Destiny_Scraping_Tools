@@ -63,3 +63,4 @@ Mesoporous Catalytic-Adsorptive Nanoregulator Orchestrates Biofilm eDNA/LPS Disa
 Palmitoylethanolamide/Baicalin Supplementation and Changes in Pain and Sudomotor Function in Type 2 Diabetes: A Retrospective Matched Real-World Cohort Study.|https://dx.doi.org/10.3390/nu18121894
 Core High-Risk Foot Profiles and Surgery-Coded Care-Intensity Indicators Among Hajj Pilgrims Presenting with Foot and Ankle Conditions: A Presentation-Level Analysis.|https://dx.doi.org/10.3390/healthcare14121782
 Mussel Adhesive Protein/Hyaluronic Acid Hydrogels for EGF Delivery and MRSA-Infected Diabetic Wound Repair.|https://dx.doi.org/10.3390/gels12060492
+Reprogramming chronic wounds: the emerging role of microbiome-targeted therapies in diabetic foot ulcers.|https://dx.doi.org/10.1016/j.ijpharm.2026.127137

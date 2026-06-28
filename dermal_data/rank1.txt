@@ -19,3 +19,4 @@ In silico and in vitro antibacterial investigation of Origanum majorana L. leave
 Ternary co-encapsulation in electrospun PVA fibers: release kinetics and mechanisms.|https://dx.doi.org/10.1080/20415990.2026.2692882
 Development and Characterization of a Silver Nanoparticle-Based Hydrogel Containing Hyaluronic Acid and Allantoin for Antibacterial Burn Treatment.|https://dx.doi.org/10.3390/pharmaceutics18060724
 Vitreoscilla filiformis Supernatant: A Novel Postbiotic Secretome for the Prevention and Treatment of Wound Infections.|https://dx.doi.org/10.3390/pharmaceutics18060686
+Polycaprolactone and poly(vinyl alcohol) electrospun single-layer nanofiber materials loaded with novel antibacterial LEGO-LPPO for advanced wound dressing.|https://dx.doi.org/10.1016/j.bioadv.2026.215039
