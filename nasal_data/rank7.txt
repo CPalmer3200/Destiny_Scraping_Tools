@@ -23,3 +23,4 @@ Vitreoscilla filiformis Supernatant: A Novel Postbiotic Secretome for the Preven
 Non-Cytotoxic Benzyl Triphenyl Phosphonium Bromide Is Bactericidal on MRSA and Fully Inhibits Biofilm Formation by MRSA and MRSE.|https://dx.doi.org/10.3390/ph19060829
 Antimicrobial Prophylaxis in Solid Organ and Hematopoietic Stem Cell Transplantation: A Survey Among Member Centers of the European Reference Network TransplantChild.|https://dx.doi.org/10.1111/petr.70379
 Antibiotic susceptibility pattern of bacteria in patients with middle ear infection.|https://dx.doi.org/10.47391/JPMA.22887
+Colonization with multidrug-resistant organisms (MDROs) including Candidozyma auris among residents in ventilator-designated versus non-ventilator-designated beds at skilled nursing facilities (SNFs).|https://dx.doi.org/10.1017/ice.2026.10483
