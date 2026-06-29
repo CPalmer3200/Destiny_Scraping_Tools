@@ -73,3 +73,4 @@ Amorphous Solid Dispersion Hydrogel Platform for Transdermal Delivery of Cannabi
 Frontal Polymerization-Enabled Rapid Fabrication of Gelatin-Containing Hydrogels with Good Mechanical and Biological Properties.|https://dx.doi.org/10.3390/gels12060547
 Chlorogenic Acid-Embedded Hydrogel for Visual pH Monitoring and Enhanced Antibacterial Performance.|https://dx.doi.org/10.3390/gels12060512
 Structural color-based microneedle patch with NIR-triggered on-demand drug release for intelligent treatment of infected wounds.|https://dx.doi.org/10.1186/s12951-026-04730-6
+Synergistic near-infrared photothermal and electrical stimulation of MgMOF/black phosphorus-reinforced conductive organohydrogels for integrated diagnosis-therapy-repair of complex wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.215045

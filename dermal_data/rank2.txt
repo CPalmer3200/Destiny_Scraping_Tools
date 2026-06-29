@@ -64,3 +64,5 @@ Palmitoylethanolamide/Baicalin Supplementation and Changes in Pain and Sudomotor
 Core High-Risk Foot Profiles and Surgery-Coded Care-Intensity Indicators Among Hajj Pilgrims Presenting with Foot and Ankle Conditions: A Presentation-Level Analysis.|https://dx.doi.org/10.3390/healthcare14121782
 Mussel Adhesive Protein/Hyaluronic Acid Hydrogels for EGF Delivery and MRSA-Infected Diabetic Wound Repair.|https://dx.doi.org/10.3390/gels12060492
 Reprogramming chronic wounds: the emerging role of microbiome-targeted therapies in diabetic foot ulcers.|https://dx.doi.org/10.1016/j.ijpharm.2026.127137
+Dual-single-atom nanozyme with stage-adaptive catalytic regulation for infected diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04728-0
+Explainable and clinically audited hybrid self-supervised framework for multi-class DFU classification and mobile deployment.|https://dx.doi.org/10.1038/s41598-026-55510-z
