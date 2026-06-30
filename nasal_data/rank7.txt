@@ -24,3 +24,12 @@ Non-Cytotoxic Benzyl Triphenyl Phosphonium Bromide Is Bactericidal on MRSA and F
 Antimicrobial Prophylaxis in Solid Organ and Hematopoietic Stem Cell Transplantation: A Survey Among Member Centers of the European Reference Network TransplantChild.|https://dx.doi.org/10.1111/petr.70379
 Antibiotic susceptibility pattern of bacteria in patients with middle ear infection.|https://dx.doi.org/10.47391/JPMA.22887
 Colonization with multidrug-resistant organisms (MDROs) including Candidozyma auris among residents in ventilator-designated versus non-ventilator-designated beds at skilled nursing facilities (SNFs).|https://dx.doi.org/10.1017/ice.2026.10483
+Plant-based prebiotics to modulate skin microbiota: a novel approach for next-generation cosmeceuticals.|https://dx.doi.org/10.1038/s41598-026-58189-4
+[Advances in the diagnosis and treatment of patients with multidrug-resistant bacterial infections combined with severe liver disease].|https://dx.doi.org/10.3760/cma.j.cn501113-20251107-00481
+Eliminating S. aureus colonization prior to surgery through screening and decolonisation measures in the outpatient setting: How well does outpatient decolonisation work in practice from the patients' perspective?|https://dx.doi.org/10.1016/j.jhin.2026.02.014
+Ultrasmall pH-triggered cerium-based MOF nanozyme delivery system: Stable implant coating with integrated synergistic antibacterial and corrosion resistance enhancement.|https://dx.doi.org/10.1016/j.colsurfb.2026.115935
+[Italian Cystic Fibrosis Registry (ICFR). Report 2023-2024].|https://dx.doi.org/10.19191/EP26.3S1.A1051.057
+A Case Series Demonstrating the Spectrum of Invasive Methicillin-Sensitive Staphylococcus aureus (MSSA) Disease.|https://dx.doi.org/10.1155/crdi/8839477
+Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2020-2024.|https://dx.doi.org/10.14745/ccdr.v52i05a05
+Klebsiella aerogenes Discitis in a 78-Year-Old Male Patient With End-Stage Renal Disease on Hemodialysis: A Case Report.|https://dx.doi.org/10.7759/cureus.109802
+Septic Arthritis of the Hip in a Young Athlete: A Diagnostic Delay Caused by Cognitive Bias.|https://dx.doi.org/10.7759/cureus.109741

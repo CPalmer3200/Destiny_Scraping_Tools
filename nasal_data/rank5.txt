@@ -4,3 +4,7 @@ Impact of operative time on 30-day surgical outcomes following tissue expander-b
 Prospective Observational Study of Supercritical Carbon Dioxide-Processed Acellular Dermal Matrix in Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1055/a-2863-3696
 Controlled local air-balloon compression chest belt on postoperative seroma in breast cancer: study protocol for a randomised controlled trial in Zunyi, China.|https://dx.doi.org/10.1186/s13063-026-09847-5
 Ergonomic Implants: A Single Centre Experience in Post-Mastectomy Breast Reconstruction.|https://dx.doi.org/10.3390/medicina62061064
+Association of postoperative day 1 procalcitonin levels with short-term mortality after liver transplantation: a single-center retrospective cohort study.|https://dx.doi.org/10.1186/s12876-026-05041-8
+Disruptions in perinatal outcomes across Manitoba, Canada: before and over 2 years of the COVID-19 pandemic.|https://dx.doi.org/10.1136/bmjpo-2026-004616
+Battle of the Brands: A Multicenter Comparative Analysis of Outcomes in Immediate Implant-based Breast Reconstruction With Acellular Dermal Matrices.|https://dx.doi.org/10.1097/GOX.0000000000007881
+Impact of COVID-19 Infection and Vaccination on Abdominal-based Microvascular Breast Reconstruction Outcomes.|https://dx.doi.org/10.1097/GOX.0000000000007882
