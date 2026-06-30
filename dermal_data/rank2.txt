@@ -66,3 +66,6 @@ Mussel Adhesive Protein/Hyaluronic Acid Hydrogels for EGF Delivery and MRSA-Infe
 Reprogramming chronic wounds: the emerging role of microbiome-targeted therapies in diabetic foot ulcers.|https://dx.doi.org/10.1016/j.ijpharm.2026.127137
 Dual-single-atom nanozyme with stage-adaptive catalytic regulation for infected diabetic wound healing.|https://dx.doi.org/10.1186/s12951-026-04728-0
 Explainable and clinically audited hybrid self-supervised framework for multi-class DFU classification and mobile deployment.|https://dx.doi.org/10.1038/s41598-026-55510-z
+Self-powered thermoelectric gel dressings for chronic wound monitoring and therapy.|https://dx.doi.org/10.1039/d6tb00979d
+Meta-analysis on the safety and efficacy of different dressings in the treatment of diabetic foot ulcers.|https://dx.doi.org/10.1515/med-2026-1459
+Study on the role and clinical relevance of gut microbiota in diabetic foot ulcers.|https://dx.doi.org/10.1007/s13205-026-04745-8

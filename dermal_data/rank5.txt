@@ -35,3 +35,5 @@ Development of Antiseptic and Epidermal Growth Factor Co-Loaded Thermoresponsive
 Phytochemical Characterization and Antibiofilm Efficacy of Piper betle Extract and Essential Oils Against Clinical Pseudomonas aeruginosa and Staphylococcus spp. from Small Animals.|https://dx.doi.org/10.3390/antibiotics15060549
 Directional Pressure Pump Hydrogel Transmission Platform Provides Bionic Contractile Force and Remodels the Healing Process for Diabetic Mechanically Dynamic Wounds.|https://dx.doi.org/10.1021/acsnano.6c06373
 Tryptophan-substituted antimicrobial peptide temporin-1CEb: in vitro and in vivo antibacterial activity against clinically isolated multidrug-resistant Klebsiella pneumonia.|https://dx.doi.org/10.3724/abbs.2026074
+Cu(2)MoS(4) nanozymes reduced bacterial defenses through a dual mechanism to amplify cuproptosis-like death and accelerate the healing of burn-infected wounds.|https://dx.doi.org/10.1016/j.bioactmat.2026.05.056
+Polysaccharide-Structured Nanoemulgel Matrix Regulates the Co-delivery, Retention, and Biointerface Activity of Amino-Acid-Based Therapeutics in Infected Wound Environments.|https://dx.doi.org/10.1021/acsomega.6c01155

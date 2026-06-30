@@ -74,3 +74,7 @@ Frontal Polymerization-Enabled Rapid Fabrication of Gelatin-Containing Hydrogels
 Chlorogenic Acid-Embedded Hydrogel for Visual pH Monitoring and Enhanced Antibacterial Performance.|https://dx.doi.org/10.3390/gels12060512
 Structural color-based microneedle patch with NIR-triggered on-demand drug release for intelligent treatment of infected wounds.|https://dx.doi.org/10.1186/s12951-026-04730-6
 Synergistic near-infrared photothermal and electrical stimulation of MgMOF/black phosphorus-reinforced conductive organohydrogels for integrated diagnosis-therapy-repair of complex wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.215045
+A LECT2-eluting in situ coaxial electrospun nanofiber dressing orchestrates oxidative stress resolution and immune reprogramming for accelerated wound healing.|https://dx.doi.org/10.1016/j.mtbio.2026.103363
+Calcium-enhanced COF platforms for synergistic photothermal-antibacterial therapy: Unlocking calcium-mediated membrane disruption and ion overload for bacterial and biofilm eradication in wound care and clinical nursing.|https://dx.doi.org/10.1016/j.bioadv.2026.215042
+Fabricating a Cu-MBG-incorporated polyurethane foam with antibacterial properties and bioactivity for diabetic wound healing.|https://dx.doi.org/10.1016/j.isci.2026.116423
+Electrospun Nanostructured PLA Mats Reinforced with Ag-Coated TiO(2) Nanoparticles for Antibacterial Activity Performance.|https://dx.doi.org/10.1021/acsomega.6c02169

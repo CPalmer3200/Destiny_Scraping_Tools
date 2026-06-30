@@ -11,3 +11,6 @@ Risk stratification and source classification in Staphylococcus aureus bloodstre
 In Vitro Antibacterial Efficacy of Cetirizine and N-Acetylcysteine Alone and in Combination with Cefalexin on Canine Methicillin-Sensitive and -Resistant Staphylococcus pseudintermedius.|https://dx.doi.org/10.3390/pathogens15060589
 Case Report: Paradoxical psoriasis under TNF-α blockade may represent generalized abscessing staphyloderma - GASD syndrome by TNF antagonists.|https://dx.doi.org/10.3389/fimmu.2026.1726457
 Longitudinal Epidemiology of Coagulase-Positive Staphylococcal Species Recovered from Humans, Pets, and Household Environments.|https://dx.doi.org/10.3390/antibiotics15060552
+Microbiological and clinical aspects of complicated canine pyoderma: A case report.|https://dx.doi.org/10.5455/OVJ.2026.v16.i1.70
+New gel formulation for treating wounds infected with common bacteria isolated from feline wounds in rats.|https://dx.doi.org/10.5455/OVJ.2026.v16.i1.17
+A Case Series Demonstrating the Spectrum of Invasive Methicillin-Sensitive Staphylococcus aureus (MSSA) Disease.|https://dx.doi.org/10.1155/crdi/8839477
