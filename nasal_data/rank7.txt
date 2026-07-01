@@ -33,3 +33,9 @@ A Case Series Demonstrating the Spectrum of Invasive Methicillin-Sensitive Staph
 Healthcare-associated infections and antimicrobial resistance in Canadian acute care hospitals, 2020-2024.|https://dx.doi.org/10.14745/ccdr.v52i05a05
 Klebsiella aerogenes Discitis in a 78-Year-Old Male Patient With End-Stage Renal Disease on Hemodialysis: A Case Report.|https://dx.doi.org/10.7759/cureus.109802
 Septic Arthritis of the Hip in a Young Athlete: A Diagnostic Delay Caused by Cognitive Bias.|https://dx.doi.org/10.7759/cureus.109741
+Comprehensive Risk Assessment and Evaluation of the Impact of Amino Acid Preparations on Peripheral Line-Associated Bloodstream Infection: A Single-Center Retrospective Observational Study Using Propensity Score Matching.|https://dx.doi.org/10.1016/j.jiac.2026.103023
+Transmission of Dry Surface Biofilm Via and Through Cotton Bedsheets: Implications for Hospital Infection Control.|https://dx.doi.org/10.1016/j.jhin.2026.06.019
+Retinoic Acid-Functionalized Chitosan Polycationic Conjugates for Integrated Melanoma Therapy and Antibacterial Infection Control.|https://dx.doi.org/10.1021/acsbiomaterials.6c00535
+Characterization of Antibiofilm Molecules from Bovine Coagulase-Negative Staphylococci.|https://dx.doi.org/10.1371/journal.pone.0351675
+Patients with obesity have a higher risk of periprosthetic joint infection and more frequent polymicrobial infections after knee arthroplasty: A nationwide register-based study from Denmark.|https://dx.doi.org/10.1002/ksa.70513
+Species interactions are key to spatiotemporal gene expression and multilayer formation in Stenotrophomonas maltophilia K279a dual species biofilms.|https://dx.doi.org/10.1016/j.bioflm.2026.100374
