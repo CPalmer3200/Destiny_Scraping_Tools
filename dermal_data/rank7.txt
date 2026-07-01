@@ -11,3 +11,4 @@ Langerhans cell control of early-life dermal lymphatic development shapes adult 
 Mucoadhesive Nanostructured Lipid Carriers of Ketoconazole for Enhanced Dermal Delivery and Antifungal Activity: Formulation Optimization and In Vivo Evaluation.|https://dx.doi.org/10.3390/pharmaceutics18060753
 A Rapid 3D Melanoma-Skin Organoid for High-Throughput Assessment of Tumor Dynamics and Drug Response.|https://dx.doi.org/10.3390/ijms27125314
 Biochemical Changes and Molecular Mechanisms Mediated by Sulfur Dioxide in Healthy Skin and Dermatological Disorders.|https://dx.doi.org/10.3390/biom16060915
+Fabrication and evaluation of chitosan/gelatin/PVA nanofiber incorporating Dihydroartemisinin for wound healing applications: An in vitro, in vivo study.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153315

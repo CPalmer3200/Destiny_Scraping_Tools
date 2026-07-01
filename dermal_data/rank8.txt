@@ -6,3 +6,4 @@ Targeting the stringent response alters gene expression and extracellular vesicl
 Dual antibacterial and pro-healing effects of thymoquinone in an experimental infected diabetic wound model.|https://dx.doi.org/10.1186/s12906-026-05443-x
 Epidermicin NI01 demonstrates potent in vivo activity in a murine model of methicillin-resistant Staphylococcus aureus skin infection.|https://dx.doi.org/10.1093/jacamr/dlag115
 Mutasynthesis and Antibiotic Activity of Mupirocin Analogues.|https://dx.doi.org/10.1002/cbic.70439
+Genomic diversity and topical antimicrobial resistance in Staphylococcus aureus from clinical and carriage populations in the New York-New Jersey region.|https://dx.doi.org/10.1128/aac.00654-26
