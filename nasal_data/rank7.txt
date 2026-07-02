@@ -39,3 +39,7 @@ Retinoic Acid-Functionalized Chitosan Polycationic Conjugates for Integrated Mel
 Characterization of Antibiofilm Molecules from Bovine Coagulase-Negative Staphylococci.|https://dx.doi.org/10.1371/journal.pone.0351675
 Patients with obesity have a higher risk of periprosthetic joint infection and more frequent polymicrobial infections after knee arthroplasty: A nationwide register-based study from Denmark.|https://dx.doi.org/10.1002/ksa.70513
 Species interactions are key to spatiotemporal gene expression and multilayer formation in Stenotrophomonas maltophilia K279a dual species biofilms.|https://dx.doi.org/10.1016/j.bioflm.2026.100374
+HYDROXYAPATITE AND COBALT FERRITE COMPOSITES AS CIPROFLOXACIN RELEASE SYSTEMS FOR THE TREATMENT OF OSTEOMYELITIS - AN EXPERIMENTAL STUDY.|https://dx.doi.org/10.1016/j.tvjl.2026.106759
+Nanozyme-crosslinked dual-network hydrogel enables multi-stage modulation of the dysregulated repair cascade for regenerative wound healing.|https://dx.doi.org/10.1016/j.bioactmat.2026.06.028
+Multidrug-resistant bacterial infections in a tertiary hospitals: culture positivity, pathogen spectrum, and antibiotic susceptibility.|https://dx.doi.org/10.1186/s12866-026-05292-1
+National surveillance of healthcare-associated infections in the UAE: first multisector report and benchmark analysis (2023).|https://dx.doi.org/10.1186/s13756-026-01785-w
