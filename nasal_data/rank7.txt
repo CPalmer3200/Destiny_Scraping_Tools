@@ -43,3 +43,7 @@ HYDROXYAPATITE AND COBALT FERRITE COMPOSITES AS CIPROFLOXACIN RELEASE SYSTEMS FO
 Nanozyme-crosslinked dual-network hydrogel enables multi-stage modulation of the dysregulated repair cascade for regenerative wound healing.|https://dx.doi.org/10.1016/j.bioactmat.2026.06.028
 Multidrug-resistant bacterial infections in a tertiary hospitals: culture positivity, pathogen spectrum, and antibiotic susceptibility.|https://dx.doi.org/10.1186/s12866-026-05292-1
 National surveillance of healthcare-associated infections in the UAE: first multisector report and benchmark analysis (2023).|https://dx.doi.org/10.1186/s13756-026-01785-w
+Outcomes of single-stage excision in infected preauricular sinus: a retrospective cohort study.|https://dx.doi.org/10.1016/j.ijporl.2026.112913
+Immobilization of Ytterbium via Polyphenol Chemistry on Implant Materials for Enhanced Cytocompatibility and Antibacterial Properties.|https://dx.doi.org/10.1021/acs.langmuir.6c01878
+Migrating Needle in Right Ventricle Wall With Purulent Tamponade.|https://dx.doi.org/10.12659/AJCR.953286
+Mortality outcomes and economic burden of antimicrobial-resistant bacterial bloodstream infections in a Nigerian tertiary hospital.|https://dx.doi.org/10.1186/s12866-026-05348-2
