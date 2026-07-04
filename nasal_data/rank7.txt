@@ -47,3 +47,9 @@ Outcomes of single-stage excision in infected preauricular sinus: a retrospectiv
 Immobilization of Ytterbium via Polyphenol Chemistry on Implant Materials for Enhanced Cytocompatibility and Antibacterial Properties.|https://dx.doi.org/10.1021/acs.langmuir.6c01878
 Migrating Needle in Right Ventricle Wall With Purulent Tamponade.|https://dx.doi.org/10.12659/AJCR.953286
 Mortality outcomes and economic burden of antimicrobial-resistant bacterial bloodstream infections in a Nigerian tertiary hospital.|https://dx.doi.org/10.1186/s12866-026-05348-2
+A multifunctional γ-polyglutamic acid/guar gum hydrogel film with antibacterial, analgesic and wound healing properties for infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153347
+Marked variations in the effectiveness of commercial disinfectants against clinically relevant antibiotic-resistant bacteria and fungi.|https://dx.doi.org/10.2478/aiht-2026-77-4065
+A secreted AIP-Like peptide from Helcococcus kunzii inhibits the Agr quorum sensing system of Staphylococcus aureus.|https://dx.doi.org/10.1080/21505594.2026.2692776
+[Efficacy of Topical Medications in Mastoid Cavity Care Following Canal Wall Down Mastoidectomy. (A Retrospective Cohort Study)].|https://dx.doi.org/10.17116/otorino2026910314
+Resveratrol-Engineered Modified Chitosan-PVP-AgNP Composite Hydrogel Patch: A Potential Antibacterial and Antioxidant Biomaterial for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c00657
+Device and surgical procedure-related infections in Canadian acute care hospitals, 2020-2024.|https://dx.doi.org/10.14745/ccdr.v52i05a04
