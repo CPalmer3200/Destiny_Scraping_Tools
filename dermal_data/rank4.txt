@@ -1,3 +1,7 @@
 Hemostatic and antibacterial performance of alginate/tannic acid-coated gauze for advanced wound care.|https://dx.doi.org/10.1088/1748-605X/ae859b
 Synthesis, characterization, shelf life and optimization of process parameter of plasma-activated hydrogel production for Staphylococcus aureus Inhibition.|https://dx.doi.org/10.1038/s41598-026-46598-4
 Bioactive Hydrogels with D-Amino Acid RGD Mimics: A Therapeutic Strategy for Expeditious Infected Wound Closure.|https://dx.doi.org/10.1002/adhm.71401
+Non-cytotoxic cellulose acetate butyrate composite membrane incorporating a WS(2)/ZnAl-LDH hybrid for controlled curcumin delivery toward wound dressing applications.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153345
+A multifunctional γ-polyglutamic acid/guar gum hydrogel film with antibacterial, analgesic and wound healing properties for infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153347
+Resveratrol-Engineered Modified Chitosan-PVP-AgNP Composite Hydrogel Patch: A Potential Antibacterial and Antioxidant Biomaterial for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c00657
+Nanocellulose-Silver Nanoparticle Nanocomposites for Hydrogel, Aerogel, and Film Development: Antibacterial Properties and Toxicity Evaluation.|https://dx.doi.org/10.1021/acsomega.6c02677

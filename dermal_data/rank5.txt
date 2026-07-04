@@ -3,3 +3,7 @@ Anti-biofilm activity of coated zinc oxide nanoparticles in a water-in-oil formu
 Molecular epidemiology and clinical course of PVL-positive MRSA CC398 infections.|https://dx.doi.org/10.1007/s12223-026-01539-6
 Loss of the type VII secretion ATPase EssC promotes biofilm formation of Staphylococcus aureus under acidic stress.|https://dx.doi.org/10.1016/j.bioflm.2026.100376
 Clinical Trials on Formulations for the Treatment of Wound Healing - recent Perspectives.|https://dx.doi.org/10.2174/0126673878442856260331195206
+Bacterial resistance across habitats: from German schools to the International Space Station.|https://dx.doi.org/10.3389/fmicb.2026.1849378
+Healing cascades and infections in wounds monitored using a wearable sensor of gaseous flux.|https://dx.doi.org/10.64898/2026.06.18.733171
+Cefdinir reprograms Gram-positive bacteria to synergize with lysozyme against superbugs.|https://dx.doi.org/10.1002/mlf2.70080
+Pseudomonas stutzeri gastrointestinal infection in a patient with cardiovascular disease: a case report.|https://dx.doi.org/10.1186/s13256-026-06277-4
