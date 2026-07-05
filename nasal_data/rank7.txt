@@ -53,3 +53,4 @@ A secreted AIP-Like peptide from Helcococcus kunzii inhibits the Agr quorum sens
 [Efficacy of Topical Medications in Mastoid Cavity Care Following Canal Wall Down Mastoidectomy. (A Retrospective Cohort Study)].|https://dx.doi.org/10.17116/otorino2026910314
 Resveratrol-Engineered Modified Chitosan-PVP-AgNP Composite Hydrogel Patch: A Potential Antibacterial and Antioxidant Biomaterial for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c00657
 Device and surgical procedure-related infections in Canadian acute care hospitals, 2020-2024.|https://dx.doi.org/10.14745/ccdr.v52i05a04
+Clinical, phenotypic and genotypic antimicrobial resistance profile of diabetic foot ulcer-associated bacterial isolates.|https://dx.doi.org/10.1038/s41598-026-61198-y
