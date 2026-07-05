@@ -5,3 +5,5 @@ Non-cytotoxic cellulose acetate butyrate composite membrane incorporating a WS(2
 A multifunctional γ-polyglutamic acid/guar gum hydrogel film with antibacterial, analgesic and wound healing properties for infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153347
 Resveratrol-Engineered Modified Chitosan-PVP-AgNP Composite Hydrogel Patch: A Potential Antibacterial and Antioxidant Biomaterial for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c00657
 Nanocellulose-Silver Nanoparticle Nanocomposites for Hydrogel, Aerogel, and Film Development: Antibacterial Properties and Toxicity Evaluation.|https://dx.doi.org/10.1021/acsomega.6c02677
+Click-Chemistry-Based Antibacterial Hybrid Hydrogel with Sustained Puerarin Release for Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c00901
+Untreated Rosehip Powder/Poly(Lactic Acid)/Poly(3-Hydroxybutyrate-Co-4-Hydroxybutyrate) Electrospun Mats for Wound Dressing Applications.|https://dx.doi.org/10.1002/bip.70114
