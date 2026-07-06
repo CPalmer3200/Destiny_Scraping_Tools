@@ -1,3 +1,4 @@
 Bioinspired electrospun nanofibrous dressings loaded with Mentha-derived exosome-like vesicles for antibacterial and immunomodulatory burn healing.|https://dx.doi.org/10.1039/d6tb00281a
 Janus electrospun nanofiber membranes from bio-based furan polyamides for antibacterial wound care.|https://dx.doi.org/10.1016/j.bioactmat.2026.06.022
 Nanozyme-crosslinked dual-network hydrogel enables multi-stage modulation of the dysregulated repair cascade for regenerative wound healing.|https://dx.doi.org/10.1016/j.bioactmat.2026.06.028
+Assessment of the enhanced antibacterial activity of snail mucus, thymol, and ferulic acid in a rat model of burn wounds infected with Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1080/17460913.2026.2692268

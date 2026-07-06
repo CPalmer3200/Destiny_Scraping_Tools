@@ -6,3 +6,4 @@ Correction: Metagenomic and ribosomal transcript profiles of diabetic foot osteo
 Cefepime resistance with preserved ceftriaxone susceptibility in Proteus mirabilis osteomyelitis associated with bla (OXA-1) gene amplification: Two case reports with genomic analysis.|https://dx.doi.org/10.1016/j.idcr.2026.e02654
 Regenerative polymer-based modalities for diabetic foot ulcers: From material design to clinical translation.|https://dx.doi.org/10.1016/j.nano.2026.102988
 Clinical, phenotypic and genotypic antimicrobial resistance profile of diabetic foot ulcer-associated bacterial isolates.|https://dx.doi.org/10.1038/s41598-026-61198-y
+Association Between the Systemic Inflammatory Response Index and Severe Infection in Patients with Diabetic Foot.|https://dx.doi.org/10.2147/DMSO.S605794

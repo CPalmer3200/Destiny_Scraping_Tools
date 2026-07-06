@@ -7,3 +7,4 @@ Bacterial resistance across habitats: from German schools to the International S
 Healing cascades and infections in wounds monitored using a wearable sensor of gaseous flux.|https://dx.doi.org/10.64898/2026.06.18.733171
 Cefdinir reprograms Gram-positive bacteria to synergize with lysozyme against superbugs.|https://dx.doi.org/10.1002/mlf2.70080
 Pseudomonas stutzeri gastrointestinal infection in a patient with cardiovascular disease: a case report.|https://dx.doi.org/10.1186/s13256-026-06277-4
+Selective Modulation of Cutibacterium acnes Biofilms in Acne: Limitations of Conventional Therapies and Emerging Anti-Virulence Strategies.|https://dx.doi.org/10.2147/CCID.S621646
