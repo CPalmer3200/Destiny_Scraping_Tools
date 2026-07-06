@@ -13,3 +13,4 @@ Beyond BMI: Using Abdominal Wall Thickness to Guide Patient Selection for DIEP F
 Predictors of postoperative complications and unplanned reoperations 90 days following immediate alloplastic breast reconstruction.|https://dx.doi.org/10.1016/j.bjps.2026.06.007
 Reducing the burden of breast implant infections through a structured multidisciplinary pathway.|https://dx.doi.org/10.1016/j.jpra.2026.05.038
 Gaps in public health surveillance of elective surgery: a national analysis of inpatient data, COVID-19 impact, and coding validity in Germany (2006-2023).|https://dx.doi.org/10.3389/fpubh.2026.1813408
+Lymphovenous Anastomosis for Treatment of Breast Lymphedema Following Delayed Autologous Reconstruction: A Case Report.|https://dx.doi.org/10.1002/micr.70267

@@ -54,3 +54,8 @@ A secreted AIP-Like peptide from Helcococcus kunzii inhibits the Agr quorum sens
 Resveratrol-Engineered Modified Chitosan-PVP-AgNP Composite Hydrogel Patch: A Potential Antibacterial and Antioxidant Biomaterial for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c00657
 Device and surgical procedure-related infections in Canadian acute care hospitals, 2020-2024.|https://dx.doi.org/10.14745/ccdr.v52i05a04
 Clinical, phenotypic and genotypic antimicrobial resistance profile of diabetic foot ulcer-associated bacterial isolates.|https://dx.doi.org/10.1038/s41598-026-61198-y
+Synergistic Induction of Neutrophilic Inflammatory Programs by Staphylococcus aureus and Cigarette Smoke in Airway Epithelial Cells.|https://dx.doi.org/10.4110/in.2026.26.e21
+Endocarditis in Adults with Congenital Heart Disease.|https://dx.doi.org/10.14797/mdcvj.1799
+Successful use of bacteriophage therapy for a Staphylococcus aureus prosthetic joint infection in Canada.|https://dx.doi.org/10.3138/jammi-2025-0015
+Polymicrobial Streptococcus mitis and Vagococcus fluvialis infective endocarditis.|https://dx.doi.org/10.3138/jammi-2025-0040
+SEM evaluation of dental cement surface morphology and microbial adhesion - a comparative study.|https://dx.doi.org/10.47162/RJME.67.1.17

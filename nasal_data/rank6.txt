@@ -7,3 +7,4 @@ Research progress on T-cell responses in Staphylococcus aureus infections.|https
 Therapeutic Vaccines Based on Iron-Coordinated Metal-Phenolic Networks for Eradicating Drug-Resistant Staphylococcus aureus.|https://dx.doi.org/10.1021/acsabm.6c00576
 Tunable rigid spikes on virus-like porous silica enable mechanistically controlled nanovaccine platforms.|https://dx.doi.org/10.1016/j.jconrel.2026.115158
 A review of the randomized clinical trial results from the Staphylococcus aureus network adaptive platform (SNAP) meticillin-susceptible (MSSA) and penicillin-susceptible (PSSA) domains and CloCeBa.|https://dx.doi.org/10.1093/jac/dkag215
+Childhood sepsis burden: pathogens/antimicrobial-resistant bacteria, 1990-2021 and 2050 forecasts.|https://dx.doi.org/10.3389/fcimb.2026.1855912
