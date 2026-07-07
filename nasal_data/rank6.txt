@@ -8,3 +8,5 @@ Therapeutic Vaccines Based on Iron-Coordinated Metal-Phenolic Networks for Eradi
 Tunable rigid spikes on virus-like porous silica enable mechanistically controlled nanovaccine platforms.|https://dx.doi.org/10.1016/j.jconrel.2026.115158
 A review of the randomized clinical trial results from the Staphylococcus aureus network adaptive platform (SNAP) meticillin-susceptible (MSSA) and penicillin-susceptible (PSSA) domains and CloCeBa.|https://dx.doi.org/10.1093/jac/dkag215
 Childhood sepsis burden: pathogens/antimicrobial-resistant bacteria, 1990-2021 and 2050 forecasts.|https://dx.doi.org/10.3389/fcimb.2026.1855912
+A multi-functional microneedle patch loaded with mupirocin and L-arginine nanoparticles for enhancing antibacterial activity, anti-inflammation and diabetic wound healing.|https://dx.doi.org/10.1016/j.ejpb.2026.115176
+Mupirocin-mediated downregulation of claudin-14 enhances chemosensitivity in human colorectal cancer cells.|https://dx.doi.org/10.1016/j.bbamcr.2026.120181

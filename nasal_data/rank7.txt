@@ -59,3 +59,6 @@ Endocarditis in Adults with Congenital Heart Disease.|https://dx.doi.org/10.1479
 Successful use of bacteriophage therapy for a Staphylococcus aureus prosthetic joint infection in Canada.|https://dx.doi.org/10.3138/jammi-2025-0015
 Polymicrobial Streptococcus mitis and Vagococcus fluvialis infective endocarditis.|https://dx.doi.org/10.3138/jammi-2025-0040
 SEM evaluation of dental cement surface morphology and microbial adhesion - a comparative study.|https://dx.doi.org/10.47162/RJME.67.1.17
+Staphylococcus aureus rewires arginine metabolism to drive mammary aging via macrophage-epithelial crosstalk.|https://dx.doi.org/10.1371/journal.ppat.1014403
+Vacuum Scaling Drainage in the Treatment of Infected Elbow Charcot Neuroarthropathy: A Case Report and Literature Review.|https://dx.doi.org/10.12659/AJCR.952838
+Distribution of putative SSI risk factors in adults undergoing open reduction and fixation of long bone fracture.|https://dx.doi.org/10.1007/s00590-026-04845-4
