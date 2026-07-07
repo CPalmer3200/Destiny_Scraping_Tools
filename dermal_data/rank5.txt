@@ -8,3 +8,4 @@ Healing cascades and infections in wounds monitored using a wearable sensor of g
 Cefdinir reprograms Gram-positive bacteria to synergize with lysozyme against superbugs.|https://dx.doi.org/10.1002/mlf2.70080
 Pseudomonas stutzeri gastrointestinal infection in a patient with cardiovascular disease: a case report.|https://dx.doi.org/10.1186/s13256-026-06277-4
 Selective Modulation of Cutibacterium acnes Biofilms in Acne: Limitations of Conventional Therapies and Emerging Anti-Virulence Strategies.|https://dx.doi.org/10.2147/CCID.S621646
+Methamphetamine promotes methicillin-resistant Staphylococcus aureus subcutaneous infection through innate immune dysregulation and altered expression of biofilm-associated genes.|https://dx.doi.org/10.1099/mic.0.001732

@@ -8,3 +8,5 @@ Nanocellulose-Silver Nanoparticle Nanocomposites for Hydrogel, Aerogel, and Film
 Click-Chemistry-Based Antibacterial Hybrid Hydrogel with Sustained Puerarin Release for Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c00901
 Untreated Rosehip Powder/Poly(Lactic Acid)/Poly(3-Hydroxybutyrate-Co-4-Hydroxybutyrate) Electrospun Mats for Wound Dressing Applications.|https://dx.doi.org/10.1002/bip.70114
 A conductive MXene hydrogel reprograms immunity and autophagy to restore neurovascular repair in infected wounds.|https://dx.doi.org/10.1093/rb/rbag108
+Fabrication and evaluation of a bi-layered electrospun polyacrylonitrile/polycaprolactone-chitosan/gelatin/polyethylene oxide nanofibers containing antibiotics and nanoparticles: antibacterial and antibiofilm activity.|https://dx.doi.org/10.1038/s41598-026-60945-5
+A Tissue-Homologous Keratin-PBA Hydrogel Integrating Rationally Designed Nanomicelles Enables Microenvironment-Adaptive Repair of Chronic Diabetic Wounds.|https://dx.doi.org/10.1002/smll.74439
