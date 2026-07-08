@@ -62,3 +62,8 @@ SEM evaluation of dental cement surface morphology and microbial adhesion - a co
 Staphylococcus aureus rewires arginine metabolism to drive mammary aging via macrophage-epithelial crosstalk.|https://dx.doi.org/10.1371/journal.ppat.1014403
 Vacuum Scaling Drainage in the Treatment of Infected Elbow Charcot Neuroarthropathy: A Case Report and Literature Review.|https://dx.doi.org/10.12659/AJCR.952838
 Distribution of putative SSI risk factors in adults undergoing open reduction and fixation of long bone fracture.|https://dx.doi.org/10.1007/s00590-026-04845-4
+Dihalogenated indoles with antimicrobial activity against C. acnes and polymicrobial biofilms.|https://dx.doi.org/10.1016/j.micpath.2026.108685
+Value of the Pitt bacteremia score in predicting the outcome of non-bacteremic patients with infections caused by multidrug-resistant organisms.|https://dx.doi.org/10.1016/j.ijid.2026.108960
+Rising Incidence of Group A Streptococcal Musculoskeletal Infections in Pediatric Patients.|https://dx.doi.org/10.3928/01477447-20260619-01
+A Multifunctional Hydrogel Integrating Hemostatic, Antioxidant, and Antibacterial Properties for Infected and Diabetic Wound Regeneration.|https://dx.doi.org/10.1021/acsami.6c07168
+Antimicrobial resistance profiles of ESKAPE pathogens isolated in a microbiology laboratory in Somalia: a two-year retrospective study.|https://dx.doi.org/10.1186/s12879-026-13896-1
