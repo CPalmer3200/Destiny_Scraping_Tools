@@ -7,3 +7,5 @@ Cefepime resistance with preserved ceftriaxone susceptibility in Proteus mirabil
 Regenerative polymer-based modalities for diabetic foot ulcers: From material design to clinical translation.|https://dx.doi.org/10.1016/j.nano.2026.102988
 Clinical, phenotypic and genotypic antimicrobial resistance profile of diabetic foot ulcer-associated bacterial isolates.|https://dx.doi.org/10.1038/s41598-026-61198-y
 Association Between the Systemic Inflammatory Response Index and Severe Infection in Patients with Diabetic Foot.|https://dx.doi.org/10.2147/DMSO.S605794
+Streptococcus agalactiae bone and joint infection: a multicentre observational study 2014-23.|https://dx.doi.org/10.1016/j.jinf.2026.106804
+Evidence-based PET in musculoskeletal infectious and inflammatory diseases.|https://dx.doi.org/10.23736/S1824-4785.26.03712-X
