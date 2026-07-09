@@ -9,3 +9,4 @@ Clinical, phenotypic and genotypic antimicrobial resistance profile of diabetic 
 Association Between the Systemic Inflammatory Response Index and Severe Infection in Patients with Diabetic Foot.|https://dx.doi.org/10.2147/DMSO.S605794
 Streptococcus agalactiae bone and joint infection: a multicentre observational study 2014-23.|https://dx.doi.org/10.1016/j.jinf.2026.106804
 Evidence-based PET in musculoskeletal infectious and inflammatory diseases.|https://dx.doi.org/10.23736/S1824-4785.26.03712-X
+Integrative neuromodulation in diabetic foot infections: electroacupuncture-driven macrophage reprogramming and synergy with antimicrobial biomaterials.|https://dx.doi.org/10.3389/fcimb.2026.1874221

@@ -10,3 +10,5 @@ Pseudomonas stutzeri gastrointestinal infection in a patient with cardiovascular
 Selective Modulation of Cutibacterium acnes Biofilms in Acne: Limitations of Conventional Therapies and Emerging Anti-Virulence Strategies.|https://dx.doi.org/10.2147/CCID.S621646
 Methamphetamine promotes methicillin-resistant Staphylococcus aureus subcutaneous infection through innate immune dysregulation and altered expression of biofilm-associated genes.|https://dx.doi.org/10.1099/mic.0.001732
 Dihalogenated indoles with antimicrobial activity against C. acnes and polymicrobial biofilms.|https://dx.doi.org/10.1016/j.micpath.2026.108685
+Preactivated macrophage membrane vesicle-engineered yolk-shell nanoplatform for dual-targeted mild photothermal-triggered cascade gas therapy in MRSA-infected bone and soft tissue regeneration.|https://dx.doi.org/10.1016/j.biomaterials.2026.124416
+Biofilm-Binding Phages Enhance Biofilm Eradication by Synergistic Photothermal and Photodynamic Therapy.|https://dx.doi.org/10.1002/advs.202523904

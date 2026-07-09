@@ -12,3 +12,5 @@ Fabrication and evaluation of a bi-layered electrospun polyacrylonitrile/polycap
 A Tissue-Homologous Keratin-PBA Hydrogel Integrating Rationally Designed Nanomicelles Enables Microenvironment-Adaptive Repair of Chronic Diabetic Wounds.|https://dx.doi.org/10.1002/smll.74439
 Multifunctional xylitol-HA hydrogel for chronic rhinosinusitis management.|https://dx.doi.org/10.1016/j.amjoto.2026.104878
 A Multifunctional Hydrogel Integrating Hemostatic, Antioxidant, and Antibacterial Properties for Infected and Diabetic Wound Regeneration.|https://dx.doi.org/10.1021/acsami.6c07168
+Antibiotic release from keratin hydrogels for use in wound healing applications.|https://dx.doi.org/10.1088/1748-605X/ae8817
+Electroactive Sodium Alginate-Based Hydrogel Textile for Synergistic Antibacterial and Regenerative Therapy in Diabetic Wound.|https://dx.doi.org/10.1002/adhm.71428
