@@ -67,3 +67,11 @@ Value of the Pitt bacteremia score in predicting the outcome of non-bacteremic p
 Rising Incidence of Group A Streptococcal Musculoskeletal Infections in Pediatric Patients.|https://dx.doi.org/10.3928/01477447-20260619-01
 A Multifunctional Hydrogel Integrating Hemostatic, Antioxidant, and Antibacterial Properties for Infected and Diabetic Wound Regeneration.|https://dx.doi.org/10.1021/acsami.6c07168
 Antimicrobial resistance profiles of ESKAPE pathogens isolated in a microbiology laboratory in Somalia: a two-year retrospective study.|https://dx.doi.org/10.1186/s12879-026-13896-1
+Antibiotic release from keratin hydrogels for use in wound healing applications.|https://dx.doi.org/10.1088/1748-605X/ae8817
+Immune protection and persistence in Pseudomonas aeruginosa infections by pyruvate cross-feeding.|https://dx.doi.org/10.1038/s41467-026-75330-z
+Beyond bacterial communication: host factors that modulate quorum sensing and virulence in human pathogens.|https://dx.doi.org/10.1080/17460913.2026.2700916
+Retropharyngeal and parapharyngeal abscesses in children - a 9.5-year retrospective single-center analysis followed by literature review.|https://dx.doi.org/10.5604/01.3001.0055.7682
+Germanium-embedded bioactive fabric reduces bacterial bioburden and modulates fibroblast and macrophage behavior in vitro.|https://dx.doi.org/10.3389/fbioe.2026.1823301
+Characteristics and Risk Factors for Mortality of Vascular Graft Infections: a Cohort Study.|https://dx.doi.org/10.1093/ofid/ofag385
+Stylet-protected guidewire-exchange for infected tunneled hemodialysis catheters: Outcomes from a single-center retrospective study.|https://dx.doi.org/10.1177/11297298261452710
+Enfermedades infecciosas respiratorias en pacientes de unidades de cuidados intensivos en dos hospitales de Guayaquil, Ecuador, 2024.|https://dx.doi.org/10.7705/biomedica.8220
