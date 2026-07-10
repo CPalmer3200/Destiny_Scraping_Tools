@@ -17,3 +17,6 @@ Lymphovenous Anastomosis for Treatment of Breast Lymphedema Following Delayed Au
 Prophylactic Local Antibiotic Therapy in Tissue Expander-Based Breast Reconstruction: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1007/s00266-026-06074-w
 Redefining Gynecomastia Surgery: Subtle Changes and Naturalistic Results.|https://dx.doi.org/10.1007/s00266-026-06078-6
 Reconstruction of a rare case of bilateral juvenile gigantomastia at a tertiary hospital: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000596
+Optimal Timing for Expander to Implant Exchange After Postmastectomy Radiation Therapy.|https://dx.doi.org/10.1097/SAP.0000000000004803
+The Impact of Nontobacco Nicotine Dependence on Postoperative Complications in Reconstructive and Aesthetic Breast Surgery Procedures: A Multicenter Propensity-Score Matched Analysis.|https://dx.doi.org/10.1097/SAP.0000000000004822
+Wound Dressing and Postoperative Complications Following Breast Reduction: A Retrospective Study of 250 Patients.|https://dx.doi.org/10.1093/asjof/ojag131

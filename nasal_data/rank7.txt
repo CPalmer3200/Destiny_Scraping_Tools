@@ -75,3 +75,6 @@ Germanium-embedded bioactive fabric reduces bacterial bioburden and modulates fi
 Characteristics and Risk Factors for Mortality of Vascular Graft Infections: a Cohort Study.|https://dx.doi.org/10.1093/ofid/ofag385
 Stylet-protected guidewire-exchange for infected tunneled hemodialysis catheters: Outcomes from a single-center retrospective study.|https://dx.doi.org/10.1177/11297298261452710
 Enfermedades infecciosas respiratorias en pacientes de unidades de cuidados intensivos en dos hospitales de Guayaquil, Ecuador, 2024.|https://dx.doi.org/10.7705/biomedica.8220
+Host-pathogen interactions during ESKAPE-mediated urinary tract infections and ventilator-associated pneumonia: a review.|https://dx.doi.org/10.1007/s12223-026-01549-4
+Aortic Infections-A Narrative Review.|https://dx.doi.org/10.1177/10962964251414374
+Characterization of secondary bacterial infections in Buruli ulcer disease in Ghana: a focus on antimicrobial resistant Staphylococcus aureus.|https://dx.doi.org/10.1186/s12879-026-13986-0
