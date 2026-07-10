@@ -10,3 +10,5 @@ Association Between the Systemic Inflammatory Response Index and Severe Infectio
 Streptococcus agalactiae bone and joint infection: a multicentre observational study 2014-23.|https://dx.doi.org/10.1016/j.jinf.2026.106804
 Evidence-based PET in musculoskeletal infectious and inflammatory diseases.|https://dx.doi.org/10.23736/S1824-4785.26.03712-X
 Integrative neuromodulation in diabetic foot infections: electroacupuncture-driven macrophage reprogramming and synergy with antimicrobial biomaterials.|https://dx.doi.org/10.3389/fcimb.2026.1874221
+Characterization of microbiome diversity and its association with healing outcomes in diabetic foot ulcer patients.|https://dx.doi.org/10.1038/s41598-026-54045-7
+Transcutaneous CO(2) Therapy Improves Tissue Oxygenation, Ulcer Healing and Pain in Recurrent Hard-to-Heal Diabetic Foot Ulcers: A Randomized Controlled Trial.|https://dx.doi.org/10.1177/15347346261468402

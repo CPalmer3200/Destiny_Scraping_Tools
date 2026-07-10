@@ -12,3 +12,5 @@ Methamphetamine promotes methicillin-resistant Staphylococcus aureus subcutaneou
 Dihalogenated indoles with antimicrobial activity against C. acnes and polymicrobial biofilms.|https://dx.doi.org/10.1016/j.micpath.2026.108685
 Preactivated macrophage membrane vesicle-engineered yolk-shell nanoplatform for dual-targeted mild photothermal-triggered cascade gas therapy in MRSA-infected bone and soft tissue regeneration.|https://dx.doi.org/10.1016/j.biomaterials.2026.124416
 Biofilm-Binding Phages Enhance Biofilm Eradication by Synergistic Photothermal and Photodynamic Therapy.|https://dx.doi.org/10.1002/advs.202523904
+Sweet cherry pomace polyphenols disrupt Salmonella enteritidis colonization on chicken skin.|https://dx.doi.org/10.1016/j.fm.2026.105195
+AtQQS, an Arabidopsis-specific orphan protein, exhibits broad-spectrum antimicrobial activity through membrane disruption.|https://dx.doi.org/10.1016/j.bbrc.2026.154258
