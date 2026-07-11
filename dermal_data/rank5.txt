@@ -14,3 +14,5 @@ Preactivated macrophage membrane vesicle-engineered yolk-shell nanoplatform for 
 Biofilm-Binding Phages Enhance Biofilm Eradication by Synergistic Photothermal and Photodynamic Therapy.|https://dx.doi.org/10.1002/advs.202523904
 Sweet cherry pomace polyphenols disrupt Salmonella enteritidis colonization on chicken skin.|https://dx.doi.org/10.1016/j.fm.2026.105195
 AtQQS, an Arabidopsis-specific orphan protein, exhibits broad-spectrum antimicrobial activity through membrane disruption.|https://dx.doi.org/10.1016/j.bbrc.2026.154258
+N-sulfonylated indole hydrazone hybrid targeting Staphylococcus aureus with compelling antibiofilm and membrane-disrupting properties.|https://dx.doi.org/10.1007/s00210-026-05670-6
+A Clinical and Economic Framework for Identifying Potentially Avoidable Infection-Related Costs Following Minimally Invasive Aesthetic Procedures.|https://dx.doi.org/10.7759/cureus.110520

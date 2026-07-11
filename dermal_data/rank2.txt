@@ -12,3 +12,6 @@ Evidence-based PET in musculoskeletal infectious and inflammatory diseases.|http
 Integrative neuromodulation in diabetic foot infections: electroacupuncture-driven macrophage reprogramming and synergy with antimicrobial biomaterials.|https://dx.doi.org/10.3389/fcimb.2026.1874221
 Characterization of microbiome diversity and its association with healing outcomes in diabetic foot ulcer patients.|https://dx.doi.org/10.1038/s41598-026-54045-7
 Transcutaneous CO(2) Therapy Improves Tissue Oxygenation, Ulcer Healing and Pain in Recurrent Hard-to-Heal Diabetic Foot Ulcers: A Randomized Controlled Trial.|https://dx.doi.org/10.1177/15347346261468402
+Application of Smart Hydrogels in Diabetic Wound Management: Microenvironment-Responsive Strategies and Clinical Translation Challenges.|https://dx.doi.org/10.1021/acsbiomaterials.6c00731
+Combination therapy strategies for diabetic foot ulcers: synthesizing antibiotics, growth factors, and nanocarriers in modern wound management.|https://dx.doi.org/10.1080/20415990.2026.2699574
+Integrated mechanical and metabolic limb salvage for advanced diabetic Charcot hindfoot collapse with non-traumatic calcaneal fracture: an 8-year follow-up case report.|https://dx.doi.org/10.1186/s12891-026-10193-5
