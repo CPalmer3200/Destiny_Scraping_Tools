@@ -16,3 +16,4 @@ Antibiotic release from keratin hydrogels for use in wound healing applications.
 Electroactive Sodium Alginate-Based Hydrogel Textile for Synergistic Antibacterial and Regenerative Therapy in Diabetic Wound.|https://dx.doi.org/10.1002/adhm.71428
 Synergistic Magneto-Electro-Thermal Biochemical Cascade Modulation Enables Rapid Healing and Functional Restoration of Infected Wounds.|https://dx.doi.org/10.1016/j.actbio.2026.07.008
 Oxygen-Delivering Antimicrobial Janus Hydrogels for Wound Healing Applications.|https://dx.doi.org/10.1002/mabi.70213
+NIR-Triggered On-Demand Synergistic Therapy for Multidrug-Resistant Bacterial Infections Via a Smart Phase-Transition Hydrogel.|https://dx.doi.org/10.1002/adhm.71404

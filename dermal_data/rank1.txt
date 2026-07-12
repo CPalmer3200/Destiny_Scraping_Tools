@@ -4,3 +4,4 @@ Nanozyme-crosslinked dual-network hydrogel enables multi-stage modulation of the
 Assessment of the enhanced antibacterial activity of snail mucus, thymol, and ferulic acid in a rat model of burn wounds infected with Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1080/17460913.2026.2692268
 Crosslinker-free PVA hydrogel incorporating a water-soluble Ir(III) photosensitizer for antibacterial photodynamic applications in wound healing.|https://dx.doi.org/10.1039/d6tb00946h
 3D-Printed hyaluronic acid-methyl cellulose interpenetrating polymer network hydrogels loaded with amoxicillin for advanced burn wound treatment.|https://dx.doi.org/10.1016/j.bioadv.2026.215048
+Development and in vitro evaluation of teicoplanin PEGylated (TEC-PEGylated) niosomes for antimicrobial and anti-biofilm activity against vancomycin-intermediate Staphylococcus aureus (VISA).|https://dx.doi.org/10.1186/s12896-026-01201-6

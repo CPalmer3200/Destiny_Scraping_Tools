@@ -15,3 +15,6 @@ Transcutaneous CO(2) Therapy Improves Tissue Oxygenation, Ulcer Healing and Pain
 Application of Smart Hydrogels in Diabetic Wound Management: Microenvironment-Responsive Strategies and Clinical Translation Challenges.|https://dx.doi.org/10.1021/acsbiomaterials.6c00731
 Combination therapy strategies for diabetic foot ulcers: synthesizing antibiotics, growth factors, and nanocarriers in modern wound management.|https://dx.doi.org/10.1080/20415990.2026.2699574
 Integrated mechanical and metabolic limb salvage for advanced diabetic Charcot hindfoot collapse with non-traumatic calcaneal fracture: an 8-year follow-up case report.|https://dx.doi.org/10.1186/s12891-026-10193-5
+The Effectiveness of Topical Gel Containing Arginine-Releasing Chitosan Nanofibers on the Healing of Diabetic Foot Ulcers: A Randomized Controlled Clinical Trial.|https://dx.doi.org/10.4103/ijpvm.ijpvm_41_24
+Microbiological and inflammatory profiles in diabetic foot infection: A severity-stratified analysis.|https://dx.doi.org/10.1097/MD.0000000000049558
+Plasma-activated water as a wound rinse solution in patients with diabetes-related foot ulcers in two Australian hospitals: study protocol for a phase I double-blinded, randomised controlled trial.|https://dx.doi.org/10.1136/bmjopen-2026-118420
