@@ -16,3 +16,4 @@ Research on animal models of chronic dacryocystitis in dogs.|https://dx.doi.org/
 Multifunctional xylitol-HA hydrogel for chronic rhinosinusitis management.|https://dx.doi.org/10.1016/j.amjoto.2026.104878
 Prevalencia de colonización de Staphylococcus aureus resistente a la meticilina en personal odontológico: revisión sistemática y metaanálisis.|https://dx.doi.org/10.7705/biomedica.5794
 Is nasal MRSA carriage a concern among African people and local communities in North Cyprus?|https://dx.doi.org/10.3855/jidc.21710
+Data-driven exploration of electronic nose technology to differentiate bacteria in blood cultures under biofilm-promoting conditions.|https://dx.doi.org/10.1038/s41598-026-62071-8

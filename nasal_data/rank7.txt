@@ -84,3 +84,7 @@ The cryo-EM structure of bacteriophage PRR1 and its role in conjugation inhibiti
 mSphere of Influence: Understanding atopic disease through the dynamics of skin-microbe interactions.|https://dx.doi.org/10.1128/msphere.00797-25
 Mediastinitis after cardiac surgery, from microbes to management: a systematic review.|https://dx.doi.org/10.21037/med-2025-1-75
 Bacterial profiles, antibiotic resistance, and recurrence of UTIs during pregnancy: a prospective cohort study from Palestine.|https://dx.doi.org/10.1186/s12879-026-13978-0
+In Vitro Susceptibility of Methicillin-Resistant Staphylococcus aureus to Ceftaroline: A Prospective Observational Study From a Tertiary Care Hospital in North India.|https://dx.doi.org/10.7759/cureus.110593
+Social Determinants of Health Are Associated With Increased Risk of Preoperative Methicillin-Resistant Staphylococcus aureus Colonization in Patients Undergoing Total Joint Arthroplasty.|https://dx.doi.org/10.1016/j.artd.2026.102083
+Efficacy of circumferential surgery for multisegmental pyogenic cervical spine infection.|https://dx.doi.org/10.1186/s12893-026-03931-y
+The cyclic adenosine monophosphate-ArcRsa signaling axis modulates biofilm formation in dairy-derived Staphylococcus aureus via transcriptional repression of ica operon.|https://dx.doi.org/10.3168/jds.2026-28916
