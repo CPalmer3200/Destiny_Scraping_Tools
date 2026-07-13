@@ -88,3 +88,5 @@ In Vitro Susceptibility of Methicillin-Resistant Staphylococcus aureus to Ceftar
 Social Determinants of Health Are Associated With Increased Risk of Preoperative Methicillin-Resistant Staphylococcus aureus Colonization in Patients Undergoing Total Joint Arthroplasty.|https://dx.doi.org/10.1016/j.artd.2026.102083
 Efficacy of circumferential surgery for multisegmental pyogenic cervical spine infection.|https://dx.doi.org/10.1186/s12893-026-03931-y
 The cyclic adenosine monophosphate-ArcRsa signaling axis modulates biofilm formation in dairy-derived Staphylococcus aureus via transcriptional repression of ica operon.|https://dx.doi.org/10.3168/jds.2026-28916
+A multiscale pathoanatomical atlas guides the design of functionally graded, anatomically intelligent implants for chronic osteomyelitis.|https://dx.doi.org/10.1016/j.bioactmat.2026.06.049
+Lubricious anti-adhesive interface prevents friction, biofilm, and encrustation in long-term indwelling ureteral stents.|https://dx.doi.org/10.1016/j.mtbio.2026.103405
