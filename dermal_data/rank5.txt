@@ -17,3 +17,5 @@ AtQQS, an Arabidopsis-specific orphan protein, exhibits broad-spectrum antimicro
 N-sulfonylated indole hydrazone hybrid targeting Staphylococcus aureus with compelling antibiofilm and membrane-disrupting properties.|https://dx.doi.org/10.1007/s00210-026-05670-6
 A Clinical and Economic Framework for Identifying Potentially Avoidable Infection-Related Costs Following Minimally Invasive Aesthetic Procedures.|https://dx.doi.org/10.7759/cureus.110520
 Design, synthesis, anti-MRSA activity evaluation, and mechanism of action study of 1,3-diamino-7H-pyrrolo[3,2-f]quinazoline derivatives.|https://dx.doi.org/10.1016/j.ejmech.2026.119127
+Formulation development and optimization of sparfloxacin-loaded solid lipid nanoparticles integrated with microneedles for the treatment of biofilm-infected wounds.|https://dx.doi.org/10.1016/j.ejpb.2026.115181
+Antibacterial peptide nanofibrils for targeted elimination of drug-resistant Staphylococci.|https://dx.doi.org/10.1039/d6nr01216g

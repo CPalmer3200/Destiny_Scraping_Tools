@@ -18,3 +18,4 @@ Integrated mechanical and metabolic limb salvage for advanced diabetic Charcot h
 The Effectiveness of Topical Gel Containing Arginine-Releasing Chitosan Nanofibers on the Healing of Diabetic Foot Ulcers: A Randomized Controlled Clinical Trial.|https://dx.doi.org/10.4103/ijpvm.ijpvm_41_24
 Microbiological and inflammatory profiles in diabetic foot infection: A severity-stratified analysis.|https://dx.doi.org/10.1097/MD.0000000000049558
 Plasma-activated water as a wound rinse solution in patients with diabetes-related foot ulcers in two Australian hospitals: study protocol for a phase I double-blinded, randomised controlled trial.|https://dx.doi.org/10.1136/bmjopen-2026-118420
+The Impact of Adjunctive Acupressure on Postoperative Infection and Hospital Stay in Wagner Grade 2-3 Diabetic Foot Ulcers: A Propensity Score-Stratified Cohort Study.|https://dx.doi.org/10.1111/iwj.70992

@@ -17,3 +17,4 @@ Electroactive Sodium Alginate-Based Hydrogel Textile for Synergistic Antibacteri
 Synergistic Magneto-Electro-Thermal Biochemical Cascade Modulation Enables Rapid Healing and Functional Restoration of Infected Wounds.|https://dx.doi.org/10.1016/j.actbio.2026.07.008
 Oxygen-Delivering Antimicrobial Janus Hydrogels for Wound Healing Applications.|https://dx.doi.org/10.1002/mabi.70213
 NIR-Triggered On-Demand Synergistic Therapy for Multidrug-Resistant Bacterial Infections Via a Smart Phase-Transition Hydrogel.|https://dx.doi.org/10.1002/adhm.71404
+Coaxial electrospun PCL/PVA core-shell nanofibrous scaffolds with green-synthesized AgNPs for release-regulated antibacterial activity.|https://dx.doi.org/10.1080/09205063.2026.2698001
