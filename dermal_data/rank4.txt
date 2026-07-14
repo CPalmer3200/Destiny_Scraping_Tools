@@ -18,3 +18,8 @@ Synergistic Magneto-Electro-Thermal Biochemical Cascade Modulation Enables Rapid
 Oxygen-Delivering Antimicrobial Janus Hydrogels for Wound Healing Applications.|https://dx.doi.org/10.1002/mabi.70213
 NIR-Triggered On-Demand Synergistic Therapy for Multidrug-Resistant Bacterial Infections Via a Smart Phase-Transition Hydrogel.|https://dx.doi.org/10.1002/adhm.71404
 Coaxial electrospun PCL/PVA core-shell nanofibrous scaffolds with green-synthesized AgNPs for release-regulated antibacterial activity.|https://dx.doi.org/10.1080/09205063.2026.2698001
+Bromelain-Stabilized Jelly Fig Polysaccharide/Poly(vinyl alcohol)-Based Multifunctional Nanofiber Scaffolds for Cutaneous Wound Healing: Fabrication, Characterization, and In Vitro and In Vivo Studies.|https://dx.doi.org/10.1021/acsabm.6c00496
+Long-term spatiotemporal biological and mechanobiological dynamics of Staphylococcus aureus biofilms.|https://dx.doi.org/10.1038/s41522-026-01097-2
+Self-Healing Antifouling Hydrogel Sensors Enabling Long-Term Monitoring of Potassium Ions in Marine Environments.|https://dx.doi.org/10.1021/acssensors.6c01238
+Melamine foam-based nanocomposite hydrogel with self-adhesion and antibacterial activity for pressure sensing.|https://dx.doi.org/10.1039/d6ra03123d
+Construction and property characterization of PNIPAAm-grafted chitosan/sodium alginate composite Thermo-responsive hydrogel films.|https://dx.doi.org/10.1016/j.fochx.2026.104176

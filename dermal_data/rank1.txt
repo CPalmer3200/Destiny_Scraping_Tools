@@ -5,3 +5,5 @@ Assessment of the enhanced antibacterial activity of snail mucus, thymol, and fe
 Crosslinker-free PVA hydrogel incorporating a water-soluble Ir(III) photosensitizer for antibacterial photodynamic applications in wound healing.|https://dx.doi.org/10.1039/d6tb00946h
 3D-Printed hyaluronic acid-methyl cellulose interpenetrating polymer network hydrogels loaded with amoxicillin for advanced burn wound treatment.|https://dx.doi.org/10.1016/j.bioadv.2026.215048
 Development and in vitro evaluation of teicoplanin PEGylated (TEC-PEGylated) niosomes for antimicrobial and anti-biofilm activity against vancomycin-intermediate Staphylococcus aureus (VISA).|https://dx.doi.org/10.1186/s12896-026-01201-6
+Construction of an Infection-Inflammation Microenvironment-Regulating Nano-antimicrobial Agent and Application in the Treatment of Burn Wounds Complicated with Multidrug-Resistant Staphylococcus aureus Infection.|https://dx.doi.org/10.1021/acsami.6c07159
+Vancomycin population pharmacokinetics in patients with burns.|https://dx.doi.org/10.3389/fmed.2026.1829805

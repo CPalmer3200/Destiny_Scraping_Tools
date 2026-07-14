@@ -1,2 +1,4 @@
 Clinical and molecular improvements in pediatric patients with atopic dermatitis treated with dupilumab: an analysis from the TREATKids registry.|https://dx.doi.org/10.1016/j.jid.2026.06.1283
 mSphere of Influence: Understanding atopic disease through the dynamics of skin-microbe interactions.|https://dx.doi.org/10.1128/msphere.00797-25
+Malignant T Cells Operate at the Edge of Redox Tolerance and Propagate Oxidative Stress in Cutaneous T-Cell Lymphoma.|https://dx.doi.org/10.1016/j.jid.2026.07.003
+Application of Acupuncture in the Management of Skin Diseases: A Review from the Perspective of the Microbiome.|https://dx.doi.org/10.3791/71199
