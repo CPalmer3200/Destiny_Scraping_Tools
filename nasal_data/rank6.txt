@@ -13,3 +13,5 @@ Mupirocin-mediated downregulation of claudin-14 enhances chemosensitivity in hum
 Bacterial pathogens and antimicrobial resistance patterns in infections associated with stillbirths and under-five deaths in Ethiopia: a post-mortem surveillance study.|https://dx.doi.org/10.1186/s12879-026-13961-9
 Antibody Correlates of Resilience to Staphylococcus aureus Disease and Recurrence in Children.|https://dx.doi.org/10.64898/2026.06.26.734609
 Preparation and evaluation of the effect of hydrogel containing Cedrus and mupirocin and application as a wound healing accelerator.|https://dx.doi.org/10.1097/MS9.0000000000003879
+A Synergistic Dual-Antibody Cocktail Targeting α-Toxin Protects Against Invasive Staphylococcus aureus Infection by Neutralizing Virulence and Enhancing Host Defense.|https://dx.doi.org/10.1002/mco2.70830
+"Just the Best Ones" combination: a new strategy for multi-epitope vaccine candidate based on immunoinformatics analysis to induce protective immunity against MRSA infection.|https://dx.doi.org/10.1128/spectrum.03085-25

@@ -21,3 +21,4 @@ Optimal Timing for Expander to Implant Exchange After Postmastectomy Radiation T
 The Impact of Nontobacco Nicotine Dependence on Postoperative Complications in Reconstructive and Aesthetic Breast Surgery Procedures: A Multicenter Propensity-Score Matched Analysis.|https://dx.doi.org/10.1097/SAP.0000000000004822
 Wound Dressing and Postoperative Complications Following Breast Reduction: A Retrospective Study of 250 Patients.|https://dx.doi.org/10.1093/asjof/ojag131
 Narrative review of descending necrotizing mediastinitis, focusing on the etiology, classification-guided surgical management, treatments, and prognosis.|https://dx.doi.org/10.21037/med-2025-1-46
+Chemotherapy was not independently associated with cancer-specific death in non-metastatic right-sided colon neuroendocrine carcinoma from SEER.|https://dx.doi.org/10.1038/s41598-026-62002-7

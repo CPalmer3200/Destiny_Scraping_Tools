@@ -90,3 +90,9 @@ Efficacy of circumferential surgery for multisegmental pyogenic cervical spine i
 The cyclic adenosine monophosphate-ArcRsa signaling axis modulates biofilm formation in dairy-derived Staphylococcus aureus via transcriptional repression of ica operon.|https://dx.doi.org/10.3168/jds.2026-28916
 A multiscale pathoanatomical atlas guides the design of functionally graded, anatomically intelligent implants for chronic osteomyelitis.|https://dx.doi.org/10.1016/j.bioactmat.2026.06.049
 Lubricious anti-adhesive interface prevents friction, biofilm, and encrustation in long-term indwelling ureteral stents.|https://dx.doi.org/10.1016/j.mtbio.2026.103405
+Self-Healing Antifouling Hydrogel Sensors Enabling Long-Term Monitoring of Potassium Ions in Marine Environments.|https://dx.doi.org/10.1021/acssensors.6c01238
+Construction of an Infection-Inflammation Microenvironment-Regulating Nano-antimicrobial Agent and Application in the Treatment of Burn Wounds Complicated with Multidrug-Resistant Staphylococcus aureus Infection.|https://dx.doi.org/10.1021/acsami.6c07159
+Microbial Characteristics and Etiologic Patterns of Endophthalmitis at a Tertiary Referral Center: A Retrospective Cohort Study.|https://dx.doi.org/10.17161/kjm.vol19.24297
+Outcomes of Surgical Site Infection Following Cranial Surgery From a UK Tertiary Center.|https://dx.doi.org/10.1093/ofid/ofag369
+Surgical management and functional outcomes of cranial infections requiring craniotomy or craniectomy: a retrospective cohort study.|https://dx.doi.org/10.3389/fsurg.2026.1850910
+Microbiological Signatures and Clinical Predictors of Severity in Diabetic Foot Infection.|https://dx.doi.org/10.5604/01.3001.0055.7787
