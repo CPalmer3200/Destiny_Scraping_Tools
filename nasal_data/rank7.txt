@@ -96,3 +96,10 @@ Microbial Characteristics and Etiologic Patterns of Endophthalmitis at a Tertiar
 Outcomes of Surgical Site Infection Following Cranial Surgery From a UK Tertiary Center.|https://dx.doi.org/10.1093/ofid/ofag369
 Surgical management and functional outcomes of cranial infections requiring craniotomy or craniectomy: a retrospective cohort study.|https://dx.doi.org/10.3389/fsurg.2026.1850910
 Microbiological Signatures and Clinical Predictors of Severity in Diabetic Foot Infection.|https://dx.doi.org/10.5604/01.3001.0055.7787
+Screening of prospective biofilm-inhibitory drug candidates aimed at the biofilm-associated protein (BAP) in Staphylococcus aureus: An in-silico investigation.|https://dx.doi.org/10.1016/bs.apcsb.2025.10.010
+Accuracy of data routinely collected by Australian hospitals for identifying infective endocarditis, causative organisms and clinical outcomes: a diagnostic accuracy study.|https://dx.doi.org/10.1111/imj.70498
+An Insect Chitosan/Konjac Glucomannan Multifunctional Photo-Cross-Linking Hydrogel Loaded with a Baicalin Nanodelivery System for Promoting MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00237
+Healthcare-Associated Infection Causes and Mitigation Strategies: A Systematic Review.|https://dx.doi.org/10.15537/1658-3175.8817
+Persistence of Biofilm-Forming and Multidrug-Resistant Staphylococcus aureus on High-Touch Hospital Surfaces Despite Routine Cleaning and Disinfection.|https://dx.doi.org/10.82082/2421-4248/jpmh2026.67.1.3885
+Macroheterocycle-functionalized PVDF meshes with hybrid nanocomposite coatings for antibacterial wound care.|https://dx.doi.org/10.1039/d6ra01997h
+Transmission of infectious agents in healthcare settings: a systematic review of healthcare-associated infections.|https://dx.doi.org/10.21101/cejph.a8870

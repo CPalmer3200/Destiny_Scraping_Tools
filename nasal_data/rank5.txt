@@ -22,3 +22,8 @@ The Impact of Nontobacco Nicotine Dependence on Postoperative Complications in R
 Wound Dressing and Postoperative Complications Following Breast Reduction: A Retrospective Study of 250 Patients.|https://dx.doi.org/10.1093/asjof/ojag131
 Narrative review of descending necrotizing mediastinitis, focusing on the etiology, classification-guided surgical management, treatments, and prognosis.|https://dx.doi.org/10.21037/med-2025-1-46
 Chemotherapy was not independently associated with cancer-specific death in non-metastatic right-sided colon neuroendocrine carcinoma from SEER.|https://dx.doi.org/10.1038/s41598-026-62002-7
+Prophylactic absorbable antibiotic-loaded cement and oral antibiotics for breast reconstruction: A multi-institutional study.|https://dx.doi.org/10.1016/j.bjps.2026.07.001
+Infection Outcomes in Implant-Based Breast Reconstruction: Five-Year Experience with the GAPS Protocol.|https://dx.doi.org/10.1097/PRS.0000000000013327
+Use of Absorbable Antibiotic Delivery Beads in Implant-Based Breast Reconstruction.|https://dx.doi.org/10.1097/PRS.0000000000013329
+Antibiotic Prophylaxis in Prepectoral Alloplastic Breast Reconstruction: Establishing Standards.|https://dx.doi.org/10.1097/PRS.0000000000013330
+Perioperative GLP-1 Receptor Agonist Use and 30-Day Outcomes After Breast Cancer Surgery: A Retrospective Cohort Study.|https://dx.doi.org/10.1002/wjs.70487
