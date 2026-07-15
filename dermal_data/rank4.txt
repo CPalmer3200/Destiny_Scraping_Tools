@@ -23,3 +23,5 @@ Long-term spatiotemporal biological and mechanobiological dynamics of Staphyloco
 Self-Healing Antifouling Hydrogel Sensors Enabling Long-Term Monitoring of Potassium Ions in Marine Environments.|https://dx.doi.org/10.1021/acssensors.6c01238
 Melamine foam-based nanocomposite hydrogel with self-adhesion and antibacterial activity for pressure sensing.|https://dx.doi.org/10.1039/d6ra03123d
 Construction and property characterization of PNIPAAm-grafted chitosan/sodium alginate composite Thermo-responsive hydrogel films.|https://dx.doi.org/10.1016/j.fochx.2026.104176
+Nonantibiotic-Dependent Photothermal-Chemodynamic Synergistic Antibacterial and Hemostatic Sponge Based on TiB(2) Nanosheet-Decorated Gelatin/Sodium Alginate Composites.|https://dx.doi.org/10.1021/acs.langmuir.6c02468
+An Insect Chitosan/Konjac Glucomannan Multifunctional Photo-Cross-Linking Hydrogel Loaded with a Baicalin Nanodelivery System for Promoting MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00237
