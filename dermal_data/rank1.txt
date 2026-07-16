@@ -7,3 +7,4 @@ Crosslinker-free PVA hydrogel incorporating a water-soluble Ir(III) photosensiti
 Development and in vitro evaluation of teicoplanin PEGylated (TEC-PEGylated) niosomes for antimicrobial and anti-biofilm activity against vancomycin-intermediate Staphylococcus aureus (VISA).|https://dx.doi.org/10.1186/s12896-026-01201-6
 Construction of an Infection-Inflammation Microenvironment-Regulating Nano-antimicrobial Agent and Application in the Treatment of Burn Wounds Complicated with Multidrug-Resistant Staphylococcus aureus Infection.|https://dx.doi.org/10.1021/acsami.6c07159
 Vancomycin population pharmacokinetics in patients with burns.|https://dx.doi.org/10.3389/fmed.2026.1829805
+Gentamicin-Loaded Electrospun PVA/Kefiran/Schizophyllan Membrane for Skin Tissue Engineering Applications.|https://dx.doi.org/10.3390/polym18131679

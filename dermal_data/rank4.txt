@@ -25,3 +25,7 @@ Melamine foam-based nanocomposite hydrogel with self-adhesion and antibacterial 
 Construction and property characterization of PNIPAAm-grafted chitosan/sodium alginate composite Thermo-responsive hydrogel films.|https://dx.doi.org/10.1016/j.fochx.2026.104176
 Nonantibiotic-Dependent Photothermal-Chemodynamic Synergistic Antibacterial and Hemostatic Sponge Based on TiB(2) Nanosheet-Decorated Gelatin/Sodium Alginate Composites.|https://dx.doi.org/10.1021/acs.langmuir.6c02468
 An Insect Chitosan/Konjac Glucomannan Multifunctional Photo-Cross-Linking Hydrogel Loaded with a Baicalin Nanodelivery System for Promoting MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00237
+Synergistic anti-infection and osteogenesis via a 3D-printed titanium scaffold with kanamycin sulfate-loaded hydrogel sustained-release system for infected-bone regeneration.|https://dx.doi.org/10.1016/j.dental.2026.07.009
+Selective Dye Adsorption and Antimicrobial Performance of Cellulose-Chitosan Hydrogels and Aerogels: Role of Supramolecular Organization.|https://dx.doi.org/10.3390/polym18131649
+Multifunctional Poly(thioctic acid) Composite Hydrogels with Self-Healing, Antibacterial, Antioxidant, and Adhesive Properties.|https://dx.doi.org/10.3390/ma19132695
+Copper-Coordinated Hyaluronic Acid Hydrogels with Antibacterial and Anti-Inflammatory Activities.|https://dx.doi.org/10.3390/molecules31132368
