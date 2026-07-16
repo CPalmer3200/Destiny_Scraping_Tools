@@ -18,3 +18,5 @@ Prevalencia de colonización de Staphylococcus aureus resistente a la meticilina
 Is nasal MRSA carriage a concern among African people and local communities in North Cyprus?|https://dx.doi.org/10.3855/jidc.21710
 Data-driven exploration of electronic nose technology to differentiate bacteria in blood cultures under biofilm-promoting conditions.|https://dx.doi.org/10.1038/s41598-026-62071-8
 Effects of elexacaftor/tezacaftor/ivacaftor on the nasal microbial metagenome in cystic fibrosis.|https://dx.doi.org/10.1128/spectrum.00601-26
+Pediatric necrotizing pneumonia: Clinical features, microbiology, management, and outcomes in the tertiary center.|https://dx.doi.org/10.1016/j.ajem.2026.07.010
+Antibiotic Prophylaxis and Surgical Site Infections in Septoplasty.|https://dx.doi.org/10.1111/coa.70145

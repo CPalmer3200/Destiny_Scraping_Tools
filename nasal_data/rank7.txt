@@ -103,3 +103,11 @@ Healthcare-Associated Infection Causes and Mitigation Strategies: A Systematic R
 Persistence of Biofilm-Forming and Multidrug-Resistant Staphylococcus aureus on High-Touch Hospital Surfaces Despite Routine Cleaning and Disinfection.|https://dx.doi.org/10.82082/2421-4248/jpmh2026.67.1.3885
 Macroheterocycle-functionalized PVDF meshes with hybrid nanocomposite coatings for antibacterial wound care.|https://dx.doi.org/10.1039/d6ra01997h
 Transmission of infectious agents in healthcare settings: a systematic review of healthcare-associated infections.|https://dx.doi.org/10.21101/cejph.a8870
+Integral Risk Assessment Associated to Aerobiome Dynamics and Environmental Parameters During Septic Surgical Procedures.|https://dx.doi.org/10.1016/j.jhin.2026.07.004
+Higher body weight and current smoking are associated with lower concentrations of perioperative antibiotic prophylaxis in the synovial fluid of the shoulder joint.|https://dx.doi.org/10.1016/j.jse.2026.06.026
+Diagnostic utility of conventional culture and nucleic acid amplification tests to detect Staphylococcus aureus and Streptococcus pyogenes for the inclusion or exclusion of infection in skin ulcers: An etiologic predictive value analysis.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117553
+Multidisciplinary management and outcomes of abdominal vascular graft and endograft infections: a retrospective cohort study.|https://dx.doi.org/10.1007/s15010-026-02885-w
+Vancomycin-impregnated decellularized bovine pericardium membranes coating silicone implants: in-vivo biocompatibility and antibacterial efficacy in a rat model.|https://dx.doi.org/10.1590/acb413326
+Adult Empyema Caused by Refractory Methicillin-Resistant Staphylococcus aureus Treated Using Linezolid as Salvage Therapeutic Option: A Report of Two Cases.|https://dx.doi.org/10.2147/IDR.S625227
+Case Report: Interim success in treating pyogenic spondylitis caused by Staphylococcus epidermidis using UBE technology: a rare case.|https://dx.doi.org/10.3389/fsurg.2026.1847112
+Management of Infected, Non-Responsive Atopic Dermatitis in a Romanian Center.|https://dx.doi.org/10.3390/jcm15135248
