@@ -29,3 +29,5 @@ Antibiotic Prophylaxis in Prepectoral Alloplastic Breast Reconstruction: Establi
 Perioperative GLP-1 Receptor Agonist Use and 30-Day Outcomes After Breast Cancer Surgery: A Retrospective Cohort Study.|https://dx.doi.org/10.1002/wjs.70487
 Biologic versus synthetic meshes in irradiated implant-based breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.bjps.2026.06.032
 Successful Salvage of Exposed Breast Implant Using a Myocapsular Flap: A Rare Case Report.|https://dx.doi.org/10.1097/GOX.0000000000007924
+The Effect of Preoperative Chewing Gum on Anxiety and Postoperative Sore Throat in Patients Using a Laryngeal Mask Airway: A Randomized Controlled Trial.|https://dx.doi.org/10.1111/ijn.70171
+Adinizer-Processed Microfragmented Adipose Tissue With Ligament-Targeted Prolotherapy for Acute-on-Chronic Kellgren-Lawrence Grade III Knee Osteoarthritis: A Case Report With 22-Month Follow-Up.|https://dx.doi.org/10.7759/cureus.110848

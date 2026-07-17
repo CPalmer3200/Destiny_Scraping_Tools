@@ -16,3 +16,4 @@ Preparation and evaluation of the effect of hydrogel containing Cedrus and mupir
 A Synergistic Dual-Antibody Cocktail Targeting α-Toxin Protects Against Invasive Staphylococcus aureus Infection by Neutralizing Virulence and Enhancing Host Defense.|https://dx.doi.org/10.1002/mco2.70830
 "Just the Best Ones" combination: a new strategy for multi-epitope vaccine candidate based on immunoinformatics analysis to induce protective immunity against MRSA infection.|https://dx.doi.org/10.1128/spectrum.03085-25
 Circulating T-cell phenotypes are influenced by prior Staphylococcus aureus exposure in hemodialysis patients.|https://dx.doi.org/10.1007/s10096-026-05581-7
+In-silico analysis of Bifidobacterium bifidum strain 900791 genome in the context of the B. bifidum pangenome.|https://dx.doi.org/10.3389/fcimb.2026.1744409

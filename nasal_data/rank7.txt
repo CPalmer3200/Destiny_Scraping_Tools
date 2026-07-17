@@ -111,3 +111,7 @@ Vancomycin-impregnated decellularized bovine pericardium membranes coating silic
 Adult Empyema Caused by Refractory Methicillin-Resistant Staphylococcus aureus Treated Using Linezolid as Salvage Therapeutic Option: A Report of Two Cases.|https://dx.doi.org/10.2147/IDR.S625227
 Case Report: Interim success in treating pyogenic spondylitis caused by Staphylococcus epidermidis using UBE technology: a rare case.|https://dx.doi.org/10.3389/fsurg.2026.1847112
 Management of Infected, Non-Responsive Atopic Dermatitis in a Romanian Center.|https://dx.doi.org/10.3390/jcm15135248
+Clinical Impact of Bacterial Colonization of the Airways During a Stent Trial in Patients with Excessive Central Airway Collapse.|https://dx.doi.org/10.1159/000552780
+Non-uniform susceptibility profiles observed in Staphylococcus aureus, Pseudomonas aeruginosa, and Acinetobacter baumannii toward both front-line and novel cationic biocides with diverse structural compositions.|https://dx.doi.org/10.1128/spectrum.01041-26
+Acid exposure induces adaptive resistance in Klebsiella pneumoniae to combination treatment with antibiotics and biofilm-disrupting surgical lavage.|https://dx.doi.org/10.1128/spectrum.00243-26
+Staphylococcus aureus aggravates psoriasis in human keratinocytes with the assistance of IL-17A and TNF- α, along with a contribution from genes associated with skin cutaneous melanoma.|https://dx.doi.org/10.22099/mbrc.2025.54205.2207
