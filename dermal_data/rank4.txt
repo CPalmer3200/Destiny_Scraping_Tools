@@ -29,3 +29,7 @@ Synergistic anti-infection and osteogenesis via a 3D-printed titanium scaffold w
 Selective Dye Adsorption and Antimicrobial Performance of Cellulose-Chitosan Hydrogels and Aerogels: Role of Supramolecular Organization.|https://dx.doi.org/10.3390/polym18131649
 Multifunctional Poly(thioctic acid) Composite Hydrogels with Self-Healing, Antibacterial, Antioxidant, and Adhesive Properties.|https://dx.doi.org/10.3390/ma19132695
 Copper-Coordinated Hyaluronic Acid Hydrogels with Antibacterial and Anti-Inflammatory Activities.|https://dx.doi.org/10.3390/molecules31132368
+A bifunctional ZIF-8 nanoprobe with spatially decoupled ratiometric channels for hydrogel-based portable detection of Staphylococcus aureus.|https://dx.doi.org/10.1016/j.saa.2026.128441
+Metal-organic frameworks nanozyme-integrated portable microneedle patch for visual bacterial monitoring in meat.|https://dx.doi.org/10.1016/j.foodchem.2026.150407
+Bioinspired Catechol-Nanocellulose/Chitosan Polymeric Hydrogel with Enhanced Wet Adhesion and Antibacterial Activity for Diabetic Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00795
+Drug delivery with fewer fouls: localized antibiotic release and reduced surface biofouling with glutathione-conjugated hydrogels.|https://dx.doi.org/10.1039/d5tb02919h

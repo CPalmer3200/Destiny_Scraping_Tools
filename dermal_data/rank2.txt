@@ -26,3 +26,7 @@ Next-generation multifunctional scaffolds for diabetic foot ulcers: Harnessing m
 The acute diabetic foot: different clinical patterns with a dedicated fast-track pathway.|https://dx.doi.org/10.1007/s00592-026-02746-w
 Integrating Clinical Classifications Software Refined, Process Indicators, and Geographic Information System Mapping to Inform Population Health Management: Development of an Interactive Dashboard.|https://dx.doi.org/10.2196/80431
 Model-informed precision dosing of linezolid for the treatment of diabetic foot infections.|https://dx.doi.org/10.1002/bcp.70641
+Cold atmospheric plasma accelerates wound closure and reduces pathogenic bacterial load in diabetic foot ulcers: a randomized controlled trial.|https://dx.doi.org/10.1038/s41598-026-62803-w
+Innovative microneedle-integrated hydrogels: a promising strategy for diabetic foot ulcer management.|https://dx.doi.org/10.3389/fbioe.2026.1826873
+Single-cell reanalysis identifies macrophage-associated transcriptional and intercellular communication features in diabetic foot ulcers.|https://dx.doi.org/10.3389/fcimb.2026.1875481
+A Single-center Experience: Clinical Profile, Management Approaches, and Limb Salvage Results in Patients with Critical Limb Ischemia.|https://dx.doi.org/10.4103/aam.aam_271_26

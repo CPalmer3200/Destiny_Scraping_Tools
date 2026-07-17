@@ -26,3 +26,5 @@ LC-QTOF-MS metabolic profiling and anti-MRSA activity of Asparagus officinalis L
 Defect-Engineered Porous C(3)N(4)/CoFe-LDH Quantum Dot Heterostructures for Synergistic Photocatalytic-Nanozyme Antibacterial Therapy.|https://dx.doi.org/10.1002/adhm.71418
 Microbiome-Driven Bioactives for Chronic Wound Repair: Microbial Metabolites, Host-Microbe Mechanisms and Paths to Clinical Translation.|https://dx.doi.org/10.3390/molecules31132229
 Cutaneous Staphylococcus aureus Infections in Renal Edema Across Kidney Disease and the Intensive Care Unit: Pathophysiological Mechanisms, Clinical Implications, and Therapeutic Challenges.|https://dx.doi.org/10.3390/ijms27136038
+Masking of Hydrophobicity through Macromolecular Nanoaggregation Ameliorates Toxicity while Retaining Excellent Antibacterial Efficacy.|https://dx.doi.org/10.1021/acsami.6c09342
+Laboratory and Field Performance of 2-(Thiocyanomethylthio)benzothiazole against Fast-growing Nontuberculous Mycobacteria Found in Metalworking Fluid.|https://dx.doi.org/10.1093/jimb/kuag019

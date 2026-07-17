@@ -3,3 +3,4 @@ Mupirocin-mediated downregulation of claudin-14 enhances chemosensitivity in hum
 Preparation and evaluation of the effect of hydrogel containing Cedrus and mupirocin and application as a wound healing accelerator.|https://dx.doi.org/10.1097/MS9.0000000000003879
 Whole-body decolonisation policies and Staphylococcus aureus bacteraemia rates in acute hospitals in England: a national cross-sectional survey.|https://dx.doi.org/10.1016/j.jhin.2026.07.010
 Antibiotic Prophylaxis and Surgical Site Infections in Septoplasty.|https://dx.doi.org/10.1111/coa.70145
+In-silico analysis of Bifidobacterium bifidum strain 900791 genome in the context of the B. bifidum pangenome.|https://dx.doi.org/10.3389/fcimb.2026.1744409
