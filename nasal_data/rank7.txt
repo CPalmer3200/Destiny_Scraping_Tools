@@ -115,3 +115,8 @@ Clinical Impact of Bacterial Colonization of the Airways During a Stent Trial in
 Non-uniform susceptibility profiles observed in Staphylococcus aureus, Pseudomonas aeruginosa, and Acinetobacter baumannii toward both front-line and novel cationic biocides with diverse structural compositions.|https://dx.doi.org/10.1128/spectrum.01041-26
 Acid exposure induces adaptive resistance in Klebsiella pneumoniae to combination treatment with antibiotics and biofilm-disrupting surgical lavage.|https://dx.doi.org/10.1128/spectrum.00243-26
 Staphylococcus aureus aggravates psoriasis in human keratinocytes with the assistance of IL-17A and TNF- α, along with a contribution from genes associated with skin cutaneous melanoma.|https://dx.doi.org/10.22099/mbrc.2025.54205.2207
+Septic shock due to a ruptured ovarian abscess caused by hematogenous Staphylococcus aureus infection in a sexually inactive woman with atopic dermatitis: a case report.|https://dx.doi.org/10.1186/s12905-026-04625-6
+Remote loading of antibacterial drug vancomycin into albumin nanoparticles via ammonium sulfate gradient for accelerated MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.115977
+Detection of bacteria in healthy spinal bone during pedicle screw placement: colonization versus evidence for future low-grade infection.|https://dx.doi.org/10.3171/2026.2.SPINE251668
+A multidrug-resistant organism tracking and alert system is associated with lower MRSA and CP-CRE infection rates at Veterans Affairs Medical Centers.|https://dx.doi.org/10.1017/ash.2026.10787
+Impact of screening all high-risk patients at hospital admission for methicillin-resistant Staphylococcus aureus in Spain: a cost-consequence analysis.|https://dx.doi.org/10.1080/13696998.2026.2700422
