@@ -9,3 +9,4 @@ Tremella fuciformis Extract Evokes Similar Effect as Hyaluronic Acid on Wound He
 Novasomal Gel for Enhanced Dermal Delivery and Antibacterial Efficacy of Cinnamic Acid.|https://dx.doi.org/10.3390/molecules31132277
 TLR7 signaling aggravates lung inflammation associated with increased anti-Scl-70 autoantibody production in murine bleomycin-induced systemic sclerosis.|https://dx.doi.org/10.3389/fimmu.2026.1823229
 Scalp microbiome in male androgenetic alopecia: 16S rRNA sequencing-based clinical characterization, mouse model validation, and effects on hair follicle cells.|https://dx.doi.org/10.3389/fcimb.2026.1878609
+Microplastics, the gut microbiome and ageing: mechanisms and intervention strategies.|https://dx.doi.org/10.1007/s10653-026-03370-x

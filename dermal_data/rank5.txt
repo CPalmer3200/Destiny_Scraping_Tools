@@ -28,3 +28,6 @@ Microbiome-Driven Bioactives for Chronic Wound Repair: Microbial Metabolites, Ho
 Cutaneous Staphylococcus aureus Infections in Renal Edema Across Kidney Disease and the Intensive Care Unit: Pathophysiological Mechanisms, Clinical Implications, and Therapeutic Challenges.|https://dx.doi.org/10.3390/ijms27136038
 Masking of Hydrophobicity through Macromolecular Nanoaggregation Ameliorates Toxicity while Retaining Excellent Antibacterial Efficacy.|https://dx.doi.org/10.1021/acsami.6c09342
 Laboratory and Field Performance of 2-(Thiocyanomethylthio)benzothiazole against Fast-growing Nontuberculous Mycobacteria Found in Metalworking Fluid.|https://dx.doi.org/10.1093/jimb/kuag019
+A hesperidin-engineered metal-phenolic nanoplatform for biofilm-targeted and self-amplified photothermal/chemodynamic therapy of skin abscesses.|https://dx.doi.org/10.1016/j.jconrel.2026.115188
+Enzyme-Activated Near-Infrared Fluorescent Probe for Rapid and Precise Identification of Staphylococcus aureus-Induced Skin Infections.|https://dx.doi.org/10.1021/acs.analchem.6c02406
+Overcoming Antifungal Resistance: A Histatin 5-Gated Nanodevice for On-Demand Surfactant Delivery against C. albicans Infections.|https://dx.doi.org/10.1021/acsami.6c06984
