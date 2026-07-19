@@ -31,3 +31,5 @@ Laboratory and Field Performance of 2-(Thiocyanomethylthio)benzothiazole against
 A hesperidin-engineered metal-phenolic nanoplatform for biofilm-targeted and self-amplified photothermal/chemodynamic therapy of skin abscesses.|https://dx.doi.org/10.1016/j.jconrel.2026.115188
 Enzyme-Activated Near-Infrared Fluorescent Probe for Rapid and Precise Identification of Staphylococcus aureus-Induced Skin Infections.|https://dx.doi.org/10.1021/acs.analchem.6c02406
 Overcoming Antifungal Resistance: A Histatin 5-Gated Nanodevice for On-Demand Surfactant Delivery against C. albicans Infections.|https://dx.doi.org/10.1021/acsami.6c06984
+Tunable adhesive hydrogel enhances diabetic wound closure through bacterial inactivation and immune microenvironment modulation.|https://dx.doi.org/10.1016/j.colsurfb.2026.115988
+Molecular analysis of clinical Acinetobacter baumannii isolates based on colistin resistance, biofilm formation, clonal relationships, and pmrA gene expression.|https://dx.doi.org/10.1080/17460913.2026.2704354
