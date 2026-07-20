@@ -37,3 +37,4 @@ A high-performance, self-adaptive sprayable hydrogel dressing based on zinc algi
 Fabrication and investigation of chitosan/PVA and chitosan/PVA/nisin nanofibers via electrospinning as potential wound dressing agents.|https://dx.doi.org/10.1080/03091902.2026.2688780
 Comparison of Topical Rifamycin and a Chlorhexidine-Containing Wound Dressing in Infected and Non-Infected Experimental Wound Models.|https://dx.doi.org/10.1177/15347346261469985
 Injectable Thermoresponsive PIB/PDA/Doxycycline Hydrogels with Antibacterial, Antioxidant, and Temperature-Triggered Hemostatic Functions for Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c01338
+Gradient-Decalcified Cuttlebone Powder-Loaded Hierarchical Microneedles: A Synergistic Therapeutic Strategy for Remodeling the Diabetic Wound.|https://dx.doi.org/10.1002/adhm.71455
