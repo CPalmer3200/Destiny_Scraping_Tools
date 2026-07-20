@@ -120,3 +120,4 @@ Remote loading of antibacterial drug vancomycin into albumin nanoparticles via a
 Detection of bacteria in healthy spinal bone during pedicle screw placement: colonization versus evidence for future low-grade infection.|https://dx.doi.org/10.3171/2026.2.SPINE251668
 A multidrug-resistant organism tracking and alert system is associated with lower MRSA and CP-CRE infection rates at Veterans Affairs Medical Centers.|https://dx.doi.org/10.1017/ash.2026.10787
 Impact of screening all high-risk patients at hospital admission for methicillin-resistant Staphylococcus aureus in Spain: a cost-consequence analysis.|https://dx.doi.org/10.1080/13696998.2026.2700422
+Autoimmune and Inflammatory Diseases Associated With Increased Periprosthetic Joint Infection Risk: A Narrative Review of Pathophysiology, Risk Stratification, and Perioperative Management.|https://dx.doi.org/10.7759/cureus.111079

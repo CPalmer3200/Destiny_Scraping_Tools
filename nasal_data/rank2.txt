@@ -20,3 +20,4 @@ Data-driven exploration of electronic nose technology to differentiate bacteria 
 Effects of elexacaftor/tezacaftor/ivacaftor on the nasal microbial metagenome in cystic fibrosis.|https://dx.doi.org/10.1128/spectrum.00601-26
 Pediatric necrotizing pneumonia: Clinical features, microbiology, management, and outcomes in the tertiary center.|https://dx.doi.org/10.1016/j.ajem.2026.07.010
 Antibiotic Prophylaxis and Surgical Site Infections in Septoplasty.|https://dx.doi.org/10.1111/coa.70145
+Epidemiology, Antimicrobial Resistance, and Seasonal Dynamics of Respiratory Bacterial Pathogens in a Saudi Tertiary Care Hospital (2023-2025).|https://dx.doi.org/10.2147/IDR.S610414
