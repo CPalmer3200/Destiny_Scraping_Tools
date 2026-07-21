@@ -121,3 +121,6 @@ Detection of bacteria in healthy spinal bone during pedicle screw placement: col
 A multidrug-resistant organism tracking and alert system is associated with lower MRSA and CP-CRE infection rates at Veterans Affairs Medical Centers.|https://dx.doi.org/10.1017/ash.2026.10787
 Impact of screening all high-risk patients at hospital admission for methicillin-resistant Staphylococcus aureus in Spain: a cost-consequence analysis.|https://dx.doi.org/10.1080/13696998.2026.2700422
 Autoimmune and Inflammatory Diseases Associated With Increased Periprosthetic Joint Infection Risk: A Narrative Review of Pathophysiology, Risk Stratification, and Perioperative Management.|https://dx.doi.org/10.7759/cureus.111079
+Pubic symphysis osteomyelitis presenting as groin pain in a patient with rheumatoid arthritis: a case report.|https://dx.doi.org/10.1186/s12879-026-13990-4
+Type VIIb secretion systems in Lactobacillales: insights from streptococci and enterococci.|https://dx.doi.org/10.1128/jb.00236-26
+Mapping the antimicrobial susceptibility of methicillin-resistant Staphylococcus aureus in western Ethiopia: a retrospective cross-sectional analysis.|https://dx.doi.org/10.1128/spectrum.00856-26
