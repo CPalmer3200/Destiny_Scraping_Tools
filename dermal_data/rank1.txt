@@ -8,3 +8,4 @@ Development and in vitro evaluation of teicoplanin PEGylated (TEC-PEGylated) nio
 Construction of an Infection-Inflammation Microenvironment-Regulating Nano-antimicrobial Agent and Application in the Treatment of Burn Wounds Complicated with Multidrug-Resistant Staphylococcus aureus Infection.|https://dx.doi.org/10.1021/acsami.6c07159
 Vancomycin population pharmacokinetics in patients with burns.|https://dx.doi.org/10.3389/fmed.2026.1829805
 Gentamicin-Loaded Electrospun PVA/Kefiran/Schizophyllan Membrane for Skin Tissue Engineering Applications.|https://dx.doi.org/10.3390/polym18131679
+A Retrospective Study of Infections and Antibiotic Susceptibility in Diabetic Foot Ulcers.|https://dx.doi.org/10.1007/s13300-026-01896-y

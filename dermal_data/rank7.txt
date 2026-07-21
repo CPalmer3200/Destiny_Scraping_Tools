@@ -10,3 +10,5 @@ Novasomal Gel for Enhanced Dermal Delivery and Antibacterial Efficacy of Cinnami
 TLR7 signaling aggravates lung inflammation associated with increased anti-Scl-70 autoantibody production in murine bleomycin-induced systemic sclerosis.|https://dx.doi.org/10.3389/fimmu.2026.1823229
 Scalp microbiome in male androgenetic alopecia: 16S rRNA sequencing-based clinical characterization, mouse model validation, and effects on hair follicle cells.|https://dx.doi.org/10.3389/fcimb.2026.1878609
 Microplastics, the gut microbiome and ageing: mechanisms and intervention strategies.|https://dx.doi.org/10.1007/s10653-026-03370-x
+An in silico analysis of costunolide with specifically identified receptor proteins related to diabetes mellitus.|https://dx.doi.org/10.1016/j.compbiolchem.2026.109256
+Water Soluble-Nitrogenous Secondary Metabolites From Talaromyces annesophieae MD2 Exhibit Anti-Bacterial, Anti-Cancer, Anti-Oxidant, and Cytoprotective Activities.|https://dx.doi.org/10.1002/mbo3.70367

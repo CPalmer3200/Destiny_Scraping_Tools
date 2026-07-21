@@ -33,3 +33,5 @@ Enzyme-Activated Near-Infrared Fluorescent Probe for Rapid and Precise Identific
 Overcoming Antifungal Resistance: A Histatin 5-Gated Nanodevice for On-Demand Surfactant Delivery against C. albicans Infections.|https://dx.doi.org/10.1021/acsami.6c06984
 Tunable adhesive hydrogel enhances diabetic wound closure through bacterial inactivation and immune microenvironment modulation.|https://dx.doi.org/10.1016/j.colsurfb.2026.115988
 Molecular analysis of clinical Acinetobacter baumannii isolates based on colistin resistance, biofilm formation, clonal relationships, and pmrA gene expression.|https://dx.doi.org/10.1080/17460913.2026.2704354
+A multitarget ruthenium-clotrimazole complex eradicates MRSA through membrane disruption, DNA intercalation, and ROS generation.|https://dx.doi.org/10.1016/j.bioorg.2026.110249
+Plant Volatile Nanoemulsion Resensitize Pseudomonas aeruginosa to Benzalkonium Chloride.|https://dx.doi.org/10.1007/s00284-026-05027-5
