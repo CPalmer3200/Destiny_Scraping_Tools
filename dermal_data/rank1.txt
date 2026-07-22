@@ -9,3 +9,4 @@ Construction of an Infection-Inflammation Microenvironment-Regulating Nano-antim
 Vancomycin population pharmacokinetics in patients with burns.|https://dx.doi.org/10.3389/fmed.2026.1829805
 Gentamicin-Loaded Electrospun PVA/Kefiran/Schizophyllan Membrane for Skin Tissue Engineering Applications.|https://dx.doi.org/10.3390/polym18131679
 A Retrospective Study of Infections and Antibiotic Susceptibility in Diabetic Foot Ulcers.|https://dx.doi.org/10.1007/s13300-026-01896-y
+(+)-Majoranolide analogues from regioselective Baeyer-Villiger reactions mediated by hypervalent iodine(III) reagents.|https://dx.doi.org/10.1039/d6ob00870d

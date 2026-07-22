@@ -35,3 +35,4 @@ Tunable adhesive hydrogel enhances diabetic wound closure through bacterial inac
 Molecular analysis of clinical Acinetobacter baumannii isolates based on colistin resistance, biofilm formation, clonal relationships, and pmrA gene expression.|https://dx.doi.org/10.1080/17460913.2026.2704354
 A multitarget ruthenium-clotrimazole complex eradicates MRSA through membrane disruption, DNA intercalation, and ROS generation.|https://dx.doi.org/10.1016/j.bioorg.2026.110249
 Plant Volatile Nanoemulsion Resensitize Pseudomonas aeruginosa to Benzalkonium Chloride.|https://dx.doi.org/10.1007/s00284-026-05027-5
+Extracorporeal shockwave therapy in plastic, hand, aesthetic, and reconstructive surgery.|https://dx.doi.org/10.1007/s10354-026-01174-3

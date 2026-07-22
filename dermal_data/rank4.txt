@@ -41,3 +41,5 @@ Gradient-Decalcified Cuttlebone Powder-Loaded Hierarchical Microneedles: A Syner
 Self-powered photothermal-thermoelectric bioelectronic dressings combined with antioxidant immune regulation accelerate diabetic infected wounds healing.|https://dx.doi.org/10.1016/j.biomaterials.2026.124471
 Delivery of a functional sugar-induced probiotic secretome against polymicrobial bacterial infection.|https://dx.doi.org/10.1039/d6mh00824k
 Metastable carbon nanocrystal transformation confined within hydrogel nanocomposites: a pursuit against antimicrobial resistant clinical pathogens.|https://dx.doi.org/10.1039/d6nh00172f
+Design of Experiment-Assisted Development of Biodegradable Chitosan/Whey Protein Isolate Films as Advanced Pro-Regenerative Wound Dressings.|https://dx.doi.org/10.1021/acs.biomac.6c00270
+An Injectable Magneto-Responsive Periosteum Reprograms Neutrophil Extracellular Trap Formation for Osteomyelitis Treatment.|https://dx.doi.org/10.1002/adma.74202
