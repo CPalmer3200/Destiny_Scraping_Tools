@@ -31,3 +31,4 @@ Innovative microneedle-integrated hydrogels: a promising strategy for diabetic f
 Single-cell reanalysis identifies macrophage-associated transcriptional and intercellular communication features in diabetic foot ulcers.|https://dx.doi.org/10.3389/fcimb.2026.1875481
 A Single-center Experience: Clinical Profile, Management Approaches, and Limb Salvage Results in Patients with Critical Limb Ischemia.|https://dx.doi.org/10.4103/aam.aam_271_26
 Indolicidin-Decorated Photosensitizer for Enhanced Antibacterials and Accelerated Diabetic Wound Healing.|https://dx.doi.org/10.1002/adma.202521231
+Nanoparticle-driven macrophage polarization as a therapeutic strategy for chronic diabetic wounds.|https://dx.doi.org/10.1016/j.intimp.2026.117161

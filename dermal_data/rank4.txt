@@ -43,3 +43,10 @@ Delivery of a functional sugar-induced probiotic secretome against polymicrobial
 Metastable carbon nanocrystal transformation confined within hydrogel nanocomposites: a pursuit against antimicrobial resistant clinical pathogens.|https://dx.doi.org/10.1039/d6nh00172f
 Design of Experiment-Assisted Development of Biodegradable Chitosan/Whey Protein Isolate Films as Advanced Pro-Regenerative Wound Dressings.|https://dx.doi.org/10.1021/acs.biomac.6c00270
 An Injectable Magneto-Responsive Periosteum Reprograms Neutrophil Extracellular Trap Formation for Osteomyelitis Treatment.|https://dx.doi.org/10.1002/adma.74202
+Chestnut shell polyphenol-loaded electrospun nanofiber-hydrogel dressing on chronic wounds in rats with type 2 diabetes.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153661
+Nanokaolin-reinforced chitosan/poly(vinyl alcohol) hydrogels as transdermal patches with superior anti-swelling, adhesion, and drug release.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153662
+A dual-functional 3D scaffold with an imidazolium-based interface for non-antibiotic therapy and enhanced osseointegration in infected bone defect.|https://dx.doi.org/10.1088/1748-605X/ae8ee8
+Mesoporous CuS functionalized hydrogel with hierarchical structure for synergistic photothermal antibacterial activity, strong bioadhesion and accelerated hemostasis in wound repair.|https://dx.doi.org/10.1016/j.bioadv.2026.215076
+Integration of hydrogel forming microneedles with polyethylene glycol reservoir assisted clindamycin dermal delivery.|https://dx.doi.org/10.1080/09205063.2026.2695067
+Peptide-coordinated silver nanoassemblies: a multifunctional hydrogel platform for infected diabetic wound healing.|https://dx.doi.org/10.1039/d6tb00694a
+Ruthenium Dioxide-Incorporated Dual-Responsive Hydrogel Promotes MRSA-Infected Diabetic Wound Healing via Microenvironment Remodeling.|https://dx.doi.org/10.1021/acs.biomac.6c00727
