@@ -124,3 +124,5 @@ Autoimmune and Inflammatory Diseases Associated With Increased Periprosthetic Jo
 Pubic symphysis osteomyelitis presenting as groin pain in a patient with rheumatoid arthritis: a case report.|https://dx.doi.org/10.1186/s12879-026-13990-4
 Type VIIb secretion systems in Lactobacillales: insights from streptococci and enterococci.|https://dx.doi.org/10.1128/jb.00236-26
 Mapping the antimicrobial susceptibility of methicillin-resistant Staphylococcus aureus in western Ethiopia: a retrospective cross-sectional analysis.|https://dx.doi.org/10.1128/spectrum.00856-26
+Optimizing Surgical Planning Using 18F-FDG PET-CT in Appendicular Chronic Osteomyelitis: Insights from 84 Patient Scans and Clinical Outcomes.|https://dx.doi.org/10.1007/s43465-025-01625-w
+Clinical Significance of Organ Preservation Fluid Cultures in Pediatric Abdominal Solid Organ Transplantation.|https://dx.doi.org/10.1111/tid.70282

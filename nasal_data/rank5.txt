@@ -35,3 +35,4 @@ Robotic Assisted Versus Conventional Open Nipple Sparing Mastectomy With Implant
 Flying Following Breast Augmentation. How Safe is it? An Evidence-Based Report of 20 Years of Experience.|https://dx.doi.org/10.1007/s00266-026-06028-2
 Hepatic origin of increased serum TFF3 in gastric cancer bearing subjects.|https://dx.doi.org/10.1007/s10120-026-01782-3
 Prophylactic Closed-Incision Negative Pressure Wound Therapy (ciNPWT) in Breast Surgery: A Pilot Study on the Prevention of Surgical Site Complications.|https://dx.doi.org/10.21614/chirurgia.3346
+AI Risk Prediction Tools for Autologous Breast Reconstruction.|https://dx.doi.org/10.1002/jso.70318

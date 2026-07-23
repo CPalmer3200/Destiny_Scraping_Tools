@@ -21,3 +21,4 @@ Oral delivery of recombinant Bacillus subtilis expressing mSEB reduces intestina
 Water Soluble-Nitrogenous Secondary Metabolites From Talaromyces annesophieae MD2 Exhibit Anti-Bacterial, Anti-Cancer, Anti-Oxidant, and Cytoprotective Activities.|https://dx.doi.org/10.1002/mbo3.70367
 A process-free setup for the preparation of probiotic-loaded electrospun mat as a tailored dressing.|https://dx.doi.org/10.1080/10837450.2026.2707533
 Self-amplifying mRNA vaccine cocktail against Staphylococcus aureus: A multi-epitope immunoinformatics and structural simulation framework.|https://dx.doi.org/10.1007/s11274-026-05106-6
+Recurrent tragal abscess associated with frequent in-ear headphone use: a case report.|https://dx.doi.org/10.1093/jscr/rjag612

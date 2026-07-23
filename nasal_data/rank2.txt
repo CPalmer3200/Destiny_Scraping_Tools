@@ -21,3 +21,4 @@ Effects of elexacaftor/tezacaftor/ivacaftor on the nasal microbial metagenome in
 Pediatric necrotizing pneumonia: Clinical features, microbiology, management, and outcomes in the tertiary center.|https://dx.doi.org/10.1016/j.ajem.2026.07.010
 Antibiotic Prophylaxis and Surgical Site Infections in Septoplasty.|https://dx.doi.org/10.1111/coa.70145
 Epidemiology, Antimicrobial Resistance, and Seasonal Dynamics of Respiratory Bacterial Pathogens in a Saudi Tertiary Care Hospital (2023-2025).|https://dx.doi.org/10.2147/IDR.S610414
+The microbiota-metabolite-immune axis in the olfactory cleft microenvironment: mechanisms and therapeutic implications for dysbiosis-driven olfactory dysfunction in chronic rhinosinusitis.|https://dx.doi.org/10.3389/fimmu.2026.1841979
