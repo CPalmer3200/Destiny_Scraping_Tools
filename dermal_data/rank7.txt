@@ -12,3 +12,4 @@ Scalp microbiome in male androgenetic alopecia: 16S rRNA sequencing-based clinic
 Microplastics, the gut microbiome and ageing: mechanisms and intervention strategies.|https://dx.doi.org/10.1007/s10653-026-03370-x
 An in silico analysis of costunolide with specifically identified receptor proteins related to diabetes mellitus.|https://dx.doi.org/10.1016/j.compbiolchem.2026.109256
 Water Soluble-Nitrogenous Secondary Metabolites From Talaromyces annesophieae MD2 Exhibit Anti-Bacterial, Anti-Cancer, Anti-Oxidant, and Cytoprotective Activities.|https://dx.doi.org/10.1002/mbo3.70367
+Spindle Cell Squamous Cell Carcinoma Arising in a Chronic Burn Scar: A Case Report and Literature Review of Diagnostic Pitfalls and Oncologic Management Considerations.|https://dx.doi.org/10.1097/DAD.0000000000003393

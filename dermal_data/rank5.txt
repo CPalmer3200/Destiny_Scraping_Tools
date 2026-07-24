@@ -37,3 +37,5 @@ A multitarget ruthenium-clotrimazole complex eradicates MRSA through membrane di
 Plant Volatile Nanoemulsion Resensitize Pseudomonas aeruginosa to Benzalkonium Chloride.|https://dx.doi.org/10.1007/s00284-026-05027-5
 Extracorporeal shockwave therapy in plastic, hand, aesthetic, and reconstructive surgery.|https://dx.doi.org/10.1007/s10354-026-01174-3
 Engineering "Yin-Yang" Ag/AgCl-Polymer Nanotherapeutic for Tunable Silver Ion Release With Improved In Vivo Biocompatibility and Antimicrobial Potency.|https://dx.doi.org/10.1002/smll.74706
+Fungal biofilms and pleomorphism under the effect of sesquiterpenes valencene and nootkatone: an in vitro and in silico approach.|https://dx.doi.org/10.1016/j.micpath.2026.108725
+A new bactericidal thiourea antibiotic against drug-resistant Staphylococcus aureus with in vivo activity and no detectable resistance.|https://dx.doi.org/10.1016/j.ejmech.2026.119078

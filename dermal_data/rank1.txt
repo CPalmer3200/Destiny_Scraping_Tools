@@ -10,3 +10,5 @@ Vancomycin population pharmacokinetics in patients with burns.|https://dx.doi.or
 Gentamicin-Loaded Electrospun PVA/Kefiran/Schizophyllan Membrane for Skin Tissue Engineering Applications.|https://dx.doi.org/10.3390/polym18131679
 A Retrospective Study of Infections and Antibiotic Susceptibility in Diabetic Foot Ulcers.|https://dx.doi.org/10.1007/s13300-026-01896-y
 (+)-Majoranolide analogues from regioselective Baeyer-Villiger reactions mediated by hypervalent iodine(III) reagents.|https://dx.doi.org/10.1039/d6ob00870d
+In situ synthesized silver nanoparticle-loaded poly(vinyl alcohol)/gelatin composite films for burn wound dressing applications: antibacterial activity and in vivo wound-healing evaluation.|https://dx.doi.org/10.1088/1748-605X/ae8f98
+Antibacterial and antibiofilm activity of novel nanofibers bandage formulated with Juniperus communis essential oil targeting antibiotic resistant bacterial strains.|https://dx.doi.org/10.1016/j.chmed.2026.05.005

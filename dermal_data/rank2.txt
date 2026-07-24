@@ -32,3 +32,6 @@ Single-cell reanalysis identifies macrophage-associated transcriptional and inte
 A Single-center Experience: Clinical Profile, Management Approaches, and Limb Salvage Results in Patients with Critical Limb Ischemia.|https://dx.doi.org/10.4103/aam.aam_271_26
 Indolicidin-Decorated Photosensitizer for Enhanced Antibacterials and Accelerated Diabetic Wound Healing.|https://dx.doi.org/10.1002/adma.202521231
 Nanoparticle-driven macrophage polarization as a therapeutic strategy for chronic diabetic wounds.|https://dx.doi.org/10.1016/j.intimp.2026.117161
+The microbiological profile of diabetic foot infections: historical trends and relationship with amputation.|https://dx.doi.org/10.1093/jacamr/dlag135
+Real-time detection and monitoring of bacteria in diabetic wounds using bacterial fluorescence.|https://dx.doi.org/10.3389/fmicb.2026.1867420
+Unlocking the potential of cyclic peptides in bioactive wound dressings for enhanced tissue repair.|https://dx.doi.org/10.1007/s11033-026-12456-9

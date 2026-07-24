@@ -50,3 +50,9 @@ Mesoporous CuS functionalized hydrogel with hierarchical structure for synergist
 Integration of hydrogel forming microneedles with polyethylene glycol reservoir assisted clindamycin dermal delivery.|https://dx.doi.org/10.1080/09205063.2026.2695067
 Peptide-coordinated silver nanoassemblies: a multifunctional hydrogel platform for infected diabetic wound healing.|https://dx.doi.org/10.1039/d6tb00694a
 Ruthenium Dioxide-Incorporated Dual-Responsive Hydrogel Promotes MRSA-Infected Diabetic Wound Healing via Microenvironment Remodeling.|https://dx.doi.org/10.1021/acs.biomac.6c00727
+Dual cross-linked cellulose-based hydrogel enables antibacterial-antioxidant synergy for diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125588
+Multi-modular responsive hydroxypropyl chitosan-based hydrogel microspheres for stage-specific therapy in infected wounds.|https://dx.doi.org/10.1016/j.carbpol.2026.125563
+Photothermal and immunomodulatory chitosan composite hydrogel remodels the pathological microenvironment to accelerate infected diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125538
+Valence- and Phase-Engineered VP/WOx Heterojunction Microneedles for Photoresponsive Therapy of Infected Wounds.|https://dx.doi.org/10.1002/smll.74675
+Cotton Gauze Impregnated With Chitosan Nanoparticle-Loaded Recombinant Human Lactoferrin for Targeting Bacteria-Infected Wounds: An In Vitro Study.|https://dx.doi.org/10.1155/ijm/9313676
+A Binary Natural Herbal Co-Assembled Hydrogel for Expediting MRSA-Infected Diabetic Wound Healing via Robust Sterilization, Anti-Inflammation and Tissue Repair.|https://dx.doi.org/10.1002/adhm.71468
