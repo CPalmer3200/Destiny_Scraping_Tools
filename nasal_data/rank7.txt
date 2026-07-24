@@ -126,3 +126,12 @@ Type VIIb secretion systems in Lactobacillales: insights from streptococci and e
 Mapping the antimicrobial susceptibility of methicillin-resistant Staphylococcus aureus in western Ethiopia: a retrospective cross-sectional analysis.|https://dx.doi.org/10.1128/spectrum.00856-26
 Optimizing Surgical Planning Using 18F-FDG PET-CT in Appendicular Chronic Osteomyelitis: Insights from 84 Patient Scans and Clinical Outcomes.|https://dx.doi.org/10.1007/s43465-025-01625-w
 Clinical Significance of Organ Preservation Fluid Cultures in Pediatric Abdominal Solid Organ Transplantation.|https://dx.doi.org/10.1111/tid.70282
+Empyema necessitans presenting as a chest wall abscess managed with minimally invasive drainage.|https://dx.doi.org/10.1136/bcr-2026-273255
+Dual cross-linked cellulose-based hydrogel enables antibacterial-antioxidant synergy for diabetic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125588
+BACTERIAL COLONIZATION IN ORTHOPEDIC SURGICAL TOURNIQUETS: A MULTICENTER STUDY.|https://dx.doi.org/10.1590/1413-785220263404e303555
+Clinical presentation, management, and outcomes of aortic endograft infections: a retrospective descriptive study.|https://dx.doi.org/10.1177/20499361261465761
+Enhancing the antimicrobial efficacy of polyester hernia meshes via layer-by-layer chitosan surface modification.|https://dx.doi.org/10.1007/s10029-026-03782-9
+Antibacterial and antibiofilm activity of novel nanofibers bandage formulated with Juniperus communis essential oil targeting antibiotic resistant bacterial strains.|https://dx.doi.org/10.1016/j.chmed.2026.05.005
+Bioorthogonal Anchor-and-Lock of Probiotic Biofilms on Diverse Biomaterials to Combat Delayed Implant-Associated Infection.|https://dx.doi.org/10.1002/adma.74083
+Genomic Characterization of Hospital-acquired Methicillin-resistant Staphylococcus aureus (MRSA) based on Whole Genome Sequencing in Ramadi City Hospital.|https://dx.doi.org/10.2174/0115748871493902260704085706
+Surgical management of neonatal mastitis: case series and literature review.|https://dx.doi.org/10.54847/cp.2026.03.17
