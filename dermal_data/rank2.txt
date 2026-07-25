@@ -35,3 +35,9 @@ Nanoparticle-driven macrophage polarization as a therapeutic strategy for chroni
 The microbiological profile of diabetic foot infections: historical trends and relationship with amputation.|https://dx.doi.org/10.1093/jacamr/dlag135
 Real-time detection and monitoring of bacteria in diabetic wounds using bacterial fluorescence.|https://dx.doi.org/10.3389/fmicb.2026.1867420
 Unlocking the potential of cyclic peptides in bioactive wound dressings for enhanced tissue repair.|https://dx.doi.org/10.1007/s11033-026-12456-9
+Antimicrobial photodynamic therapy improves wound quality and tissue repair in diabetic foot ulcers: A randomized double blind controlled clinical trial.|https://dx.doi.org/10.1016/j.jphotobiol.2026.113526
+Click-crosslinked nano-hydrogel enables metabolic immune reprogramming for diabetic foot ulcers.|https://dx.doi.org/10.1007/s11427-025-3178-1
+Daptomycin-Induced Eosinophilic Pneumonia in a Patient Treated for MRSA Foot Infection: A Case Report.|https://dx.doi.org/10.3390/japma116040049
+Comparison of Oral Versus Intravenous Antibiotics for the Treatment of Diabetic Foot Osteomyelitis: A Propensity-Matched, Retrospective Cohort Study.|https://dx.doi.org/10.3390/japma116040047
+Avoidance of Major Amputation After Deep Vein Arterialization and Advanced Wound Management in a Patient with Diabetes and No Direct Revascularization Options: A Case Report.|https://dx.doi.org/10.3390/japma116040042
+Wohlfahrtiimonas chitiniclastica: a potential disruptor of wound healing and glucose metabolism in diabetic foot ulcers.|https://dx.doi.org/10.3389/fmicb.2026.1837891

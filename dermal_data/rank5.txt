@@ -39,3 +39,4 @@ Extracorporeal shockwave therapy in plastic, hand, aesthetic, and reconstructive
 Engineering "Yin-Yang" Ag/AgCl-Polymer Nanotherapeutic for Tunable Silver Ion Release With Improved In Vivo Biocompatibility and Antimicrobial Potency.|https://dx.doi.org/10.1002/smll.74706
 Fungal biofilms and pleomorphism under the effect of sesquiterpenes valencene and nootkatone: an in vitro and in silico approach.|https://dx.doi.org/10.1016/j.micpath.2026.108725
 A new bactericidal thiourea antibiotic against drug-resistant Staphylococcus aureus with in vivo activity and no detectable resistance.|https://dx.doi.org/10.1016/j.ejmech.2026.119078
+In Situ Coenzyme-Based Transformable Polymers Powder With Instant-Tough-Adhesive Properties for Emergency Hemostasis, Antibiosis, and Wound Repair.|https://dx.doi.org/10.1002/adma.74107

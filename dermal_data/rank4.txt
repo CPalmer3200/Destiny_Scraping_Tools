@@ -56,3 +56,5 @@ Photothermal and immunomodulatory chitosan composite hydrogel remodels the patho
 Valence- and Phase-Engineered VP/WOx Heterojunction Microneedles for Photoresponsive Therapy of Infected Wounds.|https://dx.doi.org/10.1002/smll.74675
 Cotton Gauze Impregnated With Chitosan Nanoparticle-Loaded Recombinant Human Lactoferrin for Targeting Bacteria-Infected Wounds: An In Vitro Study.|https://dx.doi.org/10.1155/ijm/9313676
 A Binary Natural Herbal Co-Assembled Hydrogel for Expediting MRSA-Infected Diabetic Wound Healing via Robust Sterilization, Anti-Inflammation and Tissue Repair.|https://dx.doi.org/10.1002/adhm.71468
+Zwitterionic Tissue Expanders Reduce Infection and Fibrosis for Enhanced Biocompatibility.|https://dx.doi.org/10.1016/j.actbio.2026.07.039
+Engineering Injectable Co-Assembled Hyaluronic Acid-Based Hydrogel by Photothermal Driven Recombinant Human Type III Collagen-Stabilized MoS(2) for Accelerating Infected Wound Therapy.|https://dx.doi.org/10.1002/smll.74725
