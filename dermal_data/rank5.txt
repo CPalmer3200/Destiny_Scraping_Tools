@@ -40,3 +40,4 @@ Engineering "Yin-Yang" Ag/AgCl-Polymer Nanotherapeutic for Tunable Silver Ion Re
 Fungal biofilms and pleomorphism under the effect of sesquiterpenes valencene and nootkatone: an in vitro and in silico approach.|https://dx.doi.org/10.1016/j.micpath.2026.108725
 A new bactericidal thiourea antibiotic against drug-resistant Staphylococcus aureus with in vivo activity and no detectable resistance.|https://dx.doi.org/10.1016/j.ejmech.2026.119078
 In Situ Coenzyme-Based Transformable Polymers Powder With Instant-Tough-Adhesive Properties for Emergency Hemostasis, Antibiosis, and Wound Repair.|https://dx.doi.org/10.1002/adma.74107
+Developing Three-Dimensional (3D) Skin Models to Study the Interaction Between the Skin Microbiome and Immune Cells in Chronic Wounds.|https://dx.doi.org/10.7759/cureus.113304

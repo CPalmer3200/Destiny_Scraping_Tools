@@ -12,3 +12,5 @@ A Retrospective Study of Infections and Antibiotic Susceptibility in Diabetic Fo
 (+)-Majoranolide analogues from regioselective Baeyer-Villiger reactions mediated by hypervalent iodine(III) reagents.|https://dx.doi.org/10.1039/d6ob00870d
 In situ synthesized silver nanoparticle-loaded poly(vinyl alcohol)/gelatin composite films for burn wound dressing applications: antibacterial activity and in vivo wound-healing evaluation.|https://dx.doi.org/10.1088/1748-605X/ae8f98
 Antibacterial and antibiofilm activity of novel nanofibers bandage formulated with Juniperus communis essential oil targeting antibiotic resistant bacterial strains.|https://dx.doi.org/10.1016/j.chmed.2026.05.005
+Transcriptomics-informed design of a dual phytochemical hydrogel enables immuno-redox modulation and accelerated healing in infected burns.|https://dx.doi.org/10.1016/j.ejpb.2026.115198
+Gentamicin-Linked Supramolecular Hybrid Hydrogels: Mechanically Robust Cucurbit[7]Uril-Based Networks for Prolonged Infection Control.|https://dx.doi.org/10.1002/adhm.71477
