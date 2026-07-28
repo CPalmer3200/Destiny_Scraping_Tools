@@ -6,3 +6,4 @@ Antibiotic Prophylaxis and Surgical Site Infections in Septoplasty.|https://dx.d
 In-silico analysis of Bifidobacterium bifidum strain 900791 genome in the context of the B. bifidum pangenome.|https://dx.doi.org/10.3389/fcimb.2026.1744409
 A process-free setup for the preparation of probiotic-loaded electrospun mat as a tailored dressing.|https://dx.doi.org/10.1080/10837450.2026.2707533
 Recurrent tragal abscess associated with frequent in-ear headphone use: a case report.|https://dx.doi.org/10.1093/jscr/rjag612
+Susceptibility of Staphylococcus aureus Strains Isolated from Blood Cultures Between 2024 and 2025: A Single-Center Study.|https://dx.doi.org/10.3390/antibiotics15070695

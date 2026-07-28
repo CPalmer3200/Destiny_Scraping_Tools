@@ -14,3 +14,4 @@ In situ synthesized silver nanoparticle-loaded poly(vinyl alcohol)/gelatin compo
 Antibacterial and antibiofilm activity of novel nanofibers bandage formulated with Juniperus communis essential oil targeting antibiotic resistant bacterial strains.|https://dx.doi.org/10.1016/j.chmed.2026.05.005
 Transcriptomics-informed design of a dual phytochemical hydrogel enables immuno-redox modulation and accelerated healing in infected burns.|https://dx.doi.org/10.1016/j.ejpb.2026.115198
 Gentamicin-Linked Supramolecular Hybrid Hydrogels: Mechanically Robust Cucurbit[7]Uril-Based Networks for Prolonged Infection Control.|https://dx.doi.org/10.1002/adhm.71477
+Astrakurkurone targets multidrug resistant Staphylococcus aureus biofilms through ROS-mediated cell membrane damage and β-lactamase inhibition.|https://dx.doi.org/10.1016/j.micpath.2026.108734

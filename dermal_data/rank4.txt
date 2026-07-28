@@ -62,3 +62,13 @@ Biomimetic Cascade-Responsive Natural-Synthetic Composite Hydrogel for Acne Lesi
 A sustainable carboxymethyl starch/PVA nanocomposite hydrogel with biogenic nZnO and Aloe vera for enhanced skin wound regeneration.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153768
 Asymmetric-interfacial nanofibrous membranes with diode-like exudate transport for nanozyme-catalyzed antibacterial wound healing.|https://dx.doi.org/10.1016/j.biomaterials.2026.124483
 PCN-224(M)@Fe(3)O(4)/CS/PVA composite nanofibers exhibiting efficient photocatalytic performance for antimicrobial.|https://dx.doi.org/10.1016/j.isci.2026.116798
+Electrospun nanofibrous membrane-functionalized dual-responsive self-healing hydrogel dressings based on chitosan and hyaluronic acid encapsulating gallic acid-loaded Eu-MOF clusters for fluorescent monitoring and efficient healing of diabetic wound.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153788
+Design of Plant Oil-Based Cationic Hydrogels for Protein Encapsulation and Controlled Delivery.|https://dx.doi.org/10.1007/s10930-026-10349-1
+Bioelectronic hydrogel driven by perovskite solar cells promotes healing of drug-resistant bacteria-infected wounds.|https://dx.doi.org/10.1016/j.biomaterials.2026.124490
+Preparation of Multifunctional Hydrogel Loaded with Isochlorogenic Acid A/Fe(3+) Co-Assembled Nanoparticles and Its Application in Skin Wound Repair.|https://dx.doi.org/10.3390/gels12070637
+Fabrication of Chondroitin Sulfate-Copper/Zinc Complexes and Antibacterial Activity Involving Hydrogel Application in Infected Wound Healing.|https://dx.doi.org/10.3390/gels12070633
+Structural and Antimicrobial Characterization of Porcine and Fish Gelatin Hydrogels Photochemically Crosslinked with Menadione Sodium Bisulfite.|https://dx.doi.org/10.3390/gels12070629
+Synergistic Hydrogels Enabled by Dual-Regulatory Mussel Foot Protein for Advancing Wound Healing.|https://dx.doi.org/10.3390/gels12070627
+Study on the Preparation of a Photo-Responsive Hydrogel Loaded with Berberine-Asiaticoside Cocrystal and Its Therapeutic Effect on Infected Wounds.|https://dx.doi.org/10.3390/gels12070620
+An Injectable, Self-Healing Hydrogel Based on G-Quadruplexes/Phenylboronic Acid Composites with Antibacterial Activity.|https://dx.doi.org/10.3390/gels12070612
+Bioadhesive Alginate/Chitosan Hydrogels for Sustained Probiotic Delivery and Enhanced Antibacterial Treatment of Oral Ulcers.|https://dx.doi.org/10.3390/gels12070581

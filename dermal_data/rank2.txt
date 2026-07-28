@@ -42,3 +42,5 @@ Comparison of Oral Versus Intravenous Antibiotics for the Treatment of Diabetic 
 Avoidance of Major Amputation After Deep Vein Arterialization and Advanced Wound Management in a Patient with Diabetes and No Direct Revascularization Options: A Case Report.|https://dx.doi.org/10.3390/japma116040042
 Wohlfahrtiimonas chitiniclastica: a potential disruptor of wound healing and glucose metabolism in diabetic foot ulcers.|https://dx.doi.org/10.3389/fmicb.2026.1837891
 Effects of Terminalia fagifolia mart. extract combined with photobiomodulation on diabetic foot ulcers: protocol for a randomized single-blind clinical trial.|https://dx.doi.org/10.1007/s10103-026-04963-9
+Effect of Topical Application of Antimicrobial Peptide PL-5 (Peceleganan) Spray on Mild to Moderate Infection of Diabetic Foot Ulcers: A Multicenter, Randomized, Double-Blinded, Placebo-Controlled Clinical Trial.|https://dx.doi.org/10.1111/1753-0407.70255
+Changes in Antibiotic Resistance Patterns in Diabetic Foot Infections Requiring Toe Amputation: A Long-Term Single-Center Retrospective Study.|https://dx.doi.org/10.3390/antibiotics15070681
