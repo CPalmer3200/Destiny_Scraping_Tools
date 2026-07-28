@@ -6,3 +6,12 @@ Multi-pathogen epidemiological survey of subclinical mastitis, gastrointestinal 
 Sustainable bacterial cellulose-chitosan composite: A novel approach for the treatment of osteochondral defects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115990
 Sonication of orthopaedic implants: Impact of implant size, container dimensions, and sonication time on bacterial recovery.|https://dx.doi.org/10.1016/j.mimet.2026.107641
 Dendrobium officinale Polysaccharide Promotes Infected Wound Healing Through SIRT1-Regulated HMGB1-K29 Deacetylation and NF-κB Inhibition.|https://dx.doi.org/10.5812/ijpr-169909
+Serial T2Bacteria panel versus blood culture for monitoring Staphylococcus aureus bacteraemia: clearance duration predicts deep-seated or metastatic infection and mortality.|https://dx.doi.org/10.1016/j.ijid.2026.109014
+In vivo Activity of Combination of N-acetyl Cysteine and Levofloxacin against Colonization and Catheter-Associated Infection.|https://dx.doi.org/10.1007/s00284-026-05024-8
+Biomineralized nanozymes remodel the infectious microenvironment for precision MRSA pneumonia therapy.|https://dx.doi.org/10.1016/j.jconrel.2026.115215
+Comparative evaluation of clindamycin-loaded silver or gold-based nanoparticle coatings with and without polyethylene glycol on anodized titanium orthodontic mini-implants: In vitro study.|https://dx.doi.org/10.1016/j.ortho.2026.101217
+Early surgical site infection after geriatric trauma surgery: mortality, complications, and factors associated with mortality and infection persistence in patients older than 75 years.|https://dx.doi.org/10.1007/s00590-026-04888-7
+Elevated risk of wound and systemic complications in MRSA-colonized patients undergoing lower extremity orthopedic trauma surgery.|https://dx.doi.org/10.1007/s00068-026-03283-5
+Biomaterial-Driven Modulation of Macrophage Polarization in an Experimental Environment of Implant-Associated Infection Mediated by Staphylococcus aureus: A Systematic Review of Preclinical Studies.|https://dx.doi.org/10.3390/jfb17070342
+Changes in the Epidemiology of Multidrug-Resistant Organisms During the COVID-19 Pandemic: A Six-Year Retrospective Study at a Tertiary Care Hospital in Northeastern Thailand.|https://dx.doi.org/10.3390/medsci14030366
+Pathogen Spectrum and Antimicrobial Susceptibility Profiles in Culture-Proven Endophthalmitis at a Tertiary Referral Center in China: A Three-Decade Retrospective Study.|https://dx.doi.org/10.3390/antibiotics15070663
