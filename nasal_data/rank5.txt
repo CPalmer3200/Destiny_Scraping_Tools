@@ -3,3 +3,5 @@ Effect of high-intensity interval training on clinical outcomes in lung cancer p
 Case Report: Aplastic anemia associated with parvovirus B19 infection following neoadjuvant pembrolizumab-based chemoimmunotherapy for triple-negative breast cancer.|https://dx.doi.org/10.3389/fonc.2026.1834150
 Perioperative Protein and Vitamin Supplementation in Plastic Surgery: An Evidence-Based Proposal for an Assessment and Replacement Protocol.|https://dx.doi.org/10.7759/cureus.111477
 Laparoscopically Harvested Pedicled Omental Flap in Immediate Unilateral Breast Reconstruction: A Systematic Review of Surgical Techniques and Clinical Outcomes.|https://dx.doi.org/10.3390/curroncol33070410
+Complication rate after implant-based breast-reconstruction with support of a synthetic non-resorbable titanized polypropylene mesh (TiLOOP® Bra): Analysis of the 2-year follow up from the prospective multicentre PRO-BRA trial.|https://dx.doi.org/10.1016/j.jpra.2026.05.057
+Multidisciplinary Management of Complicated Locally Advanced and Fungating Breast Cancer: A Narrative Review.|https://dx.doi.org/10.3390/cancers18142254

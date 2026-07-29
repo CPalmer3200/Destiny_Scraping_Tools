@@ -15,3 +15,12 @@ Elevated risk of wound and systemic complications in MRSA-colonized patients und
 Biomaterial-Driven Modulation of Macrophage Polarization in an Experimental Environment of Implant-Associated Infection Mediated by Staphylococcus aureus: A Systematic Review of Preclinical Studies.|https://dx.doi.org/10.3390/jfb17070342
 Changes in the Epidemiology of Multidrug-Resistant Organisms During the COVID-19 Pandemic: A Six-Year Retrospective Study at a Tertiary Care Hospital in Northeastern Thailand.|https://dx.doi.org/10.3390/medsci14030366
 Pathogen Spectrum and Antimicrobial Susceptibility Profiles in Culture-Proven Endophthalmitis at a Tertiary Referral Center in China: A Three-Decade Retrospective Study.|https://dx.doi.org/10.3390/antibiotics15070663
+Idiopathic primary sternal osteomyelitis in an otherwise healthy patient.|https://dx.doi.org/10.1136/bcr-2026-272711
+Postoperative spinal infection after arthrodesis: incidence, Gram-negative predominance, and outcomes in a tertiary-care hospital cohort.|https://dx.doi.org/10.1016/j.jgar.2026.07.019
+Preoperative Methicillin-Resistant Staphylococcus aureus Colonization and Risk of Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.arth.2026.07.042
+When the Skin Speaks: Methicillin-resistant Staphylococcus aureus Suprapubic Abscess in a Renal Transplant Recipient.|https://dx.doi.org/10.4103/aam.aam_512_26
+Papillary Fibroelastoma Arising From the Coumadin Ridge: A Rare Extravalvular Cardiac Tumor Diagnosed by Multimodality Imaging.|https://dx.doi.org/10.7759/cureus.111107
+Crosslinked agarose-gelatine beads as a substrate for investigating biofilms of bacterial pathogens.|https://dx.doi.org/10.1016/j.bioflm.2026.100380
+Surface topography, optical properties, and biofilm adhesion of additive and subtractive-manufactured ceramic reinforced hybrid composite: an in-vitro study.|https://dx.doi.org/10.1007/s10266-026-01510-4
+Multidrug-resistant organisms on in-use medical textiles in a Shanghai tertiary hospital: surveillance and genomic characterization.|https://dx.doi.org/10.3389/fpubh.2026.1891356
+Risk Factors for Reoperation Following Native Septic Arthritis.|https://dx.doi.org/10.4103/jgid.jgid_222_25
