@@ -72,3 +72,8 @@ Synergistic Hydrogels Enabled by Dual-Regulatory Mussel Foot Protein for Advanci
 Study on the Preparation of a Photo-Responsive Hydrogel Loaded with Berberine-Asiaticoside Cocrystal and Its Therapeutic Effect on Infected Wounds.|https://dx.doi.org/10.3390/gels12070620
 An Injectable, Self-Healing Hydrogel Based on G-Quadruplexes/Phenylboronic Acid Composites with Antibacterial Activity.|https://dx.doi.org/10.3390/gels12070612
 Bioadhesive Alginate/Chitosan Hydrogels for Sustained Probiotic Delivery and Enhanced Antibacterial Treatment of Oral Ulcers.|https://dx.doi.org/10.3390/gels12070581
+Crosslinked agarose-gelatine beads as a substrate for investigating biofilms of bacterial pathogens.|https://dx.doi.org/10.1016/j.bioflm.2026.100380
+Multifunctional Polyphenol-Polymer Nanocomposite Hydrogel Targeting Inflammation, Oxidative Stress, and Infection in Diabetic Wounds.|https://dx.doi.org/10.1002/smll.74712
+Fabrication of Zinc Oxide Nanoparticles Encapsulated Locust Bean Gum for Wound Healing: In Vitro/In Vivo and Molecular Docking Approach.|https://dx.doi.org/10.3390/ph19071015
+Evaluated Wound Healing Property of Aloe vera-Coated Dextrane Sulfate/Chitosan Nanoparticles Encapsulating Eucalyptus in a Rat Model.|https://dx.doi.org/10.3390/pharmaceutics18070873
+Multifunctional Prussian-Blue-Based Hydrogel for Photothermal Antibacterial and Infected Wound Regeneration.|https://dx.doi.org/10.3390/polym18141688

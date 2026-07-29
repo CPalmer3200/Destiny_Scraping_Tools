@@ -7,3 +7,6 @@ In-silico analysis of Bifidobacterium bifidum strain 900791 genome in the contex
 A process-free setup for the preparation of probiotic-loaded electrospun mat as a tailored dressing.|https://dx.doi.org/10.1080/10837450.2026.2707533
 Recurrent tragal abscess associated with frequent in-ear headphone use: a case report.|https://dx.doi.org/10.1093/jscr/rjag612
 Susceptibility of Staphylococcus aureus Strains Isolated from Blood Cultures Between 2024 and 2025: A Single-Center Study.|https://dx.doi.org/10.3390/antibiotics15070695
+Cold atmospheric plasma mediates antibiofilm activity and sensitization to further plasma and antibiotic challenges against Staphylococcus aureus.|https://dx.doi.org/10.1093/femsmc/xtag039
+Multidrug Resistance and mupA-Mediated Mupirocin Resistance in Clinical Coagulase-Negative Staphylococci.|https://dx.doi.org/10.3390/pathogens15070745
+Staphylococcal Scalded Skin Syndrome in a Tertiary Pediatric Hospital over an 11-Year Period.|https://dx.doi.org/10.3390/children13070965

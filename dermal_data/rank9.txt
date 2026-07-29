@@ -10,3 +10,5 @@ Repression of Virulence in Staphylococcus aureus by 2-Aminothiol-Mediated Quorum
 High genetic diversity and multidrug resistance in methicillin-resistant Staphylococcus pseudintermedius from companion animals in South Korea between 2021 and 2023.|https://dx.doi.org/10.1016/j.jgar.2026.07.011
 When appearances deceive: a comparative analysis of acute skin failure in pediatric patients.|https://dx.doi.org/10.1007/s00431-026-07269-8
 A Translational Preterm Piglet Model For Neonatal Sepsis.|https://dx.doi.org/10.3791/71456
+Phenotypic and Genotypic Diversity of Methicillin-Resistant Staphylococci in Dermatological Pets and Their Owners.|https://dx.doi.org/10.3390/vetsci13070701
+Understanding Community Perspectives on Staphylococcus aureus Disease and Prevention in the White Mountain Apache Tribal Community in Arizona.|https://dx.doi.org/10.3390/ijerph23070845

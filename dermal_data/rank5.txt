@@ -45,3 +45,11 @@ Role of Microbiome and Bacterial Biofilms in the Pathogenesis of Cutaneous Leish
 Ranalexin-1G: A Promising Antimicrobial Peptide Targeting Virulence and Host-Pathogen Interactions in Pseudomonas aeruginosa In Vitro Models.|https://dx.doi.org/10.3390/antibiotics15070711
 Phage-Derived Endolysins Targeting Cutibacterium acnes: A Scoping Review.|https://dx.doi.org/10.3390/antibiotics15070697
 Bioactive Compounds of Ginger (Zingiber officinale Roscoe): Antimicrobial Potential and Microalgae-Based Encapsulation Strategies for Combating Biofilms.|https://dx.doi.org/10.3390/antibiotics15070642
+Investigating biofilm-induced mechanical changes in skin using a biofilm-skin composite model.|https://dx.doi.org/10.1016/j.jmbbm.2026.107563
+Molecular characteristics and pathogenicity-associated phenotypes of methicillin-resistant Staphylococcus aureus sequence type 398 clinical isolates from a women and children's hospital in Southwest China.|https://dx.doi.org/10.3389/fpubh.2026.1882026
+From Natural Product to Topical Antimicrobial Candidate: Evaluating Nigella sativa Seed Oil as a Broad-Spectrum Topical Antimicrobial in Multi-Tiered Preclinical Models.|https://dx.doi.org/10.3390/ph19070986
+Leciplex Nanocarriers: An Optimized Platform for Thymol Delivery in Acne Management.|https://dx.doi.org/10.3390/pharmaceutics18070795
+Proline Potentiates Aminoglycoside Bactericidal Efficacy Against Staphylococcus aureus.|https://dx.doi.org/10.3390/life16071070
+Comparative Analysis of Virulence Traits and Fluconazole-Response Mechanisms in Clinical Isolates of Candidozyma auris.|https://dx.doi.org/10.3390/microorganisms14071400
+Novel Antimicrobial Composites Modified with Nanosilver, CuSO(4), Benzethonium Chloride, and ZnO.|https://dx.doi.org/10.3390/ma19143053
+Breast Implant Illness and Autoimmune/Inflammatory Syndrome Induced by Adjuvants: Mechanistic Rationale and a Practical Multidisciplinary Diagnostic Algorithm.|https://dx.doi.org/10.3390/jcm15145721
