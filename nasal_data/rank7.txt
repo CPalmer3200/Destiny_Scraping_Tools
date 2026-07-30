@@ -24,3 +24,9 @@ Crosslinked agarose-gelatine beads as a substrate for investigating biofilms of 
 Surface topography, optical properties, and biofilm adhesion of additive and subtractive-manufactured ceramic reinforced hybrid composite: an in-vitro study.|https://dx.doi.org/10.1007/s10266-026-01510-4
 Multidrug-resistant organisms on in-use medical textiles in a Shanghai tertiary hospital: surveillance and genomic characterization.|https://dx.doi.org/10.3389/fpubh.2026.1891356
 Risk Factors for Reoperation Following Native Septic Arthritis.|https://dx.doi.org/10.4103/jgid.jgid_222_25
+Secondary Sternal Closure With Titanium Plate Fixation After Bilateral Lung Transplantation.|https://dx.doi.org/10.1016/j.transproceed.2026.07.002
+Antimicrobial prophylaxis regimens in joint replacement surgery: susceptibility and PK/PD target attainment.|https://dx.doi.org/10.1016/j.ijantimicag.2026.107947
+Ceramides and the Defective Barrier in Atopic Dermatitis.|https://dx.doi.org/10.1159/spp/aetag001
+Whole-genome sequencing of Staphylococcus capitis isolates from neonates with healthcare-associated bacteraemia in neonatal intensive care units in Taiwan: comparison between the NRCS-A strain and a non-NRCS-A multi-resistant strain.|https://dx.doi.org/10.1099/mgen.0.001798
+Long-Term Trends in Microbiology and Outcomes of Pediatric Deep Neck Infections: An 18-Year Study.|https://dx.doi.org/10.7150/ijms.131187
+Association between MDROs colonization and subsequent infections in ICU patients: a retrospective cohort study.|https://dx.doi.org/10.3389/fpubh.2026.1863334
