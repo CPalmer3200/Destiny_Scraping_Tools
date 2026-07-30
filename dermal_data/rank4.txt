@@ -77,3 +77,7 @@ Multifunctional Polyphenol-Polymer Nanocomposite Hydrogel Targeting Inflammation
 Fabrication of Zinc Oxide Nanoparticles Encapsulated Locust Bean Gum for Wound Healing: In Vitro/In Vivo and Molecular Docking Approach.|https://dx.doi.org/10.3390/ph19071015
 Evaluated Wound Healing Property of Aloe vera-Coated Dextrane Sulfate/Chitosan Nanoparticles Encapsulating Eucalyptus in a Rat Model.|https://dx.doi.org/10.3390/pharmaceutics18070873
 Multifunctional Prussian-Blue-Based Hydrogel for Photothermal Antibacterial and Infected Wound Regeneration.|https://dx.doi.org/10.3390/polym18141688
+In vitro and in vivo evaluation of a bioactive polysaccharide based self-healing hydrogel film for enhanced wound healing.|https://dx.doi.org/10.1177/08853282261474149
+A methacrylated carboxymethyl chitosan hydrogel loaded with α-mangostin nano-micelle promotes infected diabetic wound healing involving PPAR-γ modulation.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153778
+Injectable charge-complementary hyaluronic acid/ε-Poly-L-lysine hydrogel loaded with BMP-2 for potential antibacterial and osteogenic management of peri-implantitis.|https://dx.doi.org/10.1088/1748-605X/ae9231
+Fabrication and characterization of an antioxidant and antibacterial fibrous wound dressing based on PVA/PCL incorporated with catechin hydrate and graphene oxide for chronic wound healing.|https://dx.doi.org/10.1080/09205063.2026.2697990
