@@ -55,3 +55,4 @@ Novel Antimicrobial Composites Modified with Nanosilver, CuSO(4), Benzethonium C
 Breast Implant Illness and Autoimmune/Inflammatory Syndrome Induced by Adjuvants: Mechanistic Rationale and a Practical Multidisciplinary Diagnostic Algorithm.|https://dx.doi.org/10.3390/jcm15145721
 The Methicillin-Resistant S pseudintermedius Crisis: Are We Out of Options to Treat the Most Common Canine Pathogen?|https://dx.doi.org/10.1016/j.cvsm.2026.06.004
 A Natural Deep Eutectic System modulates the inflammatory microenvironment and restores pro-regenerative cell functions in in vitro models of chronic wounds.|https://dx.doi.org/10.1016/j.ejps.2026.107625
+Discovery of guanidinium salt incorporating cinnamic acid skeleton as new antibacterial agents against Gram-positive bacteria.|https://dx.doi.org/10.3389/fmicb.2026.1906096

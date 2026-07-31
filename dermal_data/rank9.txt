@@ -13,3 +13,4 @@ A Translational Preterm Piglet Model For Neonatal Sepsis.|https://dx.doi.org/10.
 Phenotypic and Genotypic Diversity of Methicillin-Resistant Staphylococci in Dermatological Pets and Their Owners.|https://dx.doi.org/10.3390/vetsci13070701
 Understanding Community Perspectives on Staphylococcus aureus Disease and Prevention in the White Mountain Apache Tribal Community in Arizona.|https://dx.doi.org/10.3390/ijerph23070845
 Blistering in a neonate: Epidermolysis bullosa or staphylococcus scalded skin syndrome?|https://dx.doi.org/10.25251/fy4n9t79
+Spermine conjugates of non-steroidal anti-inflammatory drugs as potent antibacterials against multidrug-resistant S. aureus and Enterococcus sp.|https://dx.doi.org/10.1016/j.ejmech.2026.119181

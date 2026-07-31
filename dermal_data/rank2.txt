@@ -50,3 +50,5 @@ Exploring the Molecular Pathways of Tinospora cordifolia in the Management of Di
 Plasma Proteins and Genes Associated with Protein and Risks for Diabetic Foot Diseases Identified Using Multi- Ornics and Mendelian Randomization Analysis.|https://dx.doi.org/10.2174/0109298673364905250803134751
 Nystatin-Loaded Chitosan Nanoparticles Coated Fabric: A Promising Approach for the Management of Diabetic Foot Fungal Infections.|https://dx.doi.org/10.2174/0115672018465558260701062442
 From serum inflammatory markers to fluid, tissue, and molecular assays: current advances in the laboratory diagnosis of bone and joint infections.|https://dx.doi.org/10.3389/fcimb.2026.1865643
+Hospital burden, amputation risk, and mortality trends in diabetic foot patients: a retrospective public health analysis.|https://dx.doi.org/10.3389/fpubh.2026.1753221
+Microbial dysbiosis and wound healing in diabetic foot ulcers: a mini review with a note on the role of artificial intelligence.|https://dx.doi.org/10.3389/fcimb.2026.1891884

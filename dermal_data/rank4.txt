@@ -81,3 +81,6 @@ In vitro and in vivo evaluation of a bioactive polysaccharide based self-healing
 A methacrylated carboxymethyl chitosan hydrogel loaded with α-mangostin nano-micelle promotes infected diabetic wound healing involving PPAR-γ modulation.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153778
 Injectable charge-complementary hyaluronic acid/ε-Poly-L-lysine hydrogel loaded with BMP-2 for potential antibacterial and osteogenic management of peri-implantitis.|https://dx.doi.org/10.1088/1748-605X/ae9231
 Fabrication and characterization of an antioxidant and antibacterial fibrous wound dressing based on PVA/PCL incorporated with catechin hydrate and graphene oxide for chronic wound healing.|https://dx.doi.org/10.1080/09205063.2026.2697990
+Development and preclinical investigation of vancomycin loaded oxidized cellulose dressing for management of wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153774
+Box-Behnken-Optimized Bacterial Nanocellulose-Silver and Zinc Oxide Nanocomposites: Bactericidal Activity, Antioxidant Capacity, Cytotoxicity, and In vitro Wound Healing Assessment.|https://dx.doi.org/10.1007/s12010-026-05853-0
+A bioinspired mechano-catalytic hydrogel leaf for self-adaptive water purification.|https://dx.doi.org/10.1039/d6mh00874g
