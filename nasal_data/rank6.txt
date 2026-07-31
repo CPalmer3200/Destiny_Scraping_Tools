@@ -4,3 +4,4 @@ Multidrug Resistance and mupA-Mediated Mupirocin Resistance in Clinical Coagulas
 Strategies for biofilm disruption: Mechanisms, polymeric networks, mixed infections, and emerging biomaterials.|https://dx.doi.org/10.1016/j.biotechadv.2026.108994
 Biosynthesis of silver and gold nanoparticles using Annona squamosa seed extract: Insights into antibacterial and anticancer activities.|https://dx.doi.org/10.3892/br.2026.2177
 Genetic engineering of Staphylococcus haemolyticus: overcoming restriction-modification barriers and targeting virulence genes.|https://dx.doi.org/10.1099/mgen.0.001780
+Development and preclinical investigation of vancomycin loaded oxidized cellulose dressing for management of wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153774

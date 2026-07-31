@@ -6,3 +6,6 @@ Laparoscopically Harvested Pedicled Omental Flap in Immediate Unilateral Breast 
 Complication rate after implant-based breast-reconstruction with support of a synthetic non-resorbable titanized polypropylene mesh (TiLOOP® Bra): Analysis of the 2-year follow up from the prospective multicentre PRO-BRA trial.|https://dx.doi.org/10.1016/j.jpra.2026.05.057
 Multidisciplinary Management of Complicated Locally Advanced and Fungating Breast Cancer: A Narrative Review.|https://dx.doi.org/10.3390/cancers18142254
 The FAST Protocol: A Novel Approach for Staged Autologous Breast Reconstruction.|https://dx.doi.org/10.1097/PRS.0000000000012678
+Breast implant associated anaplastic large cell lymphoma is a heterogeneous T cell disease with active pro-tumour cross-talk and immune suppression.|https://dx.doi.org/10.1038/s41375-026-03049-3
+Risk Factors for Postoperative Complications After Superomedial Pedicle Reduction Mammaplasty.|https://dx.doi.org/10.1093/asjof/ojag141
+Mycobacterium fortuitum Infection in Breast Implant and Rib Osteomyelitis: A Case Report and Review of Literature.|https://dx.doi.org/10.1093/asjof/ojag119

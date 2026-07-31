@@ -30,3 +30,7 @@ Ceramides and the Defective Barrier in Atopic Dermatitis.|https://dx.doi.org/10.
 Whole-genome sequencing of Staphylococcus capitis isolates from neonates with healthcare-associated bacteraemia in neonatal intensive care units in Taiwan: comparison between the NRCS-A strain and a non-NRCS-A multi-resistant strain.|https://dx.doi.org/10.1099/mgen.0.001798
 Long-Term Trends in Microbiology and Outcomes of Pediatric Deep Neck Infections: An 18-Year Study.|https://dx.doi.org/10.7150/ijms.131187
 Association between MDROs colonization and subsequent infections in ICU patients: a retrospective cohort study.|https://dx.doi.org/10.3389/fpubh.2026.1863334
+Differences in practices for surgical site infection prevention in neonatal surgery between neonatologists and pediatric surgeons: a multicenter survey in Japan.|https://dx.doi.org/10.1038/s41372-026-02803-w
+Effect of Intrawound Vancomycin Powder on the Pathogen Spectrum and Antimicrobial Susceptibility of Postoperative Infections in Elective Lumbar Fusion.|https://dx.doi.org/10.1097/BRS.0000000000005809
+Corynebacterium striatum modulates the sessile lifestyle of wild-type and ΔsrtA mutant Staphylococcus aureus in multi-species biofilms.|https://dx.doi.org/10.1080/08927014.2026.2708745
+A retrospective analysis of pathogen distribution and antimicrobial resistance trends of bacteria in a tertiary hospital in China, 2021-2025.|https://dx.doi.org/10.3389/fcimb.2026.1856155
