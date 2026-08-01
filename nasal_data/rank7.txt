@@ -34,3 +34,6 @@ Differences in practices for surgical site infection prevention in neonatal surg
 Effect of Intrawound Vancomycin Powder on the Pathogen Spectrum and Antimicrobial Susceptibility of Postoperative Infections in Elective Lumbar Fusion.|https://dx.doi.org/10.1097/BRS.0000000000005809
 Corynebacterium striatum modulates the sessile lifestyle of wild-type and ΔsrtA mutant Staphylococcus aureus in multi-species biofilms.|https://dx.doi.org/10.1080/08927014.2026.2708745
 A retrospective analysis of pathogen distribution and antimicrobial resistance trends of bacteria in a tertiary hospital in China, 2021-2025.|https://dx.doi.org/10.3389/fcimb.2026.1856155
+Nocardia farcinica septic bursitis - a case report and scoping literature review.|https://dx.doi.org/10.57187/5110
+Imaging Staphylococcus aureus biofilms in vivo reveals neutrophil exclusion by PNAG exopolysaccharide.|https://dx.doi.org/10.1128/mbio.00522-26
+Antibacterial Activity of DBD Plasma-Activated Saline Against Clinically Relevant Bacteria: Potential Applications in Family and Reproductive Health.|https://dx.doi.org/10.18502/jfrh.v20i1.22018

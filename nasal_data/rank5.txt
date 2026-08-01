@@ -9,3 +9,5 @@ The FAST Protocol: A Novel Approach for Staged Autologous Breast Reconstruction.
 Breast implant associated anaplastic large cell lymphoma is a heterogeneous T cell disease with active pro-tumour cross-talk and immune suppression.|https://dx.doi.org/10.1038/s41375-026-03049-3
 Risk Factors for Postoperative Complications After Superomedial Pedicle Reduction Mammaplasty.|https://dx.doi.org/10.1093/asjof/ojag141
 Mycobacterium fortuitum Infection in Breast Implant and Rib Osteomyelitis: A Case Report and Review of Literature.|https://dx.doi.org/10.1093/asjof/ojag119
+Improvement of Suspected Paraneoplastic Large-Vessel Vasculitis after Breast Cancer Resection: A Case Report.|https://dx.doi.org/10.70352/scrj.cr.26-0408
+Antimicrobial-impregnated Sutures Reduce Surgical Site Infections in Plastic Surgery: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1097/GOX.0000000000007925
