@@ -15,3 +15,5 @@ Antibacterial and antibiofilm activity of novel nanofibers bandage formulated wi
 Transcriptomics-informed design of a dual phytochemical hydrogel enables immuno-redox modulation and accelerated healing in infected burns.|https://dx.doi.org/10.1016/j.ejpb.2026.115198
 Gentamicin-Linked Supramolecular Hybrid Hydrogels: Mechanically Robust Cucurbit[7]Uril-Based Networks for Prolonged Infection Control.|https://dx.doi.org/10.1002/adhm.71477
 Astrakurkurone targets multidrug resistant Staphylococcus aureus biofilms through ROS-mediated cell membrane damage and β-lactamase inhibition.|https://dx.doi.org/10.1016/j.micpath.2026.108734
+In vitro and in vivo antibacterial activities and phytochemical screening of 80% methanol extract from Ehretia cymosa leaves.|https://dx.doi.org/10.1371/journal.pone.0354982
+The evolving landscape of Staphylococcus aureus immune evasion: a data-driven atlas over two decades.|https://dx.doi.org/10.3389/fimmu.2026.1862459

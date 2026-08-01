@@ -52,3 +52,8 @@ Nystatin-Loaded Chitosan Nanoparticles Coated Fabric: A Promising Approach for t
 From serum inflammatory markers to fluid, tissue, and molecular assays: current advances in the laboratory diagnosis of bone and joint infections.|https://dx.doi.org/10.3389/fcimb.2026.1865643
 Hospital burden, amputation risk, and mortality trends in diabetic foot patients: a retrospective public health analysis.|https://dx.doi.org/10.3389/fpubh.2026.1753221
 Microbial dysbiosis and wound healing in diabetic foot ulcers: a mini review with a note on the role of artificial intelligence.|https://dx.doi.org/10.3389/fcimb.2026.1891884
+Skin and Soft Tissue Infections Caused by Gram-Negative Pathogens.|https://dx.doi.org/10.1016/j.idc.2026.06.004
+Serum asprosin levels in diabetic foot ulcer development: A cross-sectional.|https://dx.doi.org/10.1097/MD.0000000000049954
+Plasma metabolite octadecadienedioate: A novel protective factor against diabetes-related Charcot foot.|https://dx.doi.org/10.1097/MD.0000000000049973
+The Clean Margin in Diabetic Foot Osteomyelitis: Conceptual Appeal, Practical Uncertainty.|https://dx.doi.org/10.1093/cid/ciag467
+Spatiotemporally Controlled Double Self-Emulsifying Microneedles for Co-Delivery of Eugenol and Puerarin to Promote Healing and Tissue Regeneration of Infected Diabetic Wounds.|https://dx.doi.org/10.1002/smll.74941

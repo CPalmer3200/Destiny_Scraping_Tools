@@ -14,3 +14,4 @@ Phenotypic and Genotypic Diversity of Methicillin-Resistant Staphylococci in Der
 Understanding Community Perspectives on Staphylococcus aureus Disease and Prevention in the White Mountain Apache Tribal Community in Arizona.|https://dx.doi.org/10.3390/ijerph23070845
 Blistering in a neonate: Epidermolysis bullosa or staphylococcus scalded skin syndrome?|https://dx.doi.org/10.25251/fy4n9t79
 Spermine conjugates of non-steroidal anti-inflammatory drugs as potent antibacterials against multidrug-resistant S. aureus and Enterococcus sp.|https://dx.doi.org/10.1016/j.ejmech.2026.119181
+A non-bactericidal antimicrobial peptide provides protective effect against bacterial sepsis via regulation of antimicrobial immunity and vascular endothelial functions.|https://dx.doi.org/10.24272/j.issn.2095-8137.2025.466
