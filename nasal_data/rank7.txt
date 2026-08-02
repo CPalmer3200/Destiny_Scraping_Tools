@@ -37,3 +37,7 @@ A retrospective analysis of pathogen distribution and antimicrobial resistance t
 Nocardia farcinica septic bursitis - a case report and scoping literature review.|https://dx.doi.org/10.57187/5110
 Imaging Staphylococcus aureus biofilms in vivo reveals neutrophil exclusion by PNAG exopolysaccharide.|https://dx.doi.org/10.1128/mbio.00522-26
 Antibacterial Activity of DBD Plasma-Activated Saline Against Clinically Relevant Bacteria: Potential Applications in Family and Reproductive Health.|https://dx.doi.org/10.18502/jfrh.v20i1.22018
+Surgical Humidification (HumiGard(TM)) Reduces Bacterial Load in an Open Spine Animal Infection Model.|https://dx.doi.org/10.1177/21925682261475600
+Exposure keratopathy and conjunctival microbial flora in mechanically ventilated patients - A hospital-based prospective study.|https://dx.doi.org/10.4103/joacp.joacp_59_25
+Medical Device-Associated Infections in Intensive Care Settings: Biofilms, Multidrug-Resistant Pathogens, and Prevention Strategies.|https://dx.doi.org/10.7759/cureus.111893
+The role of dental assessment in source identification during Staphylococcus aureus bacteremia: a scoping review.|https://dx.doi.org/10.3389/froh.2026.1876705

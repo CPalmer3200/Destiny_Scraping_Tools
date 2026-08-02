@@ -6,3 +6,4 @@ Biosynthesis of silver and gold nanoparticles using Annona squamosa seed extrac
 Genetic engineering of Staphylococcus haemolyticus: overcoming restriction-modification barriers and targeting virulence genes.|https://dx.doi.org/10.1099/mgen.0.001780
 Development and preclinical investigation of vancomycin loaded oxidized cellulose dressing for management of wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153774
 The evolving landscape of Staphylococcus aureus immune evasion: a data-driven atlas over two decades.|https://dx.doi.org/10.3389/fimmu.2026.1862459
+Progressive isolated lower-lip oedema after mRNA COVID-19 booster complicated by methicillin-resistant Staphylococcus aureus superinfection: a necrotizing fasciitis mimic.|https://dx.doi.org/10.1093/skinhd/vzag074
