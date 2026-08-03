@@ -41,3 +41,5 @@ Surgical Humidification (HumiGard(TM)) Reduces Bacterial Load in an Open Spine A
 Exposure keratopathy and conjunctival microbial flora in mechanically ventilated patients - A hospital-based prospective study.|https://dx.doi.org/10.4103/joacp.joacp_59_25
 Medical Device-Associated Infections in Intensive Care Settings: Biofilms, Multidrug-Resistant Pathogens, and Prevention Strategies.|https://dx.doi.org/10.7759/cureus.111893
 The role of dental assessment in source identification during Staphylococcus aureus bacteremia: a scoping review.|https://dx.doi.org/10.3389/froh.2026.1876705
+Cas12a/crRNA Recognition Catalyzed Triple Self-Priming Cascade Amplification Strategy for Sensitive and Reliable Drug Resistance Gene Analysis.|https://dx.doi.org/10.1007/s12010-026-05822-7
+Antimicrobial Resistance Patterns in Infections Among Patients With Hematologic Malignancies: A Systematic Review.|https://dx.doi.org/10.7759/cureus.111932
