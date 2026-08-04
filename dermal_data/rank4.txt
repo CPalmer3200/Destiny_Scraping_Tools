@@ -1,2 +1,6 @@
 GelMA-based peptide conjugated hydrogel with antifibrotic modulation and antibiofilm activity.|https://dx.doi.org/10.1039/d6bm00732e
 Spatiotemporal Sonodynamic-Nanozymic Therapy for Infected Jawbone Defects.|https://dx.doi.org/10.1002/adhm.71499
+[Effects and mechanisms of PIT on wound healing of full-thickness skin defects in diabetic mice].|https://dx.doi.org/10.3760/cma.j.cn501225-20260127-00049
+Evaluation of Antibacterial Properties of Nanosuspension of Secondary Metabolites from Streptomyces chrestomyceticus ADP4.|https://dx.doi.org/10.1007/s00284-026-05086-8
+A multifunctional magnetic graphene oxide/NH₂-UiO-66(Zr)/sodium alginate nanocomposite for efficient tetracycline adsorption, antibacterial activity, and practical application in real water matrices.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153894
+Topical strategies for antimicrobial delivery of peptide medicines for the management of chronic wounds.|https://dx.doi.org/10.1186/s11671-026-04792-3
