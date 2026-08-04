@@ -8,3 +8,4 @@ Staphylococcal Scalded Skin Syndrome in a Tertiary Pediatric Hospital over an 11
 Frequency of nasal carriers of methicillin-resistant Staphylococcus aureus among health personnel in Ayacucho, Peru.|https://dx.doi.org/10.17843/rpmesp.2026.432.15609
 Trained immunity in chronic rhinosinusitis: epigenetic reprogramming of innate immune memory as a driver of mucosal inflammation and recurrence.|https://dx.doi.org/10.3389/fimmu.2026.1822395
 The global epidemiology of MRSA.|https://dx.doi.org/10.1093/jacamr/dlag152
+Host-Specific Interactions Between Staphylococcus aureus and Pseudomonas aeruginosa Impair Epithelial Repair in Chronic Rhinosinusitis.|https://dx.doi.org/10.1002/alr.70228

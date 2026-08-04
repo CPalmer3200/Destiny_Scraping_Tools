@@ -43,3 +43,7 @@ Medical Device-Associated Infections in Intensive Care Settings: Biofilms, Multi
 The role of dental assessment in source identification during Staphylococcus aureus bacteremia: a scoping review.|https://dx.doi.org/10.3389/froh.2026.1876705
 Cas12a/crRNA Recognition Catalyzed Triple Self-Priming Cascade Amplification Strategy for Sensitive and Reliable Drug Resistance Gene Analysis.|https://dx.doi.org/10.1007/s12010-026-05822-7
 Antimicrobial Resistance Patterns in Infections Among Patients With Hematologic Malignancies: A Systematic Review.|https://dx.doi.org/10.7759/cureus.111932
+Impact of Bacterial Infections in Adult Heart Transplant Recipients: A Single-Center Experience (2017-2024).|https://dx.doi.org/10.1016/j.transproceed.2026.07.008
+Efficacy and Cost Analysis of a Combined (One-Step) Detergent-Disinfectant for Environmental Decontamination Around Methicillin-Resistant Staphylococcus aureus (MRSA) Patients.|https://dx.doi.org/10.36519/idcm.2026.1048
+GelMA-based peptide conjugated hydrogel with antifibrotic modulation and antibiofilm activity.|https://dx.doi.org/10.1039/d6bm00732e
+Spatiotemporal Sonodynamic-Nanozymic Therapy for Infected Jawbone Defects.|https://dx.doi.org/10.1002/adhm.71499
