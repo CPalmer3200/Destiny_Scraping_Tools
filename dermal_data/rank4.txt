@@ -4,3 +4,7 @@ Spatiotemporal Sonodynamic-Nanozymic Therapy for Infected Jawbone Defects.|https
 Evaluation of Antibacterial Properties of Nanosuspension of Secondary Metabolites from Streptomyces chrestomyceticus ADP4.|https://dx.doi.org/10.1007/s00284-026-05086-8
 A multifunctional magnetic graphene oxide/NH₂-UiO-66(Zr)/sodium alginate nanocomposite for efficient tetracycline adsorption, antibacterial activity, and practical application in real water matrices.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153894
 Topical strategies for antimicrobial delivery of peptide medicines for the management of chronic wounds.|https://dx.doi.org/10.1186/s11671-026-04792-3
+Hybrid kraft lignin-copper oxide nanoparticles as functional additives in natural rubber membranes for biomedical applications.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153913
+MOF-based controlled-release patches for nitric oxide: fabrication, gas release profile, and preservation efficacy on cherry tomatoes.|https://dx.doi.org/10.1016/j.foodchem.2026.150654
+A mussel-inspired hydrogel matrix with photothermal activity and phycocyanin-modified cerium oxide nanoparticles with antioxidant activity for synergistic infected wound healing.|https://dx.doi.org/10.1039/d6tb01349j
+Synthesis of nitric oxide releasing conjugated ortho-hindered nitroarenes and their application in dual-action antimicrobial peptide-mimics.|https://dx.doi.org/10.1039/d6ra04633a
