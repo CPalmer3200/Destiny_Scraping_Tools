@@ -47,3 +47,6 @@ Impact of Bacterial Infections in Adult Heart Transplant Recipients: A Single-Ce
 Efficacy and Cost Analysis of a Combined (One-Step) Detergent-Disinfectant for Environmental Decontamination Around Methicillin-Resistant Staphylococcus aureus (MRSA) Patients.|https://dx.doi.org/10.36519/idcm.2026.1048
 GelMA-based peptide conjugated hydrogel with antifibrotic modulation and antibiofilm activity.|https://dx.doi.org/10.1039/d6bm00732e
 Spatiotemporal Sonodynamic-Nanozymic Therapy for Infected Jawbone Defects.|https://dx.doi.org/10.1002/adhm.71499
+Differences and trends in pathogens between ventilator-associated pneumonia and non-ventilator-associated pneumonia: data from 61 hospitals in Suzhou, China, 2020-2024.|https://dx.doi.org/10.1136/bmjopen-2026-116593
+Cardiac Implantable Electronic Device Infections: Emerging Paradigms in Precision Prevention and Personalized Management.|https://dx.doi.org/10.1016/j.tcm.2026.08.002
+Successful Prosthesis Salvage Using Continuous Local Antibiotic Perfusion (CLAP) for Prosthetic Joint Infection Following Revision Total Elbow Arthroplasty in a Patient with Rheumatoid Arthritis: A Case Report.|https://dx.doi.org/10.1093/mrcr/rxag077

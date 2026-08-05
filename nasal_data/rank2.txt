@@ -9,3 +9,4 @@ Frequency of nasal carriers of methicillin-resistant Staphylococcus aureus among
 Trained immunity in chronic rhinosinusitis: epigenetic reprogramming of innate immune memory as a driver of mucosal inflammation and recurrence.|https://dx.doi.org/10.3389/fimmu.2026.1822395
 The global epidemiology of MRSA.|https://dx.doi.org/10.1093/jacamr/dlag152
 Host-Specific Interactions Between Staphylococcus aureus and Pseudomonas aeruginosa Impair Epithelial Repair in Chronic Rhinosinusitis.|https://dx.doi.org/10.1002/alr.70228
+A rapid approach to detect methicillin-resistant and susceptible Staphylococcus aureus directly from clinical specimens.|https://dx.doi.org/10.1128/spectrum.00487-26
