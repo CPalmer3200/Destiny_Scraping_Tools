@@ -50,3 +50,4 @@ Spatiotemporal Sonodynamic-Nanozymic Therapy for Infected Jawbone Defects.|https
 Differences and trends in pathogens between ventilator-associated pneumonia and non-ventilator-associated pneumonia: data from 61 hospitals in Suzhou, China, 2020-2024.|https://dx.doi.org/10.1136/bmjopen-2026-116593
 Cardiac Implantable Electronic Device Infections: Emerging Paradigms in Precision Prevention and Personalized Management.|https://dx.doi.org/10.1016/j.tcm.2026.08.002
 Successful Prosthesis Salvage Using Continuous Local Antibiotic Perfusion (CLAP) for Prosthetic Joint Infection Following Revision Total Elbow Arthroplasty in a Patient with Rheumatoid Arthritis: A Case Report.|https://dx.doi.org/10.1093/mrcr/rxag077
+Enumeration of organisms occurring in the intestinal tract and yolk sac of day-old chicks from commercial hatcheries.|https://dx.doi.org/10.1007/s11259-026-11447-2
