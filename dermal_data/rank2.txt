@@ -3,3 +3,4 @@ Bio-enhanced silk fibroin-based scaffolds for chronic diabetic foot ulcers.|http
 Incidence of Infections in Renal Allograft Recipients and Their Outcomes in a Tertiary Care Center in Northeast India.|https://dx.doi.org/10.59556/japi.74.1614
 [Evolution of DFU treatment strategies: from simple coverage with traditional dressings to active modulation with smart materials].|https://dx.doi.org/10.3760/cma.j.cn501225-20260409-00146
 Pilot randomised controlled trial of probe to bone diabetic foot ulcer therapy (PROBE-DFU trial) - Study protocol.|https://dx.doi.org/10.1371/journal.pone.0354611
+Patient-facing diabetic foot information from large language models: a domain- and source-balanced prompt framework for public-interface benchmarking.|https://dx.doi.org/10.3389/fendo.2026.1895366

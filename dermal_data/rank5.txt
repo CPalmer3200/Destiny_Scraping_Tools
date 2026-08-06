@@ -4,3 +4,4 @@ Periodontal Involvement in Autoimmune Blistering Diseases: A Narrative Review.|h
 A low cytotoxicity antibacterial agent with benzothiazole scaffold for MRSA infection treatment.|https://dx.doi.org/10.1016/j.ejmech.2026.119177
 Cardiac Implantable Electronic Device Infections: Emerging Paradigms in Precision Prevention and Personalized Management.|https://dx.doi.org/10.1016/j.tcm.2026.08.002
 Dual-wavelength-responsive GMMC-Pdots-Ag hydrogel for spatiotemporally controlled photothermal and hydrogen therapy of infected liver and skin defects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115996
+Lacticaseibacillus rhamnosus GG lysate inhibits Staphylococcus aureus biofilm formation in human skin explants.|https://dx.doi.org/10.3389/fcimb.2026.1885754

@@ -8,3 +8,5 @@ Hybrid kraft lignin-copper oxide nanoparticles as functional additives in natura
 MOF-based controlled-release patches for nitric oxide: fabrication, gas release profile, and preservation efficacy on cherry tomatoes.|https://dx.doi.org/10.1016/j.foodchem.2026.150654
 A mussel-inspired hydrogel matrix with photothermal activity and phycocyanin-modified cerium oxide nanoparticles with antioxidant activity for synergistic infected wound healing.|https://dx.doi.org/10.1039/d6tb01349j
 Synthesis of nitric oxide releasing conjugated ortho-hindered nitroarenes and their application in dual-action antimicrobial peptide-mimics.|https://dx.doi.org/10.1039/d6ra04633a
+Antibacterial and Wound-Healing Efficacy of 12-Hydroxylauric Acid-Conjugated Heterochiral Diphenylalanines: Insights From In Vitro and In Vivo Investigations.|https://dx.doi.org/10.1002/cbic.70466
+Fabrication and characterization of biocompatible BPC-157 based chitosan hydrogel.|https://dx.doi.org/10.1007/s13205-026-04951-4
