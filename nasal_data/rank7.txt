@@ -51,3 +51,10 @@ Differences and trends in pathogens between ventilator-associated pneumonia and 
 Cardiac Implantable Electronic Device Infections: Emerging Paradigms in Precision Prevention and Personalized Management.|https://dx.doi.org/10.1016/j.tcm.2026.08.002
 Successful Prosthesis Salvage Using Continuous Local Antibiotic Perfusion (CLAP) for Prosthetic Joint Infection Following Revision Total Elbow Arthroplasty in a Patient with Rheumatoid Arthritis: A Case Report.|https://dx.doi.org/10.1093/mrcr/rxag077
 Enumeration of organisms occurring in the intestinal tract and yolk sac of day-old chicks from commercial hatcheries.|https://dx.doi.org/10.1007/s11259-026-11447-2
+A bacterial fatty acid enzyme hijacks nucleic acid-sensing Toll-like receptor signaling.|https://dx.doi.org/10.1073/pnas.2620143123
+Growing Staphylococcus aureus in synthetic cystic fibrosis medium promotes colonization in a murine pneumonia model.|https://dx.doi.org/10.1128/iai.00283-26
+A Novel Foam-Forming Hydrogel Containing Antibiotics Reduces the Degree of Bacterial Colonization and Improves Wound Healing in Thermal Burns When Compared to Silver Sulfadiazine.|https://dx.doi.org/10.1093/milmed/usag049
+Fulminant lupus myopericarditis with Class III lupus nephritis and catastrophic antiphospholipid syndrome-like thrombosis: a case report.|https://dx.doi.org/10.1093/ehjcr/ytag556
+Spinal Mucormycosis with MRSA Superinfection in a Diabetic Female: A Rare and Lethal Encounter.|https://dx.doi.org/10.1007/s43465-026-01732-2
+Valve-sparing surgery for right-sided endocarditis presenting as a giant right atrial mass in a hemodialysis patient.|https://dx.doi.org/10.1007/s12055-026-02203-x
+Microbial assessment of recontamination with multidrug-resistant Acinetobacter in patient room environment in a burn unit.|https://dx.doi.org/10.1016/j.ajic.2026.03.009
