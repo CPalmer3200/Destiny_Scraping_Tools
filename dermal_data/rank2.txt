@@ -4,3 +4,5 @@ Incidence of Infections in Renal Allograft Recipients and Their Outcomes in a Te
 [Evolution of DFU treatment strategies: from simple coverage with traditional dressings to active modulation with smart materials].|https://dx.doi.org/10.3760/cma.j.cn501225-20260409-00146
 Pilot randomised controlled trial of probe to bone diabetic foot ulcer therapy (PROBE-DFU trial) - Study protocol.|https://dx.doi.org/10.1371/journal.pone.0354611
 Patient-facing diabetic foot information from large language models: a domain- and source-balanced prompt framework for public-interface benchmarking.|https://dx.doi.org/10.3389/fendo.2026.1895366
+Nanocellulose as an Active Biointerface: Design Principles for Infection-Adaptive and Regenerative Biomaterials.|https://dx.doi.org/10.1002/smll.74933
+Clinical Study of Modified Tibial Transverse Transport Combined with the Masquelet Technique for the Treatment of Diabetic Foot with Ulcers.|https://dx.doi.org/10.1007/s43465-026-01806-1

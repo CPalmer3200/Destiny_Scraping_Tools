@@ -10,3 +10,5 @@ A mussel-inspired hydrogel matrix with photothermal activity and phycocyanin-mod
 Synthesis of nitric oxide releasing conjugated ortho-hindered nitroarenes and their application in dual-action antimicrobial peptide-mimics.|https://dx.doi.org/10.1039/d6ra04633a
 Antibacterial and Wound-Healing Efficacy of 12-Hydroxylauric Acid-Conjugated Heterochiral Diphenylalanines: Insights From In Vitro and In Vivo Investigations.|https://dx.doi.org/10.1002/cbic.70466
 Fabrication and characterization of biocompatible BPC-157 based chitosan hydrogel.|https://dx.doi.org/10.1007/s13205-026-04951-4
+In-situ chargeable, postcharging antibacterial supercapacitor patch with integrated pH sensing for infected chronic wound management.|https://dx.doi.org/10.1016/j.talanta.2026.130390
+Lysozyme amyloid fibrils /tannic acid antibacterial nanohydrogels with interpenetrating polymer network structure: Synthesis, performance and mechanisms.|https://dx.doi.org/10.1016/j.foodres.2026.119697
