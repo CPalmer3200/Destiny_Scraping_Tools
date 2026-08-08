@@ -12,3 +12,5 @@ Antibacterial and Wound-Healing Efficacy of 12-Hydroxylauric Acid-Conjugated Het
 Fabrication and characterization of biocompatible BPC-157 based chitosan hydrogel.|https://dx.doi.org/10.1007/s13205-026-04951-4
 In-situ chargeable, postcharging antibacterial supercapacitor patch with integrated pH sensing for infected chronic wound management.|https://dx.doi.org/10.1016/j.talanta.2026.130390
 Lysozyme amyloid fibrils /tannic acid antibacterial nanohydrogels with interpenetrating polymer network structure: Synthesis, performance and mechanisms.|https://dx.doi.org/10.1016/j.foodres.2026.119697
+Development and Preclinical Evaluation of a Copper-Based Acidic Hydrogel for Atopic Dermatitis.|https://dx.doi.org/10.1080/10837450.2026.2708938
+An infection-responsive multifunctional hydrogel enables potent activity against methicillin-resistant Staphylococcus aureus and promotes wound healing.|https://dx.doi.org/10.1016/j.mtbio.2026.103494

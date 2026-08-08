@@ -1,2 +1,4 @@
 A bacterial fatty acid enzyme hijacks nucleic acid-sensing Toll-like receptor signaling.|https://dx.doi.org/10.1073/pnas.2620143123
 Staphylococcal Scalded Skin Syndrome Often Does Not Require Empiric Coverage for Methicillin Resistance.|https://dx.doi.org/10.1111/pde.70279
+Treatment of infection caused by animal commensal pathogen Staphylococcus simulans.|https://dx.doi.org/10.3855/jidc.22148
+Honeybee venom modulates antioxidant gene expression and tissue regeneration in a rat model of staphylococcus aureus - infected skin wounds.|https://dx.doi.org/10.1007/s11033-026-12548-6
