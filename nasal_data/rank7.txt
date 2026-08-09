@@ -63,3 +63,6 @@ Microbiological spectrum of septic arthritis: Diagnostic insights and clinical i
 Risk factors for methicillin-resistant Staphylococcus aureus (MRSA) carriage among rehabilitation facilities patients at admission: a systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jhin.2026.07.029
 Culture-based analysis of oral dysbiosis in post-oncological patients rehabilitated with obturator prostheses.|https://dx.doi.org/10.1080/20002297.2026.2698177
 Patterns of Bacterial Infections Following Orthopedic Surgeries: A Retrospective Analysis.|https://dx.doi.org/10.7759/cureus.112197
+Multidrug-resistant bacterial contamination of healthcare workers' mobile phones, decontamination efficacy, and potential implications for hospital-acquired infections.|https://dx.doi.org/10.1038/s41598-026-64278-1
+Optimization of Dual-Bacteriophage Magnetic Nanoprobe for the Detection of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1002/mabi.70237
+Epidermis to endocardium: mapping the association between atopic dermatitis and infective endocarditis.|https://dx.doi.org/10.5837/bjc.2026.017

@@ -8,3 +8,4 @@ Development and preclinical investigation of vancomycin loaded oxidized cellulos
 The evolving landscape of Staphylococcus aureus immune evasion: a data-driven atlas over two decades.|https://dx.doi.org/10.3389/fimmu.2026.1862459
 Progressive isolated lower-lip oedema after mRNA COVID-19 booster complicated by methicillin-resistant Staphylococcus aureus superinfection: a necrotizing fasciitis mimic.|https://dx.doi.org/10.1093/skinhd/vzag074
 Candida albicans activates Staphylococcus aureus virulence regulatory systems to drive toxin-mediated human cell death.|https://dx.doi.org/10.1371/journal.ppat.1014490
+Hydroamination of Dehydroalanine With Deuterium Incorporation to Access Unnatural 2- and 4-Pyridonyl α-Amino Acids: Evaluation of Their Antibacterial, Antifungal, and Immunomodulatory Activities.|https://dx.doi.org/10.1002/cmdc.70415
