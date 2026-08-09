@@ -7,3 +7,4 @@ Patient-facing diabetic foot information from large language models: a domain- a
 Nanocellulose as an Active Biointerface: Design Principles for Infection-Adaptive and Regenerative Biomaterials.|https://dx.doi.org/10.1002/smll.74933
 Clinical Study of Modified Tibial Transverse Transport Combined with the Masquelet Technique for the Treatment of Diabetic Foot with Ulcers.|https://dx.doi.org/10.1007/s43465-026-01806-1
 An update on biofilms in acute and chronic wounds: Incidence, clinical evidence, diagnosis, prevention, and treatment.|https://dx.doi.org/10.1111/joim.70138
+Eradicating Helicobacter pylori and reversing precancerous intestinal metaplasia by gastric epithelial cells-localizable oral nanomedicines.|https://dx.doi.org/10.1016/j.bioactmat.2026.07.030

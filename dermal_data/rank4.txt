@@ -14,3 +14,5 @@ In-situ chargeable, postcharging antibacterial supercapacitor patch with integra
 Lysozyme amyloid fibrils /tannic acid antibacterial nanohydrogels with interpenetrating polymer network structure: Synthesis, performance and mechanisms.|https://dx.doi.org/10.1016/j.foodres.2026.119697
 Development and Preclinical Evaluation of a Copper-Based Acidic Hydrogel for Atopic Dermatitis.|https://dx.doi.org/10.1080/10837450.2026.2708938
 An infection-responsive multifunctional hydrogel enables potent activity against methicillin-resistant Staphylococcus aureus and promotes wound healing.|https://dx.doi.org/10.1016/j.mtbio.2026.103494
+Metalloantibiotic functionalized pHEMA for therapeutic contact lenses.|https://dx.doi.org/10.1039/d6ra04865j
+Iron-oxide nanoparticle-integrated soft contact lenses: optical optimization, catalytic functionality, and biocompatibility.|https://dx.doi.org/10.3389/fmedt.2026.1782878
