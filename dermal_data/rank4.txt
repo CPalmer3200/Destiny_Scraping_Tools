@@ -17,3 +17,8 @@ An infection-responsive multifunctional hydrogel enables potent activity against
 Metalloantibiotic functionalized pHEMA for therapeutic contact lenses.|https://dx.doi.org/10.1039/d6ra04865j
 Iron-oxide nanoparticle-integrated soft contact lenses: optical optimization, catalytic functionality, and biocompatibility.|https://dx.doi.org/10.3389/fmedt.2026.1782878
 Bioactive glutathione-modified carboxymethyl cellulose hydrogels as levofloxacin delivery platforms for the Staphylococcus aureus-infected wounds management.|https://dx.doi.org/10.1016/j.ijpharm.2026.127297
+Harnessing distinct bioactive profile of yak casein: A comparative study on hydrogels for infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153944
+Fabrication of Liquid Metal Composite Ionic Liquid Hydrogels for Antifouling Application.|https://dx.doi.org/10.1021/acsami.6c09270
+pH-Responsive Multinetwork Hydrogel with Antibacterial, Anti-Inflammatory, and Microenvironment-Modulating Properties for Enhanced Hemostasis and Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00896
+Hyaluronic Acid Electrostatically Grafted Quaternary Ammonium Salt: Preparation and Outstanding Antibacterial Performance.|https://dx.doi.org/10.1021/acs.biomac.5c02632
+Molecular Engineering of Minimalistic Amphiphilic Peptidomimetics for the Design of Biocompatible Hydrogels with Potential Antibacterial Activity.|https://dx.doi.org/10.1021/acs.biomac.6c00469

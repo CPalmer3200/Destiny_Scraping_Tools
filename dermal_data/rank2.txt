@@ -8,3 +8,5 @@ Nanocellulose as an Active Biointerface: Design Principles for Infection-Adaptiv
 Clinical Study of Modified Tibial Transverse Transport Combined with the Masquelet Technique for the Treatment of Diabetic Foot with Ulcers.|https://dx.doi.org/10.1007/s43465-026-01806-1
 An update on biofilms in acute and chronic wounds: Incidence, clinical evidence, diagnosis, prevention, and treatment.|https://dx.doi.org/10.1111/joim.70138
 Eradicating Helicobacter pylori and reversing precancerous intestinal metaplasia by gastric epithelial cells-localizable oral nanomedicines.|https://dx.doi.org/10.1016/j.bioactmat.2026.07.030
+Lower limb amputation rates among Medicare beneficiaries with diabetic foot ulcers managed with and without native collagen matrix plus PHMB antimicrobial.|https://dx.doi.org/10.12968/jowc.2026.0291
+Limb Salvage in Acute Limb Ischemia and Diabetic Foot Gangrene Associated with Pancreatic Acinar Cell Carcinoma-Related Hypercoagulability.|https://dx.doi.org/10.3791/71416
