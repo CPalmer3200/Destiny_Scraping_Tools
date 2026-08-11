@@ -67,3 +67,9 @@ Multidrug-resistant bacterial contamination of healthcare workers' mobile phones
 Optimization of Dual-Bacteriophage Magnetic Nanoprobe for the Detection of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1002/mabi.70237
 Epidermis to endocardium: mapping the association between atopic dermatitis and infective endocarditis.|https://dx.doi.org/10.5837/bjc.2026.017
 Manganese Gluconate as a Safe Trace Element Supplement Enhances Immune Function and Resistance to Staphylococcus aureus Infection in Broilers.|https://dx.doi.org/10.1007/s12011-026-05291-3
+Therapeutic strategies for and clinical outcomes in iliopsoas muscle abscess: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jmii.2026.07.011
+Development of a colloidal gold immunochromatographic strip based on recombinant mixed antigens SAP-2 and CatL1 for rapid detection of Fasciola gigantica infection in buffaloes.|https://dx.doi.org/10.1016/j.vetpar.2026.110884
+Early complications after surgery for periprosthetic femoral fractures: incidence, risk factors, and clinical implications.|https://dx.doi.org/10.1007/s00590-026-04905-9
+From decay to discovery: A new antimicrobial peptide from Chrysomya megacephala (Diptera: Calliphoridae) larvae.|https://dx.doi.org/10.1007/s42770-026-02047-y
+pH-Responsive Multinetwork Hydrogel with Antibacterial, Anti-Inflammatory, and Microenvironment-Modulating Properties for Enhanced Hemostasis and Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00896
+Identification of SKI-II as a host-protective immunomodulator against Staphylococcus aureus infection.|https://dx.doi.org/10.1128/mbio.01558-26
