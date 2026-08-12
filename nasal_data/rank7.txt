@@ -73,3 +73,8 @@ Early complications after surgery for periprosthetic femoral fractures: incidenc
 From decay to discovery: A new antimicrobial peptide from Chrysomya megacephala (Diptera: Calliphoridae) larvae.|https://dx.doi.org/10.1007/s42770-026-02047-y
 pH-Responsive Multinetwork Hydrogel with Antibacterial, Anti-Inflammatory, and Microenvironment-Modulating Properties for Enhanced Hemostasis and Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00896
 Identification of SKI-II as a host-protective immunomodulator against Staphylococcus aureus infection.|https://dx.doi.org/10.1128/mbio.01558-26
+Evaluation of antibacterial potential of oxygenation agent on titanium surfaces: In vitro study.|https://dx.doi.org/10.1177/22808000261475808
+Innate host defense lysozyme may help control Staphylococcus aureus in atopic dermatitis.|https://dx.doi.org/10.1128/spectrum.01585-26
+Risk factors for failure following debridement, antibiotics, and implant retention (DAIR) in early periprosthetic joint infection after primary total hip arthroplasty.|https://dx.doi.org/10.1177/11207000261459970
+Surgical resection of a ruptured left frontal mycotic aneurysm localized with ICG angiography: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000693
+Carriage rate of CPE, ESBL-producing coliforms and MRSA in community settings in Suriname.|https://dx.doi.org/10.1093/jacamr/dlag169
