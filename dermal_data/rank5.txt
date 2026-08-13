@@ -6,3 +6,5 @@ Cardiac Implantable Electronic Device Infections: Emerging Paradigms in Precisio
 Dual-wavelength-responsive GMMC-Pdots-Ag hydrogel for spatiotemporally controlled photothermal and hydrogen therapy of infected liver and skin defects.|https://dx.doi.org/10.1016/j.colsurfb.2026.115996
 Lacticaseibacillus rhamnosus GG lysate inhibits Staphylococcus aureus biofilm formation in human skin explants.|https://dx.doi.org/10.3389/fcimb.2026.1885754
 A dual-responsive nanosystem for synergistic antibacterial therapy and inflammatory microenvironment modulation in infected diabetic wound healing.|https://dx.doi.org/10.1039/d6bm00949b
+Phytochemical-mediated disruption of Staphylococcus aureus biofilm by Tecomella undulata, Dalbergia sissoo, Heliotropium indicum, and Solanum virginianum extracts via targeting extracellular matrix.|https://dx.doi.org/10.1016/j.micpath.2026.108763
+Ocotea odorifera extract: antimicrobial and antibiofilm activities, phytochemical aspects, cytotoxicity and anti-inflammatory potential of an endangered plant species.|https://dx.doi.org/10.1007/s10123-026-00878-1

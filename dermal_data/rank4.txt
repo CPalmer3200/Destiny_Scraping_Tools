@@ -22,3 +22,7 @@ Fabrication of Liquid Metal Composite Ionic Liquid Hydrogels for Antifouling App
 pH-Responsive Multinetwork Hydrogel with Antibacterial, Anti-Inflammatory, and Microenvironment-Modulating Properties for Enhanced Hemostasis and Wound Healing.|https://dx.doi.org/10.1021/acs.biomac.6c00896
 Hyaluronic Acid Electrostatically Grafted Quaternary Ammonium Salt: Preparation and Outstanding Antibacterial Performance.|https://dx.doi.org/10.1021/acs.biomac.5c02632
 Molecular Engineering of Minimalistic Amphiphilic Peptidomimetics for the Design of Biocompatible Hydrogels with Potential Antibacterial Activity.|https://dx.doi.org/10.1021/acs.biomac.6c00469
+Polydopamine-coated cellulose nanofibers reinforced multifunctional conductive hydrogels for flexible strain sensors.|https://dx.doi.org/10.1016/j.carbpol.2026.125642
+Cationic curdlan-based hydrogels loaded with Calendula officinalis-decorated silver nanoparticles: Synthesis, characterization and in vitro biological properties.|https://dx.doi.org/10.1016/j.carbpol.2026.125623
+Multifunctional Bacterial Cellulose Films Incorporating Kratom (Mitragyna speciosa Korth.) Leaf Extract as a Preliminary Antibacterial and Cytocompatible Wound Dressing Candidate.|https://dx.doi.org/10.3390/nano16150939
+MOF on HOF NanoFilms for Efficient Bacteria Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.71543
