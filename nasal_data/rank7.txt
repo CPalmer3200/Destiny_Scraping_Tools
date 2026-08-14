@@ -79,3 +79,11 @@ Risk factors for failure following debridement, antibiotics, and implant retenti
 Surgical resection of a ruptured left frontal mycotic aneurysm localized with ICG angiography: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000693
 Carriage rate of CPE, ESBL-producing coliforms and MRSA in community settings in Suriname.|https://dx.doi.org/10.1093/jacamr/dlag169
 Case Report: Debridement with vacuum sealing drainage for conservative management of post-cranioplasty surgical site infection.|https://dx.doi.org/10.3389/fsurg.2026.1847180
+CLR-Seq: A pipeline to identify bacterial microbiota species with immune-relevant glycan moieties through human C-type lectin receptor interaction.|https://dx.doi.org/10.1371/journal.pone.0356059
+Gelatin-Based Coating for the Controlled and Localized Delivery of Tetrabranched Antimicrobial Peptide in Cardiac Implantable Devices.|https://dx.doi.org/10.1021/acsabm.6c00341
+Bedside external ventricular drainage in the NICU: procedural efficiency and infection trends in a 15-year single-center cohort.|https://dx.doi.org/10.1007/s00381-026-07374-x
+Concentration-dependent dual effects of bacterial nanocellulose on Staphylococcus aureus virulence and human dermal fibroblast function: implications for wound healing.|https://dx.doi.org/10.1007/s11033-026-12326-4
+Comparative genomic and functional analysis of Staphylococcus caprae clinical isolates: insights into genetic diversity and opportunistic pathogenic potential.|https://dx.doi.org/10.1007/s00203-026-05126-8
+Evolving paradigms in pediatric osteomyelitis: modern insights into an old disease.|https://dx.doi.org/10.1097/QCO.0000000000001231
+Microbiological profile and clinical correlates of post-cesarean surgical site infections.|https://dx.doi.org/10.1515/jpm-2026-0216
+Solvent-Free Cold Plasma Deposition of PVA-Antibiotic Films: Influence of Process Parameters on Coating Structure and Drug Release.|https://dx.doi.org/10.3390/polym18151839

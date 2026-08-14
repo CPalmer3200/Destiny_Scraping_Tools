@@ -12,3 +12,4 @@ Host-Specific Interactions Between Staphylococcus aureus and Pseudomonas aerugin
 A rapid approach to detect methicillin-resistant and susceptible Staphylococcus aureus directly from clinical specimens.|https://dx.doi.org/10.1128/spectrum.00487-26
 Decolonization vs Enhanced Cleaning for Multidrug-Resistant Organism Reduction in Nursing Homes.|https://dx.doi.org/10.1001/jamanetworkopen.2026.26940
 Molecular investigation of biofilm-forming genes in staphylococci isolated from dogs in Ilam, Iran.|https://dx.doi.org/10.30466/vrf.2025.2052777.4656
+Virulence determinants and multidrug resistance profiles of biofilm-forming Staphylococcus aureus from healthy orthopedic surgical personnel.|https://dx.doi.org/10.1007/s10482-026-02380-0
