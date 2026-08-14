@@ -3,3 +3,4 @@ Staphylococcal Scalded Skin Syndrome Often Does Not Require Empiric Coverage for
 Treatment of infection caused by animal commensal pathogen Staphylococcus simulans.|https://dx.doi.org/10.3855/jidc.22148
 Honeybee venom modulates antioxidant gene expression and tissue regeneration in a rat model of staphylococcus aureus - infected skin wounds.|https://dx.doi.org/10.1007/s11033-026-12548-6
 Fibroblasts resist Staphylococcus aureus on the skin surface by responding to interleukin-1 and recruiting neutrophils.|https://dx.doi.org/10.1126/sciadv.aee5871
+Comparative genomic and functional analysis of Staphylococcus caprae clinical isolates: insights into genetic diversity and opportunistic pathogenic potential.|https://dx.doi.org/10.1007/s00203-026-05126-8

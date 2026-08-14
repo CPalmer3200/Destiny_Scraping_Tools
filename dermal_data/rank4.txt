@@ -26,3 +26,10 @@ Polydopamine-coated cellulose nanofibers reinforced multifunctional conductive h
 Cationic curdlan-based hydrogels loaded with Calendula officinalis-decorated silver nanoparticles: Synthesis, characterization and in vitro biological properties.|https://dx.doi.org/10.1016/j.carbpol.2026.125623
 Multifunctional Bacterial Cellulose Films Incorporating Kratom (Mitragyna speciosa Korth.) Leaf Extract as a Preliminary Antibacterial and Cytocompatible Wound Dressing Candidate.|https://dx.doi.org/10.3390/nano16150939
 MOF on HOF NanoFilms for Efficient Bacteria Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.71543
+Gelatin-Based Coating for the Controlled and Localized Delivery of Tetrabranched Antimicrobial Peptide in Cardiac Implantable Devices.|https://dx.doi.org/10.1021/acsabm.6c00341
+In situ nanocrystalline silver chloride embedded xanthan-alginate scaffold with synergistic antimicrobial activity and rapid wound repair.|https://dx.doi.org/10.1007/s13205-026-05011-7
+Mineral-Botanical Hybrid Nanofibrous Dressing for Post-Surgical Melanoma Wound Healing.|https://dx.doi.org/10.3390/polym18151857
+Silver Release Diffusion Modeling and Biological Performance of Poly(Vinyl Alcohol)/Alginate Hydrogels with Embedded Silver Nanoparticles.|https://dx.doi.org/10.3390/molecules31152702
+Synergistic Antibacterial and Antioxidant Activities of Folium Aloe-Cortex Betulae Drug Combination: Optimization via Box-Behnken Design and In Vitro Validation.|https://dx.doi.org/10.3390/molecules31152590
+Universal-Bac(3)Gel: A 3D Biofilm-Relevant Matrix That Supports In Vitro Growth and Biofilm Formation of ESKAPE Pathogens.|https://dx.doi.org/10.1002/mbo3.70371
+A mechanically robust and moisture-retentive hydrocolloid dressing for chronic wound management.|https://dx.doi.org/10.1038/s41598-026-64229-w

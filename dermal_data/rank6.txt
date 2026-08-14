@@ -2,3 +2,4 @@ Effect of Abrocitinib on the Skin Microbiome in Patients With Moderate-to-Severe
 Multi-omics analyses reveal host-microbe interactions in atopic dermatitis and psoriasis.|https://dx.doi.org/10.1111/jdv.70654
 Epidermis to endocardium: mapping the association between atopic dermatitis and infective endocarditis.|https://dx.doi.org/10.5837/bjc.2026.017
 Innate host defense lysozyme may help control Staphylococcus aureus in atopic dermatitis.|https://dx.doi.org/10.1128/spectrum.01585-26
+Epithelial-Dermal Immune Memory: Tracking Staphylococcus aureus-Induced Trained Immunity in the Progression of Chronic Skin Inflammation.|https://dx.doi.org/10.3390/ijms27156760

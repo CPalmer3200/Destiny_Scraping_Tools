@@ -8,3 +8,6 @@ Lacticaseibacillus rhamnosus GG lysate inhibits Staphylococcus aureus biofilm fo
 A dual-responsive nanosystem for synergistic antibacterial therapy and inflammatory microenvironment modulation in infected diabetic wound healing.|https://dx.doi.org/10.1039/d6bm00949b
 Phytochemical-mediated disruption of Staphylococcus aureus biofilm by Tecomella undulata, Dalbergia sissoo, Heliotropium indicum, and Solanum virginianum extracts via targeting extracellular matrix.|https://dx.doi.org/10.1016/j.micpath.2026.108763
 Ocotea odorifera extract: antimicrobial and antibiofilm activities, phytochemical aspects, cytotoxicity and anti-inflammatory potential of an endangered plant species.|https://dx.doi.org/10.1007/s10123-026-00878-1
+Quaternary ammonium-functionalized carbon quantum dots with low drug resistance inhibit biofilm formation and accelerate infected wound healing.|https://dx.doi.org/10.1016/j.ejmech.2026.119205
+Concentration-dependent dual effects of bacterial nanocellulose on Staphylococcus aureus virulence and human dermal fibroblast function: implications for wound healing.|https://dx.doi.org/10.1007/s11033-026-12326-4
+Search for Potentially Virulent Staphylococcus epidermidis Isolated from Healthy Human Skin.|https://dx.doi.org/10.3390/ijms27156611
