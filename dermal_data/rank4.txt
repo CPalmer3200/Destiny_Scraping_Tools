@@ -33,3 +33,7 @@ Silver Release Diffusion Modeling and Biological Performance of Poly(Vinyl Alcoh
 Synergistic Antibacterial and Antioxidant Activities of Folium Aloe-Cortex Betulae Drug Combination: Optimization via Box-Behnken Design and In Vitro Validation.|https://dx.doi.org/10.3390/molecules31152590
 Universal-Bac(3)Gel: A 3D Biofilm-Relevant Matrix That Supports In Vitro Growth and Biofilm Formation of ESKAPE Pathogens.|https://dx.doi.org/10.1002/mbo3.70371
 A mechanically robust and moisture-retentive hydrocolloid dressing for chronic wound management.|https://dx.doi.org/10.1038/s41598-026-64229-w
+Reversing Antibiotic Resistance and Reprogramming Macrophage Polarization by Extracellular Vesicles from Fresh Schisandra chinensis: A Dual Pharmacological Strategy for Drug-Resistant Wound Infection and Sepsis.|https://dx.doi.org/10.1016/j.phrs.2026.108399
+Multifunctional MoO3-X Nanozyme-Hydrogel for Synergistic Photothermal Antibacterial Therapy and Enhanced Healing of Wounds Infected with Drug‑Resistant Bacteria.|https://dx.doi.org/10.1021/acsami.6c11162
+Biocompatible Cyclodextrin-Cannabinoid Agar-Xanthan Gum Hydrogels for Controlled Delivery and Antimicrobial Soft-Tissue Biomedical Applications.|https://dx.doi.org/10.1021/acsomega.6c05484
+Tailoring the Surface of Polylactide/Poly(itaconate derivative) Fibers: A Path to Antibacterial Enhancement.|https://dx.doi.org/10.1021/acsomega.6c04582
