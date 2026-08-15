@@ -13,3 +13,5 @@ Harnessing distinct bioactive profile of yak casein: A comparative study on hydr
 Incidence of Secondary Skin Infections in Children Affected with Chickenpox: A Prospective Observational Study.|https://dx.doi.org/10.4103/aam.aam_595_26
 Substrate-dependent metabolites from mangrove-derived aspergillus ochraceus PLP1F21 exhibit antibacterial and wound healing activities.|https://dx.doi.org/10.1016/j.fitote.2026.107426
 The Courage to Continue: Staphylococcus Aureus Network Adaptive Platform Trial for Paediatrics and Youth (SNAP-PY).|https://dx.doi.org/10.1093/jpids/piag073
+Immunization with PLGA-encapsulated recombinant staphylococcal enterotoxin C confers protection against intramammary Staphylococcus aureus challenge in a murine mastitis model.|https://dx.doi.org/10.1007/s10482-026-02400-z
+Methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s41572-026-00729-3

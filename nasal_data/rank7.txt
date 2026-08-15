@@ -87,3 +87,12 @@ Comparative genomic and functional analysis of Staphylococcus caprae clinical is
 Evolving paradigms in pediatric osteomyelitis: modern insights into an old disease.|https://dx.doi.org/10.1097/QCO.0000000000001231
 Microbiological profile and clinical correlates of post-cesarean surgical site infections.|https://dx.doi.org/10.1515/jpm-2026-0216
 Solvent-Free Cold Plasma Deposition of PVA-Antibiotic Films: Influence of Process Parameters on Coating Structure and Drug Release.|https://dx.doi.org/10.3390/polym18151839
+In Vivo Evaluation of Coriandrum sativum Extract Against Murine Eimeria papillata Infection and In Silico Analysis of Its Identified Phytochemicals.|https://dx.doi.org/10.1002/bmc.70596
+Reversing Antibiotic Resistance and Reprogramming Macrophage Polarization by Extracellular Vesicles from Fresh Schisandra chinensis: A Dual Pharmacological Strategy for Drug-Resistant Wound Infection and Sepsis.|https://dx.doi.org/10.1016/j.phrs.2026.108399
+Carbon-infiltrated carbon nanotube coating effect on bacterial resistance and Ti6Al4V substrate material properties.|https://dx.doi.org/10.1016/j.jmbbm.2026.107571
+Declining rates of bloodstream infections among haemodialysis patients and the temporal association with changes in infection, prevention and control bundles of care between 2009 and 2023.|https://dx.doi.org/10.1093/joneph/aajag171
+Cathepsin B, Airway Pathogens, and Inflammation in the Lower Airways of Children With Cystic Fibrosis.|https://dx.doi.org/10.1002/ppul.71793
+A case report of pacemaker endocarditis presenting as osteitis in a high-surgical-risk patient: a management challenge with thromboaspiration and leadless pacemaker implantation.|https://dx.doi.org/10.1093/ehjcr/ytag576
+Modeling sRNA-mRNA regulatory interactions in Staphylococcus aureus from peri-implantitis using a graph attention autoencoder.|https://dx.doi.org/10.4103/jisp.jisp_566_25
+Risk assessment of selected bacterial infections acquired in intensive care units in Poland in the years 2019-2023-analysis with the application of the standardized infection ratio.|https://dx.doi.org/10.3389/fcimb.2026.1822386
+Prevalence, Antimicrobial Resistance Profile, and Multidrug Resistance of Methicillin-Resistant Staphylococcus aureus (MDR-MRSA) in Clinical Isolates From Indonesian Healthcare Facility: A Cross-Sectional Study.|https://dx.doi.org/10.1002/hsr2.73034
