@@ -13,3 +13,7 @@ Concentration-dependent dual effects of bacterial nanocellulose on Staphylococcu
 Search for Potentially Virulent Staphylococcus epidermidis Isolated from Healthy Human Skin.|https://dx.doi.org/10.3390/ijms27156611
 Methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s41572-026-00729-3
 Human relevant platforms for cutaneous wound healing research: current landscape, translational gaps, and emerging frontiers.|https://dx.doi.org/10.3389/fbioe.2026.1917429
+Cosmetic preservative exposure promotes persistent and antibiotic resistance of staphylococci by chromosome mutations.|https://dx.doi.org/10.1016/j.ecoenv.2026.120673
+A conserved grain-associated immunosuppressive niche in Sudanese patients with mycetoma.|https://dx.doi.org/10.1371/journal.pntd.0014230
+Light-Triggered Mechanotherapy of Membrane-Mimicking Conjugated Electrolytes Potentiates Antibacterial Efficacy.|https://dx.doi.org/10.1021/acsabm.6c01246
+Bidirectional ROS Modulation for Programmed Anti-Infective and Anti-Inflammatory Therapy With Au-Cu(2)O/MXene Nanocomposite.|https://dx.doi.org/10.1002/smll.75279
