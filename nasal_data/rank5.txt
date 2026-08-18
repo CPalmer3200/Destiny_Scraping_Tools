@@ -30,3 +30,4 @@ A randomized controlled trial: application of inactivated Pseudomonas aeruginosa
 Standard imaging-guided chest wall perforator flap reconstruction without intraoperative handheld Doppler for granulomatous lobular mastitis: a simplified approach for resource-limited settings.|https://dx.doi.org/10.21037/gs-2026-0196
 Is microsurgical autologous breast reconstruction safe in patients with a history of venous thromboembolism? A retrospective cohort study of 14,309 patients.|https://dx.doi.org/10.1016/j.bjps.2026.08.008
 Deep Inferior Epigastric Perforator Flap Reconstruction of Breast Necrobiosis Lipoidica.|https://dx.doi.org/10.1097/GOX.0000000000008059
+Percutaneous Suction Drain Versus Conventional Incision and Drainage for the Management of Acute Breast Abscess: A Prospective Comparative Study.|https://dx.doi.org/10.7759/cureus.112858
