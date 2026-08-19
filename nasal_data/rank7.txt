@@ -101,3 +101,13 @@ CSF pharmacokinetics-pharmacodynamics of linezolid in critically brain injured p
 NIR-induced photothermal hydrogel with silver ions boosts antibiotic-resistant bacterial elimination and infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154104
 Cosmetic preservative exposure promotes persistent and antibiotic resistance of staphylococci by chromosome mutations.|https://dx.doi.org/10.1016/j.ecoenv.2026.120673
 When infection becomes architecture: structural predictors of surgical management in spondylodiscitis.|https://dx.doi.org/10.1007/s00586-026-10263-1
+Incidence and Microbiological Profile of Surgically Treated Surgical Site Infection Following Spine Surgery: A 15-Year Single-Center Surveillance Study of 10,432 Procedures (2010-2024).|https://dx.doi.org/10.1016/j.jos.2026.07.019
+Cardiovascular Implantable Electronic Device Infections Requiring Extraction: A National Analysis of Contemporary Trends, Clinical Predictors, and Economic Burden, 2016-2022.|https://dx.doi.org/10.1016/j.hrthm.2026.08.015
+Coronavirus in European hedgehogs (Erinaceus europaeus) from Denmark before and during the COVID-19 pandemic.|https://dx.doi.org/10.1016/j.vetmic.2026.111193
+Anesthetic Management and Infection Risk in Hip and Knee Arthroplasty: A Narrative Review.|https://dx.doi.org/10.3791/71611
+Genetic architecture and functional dynamics of integrons in Staphylococcus aureus resistance.|https://dx.doi.org/10.1007/s42770-026-02019-2
+Treating the host, not just the spine: a position paper proposing a clinical algorithm for spondylodiscitis based on a prospective 14-year cohort analysis.|https://dx.doi.org/10.1007/s15010-026-02942-4
+Surgical Site Infection, Microbiology, and Antibiotic Utilization After Posterior Cervical Spinal Decompression and Fusion: A 10-Year Experience.|https://dx.doi.org/10.1177/21925682261480020
+In vitro analysis of antiseptic solution effects on Staphylococcus aureus biofilms on orthopedic implant materials.|https://dx.doi.org/10.5194/jbji-11-493-2026
+Efficacy of Zinc-, Copper-, and Silver-Doped Fluorapatite as Bacteriophobic Surfaces for Percutaneous Osseointegrated Device Applications.|https://dx.doi.org/10.1002/cnma.202500276
+Bacterial Carriage and Invasive Infections Among People Who Inject Drugs: Clinical and Molecular Epidemiology in an Australian Prospective Cohort.|https://dx.doi.org/10.1093/ofid/ofag480

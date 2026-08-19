@@ -15,3 +15,4 @@ Substrate-dependent metabolites from mangrove-derived aspergillus ochraceus PLP1
 The Courage to Continue: Staphylococcus Aureus Network Adaptive Platform Trial for Paediatrics and Youth (SNAP-PY).|https://dx.doi.org/10.1093/jpids/piag073
 Immunization with PLGA-encapsulated recombinant staphylococcal enterotoxin C confers protection against intramammary Staphylococcus aureus challenge in a murine mastitis model.|https://dx.doi.org/10.1007/s10482-026-02400-z
 Methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1038/s41572-026-00729-3
+Long-term Dynamics and Nasopharyngeal Carriage of Pneumococcal Serotypes, Haemophilus influenzae, Moraxella catarrhalis and Staphylococcus aureus From 2013 to 2024 in Healthy French Children.|https://dx.doi.org/10.1097/INF.0000000000005373
