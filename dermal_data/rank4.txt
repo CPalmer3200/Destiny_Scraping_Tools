@@ -40,3 +40,5 @@ Tailoring the Surface of Polylactide/Poly(itaconate derivative) Fibers: A Path t
 NIR-induced photothermal hydrogel with silver ions boosts antibiotic-resistant bacterial elimination and infectious wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154104
 A Visualizable Injectable Multifunctional Sericin Hydrogel with Facile Fabrication for Versatile Wound Care.|https://dx.doi.org/10.1021/acsabm.6c01247
 An injectable thermosensitive HTCC/Pluronic F127 hydrogel with sustained EGF release for accelerated diabetic wound healing.|https://dx.doi.org/10.1039/d6bm00926c
+Engineered Nanozyme-Hydrogel Spray with Microwave-Fueled Self-Amplifying Catalysis for Precise Methicillin-Resistant Staphylococcus aureus-Infected Diabetic Wound Therapy.|https://dx.doi.org/10.1021/acsnano.6c11341
+Rare-Earth-Functionalized Carbon Dot Hydrogels as Mechanically Robust Antibacterial Wound Dressings.|https://dx.doi.org/10.1002/adhm.71608

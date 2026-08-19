@@ -17,3 +17,7 @@ Cosmetic preservative exposure promotes persistent and antibiotic resistance of 
 A conserved grain-associated immunosuppressive niche in Sudanese patients with mycetoma.|https://dx.doi.org/10.1371/journal.pntd.0014230
 Light-Triggered Mechanotherapy of Membrane-Mimicking Conjugated Electrolytes Potentiates Antibacterial Efficacy.|https://dx.doi.org/10.1021/acsabm.6c01246
 Bidirectional ROS Modulation for Programmed Anti-Infective and Anti-Inflammatory Therapy With Au-Cu(2)O/MXene Nanocomposite.|https://dx.doi.org/10.1002/smll.75279
+Multidrug-resistant livestock-associated ST9-MRSA causing severe human infection without animal exposure: the food chain as a potential transmission route in China.|https://dx.doi.org/10.1007/s00203-026-05145-5
+Genomic Characterization of a Rare Methicillin-Susceptible Staphylococcus aureus ST72 Isolate Co-Harboring Panton-Valentine Leukocidin and Toxic Shock Syndrome Toxin-1 Encoding Genes from Northern Vietnam.|https://dx.doi.org/10.1007/s00284-026-05124-5
+Yellow Nail Syndrome in Childhood: A Case Report Highlighting Diagnostic Challenges and the Possible Role of Nail Development-Related Genetic Variants.|https://dx.doi.org/10.1159/000553550
+The Scalp Microbiome-Hair Axis: Mechanisms and Therapeutic Translation.|https://dx.doi.org/10.34133/research.1409

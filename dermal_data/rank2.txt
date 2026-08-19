@@ -19,3 +19,7 @@ Healing the Sole: Combining Natural Plant Extracts and Conventional Drugs in Wou
 Independent Predictors of Major Limb Amputation: A Systematic Review and Meta-Analysis of Adjusted Risk Factors.|https://dx.doi.org/10.3390/healthcare14152340
 Pharmacotherapeutic Evaluation of Topical Insulin Versus Medicinal Honey Dressing in the Management of Diabetic Foot Ulcers among Patients with Diabetes Mellitus: A Randomized Controlled Trial.|https://dx.doi.org/10.4103/jpbs.jpbs_89_26
 Integrated analysis of the diabetic foot ulcer microbiome and host transcriptome supports a microenvironment-microbiota-host repair framework.|https://dx.doi.org/10.1007/s12020-026-04754-w
+Electrospun Nanofiber Dressings for Diabetic Wounds: From Single-Layer to Intelligent Composite Systems.|https://dx.doi.org/10.1021/acsbiomaterials.6c00723
+SGLT-2 inhibitors and risk of 59 long-term health conditions, hospitalisation, and mortality.|https://dx.doi.org/10.1093/ejendo/lvag156
+Bacteriophage therapy for antimicrobial-resistant, biofilm‑associated diabetic foot infection: delivery routes, phage antibiotic synergy, and practical wound‑care integration.|https://dx.doi.org/10.1007/s00203-026-05134-8
+Health resource utilization and cost analysis in Medicare beneficiaries with chronic wounds: outcomes with porcine placental extracellular matrix versus standard of care and other advanced treatments.|https://dx.doi.org/10.57264/cer-2026-0063
