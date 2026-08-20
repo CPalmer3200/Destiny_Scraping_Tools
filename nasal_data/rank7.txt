@@ -111,3 +111,11 @@ Surgical Site Infection, Microbiology, and Antibiotic Utilization After Posterio
 In vitro analysis of antiseptic solution effects on Staphylococcus aureus biofilms on orthopedic implant materials.|https://dx.doi.org/10.5194/jbji-11-493-2026
 Efficacy of Zinc-, Copper-, and Silver-Doped Fluorapatite as Bacteriophobic Surfaces for Percutaneous Osseointegrated Device Applications.|https://dx.doi.org/10.1002/cnma.202500276
 Bacterial Carriage and Invasive Infections Among People Who Inject Drugs: Clinical and Molecular Epidemiology in an Australian Prospective Cohort.|https://dx.doi.org/10.1093/ofid/ofag480
+The Hidden Epidemic: Epidemiology of Acute Infections in People Who Inject Drugs in Fiji.|https://dx.doi.org/10.1111/dar.70234
+Rapid Biofilm Disruption by Ionic Buffers Enables Calcium Phosphate Cement Functionalization.|https://dx.doi.org/10.1016/j.actbio.2026.08.034
+Silk fibroin based in situ antibacterial hydrogel for urethral defect repair.|https://dx.doi.org/10.1016/j.bioadv.2026.215122
+Hyper-inflammatory response in burn patients coincides with impaired antibacterial activity of neutrophils in blood and burn tissue.|https://dx.doi.org/10.1016/j.burns.2026.108165
+Hyperbranched Organosilicon Polymer-Based Transparent Hybrid Antifouling Coating with Active-Passive Synergistic Antibacterial Action.|https://dx.doi.org/10.1021/acsami.6c11766
+Outcomes of One-Stage Infected Humerus Nonunion Repair in Patients with Prior Operative Fracture Fixation.|https://dx.doi.org/10.1097/BOT.0000000000003264
+Co-Cu Bimetallic ZIF-67@PDA-Based Fabrics: Trimodal Synergistic Antibacterial Performance for Reusable Protective Textiles.|https://dx.doi.org/10.1021/acsami.6c05978
+Pathogenic characteristics and factors associated with multidrug-resistant bacterial infections after perianal abscess surgery.|https://dx.doi.org/10.3389/fsurg.2026.1856200
