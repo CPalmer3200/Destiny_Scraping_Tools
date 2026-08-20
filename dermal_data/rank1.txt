@@ -3,3 +3,4 @@ Microenvironment-adaptive cationic guar gum hydrogel co-loaded with BPNS@MnO(2) 
 A Novel Foam-Forming Hydrogel Containing Antibiotics Reduces the Degree of Bacterial Colonization and Improves Wound Healing in Thermal Burns When Compared to Silver Sulfadiazine.|https://dx.doi.org/10.1093/milmed/usag049
 Synergistic Effect of Potentilla nepalensis with Antibiotics: Targeting Bacterial Efflux Pumps Through Pharmacological, and Computational Approaches.|https://dx.doi.org/10.1007/s12088-025-01530-8
 Determining the Value of Screening and Decolonization in Burn Unit Management.|https://dx.doi.org/10.1093/jbcr/irag121
+Hyper-inflammatory response in burn patients coincides with impaired antibacterial activity of neutrophils in blood and burn tissue.|https://dx.doi.org/10.1016/j.burns.2026.108165

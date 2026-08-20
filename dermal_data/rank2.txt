@@ -23,3 +23,5 @@ Electrospun Nanofiber Dressings for Diabetic Wounds: From Single-Layer to Intell
 SGLT-2 inhibitors and risk of 59 long-term health conditions, hospitalisation, and mortality.|https://dx.doi.org/10.1093/ejendo/lvag156
 Bacteriophage therapy for antimicrobial-resistant, biofilm‑associated diabetic foot infection: delivery routes, phage antibiotic synergy, and practical wound‑care integration.|https://dx.doi.org/10.1007/s00203-026-05134-8
 Health resource utilization and cost analysis in Medicare beneficiaries with chronic wounds: outcomes with porcine placental extracellular matrix versus standard of care and other advanced treatments.|https://dx.doi.org/10.57264/cer-2026-0063
+Multiple Tunnels Technique for Limb Salvage in Complex Diabetic Foot Infection: A Prospective Single-Center Study.|https://dx.doi.org/10.1016/j.avsg.2026.08.007
+A Dual-Crosslinked Collagen/Hyaluronic Acid/Chitosan Hydrogel for Integrated Hemostasis and Infected Wound Healing.|https://dx.doi.org/10.1021/acsbiomaterials.6c00891

@@ -21,3 +21,6 @@ Multidrug-resistant livestock-associated ST9-MRSA causing severe human infection
 Genomic Characterization of a Rare Methicillin-Susceptible Staphylococcus aureus ST72 Isolate Co-Harboring Panton-Valentine Leukocidin and Toxic Shock Syndrome Toxin-1 Encoding Genes from Northern Vietnam.|https://dx.doi.org/10.1007/s00284-026-05124-5
 Yellow Nail Syndrome in Childhood: A Case Report Highlighting Diagnostic Challenges and the Possible Role of Nail Development-Related Genetic Variants.|https://dx.doi.org/10.1159/000553550
 The Scalp Microbiome-Hair Axis: Mechanisms and Therapeutic Translation.|https://dx.doi.org/10.34133/research.1409
+Bacteriophage-derived ectolysin: a promising antimicrobial against fluoroquinolone-resistant MRSA.|https://dx.doi.org/10.1136/bjo-2026-329771
+Rapid Biofilm Disruption by Ionic Buffers Enables Calcium Phosphate Cement Functionalization.|https://dx.doi.org/10.1016/j.actbio.2026.08.034
+A comprehensive review of emerging therapeutic strategies against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2026.1815573
