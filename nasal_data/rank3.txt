@@ -5,3 +5,5 @@ Decolonization, containment or source control? pathogen-specific anti-infective 
 Determining the Value of Screening and Decolonization in Burn Unit Management.|https://dx.doi.org/10.1093/jbcr/irag121
 Rethinking Preoperative MRSA/MSSA Screening Through Molecular Triage.|https://dx.doi.org/10.3390/diagnostics16152348
 Hidden reservoirs in clinical settings: Clonal dissemination and virulence profile of multidrug-resistant Staphylococcus aureus from healthcare workers' mobile phones.|https://dx.doi.org/10.1556/030.2026.03012
+The Role of Decolonization in Prevention of Staphylococcus aureus Infection.|https://dx.doi.org/10.1016/j.idc.2026.07.002
+Hospital transmission of methicillin-resistant Staphylococcus aureus driven by addictive mupA plasmids.|https://dx.doi.org/10.64898/2026.07.24.26358837
