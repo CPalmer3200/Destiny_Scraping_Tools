@@ -48,3 +48,6 @@ Fabrication of hybrid photo-crosslinked hydrogels based on mercaptolated chitosa
 DLP 3D cell bioprinting of gelatin methacryloyl-tannic acid hydrogels as a tunable platform for bioactive skin tissue engineering scaffolds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154131
 Silk fibroin based in situ antibacterial hydrogel for urethral defect repair.|https://dx.doi.org/10.1016/j.bioadv.2026.215122
 Design, synthesis, and evaluation of membrane-targeted resveratrol-antimicrobial peptide mimic conjugates for MRSA-infected wound healing.|https://dx.doi.org/10.1016/j.ejmech.2026.119233
+Multi-omics-guided HAMA/PLMA bioink integrating mechanical support, antibacterial protection, and liposomal kartogenin for cartilage regeneration.|https://dx.doi.org/10.1016/j.mtbio.2026.103546
+Cu-CeO(2) NP-loaded HAMA hydrogel patches for promoting high-quality cutaneous wound healing.|https://dx.doi.org/10.3389/fbioe.2026.1872283
+Smart Bio-Inspired Sprayable Conductive Hydrogel for Biomedical and Human Motion Monitoring Applications.|https://dx.doi.org/10.1002/adhm.71621

@@ -25,3 +25,5 @@ Bacteriophage therapy for antimicrobial-resistant, biofilm‑associated diabetic
 Health resource utilization and cost analysis in Medicare beneficiaries with chronic wounds: outcomes with porcine placental extracellular matrix versus standard of care and other advanced treatments.|https://dx.doi.org/10.57264/cer-2026-0063
 Multiple Tunnels Technique for Limb Salvage in Complex Diabetic Foot Infection: A Prospective Single-Center Study.|https://dx.doi.org/10.1016/j.avsg.2026.08.007
 A Dual-Crosslinked Collagen/Hyaluronic Acid/Chitosan Hydrogel for Integrated Hemostasis and Infected Wound Healing.|https://dx.doi.org/10.1021/acsbiomaterials.6c00891
+A composite system of recombinant mussel foot proteins accelerates diabetic chronic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153995
+Regenerative Microbiology: Harnessing Bacterial Antagonism and Spatiotemporal Signaling for Diabetic Wound Repair.|https://dx.doi.org/10.1002/smmd.70044
