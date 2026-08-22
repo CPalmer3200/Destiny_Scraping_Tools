@@ -51,3 +51,6 @@ Design, synthesis, and evaluation of membrane-targeted resveratrol-antimicrobial
 Multi-omics-guided HAMA/PLMA bioink integrating mechanical support, antibacterial protection, and liposomal kartogenin for cartilage regeneration.|https://dx.doi.org/10.1016/j.mtbio.2026.103546
 Cu-CeO(2) NP-loaded HAMA hydrogel patches for promoting high-quality cutaneous wound healing.|https://dx.doi.org/10.3389/fbioe.2026.1872283
 Smart Bio-Inspired Sprayable Conductive Hydrogel for Biomedical and Human Motion Monitoring Applications.|https://dx.doi.org/10.1002/adhm.71621
+Layer-by-layer assembled chitosan/gellan gum-based smart wound dressing for sustained mupirocin delivery and enhanced wound healing activity.|https://dx.doi.org/10.1016/j.ijpharm.2026.127340
+Bimetallic CuCo nanoclusters with peroxidase-like activity for synergistic antibacterial therapy and wound healing.|https://dx.doi.org/10.1016/j.talanta.2026.130474
+Photoinitiated Regulated Silver-Releasing Zwitterionic Hydrogel Coating for Antibacterial, Antifouling, and Thrombus-Resistant PVC Catheters.|https://dx.doi.org/10.1021/acsomega.6c04310

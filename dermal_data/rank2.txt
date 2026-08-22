@@ -27,3 +27,5 @@ Multiple Tunnels Technique for Limb Salvage in Complex Diabetic Foot Infection: 
 A Dual-Crosslinked Collagen/Hyaluronic Acid/Chitosan Hydrogel for Integrated Hemostasis and Infected Wound Healing.|https://dx.doi.org/10.1021/acsbiomaterials.6c00891
 A composite system of recombinant mussel foot proteins accelerates diabetic chronic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.153995
 Regenerative Microbiology: Harnessing Bacterial Antagonism and Spatiotemporal Signaling for Diabetic Wound Repair.|https://dx.doi.org/10.1002/smmd.70044
+Review: advances in snail mucus-inspired biomaterials for diabetic wound repair.|https://dx.doi.org/10.1080/09205063.2026.2719935
+Effect of Golden Wanhong Ointment on wound microbiota in patients with diabetic foot ulcer.|https://dx.doi.org/10.3389/fcimb.2026.1820893
