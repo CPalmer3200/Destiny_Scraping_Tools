@@ -126,3 +126,10 @@ Benchmarking Early Unplanned Trauma Re-operations: A Five-Year Institutional Rev
 Antimicrobial resistance surveillance of clinical bacterial isolates at Maryamana private hospital, Erbil-Iraq (2023-2025): antibiogram data and multidrug-resistant (MDR)/extensively drug-resistant (XDR)/pandrug-resistant (PDR) classification.|https://dx.doi.org/10.18502/ijm.v18i4.22192
 Case Report: Staged limb salvage and delayed ankle arthrodesis for chronic distal tibial osteomyelitis after failed fixation.|https://dx.doi.org/10.3389/fsurg.2026.1874274
 [Quantitative pathogen shedding in intramammary infections - a practical study with Bavarian dairy cows].|https://dx.doi.org/10.1055/a-2894-2989
+Metagenomic profiling reveals how ecological and processing drivers shape the beef microbiome from farm to fork.|https://dx.doi.org/10.1016/j.foodres.2026.119939
+Infection-mimicking conditions alter expression patterns of the highly abundant extracellular protease Jep in a mouse-adapted Staphylococcus aureus strain.|https://dx.doi.org/10.1016/j.meegid.2026.106009
+Evaluating the efficacy of disinfecting agents against Staphylococcus aureus on external fixator devices.|https://dx.doi.org/10.1016/j.injury.2026.113606
+Complete versus partial mesh removal for mesh infection after tension-free inguinal hernioplasty: A retrospective study.|https://dx.doi.org/10.1016/j.surg.2026.110479
+A Novel Spray-on Dressing is Comparable to Silver Impregnated Foam Dressing in Controlling MRSA Infection and Promoting Healing.|https://dx.doi.org/10.1093/jbcr/irag151
+Preceding Wound Complications as Drivers of Surgical Site Infection after Bypass for Chronic Limb-Threatening Ischemia.|https://dx.doi.org/10.3400/avd.oa.25-00156
+Biomaterial-mediated remodelling of the inflammatory microenvironment: a pH/ROS-responsive EGCG-metformin hydrogel for infected diabetic wound regeneration.|https://dx.doi.org/10.3389/fcell.2026.1913797

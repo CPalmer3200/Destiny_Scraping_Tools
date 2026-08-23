@@ -38,3 +38,4 @@ Pilot Study of Combined Tranexamic Acid Therapy in Breast Reduction - Intraveno
 Giant Necrotic Axillary Metastasis From Pancreatic Neuroendocrine Carcinoma Treated With Palliative Resection and Breast Reconstruction: A Case Report.|https://dx.doi.org/10.7759/cureus.113112
 Transient Phagocytic Dysfunction Mimicking Chronic Granulomatous Disease: A Rare Complication in Delayed Transverse Rectus Abdominis Myocutaneous Flap Breast Reconstruction.|https://dx.doi.org/10.1097/GOX.0000000000008052
 Preoperative gut microbiota combined with machine learning for predicting post-hepatectomy liver failure in HBV-related hepatocellular carcinoma: a pilot study.|https://dx.doi.org/10.3389/fcimb.2026.1877450
+Early Experience with Synthetic Monofilament Polydioxanone Mesh in Primary Breast Reconstruction: A Propensity Matched Analysis.|https://dx.doi.org/10.1055/a-2850-0163
