@@ -29,3 +29,6 @@ A composite system of recombinant mussel foot proteins accelerates diabetic chro
 Regenerative Microbiology: Harnessing Bacterial Antagonism and Spatiotemporal Signaling for Diabetic Wound Repair.|https://dx.doi.org/10.1002/smmd.70044
 Review: advances in snail mucus-inspired biomaterials for diabetic wound repair.|https://dx.doi.org/10.1080/09205063.2026.2719935
 Effect of Golden Wanhong Ointment on wound microbiota in patients with diabetic foot ulcer.|https://dx.doi.org/10.3389/fcimb.2026.1820893
+Hierarchical Management of Chronic Infectious Diabetic Foot Wounds During the COVID-19 Pandemic: A Single-Center Retrospective Observational Study.|https://dx.doi.org/10.3791/71893
+A Systematic Review and Meta-Analysis Comparing the Diagnostic Accuracy of Swab Cultures and Tissue Biopsy for Diagnosing Diabetic Foot Infections.|https://dx.doi.org/10.1155/ije/6364693
+Microfluidics, 3D bioprinted scaffold and organ-on-chip with biosensing activated therapeutic strategies for diabetic wound healing.|https://dx.doi.org/10.3389/fbioe.2026.1865992

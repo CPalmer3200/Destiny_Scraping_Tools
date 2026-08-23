@@ -4,3 +4,5 @@ A Novel Foam-Forming Hydrogel Containing Antibiotics Reduces the Degree of Bacte
 Synergistic Effect of Potentilla nepalensis with Antibiotics: Targeting Bacterial Efflux Pumps Through Pharmacological, and Computational Approaches.|https://dx.doi.org/10.1007/s12088-025-01530-8
 Determining the Value of Screening and Decolonization in Burn Unit Management.|https://dx.doi.org/10.1093/jbcr/irag121
 Hyper-inflammatory response in burn patients coincides with impaired antibacterial activity of neutrophils in blood and burn tissue.|https://dx.doi.org/10.1016/j.burns.2026.108165
+A Novel Spray-on Dressing is Comparable to Silver Impregnated Foam Dressing in Controlling MRSA Infection and Promoting Healing.|https://dx.doi.org/10.1093/jbcr/irag151
+NIR-Light-Activable Macrophage Polarization Orchestration Using Laser-Structured Janus Nanoplatform Derived from Waste for Infected Wound Healing.|https://dx.doi.org/10.1002/smll.75193
