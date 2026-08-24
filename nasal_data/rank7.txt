@@ -133,3 +133,5 @@ Complete versus partial mesh removal for mesh infection after tension-free ingui
 A Novel Spray-on Dressing is Comparable to Silver Impregnated Foam Dressing in Controlling MRSA Infection and Promoting Healing.|https://dx.doi.org/10.1093/jbcr/irag151
 Preceding Wound Complications as Drivers of Surgical Site Infection after Bypass for Chronic Limb-Threatening Ischemia.|https://dx.doi.org/10.3400/avd.oa.25-00156
 Biomaterial-mediated remodelling of the inflammatory microenvironment: a pH/ROS-responsive EGCG-metformin hydrogel for infected diabetic wound regeneration.|https://dx.doi.org/10.3389/fcell.2026.1913797
+Dental Exposure and Oral-Flora-Associated Infective Endocarditis: A Transoesophageal Echocardiography-Based Study at a Teaching District General Hospital in the United Kingdom.|https://dx.doi.org/10.7759/cureus.114994
+Prevalence and antimicrobial resistance trends of ESKAPEE pathogens in clinical isolates from Hyderabad, Pakistan: a cross-sectional study.|https://dx.doi.org/10.1016/j.ijregi.2026.100950
