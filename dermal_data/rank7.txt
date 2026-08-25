@@ -5,3 +5,4 @@ From gut-derived metabolites to topical targets: 5-(3',4'-dihydroxyphenyl)-γ-va
 Preclinical Evaluation of Anti-Acne Topical Creams Containing Psorospermum Febrifugum Stem Bark Extract: Lipase Inhibition, Sebum Regulation, and Dermal Safety.|https://dx.doi.org/10.2147/CCID.S616091
 Establishment of a stable three-dimensional fibrotic cell culture model for reproducible baseline and experimental applications.|https://dx.doi.org/10.1007/s11626-026-01233-4
 Biological profiling of structurally diverse LEGO-LPPOs reveals differences in antibacterial activity, cytocompatibility, and in vivo tolerability.|https://dx.doi.org/10.1038/s41429-026-00952-w
+Handheld bioprinter-enabled in situ application of lignin-mediated green-synthesized AgNP-doped antibacterial GelMA-silk fibroin tissue adhesives: In vitro and ex vivo characterizations.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154192

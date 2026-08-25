@@ -56,3 +56,6 @@ Bimetallic CuCo nanoclusters with peroxidase-like activity for synergistic antib
 Photoinitiated Regulated Silver-Releasing Zwitterionic Hydrogel Coating for Antibacterial, Antifouling, and Thrombus-Resistant PVC Catheters.|https://dx.doi.org/10.1021/acsomega.6c04310
 A pH-responsive nanozyme-integrated fibrous biointerface for chemodynamic antibacterial therapy and infected wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.116089
 Biomaterial-mediated remodelling of the inflammatory microenvironment: a pH/ROS-responsive EGCG-metformin hydrogel for infected diabetic wound regeneration.|https://dx.doi.org/10.3389/fcell.2026.1913797
+Mechanically reinforced black TiO(2) nanocomposite hydrogels with NIR-triggered photothermal/photodynamic antibacterial therapy effect.|https://dx.doi.org/10.1016/j.bioadv.2026.215128
+Photodynamic anti-biofilm PHEMA/Rose Bengal hydrogels enhanced by iodide: evidence for hydrogen peroxide and triiodide formation.|https://dx.doi.org/10.1007/s43630-026-00968-z
+Designing Intelligent Antibacterial Systems via Piezoelectric Catalysis: Mechanisms and Pharmaceutical Perspectives.|https://dx.doi.org/10.2174/0113816128481537260728073043
