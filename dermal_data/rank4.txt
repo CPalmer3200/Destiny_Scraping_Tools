@@ -59,3 +59,8 @@ Biomaterial-mediated remodelling of the inflammatory microenvironment: a pH/ROS-
 Mechanically reinforced black TiO(2) nanocomposite hydrogels with NIR-triggered photothermal/photodynamic antibacterial therapy effect.|https://dx.doi.org/10.1016/j.bioadv.2026.215128
 Photodynamic anti-biofilm PHEMA/Rose Bengal hydrogels enhanced by iodide: evidence for hydrogen peroxide and triiodide formation.|https://dx.doi.org/10.1007/s43630-026-00968-z
 Designing Intelligent Antibacterial Systems via Piezoelectric Catalysis: Mechanisms and Pharmaceutical Perspectives.|https://dx.doi.org/10.2174/0113816128481537260728073043
+High-strength conductive PVA/lignosulfonate/tannic acid/Cu(2+) hydrogel for multifunctional wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154158
+Sodium alginate-based recyclable supramolecular hydrogel with anthocyanin for pH-sensing colorimetric and antibacterial wound dressing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154196
+Enzyme-triggered self-assembling peptide hydrogel for localized delivery of plumbagin against MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bbrc.2026.154475
+Silver-loaded poly(2-isopropenyl-2-oxazoline) based hydrogel for water disinfection with supplementary dye adsorption properties.|https://dx.doi.org/10.1016/j.jenvman.2026.130788
+Plasma-activated thermosensitive Pluronic F-127 hydrogel as an antimicrobial dressing for infected wound healing.|https://dx.doi.org/10.1039/d6tb00532b

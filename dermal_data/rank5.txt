@@ -26,3 +26,5 @@ Rapid Biofilm Disruption by Ionic Buffers Enables Calcium Phosphate Cement Funct
 A comprehensive review of emerging therapeutic strategies against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2026.1815573
 Sublethal injury effects of lactic acid against Salmonella Typhimurium biofilm on foods and food contact surfaces.|https://dx.doi.org/10.1016/j.foodres.2026.119855
 Targeting polymicrobial skin infections in atopic dermatitis: role of Pichia kudriavzevii postbiotics as innovative tools for human health.|https://dx.doi.org/10.3389/fmicb.2026.1919460
+Short chain length polyhydroxyalkanoate (scl-PHA) produced by the marine bacterium Pseudomonas sputi MaRe06 inhibits Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1016/j.bioorg.2026.110431
+Porcine Wound Models: The Gold Standard for Translational Research in Cutaneous Healing.|https://dx.doi.org/10.1111/wrr.70204

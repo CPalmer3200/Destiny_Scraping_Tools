@@ -34,3 +34,7 @@ A Systematic Review and Meta-Analysis Comparing the Diagnostic Accuracy of Swab 
 Microfluidics, 3D bioprinted scaffold and organ-on-chip with biosensing activated therapeutic strategies for diabetic wound healing.|https://dx.doi.org/10.3389/fbioe.2026.1865992
 Training a phage to expand its host range: directed evolution against Staphylococcus aureus from diabetic foot infections.|https://dx.doi.org/10.1128/aac.00639-26
 Descriptive Analysis of Perioperative Mortality Rates Following Major Amputations: A 15-Year Retrospective Study at a Teaching Hospital.|https://dx.doi.org/10.7759/cureus.113312
+Use of natural extracts and oils in healing superficial diabetic foot ulcer.|https://dx.doi.org/10.25270/wnds/25080
+Beyond clinical closure: functional skin barrier recovery to prevent diabetic foot ulcer recurrence: a narrative review.|https://dx.doi.org/10.3389/fendo.2026.1918476
+Multimodal Bioactive Approaches in Smart Dressings for Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/IJN.S625602
+S100A8 Mediating TLR4/NF-κB Axis Activation to Inhibit Diabetic Foot Healing in Bacterial Colonization.|https://dx.doi.org/10.1002/jgm.70107
