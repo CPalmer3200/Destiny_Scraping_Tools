@@ -28,3 +28,13 @@ Sublethal injury effects of lactic acid against Salmonella Typhimurium biofilm o
 Targeting polymicrobial skin infections in atopic dermatitis: role of Pichia kudriavzevii postbiotics as innovative tools for human health.|https://dx.doi.org/10.3389/fmicb.2026.1919460
 Short chain length polyhydroxyalkanoate (scl-PHA) produced by the marine bacterium Pseudomonas sputi MaRe06 inhibits Staphylococcus aureus biofilm formation.|https://dx.doi.org/10.1016/j.bioorg.2026.110431
 Porcine Wound Models: The Gold Standard for Translational Research in Cutaneous Healing.|https://dx.doi.org/10.1111/wrr.70204
+Probiotic and Antimicrobial Potential of Endophytic B. subtilis UzMU25 Isolated from Inula helenium.|https://dx.doi.org/10.3390/microorganisms14081819
+Electrospun Nanofibers Loaded with Verbena officinalis Extract as Multifunctional Bioactive Wound Dressings.|https://dx.doi.org/10.3390/ph19081278
+Complementary Time-Kill Activity Displayed by Povidone-Iodine and Hydrogen Peroxide Against Shoulder Arthroplasty-Associated Pathogens, Envisaging Intraoperative Irrigation.|https://dx.doi.org/10.3390/ph19081197
+Microbial Communities Across Sports Surfaces: Exploring the Biology of Athletic Environments.|https://dx.doi.org/10.3390/ijms27167372
+Cold Atmospheric Plasma Disrupts Microbial Wound Bioburden: In Vitro, Porcine MRSA Biofilm, and Clinical Fluorescence Evidence from Bench to Bedside.|https://dx.doi.org/10.3390/biomedicines14081750
+Repurposing of Clomiphene Citrate and Its Antileishmanial and Antifungal Activities: In Silico and In Vitro Studies.|https://dx.doi.org/10.3390/biom16081133
+Global Transcriptional Differences in Staphylococcus aureus Biofilm-Associated Genes in a brpR Mutant Compared to Wild-Type Strain.|https://dx.doi.org/10.3390/antibiotics15080787
+Interkingdom Biofilms in Chronic Wounds: The Collaboration of Candida albicans and Staphylococcus aureus Against Conventional Wound Antiseptics in a Wound-like Leucocyte-Rich Human Plasma Biofilm Model (lhBIOM).|https://dx.doi.org/10.3390/antibiotics15080739
+LyeTx I mnΔKL, a New Synthetic Peptide Derived from a Lycosa erythrognatha Toxin, with Potent In Vitro and In Vivo Activity Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/toxins18080323
+Staphylococcus Aureus Toxins and Asthma: Pathophysiological Mechanisms, Clinical Relevance, and Therapeutic Implications in the Biologics Era.|https://dx.doi.org/10.3390/toxins18080319

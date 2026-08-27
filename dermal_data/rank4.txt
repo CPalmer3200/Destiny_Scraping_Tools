@@ -64,3 +64,11 @@ Sodium alginate-based recyclable supramolecular hydrogel with anthocyanin for pH
 Enzyme-triggered self-assembling peptide hydrogel for localized delivery of plumbagin against MRSA-infected wounds.|https://dx.doi.org/10.1016/j.bbrc.2026.154475
 Silver-loaded poly(2-isopropenyl-2-oxazoline) based hydrogel for water disinfection with supplementary dye adsorption properties.|https://dx.doi.org/10.1016/j.jenvman.2026.130788
 Plasma-activated thermosensitive Pluronic F-127 hydrogel as an antimicrobial dressing for infected wound healing.|https://dx.doi.org/10.1039/d6tb00532b
+Multifunctional VEGF/CeO(2)-Loaded Methacrylated Chitosan Hydrogel Promotes Renal Repair Through Immune-Metabolic Reprogramming and Structural Preservation Following Ischemia-Reperfusion Injury.|https://dx.doi.org/10.3390/pharmaceutics18081025
+Multifunctional Electrospun PCL/Starch/n-Al(2)O(3) Nanocomposites: Potential Antibacterial Wound Dressing Applications.|https://dx.doi.org/10.3390/ijms27167117
+Bacitracin-Loaded Type I Collagen/Bacterial Cellulose Dressing for the Repair of Infected Wounds.|https://dx.doi.org/10.3390/jfb17080400
+Antimicrobial Gelatin Methacryloyl (GelMA)/Bioactive Glass Dental Adhesives.|https://dx.doi.org/10.3390/jfb17080394
+Maleic Acid-Grafted Poly(vinylpyrrolidone) Hydrogels Synthesized by Gamma Radiation for pH-Responsive Drug Delivery.|https://dx.doi.org/10.3390/gels12080739
+Multiple Dynamic Covalent Bond Crosslinked Ionic Liquids-Based Hydrogel with Stretchable, Rapid Self-Healing and Antibacterial Activity Properties.|https://dx.doi.org/10.3390/gels12080697
+Composite Hydrogel Using Methacrylated Silk Fibroin and Mercaptolated Hyaluronic Acid with Encapsulating Zinc-Quercetin Nanozyme.|https://dx.doi.org/10.3390/gels12080665
+Molecular simulation-guided electrospun PVB/D-panthenol/Coir@CuO microfibrous membranes for enhanced wound healing.|https://dx.doi.org/10.1016/j.mtbio.2026.103554

@@ -5,3 +5,5 @@ Innate host defense lysozyme may help control Staphylococcus aureus in atopic de
 Epithelial-Dermal Immune Memory: Tracking Staphylococcus aureus-Induced Trained Immunity in the Progression of Chronic Skin Inflammation.|https://dx.doi.org/10.3390/ijms27156760
 Mast Cells in Host Defense Against Cutaneous Staphylococcus aureus Infection.|https://dx.doi.org/10.1111/imcb.70155
 Topical Application of Indole-3-Acetic Acid, Present in S. epidermidis Supernatant, Alleviates Atopic Dermatitis in Mice at Least via the Aryl Hydrocarbon Receptor Signalling Pathway.|https://dx.doi.org/10.1111/exd.70329
+Taxonomic and Functional Skin Microbiome Profiles in Nummular Eczema, Atopic Dermatitis, and Mixed Phenotypes: An Exploratory Shotgun Metagenomic Pilot Study.|https://dx.doi.org/10.3390/microorganisms14081631
+Effects of Extended-Release Polyhexanide on Inflammatory Cytokine Expression and Disease Severity Following Staphylococcus Aureus Exposure in a Murine Dermatitis Model.|https://dx.doi.org/10.3390/life16081369
