@@ -1,1 +1,3 @@
 Single-Cell Profiling Identifies Skin-Resident Memory CD4(+) T Cells as a Potential Correlate of Immunity During Staphylococcus aureus Skin Infection.|https://dx.doi.org/10.1002/eji.70268
+Virulence and Resistance Mechanisms in Multidrug-Resistant Acinetobacter baumannii.|https://dx.doi.org/10.3390/pathogens15080798
+Local and Systemic Immune Responses in Growing Feather Pulps and Blood of Broiler Chickens Elicited by Electron Beam- and Formalin-Killed Staphylococcus aureus Vaccines.|https://dx.doi.org/10.3390/vaccines14080716

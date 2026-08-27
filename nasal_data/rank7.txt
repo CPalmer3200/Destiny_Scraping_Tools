@@ -6,3 +6,11 @@ Plasma-activated thermosensitive Pluronic F-127 hydrogel as an antimicrobial dre
 S100A8 Mediating TLR4/NF-κB Axis Activation to Inhibit Diabetic Foot Healing in Bacterial Colonization.|https://dx.doi.org/10.1002/jgm.70107
 Effect of Green Light-Mediated Corneal Cross-Linking on the Delivery of Rose Bengal and Vancomycin in Staphylococcus aureus-Infected Eyes.|https://dx.doi.org/10.1021/acsabm.6c00339
 Genomic characterisation of vancomycin-resistant Enterococcus faecium with Tn1546-plasmid rep17 in obstetrics and gynaecology settings in Algeria.|https://dx.doi.org/10.1007/s00438-026-02505-0
+Late Infection of a Left Atrial Appendage Occlusion Device Detected by Transesophageal Echocardiography.|https://dx.doi.org/10.1016/j.jaccas.2026.109542
+Temporal Trends in Pathogens and Clinical Outcomes of Adult Deep Neck Infections: An 18-Year Multicenter Cohort Study of 12,063 Cases.|https://dx.doi.org/10.3390/microorganisms14081826
+Genetic Diversity and Hospital Circulation of Opportunistic Pathogens in COVID-19 ICUs: Whole-Genome Sequencing Data.|https://dx.doi.org/10.3390/pathogens15080845
+Multifunctional VEGF/CeO(2)-Loaded Methacrylated Chitosan Hydrogel Promotes Renal Repair Through Immune-Metabolic Reprogramming and Structural Preservation Following Ischemia-Reperfusion Injury.|https://dx.doi.org/10.3390/pharmaceutics18081025
+Therapeutic Monitoring of Vancomycin and Factors Affecting Survival in ICU Patients with Infections.|https://dx.doi.org/10.3390/ph19081303
+Complementary Time-Kill Activity Displayed by Povidone-Iodine and Hydrogen Peroxide Against Shoulder Arthroplasty-Associated Pathogens, Envisaging Intraoperative Irrigation.|https://dx.doi.org/10.3390/ph19081197
+Infective Endocarditis on Aortic Valve: From Diagnosis to Cardiac Surgical Intervention-Narrative Review.|https://dx.doi.org/10.3390/jcm15166463
+Interkingdom Biofilms in Chronic Wounds: The Collaboration of Candida albicans and Staphylococcus aureus Against Conventional Wound Antiseptics in a Wound-like Leucocyte-Rich Human Plasma Biofilm Model (lhBIOM).|https://dx.doi.org/10.3390/antibiotics15080739

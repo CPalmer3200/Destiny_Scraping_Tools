@@ -1,2 +1,3 @@
 Is there any role for empiric coverage of resistant Gram-positive bacteria in febrile neutropaenia?|https://dx.doi.org/10.1093/jac/dkag294
 Occupational exposure to dairy cattle influences virulence gene profiles of methicillin-resistant <em>Staphylococcus aureus</em> in humans: Antimicrobial resistance, enterotoxin, biofilm, and immune evasion determinants in Jordan.|https://dx.doi.org/10.14202/vetworld.2026.3246-3255
+MRSA in Tibet: high prevalence driven by the epidemic clone CC59-ST59-SCCmec IV-t437 and insights from whole-genome analysis.|https://dx.doi.org/10.3389/fmicb.2026.1889907
