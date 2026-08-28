@@ -6,3 +6,4 @@ Preclinical Evaluation of Anti-Acne Topical Creams Containing Psorospermum Febri
 Establishment of a stable three-dimensional fibrotic cell culture model for reproducible baseline and experimental applications.|https://dx.doi.org/10.1007/s11626-026-01233-4
 Biological profiling of structurally diverse LEGO-LPPOs reveals differences in antibacterial activity, cytocompatibility, and in vivo tolerability.|https://dx.doi.org/10.1038/s41429-026-00952-w
 Handheld bioprinter-enabled in situ application of lignin-mediated green-synthesized AgNP-doped antibacterial GelMA-silk fibroin tissue adhesives: In vitro and ex vivo characterizations.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154192
+Synthesis and evaluation of haemocompatible, antioxidant, and antibacterial properties, and acute oral toxicity of a methacrylic acid mediated glucoxylan for wound healing applications.|https://dx.doi.org/10.1371/journal.pone.0356647
