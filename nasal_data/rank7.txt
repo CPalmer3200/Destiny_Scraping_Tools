@@ -14,3 +14,5 @@ Therapeutic Monitoring of Vancomycin and Factors Affecting Survival in ICU Patie
 Complementary Time-Kill Activity Displayed by Povidone-Iodine and Hydrogen Peroxide Against Shoulder Arthroplasty-Associated Pathogens, Envisaging Intraoperative Irrigation.|https://dx.doi.org/10.3390/ph19081197
 Infective Endocarditis on Aortic Valve: From Diagnosis to Cardiac Surgical Intervention-Narrative Review.|https://dx.doi.org/10.3390/jcm15166463
 Interkingdom Biofilms in Chronic Wounds: The Collaboration of Candida albicans and Staphylococcus aureus Against Conventional Wound Antiseptics in a Wound-like Leucocyte-Rich Human Plasma Biofilm Model (lhBIOM).|https://dx.doi.org/10.3390/antibiotics15080739
+Prevalence of methicillin-resistant Staphylococcus aureus in Iran: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jiph.2026.103339
+Probiotic-Mediated Inhibition of Skin Pathogens and Modulation of Innate Immune Responses in HaCaT Cells.|https://dx.doi.org/10.3390/microorganisms14081754
