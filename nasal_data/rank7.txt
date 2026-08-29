@@ -16,3 +16,4 @@ Infective Endocarditis on Aortic Valve: From Diagnosis to Cardiac Surgical Inter
 Interkingdom Biofilms in Chronic Wounds: The Collaboration of Candida albicans and Staphylococcus aureus Against Conventional Wound Antiseptics in a Wound-like Leucocyte-Rich Human Plasma Biofilm Model (lhBIOM).|https://dx.doi.org/10.3390/antibiotics15080739
 Prevalence of methicillin-resistant Staphylococcus aureus in Iran: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jiph.2026.103339
 Probiotic-Mediated Inhibition of Skin Pathogens and Modulation of Innate Immune Responses in HaCaT Cells.|https://dx.doi.org/10.3390/microorganisms14081754
+Rhein functionalized cationic guar gum- bovine serum albumin hydrogel dressing with pH-responsive delivery for wound healing and pH monitoring.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154221
