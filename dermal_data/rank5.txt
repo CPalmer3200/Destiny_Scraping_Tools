@@ -38,3 +38,4 @@ Global Transcriptional Differences in Staphylococcus aureus Biofilm-Associated G
 Interkingdom Biofilms in Chronic Wounds: The Collaboration of Candida albicans and Staphylococcus aureus Against Conventional Wound Antiseptics in a Wound-like Leucocyte-Rich Human Plasma Biofilm Model (lhBIOM).|https://dx.doi.org/10.3390/antibiotics15080739
 LyeTx I mnΔKL, a New Synthetic Peptide Derived from a Lycosa erythrognatha Toxin, with Potent In Vitro and In Vivo Activity Against Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/toxins18080323
 Staphylococcus Aureus Toxins and Asthma: Pathophysiological Mechanisms, Clinical Relevance, and Therapeutic Implications in the Biologics Era.|https://dx.doi.org/10.3390/toxins18080319
+Healthcare Handbasin Design and Microbial Safety: A Review of Guidelines and Current Evidence.|https://dx.doi.org/10.1016/j.jhin.2026.08.012

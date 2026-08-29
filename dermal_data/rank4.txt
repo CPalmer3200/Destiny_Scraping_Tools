@@ -72,3 +72,4 @@ Maleic Acid-Grafted Poly(vinylpyrrolidone) Hydrogels Synthesized by Gamma Radiat
 Multiple Dynamic Covalent Bond Crosslinked Ionic Liquids-Based Hydrogel with Stretchable, Rapid Self-Healing and Antibacterial Activity Properties.|https://dx.doi.org/10.3390/gels12080697
 Composite Hydrogel Using Methacrylated Silk Fibroin and Mercaptolated Hyaluronic Acid with Encapsulating Zinc-Quercetin Nanozyme.|https://dx.doi.org/10.3390/gels12080665
 Molecular simulation-guided electrospun PVB/D-panthenol/Coir@CuO microfibrous membranes for enhanced wound healing.|https://dx.doi.org/10.1016/j.mtbio.2026.103554
+Rhein functionalized cationic guar gum- bovine serum albumin hydrogel dressing with pH-responsive delivery for wound healing and pH monitoring.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154221
