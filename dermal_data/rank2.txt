@@ -46,3 +46,4 @@ Five-Year Evolution of the Microbiological Landscape of Diabetic Foot Infections
 Efficacy of negative-pressure wound therapy with adjunctive silver nanoparticle spray in post-revascularization diabetic foot wounds: A randomized controlled trial.|https://dx.doi.org/10.1016/j.surge.2026.08.008
 Study on the Microbiological Characteristics of Infection in Diabetic Foot Ulcers (Wagner Grades 2-4) and Their Impact on Outcomes.|https://dx.doi.org/10.1177/15347346261480191
 Bidirectional Limb Salvage and Its Impact on Residual Limb Survivorship: Is a Partial Calcanectomy in Ambulatory Midfoot Amputees Worthwhile?|https://dx.doi.org/10.3390/japma116040056
+Evaluation of outcomes in patients with diabetic foot ulcers based on initial assessment at admission.|https://dx.doi.org/10.12669/pjms.42.8.15773
