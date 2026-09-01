@@ -47,3 +47,8 @@ Efficacy of negative-pressure wound therapy with adjunctive silver nanoparticle 
 Study on the Microbiological Characteristics of Infection in Diabetic Foot Ulcers (Wagner Grades 2-4) and Their Impact on Outcomes.|https://dx.doi.org/10.1177/15347346261480191
 Bidirectional Limb Salvage and Its Impact on Residual Limb Survivorship: Is a Partial Calcanectomy in Ambulatory Midfoot Amputees Worthwhile?|https://dx.doi.org/10.3390/japma116040056
 Evaluation of outcomes in patients with diabetic foot ulcers based on initial assessment at admission.|https://dx.doi.org/10.12669/pjms.42.8.15773
+Mini-ID - A minimally invasive drainage strategy for complicated skin and soft tissue infection: A case report.|https://dx.doi.org/10.1097/MD.0000000000050275
+Supersaturated Oxygen Therapy for Wound Healing: A Comprehensive Review.|https://dx.doi.org/10.1097/CRD.0000000000001454
+A Case Series ofPasteurella multocidaInfections: Expanding Clinical Spectrum from Localized Abscess to Necrotizing Fasciitis and Osteomyelitis.|https://dx.doi.org/10.1016/j.ijmmb.2026.101275
+Global Epidemiology of Diabetic Foot: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1002/dmrr.70223
+Extracellular Vesicle Therapies for Diabetic Skin Lesions: Mechanisms, Engineering, and Clinical Translation.|https://dx.doi.org/10.2147/IJN.S626719
