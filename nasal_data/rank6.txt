@@ -3,3 +3,4 @@ Virulence and Resistance Mechanisms in Multidrug-Resistant Acinetobacter baumann
 Local and Systemic Immune Responses in Growing Feather Pulps and Blood of Broiler Chickens Elicited by Electron Beam- and Formalin-Killed Staphylococcus aureus Vaccines.|https://dx.doi.org/10.3390/vaccines14080716
 Thigh abscess following alternate-site continuous glucose monitoring sensor placement.|https://dx.doi.org/10.1093/ajhp/zxag252
 Will It Be Possible in the Future to Target Innate Immunity Against Staphylococcus aureus Using Resident Microbiota and Plant Extracts?|https://dx.doi.org/10.1155/jimr/3556897
+Global burden of bacterial antimicrobial resistance among children under five years 1990-2021: a systematic analysis with forecasts to 2050.|https://dx.doi.org/10.1016/j.ijantimicag.2026.107995
