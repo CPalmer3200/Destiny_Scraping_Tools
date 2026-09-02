@@ -25,3 +25,6 @@ Septic Spontaneous Abortion Associated With Intrauterine Fetal Death at 8 Weeks 
 Impact of time from symptom onset to diagnosis in infective endocarditis: insights from the nationwide NIDUS registry.|https://dx.doi.org/10.1007/s15010-026-02960-2
 Treatment patterns and reoperation rates in periprosthetic joint infection identified 1 - 6 months after arthroplasty in Japan: A descriptive analysis using nationwide claims data.|https://dx.doi.org/10.5414/CP204966
 Antimicrobial Resistance Profiles of Bacterial Isolates from Purulent Specimens in Women and Children: A Six-Year Retrospective Study in Central China.|https://dx.doi.org/10.2147/IDR.S632047
+Staphylococcus aureus Skin and Soft Tissue Infections.|https://dx.doi.org/10.1016/j.idc.2026.07.003
+Antimicrobial photodynamic therapy across ESKAPE pathogens: Efficacy, limitations, and a pathogen-adapted framework toward clinical translation.|https://dx.doi.org/10.1016/j.pharmthera.2026.109110
+Feasibility of a rat femoral-defect model for immediate perioperative and delayed post-implantation implant-associated bone infections.|https://dx.doi.org/10.5194/jbji-11-535-2026
