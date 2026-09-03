@@ -28,3 +28,11 @@ Antimicrobial Resistance Profiles of Bacterial Isolates from Purulent Specimens 
 Staphylococcus aureus Skin and Soft Tissue Infections.|https://dx.doi.org/10.1016/j.idc.2026.07.003
 Antimicrobial photodynamic therapy across ESKAPE pathogens: Efficacy, limitations, and a pathogen-adapted framework toward clinical translation.|https://dx.doi.org/10.1016/j.pharmthera.2026.109110
 Feasibility of a rat femoral-defect model for immediate perioperative and delayed post-implantation implant-associated bone infections.|https://dx.doi.org/10.5194/jbji-11-535-2026
+National healthcare-associated infections surveillance programs - comparison between provincial and national case definitions in Canada.|https://dx.doi.org/10.1186/s12963-026-00508-y
+Partial Prosthetic Exchange in the Management of Chronic Prosthetic Hip Joint Infection: A Systematic Review.|https://dx.doi.org/10.1016/j.otsr.2026.104870
+EPIDEMIOLOGY OF HEALTHCARE-ASSOCIATED INFECTIONS IN PATIENTS RECEIVING EXTRACORPOREAL MEMBRANE OXYGENATION: A CHALLENGE IN ADVANCED LIFE SUPPORT.|https://dx.doi.org/10.1016/j.jhin.2026.08.018
+Evaluation of a Sol-Gel Zirconia-Silver Coating for Titanium Implants: Assessing Biocompatibility, Osseointegration, and Enhanced Short-Term Antibacterial Efficacy.|https://dx.doi.org/10.1007/s10439-026-04350-z
+Infective endocarditis in the pediatric population: A single-center retrospective study of outcomes and predictors.|https://dx.doi.org/10.1007/s00431-026-07382-8
+Candida albicans reprograms Staphylococcus aureus glycolytic metabolism to drive enhanced virulence.|https://dx.doi.org/10.1080/21505594.2026.2728465
+First UK use of bacteriophage therapy with DAIR for chronic Staphylococcus aureus prosthetic joint infection.|https://dx.doi.org/10.1128/asmcr.00082-26
+Fluoroquinolone resistance without fluoroquinolone use; the genie is truly out of the bottle.|https://dx.doi.org/10.3389/fmicb.2026.1842637

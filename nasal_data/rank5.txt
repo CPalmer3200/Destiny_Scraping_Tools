@@ -8,3 +8,5 @@ Patients' Perspectives on Changes in Cancer Care During the COVID-19 Pandemic: R
 Mini-ID - A minimally invasive drainage strategy for complicated skin and soft tissue infection: A case report.|https://dx.doi.org/10.1097/MD.0000000000050275
 Vasopressor Use in Free Flap Reconstruction: A Multicenter Propensity-Matched Analysis of Outcomes.|https://dx.doi.org/10.1002/micr.70287
 Extent-Guided Staged Management of Localized Late-Onset MSSA Sternal Infection after Bilateral Lung Transplantation: A Case Report.|https://dx.doi.org/10.1177/10962964261485030
+Comparison of Postoperative Outcomes of Rib-Sparing Versus Rib-Sacrificing in Free Flap Breast Reconstruction Using the US Collaborative Network in TriNetX.|https://dx.doi.org/10.1002/micr.70270
+From pustule to flap: necrotizing fasciitis of the breast in type 1 diabetes-a case report.|https://dx.doi.org/10.1093/jscr/rjag770
