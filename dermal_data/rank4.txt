@@ -1,1 +1,8 @@
 Exploring alginate/zinc oxide-based 3D-printed structures for application as customizable wound dressings.|https://dx.doi.org/10.1016/j.ijpharm.2026.127356
+Sprayable NIR/pH-responsive NSC/PF127 hydrogel loaded with MoO₂, ciprofloxacin, and FGF-2 for enhanced antibacterial and pro-regenerative infected wound healing.|https://dx.doi.org/10.1080/10717544.2026.2719063
+Injectable NIR-Responsive Lignin-Doped Polyaniline/Carvacrol-Integrated Gellan Gum Hydrogel for Photothermal-Assisted Antibacterial Therapy and Cell Migration.|https://dx.doi.org/10.1021/acsabm.6c01321
+Chitosan hydrogel loaded with mesenchymal stem cell-derived exosomes significantly accelerated wound closure and enhanced tissue regeneration in a full thickness porcine skin defect model.|https://dx.doi.org/10.1177/08853282261483994
+NIR- and pH-responsive double-crosslinked inulin-tannic acid hydrogel with antioxidant and Anti-Staphylococcus aureus Activity.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154308
+NIR-II photothermal CSGGT hydrogel for antibacterial therapy and accelerated healing of infected wounds.|https://dx.doi.org/10.1039/d6ra06536h
+A Novel Gelatin Hydrogel-Based Drug-Delivery System Promotes Antimicrobial Efficacy in a Pyogenic Spondylodiscitis Rat Model.|https://dx.doi.org/10.1002/jsp2.70213
+Hydrogen-bond-mediated retention of a phenolic SNAP analogue in polyvinyl alcohol/PEG hydrogels for sustained nitric oxide release and antibacterial activity.|https://dx.doi.org/10.1002/smo2.70099

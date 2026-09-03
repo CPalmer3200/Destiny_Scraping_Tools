@@ -1,2 +1,5 @@
 Why diabetes-related foot ulcers fail to heal despite successful revascularization: closing the patency-to-healing gap: a narrative review.|https://dx.doi.org/10.12701/jyms.2026.43.60
 Ultrasound-guided continuous parasacral ischial plane block for diabetic foot ulcer healing: study protocol for a single-centre, prospective, randomised, open-label, blinded-endpoint controlled trial.|https://dx.doi.org/10.3389/fendo.2026.1884667
+Comment - Louis XIV's terminal illness clinical chronology favors necrotizing soft-tissue infection.|https://dx.doi.org/10.1186/s12882-026-05328-8
+Transforming wound care: the role of AI in achieving clinical and financial outcomes.|https://dx.doi.org/10.12968/bjcn.2026.0014
+AI-Enhanced System for Diabetic Foot Ulcer Localization and Classification Using Multi-Scale Neural CNN Model.|https://dx.doi.org/10.1002/hsr2.73161
