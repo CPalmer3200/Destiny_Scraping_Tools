@@ -36,3 +36,9 @@ Infective endocarditis in the pediatric population: A single-center retrospectiv
 Candida albicans reprograms Staphylococcus aureus glycolytic metabolism to drive enhanced virulence.|https://dx.doi.org/10.1080/21505594.2026.2728465
 First UK use of bacteriophage therapy with DAIR for chronic Staphylococcus aureus prosthetic joint infection.|https://dx.doi.org/10.1128/asmcr.00082-26
 Fluoroquinolone resistance without fluoroquinolone use; the genie is truly out of the bottle.|https://dx.doi.org/10.3389/fmicb.2026.1842637
+Long-term epidemiology of bacterial pathogens and antimicrobial resistance in a secondary hospital in China: a 12-year retrospective study.|https://dx.doi.org/10.1186/s12866-026-05445-2
+Silver Nanozeolite-Loaded Skin Sealants Combat Surgical Site Infection in Diabetic and Obese Mice.|https://dx.doi.org/10.1002/smll.75380
+Crosslinking density-programmed poly(acrylamide)/sodium alginate-based emergency hydrogel with asymmetric 3D mass transfer network: spatially vector-targeted release of nitric-oxide for potentiating antibacterial efficacy and wound monitoring and sensing.|https://dx.doi.org/10.1016/j.carbpol.2026.125697
+Novel Approach to Periscapular Abscesses in a 2-Year-Old: A Case Report.|https://dx.doi.org/10.1155/cro/9645857
+Risk factors for prolonged hospitalization and disease course in osteomyelitis: a single-centre cohort study.|https://dx.doi.org/10.3389/fcimb.2026.1654595
+Severe co-infection with influenza A virus H3N2 and community-acquired methicillin-susceptible Staphylococcus aureus in a child presenting with septic shock, acute respiratory distress syndrome, and necrotizing pneumonia: a rare case report.|https://dx.doi.org/10.3389/fcimb.2026.1941945
