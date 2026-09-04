@@ -6,3 +6,6 @@ NIR- and pH-responsive double-crosslinked inulin-tannic acid hydrogel with antio
 NIR-II photothermal CSGGT hydrogel for antibacterial therapy and accelerated healing of infected wounds.|https://dx.doi.org/10.1039/d6ra06536h
 A Novel Gelatin Hydrogel-Based Drug-Delivery System Promotes Antimicrobial Efficacy in a Pyogenic Spondylodiscitis Rat Model.|https://dx.doi.org/10.1002/jsp2.70213
 Hydrogen-bond-mediated retention of a phenolic SNAP analogue in polyvinyl alcohol/PEG hydrogels for sustained nitric oxide release and antibacterial activity.|https://dx.doi.org/10.1002/smo2.70099
+Crosslinking density-programmed poly(acrylamide)/sodium alginate-based emergency hydrogel with asymmetric 3D mass transfer network: spatially vector-targeted release of nitric-oxide for potentiating antibacterial efficacy and wound monitoring and sensing.|https://dx.doi.org/10.1016/j.carbpol.2026.125697
+Hot spring-inspired zinc-crosslinked Mesona chinensis polysaccharide hydrogel microspheres for MRSA-infected chronic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125683
+On-Needle Detection of Foodborne Pathogens via Integrated Hydrogel Microneedle Array for Bacterial Capture and Recombinase Polymerase Amplification.|https://dx.doi.org/10.1021/acs.analchem.6c02621
