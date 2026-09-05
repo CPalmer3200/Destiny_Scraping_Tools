@@ -4,3 +4,4 @@ MRSA in Tibet: high prevalence driven by the epidemic clone CC59-ST59-SCCmec IV-
 Interventions for the eradication of meticillin-resistant Staphylococcus aureus (MRSA) in people with cystic fibrosis.|https://dx.doi.org/10.1002/14651858.CD009650.pub6
 MRSA carriage rate among dental healthcare personnel: amulticentric cross-sectional study.|https://dx.doi.org/10.54589/aol.39/1/64
 Molecular and Clinical Study of Bovine Coronavirus and Staphylococcus aureus Co-Infection Associated With Bovine Respiratory Disease in Iraqi Calves.|https://dx.doi.org/10.1155/vmi/3319844
+Intranasal immunization in mice with spore-associated serine-aspartate repeat-containing protein D from Staphylococcus aureus secreted in Bacillus subtilis.|https://dx.doi.org/10.1007/s10529-026-03782-w

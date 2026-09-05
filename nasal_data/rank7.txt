@@ -42,3 +42,6 @@ Crosslinking density-programmed poly(acrylamide)/sodium alginate-based emergency
 Novel Approach to Periscapular Abscesses in a 2-Year-Old: A Case Report.|https://dx.doi.org/10.1155/cro/9645857
 Risk factors for prolonged hospitalization and disease course in osteomyelitis: a single-centre cohort study.|https://dx.doi.org/10.3389/fcimb.2026.1654595
 Severe co-infection with influenza A virus H3N2 and community-acquired methicillin-susceptible Staphylococcus aureus in a child presenting with septic shock, acute respiratory distress syndrome, and necrotizing pneumonia: a rare case report.|https://dx.doi.org/10.3389/fcimb.2026.1941945
+Rapid progression of a small penetrating aortic ulcer to rupture in the setting of Staphylococcus aureus bacteraemia.|https://dx.doi.org/10.1136/bcr-2026-274076
+Wound Microbes in Epidermolysis Bullosa: A Focus on Topical Strategies for Management of Pseudomonas Aeruginosa Colonization.|https://dx.doi.org/10.1111/pde.70142
+Ion‑Programmed In Situ J‑Aggregates Overcome Concentration-Dependence for On-Demand Phototherapy of Diabetic Bacterial Infections.|https://dx.doi.org/10.1002/anie.1142645
