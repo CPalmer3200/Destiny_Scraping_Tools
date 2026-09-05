@@ -9,3 +9,4 @@ Hydrogen-bond-mediated retention of a phenolic SNAP analogue in polyvinyl alcoho
 Crosslinking density-programmed poly(acrylamide)/sodium alginate-based emergency hydrogel with asymmetric 3D mass transfer network: spatially vector-targeted release of nitric-oxide for potentiating antibacterial efficacy and wound monitoring and sensing.|https://dx.doi.org/10.1016/j.carbpol.2026.125697
 Hot spring-inspired zinc-crosslinked Mesona chinensis polysaccharide hydrogel microspheres for MRSA-infected chronic wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125683
 On-Needle Detection of Foodborne Pathogens via Integrated Hydrogel Microneedle Array for Bacterial Capture and Recombinase Polymerase Amplification.|https://dx.doi.org/10.1021/acs.analchem.6c02621
+ROS/pH dual-responsive tannic acid-coated nanoparticle-integrated hyaluronic acid hydrogel for antibacterial and pro-healing effects on diabetic wounds in vitro.|https://dx.doi.org/10.1039/d6ra05393a

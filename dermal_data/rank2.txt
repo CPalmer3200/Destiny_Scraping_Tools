@@ -5,3 +5,5 @@ Transforming wound care: the role of AI in achieving clinical and financial outc
 AI-Enhanced System for Diabetic Foot Ulcer Localization and Classification Using Multi-Scale Neural CNN Model.|https://dx.doi.org/10.1002/hsr2.73161
 From Saprophyte to Pathogen: Multidrug-Resistant Pseudomonas fluorescens Wound Infection in Two Patients.|https://dx.doi.org/10.1016/j.ijmmb.2026.101279
 Safety of Ovine Forestomach Matrix Across 474 Soft Tissue Defects: Interim Results from the Prospective Multicenter MASTRR Registry.|https://dx.doi.org/10.1007/s12325-026-03768-0
+Ultrasonography Cannot Exclude Osteomyelitis in Diabetic Foot Ulcers: A Cross-Sectional Diagnostic Accuracy Study Against Magnetic Resonance Imaging.|https://dx.doi.org/10.1002/edm2.70320
+Negative Pressure Wound Therapy Research: A Bibliometric and Visualized Analysis of the Web of Science Core Collection.|https://dx.doi.org/10.3791/72604
