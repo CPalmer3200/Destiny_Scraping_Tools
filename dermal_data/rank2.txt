@@ -7,3 +7,5 @@ From Saprophyte to Pathogen: Multidrug-Resistant Pseudomonas fluorescens Wound I
 Safety of Ovine Forestomach Matrix Across 474 Soft Tissue Defects: Interim Results from the Prospective Multicenter MASTRR Registry.|https://dx.doi.org/10.1007/s12325-026-03768-0
 Ultrasonography Cannot Exclude Osteomyelitis in Diabetic Foot Ulcers: A Cross-Sectional Diagnostic Accuracy Study Against Magnetic Resonance Imaging.|https://dx.doi.org/10.1002/edm2.70320
 Negative Pressure Wound Therapy Research: A Bibliometric and Visualized Analysis of the Web of Science Core Collection.|https://dx.doi.org/10.3791/72604
+Evaluating surgical and non-surgical wound approaches in diabetic foot ulcer treatments: A comparative study.|https://dx.doi.org/10.6026/973206300223300
+Preoperative neutrophil-to-lymphocyte ratio is associated with amputation level progression in patients with diabetic foot.|https://dx.doi.org/10.3389/fsurg.2026.1868923
