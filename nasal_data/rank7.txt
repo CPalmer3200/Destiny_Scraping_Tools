@@ -45,3 +45,7 @@ Severe co-infection with influenza A virus H3N2 and community-acquired methicill
 Rapid progression of a small penetrating aortic ulcer to rupture in the setting of Staphylococcus aureus bacteraemia.|https://dx.doi.org/10.1136/bcr-2026-274076
 Wound Microbes in Epidermolysis Bullosa: A Focus on Topical Strategies for Management of Pseudomonas Aeruginosa Colonization.|https://dx.doi.org/10.1111/pde.70142
 Ion‑Programmed In Situ J‑Aggregates Overcome Concentration-Dependence for On-Demand Phototherapy of Diabetic Bacterial Infections.|https://dx.doi.org/10.1002/anie.1142645
+Tricuspid Valve Infective Endocarditis.|https://dx.doi.org/10.7759/cureus.114058
+Comparative efficacy and cytocompatibility of antimicrobial nanocoatings versus antibiotics on titanium dental implant surfaces.|https://dx.doi.org/10.6026/973206300223712
+Multifocal cellulitis and polymicrobial infection in a patient with a perforated duodenal ulcer: a case report and literature review.|https://dx.doi.org/10.1097/RC9.0000000000000883
+Rapidly progressive methicillin-susceptible Staphylococcus aureus abscess of the lower lip: A case report.|https://dx.doi.org/10.1016/j.idcr.2026.e02731
