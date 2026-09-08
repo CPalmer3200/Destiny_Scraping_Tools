@@ -11,3 +11,6 @@ Evaluating surgical and non-surgical wound approaches in diabetic foot ulcer tre
 Preoperative neutrophil-to-lymphocyte ratio is associated with amputation level progression in patients with diabetic foot.|https://dx.doi.org/10.3389/fsurg.2026.1868923
 Association Between the Systemic Inflammatory Response Index and Severe Infection in Patients with Diabetic Foot [Letter].|https://dx.doi.org/10.2147/DMSO.S643299
 Oxidized sodium alginate/carboxymethyl chitosan/γ-polyglutamic acid injectable hydrogels enabling pH-responsive synergistic delivery of antimicrobial agents and metal-polyphenol nanoparticles for diabetic foot ulcer healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154374
+Pre-Screening of Participants with Type 2 Diabetes and Foot Ulcers for Enrollment into a Bacteriophage Therapy Pilot Study.|https://dx.doi.org/10.1177/15347346261486517
+Enhancing antimicrobial photodynamic inactivation through natural alkaloid-antiseptic synergy against methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1039/d6tb00912c
+Biomarker Insights into Diabetic Foot Ulcers: Evaluating Pentraxin-3 and Netrin-1 for Diagnosis and Clinical Associations.|https://dx.doi.org/10.1177/15347346261484298
