@@ -49,3 +49,6 @@ Tricuspid Valve Infective Endocarditis.|https://dx.doi.org/10.7759/cureus.114058
 Comparative efficacy and cytocompatibility of antimicrobial nanocoatings versus antibiotics on titanium dental implant surfaces.|https://dx.doi.org/10.6026/973206300223712
 Multifocal cellulitis and polymicrobial infection in a patient with a perforated duodenal ulcer: a case report and literature review.|https://dx.doi.org/10.1097/RC9.0000000000000883
 Rapidly progressive methicillin-susceptible Staphylococcus aureus abscess of the lower lip: A case report.|https://dx.doi.org/10.1016/j.idcr.2026.e02731
+Chitosan-celluloses wafers containing emulsified curcumin: a nano-in-matrix approach for buccal delivery.|https://dx.doi.org/10.1016/j.ijpharm.2026.127396
+Antimicrobial resistance patterns in a Qatari tertiary care center in 2024: A retrospective study.|https://dx.doi.org/10.5339/qmj.2026.52
+Bacterial and fungal co-colonization alters Malassezia restricta metabolism and host proteolytic activity in reconstructed human epidermis.|https://dx.doi.org/10.3389/fmicb.2026.1927213
