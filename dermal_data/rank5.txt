@@ -3,3 +3,4 @@ Self-Assembled AuPt/PEDOT-DNA Hydrogel Dressing: Simultaneous Bacterial Eradicat
 Periodontitis, Psoriasis and Other Skin Disorders: Epidemiological and Mechanistic Evidence.|https://dx.doi.org/10.1111/jre.70175
 Detachable dissolving microneedles loaded with Silviavirus phage Pelagios enhance antibacterial efficacy against methicillin resistant Staphylococcus aureus in ex vivo porcine skin.|https://dx.doi.org/10.3389/fmicb.2026.1928352
 In vitro differentiation and phenotypic profiling of Langerhans cell subsets derived from human peripheral blood monocytes.|https://dx.doi.org/10.1007/s12026-026-09825-8
+The skin as a reservoir for Candidozyma auris: colonization dynamics, host defense, and decolonization challenges.|https://dx.doi.org/10.1080/1040841X.2026.2727050
