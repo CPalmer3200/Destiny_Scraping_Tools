@@ -17,3 +17,6 @@ Advanced wound dressings embedded with green copper oxide nanoparticles from Inu
 Chitosan-celluloses wafers containing emulsified curcumin: a nano-in-matrix approach for buccal delivery.|https://dx.doi.org/10.1016/j.ijpharm.2026.127396
 Preparation and performance of antibacterial and bioactive silver nanoparticle/nano-hydroxyapatite gradient composite gel coatings on Ti implants.|https://dx.doi.org/10.1016/j.colsurfb.2026.116144
 On-chip engineering of EDC-crosslinked antimicrobial peptide hydrogels for enhanced eradication of MRSA infections.|https://dx.doi.org/10.1039/d6ra03188a
+Antibacterial and antioxidant okra-based hydrogels enhanced with Ag@HKUST-1 as a next-generation wound dressing.|https://dx.doi.org/10.1016/j.ijpx.2026.100633
+Fabrication and characterization of ZnO-NP-doped gelatin/PEG/chitosan composite films for the pharmaceutical and photocatalytic degradation of dyes.|https://dx.doi.org/10.1039/d6ra06929k
+Engineering a Multifunctional Sprayable Curcumin-Modified Polyitaconate-Based Hydrogel to Accelerate Methicillin-Resistant Staphylococcus aureus-Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.71699
