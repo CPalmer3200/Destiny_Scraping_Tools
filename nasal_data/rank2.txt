@@ -6,3 +6,4 @@ MRSA carriage rate among dental healthcare personnel: amulticentric cross-sectio
 Molecular and Clinical Study of Bovine Coronavirus and Staphylococcus aureus Co-Infection Associated With Bovine Respiratory Disease in Iraqi Calves.|https://dx.doi.org/10.1155/vmi/3319844
 Intranasal immunization in mice with spore-associated serine-aspartate repeat-containing protein D from Staphylococcus aureus secreted in Bacillus subtilis.|https://dx.doi.org/10.1007/s10529-026-03782-w
 Methicillin-resistant Staphylococcus aureus nasal swab impact on vancomycin duration in the emergency department.|https://dx.doi.org/10.1016/j.ajem.2026.08.057
+Rapid broad-spectrum activity of molecular iodine against multidrug-resistant bacterial and fungal pathogens without residual staining.|https://dx.doi.org/10.1128/aac.00764-26

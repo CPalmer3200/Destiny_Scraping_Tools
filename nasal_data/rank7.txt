@@ -52,3 +52,13 @@ Rapidly progressive methicillin-susceptible Staphylococcus aureus abscess of the
 Chitosan-celluloses wafers containing emulsified curcumin: a nano-in-matrix approach for buccal delivery.|https://dx.doi.org/10.1016/j.ijpharm.2026.127396
 Antimicrobial resistance patterns in a Qatari tertiary care center in 2024: A retrospective study.|https://dx.doi.org/10.5339/qmj.2026.52
 Bacterial and fungal co-colonization alters Malassezia restricta metabolism and host proteolytic activity in reconstructed human epidermis.|https://dx.doi.org/10.3389/fmicb.2026.1927213
+Driveline Relocation With Omentoplasty for Severe Ventricular Assist Device-Specific Infection.|https://dx.doi.org/10.1097/MAT.0000000000002853
+Oral cavity as a reservoir of respiratory pathogens: microbial dynamics in patients receiving mechanical ventilation.|https://dx.doi.org/10.31744/einstein_journal/2026AO2476
+A nine-year surveillance of healthcare-associated infections in a pediatric Intensive Care Unit: epidemiology, pathogens, and antimicrobial resistance trends.|https://dx.doi.org/10.3855/jidc.22442
+Codon bias variation in Staphylococcus aureus.|https://dx.doi.org/10.1371/journal.pone.0356997
+Genomic characterization of efflux pumps and putative small multidrug resistance (SMR)-like transporters in disinfectant-tolerant coagulase-negative staphylococci from a Vietnamese hospital.|https://dx.doi.org/10.1128/spectrum.01294-26
+Defining the transcriptional adaptation of Staphylococcus aureus to a range of nutritional sulfur supplementation.|https://dx.doi.org/10.1128/jb.00256-26
+Monomicrobial Staphylococcus aureus Necrotizing Soft Tissue Infection: A Case Report and Review of Literature.|https://dx.doi.org/10.7759/cureus.115915
+Spinal Epidural Abscess Following Spinal Anesthesia in a Bacteremic Patient: A Case Report.|https://dx.doi.org/10.13107/jocr.2026.v16.i09.8044
+Ceftazidime-avibactam in elastomeric pump for vascular graft infection: a case report.|https://dx.doi.org/10.53854/liim-3403-10
+Clinical Presentation, Orthopedic Outcomes, and Microbiological Spectrum in Pediatric Septic Arthritis: A Prospective Study.|https://dx.doi.org/10.13107/jocr.2026.v16.i09.8114
