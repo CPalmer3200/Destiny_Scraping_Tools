@@ -17,3 +17,5 @@ Biomarker Insights into Diabetic Foot Ulcers: Evaluating Pentraxin-3 and Netrin-
 Skin and Soft Tissue Infections in the Diabetic Patient.|https://dx.doi.org/10.1016/j.idc.2026.07.005
 Fish skin grafts for human wound healing: mechanistic evidence, clinical performance, application strategies and translational challenges - a review.|https://dx.doi.org/10.1016/j.intimp.2026.117406
 Proximal Midfoot Amputation as a Functional Alternative to Major Amputation in Advanced Diabetic Foot Infection: A Case Report.|https://dx.doi.org/10.13107/jocr.2026.v16.i09.8066
+Fe(2)N@C nanomaterials: Synergistic PTT/CDT/NO for the dynamic therapy of diabetic foot ulcer.|https://dx.doi.org/10.1016/j.bioadv.2026.215159
+Limb salvage in diabetic foot necrotizing fasciitis complicated by extensively drug-resistant Acinetobacter baumannii: a case report of an integrative treatment approach.|https://dx.doi.org/10.3389/fendo.2026.1936922
