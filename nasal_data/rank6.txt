@@ -10,3 +10,4 @@ Convergent evolution of immune evasion in ESKAPE pathogens: A cross-pathogen ar
 Targeting the Candida albicans agglutinin-like sequence 3 adhesin to disrupt oral polymicrobial bacterial-fungal biofilms: mechanisms and therapeutic strategies.|https://dx.doi.org/10.1080/1040841X.2026.2727092
 Chlorhexidine gluconate irrigation used at implantation lowers culture positivity in non-infected prosthesis revisions.|https://dx.doi.org/10.1093/jsxmed/qdag276
 A prospective pharmacokinetic interaction study between rifampicin and fusidic acid for the treatment of staphylococcal infections.|https://dx.doi.org/10.1093/jac/dkag293
+The characterization of a rhamnosylated triterpenic saponin from Quillaja saponaria Mol. reveals novel adjuvant, antibacterial, antiviral, antifungal and antiproliferative properties.|https://dx.doi.org/10.3389/fphar.2026.1856067
