@@ -68,3 +68,8 @@ Perioperative Staphylococcus aureus Phenotypic Screening to Detect Chlorhexidine
 A Practical Surgical Technique for Removing a Transcatheter Pulmonary Valve.|https://dx.doi.org/10.1016/j.atssr.2026.02.023
 Bacterial Profile and Antibiotic Susceptibility Patterns of Urogenital Isolates Among Women With Preterm Labor at a Tertiary Hospital in Southwestern Uganda.|https://dx.doi.org/10.7759/cureus.114241
 Clinical burden and treatment pathways of early deep surgical site infection after lumbar spine surgery: a Vietnamese single-center descriptive study.|https://dx.doi.org/10.21037/jss-2026-0129
+Advances in the diagnosis and management of skin and soft tissue infections.|https://dx.doi.org/10.1136/bmj-2026-100580
+Novel β-lactam-Octenidine nanoGUMBOS: A promising platform to address Bacteria linked to chronic wound infections.|https://dx.doi.org/10.1016/j.bioorg.2026.110503
+[Antimicrobial therapy of periprosthetic joint infection : Full version of the AE guidelines (2026)].|https://dx.doi.org/10.1007/s00132-026-04850-9
+[Antimicrobial therapy of periprosthetic joint infection : Summary of AE guidelines (2026)].|https://dx.doi.org/10.1007/s00132-026-04851-8
+Open surgical management of multiple mycotic superior mesenteric artery aneurysms following staphylococcal infective endocarditis.|https://dx.doi.org/10.1016/j.jvscit.2026.102420

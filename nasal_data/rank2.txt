@@ -8,3 +8,4 @@ Intranasal immunization in mice with spore-associated serine-aspartate repeat-co
 Methicillin-resistant Staphylococcus aureus nasal swab impact on vancomycin duration in the emergency department.|https://dx.doi.org/10.1016/j.ajem.2026.08.057
 Rapid broad-spectrum activity of molecular iodine against multidrug-resistant bacterial and fungal pathogens without residual staining.|https://dx.doi.org/10.1128/aac.00764-26
 Anatomical Site-Specific Microbiological Divergence in Combat-Related Injuries During the Ukraine Conflict: A Comparative Analysis of Head, Torso, and Extremity Wounds.|https://dx.doi.org/10.1093/milmed/usag420
+Structured clinical adjudication of Streptomyces spp. recovered from bronchoalveolar lavage in severe COVID-19 ARDS complicated by polymicrobial lower respiratory tract infection during invasive mechanical ventilation: a case report.|https://dx.doi.org/10.3389/fmed.2026.1880981
