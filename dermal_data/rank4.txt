@@ -20,3 +20,6 @@ On-chip engineering of EDC-crosslinked antimicrobial peptide hydrogels for enhan
 Antibacterial and antioxidant okra-based hydrogels enhanced with Ag@HKUST-1 as a next-generation wound dressing.|https://dx.doi.org/10.1016/j.ijpx.2026.100633
 Fabrication and characterization of ZnO-NP-doped gelatin/PEG/chitosan composite films for the pharmaceutical and photocatalytic degradation of dyes.|https://dx.doi.org/10.1039/d6ra06929k
 Engineering a Multifunctional Sprayable Curcumin-Modified Polyitaconate-Based Hydrogel to Accelerate Methicillin-Resistant Staphylococcus aureus-Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.71699
+Injectable plant vesicles-biomineralized ZnO(2) hydrogel for synergistic chemodynamic antibacterial, anti-inflammatory, and regenerative treatment of infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154433
+Carrier-Free Glycyrrhizic Acid and Baicalin Co-Assembled Hydrogel for Methicillin-Resistant Staphylococcus aureus Infected Wound Repair.|https://dx.doi.org/10.1021/acsami.6c08389
+Chitosan-based hydrogel, along with citrus-derived extracellular vesicles and clove extract: advanced skin wound dressing.|https://dx.doi.org/10.1007/s00449-026-03421-8

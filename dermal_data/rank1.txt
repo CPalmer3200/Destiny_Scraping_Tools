@@ -2,3 +2,4 @@ A Cascade Catalytic Nanoplatform Enabling PTT/CDT Synergistic Antibacterial and 
 [Performance of phenylboronic acid-modified GelMA hydrogel loaded with copper-doped cerium oxide nanozyme and its effect on healing of infected burn wounds in mice].|https://dx.doi.org/10.3760/cma.j.cn501225-20260430-00178
 Multifunctional Nanofiber Membrane With Directional Moisture Pumping, Rapid Cooling, and Antibacterial Activity for Intertrigo Wound Microclimate Regulation and Therapy.|https://dx.doi.org/10.1002/adhm.71701
 Vanadium-Vacancy-Induced Atomically Polarized Heterojunctions for Synergistic Bioenergetic Pathogen Disruption and Peripheral Nerve Regeneration.|https://dx.doi.org/10.1002/anie.9441573
+A biomimetic core-shell nanofibrous dressing for temporally coordinated infection control and mitochondrial protection in diabetic wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.103599
