@@ -4,3 +4,4 @@ Periodontitis, Psoriasis and Other Skin Disorders: Epidemiological and Mechanist
 Detachable dissolving microneedles loaded with Silviavirus phage Pelagios enhance antibacterial efficacy against methicillin resistant Staphylococcus aureus in ex vivo porcine skin.|https://dx.doi.org/10.3389/fmicb.2026.1928352
 In vitro differentiation and phenotypic profiling of Langerhans cell subsets derived from human peripheral blood monocytes.|https://dx.doi.org/10.1007/s12026-026-09825-8
 The skin as a reservoir for Candidozyma auris: colonization dynamics, host defense, and decolonization challenges.|https://dx.doi.org/10.1080/1040841X.2026.2727050
+Synergistic effects of luteolin and Lactobacillus rhamnosus on methicillin-resistant Staphylococcus aureus biofilm inhibition: in vitro and in silico molecular deployment studies.|https://dx.doi.org/10.1007/s12223-026-01592-1

@@ -23,3 +23,7 @@ Engineering a Multifunctional Sprayable Curcumin-Modified Polyitaconate-Based Hy
 Injectable plant vesicles-biomineralized ZnO(2) hydrogel for synergistic chemodynamic antibacterial, anti-inflammatory, and regenerative treatment of infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154433
 Carrier-Free Glycyrrhizic Acid and Baicalin Co-Assembled Hydrogel for Methicillin-Resistant Staphylococcus aureus Infected Wound Repair.|https://dx.doi.org/10.1021/acsami.6c08389
 Chitosan-based hydrogel, along with citrus-derived extracellular vesicles and clove extract: advanced skin wound dressing.|https://dx.doi.org/10.1007/s00449-026-03421-8
+Zataria multiflora Essential Oil-Silver Nanoparticle Hybrid Nanogel: A Dual-Action Platform With Enhanced Antimicrobial Activity as a Promising Topical Antimicrobial System.|https://dx.doi.org/10.1155/cjid/2543116
+A multifunctional Bletilla Striata polysaccharide-based Bsp/GA-rGO electroactive composite sponge accelerates wound healing by modulating the microenvironment.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154350
+Bioactive Hydrogel Dressings Incorporating Decellularized Ovine Liver Extracellular Matrix (ECM) for Effective Wound Regeneration.|https://dx.doi.org/10.1155/bmri/4345216
+Bioprinted core-shell living material platform for spatially controlled encapsulation of Bacillus subtilis and sustained metabolite exchange.|https://dx.doi.org/10.1016/j.bioactmat.2026.08.025
