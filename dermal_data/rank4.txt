@@ -27,3 +27,4 @@ Zataria multiflora Essential Oil-Silver Nanoparticle Hybrid Nanogel: A Dual-Acti
 A multifunctional Bletilla Striata polysaccharide-based Bsp/GA-rGO electroactive composite sponge accelerates wound healing by modulating the microenvironment.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154350
 Bioactive Hydrogel Dressings Incorporating Decellularized Ovine Liver Extracellular Matrix (ECM) for Effective Wound Regeneration.|https://dx.doi.org/10.1155/bmri/4345216
 Bioprinted core-shell living material platform for spatially controlled encapsulation of Bacillus subtilis and sustained metabolite exchange.|https://dx.doi.org/10.1016/j.bioactmat.2026.08.025
+ECM-Mimetic Silk Fibroin/GelMA Hydrogel Integrating Manganese Dioxide Nanozymes and Sustained Nitric Oxide Release for Sequential Immunomodulation and Healing of Chronic Infected Wounds.|https://dx.doi.org/10.1080/1061186X.2026.2733611
