@@ -80,3 +80,6 @@ Superoxide solution irrigation for septic arthritis: a prospective clinical stud
 Clinical characteristics, microbiological landscape, and severity-stratified management of pyogenic spondylitis: a retrospective cohort study.|https://dx.doi.org/10.3389/fcimb.2026.1883513
 Exploring infectious aneurysms through a series of cases in a tertiary care unit in South India.|https://dx.doi.org/10.12688/f1000research.171966.1
 ECM-Mimetic Silk Fibroin/GelMA Hydrogel Integrating Manganese Dioxide Nanozymes and Sustained Nitric Oxide Release for Sequential Immunomodulation and Healing of Chronic Infected Wounds.|https://dx.doi.org/10.1080/1061186X.2026.2733611
+Hand Osteomyelitis: Exploratory Associations of Admission C-Reactive Protein and MRI with Surgical Burden and Hospital Length of Stay.|https://dx.doi.org/10.3390/jcm15176729
+Mechanism of Cinnamaldehyde in Alleviating Staphylococcus aureus-Induced Mammary Inflammatory Response.|https://dx.doi.org/10.3390/ani16172742
+Point-of-Care Ultrasound-Guided Management of Fulminant Influenza A(H3) with Staphylococcus aureus Necrotizing Pneumonia and Acute Cardiopulmonary Failure: A Case Report.|https://dx.doi.org/10.3390/healthcare14172766

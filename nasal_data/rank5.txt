@@ -22,3 +22,5 @@ Congenital Bronchial Atresia Mimicking Pulmonary Sequestration in the Lower Lobe
 An Observational Study of Granulomatous Mastitis in a Philippine Breast Care Center.|https://dx.doi.org/10.47895/amp.v60i13.10615
 Predictive model for increased postoperative drainage volume in patients with papillary thyroid carcinoma: a retrospective cohort study.|https://dx.doi.org/10.21037/gs-2026-0358
 Postoperative complications following mastopexy and reduction mammaplasty in patients with cannabis use disorder: a propensity-matched cohort study.|https://dx.doi.org/10.1016/j.jpra.2026.08.016
+Indications, safety and aesthetic outcomes of autologous conversion after implant-based breast reconstruction failure: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jpra.2026.08.029
+Predictors of Sentinel Lymph Node Metastasis and External Validation of the MSKCC Nomogram in Breast Cancer: A Retrospective Single-Center Cohort Study.|https://dx.doi.org/10.3390/diagnostics16172823
