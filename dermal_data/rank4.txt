@@ -28,3 +28,6 @@ A multifunctional Bletilla Striata polysaccharide-based Bsp/GA-rGO electroactive
 Bioactive Hydrogel Dressings Incorporating Decellularized Ovine Liver Extracellular Matrix (ECM) for Effective Wound Regeneration.|https://dx.doi.org/10.1155/bmri/4345216
 Bioprinted core-shell living material platform for spatially controlled encapsulation of Bacillus subtilis and sustained metabolite exchange.|https://dx.doi.org/10.1016/j.bioactmat.2026.08.025
 ECM-Mimetic Silk Fibroin/GelMA Hydrogel Integrating Manganese Dioxide Nanozymes and Sustained Nitric Oxide Release for Sequential Immunomodulation and Healing of Chronic Infected Wounds.|https://dx.doi.org/10.1080/1061186X.2026.2733611
+Schiff Base Hydrogel Bio-Adhesive Using Oxidized Chondroitin Sulfate and Polyethylenimine with Antibacterial Properties and Cytocompatibility.|https://dx.doi.org/10.3390/polym18172091
+Nisin Z and cinnamaldehyde co-delivery via fiber-reinforced alginate hydrogels: A synergistic in vitro strategy against infected pressure ulcers.|https://dx.doi.org/10.1016/j.bioadv.2026.215171
+Dual Release of Antibiotics with Additive Effect from Cleavable Hydrogels Based on Amino/Thiol-Yne Click Chemistry.|https://dx.doi.org/10.1021/acs.biomac.6c01230
