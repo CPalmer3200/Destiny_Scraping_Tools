@@ -83,3 +83,9 @@ ECM-Mimetic Silk Fibroin/GelMA Hydrogel Integrating Manganese Dioxide Nanozymes 
 Hand Osteomyelitis: Exploratory Associations of Admission C-Reactive Protein and MRI with Surgical Burden and Hospital Length of Stay.|https://dx.doi.org/10.3390/jcm15176729
 Mechanism of Cinnamaldehyde in Alleviating Staphylococcus aureus-Induced Mammary Inflammatory Response.|https://dx.doi.org/10.3390/ani16172742
 Point-of-Care Ultrasound-Guided Management of Fulminant Influenza A(H3) with Staphylococcus aureus Necrotizing Pneumonia and Acute Cardiopulmonary Failure: A Case Report.|https://dx.doi.org/10.3390/healthcare14172766
+Cystine Containing Cationic Amphiphilic Peptide-Based Injectable, Noncytotoxic, Proteolytically Stable Hydrogel with Anti-infective Surface-Coating Activity against Multidrug-Resistant Bacterial and Fungal Biofilms.|https://dx.doi.org/10.1021/acsabm.6c01362
+Development of a Gold Nanoparticle-Assisted Multiplex Polymerase Chain Reaction Assay for Selected Hospital-Acquired Infections-Associated Bacterial and Fungal Pathogens.|https://dx.doi.org/10.1002/open.70294
+Engineering cellulose acetate microneedle coated with zinc-phenolic imidazolium poly(ionic liquids) for atopic dermatitis treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154512
+MICROBIOLOGICAL PROFILE OF SURGICAL SITE INFECTIONS FOLLOWING LOWER EXTREMITY AMPUTATION IN PATIENTS WITH TYPE 2 DIABETES MELLITUS: A PROSPECTIVE OBSERVATIONAL STUDY.|https://dx.doi.org/10.1016/j.ijmmb.2026.101289
+Vancomycin-Loaded Mesh Reduces Staphylococcal Infection in a Murine Extensor Mechanism Reconstruction Model.|https://dx.doi.org/10.2106/JBJS.26.00619
+MRSA-related knowledge, attitudes, and practices among clinical dental students: a cross-sectional study with implications for infection prevention and control education and training.|https://dx.doi.org/10.3389/froh.2026.1928942

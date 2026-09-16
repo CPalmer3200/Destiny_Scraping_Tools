@@ -24,3 +24,4 @@ Predictive model for increased postoperative drainage volume in patients with pa
 Postoperative complications following mastopexy and reduction mammaplasty in patients with cannabis use disorder: a propensity-matched cohort study.|https://dx.doi.org/10.1016/j.jpra.2026.08.016
 Indications, safety and aesthetic outcomes of autologous conversion after implant-based breast reconstruction failure: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jpra.2026.08.029
 Predictors of Sentinel Lymph Node Metastasis and External Validation of the MSKCC Nomogram in Breast Cancer: A Retrospective Single-Center Cohort Study.|https://dx.doi.org/10.3390/diagnostics16172823
+Impact of Axillary Reverse Mapping on Non-lymphedema Functional Axillary Complications After Axillary Lymph Node Dissection for Breast Cancer.|https://dx.doi.org/10.1016/j.clbc.2026.08.004
