@@ -25,3 +25,7 @@ Nursing Roles in Diabetic Foot Ulcer Prevention, Wound Management, and Digital M
 Healing or Harming? Navigating Resistance and Rationality in Diabetic Foot Ulcer Antibiotic Therapy: A Retrospective Observational Study.|https://dx.doi.org/10.4103/jrpp.jrpp_81_25
 The Chronic Wound Microbiome: Dynamics and Treatment Response.|https://dx.doi.org/10.3390/cells15171553
 First characterization of Staphylococcus felis in diabetic foot osteomyelitis: from intracellular persistence to phage treatment.|https://dx.doi.org/10.1128/spectrum.02340-25
+Letter to the Editor on: "Effect of Topical Application of Antimicrobial Peptide PL-5 (Peceleganan) Spray on Mild to Moderate Infection of Diabetic Foot Ulcers: A Multicenter, Randomized, Double- Blinded, Placebo-Controlled Clinical Trial".|https://dx.doi.org/10.1111/1753-0407.70270
+Marginal Bone in Diabetic Foot Osteomyelitis - an important part of a bigger puzzle.|https://dx.doi.org/10.1093/cid/ciag570
+A Puzzle is More than One Piece: The Clean Margin in Diabetic Foot Osteomyelitis.|https://dx.doi.org/10.1093/cid/ciag571
+Negative pressure wound therapy versus standard wound care for diabetic foot ulcers: a systematic review and meta-analysis of healing and limb outcomes.|https://dx.doi.org/10.3389/fendo.2026.1850122

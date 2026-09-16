@@ -31,3 +31,6 @@ ECM-Mimetic Silk Fibroin/GelMA Hydrogel Integrating Manganese Dioxide Nanozymes 
 Schiff Base Hydrogel Bio-Adhesive Using Oxidized Chondroitin Sulfate and Polyethylenimine with Antibacterial Properties and Cytocompatibility.|https://dx.doi.org/10.3390/polym18172091
 Nisin Z and cinnamaldehyde co-delivery via fiber-reinforced alginate hydrogels: A synergistic in vitro strategy against infected pressure ulcers.|https://dx.doi.org/10.1016/j.bioadv.2026.215171
 Dual Release of Antibiotics with Additive Effect from Cleavable Hydrogels Based on Amino/Thiol-Yne Click Chemistry.|https://dx.doi.org/10.1021/acs.biomac.6c01230
+Cystine Containing Cationic Amphiphilic Peptide-Based Injectable, Noncytotoxic, Proteolytically Stable Hydrogel with Anti-infective Surface-Coating Activity against Multidrug-Resistant Bacterial and Fungal Biofilms.|https://dx.doi.org/10.1021/acsabm.6c01362
+Development and comparative evaluation of in vitro, ex vivo, and in vivo models for the assessment of broad-spectrum topical antimicrobial efficacy.|https://dx.doi.org/10.1038/s41598-026-68038-z
+Engineering cellulose acetate microneedle coated with zinc-phenolic imidazolium poly(ionic liquids) for atopic dermatitis treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154512

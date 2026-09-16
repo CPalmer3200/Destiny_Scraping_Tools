@@ -7,3 +7,5 @@ The skin as a reservoir for Candidozyma auris: colonization dynamics, host defen
 Synergistic effects of luteolin and Lactobacillus rhamnosus on methicillin-resistant Staphylococcus aureus biofilm inhibition: in vitro and in silico molecular deployment studies.|https://dx.doi.org/10.1007/s12223-026-01592-1
 First Report and Integrated Characterization of Aeromonas veronii Associated with the Protected Fish Diptychus maculatus in Xinjiang, China.|https://dx.doi.org/10.3390/ani16172787
 Diversity, antifungal susceptibility, and biofilm formation of fish-associated yeasts from freshwater and marine fish.|https://dx.doi.org/10.1007/s11259-026-11520-w
+Inhibitory effect and safety of Angelica dahurica-Ligusticum sinense extracts against Malassezia furfur and its biofilms.|https://dx.doi.org/10.1371/journal.pone.0357601
+Mechanistic investigation of UV-irradiated neem oil against microbial biofilms and A431 skin cancer cells via Bax/Bcl2/caspase-3 modulation.|https://dx.doi.org/10.1186/s40643-026-01111-7
