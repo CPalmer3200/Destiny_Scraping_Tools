@@ -89,3 +89,8 @@ Engineering cellulose acetate microneedle coated with zinc-phenolic imidazolium 
 MICROBIOLOGICAL PROFILE OF SURGICAL SITE INFECTIONS FOLLOWING LOWER EXTREMITY AMPUTATION IN PATIENTS WITH TYPE 2 DIABETES MELLITUS: A PROSPECTIVE OBSERVATIONAL STUDY.|https://dx.doi.org/10.1016/j.ijmmb.2026.101289
 Vancomycin-Loaded Mesh Reduces Staphylococcal Infection in a Murine Extensor Mechanism Reconstruction Model.|https://dx.doi.org/10.2106/JBJS.26.00619
 MRSA-related knowledge, attitudes, and practices among clinical dental students: a cross-sectional study with implications for infection prevention and control education and training.|https://dx.doi.org/10.3389/froh.2026.1928942
+Surgical site infections in pediatric orthopedic surgery.|https://dx.doi.org/10.1016/j.otsr.2026.104878
+Microbiology Trends among Postcesarean Surgical Site Infections at a Large Public Hospital.|https://dx.doi.org/10.1055/a-2952-2152
+Stepwise surface engineering of polypropylene mesh with metal-phenolic-polysaccharide synergistically promoting abdominal wall repair.|https://dx.doi.org/10.1016/j.bioadv.2026.215181
+Assessing Demographic Characteristics, Microbiology, and Mortality Outcomes Associated With Vertebral Osteomyelitis: A National Single-Center Cohort Study in Malta.|https://dx.doi.org/10.7759/cureus.114615
+Aeromonas hydrophila Necrotizing Soft-Tissue Infection With Acute-on-Chronic Calcaneal Osteomyelitis Following Freshwater Exposure in a Patient With Poorly Controlled Diabetes Mellitus.|https://dx.doi.org/10.7759/cureus.116193
