@@ -9,3 +9,5 @@ First Report and Integrated Characterization of Aeromonas veronii Associated wit
 Diversity, antifungal susceptibility, and biofilm formation of fish-associated yeasts from freshwater and marine fish.|https://dx.doi.org/10.1007/s11259-026-11520-w
 Inhibitory effect and safety of Angelica dahurica-Ligusticum sinense extracts against Malassezia furfur and its biofilms.|https://dx.doi.org/10.1371/journal.pone.0357601
 Mechanistic investigation of UV-irradiated neem oil against microbial biofilms and A431 skin cancer cells via Bax/Bcl2/caspase-3 modulation.|https://dx.doi.org/10.1186/s40643-026-01111-7
+Probiotic cells-encapsulated electrospun scaffolds accelerate diabetic wound healingviasynergistic anti-infection activity and skin microbiome modulation.|https://dx.doi.org/10.1016/j.colsurfb.2026.116188
+The Skin and Gut Microbiome in Hidradenitis Suppurativa.|https://dx.doi.org/10.1159/drm/ackag018
