@@ -35,3 +35,4 @@ Cystine Containing Cationic Amphiphilic Peptide-Based Injectable, Noncytotoxic, 
 Development and comparative evaluation of in vitro, ex vivo, and in vivo models for the assessment of broad-spectrum topical antimicrobial efficacy.|https://dx.doi.org/10.1038/s41598-026-68038-z
 Engineering cellulose acetate microneedle coated with zinc-phenolic imidazolium poly(ionic liquids) for atopic dermatitis treatment.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154512
 Engineered sodium alginate/poly (propylene glycol) phosphazene composite hydrogels: Toward functional remodeling of infected full-thickness skin defects.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154501
+Chitosan-trimethoprim injectable hydrogel for anti-biofilm and chronic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154545

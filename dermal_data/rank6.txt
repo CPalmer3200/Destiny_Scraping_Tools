@@ -7,3 +7,4 @@ Adverse pregnancy outcomes in women with atopic dermatitis: A systematic review 
 Berberine Inhibits Eczematous Skin S. aureus-Induced Mast Cell/Basophil Activation and Modulates MAPK-Associated Gene Expression.|https://dx.doi.org/10.3390/ijms27177875
 Effectiveness of cold atmospheric plasma on Staphylococcus Aureus colonies on living animal tissue surface.|https://dx.doi.org/10.1371/journal.pone.0349282
 Improvement of refractory impetiginized lesions after dupilumab treatment in children with atopic dermatitis.|https://dx.doi.org/10.1111/pai.70478
+Urban Exposome and Skin Microbiome in Atopic Dermatitis: A Comparative Study Between Two Brazilian Municipalities.|https://dx.doi.org/10.1007/s13555-026-01927-3
