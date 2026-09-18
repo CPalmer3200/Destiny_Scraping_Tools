@@ -26,3 +26,4 @@ Indications, safety and aesthetic outcomes of autologous conversion after implan
 Predictors of Sentinel Lymph Node Metastasis and External Validation of the MSKCC Nomogram in Breast Cancer: A Retrospective Single-Center Cohort Study.|https://dx.doi.org/10.3390/diagnostics16172823
 Impact of Axillary Reverse Mapping on Non-lymphedema Functional Axillary Complications After Axillary Lymph Node Dissection for Breast Cancer.|https://dx.doi.org/10.1016/j.clbc.2026.08.004
 Hypochlorous acid irrigation reduces the rate of infections in patients undergoing implant-based breast reconstruction.|https://dx.doi.org/10.1016/j.jpra.2026.08.035
+Normal and Pathological Incidental Breast Implant Findings on Chest Computed Tomography: What the Radiologist Needs to Know.|https://dx.doi.org/10.1093/jbi/wbag043

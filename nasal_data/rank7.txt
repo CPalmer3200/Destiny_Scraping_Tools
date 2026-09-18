@@ -94,3 +94,10 @@ Microbiology Trends among Postcesarean Surgical Site Infections at a Large Publi
 Stepwise surface engineering of polypropylene mesh with metal-phenolic-polysaccharide synergistically promoting abdominal wall repair.|https://dx.doi.org/10.1016/j.bioadv.2026.215181
 Assessing Demographic Characteristics, Microbiology, and Mortality Outcomes Associated With Vertebral Osteomyelitis: A National Single-Center Cohort Study in Malta.|https://dx.doi.org/10.7759/cureus.114615
 Aeromonas hydrophila Necrotizing Soft-Tissue Infection With Acute-on-Chronic Calcaneal Osteomyelitis Following Freshwater Exposure in a Patient With Poorly Controlled Diabetes Mellitus.|https://dx.doi.org/10.7759/cureus.116193
+A Magneto-Electric Synergistic Bioelectronic Suture for Antibacterial Therapy, Wireless Electrical Stimulation, and Biomechanical Monitoring.|https://dx.doi.org/10.1002/adhm.71739
+Corneal Sequestration and Bilateral Distichiasis in a Binturong (Arctictis binturong).|https://dx.doi.org/10.1111/vop.70267
+Sex differences in surgically treated left-sided infective endocarditis: Results from the international, prospective, multicenter BESOS study.|https://dx.doi.org/10.1016/j.cmi.2026.09.015
+The Staphylococcus aureus serine protease-like protein B is a potent allergen in a murine asthma model.|https://dx.doi.org/10.1016/j.jaci.2026.08.025
+Cutaneous populations of bacteria and yeast as determined by culture and cytology in healthy and diseased guinea pigs.|https://dx.doi.org/10.2460/ajvr.26.03.0137
+Antibiotic-Loaded Porous Titanium Antibacterial Particle Coatings by High-Velocity Embedment into Silicone.|https://dx.doi.org/10.1021/acsbiomaterials.6c00072
+Multifunctional TPU-HAp/HA-TiO(2) membranes for prosthesis osteointegration and prevention of in situ infection.|https://dx.doi.org/10.1016/j.ijpx.2026.100657

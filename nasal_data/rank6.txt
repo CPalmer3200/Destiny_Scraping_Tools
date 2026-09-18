@@ -13,3 +13,4 @@ A prospective pharmacokinetic interaction study between rifampicin and fusidic a
 The characterization of a rhamnosylated triterpenic saponin from Quillaja saponaria Mol. reveals novel adjuvant, antibacterial, antiviral, antifungal and antiproliferative properties.|https://dx.doi.org/10.3389/fphar.2026.1856067
 Standardising outcomes in paediatric bloodstream infection antibiotic trials: a scoping review.|https://dx.doi.org/10.1016/j.cmi.2026.09.005
 Pre-vaccine sentinel antibodies predict blunted vaccine responses.|https://dx.doi.org/10.1016/j.cpblue.2026.100088
+Mechanisms of Mycobacterium tuberculosis disease and the impact of co-infections and post-TB complications.|https://dx.doi.org/10.1183/20734735.0060-2026
