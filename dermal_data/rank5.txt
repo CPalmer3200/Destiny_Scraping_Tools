@@ -14,3 +14,5 @@ The Skin and Gut Microbiome in Hidradenitis Suppurativa.|https://dx.doi.org/10.1
 Molecular characterization of PVL-positive methicillin-resistant Staphylococcus aureus (MRSA) isolates from skin and soft tissue infections in Alexandria, Egypt.|https://dx.doi.org/10.1007/s00203-026-05169-x
 Bridging machine learning and evolutionary optimization of threshold specific dosages of Nisin to suppress MRSA biofilm.|https://dx.doi.org/10.1007/s10482-026-02423-6
 Moisturizer formulations for diabetic foot xerosis: a systematic review and meta-analysis of randomized controlled trials.|https://dx.doi.org/10.3389/fcdhc.2026.1922860
+Integrating a multistage DoE strategy using Plackett-Burman screening and Box-Behnken optimization to develop cefuroxime transfersomal patch for diabetic ulcer biofilm eradication.|https://dx.doi.org/10.1016/j.ijpharm.2026.127412
+Oleum cinnamomi disrupts Cutibacterium acnes adhesion and metabolism by covalently targeting enolase and coenzyme A.|https://dx.doi.org/10.3389/fmicb.2026.1919350
