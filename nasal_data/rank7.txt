@@ -106,3 +106,4 @@ From colonisation to immune evasion: a synthesis of the interaction strategies t
 Bacterial Pathogens Causing Ventilator-Associated Pneumonia in Mechanically Ventilated Children: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.7759/cureus.114735
 Application of metagenomic next-generation sequencing in gastrointestinal infections in children after allogeneic hematopoietic stem cell transplantation.|https://dx.doi.org/10.3389/fcimb.2026.1868295
 Optimizing Infection Risk in Primary Total Knee Arthroplasty: A Narrative Review of Current Concepts, Controversies, and Evidence Gaps.|https://dx.doi.org/10.7759/cureus.114886
+A novel mouse calvarial defect model of osteomyelitis induced by Staphylococcus aureus (ATCC 6538).|https://dx.doi.org/10.1186/s42826-026-00289-3

@@ -15,3 +15,4 @@ Standardising outcomes in paediatric bloodstream infection antibiotic trials: a 
 Pre-vaccine sentinel antibodies predict blunted vaccine responses.|https://dx.doi.org/10.1016/j.cpblue.2026.100088
 Mechanisms of Mycobacterium tuberculosis disease and the impact of co-infections and post-TB complications.|https://dx.doi.org/10.1183/20734735.0060-2026
 Design and synthesis of reagents for generation and characterization of high-affinity antibodies for a Staphylococcus aureus serotype 8 disaccharide.|https://dx.doi.org/10.1016/j.ejcb.2026.151574
+RNase-mediated defence and its association with SCCmec in Staphylococcus aureus.|https://dx.doi.org/10.1038/s41467-026-75971-0
