@@ -38,3 +38,4 @@ Bacterial profile and antimicrobial resistance patterns of infected diabetic foo
 Edinburgh University Solution of Lime (EUSOL) Versus Platelet-Derived Growth Factor Dressing for Wound Contraction in Grade II Wagner Diabetic Foot Ulcers: A Randomized Controlled Trial.|https://dx.doi.org/10.7759/cureus.114872
 Revascularization Gaps in Diabetic Foot Disease in Nigeria: Health-System Constraints and the Need for a National Limb-Salvage Strategy.|https://dx.doi.org/10.71480/nmj.v67i5.1682
 Fungal detection, diagnostic approaches, and antifungal susceptibility in diabetic foot ulcers: a systematic review of recent evidence.|https://dx.doi.org/10.3389/ffunb.2026.1915109
+Antimicrobial and Anti-Inflammatory Co-Loaded Chitosan/Polyvinyl Alcohol Hydrogel for Synergistic Treatment of Diabetic Wounds.|https://dx.doi.org/10.1002/jbm.b.70160
