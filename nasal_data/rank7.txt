@@ -107,3 +107,10 @@ Bacterial Pathogens Causing Ventilator-Associated Pneumonia in Mechanically Vent
 Application of metagenomic next-generation sequencing in gastrointestinal infections in children after allogeneic hematopoietic stem cell transplantation.|https://dx.doi.org/10.3389/fcimb.2026.1868295
 Optimizing Infection Risk in Primary Total Knee Arthroplasty: A Narrative Review of Current Concepts, Controversies, and Evidence Gaps.|https://dx.doi.org/10.7759/cureus.114886
 A novel mouse calvarial defect model of osteomyelitis induced by Staphylococcus aureus (ATCC 6538).|https://dx.doi.org/10.1186/s42826-026-00289-3
+Risk of Infective Endocarditis in Pediatric Staphylococcus aureus Bacteremia.|https://dx.doi.org/10.1097/INF.0000000000005418
+Combatting a Tobramycin-resistant Staphylococcus aureus outbreak in a neonatal intensive care unit: the impact of hygiene intervention and antibiotic substitution.|https://dx.doi.org/10.1186/s12879-026-14481-2
+Epidemiology and Antimicrobial Resistance Trends of Invasive Bacterial Pathogens in The Gambia: A Retrospective analysis, 2019-2024.|https://dx.doi.org/10.1016/j.ijid.2026.109120
+In vitro Biofilm-forming Ability and Antiseptic and Antimicrobial Susceptibility of Bacterial Strains Derived from Surgical-site Infections in Equine Orthopedic Surgery.|https://dx.doi.org/10.1016/j.jevs.2026.106150
+The transcriptional response of Yersinia pseudotuberculosis to macrophage-released metabolites during growth within synthetic microcolonies.|https://dx.doi.org/10.1128/mbio.00691-26
+Selective Expansion of TCR Vβ2(+) Tregs and Impaired Lymphocyte TSST-1 Responsiveness in Bullous Pemphigoid Patients Colonised by Staphylococcus aureus.|https://dx.doi.org/10.1111/exd.70355
+Dual-Targeted Biomimetic MoSe(2) Nanozymes for Enhancing Peri-Implant Soft Tissue Integration.|https://dx.doi.org/10.1002/advs.77771
