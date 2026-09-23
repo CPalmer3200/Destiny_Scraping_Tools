@@ -114,3 +114,8 @@ In vitro Biofilm-forming Ability and Antiseptic and Antimicrobial Susceptibility
 The transcriptional response of Yersinia pseudotuberculosis to macrophage-released metabolites during growth within synthetic microcolonies.|https://dx.doi.org/10.1128/mbio.00691-26
 Selective Expansion of TCR Vβ2(+) Tregs and Impaired Lymphocyte TSST-1 Responsiveness in Bullous Pemphigoid Patients Colonised by Staphylococcus aureus.|https://dx.doi.org/10.1111/exd.70355
 Dual-Targeted Biomimetic MoSe(2) Nanozymes for Enhancing Peri-Implant Soft Tissue Integration.|https://dx.doi.org/10.1002/advs.77771
+Culture-positive left shoulder septic arthritis with suspected contralateral involvement secondary to Staphylococcus aureus bacteraemia.|https://dx.doi.org/10.1136/bcr-2025-271810
+Bioinstructive polymer fibre mats to reduce bacterial pathogen colonisation.|https://dx.doi.org/10.1039/d5lp00220f
+Ocrelizumab Discontinuation After Recurrent Serious Infections in Clinically Stable Primary Progressive Multiple Sclerosis: A Case Report.|https://dx.doi.org/10.7759/cureus.116594
+Osteomyelitis: Epidemiology, Classification, Pathophysiology, Clinical Features, Diagnosis, and Management.|https://dx.doi.org/10.1002/mco2.70981
+The role and management of dietary and environmental factors in pediatric atopic dermatitis.|https://dx.doi.org/10.3389/fped.2026.1862285
