@@ -16,3 +16,4 @@ Bridging machine learning and evolutionary optimization of threshold specific do
 Moisturizer formulations for diabetic foot xerosis: a systematic review and meta-analysis of randomized controlled trials.|https://dx.doi.org/10.3389/fcdhc.2026.1922860
 Integrating a multistage DoE strategy using Plackett-Burman screening and Box-Behnken optimization to develop cefuroxime transfersomal patch for diabetic ulcer biofilm eradication.|https://dx.doi.org/10.1016/j.ijpharm.2026.127412
 Oleum cinnamomi disrupts Cutibacterium acnes adhesion and metabolism by covalently targeting enolase and coenzyme A.|https://dx.doi.org/10.3389/fmicb.2026.1919350
+Nasal Colonization of Antimicrobial-Resistant and Biofilm-Producing Staphylococcus spp. in Surgical Canine Patients From Italy.|https://dx.doi.org/10.1002/vms3.71235

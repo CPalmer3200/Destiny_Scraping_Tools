@@ -6,3 +6,4 @@ Hospitalizations for staphylococcal scalded skin syndrome in Spain (2016-2023): 
 An outbreak of Panton-Valentine leucocidin-producing meticillin-resistant Staphylococcus aureus skin and soft tissue infection associated with bouncy castle use, Ireland, 2025.|https://dx.doi.org/10.2807/1560-7917.ES.2026.31.36.2500975
 Evaluation of in vitro activity of delafloxacin against Staphylococcus aureus MSSA and MRSA isolated from a Brazilian tertiary hospital.|https://dx.doi.org/10.1007/s42770-026-02084-7
 Toxic Shock Syndrome Originating From A Tattoo: A Case Report.|https://dx.doi.org/10.1016/j.jemermed.2026.08.020
+A novel rapid host cell entry pathway determines the intracellular fate of Staphylococcus aureus.|https://dx.doi.org/10.7554/eLife.102810

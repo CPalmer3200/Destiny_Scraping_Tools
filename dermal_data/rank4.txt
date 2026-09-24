@@ -44,3 +44,6 @@ Dopamine-assisted macroporous collagen nanocomposite hydrogel dressing with anti
 Biodegradable free-standing polysaccharide films incorporating sericin and snail secretion filtrate: A multifunctional platform for wound healing and microbial barrier function.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154567
 Sponge-Like Nanofibrous Hydroxyapatite/Zinc Oxide-Integrated Scaffolds for Rapid Hemostasis and Antibacterial Defense in Irregular Wound Management.|https://dx.doi.org/10.1021/acsabm.6c00670
 Development of a Chitosan-Based Wound Dressing from Shrimp Shells Incorporated with Ethanol Extracts of Fruit Peels for Inhibiting Staphylococcus aureus and Staphylococcus epidermidis Infections.|https://dx.doi.org/10.4103/ijpvm.ijpvm_30_25
+Overcoming cytotoxicity of antibiotics by 2-deoxy-d-ribose: A dual-functional antibiotic and angiogenic hydrogel for potential healing of infected wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.215190
+Porphyrin-Based Covalent Organic Framework Hydrogel Integrated with Hyaluronic Acid for Photothermal Antibacterial Wound Healing.|https://dx.doi.org/10.1021/acsami.6c14145
+Orchestrating diabetic wound healing via MoS(2) and Zn(2+) integrated poly(vinyl alcohol)/dextran hydrogels: decoupling the efficacy-biosafety paradox in mild photothermal therapy.|https://dx.doi.org/10.1039/d6tb00971a
