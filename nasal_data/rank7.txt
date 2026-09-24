@@ -119,3 +119,6 @@ Bioinstructive polymer fibre mats to reduce bacterial pathogen colonisation.|htt
 Ocrelizumab Discontinuation After Recurrent Serious Infections in Clinically Stable Primary Progressive Multiple Sclerosis: A Case Report.|https://dx.doi.org/10.7759/cureus.116594
 Osteomyelitis: Epidemiology, Classification, Pathophysiology, Clinical Features, Diagnosis, and Management.|https://dx.doi.org/10.1002/mco2.70981
 The role and management of dietary and environmental factors in pediatric atopic dermatitis.|https://dx.doi.org/10.3389/fped.2026.1862285
+The interface of biofilm and immune system for Gram-negative ESKAPE pathogens.|https://dx.doi.org/10.1128/iai.00374-26
+Psoas and Thigh Abscesses As Rare Complications of Cesarean Delivery: A Case Report.|https://dx.doi.org/10.7759/cureus.115018
+Formulation and Evaluation of a Nigella sativa Oil-Based Emulsion as a Potential Hand Sanitizer Against Methicillin-Susceptible and Methicillin-Resistant Staphylococcus aureus.|https://dx.doi.org/10.2147/IDR.S632120
