@@ -46,3 +46,4 @@ Plasma-activated water: A dual-action disinfectant and wound-healing therapy for
 Risk correlation analysis of serum adiponectin (APN), D-dimer (DD) and the neutrophil - lymphocyte ratio (NLR) with the prognosis of diabetic foot ulcer infection.|https://dx.doi.org/10.5937/jomb0-60169
 Efficacy of hypochlorous acid solution in comparison with povidone iodine solution for the management of infected diabetic foot ulcers.|https://dx.doi.org/10.1016/j.mjafi.2024.11.015
 Comparative screening performance and multicenter validation of novel inflammatory biomarkers (NLR, SII, and CAR) for risk stratification of diabetic foot ulcer in patients with type 2 diabetes mellitus.|https://dx.doi.org/10.3389/fmed.2026.1890603
+Sprayable EGCG-Grafted Alginate Hydrogels Embedded with Platelet Exosomes: Functional Synergy of Immunomodulation and Angiogenesis for Accelerating Burn Wound Healing.|https://dx.doi.org/10.1021/acsami.6c13490

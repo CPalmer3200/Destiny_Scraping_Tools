@@ -17,3 +17,8 @@ Moisturizer formulations for diabetic foot xerosis: a systematic review and meta
 Integrating a multistage DoE strategy using Plackett-Burman screening and Box-Behnken optimization to develop cefuroxime transfersomal patch for diabetic ulcer biofilm eradication.|https://dx.doi.org/10.1016/j.ijpharm.2026.127412
 Oleum cinnamomi disrupts Cutibacterium acnes adhesion and metabolism by covalently targeting enolase and coenzyme A.|https://dx.doi.org/10.3389/fmicb.2026.1919350
 Nasal Colonization of Antimicrobial-Resistant and Biofilm-Producing Staphylococcus spp. in Surgical Canine Patients From Italy.|https://dx.doi.org/10.1002/vms3.71235
+Pathogenesis of hidradenitis suppurativa: From susceptibility to chronicity.|https://dx.doi.org/10.1111/jdv.70765
+[Complicated wound healing : Current therapeutic concepts].|https://dx.doi.org/10.1007/s00104-026-02586-y
+Characterization of Cutibacterium acnes isolated from prosthetic joint infections and healthy skin.|https://dx.doi.org/10.3389/fsurg.2026.1901396
+Hypomineralized Enamel Alters Trigeminal Sensory Afferent Architecture, Transcriptome, and Dental Injury Responses.|https://dx.doi.org/10.64898/2026.09.10.750650
+Host nutrients drive paired-substrate growth and distinct biofilm lifestyles in Finegoldia magna.|https://dx.doi.org/10.64898/2026.09.07.749807

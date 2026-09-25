@@ -47,3 +47,7 @@ Development of a Chitosan-Based Wound Dressing from Shrimp Shells Incorporated w
 Overcoming cytotoxicity of antibiotics by 2-deoxy-d-ribose: A dual-functional antibiotic and angiogenic hydrogel for potential healing of infected wounds.|https://dx.doi.org/10.1016/j.bioadv.2026.215190
 Porphyrin-Based Covalent Organic Framework Hydrogel Integrated with Hyaluronic Acid for Photothermal Antibacterial Wound Healing.|https://dx.doi.org/10.1021/acsami.6c14145
 Orchestrating diabetic wound healing via MoS(2) and Zn(2+) integrated poly(vinyl alcohol)/dextran hydrogels: decoupling the efficacy-biosafety paradox in mild photothermal therapy.|https://dx.doi.org/10.1039/d6tb00971a
+Janus CMC-based hydrogel with multifunctional synergy for hemostasis and wound healing.|https://dx.doi.org/10.1016/j.carbpol.2026.125829
+Curcumin (Ferrocene)-Functionalized Polyurethane Composite Dressing Integrated with Dopamine-Grafted Sodium Alginate: Synergistic ROS Modulation and Durable Tissue Adhesion.|https://dx.doi.org/10.3390/jfb17090473
+Chitosan-based multifunctional hydrogel coatings with dual antibacterial and antioxidant properties are used for preservation and anti-corrosion.|https://dx.doi.org/10.1039/d6ra06088a
+Hydrogel-integrated osteogenic microtissues promote repair of infected intervertebral defects through sequential immunomodulation.|https://dx.doi.org/10.1016/j.mtbio.2026.103657

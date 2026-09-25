@@ -7,3 +7,4 @@ An outbreak of Panton-Valentine leucocidin-producing meticillin-resistant Staphy
 Evaluation of in vitro activity of delafloxacin against Staphylococcus aureus MSSA and MRSA isolated from a Brazilian tertiary hospital.|https://dx.doi.org/10.1007/s42770-026-02084-7
 Toxic Shock Syndrome Originating From A Tattoo: A Case Report.|https://dx.doi.org/10.1016/j.jemermed.2026.08.020
 A novel rapid host cell entry pathway determines the intracellular fate of Staphylococcus aureus.|https://dx.doi.org/10.7554/eLife.102810
+High prevalence and multidrug resistance of Methicillin-resistant Staphylococcus aureus at a provincial referral hospital in Zambia: A 5-year retrospective study.|https://dx.doi.org/10.1371/journal.pgph.0007348
