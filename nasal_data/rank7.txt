@@ -1,2 +1,12 @@
 Decompressive Laminectomy for Neurological Complications of Spondylodiscitis: A Case Series of 15 Patients.|https://dx.doi.org/10.3390/jpm16090440
 Age-Creatinine-Ejection Fraction Score in Infective Endocarditis: Integrated Clinical and Echocardiographic Score for Surgically and Medically Treated Patients.|https://dx.doi.org/10.4103/jcecho.jcecho_181_25
+Clinical Profile and Microbiological Spectrum of Tracheostomized Patients in a Tertiary Care Center: A Prospective Observational Study.|https://dx.doi.org/10.4103/aam.aam_281_26
+Advanced Antibacterial Dressings for Chronic Ulcers: Alginate-Collagen-Cotton Hydrogel Composites Functionalized with Green CuO Nanoparticles.|https://dx.doi.org/10.3390/pharmaceutics18091139
+Influence of Infill Density on Bacterial Colonization and Mechanical Performance of 3D-Printed PETG Scaffolds.|https://dx.doi.org/10.3390/polym18182299
+Characterising the Hospital Microbiota: A Descriptive Study of Environmental Monitoring.|https://dx.doi.org/10.3390/pathogens15090904
+In Vitro Study for Combating Multidrug-Resistant Pathogens via a Facile Sustained Release of Benzoic Acid and Parabens from PMMA/PCL Nanofibrous Membrane.|https://dx.doi.org/10.3390/pathogens15090880
+Antimicrobial Resistance and Stewardship in Surgical Departments: A Three-Year Single-Center Study.|https://dx.doi.org/10.3390/medicina62091756
+Antibiotic Selection for Sustained Local Therapy May Be Important to Reduce Pseudomonas aeruginosa Dominance Against Staphylococcus aureus and Bone Response Modulation in an Ovine Polymicrobial Fracture-Related Infection Model.|https://dx.doi.org/10.3390/microorganisms14092062
+Increase in Healthcare-Associated Infections: Is COVID-19 Responsible? A Narrative Review.|https://dx.doi.org/10.3390/microorganisms14091952
+Species-Dependent Aggregation of Oral Bacteria Under Simulated Microgravity.|https://dx.doi.org/10.3390/life16091402
+Multifunctional Strontium-Substituted Hydroxyapatite/Polydopamine Photothermal Coating for Enhancing Antibacterial Activity and Osteoblast Response of Porous Tantalum Implants.|https://dx.doi.org/10.3390/ma19183879
