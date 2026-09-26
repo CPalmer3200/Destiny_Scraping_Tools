@@ -22,3 +22,11 @@ Pathogenesis of hidradenitis suppurativa: From susceptibility to chronicity.|htt
 Characterization of Cutibacterium acnes isolated from prosthetic joint infections and healthy skin.|https://dx.doi.org/10.3389/fsurg.2026.1901396
 Hypomineralized Enamel Alters Trigeminal Sensory Afferent Architecture, Transcriptome, and Dental Injury Responses.|https://dx.doi.org/10.64898/2026.09.10.750650
 Host nutrients drive paired-substrate growth and distinct biofilm lifestyles in Finegoldia magna.|https://dx.doi.org/10.64898/2026.09.07.749807
+Effects of an Herbal Formulation Ethanolic Extract on Streptococcus pyogenes: Bactericidal Activity, Biofilm Control, and Interactions with Conventional Antibiotics.|https://dx.doi.org/10.3390/pathogens15090985
+Beyond Early Excision and Grafting: A Perspective on Tissue-Preserving and Regenerative Topical Burn Wound Care.|https://dx.doi.org/10.3390/jcm15187033
+Development of Pharmabiotic Gel-Serums with Lacticaseibacillus casei Postbiotics and Paraprobiotics Using Chitosan and Carbopol.|https://dx.doi.org/10.3390/gels12090838
+Anthranilate Reduces Pseudomonas aeruginosa Infection Severity Through an Antibiotic-Independent Anti-Virulence Mechanism.|https://dx.doi.org/10.3390/antibiotics15090898
+Bacteriocins as Alternative Antimicrobial Agents for Wound-Associated Infections: Mechanisms, Activity Against Biofilms and Translational Potential.|https://dx.doi.org/10.3390/antibiotics15090884
+Optimization of a 3D Skin Equivalent Incorporating Melanocytes or Melanoma Cells for In Vitro Melanoma Research.|https://dx.doi.org/10.3390/bioengineering13090980
+233 nm far-UV-C radiation for biofilm inactivation.|https://dx.doi.org/10.1111/php.70153
+Continuous local minocycline delivery from PLA nanosphere-coated dental implants with long-term antibacterial activity and biocompatibility.|https://dx.doi.org/10.1039/d6ra05856f

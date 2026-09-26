@@ -5,3 +5,5 @@ Lignan-rich Norway spruce (Picea abies) resin extract exhibits anti-inflammatory
 Repeated topical exposure to benzo[a]pyrene and systemic immune effects in rats: analysis of splenic responses and macrophage function.|https://dx.doi.org/10.1016/j.toxlet.2026.113199
 Mixed-Culture Fermentation of Coffee Pulp Induces Metabolomic Changes and Enhances Multi-Target Bioactivity Relevant to Androgenetic Alopecia.|https://dx.doi.org/10.3390/ijms27177865
 In Vitro Anti-Aging Properties of a Cetraria islandica Extract: Interest for Skin Care Cosmetics.|https://dx.doi.org/10.3390/molecules31172988
+Dynamic flow-driven in vitro skin model reveals mechanosensitive remodeling pathways.|https://dx.doi.org/10.1007/s13577-026-01459-0
+Molecular Heterogeneity in Clinically Ambiguous Atopic Dermatitis-Psoriasis Overlap: Compartment-Resolved Transcriptomic Profiling.|https://dx.doi.org/10.1111/all.70526

@@ -47,3 +47,12 @@ Risk correlation analysis of serum adiponectin (APN), D-dimer (DD) and the neutr
 Efficacy of hypochlorous acid solution in comparison with povidone iodine solution for the management of infected diabetic foot ulcers.|https://dx.doi.org/10.1016/j.mjafi.2024.11.015
 Comparative screening performance and multicenter validation of novel inflammatory biomarkers (NLR, SII, and CAR) for risk stratification of diabetic foot ulcer in patients with type 2 diabetes mellitus.|https://dx.doi.org/10.3389/fmed.2026.1890603
 Sprayable EGCG-Grafted Alginate Hydrogels Embedded with Platelet Exosomes: Functional Synergy of Immunomodulation and Angiogenesis for Accelerating Burn Wound Healing.|https://dx.doi.org/10.1021/acsami.6c13490
+Drug-Loaded Red Blood Cell-Derived Carriers for Targeted Delivery to Accelerate Tissue Regeneration.|https://dx.doi.org/10.3390/pharmaceutics18091131
+Intralesional Epidermal Growth Factor and Its Association with Reamputation and Level-Up Amputation in Diabetic Foot Patients with Post-Amputation Flap Necrosis: Clinical Outcomes and Macrophage Dynamics.|https://dx.doi.org/10.3390/medicina62091800
+Causes of Bacterial Infections and Antibiotic Resistance Profiles in Patients with Chronic Wounds.|https://dx.doi.org/10.3390/microorganisms14091978
+The Wound-Heart Axis: Can Chronic Wounds Contribute to Cardiac Dysfunction?|https://dx.doi.org/10.3390/ijms27188138
+Antimicrobial Peptides for Diabetic Foot Ulcers and Infections: Current Evidence and Translational Perspectives.|https://dx.doi.org/10.3390/ijms27188035
+Cell-Free Wharton's Jelly-Derived MSC Secretome in a Polymeric Carrier for Refractory Chronic Wounds: Two Cases.|https://dx.doi.org/10.3390/bioengineering13091077
+Diabetic Foot Ulcer-Associated Versus Other Lower-Extremity Necrotising Soft-Tissue Infections: A Retrospective Cohort Study.|https://dx.doi.org/10.1111/iwj.71045
+Prevalence and Microbial Association of Onychomycosis in Patients with Diabetic Foot Ulcers: A Retrospective Observational Study.|https://dx.doi.org/10.7759/cureus.115068
+Synergistic integration of exosomes and natural compounds in 3D-printed bioscaffolds: Revolutionizing diabetic wound healing through multifunctional therapeutic platforms.|https://dx.doi.org/10.22038/ijbms.2026.91665.19786

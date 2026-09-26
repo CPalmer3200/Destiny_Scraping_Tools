@@ -11,3 +11,6 @@ Urban Exposome and Skin Microbiome in Atopic Dermatitis: A Comparative Study Bet
 RNase-mediated defence and its association with SCCmec in Staphylococcus aureus.|https://dx.doi.org/10.1038/s41467-026-75971-0
 The role and management of dietary and environmental factors in pediatric atopic dermatitis.|https://dx.doi.org/10.3389/fped.2026.1862285
 The Gut-Skin Axis in Atopic Dermatitis and Inflammatory Bowel Disease: Mechanisms, Microbiota, and Therapeutic Implications.|https://dx.doi.org/10.3390/jpm16090482
+Advancing Epidermal Barrier Resilience in Atopic Dermatitis with Isosorbide Di-Fatty Acid Esters: From Disruption to Restoration.|https://dx.doi.org/10.3390/biom16091246
+Evaluating the potential of Cajanus cajan (L.) Millsp. Root to improve atopic dermatitis with different anti-inflammatory models and active compounds.|https://dx.doi.org/10.38212/2224-6614.3591
+Microecology-engineered bioactive textile interfaces for durable allergen deactivation and antibacterial function.|https://dx.doi.org/10.1039/d6mh01297c

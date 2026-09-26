@@ -51,3 +51,13 @@ Janus CMC-based hydrogel with multifunctional synergy for hemostasis and wound h
 Curcumin (Ferrocene)-Functionalized Polyurethane Composite Dressing Integrated with Dopamine-Grafted Sodium Alginate: Synergistic ROS Modulation and Durable Tissue Adhesion.|https://dx.doi.org/10.3390/jfb17090473
 Chitosan-based multifunctional hydrogel coatings with dual antibacterial and antioxidant properties are used for preservation and anti-corrosion.|https://dx.doi.org/10.1039/d6ra06088a
 Hydrogel-integrated osteogenic microtissues promote repair of infected intervertebral defects through sequential immunomodulation.|https://dx.doi.org/10.1016/j.mtbio.2026.103657
+Stage-Adaptive Polymeric Platforms: Design of an Alginate/CMC Hydrogel Co-Loaded With Silver Nanoparticles and α-Pinene-Rich Essential Oil for Wound Regeneration.|https://dx.doi.org/10.1002/jbm.b.70157
+Advanced Antibacterial Dressings for Chronic Ulcers: Alginate-Collagen-Cotton Hydrogel Composites Functionalized with Green CuO Nanoparticles.|https://dx.doi.org/10.3390/pharmaceutics18091139
+pH- and Near-Infrared Light Dual-Responsive Hydrogel Microneedles Incorporating Polydopamine-Based Curcumin-Loaded Nanoparticles for Antibacterial and Oxidative Injury Protection.|https://dx.doi.org/10.3390/polym18182269
+In Vitro Study for Combating Multidrug-Resistant Pathogens via a Facile Sustained Release of Benzoic Acid and Parabens from PMMA/PCL Nanofibrous Membrane.|https://dx.doi.org/10.3390/pathogens15090880
+Bacterial Cellulose from Tobacco Waste Extract and Its Silver Composite: A Potential Wound Dressing Material.|https://dx.doi.org/10.3390/molecules31183270
+Injectable Self-Healing Fucoidan-Chitosan Hydrogel Incorporating Polydopamine-Silver-Rutin Nanoparticles for Multifunctional Wound Dressing.|https://dx.doi.org/10.3390/molecules31183235
+Multifunctional Intelligent Hydrogels Based on MnO(2) Nanozymes and Ca(2+) Signal Regulation for Diabetic Wound Repair.|https://dx.doi.org/10.3390/gels12090826
+Study on Berberine/Glycyrrhizic Acid Monoammonium Salt Self-Assembled Hydrogel for Diabetic Wound Healing.|https://dx.doi.org/10.3390/gels12090799
+Jujube Peel Pigment-Loaded Thermosensitive Hydrogel with In Vitro Pro-Apoptotic and Antibacterial Activities.|https://dx.doi.org/10.3390/gels12090788
+Gold-Dispersed Copper Ferrite Magnetic Hydrogel: A Potent Antibacterial Nanozyme Platform.|https://dx.doi.org/10.3390/gels12090760
