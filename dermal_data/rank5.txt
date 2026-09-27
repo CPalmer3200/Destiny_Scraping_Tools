@@ -30,3 +30,5 @@ Bacteriocins as Alternative Antimicrobial Agents for Wound-Associated Infections
 Optimization of a 3D Skin Equivalent Incorporating Melanocytes or Melanoma Cells for In Vitro Melanoma Research.|https://dx.doi.org/10.3390/bioengineering13090980
 233 nm far-UV-C radiation for biofilm inactivation.|https://dx.doi.org/10.1111/php.70153
 Continuous local minocycline delivery from PLA nanosphere-coated dental implants with long-term antibacterial activity and biocompatibility.|https://dx.doi.org/10.1039/d6ra05856f
+Impact of Incremental Antiseptic Selection on Antibiotic Cross-Resistance and Enhanced Biofilm Formation in Escherichia coli and Acinetobacter baumannii: In Vitro.|https://dx.doi.org/10.1155/ijm/5044102
+From acidification to multi-targeted cellular modulation: dual impact of hydroxy acids on the skin microbiota and the epidermal barrier.|https://dx.doi.org/10.3389/fcimb.2026.1918758

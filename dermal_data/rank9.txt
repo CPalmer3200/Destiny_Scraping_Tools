@@ -9,3 +9,4 @@ Toxic Shock Syndrome Originating From A Tattoo: A Case Report.|https://dx.doi.or
 A novel rapid host cell entry pathway determines the intracellular fate of Staphylococcus aureus.|https://dx.doi.org/10.7554/eLife.102810
 High prevalence and multidrug resistance of Methicillin-resistant Staphylococcus aureus at a provincial referral hospital in Zambia: A 5-year retrospective study.|https://dx.doi.org/10.1371/journal.pgph.0007348
 Phenotypic characterization of inducible and constitutive clindamycin resistance in clinical Staphylococcus aureus isolates.|https://dx.doi.org/10.1590/S1678-9946202668061
+Emerging insights into Panton-Valentine leukocidin-producing methicillin-resistant Staphylococcus aureus in Gulf Cooperation Council countries: A scoping review.|https://dx.doi.org/10.5339/qmj.2026.63

@@ -61,3 +61,5 @@ Multifunctional Intelligent Hydrogels Based on MnO(2) Nanozymes and Ca(2+) Signa
 Study on Berberine/Glycyrrhizic Acid Monoammonium Salt Self-Assembled Hydrogel for Diabetic Wound Healing.|https://dx.doi.org/10.3390/gels12090799
 Jujube Peel Pigment-Loaded Thermosensitive Hydrogel with In Vitro Pro-Apoptotic and Antibacterial Activities.|https://dx.doi.org/10.3390/gels12090788
 Gold-Dispersed Copper Ferrite Magnetic Hydrogel: A Potent Antibacterial Nanozyme Platform.|https://dx.doi.org/10.3390/gels12090760
+Electroresponsive hyaluronic acid click hydrogels for combined antibacterial delivery and wound healing applications.|https://dx.doi.org/10.1016/j.matdes.2026.116868
+Development of Antimicrobial Chitosan-Silver and Chitosan-Gold Nanocomposite Films by 3D Printing for Skin Application.|https://dx.doi.org/10.1021/acsomega.6c07342
