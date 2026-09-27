@@ -10,3 +10,4 @@ Antibiotic Selection for Sustained Local Therapy May Be Important to Reduce Pseu
 Increase in Healthcare-Associated Infections: Is COVID-19 Responsible? A Narrative Review.|https://dx.doi.org/10.3390/microorganisms14091952
 Species-Dependent Aggregation of Oral Bacteria Under Simulated Microgravity.|https://dx.doi.org/10.3390/life16091402
 Multifunctional Strontium-Substituted Hydroxyapatite/Polydopamine Photothermal Coating for Enhancing Antibacterial Activity and Osteoblast Response of Porous Tantalum Implants.|https://dx.doi.org/10.3390/ma19183879
+Incidence of Surgical Site Infection After Elective and Emergency Abdominal Surgeries: A Prospective Comparative Study.|https://dx.doi.org/10.7759/cureus.115242
