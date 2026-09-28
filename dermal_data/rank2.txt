@@ -56,3 +56,6 @@ Cell-Free Wharton's Jelly-Derived MSC Secretome in a Polymeric Carrier for Refra
 Diabetic Foot Ulcer-Associated Versus Other Lower-Extremity Necrotising Soft-Tissue Infections: A Retrospective Cohort Study.|https://dx.doi.org/10.1111/iwj.71045
 Prevalence and Microbial Association of Onychomycosis in Patients with Diabetic Foot Ulcers: A Retrospective Observational Study.|https://dx.doi.org/10.7759/cureus.115068
 Synergistic integration of exosomes and natural compounds in 3D-printed bioscaffolds: Revolutionizing diabetic wound healing through multifunctional therapeutic platforms.|https://dx.doi.org/10.22038/ijbms.2026.91665.19786
+The potential of Tanshinone IIA in affecting miR-499-5p/PDCD4 axis in diabetic foot-related endothelial cells.|https://dx.doi.org/10.26444/aaem/217674
+Risk Factors Associated With Multidrug Resistant Organism (MDRO) Isolates in Infected Diabetic Foot Ulcers (DFU): An Analytical Cross-sectional Study.|https://dx.doi.org/10.15605/jafes.041.02.6303
+Clinical, etiological, and microbiological differences between foot and non-foot osteomyelitis.|https://dx.doi.org/10.1007/s00402-026-06486-y

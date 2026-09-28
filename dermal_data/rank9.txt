@@ -10,3 +10,4 @@ A novel rapid host cell entry pathway determines the intracellular fate of Staph
 High prevalence and multidrug resistance of Methicillin-resistant Staphylococcus aureus at a provincial referral hospital in Zambia: A 5-year retrospective study.|https://dx.doi.org/10.1371/journal.pgph.0007348
 Phenotypic characterization of inducible and constitutive clindamycin resistance in clinical Staphylococcus aureus isolates.|https://dx.doi.org/10.1590/S1678-9946202668061
 Emerging insights into Panton-Valentine leukocidin-producing methicillin-resistant Staphylococcus aureus in Gulf Cooperation Council countries: A scoping review.|https://dx.doi.org/10.5339/qmj.2026.63
+Epidemiology and vancomycin susceptibility pattern of methicillin resistant coagulase negative Staphylococcal (CoNS) isolates from skin swabs of the surgical patients in the National Hospital of Sri Lanka.|https://dx.doi.org/10.4038/cmj.v68i3.9870
