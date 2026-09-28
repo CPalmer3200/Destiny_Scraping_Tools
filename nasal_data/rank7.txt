@@ -11,3 +11,8 @@ Increase in Healthcare-Associated Infections: Is COVID-19 Responsible? A Narrati
 Species-Dependent Aggregation of Oral Bacteria Under Simulated Microgravity.|https://dx.doi.org/10.3390/life16091402
 Multifunctional Strontium-Substituted Hydroxyapatite/Polydopamine Photothermal Coating for Enhancing Antibacterial Activity and Osteoblast Response of Porous Tantalum Implants.|https://dx.doi.org/10.3390/ma19183879
 Incidence of Surgical Site Infection After Elective and Emergency Abdominal Surgeries: A Prospective Comparative Study.|https://dx.doi.org/10.7759/cureus.115242
+Risk Factors Associated With Multidrug Resistant Organism (MDRO) Isolates in Infected Diabetic Foot Ulcers (DFU): An Analytical Cross-sectional Study.|https://dx.doi.org/10.15605/jafes.041.02.6303
+Radiologic Sequelae of Pediatric Septic Arthritis of the Shoulder: A Retrospective Series and Proposed Classification.|https://dx.doi.org/10.1097/BPO.0000000000003483
+Clinical, etiological, and microbiological differences between foot and non-foot osteomyelitis.|https://dx.doi.org/10.1007/s00402-026-06486-y
+Epidemiology and vancomycin susceptibility pattern of methicillin resistant coagulase negative Staphylococcal (CoNS) isolates from skin swabs of the surgical patients in the National Hospital of Sri Lanka.|https://dx.doi.org/10.4038/cmj.v68i3.9870
+Smartphone-Guided Visible Light Modulation of RSNOs for Antimicrobial Activity via Controlled Nitric Oxide Release.|https://dx.doi.org/10.1002/advs.77846
