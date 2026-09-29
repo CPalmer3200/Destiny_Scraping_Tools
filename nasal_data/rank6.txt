@@ -2,3 +2,4 @@ An intranasal bivalent vaccine induces antigen-specific humoral and Th1/Th17 cel
 Blood Culture Positivity, Microbiological Spectrum, and Inflammatory Correlates in Patients Hospitalized with SARS-CoV-2 Infection During the Omicron BA.5 Wave: A Retrospective Cohort Study.|https://dx.doi.org/10.3390/microorganisms14091941
 Healing activity evaluation of a galactomannan gel with Cratylia mollis seed lectin (Cramoll) in mice lesions infected by Staphylococcus aureus.|https://dx.doi.org/10.1590/0001-3765202620250762
 Novel Liposomal Adjuvants Enhance the Immune Response to Recombinant Staphylococcus aureus Antigens in Dairy Heifers.|https://dx.doi.org/10.1155/vmi/7845041
+Live versus killed Listeria monocytogenes immunization differentially programs Hup-specific CD4+ T cell responses with distinct protective outcomes.|https://dx.doi.org/10.1093/jimmun/vkag253

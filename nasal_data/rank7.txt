@@ -16,3 +16,5 @@ Radiologic Sequelae of Pediatric Septic Arthritis of the Shoulder: A Retrospecti
 Clinical, etiological, and microbiological differences between foot and non-foot osteomyelitis.|https://dx.doi.org/10.1007/s00402-026-06486-y
 Epidemiology and vancomycin susceptibility pattern of methicillin resistant coagulase negative Staphylococcal (CoNS) isolates from skin swabs of the surgical patients in the National Hospital of Sri Lanka.|https://dx.doi.org/10.4038/cmj.v68i3.9870
 Smartphone-Guided Visible Light Modulation of RSNOs for Antimicrobial Activity via Controlled Nitric Oxide Release.|https://dx.doi.org/10.1002/advs.77846
+The influence of anti-CD20-directed B cell depletion across different agents on Epstein-Barr virus-specific humoral and cellular immunity in patients with multiple sclerosis.|https://dx.doi.org/10.1186/s12974-026-04062-0
+Microbiological Dynamics Before and After Lung Transplantation: Clinical Interpretation and Prognostic Implications.|https://dx.doi.org/10.1111/ctr.70702

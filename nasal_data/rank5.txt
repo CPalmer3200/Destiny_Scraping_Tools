@@ -8,3 +8,5 @@ Staphylococcus epidermidis: A (Patho)physiological microflora? A retrospective o
 Pure Red Cell Aplasia Following Neoadjuvant Docetaxel/Carboplatin/Trastuzumab (TCbH) in a 45‑Year‑Old Woman With Breast Cancer Successfully Treated With Cyclosporine.|https://dx.doi.org/10.12659/AJCR.952933
 Impact of Body Mass Index on Surgical Outcomes After Delayed Breast Reconstruction.|https://dx.doi.org/10.1002/jso.70397
 Esophagitis Dissecans Superficialis in a Patient With Prior Subtotal Gastrectomy and Roux-en-Y Reconstruction: A Case Report.|https://dx.doi.org/10.7759/cureus.115243
+Immediate implant breast reconstruction with total musculofascial coverage: Outcome of 1,180 consecutive reconstruction from a prospectively maintained database.|https://dx.doi.org/10.1016/j.ejso.2026.112138
+The Impact of a Drain Antisepsis Protocol on Infection in Implant-Based Breast Reconstruction: A Propensity Score Matched Analysis.|https://dx.doi.org/10.1097/PRS.0000000000013476
