@@ -59,3 +59,5 @@ Synergistic integration of exosomes and natural compounds in 3D-printed bioscaff
 The potential of Tanshinone IIA in affecting miR-499-5p/PDCD4 axis in diabetic foot-related endothelial cells.|https://dx.doi.org/10.26444/aaem/217674
 Risk Factors Associated With Multidrug Resistant Organism (MDRO) Isolates in Infected Diabetic Foot Ulcers (DFU): An Analytical Cross-sectional Study.|https://dx.doi.org/10.15605/jafes.041.02.6303
 Clinical, etiological, and microbiological differences between foot and non-foot osteomyelitis.|https://dx.doi.org/10.1007/s00402-026-06486-y
+Pattern and texton-based feature descriptors for Diabetic foot ulcer detection.|https://dx.doi.org/10.1080/17434440.2026.2740306
+A Trans-Atlantic, Expert-Based, Delphi Consensus Document on controversial issues in the management of patients with chronic limb-threatening ischemia.|https://dx.doi.org/10.23736/S0392-9590.26.05593-8

@@ -63,3 +63,4 @@ Jujube Peel Pigment-Loaded Thermosensitive Hydrogel with In Vitro Pro-Apoptotic 
 Gold-Dispersed Copper Ferrite Magnetic Hydrogel: A Potent Antibacterial Nanozyme Platform.|https://dx.doi.org/10.3390/gels12090760
 Electroresponsive hyaluronic acid click hydrogels for combined antibacterial delivery and wound healing applications.|https://dx.doi.org/10.1016/j.matdes.2026.116868
 Development of Antimicrobial Chitosan-Silver and Chitosan-Gold Nanocomposite Films by 3D Printing for Skin Application.|https://dx.doi.org/10.1021/acsomega.6c07342
+A DNA nanostructure-enabled photothermal hydrogel for synergistic antibacterial therapy and infected wound repair.|https://dx.doi.org/10.1039/d6tb01548d
