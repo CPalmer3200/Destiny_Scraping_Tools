@@ -10,3 +10,5 @@ Impact of Body Mass Index on Surgical Outcomes After Delayed Breast Reconstructi
 Esophagitis Dissecans Superficialis in a Patient With Prior Subtotal Gastrectomy and Roux-en-Y Reconstruction: A Case Report.|https://dx.doi.org/10.7759/cureus.115243
 Immediate implant breast reconstruction with total musculofascial coverage: Outcome of 1,180 consecutive reconstruction from a prospectively maintained database.|https://dx.doi.org/10.1016/j.ejso.2026.112138
 The Impact of a Drain Antisepsis Protocol on Infection in Implant-Based Breast Reconstruction: A Propensity Score Matched Analysis.|https://dx.doi.org/10.1097/PRS.0000000000013476
+Subcutaneous and Extravascular Implantable Cardioverter-Defibrillators: A Clinical Framework for Breast Surgery, Pregnancy, Lactation, Radiation Therapy, and Breast Imaging.|https://dx.doi.org/10.1093/europace/euag274
+Case Report: Bilateral visual loss due to endogenous endophthalmitis following total pancreatectomy with duodenectomy and splenectomy.|https://dx.doi.org/10.3389/fsurg.2026.1875699
