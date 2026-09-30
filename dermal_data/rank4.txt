@@ -64,3 +64,5 @@ Gold-Dispersed Copper Ferrite Magnetic Hydrogel: A Potent Antibacterial Nanozyme
 Electroresponsive hyaluronic acid click hydrogels for combined antibacterial delivery and wound healing applications.|https://dx.doi.org/10.1016/j.matdes.2026.116868
 Development of Antimicrobial Chitosan-Silver and Chitosan-Gold Nanocomposite Films by 3D Printing for Skin Application.|https://dx.doi.org/10.1021/acsomega.6c07342
 A DNA nanostructure-enabled photothermal hydrogel for synergistic antibacterial therapy and infected wound repair.|https://dx.doi.org/10.1039/d6tb01548d
+Fermentation-integrated In Situ functionalization of bacterial cellulose with Coptis chinensis and pomegranate peel extracts for antibacterial wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.215204
+Bioactive Zein-Nondigestible Oligosaccharide Nanofibers Enable Rapid Tissue Regeneration and Antibacterial Defense.|https://dx.doi.org/10.1021/acsbiomaterials.6c00314

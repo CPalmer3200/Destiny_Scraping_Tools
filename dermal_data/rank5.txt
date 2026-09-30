@@ -33,3 +33,5 @@ Continuous local minocycline delivery from PLA nanosphere-coated dental implants
 Impact of Incremental Antiseptic Selection on Antibiotic Cross-Resistance and Enhanced Biofilm Formation in Escherichia coli and Acinetobacter baumannii: In Vitro.|https://dx.doi.org/10.1155/ijm/5044102
 From acidification to multi-targeted cellular modulation: dual impact of hydroxy acids on the skin microbiota and the epidermal barrier.|https://dx.doi.org/10.3389/fcimb.2026.1918758
 Environmental and genetic regulation of mannan architecture in Candidozyma auris (formerly Candida auris), a comparison to other related yeast species: A review.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154672
+Healing cascades and infections in wounds monitored using a wearable sensor of gaseous flux.|https://dx.doi.org/10.1073/pnas.2613824123
+A glucose oxidase-powered multi-responsive composite hydrogel with a cascade-amplified antibacterial response for wound dressing.|https://dx.doi.org/10.1039/d6bm01027j

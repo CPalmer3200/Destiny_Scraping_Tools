@@ -61,3 +61,4 @@ Risk Factors Associated With Multidrug Resistant Organism (MDRO) Isolates in Inf
 Clinical, etiological, and microbiological differences between foot and non-foot osteomyelitis.|https://dx.doi.org/10.1007/s00402-026-06486-y
 Pattern and texton-based feature descriptors for Diabetic foot ulcer detection.|https://dx.doi.org/10.1080/17434440.2026.2740306
 A Trans-Atlantic, Expert-Based, Delphi Consensus Document on controversial issues in the management of patients with chronic limb-threatening ischemia.|https://dx.doi.org/10.23736/S0392-9590.26.05593-8
+[Response to Letter] "Association Between the Systemic Inflammatory Response Index and Severe Infection in Patients with Diabetic Foot".|https://dx.doi.org/10.2147/DMSO.S655683
