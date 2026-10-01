@@ -62,3 +62,8 @@ Clinical, etiological, and microbiological differences between foot and non-foot
 Pattern and texton-based feature descriptors for Diabetic foot ulcer detection.|https://dx.doi.org/10.1080/17434440.2026.2740306
 A Trans-Atlantic, Expert-Based, Delphi Consensus Document on controversial issues in the management of patients with chronic limb-threatening ischemia.|https://dx.doi.org/10.23736/S0392-9590.26.05593-8
 [Response to Letter] "Association Between the Systemic Inflammatory Response Index and Severe Infection in Patients with Diabetic Foot".|https://dx.doi.org/10.2147/DMSO.S655683
+Electrospun silk sericin-poly(lactic acid) coaxial nanofiber scaffold for esmolol and ferulic acid co-delivery in expedited diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154686
+[Diabetic Foot Status (DFS): A IWGDF-based classification for the assessment and management of diabetic foot disease in primary care].|https://dx.doi.org/10.1016/j.semerg.2026.102844
+Microbiome-guided prioritization of Corynebacterium striatum in diabetic foot ulcers and preclinical evaluation of tanshinone IIA.|https://dx.doi.org/10.1016/j.phymed.2026.158803
+Clinical Burden of Diabetic Foot Ulcers Among Jordanian Patients with Diabetes: A 11-Year Retrospective Cohort Study.|https://dx.doi.org/10.4103/njcp.njcp_310_26
+Group B Streptococcus-Associated Necrotizing Soft Tissue Infection Following Minor Ankle Trauma: A Case Report.|https://dx.doi.org/10.7759/cureus.115444
