@@ -21,3 +21,7 @@ Microbiological Dynamics Before and After Lung Transplantation: Clinical Interpr
 Contamination of reusable cleaning tools in healthcare settings: a study based on the longitudinal surveillance in Shanghai.|https://dx.doi.org/10.3389/fpubh.2026.1947163
 Prevalence of MRSA Bacteremia and Predictors of In-Hospital Mortality Among Critically Ill Adults in a Tanzanian Intensive Care Unit: A Retrospective Cross-Sectional Study.|https://dx.doi.org/10.1002/hsr2.73309
 RefSeq-corrected transcriptomic and RNA-interaction integration maps medium-associated vancomycin response rewiring in Staphylococcus aureus.|https://dx.doi.org/10.3389/fmicb.2026.1930249
+Antimicrobial efficiency of pH-responsive PAA/PAH-coated and flucloxacillin loaded titanium implants in the Galleria mellonella model.|https://dx.doi.org/10.1007/s13346-026-02221-7
+Antibacterial efficacy of dental floss coated with green synthesised zinc oxide nanoparticles using Calotropis gigantea flower extract: An in vitro study.|https://dx.doi.org/10.4012/dmj.2026-131
+Methicillin-resistant Staphylococcus aureus meningitis following revision microdiscectomy: a case report.|https://dx.doi.org/10.1093/jscr/rjag868
+Trends in Mortality and the Effects of the Coronavirus Disease 2019 Pandemic on Mortality Among Adult Patients With Staphylococcus aureus Bacteremia, 20 US Counties, 2005-2022.|https://dx.doi.org/10.1093/ofid/ofag524
