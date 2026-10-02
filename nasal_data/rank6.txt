@@ -5,3 +5,5 @@ Novel Liposomal Adjuvants Enhance the Immune Response to Recombinant Staphylococ
 Live versus killed Listeria monocytogenes immunization differentially programs Hup-specific CD4+ T cell responses with distinct protective outcomes.|https://dx.doi.org/10.1093/jimmun/vkag253
 Wait times for degenerative lumbar spine consultation and surgery: a repeated cross-sectional analysis of the Canadian Spine Outcomes and Research Network.|https://dx.doi.org/10.1503/cjs.001823
 Single-phase silver nanoparticles from white tea: colloidal quality, mass-specific potency and bacterial envelope permeabilisation.|https://dx.doi.org/10.1039/d6ra08462a
+PEG precipitation for easy ribosome profiling.|https://dx.doi.org/10.1016/j.ymeth.2026.09.006
+Extracellular Vesicle-Mimetic Nanoplatforms for Integrated Vaccination and Targeted Antibiotic Therapy against MRSA Bacteremia: A Wolf in Sheep's Clothing.|https://dx.doi.org/10.34133/bmr.0411

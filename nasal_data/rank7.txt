@@ -25,3 +25,12 @@ Antimicrobial efficiency of pH-responsive PAA/PAH-coated and flucloxacillin load
 Antibacterial efficacy of dental floss coated with green synthesised zinc oxide nanoparticles using Calotropis gigantea flower extract: An in vitro study.|https://dx.doi.org/10.4012/dmj.2026-131
 Methicillin-resistant Staphylococcus aureus meningitis following revision microdiscectomy: a case report.|https://dx.doi.org/10.1093/jscr/rjag868
 Trends in Mortality and the Effects of the Coronavirus Disease 2019 Pandemic on Mortality Among Adult Patients With Staphylococcus aureus Bacteremia, 20 US Counties, 2005-2022.|https://dx.doi.org/10.1093/ofid/ofag524
+Rapid Succession of Multidrug-Resistant Bacteremia and Candidemia in a Patient with Refractory Pemphigus Vulgaris: A Lethal Therapeutic Challenge.|https://dx.doi.org/10.2147/IDR.S634408
+Pathogen-Specific PET Imaging of Pulmonary Infection Using [(18)F]Fluoromannitol.|https://dx.doi.org/10.1021/cbmi.5c00303
+Limited evidence of nosocomial MRSA transmission in a low-prevalence tertiary care center: a five-year genomic epidemiology study.|https://dx.doi.org/10.1016/j.jhin.2026.09.025
+Plant-bergenin derived biofunctionalization of titanium surface with enhanced activity against biomaterial associated pathogen.|https://dx.doi.org/10.1016/j.micpath.2026.108853
+Hospital-Based Surveillance of Antimicrobial Resistance in Southern Brazil: Resistance Profiles and Phenotypic Carbapenemase Screening.|https://dx.doi.org/10.1016/j.ijmmb.2026.101309
+Antibacterial sterilization performance of fluorosiloxane acrylate enhanced by magnetic field-assisted plasma.|https://dx.doi.org/10.1016/j.colsurfb.2026.116218
+A 3D-Printed nano-silver antibacterial membrane for local antibacterial protection of PTFE vascular grafts.|https://dx.doi.org/10.1177/22808000261495426
+Beyond Staphylococcus aureus: emerging Gram-negative isolates in pediatric impetigo in Southern Vietnam.|https://dx.doi.org/10.4081/dr.2026.10931
+HIV-1 interactions with sialic acid-binding bacterial lectins promote virus infectivity in vitro and mucosal transmission in humanized mice.|https://dx.doi.org/10.3389/fcimb.2026.1879791
