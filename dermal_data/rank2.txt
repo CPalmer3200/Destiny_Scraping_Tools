@@ -1,0 +1,4 @@
+Integrative transcriptomic and machine learning analysis identifies candidate biomarkers and immune features in diabetic ulcers.|https://dx.doi.org/10.1007/s11033-026-12862-z
+Eight-month functional and scar outcomes following conservative management of an extensive diabetic foot soft-tissue defect using high-purity type I collagen matrix and negative pressure wound therapy: a case report.|https://dx.doi.org/10.1093/jscr/rjag867
+Infection risk following total shoulder arthroplasty in patients with diabetic foot ulcers.|https://dx.doi.org/10.1177/17585732261493522
+The impact of statin therapy on amputation risk in patients with diabetic foot infection: a retrospective cohort study from Jordan.|https://dx.doi.org/10.3389/fendo.2026.1922755
