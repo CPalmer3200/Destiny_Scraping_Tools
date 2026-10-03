@@ -1,2 +1,5 @@
 Structure-Biofunction Relationships in Nanoparticle-Reinforced PVA/Alginate Hydrogels for Infection-Controlled Tissue-Contact Applications.|https://dx.doi.org/10.1021/acsomega.6c02968
 Bioactive chitosan dressings functionalized with indole alkaloids suppress biofilm development and virulence traits in bacterial species relevant to wound infections.|https://dx.doi.org/10.1093/jambio/lxag246
+The Essential Role of Topical Targeted Therapy in Atopic Dermatitis.|https://dx.doi.org/10.36849/JDD.10052
+Dual-Supramolecularly Reinforced Quaternary Ammonium Hydrogel for Contact-Active Infected Wound Repair.|https://dx.doi.org/10.1021/acsabm.6c01592
+Rare Earth-Silver Synergistic Strategy: Preparation of a Potential Antibacterial Material for Wound Related Applications.|https://dx.doi.org/10.1021/acsomega.6c07181
