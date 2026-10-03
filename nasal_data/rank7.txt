@@ -34,3 +34,6 @@ Antibacterial sterilization performance of fluorosiloxane acrylate enhanced by m
 A 3D-Printed nano-silver antibacterial membrane for local antibacterial protection of PTFE vascular grafts.|https://dx.doi.org/10.1177/22808000261495426
 Beyond Staphylococcus aureus: emerging Gram-negative isolates in pediatric impetigo in Southern Vietnam.|https://dx.doi.org/10.4081/dr.2026.10931
 HIV-1 interactions with sialic acid-binding bacterial lectins promote virus infectivity in vitro and mucosal transmission in humanized mice.|https://dx.doi.org/10.3389/fcimb.2026.1879791
+The Essential Role of Topical Targeted Therapy in Atopic Dermatitis.|https://dx.doi.org/10.36849/JDD.10052
+Ocular infections and stewardship practices for Ophthalmologists: The RED EYE AMSP model.|https://dx.doi.org/10.4103/IJO.IJO_260_26
+Microbial Contamination of Radiology Equipment: A Descriptive Study in Ghana.|https://dx.doi.org/10.1002/hsr2.73326
