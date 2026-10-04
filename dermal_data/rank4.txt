@@ -3,3 +3,6 @@ Bioactive chitosan dressings functionalized with indole alkaloids suppress biofi
 The Essential Role of Topical Targeted Therapy in Atopic Dermatitis.|https://dx.doi.org/10.36849/JDD.10052
 Dual-Supramolecularly Reinforced Quaternary Ammonium Hydrogel for Contact-Active Infected Wound Repair.|https://dx.doi.org/10.1021/acsabm.6c01592
 Rare Earth-Silver Synergistic Strategy: Preparation of a Potential Antibacterial Material for Wound Related Applications.|https://dx.doi.org/10.1021/acsomega.6c07181
+Dual pH/glucose-responsive berberine-loaded bioactive glass/carboxymethyl chitosan hydrogel for promoting diabetic wound healing.|https://dx.doi.org/10.1080/09205063.2026.2741657
+Cur-EGCG-Fe coordination nanoparticle-functionalized gelatin hydrogel biointerfaces for antibacterial and inflammatory microenvironment-regulatory wound repair.|https://dx.doi.org/10.1016/j.colsurfb.2026.116227
+Engineering sustainable and bioactive 3D-printed cellulose nanofiber scaffolds from kraft pulps with varying lignin levels.|https://dx.doi.org/10.1016/j.bioadv.2026.215222
