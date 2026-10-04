@@ -2,3 +2,4 @@ Nasal Carriage Rate and Antimicrobial Susceptibility Profile of Staphylococcus a
 Impact of prolonged co-trimoxazole prophylaxis on colonisation with antibiotic resistant bacteria in persons newly diagnosed with HIV-infection: CoTrimResist - a randomised placebo-controlled trial.|https://dx.doi.org/10.1016/j.ijid.2026.109150
 Impact of Nasal Staphylococcus aureus Carriage on Ventilator-Associated Pneumonia after Acute Brain Injury.|https://dx.doi.org/10.1016/j.accpm.2026.101923
 Comparative effects of saline, streptomycin, and ozone nasal irrigation on Staphylococcus aureus-induced experimental rhinosinusitis: microbiological, histopathological, and biofilm analyses.|https://dx.doi.org/10.1016/j.bjorl.2026.101916
+Acinetobacter baumannii Nosocomial Meningitis Secondary to Neurosurgical Intervention: A Case Report.|https://dx.doi.org/10.7759/cureus.115707
