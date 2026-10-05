@@ -15,3 +15,4 @@ Case Report: Bilateral visual loss due to endogenous endophthalmitis following t
 Prepectoral Implant for Immediate Breast Reconstruction after Mastectomy: A Review Article.|https://dx.doi.org/10.1007/s13193-025-02512-4
 Case Report: Triple-negative metaplastic breast carcinoma with primary resistance to neoadjuvant chemoimmunotherapy, refractory tumor necrosis-related fever, and rapid postoperative disease progression.|https://dx.doi.org/10.3389/fonc.2026.1943838
 Case Report: Metachronous bilateral primary and secondary angiosarcoma of the breast.|https://dx.doi.org/10.3389/fonc.2026.1883637
+Impact of premastectomy versus postmastectomy radiotherapy on postoperative complications in breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jpra.2026.09.012
