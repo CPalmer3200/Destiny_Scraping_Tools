@@ -16,3 +16,5 @@ Prepectoral Implant for Immediate Breast Reconstruction after Mastectomy: A Revi
 Case Report: Triple-negative metaplastic breast carcinoma with primary resistance to neoadjuvant chemoimmunotherapy, refractory tumor necrosis-related fever, and rapid postoperative disease progression.|https://dx.doi.org/10.3389/fonc.2026.1943838
 Case Report: Metachronous bilateral primary and secondary angiosarcoma of the breast.|https://dx.doi.org/10.3389/fonc.2026.1883637
 Impact of premastectomy versus postmastectomy radiotherapy on postoperative complications in breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jpra.2026.09.012
+Automated mRNA-Based Detection of ER, PR, HER2, and Ki-67 in Breast Cancer Tissue and Cytology Samples in Resource-Limited Settings.|https://dx.doi.org/10.1002/cam4.72359
+Gastrin and cholecystokinin 2 receptor, and gastrin-releasing peptide receptor in cancer: From pathogenesis to precision medicine.|https://dx.doi.org/10.1016/j.biopha.2026.119972

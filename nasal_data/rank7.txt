@@ -42,3 +42,4 @@ Challenge of antimicrobial-resistant organisms in neonatal intensive care units:
 Hybrid membrane-coated motors for atopic dermatitis therapy via pruritus relief and ILC2 suppression.|https://dx.doi.org/10.1016/j.jconrel.2026.115424
 Cur-EGCG-Fe coordination nanoparticle-functionalized gelatin hydrogel biointerfaces for antibacterial and inflammatory microenvironment-regulatory wound repair.|https://dx.doi.org/10.1016/j.colsurfb.2026.116227
 Preventive effect of intraoperative antiseptic irrigation on surgical site infections after deep brain stimulation: a retrospective cohort study.|https://dx.doi.org/10.3389/fneur.2026.1883788
+A H(2)S-releasing oridonin derivative improves diabetic wound healing based on antibacterial activity and regulation of macrophage phagocytosis.|https://dx.doi.org/10.1016/j.intimp.2026.117512
