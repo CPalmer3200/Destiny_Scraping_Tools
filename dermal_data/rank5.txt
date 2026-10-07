@@ -3,3 +3,6 @@ An attempt to identify the anti-biofilm aptitude of Barleria lupulina Lindl. Lea
 Collagen-mediated biofilm formation and fibrillar organization in Staphylococcus epidermidis.|https://dx.doi.org/10.1080/08927014.2026.2740722
 Antifungal activity of Anacardium occidentale against clinical strains of Sporothrix brasiliensis.|https://dx.doi.org/10.1080/17460913.2026.2740992
 Copper nanowire network as a breathable anti-biofouling layer on gas-permeable membranes for long-term electrochemical dissolved oxygen monitoring.|https://dx.doi.org/10.1016/j.bios.2026.119294
+Isodon rosthornii accelerates wound healing via dual antimicrobial activity and NF-κB/MAPK suppression.|https://dx.doi.org/10.1016/j.jep.2026.122452
+Synthesis of indole-derived heterocycles with antibacterial and antibiofilm activity against methicillin-resistant Staphylococcus aureus: Biological evaluation, and computational investigations.|https://dx.doi.org/10.1016/j.bioorg.2026.110626
+SmartVax-Bp: An Immunoinformatic guided Multi-Epitope Vaccine Blueprint Against Burkholderia pseudomallei.|https://dx.doi.org/10.1007/s12602-026-11241-1
