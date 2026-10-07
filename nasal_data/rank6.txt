@@ -7,3 +7,4 @@ Wait times for degenerative lumbar spine consultation and surgery: a repeated cr
 Single-phase silver nanoparticles from white tea: colloidal quality, mass-specific potency and bacterial envelope permeabilisation.|https://dx.doi.org/10.1039/d6ra08462a
 PEG precipitation for easy ribosome profiling.|https://dx.doi.org/10.1016/j.ymeth.2026.09.006
 Extracellular Vesicle-Mimetic Nanoplatforms for Integrated Vaccination and Targeted Antibiotic Therapy against MRSA Bacteremia: A Wolf in Sheep's Clothing.|https://dx.doi.org/10.34133/bmr.0411
+Quantitative and genomic epidemiology of Staphylococcus aureus in retail foods: insights into foodborne risk and clinically relevant lineages.|https://dx.doi.org/10.1016/j.ijfoodmicro.2026.112097

@@ -43,3 +43,9 @@ Hybrid membrane-coated motors for atopic dermatitis therapy via pruritus relief 
 Cur-EGCG-Fe coordination nanoparticle-functionalized gelatin hydrogel biointerfaces for antibacterial and inflammatory microenvironment-regulatory wound repair.|https://dx.doi.org/10.1016/j.colsurfb.2026.116227
 Preventive effect of intraoperative antiseptic irrigation on surgical site infections after deep brain stimulation: a retrospective cohort study.|https://dx.doi.org/10.3389/fneur.2026.1883788
 A H(2)S-releasing oridonin derivative improves diabetic wound healing based on antibacterial activity and regulation of macrophage phagocytosis.|https://dx.doi.org/10.1016/j.intimp.2026.117512
+Vanishing Bronchus Syndrome After Lung Transplantation: Clinical Characteristics, Airway Colonization, and Stent Outcomes.|https://dx.doi.org/10.1111/ctr.70707
+Magnesium oxide-containing radiopaque polyurethane for infection-resistant catheter applications.|https://dx.doi.org/10.1016/j.bioadv.2026.215207
+Capsulectomy at Explant: Rethinking Spinal Cord Stimulator Infected Generator Pocket Management in the Immunocompromised-A Case Series.|https://dx.doi.org/10.1111/papr.70212
+Genomic prediction of antimicrobial resistance in priority healthcare pathogens using Staramr.|https://dx.doi.org/10.1128/spectrum.01652-26
+Multifunctional chito-oligosaccharide-and deferoxamine-modified GelMA-OHA hydrogel dressing with antibacterial, antioxidant, and pro-angiogenic activities for infected wound healing.|https://dx.doi.org/10.1039/d6ra02045c
+Staphylococcus aureus in bovine intramammary infections: A global systematic review and meta-analysis of prevalence and antimicrobial resistance patterns.|https://dx.doi.org/10.1016/j.nmni.2026.101860
