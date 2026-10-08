@@ -12,3 +12,6 @@ Disorder-Engineered Thermoelectric Cu(2)Se/SnSe(2) Heterojunctions Embedded in G
 Dual-crosslinked self-healing antimicrobial hydrogels with macrophage modulatory activity for accelerated diabetic wound healing.|https://dx.doi.org/10.1016/j.ejpb.2026.115257
 Dual-Responsive Bidirectional Actuator for Biofilm Disruption on Medical Surfaces.|https://dx.doi.org/10.1002/adhm.71804
 Multifunctional chito-oligosaccharide-and deferoxamine-modified GelMA-OHA hydrogel dressing with antibacterial, antioxidant, and pro-angiogenic activities for infected wound healing.|https://dx.doi.org/10.1039/d6ra02045c
+A glucose-responsive hydrogel delivering gallium-luteolin nanocomplexes for infected diabetic wound repair via antibacterial and oxidative-inflammatory regulation.|https://dx.doi.org/10.1016/j.bioadv.2026.215228
+Exosome-loaded hydrogel promotes tissue repair in Staphylococcus aureus-infected cutaneous wounds: Histological and immunohistochemical evidence of enhanced regeneration.|https://dx.doi.org/10.1016/j.tice.2026.104012
+Synergistic Effect of Anti-Infection, Anti-Inflammatory and Pro-Angiogenic for Novel Nanozyme-Reinforced Supramolecular Hydrogel in Diabetic Wound Healing.|https://dx.doi.org/10.1002/smll.76086
