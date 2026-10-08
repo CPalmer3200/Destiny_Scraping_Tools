@@ -18,3 +18,5 @@ Case Report: Metachronous bilateral primary and secondary angiosarcoma of the br
 Impact of premastectomy versus postmastectomy radiotherapy on postoperative complications in breast reconstruction: A systematic review and meta-analysis.|https://dx.doi.org/10.1016/j.jpra.2026.09.012
 Automated mRNA-Based Detection of ER, PR, HER2, and Ki-67 in Breast Cancer Tissue and Cytology Samples in Resource-Limited Settings.|https://dx.doi.org/10.1002/cam4.72359
 Gastrin and cholecystokinin 2 receptor, and gastrin-releasing peptide receptor in cancer: From pathogenesis to precision medicine.|https://dx.doi.org/10.1016/j.biopha.2026.119972
+Effectiveness of Closed-Incision Negative Pressure Wound Therapy in Non-Autologous Breast Surgery: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/PRS.0000000000013481
+Role of Topical Nitroglycerin in Prevention and Management of Post-mastectomy Skin Flap Necrosis: A Prospective Randomized Controlled Study.|https://dx.doi.org/10.7759/cureus.115838
