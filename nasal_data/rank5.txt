@@ -20,3 +20,4 @@ Automated mRNA-Based Detection of ER, PR, HER2, and Ki-67 in Breast Cancer Tissu
 Gastrin and cholecystokinin 2 receptor, and gastrin-releasing peptide receptor in cancer: From pathogenesis to precision medicine.|https://dx.doi.org/10.1016/j.biopha.2026.119972
 Effectiveness of Closed-Incision Negative Pressure Wound Therapy in Non-Autologous Breast Surgery: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1097/PRS.0000000000013481
 Role of Topical Nitroglycerin in Prevention and Management of Post-mastectomy Skin Flap Necrosis: A Prospective Randomized Controlled Study.|https://dx.doi.org/10.7759/cureus.115838
+Complications following Breast Augmentation using Injectable Fillers in Kuwait.|https://dx.doi.org/10.1159/mpp/adpag032

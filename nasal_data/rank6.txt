@@ -9,3 +9,5 @@ PEG precipitation for easy ribosome profiling.|https://dx.doi.org/10.1016/j.ymet
 Extracellular Vesicle-Mimetic Nanoplatforms for Integrated Vaccination and Targeted Antibiotic Therapy against MRSA Bacteremia: A Wolf in Sheep's Clothing.|https://dx.doi.org/10.34133/bmr.0411
 Quantitative and genomic epidemiology of Staphylococcus aureus in retail foods: insights into foodborne risk and clinically relevant lineages.|https://dx.doi.org/10.1016/j.ijfoodmicro.2026.112097
 Storytelling in Medical Terminology: The Myths, Tales, and Pop Legends of Otolaryngology.|https://dx.doi.org/10.1002/lary.70979
+Antibiotic-loaded microparticles for topical treatment of wounds: A scoping review.|https://dx.doi.org/10.1016/j.xphs.2026.104538
+Localized microenvironment-modulating AgQ@GSC hydrogel microneedles for transdermal acne therapy.|https://dx.doi.org/10.1016/j.colsurfb.2026.116204

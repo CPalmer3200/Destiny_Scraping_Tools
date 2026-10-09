@@ -52,3 +52,6 @@ Staphylococcus aureus in bovine intramammary infections: A global systematic rev
 Outcomes of Staphylococcus aureus Keratitis: A Retrospective Comparison of Methicillin-Resistant and Methicillin-Susceptible Isolates.|https://dx.doi.org/10.1097/ICO.0000000000004332
 Adjunctive intraoperative pulsed direct current with cefazolin: a rabbit proof-of-concept model for prevention of prosthetic joint infection.|https://dx.doi.org/10.3389/fcimb.2026.1927135
 Anti-inflammatory effect of a Bacillus halotolerans DY299 strain isolated from Arshan on methicillin-resistant Staphylococcus aureus-induced atopic dermatitis in mouse.|https://dx.doi.org/10.3389/fmicb.2026.1929286
+Functional outcomes, complications, and survival after endoprosthetic reconstruction for extremity tumours: A large regional cohort analysis from southeast asia.|https://dx.doi.org/10.1177/10225536261496572
+A multi-matrix workflow for isolation, characterization, and biobanking of antimicrobial- resistant bacteria from One Health surveillance samples.|https://dx.doi.org/10.3389/fmicb.2026.1855350
+Longitudinal microneedle sampling resolves tissue-restricted immune-microbiome dynamics in skin.|https://dx.doi.org/10.64898/2026.04.24.26351513
