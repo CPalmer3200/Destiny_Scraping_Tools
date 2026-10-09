@@ -15,3 +15,5 @@ Multifunctional chito-oligosaccharide-and deferoxamine-modified GelMA-OHA hydrog
 A glucose-responsive hydrogel delivering gallium-luteolin nanocomplexes for infected diabetic wound repair via antibacterial and oxidative-inflammatory regulation.|https://dx.doi.org/10.1016/j.bioadv.2026.215228
 Exosome-loaded hydrogel promotes tissue repair in Staphylococcus aureus-infected cutaneous wounds: Histological and immunohistochemical evidence of enhanced regeneration.|https://dx.doi.org/10.1016/j.tice.2026.104012
 Synergistic Effect of Anti-Infection, Anti-Inflammatory and Pro-Angiogenic for Novel Nanozyme-Reinforced Supramolecular Hydrogel in Diabetic Wound Healing.|https://dx.doi.org/10.1002/smll.76086
+Localized microenvironment-modulating AgQ@GSC hydrogel microneedles for transdermal acne therapy.|https://dx.doi.org/10.1016/j.colsurfb.2026.116204
+Ethanol-assisted assembly of hierarchically structured PVA/TA hydrogels for enhanced hemostasis and antibacterial activity.|https://dx.doi.org/10.1039/d6tb01470d
