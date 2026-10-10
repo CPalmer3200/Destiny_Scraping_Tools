@@ -55,3 +55,6 @@ Anti-inflammatory effect of a Bacillus halotolerans DY299 strain isolated from A
 Functional outcomes, complications, and survival after endoprosthetic reconstruction for extremity tumours: A large regional cohort analysis from southeast asia.|https://dx.doi.org/10.1177/10225536261496572
 A multi-matrix workflow for isolation, characterization, and biobanking of antimicrobial- resistant bacteria from One Health surveillance samples.|https://dx.doi.org/10.3389/fmicb.2026.1855350
 Longitudinal microneedle sampling resolves tissue-restricted immune-microbiome dynamics in skin.|https://dx.doi.org/10.64898/2026.04.24.26351513
+Associated factors and a prognostic model for 28-day mortality in Staphylococcus aureus bloodstream infection: A retrospective cohort study.|https://dx.doi.org/10.1097/MD.0000000000050969
+Axillary microaxial flow pump support for stepwise source control and bridge to durable left ventricular assist device therapy in cardiac device-related infective endocarditis.|https://dx.doi.org/10.1007/s10047-026-01599-y
+Photoactive Polyurethane Nanocomposites with Phloxine B‑Functionalized Poly(diallyldimethylammonium)-Saponite for Staphylococcus aureus Biofilm Inactivation.|https://dx.doi.org/10.1021/acsomega.6c07872
