@@ -9,3 +9,5 @@ SmartVax-Bp: An Immunoinformatic guided Multi-Epitope Vaccine Blueprint Against 
 Peptide-Reduced Platinum-Based Nanozymes for Wound Treatment of Methicillin-Resistant Staphylococcus aureus Infection.|https://dx.doi.org/10.1021/acsami.6c12265
 Skin microbiome mirrors habitat divergence in amphibious combtooth blenny fish (Teleostei, Blenniidae).|https://dx.doi.org/10.1093/femsle/fnag123
 Anti-inflammatory effect of a Bacillus halotolerans DY299 strain isolated from Arshan on methicillin-resistant Staphylococcus aureus-induced atopic dermatitis in mouse.|https://dx.doi.org/10.3389/fmicb.2026.1929286
+Harnessing chirality for enhanced stability: An all-D protease resistant antimicrobial peptide active against drug-resistant skin bacteria.|https://dx.doi.org/10.1016/j.ejmech.2026.119346
+From Bruising to Blindness: A Practical Guide to Identifying and Managing Hyaluronic Acid Filler Complications.|https://dx.doi.org/10.1097/DSS.0000000000005380

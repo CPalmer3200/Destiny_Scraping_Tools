@@ -17,3 +17,5 @@ Hyaluronic acid-based tissue-engineered biomaterials for infected diabetic foot 
 Characteristics of multidrug-resistant bacteria infection and analysis of risk factors in diabetic foot complicated with osteomyelitis.|https://dx.doi.org/10.1016/j.jtv.2026.101068
 Case collection on antimicrobial stewardship and the role of microbial-binding dressings in diabetes-related foot ulcers.|https://dx.doi.org/10.12968/jowc.2026.0349
 Gulf regional guidelines for managing diabetic foot ulcers: assessment, treatment and prevention of recurrence.|https://dx.doi.org/10.12968/jowc.2026.0559
+[Correlation between peripheral blood inflammatory markers and Wagner grade as well as IWGDF/IDSA infection grade in patients with diabetic foot infection].|https://dx.doi.org/10.3760/cma.j.cn112137-20260411-00981
+Tirzepatide versus other anti-diabetic agents for the prevention of diabetic foot complications in patients with type 2 diabetes.|https://dx.doi.org/10.3389/fphar.2026.1880132

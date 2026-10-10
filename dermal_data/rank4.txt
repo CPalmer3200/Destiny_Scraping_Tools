@@ -17,3 +17,5 @@ Exosome-loaded hydrogel promotes tissue repair in Staphylococcus aureus-infected
 Synergistic Effect of Anti-Infection, Anti-Inflammatory and Pro-Angiogenic for Novel Nanozyme-Reinforced Supramolecular Hydrogel in Diabetic Wound Healing.|https://dx.doi.org/10.1002/smll.76086
 Localized microenvironment-modulating AgQ@GSC hydrogel microneedles for transdermal acne therapy.|https://dx.doi.org/10.1016/j.colsurfb.2026.116204
 Ethanol-assisted assembly of hierarchically structured PVA/TA hydrogels for enhanced hemostasis and antibacterial activity.|https://dx.doi.org/10.1039/d6tb01470d
+Degradable janus nanofiber dressing with asymmetric wettability for urethral repair and reconstruction.|https://dx.doi.org/10.1016/j.colsurfb.2026.116236
+Construction of CO(2)-responsive wormlike micelles from an aminoglycoside-based pseudo-pentameric surfactant for on-demand antimicrobial release.|https://dx.doi.org/10.1039/d6sm00783j
