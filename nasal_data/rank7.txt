@@ -58,3 +58,9 @@ Longitudinal microneedle sampling resolves tissue-restricted immune-microbiome d
 Associated factors and a prognostic model for 28-day mortality in Staphylococcus aureus bloodstream infection: A retrospective cohort study.|https://dx.doi.org/10.1097/MD.0000000000050969
 Axillary microaxial flow pump support for stepwise source control and bridge to durable left ventricular assist device therapy in cardiac device-related infective endocarditis.|https://dx.doi.org/10.1007/s10047-026-01599-y
 Photoactive Polyurethane Nanocomposites with Phloxine B‑Functionalized Poly(diallyldimethylammonium)-Saponite for Staphylococcus aureus Biofilm Inactivation.|https://dx.doi.org/10.1021/acsomega.6c07872
+Culture-free supernatant of potential probiotic Bacillus albus attenuates the expression of biofilm-associated virulence determinants in Burkholderia thailandensis and Staphylococcus aureus.|https://dx.doi.org/10.1016/j.foodres.2026.120341
+Hernia, mesh, microbes, and phage promise: Mapping 35 years of evidence through a systematic review.|https://dx.doi.org/10.1016/j.jiph.2026.103382
+Prevalence of MRSA and associated factors among wound patients at Werabe Comprehensive Specialized Hospital, Ethiopia.|https://dx.doi.org/10.3855/jidc.21801
+Polydopamine-functionalized silk-based biomaterial for non-antibiotic antimicrobial therapy.|https://dx.doi.org/10.1177/22808000261497115
+Isolated left-lobe metastatic hepatic abscess due to portal pyemia from microperforated ascending colon carcinoma: a rare case report.|https://dx.doi.org/10.1097/RC9.0000000000000971
+Complex surgical management of right-sided infective endocarditis following ventricular septal defect closure with residual shunt and ascending aortic pseudoaneurysm: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000983
