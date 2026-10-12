@@ -20,3 +20,7 @@ Gulf regional guidelines for managing diabetic foot ulcers: assessment, treatmen
 [Correlation between peripheral blood inflammatory markers and Wagner grade as well as IWGDF/IDSA infection grade in patients with diabetic foot infection].|https://dx.doi.org/10.3760/cma.j.cn112137-20260411-00981
 Tirzepatide versus other anti-diabetic agents for the prevention of diabetic foot complications in patients with type 2 diabetes.|https://dx.doi.org/10.3389/fphar.2026.1880132
 Understanding Osteomyelitis in Saudi Arabia's Adult Population: A Nationwide Cross-Sectional Study of Knowledge and Attitudes.|https://dx.doi.org/10.2147/IJGM.S611699
+Serum Galectin-3 in Diabetic Foot Infections: A Case-Control Evaluation of Its Diagnostic and Severity-Grading Utility.|https://dx.doi.org/10.36519/idcm.2026.1132
+Research Progress on Artificial Intelligence in the Management of Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/DMSO.S637013
+Lower Extremity Salvage Through Dextranomer Debridement and Evolution Toward a Functional Pincer in a Diabetic Foot: Experience in Rural Surgery.|https://dx.doi.org/10.7759/cureus.116088
+Predictive Value of Preoperative Inflammatory and Nutritional Indices for Revision Surgery After Major Lower Extremity Amputation in Patients With Wagner Stage 5 Diabetic Foot.|https://dx.doi.org/10.12659/MSM.953681
