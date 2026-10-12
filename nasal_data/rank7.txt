@@ -64,3 +64,4 @@ Prevalence of MRSA and associated factors among wound patients at Werabe Compreh
 Polydopamine-functionalized silk-based biomaterial for non-antibiotic antimicrobial therapy.|https://dx.doi.org/10.1177/22808000261497115
 Isolated left-lobe metastatic hepatic abscess due to portal pyemia from microperforated ascending colon carcinoma: a rare case report.|https://dx.doi.org/10.1097/RC9.0000000000000971
 Complex surgical management of right-sided infective endocarditis following ventricular septal defect closure with residual shunt and ascending aortic pseudoaneurysm: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000983
+Left Atrial Appendage Occlusion Device Infection: A Rare Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.116075

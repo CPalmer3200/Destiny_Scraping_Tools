@@ -11,3 +11,4 @@ Quantitative and genomic epidemiology of Staphylococcus aureus in retail foods: 
 Storytelling in Medical Terminology: The Myths, Tales, and Pop Legends of Otolaryngology.|https://dx.doi.org/10.1002/lary.70979
 Antibiotic-loaded microparticles for topical treatment of wounds: A scoping review.|https://dx.doi.org/10.1016/j.xphs.2026.104538
 Localized microenvironment-modulating AgQ@GSC hydrogel microneedles for transdermal acne therapy.|https://dx.doi.org/10.1016/j.colsurfb.2026.116204
+Albumin Orchestrates Type-I ROS Conversion for Efficient Intracellular Bacterial Clearance.|https://dx.doi.org/10.1002/adma.75340
