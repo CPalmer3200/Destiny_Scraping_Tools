@@ -12,3 +12,4 @@ Anti-inflammatory effect of a Bacillus halotolerans DY299 strain isolated from A
 Harnessing chirality for enhanced stability: An all-D protease resistant antimicrobial peptide active against drug-resistant skin bacteria.|https://dx.doi.org/10.1016/j.ejmech.2026.119346
 From Bruising to Blindness: A Practical Guide to Identifying and Managing Hyaluronic Acid Filler Complications.|https://dx.doi.org/10.1097/DSS.0000000000005380
 Engineering 3D piezoelectric ZnO tetrapod interfaces for on-demand antibacterial skin-contact wearables.|https://dx.doi.org/10.1016/j.colsurfb.2026.116233
+In Vitro evaluation of cell-free supernatants from soil-derived Bacillus sp. for antibiofilm and antioxidant activities.|https://dx.doi.org/10.1007/s11033-026-12843-2

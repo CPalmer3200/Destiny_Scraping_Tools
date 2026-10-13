@@ -24,3 +24,5 @@ Serum Galectin-3 in Diabetic Foot Infections: A Case-Control Evaluation of Its D
 Research Progress on Artificial Intelligence in the Management of Diabetic Foot Ulcers.|https://dx.doi.org/10.2147/DMSO.S637013
 Lower Extremity Salvage Through Dextranomer Debridement and Evolution Toward a Functional Pincer in a Diabetic Foot: Experience in Rural Surgery.|https://dx.doi.org/10.7759/cureus.116088
 Predictive Value of Preoperative Inflammatory and Nutritional Indices for Revision Surgery After Major Lower Extremity Amputation in Patients With Wagner Stage 5 Diabetic Foot.|https://dx.doi.org/10.12659/MSM.953681
+Gait and Plantar Pressure Analysis in Charcot Neuroarthropathy: A Clinic-Based Biomechanical Study.|https://dx.doi.org/10.1002/jfa2.70224
+Texture-aware diffusion modelling for severity-conditioned synthetic progression-like visualization of diabetic foot ulcers from single images.|https://dx.doi.org/10.1371/journal.pone.0359540

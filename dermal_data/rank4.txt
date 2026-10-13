@@ -20,3 +20,5 @@ Ethanol-assisted assembly of hierarchically structured PVA/TA hydrogels for enha
 Degradable janus nanofiber dressing with asymmetric wettability for urethral repair and reconstruction.|https://dx.doi.org/10.1016/j.colsurfb.2026.116236
 Construction of CO(2)-responsive wormlike micelles from an aminoglycoside-based pseudo-pentameric surfactant for on-demand antimicrobial release.|https://dx.doi.org/10.1039/d6sm00783j
 Polydopamine-functionalized silk-based biomaterial for non-antibiotic antimicrobial therapy.|https://dx.doi.org/10.1177/22808000261497115
+Synthesis and Characterization of Poloxamer-embedded Silver Nanoparticles Developed Using Bile Salt and Evaluating Its In-Vitro and In-Vivo Antimicrobial Efficacy Against Periodontal Pathogens.|https://dx.doi.org/10.1016/j.micpath.2026.108874
+Development of biocompatible and antibacterial chitosan polyethylene oxide nanocomposite films reinforced with zinc oxide graphene oxide for wound dressing applications.|https://dx.doi.org/10.1186/s11671-026-05001-x
