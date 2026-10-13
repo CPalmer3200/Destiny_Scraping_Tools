@@ -65,3 +65,5 @@ Polydopamine-functionalized silk-based biomaterial for non-antibiotic antimicrob
 Isolated left-lobe metastatic hepatic abscess due to portal pyemia from microperforated ascending colon carcinoma: a rare case report.|https://dx.doi.org/10.1097/RC9.0000000000000971
 Complex surgical management of right-sided infective endocarditis following ventricular septal defect closure with residual shunt and ascending aortic pseudoaneurysm: a case report.|https://dx.doi.org/10.1097/RC9.0000000000000983
 Left Atrial Appendage Occlusion Device Infection: A Rare Case Report and Literature Review.|https://dx.doi.org/10.7759/cureus.116075
+Effects of sustainable bamboo-derived cellulose nanocrystals on the mechanical performance and antibacterial potential of dental resin composites.|https://dx.doi.org/10.1186/s11671-026-05004-8
+From overcoming to exploiting hypoxia: a metronidazole-armed type I photosensitizer for septic arthritis therapy.|https://dx.doi.org/10.1039/d6tb01368f
