@@ -7,3 +7,4 @@ TGF-β/Smad-Associated Epithelial-Fibroblast Remodeling Underlies Collagen Depos
 spa typing of methicillin-resistant Staphylococcus aureus isolated from dogs in Ilam Province, Iran.|https://dx.doi.org/10.22099/ijvr.2026.51783.7705
 Improving Antibiotic Stewardship Through a Retrospective Study of the Diagnostic Value of Nasal Methicillin-Resistant Staphylococcus aureus Polymerase Chain Reaction for Pneumonia in Intensive Care Unit Settings.|https://dx.doi.org/10.7759/cureus.116050
 Serotype-independent inhibition of S. pneumoniae by SMiTE, a commensal-derived bacteriocin.|https://dx.doi.org/10.1128/mbio.01703-26
+MRSA nasal PCR as a prevalence-dependent stewardship tool in hospitalized children: a structured review.|https://dx.doi.org/10.1080/14737159.2026.2749580
