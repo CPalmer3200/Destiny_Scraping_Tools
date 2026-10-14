@@ -26,3 +26,5 @@ Lower Extremity Salvage Through Dextranomer Debridement and Evolution Toward a F
 Predictive Value of Preoperative Inflammatory and Nutritional Indices for Revision Surgery After Major Lower Extremity Amputation in Patients With Wagner Stage 5 Diabetic Foot.|https://dx.doi.org/10.12659/MSM.953681
 Gait and Plantar Pressure Analysis in Charcot Neuroarthropathy: A Clinic-Based Biomechanical Study.|https://dx.doi.org/10.1002/jfa2.70224
 Texture-aware diffusion modelling for severity-conditioned synthetic progression-like visualization of diabetic foot ulcers from single images.|https://dx.doi.org/10.1371/journal.pone.0359540
+Effectiveness of Negative Pressure Wound Therapies on the Healing Diabetic Foot Ulcer: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.4103/ijnmr.ijnmr_129_23
+Severity-Stratified Healing Outcomes of Nurse-Managed Negative Pressure Wound Therapy in Diabetic Foot Ulcers: A Prospective Comparative Cohort Study.|https://dx.doi.org/10.1155/nrp/8864223

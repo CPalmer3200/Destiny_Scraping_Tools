@@ -1,2 +1,4 @@
 PEG precipitation for easy ribosome profiling.|https://dx.doi.org/10.1016/j.ymeth.2026.09.006
 Antibiotic-loaded microparticles for topical treatment of wounds: A scoping review.|https://dx.doi.org/10.1016/j.xphs.2026.104538
+Lyell´s syndrome associated with the use of topical agents: case report.|https://dx.doi.org/10.17843/rpmesp.2026.433.15468
+Molecular detection of mecA and mecC-Mediated MRSA nasal carriage among healthcare workers in a tertiary care hospital.|https://dx.doi.org/10.1177/17571774261497956
