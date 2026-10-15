@@ -13,3 +13,4 @@ Harnessing chirality for enhanced stability: An all-D protease resistant antimic
 From Bruising to Blindness: A Practical Guide to Identifying and Managing Hyaluronic Acid Filler Complications.|https://dx.doi.org/10.1097/DSS.0000000000005380
 Engineering 3D piezoelectric ZnO tetrapod interfaces for on-demand antibacterial skin-contact wearables.|https://dx.doi.org/10.1016/j.colsurfb.2026.116233
 In Vitro evaluation of cell-free supernatants from soil-derived Bacillus sp. for antibiofilm and antioxidant activities.|https://dx.doi.org/10.1007/s11033-026-12843-2
+Insights into the recent advancements of cephalosporins and their nanoformulations in antibacterial applications.|https://dx.doi.org/10.1080/20415990.2026.2748233

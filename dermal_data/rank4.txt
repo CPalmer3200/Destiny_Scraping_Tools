@@ -22,3 +22,4 @@ Construction of CO(2)-responsive wormlike micelles from an aminoglycoside-based 
 Polydopamine-functionalized silk-based biomaterial for non-antibiotic antimicrobial therapy.|https://dx.doi.org/10.1177/22808000261497115
 Synthesis and Characterization of Poloxamer-embedded Silver Nanoparticles Developed Using Bile Salt and Evaluating Its In-Vitro and In-Vivo Antimicrobial Efficacy Against Periodontal Pathogens.|https://dx.doi.org/10.1016/j.micpath.2026.108874
 Development of biocompatible and antibacterial chitosan polyethylene oxide nanocomposite films reinforced with zinc oxide graphene oxide for wound dressing applications.|https://dx.doi.org/10.1186/s11671-026-05001-x
+Stretchable antibacterial hydrogel with sodium alginate, hydroxyethyl cellulose, and sodium lignosulfonate for stabilized MXene/liquid metal-based patient health monitoring.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154829
