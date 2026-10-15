@@ -13,3 +13,4 @@ Antibiotic-loaded microparticles for topical treatment of wounds: A scoping revi
 Localized microenvironment-modulating AgQ@GSC hydrogel microneedles for transdermal acne therapy.|https://dx.doi.org/10.1016/j.colsurfb.2026.116204
 Albumin Orchestrates Type-I ROS Conversion for Efficient Intracellular Bacterial Clearance.|https://dx.doi.org/10.1002/adma.75340
 Lyell´s syndrome associated with the use of topical agents: case report.|https://dx.doi.org/10.17843/rpmesp.2026.433.15468
+Clinical Characteristics Associated with Mortality between Surviving and Non-surviving Adult Patients with Severe Influenza Requiring Hospitalization: An Internet-based, Prospective, Multicenter, Cohort Study in Japan.|https://dx.doi.org/10.2169/internalmedicine.8035-26

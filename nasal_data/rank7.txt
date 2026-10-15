@@ -75,3 +75,7 @@ Postoperative infections following silicone implant-based gluteal augmentation.|
 Burden and Risk Factors of Urinary Schistosomiasis and Bacteriuria Coinfections Among Schoolchildren in an Endemic District in the Ashanti Region, Ghana.|https://dx.doi.org/10.1155/japr/4632076
 MRSA-dominant colonization and synergistic pathogenicity with Pseudomonas aeruginosa in a polymicrobial bone infection model.|https://dx.doi.org/10.1016/j.jot.2026.101222
 The impact of Staphylococcus aureus and Escherichia coli loads on semen quality in asymptomatic men: A cross-sectional study.|https://dx.doi.org/10.18502/ijrm.v24i8.21666
+Ion-exchange-driven AgCuO(2)-TiO(2)hybrid nanocomposites for rapid antibacterial activity in dental sealers.|https://dx.doi.org/10.1016/j.colsurfb.2026.116232
+Pulmonary Valve Amyloid Deposition Mimicking Infective Endocarditis in Val30Met Hereditary Transthyretin Amyloidosis.|https://dx.doi.org/10.1111/echo.70651
+Computational Discovery of Bioactive Compounds Targeting Conserved MSCRAMMs Adhesion Proteins to Disrupt Staphylococcus aureus Host Colonization.|https://dx.doi.org/10.2174/0115734099494916260910051136
+Chlorhexidine coated sutures after extraction: A randomized controlled trial.|https://dx.doi.org/10.1016/j.jobcr.2026.101554
