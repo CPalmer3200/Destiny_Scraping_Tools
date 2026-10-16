@@ -28,3 +28,7 @@ Gait and Plantar Pressure Analysis in Charcot Neuroarthropathy: A Clinic-Based B
 Texture-aware diffusion modelling for severity-conditioned synthetic progression-like visualization of diabetic foot ulcers from single images.|https://dx.doi.org/10.1371/journal.pone.0359540
 Effectiveness of Negative Pressure Wound Therapies on the Healing Diabetic Foot Ulcer: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.4103/ijnmr.ijnmr_129_23
 Severity-Stratified Healing Outcomes of Nurse-Managed Negative Pressure Wound Therapy in Diabetic Foot Ulcers: A Prospective Comparative Cohort Study.|https://dx.doi.org/10.1155/nrp/8864223
+Time to Heal: MicroRNA Temporal Dysregulation in Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/ijms27198491
+Machine learning in diabetic-foot osteomyelitis: current applications, challenges, and future directions.|https://dx.doi.org/10.5194/jbji-11-623-2026
+Long-term limb salvage and functional recovery in advanced Charcot neuroarthropathy complicated by a non-healing diabetic foot ulcer: a CARE-compliant case report.|https://dx.doi.org/10.3389/fendo.2026.1952152
+Recommendations for microbiological sampling in infected hard-to-heal wounds: an Italian association for cutaneous ulcers (AIUC) perspective.|https://dx.doi.org/10.3389/fsurg.2026.1908843

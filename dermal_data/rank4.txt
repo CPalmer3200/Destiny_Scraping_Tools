@@ -23,3 +23,8 @@ Polydopamine-functionalized silk-based biomaterial for non-antibiotic antimicrob
 Synthesis and Characterization of Poloxamer-embedded Silver Nanoparticles Developed Using Bile Salt and Evaluating Its In-Vitro and In-Vivo Antimicrobial Efficacy Against Periodontal Pathogens.|https://dx.doi.org/10.1016/j.micpath.2026.108874
 Development of biocompatible and antibacterial chitosan polyethylene oxide nanocomposite films reinforced with zinc oxide graphene oxide for wound dressing applications.|https://dx.doi.org/10.1186/s11671-026-05001-x
 Stretchable antibacterial hydrogel with sodium alginate, hydroxyethyl cellulose, and sodium lignosulfonate for stabilized MXene/liquid metal-based patient health monitoring.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154829
+Lysozyme-Functionalized PVA/CMC/β-Cyclodextrin/Pectin Hydrogel Films for Strawberry Preservation and Flexible Sensing.|https://dx.doi.org/10.3390/molecules31193377
+Novel Antibacterial Hydrogels Incorporating Quaternary Ammonium Monomethacrylate: A Pilot Study on Swelling Behavior and Biological Analysis.|https://dx.doi.org/10.3390/ma19194206
+Development of an Injectable Boronic Ester Nanocomposite Hydrogel for pH- and Thermo-Responsive Gentamicin Delivery and Antibacterial Activity.|https://dx.doi.org/10.1208/s12249-026-03559-4
+From bio-interfacial association to sustained delivery: a lipophilicity-tuned aggregation-induced emission photosensitizer hydrogel for infected wound therapy.|https://dx.doi.org/10.1016/j.jcis.2026.141782
+A Dual-Functional Hydrogel Coating for Expanded Polytetrafluoroethylene Endografts with Antibacterial and Interface-Sealing Functions.|https://dx.doi.org/10.1021/acsami.6c15053
