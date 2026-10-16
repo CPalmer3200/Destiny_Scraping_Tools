@@ -79,3 +79,10 @@ Ion-exchange-driven AgCuO(2)-TiO(2)hybrid nanocomposites for rapid antibacterial
 Pulmonary Valve Amyloid Deposition Mimicking Infective Endocarditis in Val30Met Hereditary Transthyretin Amyloidosis.|https://dx.doi.org/10.1111/echo.70651
 Computational Discovery of Bioactive Compounds Targeting Conserved MSCRAMMs Adhesion Proteins to Disrupt Staphylococcus aureus Host Colonization.|https://dx.doi.org/10.2174/0115734099494916260910051136
 Chlorhexidine coated sutures after extraction: A randomized controlled trial.|https://dx.doi.org/10.1016/j.jobcr.2026.101554
+Novel Antibacterial Hydrogels Incorporating Quaternary Ammonium Monomethacrylate: A Pilot Study on Swelling Behavior and Biological Analysis.|https://dx.doi.org/10.3390/ma19194206
+Contemporary Clinical Spectrum and Factors Associated with Mortality in Infective Endocarditis: A Multicenter Cohort Study (COSMO-IE).|https://dx.doi.org/10.3390/jcm15197760
+Chlorhexidine Versus Iodine-Based Skin Preparation Was Not Associated with a Significant Difference in 90-Day Infection Risk After Instrumented Degenerative Cervical or Lumbar Spine Surgery: A Propensity Score-Matched Analysis.|https://dx.doi.org/10.3390/jcm15197714
+Late-Diagnosed Cystic Fibrosis with Co-Occurring CFTR 3849+10kbC>T and 5T Variants: A Case Report.|https://dx.doi.org/10.3390/jcm15197584
+Predictors of Short-Term Outcome in Venous Leg Ulcers: The Dominant Role of Wound Infection and Multiple Ulcers.|https://dx.doi.org/10.3390/jcm15197525
+Riluzole attenuates staphyloxanthin biosynthesis and biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bioorg.2026.110639
+A Dual-Functional Hydrogel Coating for Expanded Polytetrafluoroethylene Endografts with Antibacterial and Interface-Sealing Functions.|https://dx.doi.org/10.1021/acsami.6c15053

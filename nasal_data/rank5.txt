@@ -32,3 +32,5 @@ GLP-1 receptor agonist use and postoperative complications after body contouring
 Association of Neoadjuvant Versus Adjuvant Chemotherapy on Pre-Pectoral Tissue Expander Based Reconstruction Outcomes Following Mastectomy.|https://dx.doi.org/10.1097/PRS.0000000000013520
 Support or Simplicity: Evaluating Mesh Use in Two-Stage Prepectoral Breast Reconstruction.|https://dx.doi.org/10.1097/PRS.0000000000013500
 Bone marrow necrosis and rapidly progressive liver metastases after breast-conserving surgery in a 33-year-old woman with triple-negative breast cancer, followed by death 288 days after surgery: a case report.|https://dx.doi.org/10.21037/acr-2026-0134
+Indocyanine Green Angiography Reduces Ischemic Complications in Immediate Implant-Based Breast Reconstruction: A Systematic Review and Meta-analysis.|https://dx.doi.org/10.1007/s00266-026-06339-4
+Postoperative complication risks associated with penicillin allergy in tissue expander-based breast reconstruction: A propensity score-matched retrospective cohort study.|https://dx.doi.org/10.1016/j.bjps.2026.10.006
