@@ -16,3 +16,4 @@ In Vitro evaluation of cell-free supernatants from soil-derived Bacillus sp. for
 Insights into the recent advancements of cephalosporins and their nanoformulations in antibacterial applications.|https://dx.doi.org/10.1080/20415990.2026.2748233
 Riluzole attenuates staphyloxanthin biosynthesis and biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bioorg.2026.110639
 Infection Prevention and Device Pocket Management in Cardiac Implantable Electronic Devices: Emerging Strategies.|https://dx.doi.org/10.1007/s11886-026-02436-7
+Dual-mechanism adjuvant catharanthine restores β-lactam efficacy against Staphylococcus aureus infections.|https://dx.doi.org/10.1016/j.bioorg.2026.110648
