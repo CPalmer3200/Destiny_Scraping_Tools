@@ -10,3 +10,4 @@ Serotype-independent inhibition of S. pneumoniae by SMiTE, a commensal-derived b
 MRSA nasal PCR as a prevalence-dependent stewardship tool in hospitalized children: a structured review.|https://dx.doi.org/10.1080/14737159.2026.2749580
 Community composition drives metabolic competition and Staphylococcus aureus colonization resistance in synthetic nasal communities.|https://dx.doi.org/10.1093/ismejo/wrag268
 Predictive value of methicillin-resistant Staphylococcus aureus (MRSA) nasal screening for MRSA in a clinical culture in solid organ transplant recipients.|https://dx.doi.org/10.1017/ice.2026.10550
+Molecular Prevalence and Antimicrobial Resistance Patterns of Methicillin-Resistant Staphylococcus aureus in Buffaloes from Bangladesh.|https://dx.doi.org/10.1002/vms3.71295

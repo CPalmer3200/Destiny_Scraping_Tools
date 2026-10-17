@@ -86,3 +86,7 @@ Late-Diagnosed Cystic Fibrosis with Co-Occurring CFTR 3849+10kbC>T and 5T Varian
 Predictors of Short-Term Outcome in Venous Leg Ulcers: The Dominant Role of Wound Infection and Multiple Ulcers.|https://dx.doi.org/10.3390/jcm15197525
 Riluzole attenuates staphyloxanthin biosynthesis and biofilm formation in Staphylococcus aureus.|https://dx.doi.org/10.1016/j.bioorg.2026.110639
 A Dual-Functional Hydrogel Coating for Expanded Polytetrafluoroethylene Endografts with Antibacterial and Interface-Sealing Functions.|https://dx.doi.org/10.1021/acsami.6c15053
+Flexibility-induced high-entropy cationic Phthalocyanine-Cu borate low-crystallinity COF with suppressed π-stacking enables rapid ROS generation for synergistic antimicrobial therapy.|https://dx.doi.org/10.1016/j.jphotobiol.2026.113580
+In situ antibacterial thermosensitive hydrogel as a versatile platform for diabetic wound therapy and molecular monitoring.|https://dx.doi.org/10.1016/j.biopha.2026.119990
+Perioperative and Surgical Management of a Ruptured Mycotic Coronary Artery Aneurysm Secondary to MRSA.|https://dx.doi.org/10.1016/j.jaccas.2026.110746
+Tracking eco-evolutionary patterns among oropharyngeal pathobiome members in a pediatric cystic fibrosis cohort.|https://dx.doi.org/10.1128/spectrum.01577-26
