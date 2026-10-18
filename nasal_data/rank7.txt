@@ -90,3 +90,9 @@ Flexibility-induced high-entropy cationic Phthalocyanine-Cu borate low-crystalli
 In situ antibacterial thermosensitive hydrogel as a versatile platform for diabetic wound therapy and molecular monitoring.|https://dx.doi.org/10.1016/j.biopha.2026.119990
 Perioperative and Surgical Management of a Ruptured Mycotic Coronary Artery Aneurysm Secondary to MRSA.|https://dx.doi.org/10.1016/j.jaccas.2026.110746
 Tracking eco-evolutionary patterns among oropharyngeal pathobiome members in a pediatric cystic fibrosis cohort.|https://dx.doi.org/10.1128/spectrum.01577-26
+In Vitro Longitudinal Confocal Fluorescence Microscopy and Imaging Cytometry to Quantify Neutrophil Swarming, Opsonophagocytosis, and Vital NETosis During Implant-Associated Infection.|https://dx.doi.org/10.1002/jor.70306
+ST20 Staphylococcus aureus causing suppurative cervical lymphadenitis in an extremely low-birth-weight infant.|https://dx.doi.org/10.1007/s10096-026-05699-8
+Multipathogen antimicrobial resistance in a Romanian tertiary-care hospital: a retrospective antibiogram analysis, January-July 2025.|https://dx.doi.org/10.25122/jml-2026-0074
+Comparative genomic analysis of Staphylococcus spp. and Mammaliicoccus sciuri suggests potential sharing between dogs and their owners.|https://dx.doi.org/10.3389/fpubh.2026.1879619
+Formulation, physicochemical characterization, and antimicrobial evaluation of drug-loaded essential oil microemulsions against Methicillin-resistant Staphylococcus aureus -associated diabetic foot ulcer infections.|https://dx.doi.org/10.3389/fmicb.2026.1906281
+Spatiotemporally Regulated Pro-/Anti-Inflammatory Transition via Reactive Oxygen Species-Sensitive Core-Shell Hydrogel for Diabetic Infected Wound Healing.|https://dx.doi.org/10.34133/bmr.0432
