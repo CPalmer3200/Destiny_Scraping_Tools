@@ -29,3 +29,7 @@ Development of an Injectable Boronic Ester Nanocomposite Hydrogel for pH- and Th
 From bio-interfacial association to sustained delivery: a lipophilicity-tuned aggregation-induced emission photosensitizer hydrogel for infected wound therapy.|https://dx.doi.org/10.1016/j.jcis.2026.141782
 A Dual-Functional Hydrogel Coating for Expanded Polytetrafluoroethylene Endografts with Antibacterial and Interface-Sealing Functions.|https://dx.doi.org/10.1021/acsami.6c15053
 In situ antibacterial thermosensitive hydrogel as a versatile platform for diabetic wound therapy and molecular monitoring.|https://dx.doi.org/10.1016/j.biopha.2026.119990
+Engineered near-infrared-responsive PNIPAM/alginate hydrogels for active mechanical stimulation and infection control in diabetic wound healing.|https://dx.doi.org/10.1016/j.colsurfb.2026.116255
+An electrospun PCL/PVA-chitosan nanofiber scaffold loaded with selenium nanoparticles promotes antibacterial activity and accelerates wound healing: synthesis, characterization, and in-vivo evaluation.|https://dx.doi.org/10.1007/s40199-026-00672-4
+Immune-modulating copper-doped bioactive glass-based injectable hydrogel for periodontitis therapy.|https://dx.doi.org/10.3389/fmolb.2026.1843490
+Spatiotemporally Regulated Pro-/Anti-Inflammatory Transition via Reactive Oxygen Species-Sensitive Core-Shell Hydrogel for Diabetic Infected Wound Healing.|https://dx.doi.org/10.34133/bmr.0432

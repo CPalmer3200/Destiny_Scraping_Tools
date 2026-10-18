@@ -33,3 +33,8 @@ Machine learning in diabetic-foot osteomyelitis: current applications, challenge
 Long-term limb salvage and functional recovery in advanced Charcot neuroarthropathy complicated by a non-healing diabetic foot ulcer: a CARE-compliant case report.|https://dx.doi.org/10.3389/fendo.2026.1952152
 Recommendations for microbiological sampling in infected hard-to-heal wounds: an Italian association for cutaneous ulcers (AIUC) perspective.|https://dx.doi.org/10.3389/fsurg.2026.1908843
 Malignant transformation in diabetic foot ulcers: A cross-sectional analysis of the impact of pathology results on patient management after diabetic foot surgery.|https://dx.doi.org/10.1097/MD.0000000000051242
+Purulent MRSA Pericarditis Secondary to Chronic Diabetic Foot Osteomyelitis: A Case Report.|https://dx.doi.org/10.1155/crdi/7744624
+Beyond susceptibility testing: traditional Chinese medicine-associated compounds as candidate antibiotic adjuncts in chronic-wound biofilms.|https://dx.doi.org/10.3389/fcimb.2026.1991374
+Formulation, physicochemical characterization, and antimicrobial evaluation of drug-loaded essential oil microemulsions against Methicillin-resistant Staphylococcus aureus -associated diabetic foot ulcer infections.|https://dx.doi.org/10.3389/fmicb.2026.1906281
+Pathological microbial niches in diabetic foot ulcers: a host-microbe framework for impaired repair and niche-based stratification.|https://dx.doi.org/10.3389/fcimb.2026.1926191
+Early-admission serum albumin and hospitalization burden in a selected serial-culture cohort of patients with diabetic foot ulcers and subsequent Pseudomonas aeruginosa detection: a retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2026.1918069
