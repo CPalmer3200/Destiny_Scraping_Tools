@@ -96,3 +96,6 @@ Multipathogen antimicrobial resistance in a Romanian tertiary-care hospital: a r
 Comparative genomic analysis of Staphylococcus spp. and Mammaliicoccus sciuri suggests potential sharing between dogs and their owners.|https://dx.doi.org/10.3389/fpubh.2026.1879619
 Formulation, physicochemical characterization, and antimicrobial evaluation of drug-loaded essential oil microemulsions against Methicillin-resistant Staphylococcus aureus -associated diabetic foot ulcer infections.|https://dx.doi.org/10.3389/fmicb.2026.1906281
 Spatiotemporally Regulated Pro-/Anti-Inflammatory Transition via Reactive Oxygen Species-Sensitive Core-Shell Hydrogel for Diabetic Infected Wound Healing.|https://dx.doi.org/10.34133/bmr.0432
+From Heart Murmur to Bone Involvement: Tricuspid Valve Endocarditis With First-Rib Osteomyelitis in a Patient With Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia.|https://dx.doi.org/10.7759/cureus.116470
+Management Strategies and Clinical Outcomes of Methicillin Resistant Staphylococcus Aureus Native Vertebral Osteomyelitis: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.spinee.2026.10.007
+Full-Endoscopic Spine Surgery Enables High Rates of Pathogen Identification after Short-Term Antibiotic Therapy in Pyogenic Spondylitis.|https://dx.doi.org/10.22603/ssrr.2026-0027
