@@ -33,3 +33,5 @@ Engineered near-infrared-responsive PNIPAM/alginate hydrogels for active mechani
 An electrospun PCL/PVA-chitosan nanofiber scaffold loaded with selenium nanoparticles promotes antibacterial activity and accelerates wound healing: synthesis, characterization, and in-vivo evaluation.|https://dx.doi.org/10.1007/s40199-026-00672-4
 Immune-modulating copper-doped bioactive glass-based injectable hydrogel for periodontitis therapy.|https://dx.doi.org/10.3389/fmolb.2026.1843490
 Spatiotemporally Regulated Pro-/Anti-Inflammatory Transition via Reactive Oxygen Species-Sensitive Core-Shell Hydrogel for Diabetic Infected Wound Healing.|https://dx.doi.org/10.34133/bmr.0432
+Electrospun-lyophilized chitosan wound dressings for dual bioactive delivery of hyaluronic acid and IL-6.|https://dx.doi.org/10.1016/j.ejpb.2026.115263
+Biodegradable polycaprolactone/flexible nano-liposome/propolis nanofibers for enhanced biocompatibility and antibacterial activity.|https://dx.doi.org/10.1080/09205063.2026.2750329
