@@ -99,3 +99,7 @@ Spatiotemporally Regulated Pro-/Anti-Inflammatory Transition via Reactive Oxygen
 From Heart Murmur to Bone Involvement: Tricuspid Valve Endocarditis With First-Rib Osteomyelitis in a Patient With Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia.|https://dx.doi.org/10.7759/cureus.116470
 Management Strategies and Clinical Outcomes of Methicillin Resistant Staphylococcus Aureus Native Vertebral Osteomyelitis: A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.spinee.2026.10.007
 Full-Endoscopic Spine Surgery Enables High Rates of Pathogen Identification after Short-Term Antibiotic Therapy in Pyogenic Spondylitis.|https://dx.doi.org/10.22603/ssrr.2026-0027
+Immunosuppression is associated with loss of airway microbiome resilience in severe COVID-19.|https://dx.doi.org/10.1186/s40168-026-02462-1
+TiO(2) Nanotubes Co-Functionalized With Hydroxyapatite, Collagen, and Nisin for Bioactive Titanium Surfaces: A Preliminary In Vitro Study.|https://dx.doi.org/10.1002/jbm.b.70173
+[Impact of preoperative therapeutic antibiotic use on pathogen detection rate in single-stage revision of chronic periprosthetic joint infection].|https://dx.doi.org/10.7507/1002-1892.202605009
+Minocycline-Loaded Agarose Hydrogel Mitigates Burn Wound Progression and Controls Infection in the Management of Deep Partial-Thickness Burns.|https://dx.doi.org/10.1111/wrr.70226
