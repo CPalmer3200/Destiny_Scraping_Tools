@@ -38,3 +38,6 @@ Beyond susceptibility testing: traditional Chinese medicine-associated compounds
 Formulation, physicochemical characterization, and antimicrobial evaluation of drug-loaded essential oil microemulsions against Methicillin-resistant Staphylococcus aureus -associated diabetic foot ulcer infections.|https://dx.doi.org/10.3389/fmicb.2026.1906281
 Pathological microbial niches in diabetic foot ulcers: a host-microbe framework for impaired repair and niche-based stratification.|https://dx.doi.org/10.3389/fcimb.2026.1926191
 Early-admission serum albumin and hospitalization burden in a selected serial-culture cohort of patients with diabetic foot ulcers and subsequent Pseudomonas aeruginosa detection: a retrospective cohort study.|https://dx.doi.org/10.3389/fendo.2026.1918069
+Admission C-Reactive Protein-to-Albumin Ratio Is Associated With Early Major Amputation After Minor Amputation in Patients With Infected Foot Wounds.|https://dx.doi.org/10.1053/j.jfas.2026.10.011
+Periwound Ring Enhancement on Indocyanine Green Angiography as a Prognostic Imaging Biomarker for Chronic Wound Healing.|https://dx.doi.org/10.1111/wrr.70220
+Short-course versus long-course antibiotics in bone infections: a meta-analysis of randomised controlled trials.|https://dx.doi.org/10.1007/s15010-026-03024-1

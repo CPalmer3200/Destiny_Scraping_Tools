@@ -5,3 +5,4 @@ Rhein-induced free fatty acid generation cooperates with silver ions for biofilm
 An ultrasound-switchable hydrogel enables sequential antibacterial and anti-inflammatory therapy for infected diabetic wounds.|https://dx.doi.org/10.1016/j.isci.2026.117711
 Bioactive κ-Carrageenan/hyaluronic acid hydrogel sheet dressing with sustained bromelain release to promote healing of full-thickness burn injury.|https://dx.doi.org/10.1016/j.bioadv.2026.215232
 Single-Application Biobrane Versus Nanocrystalline Silver Dressings for Bilateral Mid-Dermal Petrol Flash Burns: An Intra-Patient Split-Limb Case Report.|https://dx.doi.org/10.7759/cureus.116376
+Minocycline-Loaded Agarose Hydrogel Mitigates Burn Wound Progression and Controls Infection in the Management of Deep Partial-Thickness Burns.|https://dx.doi.org/10.1111/wrr.70226

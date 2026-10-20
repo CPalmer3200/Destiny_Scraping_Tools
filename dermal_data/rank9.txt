@@ -2,3 +2,4 @@ Prevalence of MRSA and associated factors among wound patients at Werabe Compreh
 An intranasal bivalent vaccine induces antigen-specific humoral and Th1/Th17 cellular immunity and protects young and aged mice against MRSA and Pseudomonas aeruginosa skin and soft tissue infections.|https://dx.doi.org/10.1128/iai.00355-26
 Comparative genomic analysis of Staphylococcus spp. and Mammaliicoccus sciuri suggests potential sharing between dogs and their owners.|https://dx.doi.org/10.3389/fpubh.2026.1879619
 [Multiple neonatal staphylococcal cold abscesses in large skin folds].|https://dx.doi.org/10.61409/V11250915
+[Impact of preoperative therapeutic antibiotic use on pathogen detection rate in single-stage revision of chronic periprosthetic joint infection].|https://dx.doi.org/10.7507/1002-1892.202605009

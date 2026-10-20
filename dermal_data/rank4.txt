@@ -35,3 +35,5 @@ Immune-modulating copper-doped bioactive glass-based injectable hydrogel for per
 Spatiotemporally Regulated Pro-/Anti-Inflammatory Transition via Reactive Oxygen Species-Sensitive Core-Shell Hydrogel for Diabetic Infected Wound Healing.|https://dx.doi.org/10.34133/bmr.0432
 Electrospun-lyophilized chitosan wound dressings for dual bioactive delivery of hyaluronic acid and IL-6.|https://dx.doi.org/10.1016/j.ejpb.2026.115263
 Biodegradable polycaprolactone/flexible nano-liposome/propolis nanofibers for enhanced biocompatibility and antibacterial activity.|https://dx.doi.org/10.1080/09205063.2026.2750329
+Dual-functional hydrogel capable of scavenging reactive oxygen species and regulating macrophage polarization for repairing MRSA-infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154872
+Vat 3D printing of GelMA-dopa/MOFs composites wound dressings for precise photodynamic/photothermal therapy.|https://dx.doi.org/10.1016/j.bioadv.2026.215255
