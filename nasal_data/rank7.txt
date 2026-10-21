@@ -103,3 +103,4 @@ Immunosuppression is associated with loss of airway microbiome resilience in sev
 TiO(2) Nanotubes Co-Functionalized With Hydroxyapatite, Collagen, and Nisin for Bioactive Titanium Surfaces: A Preliminary In Vitro Study.|https://dx.doi.org/10.1002/jbm.b.70173
 [Impact of preoperative therapeutic antibiotic use on pathogen detection rate in single-stage revision of chronic periprosthetic joint infection].|https://dx.doi.org/10.7507/1002-1892.202605009
 Minocycline-Loaded Agarose Hydrogel Mitigates Burn Wound Progression and Controls Infection in the Management of Deep Partial-Thickness Burns.|https://dx.doi.org/10.1111/wrr.70226
+Biofilm-associated genes in Staphylococcus aureus: role in chronic infections and therapeutic challenges.|https://dx.doi.org/10.3389/fmicb.2026.1915213
