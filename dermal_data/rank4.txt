@@ -37,3 +37,6 @@ Electrospun-lyophilized chitosan wound dressings for dual bioactive delivery of 
 Biodegradable polycaprolactone/flexible nano-liposome/propolis nanofibers for enhanced biocompatibility and antibacterial activity.|https://dx.doi.org/10.1080/09205063.2026.2750329
 Dual-functional hydrogel capable of scavenging reactive oxygen species and regulating macrophage polarization for repairing MRSA-infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.154872
 Vat 3D printing of GelMA-dopa/MOFs composites wound dressings for precise photodynamic/photothermal therapy.|https://dx.doi.org/10.1016/j.bioadv.2026.215255
+Self-healing poly(vinyl alcohol)/carboxymethyl chitosan/astragalus polysaccharide hydrogels with bioactivity for high-performance strain sensing and human-machine interaction.|https://dx.doi.org/10.1039/d6tb01515h
+NIR-triggered gelatin-based hydrogel for ion-mechanical synergistic antibacterial therapy and infected wound closure.|https://dx.doi.org/10.1039/d6ra07136h
+PF127 hydrogel-assisted in-situ Staphylococcus aureus biofilm fabrication endowing pathological animal model for chronic osteomyelitis.|https://dx.doi.org/10.3389/fmicb.2026.1914727

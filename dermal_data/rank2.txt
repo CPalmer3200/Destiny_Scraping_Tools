@@ -41,3 +41,6 @@ Early-admission serum albumin and hospitalization burden in a selected serial-cu
 Admission C-Reactive Protein-to-Albumin Ratio Is Associated With Early Major Amputation After Minor Amputation in Patients With Infected Foot Wounds.|https://dx.doi.org/10.1053/j.jfas.2026.10.011
 Periwound Ring Enhancement on Indocyanine Green Angiography as a Prognostic Imaging Biomarker for Chronic Wound Healing.|https://dx.doi.org/10.1111/wrr.70220
 Short-course versus long-course antibiotics in bone infections: a meta-analysis of randomised controlled trials.|https://dx.doi.org/10.1007/s15010-026-03024-1
+Predicting Major Amputation Rates in Diabetic Hindfoot Ulcers With Critical Infection and Ischemia: A Risk-Factor-Based Model.|https://dx.doi.org/10.3346/jkms.2026.41.e247
+Biofilm-associated genes in Staphylococcus aureus: role in chronic infections and therapeutic challenges.|https://dx.doi.org/10.3389/fmicb.2026.1915213
+Molecular epidemiology of carbapenemase-producing gram-negative bacilli in diabetic foot infections: association with glycemic control.|https://dx.doi.org/10.3389/fcimb.2026.1847743
