@@ -44,3 +44,9 @@ Short-course versus long-course antibiotics in bone infections: a meta-analysis 
 Predicting Major Amputation Rates in Diabetic Hindfoot Ulcers With Critical Infection and Ischemia: A Risk-Factor-Based Model.|https://dx.doi.org/10.3346/jkms.2026.41.e247
 Biofilm-associated genes in Staphylococcus aureus: role in chronic infections and therapeutic challenges.|https://dx.doi.org/10.3389/fmicb.2026.1915213
 Molecular epidemiology of carbapenemase-producing gram-negative bacilli in diabetic foot infections: association with glycemic control.|https://dx.doi.org/10.3389/fcimb.2026.1847743
+Susceptibility-guided use of gentamicin-loaded calcium sulfate after surgical debridement for complex diabetes-related foot infection: a single-centre case series.|https://dx.doi.org/10.3389/fsurg.2026.1974550
+Navigating Treatment Pathways in Diabetic Foot Infection: A Practical Retrospective Analysis of Healing Predictors and the WIfI System.|https://dx.doi.org/10.1111/iwj.71082
+From Hypoxia to Healing: Topical Deferoxamine Enhances Wound Closure and Neovascularization in Diabetic Animal Models - A Systematic Review and Meta-Analysis.|https://dx.doi.org/10.1016/j.trsl.2026.10.006
+Programming Extracellular Vesicle-Biomaterial Interfaces for Diabetic Wounds: Barrier-Matched Design and Translational Criteria.|https://dx.doi.org/10.1002/adhm.71859
+A Retrospective Study of Clinical, Microbiological, and Ulcer Severity Patterns of Diabetic Foot Presenting to a Tertiary Care Hospital.|https://dx.doi.org/10.59556/japi.74.1675
+Integrated Genomic Phenotypic and Host-response Analysis of Multidrug-resistant Diabetic Foot Infections: A Tertiary Center Study from Kerala India.|https://dx.doi.org/10.59556/japi.74.1693

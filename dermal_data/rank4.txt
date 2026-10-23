@@ -40,3 +40,7 @@ Vat 3D printing of GelMA-dopa/MOFs composites wound dressings for precise photod
 Self-healing poly(vinyl alcohol)/carboxymethyl chitosan/astragalus polysaccharide hydrogels with bioactivity for high-performance strain sensing and human-machine interaction.|https://dx.doi.org/10.1039/d6tb01515h
 NIR-triggered gelatin-based hydrogel for ion-mechanical synergistic antibacterial therapy and infected wound closure.|https://dx.doi.org/10.1039/d6ra07136h
 PF127 hydrogel-assisted in-situ Staphylococcus aureus biofilm fabrication endowing pathological animal model for chronic osteomyelitis.|https://dx.doi.org/10.3389/fmicb.2026.1914727
+Optimized Self-Healing and Antioxidant Hydrogels Based on Gallic Acid-Blended Quaternized Chitosan and Oxidized Pectin for Potential Wound Dressing Applications.|https://dx.doi.org/10.1002/jbm.a.70167
+Injectable shape-adaptive cellulose hydrogel with antibacterial activity for diabetic wound therapy.|https://dx.doi.org/10.1016/j.carbpol.2026.125839
+Chitosan-sodium alginate hydrogels incorporating amino acid-derived ionic liquids as antimicrobial agents.|https://dx.doi.org/10.1016/j.carbpol.2026.125875
+Smart Probiotic Nonwoven Textiles for Skin Applications: Encapsulated Bacillus coagulans for Antimicrobial Activity and Dermatological Performance.|https://dx.doi.org/10.1007/s12602-026-11251-z

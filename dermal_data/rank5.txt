@@ -18,3 +18,5 @@ Riluzole attenuates staphyloxanthin biosynthesis and biofilm formation in Staphy
 Infection Prevention and Device Pocket Management in Cardiac Implantable Electronic Devices: Emerging Strategies.|https://dx.doi.org/10.1007/s11886-026-02436-7
 Dual-mechanism adjuvant catharanthine restores β-lactam efficacy against Staphylococcus aureus infections.|https://dx.doi.org/10.1016/j.bioorg.2026.110648
 Multifunctional nanocomposite with stage-responsive behavior for wound healing.|https://dx.doi.org/10.1080/09205063.2026.2740602
+Recurrent Delayed Inflammatory Reaction After Dermal Filler Injection Treated With Intralesional 5-fluorouracil, Triamcinolone, and Hyaluronidase.|https://dx.doi.org/10.1097/GOX.0000000000008194
+Beyond Antibacterial Activity: Engineering Multifunctional Biomaterials for Multidrug-Resistant Infections.|https://dx.doi.org/10.1002/jbm.b.70166
