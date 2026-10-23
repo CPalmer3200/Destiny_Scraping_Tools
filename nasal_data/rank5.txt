@@ -40,3 +40,6 @@ Impact of the COVID-19 pandemic on breast cancer care in Romania: a cohort analy
 Herpes zoster risk among female survivors of breast cancer in Japan.|https://dx.doi.org/10.1186/s13058-026-02345-1
 When Does Grade I Ptosis Require Mastopexy? Implant-Only Augmentation in 198 Patients: A Clinical Framework for Patient Selection.|https://dx.doi.org/10.1007/s00266-026-06318-9
 [Translated article] Outcomes of metastasectomy in patients with solitary bone metastases: Experience from a cancer center in Bogotá, Colombia.|https://dx.doi.org/10.1016/j.recot.2026.10.004
+Perioperative Outcomes of the Modified Oncoplastic Lift and Lymphatic Excision and Reconstruction (MOLLER) Technique in Breast Surgery.|https://dx.doi.org/10.1002/jso.70431
+Comparative Analysis of Bilateral Stacked Flap and Hybrid Breast Reconstruction: Clinical Results and Patient-reported Outcomes.|https://dx.doi.org/10.1097/GOX.0000000000008179
+Prophylactic Superdrained Deep Inferior Epigastric Perforator Flap: Systematic Review of Survival and Morbidity.|https://dx.doi.org/10.1097/GOX.0000000000008185

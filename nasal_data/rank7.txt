@@ -104,3 +104,8 @@ TiO(2) Nanotubes Co-Functionalized With Hydroxyapatite, Collagen, and Nisin for 
 [Impact of preoperative therapeutic antibiotic use on pathogen detection rate in single-stage revision of chronic periprosthetic joint infection].|https://dx.doi.org/10.7507/1002-1892.202605009
 Minocycline-Loaded Agarose Hydrogel Mitigates Burn Wound Progression and Controls Infection in the Management of Deep Partial-Thickness Burns.|https://dx.doi.org/10.1111/wrr.70226
 Biofilm-associated genes in Staphylococcus aureus: role in chronic infections and therapeutic challenges.|https://dx.doi.org/10.3389/fmicb.2026.1915213
+Bioactivity profiling of linear venom peptides from Italian small wood-scorpion (Euscorpius italicus).|https://dx.doi.org/10.1002/ps.71416
+Staphylococcus aureus wall teichoic acid structure dictates virulence potential and resistance to host defenses.|https://dx.doi.org/10.1126/sciadv.aef7070
+Bioinspired Mechano-Chemical Titanium Interfaces With Potential for Infection-Resistant Osseointegration.|https://dx.doi.org/10.1002/smll.76382
+Cross-susceptibility among tetracyclines in Gram-positive infections: microbiological basis, EUCAST/CLSI guidance and clinical implications for doxycycline use.|https://dx.doi.org/10.1093/jac/dkag353
+Microbiological profile and antimicrobial resistance of surgical wound infections in a tertiary hospital in Azerbaijan.|https://dx.doi.org/10.1016/j.infpip.2026.100570

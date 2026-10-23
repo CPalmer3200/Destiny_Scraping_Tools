@@ -15,3 +15,4 @@ Albumin Orchestrates Type-I ROS Conversion for Efficient Intracellular Bacterial
 Lyell´s syndrome associated with the use of topical agents: case report.|https://dx.doi.org/10.17843/rpmesp.2026.433.15468
 Clinical Characteristics Associated with Mortality between Surviving and Non-surviving Adult Patients with Severe Influenza Requiring Hospitalization: An Internet-based, Prospective, Multicenter, Cohort Study in Japan.|https://dx.doi.org/10.2169/internalmedicine.8035-26
 Microbiological aetiology of paediatric ventilator-associated pneumonia and risk factors for carbapenem-resistant acinetobacter and Pseudomonas in a tertiary-care hospital in Thailand.|https://dx.doi.org/10.1016/j.infpip.2026.100595
+Solving the Staphylococcus aureus puzzle: lessons to guide future MRSA vaccine development.|https://dx.doi.org/10.1128/cmr.00112-26
