@@ -50,3 +50,5 @@ From Hypoxia to Healing: Topical Deferoxamine Enhances Wound Closure and Neovasc
 Programming Extracellular Vesicle-Biomaterial Interfaces for Diabetic Wounds: Barrier-Matched Design and Translational Criteria.|https://dx.doi.org/10.1002/adhm.71859
 A Retrospective Study of Clinical, Microbiological, and Ulcer Severity Patterns of Diabetic Foot Presenting to a Tertiary Care Hospital.|https://dx.doi.org/10.59556/japi.74.1675
 Integrated Genomic Phenotypic and Host-response Analysis of Multidrug-resistant Diabetic Foot Infections: A Tertiary Center Study from Kerala India.|https://dx.doi.org/10.59556/japi.74.1693
+Global gram-negative diabetic foot infection prevalence and its associations with climate: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-026-13916-0
+Polysaccharide-Based Biomaterials: Chemical Design and Advanced Dressings for Diabetic Chronic Wound Repair.|https://dx.doi.org/10.2147/IJGM.S642526

@@ -2,3 +2,5 @@ PEG precipitation for easy ribosome profiling.|https://dx.doi.org/10.1016/j.ymet
 Antibiotic-loaded microparticles for topical treatment of wounds: A scoping review.|https://dx.doi.org/10.1016/j.xphs.2026.104538
 Lyell´s syndrome associated with the use of topical agents: case report.|https://dx.doi.org/10.17843/rpmesp.2026.433.15468
 Molecular detection of mecA and mecC-Mediated MRSA nasal carriage among healthcare workers in a tertiary care hospital.|https://dx.doi.org/10.1177/17571774261497956
+Genomic diversity, farm-level persistence, and food safety risk traits of Staphylococcus aureus in small-ruminant raw milk dairy chains in central Italy.|https://dx.doi.org/10.1016/j.foodres.2026.120793
+Preoperative Staphylococcus aureus nasal screening and decolonization for the prevention of periprosthetic joint infection in elective total joint arthroplasty: A single-center retrospective comparative study.|https://dx.doi.org/10.1051/sicotj/2026040

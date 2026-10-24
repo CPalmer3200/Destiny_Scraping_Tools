@@ -44,3 +44,12 @@ Optimized Self-Healing and Antioxidant Hydrogels Based on Gallic Acid-Blended Qu
 Injectable shape-adaptive cellulose hydrogel with antibacterial activity for diabetic wound therapy.|https://dx.doi.org/10.1016/j.carbpol.2026.125839
 Chitosan-sodium alginate hydrogels incorporating amino acid-derived ionic liquids as antimicrobial agents.|https://dx.doi.org/10.1016/j.carbpol.2026.125875
 Smart Probiotic Nonwoven Textiles for Skin Applications: Encapsulated Bacillus coagulans for Antimicrobial Activity and Dermatological Performance.|https://dx.doi.org/10.1007/s12602-026-11251-z
+Platelet-Loaded Anisotropic Cryogel for Rapid Hemostasis and Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c01484
+Screening and Characterization of the Antimicrobial Peptide IKFLRWI for the Healing of Infected Wounds.|https://dx.doi.org/10.1021/acs.jmedchem.6c02327
+Antioxidant/Antibacterial Nanofibers Loaded with Liposome-Encapsulated Proanthocyanidin Complexes: Machine Learning-Optimized Liposome Incorporated in Nanofibers Promotes Antibiotic-Free Wound Healing.|https://dx.doi.org/10.1021/acs.langmuir.6c01645
+Supercritical Carbon Dioxide-Peracetic Acid Treatment Inactivates Low-Level Bacterial Inocula in Collagen Analogue-Phosphorylcholine Hydrogels while Preserving Functional Properties.|https://dx.doi.org/10.1021/acsbiomaterials.6c00519
+Sunlight-Triggered Bacterial Membrane-Targeting Aggregation-Induced Emission "Nanoantibiotic" Hydrogel for Ultrafast Multidrug-Resistant Bacteria Eradication and Diabetic Wound Healing.|https://dx.doi.org/10.1021/acsnano.6c10049
+Functionalized gellan gum hydrogel encapsulating emulsion of probiotic/sea buckthorn oil and co-loading protocatechuic acid for chicken meat preservation.|https://dx.doi.org/10.1016/j.foodres.2026.120688
+Injectable self-healing thermoresponsive hydrogel based on methylcellulose for localized delivery of hydrophobic bioactives.|https://dx.doi.org/10.1016/j.bioadv.2026.215260
+Aptamer-Functionalized Pro-Photosensitizers for Targeted Elimination of Drug-Resistant Bacterial Biofilm Infection by Sequentially Activated Photodynamic-Antibiotic Therapy.|https://dx.doi.org/10.1002/smll.76426
+Dual-Crosslinked Sesbania Gum-Derived Antibacterial Hydrogel Enriched with Multiple Active Sites for Efficient Skin Tissue Engineering.|https://dx.doi.org/10.1021/acs.biomac.6c01911

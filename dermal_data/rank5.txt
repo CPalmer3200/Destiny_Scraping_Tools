@@ -20,3 +20,7 @@ Dual-mechanism adjuvant catharanthine restores β-lactam efficacy against Staphy
 Multifunctional nanocomposite with stage-responsive behavior for wound healing.|https://dx.doi.org/10.1080/09205063.2026.2740602
 Recurrent Delayed Inflammatory Reaction After Dermal Filler Injection Treated With Intralesional 5-fluorouracil, Triamcinolone, and Hyaluronidase.|https://dx.doi.org/10.1097/GOX.0000000000008194
 Beyond Antibacterial Activity: Engineering Multifunctional Biomaterials for Multidrug-Resistant Infections.|https://dx.doi.org/10.1002/jbm.b.70166
+Phenotypic and metabolic characterization of an ADH2 deletion mutant associated with reduced fluconazole susceptibility in Candida albicans.|https://dx.doi.org/10.3389/fcimb.2026.1911561
+Marine Natural Product-Derived Tri-iodinated 2-Benzoylquinazolin-4(3H)-one Alkaloid as a Potent and Selective Agent against MRSA.|https://dx.doi.org/10.1021/acs.jnatprod.6c00727
+Novel dissolving microneedles incorporating natural carrier-free self-assembled nanoparticles synergized with electroacupuncture for diabetic wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.215246
+Access-to-killing relay by wavelength-division Janus nanomotors for biofilm phototherapy.|https://dx.doi.org/10.1016/j.jcis.2026.141801

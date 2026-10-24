@@ -8,3 +8,4 @@ Unmasking Iododerma: A Distinctive Histopathologic Pattern of Neutrophil-Rich De
 Immune-mediated remodelling of tissue architecture in Post-Kala-Azar Dermal Leishmaniasis (PKDL).|https://dx.doi.org/10.1371/journal.pntd.0014798
 PRAME Immunohistochemistry and Molecular Profiling in Undifferentiated Cutaneous Pleomorphic Neoplasms: A Case Series of 8 Tumors.|https://dx.doi.org/10.1111/cup.70239
 Recent advances in SLN and NLC-based lipid nanoparticles for cosmetic, dermal, and transdermal drug delivery: A comprehensive review.|https://dx.doi.org/10.34172/bi.33400
+Predictive modeling of disinfectant efficacy: Integrating bacterial inactivation kinetics with human health risk assessment.|https://dx.doi.org/10.1016/j.foodres.2026.120582
