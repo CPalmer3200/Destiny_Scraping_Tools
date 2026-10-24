@@ -13,3 +13,4 @@ Predictive value of methicillin-resistant Staphylococcus aureus (MRSA) nasal scr
 Molecular Prevalence and Antimicrobial Resistance Patterns of Methicillin-Resistant Staphylococcus aureus in Buffaloes from Bangladesh.|https://dx.doi.org/10.1002/vms3.71295
 Diversity of fatty acid susceptibility among clinical isolates of Staphylococcus aureus and its role in membrane potential.|https://dx.doi.org/10.1016/j.isci.2026.117798
 Genotypic and Phenotypic Characterization of MRSA Colonization and Persistence in Residential Aged Care Facilities in Adelaide, Australia.|https://dx.doi.org/10.1155/ijm/4145293
+Amino acid availability influences Staphylococcus aureus interaction with the nasal microbiota in a strain- and community-specific manner.|https://dx.doi.org/10.1186/s40168-026-02563-x

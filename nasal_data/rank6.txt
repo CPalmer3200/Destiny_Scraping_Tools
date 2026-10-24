@@ -16,3 +16,4 @@ Lyell´s syndrome associated with the use of topical agents: case report.|https:
 Clinical Characteristics Associated with Mortality between Surviving and Non-surviving Adult Patients with Severe Influenza Requiring Hospitalization: An Internet-based, Prospective, Multicenter, Cohort Study in Japan.|https://dx.doi.org/10.2169/internalmedicine.8035-26
 Microbiological aetiology of paediatric ventilator-associated pneumonia and risk factors for carbapenem-resistant acinetobacter and Pseudomonas in a tertiary-care hospital in Thailand.|https://dx.doi.org/10.1016/j.infpip.2026.100595
 Solving the Staphylococcus aureus puzzle: lessons to guide future MRSA vaccine development.|https://dx.doi.org/10.1128/cmr.00112-26
+Recombinant turbot IFN-γ as a molecular adjuvant enhances the protective efficacy of an inactivated Aeromonas salmonicida vaccine.|https://dx.doi.org/10.1016/j.fsi.2026.111776

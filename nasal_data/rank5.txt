@@ -43,3 +43,6 @@ When Does Grade I Ptosis Require Mastopexy? Implant-Only Augmentation in 198 Pat
 Perioperative Outcomes of the Modified Oncoplastic Lift and Lymphatic Excision and Reconstruction (MOLLER) Technique in Breast Surgery.|https://dx.doi.org/10.1002/jso.70431
 Comparative Analysis of Bilateral Stacked Flap and Hybrid Breast Reconstruction: Clinical Results and Patient-reported Outcomes.|https://dx.doi.org/10.1097/GOX.0000000000008179
 Prophylactic Superdrained Deep Inferior Epigastric Perforator Flap: Systematic Review of Survival and Morbidity.|https://dx.doi.org/10.1097/GOX.0000000000008185
+Chemotherapy and microsurgical-related vascular complications in DIEP flap breast reconstruction: A retrospective study.|https://dx.doi.org/10.1016/j.bjps.2026.10.013
+Bacteroides fragilis Abscess Associated With Fat Necrosis Following Breast Augmentation With Autologous Fat Grafting: A Case Report With Review of the Literature.|https://dx.doi.org/10.7759/cureus.116653
+Synthetic Mesh Use in Implant-Based Breast Reconstruction after Mastectomy: What Determines the Surgical Outcome?|https://dx.doi.org/10.1159/brc/abrag007

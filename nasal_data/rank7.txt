@@ -109,3 +109,11 @@ Staphylococcus aureus wall teichoic acid structure dictates virulence potential 
 Bioinspired Mechano-Chemical Titanium Interfaces With Potential for Infection-Resistant Osseointegration.|https://dx.doi.org/10.1002/smll.76382
 Cross-susceptibility among tetracyclines in Gram-positive infections: microbiological basis, EUCAST/CLSI guidance and clinical implications for doxycycline use.|https://dx.doi.org/10.1093/jac/dkag353
 Microbiological profile and antimicrobial resistance of surgical wound infections in a tertiary hospital in Azerbaijan.|https://dx.doi.org/10.1016/j.infpip.2026.100570
+Development and application of a targeted MISCP-S intervention model for psychiatric hospitals.|https://dx.doi.org/10.3389/fcimb.2026.1799863
+Maxillary sinusitis due to Burkholderia cepacia mimicking fungal sinusitis.|https://dx.doi.org/10.1177/00494755261500575
+Predominance of SCCmec type III, multidrug resistance, and evidence of ica-independent biofilm formation among clinical Staphylococcus aureus isolates in Riyadh, Saudi Arabia.|https://dx.doi.org/10.1186/s12879-026-14079-8
+Interfacial Activation of Microgroove-Supported TiO2 Nanotube Arrays for Stable Ag Nanoparticle Retention on Ti-6Al-4V Alloy Surfaces.|https://dx.doi.org/10.1021/acs.langmuir.6c04494
+Dual-Crosslinked Sesbania Gum-Derived Antibacterial Hydrogel Enriched with Multiple Active Sites for Efficient Skin Tissue Engineering.|https://dx.doi.org/10.1021/acs.biomac.6c01911
+Longitudinal Characterization of the Microbiological Status in Primary Ciliary Dyskinesia: An Italian Multicentre Study.|https://dx.doi.org/10.1002/ppul.71875
+Rosemary Ethanolic Extract-Loaded Electrospun Nanofibers as a Bioactive Dressing for Diabetic Wound Healing.|https://dx.doi.org/10.7150/ntno.130423
+Spontaneous Renal Hemorrhage Secondary to MRSA Renal Abscess Requiring Nephrectomy After Failed Percutaneous Drainage: A Case Report.|https://dx.doi.org/10.1002/iju5.70285
