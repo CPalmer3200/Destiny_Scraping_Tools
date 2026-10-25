@@ -53,3 +53,4 @@ Functionalized gellan gum hydrogel encapsulating emulsion of probiotic/sea buckt
 Injectable self-healing thermoresponsive hydrogel based on methylcellulose for localized delivery of hydrophobic bioactives.|https://dx.doi.org/10.1016/j.bioadv.2026.215260
 Aptamer-Functionalized Pro-Photosensitizers for Targeted Elimination of Drug-Resistant Bacterial Biofilm Infection by Sequentially Activated Photodynamic-Antibiotic Therapy.|https://dx.doi.org/10.1002/smll.76426
 Dual-Crosslinked Sesbania Gum-Derived Antibacterial Hydrogel Enriched with Multiple Active Sites for Efficient Skin Tissue Engineering.|https://dx.doi.org/10.1021/acs.biomac.6c01911
+Advanced Polyurethane Foam-Based Hybrid Dressing with Controlled Release of Silver Ions for Treating Infected Wounds.|https://dx.doi.org/10.1002/mabi.70276

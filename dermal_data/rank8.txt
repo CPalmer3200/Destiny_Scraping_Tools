@@ -4,3 +4,5 @@ Lyell´s syndrome associated with the use of topical agents: case report.|https:
 Molecular detection of mecA and mecC-Mediated MRSA nasal carriage among healthcare workers in a tertiary care hospital.|https://dx.doi.org/10.1177/17571774261497956
 Genomic diversity, farm-level persistence, and food safety risk traits of Staphylococcus aureus in small-ruminant raw milk dairy chains in central Italy.|https://dx.doi.org/10.1016/j.foodres.2026.120793
 Preoperative Staphylococcus aureus nasal screening and decolonization for the prevention of periprosthetic joint infection in elective total joint arthroplasty: A single-center retrospective comparative study.|https://dx.doi.org/10.1051/sicotj/2026040
+Drug-Initiated Synthesis and Processing of Mupirocin-PLGA Conjugates for Biodegradable Antibacterial Scaffolds.|https://dx.doi.org/10.1021/acsomega.6c06646
+Coffee Husk-Derived Cellulose Nanocrystals Reinforced Multicomponent Electrospun Membranes for Wound Dressing Applications.|https://dx.doi.org/10.1021/acsomega.6c08172

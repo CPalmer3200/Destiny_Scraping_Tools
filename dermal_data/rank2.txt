@@ -52,3 +52,7 @@ A Retrospective Study of Clinical, Microbiological, and Ulcer Severity Patterns 
 Integrated Genomic Phenotypic and Host-response Analysis of Multidrug-resistant Diabetic Foot Infections: A Tertiary Center Study from Kerala India.|https://dx.doi.org/10.59556/japi.74.1693
 Global gram-negative diabetic foot infection prevalence and its associations with climate: a systematic review and meta-analysis.|https://dx.doi.org/10.1186/s12879-026-13916-0
 Polysaccharide-Based Biomaterials: Chemical Design and Advanced Dressings for Diabetic Chronic Wound Repair.|https://dx.doi.org/10.2147/IJGM.S642526
+Risk factors associated with increased mortality in patients with supracondylar amputation secondary to diabetic foot.|https://dx.doi.org/10.1016/j.medcli.2026.107659
+Ultrasonic debridement promotes wound healing and enhances infection control compared with surgical debridement in diabetic foot ulcers: a propensity score-matched retrospective study.|https://dx.doi.org/10.62347/MHUW5597
+Chronic Kidney Disease Differentially Affects Microbial Patterns, Antimicrobial Sensitivity, and Outcomes in Diabetic Foot Infections.|https://dx.doi.org/10.2337/doc26-0056
+Adjuvant 904 nm Gallium Arsenide Laser Therapy Enhances Healing and Reduces Bacterial Burden in Chronic Wounds: A Randomized Controlled Trial.|https://dx.doi.org/10.1111/wrr.70224

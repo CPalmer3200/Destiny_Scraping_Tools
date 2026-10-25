@@ -5,3 +5,4 @@ Comparative genomic analysis of Staphylococcus spp. and Mammaliicoccus sciuri su
 [Impact of preoperative therapeutic antibiotic use on pathogen detection rate in single-stage revision of chronic periprosthetic joint infection].|https://dx.doi.org/10.7507/1002-1892.202605009
 Recombinant turbot IFN-γ as a molecular adjuvant enhances the protective efficacy of an inactivated Aeromonas salmonicida vaccine.|https://dx.doi.org/10.1016/j.fsi.2026.111776
 Hematology-centered characterization of systemic host responses and atypical circulating cells during Aeromonas salmonicida subsp. salmonicida infection in mandarin fish (Siniperca scherzeri).|https://dx.doi.org/10.1016/j.fsi.2026.111769
+Equipping medical hand-washing stations with cold drinking-quality water - a contribution to sustainability.|https://dx.doi.org/10.3205/dgkh000676
