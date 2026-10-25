@@ -1,0 +1,5 @@
+An exploratory study of gut microbiota and humoral immune responses following bacterial ghost administration in rats.|https://dx.doi.org/10.1016/j.vaccine.2026.129284
+Combating Infectious Disease Challenges: Have We Gone Twenty Steps Forward or Backward?|https://dx.doi.org/10.1097/PTS.0000000000001605
+Drug-Initiated Synthesis and Processing of Mupirocin-PLGA Conjugates for Biodegradable Antibacterial Scaffolds.|https://dx.doi.org/10.1021/acsomega.6c06646
+Coffee Husk-Derived Cellulose Nanocrystals Reinforced Multicomponent Electrospun Membranes for Wound Dressing Applications.|https://dx.doi.org/10.1021/acsomega.6c08172
+Clinical challenges in vaccine and monoclonal antibody development against ESCAPE pathogens: insights from EMA scientific advice procedures.|https://dx.doi.org/10.3389/fmed.2026.1931144
