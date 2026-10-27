@@ -24,3 +24,4 @@ Phenotypic and metabolic characterization of an ADH2 deletion mutant associated 
 Marine Natural Product-Derived Tri-iodinated 2-Benzoylquinazolin-4(3H)-one Alkaloid as a Potent and Selective Agent against MRSA.|https://dx.doi.org/10.1021/acs.jnatprod.6c00727
 Novel dissolving microneedles incorporating natural carrier-free self-assembled nanoparticles synergized with electroacupuncture for diabetic wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.215246
 Access-to-killing relay by wavelength-division Janus nanomotors for biofilm phototherapy.|https://dx.doi.org/10.1016/j.jcis.2026.141801
+Integrated Metabolomics and Network Pharmacology Reveal Anti-Aging and Anti-MRSA Activities of Cucumis melo Var. flexuosus.|https://dx.doi.org/10.1002/cbdv.71874

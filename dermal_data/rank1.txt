@@ -8,3 +8,4 @@ Single-Application Biobrane Versus Nanocrystalline Silver Dressings for Bilatera
 Minocycline-Loaded Agarose Hydrogel Mitigates Burn Wound Progression and Controls Infection in the Management of Deep Partial-Thickness Burns.|https://dx.doi.org/10.1111/wrr.70226
 Biodegradable Janus Electrospun Dressing with Unidirectional Moisture Transport and pH-Responsive Colorimetric Indication for Intelligent Wound Management.|https://dx.doi.org/10.1021/acs.langmuir.6c03464
 [The study of the oral microbiota of patients with "geographical" tongue and burning syndrome].|https://dx.doi.org/10.17116/stomat202610505170
+Screen-printed glycine-functionalized fullerene/ZnO chitosan dressings for enhanced diabetic wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.215247

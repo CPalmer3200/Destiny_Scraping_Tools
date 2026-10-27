@@ -54,3 +54,10 @@ Injectable self-healing thermoresponsive hydrogel based on methylcellulose for l
 Aptamer-Functionalized Pro-Photosensitizers for Targeted Elimination of Drug-Resistant Bacterial Biofilm Infection by Sequentially Activated Photodynamic-Antibiotic Therapy.|https://dx.doi.org/10.1002/smll.76426
 Dual-Crosslinked Sesbania Gum-Derived Antibacterial Hydrogel Enriched with Multiple Active Sites for Efficient Skin Tissue Engineering.|https://dx.doi.org/10.1021/acs.biomac.6c01911
 Advanced Polyurethane Foam-Based Hybrid Dressing with Controlled Release of Silver Ions for Treating Infected Wounds.|https://dx.doi.org/10.1002/mabi.70276
+Carrier-Free Hydrogel From Metal Ion and Near-linear Herbal Polysaccharide With Photothermal and Self-adaptive Multienzyme-Like Activity for Healing MRSA-infected Diabetic Wound.|https://dx.doi.org/10.1002/smll.76434
+Composite antibiotic-loaded nano-platelet vesicle and mineralized hydrogel system for the treatment of infected bone defects.|https://dx.doi.org/10.1186/s12951-026-04799-z
+Bilayer Polycaprolactone (Mitomycin C)/Poly(L-Lactic Acid)/Gelatine (Dimethyloxalylglycine) Nanofibres for Diabetic Wound Repair.|https://dx.doi.org/10.3390/membranes16100344
+Schiff-Base Crosslinked Stretchable Multifunctional Hydrogel Enables Combined Therapy in Diabetic Wound Healing.|https://dx.doi.org/10.3390/jfb17100493
+Biomaterials Based on Jellyfish Collagen from the Black Sea and Other Marine-Derived Biocomposites with Medical Applications.|https://dx.doi.org/10.3390/md24100338
+A Mussel-Inspired Hydrogel Loaded with Ginsenoside Rh1 for Perianal Ulcer Healing.|https://dx.doi.org/10.3390/biomimetics11100726
+Dual-Drug Chitosan Hydrogel Loaded with Metformin and Cefazolin for Antibacterial, Anti-Inflammatory and Antioxidant Treatment of Drug-Resistant Bacteria-Infected Skin Wounds.|https://dx.doi.org/10.3390/gels12100876

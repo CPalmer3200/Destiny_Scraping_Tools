@@ -6,3 +6,4 @@ Genomic diversity, farm-level persistence, and food safety risk traits of Staphy
 Preoperative Staphylococcus aureus nasal screening and decolonization for the prevention of periprosthetic joint infection in elective total joint arthroplasty: A single-center retrospective comparative study.|https://dx.doi.org/10.1051/sicotj/2026040
 Drug-Initiated Synthesis and Processing of Mupirocin-PLGA Conjugates for Biodegradable Antibacterial Scaffolds.|https://dx.doi.org/10.1021/acsomega.6c06646
 Coffee Husk-Derived Cellulose Nanocrystals Reinforced Multicomponent Electrospun Membranes for Wound Dressing Applications.|https://dx.doi.org/10.1021/acsomega.6c08172
+Accelerative effects of a polyphenolic emulsion hydrogel containing gallic, tannic, and chlorogenic acids on full-thickness excisional wound healing in a murine model.|https://dx.doi.org/10.1016/j.ijpharm.2026.127595
