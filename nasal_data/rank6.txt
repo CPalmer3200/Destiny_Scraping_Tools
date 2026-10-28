@@ -5,3 +5,5 @@ Coffee Husk-Derived Cellulose Nanocrystals Reinforced Multicomponent Electrospun
 Clinical challenges in vaccine and monoclonal antibody development against ESCAPE pathogens: insights from EMA scientific advice procedures.|https://dx.doi.org/10.3389/fmed.2026.1931144
 Accelerative effects of a polyphenolic emulsion hydrogel containing gallic, tannic, and chlorogenic acids on full-thickness excisional wound healing in a murine model.|https://dx.doi.org/10.1016/j.ijpharm.2026.127595
 Estimating Economic Costs Associated with Treating Antimicrobial-Resistant Infections in Humans in Malawi.|https://dx.doi.org/10.3390/tropicalmed11100276
+Development and Evaluation of Artificially Attenuated Corynebacterium pseudotuberculosis, Trueperella pyogenes, and Staphylococcus aureus Strains as Live Vaccine Candidates Against Ovine Caseous Lymphadenitis.|https://dx.doi.org/10.3390/vetsci13100996
+Dual Virucidal and Direct Antibacterial Activities of a Commercial Green Tea Extract Preparation and EGCG: Potential Applications for Oral and Upper Respiratory Health.|https://dx.doi.org/10.3390/antibiotics15101007

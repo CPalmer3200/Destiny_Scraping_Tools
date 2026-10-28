@@ -12,3 +12,13 @@ Prosthetic mesh infection after abdominal wall hernia repair: a medico-legal ana
 MRSA Knowledge, Infection-Prevention Practices, and Antibiotic Use Without Clinician Consultation Among Hajj Pilgrims Arriving in Madinah, Saudi Arabia: A Cross-Sectional Study.|https://dx.doi.org/10.3390/tropicalmed11100270
 MRSA Osteomyelitis of the Hallux Growth Plate After Partial Nail Avulsion: A Case Report.|https://dx.doi.org/10.3390/japma116050075
 From Pig Bite to Endocarditis: An Invasive LA-MRSA Infection.|https://dx.doi.org/10.3390/jcdd13100503
+Staphylococcus aureus-associated pyomyositis complicated by deep vein thrombosis and septic pulmonary embolism in a malnourished child: a case report.|https://dx.doi.org/10.1186/s12887-026-07450-w
+Efficacy and safety of pure hypochlorous acid solution for neonatal skin bacterial decolonization.|https://dx.doi.org/10.1038/s41372-026-02932-2
+Fabry's Disease, Valvular Disease and Infective Endocarditis: A Rare Intersection.|https://dx.doi.org/10.1016/j.jaccas.2026.110866
+Fulminant Staphylococcus aureus Pancarditis in an Immunocompetent Adult.|https://dx.doi.org/10.1016/j.jaccas.2026.110860
+A Computational Workflow Integrating Explainable AI and Database Mining for the Prioritization of Antimicrobial Natural Products.|https://dx.doi.org/10.3390/molecules31203683
+Virulence Mechanisms of Streptococcus pneumoniae During Co-Infection.|https://dx.doi.org/10.3390/microorganisms14102355
+Serial Surveillance of Viable Bacterial Contamination in a German Hotel Across Pre-COVID and Pandemic Recovery Periods: Persistent Hotspots and Functional-Area Heterogeneity.|https://dx.doi.org/10.3390/microorganisms14102183
+Antibacterial, Anti-Inflammatory, and Wound-Healing Effects of Micromeria fruticosa Essential Oil-Loaded Nanoemulsion in MRSA-Infected Diabetic Wounds: In Vitro and In Vivo Evaluation.|https://dx.doi.org/10.3390/pharmaceutics18101252
+From Antimicrobial Biomaterials to Infection-Resilient Interfaces: Engineering the Host, Microbe, and Material Interface Against Drug-Resistant Biofilms.|https://dx.doi.org/10.3390/life16101670
+Strain-Dependent Cross-Neutralization of Closely Related Asian-Lineage Zika Viruses by Dengue-Immune Sera.|https://dx.doi.org/10.3390/biom16101386
