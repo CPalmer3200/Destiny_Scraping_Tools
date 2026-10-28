@@ -10,3 +10,4 @@ PRAME Immunohistochemistry and Molecular Profiling in Undifferentiated Cutaneous
 Recent advances in SLN and NLC-based lipid nanoparticles for cosmetic, dermal, and transdermal drug delivery: A comprehensive review.|https://dx.doi.org/10.34172/bi.33400
 Predictive modeling of disinfectant efficacy: Integrating bacterial inactivation kinetics with human health risk assessment.|https://dx.doi.org/10.1016/j.foodres.2026.120582
 A randomised, placebo-controlled study to assess whether antibiotic-mediated disruption of the gut microbiota impairs BCG-induced specific and non-specific immunity in young, healthy adults: protocol for the Antibiotics and Vaccine Immune Responses Study (AVIRS).|https://dx.doi.org/10.1136/bmjopen-2026-126924
+A Narrative Review of Cutaneous Wound-Healing Botanicals in South Africa: Integrating Ethnomedicinal Use, Pharmacological Evidence, and Conservation Prioritization.|https://dx.doi.org/10.3390/ph19101587

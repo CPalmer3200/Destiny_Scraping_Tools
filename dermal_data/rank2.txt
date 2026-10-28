@@ -62,3 +62,11 @@ Whole-Genome Sequencing Re-Identifies Clinical "Peptoniphilus harei" Isolates as
 Podiatric Hospitalist: Better Care Model.|https://dx.doi.org/10.3390/japma116050078
 The Wounds We Don't Heal: Reframing Palliative Wound Care in Podiatric Medicine.|https://dx.doi.org/10.3390/japma116050072
 A Malaysian Expert Consensus on The Identification, Evaluation, and Pharmacological Management of Diabetic Sensorimotor Polyneuropathy.|https://dx.doi.org/10.1007/s13300-026-01927-8
+Identification and validation of candidate biomarkers associated with mitochondrial metabolism in diabetic foot.|https://dx.doi.org/10.1186/s12902-026-02445-1
+Chronic Wounds as Biofilm Ecosystems: Modernizing Microbiology Beyond Planktonic Paradigms.|https://dx.doi.org/10.1177/21621918261501846
+Polymicrobial Complexity Rather than Glycemic Control Is Associated with Multidrug Resistance in Diabetic Foot Infections.|https://dx.doi.org/10.3390/microorganisms14102401
+Association of Vitamin D Supplementation with VDR and CAMP Expression and Ulcer Healing in Diabetic Foot Infection Involving Biofilm-Forming Bacteria: An Exploratory Prospective Cohort Study.|https://dx.doi.org/10.3390/ph19101508
+Antibacterial, Anti-Inflammatory, and Wound-Healing Effects of Micromeria fruticosa Essential Oil-Loaded Nanoemulsion in MRSA-Infected Diabetic Wounds: In Vitro and In Vivo Evaluation.|https://dx.doi.org/10.3390/pharmaceutics18101252
+Heart Failure Is Associated with Limb-Related Adverse Events in Patients Hospitalized for Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/jcm15208024
+The Nuclear Damage-Response Code of Cutaneous Wound Repair: Mechanotransduction, cGAS-STING, Senescence, and Regenerative Interfaces.|https://dx.doi.org/10.3390/biom16101427
+Efficacy of Huangbai liniment for diabetic foot ulcers with multidrug-resistant organism infection: a randomized controlled multicenter trial.|https://dx.doi.org/10.3389/fendo.2026.1926211

@@ -7,3 +7,5 @@ Recombinant turbot IFN-γ as a molecular adjuvant enhances the protective effica
 Hematology-centered characterization of systemic host responses and atypical circulating cells during Aeromonas salmonicida subsp. salmonicida infection in mandarin fish (Siniperca scherzeri).|https://dx.doi.org/10.1016/j.fsi.2026.111769
 Equipping medical hand-washing stations with cold drinking-quality water - a contribution to sustainability.|https://dx.doi.org/10.3205/dgkh000676
 Clinical characteristics of infections due to Staphylococcus lugdunensis compared to other staphylococcal infections.|https://dx.doi.org/10.1186/s12879-026-14068-x
+Staphylococcus aureus-associated pyomyositis complicated by deep vein thrombosis and septic pulmonary embolism in a malnourished child: a case report.|https://dx.doi.org/10.1186/s12887-026-07450-w
+Antimony-Doped Violet Phosphorus Nanosheets: Band Gap Engineering for Enhanced Photodynamic Effect and Efficient Antibacterial Activity.|https://dx.doi.org/10.1021/acsami.6c18491

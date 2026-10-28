@@ -61,3 +61,9 @@ Schiff-Base Crosslinked Stretchable Multifunctional Hydrogel Enables Combined Th
 Biomaterials Based on Jellyfish Collagen from the Black Sea and Other Marine-Derived Biocomposites with Medical Applications.|https://dx.doi.org/10.3390/md24100338
 A Mussel-Inspired Hydrogel Loaded with Ginsenoside Rh1 for Perianal Ulcer Healing.|https://dx.doi.org/10.3390/biomimetics11100726
 Dual-Drug Chitosan Hydrogel Loaded with Metformin and Cefazolin for Antibacterial, Anti-Inflammatory and Antioxidant Treatment of Drug-Resistant Bacteria-Infected Skin Wounds.|https://dx.doi.org/10.3390/gels12100876
+Multifunctional Three-Dimensional-Printed Bio-Ink from Waterborne Polyurethane and Natural Antioxidants for Advanced Wound Dressings.|https://dx.doi.org/10.1021/acsbiomaterials.6c01170
+RGD Peptide-Functionalized CMC Hydrogel Enhances Skin Wound Repair in Mice.|https://dx.doi.org/10.3390/molecules31203761
+Functionalization of Metal-Enriched Pleurotus Biomass with γ-Poly-Glutamic Acid for Cytoprotective and Antimicrobial Wound Care.|https://dx.doi.org/10.3390/ph19101627
+Ciprofloxacin and Purple Carrot Extract-Loaded Bilayer Nanofibrous Wound Dressings: A Multifunctional Platform for Controlled Release and Antibacterial Wound Care.|https://dx.doi.org/10.3390/polym18202479
+Antibacterial and Photoactive Niobium Pentoxide-Loaded Chitosan-Gelatin Hydrogels with Favorable Cytocompatibility.|https://dx.doi.org/10.3390/ijms27209124
+Synthesis, Characterization, and Multifunctional Applications of Chitosan-Grafted-Poly(Acrylic Acid-Co-Acrylamide)/ZnO Nanocomposite Hydrogel: Loading Studies, Antimicrobial Activity, Wound Healing, and Anticancer Potential.|https://dx.doi.org/10.2147/IJN.S612602
