@@ -26,3 +26,4 @@ Novel dissolving microneedles incorporating natural carrier-free self-assembled 
 Access-to-killing relay by wavelength-division Janus nanomotors for biofilm phototherapy.|https://dx.doi.org/10.1016/j.jcis.2026.141801
 Integrated Metabolomics and Network Pharmacology Reveal Anti-Aging and Anti-MRSA Activities of Cucumis melo Var. flexuosus.|https://dx.doi.org/10.1002/cbdv.71874
 Rhamnolipids and Essential Oils: A New Approach to Managing Bacteria Associated with Skin Diseases.|https://dx.doi.org/10.3390/microorganisms14102254
+Phase-Programmed Microneedles Enable Sequential Hydrogen and Quercetin Release for Scar-Reduced Regeneration of Burn Wounds.|https://dx.doi.org/10.1002/advs.78512

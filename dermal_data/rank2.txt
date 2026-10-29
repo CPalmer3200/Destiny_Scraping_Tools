@@ -70,3 +70,6 @@ Antibacterial, Anti-Inflammatory, and Wound-Healing Effects of Micromeria frutic
 Heart Failure Is Associated with Limb-Related Adverse Events in Patients Hospitalized for Diabetic Foot Ulcers.|https://dx.doi.org/10.3390/jcm15208024
 The Nuclear Damage-Response Code of Cutaneous Wound Repair: Mechanotransduction, cGAS-STING, Senescence, and Regenerative Interfaces.|https://dx.doi.org/10.3390/biom16101427
 Efficacy of Huangbai liniment for diabetic foot ulcers with multidrug-resistant organism infection: a randomized controlled multicenter trial.|https://dx.doi.org/10.3389/fendo.2026.1926211
+"Life and Lower Limb Threatening Condition" Clinical Features, Management and Outcomes of Diabetic Foot Ulcers Complicated by Gas Gangrene: A Prospective Cohort Study.|https://dx.doi.org/10.1111/iwj.71077
+Medial Arterial Calcification in Diabetes-Related Foot Disease: An Arterial-Wall Dimension Uncharacterized in Current Limb Staging.|https://dx.doi.org/10.1016/j.avsg.2026.10.032
+Advances in diabetic foot ulcer management: a narrative review of novel antibiotics, nanotechnology, and regenerative therapeutics.|https://dx.doi.org/10.3389/fmicb.2026.1882663

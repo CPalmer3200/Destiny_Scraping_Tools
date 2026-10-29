@@ -67,3 +67,6 @@ Functionalization of Metal-Enriched Pleurotus Biomass with γ-Poly-Glutamic Acid
 Ciprofloxacin and Purple Carrot Extract-Loaded Bilayer Nanofibrous Wound Dressings: A Multifunctional Platform for Controlled Release and Antibacterial Wound Care.|https://dx.doi.org/10.3390/polym18202479
 Antibacterial and Photoactive Niobium Pentoxide-Loaded Chitosan-Gelatin Hydrogels with Favorable Cytocompatibility.|https://dx.doi.org/10.3390/ijms27209124
 Synthesis, Characterization, and Multifunctional Applications of Chitosan-Grafted-Poly(Acrylic Acid-Co-Acrylamide)/ZnO Nanocomposite Hydrogel: Loading Studies, Antimicrobial Activity, Wound Healing, and Anticancer Potential.|https://dx.doi.org/10.2147/IJN.S612602
+A pH-responsive, multifunctional dressing based on MOF-functionalized chitosan for infected wound repair through macrophage phenotype modulation.|https://dx.doi.org/10.1016/j.jcis.2026.141803
+Bioinspired Hydroxyapatite-Mineralized Silk Fibroin/Ionic Liquid Interpenetrating Hydrogels for Biomedical Applications.|https://dx.doi.org/10.1021/acsbiomaterials.6c01380
+pH-Responsive Dopamine-Grafted Polysaccharide Hydrogel with Enhanced Antibacterial and Hemostatic Properties.|https://dx.doi.org/10.1021/acsabm.6c01464
