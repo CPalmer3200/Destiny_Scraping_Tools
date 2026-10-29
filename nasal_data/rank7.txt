@@ -22,3 +22,9 @@ Serial Surveillance of Viable Bacterial Contamination in a German Hotel Across P
 Antibacterial, Anti-Inflammatory, and Wound-Healing Effects of Micromeria fruticosa Essential Oil-Loaded Nanoemulsion in MRSA-Infected Diabetic Wounds: In Vitro and In Vivo Evaluation.|https://dx.doi.org/10.3390/pharmaceutics18101252
 From Antimicrobial Biomaterials to Infection-Resilient Interfaces: Engineering the Host, Microbe, and Material Interface Against Drug-Resistant Biofilms.|https://dx.doi.org/10.3390/life16101670
 Strain-Dependent Cross-Neutralization of Closely Related Asian-Lineage Zika Viruses by Dengue-Immune Sera.|https://dx.doi.org/10.3390/biom16101386
+Endobronchial Valves for Persistent Air Leaks in Necrotizing Pneumonia and Complex Pleuropulmonary Infections: A National Analysis of Safety and Efficacy.|https://dx.doi.org/10.1016/j.rmed.2026.109225
+Bioinspired Hydroxyapatite-Mineralized Silk Fibroin/Ionic Liquid Interpenetrating Hydrogels for Biomedical Applications.|https://dx.doi.org/10.1021/acsbiomaterials.6c01380
+The staphylococcal protease SspA perturbs the epidermal barrier and promotes IL-22-driven inflammation in allergen-exposed skin.|https://dx.doi.org/10.1073/pnas.2611563123
+Comparative analysis of various infection models to provide methodological insights for the characterization of new antivirulence drugs to fight antibioresistance.|https://dx.doi.org/10.1128/spectrum.00411-26
+Pathogen Spectrum and Epidemiological Characteristics Detected by Multiplex Loop-Mediated Isothermal Amplification in Elderly Patients in Guangzhou.|https://dx.doi.org/10.3791/73513
+Persistent Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia Due to Pelvic Pyomyositis and Abscesses With Extension Through the Sciatic Notch: A Case Report.|https://dx.doi.org/10.7759/cureus.117021
