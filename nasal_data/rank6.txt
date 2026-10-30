@@ -7,3 +7,4 @@ Accelerative effects of a polyphenolic emulsion hydrogel containing gallic, tann
 Estimating Economic Costs Associated with Treating Antimicrobial-Resistant Infections in Humans in Malawi.|https://dx.doi.org/10.3390/tropicalmed11100276
 Development and Evaluation of Artificially Attenuated Corynebacterium pseudotuberculosis, Trueperella pyogenes, and Staphylococcus aureus Strains as Live Vaccine Candidates Against Ovine Caseous Lymphadenitis.|https://dx.doi.org/10.3390/vetsci13100996
 Dual Virucidal and Direct Antibacterial Activities of a Commercial Green Tea Extract Preparation and EGCG: Potential Applications for Oral and Upper Respiratory Health.|https://dx.doi.org/10.3390/antibiotics15101007
+Autophagy in macrophages curtails IL-1α-mediated immune priming against lung infections.|https://dx.doi.org/10.1038/s41590-026-02699-w
