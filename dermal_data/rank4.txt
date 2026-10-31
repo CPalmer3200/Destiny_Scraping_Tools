@@ -70,3 +70,9 @@ Synthesis, Characterization, and Multifunctional Applications of Chitosan-Grafte
 A pH-responsive, multifunctional dressing based on MOF-functionalized chitosan for infected wound repair through macrophage phenotype modulation.|https://dx.doi.org/10.1016/j.jcis.2026.141803
 Bioinspired Hydroxyapatite-Mineralized Silk Fibroin/Ionic Liquid Interpenetrating Hydrogels for Biomedical Applications.|https://dx.doi.org/10.1021/acsbiomaterials.6c01380
 pH-Responsive Dopamine-Grafted Polysaccharide Hydrogel with Enhanced Antibacterial and Hemostatic Properties.|https://dx.doi.org/10.1021/acsabm.6c01464
+Chitosan/cellulose based multilayer dressing with directional exudate transport for sequential hemostasis and anti-infection in wound management.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155091
+Novel Gram-negative bacteria hydrogel radiation dosimeters: Water equivalence and comparison with Gram-positive bacterial dosimeter.|https://dx.doi.org/10.1016/j.apradiso.2026.113055
+Thermo-sensitive antibacterial applications of smart responsive hydrogels loaded with conjugated molecular materials.|https://dx.doi.org/10.1039/d6tb01795a
+Hierarchical platform of BMP-2 by ZIF-8 encapsulation and ACP coating within a base-prepared chitosan hydrogel for alveolar bone repair.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155074
+Asymmetric Janus Patch Integrating Antifouling and Wet-Adhesive Functions for Infected Wound Repair.|https://dx.doi.org/10.1021/acsami.6c16106
+Light-activated viologen-based metal-covalent organic framework sprayable hydrogel for accelerated healing of infected skin wounds.|https://dx.doi.org/10.3389/fcimb.2026.1975470

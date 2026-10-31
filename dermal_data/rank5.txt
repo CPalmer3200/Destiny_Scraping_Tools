@@ -27,3 +27,5 @@ Access-to-killing relay by wavelength-division Janus nanomotors for biofilm phot
 Integrated Metabolomics and Network Pharmacology Reveal Anti-Aging and Anti-MRSA Activities of Cucumis melo Var. flexuosus.|https://dx.doi.org/10.1002/cbdv.71874
 Rhamnolipids and Essential Oils: A New Approach to Managing Bacteria Associated with Skin Diseases.|https://dx.doi.org/10.3390/microorganisms14102254
 Phase-Programmed Microneedles Enable Sequential Hydrogen and Quercetin Release for Scar-Reduced Regeneration of Burn Wounds.|https://dx.doi.org/10.1002/advs.78512
+A new validated UHPLC method for the simultaneous determination of diclofenac sodium and oxacillin sodium monohydrate for their combined dosage form for dermal delivery.|https://dx.doi.org/10.1039/d6ay01309k
+NIR-responsive carbon monoxide nanoplatform for synergistic antibacterial and anti-inflammatory therapy of refractory keratitis and biofilm-infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.103727

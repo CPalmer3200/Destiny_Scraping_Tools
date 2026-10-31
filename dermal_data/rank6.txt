@@ -5,3 +5,4 @@ The Species-Selective Activity of Peptiskin Is Associated with Cell Wall Affinit
 Facial Atopic Dermatitis Treated with Chitosan.|https://dx.doi.org/10.3390/life16101657
 House dust mite drives biphasic immunomodulation of inflammatory dendritic epidermal cells via glucose metabolism in atopic dermatitis.|https://dx.doi.org/10.3389/fimmu.2026.1887390
 The staphylococcal protease SspA perturbs the epidermal barrier and promotes IL-22-driven inflammation in allergen-exposed skin.|https://dx.doi.org/10.1073/pnas.2611563123
+Nasal methicillin-resistant Staphylococcus aureus in adult atopic dermatitis: Severity and virulence associations-A cross-sectional study.|https://dx.doi.org/10.1177/03000605261497554

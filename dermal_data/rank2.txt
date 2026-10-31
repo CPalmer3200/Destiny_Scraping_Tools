@@ -73,3 +73,7 @@ Efficacy of Huangbai liniment for diabetic foot ulcers with multidrug-resistant 
 "Life and Lower Limb Threatening Condition" Clinical Features, Management and Outcomes of Diabetic Foot Ulcers Complicated by Gas Gangrene: A Prospective Cohort Study.|https://dx.doi.org/10.1111/iwj.71077
 Medial Arterial Calcification in Diabetes-Related Foot Disease: An Arterial-Wall Dimension Uncharacterized in Current Limb Staging.|https://dx.doi.org/10.1016/j.avsg.2026.10.032
 Advances in diabetic foot ulcer management: a narrative review of novel antibiotics, nanotechnology, and regenerative therapeutics.|https://dx.doi.org/10.3389/fmicb.2026.1882663
+2-deoxy-2-[(18)F]fluoro-d-glucose PET Combined with Computed Tomography in Musculoskeletal and Spine Infections.|https://dx.doi.org/10.1016/j.cpet.2026.09.014
+Outcomes of Calcanectomy in Diabetic Foot Ulcers and Calcaneal Osteomyelitis: A Systematic Review.|https://dx.doi.org/10.1016/j.avsg.2026.10.040
+The role of the microbiome in diabetic foot ulcers: Biofilm community dynamics differ with healing outcomes.|https://dx.doi.org/10.1016/j.bioflm.2026.100405
+Serum β-defensin-3 and inflammatory markers for discriminating diabetic foot infection and infection severity: a retrospective study.|https://dx.doi.org/10.3389/fendo.2026.1966400
