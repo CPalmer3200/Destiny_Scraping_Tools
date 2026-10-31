@@ -34,3 +34,6 @@ Human organotypic skin explant culture (hOSEC): an alternative approach to Staph
 Same R0 , Different Risk: Colonization-Age Timing and Heterogeneity Drive ICU MRSA Establishment and Burden.|https://dx.doi.org/10.1007/s11538-026-01770-9
 Modelling the effect of interventions to prevent MRSA transmission within hospitals in Edmonton, Canada.|https://dx.doi.org/10.1016/j.idm.2026.08.004
 Light-activated viologen-based metal-covalent organic framework sprayable hydrogel for accelerated healing of infected skin wounds.|https://dx.doi.org/10.3389/fcimb.2026.1975470
+Effect of environmental factors on attachment of Escherichia coli and Staphylococcus aureus to polypropylene microplastics.|https://dx.doi.org/10.1016/j.envres.2026.126078
+Post-Strabismus Surgery Endophthalmitis With Subretinal Abscess and Frosted-Branch Angiitis in a Child.|https://dx.doi.org/10.1177/24741264261497558
+A stretchable liquid-metal bioelectric catheter for active management of catheter-associated urinary tract infections.|https://dx.doi.org/10.1016/j.mtbio.2026.103764

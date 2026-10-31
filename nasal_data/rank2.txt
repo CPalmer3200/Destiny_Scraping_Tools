@@ -3,3 +3,4 @@ Infections Following Skin Graft Surgery in Australia: Incidence, Graft Type and 
 A Duplex Isothermal RPA-Lateral Flow Platform for Concurrent Detection of Staphylococcus Aureus and mecA-Mediated Methicillin Resistance.|https://dx.doi.org/10.3390/diagnostics16203295
 Invisible shield: sprayable supramolecular antimicrobial microscale films for preventing wound and medical device infections.|https://dx.doi.org/10.1038/s44385-026-00121-6
 Nasal Photodisinfection and Surgical Site Infection Following Coronary Bypass Surgery: An Interrupted Time Series Analysis.|https://dx.doi.org/10.1016/j.jhin.2026.10.017
+Nasal methicillin-resistant Staphylococcus aureus in adult atopic dermatitis: Severity and virulence associations-A cross-sectional study.|https://dx.doi.org/10.1177/03000605261497554
