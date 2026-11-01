@@ -9,3 +9,4 @@ Development and Evaluation of Artificially Attenuated Corynebacterium pseudotube
 Dual Virucidal and Direct Antibacterial Activities of a Commercial Green Tea Extract Preparation and EGCG: Potential Applications for Oral and Upper Respiratory Health.|https://dx.doi.org/10.3390/antibiotics15101007
 Autophagy in macrophages curtails IL-1α-mediated immune priming against lung infections.|https://dx.doi.org/10.1038/s41590-026-02699-w
 The burden of bacterial antimicrobial resistance in the WHO Western Pacific Region 1990-2021: a cross-country systematic analysis with forecasts to 2050.|https://dx.doi.org/10.1016/j.lanwpc.2026.101997
+Nasopharyngeal bacterial carriage in Indonesian children under three years of age in the early post-PCV13 period.|https://dx.doi.org/10.1016/j.ijid.2026.109218

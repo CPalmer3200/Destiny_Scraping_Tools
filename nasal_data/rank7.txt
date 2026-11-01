@@ -37,3 +37,6 @@ Light-activated viologen-based metal-covalent organic framework sprayable hydrog
 Effect of environmental factors on attachment of Escherichia coli and Staphylococcus aureus to polypropylene microplastics.|https://dx.doi.org/10.1016/j.envres.2026.126078
 Post-Strabismus Surgery Endophthalmitis With Subretinal Abscess and Frosted-Branch Angiitis in a Child.|https://dx.doi.org/10.1177/24741264261497558
 A stretchable liquid-metal bioelectric catheter for active management of catheter-associated urinary tract infections.|https://dx.doi.org/10.1016/j.mtbio.2026.103764
+Quorum sensing beyond the virulence switch: communication, biofilm plasticity, and anti-virulence strategies in Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-026-05296-5
+RDAR biofilm formation and in silico analysis of putative amyloid proteins in Azospirillum baldaniorum Sp245.|https://dx.doi.org/10.1007/s00203-026-05297-4
+Environmental stabilization for recurrent Panton-Valentine leukocidin-positive methicillin-resistant Staphylococcus aureus infection in an infant with autoimmune neutropenia: A case report applying Bronfenbrenner's ecological model.|https://dx.doi.org/10.4103/jfmpc.jfmpc_686_26
