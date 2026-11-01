@@ -29,3 +29,4 @@ Rhamnolipids and Essential Oils: A New Approach to Managing Bacteria Associated 
 Phase-Programmed Microneedles Enable Sequential Hydrogen and Quercetin Release for Scar-Reduced Regeneration of Burn Wounds.|https://dx.doi.org/10.1002/advs.78512
 A new validated UHPLC method for the simultaneous determination of diclofenac sodium and oxacillin sodium monohydrate for their combined dosage form for dermal delivery.|https://dx.doi.org/10.1039/d6ay01309k
 NIR-responsive carbon monoxide nanoplatform for synergistic antibacterial and anti-inflammatory therapy of refractory keratitis and biofilm-infected wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.103727
+Fungal biofilm-associated infections in immunocompromised African populations: A narrative review of Candidozyma auris emergence, antifungal resistance mechanisms, and laboratory detection algorithms.|https://dx.doi.org/10.1016/j.diagmicrobio.2026.117711
