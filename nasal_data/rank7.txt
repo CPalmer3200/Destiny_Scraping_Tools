@@ -40,3 +40,5 @@ A stretchable liquid-metal bioelectric catheter for active management of cathete
 Quorum sensing beyond the virulence switch: communication, biofilm plasticity, and anti-virulence strategies in Staphylococcus aureus.|https://dx.doi.org/10.1007/s00203-026-05296-5
 RDAR biofilm formation and in silico analysis of putative amyloid proteins in Azospirillum baldaniorum Sp245.|https://dx.doi.org/10.1007/s00203-026-05297-4
 Environmental stabilization for recurrent Panton-Valentine leukocidin-positive methicillin-resistant Staphylococcus aureus infection in an infant with autoimmune neutropenia: A case report applying Bronfenbrenner's ecological model.|https://dx.doi.org/10.4103/jfmpc.jfmpc_686_26
+Use of a molecular syndromic panel for the etiological diagnosis of bloodstream infections in critically ill patients: impact on clinical outcomes and antimicrobial use from a multicenter, prospective study.|https://dx.doi.org/10.1080/07853890.2026.2750724
+Microbiological profiles, antimicrobial resistance patterns and mortality-associated factors in necrotizing soft tissue infections: a 16-year retrospective cohort study.|https://dx.doi.org/10.1093/jac/dkag375
