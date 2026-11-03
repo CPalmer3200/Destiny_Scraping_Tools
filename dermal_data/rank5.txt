@@ -1,0 +1,3 @@
+A Biomimetic Microneedle Platform Using Neutrophil Membrane for Synergistic Antibacterial Therapy of MRSA Infection.|https://dx.doi.org/10.1002/adhm.71919
+Electronically tuned N-terminal glycine selective bioconjugation enables in vitro and in vivo species-specific Staphylococcus aureus targeting.|https://dx.doi.org/10.1038/s41467-026-77959-2
+Antimicrobial efficacy and interaction of Manuka honey and established wound therapies against Pseudomonas aeruginosa.|https://dx.doi.org/10.1016/j.burns.2026.108264
