@@ -1,1 +1,5 @@
 Core-Shell Microneedles for Sequential Delivery of Antibacterial, Antioxidant, and Anti-Inflammatory Agents in Infected Wound Healing.|https://dx.doi.org/10.1002/adhm.71942
+Glucose/pH dual responsive drug release hydrogel of Ulva prolifera polysaccharide for potential diabetic wound healing management.|https://dx.doi.org/10.1016/j.bioadv.2026.215285
+A Sporosarcina pasteurii-enabled self-powered wound dressing with biomineralization capability.|https://dx.doi.org/10.1016/j.bioelechem.2026.109499
+Dynamic GelMA/Oxidized Hyaluronic Acid Hydrogels Enable Acid-Accelerated Localized Delivery of Photothermal Melatonin-Derived Carbon Dots for Infected Bone Repair.|https://dx.doi.org/10.1021/acsami.6c16198
+Guar gum- and montmorillonite-based all-natural hydrogels for superior wound healing.|https://dx.doi.org/10.1039/d6tb01819j
