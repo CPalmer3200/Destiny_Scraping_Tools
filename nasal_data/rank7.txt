@@ -45,3 +45,11 @@ Microbiological profiles, antimicrobial resistance patterns and mortality-associ
 Prevalence, bacterial etiology, and risk factors of clinical and subclinical mastitis in dromedary camels (Camelus dromedarius) across pastoral and peri-urban production systems in south-central Somalia.|https://dx.doi.org/10.1186/s12917-026-05792-2
 Spinal infection by Enterobacter hormaechei: an unusual cause of spondylodiscitis: a case report.|https://dx.doi.org/10.1186/s13256-026-06333-z
 Glyco-engineered mannose-graphene oxide/PVA/CD hybrid coatings: a smart surface functionalization strategy for antibacterial catheter applications.|https://dx.doi.org/10.1039/d6tb00442c
+The Association Between Meconium Ileus and Nutritional and Pulmonary Outcomes in Children With Cystic Fibrosis.|https://dx.doi.org/10.1002/ppul.71895
+The impact of CHG bathing on healthcare-associated bloodstream infections across a health system serving a predominantly rural population.|https://dx.doi.org/10.1017/ice.2026.10603
+Complications in Pediatric Cancer Patients With Staphylococcus aureus Bloodstream Infection.|https://dx.doi.org/10.1542/peds.2025-075263
+Pathogen-specific positron emission tomography for Enterobacterales bone infection.|https://dx.doi.org/10.1302/2046-3758.1511.BJR-2026-0012.R1
+Engineered probiotics for the control of antibiotic-resistant and difficult-to-treat pathogens.|https://dx.doi.org/10.1007/s12223-026-01630-y
+Correlation between phenotypic disc diffusion test and PCR molecular test for detection of methicillin resistance in Staphylococcus epidermidis and Staphylococcus hominis.|https://dx.doi.org/10.1099/jmm.0.002207
+Risk Factors for Colonization With Antibiotic-Resistant Bacteria Among Hospitalized Patients in Bangladesh: An Antibiotic Resistance in Communities and Hospitals (ARCH) Study.|https://dx.doi.org/10.1093/ofid/ofag647
+Metagenomic next-generation sequencing of aqueous humor guides targeted therapy for Staphylococcus epidermidis endophthalmitis in chronic ocular graft-versus-host disease: a case report.|https://dx.doi.org/10.3389/fimmu.2026.1966692
