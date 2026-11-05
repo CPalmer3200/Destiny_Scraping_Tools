@@ -3,3 +3,5 @@ PRISM: incorporating advanced imaging technologies into a comprehensive strategy
 Orthoplastic Limb Salvage Using Transtibial Transport and Free-Flap Reconstruction in Patients With Diabetes-Related Chronic Limb-Threatening Ischemia.|https://dx.doi.org/10.5435/JAAOSGlobal-D-26-00157
 Clinical Diagnosis Versus Plain Radiography for Diabetic Foot Osteomyelitis: A Prospective Study of Diagnostic Agreement in a Resource-Limited Settings.|https://dx.doi.org/10.1111/iwj.71085
 Electrospun Janus Nanofibrous Membranes for Diabetic Foot Ulcers: Structure-Function Relationships and Multifunctional Synergistic Therapy.|https://dx.doi.org/10.1021/acsbiomaterials.6c01162
+Preanalytical Benchmarks for Solvent-Based GC-MS Profiling of Volatile Organic Compounds in Diabetic Foot Ulcer Swabs.|https://dx.doi.org/10.1021/jasms.6c00247
+Pharmacological agents for promoting diabetic wound healing.|https://dx.doi.org/10.1016/j.apsb.2026.09.007
