@@ -53,3 +53,7 @@ Engineered probiotics for the control of antibiotic-resistant and difficult-to-t
 Correlation between phenotypic disc diffusion test and PCR molecular test for detection of methicillin resistance in Staphylococcus epidermidis and Staphylococcus hominis.|https://dx.doi.org/10.1099/jmm.0.002207
 Risk Factors for Colonization With Antibiotic-Resistant Bacteria Among Hospitalized Patients in Bangladesh: An Antibiotic Resistance in Communities and Hospitals (ARCH) Study.|https://dx.doi.org/10.1093/ofid/ofag647
 Metagenomic next-generation sequencing of aqueous humor guides targeted therapy for Staphylococcus epidermidis endophthalmitis in chronic ocular graft-versus-host disease: a case report.|https://dx.doi.org/10.3389/fimmu.2026.1966692
+Regulatory T cells in atopic dermatitis: mechanisms of dysfunction, plasticity and therapeutic reprogramming.|https://dx.doi.org/10.1007/s00011-026-02403-6
+Severe post-traumatic periocular infection associated with Lodderomyces elongisporus: a case report.|https://dx.doi.org/10.1080/01676830.2026.2757035
+Ludwig Angina at 28 Weeks' Gestation in Somalia with Persistent Deep Neck Collections Requiring Repeat Surgical Drainage: A Case Report.|https://dx.doi.org/10.2147/IDR.S641613
+Human airway model reveals host-pathogen co-infection dynamics of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1093/ismeco/ycag284
