@@ -5,3 +5,4 @@ Clinical Diagnosis Versus Plain Radiography for Diabetic Foot Osteomyelitis: A P
 Electrospun Janus Nanofibrous Membranes for Diabetic Foot Ulcers: Structure-Function Relationships and Multifunctional Synergistic Therapy.|https://dx.doi.org/10.1021/acsbiomaterials.6c01162
 Preanalytical Benchmarks for Solvent-Based GC-MS Profiling of Volatile Organic Compounds in Diabetic Foot Ulcer Swabs.|https://dx.doi.org/10.1021/jasms.6c00247
 Pharmacological agents for promoting diabetic wound healing.|https://dx.doi.org/10.1016/j.apsb.2026.09.007
+Comparative genomic and resistome analysis of Citrobacter koseri: first genome report from Egypt.|https://dx.doi.org/10.1186/s12866-026-05726-w

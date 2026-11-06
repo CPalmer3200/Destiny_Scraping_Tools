@@ -3,3 +3,4 @@ Electronically tuned N-terminal glycine selective bioconjugation enables in vitr
 Antimicrobial efficacy and interaction of Manuka honey and established wound therapies against Pseudomonas aeruginosa.|https://dx.doi.org/10.1016/j.burns.2026.108264
 Beyond live probiotics: bioactivities, mechanisms, and application perspectives of Lacticaseibacillus rhamnosus cell-free supernatants.|https://dx.doi.org/10.1007/s11274-026-05377-z
 Cross hybridization inference for phylogenetic resolution-fluorescence in situ hybridization enables microbiome imaging with strain level taxonomic resolution.|https://dx.doi.org/10.1093/ismeco/ycag296
+A Sequentially Disassembling Nanocomposite Hydrogel with Lesion-Triggered Luteolin Release for Multitarget Acne Vulgaris Therapy.|https://dx.doi.org/10.1021/acsami.6c16632

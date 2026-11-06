@@ -4,3 +4,7 @@ A Sporosarcina pasteurii-enabled self-powered wound dressing with biomineralizat
 Dynamic GelMA/Oxidized Hyaluronic Acid Hydrogels Enable Acid-Accelerated Localized Delivery of Photothermal Melatonin-Derived Carbon Dots for Infected Bone Repair.|https://dx.doi.org/10.1021/acsami.6c16198
 Guar gum- and montmorillonite-based all-natural hydrogels for superior wound healing.|https://dx.doi.org/10.1039/d6tb01819j
 EGCG@ZIF-8@Polydopamine-Functionalized Janus Nanofibrous Dressing with Directional Exudate Transport and Photothermal Antibacterial Activity for Infected Wound Treatment.|https://dx.doi.org/10.1021/acsami.6c15553
+An in situ gene-activated chitosan hydrogel for infection control and angiogenesis in infected diabetic wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155183
+Thiolated nanocellulose hydrogel derived from waste cotton textiles for photocatalytic dye removal.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155163
+Sono-enzymatically engineered tannic acid/doxycycline-lignin nanoparticles enable self-assembled bioactive chitosan hydrogels for chronic wound healing.|https://dx.doi.org/10.1016/j.mtbio.2026.103792
+Short ZnO Nanofiber-Integrated Electrospun Nanofibrous Scaffolds as Advanced Antibacterial Wound Dressings.|https://dx.doi.org/10.1021/acsabm.6c01395
