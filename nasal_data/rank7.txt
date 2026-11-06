@@ -57,3 +57,7 @@ Regulatory T cells in atopic dermatitis: mechanisms of dysfunction, plasticity a
 Severe post-traumatic periocular infection associated with Lodderomyces elongisporus: a case report.|https://dx.doi.org/10.1080/01676830.2026.2757035
 Ludwig Angina at 28 Weeks' Gestation in Somalia with Persistent Deep Neck Collections Requiring Repeat Surgical Drainage: A Case Report.|https://dx.doi.org/10.2147/IDR.S641613
 Human airway model reveals host-pathogen co-infection dynamics of Staphylococcus aureus and Pseudomonas aeruginosa.|https://dx.doi.org/10.1093/ismeco/ycag284
+Association of Plasma IL-34, IL-37, and IL-38 With Asthma, Eczema, and Nasopharyngeal Bacteria in Early Childhood.|https://dx.doi.org/10.1111/apm.70281
+A comprehensive assessment of cervical cancer risk factors, screening modalities, and cytological outcomes.|https://dx.doi.org/10.47391/JPMA.31401
+Descending Necrotizing Mediastinitis After Thyroidectomy.|https://dx.doi.org/10.1002/hed.70543
+Pyomyositis in Northern California Following Provoked Deep Vein Thrombosis.|https://dx.doi.org/10.1155/crcc/8846829
