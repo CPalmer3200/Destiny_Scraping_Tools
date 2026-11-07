@@ -61,3 +61,9 @@ Association of Plasma IL-34, IL-37, and IL-38 With Asthma, Eczema, and Nasophary
 A comprehensive assessment of cervical cancer risk factors, screening modalities, and cytological outcomes.|https://dx.doi.org/10.47391/JPMA.31401
 Descending Necrotizing Mediastinitis After Thyroidectomy.|https://dx.doi.org/10.1002/hed.70543
 Pyomyositis in Northern California Following Provoked Deep Vein Thrombosis.|https://dx.doi.org/10.1155/crcc/8846829
+Risk factors and morbidity characteristics of surgical site infection following ankle fracture ORIF: A comprehensive analysis.|https://dx.doi.org/10.1097/MD.0000000000051389
+Preliminary Experience with a Standardized Perioperative Protocol for Infection Prevention in Inflatable Penile Prosthesis Surgery.|https://dx.doi.org/10.1016/j.urology.2026.10.037
+Acetyl-Proteomic Characterization of MRSA in Interaction with C. butyricum Unveils ThrS Acetylation Enhancing Bacterial Stress Resistance.|https://dx.doi.org/10.1021/acs.jproteome.6c00579
+Bacterial profile and antimicrobial susceptibility patterns of blood culture isolates in pediatric patients at children hospital, Sukkur: a one-year retrospective analysis.|https://dx.doi.org/10.18502/ijm.v18i5.22861
+Microbiological profile and antimicrobial susceptibility pattern in orthopaedic implant associated infections.|https://dx.doi.org/10.18502/ijm.v18i5.22860
+Maternal Vaginal Pathogenic Bacterial Colonization and Early-Onset Neonatal Sepsis in Mwanza City, Tanzania: A Prospective Cohort Study.|https://dx.doi.org/10.64898/2026.10.22.26366266
