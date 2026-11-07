@@ -8,3 +8,6 @@ An in situ gene-activated chitosan hydrogel for infection control and angiogenes
 Thiolated nanocellulose hydrogel derived from waste cotton textiles for photocatalytic dye removal.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155163
 Sono-enzymatically engineered tannic acid/doxycycline-lignin nanoparticles enable self-assembled bioactive chitosan hydrogels for chronic wound healing.|https://dx.doi.org/10.1016/j.mtbio.2026.103792
 Short ZnO Nanofiber-Integrated Electrospun Nanofibrous Scaffolds as Advanced Antibacterial Wound Dressings.|https://dx.doi.org/10.1021/acsabm.6c01395
+Preliminary Experience with a Standardized Perioperative Protocol for Infection Prevention in Inflatable Penile Prosthesis Surgery.|https://dx.doi.org/10.1016/j.urology.2026.10.037
+ROS/pH/glucose-responsive hydrogel based on 3-aminophenylboronic acid-modified hyaluronic acid and PVA loaded self-assembled ursolic acid/β-acids nanoparticles accelerates MRSA-infected diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155189
+Thermoresponsive Adhesive Hydrogel Enabling Dynamic Adhesion Switching for Diabetic Chronic Wound Healing.|https://dx.doi.org/10.1021/acsami.6c17015
