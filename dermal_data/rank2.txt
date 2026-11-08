@@ -8,3 +8,4 @@ Pharmacological agents for promoting diabetic wound healing.|https://dx.doi.org/
 Comparative genomic and resistome analysis of Citrobacter koseri: first genome report from Egypt.|https://dx.doi.org/10.1186/s12866-026-05726-w
 Evaluating the Performance of Large Language Models in Vascular Surgery Cases: Cross-Sectional Study.|https://dx.doi.org/10.2196/91973
 Mesenchymal Stromal Cell-Derived Secretome for Diabetic Foot Ulcers: Therapeutic Potential, Challenges in Clinical Translation, and Future Directions.|https://dx.doi.org/10.1007/s13770-026-00848-8
+Limb Salvage in Limb-Threatening Necrotizing Fasciitis of the Diabetic Foot: A Case Report.|https://dx.doi.org/10.13107/jocr.2026.v16.i11.8475

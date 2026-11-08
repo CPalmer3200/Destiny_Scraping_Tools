@@ -5,3 +5,4 @@ Beyond live probiotics: bioactivities, mechanisms, and application perspectives 
 Cross hybridization inference for phylogenetic resolution-fluorescence in situ hybridization enables microbiome imaging with strain level taxonomic resolution.|https://dx.doi.org/10.1093/ismeco/ycag296
 A Sequentially Disassembling Nanocomposite Hydrogel with Lesion-Triggered Luteolin Release for Multitarget Acne Vulgaris Therapy.|https://dx.doi.org/10.1021/acsami.6c16632
 Contact-dependent interactions between Cutibacterium acnes and Staphylococcus lugdunensis promote biofilm matrix remodeling.|https://dx.doi.org/10.21203/rs.3.rs-11542571/v1
+Development and characterization of a nanoemulsions-based semi-solid platform: Physicochemical properties, antioxidant and antimicrobial activities.|https://dx.doi.org/10.1016/j.ijpx.2026.100683

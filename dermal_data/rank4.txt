@@ -11,3 +11,5 @@ Short ZnO Nanofiber-Integrated Electrospun Nanofibrous Scaffolds as Advanced Ant
 Preliminary Experience with a Standardized Perioperative Protocol for Infection Prevention in Inflatable Penile Prosthesis Surgery.|https://dx.doi.org/10.1016/j.urology.2026.10.037
 ROS/pH/glucose-responsive hydrogel based on 3-aminophenylboronic acid-modified hyaluronic acid and PVA loaded self-assembled ursolic acid/β-acids nanoparticles accelerates MRSA-infected diabetic wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155189
 Thermoresponsive Adhesive Hydrogel Enabling Dynamic Adhesion Switching for Diabetic Chronic Wound Healing.|https://dx.doi.org/10.1021/acsami.6c17015
+Naringenin-Mn self-fueling dual-dynamic hydrogel with cascade catalysis and immunomodulation properties for repairing MRSA-infected diabetic wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.103787
+Cotinus coggygria Scop. extract-loaded polycaprolactone/hyaluronic acid nanofibers as candidate wound dressings: in vitro characterization, cytocompatibility and antibacterial evaluation.|https://dx.doi.org/10.3389/fphar.2026.1948812
