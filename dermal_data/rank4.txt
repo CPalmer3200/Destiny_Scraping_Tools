@@ -13,3 +13,5 @@ ROS/pH/glucose-responsive hydrogel based on 3-aminophenylboronic acid-modified h
 Thermoresponsive Adhesive Hydrogel Enabling Dynamic Adhesion Switching for Diabetic Chronic Wound Healing.|https://dx.doi.org/10.1021/acsami.6c17015
 Naringenin-Mn self-fueling dual-dynamic hydrogel with cascade catalysis and immunomodulation properties for repairing MRSA-infected diabetic wounds.|https://dx.doi.org/10.1016/j.mtbio.2026.103787
 Cotinus coggygria Scop. extract-loaded polycaprolactone/hyaluronic acid nanofibers as candidate wound dressings: in vitro characterization, cytocompatibility and antibacterial evaluation.|https://dx.doi.org/10.3389/fphar.2026.1948812
+"Nano-in-Gel Platforms for the Topical Treatment of Staphylococcus aureus Skin Infections".|https://dx.doi.org/10.1016/j.ejps.2026.107712
+An All-Natural Multifunctional Hydrogel Incorporating Carrier-Free Self-Assembled Microparticles for the Treatment of S. aureus-Infected Wounds.|https://dx.doi.org/10.1002/adhm.71959
