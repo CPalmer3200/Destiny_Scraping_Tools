@@ -7,3 +7,4 @@ A Sequentially Disassembling Nanocomposite Hydrogel with Lesion-Triggered Luteol
 Contact-dependent interactions between Cutibacterium acnes and Staphylococcus lugdunensis promote biofilm matrix remodeling.|https://dx.doi.org/10.21203/rs.3.rs-11542571/v1
 Development and characterization of a nanoemulsions-based semi-solid platform: Physicochemical properties, antioxidant and antimicrobial activities.|https://dx.doi.org/10.1016/j.ijpx.2026.100683
 Inspiration of Nanoengineered Antimicrobial Therapeutics Against Nontuberculous Mycobacterial Infection.|https://dx.doi.org/10.2147/IJN.S644904
+Overcoming hurdles in developing a reliable and reproducible biofilm model of Malassezia applied to M. furfur, M. pachydermatis, M. sympodialis and M. slooffiae.|https://dx.doi.org/10.1016/j.mycmed.2026.101669
