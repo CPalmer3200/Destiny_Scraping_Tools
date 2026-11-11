@@ -72,3 +72,7 @@ Development and characterization of a nanoemulsions-based semi-solid platform: P
 Compression of the Diseased Segment and Regeneration through Healthy Bone for Salvage of Infected Recurrent Congenital Pseudarthrosis of the Tibia in an Adult: A Case Report.|https://dx.doi.org/10.13107/jocr.2026.v16.i11.8386
 Cytocompatible and Antimicrobial Human Hair-Derived Keratin/N,N,N-Trimethyl Chitosan Polyelectrolyte Multilayers.|https://dx.doi.org/10.1021/acsabm.6c01368
 Simultaneous Infection Control and Reconstruction Using Continuous Local Antibiotic Perfusion in Septic Knee With Extensive Soft Tissue Defect: A Case Report.|https://dx.doi.org/10.12659/AJCR.953987
+Cannula exchange for refractory cannula infections during Berlin Heart EXCOR support: a case report.|https://dx.doi.org/10.1007/s10047-026-01604-4
+A Keratin and Polyacrylamide Dual Network Hydrogel Based on Dynamic Coordination between Polydopamine and Mg2+ for Infected Wound Repair.|https://dx.doi.org/10.1021/acsami.6c16129
+Giant cutaneous melanoma of the abdominal wall: a case report.|https://dx.doi.org/10.1097/RC9.0000000000001063
+Transcriptomic reprogramming and displacement of mastitis-associated Staphylococcus aureus biofilms by lactic acid bacteria.|https://dx.doi.org/10.3389/fcimb.2026.1957508

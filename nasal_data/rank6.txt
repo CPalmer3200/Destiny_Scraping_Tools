@@ -11,3 +11,5 @@ Autophagy in macrophages curtails IL-1α-mediated immune priming against lung in
 The burden of bacterial antimicrobial resistance in the WHO Western Pacific Region 1990-2021: a cross-country systematic analysis with forecasts to 2050.|https://dx.doi.org/10.1016/j.lanwpc.2026.101997
 Nasopharyngeal bacterial carriage in Indonesian children under three years of age in the early post-PCV13 period.|https://dx.doi.org/10.1016/j.ijid.2026.109218
 Injectable Thermosensitive Hydrogel Synergizes Antibacterial Action with Microenvironment Remodeling in Infected Diabetic Wounds.|https://dx.doi.org/10.1021/acs.molpharmaceut.6c00775
+Pooled prevalence of infectious diseases among first responders in the prehospital setting: A systematic review with meta-analysis by occupation.|https://dx.doi.org/10.1080/10903127.2026.2759763
+Care and outcome of a child with erythema multiforme complicated by secondary bacterial infection: a case report.|https://dx.doi.org/10.3389/fped.2026.1916599
