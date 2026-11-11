@@ -15,3 +15,8 @@ Naringenin-Mn self-fueling dual-dynamic hydrogel with cascade catalysis and immu
 Cotinus coggygria Scop. extract-loaded polycaprolactone/hyaluronic acid nanofibers as candidate wound dressings: in vitro characterization, cytocompatibility and antibacterial evaluation.|https://dx.doi.org/10.3389/fphar.2026.1948812
 "Nano-in-Gel Platforms for the Topical Treatment of Staphylococcus aureus Skin Infections".|https://dx.doi.org/10.1016/j.ejps.2026.107712
 An All-Natural Multifunctional Hydrogel Incorporating Carrier-Free Self-Assembled Microparticles for the Treatment of S. aureus-Infected Wounds.|https://dx.doi.org/10.1002/adhm.71959
+Bioactive Glass Dressings for Infected Wounds: A Systematic Review.|https://dx.doi.org/10.1111/iwj.71097
+Three-in-One Injectable Hydrogel Orchestrating Host-Bacteria Targeting, Retention, and Autophagy for Methicillin-Resistant Staphylococcus aureus-Infected Mastitis Therapy.|https://dx.doi.org/10.1021/acsnano.6c11537
+A Keratin and Polyacrylamide Dual Network Hydrogel Based on Dynamic Coordination between Polydopamine and Mg2+ for Infected Wound Repair.|https://dx.doi.org/10.1021/acsami.6c16129
+A diabetic microenvironment targeted nano-hydrogel loaded with quercetin and EGF for integrated synergistic bacteriostasis and proliferation-promoting diabetic infected wound repair.|https://dx.doi.org/10.1039/d6tb01604a
+Electrostatically Integrated Cationic Antimicrobials Modulate Hydrogel Stability, Release, and Antibacterial Activity.|https://dx.doi.org/10.1021/acsami.6c14506
