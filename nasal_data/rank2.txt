@@ -11,3 +11,5 @@ Staphylococcus aureus Nasal Screening in the Prevention of SSI May Have Limited 
 Staphylococcus aureus-derived xanthine exacerbates allergic rhinitis-induced olfactory dysfunction through promoting Th17 cell differentiation and IL-17A production.|https://dx.doi.org/10.1002/cti2.70127
 Epidemiological and antimicrobial susceptibility patterns of Staphylococcus aureus isolated from the nasal cavity of healthcare personnel at a public hospital in Northeastern Brazil: a cross-sectional survey.|https://dx.doi.org/10.1007/s42770-026-02126-0
 Impact of MRSA nasal PCR in the emergency department on duration of vancomycin and linezolid for pneumonia.|https://dx.doi.org/10.1016/j.ajem.2026.10.016
+Livestock-associated methicillin-resistant Staphylococcus aureus along the pork food chain: a study of four commercial pig fattening farms in north-east Germany and survival in processed meat products.|https://dx.doi.org/10.3389/fmicb.2026.1928317
+Adjuvant commensal therapy enhances antibiotic efficacy against Staphylococcus aureus.|https://dx.doi.org/10.1186/s40168-026-02479-6

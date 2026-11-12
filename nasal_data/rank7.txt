@@ -76,3 +76,8 @@ Cannula exchange for refractory cannula infections during Berlin Heart EXCOR sup
 A Keratin and Polyacrylamide Dual Network Hydrogel Based on Dynamic Coordination between Polydopamine and Mg2+ for Infected Wound Repair.|https://dx.doi.org/10.1021/acsami.6c16129
 Giant cutaneous melanoma of the abdominal wall: a case report.|https://dx.doi.org/10.1097/RC9.0000000000001063
 Transcriptomic reprogramming and displacement of mastitis-associated Staphylococcus aureus biofilms by lactic acid bacteria.|https://dx.doi.org/10.3389/fcimb.2026.1957508
+Fracture-related infection after operative fixation of acetabular fractures: Incidence and factors independently associated with infection.|https://dx.doi.org/10.1016/j.injury.2026.113882
+An unusual case of chronic eyelid infection associated with Staphylococcus aureus and Morganella morganii: A case report.|https://dx.doi.org/10.1097/MD.0000000000051471
+Metal-independent effects of calprotectin on cocultures of Pseudomonas aeruginosa and Staphylococcus aureus involve alkylquinolone production.|https://dx.doi.org/10.1128/msystems.00831-26
+The bone-biofilm interface: decoding the bidirectional crosstalk in orthopedic implant infections.|https://dx.doi.org/10.3389/fcimb.2026.1912867
+Staphylococcus epidermidis-associated brain abscess following endovascular treatment of a ruptured intracranial aneurysm: potential immune-inflammatory mechanisms-a case report and literature review.|https://dx.doi.org/10.3389/fimmu.2026.1974345

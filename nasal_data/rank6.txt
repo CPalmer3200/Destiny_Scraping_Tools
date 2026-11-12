@@ -13,3 +13,5 @@ Nasopharyngeal bacterial carriage in Indonesian children under three years of ag
 Injectable Thermosensitive Hydrogel Synergizes Antibacterial Action with Microenvironment Remodeling in Infected Diabetic Wounds.|https://dx.doi.org/10.1021/acs.molpharmaceut.6c00775
 Pooled prevalence of infectious diseases among first responders in the prehospital setting: A systematic review with meta-analysis by occupation.|https://dx.doi.org/10.1080/10903127.2026.2759763
 Care and outcome of a child with erythema multiforme complicated by secondary bacterial infection: a case report.|https://dx.doi.org/10.3389/fped.2026.1916599
+Targeted vs Standard Contact Precautions and Transmission of Methicillin-Resistant Staphylococcus aureus and Vancomycin-Resistant Enterococci in Critically Ill Adults: A Pilot Clinical Trial.|https://dx.doi.org/10.1016/j.chstcc.2026.100282
+Management of community-associated bacterial skin and soft tissue infections in children and prevention of recurrence.|https://dx.doi.org/10.1093/pch/pxag060
