@@ -81,3 +81,13 @@ An unusual case of chronic eyelid infection associated with Staphylococcus aureu
 Metal-independent effects of calprotectin on cocultures of Pseudomonas aeruginosa and Staphylococcus aureus involve alkylquinolone production.|https://dx.doi.org/10.1128/msystems.00831-26
 The bone-biofilm interface: decoding the bidirectional crosstalk in orthopedic implant infections.|https://dx.doi.org/10.3389/fcimb.2026.1912867
 Staphylococcus epidermidis-associated brain abscess following endovascular treatment of a ruptured intracranial aneurysm: potential immune-inflammatory mechanisms-a case report and literature review.|https://dx.doi.org/10.3389/fimmu.2026.1974345
+Osteoarticular Infection in Immunocompromised Children and Neonates: A Retrospective Case Series Emphasising Diagnostic Challenges and Multimodal Management.|https://dx.doi.org/10.1097/BPO.0000000000003527
+Epidemiological surveillance: from safe to proactive. Frequency, pathogens, and methodological frameworks.|https://dx.doi.org/10.37201/req/v39.s01.06.2026
+Clinical characteristics and outcomes of left ventricular assist device (LVAD) infections: Could driveline infections be a predictor of deep-seated infections?|https://dx.doi.org/10.1186/s12879-026-14217-2
+Genetic diversity and resistance profiles of MRSA in community and healthcare settings.|https://dx.doi.org/10.1186/s12866-026-05741-x
+The SaeRS two-component system likely mediates the major dopamine-dependent regulation of virulence in Staphylococcus aureus ATCC 25,923.|https://dx.doi.org/10.1186/s12866-026-05427-4
+Serum modulates the aggregation - toxicity landscape of the staphylococcal toxin PSMα3.|https://dx.doi.org/10.1016/j.bpc.2026.107724
+Ilizarov Accordion Maneuver for Infected Nonunion of Both-Bone Forearm Fracture: A Case Report.|https://dx.doi.org/10.2106/JBJS.CC.26.00156
+Pathogen-specific salvage of totally implantable ports and the role of antibiotic lock therapy.|https://dx.doi.org/10.1007/s15010-026-03044-x
+Rapidly destructive "dry" infectious spondylitis caused by methicillin-resistant Staphylococcus argenteus in an immunosuppressed patient with Crohn's disease.|https://dx.doi.org/10.1097/MS9.0000000000005797
+Analysis of the etiology of infection and antimicrobial resistance in chronic critically ill patients: a longitudinal study.|https://dx.doi.org/10.62838/jccm-2026-0031

@@ -23,3 +23,4 @@ Comparative genomics of the skin microbiome and associated isolates of patients 
 [Impact of neoadjuvant and adjuvant breast cancer treatments on immediate breast reconstruction outcomes].|https://dx.doi.org/10.1016/j.anplas.2026.06.003
 Factors Associated With Clinical Trial Discontinuation in Aesthetic and Reconstructive Breast Surgery.|https://dx.doi.org/10.1097/SAP.0000000000004935
 The Bright Line Between Survival and Necrosis: Indocyanine Green Angiography in Predicting Breast Reconstruction Outcomes.|https://dx.doi.org/10.1097/GOX.0000000000008103
+Selective antibiotic prophylaxis in oncologic skin graft reconstruction.|https://dx.doi.org/10.1016/j.bjps.2026.10.044
