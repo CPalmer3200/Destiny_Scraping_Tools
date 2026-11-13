@@ -9,3 +9,5 @@ Development and characterization of a nanoemulsions-based semi-solid platform: P
 Inspiration of Nanoengineered Antimicrobial Therapeutics Against Nontuberculous Mycobacterial Infection.|https://dx.doi.org/10.2147/IJN.S644904
 Overcoming hurdles in developing a reliable and reproducible biofilm model of Malassezia applied to M. furfur, M. pachydermatis, M. sympodialis and M. slooffiae.|https://dx.doi.org/10.1016/j.mycmed.2026.101669
 [Late complications of immediate breast reconstruction].|https://dx.doi.org/10.1016/j.anplas.2026.06.010
+Effective closure of a large postauricular fistula using a cervico-occipital flap in a patient after cochlear implantation with the subtotal petrosectomy technique - A case report.|https://dx.doi.org/10.1080/14670100.2026.2732277
+De Novo Design of Multi-Mechanistic AIE Photosensitizer for Broad-Spectrum Bacterial Eradication.|https://dx.doi.org/10.1021/acs.jmedchem.6c02325

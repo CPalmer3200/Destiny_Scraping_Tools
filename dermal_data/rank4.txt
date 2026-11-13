@@ -20,3 +20,4 @@ Three-in-One Injectable Hydrogel Orchestrating Host-Bacteria Targeting, Retentio
 A Keratin and Polyacrylamide Dual Network Hydrogel Based on Dynamic Coordination between Polydopamine and Mg2+ for Infected Wound Repair.|https://dx.doi.org/10.1021/acsami.6c16129
 A diabetic microenvironment targeted nano-hydrogel loaded with quercetin and EGF for integrated synergistic bacteriostasis and proliferation-promoting diabetic infected wound repair.|https://dx.doi.org/10.1039/d6tb01604a
 Electrostatically Integrated Cationic Antimicrobials Modulate Hydrogel Stability, Release, and Antibacterial Activity.|https://dx.doi.org/10.1021/acsami.6c14506
+Ion-coordinated chitosan cellulose biointerfaces in a multilayer dressing for antibacterial and angiogenic wound repair.|https://dx.doi.org/10.1016/j.bioadv.2026.215275

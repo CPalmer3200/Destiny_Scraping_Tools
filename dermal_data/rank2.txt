@@ -12,3 +12,9 @@ Limb Salvage in Limb-Threatening Necrotizing Fasciitis of the Diabetic Foot: A C
 Empowering people living with diabetes with footcare knowledge and skills: a mixed-methods feasibility study.|https://dx.doi.org/10.21037/mhealth-2026-0019
 Macrophage ferroptosis in diabetic foot ulcers: current evidence, mechanisms, and therapeutic implications.|https://dx.doi.org/10.3389/fimmu.2026.1952662
 Major re-amputation after initial diabetic foot amputation: A retrospective cohort study.|https://dx.doi.org/10.1097/MD.0000000000051459
+Prognostic performance of the WIfI classification in diabetic patients with infrapopliteal CLTI after endovascular revascularization: a subgroup analysis of the PRIME-WIFI registry.|https://dx.doi.org/10.3389/fcvm.2026.1984270
+Recent Advances in the Management of Diabetic Foot Ulcers: Challenges and Therapeutic Strategies.|https://dx.doi.org/10.2174/0115748871349555250624045824
+A carboxymethyl cellulose-lignin-vanillin-based wound dressing for diabetic wound healing: in vitro and in vivo evaluation with photoacoustic imaging.|https://dx.doi.org/10.1039/d6tb01526c
+Resistome analysis of multidrug-resistant Klebsiella pneumoniae L-15 harboring blaCTX-M-15 isolated from a diabetic foot ulcer using a low-volume portable broth medium.|https://dx.doi.org/10.1556/030.2026.03120
+Serum vitamin D, innate immunity markers, and biofilm presence as determinants of therapeutic strategies in diabetic foot infections: A comparative cross-sectional study.|https://dx.doi.org/10.1177/02601060261505233
+Complete Closure of a Complex Diabetic Foot Wound Following Adjunctive Treatment With a Wharton's Jelly Mesenchymal Stromal Cell-Derived Secretome: A Case Report.|https://dx.doi.org/10.7759/cureus.117796
