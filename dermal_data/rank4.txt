@@ -21,3 +21,11 @@ A Keratin and Polyacrylamide Dual Network Hydrogel Based on Dynamic Coordination
 A diabetic microenvironment targeted nano-hydrogel loaded with quercetin and EGF for integrated synergistic bacteriostasis and proliferation-promoting diabetic infected wound repair.|https://dx.doi.org/10.1039/d6tb01604a
 Electrostatically Integrated Cationic Antimicrobials Modulate Hydrogel Stability, Release, and Antibacterial Activity.|https://dx.doi.org/10.1021/acsami.6c14506
 Ion-coordinated chitosan cellulose biointerfaces in a multilayer dressing for antibacterial and angiogenic wound repair.|https://dx.doi.org/10.1016/j.bioadv.2026.215275
+Synthesis and Characterization of a Propolis-Containing Cellulosic Textile Functionalized with a Crosslinked Agar/κ-Carrageenan Biopolymer Network: Structure-Property Relationships and In Vitro Biological Responses.|https://dx.doi.org/10.3390/polym18212794
+Synthesis and Characterization of CuO NPs Integrated Polyamidoxime-Sodium Alginate Hydrogel Nanocomposites for Antimicrobial Applications.|https://dx.doi.org/10.3390/polym18212712
+Electrospun PVA/Chitosan Nanofibers Containing AgNPs and β-Sitosterol Exert Superior Antibacterial Effect.|https://dx.doi.org/10.3390/nano16211438
+Dual-Crosslinked Gelatin/Chondroitin Sulfate Hydrogel Loaded with Curcumin Liposomes for Multifunctional Wound Dressing.|https://dx.doi.org/10.3390/molecules31213868
+Preparation, Characterization, and Antibacterial Properties of SA/PVA/RNC/ZnONPs Composite Hydrogels.|https://dx.doi.org/10.3390/biology15211986
+Water-Mediated Phase Separation Enables 3D Printing of Ultrasound-Responsive Piezoelectric Collagen-Based Hydrogels for Diabetic Wound Repair.|https://dx.doi.org/10.1002/smll.76697
+Solvent-Free 3D PCL/HA Scaffold With a Modified Cationic Polymer Interface for Synchronized Antibacterial Activity and Personalized Bone Regeneration.|https://dx.doi.org/10.1002/mabi.70281
+A dual-barrier sustained-release hydrogel based on Cu-exchanged Y zeolite and sodium alginate for infected wound healing.|https://dx.doi.org/10.1039/d6ra08040e

@@ -18,3 +18,7 @@ A carboxymethyl cellulose-lignin-vanillin-based wound dressing for diabetic woun
 Resistome analysis of multidrug-resistant Klebsiella pneumoniae L-15 harboring blaCTX-M-15 isolated from a diabetic foot ulcer using a low-volume portable broth medium.|https://dx.doi.org/10.1556/030.2026.03120
 Serum vitamin D, innate immunity markers, and biofilm presence as determinants of therapeutic strategies in diabetic foot infections: A comparative cross-sectional study.|https://dx.doi.org/10.1177/02601060261505233
 Complete Closure of a Complex Diabetic Foot Wound Following Adjunctive Treatment With a Wharton's Jelly Mesenchymal Stromal Cell-Derived Secretome: A Case Report.|https://dx.doi.org/10.7759/cureus.117796
+Combined Ozone Therapy and Negative Pressure Wound Therapy with Instillation for Charcot Neuroarthropathy-Associated Foot Wounds.|https://dx.doi.org/10.3390/jcm15218479
+Admission-Time Prediction of In-Hospital Major Amputation in Diabetes-Related Foot Disease: Model Development and Temporal Validation Study.|https://dx.doi.org/10.2196/110740
+Correction: Molecular epidemiology of carbapenemase-producing gram-negative bacilli in diabetic foot infections: association with glycemic control.|https://dx.doi.org/10.3389/fcimb.2026.2030828
+From Plan to Practice: Challenges in Implementing Advance Care Planning in Care Home Residents.|https://dx.doi.org/10.7759/cureus.119376
