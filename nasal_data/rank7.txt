@@ -91,3 +91,11 @@ Ilizarov Accordion Maneuver for Infected Nonunion of Both-Bone Forearm Fracture:
 Pathogen-specific salvage of totally implantable ports and the role of antibiotic lock therapy.|https://dx.doi.org/10.1007/s15010-026-03044-x
 Rapidly destructive "dry" infectious spondylitis caused by methicillin-resistant Staphylococcus argenteus in an immunosuppressed patient with Crohn's disease.|https://dx.doi.org/10.1097/MS9.0000000000005797
 Analysis of the etiology of infection and antimicrobial resistance in chronic critically ill patients: a longitudinal study.|https://dx.doi.org/10.62838/jccm-2026-0031
+Rapid Infrarenal Aortic Rupture During Persistent Methicillin-Susceptible Staphylococcus aureus Bacteraemia: Serial CT Evolution and Staged Endovascular Treatment-A Case Report.|https://dx.doi.org/10.3390/diagnostics16213657
+Genomic characterization of two Staphylococcus aureus isolates from a Tanzanian orthopaedics ward: a fomite-associated ST152 MSSA isolate and a rectal-swab ST8 mecA-positive isolate.|https://dx.doi.org/10.1186/s12863-026-01480-0
+Role of AngioVac in the Management of Severe MRSA Tricuspid Endocarditis With Multisystem Complications.|https://dx.doi.org/10.1177/23247096261503837
+Negative Pressure Wound Therapy After Extensive Debridement of a Pediatric Plantar Puncture-Wound Infection: A Case Report.|https://dx.doi.org/10.12659/AJCR.954016
+Cross-kingdom quorum sensing: mechanisms driving Candida albicans and Staphylococcus aureus synergistic pathogenesis.|https://dx.doi.org/10.1080/20002297.2026.2744234
+Patellar Osteomyelitis Mimicking Cellulitis Successfully Treated Without Surgical Intervention.|https://dx.doi.org/10.7759/cureus.117828
+Bacterial contamination, antibiotic resistance, and biofilm formation on operating rooms surfaces at Jimma Medical Center, Southwest Ethiopia.|https://dx.doi.org/10.1016/j.infpip.2026.100610
+One-step antimicrobial peptide immobilization technique: universal compatibility with clinical bone cements.|https://dx.doi.org/10.1039/d6ra08377c

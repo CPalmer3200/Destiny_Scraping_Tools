@@ -24,3 +24,7 @@ Comparative genomics of the skin microbiome and associated isolates of patients 
 Factors Associated With Clinical Trial Discontinuation in Aesthetic and Reconstructive Breast Surgery.|https://dx.doi.org/10.1097/SAP.0000000000004935
 The Bright Line Between Survival and Necrosis: Indocyanine Green Angiography in Predicting Breast Reconstruction Outcomes.|https://dx.doi.org/10.1097/GOX.0000000000008103
 Selective antibiotic prophylaxis in oncologic skin graft reconstruction.|https://dx.doi.org/10.1016/j.bjps.2026.10.044
+Single Versus Double Drainage After Modified Radical Mastectomy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.|https://dx.doi.org/10.3390/jcm15218391
+Bilateral Subareolar Epidermal Inclusion Cysts of the Breast After Prior Surgery for Mastitis: Differing Sonographic Appearances of Ruptured and Unruptured Cysts.|https://dx.doi.org/10.3390/diagnostics16213577
+Breast sparganosis presenting as granulomatous mastitis without peripheral blood eosinophilia: a case report caused by Spirometra asiana.|https://dx.doi.org/10.1016/j.ijid.2026.109259
+Axillo-lateral advancement flap for upper inner quadrant and upper central breast defects: A single-centre case series demonstrating early outcomes.|https://dx.doi.org/10.1016/j.jpra.2026.10.017

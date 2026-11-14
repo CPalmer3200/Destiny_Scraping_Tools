@@ -15,3 +15,4 @@ Pooled prevalence of infectious diseases among first responders in the prehospit
 Care and outcome of a child with erythema multiforme complicated by secondary bacterial infection: a case report.|https://dx.doi.org/10.3389/fped.2026.1916599
 Targeted vs Standard Contact Precautions and Transmission of Methicillin-Resistant Staphylococcus aureus and Vancomycin-Resistant Enterococci in Critically Ill Adults: A Pilot Clinical Trial.|https://dx.doi.org/10.1016/j.chstcc.2026.100282
 Management of community-associated bacterial skin and soft tissue infections in children and prevention of recurrence.|https://dx.doi.org/10.1093/pch/pxag060
+Pediatric Pleural Empyema: Disease Complexity, Contemporary Management, and Future Research Priorities.|https://dx.doi.org/10.3390/jcm15218205
