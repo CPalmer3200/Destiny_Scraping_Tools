@@ -22,3 +22,6 @@ Combined Ozone Therapy and Negative Pressure Wound Therapy with Instillation for
 Admission-Time Prediction of In-Hospital Major Amputation in Diabetes-Related Foot Disease: Model Development and Temporal Validation Study.|https://dx.doi.org/10.2196/110740
 Correction: Molecular epidemiology of carbapenemase-producing gram-negative bacilli in diabetic foot infections: association with glycemic control.|https://dx.doi.org/10.3389/fcimb.2026.2030828
 From Plan to Practice: Challenges in Implementing Advance Care Planning in Care Home Residents.|https://dx.doi.org/10.7759/cureus.119376
+Association between empirical antibiotic appropriateness and clinical outcomes in surgically managed diabetic infections of the lower extremities: a retrospective cohort study.|https://dx.doi.org/10.1080/07853890.2026.2760610
+Morganella morganii Detected During Transfemoral Amputation in a Diabetic Foot With Soft Tissue Necrosis.|https://dx.doi.org/10.7759/cureus.117901
+Five-year trends in antibiotic use and microbiology of hospitalized diabetic foot infections in the Bronx.|https://dx.doi.org/10.1017/ash.2026.10824
