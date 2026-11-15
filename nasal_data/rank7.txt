@@ -99,3 +99,10 @@ Cross-kingdom quorum sensing: mechanisms driving Candida albicans and Staphyloco
 Patellar Osteomyelitis Mimicking Cellulitis Successfully Treated Without Surgical Intervention.|https://dx.doi.org/10.7759/cureus.117828
 Bacterial contamination, antibiotic resistance, and biofilm formation on operating rooms surfaces at Jimma Medical Center, Southwest Ethiopia.|https://dx.doi.org/10.1016/j.infpip.2026.100610
 One-step antimicrobial peptide immobilization technique: universal compatibility with clinical bone cements.|https://dx.doi.org/10.1039/d6ra08377c
+Influence of plasma-polymerized oxazoline and drug incorporation on the antibacterial performance of anodized β-titanium alloy.|https://dx.doi.org/10.1007/s44164-026-00132-y
+Surgical site infections after cesarean section in Gaza: Incidence, risk factors, and microbial profile.|https://dx.doi.org/10.1177/17571774261505400
+Impact of pharmacist-led interventions on clinical and economic outcomes of hospital-acquired infections: A scoping review.|https://dx.doi.org/10.1016/j.japh.2026.103593
+Staged Endovascular Management of May-Thurner Syndrome Caused by a Mycotic Right Common Iliac Artery Aneurysm: A Case Report.|https://dx.doi.org/10.1016/j.ejvsvf.2026.09.004
+Charge-Driven Engineering of Titanium Implants with Chitosan and Poly‑l‑Lysine for Dual Antiadhesive and Anticorrosive Functionality.|https://dx.doi.org/10.1021/acsmaterialsau.6c00178
+A business case for diagnostic stewardship: a practical guide from the Society for Healthcare Epidemiology of America (SHEA) Diagnostic Stewardship Special Interest Group.|https://dx.doi.org/10.1017/ash.2026.10839
+T-cell polyfunctionality reconstitution after modified anti-thymocyte globulin plus post-transplant cyclophosphamide in allogeneic hematopoietic stem cell transplantation.|https://dx.doi.org/10.3389/fimmu.2026.1980998
