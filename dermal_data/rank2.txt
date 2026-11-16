@@ -25,3 +25,6 @@ From Plan to Practice: Challenges in Implementing Advance Care Planning in Care 
 Association between empirical antibiotic appropriateness and clinical outcomes in surgically managed diabetic infections of the lower extremities: a retrospective cohort study.|https://dx.doi.org/10.1080/07853890.2026.2760610
 Morganella morganii Detected During Transfemoral Amputation in a Diabetic Foot With Soft Tissue Necrosis.|https://dx.doi.org/10.7759/cureus.117901
 Five-year trends in antibiotic use and microbiology of hospitalized diabetic foot infections in the Bronx.|https://dx.doi.org/10.1017/ash.2026.10824
+Medial Arterial Calcification in Diabetic Foot Disease: A Narrative Review of Mechanisms, Perfusion Assessment, and Implications for Pre-Revascularization Evaluation.|https://dx.doi.org/10.2147/DMSO.S639730
+Diabetes Mellitus and Outcomes After Operative Ankle Fracture Fixation in Older Adults: A Multicenter FOOTAGE Study.|https://dx.doi.org/10.1177/24730114261485213
+[Pathogen distribution and the correlation between multi-drug resistance and amputation in patients with diabetic foot osteomyelitis].|https://dx.doi.org/10.3760/cma.j.cn112150-20260203-00101

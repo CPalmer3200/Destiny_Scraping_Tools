@@ -29,3 +29,5 @@ Preparation, Characterization, and Antibacterial Properties of SA/PVA/RNC/ZnONPs
 Water-Mediated Phase Separation Enables 3D Printing of Ultrasound-Responsive Piezoelectric Collagen-Based Hydrogels for Diabetic Wound Repair.|https://dx.doi.org/10.1002/smll.76697
 Solvent-Free 3D PCL/HA Scaffold With a Modified Cationic Polymer Interface for Synchronized Antibacterial Activity and Personalized Bone Regeneration.|https://dx.doi.org/10.1002/mabi.70281
 A dual-barrier sustained-release hydrogel based on Cu-exchanged Y zeolite and sodium alginate for infected wound healing.|https://dx.doi.org/10.1039/d6ra08040e
+Carrageenan/epigallocatechin-3-gallate composite hydrogel coatings with antioxidant and antibacterial activities for shrimp preservation.|https://dx.doi.org/10.1016/j.fochx.2026.104700
+Designing Single-Atom Nanozymes With High Chemical Stability and Peroxidase-Like Activity for Enhanced MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/smll.76768
