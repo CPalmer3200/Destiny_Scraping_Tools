@@ -106,3 +106,6 @@ Staged Endovascular Management of May-Thurner Syndrome Caused by a Mycotic Right
 Charge-Driven Engineering of Titanium Implants with Chitosan and Poly‑l‑Lysine for Dual Antiadhesive and Anticorrosive Functionality.|https://dx.doi.org/10.1021/acsmaterialsau.6c00178
 A business case for diagnostic stewardship: a practical guide from the Society for Healthcare Epidemiology of America (SHEA) Diagnostic Stewardship Special Interest Group.|https://dx.doi.org/10.1017/ash.2026.10839
 T-cell polyfunctionality reconstitution after modified anti-thymocyte globulin plus post-transplant cyclophosphamide in allogeneic hematopoietic stem cell transplantation.|https://dx.doi.org/10.3389/fimmu.2026.1980998
+An Unusual Superficial Neck Abscess Confined to the Skin and Subcutaneous Tissue: A Case Report.|https://dx.doi.org/10.7759/cureus.117994
+Resection and Individualized Chest Wall Reconstruction for Sternal Osteochondroma Complicated by Superficial Postoperative Wound Infection: A Case Report.|https://dx.doi.org/10.62713/aic.4935
+Bacterial spectrum, age and calendar-quarter distribution, and antimicrobial susceptibility patterns of isolates recovered from respiratory specimens of children hospitalized with community-acquired pneumonia in Chongqing, China: a three-year retrospective study.|https://dx.doi.org/10.1007/s12223-026-01637-5

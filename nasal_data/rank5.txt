@@ -29,3 +29,5 @@ Bilateral Subareolar Epidermal Inclusion Cysts of the Breast After Prior Surgery
 Breast sparganosis presenting as granulomatous mastitis without peripheral blood eosinophilia: a case report caused by Spirometra asiana.|https://dx.doi.org/10.1016/j.ijid.2026.109259
 Axillo-lateral advancement flap for upper inner quadrant and upper central breast defects: A single-centre case series demonstrating early outcomes.|https://dx.doi.org/10.1016/j.jpra.2026.10.017
 Multicenter Survival Analysis of Infectious Complications Following Breast Reconstruction: Healthcare Workers Versus General Population.|https://dx.doi.org/10.1097/GOX.0000000000008262
+Necrotizing fasciitis of breast: a systematic review of a potentially lethal surgical emergency.|https://dx.doi.org/10.5604/01.3001.0055.8139
+Postoperative bacterial infection promotes tumor metastasis via neutrophil-mediated NK cell dysfunction.|https://dx.doi.org/10.1186/s12935-026-04441-w
