@@ -28,3 +28,5 @@ Five-year trends in antibiotic use and microbiology of hospitalized diabetic foo
 Medial Arterial Calcification in Diabetic Foot Disease: A Narrative Review of Mechanisms, Perfusion Assessment, and Implications for Pre-Revascularization Evaluation.|https://dx.doi.org/10.2147/DMSO.S639730
 Diabetes Mellitus and Outcomes After Operative Ankle Fracture Fixation in Older Adults: A Multicenter FOOTAGE Study.|https://dx.doi.org/10.1177/24730114261485213
 [Pathogen distribution and the correlation between multi-drug resistance and amputation in patients with diabetic foot osteomyelitis].|https://dx.doi.org/10.3760/cma.j.cn112150-20260203-00101
+Emerging Multimodal AIE Theranostics with Key Diagnostic and Therapeutic Roles: A Review of Evidence.|https://dx.doi.org/10.2147/IJN.S642260
+[The infected diabetic foot syndrome - diagnosis, treatment, and interdisciplinary care].|https://dx.doi.org/10.1055/a-2820-8074

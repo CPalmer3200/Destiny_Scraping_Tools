@@ -31,3 +31,4 @@ Solvent-Free 3D PCL/HA Scaffold With a Modified Cationic Polymer Interface for S
 A dual-barrier sustained-release hydrogel based on Cu-exchanged Y zeolite and sodium alginate for infected wound healing.|https://dx.doi.org/10.1039/d6ra08040e
 Carrageenan/epigallocatechin-3-gallate composite hydrogel coatings with antioxidant and antibacterial activities for shrimp preservation.|https://dx.doi.org/10.1016/j.fochx.2026.104700
 Designing Single-Atom Nanozymes With High Chemical Stability and Peroxidase-Like Activity for Enhanced MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/smll.76768
+Soft-sprayed sodium alginate/cellulose nanofibril hydrogel membrane for temporally differentiated curcumin/ibuprofen release and enhanced infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155216
