@@ -31,3 +31,5 @@ Axillo-lateral advancement flap for upper inner quadrant and upper central breas
 Multicenter Survival Analysis of Infectious Complications Following Breast Reconstruction: Healthcare Workers Versus General Population.|https://dx.doi.org/10.1097/GOX.0000000000008262
 Necrotizing fasciitis of breast: a systematic review of a potentially lethal surgical emergency.|https://dx.doi.org/10.5604/01.3001.0055.8139
 Postoperative bacterial infection promotes tumor metastasis via neutrophil-mediated NK cell dysfunction.|https://dx.doi.org/10.1186/s12935-026-04441-w
+Emergency Mastectomy for Necrotizing Fasciitis of the Breast During Lactation: Case Report.|https://dx.doi.org/10.1002/ccr3.73957
+Submucosal tunneling biopsy for histological diagnosis of refractory esophageal strictures following negative conventional biopsy.|https://dx.doi.org/10.1186/s12876-026-05320-4

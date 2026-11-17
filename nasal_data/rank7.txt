@@ -109,3 +109,6 @@ T-cell polyfunctionality reconstitution after modified anti-thymocyte globulin p
 An Unusual Superficial Neck Abscess Confined to the Skin and Subcutaneous Tissue: A Case Report.|https://dx.doi.org/10.7759/cureus.117994
 Resection and Individualized Chest Wall Reconstruction for Sternal Osteochondroma Complicated by Superficial Postoperative Wound Infection: A Case Report.|https://dx.doi.org/10.62713/aic.4935
 Bacterial spectrum, age and calendar-quarter distribution, and antimicrobial susceptibility patterns of isolates recovered from respiratory specimens of children hospitalized with community-acquired pneumonia in Chongqing, China: a three-year retrospective study.|https://dx.doi.org/10.1007/s12223-026-01637-5
+Surgical Decision-Making in Staphylococcus aureus Infective Endocarditis With Structural Valve Destruction Despite the Absence of Overt Heart Failure: The Role of the Endocarditis Team.|https://dx.doi.org/10.1002/ccr3.73936
+[Osteoarticular Infections].|https://dx.doi.org/10.1055/a-2820-7898
+Novel wounded porcine skin ex vivo methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa infection models.|https://dx.doi.org/10.1128/iai.00489-26
