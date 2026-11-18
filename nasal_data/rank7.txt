@@ -112,3 +112,7 @@ Bacterial spectrum, age and calendar-quarter distribution, and antimicrobial sus
 Surgical Decision-Making in Staphylococcus aureus Infective Endocarditis With Structural Valve Destruction Despite the Absence of Overt Heart Failure: The Role of the Endocarditis Team.|https://dx.doi.org/10.1002/ccr3.73936
 [Osteoarticular Infections].|https://dx.doi.org/10.1055/a-2820-7898
 Novel wounded porcine skin ex vivo methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa infection models.|https://dx.doi.org/10.1128/iai.00489-26
+Pediatric Foot and Ankle Infection and Osteomyelitis.|https://dx.doi.org/10.1016/j.cpm.2026.08.008
+K77 and K130 nonulosonic acid-containing capsular polysaccharides shape functional trade-offs in Acinetobacter baumannii.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155329
+Synthesis, Structural Analysis, and In Vitro Osteogenic Potential of 3D-Printed Ethylene-co-vinyl acetate-Zinc-Substituted Hydroxyapatite Composite.|https://dx.doi.org/10.1021/acsabm.6c01281
+Bacteria-responsive programmed antibacterial liposome to modulate the inflammatory microenvironment for intracranial methicillin-resistant Staphylococcus aureus infections.|https://dx.doi.org/10.1039/d6tb01667g
