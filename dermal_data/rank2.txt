@@ -30,3 +30,6 @@ Diabetes Mellitus and Outcomes After Operative Ankle Fracture Fixation in Older 
 [Pathogen distribution and the correlation between multi-drug resistance and amputation in patients with diabetic foot osteomyelitis].|https://dx.doi.org/10.3760/cma.j.cn112150-20260203-00101
 Emerging Multimodal AIE Theranostics with Key Diagnostic and Therapeutic Roles: A Review of Evidence.|https://dx.doi.org/10.2147/IJN.S642260
 [The infected diabetic foot syndrome - diagnosis, treatment, and interdisciplinary care].|https://dx.doi.org/10.1055/a-2820-8074
+Selected ion flow tube mass spectrometry (SIFT-MS) for real time nitric oxide analyses to aid the development of nitric oxide release in multi modal wound dressings.|https://dx.doi.org/10.1016/j.aca.2026.346447
+Calcitonin gene-related peptide in diabetic wound repair: efferocytosis, inflammatory resolution, and host defense.|https://dx.doi.org/10.3389/fendo.2026.2017813
+Neuropeptides as neuroimmune modulators in chronic wound healing: mechanistic insights and emerging therapeutic strategies.|https://dx.doi.org/10.3389/fcell.2026.1924507

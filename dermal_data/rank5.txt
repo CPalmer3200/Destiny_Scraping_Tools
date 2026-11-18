@@ -12,3 +12,6 @@ Overcoming hurdles in developing a reliable and reproducible biofilm model of Ma
 Effective closure of a large postauricular fistula using a cervico-occipital flap in a patient after cochlear implantation with the subtotal petrosectomy technique - A case report.|https://dx.doi.org/10.1080/14670100.2026.2732277
 De Novo Design of Multi-Mechanistic AIE Photosensitizer for Broad-Spectrum Bacterial Eradication.|https://dx.doi.org/10.1021/acs.jmedchem.6c02325
 The Foot Skin Microbiome in Diabetes Mellitus: Transitional Dysbiosis, Ulceration, and Precision Microbiome-Based Therapeutics: A Narrative Review.|https://dx.doi.org/10.3390/jcm15218578
+Delayed Inflammatory Reactions to Hyaluronic Acid Fillers in a Patient Undergoing Dupilumab Therapy: A Case Report.|https://dx.doi.org/10.1111/jocd.70997
+Oral Lactiplantibacillus plantarum accelerates nucleotide excision repair and suppresses UVB-induced checkpoint immunosuppression.|https://dx.doi.org/10.1038/s41522-026-01108-2
+From Skin Commensals to Bloodstream Pathogens: In Vitro Virulence Traits and In Vivo Pathogenicity of Malassezia Isolates.|https://dx.doi.org/10.1111/myc.70239
