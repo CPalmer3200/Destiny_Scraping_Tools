@@ -17,3 +17,4 @@ Targeted vs Standard Contact Precautions and Transmission of Methicillin-Resista
 Management of community-associated bacterial skin and soft tissue infections in children and prevention of recurrence.|https://dx.doi.org/10.1093/pch/pxag060
 Pediatric Pleural Empyema: Disease Complexity, Contemporary Management, and Future Research Priorities.|https://dx.doi.org/10.3390/jcm15218205
 A Multi-Epitope Peptide Vaccine Confers Protection against Staphylococcus aureus in a Murine Peritonitis Model.|https://dx.doi.org/10.1016/j.micpath.2026.108929
+Multilamellar Nanovaccine for Enhanced Anti-Staphylococcus aureus Immunity and Bacterial Clearance.|https://dx.doi.org/10.34133/bmr.0433

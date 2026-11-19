@@ -116,3 +116,8 @@ Pediatric Foot and Ankle Infection and Osteomyelitis.|https://dx.doi.org/10.1016
 K77 and K130 nonulosonic acid-containing capsular polysaccharides shape functional trade-offs in Acinetobacter baumannii.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155329
 Synthesis, Structural Analysis, and In Vitro Osteogenic Potential of 3D-Printed Ethylene-co-vinyl acetate-Zinc-Substituted Hydroxyapatite Composite.|https://dx.doi.org/10.1021/acsabm.6c01281
 Bacteria-responsive programmed antibacterial liposome to modulate the inflammatory microenvironment for intracranial methicillin-resistant Staphylococcus aureus infections.|https://dx.doi.org/10.1039/d6tb01667g
+Epidemiology of bovine mastitis and isolation of Escherichia coli and Staphylococcus aureus in dairy farms of Central Ethiopia.|https://dx.doi.org/10.1186/s12917-026-05844-7
+Copper as a central element critical to interkingdom interactions within a polymicrobial wound environment.|https://dx.doi.org/10.1038/s41522-026-01112-6
+Postoperative Infections in Titanium Mesh Cranioplasty After Penetrating Brain Injury in a Conflict-Affected Setting: A Single-Institution Experience from Yemen.|https://dx.doi.org/10.1016/j.wneu.2026.125527
+Analysis of the biological characteristics and gene function of Lactobacillus delbrueckii subsp. sunkii.|https://dx.doi.org/10.1371/journal.pone.0363225
+Bacterial Etiology and Antimicrobial Susceptibility Patterns of Clinical Isolates Among Infants in Tigray, Ethiopia: A Cross-Sectional Hospital-Based Retrospective Study.|https://dx.doi.org/10.1002/hsr2.73545

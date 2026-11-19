@@ -15,3 +15,5 @@ Livestock-associated methicillin-resistant Staphylococcus aureus along the pork 
 Adjuvant commensal therapy enhances antibiotic efficacy against Staphylococcus aureus.|https://dx.doi.org/10.1186/s40168-026-02479-6
 Carrageenan/epigallocatechin-3-gallate composite hydrogel coatings with antioxidant and antibacterial activities for shrimp preservation.|https://dx.doi.org/10.1016/j.fochx.2026.104700
 Nasal colonization and antimicrobial susceptibility profile of Staphylococcus aureus among healthcare workers at selected health institutions in Bahir Dar, Northwest Ethiopia.|https://dx.doi.org/10.1186/s12879-026-14246-x
+Oral Staphylococcus carriage in healthy adults: prevalence, antimicrobial resistance, temporal patterns, and oral-nasal comparisons.|https://dx.doi.org/10.1007/s00784-026-07285-w
+Alcohol-Based Antiseptics for Nasal Decolonization: An Emerging Peri-Operative Strategy.|https://dx.doi.org/10.1097/DSS.0000000000005466
