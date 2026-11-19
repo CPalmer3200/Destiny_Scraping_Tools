@@ -32,3 +32,9 @@ A dual-barrier sustained-release hydrogel based on Cu-exchanged Y zeolite and so
 Carrageenan/epigallocatechin-3-gallate composite hydrogel coatings with antioxidant and antibacterial activities for shrimp preservation.|https://dx.doi.org/10.1016/j.fochx.2026.104700
 Designing Single-Atom Nanozymes With High Chemical Stability and Peroxidase-Like Activity for Enhanced MRSA-Infected Diabetic Wound Healing.|https://dx.doi.org/10.1002/smll.76768
 Soft-sprayed sodium alginate/cellulose nanofibril hydrogel membrane for temporally differentiated curcumin/ibuprofen release and enhanced infected wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155216
+AIE photosensitizer-integrated electrospun cellulose acetate nanofibers for photodynamic antibacterial wound repair.|https://dx.doi.org/10.1039/d6ra07802h
+Multifunctional hyaluronic acid-based photothermal microneedle patch for enhanced healing of infected wounds.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155365
+An ibuprofen-loaded ionic-covalent dual-network hydrogel for enhanced wound healing.|https://dx.doi.org/10.1016/j.ijbiomac.2026.155367
+Curcumin@ZIF-8-Embedded Janus Electrospun Dressing with Unidirectional Exudate Transport and Blue Light Photodynamic Therapy for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c01741
+Deep eutectic solvent-regulated antibacterial conductive hydrogel biointerfaces with dynamic metal-phenolic networks for wearable electronics.|https://dx.doi.org/10.1039/d6sm00732e
+Development and Evaluation of Natural Hydrogel Nanocomposites for Skin Rejuvenation: Design and Optimization of Effective Formulations.|https://dx.doi.org/10.1111/jocd.70933

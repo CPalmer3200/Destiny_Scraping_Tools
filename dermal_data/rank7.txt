@@ -6,3 +6,4 @@ Hyperglycemia promotes maladaptive Dectin-1 signaling and impairs skin antifunga
 CD11c+ dermal dendritic cells are abundant HIV target cells in the foreskin and are increased in men with HIV-associated penile anaerobes.|https://dx.doi.org/10.1016/j.celrep.2026.118330
 Disseminated Cutaneous Tophaceous Gout in a Man With Advanced HIV Disease.|https://dx.doi.org/10.7759/cureus.117979
 In vitro and ex vivo Cutaneous Bioavailability and Biotransformation of Silymarin and Its Constituents.|https://dx.doi.org/10.1159/000550859
+Alginate-whey protein/chitosan microencapsulation of Lactobacillus casei ZGP-Lca.25 enhances viability and modulates apoptosis in colorectal cancer cells.|https://dx.doi.org/10.1186/s12885-026-16834-1

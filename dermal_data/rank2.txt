@@ -33,3 +33,4 @@ Emerging Multimodal AIE Theranostics with Key Diagnostic and Therapeutic Roles: 
 Selected ion flow tube mass spectrometry (SIFT-MS) for real time nitric oxide analyses to aid the development of nitric oxide release in multi modal wound dressings.|https://dx.doi.org/10.1016/j.aca.2026.346447
 Calcitonin gene-related peptide in diabetic wound repair: efferocytosis, inflammatory resolution, and host defense.|https://dx.doi.org/10.3389/fendo.2026.2017813
 Neuropeptides as neuroimmune modulators in chronic wound healing: mechanistic insights and emerging therapeutic strategies.|https://dx.doi.org/10.3389/fcell.2026.1924507
+Antibacterial activity and pH-dependent loss of efficacy of diffusible naphthoquinone-rich pigments secreted by marine filamentous fungus Fusarium sp. SRD3.|https://dx.doi.org/10.3389/ffunb.2026.1963064
