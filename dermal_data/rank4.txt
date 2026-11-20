@@ -38,3 +38,4 @@ An ibuprofen-loaded ionic-covalent dual-network hydrogel for enhanced wound heal
 Curcumin@ZIF-8-Embedded Janus Electrospun Dressing with Unidirectional Exudate Transport and Blue Light Photodynamic Therapy for Infected Wound Healing.|https://dx.doi.org/10.1021/acsabm.6c01741
 Deep eutectic solvent-regulated antibacterial conductive hydrogel biointerfaces with dynamic metal-phenolic networks for wearable electronics.|https://dx.doi.org/10.1039/d6sm00732e
 Development and Evaluation of Natural Hydrogel Nanocomposites for Skin Rejuvenation: Design and Optimization of Effective Formulations.|https://dx.doi.org/10.1111/jocd.70933
+Colloid-chemical design of electrospun micro-nano fibrous mats integrated with hydrogel microneedles for diabetic wound microenvironment modulation.|https://dx.doi.org/10.1016/j.colsurfb.2026.116345

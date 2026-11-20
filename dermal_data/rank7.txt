@@ -7,3 +7,4 @@ CD11c+ dermal dendritic cells are abundant HIV target cells in the foreskin and 
 Disseminated Cutaneous Tophaceous Gout in a Man With Advanced HIV Disease.|https://dx.doi.org/10.7759/cureus.117979
 In vitro and ex vivo Cutaneous Bioavailability and Biotransformation of Silymarin and Its Constituents.|https://dx.doi.org/10.1159/000550859
 Alginate-whey protein/chitosan microencapsulation of Lactobacillus casei ZGP-Lca.25 enhances viability and modulates apoptosis in colorectal cancer cells.|https://dx.doi.org/10.1186/s12885-026-16834-1
+Spatial transcriptomics reveals divergent interferon and tissue remodeling programs in immune checkpoint inhibitor-induced subacute cutaneous lupus erythematosus.|https://dx.doi.org/10.1136/jitc-2026-016637
