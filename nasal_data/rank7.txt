@@ -121,3 +121,8 @@ Copper as a central element critical to interkingdom interactions within a polym
 Postoperative Infections in Titanium Mesh Cranioplasty After Penetrating Brain Injury in a Conflict-Affected Setting: A Single-Institution Experience from Yemen.|https://dx.doi.org/10.1016/j.wneu.2026.125527
 Analysis of the biological characteristics and gene function of Lactobacillus delbrueckii subsp. sunkii.|https://dx.doi.org/10.1371/journal.pone.0363225
 Bacterial Etiology and Antimicrobial Susceptibility Patterns of Clinical Isolates Among Infants in Tigray, Ethiopia: A Cross-Sectional Hospital-Based Retrospective Study.|https://dx.doi.org/10.1002/hsr2.73545
+Risk factors for surgical site infection after internal fixation for thoracolumbar fractures.|https://dx.doi.org/10.1186/s12891-026-10220-5
+Rationalizing local antibiotic therapies for biofilm-associated ventricular assist device driveline infections: an in vitro simulation.|https://dx.doi.org/10.1093/jac/dkag393
+Frankincense-Myrrh Essential Oil Modulates Biofilm Formation and the Expression of Quorum Sensing Associated Genes in Multidrug-Resistant Pseudomonas aeruginosa and MRSA: Integrated Metabolomic, Network Pharmacology, and Wound-Healing Evidence.|https://dx.doi.org/10.1016/j.micpath.2026.108925
+Disruption of Staphylococcus aureus biofilm architecture by Myrica esculenta bark extract: in vitro and in silico perspectives.|https://dx.doi.org/10.1080/08927014.2026.2763370
+Green synthesis of carbon quantum dots (CQDs) from oak fruit: antimicrobial and anti-biofilm efficacy against ESKAPE pathogens in wound infections.|https://dx.doi.org/10.3205/dgkh000685

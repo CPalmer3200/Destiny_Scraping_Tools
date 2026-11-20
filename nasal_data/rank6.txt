@@ -18,3 +18,6 @@ Management of community-associated bacterial skin and soft tissue infections in 
 Pediatric Pleural Empyema: Disease Complexity, Contemporary Management, and Future Research Priorities.|https://dx.doi.org/10.3390/jcm15218205
 A Multi-Epitope Peptide Vaccine Confers Protection against Staphylococcus aureus in a Murine Peritonitis Model.|https://dx.doi.org/10.1016/j.micpath.2026.108929
 Multilamellar Nanovaccine for Enhanced Anti-Staphylococcus aureus Immunity and Bacterial Clearance.|https://dx.doi.org/10.34133/bmr.0433
+Epidemiology, risk factors, and antimicrobial susceptibility of nasopharyngeal bacterial colonization in children: A prospective study using culture and PCR.|https://dx.doi.org/10.1016/j.jmii.2026.11.005
+Clinical Outcomes, Complications, and Device Costs of Septoplasty Using a Modified Killian Incision With Three-Electrode Submucous Diathermy: A Retrospective Study of 800 Cases.|https://dx.doi.org/10.7759/cureus.118153
+Machine learning-driven prediction of antimicrobial resistance in Staphylococcus aureus using genomic and allelic signatures.|https://dx.doi.org/10.3389/fmicb.2026.1877073
