@@ -37,3 +37,5 @@ Antibacterial activity and pH-dependent loss of efficacy of diffusible naphthoqu
 Diagnostic Utility of Serial Radiography in Foot Osteomyelitis in People With Diabetes: Influence of Operator Experience on Test Performance.|https://dx.doi.org/10.1111/wrr.70240
 Diabetic foot disease.|https://dx.doi.org/10.1038/s41572-026-00752-4
 Human Wound and Its Burden: Updated 2027 Compendium.|https://dx.doi.org/10.1177/21621918261510002
+Incremental value of a cross-dataset ulcer-region prior for infection and ischaemia classification in diabetic foot ulcer image patches.|https://dx.doi.org/10.3389/fendo.2026.1944475
+Citrate-Based Hydrogels Promote Closure of Infected Diabetic Wounds.|https://dx.doi.org/10.64898/2026.11.06.764741
