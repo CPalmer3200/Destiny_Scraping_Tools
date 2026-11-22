@@ -39,3 +39,4 @@ Diabetic foot disease.|https://dx.doi.org/10.1038/s41572-026-00752-4
 Human Wound and Its Burden: Updated 2027 Compendium.|https://dx.doi.org/10.1177/21621918261510002
 Incremental value of a cross-dataset ulcer-region prior for infection and ischaemia classification in diabetic foot ulcer image patches.|https://dx.doi.org/10.3389/fendo.2026.1944475
 Citrate-Based Hydrogels Promote Closure of Infected Diabetic Wounds.|https://dx.doi.org/10.64898/2026.11.06.764741
+Diabetic foot infections with positive fungal cultures - does antifungal treatment affect outcomes?|https://dx.doi.org/10.1007/s10096-026-05722-y

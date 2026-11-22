@@ -42,3 +42,6 @@ Colloid-chemical design of electrospun micro-nano fibrous mats integrated with h
 Ajwain Essential Oil-loaded chitosan nanoparticle hydrogel with antibacterial activity: experimental evaluation and molecular docking analysis.|https://dx.doi.org/10.1186/s12906-026-05556-3
 A Zwitterionic Polymeric Quaternary Ammonium Microparticle (Z-pQAM) as a Candidate Wound Dressing with Simultaneous Procoagulant, Antimicrobial, and Wound-Healing Activities.|https://dx.doi.org/10.1021/acsami.6c14408
 Alginate hydrogel co-loaded with phellodendron bark extract and HucMSC-exosomes for combined antibacterial, anti-inflammatory, and pro-repair acne effects.|https://dx.doi.org/10.1371/journal.pone.0363272
+Hydrogel Formulation Containing PLGA Nanoparticles for Controlled Codelivery of Vitamin D and Chlorhexidine as a Promising Approach for Postdental Implant Applications.|https://dx.doi.org/10.1021/acsomega.6c00089
+MXene/berberine-loaded hydrogel microneedle patches for the regeneration of infected skin wounds.|https://dx.doi.org/10.1039/d6ra09325f
+In vivo comparison of V.A.C.® Granufoam Silver™ and V.A.C.® Granufoam™ loaded with CZ-01179, a first-in-class bis-dialkylnorspermidine-terphenyl antibiofilm agent, in a porcine excision model.|https://dx.doi.org/10.1002/btm2.70192
