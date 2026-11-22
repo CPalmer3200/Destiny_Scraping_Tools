@@ -131,3 +131,9 @@ Pre-establishing an IMRC-seeded living biointerface coordinates infection contro
 Phenotypic Methicillin Resistance, mecA Carriage, Virulence Gene Profiles, and Antimicrobial Susceptibility of Clinical Staphylococcus aureus Isolates in Sana'a, Yemen.|https://dx.doi.org/10.2147/IDR.S652232
 Dual-synergistic engineered MXene sonosensitizer with stabilized semiquinone radicals enables biofilm eradication and immunomodulatory bone regeneration in osteomyelitis.|https://dx.doi.org/10.1016/j.bioactmat.2026.11.001
 Defining the Functional Consequence of the Human Ocular Microbiome.|https://dx.doi.org/10.64898/2026.10.28.762462
+Risk of infective endocarditis in patients with orthopedic surgical site device-related infection and Staphylococcus aureus bacteremia.|https://dx.doi.org/10.5194/jbji-11-735-2026
+The unrelenting fungemia: Use of flucytosine combination therapy for disseminated Candidozyma auris infection with mitral valve endocarditis in a patient unable to undergo valve replacement.|https://dx.doi.org/10.1016/j.idcr.2026.e02836
+The use of microbiological indicators in the assessment of hand hygiene in an oncology inpatient setting.|https://dx.doi.org/10.1016/j.infpip.2026.100618
+Contamination of mobile phones, smartwatches, and wireless earbuds in hospitals: healthcare workers' practices and behaviours.|https://dx.doi.org/10.1016/j.infpip.2026.100621
+MRSA urethritis: A case report.|https://dx.doi.org/10.1016/j.idcr.2026.e02833
+Pathogen persistence, inflammation resolution, and bone repair in Staphylococcus aureus osteomyelitis.|https://dx.doi.org/10.3389/fimmu.2026.1986708
