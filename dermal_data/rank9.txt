@@ -5,3 +5,4 @@ Neonatal staphylococcal scalded skin syndrome: a case report.|https://dx.doi.org
 Negative Pressure Wound Therapy After Extensive Debridement of a Pediatric Plantar Puncture-Wound Infection: A Case Report.|https://dx.doi.org/10.12659/AJCR.954016
 Carbon availability in Staphylococcus aureus infection: cellular access, metabolic fate and antibiotic response.|https://dx.doi.org/10.1007/s11274-026-05408-9
 Nasal colonization and antimicrobial susceptibility profile of Staphylococcus aureus among healthcare workers at selected health institutions in Bahir Dar, Northwest Ethiopia.|https://dx.doi.org/10.1186/s12879-026-14246-x
+Effects of afabicin desphosphono (Debio 1452) on gut microbiota and subsequent risk of simulated Clostridium difficile infection in an in vitro human gut model.|https://dx.doi.org/10.1093/jac/dkag359

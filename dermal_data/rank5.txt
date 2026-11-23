@@ -17,3 +17,6 @@ Oral Lactiplantibacillus plantarum accelerates nucleotide excision repair and su
 From Skin Commensals to Bloodstream Pathogens: In Vitro Virulence Traits and In Vivo Pathogenicity of Malassezia Isolates.|https://dx.doi.org/10.1111/myc.70239
 Harnessing the Antibacterial Potential of Star Fruit Extract against MRSA: Metabolic Profiling, Molecular Docking, and In Vitro Wound-Healing Effects.|https://dx.doi.org/10.1007/s11130-026-01586-x
 Clonality of Staphylococcus aureus prosthetic joint infections and implications for phage therapy applications.|https://dx.doi.org/10.1016/j.trsl.2026.11.004
+Malassezia and the Asian menopausal skin.|https://dx.doi.org/10.1038/s41522-026-01119-z
+Multi-omics analyses of facial skin in acne identify distinct microbial and metabolic features at lesional and non-lesional sites.|https://dx.doi.org/10.1038/s41522-026-01086-5
+Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction, Molecular Docking, and In Vitro Evaluation of Curcumin Against Escherichia coli Biofilm on Catheter Surfaces.|https://dx.doi.org/10.5620/eaht.2026022
