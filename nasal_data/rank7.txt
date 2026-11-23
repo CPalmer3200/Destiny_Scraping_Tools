@@ -137,3 +137,7 @@ The use of microbiological indicators in the assessment of hand hygiene in an on
 Contamination of mobile phones, smartwatches, and wireless earbuds in hospitals: healthcare workers' practices and behaviours.|https://dx.doi.org/10.1016/j.infpip.2026.100621
 MRSA urethritis: A case report.|https://dx.doi.org/10.1016/j.idcr.2026.e02833
 Pathogen persistence, inflammation resolution, and bone repair in Staphylococcus aureus osteomyelitis.|https://dx.doi.org/10.3389/fimmu.2026.1986708
+Multifunctional lysozyme/Zn(3)(PO(4))(2) hybrid nanoflowers: integrating pH-triggered Zn(2+) release and peroxidase-like activity for multidrug-resistant pathogen inactivation.|https://dx.doi.org/10.1039/d6tb02075e
+Very Early-Onset Prosthetic Valve Endocarditis Following Transcatheter Aortic Valve Implantation Complicated by an Aorto-Left Atrial Fistula and Aortic Root Pseudoaneurysm.|https://dx.doi.org/10.7759/cureus.118467
+Antibiotic prescriptions in children with community-acquired empyema: an Italian multicentric study.|https://dx.doi.org/10.1007/s00431-026-07601-2
+International Nosocomial Infection Control Consortium (INICC) report of healthcare-associated infections, data summary of 44 countries for 2017-2022, Adult and Pediatric Units, Device-associated Module.|https://dx.doi.org/10.1016/j.ajic.2026.11.004
