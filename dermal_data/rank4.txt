@@ -45,3 +45,7 @@ Alginate hydrogel co-loaded with phellodendron bark extract and HucMSC-exosomes 
 Hydrogel Formulation Containing PLGA Nanoparticles for Controlled Codelivery of Vitamin D and Chlorhexidine as a Promising Approach for Postdental Implant Applications.|https://dx.doi.org/10.1021/acsomega.6c00089
 MXene/berberine-loaded hydrogel microneedle patches for the regeneration of infected skin wounds.|https://dx.doi.org/10.1039/d6ra09325f
 In vivo comparison of V.A.C.® Granufoam Silver™ and V.A.C.® Granufoam™ loaded with CZ-01179, a first-in-class bis-dialkylnorspermidine-terphenyl antibiofilm agent, in a porcine excision model.|https://dx.doi.org/10.1002/btm2.70192
+A visible light-responsive silver-based antibacterial hydrogel for treating pressure ulcer wounds.|https://dx.doi.org/10.1039/d6bm01298a
+Function-integrated injectable poly(methyl methacrylate) bone cement engineered with silver-templated mesoporous calcium-silicate nanoparticles via a chitosan-glycerophosphate hydrogel.|https://dx.doi.org/10.1039/d6ra08568g
+A dynamically coordinated bioactive MOF-hydrogel system for ternary microenvironment reprogramming in MRSA-infected diabetic wounds.|https://dx.doi.org/10.1186/s12951-026-04919-9
+A modular dual-network hydrogel integrating biochemical and physical functions for infected wound repair.|https://dx.doi.org/10.1039/d6tb02135b
