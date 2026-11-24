@@ -21,3 +21,4 @@ Multilamellar Nanovaccine for Enhanced Anti-Staphylococcus aureus Immunity and B
 Epidemiology, risk factors, and antimicrobial susceptibility of nasopharyngeal bacterial colonization in children: A prospective study using culture and PCR.|https://dx.doi.org/10.1016/j.jmii.2026.11.005
 Clinical Outcomes, Complications, and Device Costs of Septoplasty Using a Modified Killian Incision With Three-Electrode Submucous Diathermy: A Retrospective Study of 800 Cases.|https://dx.doi.org/10.7759/cureus.118153
 Machine learning-driven prediction of antimicrobial resistance in Staphylococcus aureus using genomic and allelic signatures.|https://dx.doi.org/10.3389/fmicb.2026.1877073
+Molecular, histopathological, and biomechanical evaluation of cutaneous wound healing following topical application of xenogenic leukocyte- and platelet-rich plasma (L-PRP) in a rat excisional model.|https://dx.doi.org/10.1016/j.injury.2026.113805

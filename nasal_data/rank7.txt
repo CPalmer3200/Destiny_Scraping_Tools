@@ -141,3 +141,12 @@ Multifunctional lysozyme/Zn(3)(PO(4))(2) hybrid nanoflowers: integrating pH-trig
 Very Early-Onset Prosthetic Valve Endocarditis Following Transcatheter Aortic Valve Implantation Complicated by an Aorto-Left Atrial Fistula and Aortic Root Pseudoaneurysm.|https://dx.doi.org/10.7759/cureus.118467
 Antibiotic prescriptions in children with community-acquired empyema: an Italian multicentric study.|https://dx.doi.org/10.1007/s00431-026-07601-2
 International Nosocomial Infection Control Consortium (INICC) report of healthcare-associated infections, data summary of 44 countries for 2017-2022, Adult and Pediatric Units, Device-associated Module.|https://dx.doi.org/10.1016/j.ajic.2026.11.004
+Sheep model of periprosthetic joint infection induced by low-dose Staphylococcus aureus in cancellous bone : a platform for translational research.|https://dx.doi.org/10.1302/2046-3758.1511.BJR-2025-0666.R2
+Function-integrated injectable poly(methyl methacrylate) bone cement engineered with silver-templated mesoporous calcium-silicate nanoparticles via a chitosan-glycerophosphate hydrogel.|https://dx.doi.org/10.1039/d6ra08568g
+Switching to Contezolid as Oral Step-Down Therapy in Methicillin-Resistant Staphylococcus aureus Infective Arthritis After Suspected Linezolid-Induced Thrombocytopenia: A Case Report and Therapeutic Challenge from Hebei, China.|https://dx.doi.org/10.2147/IDR.S650501
+A dynamically coordinated bioactive MOF-hydrogel system for ternary microenvironment reprogramming in MRSA-infected diabetic wounds.|https://dx.doi.org/10.1186/s12951-026-04919-9
+Interfacial engineering of disulfide-functionalized graphene oxide/epoxy nanocomposite coatings for corrosion protection, antibacterial activity, and reduced algal surface coverage.|https://dx.doi.org/10.1016/j.jcis.2026.142048
+A halogenated benzophenone exhibits potent anti - acne activity through antibacterial and preliminary anti-inflammatory activity: Experimental and molecular docking evidence.|https://dx.doi.org/10.1016/j.bioorg.2026.110780
+Overview of surgical treatment of sternoclavicular joint infections: A single institution experience.|https://dx.doi.org/10.1016/j.surg.2026.110767
+Quality improvement program reduces MRSA infections in hospitalized patients.|https://dx.doi.org/10.1097/AJN.0000000000000420b
+Safety Evaluation and Stress Tolerance of the Evolved Probiotic Yeast Saccharomyces boulardii SBPY3_EV for Functional Food Applications.|https://dx.doi.org/10.1093/femsyr/foag063
