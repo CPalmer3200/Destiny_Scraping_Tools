@@ -42,3 +42,6 @@ Citrate-Based Hydrogels Promote Closure of Infected Diabetic Wounds.|https://dx.
 Diabetic foot infections with positive fungal cultures - does antifungal treatment affect outcomes?|https://dx.doi.org/10.1007/s10096-026-05722-y
 Trained Innate Immunity in Diabetes-Related Foot Ulcer Chronicity: Hematopoietic Memory and Failure of Inflammation Resolution.|https://dx.doi.org/10.1177/15347346261511372
 Vitamin D deficiency and systemic inflammation indices in diabetic foot infection: associations with infection severity and length of hospital stay.|https://dx.doi.org/10.1186/s12902-026-02450-4
+Biomarkers in Diabetic Foot Disease: Molecular Pathophysiology and Clinical Diagnostic Insights.|https://dx.doi.org/10.3390/diseases14110416
+Degenerative Osteoarthropathy With Dynamic Genu Valgum Following Osteomyelitis and Septic Arthritis of the Left Knee as a Sequela of a Wagner Grade 3 Diabetic and Charcot Neuroarthropathic Foot: A Retrospective Pathogenetic Case Report.|https://dx.doi.org/10.7759/cureus.118551
+Photodynamic Therapy for Anti-infection in Diabetic Foot Ulcers: A Review of Clinical Evidence and Practical Challenges.|https://dx.doi.org/10.1016/j.pdpdt.2026.105733

@@ -49,3 +49,5 @@ A visible light-responsive silver-based antibacterial hydrogel for treating pres
 Function-integrated injectable poly(methyl methacrylate) bone cement engineered with silver-templated mesoporous calcium-silicate nanoparticles via a chitosan-glycerophosphate hydrogel.|https://dx.doi.org/10.1039/d6ra08568g
 A dynamically coordinated bioactive MOF-hydrogel system for ternary microenvironment reprogramming in MRSA-infected diabetic wounds.|https://dx.doi.org/10.1186/s12951-026-04919-9
 A modular dual-network hydrogel integrating biochemical and physical functions for infected wound repair.|https://dx.doi.org/10.1039/d6tb02135b
+Biomimetic Composite Hydrogel Laden with Ginsenoside Rh1 Facilitates Perianal Ulcer Healing by Regulating Anti-Inflammatory and Antioxidant Responses.|https://dx.doi.org/10.3390/biomimetics11110770
+Targeting the pillars of atopic dermatitis: from skin barrier dysfunction to nanocarrier-based strategies for dermal delivery: preclinical evidence and future clinical prospects.|https://dx.doi.org/10.1016/j.ijpharm.2026.127710

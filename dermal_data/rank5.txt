@@ -21,3 +21,7 @@ Malassezia and the Asian menopausal skin.|https://dx.doi.org/10.1038/s41522-026-
 Multi-omics analyses of facial skin in acne identify distinct microbial and metabolic features at lesional and non-lesional sites.|https://dx.doi.org/10.1038/s41522-026-01086-5
 Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction, Molecular Docking, and In Vitro Evaluation of Curcumin Against Escherichia coli Biofilm on Catheter Surfaces.|https://dx.doi.org/10.5620/eaht.2026022
 Worse Than Just the Sum of Its Parts: Polymicrobial Infection Demonstrates Synergistic Biofilm Formation and Bone Loss: A Murine Model of Periprosthetic Joint Infection.|https://dx.doi.org/10.2106/JBJS.25.00799
+Modeling skin cancer in vitro: From 2-dimensional monolayers to sophisticated 3-dimensional organotypic models.|https://dx.doi.org/10.1016/j.jid.2026.10.006
+Gold Nanoclusters with Wavelike Chiral Lattices Interact with Outer Membrane Protein BamA to Kill Gram-Negative Bacteria through the Screw-in Effect.|https://dx.doi.org/10.1021/acs.nanolett.6c04485
+Resveratrol-based nanoparticle-integrated microneedles for antibacterial and anti-inflammatory photothermal wound therapy.|https://dx.doi.org/10.1016/j.bioadv.2026.215315
+Design, synthesis, and biological evaluation of novel p-aminobenzoic acid derivatives as multifunctional antimicrobial and antioxidant agents with wound healing potential: structure activity relationship, mechanistic studies, and computational target validation.|https://dx.doi.org/10.1016/j.bioorg.2026.110747

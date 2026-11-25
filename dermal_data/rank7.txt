@@ -8,3 +8,5 @@ Disseminated Cutaneous Tophaceous Gout in a Man With Advanced HIV Disease.|https
 In vitro and ex vivo Cutaneous Bioavailability and Biotransformation of Silymarin and Its Constituents.|https://dx.doi.org/10.1159/000550859
 Alginate-whey protein/chitosan microencapsulation of Lactobacillus casei ZGP-Lca.25 enhances viability and modulates apoptosis in colorectal cancer cells.|https://dx.doi.org/10.1186/s12885-026-16834-1
 Spatial transcriptomics reveals divergent interferon and tissue remodeling programs in immune checkpoint inhibitor-induced subacute cutaneous lupus erythematosus.|https://dx.doi.org/10.1136/jitc-2026-016637
+Safety, Bioactivity, and Application Potential of Chlorella vulgaris and Tetradesmus obliquus Hydrolysates.|https://dx.doi.org/10.3390/md24110409
+Plant-Derived Bioactive Compounds in Skin Cell Biology: Mechanisms of Barrier Repair, Photoaging Protection, and Microbiome Modulation.|https://dx.doi.org/10.3390/cells15222065
