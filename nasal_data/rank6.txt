@@ -1,2 +1,4 @@
 Epitope-Based Immunization Elicits High-Affinity Antibody Responses to the Immunologically Subdominant D3 Epitope of Staphylococcus aureus Coproporphyrinogen III Oxidase.|https://dx.doi.org/10.3390/vaccines14110990
 Preparation and Evaluation of a Combined Inactivated Vaccine Against Corynebacterium pseudotuberculosis, Trueperella pyogenes, and Staphylococcus aureus.|https://dx.doi.org/10.3390/vaccines14110930
+Four Decades of MRSA in Serbia: Clonal Persistence, Replacement, Diversification and Antimicrobial Resistance, 1975-2019.|https://dx.doi.org/10.3390/antibiotics15111121
+Hybrid long-read sequencing reveals genomic homogeneity, blaZ copy-number variation, and phenotypic adaptation of the emerging Asian ST188 MSSA lineage from pediatric gut and vaginal colonization sites, Southern China.|https://dx.doi.org/10.1186/s12866-026-05579-3

@@ -1,0 +1,5 @@
+Integrating Phenotypic Testing, Targeted PCR and Long-Read Genomics in Staphylococcus aureus: Defining the Scope of Genotype-Phenotype Concordance.|https://dx.doi.org/10.3390/microorganisms14112436
+Antibacterial Activity and Mode of Action of C4-AII, a Novel Peptide Derived from Human Complement C4A Protein.|https://dx.doi.org/10.3390/antibiotics15111139
+Dual Antimicrobial and Immunomodulatory Activities of a Bioengineered Reactive Oxygen Species Releasing Gel Against Multidrug-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/biom16111564
+Molecular Diagnostic Surveillance, Antimicrobial Resistance, and Comorbidity Profiles in Major WHO-Critical-Priority-List Pathogens in a Saudi Tertiary-Care Hospital.|https://dx.doi.org/10.3390/diagnostics16223778
+Surveillance of selected infectious agents in captive felids from Polish zoological gardens - preliminary study.|https://dx.doi.org/10.1007/s11259-026-11650-1

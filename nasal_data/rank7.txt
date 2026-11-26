@@ -1,2 +1,11 @@
 Colonization and contamination by vancomycin-resistant Enterococcus faecium and faecalis in community living centers in the US Great Lakes Region: impact of local facility and methicillin-resistant Staphylococcus aureus.|https://dx.doi.org/10.1186/s13756-026-01811-x
 Bacterial Causes and Antibiotic Susceptibility of Community-Acquired Bloodstream Infections in Children Aged 2 and Younger at a Tertiary Hospital in Ndola, Zambia.|https://dx.doi.org/10.4269/ajtmh.25-0336
+Mapping the Spatial Heterogeneity of the Immune Microenvironment in Recurrent Respiratory Papillomatosis.|https://dx.doi.org/10.1002/eji.70329
+Synthesis and Biological Evaluation of a Bisphosphonate-Tazobactam Conjugate for Bone-Targeted β-Lactamase Inhibition.|https://dx.doi.org/10.3390/pharmaceutics18111432
+Crowding Predicts Airborne Bacterial Load and Resistant Staphylococci Across Hospital Zones.|https://dx.doi.org/10.3390/microorganisms14112647
+Development of an On-Site Rapid Detection Method for Porcine Pseudorabies Virus Using gD Protein-Based Monoclonal Antibody and Red Latex Microsphere Immunochromatographic Strip.|https://dx.doi.org/10.3390/microorganisms14112531
+The Gut-Thyroid Axis in Hashimoto's Disease: Evidence of Reduced Short Chain Fatty Acid Producers and Enhanced Virulence Pathways.|https://dx.doi.org/10.3390/microorganisms14112475
+Polymicrobial Infections in Orthopedic Surgery: A Marker of Clinical Complexity, a Contributor to Poor Outcomes, or Both?|https://dx.doi.org/10.3390/antibiotics15111106
+More Habit than Hard Evidence? Rifampin in Orthopedic Implant Infections: A Practical Guide for Clinicians.|https://dx.doi.org/10.3390/antibiotics15111098
+Oritavancin as a Therapeutic Regimen for Cardiac Implantable Electronic Device Infections with Multidrug-Resistant Gram-Positive Cocci: Clinical Case Reports from the ORI-4-CIEDi Study.|https://dx.doi.org/10.3390/antibiotics15111097
+Environmental ESKAPE Organisms and Other Environmental Equine-Specific Indicator Pathogens-Are They Relevant in Equine Nosocomial Wound Infections?|https://dx.doi.org/10.3390/antibiotics15111091
