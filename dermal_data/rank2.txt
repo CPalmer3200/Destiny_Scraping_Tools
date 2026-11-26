@@ -45,3 +45,7 @@ Vitamin D deficiency and systemic inflammation indices in diabetic foot infectio
 Biomarkers in Diabetic Foot Disease: Molecular Pathophysiology and Clinical Diagnostic Insights.|https://dx.doi.org/10.3390/diseases14110416
 Degenerative Osteoarthropathy With Dynamic Genu Valgum Following Osteomyelitis and Septic Arthritis of the Left Knee as a Sequela of a Wagner Grade 3 Diabetic and Charcot Neuroarthropathic Foot: A Retrospective Pathogenetic Case Report.|https://dx.doi.org/10.7759/cureus.118551
 Photodynamic Therapy for Anti-infection in Diabetic Foot Ulcers: A Review of Clinical Evidence and Practical Challenges.|https://dx.doi.org/10.1016/j.pdpdt.2026.105733
+An efficient hypoxia-tolerant photosensitizer targeting arginine metabolism for combating drug-resistant Staphylococcus aureus in diabetic foot infection.|https://dx.doi.org/10.1039/d6na00474a
+Hydrogel-Based Microneedles for Diabetic Wound Repair: Translational Requirements for Diabetic Foot Ulcer Therapy.|https://dx.doi.org/10.3390/pharmaceutics18111355
+RegenaCare: The Smart Bandage from Lab to Skin and Its Applications.|https://dx.doi.org/10.3390/ijms272210327
+Bone and Joint Infection Referral Systems in Europe: A Survey of Organization, Centralization, and Multidisciplinary Care.|https://dx.doi.org/10.3390/healthcare14223882

@@ -3,3 +3,4 @@ Biogenic silver nanoparticle-loaded injectable thermosensitive chitosan hydrogel
 Incyclinide exhibits potent antibacterial and anti-biofilm activity against Staphylococcus aureus.|https://dx.doi.org/10.1128/spectrum.02033-26
 Green synthesis of carbon quantum dots (CQDs) from oak fruit: antimicrobial and anti-biofilm efficacy against ESKAPE pathogens in wound infections.|https://dx.doi.org/10.3205/dgkh000685
 In Vivo Evaluation of the Efficacy of Adipose-Derived Mesenchymal Stem Cell Secretome in MRSA-Infected Burn Wounds.|https://dx.doi.org/10.1155/sci/5242909
+Synergistic and Additive Antibacterial Activity of Biogenic Silver Nanoparticles Combined with Scaptotrigona bipunctata Honey Against Reference and Multidrug-Resistant Bacterial Pathogens.|https://dx.doi.org/10.3390/antibiotics15111054

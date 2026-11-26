@@ -25,3 +25,12 @@ Modeling skin cancer in vitro: From 2-dimensional monolayers to sophisticated 3-
 Gold Nanoclusters with Wavelike Chiral Lattices Interact with Outer Membrane Protein BamA to Kill Gram-Negative Bacteria through the Screw-in Effect.|https://dx.doi.org/10.1021/acs.nanolett.6c04485
 Resveratrol-based nanoparticle-integrated microneedles for antibacterial and anti-inflammatory photothermal wound therapy.|https://dx.doi.org/10.1016/j.bioadv.2026.215315
 Design, synthesis, and biological evaluation of novel p-aminobenzoic acid derivatives as multifunctional antimicrobial and antioxidant agents with wound healing potential: structure activity relationship, mechanistic studies, and computational target validation.|https://dx.doi.org/10.1016/j.bioorg.2026.110747
+Microbial metabolites at the skin interface: mechanisms, biomarkers and translational strategies.|https://dx.doi.org/10.1080/17460913.2026.2767503
+Propolis, Quorum Sensing, and Biofilms in Canine Skin and Ear Infections: Evidence and Research Priorities.|https://dx.doi.org/10.3390/vetsci13111260
+A Self-Reinforcing Cu-Based Dual-Network Composite Hydrogel for Effective Bleeding Wound Management.|https://dx.doi.org/10.3390/pharmaceutics18111488
+Synergistic Killing of Staphylococcus aureus by Mefloquine and 18β-Glycyrrhetinic Acid.|https://dx.doi.org/10.3390/microorganisms14112677
+Diabetes Mellitus and Infection Susceptibility: An Immunometabolic Interface.|https://dx.doi.org/10.3390/microorganisms14112530
+Targeting Fungal Skin Infections with Lippia alba Essential Oil.|https://dx.doi.org/10.3390/antibiotics15111056
+Culturable Microbial Dynamics and SEM Localization of Bacterial-like Structures at the Skin-Scale Interface of European Sea Bass and Gilthead Sea Bream.|https://dx.doi.org/10.3390/foods15224071
+Corynebacterium striatum bacteremia associated with urinary tract obstruction and urological devices: A Case Report and Literature Review.|https://dx.doi.org/10.1016/j.jiac.2026.103133
+Discovery of novel triazole derivatives with potent and selective antifungal activity against Candida glabrata.|https://dx.doi.org/10.1016/j.ejmech.2026.119563

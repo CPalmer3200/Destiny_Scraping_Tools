@@ -51,3 +51,13 @@ A dynamically coordinated bioactive MOF-hydrogel system for ternary microenviron
 A modular dual-network hydrogel integrating biochemical and physical functions for infected wound repair.|https://dx.doi.org/10.1039/d6tb02135b
 Biomimetic Composite Hydrogel Laden with Ginsenoside Rh1 Facilitates Perianal Ulcer Healing by Regulating Anti-Inflammatory and Antioxidant Responses.|https://dx.doi.org/10.3390/biomimetics11110770
 Targeting the pillars of atopic dermatitis: from skin barrier dysfunction to nanocarrier-based strategies for dermal delivery: preclinical evidence and future clinical prospects.|https://dx.doi.org/10.1016/j.ijpharm.2026.127710
+Preparation and evaluation of chitosan-pectin hydrogel films incorporated with Aloe vera -mediated ZnO (AV-ZnO) for diabetic wound healing.|https://dx.doi.org/10.36721/PJPS/2026.40.16113.1
+Engineering Multifunctional TBC/CHS-Ti(3)C(2)T(x) MXene Nanocomposites for Photothermal-Assisted Antibacterial Wound Therapy.|https://dx.doi.org/10.3390/polym18222908
+Hybrid Chitosan/PVA Hydrogels Incorporating Silver Nanoparticles as Antibacterial Polymeric Dressings.|https://dx.doi.org/10.3390/gels12111043
+Cellulose-Based Hydrogel from Blumea balsamifera (L.) DC. Residue as a Drug Delivery Platform for Infected Wound Healing.|https://dx.doi.org/10.3390/gels12111006
+A Versatile Dynamic Hydrogel Integrating pH-Responsive Visual Detection and Antimicrobial Functions for Infected Wound Management.|https://dx.doi.org/10.3390/gels12110999
+Transparent, Anti-Drying, Stretchable and Antibacterial Gelatin/Glycerol/NaCl Hydrogel for Strawberry Preservation.|https://dx.doi.org/10.3390/gels12110992
+Preparation and Antibacterial Hemostatic Properties of a Photothermal-Responsive Hydrogel Loaded with Natural Quercetin.|https://dx.doi.org/10.3390/gels12110950
+Catechol-functionalized chitosan nanofiber-coated ZIF-8 composite gauze for rapid hemostasis and antibacterial activity.|https://dx.doi.org/10.1016/j.carbpol.2026.126017
+Cellulose-based fluorescent hydrogel: A multifunctional material integrating Fe(3+) selective detection and adsorption, information encryption and flexible sensing.|https://dx.doi.org/10.1016/j.carbpol.2026.125972
+Wet-adhesive hyaluronic acid-based composite hydrogels with immunomodulatory and broad-spectrum antibacterial activities for accelerated seawater-immersed wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.215325
