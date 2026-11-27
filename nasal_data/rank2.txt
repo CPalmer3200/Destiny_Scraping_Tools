@@ -3,3 +3,4 @@ Antibacterial Activity and Mode of Action of C4-AII, a Novel Peptide Derived fro
 Dual Antimicrobial and Immunomodulatory Activities of a Bioengineered Reactive Oxygen Species Releasing Gel Against Multidrug-Resistant Staphylococcus aureus.|https://dx.doi.org/10.3390/biom16111564
 Molecular Diagnostic Surveillance, Antimicrobial Resistance, and Comorbidity Profiles in Major WHO-Critical-Priority-List Pathogens in a Saudi Tertiary-Care Hospital.|https://dx.doi.org/10.3390/diagnostics16223778
 Surveillance of selected infectious agents in captive felids from Polish zoological gardens - preliminary study.|https://dx.doi.org/10.1007/s11259-026-11650-1
+Upper respiratory microbiome and host immune signatures associated with SARS-CoV-2 susceptibility and illness in a human challenge model.|https://dx.doi.org/10.64898/2026.11.16.26368138
