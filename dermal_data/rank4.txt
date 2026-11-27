@@ -61,3 +61,5 @@ Preparation and Antibacterial Hemostatic Properties of a Photothermal-Responsive
 Catechol-functionalized chitosan nanofiber-coated ZIF-8 composite gauze for rapid hemostasis and antibacterial activity.|https://dx.doi.org/10.1016/j.carbpol.2026.126017
 Cellulose-based fluorescent hydrogel: A multifunctional material integrating Fe(3+) selective detection and adsorption, information encryption and flexible sensing.|https://dx.doi.org/10.1016/j.carbpol.2026.125972
 Wet-adhesive hyaluronic acid-based composite hydrogels with immunomodulatory and broad-spectrum antibacterial activities for accelerated seawater-immersed wound healing.|https://dx.doi.org/10.1016/j.bioadv.2026.215325
+Electrospun dual-functional ZnO and antibiotic-loaded polyesteramide nanofibers for enhanced antibacterial activity and acute wound healing.|https://dx.doi.org/10.1016/j.ijpharm.2026.127709
+Smart pH-Switchable Nanozyme-Hydrogel Platform with Phycocyanin-Stabilized Mn-Doped Prussian Blue for Synergistic Photothermal-Multienzyme Cascade Therapy of Infected Wounds.|https://dx.doi.org/10.1021/acsami.6c19672

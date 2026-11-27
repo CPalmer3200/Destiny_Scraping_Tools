@@ -49,3 +49,5 @@ An efficient hypoxia-tolerant photosensitizer targeting arginine metabolism for 
 Hydrogel-Based Microneedles for Diabetic Wound Repair: Translational Requirements for Diabetic Foot Ulcer Therapy.|https://dx.doi.org/10.3390/pharmaceutics18111355
 RegenaCare: The Smart Bandage from Lab to Skin and Its Applications.|https://dx.doi.org/10.3390/ijms272210327
 Bone and Joint Infection Referral Systems in Europe: A Survey of Organization, Centralization, and Multidisciplinary Care.|https://dx.doi.org/10.3390/healthcare14223882
+Multimodal Deep Feature Optimization and Hybrid Machine Learning for Diabetic Foot Ulcer Severity Classification.|https://dx.doi.org/10.3791/74486
+Clinical positioning and translational readiness of gel-based dressings for diabetic foot ulcers: a phenotype-oriented narrative review.|https://dx.doi.org/10.3389/fendo.2026.1982794
