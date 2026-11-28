@@ -34,3 +34,5 @@ Targeting Fungal Skin Infections with Lippia alba Essential Oil.|https://dx.doi.
 Culturable Microbial Dynamics and SEM Localization of Bacterial-like Structures at the Skin-Scale Interface of European Sea Bass and Gilthead Sea Bream.|https://dx.doi.org/10.3390/foods15224071
 Corynebacterium striatum bacteremia associated with urinary tract obstruction and urological devices: A Case Report and Literature Review.|https://dx.doi.org/10.1016/j.jiac.2026.103133
 Discovery of novel triazole derivatives with potent and selective antifungal activity against Candida glabrata.|https://dx.doi.org/10.1016/j.ejmech.2026.119563
+Multifunctional biogel-integrated wireless e-bandage for smartphone-controlled diabetic wound management.|https://dx.doi.org/10.1186/s12951-026-05032-7
+Late-onset implant infections in prosthetic breast reconstruction: A retrospective case series.|https://dx.doi.org/10.1016/j.bjps.2026.11.015
